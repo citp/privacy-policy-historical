@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425231612id_/http%3A//www.rawlingsgear.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210809id_/http%3A//www.rawlingsgear.com/policy.asp) for the most accurate reproduction.*
 
 # Customer Help, Ordering | RawlingsGear
 
@@ -27,7 +27,7 @@ Rawlings Gear collects general information as you browse our site to help us dia
 
 In addition, our site uses an order form for customers to request products. This order form allows us to obtain contact (email, address, and phone number) and payment information (credit card number). This information is used to confirm your order and respond to any questions you may have. Where required, we also share this information with certain intermediaries (UPS, USPS, Rawlings Sporting Goods Inc.) strictly to process and ship your order. We do not sell, rent, or loan customer information to any third parties. We do reserve the right to sell customer data in conjunction with a sale of the company or any of its assets. 
 
-Rawlings Gear allows customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only; we do not maintain payment information in our customer database. This optional feature is available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20110425231612id_/http%3A//customer/login.asp "go to edit cusotmer profile") page. 
+Rawlings Gear allows customers to maintain a Customer Profile to aid in the input of future orders. The Customer Profile contains contact information only; we do not maintain payment information in our customer database. This optional feature is available during the order process. You may change the information in your Customer Profile at any time by visiting the [Edit Customer Profile](https://web.archive.org/web/20111231210809id_/http%3A//customer/login.asp "go to edit cusotmer profile") page. 
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
