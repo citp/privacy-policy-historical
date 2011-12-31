@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socrata.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607015423id_/http%3A//www.socrata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrata.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214026id_/http%3A//www.socrata.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
