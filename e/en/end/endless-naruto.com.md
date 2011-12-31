@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endless-naruto.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610071400id_/http%3A//www.endless-naruto.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endless-naruto.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205402id_/http%3A//www.endless-naruto.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Greatest Naruto Anime & Manga Fansite!
 
@@ -24,4 +24,4 @@ Third Party websites may collect information from users of Endless-Naruto.Com', 
 **Website Policy Changes**  
 Endless-Naruto.Com' reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us.
 
-By continuing to access Endless-Naruto.Com' and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Endless-Naruto.Com', and are also in agreeance with our [Disclaimer](https://web.archive.org/web/20110610071400id_/http%3A//www.endless-naruto.com/Legal-Disclaimer.html) and [Terms of Use](https://web.archive.org/web/20110610071400id_/http%3A//www.endless-naruto.com/Terms-and-Conditions.html) . 
+By continuing to access Endless-Naruto.Com' and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Endless-Naruto.Com', and are also in agreeance with our [Disclaimer](https://web.archive.org/web/20111231205402id_/http%3A//www.endless-naruto.com/Legal-Disclaimer.html) and [Terms of Use](https://web.archive.org/web/20111231205402id_/http%3A//www.endless-naruto.com/Terms-and-Conditions.html) . 
