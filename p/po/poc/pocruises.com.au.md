@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126114319id_/http%3A//www.pocruises.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203044id_/http%3A//www.pocruises.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - P&O Cruises
 
@@ -10,7 +10,7 @@ These branches (collectively referred to as “we”, “us”, “our” or “
 
 We hereby set out a summary of how we manage your personal information. We believe that our policy not only complies with relevant legislation in Australia and New Zealand but also represents industry best practice.
 
-If you would like to view our Website Privacy Statement, please visit [Website Privacy ](https://web.archive.org/Pages/privacyWebsite.aspx)page.
+If you would like to view our Website Privacy Statement, please visit [Website Privacy](https://web.archive.org/Pages/privacyWebsite.aspx) page.
 
 #### Collection
 
@@ -61,9 +61,9 @@ We will not use any government or other agency’s identifier (such as your Medi
 
 Where lawful and practical, we will give you the option of not identifying yourself when dealing with us. For example, at the completion of your cruise we will request that you provide us with specific feedback on our cruise facilities on an anonymous basis.
 
-#### Transboarder Data Flows
+#### Transborder Data Flows
 
-Personal information concerning New Zealand passengers will be transferred to and from our Australian and New Zealand branches. We will only transfer your personal information to another foreign country with less privacy protection in specified circumstances. For example, the primary server for our reservations database, to which our staff have remote but secure access, is located in Los Angeles. This primary server is maintained by Princess Cruise Lines Limited (“Princess Cruises”), a company incorporated in the United States that is another wholly owned subsidiary of P&O Princess Cruises plc. Although the United States is yet to introduce privacy legislation, Princess Cruises are taking measures to ensure that they will meet the requirements of data protection legislation introduced in the United Kingdom. The UK legislation is generally considered to be even more stringent than its Australian or New Zealand counterparts.
+Personal information concerning New Zealand passengers will be transferred to and from our Australian and New Zealand branches. We will only transfer your personal information to another foreign country with less privacy protection in specified circumstances. For example, the primary server for our reservations database, to which our staff have remote but secure access, is located in Los Angeles. This primary server is maintained by Princess Cruise Lines Limited (“Princess Cruises”), a company incorporated in the United States that is another wholly owned subsidiary of Carnival plc. Although the United States is yet to introduce privacy legislation, Princess Cruises are taking measures to ensure that they will meet the requirements of data protection legislation introduced in the United Kingdom. The UK legislation is generally considered to be even more stringent than its Australian or New Zealand counterparts.
 
 #### Contact Our Privacy Officer
 
