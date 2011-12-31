@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retweet.it privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweet.it privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - reTweet.it
 
@@ -26,7 +26,7 @@ This policy may change or be updated at any time. Please be sure to check this p
 
 ## Please Login
 
-[Sign In With Twitter](https://twitter.com/oauth/authorize?oauth_token=SEsFTzLjdSiOI5V0ifyHqCeAgxl8wImtk90VHktM "Sign In With Twitter")
+[Sign In With Twitter](https://twitter.com/oauth/authorize?oauth_token=B22L7MX3WMSh79gitHHvyvjPLdQlFc57RuV9zG0TAc "Sign In With Twitter")
 
 Use your Twitter account to login. The first time you login to use this tool it automatically retweets a link.
 
@@ -34,22 +34,22 @@ Use your Twitter account to login. The first time you login to use this tool it 
 
 reTweet.it is both a free and paid service that makes getting retweets easy, allowing you to reach an exponential number of followers on Twitter.
 
-[Learn More](https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/about.php)
+[Learn More](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/about.php)
 
 ## Retweet Credits
 
-There are plently of ways to get credits. Learn how to earn free retweets or buy retweets in bulk.
+There are plenty of ways to get credits. Learn how to earn free retweets or buy retweets in bulk.
 
-[Learn More](https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/about.php#credits)
+[Learn More](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/about.php#credits)
 
 ## Buyers Special
 
-To reward out retweet credit buyers, we offer up-to 10 free credits when you purchase credits!
+To reward our retweet credit buyers, we offer up-to 10 free credits when you purchase credits!
 
-[Buy Now](https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/buy.php)
+[Buy Now](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/buy.php)
 
 ## Submit To reTweet.it
 
 Ready to get your message retweeted? Make a submission now so others can easily retweet it to their followers.
 
-[Make A Submission](https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/submit.php)
+[Make A Submission](https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/submit.php)
