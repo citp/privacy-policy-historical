@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501143327id_/http%3A//cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.co.th privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095357id_/http%3A//www.cbre.co.th/en/Privacy-Policy.asp) for the most accurate reproduction.*
 
 # CB Richard Ellis Thailand
 
 |  |   
 ---  
-[Home](https://web.archive.org/web/20110501143327id_/http%3A//cbre.co.th/en/index.asp) > [Privacy Policy](https://web.archive.org/web/20110501143327id_/http%3A//cbre.co.th/en/Privacy-Policy.asp)  
-|  |  | Property Search  
----  
-[](https://web.archive.org/web/20110501143327id_/http%3A//cbre.co.th/en/property-search.asp)  
-| 
+[Home](https://web.archive.org/web/20111231095357id_/http%3A//www.cbre.co.th/en/index.asp) > [Privacy Policy](https://web.archive.org/web/20111231095357id_/http%3A//www.cbre.co.th/en/Privacy-Policy.asp)  
+|  |  | 
 
 | Privacy Policy  
 ---  
@@ -16,7 +13,7 @@
 ---|---  
 This is the privacy policy (“Privacy Policy”), effective as of June 1, 2008, for the Web site available at [http://www.cbre.co.th](http://www.cbre.co.th/) made available by CB Richard Ellis (Thailand) Co., Ltd., the legal owner of the Site and its affiliated companies (“CB Richard Ellis (Thailand) Co., Ltd.”, “we”, “us” or “our”).This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site.Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20110501143327id_/http%3A//cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and forms part of, the Terms and Conditions located at [http://www.cbre.co.th](https://web.archive.org/web/20111231095357id_/http%3A//www.cbre.co.th/en/Disclaimer-Term-of-Use.asp), which govern your use of the Site in general.
 
 We recognize the importance of protecting your privacy and our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us, and to assist you in making informed decisions when using the Site.This Privacy Policy will be continuously assessed against new technologies, business practices and our clients’ needs. As we update and diversify our products and services, this Privacy Policy may evolve. Please check this page for updates periodically. We will try to post any changes to this Privacy Policy before they become effective. If we make any material changes to this Privacy Policy, we will notify you here, by email or by means of a notice on our Site’s home page.
 
@@ -87,9 +84,4 @@ Your election not to receive newsletters or promotional and marketing correspond
 Your Acceptance of this Privacy Policy:**  
 By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time so visitors are encouraged to review this Privacy Policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-© 2011 CB Richard Ellis (Thailand) Co., Ltd.   
-  
-|   
----  
-| Copyright © 2011 CB Richard Ellis. All Rights Reserved. | Part of the CB Richard Ellis Affiliate Network  
----|---
+© 2011 CB Richard Ellis (Thailand) Co., Ltd. 
