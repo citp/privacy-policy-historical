@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the invaluable.com privacy policy that was archived on 2010-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100506070436id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the invaluable.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231212640id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head>
 	
 	
-		<title>Invaluable: Online Live Auctions &amp; Auction Price Results</title>
+		<title>Bidder &amp; Subscriber Privacy Policy | Invaluable</title>	
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
@@ -12,7 +12,7 @@
 			<meta name="DESCRIPTION" content="Art, antiques, collectables: over £100 billion in auction prices; reference info. Find now at auction: over 500,000 artists &amp; over £100 billion in antiques &amp; collectables">
 			<meta name="KEYWORDS" content="">
 			
-	<script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		//<![CDATA[
 		window.onloads = new Array();
 		window.onload = function() { for( var i=0; i<window.onloads.length; i++ ) window.onloads[i](); }
@@ -20,11 +20,10 @@
 		function openWin( windowURL, windowName, windowFeatures ) { 
 			return window.open( windowURL, windowName, windowFeatures ) ; 
 		} 
-		function popupHelp(pID,pSeq)
+		function getCHP(tokenName)
 			{
-			return window.open('http://www.invaluable.com/artfact/viewContextualHelp.cfm?pageID=' + pID + '&pageSeq=' + pSeq, 'Help', 'width=620, height=475, left=10, top=10, scrollBars, resizable');
+			return window.open('http://www.invaluable.com/artfact/viewCH.cfm?tokenName=' + tokenName, 'Help', 'width=620, height=475, left=10, top=10, scrollBars, resizable');
 			}
-
 		
 		// Opener for demo
 		function openindex() {
@@ -39,7 +38,7 @@
 			<link rel="stylesheet" type="text/css" href="/styles/wwwinv.css?x=27a">
 		
 		<link rel="stylesheet" type="text/css" href="/styles/rdHome.css?x=8">
-		
+		<!--<link rel="stylesheet" type="text/css" href="/styles/rdHome.min.css?x=7" />-->
 		<!--[if gte IE 7]>
 			<link rel="stylesheet" type="text/css" href="/styles/ie7.css?x=6" />
 		<![endif]-->
@@ -49,11 +48,10 @@
 		<link rel="stylesheet" type="text/css" href="/styles/rdHome-inv.css">
 		<link rel="shortcut icon" href="/favicon_inv.ico" type="image/vnd.microsoft.icon">
 	
-	<script type="text/javascript" src="/lib/afjs/jquery-1.3.1.min.js"></script>
+	<script type="text/javascript" src="/lib/afjs/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript">var J = jQuery.noConflict();</script>
-	<script type="text/javascript" src="/lib/ifixpng.js"></script>
-	<script type="text/javascript" src="/lib/afjs/custom.pack.js"></script>
 
+	<script type="text/javascript" src="/lib/afjs/custom.js?x=1"></script>
 
 	
 	
@@ -71,113 +69,115 @@
 	
 </head>
 
-<body lang="EN-US" style="tab-interval:.5in">
-	
-	
-		
-	
+	<body id="inv" lang="EN-US" style="tab-interval:.5in">
 
-	
 <div id="container2">
 	<div id="container-inner" class="clearfix">
 		<!-- header -->
 			<div id="header">
-				<h1 id="logo"><a href="http://www.invaluable.com"><span>Invaluable: Online Live Auctions &amp; Auction Price Results</span></a></h1>
+				<h1 id="logo"><a href="http://www.invaluable.com"><span>Invaluable: UK antique, collectible &amp; estate live auctions</span></a></h1>
+				<a name="top"></a>
 				
-					<div id="banner-ad"></div>
+					<div id="banner-ad"><iframe src="http://www.invaluable.com/burst/headTop.cfm?adVersion=NLI" id="adframetop" width="728" height="90" scrolling="no" frameborder="0"></iframe></div>
 				
 			</div>
 		<!-- END header -->
-
-		<!-- Login Panels -->
+	
 		
-			<div id="loginWrapper">
-				<div id="loginPanel">
-					<div id="panelBackground"></div>
-					
-						<div id="registerBox" class="loginBG">
-							<div id="registerContent" class="contentBG">
-								<p class="notMember">Not a member?</p>
-								<a href="https://sec3.invaluable.com/services/register.cfm"><img src="/wwwImages/buttonRegisterNow.png" alt="Register Now"></a>
-								<p class="itsFree">It’s free!</p>
-							</div>
-						</div>
-						<div id="loginBox" class="loginBG">
-							<div id="loginContent" class="contentBG">
-								<p>Already a member?</p>
-								<form id="loginInfo" action="https://sec3.invaluable.com/signin/signIn.a.cfm" method="post">
-									<div class="inputWrapper username">
+				<div id="loginWrapper">
+					<div id="loginPanel">
+						<a href="javascript:void(0);" class="nowhere panel_button closer">X</a>
+						
+							
+								<form id="loginInfo" action="https://secure.invaluable.com/signin/signIn.a.cfm" method="post">
+									<fieldset>
+										<label>Username:</label>
 										<input type="text" id="mbrUName" class="usernameOld" name="mbrUName" value="">
-									</div>
-									<div class="inputWrapper password">
+									</fieldset>
+									<fieldset>
+										<label>Password:</label>
 										<input type="password" id="password" class="passwordOld" name="password" value="">
-									</div>
+									</fieldset>
 									<a href="javascript:void(0);" alt="Forgot Password" id="forgotpassword" class="button left2 nowhere">Forgot Password</a>
-									<input type="submit" value="Login" id="loginbtn" class="button right2">
+									<input type="submit" value="Login" id="loginbtn" class="submit right2">
 									<input type="hidden" name="goto" value="/agreements/privacy.cfm">
 									<input type="hidden" name="gotoSec" value="false">
 									<input type="hidden" name="showDB" value="true">
 								</form>
-							</div>
-							<div id="forgotpasswordContent" class="contentBG">
-								<p>Forgot Password?<span><br>(Enter your email below.)</span></p>
-								<form id="forgotPassword" action="https://sec3.invaluable.com/signin/mailpwd.cfm" method="post">
-									<div class="inputWrapper email">
-										<input type="text" class="emailOld" name="mbrEmail" id="email" value="">
-									</div>
-									<input type="submit" name="sendForgotPwd" id="sendForgotPwd" value="Send">
-									<a href="javascript:void(0);" id="cancelForgotPwd" class="button nowhere">Cancel</a>
-								</form>								
-							</div>
-						</div>
-					
-					<div class="panel_button" style="display: visible;">
-						<a href="javascript:void(0);" class="nowhere"><img src="/wwwImages/close.png" alt="Close Panel"> Close</a>
+								<div id="forgotpasswordContent">
+									<p>Forgot Password?<span><br>(Enter your email below.)</span></p>
+									<br>
+									<form id="forgotPassword" action="https://secure.invaluable.com/signin/mailpwd.cfm" method="post">	
+										<fieldset>
+											<input type="text" class="emailOld" name="mbrEmail" id="email" value="">
+										</fieldset>
+										<a href="javascript:void(0);" id="cancelForgotPwd" class="button nowhere">Cancel</a>
+										<input type="submit" name="sendForgotPwd" id="sendForgotPwd" value="Send" class="submit right2">	
+									</form>								
+								</div>
+						
+						<h4 class="clear"><a href="https://secure.invaluable.com/services/userInfo.cfm?type=register">Not a member?<br>Create your account today!</a></h4>
 					</div>
 				</div>
-			</div>
-			<!-- End of Login Panels -->
-		
-		
-		<!-- Navigation Menu ==================================================================-->
-			<div id="navContainer">
-				<ul id="navigation">
-					<li><a href="http://www.invaluable.com">Home</a></li>
-					<li><a href="http://www.invaluable.com/features/upcoming.cfm">Auctions</a></li>
-					<li><a href="http://www.invaluable.com/features/selectArtist.cfm">Artists</a></li>
-					
-							<li id="panel_button"><a href="#" class="login">Login</a></li>
-						
-							<li><a href="https://sec3.invaluable.com/services/register.cfm">Join <img src="/wwwImages/sticker-free.png" alt="Join Free!" class="freesticker"></a></li>
-						
-						<!-- <li id="joinsticker"><a href="https://sec3.invaluable.com/services/register.cfm"><img src="/wwwImages/sticker-joinfree.png" alt="Join Free!" /></a></li> -->
-					
-	
-	
-	
-					<li id="searchContainer">
-						<form name="searchFormHead" action="http://www.invaluable.com/catalog/searchLots.cfm" method="post">
-							<input type="text" name="withAll" id="searchBox" value="Search Forthcoming Auctions">
-							<input type="image" name="userSubmit" src="/wwwImages/searchButton.png" alt="Click to Search" id="searchButton">
-							<input type="hidden" name="resetPage" value="1">
-							<input type="hidden" name="srchScope" value="u">
-							<input type="hidden" name="alFirst" value="1">
-							<div id="advancedSearch"><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=p">Advanced Auction Search</a></div>
-						</form>
-					</li>
-				</ul>
-			</div>
-		<!-- End of Navigation Menu -->
-		
-		
-			<div id="rightcol">
-				<a href="javascript:openindex();" id="learnToBid"><img src="/wwwImages/btnLearnBid-Invaluable.png" alt="Learn how to bid"></a>
 				
-					<br>
-					<div style="width: 160px; height: 600px; border: 0px; margin: 10px auto 50px;" id="placeholder2"></div>
-				
-			</div>
+			
+			
+			<!-- Navigation Menu ==================================================================-->
+				<div id="navContainer">
+					<ul id="navigation">
+						<li><a href="http://www.invaluable.com" alt="Forthcoming Live Auctions" title="Forthcoming Live Auctions">Auctions</a></li>
+						<!-- harvested link for Auctioneer Directory from footer... is this still the URL -->
+						<li><a href="http://www.invaluable.com/features/selectHouse.cfm" alt="Auctioneer Directory" title="Auctioneer Directory">Auctioneer Directory</a></li>
+						<li><a href="http://www.invaluable.com/features/selectArtist.cfm" alt="Artist Database" title="Artist Database">Artist Database</a></li>
+						<li><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=p" alt="Search the Auction Price Archive" title="Search the Auction Price Archive">Auction Price Archive</a></li>
+						
+				<!-- Float these links right -->
+						
+								<li id="panel_button" class="f-right"><a class="big login nowhere" href="javascript:void(0);">Login</a></li>						
+							
+								<li class="f-right"><a href="https://secure.invaluable.com/services/userInfo.cfm?type=register" class="big">Join <img src="/wwwImages/sticker-free.png" alt="Join Free!" class="freesticker"></a></li>
+							
+							<!-- <li id="joinsticker"><a href="https://secure.invaluable.com/services/userInfo.cfm?type=register"><img src="/wwwImages/sticker-joinfree.png" alt="Join Free!" /></a></li> -->
+						
+					</ul>
 		
+		
+		
+		
+		
+		
+						
+					
+				</div>
+				<!-- new search bar 12-23-2010-->
+				<div id="searchContainer">
+					<h2>Search from over <span class="highlight">100,000 items available at auction</span> now</h2>
+					<form name="searchFormHead" action="http://www.invaluable.com/catalog/searchLots.cfm" method="post">
+						<fieldset class="first">
+							<span><label for="upcoming">Forthcoming</label></span> <input type="radio" id="upcoming" name="srchScope" value="u" checked=""><br>
+							<span><label for="past">Archive</label></span> <input type="radio" name="srchScope" value="p" id="past">
+						</fieldset>
+						<fieldset>
+							<input type="text" name="withAll">
+						</fieldset>
+						<input type="submit" class="submit" name="userSubmit" value="Search" alt="Click to Search">
+						<a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=u">Advanced<br>Search</a>
+						<input type="hidden" name="resetPage" value="1">
+						
+						<input type="hidden" name="alFirst" value="1">
+					</form>
+				</div>
+			<!-- End of Navigation Menu -->
+			
+			
+				<div id="rightcol">
+					<a href="javascript:openindex();" id="learnToBid"><img src="/wwwImages/btnLearnBid-Invaluable.png" alt="Learn how to bid"></a>
+					
+						<br>
+						<div id="placeholder2" class="place-holder"><iframe src="http://www.invaluable.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=65" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br><iframe src="http://www.invaluable.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=66" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br><iframe src="http://www.invaluable.com/burst/headRight.cfm?adVersion=NLI&amp;charNum=67" width="160" height="600" scrolling="no" frameborder="0"></iframe><br>&nbsp;<br></div>
+					
+				</div>
+			
 	<div id="content">
 
 
@@ -670,32 +670,116 @@ Privacy Policy or its implementation, please contact us by email at:
 					
 					<!-- Main footer -->
 					
-					<div id="footer">
-						<span id="footerButtons">
- 							<div id="nlSignUpWrapper">
-									<input id="companyRef" type="hidden" name="companyRef" value="2">
-									<ul>
-										<li><label for="">free newsletter &amp; updates</label></li>
-										<li class="errormsg" style="display: none;"></li>
-										<li><input type="text" name="mbrEmailAddress" id="ntSignUp-Email" value="Email Address" maxlength="64"><input value="Send" type="submit"></li>
-									</ul>
-									<p style="display: none;">
-									Thank you!<br>Why not <a href="https://sec3.invaluable.com/services/register.cfm" alt="Register for Free">register</a> for a<br>FREE account today?
-								</p>
- 							</div> 
-						</span>
-						<div id="footerContent" class="clearfix">
-							<div id="helpfulLinks" class="footerBox column firstBox">
+						<div id="hplists">
+							<h5>Forthcoming Auction Categories</h5>
+							<ul>								
 								
-									<h1>Bid</h1>
-									<ul>
-										
-											<li><a href="https://sec3.invaluable.com/services/register.cfm" class="footerLink">Register FREE</a></li>
-										
-										<li><a href="http://www.invaluable.com/features/upcoming.cfm?filterHouseType=al">View Live Auctions</a></li>
-									</ul>
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=X40D0LU64C">19th Century Furniture Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=W7JLTHSDLU">American Furniture &amp; Decorative Art Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=TJYLLGLDKA">American Paintings, Drawings &amp; Sculpture Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=SN06I92UXA">Asian Ceramics &amp; Works of Art Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=ET2N4AT11F">Ceramics &amp; Pottery Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=5EAIKMJEME">Clocks &amp; Watches Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=SSADM5PDL5">Coins, Medals, Monies &amp; Notes Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=GPI4WFSDTE">General Collectibles Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=OY2OUC9LF6">General Fine Art Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=A4FKXXE3RQ">Glass Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=77XL1D8362">Guns &amp; Militaria Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=1GO1XYQ22C">Jewelry Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=Y4YDHAXYM6">Porcelain Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=AF14022FJQ">Silver &amp; Vertu Auctions</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterCategoryRef=FKAJ7AFLJ9">Sports Memorabilia Auctions</a></li>
+								
+							</ul>
+						</div><!-- END hplists -->
+					<!-- BEGIN new Newsletter sign up bar -->
+						<div id="nlSignUpWrapper">
+							<input id="companyRef" type="hidden" name="companyRef" value="2">
+							<ul>
+								<li><h2>Sign Up For Free Email Updates</h2></li>
+								<li class="errormsg" style="display: none;"></li>
+								<li><fieldset><input type="text" name="mbrEmailAddress" id="ntSignUp-Email" value="Email Address" maxlength="64"><input value="Sign Up" type="submit" class="submit"></fieldset></li>
+							</ul>
+							<p style="display: none;">
+								Thank you!<br>Why not <a href="https://secure.invaluable.com/services/userInfo.cfm?type=newsletter" alt="Register for Free">register</a> for a<br>FREE account today?
+							</p>
+ 						</div> 
+								
+					<div id="footer">			
+				<!-- BEGIN Footer Top Bar -->
+						<div id="footer-social">
+						    <ul>
+						        <li>
+						            <a href="http://itunes.apple.com/us/app/invaluable-live-auctions/id343664441?mt=8" target="_blank" alt="Click to get the Invaluable iPhone App from the Apple Store" title="Click to get the Invaluable iPhone App from the Apple Store">Get the App <span class="app">&nbsp;</span></a>
+						        </li>
+						        <li>
+									<div class="social-icons">
+										<span>Follow Us</span> 
+											<a href="http://www.facebook.com/pages/Artfact/170692722479" alt="Friend Invaluable on Facebook" title="Friend Invaluable on Facebook" target="_blank"><img src="/wwwImages/icons/facebook.png"></a>
+											<a href="http://www.twitter.com/artfactlive" alt="Follow Invaluable on Twitter" title="Follow Invaluable on Twitter" target="_blank"><img src="/wwwImages/icons/twitter.png"></a>
+											<a href="http://www.invaluable.com/artfact/rss.cfm" alt="Subscribe to the Invaluable RSS feed" title="Subscribe to the Invaluable RSS feed"><img src="/wwwImages/icons/rss.png"></a>
+									</div>
+								</li>
+						        <li>
 									
-									<h1>Subscribe</h1>
+												<a id="_lpChatBtn" class="footerLink" href="http://server.iad.liveperson.net/hc/43030029/?cmd=file&amp;file=visitorWantsToChat&amp;site=43030029&amp;byhref=1&amp;SESSIONVAR!skill=Invaluable%20Live&amp;SESSIONVAR!window_look=Invaluable%20Default&amp;SESSIONVAR!Member%20ID=Not logged in&amp;imageUrl=http://www.invaluable.com/wwwImages/lp_inv/" target="chat43030029" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/43030029/?cmd=file&amp;file=visitorWantsToChat&amp;site=43030029&amp;SESSIONVAR!skill=Invaluable%20Live&amp;SESSIONVAR!window_look=Invaluable%20Default&amp;SESSIONVAR!Member%20ID=Not logged in&amp;imageUrl=http://www.invaluable.com/wwwImages/lp_inv/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat43030029','width=475,height=400,resizable=yes');return false;">Live Chat
+											
+						             <span class="chat">&nbsp;</span></a>
+						        </li>
+						        <li>
+						            <a id="learnToBid" alt="Learn to Bid Online" title="Learn to Bid Online" href="javascript:openindex();">Bidding Demo <span class="bid-demo">&nbsp;</span></a>
+						        </li>
+							</ul>
+						</div>
+						<!-- End Footer Top Bar -->
+						<div id="footerContent" class="clearfix">
+							<div id="helpfulLinks" class="footerBox column firstBox" style="height: 411px; overflow: auto;">
+								<h4>For Bidders</h4>
+								<ul>
+								
+									<li><a href="https://secure.invaluable.com/services/userInfo.cfm?type=register" class="footerLink">Register FREE</a></li>
+								
+									<li><a href="http://www.invaluable.com/?filterHouseType=al">Browse Live Auctions</a></li>
+									<li><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=u" class="footerLink">Search Forthcoming Auctions</a></li>
+									<li><a href="http://www.invaluable.com/features/selectHouse.cfm" class="footerLink">Auctioneer Directory</a></li>
+									<li><a href="http://www.invaluable.com/features/calendar.cfm" class="footerLink">Auction Calendar</a></li>
+									<li>&nbsp;</li>
+									
+								</ul>
+								<h4>For Auctioneers</h4>
+									<ul>
+										<li><a href="http://www.invaluable.com/artfact/houseServices.cfm" class="footerLink">Auction House Services</a></li>
+										<li><a href="http://www.invaluable.com/promotional/index.cfm" class="footerLink">Advertise With Us</a></li>	
+										<li><a href="http://www.invaluable.com/artfact/linktous.cfm" class="footerLink">Link to Us</a></li>
+									</ul>
+							</div>
+							<div class="footerBox column" style="height: 411px; overflow: auto;">
+								<h4>Research Tools</h4>
+									<ul>
+										<li><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=p" class="footerLink">Search Past Auctions</a></li>
+										<li><a href="http://www.invaluable.com/catalog/catalogArchive.cfm" class="footerLink">Live! Catalogue Archive</a></li>
+										<li><a href="http://www.invaluable.com/features/selectEncycloCategory.cfm" class="footerLink">Auction Style Guide</a></li>
+										<li><a href="http://www.invaluable.com/features/selectArtist.cfm" class="footerLink">Artist Database</a></li>
+										<li><a href="http://www.invaluable.com/features/selectStyle.cfm" class="footerLink">Art Genre Guide</a></li>
+										<li><a href="http://www.invaluable.com/features/galleryDirectory.cfm" class="footerlink">Gallery Directory</a></li>
+										<li><a href="http://www.invaluable.com/features/artfact1000.cfm" class="footerLink">Invaluable 1,000™</a></li>						
+									</ul>
+								
+								<h4>Subscriptions</h4>
 									<ul>
 										
 											<li><a href="http://www.invaluable.com/artfact/overviewFreeTrial.cfm">Free Trial</a></li>
@@ -705,69 +789,31 @@ Privacy Policy or its implementation, please contact us by email at:
 										<li><a href="http://www.invaluable.com/artfact/chooseSubFineArt.cfm" class="footerLink">Fine Art</a></li>
 										
 									</ul>
-								
-								<h1>Free iPhone App</h1>
-								<ul>
-									<li class="footer-iphoneapp">
-										<a id="footer-iphonepromo" href="http://itunes.apple.com/us/app/invaluable-live-auctions/id343664441?mt=8" target="_blank">
-											<img src="/wwwImages/btn-appstore.png" alt="Download our Free iPhone App">
-										</a>
-									</li>
-									<li><a href="http://www.invaluable.com/artfact/iphone.cfm">Learn More</a></li>
-								</ul>
 							</div>
-							
-							<div class="footerBox column">
-								<h1>Find</h1>
-								<ul>
-									<li><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=p" class="footerLink">Search Past Auction Prices</a></li>
-									<li><a href="http://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=u" class="footerLink">Search Forthcoming Auctions</a></li>
-									<li><a href="http://www.invaluable.com/features/selectArtist.cfm" class="footerLink">Search Artists</a></li>
-									<li><a href="http://www.invaluable.com/features/selectStyle.cfm" class="footerLink">Art Genre Guide</a></li>
-									<li><a href="http://www.invaluable.com/features/artfact1000.cfm" class="footerLink">Invaluable 1,000™</a></li>
-									<li><a href="http://www.invaluable.com/features/selectEncycloCategory.cfm" class="footerLink">Auction Style Guide</a></li>
-									<li><a href="http://www.invaluable.com/features/selectHouse.cfm" class="footerLink">Auction Houses A-Z</a></li>
-									<li><a href="http://www.invaluable.com/features/calendar.cfm" class="footerLink">Auction Calendar</a></li>
-									<li><a href="http://www.invaluable.com/artfact/jonathan.cfm" class="footerLink">Newsletter Archive</a></li>
-									
-										<li><a href="http://www.invaluable.com/artfact/overviewOffline.cfm" class="footerLink">Offline Search</a></li>
-									
-								</ul>
+							<div class="footerBox column" style="height: 411px; overflow: auto;">
 								
-								<h1>Promote</h1>
-								<ul>
-									<li><a href="http://www.invaluable.com/artfact/houseServices.cfm" class="footerLink">Auction House Services</a></li>
-									<li><a href="https://sec3.invaluable.com/services/ads.cfm" class="footerLink">Advertise With Us</a></li>
-									<li><a href="http://www.invaluable.com/artfact/linktous.cfm" class="footerLink">Link to Us</a></li>
-								</ul>
-							</div>
-							
-							<div class="footerBox column">
-								<h1>Support / Help</h1>
 								
-								<ul>
-									<li>
+								
+									<h4>Quick Links</h4>
+									<ul>
 										
-												<a id="_lpChatBtn" class="footerLink" href="http://server.iad.liveperson.net/hc/43030029/?cmd=file&amp;file=visitorWantsToChat&amp;site=43030029&amp;byhref=1&amp;SESSIONVAR!skill=Invaluable%20Live&amp;SESSIONVAR!window_look=Invaluable%20Default&amp;SESSIONVAR!Member%20ID=Not logged in&amp;imageUrl=http://www.invaluable.com/wwwImages/lp_inv/" target="chat43030029" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/43030029/?cmd=file&amp;file=visitorWantsToChat&amp;site=43030029&amp;SESSIONVAR!skill=Invaluable%20Live&amp;SESSIONVAR!window_look=Invaluable%20Default&amp;SESSIONVAR!Member%20ID=Not logged in&amp;imageUrl=http://www.invaluable.com/wwwImages/lp_inv/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat43030029','width=475,height=400,resizable=yes');return false;">Live Chat
-											
-										<img src="/wwwImages/chat-live.png" alt="" border="0"></a>
-									</li>
-									<li><a href="http://www.invaluable.com/artfact/contact.cfm" class="footerLink">Contact Us</a></li>									
-									<li><a href="http://www.invaluable.com/artfact/help.cfm" class="footerLink">FAQ/Help</a></li>
-									<li><a href="http://www.invaluable.com/artfact/feedback.cfm" class="footerLink">Feedback</a></li>
-								</ul>
-								<h1>Other Quick Links</h1>
-								<ul>
-									<li><a href="http://www.invaluable.com/artfact/overviewPrices.cfm" class="footerLink">About Invaluable</a></li>
-									<li><a href="http://www.invaluable.com/artfact/whatsNews.cfm" class="footerLink">Invaluable News</a></li>
-									<li><a href="http://www.invaluable.com/artfact/rss.cfm" class="footerLink">RSS <img src="/wwwImages/badgeRSS.png" alt="Rss Badge"></a></li>
-									<li><a href="http://www.invaluable.com/artfact/affiliates.cfm" class="footerLink">Partners</a></li>
-								</ul>
-
+										<li><a href="http://www.invaluable.com/artfact/about.cfm" class="footerLink">About Invaluable</a></li>									
+										<li><a href="http://www.invaluable.com/artfact/whatsNews.cfm" class="footerLink">Invaluable News</a></li>
+										<li><a href="http://www.invaluable.com/artfact/help.cfm" class="footerLink">FAQ/Help</a></li>
+										<li><a href="http://www.invaluable.com/artfact/feedback.cfm" class="footerLink">Feedback</a></li>
+										<li><a href="http://www.invaluable.com/artfact/contact.cfm" class="footerLink">Contact Us</a></li>	
+										<li><a href="http://www.invaluable.com/artfact/jonathan.cfm" class="footerLink">Newsletter Archive</a></li>										
+										<li><a href="http://www.invaluable.com/artfact/affiliates.cfm" class="footerLink">Partners</a></li>										
+									</ul>
+									<ul>
+										<li><a href="http://www.invaluable.com/agreements/userTerms.cfm" class="footerLink">Terms of Use</a></li>
+										<li><a href="http://www.invaluable.com/agreements/privacy.cfm" class="footerLink">Privacy</a></li>
+										<li><a href="http://www.invaluable.com/agreements/subTerms.cfm" class="footerLink">Subscription Agreement</a></li>
+									</ul>
+								
 							</div>
-							
-							<div id="footerCopyright" class="footerBox column lastBox">
-								<h1>Copyright &amp; Usage</h1>
+							<div class="footerBox column lastBox" style="height: 411px; overflow: auto;">
+								<h4>Copyright &amp; Usage</h4>
 								<p>
 									All content, images, and intellectual property on this site protected by digital watermark technology. Digital copying of images strictly prohibited; violators will be pursued and prosecuted to the full extent of the law including the Digital Millennium Copyright Act.
 								</p>
@@ -775,25 +821,23 @@ Privacy Policy or its implementation, please contact us by email at:
 									Unauthorized use including account sharing of Invaluable will result in permanent account cancellation.
 								</p>
 								<p>
-									Copyright © 1986-2010 Artfact, LLC. and participating auction houses. All Rights Reserved.
+									Copyright © 1986-2011 Artfact, LLC. and participating auction houses. All Rights Reserved.
 								</p>
-								<h1>Legal</h1>
-								<ul>
-									<li><a href="http://www.invaluable.com/agreements/userTerms.cfm" class="footerLink">Terms of Use</a></li>
-									<li><a href="http://www.invaluable.com/agreements/privacy.cfm" class="footerLink">Privacy</a></li>
-									<li><a href="http://www.invaluable.com/agreements/subTerms.cfm" class="footerLink">Subscription Agreement</a></li>
-								</ul>
-							</div><!-- footerCopyright END -->
-						</div><!-- footerContent END -->		
-					</div><!-- footer -->
+							</div>
+						</div>
+						<!-- footerContent END -->		
+					</div>
+					<!-- footer -->
 					
 				</div><!-- footerWrapper END -->
 				<!-- footer END -->
 			</div><!-- END container-inner -->
-		</div><!-- END container -->
+		</div>
 		
 		
-			
+		<!-- END container -->
+		
+		
 			<script type="text/javascript">
 				_qoptions={
 				qacct:"p-a2K6bNml9qRkk"
@@ -808,46 +852,67 @@ Privacy Policy or its implementation, please contact us by email at:
 		function loadAds()
 			{
 				jQ("#banner-ad").append("<iframe src='http://www.invaluable.com/burst/headTop.cfm?adVersion=NLI' id='adframetop' width='728' height='90' scrolling='no' frameborder='0'></iframe>");
-				jQ("#placeholder2").append("<iframe src='http://www.invaluable.com/burst/headRight.cfm?adVersion=NLI' id='adframeside' width='160' height='600' scrolling='no' frameborder='0'></iframe>");
+				
+					
+					availableHeight = jQ('#mainColumn').height() || jQ('#content').height();
+					
+					var num_ads_to_output;
+					var max_num_ads = parseInt(availableHeight/620); // Each ad is 600 px; 620 gives some buffer room
+					var num_burstnet_ads_available = 3;
+					
+					if (max_num_ads > num_burstnet_ads_available){
+						num_ads_to_output = num_burstnet_ads_available;
+					} else {
+						num_ads_to_output = max_num_ads;
+					}
+										
+					for (i = 0; i < num_ads_to_output; i++){
+						jQ("#placeholder2").append("<iframe src='http://www.invaluable.com/burst/headRight.cfm?adVersion=NLI&charNum=" + (65 + i) + "' width='160' height='600' scrolling='no' frameborder='0'></iframe><br/>&nbsp<br/>");
+					}
+				
 						
 				jQ("#artist-ad-300").append("<iframe src='http://www.invaluable.com/burst/artist300.cfm?adVersion=NLI' width='300' height='250' scrolling='no' frameborder='0'></iframe>");
 				
 			}
 		jQ(function(){
-			setTimeout("loadAds()", 2000);
-		})
+			loadAds();
+		});
 	</script>
 	
 			<script type="text/javascript">
-				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-				var pageTracker = _gat._getTracker("UA-1626105-2");
-				pageTracker._setDomainName(".invaluable.com");
-				pageTracker._initData();
-				pageTracker._trackPageview();
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-21191163-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
 			</script>
 		
 
 <script type="text/javascript">
-<!--
+/* <![CDATA[ */
 var google_conversion_id = 1059029050;
 var google_conversion_language = "en";
 var google_conversion_format = "3";
 var google_conversion_color = "666666";
-var google_conversion_label = "EN7gCPSDrwEQuoD--AM";
+var google_conversion_label = "ly2rCP6e5wEQuoD--AM";
 var google_conversion_value = 0;
-//-->
+/* ]]> */
 </script>
+			
 <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1059029050/?label=EN7gCPSDrwEQuoD--AM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1059029050/?label=ly2rCP6e5wEQuoD--AM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-	
+		
 <br clear="all">
 	
 
