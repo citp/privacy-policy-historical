@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602102919id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223055id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cover Action Pro - Privacy Policy
 
@@ -64,4 +64,4 @@ CoverActionPro.com
 2575 Campus Drive #336  
 Klamath Falls, OR 97601 USA  
 info@coveractionpro.com  
-702-656-1536
+541-884-3126
