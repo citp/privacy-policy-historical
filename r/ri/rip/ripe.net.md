@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610171902id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214414id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
 
 # RIPE NCC Privacy Statement — RIPE Network Coordination Centre
 
