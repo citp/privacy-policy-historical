@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs1us.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524133151id_/http%3A//www.gs1us.org/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs1us.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211348id_/http%3A//www.gs1us.org/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
