@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the linkhype.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326203140id_/http%3A//www.linkhype.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkhype.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214634id_/http%3A//www.linkhype.com/pripol.html) for the most accurate reproduction.*
 
 # Link Hype Web Directory - Privacy Policy
-
-  
-  
-
 
 **PRIVACY POLICY**
 
@@ -14,10 +10,11 @@ When accessing our Website, Link Hype Web Directory will learn certain informati
 
 If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-* 1\. The name of the domain from which you access the Internet
-* 2\. The date and time you access our site
-* 3\. The Internet address of the website you used to link directly to our site.
-* 4\. Webmaster email address
+1\. The name of the domain from which you access the Internet.
+2\. The date and time you access our site.
+3\. The Internet address of the website you used to link directly to our site.
+4\. Webmaster email address.
+
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
