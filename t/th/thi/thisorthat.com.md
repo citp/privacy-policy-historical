@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisorthat.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118204817id_/http%3A//thisorthat.com/pt/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisorthat.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090402id_/http%3A//thisorthat.com/pt/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - This or That
+# Privacy Policy | This or That
 
 ## Privacy Policy
 
@@ -32,17 +32,3 @@ Your privacy settings can be changed under your [account settings](https://web.a
  **6** Have Questions and Need to Contact Us? 
 
 If you have questions about our Privacy Policy, please email [info@thisorthat.com](mailto:info@thisorthat.com). Note that we may update our Privacy Policy as we continue to add more functionality and enhance the user experience. 
-
-### Facebook Connect Users
-
-This Or That User?
-
-Do you have an existing This or That account?
-
-New Users
-
-To register a new account you must choose a username:
-
-Username:Email (optional):
-
-×
