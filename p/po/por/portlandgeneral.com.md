@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613034147id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215352id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -78,7 +78,7 @@ Back to top
 Release of information  
 PGE has agreements with other local utility companies to share customer information for credit purposes only. We have established security procedures to ensure that information is being shared only with authorized utility representatives.
 
-Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
+Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support, contest entry processing and to provide energy management services. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
 
 Other than the ways mentioned above, we will not release personally identifiable information to third parties without permission from the customer, unless we are required to do so by law or we in good faith believe such action is necessary to (1) comply with the law or legal process, (2) protect and defend our rights or property, (3) protect against misuse or unauthorized use of our Web site or (4) protect the personal safety or property of our customers or the public.
 
@@ -97,6 +97,6 @@ We welcome your questions and comments on this policy. [E-mail Customer Service]
 Back to top
 
 Notification of changes  
-The privacy policy was effective as of Jan. 10, 2003, and last updated March 18, 2011. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days before the new use takes effect.
+The privacy policy was effective as of Jan. 10, 2003, and last updated June 15, 2011. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days before the new use takes effect.
 
 Back to top
