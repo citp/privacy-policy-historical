@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605013237id_/http%3A//www.yolinux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolinux.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114216id_/http%3A//www.yolinux.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Our postal address is
 **1601 N. Sepulveda Blvd Unit 192  
 Manhattan Beach CA, 90266-5133**
 
-We can be reached via our [e-mail contact form](https://web.archive.org/web/20110605013237id_/http%3A//www.yolinux.com/YoLinuxEmailForm.html)
+We can be reached via our [e-mail contact form](https://web.archive.org/web/20111231114216id_/http%3A//www.yolinux.com/YoLinuxEmailForm.html)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
