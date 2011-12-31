@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615024148id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labour.org.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045714id_/http%3A//www.labour.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Labour Party
-
-## Privacy statement
 
 **IP addresses and log file data**  
 The Labour Party site does not automatically capture or store personal information, other than logging the user's IP Address or the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. (If you are connected to the Internet you have an IP address, for example an IP address might read "154.198.99.9"). We also use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site.
@@ -42,7 +40,7 @@ In each case we will only use the information about you for the purpose for whic
 **If you need to correct the information you provided us with when you subscribed to our e-mail list, you can do so through your personal form provided on-line. If you need to change your e-mail address, you can unsubscribe from our mailing lists and sign up again using your new information. Or if you have registered with a username and password you may change your details at any time via the login page without needing to re-register.
 
 **Contacting us about privacy  
-**If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, please contact us by [clicking here](http://www.labour.org.uk/contact) or telephone our call centre on 08705 900200.
+**If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, please contact us by [clicking here](http://www.labour.org.uk/contact) or telephone our call centre on 0845 092 2299.
 
 Our Data Protection Officer can be contacted at the following address: 
 
@@ -53,6 +51,3 @@ London
 SW1H 0HA
 
 We will continue to evaluate our efforts to protect your information and will update our privacy policy whenever necessary.
-
-Powered by taobase from [Tangent Labs](http://www.tangentlabs.co.uk/). Hosted by Rackspace, 2 Longwalk Road, Stockley Park, Uxbridge, UB11 1BA.  
-Promoted by Ray Collins, General Secretary, the Labour Party on behalf of the Labour Party, both at 39 Victoria Street, London SW1H 0HA.
