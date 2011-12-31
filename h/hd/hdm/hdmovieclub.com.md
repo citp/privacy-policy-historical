@@ -1,36 +1,43 @@
-> *The following text is extracted and transformed from the hdmovieclub.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623030953id_/http%3A//hdmovieclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmovieclub.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231184435id_/http%3A//ww2.hdmovieclub.com/information/privacy_policy.html) for the most accurate reproduction.*
 
-# HD Movie Club - Internet's biggest HD DVD site
+# Privacy Policy Statement
 
-Your privacy is important to us. **No personal information will be shared with any third parties without the customer’s permission** To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**HD Movie Club**
 
-The Information We Collect: we collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as their username/password and country if they signup to one of our sites.
-
-Customers credit card details are NEVER stored on our servers, this data is collected and processed through our billing gateway Netbilling.com. Netbilling.com is specially tasked and authorized to collect & process customer credit cards and are authorized to keep such customer data. We do collect the customers username, password, country & email address but this is only temporary for use in cascading billing. The customers username & password, country & email address is only stored on a permanent basis at our secured servers if the customer decides to join one of our sites with his credit card.
-
-This notice applies to all information collected or submitted on our company websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
-
-  * Name:
-  * Address:
-  * Email address:
-  * Phone number:
+**PRIVACY POLICY STATEMENT**  
+  
 
 
+* * *
 
-**The Way We Use Information:**  
-We use the infomation for processing the customers signup via check or credit card to our site, we collect email addresses for future special offers to be sent to customer as well as to send the customer his/her username & password after signup process is approved. The customers name, address, phone & other details are used to cascade between billing processors to help the customer signup to our site, if the customer does not signup to any of our processors or checking processors/web900. Then the customers data except for email address is deleted.
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of hdmovieclub.com. hdmovieclub.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
-**Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+### Non-Personal Information and Cookies
 
-**How You Can Access Or Correct Your Information:**  
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.
+Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+### Use of Information
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
 
-**How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at [[support@hdmovieclub.com](mailto:support@hdmovieclub.com)].
+We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
 
-To view the privacy policy of our Gateway credit card processing company : Netbilling.com please visit : <http://www.netbilling.com/privacy.php>
+No credit card holder information is shared with third parties
+
+Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
+
+There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
+
+The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
+
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to 
+
+### Security
+
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
+
+### Acceptance of these Terms
+
+By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
+
+* * *
