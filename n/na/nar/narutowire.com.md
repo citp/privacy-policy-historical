@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105131id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223300id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NWAnime.com
 
 [](http://www.nwanime.com/)        [](http://www.ovguide.com/)
+
+[ ](https://www.facebook.com/login.php?api_key=113208155374510&cancel_url=http%3A%2F%2Fwww.nwanime.com/privacy.php&display=page&fbconnect=1&next=http%3A%2F%2Fwww.nwanime.com%2Flogin.php?next=/privacy.php&return_session=1&session_version=3&v=1.0)
 
 **Please use 'Report Broken Link' tab in video page or 'Technical Difficulties' message board in forum to report broken links!!**
 
