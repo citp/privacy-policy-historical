@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windycitizen.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617225203id_/http%3A//www.windycitizen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windycitizen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231152226id_/http%3A//www.windycitizen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WindyCitizen.com
 
