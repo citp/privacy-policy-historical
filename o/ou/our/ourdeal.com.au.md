@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621055214id_/http%3A//www.ourdeal.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211125id_/http%3A//www.ourdeal.com.au/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -6,7 +6,7 @@
 
 **1.** You may ask us to provide you with access to the personal information that we hold about you unless there is an exception which applies under the Privacy Act. We will deal with any request from you to obtain access to your personal information within a reasonable time. If we refuse to provide you with access to your personal information, we will provide you with reasons for the refusal. 
 
-**2.** If you wish to gain access to your personal information or if you have any question about how your personal information is collected or used, please contact us at Suite 805, 3 Waverley St, Bondi Junction NSW 2022; Phone: (02) 8305 1800; or email: [support@ourdeal.com.au](mailto:support@ourdeal.com.au). 
+**2.** If you wish to gain access to your personal information or if you have any question about how your personal information is collected or used, please contact us at Level 2, 299 Elizabeth Street, Sydney NSW 2000; Phone: (02) 8305 1800; or email: [support@ourdeal.com.au](mailto:support@ourdeal.com.au). 
 
 **3.** You may ask us to remove your personal information from our database by notice in writing to the contact details referred to above. 
 
