@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payperviewformula.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510032639id_/http%3A//www.payperviewformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperviewformula.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224718id_/http%3A//www.payperviewformula.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
