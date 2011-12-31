@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslacoverup.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228024701id_/http%3A//www.teslacoverup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslacoverup.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230633id_/http%3A//teslacoverup.com/privacy.php) for the most accurate reproduction.*
 
 # Tesla Free Energy
 
