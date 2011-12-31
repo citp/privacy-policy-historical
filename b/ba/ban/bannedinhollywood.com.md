@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bannedinhollywood.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216054234id_/http%3A//www.bannedinhollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannedinhollywood.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231072814id_/http%3A//www.bannedinhollywood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Banned In Hollywood
-
-Browse >
-
-[Home](http://www.bannedinhollywood.com/ "Browse to: Home") / Privacy Policy 
+# Privacy Policy – Banned In Hollywood
 
 **Banned In Hollywood Privacy Policy**  
 The following privacy statement covers the Banned In Hollywood Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](mailto:advertise@bannedinhollywood.com).
@@ -44,3 +40,5 @@ Whenever Banned In Hollywood changes its privacy policy, we will post those chan
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us.
+
+Hi Burst! I confirm that I own this domain and control all content herein.
