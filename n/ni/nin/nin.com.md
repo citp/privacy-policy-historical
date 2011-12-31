@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nin.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616061437id_/http%3A//member.nin.com/pub/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nin.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205053id_/http%3A//member.nin.com/pub/privacy-policy.html) for the most accurate reproduction.*
 
 # nin.com [the official nine inch nails website] - privacy policy
 
@@ -6,7 +6,7 @@ nin.com Privacy Policy:
 
 For purposes of this document, "Company" is defined as "Non-Entity Corp."
 
-Company provides this statement explaining our online information practices and the way your personal information is collected and used. By using the Services, you consent to the practices described in this statement. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that Company does not own or control, or to people that Company does not employ or manage. If you do not agree with the practices explained in this policy, do not access or browse the Site, or use the Services. Capitalized terms not defined in this policy shall have the meaning set forth in the [Terms of Use](https://web.archive.org/web/20110616061437id_/http%3A//member.nin.com/pub/terms-of-use.html). 
+Company provides this statement explaining our online information practices and the way your personal information is collected and used. By using the Services, you consent to the practices described in this statement. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that Company does not own or control, or to people that Company does not employ or manage. If you do not agree with the practices explained in this policy, do not access or browse the Site, or use the Services. Capitalized terms not defined in this policy shall have the meaning set forth in the [Terms of Use](https://web.archive.org/web/20111231205053id_/http%3A//member.nin.com/pub/terms-of-use.html). 
 
 The types of personal information collected on the Site may include, but is not limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) ZIP code or postal code, (6) language, (7) time zone, (8) gender, (9) birth date and age, and (10) occupation. Company may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Services. We may also collect data pertaining to your online transactions, purchase history, and Web site usage patterns. 
 
