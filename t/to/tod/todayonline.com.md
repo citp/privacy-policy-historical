@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayonline.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202003124id_/http%3A//www.todayonline.com/Privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015755id_/http%3A//www.todayonline.com/Privacystatement) for the most accurate reproduction.*
 
 # TODAYonline | Privacy Statement
 
