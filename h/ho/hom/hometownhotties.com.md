@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615012040id_/http%3A//www.maxim.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dfb812d8d1183b210VgnVCM100000b44019acRCRD%26vgnextchannel%3Dd41d84c952969210VgnVCM100000a6070d0aRCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownhotties.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213858id_/http%3A//www.maxim.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dfb812d8d1183b210VgnVCM100000b44019acRCRD%26vgnextchannel%3Dd41d84c952969210VgnVCM100000a6070d0aRCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ The Site has implemented appropriate safeguards to help prevent unauthorized acc
 
 Subscriptions 
 
-To unsubscribe from the Maxim Online newsletter and/or other electronic communications from AMG, reply to the e-mail newsletters with “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line or follow the “unsubscribe” link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from Site partners by typing “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line in a reply to one of the Site partner’s e-mails to you or by following the “unsubscribe” link at the bottom of the e-mail. 
+To unsubscribe from the Maxim Online newsletter and/or other electronic communications from AMG, reply to the e-mail newsletters with “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line or follow the [Unsubscribe](http://pref.email.maxim.com/preferences/) link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from Site partners by typing “UNSUBSCRIBE” (and only “UNSUBSCRIBE”) in the subject line in a reply to one of the Site partner’s e-mails to you or by following the “unsubscribe” link at the bottom of the e-mail. 
 
 To change the address of your Maxim Magazine subscription, or to provide any other subscription-related information to AMG, you may write to Maxim, P.O. Box 420235, Palm Coast, FL 3214, or call 1(386)447-6312. 
 
