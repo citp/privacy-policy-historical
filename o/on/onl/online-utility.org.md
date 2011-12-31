@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524105538id_/http%3A//online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211007id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ _Utilities for Online Operating System_ |
     * [Special Search Engines](https://web.archive.org/search/index.jsp)
     * [Measurement Convertors](https://web.archive.org/measures/index.jsp)
     * [Cost of Living](http://www.numbeo.com/cost-of-living/)
-    * [North Lily Search Engine](http://www.northlily.com/)
+    * [Open Rewrite Search Engine](http://www.openrewrite.com/)
 
 
 
