@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304004915id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214033id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
 
 # WorthPoint-GoAntiques-PriceMiner Privacy Policy | WorthPoint
 
