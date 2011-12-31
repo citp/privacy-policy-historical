@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314021559id_/http%3A//www.designworldonline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222315id_/http%3A//www.designworldonline.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
