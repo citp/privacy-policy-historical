@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503002246id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231171718id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -62,4 +62,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"I just wanted to tell you that after searching for two weeks and driving an hour and a half every couple days, your website had me what I wanted within 24 hours!!! Thank You guys so much and after christmas morning my children will be thanking you also!!!!" -mysiearra
+"I just wanted to thank you for this site! It's brilliant!" -Vanessa
