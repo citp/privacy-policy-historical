@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610191937id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223956id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,3 +96,14 @@ NCI will occasionally update this Privacy Policy in response to changing busines
 We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. The Children's Online Privacy Protection Act ("COPPA") took effect on April 21, 2000 and imposes certain requirements on Web sites directed toward children under 13 that collect information on those children, or on Web sites that know they are collecting information on children under the age of 13. It currently is NCI's policy not to collect personal information on any person under 13. While we do no specifically seek to obtain information from children, there are areas of our website that children may visit. To learn more about COPPA, consult the Federal Trade Commission’s COPPA Web Site [www.ftc.gov](http://www.ftc.gov/) or you may call 202/FTC-HELP.
 
 By using this web site, you consent to this Agreement and to the collection and use of information by NCI as specified above.
+
+### Contact Details
+
+**Company Address:** Natural Cures Inc., 3 Grant Square #360, Hinsdale, IL 60521, USA
+
+**Customer Service Phone:** 1-800-253-0129 Monday - Friday 8AM - 8PM, Saturday 9AM - 3PM CST
+
+**Customer Service Email:** [support@naturalcures.com](mailto:support@naturalcures.com)
+
+  
+
