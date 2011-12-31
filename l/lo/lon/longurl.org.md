@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longurl.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628055140id_/http%3A//longurl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longurl.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224939id_/http%3A//longurl.org/privacy-policy) for the most accurate reproduction.*
 
 # LongURL | Privacy Policy
 
