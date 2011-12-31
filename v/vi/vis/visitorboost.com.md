@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521013543id_/http%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213203id_/http%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
 
 # Visitor Boost - Privacy Policy
 
 This is the privacy policy of VisitorBoost.com, a property of Awio Web Services LLC.
 
 Our postal address is   
-**1451 Graeme Way  
-Warminster, PA 18974**
+**219 Chatham Pl  
+Lansdale, PA 19446**
 
-We can be reached via e-mail at [sales@visitorboost.com](mailto:sales@visitorboost.com).
+We can be reached via e-mail at [support@visitorboost.com](mailto:support@visitorboost.com).
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
