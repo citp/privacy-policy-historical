@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popular-pics.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502191608id_/http%3A//www.popular-pics.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popular-pics.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231235411id_/http%3A//popular-pics.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Contact Us at Popular-Pics
 
@@ -12,4 +12,4 @@ Some of our sites contain links to other sites whose information practices may b
 Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on your visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **How to Contact Us**  
-If you have any questions or concerns about the online policy for this site or its implementation you may [contact us by using this form](https://web.archive.org/web/20110502191608id_/http%3A//www.popular-pics.com/Contact_Us.jsp)
+If you have any questions or concerns about the online policy for this site or its implementation you may [contact us by using this form](https://web.archive.org/web/20111231235411id_/http%3A//popular-pics.com/Contact_Us.jsp)
