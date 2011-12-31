@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videolinks4u.net privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videolinks4u.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213911id_/http%3A//www.videolinks4u.net/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ Those between the age of sixteen and eighteen are to provide either of their par
 
 **Terms Of Use**
 
-Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/termsofuse.php). 
+Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20111231213911id_/http%3A//www.videolinks4u.net/termsofuse.php). 
 
 **Your Consent**
 
@@ -74,4 +74,4 @@ This policy was last modified on Dec 2009
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/contactus.php). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20111231213911id_/http%3A//www.videolinks4u.net/contactus.php). 
