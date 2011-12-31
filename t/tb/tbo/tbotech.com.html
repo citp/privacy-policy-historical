@@ -1,32 +1,46 @@
-<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2011-01-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110105111926id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tbotech.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231095209id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
 
+<base href="http://www.tbotech.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="description" content="Be assured that your shopping experience is completely safe. The order site is secured using a Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information.">
 <meta name="keywords" content="privacy policy">
 
 
-<link href="/skins/wg-bluedream-v2/customer/images/icons/favicon.ico" rel="shortcut icon">
+<link href="/skins/basic/customer/images/icons/favicon.ico" rel="shortcut icon">
 
-<link href="/skins/wg-bluedream-v2/customer/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/wg-bluedream-v2/customer/print.css" rel="stylesheet" media="print" type="text/css">
-<link href="/skins/wg-bluedream-v2/customer/dropdown.css" rel="stylesheet" type="text/css">
+
+<link href="/skins/basic/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-<link href="/skins/wg-bluedream-v2/customer/styles_ie.css" rel="stylesheet" type="text/css" />
+<link href="/skins/basic/customer/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/wg-bluedream-v2/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
+
+
+<link href="/skins/basic/customer/addons/janrain/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-<link href="/skins/wg-bluedream-v2/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
+<link href="/skins/basic/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/wg-bluedream-v2/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/wg-bluedream-v2/customer/addons/polls/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/wg-bluedream-v2/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/wg-bluedream-v2/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+<link href="/skins/basic/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/polls/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
+<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
+
+<script type="text/javascript" src="/js/editors/tinymce.editor.js"></script>
+
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
 <script type="text/javascript">
@@ -69,12 +83,10 @@ var lang = {
 	product_added_to_cl: 'Product was added to your Compare list',
 	close: 'Close',
 	error: 'Error',
-	error_ajax: 'Oops, something goes wrong ([error]). Please try again.',
+	error_ajax: 'Oops, something went wrong ([error]). Please try again.',
 	text_changes_not_saved: 'Your changes have not been saved.',
 	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
 }
-
-var warning_mark = "&lt;&lt;";
 
 var currencies = {
 	'primary': {
@@ -91,14 +103,19 @@ var currencies = {
 	}
 };
 
+var default_editor = 'tinymce';
+var default_previewer = 'fancybox';
+
 var cart_language = 'EN';
-var images_dir = '/skins/wg-bluedream-v2/customer/images';
+var images_dir = '/skins/basic/customer/images';
+var skin_name = 'basic';
 var notice_displaying_time = 5;
 var cart_prices_w_taxes = false;
 var translate_mode = false;
-var iframe_urls = new Array();
-var iframe_extra = new Array();
 var regexp = new Array();
+
+
+
 $(document).ready(function(){
 	jQuery.runCart('C');
 });
@@ -125,6 +142,22 @@ $(document).ready(function(){
 </script>
 <![endif]-->
 
+
+<script type="text/javascript" src="/addons/buy_together/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	lang['buy_together_fill_the_mandatory_fields'] = '_buy_together_fill_the_mandatory_fields';
+//]]>
+</script>
+<script type="text/javascript">
+	var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+	document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
+<script type="text/javascript">
+	RPXNOW.overlay = true;
+	RPXNOW.language_preference = 'en';
+</script>
 <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
@@ -132,11 +165,6 @@ $(document).ready(function(){
 	<a name="top"></a>
 	
 <div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
-	
-
-<div class="cm-notification-container">
-
-</div>
 
 	
 
@@ -144,10 +172,25 @@ $(document).ready(function(){
 
 
 <div id="container" class="container">
-		<div id="header"><div class="HeadTextWrapper">
-	<div class="HeadTexte">
+		<div id="header">
+<div class="header-helper-container">
+	<div class="logo-image">
+		<a href="/"><img src="/skins/basic/customer/images/selfdefense-logo.jpg" width="336" height="78" border="0" alt="Self Defense Products"></a>
+	</div>
+	
+	<p class="quick-links">&nbsp;
+			<a href="/">Home</a>
+			<a href="/shipping.htm">Shipping</a>
+			<a href="/contact-us.htm">Contact Us</a>
+			<a href="http://www.tbotech.com/blog/">Blog</a>
+			<a href="http://www.tbotech.com/forum/">Discussion Forum</a>
+			<a href="/gift-certificates.htm">Gift certificates</a>
+			<a href="/aboutus.htm">About Us</a>
+	</p>
+	
+	
 <div id="top_menu">
-<ul class="top-menu dropdown"><li class="first-level "><span class="wg-last"><a href="/">Home</a></span></li><li class="first-level "><span class="wg-last"><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span class="wg-last"><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span class="wg-last"><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="/aboutus.htm">Company</a></span>
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Home</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="/aboutus.htm">Company</a></span>
 <ul class="dropdown-vertical-rtl">
 			<li>
 		<a href="/aboutus.htm">About our company</a>
@@ -185,70 +228,21 @@ $(document).ready(function(){
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
-</div>
-<div id="wg-header">
-	<div class="topHeader">
-		<div>				
-											</div>
-		<p class="quick-links">&nbsp;
-			<a href="/">Home</a>
-			<a href="/shipping.htm">Shipping</a>
-			<a href="/contact-us.htm">Contact Us</a>
-			<a href="http://www.tbotech.com/blog/">Blog</a>
-			<a href="http://www.tbotech.com/forum/">Discussion Forum</a>
-			<a href="/aboutus.htm">About Us</a>
-	</p>
-	</div>	
-	<div class="midHeader">
-		<div class="logo">
-			<a href="index.php"><img src="/skins/wg-bluedream-v2/customer/images/selfdefenseproducts-logo.jpg" width="230" height="100" border="0" alt="TBO-TECH Self Defense Products"></a>
-		</div>
-		<div class="rightHeader">
-			<div class="l-header-cont">
-				<div class="header-auth" id="sign_io"><!--dynamic:sign_io-->
-					<h4>MY ACCOUNT</h4>
-																<a id="sw_login" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69">Sign in</a>
-						<!--[if lt IE 7]><a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69">Sign in</a><![endif]-->
-						<span class="cm-combination">/</span>
-						<a href="/index.php?dispatch=profiles.add">Register</a>
-											
-										
-					<br><span class="cm-combination"><a href="/index.php?dispatch=auth.recover_password" class="underlined">Forgot your password?</a></span>
-				<!--/dynamic--><!--sign_io--></div>
-			</div>
-			<div class="r-header-cont">
-				<div class="header-cart">
-					<h4>YOUR CART</h4>
-					
-<div id="cart_status">
-<!--dynamic:cart_status-->
-<div class="float-left">
-			<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/wg-bluedream-v2/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
-		
-	<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
-		<img src="/skins/wg-bluedream-v2/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
-		<div class="list-container">
-			<div class="list">
-							<p class="center">Cart is empty</p>
-						</div>
-			<div class="buttons-container">
-				<a href="/index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
-							</div>
-		</div>
-	</div>
-</div><!--/dynamic-->
 
-<div class="checkout-link">
+<div class="top-tools-container">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="top-tools-helper">
+		<div class="float-right" id="sign_io">
+			
+	<a id="sw_login" rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69">Sign in</a>
+	or
+	<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
 
-<a href="/index.php?dispatch=checkout.checkout">Checkout</a>
-
-</div>
-<!--cart_status--></div>				</div>
-			</div>
-			<div class="clear-both" style="padding-top:8px;"></div>
-			<div class="b-header"><form action="/" name="search_form" method="get">
+		<!--sign_io--></div>
+		<div class="top-search">
+			<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
-<input type="hidden" name="type" value="extended">
 <input type="hidden" name="status" value="A">
 <input type="hidden" name="pshort" value="Y">
 <input type="hidden" name="pfull" value="Y">
@@ -259,34 +253,60 @@ $(document).ready(function(){
 
 <span class="search-products-text">Search:</span>
 
-
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/wg-bluedream-v2/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="search.results"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
-
-</form>
-</div>
-		</div>
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="search.results"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+</form>		</div>
 	</div>
 </div>
 
-<div class="menu-spacer"><img src="/skins/wg-bluedream-v2/customer/images/spacer.gif" border="0" width="1" height="10" alt=""></div>	
-<div class="menu-spacer clear"></div>	</div>
+<div class="content-tools">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="content-tools-helper clear">
+		
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/basic/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box">
+			<img src="/skins/basic/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
+									</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="checkout-link">
+
+	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+
+	</div>
+	<!--cart_status--></div>
+		<div class="float-right">
+			
+			
+					</div>
+	</div>
+</div></div>
 		
 	<div id="content">
 		<div class="content-helper clear">
-						<div class="header">
-				<table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Product Review</span></h3>
-	<div class="sidebox-body"><p><strong>Your opinions are important to us! We would like to invite you to write a review about a product you have purchased or are familiar with.<br>It is easy - just go to the product page and click the "Review" tab.</strong></p></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div></td></tr></tbody></table>
-			</div>
 						
 						<div class="central-column">
 				<div class="central-content">
 					
 	<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/wg-bluedream-v2/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
 	</div>
+					
+
+
+<div class="cm-notification-container"></div>
+					
 					<div class="mainbox-container">
 		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
 		<div class="mainbox-body">
@@ -305,7 +325,8 @@ $(document).ready(function(){
 
 
 </div>
-</div><table style="width: 100%;" border="0">
+</div><div class="wysiwyg-content">
+<table style="width: 100%;" border="0">
 <tbody>
 <tr style="text-align: center;">
 <td>
@@ -333,11 +354,12 @@ $(document).ready(function(){
 <table style="width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img style="float: left; margin: 2px 4px;" src="/images/ups-logo.jpg" alt="" width="52" height="64">A<img style="float: left;" src="/images/usps.jpg" alt="" width="75" height="64">ll  orders are shipped the same day or within 24 business hours via UPS or  US Mail. We will do our best to ship all orders received by 1:30PM  Eastern time on the same day.</td>
+<td><img style="float: left; margin: 2px 4px;" src="/images/ups-logo.jpg" alt="" width="52" height="64">A<img style="float: left;" src="/images/usps.jpg" alt="" width="75" height="64">ll orders are shipped within 1-2 business days by the method of shipping&nbsp;chosen when checking out. Please read our <a href="http://www.tbotech.com/shipping.htm">Shipping Policy</a> for full details.</td>
 </tr>
 </tbody>
 </table>
-<p>Be assured that your shopping             experience is  completely safe. The order site is             secured using a SSL Web  Server Certificate             which encrypts all data to and from the  site. You             can be assured of the security of your              information.</p>
+<p>Be assured that your shopping experience is completely safe. The order site is secured using a SSL Web Server Certificate which encrypts all data to and from the site. You can be assured of the security of your information.</p>
+</div>
 				</div>
 			</div>
 		
@@ -345,146 +367,555 @@ $(document).ready(function(){
 				<div class="sidebox-categories-wrapper ">
 	<h3 class="sidebox-title"><span>Categories</span></h3>
 	<div class="sidebox-body">
-					<ul class="menu-root-categories">
-			<li><a href="/stun-guns.htm">Stun Guns</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/stun-guns/high-voltage-stun-guns.htm">High Voltage Stun Guns</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/low-voltage-stun-gun.htm">Low Voltage Stun Gun</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/small-stun-guns.htm">Small Stun Guns</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/stun-guns-for-women.htm">Stun Guns for Women</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/disguised-stun-guns.htm">Disguised Stun Guns</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/flashlight-stun-guns.htm">Flashlight Stun Guns</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/stun-guns-with-alarms.htm">Stun Guns with Alarms</a></li>
-							<li style="padding-left: 13px;"><a href="/stun-guns/rechargeable-stun-guns.htm">Rechargeable Stun Guns</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/stunbaton.htm">Stun Batons</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/cellphonestungun.htm">Cell Phone Stun Guns</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/taser-devices.htm">TASER® Devices</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/peppershotpeppersprays.htm">Pepper Shot Pepper Sprays</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/wildfire-pepper-spray.htm">Wildfire Pepper Spray</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/mace-pepper-spray.htm">Mace Pepper Spray</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/mace-pepper-spray/mace-peppergard-pepperspray.htm">Mace PepperGard</a></li>
-							<li style="padding-left: 13px;"><a href="/mace-pepper-spray/michigan-pepper-spray.htm">Michigan Approved Sprays</a></li>
-							<li style="padding-left: 13px;"><a href="/mace-pepper-spray/triple-action-pepper-spray.htm">Triple Action Pepper Spray</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/animal-repellents.htm">Animal Repellents</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/police.htm">Police Supplies</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/spy-surveillance.htm">Spy &amp; Surveillance</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/hidden-cameras.htm">Wireless Nanny Cams</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/fake-surveillance-camera.htm">Fake Surveillance Cameras</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/personal-alarms.htm">Personal Alarms</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/homeprotection.htm">Wireless Home Alarms</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/infrared-motion-alarms.htm">Infrared Motion Alarms</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/biometric-fingerprint-locks.htm">Biometric Fingerprint Locks</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/safe-family-life.htm">SafeFamilyLife™ Kits</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/college-safety-kits.htm">College Safety Kits</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/home-safety.htm">Other Home Safety Items</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/diversionsafes.htm">Diversion Safes</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/key-hider.htm">Key Hiders</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/safety-lights.htm">Safety Lights</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/weapons.htm">Weapons</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/foldingknives.htm">Folding Knives</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/knives.htm">Knives</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/throwing-knives.htm">Throwing Knives</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/throwing-stars.htm">Throwing Star Sets</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/ninja-star.htm">Single Ninja Stars</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/ninjagear.htm">Ninja Gear</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/martialartsvideos.htm">Instructional Fighting DVDs</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/sporting-goods.htm">Sporting Goods</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/blowgun-accessories.htm">Blowgun Accessories</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/blowgun-accessories/blowgun-and-slingshot-ammunition.htm">Blowgun and Slingshot Ammunition</a></li>
-				</ul>
-	</div>
+<div class="clear">
+	<ul id="vmenu_1" class="dropdown dropdown-vertical">
+		<li class="dir"><ul><li><a href="/stun-guns/high-voltage-stun-guns.htm">High Voltage Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/low-voltage-stun-gun.htm">Low Voltage Stun Gun</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/small-stun-guns.htm">Small Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/stun-guns-for-women.htm">Stun Guns for Women</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/disguised-stun-guns.htm">Disguised Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/flashlight-stun-guns.htm">Flashlight Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/stun-guns-with-alarms.htm">Stun Guns with Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/stun-guns/rechargeable-stun-guns.htm">Rechargeable Stun Guns</a></li></ul><a href="/stun-guns.htm">Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/special.htm">Special Package Deals</a></li><li class="h-sep">&nbsp;</li><li><a href="/stunbaton.htm">Stun Batons</a></li><li class="h-sep">&nbsp;</li><li><a href="/cellphonestungun.htm">Cell Phone Stun Guns</a></li><li class="h-sep">&nbsp;</li><li><a href="/taser-devices.htm">TASER® Devices</a></li><li class="h-sep">&nbsp;</li><li><a href="/peppershotpeppersprays.htm">Pepper Shot</a></li><li class="h-sep">&nbsp;</li><li><a href="/wildfire-pepper-spray.htm">Wildfire Pepper Spray</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/mace-pepper-spray/mace-peppergard-pepperspray.htm">Mace PepperGard</a></li><li class="h-sep">&nbsp;</li><li><a href="/mace-pepper-spray/michigan-pepper-spray.htm">Michigan Approved Sprays</a></li><li class="h-sep">&nbsp;</li><li><a href="/mace-pepper-spray/triple-action-pepper-spray.htm">Triple Action Pepper Spray</a></li></ul><a href="/mace-pepper-spray.htm">Mace Pepper Spray</a></li><li class="h-sep">&nbsp;</li><li><a href="/animal-repellents.htm">Animal Repellents</a></li><li class="h-sep">&nbsp;</li><li><a href="/police.htm">Police Supplies</a></li><li class="h-sep">&nbsp;</li><li><a href="/spy-surveillance.htm">Spy &amp; Surveillance</a></li><li class="h-sep">&nbsp;</li><li><a href="/hidden-cameras.htm">Wireless Nanny Cams</a></li><li class="h-sep">&nbsp;</li><li><a href="/fake-surveillance-camera.htm">Fake Dummy Cameras</a></li><li class="h-sep">&nbsp;</li><li><a href="/personal-alarms.htm">Personal Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/homeprotection.htm">Wireless Home Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/infrared-motion-alarms.htm">Infrared Alarms</a></li><li class="h-sep">&nbsp;</li><li><a href="/biometric-fingerprint-locks.htm">Biometric Locks</a></li><li class="h-sep">&nbsp;</li><li><a href="/safe-family-life.htm">SafeFamilyLife™ Kits</a></li><li class="h-sep">&nbsp;</li><li><a href="/college-safety-kits.htm">College Safety Kits</a></li><li class="h-sep">&nbsp;</li><li><a href="/home-safety.htm">Home Safety Items</a></li><li class="h-sep">&nbsp;</li><li><a href="/diversionsafes.htm">Diversion Safes</a></li><li class="h-sep">&nbsp;</li><li><a href="/key-hider.htm">Key Hiders</a></li><li class="h-sep">&nbsp;</li><li><a href="/safety-lights.htm">Safety Lights</a></li><li class="h-sep">&nbsp;</li><li><a href="/weapons.htm">Weapons</a></li><li class="h-sep">&nbsp;</li><li><a href="/foldingknives.htm">Folding Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/knives.htm">Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/throwing-knives.htm">Throwing Knives</a></li><li class="h-sep">&nbsp;</li><li><a href="/throwing-stars.htm">Throwing Star Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/ninja-star.htm">Single Ninja Stars</a></li><li class="h-sep">&nbsp;</li><li><a href="/ninjagear.htm">Ninja Gear</a></li><li class="h-sep">&nbsp;</li><li><a href="/martialartsvideos.htm">Fighting DVDs</a></li><li class="h-sep">&nbsp;</li><li><a href="/sporting-goods.htm">Sporting Goods</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/blowgun-accessories/blowgun-and-slingshot-ammunition.htm">Blowgun and Slingshot Ammunition</a></li></ul><a href="/blowgun-accessories.htm">Blowgun Accessories</a></li>	</ul>
+</div></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div><div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>Newest Products</span></h3>
+	<div class="sidebox-body">
+	
+	
+
+<ul>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_69000360" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php">
+<input type="hidden" name="product_data[360][product_id]" value="360">
+
+			<div class="item-image product-item-image">
+				<a href="/pink-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/RUNT-45RPINK.jpg" width="40" height="40" alt="Pink Stun Gun" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/pink-stun-gun.htm" class="product-title">Pink Stun Gun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-69000360 price-update" id="price_update_69000360">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_69000360"><span class="price">$</span><span id="sec_discounted_price_69000360" class="price">50.96</span></span>
+													<!--price_update_69000360--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_69000361" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php">
+<input type="hidden" name="product_data[361][product_id]" value="361">
+
+			<div class="item-image product-item-image">
+				<a href="/mini-stun-night-stick.htm"><img class=" " src="/images/thumbnails/1/40/40/mini-stun-night-stick.jpg" width="40" height="40" alt="Mini Stun Gun Night Stick" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/mini-stun-night-stick.htm" class="product-title">Mini Stun Night Stick</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-69000361 price-update" id="price_update_69000361">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_69000361"><span class="price">$</span><span id="sec_discounted_price_69000361" class="price">53.51</span></span>
+													<!--price_update_69000361--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_69000359" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php">
+<input type="hidden" name="product_data[359][product_id]" value="359">
+
+			<div class="item-image product-item-image">
+				<a href="/cell-phone-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/ImmobilizerStunGun.jpg" width="40" height="40" alt="" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/cell-phone-stun-gun.htm" class="product-title">Immobilizer Cell Phone Stun Gun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-69000359 price-update" id="price_update_69000359">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_69000359"><span class="price">$</span><span id="sec_discounted_price_69000359" class="price">62.01</span></span>
+													<!--price_update_69000359--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_69000358" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php">
+<input type="hidden" name="product_data[358][product_id]" value="358">
+
+			<div class="item-image product-item-image">
+				<a href="/liquid-wrench-hidden-safe.htm"><img class=" " src="/images/thumbnails/0/40/40/csliq1largeimage.jpg" width="40" height="40" alt="" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/liquid-wrench-hidden-safe.htm" class="product-title">Liquid Wrench Hidden Safe</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-69000358 price-update" id="price_update_69000358">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_69000358"><span class="price">$</span><span id="sec_discounted_price_69000358" class="price">16.15</span></span>
+													<!--price_update_69000358--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_69000357" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php">
+<input type="hidden" name="product_data[357][product_id]" value="357">
+
+			<div class="item-image product-item-image">
+				<a href="/mini-wireless-spy-camera.htm"><img class=" " src="/images/thumbnails/0/40/40/mini-spy-cam.jpg" width="40" height="40" alt="" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/mini-wireless-spy-camera.htm" class="product-title">Mini Wireless Spy Camera - OUT OF STOCK till 01/06/2012</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-69000357 price-update" id="price_update_69000357">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_69000357"><span class="price">$</span><span id="sec_discounted_price_69000357" class="price">84.15</span></span>
+													<!--price_update_69000357--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+	</ul></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div><div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
+	<div class="sidebox-body">
+	
+	
+
+<ul>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_3000320" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=138">
+<input type="hidden" name="product_data[320][product_id]" value="320">
+
+			<div class="item-image product-item-image">
+				<a href="/lipstick-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/SM-LIPSTICK.jpg" width="40" height="40" alt="Lipstick Stun Gun" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/lipstick-stun-gun.htm" class="product-title">Lipstick Stun Gun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-3000320 price-update" id="price_update_3000320">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_3000320"><span class="price">$</span><span id="sec_discounted_price_3000320" class="price">25.46</span></span>
+													<!--price_update_3000320--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_300033" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=138">
+<input type="hidden" name="product_data[33][product_id]" value="33">
+
+			<div class="item-image product-item-image">
+				<a href="/pretender-cellphone-stungun.htm"><img class=" " src="/images/thumbnails/0/40/40/pretendercellphonestungun.jpg" width="40" height="40" alt="cell phone stun gun" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/pretender-cellphone-stungun.htm" class="product-title">Pretender Cellphone Stungun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-300033 price-update" id="price_update_300033">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_300033"><span class="price">$</span><span id="sec_discounted_price_300033" class="price">55.21</span></span>
+													<!--price_update_300033--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_30001" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=138">
+<input type="hidden" name="product_data[1][product_id]" value="1">
+
+			<div class="item-image product-item-image">
+				<a href="/stun-master-stun-gun.htm"><img class=" " src="/images/thumbnails/1/40/40/multi-function-stun-gun.jpg" width="40" height="40" alt="Multi Function Stun Gun" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/stun-master-stun-gun.htm" class="product-title">Stun Master Stun Gun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-30001 price-update" id="price_update_30001">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_30001"><span class="price">$</span><span id="sec_discounted_price_30001" class="price">48.41</span></span>
+													<!--price_update_30001--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+		<li class="delim">&nbsp;</li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<li class="compact">
+				<form action="/" method="post" name="product_form_300019" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=138">
+<input type="hidden" name="product_data[19][product_id]" value="19">
+
+			<div class="item-image product-item-image">
+				<a href="/blow-gun.htm"><img class=" " src="/images/thumbnails/0/40/40/blow-gun.jpg" width="40" height="40" alt="Blowgun" border="0"></a>
+			</div>
+			<div class="item-description">
+											<a href="/blow-gun.htm" class="product-title">Blow Gun</a>	
+
+				<div class="margin-top">
+															
+											<span class="cm-reload-300019 price-update" id="price_update_300019">
+		<input type="hidden" name="appearance[show_price_values]" value="1">
+		<input type="hidden" name="appearance[show_price]" value="1">
+																	<span class="price" id="line_discounted_price_300019"><span class="price">$</span><span id="sec_discounted_price_300019" class="price">7.61</span></span>
+													<!--price_update_300019--></span>
+
+				</div>
+
+											</div>
+				</form>
+
+	</li>
+	</ul></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
 			</div>
 						
 						<div class="right-column">
 				<div class="sidebox-wrapper ">
+	<h3 class="sidebox-title"><span>Join our Mailing List</span></h3>
+	<div class="sidebox-body"><div class="wysiwyg-content">
+<!-- Do not modify the NAME value of any of the INPUT fields the FORM action, or any of the hidden fields (eg. input type=hidden). These are all required for this form to function correctly. --> <form id="frmSS4" action="http://www.tbotech.com/iem/form.php?form=4" method="post"> 
+<table border="0">
+<tbody>
+<tr>
+<td>First Name:<br><input id="CustomFields_2_4" name="CustomFields[2]" size="15" type="text"></td>
+</tr>
+<tr>
+<td><span class="required">*</span> Your Email Address:<br><input name="email" size="15" type="text"></td>
+</tr>
+<input name="format" type="hidden" value="h"> 
+<tr>
+<td align="center"><input type="submit" value="Subscribe"></td>
+</tr>
+</tbody>
+</table>
+</form>
+<script type="text/javascript">// <![CDATA[
+			function CheckMultiple4(frm, name) {
+				for (var i=0; i < frm.length; i++)
+				{
+					fldObj = frm.elements[i];
+					fldId = fldObj.id;
+					if (fldId) {
+						var fieldnamecheck=fldObj.id.indexOf(name);
+						if (fieldnamecheck != -1) {
+							if (fldObj.checked) {
+								return true;
+							}
+						}
+					}
+				}
+				return false;
+			}
+		function CheckForm4(f) {
+			var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+			if (!email_re.test(f.email.value)) {
+				alert("Please enter your email address.");
+				f.email.focus();
+				return false;
+			}
+		
+				return true;
+			}
+// ]]></script>
+</div></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Free Shipping</span></h3>
-	<div class="sidebox-body"><p style="text-align: center;">Free Ground Shipping on all orders over $75.00!</p>
-<p style="text-align: center;"><span style="color: #800000;"><strong>Order now!<br></strong></span></p></div>
+	<div class="sidebox-body"><div class="wysiwyg-content">
+<p><img style="float: left;" src="https://www.tbotech.com/images/shipping-4.jpg" alt="" width="160" height="44"></p>
+<p style="text-align: left;">Free Ground Shipping on all orders over $75.00!</p>
+<p style="text-align: left;"><span style="color: #800000;"><strong>Place Your Order Now!</strong></span></p>
+</div></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Better Business Bureau Member</span></h3>
-	<div class="sidebox-body"><p><a href="http://www.bbbonline.org/cks.asp?id=106101710321430" target="_blank"><img title="Click to verify BBB accreditation and to see a BBB report." src="/images/bbbsealh1.gif" border="0" alt="Click to verify BBB accreditation and to see a BBB report."></a></p></div>
+	<div class="sidebox-body"><div class="wysiwyg-content">
+<a title="Click for the Business Review of TBO-TECH, INC, a Self Defense Products store in Raeford NC" href="http://www.bbb.org/myrtle-beach/business-reviews/self-defense/tbo-tech-inc-in-raeford-nc-1000591#sealclick"><img alt="TBO-TECH, INC is a BBB Accredited Business. Click for the BBB Business Review of this Self Defense in Raeford NC" style="border: 0;" src="http://seal-myrtlebeach.bbb.org/seals/blue-seal-150-110-tbotechinc-1000591.png"></a>
+</div></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Site News</span></h3>
 	<div class="sidebox-body"><ul>
-	<li><strong>11/16/2010</strong></li>
-	<li><a href="/hot-shot-stun-gun-is-back-in-stock.htm#7">HOT SHOT Stun Gun is BACK IN STOCK!</a></li>
+	<li><strong>07/01/2011</strong></li>
+	<li><a href="/tbo-tech-in-newly-published-book.htm">TBO-TECH in Newly Published Book!</a></li>
 		<li class="delim"></li>
-		<li><strong>10/08/2010</strong></li>
-	<li><a href="/pocket-survival-pak.htm#4">Pocket Survival Pak</a></li>
+		<li><strong>02/13/2011</strong></li>
+	<li><a href="/new-wildfire-pepper-gel.htm">NEW Wildfire Pepper Gel!</a></li>
 		<li class="delim"></li>
-		<li><strong>08/31/2010</strong></li>
-	<li><a href="/new-site-design.htm#3">New Site Design</a></li>
+		<li><strong>11/16/2010</strong></li>
+	<li><a href="/hot-shot-stun-gun-is-back-in-stock.htm">HOT SHOT Stun Gun is BACK IN STOCK!</a></li>
 	</ul>
 
 <p class="right">
@@ -507,7 +938,7 @@ $(document).ready(function(){
 	<li class=""><a href="/poll-of-the-week.htm">Poll Question</a>
 </li>
 <li class="delim"></li>	
-	<li class=""><a href="/privacy.htm">Privacy Policy</a>
+	<li class=" active"><a href="/privacy.htm">Privacy Policy</a>
 </li>
 <li class="delim"></li>	
 	<li class=""><a href="/return.htm">Return Policy</a>
@@ -524,68 +955,57 @@ $(document).ready(function(){
 </ul>
 </div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div><div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
-	<div class="sidebox-body"><ul class="bullets-list">
-
-	<li>
-		<a href="/pretender-cellphone-stungun.htm" title="Pretender Cellphone Stungun">Pretender Cellphone Stungun</a>
-	</li>
-	<li>
-		<a href="/lipstick-stun-gun.htm" title="Lipstick Stun Gun">Lipstick Stun Gun</a>
-	</li>
-	<li>
-		<a href="/stun-master-stun-gun.htm" title="Stun Master Stun Gun">Stun Master Stun Gun</a>
-	</li>
-
-</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
 			</div>
 									
-					</div>
-	</div>
-	
-	</div>
-
-<div id="outerfooter">
-	<div class="wg-footer">
-		<dl id="wg-footer">
-						<dd class="topics">
-	<h3>My account</h3>
-	<div><!--dynamic:my_account-->
-
+						<div class="bottom clear-both">
+				<table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="wysiwyg-content">
+<p><a href="http://simplesteps.youareprepared.com/aff_c?offer_id=15&amp;aff_id=1347&amp;random_url=1" target="_blank"><img src="http://media.go2speed.org/brand/files/deltamedia/15/yap_7secrets_200x200.jpg" border="0" alt="" width="200" height="200"></a></p>
+</div></td><td width="10"></td><td><div class="mainbox2-container">
+	<h1 class="mainbox2-title clear"><span>My account</span></h1>
+	<div class="mainbox2-body">
 <ul class="arrows-list">
-			<li><a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69" class="underlined">Sign in</a> / <a href="/index.php?dispatch=profiles.add" class="underlined">Register</a></li>
-		<li><a href="/index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+			<li><a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D69" rel="nofollow" class="underlined">Sign in</a> / <a href="/index.php?dispatch=profiles.add" rel="nofollow" class="underlined">Register</a></li>
+		<li><a href="/index.php?dispatch=orders.search" rel="nofollow" class="underlined">Orders</a></li>
+
 
 </ul>
 
-<div class="updates-wrapper">
+<div class="updates-wrapper" id="track_orders">
 
 <form action="/" method="get" class="cm-ajax" name="track_order_quick">
-<p>Track my order(s):</p><div class="form-field"><label for="track_order_item5" class="cm-required hidden">Track my order(s):</label><input type="text" size="20" class="input-text cm-hint" id="track_order_item5" name="track_data" value="Order ID/Email"><input type="image" src="/skins/wg-bluedream-v2/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button"><input type="hidden" name="dispatch" value="orders.track_request"></div>
+<input type="hidden" name="result_ids" value="track_orders">
+
+<p>Track my order(s):</p>
+
+<div class="form-field">
+<label for="track_order_item5" class="cm-required hidden">Track my order(s):</label>
+	<div class="float-left"><input type="text" size="20" class="input-text cm-hint" style="float: left;" id="track_order_item5" name="track_data" value="Order ID/Email"></div>
+	<div class="float-right"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button">
+<input type="hidden" name="dispatch" value="orders.track_request"></div>
+	<div class="clear-both"></div>
+	</div>
+
 </form>
 
-</div>
-<!--/dynamic--></div>
-</dd><dd class="topics">
-	<h3>Site news</h3>
-	<div><ul class="site-news">
+<!--track_orders--></div></div>
+	<div class="mainbox2-bottom"><span>&nbsp;</span></div>
+</div></td><td width="10"></td><td><div class="mainbox2-container">
+	<h1 class="mainbox2-title clear"><span>Site news</span></h1>
+	<div class="mainbox2-body"><ul class="site-news">
 	<li>
+		<strong>07/01/2011</strong>
+		<a href="/tbo-tech-in-newly-published-book.htm">TBO-TECH in Newly Published Book!</a>
+	</li>
+		<li class="delim"></li>
+		<li>
+		<strong>02/13/2011</strong>
+		<a href="/new-wildfire-pepper-gel.htm">NEW Wildfire Pepper Gel!</a>
+	</li>
+		<li class="delim"></li>
+		<li>
 		<strong>11/16/2010</strong>
-		<a href="/hot-shot-stun-gun-is-back-in-stock.htm#7">HOT SHOT Stun Gun is BACK IN STOCK!</a>
-	</li>
-		<li class="delim"></li>
-		<li>
-		<strong>10/08/2010</strong>
-		<a href="/pocket-survival-pak.htm#4">Pocket Survival Pak</a>
-	</li>
-		<li class="delim"></li>
-		<li>
-		<strong>08/31/2010</strong>
-		<a href="/new-site-design.htm#3">New Site Design</a>
+		<a href="/hot-shot-stun-gun-is-back-in-stock.htm">HOT SHOT Stun Gun is BACK IN STOCK!</a>
 	</li>
 	</ul>
 
@@ -593,21 +1013,55 @@ $(document).ready(function(){
 	<a href="/index.php?dispatch=news.list" class="extra-link">view all</a>
 </p>
 </div>
-</dd><dd class="topics">
-	<h3>Secure Site</h3>
-	<div><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=IpJDqvS5luNJb1vp38tsqnSuXeMw3cpZH1kyJ3KM2zviRWgxsR"></script></span></div>
-</dd>
-						<dd class="topicsFour">
-				<img src="/skins/wg-bluedream-v2/customer/images/wg_skin/protect-yourself.gif" alt="Protect Yourself">			
-			</dd>	
-		</dl>
-		<div class="clear-both"></div>
-		<div class="bottom-fix">
-						<p class="copyright_text-l"><a href="index.php">© 2000-2011 TBO-TECH Self Defense Products, All rights reserved.</a>
-			</p>
-						<p class="copyright_text-r">
-			Email: customerservice@tbotech.com &nbsp; &nbsp; &nbsp;Phone: 910-878-5722
-			</p>
+	<div class="mainbox2-bottom"><span>&nbsp;</span></div>
+</div></td><td width="10"></td><td><div class="mainbox2-container">
+	<h1 class="mainbox2-title clear"><span>Secure Site</span></h1>
+	<div class="mainbox2-body"><div class="wysiwyg-content">
+<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=IpJDqvS5luNJb1vp38tsqnSuXeMw3cpZH1kyJ3KM2zviRWgxsR"></script></span>
+</div></div>
+	<div class="mainbox2-bottom"><span>&nbsp;</span></div>
+</div></td></tr></tbody></table>
+			</div>
+					</div>
+	</div>
+	
+	<div id="footer">
+		<div class="footer-helper-container">
+			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+			
+<div class="bottom-search center">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<form action="/" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+ 
+
+<span class="search-products-text">Search:</span>
+
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/basic/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="search.results">
+</form></div>
+<p class="quick-links">
+			<a href="/">Home</a>
+			<a href="/shipping.htm">Shipping</a>
+			<a href="/contact-us.htm">Contact Us</a>
+			<a href="http://www.tbotech.com/blog/">Blog</a>
+			<a href="http://www.tbotech.com/forum/">Discussion Forum</a>
+			<a href="/gift-certificates.htm">Gift certificates</a>
+			<a href="/aboutus.htm">About Us</a>
+	</p>
+<p class="bottom-copyright class">© 2000-2011 TBO-TECH Self Defense Products. &nbsp;Powered by <a href="http://www.cs-cart.com" target="_blank">Ecommerce shop</a>
+</p>
+
+
+
+
+			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
 		</div>
 	</div>
 </div>
@@ -630,7 +1084,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1294226366
+			've[time_begin]': 1325325129.21
 		},
 		hidden: true
 	});
@@ -639,7 +1093,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy.htm&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.tbotech.com%2F&amp;ve%5Btime_begin%5D=1294226366" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy.htm&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1325325129.21" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
