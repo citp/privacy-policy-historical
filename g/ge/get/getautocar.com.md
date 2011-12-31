@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getautocar.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615025400id_/http%3A//getautocar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getautocar.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213213id_/http%3A//getautocar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New and used Car Buying Guide with Car Reviews, Pictures, And Auto insurance ,Auto loans,Car Finance Advice.
 
