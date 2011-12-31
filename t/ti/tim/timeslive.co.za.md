@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512192951id_/http%3A//www.timeslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231042334id_/http%3A//www.timeslive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
 
-# 
+# Privacy and Policy - Times LIVE
 
-Please read the [Privacy Policy](http://www.timeslive.co.za/?filter=privacy) and our notices regarding [Terms of Use](http://www.timeslive.co.za/?filter=termsofuse) and Forums. By continuing to use the Times LIVE, you agree to abide by the terms of these documents. 
+Please read the [Privacy Policy](http://www.timeslive.co.za/?filter=privacyAndPolicy) and our notices regarding [Terms of Use](http://www.timeslive.co.za/?filter=termsandconditions) and Forums. By continuing to use the Times LIVE, you agree to abide by the terms of these documents. 
 
 1\. Introduction
 
