@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626093711id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213010id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.*
 
-# web policy connecticut real estate, massachusetts real estate, rhode island real estate, new york real estate, and newport real estate from william raveis real estate
+# William Raveis Real Estate Privacy Policy
 
 William Raveis Real Estate, Inc. ("Raveis") respects your privacy and is committed to protecting it. Therefore, when it comes to information that personally identifies you and/or allows you to be individually contacted ("Personal Information"), Raveis has adopted the following privacy policy to fully protect you.
 
