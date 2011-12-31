@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtoolsupply.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504213221id_/http%3A//www.techtoolsupply.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtoolsupply.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210203id_/http%3A//www.techtoolsupply.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Cable and Satellite Tools - Distributor of Tools for CATV, Satellite, Home Theater, Security, Telecom
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110504213221id_/http%3A//www.techtoolsupply.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111231210203id_/http%3A//www.techtoolsupply.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
