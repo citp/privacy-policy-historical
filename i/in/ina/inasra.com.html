@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inasra.com privacy policy that was archived on 2011-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110505011637id_/http%3A//www.stayzilla.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inasra.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211531id_/http%3A//www.stayzilla.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta name="google-site-verification" content="7pkrxs6WrljSLBMcpO7a3g-BFrg-MT-_Zlb8x29rKuA">
@@ -16,6 +16,7 @@
 
 <meta name="verify-v1" content="NEkc+TmaxZW9FzxdvXOiLw/yXciiptKr419L7l0FeDo=">
 <link href="/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/css/print_style.css" type="text/css" media="print">
 
 </head>
 <body>
@@ -48,7 +49,8 @@
 							<li class="dividor">|</li>																					
 							<li><a href="http://www.stayzilla.com/contactus.php">CONTACT US</a></li>
 							<li class="dividor" id="licondi">|</li>
-							<li id="liregm" style="display:;"><a href="javascript:void(0);" id="regbtn">REGISTER</a></li>	<li style="display:;" id="liregdi" class="dividor">|</li>							
+							<li id="liregm" style="display:;"><a href="javascript:void(0);" id="regbtn">REGISTER</a></li>	<li style="display:;" id="liregdi" class="dividor">|</li>
+							<li style="display: none;" id="limyacm"><a id="myacbtn" href="javascript:void(0);">MY ACCOUNT</a></li>    <li class="dividor" id="limyacdi" style="display: none;">|</li>
 							<li><div class="logindiv" id="logindiv"></div></li>
 						</ul>
 					</div>					
@@ -56,93 +58,7 @@
 				</div> 
 				<!--- mainmenu end -->	
 				<div style="clear:both;"></div>
-				<div id="autocomplete_choices" class="autocomplete" style="width:200px;display:none;">
-				</div>
-				<div id="ins_datepicker" style="display:none;">
-				</div>
-
-				<!--- search end -->
-				<div id="search" style="display:none;">
-					<div id="search_form">
-						 <div id="hotels_sf" class="search_form">
-							<form id="hotels_form" name="hotels_form" action="#search_hotels" method="get" onsubmit="return false;">
-							<input type="hidden" name="pid" value="1">
-							<input type="hidden" name="locid" value="8" id="ajh_locid">
-							<input type="hidden" name="k" value="Hotels">
-							<div id="txtBox1">
-								<p><input class="city" type="text" id="autocomplete" name="autocomplete_parameter" value="Mumbai" onfocus="this.select();field_focus(2,'hotels_form');"></p>
-								<span id="indicator1" style="display: none;">
-										<img width="16px" height="16px" src="/ajax-loader.gif" alt="Working...">
-								</span>
-								<span>City<span id="city_box_msg" style="">: </span></span>
-								<span style=" clear:both;"></span>							  
-							</div>
-							
-							<div id="txtBox2">
-								<p><input type="text" id="hotels_form_checkin_date" name="checkin" value="11/05/2011" class="date" onfocus="cal_show(0,'hotels_form');"></p>
-								<span style=" clear:both;"></span>							  
-								<span>Check-In</span>
-							</div>						 
-							
-							<div id="txtBox2">
-								<p><input type="text" id="hotels_form_checkout_date" name="checkout" value="14/05/2011" class="date" onfocus="cal_show(1,'hotels_form');"></p>
-								<span style=" clear:both;"></span>
-								<span>Check-Out</span>
-							</div>
-							
-							<div id="txtBox3">
-								<input type="image" class="sbutton" width="99" height="27" src="/images/search-hotel-btn.jpg" alt="Search Hotels" id="submit_hsearch" onfocus="field_focus(2,'hotels_form');">
-							</div>
-						</form>
-						</div>
-						 
-						<div id="packages_sf" class="search_form" style="display:none;">
-							<form id="packages_form" name="packages_form" action="#search_packages" method="get" onsubmit="return false;">
-							<input type="hidden" name="pid" value="1">
-							<input type="hidden" name="locid" value="8" id="ajp_locid">
-							<input type="hidden" name="continue" value="Continue">
-							<div id="txtBox1">
-								<p><select name="city" class="pack"><option selected="selected">Select</option> <option value=" Nainital"> Nainital</option> <option value="Agartala">Agartala</option> <option value="Agra" selected="selected">Agra</option> <option value="Ahmedabad">Ahmedabad</option> <option value="Ajmer">Ajmer</option> <option value="Alapuzha">Alapuzha</option> <option value="Alleppey">Alleppey</option> <option value="Almora">Almora</option> <option value="Alwar">Alwar</option> <option value="Amritsar">Amritsar</option> <option value="Aurangabad">Aurangabad</option> <option value="Badrinath">Badrinath</option> <option value="Bahadurgarh">Bahadurgarh</option> <option value="Bandipur">Bandipur</option> <option value="Bangalore">Bangalore</option> <option value="Bareilly">Bareilly</option> <option value="Bengalooru">Bengalooru</option> <option value="Bharatpur">Bharatpur</option> <option value="Bhimtal">Bhimtal</option> <option value="Bhubaneshwar">Bhubaneshwar</option> <option value="Bhuvaneshwar">Bhuvaneshwar</option> <option value="Bulandshahar">Bulandshahar</option> <option value="Chail">Chail</option> <option value="Chalsa">Chalsa</option> <option value="Chamba">Chamba</option> <option value="Chennai">Chennai</option> <option value="Chikmagalur">Chikmagalur</option> <option value="Cochin">Cochin</option> <option value="Coorg">Coorg</option> <option value="Corbett">Corbett</option> <option value="Dalhousie">Dalhousie</option> <option value="Dandeli">Dandeli</option> <option value="Darjeeling">Darjeeling</option> <option value="Dausa">Dausa</option> <option value="Dehradun">Dehradun</option> <option value="Delhi">Delhi</option> <option value="Dharamshala">Dharamshala</option> <option value="Dharmasala">Dharmasala</option> <option value="Digha">Digha</option> <option value="Gandhinagar">Gandhinagar</option> <option value="Gangtok">Gangtok</option> <option value="Ghangharia">Ghangharia</option> <option value="Goa">Goa</option> <option value="Gokarna">Gokarna</option> <option value="Gopalpur">Gopalpur</option> <option value="Gulmarg">Gulmarg</option> <option value="Gurgaon">Gurgaon</option> <option value="Gwalior">Gwalior</option> <option value="Hampi">Hampi</option> <option value="Haridwar">Haridwar</option> <option value="Hassan">Hassan</option> <option value="Hyderabad">Hyderabad</option> <option value="Idukki">Idukki</option> <option value="Indore">Indore</option> <option value="Jabalpur">Jabalpur</option> <option value="Jaipur">Jaipur</option> <option value="Jaisalmer">Jaisalmer</option> <option value="Jammu">Jammu</option> <option value="Jodhpur">Jodhpur</option> <option value="Kabini">Kabini</option> <option value="Kadalikad">Kadalikad</option> <option value="Kalimpong">Kalimpong</option> <option value="Kanha">Kanha</option> <option value="Kanyakumari">Kanyakumari</option> <option value="Kargil">Kargil</option> <option value="Karwar">Karwar</option> <option value="Kasauli">Kasauli</option> <option value="Kausani">Kausani</option> <option value="Khajuraho">Khajuraho</option> <option value="Khuri">Khuri</option> <option value="Kochi">Kochi</option> <option value="Kodaikanal">Kodaikanal</option> <option value="Kolkata">Kolkata</option> <option value="Kollam">Kollam</option> <option value="Kosi">Kosi</option> <option value="Kota">Kota</option> <option value="Kotputli">Kotputli</option> <option value="Kottayam">Kottayam</option> <option value="Kovalam">Kovalam</option> <option value="Kozhikode">Kozhikode</option> <option value="Kullu">Kullu</option> <option value="Kumarakom">Kumarakom</option> <option value="Kumbhalgarh">Kumbhalgarh</option> <option value="Lonavala">Lonavala</option> <option value="Lucknow">Lucknow</option> <option value="Madikeri">Madikeri</option> <option value="Madurai">Madurai</option> <option value="Magundi">Magundi</option> <option value="Mahabaleshwar">Mahabaleshwar</option> <option value="Manali">Manali</option> <option value="Masinagudi">Masinagudi</option> <option value="Matheran">Matheran</option> <option value="Mount Abu">Mount Abu</option> <option value="Mukteshwar">Mukteshwar</option> <option value="Mumbai">Mumbai</option> <option value="Munnar">Munnar</option> <option value="Mussoorie">Mussoorie</option> <option value="Mysore">Mysore</option> <option value="Nainital">Nainital</option> <option value="New Delhi">New Delhi</option> <option value="Ooty">Ooty</option> <option value="Ooty">Ooty</option> <option value="Pahalgam">Pahalgam</option> <option value="Palakkad">Palakkad</option> <option value="Parwanoo">Parwanoo</option> <option value="Patnitop">Patnitop</option> <option value="Pondicherry">Pondicherry</option> <option value="Port Blair">Port Blair</option> <option value="Puducherry">Puducherry</option> <option value="Pune">Pune</option> <option value="Puri">Puri</option> <option value="Pushkar">Pushkar</option> <option value="Raigad">Raigad</option> <option value="Rajkot">Rajkot</option> <option value="Rameswaram">Rameswaram</option> <option value="Ramnagar">Ramnagar</option> <option value="Ramnager">Ramnager</option> <option value="Rampur">Rampur</option> <option value="Ranikhet">Ranikhet</option> <option value="Ranthambore">Ranthambore</option> <option value="Ratnagiri">Ratnagiri</option> <option value="Ravangla">Ravangla</option> <option value="Rishikesh">Rishikesh</option> <option value="Saputara">Saputara</option> <option value="Sariska">Sariska</option> <option value="Sattal">Sattal</option> <option value="Sawai Madhopur">Sawai Madhopur</option> <option value="Shekhawati">Shekhawati</option> <option value="Shillong">Shillong</option> <option value="Shimla">Shimla</option> <option value="Shirdi">Shirdi</option> <option value="Siliguri">Siliguri</option> <option value="Solan">Solan</option> <option value="Srinagar">Srinagar</option> <option value="Taragarh">Taragarh</option> <option value="Thekkady">Thekkady</option> <option value="Thiruvananthapuram">Thiruvananthapuram</option> <option value="Tirupati">Tirupati</option> <option value="Trivandrum">Trivandrum</option> <option value="Trivandrum">Trivandrum</option> <option value="Udagamandalam">Udagamandalam</option> <option value="Udagamandalam">Udagamandalam</option> <option value="Udaipur">Udaipur</option> <option value="Village Patal Bhuvaneshwa">Village Patal Bhuvaneshwa</option> <option value="Visakhapatnam">Visakhapatnam</option> <option value="Vizag">Vizag</option> <option value="Wayanad">Wayanad</option> <option value="Yelagiri">Yelagiri</option> <option value="Yercaud">Yercaud</option></select></p>
-								<span>City</span>
-								<span style=" clear:both;"></span>
-							</div>
-							
-							<div id="txtBox2">
-								<p><input id="packages_form_checkin_date" name="checkin" value="11/05/2011" type="text" class="date"></p>
-								<span style=" clear:both;"></span>							  
-								<span>Check-In</span>
-							</div>						 
-
-							<div id="txtBox2" style="display:none;">
-								<p><input id="packages_form_checkout_date" name="checkout" value="11/05/2011" type="text" class="date"></p>
-								<span style=" clear:both;"></span>							  
-								<span>Check-In</span>
-							</div>						 
-
-							<div id="txtBox3">
-								<img width="118" height="27" src="/images/search-package.jpg" alt="Search Packages">
-							</div>
-							</form>
-						</div>
-
-						 <div id="rightMenu">
-						 	 <ul>
-							 	<li><a href="javascript:void(0);" id="hotels_tab" class="active" style="cursor: default;">Hotels</a></li>
-							 	<li style="display:none;"><a href="javascript:void(0);" id="packages_tab">Packages</a></li> 
-							 	<li style="display:none;"><a href="javascript:void(0);" id="int_hotels_tab">International Hotels</a></li>																
-							 </ul>	
-						</div>
-						<div id="int_hotels_sf" class="search_form" style="display:none;">
-						</div>
-
-
-					</div>
-
-
-				</div>
-
-				<!--- search end -->									
-
+				
 							
 			</div>
 			<!--- middle end -->					<div id="content_wrapper">
@@ -199,10 +115,22 @@ not this one. Advertisers or other companies do not have access to Stayzilla.com
 <h2>Questions or Suggestions</h2>
     <ul><li> If you have questions or suggestions <a href="http://www.stayzilla.com/contactus.php">contact us</a>.</li></ul>
 <br><br></div><div style="clear:both;"></div></div>			<div id="footer">
-				Copyright © 2010 Inasra Pvt Ltd. All rights reserved.
-				<a href="/copyright.php" target="cp" title="Click here to view Inasra's Copyright/IP Policy">Copyright/IP Policy</a>
-				<a href="/terms.php" target="_new" title="Click here to view Inasra Terms of Service">Terms of Service</a><br>
-				NOTICE: We collect personal information on this site. To learn more about how we use your information, see our <a href="/privacy.php" target="_new" title="Click here to view Inasra's Privacy Policy">Privacy Policy</a>
+				<table width="100%"><tbody>
+					<tr>
+						<td align="left" width="75%" style="padding-left: 10px;">
+							Copyright © 2011 Inasra Technologies Private Limited. All rights reserved.
+							<a title="Click here to view Inasra's Copyright/IP Policy" target="cp" href="/copyright.php">Copyright/IP Policy</a>
+							<a title="Click here to view Inasra Terms of Service" target="_new" href="/terms.php">Terms of Service</a><br>
+							NOTICE: We collect personal information on this site. To learn more about how we use your information, see our <a title="Click here to view Inasra's Privacy Policy" target="_new" href="/privacy.php">Privacy Policy</a>
+						</td>
+						<td class="sbutton" id="show_py_icon">
+							<img width="109" height="34" src="/images/pg_ci.jpg" id="s_p_i_i">
+							<span style="position: relative; top: -10px;" id="s_p_i_s">
+								more...
+							</span>
+						</td>
+					</tr>
+				</tbody></table>
 			</div> 
 			<div id="bottom_main">
 				<div id="left_b"></div>
@@ -220,12 +148,13 @@ not this one. Advertisers or other companies do not have access to Stayzilla.com
 	<!--- container end -->
  <script type="text/javascript"> 
 
-document.write('<script type="text/javascript" src="http://www.stayzilla.com/prototype.js"><'+'/script>');
-document.write('<script type="text/javascript" src="http://www.stayzilla.com/scriptaculous.js"><'+'/script>');
-document.write('<script type="text/javascript" src="http://www.stayzilla.com/common.js"><'+'/script>');
-//document.write('<script type="text/javascript" src="http://www.stayzilla.com/combined_stay.js"><'+'/script>');
+document.write('<script type="text/javascript" src="/prototype.js"><'+'/script>');
+document.write('<script type="text/javascript" src="/scriptaculous.js"><'+'/script>');
+document.write('<script type="text/javascript" src="/common.js"><'+'/script>');
+//document.write('<script type="text/javascript" src="/combined_stay.js"><'+'/script>');
+
 var logst=0;
- </script><script type="text/javascript" src="http://www.stayzilla.com/prototype.js"></script><script type="text/javascript" src="http://www.stayzilla.com/scriptaculous.js"></script><script type="text/javascript" src="http://www.stayzilla.com/common.js"></script>
+ </script><script type="text/javascript" src="/prototype.js"></script><script type="text/javascript" src="/scriptaculous.js"></script><script type="text/javascript" src="/common.js"></script>
 <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
@@ -243,12 +172,13 @@ var google_conversion_label = "LpyHCMOd1QEQ76Kh-wM";
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1063801199/?label=LpyHCMOd1QEQ76Kh-wM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1063801199/?label=LpyHCMOd1QEQ76Kh-wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 
 </body></html>
