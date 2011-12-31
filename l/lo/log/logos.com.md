@@ -1,55 +1,51 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621142557id_/http%3A//www.logos.com/about/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212756id_/http%3A//www.logos.com/about/privacy) for the most accurate reproduction.*
 
-# About Our Web Site
+# Logos Privacy Statement - Logos Bible Software
 
-Secure Transactions
+  * [About](https://web.archive.org/about)
+  * Privacy & Security 
 
-[](https://digitalid.verisign.com/as2/f58d0ac89d166552fef965b8d919802d) You may see a warning about crossing from a secure zone to an insecure zone after you have entered your credit card information. The primary place where security is an issue is when your credit card number is transferred from your machine over the internet to our server. After that point, the card information is stored locally for the life of the transaction and is safe. We have a secure connection for the actual transfer of your information, after which you can continue shopping throughout the site. Your credit card number is only stored in memory for the current transaction and is deleted when you close your browser. 
 
-Logos Research Systems, Inc. has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for: [Logos Research Systems, Inc](http://www.logos.com/). ([www.logos.com](http://www.logos.com/)).
 
-## Information Automatically Logged
+## NewsWire
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart. We review server reports to determine general information regarding the country of origin of our users and the type of browser software that is prevalent among our users.
+Your privacy is important to us! We will never share, rent, or sell your email address to anyone. [NewsWire](https://web.archive.org/newswire) is usually sent three to four times per month. It is a subscription-based email newsletter, and you can opt out at any time. Visit your [notifications](https://web.archive.org/user/notifications) page to manage your Logos email subscriptions.
 
-## Cookies
+## Statistics Reporting
 
-Our site uses cookies to keep track of your shopping cart. We also use cookies to save your password so you don't have to re-enter it each time you visit our site. Since Web servers do not maintain active connections between users and various screens or pages of information displayed, we create a cookie to identify the user during the shopping process so information provided on one page does not need to be re-supplied for each additional page. When you choose to manage your account on our Web site you can select to store your login cookie or not.
+We can build a better product when we know how it is used. We use your statistics to improve quality, provide support, and increase ease of use. We do not share personally identifiable statistics data with anyone.
 
-## Advertisers
+Statistics reported include display resolution, amount of system memory, version of operating system, which reports are run and on what passages, which resources are opened and how often, user preferences, commonly-run searches, search speeds, queries that failed to return hits, how often the program is run and at what time of day, etc.
 
-We participate in banner exchanges that display ads on our site. These ads may or may not contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+You can disable statistics reporting through the program settings tool in Logos Bible Software.
 
-## Registration Forms
+## What Personal Information Logos Collects
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and unique identifiers (like password). Contact information from the registration form is used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the customer when necessary. Unique identifiers (such as passwords) are collected from Web site visitors to verify the user's identity.
+### Information You Provide
 
-## Order Forms
+  * Searches
+  * Purchases
+  * Email Address
 
-Our site uses a secure (encrypted) order form for customers to request information, products, and services. We collect contact information (like their email and postal address). Financial information (like credit card number) is used only during the duration of the transaction and is not permanently stored on our Web site or internal company accounting system once the transaction is complete. Contact information from the order form is used to ship purchases. The customer's contact information is also used to get in touch with the visitor when necessary.
 
-Financial information is used to bill the user for products and services.
 
-## External Links
+### Information Automatically Collected
 
-This site contains links to other sites. Logos Research Systems, Inc. is not responsible for the privacy practices or the content of such Web sites.
+  * Cookies
+  * IP Address
 
-## Public Forums
 
-This site makes email lists and news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-## Security
+### How Logos Uses That Information
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Our site is maintained within our corporate headquarters on equipment with restricted-access to employees and guests. We operate this equipment using industry standard computer systems and data management procedures. Since user accounts are based upon the user's email address which may be publicly known, account privacy is assured through the password the user selects for his/her account. Do not share or divulge your password to anyone.
+  * Personalized Service
+  * Special Offers
+  * License Registration
 
-## Data Quality/Access
 
-This site gives users the following options for changing and modifying information previously provided:
 
-> All user account information may be changed by the user.
+## Third Party Services
 
-You can send email to [customerservice@logos.com](mailto:customerservice@logos.com).
+From time-to-time we may partner with third party companies to provide essential services for users of our websites. These companies may use information (not including your name, addresses, email addresses, telephone numbers, or billing information) about your visits to this and other Web sites in order to provide you with a more customized user experience. If you would like more information about this practice and to know your choices about not having this information used by these companies please see the links below.
 
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [customerservice@logos.com](mailto:customerservice@logos.com).
+Last Updated: 9/14/2011
