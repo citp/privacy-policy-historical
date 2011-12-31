@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062916id_/http%3A//www.winebusiness.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winebusiness.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224618id_/http%3A//www.winebusiness.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Winebusiness.com - About Us
 
@@ -24,7 +24,7 @@ WineBusiness.com offers some information and services that do not require you to
 **_Editing Personal Information_**  
 When you create an account with WineBusiness.com, we ask you to provide certain personal information. If you would like to correct, modify or update your information, you may: 
 
-1\. Call customer services at (707) 939-0822  
+1\. Call customer services at 800-895-9463  
 2\. Send an email to [memberservices@winebusiness.com](mailto:memberservices@winebusiness.com)  
 3\. If you have an account with WineBusiness.com, you may log in and edit your account. 
 
