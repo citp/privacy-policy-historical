@@ -1,0 +1,401 @@
+<!--The following is the downloaded HTML source of the rateit.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231165150id_/http%3A//rateit.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Local Business Ratings, Reviews, Directory &amp; Yellow Pages | RateIt</title><link href="/wp-content/themes/rateit/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="/wp-content/themes/rateit/include/am_products.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/rateit/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/rateit/css/wordpress.css" rel="stylesheet" type="text/css">
+
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+var siteUrl='/wp-content/themes/rateit';
+</script>
+<script src="/wp-content/themes/rateit/js/jquery-latest.js"></script>
+<script language="javascript">
+function submitForm()
+{
+	reWhiteSpace = new RegExp(/^\s+$/);
+	var keywords = jQuery('#headerSearchTerm').val();
+	if(keywords=='') {
+		keywords = jQuery('#headerSearchTerm').val();
+	}
+
+	var location = jQuery('#headerSearchLocation').val();
+	//alert(keywords);
+	//alert(location);
+
+	if(keywords == "" || keywords == "eg. Business, Brand or Service"){
+
+		alert("Please enter keywords!");
+		jQuery('#headerSearchTerm').focus();
+		return false;
+	}
+	else if(reWhiteSpace.test(keywords))
+	{
+		alert("Please enter the correct keyword!");
+		jQuery('#headerSearchTerm').focus();
+		return false;
+	}
+	else
+	{
+
+		temp = location.split(",");
+		var city = '';
+		var state = '';
+		var search_url = '';
+		if(temp[0]) city = jQuery.trim(temp[0]);
+		if(temp[1]) state = jQuery.trim(temp[1]);
+
+		if(keywords) 
+		{
+			search_url = '/'+state.replace(/'/g, '').toLowerCase()+"/"+city.replace(/\s+/g, '-').toLowerCase()+"/search/"+keywords.replace(/\s+/g, '-').replace(/&/g, 'and').replace(/'/g, '').toLowerCase();}
+		
+		window.location = search_url;
+	}
+}
+</script>
+</head>
+<!--[if lt IE 7 ]> <body class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+<div id="main">
+	<div id="header">
+		<div class="border clearfix">
+			<form onsubmit="submitForm();return false">
+				<h1 class="logo"><a href="/">RateIt</a></h1>
+				<p class="login">
+										<a class="loginLink" id="modal_login" href="javascript:void();">Login</a>
+										</p><div style="width:44px;right:20px;top:34px;position:absolute">
+					<span class="followLabel">Follow</span>
+					<a class="facebook" href="http://www.facebook.com/pages/RateIt/185196514848955">Facebook</a>
+					<a class="twitter" href="http://twitter.com/#!/rate_it">Twitter</a>
+					</div>
+				<p></p>
+
+				<label class="searchTermLabel" for="headerSearchTerm"><strong>What</strong> are you searching for?</label>
+				<span class="searchTermWrapper"><input id="headerSearchTerm" name="search" value="" type="text"></span>
+
+				<label class="searchLocationLabel" for="headerSearchLocation"><strong>Where</strong> should we find it?</label>
+				<span class="searchLocationWrapper"><input id="headerSearchLocation" name="place" value="Seattle, Wa" type="text"></span>
+				<input id="headerSearchSubmit" name="" value="Find It" type="submit">
+
+			</form>
+		</div>
+		<div class="menuHeader">
+			<ul class="menu" id="menu-header">
+				<li class="menu-item-first"><a href="/">Home</a><i></i></li>
+				<li class="navColorGreen"><a href="/deals/">Deals</a><i></i></li>
+				<li class="navColorBlue"><a href="/restaurants/">Restaurants</a><i></i></li>
+				<li class="navColorPink"><a href="/spa-beauty/">Spa &amp; Beauty</a><i></i></li>
+				<li class="navColorYellow"><a href="/shopping/">Shopping</a><i></i></li>
+				<li class="navColorOrange"><a href="/hotels/">Hotels</a><i></i></li>
+				<li class="navColorPurple"><a href="/bars-clubs/">Bars &amp; Clubs</a><i></i></li>
+				<li class="navColorGray"><a href="/profile/">Profile</a><i></i></li>
+				<li class="" id="menu-item-more"><a href="javascript:void();">More</a><i></i></li>
+			</ul>
+		</div>
+
+		<h4 class="registerWrapper">Not a Member? <a href="/sign-up/">Register</a></h4>
+		<p class="locationWrapper"><strong class="currentLocation">Rateit </strong> | <span class="breadcrumbs"><a href="http://www.rateit.com/">Home</a> &gt; <span>Privacy</span></span> | <span class="date">Saturday Dec 31st, 2011</span> | <a id="modal_changeLocation" class="changeLocation" href="javascript:void();">Change Location <em>»</em></a></p>
+	</div>
+	<div id="modal_popup_border" style="display:none;">
+	
+<div class="modal_popup modal_login">
+	<a id="modal_close" href="#">Close</a>
+		<h2 class="heading"> Sign in with your RateIt account</h2>
+	<div id="working" class="working" style="display:none;"></div>
+	<form method="post" action="http://www.rateit.com/index.php" onsubmit="return ajaxLogin()" class="wp-user-form">
+		<label for="modalLoginEmail">Username</label>
+		<span class="inputWrapper"><input type="text" name="user_login" value="" id="modalLoginEmail"></span>
+	
+		<label for="modalLoginPassword">Password</label>
+		<span class="inputWrapper"><input id="modalLoginPassword" name="pwd" type="password"></span>
+		
+		<input id="redirect_url" name="redirect_url" type="hidden" value="">
+		<input id="modal_login_submit" name="modal_login_submit" type="submit" value="Submit">
+	</form>
+	
+	<p class="passwordLost"><a href="password-lost/">Forgot Your Password?</a></p>
+</div>
+<script>
+function ajaxLogin() {
+
+	$("#working").html("Working..");
+	$("#working").show();
+	if($("#modalLoginEmail").val() == '') {
+		$("#working").html("Please enter username");
+		return false;
+	}
+
+	if($("#modalLoginPassword").val() == '') {
+		$("#working").html("Please enter password");
+		return false;
+	}
+
+	$.post(
+	"http://www.rateit.com/wp-content/themes/rateit/modal_login.php",
+	{
+		user_login:$("#modalLoginEmail").val(),
+		pwd:$("#modalLoginPassword").val(),
+		redirect_url:$("#redirect_url").val(),
+		src:'popup',
+	},
+	function(data) {
+		var redirect_url = 'http://www.rateit.com';
+		var json_obj = eval("("+data+")");
+		if(json_obj.result != 1) {
+			$("#working").html(json_obj.msg);
+		}
+		else {
+			$("#working").html("Logging In...");
+			if($("#redirect_url").val() != '') {
+				redirect_url = $("#redirect_url").val();
+			}
+			window.location = redirect_url;
+		}
+	}
+	);
+	return false;
+}
+</script>
+	</div>
+
+	
+<h1 class="heading">Privacy Policy</h1>
+<div class="pageContent">
+	<p>RateIt.com, a service of RateIt Inc. has created this  privacy statement in order to demonstrate our firm commitment to  protecting your privacy. The following discloses our information  gathering and dissemination practices for the www.RateIt.com.com  site. </p>
+	<h2>The following questions are answered below: </h2>
+	<ol>
+		<li><a href="#1">What information does RateIt.com collect? </a></li>
+		<li><a href="#2">What organization is collecting the information? </a></li>
+		<li><a href="#3">What does RateIt.com do with the data it collects? </a></li>
+		<li><a href="#4">With whom does RateIt.com share data? </a></li>
+		<li><a href="#5">What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? </a></li>
+		<li><a href="#6">How can I update or correct my information? </a></li>
+		<li><a href="#7">How can I delete my information? </a></li>
+		<li><a href="#8">What procedures have been designed to protect the loss, misuse or alteration of information under RateIt.com's control? </a></li>
+		<li><a href="#9">What about privacy policies for sites to which RateIt.com links? </a></li>
+		<li><a href="#10">What happens to my information if RateIt.com merges with or is sold to another company? </a></li>
+	</ol>
+	<p><br>
+		If you have any questions about this privacy statement, the  practices of this site or your dealings with this site, email  copyright@RateIt.com. </p>
+	<h2><a name="1"></a>What information does RateIt.com collect? </h2>
+	<p>At different times, RateIt.com may collect several types of  information about you. Except as otherwise stated in this privacy  policy, we do not provide this information to third parties, except in  aggregate form. </p>
+	<p>First, we or our partners or advertisers may use a feature of your  browser called a cookie to assign identification to your computer. The  unique user ID contained within your cookie automatically identifies  your computer - but not you - to our servers every time you visit our  site. Cookies by themselves cannot be used to find out the identity of  any user. You can turn the cookies feature off by using your browser's  preference options, but you may not be able to utilize some services  properly. </p>
+	<p>Second, we keep track of your IP address to help diagnose problems  with our servers and to administer our site. Your IP address is a  number that identifies a computer which accesses the Internet. This  address is used to gather broad demographic information about you, such  as your Internet service provider and the geographic location of your  IP address. RateIt.com may also collect aggregate information on  how our users are utilizing the site. This might include information  regarding traffic patterns through the site and search queries. </p>
+	<p>Third, we log browser types, access times, URLs from which visitors  came to our site and URLs viewed by visitors while on our site. Again,  RateIt.com uses this information on an aggregate basis, in this  case making sure we can support overall visitor traffic and service  performance. </p>
+	<p>Fourth, at specific times we may ask you to provide us with personal  information in order for you to register for a service or to enter a  sweepstakes. Also, you may also provide personal information if you  write us feedback email. This information may include but is not  limited to your name and email address. You may always choose not to  provide us with this information; however, this may limit our ability  to provide you with a specific service, offer you personalized content,  or respond to your feedback. </p>
+	<p>Fifth, we contract with 24/7 Real Media, a service partner, to  provide us with a data collection and reporting service to better  understand overall use of our site. 24/7 Real Media may store certain  legacy data that we received from visitors to our site prior to our  relationship with them, so that we may access this information via  their reporting service. 24/7 Real Media may collect information on our  behalf about our users' visiting behaviors in several ways, including  through the use of cookies or pixel tags. We use 24/7 Real Media to  understand what's popular and useful for visitors. </p>
+	<h2><a name="2"></a>What organization is collecting the information? </h2>
+	<p>RateIt.com usually collects the requested information. However,  RateIt.com has chosen select partners in order to provide certain  services. In order to use certain services on the site, it may be  necessary to enter information that then goes to our partner and is not  kept by RateIt.com. The areas of our site in which partners are  collecting information may be cobranded with our partners' logos. If  you have questions regarding the privacy policy or data collection  practices of one of our content partners, please contact that partner  directly. </p>
+	<p>We use third-party advertising companies and advertising networks to  collect information and serve ads to you when you visit our site. These  companies may use cookies, pixel tags, or otherwise independently  collect information (not including your name, address email address or  telephone number) from you and use this information about your visits  to this and other sites in order to provide advertisements about goods  and services of interest to you. We do not control their collection and  use of information. Please note that if an advertiser or advertising  network asks us to show an advertisement to a certain audience (for  example, men ages 18-34) or audience segment (for example, men ages  13-24 who have viewed sports content) and you respond to that ad, the  advertiser or advertising network may conclude that you fit the  description of the audience they are trying to reach. </p>
+	<p>To learn more about the collection of information by these third  party advertising networks, including how to opt out of such  collection, see the links below. </p>
+	<p>To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=52 </p>
+	<p>To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp </p>
+	<p>To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html </p>
+	<h2><a name="3"></a>What does RateIt.com do with the data it collects? </h2>
+	<p>Whenever RateIt.com collects data, the data is intended to  tailor or improve the experience of visitors to our site. From the data  collected we can customize content and advertising based on the user's  preferences. We may use information from cookies to differentiate  between unique users, personalize the site for each unique user, to  control the frequency of individual advertisements directed to  individual computers, and other purposes. In all cases, personally  identifiable information is not shared with our advertisers, except as  otherwise stated in this privacy policy. </p>
+	<p>We use IP addresses to help diagnose problems with our server and to  administer our site. It's the way we can make sure our service is  available 24/7 to you. </p>
+	<p>If you register for a service or to enter a sweepstakes, we may use  the information we collect to provide the service to you or send  communications regarding the sweepstakes. We may also send a newsletter  by email to our users who opt to receive such emails. It is our policy  to send these emails only to users who give us permission to do so. In  every such email, we will also have instructions on how to unsubscribe  and avoid receiving any future emails from us. RateIt.com also may  contact you by email to respond to feedback you have submitted. </p>
+	<h2><a name="4"></a>With whom does RateIt.com share data? </h2>
+	<p>RateIt.com may disclose your personal information to our  business partners in order to provide you with the services you have  requested, or to companies that offer a cobranded version of our site.  If you have questions regarding the privacy policy or data-collection  practices of one of our business partners, please contact that partner  directly. RateIt.com does not have control over and is not  responsible for the data collection and use practices of our business  partners. RateIt.com may also disclose your personal information to  other members of the RateIt family of businesses. </p>
+	<p>We also may disclose your personal information (including without  limitation IP addresses) to a third party if we believe in good faith  that the law or legal process requires it, to protect the rights or  property of RateIt.com or others, or as otherwise described in this  privacy policy. </p>
+	<p>We may disclose certain non-personally identifiable information  about you to advertisers or other third parties in order to present you  with targeted advertisements. We may share aggregate demographic  information with our advertisers or information collection companies,  but will not reveal any personally identifiable information in these  instances. </p>
+	<h2><a name="5"></a>What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? </h2>
+	<p>As previously noted, you may always choose to not provide us with  any of the information we request; however, this may limit our ability  to provide you with a specific service or limit our ability to offer  personalized content. </p>
+	<p>To learn more about the collection of information by third party  advertising networks, including how to opt out of such collection, see  the links below. </p>
+	<p>To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&amp;artid=52 </p>
+	<p>To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp </p>
+	<p>To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html </p>
+	<h2><a name="6"></a>How can I update or correct my information? </h2>
+	<p>RateIt.com does not currently have a method for users to change  their user information. In the case of personalized services, you will  be able to modify your user information through personalization links  on those pages. </p>
+	<h2><a name="7"></a>How can I delete my information? </h2>
+	<p>RateIt.com currently does not have a method for completely  deleting user information from our database. However, deleting the  cookie stored on your computer will cause you to be perceived as a new  user with no known user data. You may also change a setting in your  browser, instructing it not to accept cookies, but this could prevent  you from receiving some RateIt.com services. </p>
+	<h2><a name="8"></a>What procedures have been designed to protect the loss, misuse or alteration of information under RateIt.com's control? </h2>
+	<p>Except as otherwise stated in this privacy policy, RateIt.com  has taken measures to ensure that information that is not publicly  available through its site is accessible only to the user who initially  entered the information or to authorized personnel at RateIt.com or  its partners, and only after a password has been entered. In the  unlikely event of a security breach for which we provide notice under  Cal. Civ. Code § 1798.82, RateIt will send a notification to the  email address on file (if any) for each relevant user informing him or  her of the security breach. </p>
+	<h2><a name="9"></a>What about privacy policies for sites to which RateIt.com links? </h2>
+	<p>RateIt.com contains many links to Web sites not controlled by  RateIt.com. These sites have their own policies and practices with  respect to online privacy, and RateIt.com cannot be responsible for  the privacy practices or the content of these Web sites. In addition,  in certain instances a RateIt.com advertiser may ask you for  personal information. RateIt.com cannot be responsible for the  privacy practices of its advertisers. </p>
+	<h2><a name="10"></a>What happens to my information if RateIt.com merges with or its assets are sold to another company? </h2>
+	<p>It is possible that RateIt.com and/or any of our assets may be  acquired. In such a transaction, user information may be transferred to  the acquiring entity. While we will endeavor to require the successor  company to maintain this privacy policy, we cannot guarantee that our  policy will remain in effect. </p>
+	<h2>Notification of Changes </h2>
+	<p>This policy may be revised over time as new features are added to  the site. We will post our new privacy policy, along with the date of  its last revision, prominently so that you will always know what  information we gather, how we might use that information, and whether  we will disclose it to anyone. Please check this page for information  about revisions to our privacy policy. </p>
+	<h2>Contact Information</h2>
+	<p>If you have any questions about this privacy  policy or about RateIt.com information collection practices, please  contact us at copyright@RateIt.com </p>
+</div>
+
+	<div id="footer">
+		<div class="border clearfix">
+			<form onsubmit="submitForm();return false">
+				<h1 class="logo"><a href="">RateIt.com</a></h1>
+								<label class="searchTermLabel" for="footerSearchTerm"><strong>What</strong> are you searching for?</label>
+				<span class="searchTermWrapper"><input id="footerSearchTerm" name="search" value="" type="text"></span>
+				<label class="searchLocationLabel" for="footerSearchLocation"><strong>Where</strong> should we find it?</label>
+				<span class="searchLocationWrapper"><input id="footerSearchLocation" name="place" value="" type="text"></span>
+				<input id="footerSearchSubmit" name="" value="Find It" type="submit">
+			</form>
+		</div>
+		<div class="navSite">
+			<h3 class="heading">Site</h3>
+			<ul>
+				<li><i></i><a href="">Home</a></li>
+				<li><i></i><a href="/deals/">Deals</a></li>
+				<li><i></i><a href="/restaurants/">Restaurants</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/spa-beauty/">Spa &amp; Beauty</a></li>
+				<li><i></i><a href="/shopping/">Shopping</a></li>
+				<li><i></i><a href="/hotels/">Hotels</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/bars-clubs/">Bars &amp; Clubs</a></li>
+				<li><i></i><a href="/sign-up/">Sign Up</a></li>
+				<li><i></i><a href="/login/">Login</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/states/">States</a></li>
+				<li><i></i><a href="/site-map/">Site Map</a></li>
+			</ul>
+		</div>
+		<div class="navCompany">
+			<h3 class="heading">Company</h3>
+			<ul>
+				<li><i></i><a href="/about-us/">About Us</a></li>
+				<li><i></i><a href="/contact-us/">Contact Us</a></li>
+				<li><i></i><a href="/faq/">Faq</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/feedback/">Feedback</a></li>
+				<li><i></i><a href="/terms/">Terms</a></li>
+				<li><i></i><a href="/privacy/">Privacy</a></li>
+			</ul>
+			<ul>
+				<li class="highlight"><i></i><a href="/blog/">Blog</a></li>
+			</ul>
+		</div>
+		<div class="aboutRateit">
+			<h3 class="heading">What's Rateit?</h3>
+			<p><strong>RateIt.com</strong> is the Web's number one destination for local business listings, ratings, and reviews. Find out the hottest bars, clubs, events, and places to shop in your neighborhood. Or add your voice and rate and review local businesses today.</p>
+		</div>
+		<div class="metroWrapper clearfix">
+			<h3 class="heading">Metro</h3>
+			<ul>
+				<li><i></i><a href="/NY/new-york">New York, NY</a></li>
+				<li><i></i><a href="/CA/los-angeles">Los Angeles, CA</a></li>
+				<li><i></i><a href="/IL/chicago">Chicago, IL</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/TX/dallas">Dallas, TX</a></li>
+				<li><i></i><a href="/PA/philadelphia">Philadelphia, PA</a></li>
+				<li><i></i><a href="/TX/Houston">Houston, TX</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/DC/Washington">Washington, DC</a></li>
+				<li><i></i><a href="/FL/Miami">Miami, FL</a></li>
+				<li><i></i><a href="/GA/Atlanta">Atlanta, GA</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/MA/Boston">Boston, MA</a></li>
+				<li><i></i><a href="/CA/San+Francisco">San Francisco, CA</a></li>
+				<li><i></i><a href="/MI/Detroit">Detroit, MI</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/CA/Riverside">Riverside, CA</a></li>
+				<li><i></i><a href="/AZ/Phoenix">Phoenix, AZ</a></li>
+				<li><i></i><a href="/WA/Seattle">Seattle, WA</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/MN/Minneapolis">Minneapolis, MN</a></li>
+				<li><i></i><a href="/CA/San+Diego">San Diego, CA</a></li>
+				<li><i></i><a href="/MO/St.+Louis">St. Louis, MO</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/FL/Tampa">Tampa, FL</a></li>
+				<li><i></i><a href="/MD/Baltimore">Baltimore, MD</a></li>
+				<li><i></i><a href="/co/Denver">Denver, CO</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/PA/Pittsburgh">Pittsburgh, PA</a></li>
+				<li><i></i><a href="/OR/Portland">Portland, OR</a></li>
+				<li><i></i><a href="/CA/Sacramento">Sacramento, CA</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/TX/San+Antonio">San Antonio, TX</a></li>
+				<li><i></i><a href="/FL/Orlando">Orlando, FL</a></li>
+				<li><i></i><a href="/OH/Cincinnati">Cincinnati, OH</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/OH/Cleveland">Cleveland, OH</a></li>
+				<li><i></i><a href="/MO/Kansas+City">Kansas City, MO</a></li>
+				<li><i></i><a href="/NV/Las+Vegas">Las Vegas, NV</a></li>
+			</ul>
+			<ul>
+				<li><i></i><a href="/NV/Charlotte">Charlotte, NC</a></li>
+				<li><i></i><a href="/CA/San+Jose">San Jose, CA</a></li>
+				<li><i></i><a href="/OH/Columbus">Columbus, OH</a></li>
+			</ul>
+		</div>
+		<p class="copyright">Copyright © 2004-2011 RateIt</p>
+	</div>
+	
+	<ul id="menu-item-more-popup" class="menu-item-popup">
+		<li><i></i><a href="/about-us/">About Us</a></li>
+		<li><i></i><a href="/feedback/">Feedback</a></li>
+		
+		<li><i></i><a href="/contact-us/">Contact Us</a></li>
+		<li><i></i><a href="/terms/">Terms</a></li>
+		
+		<li><i></i><a href="/blog/">Blog</a></li>
+		<li><i></i><a href="/privacy/">Privacy</a></li>
+		
+		<li><i></i><a href="/states/">States</a></li>
+		<li><i></i><a href="/faq/">Faq</a></li>
+	</ul>
+</div> <!-- #main -->
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3.4&amp;sensor=false"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="/js/jquery-1.6.1.min.js">)</script>
+<script type="text/javascript" src="/js/scripts.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo-min.js">)</script>
+
+<!--[if lt IE 7 ]>
+	<script src="/js/dd_belatedpng.js"></script>
+	<script> DD_belatedPNG.fix('#header .menuHeader li i'); </script>
+<![endif]-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11776479-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8259994" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8259994&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<!--
+NULL
+-->
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.rateit.com @ 2011-12-31 16:51:50 --></body></html>
