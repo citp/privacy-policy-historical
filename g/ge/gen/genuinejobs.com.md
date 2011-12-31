@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuinejobs.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520202552id_/http%3A//www.genuinejobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuinejobs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223141id_/http%3A//www.genuinejobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Genuinejobs.com
 
