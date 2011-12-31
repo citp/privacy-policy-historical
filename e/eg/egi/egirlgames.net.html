@@ -1,0 +1,316 @@
+<!--The following is the downloaded HTML source of the egirlgames.net privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231220517id_/http%3A//www.egirlgames.net/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head> 
+<title>Privacy Policy | eGirlGames.net</title>
+
+<meta name="title" content="Privacy Policy | eGirlGames.net">
+<meta name="subject" content="games for girls">
+<meta name="description" content="Play online girl games only at eGirlGames.net!">
+<meta name="keywords" content="online girl games, girl games, games for girls, dress up games for girls, egirlgames">
+<meta name="language" content="EN">
+<meta name="copyright" content="EGirlGames.net">
+<meta name="robots" content="All">
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+
+<link rel="stylesheet" type="text/css" href="http://www.egirlgames.net/stiluri.css">
+<link rel="shortcut icon" href="http://www.egirlgames.net/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.egirlgames.net/js/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="http://www.egirlgames.net/js/jquery.countDown.js"></script>
+<script type="text/javascript" src="http://www.egirlgames.net/js/livevalidation.js"></script>
+<script type="text/javascript" src="http://www.egirlgames.net/js/ajax.js"></script>
+<script type="text/javascript" src="http://www.egirlgames.net/js/loader.js"></script>
+
+<script type="text/javascript">
+function getXMLHTTP() { //fuction to return the xml http object
+	var xmlhttp=false;	
+	try{
+		xmlhttp=new XMLHttpRequest();
+	}
+	catch(e)	{		
+		try{			
+			xmlhttp= new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		catch(e){
+			try{
+			xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+			}
+			catch(e1){
+				xmlhttp=false;
+			}
+		}
+	}
+	 	
+	return xmlhttp;
+}
+
+
+function ajax_load_id(url,id_div) { 
+	var strURL=url;
+	var req = getXMLHTTP();
+
+	if (req) {
+
+		req.onreadystatechange = function() {
+		if (req.readyState == 4) {
+			// only if "OK"
+			if (req.status == 200) { 
+				document.getElementById(id_div).innerHTML=req.responseText;
+				//alert(document.getElementById(id_div).innerHTML);
+				var scripts=document.getElementById(id_div).getElementsByTagname("script");
+				for(var i=0;i<scripts.length;i++){
+					//alert(scripts[i].innerHTML);
+					eval(scripts[i].innerHTML);
+					}  
+			} else {
+				alert("There was a problem while using XMLHTTP:n" + req.statusText);
+				}
+			} 
+		} 
+		req.open("GET", strURL, true);
+		req.send(null);
+		} 
+	return false;
+}
+
+function ajax_load(url) {
+	var req = getXMLHTTP();
+	if (req) {
+		req.open("GET",url,true);
+		req.send(null);
+	}
+}
+
+function bookmarksite(title,url){
+	if (window.sidebar) // firefox
+		window.sidebar.addPanel(title, url, "");
+	else if(window.opera && window.print){ // opera
+		var elem = document.createElement('a');
+		elem.setAttribute('href',url);
+		elem.setAttribute('title',title);
+		elem.setAttribute('rel','sidebar');
+		elem.click();
+	} 
+	else if(document.all)// ie
+		window.external.AddFavorite(url, title);
+}
+
+var id_selected = "";
+
+function changeOn(id){
+	document.getElementById(id).style.backgroundImage = 'url("http://www.egirlgames.net/images/button_selected.gif")';
+}
+
+function changeOut(id){
+	
+	if(id != id_selected){
+		document.getElementById(id).style.backgroundImage = 'url("http://www.egirlgames.net/images/button.gif")';
+	}
+}
+
+function ajax_verify(url) {
+	var strURL=url;
+	var req = getXMLHTTP();
+	if (req) {
+		req.onreadystatechange = function() {
+			if (req.readyState == 4) {
+				// only if "OK"
+				if (req.status == 200) {
+						r = req.responseText;
+						//alert("ajax_verify:"+r);
+						
+				} else {
+					alert("There was a problem while using XMLHTTP:n" + req.statusText);
+				}
+			}				
+		}			
+		req.open("GET", strURL, true);
+		req.send(null);
+	}
+
+	//alert("ajax:"+r);
+	return true;
+}
+
+function check(){
+	if(r == "true")
+		return true;
+	else
+		return false;
+}
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<!-- START ANALYTICS -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7372037-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- END ANALYTICS -->
+
+<script src="http://code.ad-gbn.com/aj_gbn.js"></script></head>
+<body>
+<div id="principal">
+	<div id="header">
+		<div style="float:left;">            
+			<a href="http://www.egirlgames.net" style="position: relative; display: block; overflow: hidden; width: 250px; height: 100px;">Online Girl Games
+			<img src="http://www.egirlgames.net/images/logo.gif" title="Online Girl Games" alt="Girl Games" style="position:absolute; top:0px; left:0px; width:250px; height:100px; border:none">
+			</a>
+		</div>
+		<!--<div id="bookmark"></div>-->
+		<div id="rightHeader">
+		
+			<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-9766356536948632";
+				/* egg_728x90_home */
+				google_ad_slot = "9528313071";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				//-->
+			</script>
+			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+		
+		</div>
+		
+		<div style="clear:both;"></div>
+	</div>
+	<div id="content">
+		<div id="stanga">	
+			<div id="categories"><div id="Celebrities31" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Celebrities31');" onmouseout="changeOut('Celebrities31');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/celebrities-page-1.html" title="Celebrities">Celebrities</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Coloring5" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Coloring5');" onmouseout="changeOut('Coloring5');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/coloring-page-1.html" title="Coloring">Coloring</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Cooking4" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Cooking4');" onmouseout="changeOut('Cooking4');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/cooking-page-1.html" title="Cooking">Cooking</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Decorating30" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Decorating30');" onmouseout="changeOut('Decorating30');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/decorating-page-1.html" title="Decorating">Decorating</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Dress Up9" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Dress Up9');" onmouseout="changeOut('Dress Up9');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/dress-up-page-1.html" title="Dress Up">Dress Up</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Kissing29" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Kissing29');" onmouseout="changeOut('Kissing29');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/kissing-page-1.html" title="Kissing">Kissing</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Make Up6" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Make Up6');" onmouseout="changeOut('Make Up6');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/make-up-page-1.html" title="Make Up">Make Up</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Management7" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Management7');" onmouseout="changeOut('Management7');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/management-page-1.html" title="Management">Management</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Other8" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Other8');" onmouseout="changeOut('Other8');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/other-page-1.html" title="Other">Other</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Pet32" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Pet32');" onmouseout="changeOut('Pet32');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/pet-page-1.html" title="Pet">Pet</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div><div id="Wedding2" class="categoryRow" style="background-image:url(&quot;/images/button.gif&quot;);" onmouseover="changeOn('Wedding2');" onmouseout="changeOut('Wedding2');"><div class="categoryCell"><a href="http://www.egirlgames.net/html/wedding-page-1.html" title="Wedding">Wedding</a></div></div>
+<div style="height:3px;font-size:3px;">&nbsp;</div></div>
+			<div id="searchF">
+				<form name="searchForm" id="searchForm" enctype="multipart/form-data" method="post" action="http://www.egirlgames.net/modules/search.php">
+					<center><input class="inputSearch" type="text" name="search" id="search"></center>
+					<center><input class="searchButton" type="submit" value=""></center>
+				</form>
+			</div>
+		</div>
+		<div id="mainContent"><p>
+	</p><center><strong><a href="http://www.eGirlGames.net" title="Free girl games">eGirlGames.net</a> Privacy Policy</strong></center>
+<p></p>
+<p><a href="http://www.eGirlGames.net" title="Free girl games">eGirlGames.net</a> is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how <a href="http://www.eGirlGames.net" title="free girl games">eGirlGames.net</a> protects your personal information. By accessing <a href="http://www.eGirlGames.net" title="free girl games">eGirlGames.net</a>, you acknowledge and fully understand <a href="http://www.eGirlGames.net" title="Free girl games">eGirlGames.net</a> Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.</p>
+
+<p><b>Third Party Policies</b></p>
+
+<p>Websites visited through links from this website may or may not have their own privacy statements and <a href="http://www.eGirlGames.net" title="free girl games">eGirlGames.net</a> is not responsible for the privacy practices or contents of those sites.</p>
+
+<p><b>What Information Is Collected? </b></p>	
+
+<p>When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :</p>
+<ul>
+	<li>Your Internet protocol address.</li>
+	<li>The kind of browser or computer you use.</li>
+	<li>Number of links you click within the site.</li>
+	<li>State or country from which you accessed the site.</li>
+	<li>Date and time of your visit.</li>
+	<li>Name of your Internet service provider.</li>
+	<li>Referring website.</li>
+	<li>Pages you viewed on the site.</li>
+</ul>
+
+<p><b>How We Use the Information</b></p>
+
+<p>We use visitors Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.</p> 
+
+<p>We also use visitors computer information to track usage, improve the design of the site, offer products and services, to personalize our visitor's experiences, save visitor's password in password-protected areas, and to ensure visitors are following the site's Agreement. </p>
+
+<p>We may disclose information about our visitors, including personal information (e.g., registration information, e-mail address, content of messages), as well as computer information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws, or to protect against misuse or unauthorized use of the site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our visitors or others.</p> 
+
+<p><b>Cookies</b></p>
+
+<p>Cookies are small text files that we place in visitor's computer browsers to store their preferences. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow web sites to "remember" users activities on a web site as well as users visits to a site. We do not store any personal information into cookies or link cookies to any personal information that players submit online when participating in our activities. You can, of course, disable cookies on your computer by indicating this in the preferences; however, some of the functioning of features on the web site may be affected.</p>
+
+<p><b>Security</b></p>
+
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect information from unauthorized access and improper use. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.</p>
+
+<p><b>Changes to this Privacy Policy</b></p>
+
+<p><a href="http://www.eGirlGames.net" title="Free girl games!">eGirlGames.net</a> reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.</p></div>	
+		
+		<div id="right">
+			
+			
+			
+			<div style="padding-top:0px">
+				<div class="gameThumb">
+					<div class="divImgGameThumb">
+						<!-- GBN Code Start -->
+						<script type="text/javascript">
+						if(window.aj_ad===undefined) window.aj_ad=[];aj_ad.push({w:100,h:100,r:711802,u:0,d:119,id:Math.floor(Math.random()*1E6)});document.write('<ins style="display: inline-table; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"><ins id="aj_adv_'+aj_ad[aj_ad.length-1].id+'" style="display: block; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"></ins></ins>');if(aj_ad.length==1){var elem=document.createElement("script");elem.src="http://code.ad-gbn.com/aj_gbn.js";document.getElementsByTagName("head")[0].appendChild(elem)};
+						</script><ins style="display: inline-table; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"><ins id="aj_adv_951215" style="display: block; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"></ins></ins>
+						<!-- GBN Code End -->
+						</div>
+					<div style="padding-top:5px"><center><strong>Funny Game</strong><center></center></center></div>
+				</div>
+			</div>
+			
+			<div style="padding-top:10px">
+				<div class="gameThumb">
+					<div class="divImgGameThumb">
+						<!-- GBN Code Start -->
+						<script type="text/javascript">
+						if(window.aj_ad===undefined) window.aj_ad=[];aj_ad.push({w:100,h:100,r:711802,u:0,d:119,id:Math.floor(Math.random()*1E6)});document.write('<ins style="display: inline-table; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"><ins id="aj_adv_'+aj_ad[aj_ad.length-1].id+'" style="display: block; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"></ins></ins>');if(aj_ad.length==1){var elem=document.createElement("script");elem.src="http://code.ad-gbn.com/aj_gbn.js";document.getElementsByTagName("head")[0].appendChild(elem)};
+						</script><ins style="display: inline-table; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"><ins id="aj_adv_519075" style="display: block; border: medium none; height: 100px; margin: 0pt; padding: 0pt; position: relative; visibility: visible; width: 100px;"></ins></ins>
+						<!-- GBN Code End -->
+						</div>
+					<div style="padding-top:5px"><center><strong>More Games</strong><center></center></center></div>
+				</div>
+			</div>
+		
+		</div>
+		
+		<div style="clear:both;"></div>
+	</div>
+	<div id="footer">
+		<div style="width:1000px; height:1px;font-size:1px;background-color:#f9d3dd;">&nbsp;</div>
+		<div style="width:1000px; height:1px;font-size:1px;background-color:#fff3f6;">&nbsp;</div>
+		<div id="meniuFooter">
+			<a href="http://www.egirlgames.net/all-games.html" title="All games">All games</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="http://www.egirlgames.net/privacy-policy.html" title="Privacy Policy">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="http://www.egirlgames.net/contact-us.html" title="Contact us">Contact us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="http://www.egirlgames.net/other-parteners.html" title="Other parteners">Other parteners</a>
+		</div>
+		<div id="premiumParteners">
+				<div class="premiumPartener">
+	<a href="http://www.dressupgirl.net" target="_blank" title="Dress Up Games"><img src="http://www.egirlgames.net/files/premium_parteners/button-dressupgirl.gif" width="88" height="31" title="Dress Up Games" border="0"></a>
+</div><div class="premiumPartener">
+	<a href="http://www.girlgames1.com" target="_blank" title="Girl Games"><img src="http://www.egirlgames.net/files/premium_parteners/gg1-88x31.jpg" width="88" height="31" title="Girl Games" border="0"></a>
+</div>
+				<div style="clear:both"></div>
+		</div>
+		<div id="homeParteners"><a class="aNonBold" href="http://www.dailydressupgames.com" title="Dress Up Games" target="_blank">&nbsp;&nbsp;Dress Up Games&nbsp;&nbsp;</a><a class="aNonBold" href="http://www.girlgaming.com/" title="Games for Girls" target="_blank">&nbsp;&nbsp;Games for Girls&nbsp;&nbsp;</a><a class="aNonBold" href="http://www.onlygirlsgames.com" title="Only Girls Games" target="_blank">&nbsp;&nbsp;Only Girls Games&nbsp;&nbsp;</a><a class="aNonBold" href="http://www.PinkBunnyLilli.de" title="PinkBunnyLilli.de" target="_blank">&nbsp;&nbsp;PinkBunnyLilli.de&nbsp;&nbsp;</a></div>
+		<div style="text-align:right">
+			<a target="_blank" href="http://whos.amung.us/stats/txr7610y2o28/">
+				<img height="29" border="0" width="81" alt="web tracker" src="http://whos.amung.us/cwidget/txr7610y2o28/cf5978ffffff.png">
+			</a>
+		<br><br>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="http://static.mmotraffic.com/affiliates/popunder-min.js"></script>
+<script type="text/javascript">MMOTrafficPopunder(4983, 276379);</script>
+
+
+</body></html>
