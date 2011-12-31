@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104045914id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111930id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/privacy) for the most accurate reproduction.*
 
 # SPORTSBIKESHOP - Privacy Policy
 
@@ -35,3 +35,5 @@ Two types of cookies are used on this website:
 This website may not function properly if cookies are disabled by your browser.
 
 If you have any questions/comments about privacy, please contact us. 
+
+Important information regarding [delivery times](http://www.sportsbikeshop.co.uk/motorcycle_parts/xmas_info) around the Christmas and New Year period. 
