@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509182530id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211501id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
 
 # Phones 4u - Privacy Policy
 
-**You are in** : [Home](https://web.archive.org/index.asp) » [Help](https://web.archive.org/help/help_home.asp) » Privacy Policy 
-
 We will treat all your personal information: 
 
-  * As confidential and will only disclose the same in the circumstances set out below; and,
-  * In accordance with Data Protection legislation from time to time in force in England and Wales. 
+Phones 4u Limited, who is the 'data controller' of all personal data provided by you through this website, will treat all your personal information: 
+
+  * As confidential and will only disclose the same in the circumstances set out below; and, 
+  * In accordance with data protection and privacy legislation from time to time in force in England and Wales. 
 
 
 
-When you shop on this Website, we will ask you to input personal details in order for us to identify you, such as your name, e-mail address, billing and delivery address, credit card or other payment information. We confirm that this information will be held by us in accordance with the registration we have with the Data Commissioner's office and collected lawfully in accordance to the Data Protection Act 1998. We will use your personal information for the following purposes:
+When you shop on this website, we will ask you to input personal details in order for us to identify you, such as your name, e-mail address, billing and delivery address, credit card or other payment information. We confirm that this information will be held by us in accordance with the registration we have with the Information Commissioner's office and collected lawfully in accordance to the Data Protection Act 1998. We will use your personal information for the following purposes: 
 
-  * Processing your orders; 
-  * To administer this Website; 
-  * For statistical purposes to improve this Website and its services to you; 
-  * If you have not objected during the registration process, to notify you of products or special offers that may be of interest to you; 
+  * Processing your orders (including incomplete or failed orders) and conducting business with you; 
+  * To administer this website; 
+  * For statistical, market research and customer satisfaction purposes to improve this website and our services to you; 
+  * If you have not objected during the registration process, to notify you of products, services or special offers that may be of interest to you, for example an Upgrade Reminder Service. 
   * If you have not objected during the registration process, to disclose to other members within our group of companies and also to other relevant third parties, who may contact you about their products or services that may be of interest to you; 
 
 
 
-If you have not objected during the registration process, but do not want us to:
+Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order or whose products or services may be of interest to you. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or other electronic means or in writing and you consent to this activity for the purposes of the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
+
+You should be aware that if the police requests us or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so. Objections to use of personal information for marketing purposes
+
+If you have not objected during the registration process, but do not want us to: 
 
   * Contact you regarding products or services which may be of interest to you; or 
   * To transfer your data to group companies and third parties so that they can contact you about their products and services; 
@@ -31,11 +35,11 @@ If you have not objected during the registration process, but do not want us to:
 ##  Then please write to us at: 
 
 Web Customer Services Team   
-Phones 4u House   
-Ore Close   
-Lymedale Business Park   
-Newcastle-under-Lyme   
-Staffordshire   
+Osprey House  
+Ore Close  
+Lymedale Business Park  
+Newcastle-under-Lyme  
+Staffordshire  
 ST5 9QD  
 and notify us accordingly.
 
@@ -45,7 +49,7 @@ You should be aware that if the police requests us or any other regulatory autho
 
 ## Cookies 
 
-Like many other web sites we use Cookies on our site. Cookies can help a website to personalise your visit. A Cookie is a text-only string of information that a website transfers to the Cookie file of the browser on your computer's hard disk so that the website can, among other things, remember who you are. A Cookie will typically contain the name of the domain from which the Cookie has come, the "lifetime" of the Cookie, and a value, usually a randomly generated unique number. Three types of electronic access, storage and/or tracing devices are used on this website:-
+Like many other web sites we use Cookies on our site. Cookies can help a website to personalise your visit. A Cookie is a text-only string of information that a website transfers to the Cookie file of the browser on your computer's hard disk so that the website can, among other things, remember who you are. A Cookie will typically contain the name of the domain from which the Cookie has come, the "lifetime" of the Cookie, and a value, usually a randomly generated unique number. Three types of electronic access, storage and/or tracing devices are used on this website:- 
 
 ### Session Cookies:
 
