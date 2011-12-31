@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitedirectory.co.nz privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202005320id_/http%3A//www.websitedirectory.co.nz/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitedirectory.co.nz privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224309id_/http%3A//www.websitedirectory.co.nz/privacypolicy.php) for the most accurate reproduction.*
 
 # The New Zealand Website, Article & Business Directory- Privacy Policy
 
