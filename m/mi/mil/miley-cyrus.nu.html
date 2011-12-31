@@ -1,377 +1,1171 @@
-<!--The following is the downloaded HTML source of the miley-cyrus.nu privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518181745id_/http%3A//fanfusion.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miley-cyrus.nu privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231234919id_/http%3A//fanfusion.org/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy | FanFusion.Org - Free Fansite Hosting</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="fansite hosting, free, best, celebrity, fansites, host">
-<meta name="description" content="free fansite hosting">
-<meta name="rating" content="General">
-<meta name="distribution" content="Global">
-<meta name="robots" content="INDEX,FOLLOW">
-<meta name="revisit-after" content="1 Days">
-<meta name="email" content="admin@fanfusion.org">
-<meta name="author" content="FanFusion Free Fansite Hosting">
-<meta name="publisher" content="FanFusion Free Fansite Hosting">
-<meta name="copyright" content="FanFusion Free Fansite Hosting">
-
-<link rel="stylesheet" href="http://fanfusion.org/wp-content/themes/layoutblueblack/style.css" type="text/css" media="all">
+<html><head> 
+<title>Privacy Policy | FanFusion.Org - Free Fansite Hosting</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<meta name="keywords" content="fansite hosting, free, best, celebrity, fansites, host"> 
+<meta name="description" content="free fansite hosting for high quality fansites"> 
+<meta name="rating" content="General"> 
+<meta name="distribution" content="Global"> 
+<meta name="robots" content="INDEX,FOLLOW"> 
+<meta name="revisit-after" content="1 Days"> 
+<meta name="email" content="admin@fanfusion.org"> 
+<meta name="author" content="FanFusion Free Fansite Hosting"> 
+<meta name="publisher" content="FanFusion Free Fansite Hosting"> 
+<meta name="copyright" content="FanFusion Free Fansite Hosting"> 
 
 
+<script type="text/javascript" src="snowstorm.js"></script>
+
+<script type="text/javascript" src="http://fanfusion.org/wp-content/themes/summer11/lights/lights/christmaslights.js"></script>
 
 
+ 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://fanfusion.org/wp-content/themes/layoutblueblack/fadeslideshow.js">
-   /***********************************************
-    * Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-    * This notice MUST stay intact for legal use
-    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
-    ***********************************************/
+<script type="text/javascript"> 
+/***********************************************
+* Ultimate Fade-In Slideshow (v1.51): © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+ 
+var fadeimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+fadeimages[0]=["http://picju.com/images/o8qnmm.png", "", ""] //image with link and target syntax
+fadeimages[1]=["http://picju.com/images/psudfz.png", "", ""] //image with link and target syntax
+ 
+ 
+var fadebgcolor="white"
+ 
+////NO need to edit beyond here/////////////
+ 
+var fadearray=new Array() //array to cache fadeshow instances
+var fadeclear=new Array() //array to cache corresponding clearinterval pointers
+ 
+var dom=(document.getElementById) //modern dom browsers
+var iebrowser=document.all
+ 
+function fadeshow(theimages, fadewidth, fadeheight, borderwidth, delay, pause, displayorder){
+this.pausecheck=pause
+this.mouseovercheck=0
+this.delay=delay
+this.degree=10 //initial opacity degree (10%)
+this.curimageindex=0
+this.nextimageindex=1
+fadearray[fadearray.length]=this
+this.slideshowid=fadearray.length-1
+this.canvasbase="canvas"+this.slideshowid
+this.curcanvas=this.canvasbase+"_0"
+if (typeof displayorder!="undefined")
+theimages.sort(function() {return 0.5 - Math.random();}) //thanks to Mike (aka Mwinter) :)
+this.theimages=theimages
+this.imageborder=parseInt(borderwidth)
+this.postimages=new Array() //preload images
+for (p=0;p<theimages.length;p++){
+this.postimages[p]=new Image()
+this.postimages[p].src=theimages[p][0]
+}
+ 
+var fadewidth=fadewidth+this.imageborder*2
+var fadeheight=fadeheight+this.imageborder*2
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers (ie: Firefox)
+document.write('<div id="master'+this.slideshowid+'" style="position:relative;width:'+fadewidth+'px;height:'+fadeheight+'px;overflow:hidden;"><div id="'+this.canvasbase+'_0" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div><div id="'+this.canvasbase+'_1" style="position:absolute;width:'+fadewidth+'px;height:'+fadeheight+'px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:'+fadebgcolor+'"></div></div>')
+else
+document.write('<div><img name="defaultslide'+this.slideshowid+'" src="'+this.postimages[0].src+'"></div>')
+ 
+if (iebrowser&&dom||dom) //if IE5+ or modern browsers such as Firefox
+this.startit()
+else{
+this.curimageindex++
+setInterval("fadearray["+this.slideshowid+"].rotateimage()", this.delay)
+}
+}
+ 
+function fadepic(obj){
+if (obj.degree<100){
+obj.degree+=10
+if (obj.tempobj.filters&&obj.tempobj.filters[0]){
+if (typeof obj.tempobj.filters[0].opacity=="number") //if IE6+
+obj.tempobj.filters[0].opacity=obj.degree
+else //else if IE5.5-
+obj.tempobj.style.filter="alpha(opacity="+obj.degree+")"
+}
+else if (obj.tempobj.style.MozOpacity)
+obj.tempobj.style.MozOpacity=obj.degree/101
+else if (obj.tempobj.style.KhtmlOpacity)
+obj.tempobj.style.KhtmlOpacity=obj.degree/100
+else if (obj.tempobj.style.opacity&&!obj.tempobj.filters)
+obj.tempobj.style.opacity=obj.degree/101
+}
+else{
+clearInterval(fadeclear[obj.slideshowid])
+obj.nextcanvas=(obj.curcanvas==obj.canvasbase+"_0")? obj.canvasbase+"_0" : obj.canvasbase+"_1"
+obj.tempobj=iebrowser? iebrowser[obj.nextcanvas] : document.getElementById(obj.nextcanvas)
+obj.populateslide(obj.tempobj, obj.nextimageindex)
+obj.nextimageindex=(obj.nextimageindex<obj.postimages.length-1)? obj.nextimageindex+1 : 0
+setTimeout("fadearray["+obj.slideshowid+"].rotateimage()", obj.delay)
+}
+}
+ 
+fadeshow.prototype.populateslide=function(picobj, picindex){
+var slideHTML=""
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML='<a href="'+this.theimages[picindex][1]+'" target="'+this.theimages[picindex][2]+'">'
+slideHTML+='<img src="'+this.postimages[picindex].src+'" border="'+this.imageborder+'px">'
+if (this.theimages[picindex][1]!="") //if associated link exists for image
+slideHTML+='</a>'
+picobj.innerHTML=slideHTML
+}
+ 
+ 
+fadeshow.prototype.rotateimage=function(){
+if (this.pausecheck==1) //if pause onMouseover enabled, cache object
+var cacheobj=this
+if (this.mouseovercheck==1)
+setTimeout(function(){cacheobj.rotateimage()}, 100)
+else if (iebrowser&&dom||dom){
+this.resetit()
+var crossobj=this.tempobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+crossobj.style.zIndex++
+fadeclear[this.slideshowid]=setInterval("fadepic(fadearray["+this.slideshowid+"])",50)
+this.curcanvas=(this.curcanvas==this.canvasbase+"_0")? this.canvasbase+"_1" : this.canvasbase+"_0"
+}
+else{
+var ns4imgobj=document.images['defaultslide'+this.slideshowid]
+ns4imgobj.src=this.postimages[this.curimageindex].src
+}
+this.curimageindex=(this.curimageindex<this.postimages.length-1)? this.curimageindex+1 : 0
+}
+ 
+fadeshow.prototype.resetit=function(){
+this.degree=10
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+if (crossobj.filters&&crossobj.filters[0]){
+if (typeof crossobj.filters[0].opacity=="number") //if IE6+
+crossobj.filters(0).opacity=this.degree
+else //else if IE5.5-
+crossobj.style.filter="alpha(opacity="+this.degree+")"
+}
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=this.degree/101
+else if (crossobj.style.KhtmlOpacity)
+crossobj.style.KhtmlOpacity=this.degree/100
+else if (crossobj.style.opacity&&!crossobj.filters)
+crossobj.style.opacity=this.degree/101
+}
+ 
+ 
+fadeshow.prototype.startit=function(){
+var crossobj=iebrowser? iebrowser[this.curcanvas] : document.getElementById(this.curcanvas)
+this.populateslide(crossobj, this.curimageindex)
+if (this.pausecheck==1){ //IF SLIDESHOW SHOULD PAUSE ONMOUSEOVER
+var cacheobj=this
+var crossobjcontainer=iebrowser? iebrowser["master"+this.slideshowid] : document.getElementById("master"+this.slideshowid)
+crossobjcontainer.onmouseover=function(){cacheobj.mouseovercheck=1}
+crossobjcontainer.onmouseout=function(){cacheobj.mouseovercheck=0}
+}
+this.rotateimage()
+}
+</script> 
+<script language="JavaScript" type="text/JavaScript"> 
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+ 
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script> 
 
-</script>
 
-<script type="text/javascript">
+<style type="text/css">
+body {
+font-family:Verdana;
+font-size:11px;
+color:#d0d0d0;
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/bg.png);
+background-repeat: repeat-x;
+cursor: url(http://fanfusion.org/wp-content/themes/summer11/foo515.cur), progress;
+}
 
-   var mygallery=new fadeSlideShow({
-     wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
-	 dimensions: [897, 498], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	 imagearray: [
-		      ["http://fanfusion.org/wp-content/themes/layoutblueblack/images/header.jpg"],
-		      ["http://fanfusion.org/wp-content/themes/layoutblueblack/images/header2.jpg"] // no trailing comma
-		      ],
-	 displaymode: {type:'auto', pause:2000, cycles:0, wraparound:false},
-	 persist: false, //remember last viewed slide and recall within same session?
-	 fadeduration: 800, //transition duration (milliseconds)
-	 descreveal: "none",
-	 togglerid: ""
-	 })
+a {
+color:#F36BAA;
+text-decoration:none;
+}
 
-</script>
+a:link {
+color:#F36BAA;
+text-decoration:none;
+}
 
-<link rel="alternate" type="application/rss+xml" title="FanFusion.Org - Free Fansite Hosting » Privacy Policy Comments Feed" href="http://fanfusion.org/privacy-policy/feed/">
-<link rel="stylesheet" id="contact-form-7-css" href="http://fanfusion.org/wp-content/plugins/contact-form-7/styles.css?ver=2.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://fanfusion.org/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.1.2" type="text/css" media="all">
-<script type="text/javascript" src="http://fanfusion.org/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://fanfusion.org/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fanfusion.org/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fanfusion.org/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="FanFusion.Org – Free Fansite Hosting" href="http://fanfusion.org/">
-<link rel="prev" title="Domains for Adoption" href="http://fanfusion.org/domains-for-adoption/">
-<meta name="generator" content="WordPress 3.1.2">
+a:hover, a:visited, a:active {
+color:#F1519B;
+cursor: url(http://fanfusion.org/wp-content/themes/summer11/foo512.cur), progress;
+}
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[14,30] -->
-<link rel="canonical" href="http://fanfusion.org/privacy-policy/">
-<!-- /all in one seo pack -->
-<script type="text/javascript">
-//<![CDATA[
-var _wpcf7 = { cached: 1 };
-//]]>
-</script>
-<meta property="og:site_name" content="FanFusion.Org - Free Fansite Hosting">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://fanfusion.org/privacy-policy/">
-<meta property="og:description" content="Tweet This Post">
-<meta property="og:type" content="article">
-<style type="text/css">img.nothumb{border:0;}</style>
-			<link rel="stylesheet" type="text/css" href="http://fanfusion.org/index.php?ak_action=aktt_css&amp;v=2.4">
-			<script type="text/javascript" src="http://fanfusion.org/index.php?ak_action=aktt_js&amp;v=2.4"></script>
-		</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<!-- Save for Web Slices (FanFusion.psd) -->
-<table id="Table_01" width="1401" height="1308" border="0" cellpadding="0" cellspacing="0">
+
+#container {
+width:1000px;
+}
+
+#posts {
+float:right;
+width:700px;
+}
+
+#sidestuff {
+float:left;
+width:300px;
+margin-left:0px;
+}
+
+#ptop {
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/ptop.png);
+width:631px;
+height:215px;
+align:center;
+}
+
+#pmid {
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/pmid.png);
+width:631px;
+background-repeat: repeat-y;
+align:center;
+margin-top:-10px;
+margin-bottom:-10px;
+}
+
+#pbtm {
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/pbtm.png);
+width:631px;
+height:152px;
+align:center;
+}
+
+.ptitle {
+font-family:Honey;
+color:#F36BAA;
+font-size:30px;
+text-transform:none;
+letter-spacing:0px;
+padding-top:35px;
+}
+
+.ptitle a {
+font-family:Honey;
+color:#F36BAA;
+font-size:30px;
+text-transform:none;
+letter-spacing:0px;
+padding-top:25px;
+text-shadow:1px 0px 1px #fff;
+}
+
+#stop {
+width:224px;
+height:162px;
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/stop.png);
+}
+#smid {
+width:224px;
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/smid.png);
+background-repeat:repeat-y;
+}
+
+#sbtm {
+width:224px;
+height:103px;
+background-image:url(http://fanfusion.org/wp-content/themes/summer11/sbtm.png);
+}
+
+.content-text {
+font-family:Verdana;
+color:#adadad;
+font-size:10px;
+padding-left:80px;
+padding-right:40px;
+padding-top:-100px;
+}
+
+@font-face {
+font-family: Honey;
+src: url(http://fanfusion.org/wp-content/themes/summer11/HoneyScript-Light.ttf);}
+
+.sidebar-text {
+font-family:Verdana;
+color:#adadad;
+font-size:10px;
+padding:30px;
+}
+
+
+.twit {
+margin: 1px;
+padding: 4px;
+font-family: Verdana;
+font-size: 7pt;
+line-height: 17px;
+color: #b3b3b3;
+display: block;
+width:170px;}
+
+.twit li {
+padding: 7px;
+font-family: Verdana;
+font-size: 7pt;
+line-height: 17px;
+background-color: #ffffff;
+color: #b3b3b3;
+display: block;
+margin:4px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+border-bottom:1px dashed #dadada;}
+
+.twit li:hover {
+margin: 4px;
+padding: 7px;
+font-family: Verdana;
+font-size: 7pt;
+line-height: 17px;
+background-color: #f1f1f1;
+color: #b3b3b3;
+display: block;}
+
+.singlecomment {
+background-color:#f9f9f9;
+color:afafaf;
+border-bottom:2px solid #e7e7e7;
+font-size:10px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+border-radius:20px;
+}
+
+.singlecomment:hover {
+background-color:#f6f6f6;
+color:afafaf;
+border-bottom:2px solid #e7e7e7;
+font-size:10px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+border-radius:20px;
+}
+
+.leave {
+background-color:transparent;
+color:afafaf;
+font-family:Lucida Sans;
+font-size:10px;
+-moz-border-radius:20px;
+-webkit-border-radius:20px;
+border-radius:20px;
+}
+.comby {
+background-color:#FFD1E8;
+color:#ffffff;
+border-bottom:2px solid #FFAFD7;
+font-size:10px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px;
+padding:-1px;
+}
+
+.commnt {
+background-color:transparent;
+font-size:10px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+border-radius:10px;
+opit:0.8px;
+}
+
+.comnt a {
+width:120px;
+height:15px;
+font-family:Lucida Sans;
+border: 1px dashed #FF77A3;
+padding:5px;
+-moz-border-radius:5px;
+-wenkit-border-radius:5px;
+-khtml-border-radius:5px;
+border-radius:5px;
+font-weight:bold;
+font-size:11px;
+color:#ffffff;
+text-shadow:1px 0px 1px #FF77A3;
+}
+/*------imgs---------*/
+
+.content-text img {
+max-width:500px;
+}
+.content-text a img {
+        border: 1px solid #ffffff;
+	padding: 4px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+
+.content-text img {
+        border: 1px solid #ffffff;
+	padding: 4px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}	
+
+.content-text a img:hover {
+        border: 1px solid #ffb2cd;
+	background-color:#ffffff;
+	padding: 4px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+	
+	
+.content-text img:hover {
+        border: 1px solid #ffb2cd;
+	background-color:#ffffff;
+	padding: 5px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+
+.sidebar-text a img {
+        border: 1px solid #ffffff;
+	padding: 3px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+
+.sidebar-text img {
+        border: 1px solid #ffffff;
+	padding: 3px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}	
+
+.sidebar-text a img:hover {
+        border: 1px solid #ffb2cd;
+	background-color:#ffffff;
+	padding: 3px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+	
+	
+.sidebar-text img:hover {
+        border: 1px solid #ffb2cd;
+	background-color:#ffffff;
+	padding: 3px;
+	margin: 2px;
+	-webkit-border-radius: 6px; 
+	-moz-border-radius: 6px; 
+	border-radius: 6px; 
+	-khtml-border-radius: 6px;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	-moz-box-shadow: 0 0 5px 5px #e6e6e6;
+	box-shadow: 0 0 5px 5px #e6e6e6;
+}
+
+</style> 
+
+</head>
+<body background="bg.png" style="background-repeat:repeat-x; background-color:#f8f4e8;" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<div style="position:absolute; top:5; left:5; z-index:4">
+
+<!--FLAG_BAR_BEGIN--><table border="0"><tbody><tr><td><a id="flag_en" href="http://fanfusion.org/privacy-policy/" hreflang="en"><img id="flag_img_en" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_en.png" alt="English flag" title="English" border="0"></a></td></tr><tr><td><a id="flag_it" href="http://fanfusion.org/it/privacy-policy/" hreflang="it"><img id="flag_img_it" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_it.png" alt="Italian flag" title="Italian" border="0"></a></td></tr><tr><td><a id="flag_pt" href="http://fanfusion.org/pt/privacy-policy/" hreflang="pt"><img id="flag_img_pt" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_pt.png" alt="Portuguese flag" title="Portuguese" border="0"></a></td></tr><tr><td><a id="flag_de" href="http://fanfusion.org/de/privacy-policy/" hreflang="de"><img id="flag_img_de" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_de.png" alt="German flag" title="German" border="0"></a></td></tr><tr><td><a id="flag_fr" href="http://fanfusion.org/fr/privacy-policy/" hreflang="fr"><img id="flag_img_fr" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_fr.png" alt="French flag" title="French" border="0"></a></td></tr><tr><td><a id="flag_es" href="http://fanfusion.org/es/privacy-policy/" hreflang="es"><img id="flag_img_es" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_es.png" alt="Spanish flag" title="Spanish" border="0"></a></td></tr><tr><td><a id="flag_ru" href="http://fanfusion.org/ru/privacy-policy/" hreflang="ru"><img id="flag_img_ru" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_ru.png" alt="Russian flag" title="Russian" border="0"></a></td></tr><tr><td><a id="flag_nl" href="http://fanfusion.org/nl/privacy-policy/" hreflang="nl"><img id="flag_img_nl" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_nl.png" alt="Dutch flag" title="Dutch" border="0"></a></td></tr><tr><td><a id="flag_pl" href="http://fanfusion.org/pl/privacy-policy/" hreflang="pl"><img id="flag_img_pl" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_pl.png" alt="Polish flag" title="Polish" border="0"></a></td></tr><tr><td><a id="flag_lt" href="http://fanfusion.org/lt/privacy-policy/" hreflang="lt"><img id="flag_img_lt" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_lt.png" alt="Lithuanian flag" title="Lithuanian" border="0"></a></td></tr><tr><td><a id="flag_tr" href="http://fanfusion.org/tr/privacy-policy/" hreflang="tr"><img id="flag_img_tr" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_tr.png" alt="Turkish flag" title="Turkish" border="0"></a></td></tr><tr><td><a id="flag_hu" href="http://fanfusion.org/hu/privacy-policy/" hreflang="hu"><img id="flag_img_hu" src="http://fanfusion.org/wp-content/plugins/global-translator/flag_hu.png" alt="Hungarian flag" title="Hungarian" border="0"></a></td></tr><tr><td colspan="1"></td></tr></tbody></table><!--FLAG_BAR_END-->
+</div>
+
+
+
+
+
+<!-- ImageReady Slices (header.png) -->
+<table id="Table_01" width="975" height="678" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_01.jpg" width="251" height="1" alt=""></td>
-		<td rowspan="2">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_02.jpg" width="154" height="37" alt=""></td>
-		<td rowspan="2">
+		<td colspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_01.png" width="111" height="37" alt=""></td>
+		<td colspan="2">
 			<a href="http://fanfusion.org/">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link1.jpg" width="52" height="37" border="0" alt=""></a></td>
-		<td rowspan="2">
-			<a href="http://fanfusion.org/domains-for-adoption">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link2.jpg" width="53" height="37" border="0" alt=""></a></td>
-		<td colspan="2">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_05.jpg" width="72" height="1" alt=""></td>
-		<td rowspan="2">
-			<a href="http://fanfusion.org/apply">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link4.jpg" width="57" height="37" border="0" alt=""></a></td>
-		<td colspan="2" rowspan="2">
-			<a href="http://fanfusion.org/themes">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link5.jpg" width="67" height="37" border="0" alt=""></a></td>
-		<td colspan="8">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_08.jpg" width="442" height="1" alt=""></td>
-		<td rowspan="3">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_09.jpg" width="252" height="534" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td rowspan="2">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_10.jpg" width="251" height="533" alt=""></td>
-		<td colspan="2">
-			<a href="http://fanfusion.org/hosting">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link3.jpg" width="72" height="36" border="0" alt=""></a></td>
-		<td>
-			<a href="http://fanfusion.org/faq">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link6.jpg" width="46" height="36" border="0" alt=""></a></td>
-		<td colspan="2">
-			<a href="http://fanfusion.org/about">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link7.jpg" width="58" height="36" border="0" alt=""></a></td>
-		<td>
-			<a href="http://fanfusion.org/forum">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/link8.jpg" width="71" height="36" border="0" alt=""></a></td>
-		<td colspan="4">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_15.jpg" width="267" height="36" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="36" alt="">
-<map name="headermap">
-<area shape="rect" coords="670,448,714,489" href="http://www.facebook.com/fanfusion" alt="" title="">
-<area shape="rect" coords="716,452,752,489" href="http://www.twitter.com/ffdotorg" alt="Follow FanFusion on Twitter" title="Follow FanFusion on Twitter">
-<area shape="rect" coords="754,451,790,488" href="mailto:fanfusion@gmail.com" alt="Email FanFusion" title="Email FanFusion">
-<area shape="rect" coords="793,452,829,489" href="aim:goim?screenname=orangesarecooool&amp;message=Hello" alt="Add us on AIM" title="Add us on AIM">
-<area shape="rect" coords="829,453,865,490" href="msnim:add?contact=orangesarecooool@hotmail.com" alt="Add us on MSN" title="Add us on MSN">
-<area shape="rect" coords="895,496,897,498" href="http://www.image-maps.com/index.php?aff=mapped_users_2201011152254344" alt="Image Map" title="Image Map">
-</map>
-
-</td>
-	</tr>
-	<tr>
-		<!-- td colspan="16" rowspan="2" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/header.jpg" width="897" height="498" alt="" usemap="#headermap" -->
-<td class="headerbox" colspan="16" rowspan="2" width="897" height="498" alt="" valign="top">
-<div id="fadeshow1"></div>
-</td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="497" alt=""></td>
-	</tr>
-	<tr>
-		<td rowspan="3">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_17.jpg" width="251" height="556" alt=""></td>
-		<td rowspan="3">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_18.jpg" width="252" height="556" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td colspan="7">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink1.jpg" width="440" height="24" alt=""></td>
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/home.png" width="87" height="37" border="0" alt=""></a></td>
 		<td colspan="3">
-			<a href="http://fanfusion.org/sell-to-us">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink1-21.jpg" width="79" height="24" border="0" alt=""></a></td>
+			<a href="http://fanfusion.org/domains-for-adoption">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/adopt.png" width="102" height="37" border="0" alt=""></a></td>
+		<td colspan="5">
+			<a href="http://fanfusion.org/hosting">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/hosting.png" width="116" height="37" border="0" alt=""></a></td>
+		<td colspan="3">
+			<a href="http://fanfusion.org/apply">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/apply.png" width="116" height="37" border="0" alt=""></a></td>
+		<td colspan="5">
+			<a href="http://fanfusion.org/themes">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/themes.png" width="112" height="37" border="0" alt=""></a></td>
+		<td colspan="6">
+			<a href="http://fanfusion.org/about">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/about.png" width="98" height="37" border="0" alt=""></a></td>
+		<td colspan="5">
+			<a href="http://fanfusion.org/forum">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/forums.png" width="116" height="37" border="0" alt=""></a></td>
+		<td colspan="3">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_09.png" width="117" height="37" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="5">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_10.png" width="36" height="640" alt=""></td>
+		<td colspan="32" background="http://fanfusion.org/wp-content/themes/summer11/images/header_11.png" width="898" height="523" alt="">
+			<script type="text/javascript"> 
+//new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes),)
+new fadeshow(fadeimages, 898, 523, 0, 3000, 0)
+</script><div id="master0" style="position:relative;width:898px;height:523px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 898px; height: 523px; top: 0px; left: 0px; opacity: 0.990099; background-color: white; z-index: 1;"><img src="http://picju.com/images/o8qnmm.png" border="0px"></div><div id="canvas0_1" style="position:absolute;width:898px;height:523px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:white"><img src="http://picju.com/images/psudfz.png" border="0px"></div></div>  </td>
+		<td rowspan="5">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_12.png" width="41" height="640" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="19" rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_13.png" width="608" height="69" alt=""></td>
+		<td colspan="3">
+			<a href="http://facebook.com/fanfusion">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/fb.png" width="46" height="41" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_15.png" width="5" height="69" alt=""></td>
 		<td>
+			<a href="http://twitter.com/ffdotorg">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/twitter.png" width="43" height="41" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_17.png" width="4" height="69" alt=""></td>
+		<td>
+			<a href="mailto:orangesarecool@gmail.com">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/main.png" width="45" height="41" border="0" alt=""></a></td>
+		<td rowspan="4">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_19.png" width="5" height="117" alt=""></td>
+		<td>
+			<a href="msnim:add?contact=orangesarecooool@hotmail.com">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/IM.png" width="46" height="41" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_21.png" width="4" height="69" alt=""></td>
+		<td colspan="2">
+			<a href="aim:goim?screenname=orangesarecooool&amp;message=Hello">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/im2.png" width="34" height="41" border="0" alt=""></a></td>
+		<td rowspan="4">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_23.png" width="58" height="117" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_24.png" width="46" height="28" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_25.png" width="43" height="28" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_26.png" width="45" height="28" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_27.png" width="46" height="28" alt=""></td>
+		<td colspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_28.png" width="34" height="28" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="2" rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_29.png" width="141" height="48" alt=""></td>
+		<td colspan="2">
+			<a href="http://fanfusion.org/sell-to-us">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/selltous.png" width="92" height="30" border="0" alt=""></a></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_14.png" width="4" height="30" alt=""></td>
+		<td colspan="2">
 			<a href="http://fanfusion.org/ad-code">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink2.jpg" width="40" height="24" border="0" alt=""></a></td>
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/ads.png" width="40" height="30" border="0" alt=""></a></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_16.png" width="6" height="30" alt=""></td>
 		<td>
 			<a href="http://fanfusion.org/topsites">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink3.jpg" width="71" height="24" border="0" alt=""></a></td>
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/topsites.png" width="77" height="30" border="0" alt=""></a></td>
 		<td>
-			<a href="http://fanfusion.us/">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink4.jpg" width="45" height="24" border="0" alt=""></a></td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_18.png" width="4" height="30" alt=""></td>
+		<td colspan="2">
+			<a href="http://fanfusion.us">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/ffus.png" width="54" height="30" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_37.png" width="3" height="48" alt=""></td>
+		<td colspan="2">
+			<a href="http://fanfusion-intl.org">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/ffintl.png" width="101" height="30" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_39.png" width="3" height="48" alt=""></td>
 		<td>
-			<a href="http://fanfusion-intl.org/">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink5.jpg" width="98" height="24" border="0" alt=""></a></td>
-		<td>
-			<a href="http://fanfusionfrance.org/">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink6.jpg" width="34" height="24" border="0" alt=""></a></td>
-		<td>
+			<a href="http://fanfusionfrance.org">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/fff.png" width="41" height="30" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_41.png" width="4" height="48" alt=""></td>
+		<td colspan="2">
 			<a href="http://fanfusion.org/wp-login.php">
-				<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink7.jpg" width="90" height="24" border="0" alt=""></a></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="24" alt=""></td>
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/login.png" width="56" height="30" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_43.png" width="5" height="48" alt=""></td>
+		<td colspan="5">
+			<a href="http://fanfusion.org/design-center">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/designcenter.png" width="120" height="30" border="0" alt=""></a></td>
+		<td colspan="4">
+			<a href="http://fanfusion.org/contests">
+				<img src="http://fanfusion.org/wp-content/themes/summer11/images/contests.png" width="84" height="30" border="0" alt=""></a></td>
 	</tr>
-	<tr valign="top">
-		<td width="293" height="531" colspan="4" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarcontainerbg.jpg">
-<!-- BEGIN SIDEBAR -->
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarfeatures.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
--Fast, high quality servers<br>
--99%+ Uptime<br>
--Unmetered disk space and bandwidth<br>
--Media Hosting (PHPMotion, vShare, etc.)<br>
--Fantastico or Softaculous (*new)<br>
--CPanel or DirectAdmin<br>
--Free Script Installations <br>
--Free Domains for all qualified sites<br>
--Free (0-downtime) Site Transfers<br>
--Google Text Ads/Paid Hosting Options<br>
--<a href="http://fanfusion.org/sitenews/create-your-own-ad-hosting-accounts/" target="_blank">Create your own ads</a> /
-<a href="http://fanfusion.org/sitenews/text-ads-no-ads-accounts/" target="_blank">Text/Small/No ads</a><br>
--Single banner advertisement requirement<br>
--<a href="http://fanfusion-intl.org">International Fansite Hosting</a> / <a href="http://fanfusionfrance.org">FFF</a><br>
--Regular backups of all network data<br>
--Home of many popular fansites on the internet
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarhosteeupdates.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
-
-<ul><li><a href="http://portallovato.com/demi-no-brasil-esse-ano/" title="&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ontem (17), Demi Lovato, tirou um tempinho pra responder algumas perguntas feitas por seus fãs no Twitter, como ela faz de vez em quando. A maioria das perguntas respondidas foram sobre sua carreira musical, e ao ser perguntada por uma fã brasileira (@giicarvalhosz) se ela gostaria [...]">Demi no Brasil esse ano?</a></li><li><a href="http://www.lionandlamblove.org/robert-pattinson-signs-petition-against-sex-trafficking-of-children/" title="ECPAT UK and The Body Shop were joined by celebrity campaign supporter Martine McCutcheon on 12th May 2011 to hand over the Stop Sex Trafficking of Children and Young People Petition to the British prime minister at 10 Downing Street. Signed by an incredible 735,889 people – including stars such as Ricky Gervais, Sienna Miller, [...]">Robert Pattinson Signs Petition Against Sex Trafficking Of Children</a></li><li><a href="http://www.bieberbrasil.com/2011/05/justin-se-encontra-com-vitimas-dos-terremotos-no-japao/" title="Justin Bieber se encontrou nesta quarta-feira com crianças japonesas que vivem na região devastada pelo terremoto e tsunami de 11 de março. No Japão para uma série de shows, o cantor canadense de 17 anos conversou rapidamente com uma dezena de crianças, incluindo algumas de Otsuchi, uma cidade no nordeste do país que foi seriamente [...]">Justin se encontra com vitimas dos terremotos no Japão</a></li><li><a href="http://www.lionandlamblove.org/forbes-celebrity-100-list-rob-kristen-stephenie-make-the-cut/" title="#53 Robert Pattinson Earnings $20 M + From May 2010 – May 2011 At a Glance * Age: 25 * Source: movies * Big Break: Harry Potter and the Goblet of Fire, 2005 * Hometown: London, England * Marital Status: Single Forbes Lists #53 Celebrity 100 * #74 in Money * #57 in TV/Radio * [...]">Forbes ‘Celebrity 100′ List:  Rob, Kristen &amp; Stephenie Make the Cut</a></li><li><a href="http://brit-spears.org/2011/05/novas-fotos-de-ensaios-na-revista-people/" title="
-A nova edição da revista People irá trazer fotos exclusivas da Britney a ensaiar para a Femme Fatale Tour.
-">Novas fotos de ensaios na revista People</a></li><li><a href="http://mileycyrusdaily.com/?p=1678" title="A continuación les dejamos el video que realizo Mike Schmid, tecladista de Miley, en Buenos Aires. El esta filmando y creando videos en todos los países que visitan con el Gypsy Heart Tour y luego los sube a Youtube. Esperamos que les gusten!! Gallery links: • Live On Tour > 2011 – Gypsy Heart Tour [...]">Buenos Aires – Jon Bons &amp; Glitter Spills (by @mikeschmid)</a></li><li><a href="http://www.dulce-world.com/page/?p=5937" title="TweetAdicionamos e nossa galeria fotos de divulgação de lançamento de Extranjera – Segunda Parte e do cartão digital do mesmo. Como parte de divulgação do lançamento da segunda parte de Extranjera, Dulce María oferecerá amanhã (19) uma sessão de autógrafos em Bogotá – Colômbia. Confira abaixo a “tracklist” do cartão digital de Extranjera – Segunda [...]">(Fotos) Extranjera – Segunda Parte</a></li><li><a href="http://www.lionandlamblove.org/taylor-lautner-films-movie-awards-clip-in-nyc/" title="“A couple days ago we broke the news that Taylor Lautner was going to be filming in New York City for one day, but at the time we weren’t quite sure what the shoot was for. Thanks to one of our readers, Ariella, we found out that Taylor was indeed in NYC today filming under [...]">Taylor Lautner Films Movie Awards Clip in NYC</a></li><li><a href="http://www.lionandlamblove.org/video-of-kellan-lutz-on-chelsea-lately/" title=" 
-">Video of Kellan Lutz on Chelsea Lately</a></li><li><a href="http://adamlambertdaily.com/?p=3111" title="Adam eddigi legnagyobb slágere, a Whataya Want From Me is felkerült a Broadcast Music, Inc. illusztris listájára, amely a 2010-es év legjobb popszámait díjazta. A BMI egyike a három legnagyobb zenei jogvédő szervezetnek, hozzájuk regisztrálnak a dalszerzők, zeneszerzők, zenészek, és bárki, aki valamilyen módon közreműködött egy új zeneszám létrehozásában. A “Bővebben” mögött megtekinthetitek a teljes [...]">BMI-díjas dal lett a Whataya Want From Me</a></li></ul>
-<br>
-Latest hostee updates:
-<a href="http://updates.fanfusion.org" target="_blank">Hostee Updates</a> page)
-
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
-
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebartwitterupdates.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
+	<tr>
+		<td colspan="10">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_46.png" width="277" height="18" alt=""></td>
+		<td colspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_47.png" width="101" height="18" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_48.png" width="41" height="18" alt=""></td>
+		<td colspan="2">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_49.png" width="56" height="18" alt=""></td>
+		<td colspan="5">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_50.png" width="120" height="18" alt=""></td>
+		<td colspan="4">
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/header_51.png" width="84" height="18" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="36" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="75" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="66" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="21" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="71" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="4" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="27" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="13" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="6" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="77" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="4" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="16" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="38" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="3" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="75" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="26" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="3" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="41" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="4" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="38" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="18" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="5" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="23" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="5" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="43" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="4" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="45" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="5" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="46" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="4" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="16" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="18" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="58" height="1" alt=""></td>
+		<td>
+			<img src="http://fanfusion.org/wp-content/themes/summer11/images/spacer.gif" width="41" height="1" alt=""></td>
+	</tr>
+</tbody></table>
+<!-- End ImageReady Slices -->
 <center>
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-      type: 'profile',
-      rpp: 4,
-      interval: 6000,
-      width: 230,
-      height: 400,
-      theme: {
-    shell: {
-      background: '#535353',
-	  color: '#ffffff'
-	  },
-	tweets: {
-      background: '#777777',
-	  color: '#ffffff',
-	  links: '#16528f'
-	  }
-    },
-      features: {
-    scrollbar: false,
-	loop: false,
-	live: false,
-	hashtags: true,
-	timestamp: true,
-	avatars: true,
-	behavior: 'all'
-	}
-  }).render().setUser('ffdotorg').start();
-</script>
+<div id="container">
+<div id="posts">
+
+
+<div class="post" id="post-13601">
+<div id="ptop"><div align="center" style="padding-top:50px; color:#ffffff; font-size:9px; padding-left:90px;">Posted By: <a href="http://fanfusion.org/author/vanessafan99/" title="Posts by vanessafan" rel="author">vanessafan</a> | May 16, 2011 | Category: </div>
+<div class="ptitle" style="padding-left:60px; padding-top:60px;"><a href="http://fanfusion.org/privacy-policy/" title="Privacy Policy">Privacy Policy</a></div></div>
+<div id="pmid" align="left"><div class="content-text"><!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffanfusion.org%2Fprivacy-policy%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+<p><strong>Privacy Policy – Last  Updated February 2011</strong><br>
+Thank  you for visiting a FanFusion.Org (“we”  or “us”) Web site. Your   privacy is important to us. To better protect  your privacy, we provide   this notice explaining our online information  practices and the  choices  you can make about the collection and use of the  personal  information  you submit on Web pages where this policy is posted.</p>
+<p>As we  operate internationally, and many of our computer  systems are  currently  based in the United States, your personal data will be   processed by us  in the U.S. where data protection and privacy  regulations may  not  offer the same level of protection as in other  parts of the world, such  as  the European Union. If you create a user  account with this site as a  visitor  from outside the United States,  you will be asked during the  initial  registration to consent to the  collection and/or processing in  the United  States of your personally  identifiable information, which  includes the use of  cookies as  described below.</p>
+<p><strong>The Information We  Collect</strong><br>
+At some FanFusion.Org sites, you can order  products, enter  contests,  vote in polls or otherwise express an opinion,  subscribe to  one of our  services such as our online newsletters, or participate  in  one of our  online forums or communities. The types of personally   identifiable  information that may be collected at these pages include:  name,   address, e-mail address, telephone number, fax number, credit  card  information,  and information about your interests in and use of   various products, programs,  and services.</p>
+<p>At certain parts of  some of our sites, only persons who  provide us  with the requested  personally identifiable information will be able  to  order products,  programs, and services, or otherwise participate in  the  site’s  activities and offerings. We also collect certain  non-personally   identifiable information when you visit many of our Web  pages such as  the type  of browser you are using (e.g., Netscape,  Internet Explorer),  the type of  operating system you are using (e.g.,  Windows 2000 or Mac  OS), and the domain  name of your Internet service  provider (e.g.,  America Online, Earthlink).</p>
+<p><strong>How We Use The  Information</strong><br>
+We use the information you provide about yourself to fulfill  your   requests for our products, programs, and services, to respond to your   inquiries  about our offerings, and to offer you other products,   programs or services that  we believe may be of interest to you.</p>
+<p>We use this information to communicate with you, such as to  notify  you  when you have won one of our contests or when we make changes to  our   subscriber agreements, to fulfill a request by you for an online   newsletter, or  to <a title="contact" href="http://fanfusion.org/contact">contact</a> you about your account with us.</p>
+<p>We use  the information that you provide about others to  enable us  to send  them your gifts or cards. From time to time, we also may use   this  information to offer our products, programs, or services to them.</p>
+<p>The information we collect in connection with our online  forums and   communities is used to provide an interactive experience. We use  this   information to facilitate participation in these online forums and    communities and, from time to time, to offer you products, programs, or    services.</p>
+<p>If you choose to submit content for publication (e.g.,  a  “letter to  our editors”), we may publish your screen name and other   information  you have provided to us. We use the non-personally  identifiable   information that we collect to improve the design and  content of our  site and  to enable us to personalize your Internet  experience. We also  may use this  information in the aggregate to  analyze site usage, as  well as to offer you  products, programs, or  services.</p>
+<p>We may disclose personally identifiable information in   response to  legal process, for example, in response to a court order or  a   subpoena. We also may disclose such information in response to a law    enforcement agency’s request or where we believe it is necessary to    investigate, prevent, or take action regarding illegal activities,   suspected  fraud, situations involving potential threats to the physical   safety of any  person, violations of our <a title="terms of use" href="http://fanfusion.org/terms-of-use">terms of use</a>, or as otherwise   required by law. In  addition, we may transfer information about you  if  we are acquired by or merged  with another company.<br>
+Agents and  contractors of FanFusion.Org sites who  have access to   personally identifiable information are required to protect this    information in a manner that is consistent with this Privacy Policy by,   for  example, not using the information for any purpose other than to   carry out the  services they are performing for FanFusion.Org  sites.</p>
+<p>Although we take appropriate measures to safeguard against    unauthorized disclosures of information, we cannot assure you that   personally  identifiable information that we collect will never be   disclosed in a manner  that is inconsistent with this Privacy Policy.</p>
+<p>At some places on our Site, we may ask your permission to  disclose   personally identifiable information about you to companies whose    practices are not covered by this Privacy Policy (e.g., other marketers,    magazine publishers, retailers, participatory databases and  non-profit   organizations) that want to market products or services to  you. If at  some  point you grant us permission to transfer your  information for  these purposes  and later decide that you no longer  want us to do so,  simply send us an email  at  orangesarecool[at]gmail.com and we will edit your  preferences  accordingly.</p>
+<p>We may, on occasion, combine information  we receive online  with  outside records to enhance our ability to  market to you those products  or  services that may be of interest to  you. When registering with our  site, we  provide you with an opportunity  to express your preferences  with respect to  receiving details about  other products and services  from FanFusion.Org  and other  businesses and about products and  services from selected third parties.   If you ever decide in the future  that you would like to update these   preferences, you may do so by  sending us an email at orangesarecool[at]gmail.com  and we  will edit  your preferences accordingly. Finally, we will not use  or transfer   personally identifiable information provided to us in ways  unrelated to  the  ones described above without also providing you with  an  opportunity to opt out  of these unrelated uses.</p>
+<p><strong>Collection of  Information by Third Party Sites and Sponsors</strong><br>
+Some of our sites contain links to other sites whose  information   practices may be different than ours. Visitors should consult the  other   sites’ privacy policies, as we have no control over information that  is   submitted to, or collected by, these third parties.</p>
+<p>We  sometimes may offer content (e.g., contests, sweepstakes,  or   promotions) that is sponsored by or co-branded with identified third    parties. By virtue of these relationships, the third parties may obtain    personally identifiable information that visitors voluntarily submit  to   participate in the site activity. We have no control over these  third  parties’  use of this information. The site will notify you at  the time  of requesting  personally identifiable information if these  third  parties will obtain such  information.</p>
+<p>At some FanFusion.Org sites, reputable third  parties may present or  serve the  advertisements. Our Privacy Policy does not  cover any use of   information that a third party ad server may collect from you.</p>
+<p><strong>Google’s Use of the DART Cookie<br>
+</strong>Google,   a third party vendor, uses cookies to serve ads on  some of sites.  Google uses what is caled a DART cookie which enables it  to serve ads  that are based on your visit to various sites on the   Internet. You may  opt out of the use of the DART cookie by visiting the  <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
+<p><strong>Cookies and Other  Technical Information</strong><br>
+We send “cookies” to your computer primarily to  enhance your online   experience. “Cookies” are files that can identify  you as a unique   customer and store your personal preferences as well as  technical   information (including click through and click stream data). Cookies    can either be permanent (i.e., they remain on your computer until you   delete  them) or temporary (i.e., they last only until you close your   browser). We may  also use “Web beacons” that monitor your use of our   sites. Web  beacons (or Web bugs) are small strings of code that provide   a method for  delivering a graphic image on a Web page for the purpose   of transferring data,  such as the IP (Internet Protocol) address of  the  computer that downloaded the  page on which the Web beacon appears,  the  URL (Uniform Resource Locator) of the  page on which the Web  beacon  appears, the time the page containing the Web  beacon was  viewed, the  types of browser that fetched the Web beacon and the   identification  number of any cookie on the computer previously placed  by that  server.  When corresponding with you via HTML capable e-mail,  Web beacons let us   know whether you received and opened our e-mail.</p>
+<p>If you choose  to furnish the site with personally  identifiable  information, this  information can be stored in or linked to other  data  stored in the  cookies/Web beacons.</p>
+<p>By accepting this Privacy Policy, you  specifically agree to  our use  of cookies and Web beacons as described  herein. You may adjust your   browser to reject cookies from us or from  any other Web site.  Additionally, by  setting your Web browser to  display HTML e-mails as  text only, you may be able  to prevent the use  of some Web beacons.  Please consult the “Help”  section of your browser  for more  information. However, certain areas of our  sites can only be  accessed  in conjunction with cookies or similar devices and  you should  be aware  that disabling cookies or similar devices might prevent you   from  accessing some of our content.</p>
+<p><strong>Our Commitment to  Security</strong><br>
+We have put in place appropriate physical, electronic, and  managerial   procedures to safeguard and help prevent unauthorized access,  maintain   data security, and correctly use the information we collect online.</p>
+<p><strong>How You Can Access or  Correct Information</strong><br>
+To access the personally identifiable information that this  FanFusion.Org site has collected about you online from the pages on    which this Privacy Policy is posted, to correct factual errors in such    information, or to update your interests, preferences or other portions   of your  user profile, please send an email to  orangesarecool[at]gmail.com</p>
+<p>To protect your privacy and security, we will take  reasonable steps  to  help verify your identity before granting access or making    corrections.</p>
+<p><strong>Children’s Privacy</strong><br>
+Visitors to  this site may participate in many activities  without  providing any  personally identifiable information. However, if a user   wants to  participate in certain of our interactive features, we ask the  user to   register and provide us with the following information: the  user’s  e-mail  address and age information. When the person who  registers  indicates that he or  she is under 13, we will either collect  no  personally identifiable information  from that individual or inform  the  child that a parent’s verifiable consent is  required or we will  collect  the e-mail address of the user’s parent in addition  to the  user’s  e-mail address. We use the parent’s e-mail address to seek the   parent’s  verifiable consent or notify the parent of his/her child’s  online   activities and enable the parent to unsubscribe his/her child  from a  newsletter  or other similar activity. If a user is under 13, we  will  not condition his/her  participation in an online activity on the   disclosure of more information than  is reasonably necessary to   participate in the activity. We do not share  children’s information   with outside third parties not bound by this Privacy  Policy. If you   would like to review any personally identifiable information  that we   have collected online from your child, have this information deleted,    and/or request that there be no further collection or use of your   child’s  information or if you have questions about these information   practices, you may  <a title="contact" href="http://fanfusion.org/contact">contact</a> us at orange</p>
+<p><strong>Notification  Regarding Updates</strong><br>
+From time to time, we may update this privacy notice. We  will notify   you about material changes in the way we treat personally  identifiable   information by placing a notice on our site. We encourage you to    periodically check back and review this policy so that you always will   know  what information we collect, how we use it, and to whom we   disclose it.</p>
+<p>&nbsp;</p>
+<p>2Checkout.com is an authorized payment solution for &lt;Your Company&gt;.</p><p align="left"><a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://fanfusion.org/?p=13601" title="Post to Twitter"><img class="nothumb" src="http://fanfusion.org/wp-content/plugins/tweet-this/icons/tt/tt20.png" alt="Post to Twitter"></a> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://fanfusion.org/?p=13601" title="Post to Twitter">Tweet This Post</a></p>
+</div></div>
+<div id="pbtm"><div class="commentsno" style="padding-top:60px;"><div class="comnt"><a href="http://fanfusion.org/privacy-policy/#respond" title="Comment on Privacy Policy">No Comments yet</a></div></div></div></div>
+
+
+	
+
+
+	<font color="#gggggg"><p>No comments yet.</p></font>
+
+
+
+<div class="leave">
+
+<h2 id="postcomment">Leave a comment</h2>
+
+
+
+
+
+
+<form action="http://fanfusion.org/wp-comments-post.php" method="post" id="commentform">
+
+
+
+
+
+
+<p><input type="text" name="author" id="author" value="" size="22" tabindex="1">
+
+<label for="author"><small>Name (required)</small></label></p>
+
+
+
+<p><input type="text" name="email" id="email" value="" size="22" tabindex="2">
+
+<label for="email"><small>Mail (will not be published) (required)</small></label></p>
+
+
+
+<p><input type="text" name="url" id="url" value="" size="22" tabindex="3">
+
+<label for="url"><small>Website</small></label></p>
+
+
+
+
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: &lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </small></p>-->
+
+
+
+<p><textarea name="comment" id="comment" cols="60" rows="10" tabindex="4"></textarea></p>
+
+
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Send Comment">
+
+<input type="hidden" name="comment_post_ID" value="13601">
+
+</p>
+
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="44272c4845"></p>
+
+
+</form>
+
+
+
+
+
+
+<center><script src="http://www.fanfusion.org/ads1/ad300x250.js"></script></center>
+[Return to <a href="http://fanfusion.org" target="_blank" title="Free Fansite Hosting">FanFusion.Org</a>]<br>
+
+</div>
+
+
+
+<!--end #content-->
+<!-- begin sidebar -->
+</div>
+<div id="sidestuff" align="right">
+
+
+
+
+
+
+
+
+
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Features
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
+<center>
+<iframe width="180" height="132" src="http://www.youtube.com/embed/ceJQigTjSeo?rel=0" frameborder="0" allowfullscreen=""></iframe>
 </center>
 
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
+<br><br>
+<strong>
+-99%+ Uptime<br>
+-Unmetered hosting<br>
+-Fast, HQ servers<br>
+-Free 0-downtime Transfers<br>
+-<a href="http://fanfusion.org/sitenews/create-your-own-ad-hosting-accounts/" target="_blank">Create your own ads*</a><br>
+-Regular backups of data<br>
+-Home of popular fansites<br><br>
+</strong>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarexamplehostees.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
+<br>International Family Sites<br>
+<a href="http://fanfusionbrasil.com" target="_blank">FanFusion Brasil</a><br>
+<a href="http://fanfusionfrance.org" target="_blank">FanFusion France</a><br>
+<a href="http://fanfusionhungary.org" target="_blank">FanFusion Hungary</a><br><br>
+
+<center><a href="http://fanfusion.org/apply"><img src="http://fanfusion.org/wp-content/themes/summer11/images/apply.png"></a></center><br>
+</div> </div>
+</td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Our Twitter
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
+<marquee>Follow us on twitter <a href="http://twitter.com/ffdotorg">@ffdotorg</a></marquee>
+<ul id="twitter_update_list" class="twit" align="left" width="166px"></ul>
+<p><script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script><br>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/ffdotorg.json?callback=twitterCallback2&amp;count=5"></script>
+
+Other Links:<br>
+<a href="http://fanfusion.org/wanted" target="_blank">Wanted Fansites</a><br><br>
+
+
+</p><center><script src="http://www.fanfusion.org/ads1/ad160x600.js"></script></center>
+<center><script src="http://www.fanfusion.org/ads1/ad160x600.js"></script></center>
+
+
+</div> </div>
+</td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Example sites
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
 <center>
 <a href="http://emmawatsonsource.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/emmawatson.png"></a>
+
 <a href="http://justinworld.net" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/justinworld.png"></a><br>
+
 <a href="http://demilovatodaily.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/dld.png"></a>
+
 <a href="http://ashleytisdale.org" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/ashleytisdale.png"></a><br>
-<a href="http://kimkardashianweb.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/kimkardashian.png"></a>
+
+<a href="http://kimkardashianweb.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/kimkardashian.png"></a><br>
+
 <a href="http://taylor-momsen.net" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/taylormomsen.png"></a><br>
-<a href="http://bonniewrightonline.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/bonnie.png"></a>
+
+<a href="http://bonniewrightonline.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/bonnie.png"></a><br>
+
 <a href="http://taylor-lautner.net" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/tlnet.png"></a><br>
-<a href="http://katyperryonline.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/kpo.png"></a>
 
-<br>
 </center>
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarsotmoment.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
+
+</div> </div>
+</td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Site of the moment
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
 <center>
-<a href="http://ninadobrev.co.uk" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/ninadobrevcouk.png" width="100" height="35"></a>
+
 <a href="http://taylor-swift.nu" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/taylorswiftnu.png"></a><br>
+
 <a href="http://kcavallari.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/kcavallari.jpg"></a>
+
 <a href="http://jessalba.us" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/jessalba.png"></a><br>
-<a href="http://audrinanetwork.us" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/audrinanetwork.jpg"></a>
+
+<a href="http://milakunisweb.org" target="_blank"><img src="http://milakunisweb.org/linkback/005.png"></a><br>
+
 <a href="http://whitney-daily.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/whitneydaily.png"></a><br>
-<a href="http://bsbsquad.com" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/bsbsquad.jpg"></a>
+
 <a href="http://johnnydepp.org" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/johnnydepp.png"></a><br>
+
 <a href="http://leightonmeester.org" target="_blank"><img src="http://fanfusion.org/wp-content/themes/layoutblueblack/affs/leightonmeester.org.png"></a><br>
+
+<a href="http://meganfoxworld.com" target="_blank"><img src="http://meganfoxworld.com/pictures/button2.jpg"></a><br>
+
+   <a href="http://victoriajusticedaily.com" target="_blank"><img src="http://victoriajusticedaily.com/wp-content/themes/RD22/images/lb2.jpg"><br>
 <br>
-<a href="http://fanfusion.org/nominate-sotm" target="_blank">Nominate a Site</a><br>
+
+</a><a href="http://fanfusion.org/nominate-sotm" target="_blank">Nominate a Site</a><br>
+
 </center>
 
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
+
+</div> </div>
+</td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Archives
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarnetworks.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
-<a href="http://fanfusion.org/design-center" target="_blank">Design Center</a><br>
-<a href="http://tutorials.fanfusion.org" target="_blank">Tutorials</a><br>
-<a href="http://tutorials.fanfusion.org" target="_blank">Hostee Updates</a><br>
-<a href="http://fanfusion.org/wanted" target="_blank">Wanted Fansites</a><br>
+   	<li><a href="http://fanfusion.org/2011/12/" title="December 2011">December 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/11/" title="November 2011">November 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/10/" title="October 2011">October 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/09/" title="September 2011">September 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/08/" title="August 2011">August 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/07/" title="July 2011">July 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/06/" title="June 2011">June 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/05/" title="May 2011">May 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/04/" title="April 2011">April 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/03/" title="March 2011">March 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/02/" title="February 2011">February 2011</a></li>
+	<li><a href="http://fanfusion.org/2011/01/" title="January 2011">January 2011</a></li>
 
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
-
-
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarfacebook.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
-
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffanfusion&amp;width=250&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=320" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:320px;" allowtransparency="true"></iframe>
-
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
+</div></div></td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarsitestats.jpg">
-</td></tr>
-<tr><td background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarmid.jpg" style="background-repeat: repeat-y; padding-left:35px; padding-right:10px">
-Hits Since Nov '09: <script src="http://fastwebcounter.com/secure.php?s=www.fanfusion.org"></script><br>
-Users Online:
-<strong><font color="orange"><script language="JavaScript" src="/cgi-bin/online/online.cgi?output=javascript">
-</script><a href="http://www.perlonline.com" style="color: #1a4d76;text-decoration: none">20</a></font></strong><br>
-Plug: <a href="http://MarkSheppard.ca" target="_blank">MarkSheppard.Ca</a><br>
-Cool ppl: fansites ben <img src="http://fanfusion.org/wp-content/themes/layoutblueblack/fansitesben.gif"> hcom<br>
-Link Back:<br>
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Like us on Facebook
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
+
+
+<iframe src="http://www.facebook.com/plugins/like.php?app_id=119557134807903&amp;href=http%3A%2F%2Ffacebook.com%2Ffanfusion&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowtransparency="true"></iframe>
+
+<iframe src="http://www.facebook.com/plugins/facepile.php?href=http%3A%2F%2Ffacebook.com%2Ffanfusion&amp;size=small&amp;width=150&amp;max_rows=1&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px;" allowtransparency="true"></iframe>
+
+
+
+</div></div></td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+
+
+
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Link To Us
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
+<center>
+<a href="http://www.fanfusion.org" target="_blank" title="free fansite hosting"><img class="aligncenter" src="http://fanfusion.org/links/ffbutton.gif" alt="Fansite Hosting"></a>
+
 <a href="http://www.fanfusion.org" target="_blank" title="free fansite hosting"><img src="http://fanfusion.org/links/fanfusion1.png" border="0"></a>
-<a href="http://www.fanfusion.org" target="_blank" title="free fansite hosting"><img src="http://fanfusion.org/links/fanfusion2.png" border="0"></a><br>
-HQ Sites Hosted: 1000+<br>
 
+<a href="http://www.fanfusion.org" target="_blank" title="free fansite hosting"><img src="http://fanfusion.org/links/fanfusion2.png" border="0"></a><br>
+
+</center>
+
+</div></div></td>
+</tr>
+<tr>
+<td height="103"><div id="sbtm"></div></td>
+</tr>
+</tbody></table>
+<br><br><br>
+
+
+
+
+
+
+
+<table width="224" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td height="163"><div id="stop"><div style="font-size:25px; font-family:Honey; color:#E97BB4; padding-top:120px; font-weight:bold; text-shadow:1px 0px 1px #F5C4DD;" align="center">
+Site statistics
+</div></div></td>
+</tr>
+<tr>
+<td><div id="smid" style="margin-top:-1px;"><div class="sidebar-text">
+Hits Since Nov '09: <script src="http://fastwebcounter.com/secure.php?s=www.fanfusion.org"></script><br>
+
+Users Online:
+
+<script language="JavaScript" src="http://freehostedscripts.net/ocounter.php?site=ID221129&amp;e1=Online User&amp;e2=Online Users"></script><br>
+
+Coding by: <a href="http://so-real.net" target="_blank">Samantha</a><br>
+
+Plug: <a href="http://MarkSheppard.ca" target="_blank">MarkSheppard.Ca</a><br>
+
+Cool ppl: fansites ben <img src="http://fanfusion.org/wp-content/themes/layoutblueblack/fansitesben.gif"> hcom<br>
+
+
+
+<center><script src="http://www.fanfusion.org/ads1/ad160x600.js"></script></center>
+
+<center><script src="http://www.fanfusion.org/ads1/ad160x600.js"></script></center>
 
 <center>
 <div id="eXTReMe"><a href="http://extremetracking.com/open?login=fanfusio">
@@ -397,237 +1191,19 @@ src="http://e1.extreme-dm.com/s10.g?login=fanfusio&amp;j=n&amp;jv=n" />
 
 
 
-</td></tr>
-<tr><td>
-<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sidebarbottom.jpg">
-</td></tr></tbody></table>
 
-
-
-
-<br><br>
-<center>	<form method="get" id="searchform" action="http://fanfusion.org/">
-<div><input class="s-top" type="text" value="" size="30px" name="s" id="s">
-<input type="submit" id="searchsubmit" class="s-top-button" value="Search">
-</div>
-</form>
-</center>
-<br><br>
-
-<!-- END SIDEBAR -->
-</td>
-		<td width="604" height="531" colspan="12" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/newscontainerbg.jpg">
-<!-- BEGIN NEWS -->
-
-<!-- start loop-->
-<center><script src="http://www.fanfusion.org/ads1/ad468x60.js"></script></center><br><table border="0" cellspacing="0 cellpadding=" 0"="">
-
-
-
-
-
-
-
-
-<!-- begin table -->
-<tbody><tr><td> <!-- looped -->
-      <table border="0" cellpadding="0" cellspacing="0" align="left" class="newstable">
-        <tbody><tr><td width="604" height="73" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/newstop1.jpg" style="padding-left:150px; padding-top:25px; padding-right:50px;">
-<!-- title -->
-<span class="newstitle"><a class="newstitle" href="http://fanfusion.org/privacy-policy/"> Privacy Policy</a></span>
-<!-- end title -->
-</td>
+</div></div></td>
 </tr>
-
-
-<tr><td width="604" height="72" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/newstop2.jpg" style="padding-left:30px;">
-<!-- posted by -->
-<span class="posted">
-<b>Posted By:</b> vanessafan99 | <a href="http://fanfusion.org/privacy-policy/#respond" title="Comment on Privacy Policy">0 Comments</a>  |
-<b>Category:</b> </span>
-<!-- end posted by -->
-</td>  
-</tr>
-        
-        <tr>
-<td class="news" valign="top" style="margin: -1px; -moz-border-radius:  6px; -webkit-border-radius: 6px; border-radius: 6px; border: 0px solid #DACEC0; padding-left:25px; padding-right:40px; padding-top:7px;  background-repeat: repeat-y;" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/newsmid.jpg">
-<!-- the news -->
-<p align="left">
-
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffanfusion.org%2Fprivacy-policy%2F&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
-<!-- Facebook Like Button END -->
-</p><p><strong>Privacy Policy – Last  Updated February 2011</strong><br>
-Thank  you for visiting a FanFusion.Org (“we”  or “us”) Web site. Your   privacy is important to us. To better protect  your privacy, we provide   this notice explaining our online information  practices and the  choices  you can make about the collection and use of the  personal  information  you submit on Web pages where this policy is posted.</p>
-<p>As we  operate internationally, and many of our computer  systems are  currently  based in the United States, your personal data will be   processed by us  in the U.S. where data protection and privacy  regulations may  not  offer the same level of protection as in other  parts of the world, such  as  the European Union. If you create a user  account with this site as a  visitor  from outside the United States,  you will be asked during the  initial  registration to consent to the  collection and/or processing in  the United  States of your personally  identifiable information, which  includes the use of  cookies as  described below.</p>
-<p><strong>The Information We  Collect</strong><br>
-At some FanFusion.Org sites, you can order  products, enter  contests,  vote in polls or otherwise express an opinion,  subscribe to  one of our  services such as our online newsletters, or participate  in  one of our  online forums or communities. The types of personally   identifiable  information that may be collected at these pages include:  name,   address, e-mail address, telephone number, fax number, credit  card  information,  and information about your interests in and use of   various products, programs,  and services.</p>
-<p>At certain parts of  some of our sites, only persons who  provide us  with the requested  personally identifiable information will be able  to  order products,  programs, and services, or otherwise participate in  the  site’s  activities and offerings. We also collect certain  non-personally   identifiable information when you visit many of our Web  pages such as  the type  of browser you are using (e.g., Netscape,  Internet Explorer),  the type of  operating system you are using (e.g.,  Windows 2000 or Mac  OS), and the domain  name of your Internet service  provider (e.g.,  America Online, Earthlink).</p>
-<p><strong>How We Use The  Information</strong><br>
-We use the information you provide about yourself to fulfill  your   requests for our products, programs, and services, to respond to your   inquiries  about our offerings, and to offer you other products,   programs or services that  we believe may be of interest to you.</p>
-<p>We use this information to communicate with you, such as to  notify  you  when you have won one of our contests or when we make changes to  our   subscriber agreements, to fulfill a request by you for an online   newsletter, or  to contact you about your account with us.</p>
-<p>We use  the information that you provide about others to  enable us  to send  them your gifts or cards. From time to time, we also may use   this  information to offer our products, programs, or services to them.</p>
-<p>The information we collect in connection with our online  forums and   communities is used to provide an interactive experience. We use  this   information to facilitate participation in these online forums and    communities and, from time to time, to offer you products, programs, or    services.</p>
-<p>If you choose to submit content for publication (e.g.,  a  “letter to  our editors”), we may publish your screen name and other   information  you have provided to us. We use the non-personally  identifiable   information that we collect to improve the design and  content of our  site and  to enable us to personalize your Internet  experience. We also  may use this  information in the aggregate to  analyze site usage, as  well as to offer you  products, programs, or  services.</p>
-<p>We may disclose personally identifiable information in   response to  legal process, for example, in response to a court order or  a   subpoena. We also may disclose such information in response to a law    enforcement agency’s request or where we believe it is necessary to    investigate, prevent, or take action regarding illegal activities,   suspected  fraud, situations involving potential threats to the physical   safety of any  person, violations of our terms of use, or as otherwise   required by law. In  addition, we may transfer information about you  if  we are acquired by or merged  with another company.<br>
-Agents and  contractors of FanFusion.Org sites who  have access to   personally identifiable information are required to protect this    information in a manner that is consistent with this Privacy Policy by,   for  example, not using the information for any purpose other than to   carry out the  services they are performing for FanFusion.Org  sites.</p>
-<p>Although we take appropriate measures to safeguard against    unauthorized disclosures of information, we cannot assure you that   personally  identifiable information that we collect will never be   disclosed in a manner  that is inconsistent with this Privacy Policy.</p>
-<p>At some places on our Site, we may ask your permission to  disclose   personally identifiable information about you to companies whose    practices are not covered by this Privacy Policy (e.g., other marketers,    magazine publishers, retailers, participatory databases and  non-profit   organizations) that want to market products or services to  you. If at  some  point you grant us permission to transfer your  information for  these purposes  and later decide that you no longer  want us to do so,  simply send us an email  at  orangesarecool[at]gmail.com and we will edit your  preferences  accordingly.</p>
-<p>We may, on occasion, combine information  we receive online  with  outside records to enhance our ability to  market to you those products  or  services that may be of interest to  you. When registering with our  site, we  provide you with an opportunity  to express your preferences  with respect to  receiving details about  other products and services  from FanFusion.Org  and other  businesses and about products and  services from selected third parties.   If you ever decide in the future  that you would like to update these   preferences, you may do so by  sending us an email at orangesarecool[at]gmail.com  and we  will edit  your preferences accordingly. Finally, we will not use  or transfer   personally identifiable information provided to us in ways  unrelated to  the  ones described above without also providing you with  an  opportunity to opt out  of these unrelated uses.</p>
-<p><strong>Collection of  Information by Third Party Sites and Sponsors</strong><br>
-Some of our sites contain links to other sites whose  information   practices may be different than ours. Visitors should consult the  other   sites’ privacy policies, as we have no control over information that  is   submitted to, or collected by, these third parties.</p>
-<p>We  sometimes may offer content (e.g., contests, sweepstakes,  or   promotions) that is sponsored by or co-branded with identified third    parties. By virtue of these relationships, the third parties may obtain    personally identifiable information that visitors voluntarily submit  to   participate in the site activity. We have no control over these  third  parties’  use of this information. The site will notify you at  the time  of requesting  personally identifiable information if these  third  parties will obtain such  information.</p>
-<p>At some FanFusion.Org sites, reputable third  parties may present or  serve the  advertisements. Our Privacy Policy does not  cover any use of   information that a third party ad server may collect from you.</p>
-<p><strong>Google’s Use of the DART Cookie<br>
-</strong>Google,   a third party vendor, uses cookies to serve ads on  some of sites.  Google uses what is caled a DART cookie which enables it  to serve ads  that are based on your visit to various sites on the   Internet. You may  opt out of the use of the DART cookie by visiting the  <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.</p>
-<p><strong>Cookies and Other  Technical Information</strong><br>
-We send “cookies” to your computer primarily to  enhance your online   experience. “Cookies” are files that can identify  you as a unique   customer and store your personal preferences as well as  technical   information (including click through and click stream data). Cookies    can either be permanent (i.e., they remain on your computer until you   delete  them) or temporary (i.e., they last only until you close your   browser). We may  also use “Web beacons” that monitor your use of our   sites. Web  beacons (or Web bugs) are small strings of code that provide   a method for  delivering a graphic image on a Web page for the purpose   of transferring data,  such as the IP (Internet Protocol) address of  the  computer that downloaded the  page on which the Web beacon appears,  the  URL (Uniform Resource Locator) of the  page on which the Web  beacon  appears, the time the page containing the Web  beacon was  viewed, the  types of browser that fetched the Web beacon and the   identification  number of any cookie on the computer previously placed  by that  server.  When corresponding with you via HTML capable e-mail,  Web beacons let us   know whether you received and opened our e-mail.</p>
-<p>If you choose  to furnish the site with personally  identifiable  information, this  information can be stored in or linked to other  data  stored in the  cookies/Web beacons.</p>
-<p>By accepting this Privacy Policy, you  specifically agree to  our use  of cookies and Web beacons as described  herein. You may adjust your   browser to reject cookies from us or from  any other Web site.  Additionally, by  setting your Web browser to  display HTML e-mails as  text only, you may be able  to prevent the use  of some Web beacons.  Please consult the “Help”  section of your browser  for more  information. However, certain areas of our  sites can only be  accessed  in conjunction with cookies or similar devices and  you should  be aware  that disabling cookies or similar devices might prevent you   from  accessing some of our content.</p>
-<p><strong>Our Commitment to  Security</strong><br>
-We have put in place appropriate physical, electronic, and  managerial   procedures to safeguard and help prevent unauthorized access,  maintain   data security, and correctly use the information we collect online.</p>
-<p><strong>How You Can Access or  Correct Information</strong><br>
-To access the personally identifiable information that this  FanFusion.Org site has collected about you online from the pages on    which this Privacy Policy is posted, to correct factual errors in such    information, or to update your interests, preferences or other portions   of your  user profile, please send an email to  orangesarecool[at]gmail.com</p>
-<p>To protect your privacy and security, we will take  reasonable steps  to  help verify your identity before granting access or making    corrections.</p>
-<p><strong>Children’s Privacy</strong><br>
-Visitors to  this site may participate in many activities  without  providing any  personally identifiable information. However, if a user   wants to  participate in certain of our interactive features, we ask the  user to   register and provide us with the following information: the  user’s  e-mail  address and age information. When the person who  registers  indicates that he or  she is under 13, we will either collect  no  personally identifiable information  from that individual or inform  the  child that a parent’s verifiable consent is  required or we will  collect  the e-mail address of the user’s parent in addition  to the  user’s  e-mail address. We use the parent’s e-mail address to seek the   parent’s  verifiable consent or notify the parent of his/her child’s  online   activities and enable the parent to unsubscribe his/her child  from a  newsletter  or other similar activity. If a user is under 13, we  will  not condition his/her  participation in an online activity on the   disclosure of more information than  is reasonably necessary to   participate in the activity. We do not share  children’s information   with outside third parties not bound by this Privacy  Policy. If you   would like to review any personally identifiable information  that we   have collected online from your child, have this information deleted,    and/or request that there be no further collection or use of your   child’s  information or if you have questions about these information   practices, you may  contact us at orange</p>
-<p><strong>Notification  Regarding Updates</strong><br>
-From time to time, we may update this privacy notice. We  will notify   you about material changes in the way we treat personally  identifiable   information by placing a notice on our site. We encourage you to    periodically check back and review this policy so that you always will   know  what information we collect, how we use it, and to whom we   disclose it.</p>
-<p>&nbsp;</p>
-<p>2Checkout.com is an authorized payment solution for &lt;Your Company&gt;.</p>
-<p align="left"><a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://tinyurl.com/66cjm5x" title="Post to Twitter"><img class="nothumb" src="http://fanfusion.org/wp-content/plugins/tweet-this/icons/tt/tt4.png" alt="Post to Twitter"></a> <a class="tt" href="http://twitter.com/home/?status=Privacy+Policy+http://tinyurl.com/66cjm5x" title="Post to Twitter">Tweet This Post</a></p><p></p>
-<!-- end the news -->
-</td>
-</tr>
-
 <tr>
-<td width="604" height="161" background="http://fanfusion.org/wp-content/themes/layoutblueblack/images/newsbottom.jpg" style="padding-left:90px; padding-top:80px;">
-
-<!-- date, etc -->
-    May 16, 2011 | <a class="comments" href="http://fanfusion.org/privacy-policy/#comments">0 Comments</a>
-<!-- end date, etc-->
-</td>
+<td height="103"><div id="sbtm"></div></td>
 </tr>
-
-      </tbody></table>
-</td></tr><tr><td> <!-- looped -->
-
-
-  
-<!-- You can start editing here. -->
-
-
-			<!-- If comments are open, but there are no comments. -->
-
-	 
-
-
-   <div class="entry">
-<div id="respond">
-
- <div class="bg"> 
-<h3>Leave a Reply</h3>
-      <div class="entry-content">
-<div class="comment-content">
-<div class="cancel-comment-reply">
- <a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a> 
-</div>
-
-
-<form action="http://fanfusion.org/wp-comments-post.php" method="post" id="commentform">
-
-
-<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required="true">
-<label for="author"><small>Name (required)</small></label></p>
-
-<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required="true">
-<label for="email"><small>Mail (will not be published) (required)</small></label></p>
-
-<p><input type="text" name="url" id="url" value="" size="22" tabindex="3">
-<label for="url"><small>Website</small></label></p>
-
-
-<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
-
-<p><textarea name="comment" id="comment" cols="58" rows="10" tabindex="4"></textarea></p>
-
-<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
-<input type="hidden" name="comment_post_ID" value="13601" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p>
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="112373dd21"></p>
-</form>
-
-</div>
-</div></div>
-</div></div>
-
-<script src="http://www.fanfusion.org/ads1/ad468x60.js"></script>
-  </td></tr></tbody></table> <!-- end of loop>
-
-
-
-
-
-
-
-<!-- END NEWS -->
-</td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="531" alt=""></td>
-	</tr>
-	<tr>
-		<td colspan="17">
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/sublink1-28.jpg" width="1148" height="217" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/index_30.jpg" width="252" height="217" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="1" height="217" alt=""></td>
-	</tr>
-	<tr>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="251" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="154" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="52" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="53" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="34" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="38" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="57" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="52" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="15" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="46" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="18" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="40" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="71" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="45" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="98" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="34" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="90" height="1" alt=""></td>
-		<td>
-			<img src="http://fanfusion.org/wp-content/themes/layoutblueblack/images/spacer.gif" width="252" height="1" alt=""></td>
-		<td></td>
-	</tr>
 </tbody></table>
-<!-- End Save for Web Slices -->
 
 
+</div>
 
-<!-- Dynamic Page Served (once) in 1.916 seconds -->
-<!-- Cached page served by WP-Cache -->
-</body></html>
+<!-- end sidebar --></div>
+<br><br>
+
+
+</center></body></html>
