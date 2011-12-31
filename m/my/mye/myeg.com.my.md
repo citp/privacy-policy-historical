@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620000351id_/http%3A//www.myeg.com.my/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeg.com.my privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211552id_/http%3A//www.myeg.com.my/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
