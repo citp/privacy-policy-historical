@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rtd-denver.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtd-denver.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210955id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # RTD | Privacy Policy
+
+Privacy Policy
 
 At RTD, we are committed to protecting the privacy of our customers and visitors to our website. The following privacy policy statement specifies what information we collect on our website, rtd-denver.com, and how we use it. 
 
@@ -41,7 +43,7 @@ Policy updates
 This page will be updated with our current privacy policy so you will always be aware of the type of information we collect and how we use it. RTD reserves the right to update this privacy policy at any time. 
 
 Questions   
-If you have questions about this privacy policy statement, please [contact us](https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/ContactUs.shtml). 
+If you have questions about this privacy policy statement, please [contact us](https://web.archive.org/web/20111231210955id_/http%3A//www.rtd-denver.com/ContactUs.shtml). 
 
 Copyright © 2011 The Regional Transportation District. All rights reserved.  
 RTD, 1600 Blake Street, Denver, CO 80202
