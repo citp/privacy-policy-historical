@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prolinkdirectory.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602025306id_/http%3A//www.prolinkdirectory.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolinkdirectory.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205501id_/http%3A//www.prolinkdirectory.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Free Directory, Your SEO Help - Privacy Policy
+# - Privacy Policy - ProLinkDirectory
 
   Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.   
   We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.   
