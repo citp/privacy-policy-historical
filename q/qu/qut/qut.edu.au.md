@@ -1,64 +1,75 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610125307id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224459id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
-# QUT | QUT's privacy and security statement
+# QUT - Privacy
 
-Use of cookies and other information collection technologies  
-Site usage  
-Email and feedback information  
-Further information about privacy
+We're committed to protecting your privacy. We understand that you and other users of this website are concerned about privacy and the security of any information you provide to us.
 
-Thank you for visiting QUT's website. QUT is committed to protecting the privacy of users of our website. We understand that visitors to and users of this website are concerned about their privacy and the security of any information that they may provide. 
+We ensure that personal information is responsibly collected and managed in accordance with 11 Information Privacy Principles of the Information Privacy Act 2009.
 
-QUT ensures that personal information is responsibly collected and managed in accordance with 11 Information Privacy Principles of the _Information Privacy Act 2009_. 
+[Find the Information Privacy Act 2009 at Queensland Legislation](http://www.legislation.qld.gov.au/Acts_SLs/Acts_SL_I.htm)
 
-Like many other websites, we monitor usage of the QUT site to help us to make it useful to as many visitors as possible. Consequently, our website does collect some information about users of the site, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement. 
+## Use of cookies and other information collection technologies
 
-####  Use of cookies and other information collection technologies
+We monitor this site so we can make it useful. This website does collect some information about users of the site, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement.
 
-Internet cookies are small strings of text placed on users' hard drives during the data exchange that happens when a browser points to a website. Cookies allow a website to store information on a user's machine and retrieve it later. Cookies and other information collection technologies can only store information that is explicitly provided by the user or visitor in the first place, or information the website already knows about the user, such as their IP address. 
+## Email and feedback information
 
-QUT's website uses cookies for: 
+We are a statutory authority in Queensland, so all email correspondence sent to us is treated as a public record and is retained as required by the [Public Records Act 2002](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/index.aspx) and our [records disposal schedule](http://www.governance.qut.edu.au/rms/retention_disposal/index.jsp).
 
-  * identifying unique visitors to the site for statistical purposes (that is, you will be allocated a visitor number which will be held in a cookie on your computer for a fixed period, such as 30 days. This cookie will also hold your IP address).
-  * proving your identity when you attempt to access a restricted part of the QUT site (generally only available to QUT staff and/or students). You will be asked to provide your QUT Access username and password to prove your identity. This information is sent across the Internet securely using a Secure Socket Layer (SSL). A cookie may then be created in your computer's memory until you shut down your browser, though sometimes it may be stored on your computer. This cookie contains the following information that is available even if you have disabled cookies:
+Email messages may be monitored by our web team for trouble shooting and maintenance, and some emails received by our website support staff may be forwarded to other QUT teams. We won't disclose these details to third parties without your consent, except if required by law.
+
+We've contracted third party agents to provide some information services on behalf of the University, and personal information may be disclosed to these agents to allow them to provide these services. These agents are contractually obligated to protect the privacy of personal information. The specific privacy arrangements for these services are detailed on the relevant web pages.
+
+## Managing your private information
+
+How we manage the privacy of personal information - [Information Privacy](http://www.governance.qut.edu.au/compliance/privacy/).
+
+## Privacy enquiries
+
+If you have any questions about our privacy and information security practices, you can contact the QUT Privacy Officer.
+
+## Cookies and site usage
+
+### Use of cookies and other information collection technologies
+
+Internet cookies are small strings of text placed on users' hard drives during the data exchange that happens when a browser points to a website. Cookies allow a website to store information on a user's machine and retrieve it later. Cookies and other information collection technologies can only store information that is explicitly provided by the user or visitor in the first place, or information the website already knows about the user, such as their IP address.
+
+QUT's website uses cookies for:
+
+  * identifying unique visitors to the site for statistical purposes (that is, you will be allocated a visitor number which will be held in a cookie on your computer or device for a fixed period, such as 30 days. This cookie will also hold your IP address).
+  * proving your identity when you attempt to access a restricted part of the QUT site (generally only available to QUT staff and/or students). You will be asked to provide your QUT Access username and password to prove your identity. This information is sent across the Internet securely using a Secure Socket Layer (SSL). A cookie may then be created in your computer or device's memory until you shut down your browser, though sometimes it may be stored on your computer or device. This cookie contains the following information that is available even if you have disabled cookies:  
+
+    * internal unique ID generated by QUT
+    * your full name and email alias, which may be used for personalising the site as well as for emails sent from the site to you
+    * your relationship with QUT (for instances, the course or unit you are enrolled in or the work areas with which you are currently associated). This is used to ensure you are authorised to access the information you have requested.
 
 
-  * internal unique ID generated by QUT;
-  * your full name and email alias, which may be used for personalising the site as well as for emails sent from the site to you;
-  * your relationship with QUT (for instances, the course or unit you are enrolled in or the work areas with which you are currently associated). This is used to ensure you are authorised to access the information you have requested.
 
+Most browsers can be set to accept or reject cookies. You can choose to adjust your browser to reject cookies or to notify you when they are being used. Sometimes, rejecting cookies results in a loss of some website functionality. For instance, you may be unable to access a secure site, such as QUT Virtual. Alternatively, rejecting cookies may mean that you may have to establish your identity a number of times across the QUT site during a visit because the server cannot recheck your identity each time you request access to a restricted area. The information required to enable rechecking of your identity (eg your password) is encrypted for security prior to being added to the cookie.
 
+### Site usage
 
-Most browsers can be set to accept or reject cookies. You can choose to adjust your browser to reject cookies or to notify you when they are being used. Sometimes, rejecting cookies results in a loss of some website functionality. For instance, you may be unable to access a secure site, such as QUT Virtual. Alternatively, rejecting cookies may mean that you may have to establish your identity a number of times across the QUT site during a visit because the server cannot recheck your identity each time you request access to a restricted area. The information required to enable rechecking of your identity (eg your password) is encrypted prior to being added to the cookie. 
+When you visit QUT's website, we make a record of your visit using "single pixel gif" technology embedded in the code of each page. We log the following information, which is used for statistical purposes:
 
-####  Site usage
-
-When you visit QUT's website, we make a record of your visit using "single pixel gif" technology embedded in the code of each page. We log the following information, which is used for statistical purposes: 
-
-  * the IP address of the computer you are using or an IP that is dynamically allocated by your internet service provider;
-  * the date and time of your visit;
-  * the pages accessed and documents downloaded;
-  * the file size of the pages downloaded;
-  * the type of browser used and screen resolution;
+  * the IP address of the computer you are using or an IP that is dynamically allocated by your internet service provider
+  * the date and time of your visit
+  * the pages accessed and documents downloaded
+  * the file size of the pages downloaded
+  * the type of browser used and screen resolution
   * the referring page (ie last page visited before entering the QUT site).
 
 
 
-####  Email and feedback information
+## Privacy for students
 
-As QUT is a statutory authority in Queensland, email correspondence sent to this site is treated as a public record and is retained as required by the _Public Records Act 2002_ and QUT's records disposal schedule. 
+We have particular practices regarding the information we collect from out students.
 
-Email messages may be monitored by our website support staff for system trouble shooting and maintenance purposes, and some emails received by our website support staff may be forwarded to other officers of QUT for appropriate action if required. Staff of QUT will not disclose these details to third parties without your consent, except if required by law. QUT has contracted third party agents to provide some information services on behalf of the University, and personal information may be disclosed to these agents to allow them to provide such services. These agents are contractually obligated to protect the privacy of personal information. The specific privacy arrangements for these services are detailed on the relevant webpages.
+[Student privacy at QUT](http://www.qut.edu.au/additional/privacy/student-privacy-at-qut)
 
-####  Further information about privacy
+## International enquiries privacy
 
-Details on how QUT manages the privacy of personal information can be found in the [Information Privacy](http://www.governance.qut.edu.au/compliance/privacy/) section of the Governance Services website. If you have any questions about QUT's privacy and security practices, you can contact the QUT Privacy Officer at the following address:
+QUT is commited to protecting the privacy of personal information in accordance with the 11 Information Privacy Principles of the Information Privacy Act 2009.
 
-Policy and Compliance Manager  
-Governance Services   
-GPO Box 2434  
-Brisbane Qld 4001
+Please be aware that QUT uses a third party agent, based in Australia, to host this online enquiry web form and respond to international student enquiries. This agent is contractually bound to treat any personal information with the same level of privacy protection as QUT. In using this site you acknowledge that it may be necessary for the agent to have access to personal information in order to perform its contract with QUT. Staff of the agent or QUT will not otherwise disclose your personal information to third parties without your consent, except in response to legal requirements.
 
-Telephone 61 7 3138 2902  
-Facsimile 61 7 3138 1818  
-Email: [privacy@qut.edu.au](mailto:privacy@qut.edu.au)
+[International enquiries form](http://www.qut.edu.au/international/enquire)
