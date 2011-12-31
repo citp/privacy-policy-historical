@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vizisense.com privacy policy that was archived on 2010-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201225921id_/http%3A//vizisense.com/basic/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizisense.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231203754id_/http%3A//www.vizisense.com/basic/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -71,7 +71,15 @@ $(document).ready(function(){
 	$(".disabled").hover(
 	  function () {
 		offset = $(this).offset();
-		$(".upgradeHover").css({'display':'block','left':offset.left,'top':offset.top});
+		var calWidth = offset.left+$(".upgradeHover").width();
+		var finalLeft;
+		//Adjust position if the upgrade box is out of the view area
+		if(calWidth > screen.availWidth){
+			finalLeft = offset.left - (calWidth - screen.availWidth) - 50;
+		}else{
+			finalLeft = offset.left;
+		}
+		$(".upgradeHover").css({'display':'block','left':finalLeft,'top':offset.top});
 	    $(".upgradeHover").show();
 	    //$("body").addClass('hideScroll');
 	  }, 
@@ -284,7 +292,7 @@ $(document).ready(function(){
 		</div>
 		<div class="CL"></div>
 		<div class="headerContent FL">
-			<div class="logo FL"><a href="/"><img src="/images/logo/logo.gif" alt="" width="181" height="57"></a></div>
+			<div class="logo FL"><a href="/"><img src="/images/logo/logo.gif" alt="" width="500" height="63"></a></div>
 			<div class="compareSiteHeader FR">
 				<div class="compareSiteHeaderNav clearfix" style="width: 366px;">
 					<div class="tab active" id="compareSiteSearch"> Search </div>
@@ -417,7 +425,7 @@ $(document).ready(function(){
 			<b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b> </div>
 		<!--	Footer starts	-->
 <div class="footer">
-	<div style="float:right;">Copyright Komli Media, ©2010. All Rights Reserved</div>
+	<div style="float:right;">Copyright Komli Media, ©2011. All Rights Reserved</div>
 	<div>
 		<span><a href="/basic/about">About Us</a></span><span class="divider">|</span>
 		<span><a href="/basic/privacy">Privacy Policy</a></span><span class="divider">|</span>
