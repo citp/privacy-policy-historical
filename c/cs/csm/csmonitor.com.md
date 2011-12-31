@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630023301id_/http%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211626id_/http%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Science Monitor - CSMonitor.com
 
@@ -16,13 +16,13 @@ We also allow third-party companies to serve ads and/or collect certain anonymou
 
 The Christian Science Monitor supplies some of its subscriptions and content, such as the Treeless Edition and Historic Archive 1901 - 1980, through third parties. These services and purchases are processed by third-parties on behalf of The Christian Science Monitor, and such third-parties collect and store billing and credit card information solely to process these purchases. This information will not be used for any other reason except as instructed by the Monitor.
 
-Generally, we do not provide, sell or lease personally identifiable information to any third parties. However, if you provide us with your postal address when subscribing to the print edition we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter addressed to The Christian Science Monitor, P.O. Box 98, Boston, MA 02117-0098, or please [e-mail us](mailto:Monitor@csps.com), requesting that we remove your postal address from these lists. Also, to protect site visitors and the general welfare, the site will release personal information when necessary in order to comply with the law or regulatory authorities. 
+Generally, we do not provide, sell or lease personally identifiable information to any third parties. However, if you provide us with your postal address when subscribing to the print edition we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter addressed to The Christian Science Monitor, P.O. Box 98, Boston, MA 02117-0098, or please [e-mail us](mailto:service@csmonitor.com), requesting that we remove your postal address from these lists. Also, to protect site visitors and the general welfare, the site will release personal information when necessary in order to comply with the law or regulatory authorities.
 
 You will receive advertising information from the Monitor when you sign up to receive such information on the Monitor E-mail Services page.
 
 If you submit your email address to the site in other ways, such as submitting a comment or question, we may contact you about receiving occasional offers from advertisers.
 
-We do not provide users' personally identifiable information to our advertising partners. Advertisers will only receive your personally identifiable information if you provide it to them directly. If you have any questions or concerns regarding what is done with your information on any part of csmonitor.com, or would like such information deleted from our records (with the exception of postal addresses) please [e-mail us](mailto:support@csmonitor.com).
+We do not provide users' personally identifiable information to our advertising partners. Advertisers will only receive your personally identifiable information if you provide it to them directly. If you have any questions or concerns regarding what is done with your information on any part of csmonitor.com, or would like such information deleted from our records (with the exception of postal addresses) please [e-mail us](mailto:service@csmonitor.com).
 
  **What are cookies? How do you use them?**
 
@@ -58,10 +58,10 @@ By using this website, you consent to the collection of information as described
 
 This privacy policy is subject to change without notice.
 
-If you have any questions or concerns regarding our privacy policy please [e-mail us](mailto:support@csmonitor.com).
+If you have any questions or concerns regarding our privacy policy please [e-mail us](mailto:service@csmonitor.com).
 
 You may also send a letter to:
 
-The Christian Science Monitor's Electronic Edition  
-210 Massachusetts Avenue, P02-15  
-Boston, MA 02115
+ The Christian Science Monitor's Electronic Edition  
+ 210 Massachusetts Avenue, P02-15  
+ Boston, MA 02115
