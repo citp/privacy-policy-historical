@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424063132id_/http%3A//oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldamsterdampost.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095440id_/http%3A//oldamsterdampost.com/pages/privacy.php) for the most accurate reproduction.*
 
 # oldamsterdampost.com
 
@@ -6,22 +6,24 @@
 ---  
   
   
- **::** **Total Members: 524**
+ **::** **Total Members: 438**
 
-**::** ****Active Members: 486****
+**::** ****Active Members: 394****
 
  **
 
-**::** **Total Payout: 3,881.34**
+**::** **Total Payout: 5,289.56**
 
 **::** **Mails In Queue: 0**
 
-**::** **Rotating Banners: 361**
+**::** **Rotating Banners: 353**
 
-**::** **Paid To Click Links: 311**
+**::** **Paid To Click Links: 504**
 
 **  
 **LINKS**  
+[](http://oldamsterdampost.com/scripts/runner.php?BA=2422&hash=be5b16f688a0d2c3eaa178fecb27124b&url=http%3A%2F%2Fwww.cashgopher.com%2Fimages%2Fbanners%2Fcw_160x600.jpg)  
+  
   
 **oldamsterdampost.com Respects Your Privacy**   
 
