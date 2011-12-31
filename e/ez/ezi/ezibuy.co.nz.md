@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922031605id_/http%3A//www.ezibuy.co.nz/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.co.nz privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204851id_/http%3A//www.ezibuy.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# EziBuy Privacy Policy :: EziBuy New Zealand
+# Privacy Policy - EziBuy New Zealand
 
-We have put in place the following policy to protect your personal information. By using our website and/or providing information to us, you consent to the policy. 
+We have put in place the following policy to protect your personal information. By using our website and/or providing information to us, you consent to the policy.
 
 What personal information do we collect?
 
 You may give us information about yourself, such as your name, address, email address and telephone numbers, when, for example, you become an EziBuy member, request a catalogue or make a purchase from us. If you do not give this information, we may not be able to provide goods or services to you.
 
-When you visit our website we may collect more information, such as the address of your Internet service provider, the name of the web page directing you, and your clicks and activity on our site. 
+When you visit our website we may collect more information, such as the address of your Internet service provider, the name of the web page directing you, and your clicks and activity on our site.
 
 ClickTale
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve the user experience on our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve the user experience on our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 How do we use the personal information?
 
@@ -34,7 +34,7 @@ Cookies
 
 Our website uses a technology called cookies. A cookie is a small element of data that our website may send to your computer. Any such cookie is typically stored on your computer's hard drive and permits our website to recognise you when you return. Our use of cookies helps us to provide you with a better experience during your use of our website by allowing us to understand what areas of the site are of interest to you. You may configure your web browser to not accept cookies, although you may experience a loss of functionality as a result.
 
-Third party vendors, including Google, show advertisements for our products on various sites on the internet. These third party vendors may use cookies to serve advertisements based on a user's prior visits to our website. If you would like to opt out of Google?s use of cookies for this purpose, please do so on the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+Third party vendors, including Google, show advertisements for our products on various sites on the internet. These third party vendors may use cookies to serve advertisements based on a user's prior visits to our website. If you would like to opt out of Google’s use of cookies for this purpose, please do so on the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 Security
 
@@ -50,7 +50,7 @@ You may obtain confirmation from us as to whether or not we hold personal inform
 
 Policy changes
 
-We may review this policy from time to time and will notify you of any changes by posting an updated version on our website. This document represents our privacy policy as at 02 February 2010.
+We may review this policy from time to time and will notify you of any changes by posting an updated version on our website. This document represents our privacy policy as at 02 February 2010.
 
 Feedback
 
