@@ -1,22 +1,96 @@
-<!--The following is the downloaded HTML source of the speechpad.com privacy policy that was archived on 2011-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110403114041id_/http%3A//speechpad.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speechpad.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211221id_/http%3A//www.speechpad.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>
 		Speechpad Privacy	</title>
 	<meta name="google-site-verification" content="lbDD2rf44pmBSENfY5i4ZLPeS_u32DhCgLNg5Al8wiQ">
 			<meta name="description" content="Speechpad Privacy Statement page.">
 	
 		<link href="/img/domains/speechpad/favicon.ico" type="image/x-icon" rel="icon"><link href="/img/domains/speechpad/favicon.ico" type="image/x-icon" rel="shortcut icon">			<link rel="stylesheet" type="text/css" href="/css/domains/speechpad/screen.css">	
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-	<script src="http://simplemodal.googlecode.com/files/jquery.simplemodal-1.3.5.min.js" type="text/javascript"></script>
-	<script type="text/javascript" src="/js/jquery_si_base.js"></script>	<script type="text/javascript" src="/js/rot13.js"></script>	<script type="text/javascript" src="/js/menu.js"></script>	<script type="text/javascript" src="/js/jquery.shortkeys.js"></script>        <script type="text/javascript" src="/js/jquery.putcursoratend.js"></script>
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="http://simplemodal.googlecode.com/files/jquery.simplemodal-1.3.5.min.js"></script>
+	<script type="text/javascript">
+		function fcsOnMe(){
+		window.focus();
+		mytimer = setTimeout('fcsOnMe()', 500);
+		}
+	</script>
+	<script type="text/javascript" src="/js/jquery.form.js"></script>	<script type="text/javascript" src="/js/jquery_si_base.js"></script>	<script type="text/javascript" src="/js/rot13.js"></script>	<script type="text/javascript" src="/js/menu.js"></script>	<script type="text/javascript" src="/js/jquery.shortkeys.js"></script>        <script type="text/javascript" src="/js/jquery.putcursoratend.js"></script>
 		
 	    <!--[if lt IE 8]>
         <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
     <![endif]-->
+
+		
 </head>
 	<body><!-- If you'd like some sort of menu to show up on all of your views, include it here -->
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+       <script type="text/javascript">
+            window.fbAsyncInit = function() {
+                FB.init({appId: '120002128086001', status: true, cookie: true, xfbml: true});
+ 
+                /* All the events registered */
+                FB.Event.subscribe('auth.login', function(response) {
+                    // do something with response
+					if(response.session){
+						var message="";
+						var flag=false;
+						var myURL="http://www.speechpad.com/users/facebook_log";
+						for(var key in response.session){
+							message+=key+":"+response.session[key]+"/";
+							if((key=='access_token')&&(response.session[key]!='')){
+								flag=true;
+							}
+						}
+						if(flag){
+							window.location = myURL+"/"+message;
+						}
+						else{
+							//$.modal.close();
+							//$("#login").hide();
+							//$("#register").hide();
+							fbLogout();
+						}
+					}
+                 
+                });
+                FB.Event.subscribe('auth.logout', function(response) {
+                    // do something with response
+                    //logout();
+                });
+ 
+                FB.getLoginStatus(function(response) {
+                    if (response.session) {
+                        // logged in and connected user, someone you know
+                       	$(".facebook_button_area").hide();
+						
+                    }
+					else{
+						$(".facebook_button_area").show();
+					}
+                });
+            };
+            (function() {
+                var e = document.createElement('script');
+                e.type = 'text/javascript';
+                e.src = document.location.protocol +
+                    '//connect.facebook.net/en_US/all.js';
+                e.async = true;
+                document.getElementById('fb-root').appendChild(e);
+            }());
+ 
+			function fbLogout(){
+				FB.logout(function(response) {
+					//Log.info('FB.logout callback', response);
+				});
+			
+			}
+ 
+           
+        </script>
 				<div id="header" style="width:100%;">
 					<div class="container">
 						<div class="grid_9">
@@ -28,13 +102,7 @@
 						<div class="grid_9">	<div id="login-logout">
 						<span class="horiz">
 						<a href="javascript::void(0);" onclick="$(&quot;#login&quot;).show();$(&quot;#register&quot;).hide();$(&quot;#login-modal&quot;).modal({overlayClose:true});">Login</a>						or
-						<a href="javascript::void(0);" onclick="$(&quot;#login&quot;).hide();$(&quot;#register&quot;).show();$(&quot;#login-modal&quot;).modal({overlayClose:true});">Register for Free</a>                        <input type="hidden" name="data[tz_offset]" value="will be changed" id="tz_offset">						<script type="text/javascript">
-                            $(document).ready(function() {
-                                var now = new Date()
-                                $('input[id="UserTzOffset"]').val(-(now.getTimezoneOffset()/60))
-                            })
-                        </script>
-				</span>
+						<a href="javascript::void(0);" onclick="$(&quot;#login&quot;).hide();$(&quot;#register&quot;).show();$(&quot;#login-modal&quot;).modal({overlayClose:true});">Register for Free</a>				</span>
 			</div>
 	<br class="clear">
 <style>
@@ -45,28 +113,49 @@
 		<h2>Log In</h2>
 		<div class="login-form">
 						<form id="UserLoginForm" method="post" action="/users/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>				<div class="input text"><label for="UserUsername">Username (email address)</label><input name="data[User][username]" type="text" maxlength="255" value="" id="UserUsername"></div>				<div class="input password"><label for="UserPassword">Password</label><input type="password" name="data[User][password]" value="" id="UserPassword"></div>
-				<input type="hidden" name="data[User][tz_offset]" value="will be changed" id="UserTzOffset">				<script type="text/javascript">
-					$(document).ready(function() {
-			 			var now = new Date()
-			  			$('input[id="UserTzOffset"]').val(-(now.getTimezoneOffset()/60))
-					})
-				</script>
-			<div class="submit"><input type="submit" value="Login"></div></form>		</div>
+				<input type="hidden" name="data[User][tz_offset]" value="0" id="UserTzOffset">			<div class="submit"><input type="submit" value="Login"></div></form>            <script type="text/javascript">
+			$(document).ready(function() {
+			  var now = new Date()
+			  $('input[id="UserTzOffset"]').val(-(now.getTimezoneOffset()/60));
+			});
+			</script>
+			<div id="" style="position:relative; top:opx; left: 80px; bottom:31px; right:20px" class="facebook_button_area">
+				<fb:login-button autologoutlink="true" perms="email,user_birthday,status_update,publish_stream">Login</fb:login-button>
+			</div>
+		</div>
 		<div class="small">Don't have an account? <a href="#" onclick="$(&quot;#login&quot;).hide();$(&quot;#register&quot;).fadeIn();">Create a New Account Now</a></div>
 		<div class="small">Forgot your password? <a href="/users/forgot_password">Reset Password</a></div>
 	</div>
 	<div id="register" style="display:none">
-		<h2>Join Speechpad for Free</h2>
-<p>Once you log in, you will be provided with instructions to submit your audio for transcription.</p>
-<form id="UserRegisterForm" method="post" action="/users/register"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><div class="input text"><label for="UserUsername">Email</label><input name="data[User][username]" type="text" maxlength="255" value="" id="UserUsername"></div><div class="input password"><label for="UserPassword">Password</label><input type="password" name="data[User][password]" value="" id="UserPassword"></div><div class="input">
-	<label for="UserPasswordConfirm">Confirm</label>	<input type="password" name="data[User][password_confirm]" value="" id="UserPasswordConfirm"></div>
-<input type="hidden" name="data[User][role]" value="customer" id="UserRole"><div class="submit"><input type="submit" value="Register"></div></form>
-<div class="small">
-	Already have an account? <a href="#" onclick="$(&quot;#register&quot;).hide();$(&quot;#login&quot;).fadeIn();">Sign in now</a></div>	</div>
+		<div style="z-index=2000">
+
+	<h2>Join Speechpad for Free</h2>
+	<p>Once you log in, you will be provided with instructions to submit your audio for transcription.</p>
+	<form id="UserRegisterForm" method="post" action="/register"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	<div class="input text"><label for="UserUsername">Email</label><input name="data[User][username]" type="text" maxlength="255" value="" id="UserUsername"></div>	<div class="input password"><label for="UserPassword">Password</label><input type="password" name="data[User][password]" value="" id="UserPassword"></div>	<div class="input">
+		<label for="UserPasswordConfirm">Confirm</label>		<input type="password" name="data[User][password_confirm]" value="" id="UserPasswordConfirm">	</div>
+	<input type="hidden" name="data[User][role]" value="customer" id="UserRole">	<input type="hidden" name="data[User][tz_offset]" value="0" id="UserTzOffset">	<script type="text/javascript">
+$(document).ready(function() {
+  var now = new Date()
+  $('input[id="UserTzOffset"]').val(-(now.getTimezoneOffset()/60));
+});
+</script>
+	<div class="submit"><input type="submit" value="Register"></div></form>	<div class="small">
+	
+		Already have an account? <a href="javascript::void(0);" onclick="$(&quot;#register&quot;).hide();$(&quot;#login&quot;).fadeIn();">Sign in now</a>	
+	</div>
+	
+	<div id="" style="position:relative; top:opx; left: 80px; bottom:53px; right:20px" class="facebook_button_area">
+		<fb:login-button autologoutlink="true" perms="email,user_birthday,status_update,publish_stream">Login</fb:login-button>
+	</div>
+</div>
+
+
+	</div>
 
 </div>
 <div id="simplemodal-overlay" class="simplemodal-overlay" style="display:none;"></div>
 </div>
+							
 						<br class="clear">
 					</div>
 				</div>
@@ -74,10 +163,22 @@
 					<div class="container">
 						<div class="grid_18">
 							<ul class="horiz">
-								<li><a href="/upload">Upload a File</a></li>
-								<li><a href="/record">Record a Call</a></li>
-								<li><a href="/phone">Phone-in a Note</a></li>
-							</ul>
+																								<li> 
+        							           									 <a href="/cust_users/home">My Files</a> 
+       																	</li>
+   								 								<li> 
+        							           									 <a href="/upload">Upload a File</a> 
+       																	</li>
+   								 								<li> 
+        							           									 <a href="/record">Record a Call</a> 
+       																	</li>
+   								 								<li> 
+        							           									 <a href="/phone">Phone-in a Note</a> 
+       																	</li>
+   								 								<li> 
+        							           									 <a href="http://www.speechpad.com/page/speechpad-referral-program/">Referral Program</a> 
+       																	</li>
+   								 							</ul>
 						</div>
 						<br class="clear">
 					</div>
@@ -204,8 +305,8 @@
 				<div class="grid_18">
 					<span class="left" style="padding:0 5px; font-weight:bold;">Copyright © 2011 Speechpad. All Rights Reserved.</span>
 <ul class="horiz right">
-	<li><a href="/blog">Blog</a></li>
-	<li><a href="/privacy">Privacy Policy</a></li>
+	<li><a href="http://blog.speechpad.com/">Blog</a></li>
+    	<li><a href="/privacy">Privacy Policy</a></li>
 			<li><a href="/testimonials">Testimonials</a></li>
 		<!--<li><a href="/pages/feedback/">Feedback</a></li>-->
 		<li><a href="/pricing">Pricing</a></li>
@@ -213,40 +314,26 @@
 		<li><a href="/customers">Customers</a></li>
 	<li><a href="/apps">Apps</a></li>
 	<li><a href="/payments/index">Payments</a></li>
-</ul>                    				</div>
+</ul>
+                    				</div>
 				<br class="clear">
 							</div>
 		</div>
-               	<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-17611390-1");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-} catch(err) {}</script>
+               		<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-17611390-1");
+	pageTracker._setDomainName("none");
+	pageTracker._setAllowLinker(true);
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<script type="text/javascript" language="javascript">llactid=16808</script>
+	<script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
 
-<script type="text/javascript" language="javascript">llactid=16808</script>
-<script type="text/javascript" language="javascript" src="http://t5.trackalyzer.com/trackalyze.js"></script>
-<!-- LeadFormix -->
-<a href="http://www.leadformix.com" title="Marketing Automation" onclick="window.open(this.href);return(false);">
-<script language="javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://vlog.leadformix.com/" : "http://vlog.leadformix.com/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "bf/bf.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://vlog.leadformix.com/bf/bf.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://vlog.leadformix.com/" : "http://vlog.leadformix.com/");
-<!--
-bf_action_name = '';
-bf_idsite = 6649;
-bf_url = pkBaseURL+'bf/bf.php';
-setTimeout('bf_log("' + bf_action_name+'",'+ bf_idsite+',"'+ bf_url +'")',0);
-//-->
-</script></a>
-<!-- LeadFormix -->	
+	
 
 
 </body></html>
