@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid4all.org privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418051044id_/http%3A//rapid4all.org/forums/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid4all.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030304id_/http%3A//rapid4all.org/forums/privacy_policy.html) for the most accurate reproduction.*
 
 # Rapid4All.Org - Privacy Policy
 
