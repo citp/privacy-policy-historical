@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612071918id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210330id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy For Nerd Approved**
 
-Your privacy is of the utmost importance to us at Nerd Approved. This privacy policy covers the way we collect and use your personal information and its contents may be revised or updated over time. If you have any questions regarding these policies, please fill out our [contact form](http://nerdapproved.com/about-nerd-approved/).
+Your privacy is of the utmost importance to us at Nerd Approved. This privacy policy covers the way we collect and use your personal information and its contents may be revised or updated over time. If you have any questions regarding these policies, please fill out our [contact form](https://web.archive.org/about-nerd-approved/).
 
 **Collection and Use of Personal Information:**
 
