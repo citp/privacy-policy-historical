@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the pimcore.org privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606014307id_/http%3A//www.pimcore.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pimcore.org privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231234406id_/http%3A//www.pimcore.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <title>Privacy Policy : pimcore - Enterprise Content Management Framework</title>
 <link rel="stylesheet" type="text/css" href="/static/css/screen.css">
 
@@ -17,14 +16,18 @@
 
 
 
-<script type="text/javascript" src="/static/js/jquery.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/jquery.js"></script>
 
 
             <script type="text/javascript">
 
               var _gaq = _gaq || [];
               _gaq.push(['_setAccount', 'UA-12436865-1']);
-              _gaq.push(['_trackPageview']);
+              if (typeof _gaqPageView != "undefined"){
+                _gaq.push(['_trackPageview',_gaqPageView]);
+              } else {
+                _gaq.push(['_trackPageview']);
+              }
             
               (function() {
                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -162,12 +165,16 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
             <a href="http://www.jquery.com/" target="_blank" class="jquery" trackkey="www.jquery.com"></a>
         </div>
         <div class="copyright">
-        	© 2010 elements.at New Media Solutions GmbH. pimcore is a trademark of elements.at <a href="/privacy">Privacy</a> <a href="/imprint">Imprint</a>
+        	© 2011 elements.at New Media Solutions GmbH. pimcore is a trademark of elements.at <a href="/privacy">Privacy</a> <a href="/imprint">Imprint</a>
             <a href="http://www.plusserver.de/" class="hosting" target="_blank" trackkey="www.plusserver.de"><span class="text">Hosted by</span><img src="/static/img/plusserver.png"></a>
         </div>
         <div class="facebook">
-        	<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.pimcore.org%2F&amp;layout=standard&amp;show_faces=true&amp;width=280&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:80px;" allowtransparency="true"></iframe>
+        	<div id="fb-root"></div>
+			<fb:like href="http://www.pimcore.org/" send="false" layout="button_count" width="450" show_faces="false" font="lucida grande"></fb:like>
         </div>
+		<div class="plusone">
+			<g:plusone size="medium" href="http://www.pimcore.org/"></g:plusone>
+		</div>
     </div>
 </div>
 
@@ -181,7 +188,7 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
 															<li><a href="/products-and-solutions">Products &amp; Solutions</a>
                     	
 						
-						                        	<ul class="special">
+						                        	<ul class="special" style="">
 								                                    										                                            
 																							<li class="special cms"><a href="/products-and-solutions/web-content-management">Web-Content Management</a>
                                                                                         
@@ -228,7 +235,7 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
 																								<li><a href="/partners">Partners</a>
                     	
 						
-						                        	<ul class="">
+						                        	<ul class="" style="">
 								                                    										                                            
 																							<li class=""><a href="/partners/partner-program">Partner Program</a>
                                                                                         
@@ -244,13 +251,9 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
 																								<li><a href="/resources">Resources</a>
                     	
 						
-						                        	<ul class="special">
+						                        	<ul class="special" style="">
 								                                    										                                            
 																							<li class="special download"><a href="/resources/download">Download</a>
-                                                                                        
-                                                                                        
-                                                                                                                                                										                                            
-																							</li><li class="special plugins"><a href="/resources/extensions">Extension Hub (beta)</a>
                                                                                         
                                                                                         
                                                                                                                                                 										                                            
@@ -258,7 +261,11 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
                                                                                         
                                                                                         
                                                                                                                                                 										                                            
-											                                                <li class="special kb"><a href="/wiki/display/KB" rel="" tabindex="" accesskey="" title="" name="" target="">User Knowledge Base</a></li>
+																							<li class="special plugins"><a href="/resources/extensions">Extension Hub (beta)</a>
+                                                                                        
+                                                                                        
+                                                                                                                                                										                                            
+											                                                </li><li class="special kb"><a href="/wiki/display/PLUGINS/Plugin+Documentations" rel="" tabindex="" accesskey="" title="" name="" target="">Extension Documentations</a></li>
                                                                                         
                                                                                         	<li class="spacer"></li>
                                                                                         
@@ -297,9 +304,17 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
 																								<li><a href="/community">Community</a>
                     	
 						
-						                        	<ul class="">
-								                                    										                                                                                                        										                                            
-											                                                <li class=""><a href="/forum/" rel="" tabindex="" accesskey="" title="" name="" target="">Forums</a></li>
+						                        	<ul class="special" style="width:250px;min-width:250px;">
+								                                    										                                            
+											                                                <li class="special login"><a href="/issues/login.jsp" rel="" tabindex="" accesskey="" title="" name="" target="">Login</a></li>
+                                                                                        
+                                                                                        
+                                                                                                                                                										                                            
+											                                                <li class="special register"><a href="/issues/secure/Signup!default.jspa" rel="" tabindex="" accesskey="" title="" name="" target="">Sign Up</a></li>
+                                                                                        
+                                                                                        
+                                                                                                                                                										                                                                                                        										                                            
+											                                                <li class="special forum"><a href="/board/index.php" rel="" tabindex="" accesskey="" title="" name="" target="">Forums</a></li>
                                                                                         
                                                                                         
                                                                                                                                                 										                                            
@@ -316,10 +331,6 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
                                                                                         
                                                                                                                                                 										                                            
 											                                                <li class=""><a href="/wiki/display/LABS/" rel="" tabindex="" accesskey="" title="" name="" target="">Labs</a></li>
-                                                                                        
-                                                                                        
-                                                                                                                                                										                                            
-											                                                <li class=""><a href="/issues/secure/Signup!default.jspa" rel="" tabindex="" accesskey="" title="" name="" target="">Sign Up</a></li>
                                                                                         
                                                                                         
                                                                                                                                                 										                                            
@@ -354,24 +365,20 @@ _gaq.push(["_trackPageview","\/pimcoreanalytics\/document\/45"]);
 <script type="text/javascript" src="/static/js/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/static/js/colorbox/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/static/js/init.js"></script>
-<script type="text/javascript">
-var _sf_async_config={uid:8858,domain:"pimcore.org"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
 
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+<script type="text/javascript">
+	FB.Event.subscribe('edge.create', function(targetUrl) {
+	  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+	});
+	
+	FB.Event.subscribe('edge.remove', function(targetUrl) {
+	  _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+	});
 </script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+
+</body></html>
