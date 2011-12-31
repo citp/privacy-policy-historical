@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531100558id_/http%3A//managewp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managewp.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215122id_/http%3A//managewp.com/privacy) for the most accurate reproduction.*
 
-# ManageWP - Privacy
-
-##  [Privacy](http://managewp.com/privacy "Privacy")
+# Privacy - ManageWP
 
 #### Our Commitment To Privacy
 
@@ -36,7 +34,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 #### Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Click for more information about [security of our technology](http://managewp.com/user-guide#security).
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Click for more information about [security of our technology](http://managewp.com/how-managewp-handles-security).
 
 #### How You Can Access Or Correct Your Information
 
