@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225051245id_/http%3A//www.discountmugs.com/nc/support-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215324id_/http%3A//www.discountmugs.com/nc/affiliates/affiliates-privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy of Discountmugs.com
+# Discountmugs.com – Discount Mugs – Discountmugs.com
 
 |    
 ---|---  
