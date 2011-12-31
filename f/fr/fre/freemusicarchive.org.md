@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemusicarchive.org privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210010713id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemusicarchive.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215326id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Free Music Archive
 
@@ -8,7 +8,7 @@ Last Updated January 20, 2009
 
 
 
-  1. Definitions.  Capitalized terms used but not defined herein shall have the meanings ascribed to them in the [Terms of Use](https://web.archive.org/web/20110210010713id_/http%3A/Terms_Of_Use).
+  1. Definitions.  Capitalized terms used but not defined herein shall have the meanings ascribed to them in the [Terms of Use](https://web.archive.org/web/20111231215326id_/http%3A/Terms_Of_Use).
   
 
   2. The Free Music Archive strives to preserve the privacy of Users of the Site.  This privacy policy (“Privacy Policy”) describes the limited information that we may collect from you and how it may be used with respect to the Site. The Free Music Archive may modify the Privacy Policy at any time, with or without notice. Please check the Privacy Policy regularly for any updates. By accessing and using the Free Music Archive, you indicate that you understand and agree to the Privacy Policy and any subsequent changes to the Privacy Policy. 
