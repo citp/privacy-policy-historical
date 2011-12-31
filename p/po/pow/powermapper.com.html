@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powermapper.com privacy policy that was archived on 2011-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110319001314id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powermapper.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224831id_/http%3A//www.powermapper.com/smallprint/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><!-- InstanceBegin template="/Templates/internal.dwt" codeOutsideHTMLIsLocked="true" --><head>
 
@@ -20,7 +20,8 @@
 <link rel="shortcut icon" href="http://www.powermapper.com/favicon.ico">
 <link type="application/rss+xml" rel="alternate" title="PowerMapper.com News" href="http://blog.powermapper.com/blog/syndication.axd"> 
 
-<script defer="defer" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<!-- jQuery cannot be deferred - breaks inline scripts using $() -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script defer="defer" type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script>
 <script defer="defer" type="text/javascript" src="../js/general-slider-mailchimp-min.js"></script>
 
@@ -75,7 +76,9 @@ pageTracker._trackPageview();
             </div>
             <!-- logo end -->
             <div id="searchAndCall" class="clearfix">
-                <p class="topCall"><a href="../buy/index.asp" id="buyLink">Buy Online</a></p>
+                <p class="topCall"><a href="../buy/index.asp?store=General" id="buyLink">Buy Online</a>
+                <a href="https://app.powermapper.com/" id="loginLink">Login</a>
+                </p>
                 <!-- call us end -->
                 <form action="http://www.powermapper.com/scripts/SearchResults.asp" method="get" class="searchForm">
                     <fieldset class="searchFieldset">
@@ -112,10 +115,13 @@ pageTracker._trackPageview();
                             <li><a href="http://forum.powermapper.com/" rel="nomap" onclick="pageTracker._trackPageview('/forum')">Forum</a></li>
                         </ul>
                     </li>
-                    <li><a href="../buy/purchase.htm">Purchase</a>
+                    <li><a href="../buy/index.asp">Pricing</a>
                         <!-- sub menu -->
                         <ul>
-                            <li><a href="../buy/index.asp">Online Store</a></li>
+                            <li><a href="../buy/index.asp?store=General">Buy Online</a></li>
+                            <li><a href="../buy/index.asp?store=Education">Education Store</a></li>
+                            <li><a href="../buy/index.asp?store=Government">Government Store</a></li>
+                    		<li><a href="../buy/purchase.htm">Purchase Options</a></li>
                             <li><a href="../buy/resellers.htm">Resellers</a></li>
                             <li><a href="../buy/contracts.htm">Support Contracts</a></li>
                         </ul>
@@ -246,6 +252,9 @@ pageTracker._trackPageview();
 			  <!-- #BeginEditable "Sidebar" -->
 					  <!-- #EndEditable --> 
 			  </div>
+
+				
+
             </div>
             <!-- primaryContent end -->
 			
@@ -265,20 +274,16 @@ pageTracker._trackPageview();
 											
 						
 							<li><a href="../company/index.htm">About Us</a>
-								<ul> 
-									<li><a href="../company/contact.htm">Contact Us</a></li>
-									<li><a href="../company/people.htm">People</a></li>
-									<li><a href="../company/history.htm">History</a></li>
-									<li><a href="../company/partners.htm">Partners</a></li>
-			                        <li><a href="../company/locations.htm">Office Locations</a></li>
-								</ul> 
+								
 							</li>
 							<li><a href="legal.htm">Legal</a>
+								
 								<ul> 
 									<li><a href="accessibility.htm">Accessibility</a></li>
 									<li><a href="privacy.htm">Privacy</a></li>
 									<li><a href="sustainability.htm">Sustainability</a></li>
 								</ul> 
+								
 							</li>
 							<li><a href="../company/news.htm">News</a></li>
 							<li><a href="http://blog.powermapper.com/blog/" onclick="pageTracker._trackPageview('/blog')">Blog</a></li>
@@ -294,36 +299,36 @@ pageTracker._trackPageview();
 					
 					
 					
-                </div>
-                <!-- category end -->
                 
 				
-                <div class="sidebox" id="signup-sidebox">
-                	<h3>Newsletter Signup</h3>
-                    <div id="mc_embed_signup">
-                    <p>Free newsletter for product updates, news and special offers.</p>
-                    <form action="http://powermapper.us2.list-manage.com/subscribe/post?u=b5a7fd106d7c9803401253f0c&amp;id=4329905303" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-                    <div class="mc-field-group">
-                    <label for="mce-EMAIL">Email Address</label>
-                    <input type="text" value="Email address" name="EMAIL" class="required email" id="mce-EMAIL">
+                    <div class="sidebox" id="signup-sidebox">
+                        <h3>Newsletter Signup</h3>
+                        <div id="mc_embed_signup">
+                        <p>Free newsletter for product updates, news and special offers.</p>
+                        <form action="http://powermapper.us2.list-manage.com/subscribe/post?u=b5a7fd106d7c9803401253f0c&amp;id=4329905303" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                        <div class="mc-field-group">
+                        <label for="mce-EMAIL">Email Address</label>
+                        <input type="text" value="Email address" name="EMAIL" class="required email" id="mce-EMAIL">
+                        </div>
+                                <div id="mce-responses">
+                                    <div class="response" id="mce-error-response" style="display:none"></div>
+                                    <div class="response" id="mce-success-response" style="display:none"></div>
+                                </div>
+                                <div class="fl follow"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">        
+                                </div>
+                                <div class="fr follow">
+                                <span class="secondary-action">Follow Us:</span> 
+                                    <a href="http://www.twitter.com/powermapper" target="_top"><img src="../images/template/twitter.png" title="Follow us on Twitter" alt="Twitter" width="32" height="32" class="follow"><span class="accessible">Follow us on Twitter</span></a>
+                                    <a href="http://www.facebook.com/pages/PowerMapper-Software/116516291745174" target="_top"><img src="../images/template/facebook.png" title="Follow us on Facebook" alt="Facebook" width="32" height="32" class="follow"><span class="accessible">Follow us on Facebook</span></a>
+                                </div>
+                        </form>
+                        </div>
+                        <!--End mc_embed_signup-->
                     </div>
-                            <div id="mce-responses">
-                                <div class="response" id="mce-error-response" style="display:none"></div>
-                                <div class="response" id="mce-success-response" style="display:none"></div>
-                            </div>
-                            <div class="fl follow"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn">        
-                            </div>
-                            <div class="fr follow">
-                            <span class="secondary-action">Follow Us:</span> 
-                                <a href="http://www.twitter.com/powermapper" target="_top"><img src="../images/template/twitter.png" title="Follow us on Twitter" alt="Twitter" width="32" height="32" class="follow"><span class="accessible">Follow us on Twitter</span></a>
-                                <a href="http://www.facebook.com/pages/PowerMapper-Software/116516291745174" target="_top"><img src="../images/template/facebook.png" title="Follow us on Facebook" alt="Facebook" width="32" height="32" class="follow"><span class="accessible">Follow us on Facebook</span></a>
-                            </div>
-                    </form>
-                    </div>
-					<!--End mc_embed_signup-->
+                    
                 </div>
-				
             </div>
+            <!-- category end -->
             <!-- sidebar end -->
             <br class="clear">
 			
@@ -453,7 +458,6 @@ pageTracker._trackPageview();
 
 <!-- InstanceBeginEditable name="TrackingScript" -->
 <!-- InstanceEndEditable -->
-
 
 <!-- InstanceEnd -->
 </body></html>
