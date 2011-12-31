@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630174523id_/http%3A//www.dailystrength.org/content/view/201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystrength.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205233id_/http%3A//www.dailystrength.org/content/view/201) for the most accurate reproduction.*
 
 # DailyStrength Privacy Policy
 
