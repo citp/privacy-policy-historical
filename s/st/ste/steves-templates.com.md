@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428104826id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steves-templates.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204243id_/http%3A//www.steves-templates.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Steve's free website templates
 
