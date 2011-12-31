@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409234700id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231103120id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Mintel International Group Ltd | Mintel
+# Privacy Policy for Mintel Group Ltd | Mintel
 
   * [Contact Us](https://web.archive.org/contact-form)
   * [Office Locations](https://web.archive.org/office-locations)
@@ -8,7 +8,7 @@
 | 
 
 **Introduction**  
-This policy covers Mintel International Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
+This policy covers Mintel Group Ltd use of personal information that Mintel collects when you use mintel.com and related sites
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name, company name, postal address and email address) in order to receive or use services on our website. Such services include purchasing reports, receiving newsletters, competitions, registering for events, completing questionnaires and submitting questions. By entering your details in the fields requested, you enable Mintel to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information Mintel will act in accordance with current legislation, The Data Protection Act 1998 and aim to meet current Internet best practice.
 
@@ -29,13 +29,13 @@ Mintel views all personal information that it collects as a valuable and confide
 
 This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your search results so you can go back to them) and to keep track of the number of users accessing our site and the information they access. Our information sites will NOT function correctly if you disable cookies.
 
-This site uses "Web Beacons” as part of its web analytics service. Mintel International may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Mintel International does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel International does not track your browsing habits across web sites which do not use Mintel services. 
+This site uses "Web Beacons” as part of its web analytics service. Mintel may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. Mintel does not collect personally identifiable information that you do not voluntarily enter in this website. Mintel does not track your browsing habits across web sites which do not use Mintel services. 
 
 You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.
 
 We may share your information with third parties who assist us in providing our service to you, e.g. our supplier Barclaycard Merchant Services may collect credit card information in order to process any payments you make.
 
-Mintel International Group maintains a strict “no-spam” policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and to keep you informed of Mintel’s commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, please notify us by email at [data.controller@mintel.com](mailto:data.controller@mintel.com) alternatively you can use our opt-out policy which is detailed below.
+Mintel Group maintains a strict “no-spam” policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and to keep you informed of Mintel’s commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, please notify us by email at [data.controller@mintel.com](mailto:data.controller@mintel.com) alternatively you can use our opt-out policy which is detailed below.
 
 If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way.
 
@@ -67,6 +67,21 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 |  **The Data Controller:**  
 ---  
-email: | [data.controller@mintel.com](mailto:data.controller@mintel.com)  
-postal address: | Mintel Group, 18-19 Long Lane, London, EC1A 9PL  
-website url: | [www.mintel.com](http://www.mintel.com/)
+  
+email:
+
+| 
+
+[data.controller@mintel.com](mailto:data.controller@mintel.com)  
+  
+postal address:
+
+| 
+
+Mintel Group Ltd, 11 Pilgrim Street, London, EC4V 6RN, UK  
+  
+website url:
+
+| 
+
+[www.mintel.com](http://www.mintel.com/)
