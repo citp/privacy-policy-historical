@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520232103id_/http%3A//www.yessy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yessy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213057id_/http%3A//yessy.com/privacy.html) for the most accurate reproduction.*
 
 # Yessy > Privacy Policy
 
@@ -18,7 +18,7 @@ Yessy automatically receives and records information on the Yessy server logs fr
 
 3\. INFORMATION SHARING AND DISCLOSURE
 
-Yessy does not rent, sell, or share personal information about you with other people or companies. Yessy may divulge aggregate information about users but will not share personally identifiable information with any third party without your express consent. For example, Yessy may disclose how frequently the average Yessy user visits Yessy, or which sort of art is most popular. Please be aware, however, that Yessy will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or if Yessy believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/terms.html?s=ixvbdu45qxjoamqkh01x4o55), or as otherwise required by law. 
+Yessy does not rent, sell, or share personal information about you with other people or companies. Yessy may divulge aggregate information about users but will not share personally identifiable information with any third party without your express consent. For example, Yessy may disclose how frequently the average Yessy user visits Yessy, or which sort of art is most popular. Please be aware, however, that Yessy will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or if Yessy believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the [Terms of Service](https://web.archive.org/terms.html), or as otherwise required by law. 
 
 4\. CONFIDENTIALITY AND SECURITY
 
@@ -32,7 +32,7 @@ Yessy reserves the right to send you certain communications relating to Yessy, s
 
 6\. CHANGES TO THIS PRIVACY POLICY
 
-By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.html?s=ixvbdu45qxjoamqkh01x4o55). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [http://www.yessy.com/privacy.html](https://web.archive.org/privacy.html?s=ixvbdu45qxjoamqkh01x4o55).
+By using Yessy, you consent to the collection and use of your information as outlined in this policy and to the [Terms of Service](https://web.archive.org/terms.html). Yessy may update this Privacy Policy from time to time. The most current version of the Privacy Policy can always be found at: [http://www.yessy.com/privacy.html](https://web.archive.org/privacy.html).
 
 7\. QUESTIONS AND SUGGESTIONS
 
