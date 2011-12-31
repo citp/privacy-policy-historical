@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623144342id_/http%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204849id_/http%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
 
-# OJCommerce.com
+# Sport supplies, medical supplies, furniture, toys, baby gear - OJCommerce.com
 
 **Privacy Policy**
 
