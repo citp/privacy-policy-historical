@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218144821id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220510id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Fish and Wildlife Service
 
 **PRIVACY STATEMENT**
 
-In accordance with the [Department of the Interior Privacy Policy](http://www.doi.gov/privacy.html), The U.S. Fish and Wildlife Service is committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do **not** give, sell, or transfer any personal information to a third party except as might be required by law .
+In accordance with the [Department of the Interior Privacy Policy](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://www.doi.gov/ocio/privacy/), The U.S. Fish and Wildlife Service is committed to maintaining a web site that protects the individual’s right to privacy. We do **not** require personal information from our visitors, nor do we collect any personally identifying information (name, email address, Social Security number, or other unique identifier) unless you knowingly provide it. Likewise, we do **not** give, sell, or transfer any personal information to a third party except as might be required by law .
 
 **Data Collection for Statistics**  
 To aid in web site management, certain information is collected for statistical purposes. The Service uses specialized software to create summary statistics, which are used for such purposes as assessing what information is of most and least interest to our customers, determining technical design specifications, and identifying system performance or problem areas.
@@ -23,7 +23,7 @@ We use the information we collect to measure the number of visitors to the diffe
 **Information Collected from E-mails and Forms**  
 You may decide to send us personally identifying information through e-mail messages or through on-line forms. Electronic communication allows us to collect information that will improve our web site for you, and we encourage it. We use personally-identifying information from consumers in various ways to further our customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested. 
 
-Visit the Department's [**Talk to Us**](http://www.doi.gov/footer/question.htm) page to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy in the face of any required disclosure. 
+Visit the Department's [**Talk to Us**](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://www.doi.gov/footer/question.htm) page to learn what can happen to the information you provide us when you send us e-mail or fill out a questionnaire or guestbook. Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act to ensure the greatest protection of personal privacy in the face of any required disclosure. 
 
 **Security Checks**   
 For web site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor network traffic, identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload or change information on this web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
@@ -36,11 +36,11 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 **_For Kids!_**  
 Please don't send us e-mail ** _, Especially if you are under 13 years old_**. Instead, have an adult send the message. Have your parents, teachers and school librarian **[contact us](http://www.fws.gov/duspit/contactus.htm)** if you need further assistance. 
 
-For more information: See the [Department of the Interior's Children's Privacy statement](http://www.doi.gov/chprivacy.html).
+For more information: See the[ Federal Trade Commission's Children's Privacy statement](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
 
 **STANDARD DISCLAIMER**
 
-The Department of the Interior [**Disclaimer Statement**](http://www.doi.gov/footer/disclaim.html) applies to the Service. 
+The Department of the Interior [**Disclaimer Statement**](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://www.doi.gov/footer/disclaim.html) applies to the Service. 
 
 We will link to external sites that help us perform our mission - "working with others to conserve, protect, and enhance fish, wildlife, and plants and their habitats for the continuing benefit of the American people." 
 
@@ -55,7 +55,7 @@ We will link to external sites that help us perform our mission - "working with 
 Please note: 
 
   1. You are welcome to make a link to any of the Web pages the Service has published on the Internet. **_There is no need to request permission._**
-  2. Not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below).
+  2. Not all the information on our site is in the public domain. Some images/graphics are licensed for use under the **[copyright law](http://www.fws.gov/scripts/exit-to-fed.cfm?link=http://lcweb.loc.gov/copyright/)** , and the **_use of the Service logo is restricted_** to official publications (see below).
 
 
 
@@ -69,7 +69,7 @@ We will identify material we use from sources outside the Service, and request o
 
 **RESTRICTIONS ON USING THE SERVICE LOGO**
 
-The Service logo is our official "trademark." Its use is reserved for official publications or other products of the U.S. Fish and Wildlife Service. Use of the Service logo without prior written approval is prohibited. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.law.cornell.edu/uscode/18/701.shtml) provides for enforcement.
+The Service logo is our official "trademark." Its use is reserved for official publications or other products of the U.S. Fish and Wildlife Service. Use of the Service logo without prior written approval is prohibited. Restrictions on use of the Service logo were published in the Federal Register on February 13, 1984 (Vol. 49, No. 30, page 5387), and [18 USC 701](http://www.fws.gov/scripts/exit.cfm?link=http://www.law.cornell.edu/uscode/18/701.shtml) provides for enforcement.
 
 Please use [alternative images if you need a graphic](http://www.fws.gov/help/altlogo.html). 
 
