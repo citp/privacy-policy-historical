@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229131307id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210325id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech, Gadgets, Web, How To, Latest News and Updates
+# Privacy Policy
 
 At www.techgadgetsweb.com, the privacy of all our visitors is of extreme importance and concern to us. This Privacy Policy page explains how your personal information is received, handled and taken care by Site Administrators.
 
