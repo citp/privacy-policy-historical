@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedity.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524204803id_/http%3A//feedity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedity.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215328id_/http%3A//feedity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Feedity Privacy Policy - RSS Feed Privacy, Security Policy, RSS Service
 
@@ -29,7 +29,7 @@ We will use personally identifiable information for the following purposes only:
   * To provide you from time to time with information pertaining to Feedity;
   * To contact you as and when we believe it to be necessary;
   * Subject to your express consent at the time of registration with Feedity or later, to send you, from time to time, information pertaining to our Services, as well as marketing and advertising material, whether ours or others'. You may withdraw your consent at any time and cease receiving material of this kind, by following the relevant procedure at Feedity. In any case, we will not share your personal details with any advertisers, without your explicit consent.
-  * To any other purpose, as stipulated in this Policy, or in the [Terms of Use](https://web.archive.org/web/20110524204803id_/http%3A//feedity.com/terms.aspx) governing the use of Feedity ("Terms of Use").
+  * To any other purpose, as stipulated in this Policy, or in the [Terms of Use](https://web.archive.org/web/20111231215328id_/http%3A//feedity.com/terms.aspx) governing the use of Feedity ("Terms of Use").
 
 
 
@@ -39,7 +39,7 @@ We may use anonymous information for the proper operation and function of Feedit
 
 We may share personally identifiable information with others in any of the following instances:
 
-  * If we reasonably believe that you have breached the [Terms of Use](https://web.archive.org/web/20110524204803id_/http%3A//feedity.com/terms.aspx) or abused Feedity;
+  * If we reasonably believe that you have breached the [Terms of Use](https://web.archive.org/web/20111231215328id_/http%3A//feedity.com/terms.aspx) or abused Feedity;
   * If by using Feedity, you perform or attempt to perform any activity which we may reasonably believe to be illegal;
   * If we are required by law to do so;
   * In any case of dispute, or legal proceeding of any kind between Us and you;
