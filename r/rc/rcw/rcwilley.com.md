@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106114042id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcwilley.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213014id_/http%3A//www.rcwilley.com/Privacy.jsp) for the most accurate reproduction.*
 
-# RC Willey Home Furnishings - Furniture, Electronics, Appliances, Mattresses and Flooring in Utah, Idaho, Nevada and California
+# RC Willey - Privacy Policy
 
 **What Information do we collect?**
 
@@ -10,7 +10,7 @@ We also collect **non-personally identifiable information** , which relates to t
 
 **Who do we Share this information with?**
 
-**RC Willey does not rent, sell, or share your personally identifiable information with third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws.) The only party that may gain access to some of your information is Pay Pal, the company we employ to authorize and process all of our credit card transactions.  Your safety and privacy are important to us.  In order to ensure the confidentiality and security of your personal information, we use the latest web technologies to provide you with a safe and private online experience. 
+**RC Willey does not rent, sell, or share your personally identifiable information with third parties** (other than regulatory authorities and law enforcement officials in accordance with applicable laws.) The only party that may gain access to some of your information is Authorize.net, the company we employ to authorize and process all of our credit card transactions.  Your safety and privacy are important to us.  In order to ensure the confidentiality and security of your personal information, we use the latest web technologies to provide you with a safe and private online experience. 
 
 **What if you have more Questions?**
 
@@ -18,9 +18,7 @@ We also collect **non-personally identifiable information** , which relates to t
 
 **Toll-Free-Billing:** 1-877-315-0183
 
-**Phone:** 1-800-461-3900
-
-**E-mail:** [privacymanager@rcwilley.com](mailto:privacymanager@rcwilley.com)
+**Phone:** 1-801-461-3900
 
 **Regular Mail:**
 
@@ -45,4 +43,12 @@ A list of categories of your personal information that RC Willey shared with thi
 
 
 
-Please submit such requests to [privacymanager@rcwilley.com](mailto:privacymanager@rcwilley.com)
+Please submit such requests to: 
+
+RC Willey Corporate
+
+Attn: Website Privacy Manager
+
+2301 S. 300 W.
+
+Salt Lake City, UT  84115
