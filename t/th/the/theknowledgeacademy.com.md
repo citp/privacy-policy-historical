@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530005030id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231162739id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -15,8 +15,11 @@
       * [ **Change Management Training**](https://web.archive.org/training-calendar/change-management-courses)
       * [ **Business Analysis Training**](https://web.archive.org/training-calendar/business-analysis-essentials)
       * [ **Agile Training**](https://web.archive.org/training-calendar/agile-project-management-foundation-practitioner)
+      * [ **Cobit Training**](https://web.archive.org/training-calendar/cobit-foundation)
+      * [ **MOP Training**](https://web.archive.org/training-calendar/mop-foundation-practitioner)
       * [ **Software Testing Training**](https://web.archive.org/training-calendar/software-testing-foundation)
       * [ **Six Sigma Training**](https://web.archive.org/training-calendar/lean-six-sigma-green)
+      * [ **PMI Training**](https://web.archive.org/training-calendar/pmp-training)
     * Course Calendar 2
       * [ **Personal Development Training**](https://web.archive.org/training-calendar-softskills/personal-development-training/london)
       * [ **Management Training**](https://web.archive.org/training-calendar-softskills/management-training/london)
