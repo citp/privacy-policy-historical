@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624103439id_/http%3A//www.newswise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswise.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203133id_/http%3A//newswise.com/privacy) for the most accurate reproduction.*
 
 # Newswise | Privacy Statement
 
