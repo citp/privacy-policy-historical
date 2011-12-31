@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopyourworld.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618044927id_/http%3A//www.shopyourworld.com/shop/h/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopyourworld.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212838id_/http%3A//www.shopyourworld.com/shop/h/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
