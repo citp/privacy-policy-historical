@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030221id_/http%3A//www.dressupkiss.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222350id_/http%3A//www.dressupkiss.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 4.4) We will only pass on information about you as an individual (as opposed to aggregate information) to third parties overseas to enable us to perform services requested by you.   
   
-**5) Data Protection** | dressupkiss.com is registered with the Information Commissioner in the UK as a “data controller” in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at www.dpr.gov.uk.  
+**5) Data Protection** | dressupkiss.com is registered with the Information Commissioner in the UK as a �data controller� in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at www.dpr.gov.uk.  
 **6) Security** | Keeping information about you secure is very important to us and certain sections of the site may encrypt data using SSL or a comparable standard. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.  
 **8) Questions?** | If you have any questions or complaints relating to this Privacy Policy or how we use the personal information we have about you, please contact admin@dressupkiss.com. We will endeavour to respond to you promptly.  
 | **Copyright 2008, Inc. All Rights Reserved**
