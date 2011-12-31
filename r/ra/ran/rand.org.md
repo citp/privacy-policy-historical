@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082530id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214454id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RAND
 
