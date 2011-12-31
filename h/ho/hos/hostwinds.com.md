@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostwinds.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606055711id_/http%3A//www.hostwinds.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostwinds.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214203id_/http%3A//www.hostwinds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hostwinds Privacy Policy
 
@@ -10,7 +10,7 @@ In addition, HOSTWINDS.COM will not send you e-mail that you have not agreed to 
 
   
 **No Sharing of Personal Information**   
-HOSTWINDS.COM will never sells, rents, leases or exchanges your personal information with other organizations. HOSTWINDS.COM assures you that the identity of all who contact us through this Web site will be kept confidential. HOSTWINDS.COM may occasionally send mailings on behalf of other organizations or ministries when their interests align with HOSTWINDS.COM. 
+HOSTWINDS.COM will never sells, rents, leases or exchanges your personal information with other organizations. HOSTWINDS.COM assures you that the identity of all who contact us through this Web site will be kept confidential.
 
   
 **Security**  
