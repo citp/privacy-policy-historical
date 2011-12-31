@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120210329id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231075050id_/http%3A//cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
@@ -26,7 +26,7 @@ We offer periodical e-newsletters and promotional e-mails, but in order to avoid
 When people visit CableOrganizer.com via links from other websites, we keep track of which domains referred them to us in order to spend our advertising dollars more wisely, and thereby lower our costs to you. However, we don’t obtain any specific personal information like names or e-mail addresses. In order to improve our website, we track which CableOrganizer.com pages consumers visit, and also keep other voluntarily-given information, such as survey responses and site registrations, on record.
 
   
-**Cookies**   
+**Cookies**  
 We use cookies to help our Log Analysis Programs accurately track browsing and purchasing sessions on CableOrganizer.com. These cookies contain no personal information. Each time a person visits our website, our web server automatically recognizes the consumer’s domain IP address, but does not acquire any other personal information. 
 
 **Ad Servers**  
@@ -34,6 +34,9 @@ We do not partner or have special relationships with any ad serving companies; h
 
 **Changes to Our Privacy Policy**  
 From time to time, we may decide to use customer information for new, unanticipated purposes that have not been previously disclosed in this Privacy Notice. If our information practices change at any time in the future, we will immediately post the changes on our website and give you the choice to opt out of these new functions. If you’re especially concerned about how your information is being used, we encourage you to check our website periodically to stay well informed of any possible updates.
+
+**Product Review E-Mails**  
+We love to know what our customers think of our products and service, so at some point, we may send you an e-mail asking you to review a recent purchase. If you’d prefer not to receive these e-mails, please let us know at [optoutreview@cableorganizer.com](mailto:optoutreview@cableorganizer.com), and we’ll be sure to remove you from the list.
 
 Thank you for your interest in our Privacy Policy! If you have additional questions that we haven’t answered here, or feel that this website isn’t following its stated information policy, please feel free to contact us via toll-free phone call, e-mail, or post.
 
