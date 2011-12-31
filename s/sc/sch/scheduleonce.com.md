@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612231450id_/http%3A//www.scheduleonce.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112414id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web site (“Site”) located at www.scheduleonce.com. By using the Service, you consent to the privacy practices described in this Policy. 
+We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web site (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/) and [www.meetme.so](http://meetme.so/). By using the Service, you consent to the privacy practices described in this Policy. 
 
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit. 
 
@@ -18,11 +18,11 @@ Those are the types of personal and other information we collect. You should ref
 
 We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems automatically collect your IP address and the type of browser or operating system you use. 
 
-We may also collect standard access information, such as the time and date of accessing the Service, and usage of the Service. We use such information to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage. 
+We may also collect standard access information, such as the time and date of accessing the Service, and usage of the Service. We use such information to help us understand how our users use our services and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage. 
 
 • Cookies. We may use cookies to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to track and complete transactions you have requested. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you may not be able to use some of the Site’s features or services, and you may have a less satisfactory experience. 
 
-• Web beacons. “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We use Web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our Web beacons do not contain any personal information and we do not link Web beacons to personal information about you. 
+• Web beacons. “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We use Web beacons to help us understand how our users use our services and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage; our Web beacons do not contain any personal information and we do not link Web beacons to personal information about you. 
 
 **No information about children.**
 
@@ -32,9 +32,9 @@ Our Service is not intended to be used by children under the age of 13, and we d
 
 **Internal use of personal information.**
 
-All contact information and content submitted by you is stored in our database and may be archived elsewhere. Our records are stored indefinitely. 
+All contact information and content submitted by you is stored in our database and may be archived elsewhere. We have no obligation to store our records indefinitely. 
 
-At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, to respond to customer support inquiries, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with people you invite to your meetings. 
+At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to resolve technical support cases, to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with people you invite to your meetings. 
 
 **Disclosure of personal information.**
 
@@ -52,7 +52,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 **THIRD-PARTY SITES**
 
-Please be aware that we provide links to third-party Web sites as a service to our users and we are not responsible for the content or information collection practices of those sites. Please also note that these Web sites’ privacy policies will differ from those of SheduleOnce. Therefore, we encourage you to review and understand their privacy practices before providing them with information or visiting their sites. 
+Please be aware that we provide links to third-party Web sites as a service to our users and we are not responsible for the content or information collection practices of those sites. Please also note that these Web sites’ privacy policies will differ from those of ScheduleOnce. Therefore, we encourage you to review and understand their privacy practices before providing them with information or visiting their sites. 
 
 **NETWORK AND INFORMATION SECURITY**
 
@@ -72,4 +72,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20110612231450id_/http%3A//www.scheduleonce.com/contactus) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20111231112414id_/http://www.scheduleonce.com/contactus.aspx) via our contact form. 
