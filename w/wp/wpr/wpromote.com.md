@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625094856id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204445id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Wpromote
 
@@ -42,7 +42,7 @@ When you view our Websites, we may store some information on your computer's har
 The Website makes a reasonable effort to protect your information by using Secure Sockets Layer (SSL) technology. SSL encrypts your information to ensure it remains private and secure. WE DO NOT REPRESENT, WARRANT AND/OR GUARANTEE THAT PERSONAL INFORMATION WILL REMAIN SECURE. To check the security of your connection, look at the bottom of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site will change from "http" to "https".
 
 **Additional Information**  
-This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to WPROMOTE’ Administrator by emailing such questions to contact@wpromote.com or by certified mail addressed to WPROMOTE, Inc., 999 N. Sepulveda Blvd., Suite 400, El Segundo, California, 90245, Attn: Privacy Policy Administrator.
+This Policy is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Policy or the practices of the Website should be directed to WPROMOTE’ Administrator by emailing such questions to contact@wpromote.com or by certified mail addressed to WPROMOTE, Inc., 1700 E. Walnut Ave. Fifth Floor, El Segundo, CA 90245, Attn: Privacy Policy Administrator.
 
 **Updates to our Privacy Policy**  
 If we make any material changes to this Privacy Policy, we will post a notice on this Website notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Website periodically to see if any recent changes to this Privacy Policy have occurred.
@@ -55,5 +55,5 @@ If you have any questions regarding the Wpromote privacy policy or information t
 ##### Mailing Address
 
 Wpromote Inc.  
-999 N. Sepulveda Blvd. Suite 400  
+1700 E. Walnut Ave. Fifth Floor  
 El Segundo, CA 90245 
