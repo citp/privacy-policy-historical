@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107104107id_/http%3A//www.theredheadriter.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredheadriter.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095247id_/http%3A//www.theredheadriter.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # The Redhead Riter - Witty, Intelligent & Addictive: Privacy Policy
 
