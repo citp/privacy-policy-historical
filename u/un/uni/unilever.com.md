@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130154319id_/http%3A//www.unilever.com/resource/privacynotice/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111938id_/http%3A//www.unilever.com/resource/privacynotice/index.aspx) for the most accurate reproduction.*
 
 # Privacy | Unilever Global
 
-The information which we collect and store during normal use of the site is used to monitor use of the site and to help its further development. Such use does not result in any personally identifiable data being collected or stored.
+The information that we collect and store during normal use of the site is used to monitor use of the site and to help its further development.
+
+Such use does not result in any personally identifiable data being collected or stored.
 
 ### Privacy Statement
 
@@ -16,7 +18,7 @@ This Privacy Statement will apply when you use our website to discover more info
 This Privacy Statement is applicable to data collected by Unilever and other Unilever group companies in Europe for use by these companies and other Unilever companies worldwide.   
 
 
-### Privacy notice: collection and use of personal information
+### Privacy notice: collection & use of personal information
 
   
 In general you can visit Unilever’s website on the Internet without telling us who you are or providing data that personally identifies you. The information which we collect and store during normal use of the site is used to monitor use of the site and to help its further development. Such use does not result in any personally identifiable data being collected or stored.
@@ -28,7 +30,7 @@ A number of pages in this website give you the option to submit Personal Data an
 This website is hosted outside the European Economic Area by a hosting organisation. The hosting organisation is contractually bound to implement measures to protect your personal information and process it only in accordance with Unilever PLC/Unilever NV's own guidelines.   
 
 
-### How we process and use your data
+### How we process & use your data
 
   
 By submitting your Personal Data through this website, you shall be consenting to it being processed in the manner described above by Unilever Group affiliates around the world and our hosting organisation in the United States.
