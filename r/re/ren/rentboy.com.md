@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentboy.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115022725id_/http%3A//www.rentboy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224630id_/http%3A//www.rentboy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Rentboy - Terms and Conditions
 
@@ -30,7 +30,7 @@ During the transaction process, we will endeavor to permit you to review, change
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Online at [www.rentboy.com](https://web.archive.org/web/20101115022725id_/http%3A//www.rentboy.com/www.rentboy.com).
+  1. Online at [www.rentboy.com](https://web.archive.org/web/20111231224630id_/http%3A//www.rentboy.com/www.rentboy.com).
   2. You can send email to [support@rentboy.com](mailto:support@rentboy.com)
   3. You can send mail to the following postal address: 
 
