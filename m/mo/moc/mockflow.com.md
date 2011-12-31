@@ -1,16 +1,25 @@
-> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111210735id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224658id_/http%3A//www.mockflow.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MockFlow
 
-**Date of Last Revision:** September 1, 2009
+Privacy Policy   Last Rev: September 1, 2009  
 
-At A Produle Systems, we recognize that privacy is important and we are committed to protecting it. The privacy policy only applies to your account information and the data created using this service but NOT for the data collected or used by the applications created using MockFlow. If you need more detailed information about our privacy practices use our contact form http://www.mockflow.com/contact. 
+
+At A Produle Systems, we recognize that privacy is important and we are committed to protecting it. This privacy policy applies to your account information and the data created using this service. If you need more detailed information about our privacy practices use our contact form http://www.mockflow.com/contact. 
 
 ## Collecting Information
 
-**Account** : To use the MockFLow service, user should register their account by providing the following details: (1) Name (2) E-mail which is your Username (3) Password. (This is optional). We store your password data in encrypted form. 
+**Account** : To use the MockFlow service, user should register their account by providing the following details: (1) Name (2) E-mail which is your Username (3) Password. We store your password data in encrypted form. 
 
 **Cookies** : When you click "Remember me" in Login form at app.mockflow.com, we store your account information in encrypted form in a small file containing a string of characters - to your computer that uniquely identifies your browser. 
+
+## Your E-Mail is kept private
+
+The only key personal information that we store about you is your E-Mail address which is also your Login ID. We do not sell/disclose/distribute your e-mail address to third-parties under any circumstances. 
+
+## No Newsletter Policy
+
+We consider newsletters as Spam and MockFlow does not asks it users to subscribe to newsletters. For any up-to-date information about our services visit the site. 
 
 ## Information security
 
