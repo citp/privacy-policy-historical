@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklecat.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516133715id_/http%3A//www.sparklecat.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklecat.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111832id_/http%3A//www.sparklecat.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy
 
