@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.in privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611041202id_/http%3A//www.nissan.in/en/web/footer/footer_4387.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210251id_/http%3A//www.nissan.in/en/web/footer/footer_4387.htm) for the most accurate reproduction.*
 
 # Nissan India | Privacy Policy
 
