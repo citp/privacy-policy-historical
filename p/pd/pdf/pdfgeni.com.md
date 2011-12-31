@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfgeni.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618113229id_/http%3A//www.pdfgeni.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfgeni.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113904id_/http%3A//www.pdfgeni.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
