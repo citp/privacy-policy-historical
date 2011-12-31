@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readbookonline.net privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406125457id_/http%3A//www.readbookonline.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readbookonline.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220509id_/http%3A//www.readbookonline.net/privacy.htm) for the most accurate reproduction.*
 
 # readbookonline.net Privacy Policy Statement
 
@@ -18,6 +18,8 @@ Regarding information about Google and the DoubleClick DART cookie:
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
+
+Regarding Casalemedia ads: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/)
 
 With respect to other Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Ad server companies may use cookies, but as we understand, they do not use them in any way that would violate your privacy. 
 
