@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueglobalmedia.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509032057id_/http%3A//www.blueglobalmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueglobalmedia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205618id_/http%3A//www.blueglobalmedia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Blue Global Media | Privacy Policy | Affiliate Network Summit, Subprime, Financial Affiliate Networks Payday
+# Privacy Policy | Affiliate Network Summit, Subprime, Financial Affiliate Networks Payday | Blue Global Media
 
 **Blue Global Media Privacy Policy**
 
