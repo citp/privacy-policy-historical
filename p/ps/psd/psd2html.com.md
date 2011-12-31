@@ -1,48 +1,52 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2007-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070825025253id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100540id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of PSD to HTML service, PSD2HTML.com. You Design - We XHTML / CSS
+# PSD to HTML Service Privacy Policy - P2H / PSD2HTML
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+## Non-disclosure agreement (NDA) for PSD2HTML.com clients
 
-## Non-Disclosure Agreement (NDA) for PSD2HTML.com clients
+PSD2HTML respects your professional artwork and will only use it to assist you with your goals. Your copyrights will remain yours. 
 
-PSD2HTML respects your professional artwork and will only use it only to assist you in your goals. Your copyrights will remain yours. PSD2HTML will not take your artwork for use on any other site, resell it, or give it to anyone under any circumstance.
+PSD2HTML will not take your artwork for use on any other site, resell it, or give it to anyone under any circumstance.
 
-PSD2HTML.com guarantees that **all** information shared with it including artwork, contact information, client notes etc will remain confidential.
+PSD2HTML.com guarantees that **all** information that you share with us, including artwork, contact information, and client notes will remain confidential.
 
-PSD2HTML.com will never contact your clients or clients of your clients; we do respect your business.
+PSD2HTML.com will never contact your clients or the clients of your clients. We respect your business.
 
-## The Information We Collect
-
-This notice applies to all information collected or submitted on the PSD2HTML website. On some pages, you can order products, and make requests. The types of personal information collected at these pages are:
-
-  * Email address.
-  * Client informational requests.
-  * Information concerned to orders (source files, client notes).
-  * The information on referring sites by using cookies.
-
-
-
-## The Way We Use Information
-
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties.
-
-We use return email addresses to the contact forms we receive and notify you about your order status. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-## Our Commitment to Data Security
+## Our commitment to data security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-## How You Can Access or Correct Your Information
+## How secure is my information?
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+This web site uses state-of-the-art digital encryption and security technologies to protect the privacy and security of our member information and has specific security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+All data passing from your computer to this web site is authenticated and encrypted using 256-bit Secure Socket Layer (SSL) encryption using technologies provided by Verisign. This is the most advanced level of encryption available today, and it means that any information sent from your computer is scrambled in a way which makes it completely unintelligible if intercepted. When you are on a secure section within this web site, a padlock will appear at the bottom of your web browser's screen. This is your assurance that the encryption is in place and that you are communicating across a secure link.
+
+## Information we collect
+
+This notice applies to all the information that gets collected or submitted on the PSD2HTML website through the product order, product request, and other pages. The following types of personal information are collected:
+
+  * Email address
+  * Client information requests
+  * Order-specific information, including source files and client notes
+  * Information on referring sites through the use of cookies
+
+
+
+## How we use your information
+
+The personal information you provide when placing an order is only used to complete your order. We do not share this information with outside parties.
+
+The email address that you provide in the contact form is used only to notify you about the status of your order. We do not use this email address for any other purpose, and we do not share it with outside parties.
+
+To improve the design of our website and to better share it with advertisers, we use only non-identifying, aggregate information. For example, we may tell an advertiser that a certain number of individuals visited some area of our website, but we do not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to those described above without also providing you with an opportunity to opt out or otherwise prohibit such unrelated uses.
+
+## How you can access or correct your information
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows an error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-## How to Contact Us
-
-Should you have other questions or concerns about PSD2HTML.com services, please use the contact form at the top right corner.
+Should you have further questions or concerns about PSD2HTML.com services, please complete the contact form.
