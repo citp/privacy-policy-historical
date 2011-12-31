@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the decidio.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630191111id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the decidio.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231204959id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Complete Wedding, Corporate Event, and Party Planning Resource! Local Wedding Planning at Decidio</title>
@@ -140,10 +140,32 @@
 			{
 				document.search.mode.value = "distance";
 				document.search.zip.value = document.search.searchType.value;
+				SetCookie("manualZip",document.search.zip.value,1);
 			}
 
 		return true;
 	}
+</script>
+<script>
+	<!--
+function GetCookie(cookieName)
+{
+     var theCookie=""+document.cookie;
+     var ind=theCookie.indexOf(cookieName);
+     if (ind==-1 || cookieName=="") return null;
+     var ind1=theCookie.indexOf(';',ind);
+     if (ind1==-1) ind1=theCookie.length;
+     return unescape(theCookie.substring(ind+cookieName.length+1,ind1));
+}
+function SetCookie(cookieName,cookieValue,nDays)
+{
+     var today = new Date();
+     var expire = new Date();
+     if (nDays==null || nDays==0) nDays=1;
+     expire.setTime(today.getTime() + 3600000*24*nDays);
+     document.cookie = cookieName + "=" +escape(cookieValue) + ";expires="+expire.toGMTString() + ";path=/";
+}
+//-->
 </script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr bgcolor="DB6E15">
