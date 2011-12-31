@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sportspickle.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031083316id_/http%3A//www.sportspickle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspickle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214018id_/http%3A//www.sportspickle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SportsPickle
 
 ### Consumer Privacy at Connected Ventures, LLC, an IAC Company
 
-Connected Ventures, is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, College Humor, Evite, Gifts.com, Match.com, RealEstate.com, ServiceMagic, Shoebuy and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+Connected Ventures, is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, CollegeHumor, Evite, Gifts.com, Match.com, ServiceMagic, Shoebuy, and many others. For a list of all of IAC's businesses, please visit [www.iac.com.](http://www.iac.com/).
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Connected Ventures, LLC, please click [here](https://web.archive.org/privacy/policy).
 
