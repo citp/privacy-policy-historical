@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsings.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510051831id_/http%3A//www.worldsings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsings.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090143id_/http%3A//www.worldsings.com/privacy-policy) for the most accurate reproduction.*
 
-# WORLDSINGS - The Global Home For Music
+# WorldSings
 
 Privacy Policy
 
