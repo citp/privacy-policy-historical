@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521100113id_/http%3A//www.geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210944id_/http%3A//geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GeoEye › Privacy Policy
 
@@ -42,7 +42,7 @@ If you would like to review the personally identifiable information that we have
 
 ##  7\. How to Contact Us
 
-If you have any questions or concerns about our Privacy Policy for this Site, you may contact us at 21700 Atlantic Boulevard, Dulles, VA 20166, or via e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy).
+If you have any questions or concerns about our Privacy Policy for this Site, you may contact us at 2325 Dulles Corner Boulevard, Herndon, VA 20171, or via e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy).
 
 ##  8\. Terms of Use
 
