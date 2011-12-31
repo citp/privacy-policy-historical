@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgenwalkthroughs.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412000256id_/http%3A//nextgenwalkthroughs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgenwalkthroughs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112516id_/http%3A//wikigameguides.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | WikiGameGuides.com
 
