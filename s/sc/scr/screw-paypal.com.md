@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screw-paypal.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222145800id_/http%3A//screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screw-paypal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231161156id_/http%3A//www.screw-paypal.com/bottom_nav_homepage/privacy_policy.html) for the most accurate reproduction.*
 
 # Screw-PayPal.com Privacy Policy
 
@@ -12,7 +12,7 @@ We are committed to ensuring that your privacy is protected. Should we ask you t
   
 Screw-Paypal.com may change this policy from time to time by updating this page. Should any changes be made, the changes will be made to further strengthen the protection of your privacy. This is necessary in order to keep up with rapidly changing internet technology and user habits. You should check this page from time to time to ensure that you are briefed on what your protections are.
 
-NOTE: This policy is effective as of March 30, 2009. The latest revision of this policy took place on March 30, 2009. Please read this privacy policy carefully. It explains important information about you, your personal information and the privacy of your online activities. 
+NOTE: This policy is effective as of March 30, 2011. The latest revision of this policy took place on March 30, 2011. Please read this privacy policy carefully. It explains important information about you, your personal information and the privacy of your online activities. 
 
 * * *
 
