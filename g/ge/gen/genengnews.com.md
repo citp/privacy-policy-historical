@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222031744id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215157id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# GEN | Privacy
 
 This Privacy Statement is designed to assist you in understanding how we collect, use, and safeguard the personal information you provide to us and to assist you in making informed decisions when using our website and our products and services. _Genetic Engineering & Biotechnology News_ is committed to maintaining the privacy of clients and potential clients alike. Our relationships with our clients and potential clients are of the utmost importance; the trust we’ve developed with them is a paramount concern of ours. 
 
