@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notecook.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notecook.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213237id_/http%3A//notecook.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,6 +21,47 @@
 <meta property="og:site_name" content="Notecook">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://notecook.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
 <script type="text/javascript" src="http://notecook.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
@@ -30,7 +71,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://notecook.com/wp-content/themes/Notecook/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://notecook.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -39,6 +80,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -100,7 +188,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://notecook.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -115,30 +203,39 @@ function showTriondSignupForm()
 <meta name="google-site-verification" content="q_TOy6GMuhlGSF2RLYIVmbVUQn-elCjSFSAm5TZQEq4">
 </head>
 
-<body>
+<body> 
+		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+		
 <div id="header">
 
 <div class="container">
 
 <div id="topad" style="display: block;">
 
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=613");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=613&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=1734071096&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=574fc9&amp;cb=776c840b80499cf776a65dcd5aa50b5f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=613&amp;cb=776c840b80499cf776a65dcd5aa50b5f&amp;n=574fc9' border='0' alt='' /></a></noscript><script type="text/javascript">antimalkar_detect('topad')</script></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=613");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=613&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=56508778876&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=99da8c&amp;cb=5b01e6760c965a7db6dc943ca03f0c5d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=613&amp;cb=5b01e6760c965a7db6dc943ca03f0c5d&amp;n=99da8c' border='0' alt='' /></a></noscript><script type="text/javascript">antimalkar_detect('topad')</script></div>
 
 <div id="table">
 <a href="http://notecook.com" title="Home" class="logo"></a>
@@ -157,28 +254,35 @@ function showTriondSignupForm()
     <li class="widget">
     <h2>Popular Recipes</h2>
     	<ul id="recent">
-    	<li><a href="http://notecook.com/drinks/cocktails/need-a-cool-drink-try-this-mojito/" title="Need a Cool Drink? Try This Mojito"> Need a Cool Drink? Try This Mojito</a></li><li><a href="http://notecook.com/soup/vegetarian-stuffed-tomatoes/" title="Vegetarian Stuffed Tomatoes"> Vegetarian Stuffed Tomatoes</a></li><li><a href="http://notecook.com/desserts/cakes/chocolate-salami-with-walnuts/" title="Chocolate Salami with Walnuts"> Chocolate Salami with Walnuts</a></li><li><a href="http://notecook.com/breakfast/bechamel-pancakes/" title="Bechamel Pancakes"> Bechamel Pancakes</a></li><li><a href="http://notecook.com/desserts/fruits/dessert-with-figs/" title="Dessert with Figs"> Dessert with Figs</a></li><li><a href="http://notecook.com/drinks/cocktails/bloody-mary-not-for-everybody/" title="Bloody Mary (Not for Everybody)"> Bloody Mary (Not for Everybody)</a></li><li><a href="http://notecook.com/desserts/cakes/crown-cake/" title="Crown Cake"> Crown Cake</a></li><li><a href="http://notecook.com/desserts/fruits/grandmas-apple-cole-slaw-great-recipe/" title="Grandma's Apple Cole Slaw Great Recipe"> Grandma's Apple Cole Slaw Great Recipe</a></li><li><a href="http://notecook.com/main-course/avocado-tomato-corn-salad/" title="Avocado- Tomato-corn Salad"> Avocado- Tomato-corn Salad</a></li><li><a href="http://notecook.com/desserts/ice-cream/strawberry-vanilla-milk-shake/" title="Strawberry Vanilla  Milk Shake"> Strawberry Vanilla  Milk Shake</a></li>    	</ul>
+    		<li><a href="http://notecook.com/desserts/fruits/cooking-with-wine-white-wine-poached-peach-dessert-recipe/" title="Cooking with Wine: White Wine Poached Peach (Dessert Recipe)"> Cooking with Wine: White Wine Poached Peach (Dessert Recipe)</a></li><li><a href="http://notecook.com/appetizers/dips/buffalo-chicken-dip-6/" title="Buffalo Chicken Dip"> Buffalo Chicken Dip</a></li><li><a href="http://notecook.com/soup/oriental-hot-and-sour-soup-slow-cooker-recipe/" title="Oriental Hot and Sour Soup Slow Cooker Recipe"> Oriental Hot and Sour Soup Slow Cooker Recipe</a></li><li><a href="http://notecook.com/bread/the-origin-of-muffin/" title="The Origin of Muffin"> The Origin of Muffin</a></li><li><a href="http://notecook.com/desserts/cakes/christmas-duties-children-will-remember-and-cherish-forever/" title="Christmas Duties Children Will Remember and Cherish Forever"> Christmas Duties Children Will Remember and Cherish Forever</a></li><li><a href="http://notecook.com/drinks/frozen-tea/" title="Frozen Tea"> Frozen Tea</a></li><li><a href="http://notecook.com/soup/vegetarian-split-pea-soup-recipe/" title="Vegetarian Split Pea Soup Recipe"> Vegetarian Split Pea Soup Recipe</a></li><li><a href="http://notecook.com/bread/learning-about-the-internet-from-a-piece-of-bread/" title="Learning About The Internet From a Piece of Bread"> Learning About The Internet From a Piece of Bread</a></li><li><a href="http://notecook.com/appetizers/egg-fried-boiled-steamed-and-scrambled-in-five-minutes/" title="Egg : Fried, Boiled, Steamed and Scrambled in Five Minutes!"> Egg : Fried, Boiled, Steamed and Scrambled in Five Minutes!</a></li><li><a href="http://notecook.com/desserts/fruits/delicious-broccoli-casserole/" title="Delicious Broccoli Casserole"> Delicious Broccoli Casserole</a></li>    	</ul>
     </li>
 
     <div class="ad160left">
     	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=807");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=807&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=1060138385&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=5d3baf&amp;cb=3df80d5da556add836c688703c9a8585' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=807&amp;cb=3df80d5da556add836c688703c9a8585&amp;n=5d3baf' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=807");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=807&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=44724285284&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=788107&amp;cb=3e85ce9581f6a19864e5381b333ab8e1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=807&amp;cb=3e85ce9581f6a19864e5381b333ab8e1&amp;n=788107' border='0' alt='' /></a></noscript>	</div>
 
 
     <li class="widget" id="pages_block">
@@ -264,7 +368,49 @@ function showTriondSignupForm()
 <p>Notecook is committed to handling your personal information with the highest standards of security information. Notecook shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Notecook, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@notecook.com .</p>
-
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>
 	<!-- end .post --></div>
 
 <div class="paging"></div>
@@ -280,23 +426,30 @@ function showTriondSignupForm()
 
 <div class="adright" id="ad300" style="display: block;">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=614");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=614&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=73143807420&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c6ee45&amp;cb=5c72624d59e378928faa8adf2447fb1c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=614&amp;cb=5c72624d59e378928faa8adf2447fb1c&amp;n=c6ee45' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('ad300')</script></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=614");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=614&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=2995565261&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=02c34f&amp;cb=95a499905eedbd64c9b0ea21ee464cd1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=614&amp;cb=95a499905eedbd64c9b0ea21ee464cd1&amp;n=02c34f' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('ad300')</script></div>
 <div class="rss">
 <a href="http://notecook.com/feed/"></a>
 </div>
@@ -312,99 +465,32 @@ function showTriondSignupForm()
 
 <div class="adright" id="ad160" style="display: block;">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=620");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=620&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=81666993671&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=082495&amp;cb=1e1605f88a6a2a9a12b49418f7ba4c41' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=620&amp;cb=1e1605f88a6a2a9a12b49418f7ba4c41&amp;n=082495' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('ad160')</script></div>
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=620");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=620&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=16192274395&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c0f723&amp;cb=8ef88acafb4e0658baf137c25438b077' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=620&amp;cb=8ef88acafb4e0658baf137c25438b077&amp;n=c0f723' border='0' alt='' /></a></noscript>	<script type="text/javascript">antimalkar_detect('ad160')</script></div>
-
-
-	<div>				
-		<div class="triond-signup-title">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '300';
-		playerSeed.height = '250';
-		playerSeed.videoControlDisplayColor = '#F7F7F1';
-		playerSeed.featured = true;
-		playerSeed.categories = '6';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</div>
-
-
-
- 
-<ul class="sidebar">
-        <li><div class="clear"></div></li>
-</ul>
-
-<div class="tagcloud">
-	<img style="width:139px;height:20px;" src="http://notecook.com/wp-content/themes/Notecook/images/tagz.jpg">
-	<br>
-	<a href="http://notecook.com/tag/baking/" class="tag-link-41003" title="729 topics" rel="tag" style="font-size: 10.320349761526pt;">baking</a>
-<a href="http://notecook.com/tag/baking-powder/" class="tag-link-41931" title="556 topics" rel="tag" style="font-size: 9.3577106518283pt;">baking powder</a>
-<a href="http://notecook.com/tag/beef/" class="tag-link-33513" title="424 topics" rel="tag" style="font-size: 8.6232114467409pt;">Beef</a>
-<a href="http://notecook.com/tag/black-pepper/" class="tag-link-44455" title="744 topics" rel="tag" style="font-size: 10.403815580286pt;">black pepper</a>
-<a href="http://notecook.com/tag/bread/" class="tag-link-40735" title="546 topics" rel="tag" style="font-size: 9.302066772655pt;">Bread</a>
-<a href="http://notecook.com/tag/breakfast/" class="tag-link-28767" title="312 topics" rel="tag" style="font-size: 8pt;">Breakfast</a>
-<a href="http://notecook.com/tag/butter/" class="tag-link-41279" title="1,464 topics" rel="tag" style="font-size: 14.410174880763pt;">butter</a>
-<a href="http://notecook.com/tag/cake/" class="tag-link-36017" title="762 topics" rel="tag" style="font-size: 10.503974562798pt;">Cake</a>
-<a href="http://notecook.com/tag/cheese/" class="tag-link-6753" title="889 topics" rel="tag" style="font-size: 11.210651828299pt;">cheese</a>
-<a href="http://notecook.com/tag/chicken/" class="tag-link-34419" title="1,317 topics" rel="tag" style="font-size: 13.592209856916pt;">Chicken</a>
-<a href="http://notecook.com/tag/chocolate/" class="tag-link-28363" title="866 topics" rel="tag" style="font-size: 11.0826709062pt;">Chocolate</a>
-<a href="http://notecook.com/tag/cook/" class="tag-link-3985" title="2,262 topics" rel="tag" style="font-size: 18.850556438792pt;">cook</a>
-<a href="http://notecook.com/tag/cookies/" class="tag-link-25495" title="427 topics" rel="tag" style="font-size: 8.6399046104928pt;">Cookies</a>
-<a href="http://notecook.com/tag/cooking/" class="tag-link-1375" title="2,267 topics" rel="tag" style="font-size: 18.878378378378pt;">cooking</a>
-<a href="http://notecook.com/tag/delicious/" class="tag-link-10499" title="552 topics" rel="tag" style="font-size: 9.335453100159pt;">delicious</a>
-<a href="http://notecook.com/tag/dessert/" class="tag-link-34435" title="832 topics" rel="tag" style="font-size: 10.893481717011pt;">Dessert</a>
-<a href="http://notecook.com/tag/dinner/" class="tag-link-32823" title="462 topics" rel="tag" style="font-size: 8.8346581875994pt;">dinner</a>
-<a href="http://notecook.com/tag/easy/" class="tag-link-8223" title="1,014 topics" rel="tag" style="font-size: 11.906200317965pt;">easy</a>
-<a href="http://notecook.com/tag/eggs/" class="tag-link-40907" title="361 topics" rel="tag" style="font-size: 8.2726550079491pt;">eggs</a>
-<a href="http://notecook.com/tag/fast/" class="tag-link-4195" title="370 topics" rel="tag" style="font-size: 8.3227344992051pt;">fast</a>
-<a href="http://notecook.com/tag/flour/" class="tag-link-42595" title="1,369 topics" rel="tag" style="font-size: 13.881558028617pt;">flour</a>
-<a href="http://notecook.com/tag/food/" class="tag-link-1377" title="1,922 topics" rel="tag" style="font-size: 16.9586645469pt;">food</a>
-<a href="http://notecook.com/tag/fruit/" class="tag-link-27561" title="330 topics" rel="tag" style="font-size: 8.1001589825119pt;">fruit</a>
-<a href="http://notecook.com/tag/garlic/" class="tag-link-34451" title="1,256 topics" rel="tag" style="font-size: 13.252782193959pt;">garlic</a>
-<a href="http://notecook.com/tag/healthy/" class="tag-link-32665" title="502 topics" rel="tag" style="font-size: 9.0572337042925pt;">healthy</a>
-<a href="http://notecook.com/tag/home/" class="tag-link-10777" title="1,009 topics" rel="tag" style="font-size: 11.878378378378pt;">home</a>
-<a href="http://notecook.com/tag/meat/" class="tag-link-33515" title="343 topics" rel="tag" style="font-size: 8.1724960254372pt;">Meat</a>
-<a href="http://notecook.com/tag/milk/" class="tag-link-24437" title="399 topics" rel="tag" style="font-size: 8.4841017488076pt;">milk</a>
-<a href="http://notecook.com/tag/olive-oil/" class="tag-link-41073" title="1,133 topics" rel="tag" style="font-size: 12.568362480127pt;">olive oil</a>
-<a href="http://notecook.com/tag/onion/" class="tag-link-41721" title="1,029 topics" rel="tag" style="font-size: 11.989666136725pt;">onion</a>
-<a href="http://notecook.com/tag/pasta/" class="tag-link-40745" title="408 topics" rel="tag" style="font-size: 8.5341812400636pt;">Pasta</a>
-<a href="http://notecook.com/tag/potato/" class="tag-link-40875" title="427 topics" rel="tag" style="font-size: 8.6399046104928pt;">potato</a>
-<a href="http://notecook.com/tag/quick/" class="tag-link-10179" title="378 topics" rel="tag" style="font-size: 8.3672496025437pt;">quick</a>
-<a href="http://notecook.com/tag/recipe/" class="tag-link-26293" title="2,828 topics" rel="tag" style="font-size: 22pt;">recipe</a>
-<a href="http://notecook.com/tag/recipes/" class="tag-link-23523" title="1,626 topics" rel="tag" style="font-size: 15.31160572337pt;">recipes</a>
-<a href="http://notecook.com/tag/rice/" class="tag-link-40981" title="442 topics" rel="tag" style="font-size: 8.7233704292528pt;">Rice</a>
-<a href="http://notecook.com/tag/salad/" class="tag-link-32661" title="808 topics" rel="tag" style="font-size: 10.759936406995pt;">salad</a>
-<a href="http://notecook.com/tag/salt/" class="tag-link-40865" title="528 topics" rel="tag" style="font-size: 9.2019077901431pt;">salt</a>
-<a href="http://notecook.com/tag/snacks/" class="tag-link-40747" title="328 topics" rel="tag" style="font-size: 8.0890302066773pt;">Snacks</a>
-<a href="http://notecook.com/tag/soup/" class="tag-link-40739" title="656 topics" rel="tag" style="font-size: 9.9141494435612pt;">Soup</a>
-<a href="http://notecook.com/tag/sugar/" class="tag-link-26299" title="1,453 topics" rel="tag" style="font-size: 14.348966613672pt;">sugar</a>
-<a href="http://notecook.com/tag/tablespoon/" class="tag-link-46117" title="367 topics" rel="tag" style="font-size: 8.3060413354531pt;">tablespoon</a>
-<a href="http://notecook.com/tag/teaspoon/" class="tag-link-42181" title="365 topics" rel="tag" style="font-size: 8.2949125596184pt;">teaspoon</a>
-<a href="http://notecook.com/tag/tomato/" class="tag-link-40843" title="490 topics" rel="tag" style="font-size: 8.9904610492846pt;">Tomato</a>
-<a href="http://notecook.com/tag/vegetarian/" class="tag-link-40743" title="312 topics" rel="tag" style="font-size: 8pt;">Vegetarian</a></div>
+<div class="clear"></div>
 
 <div class="google-search" style="margin-top: 20px;">
 	<div id="cse" style="width: 100%;">Loading</div>
@@ -420,13 +506,40 @@ function showTriondSignupForm()
 	</script>
 </div>
 
+<div class="adright" id="ad300">
+	
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1513");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1513&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=67314513010&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=1eb6ae&amp;cb=d92d86dd994d5e746e35628843c0b711' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1513&amp;cb=d92d86dd994d5e746e35628843c0b711&amp;n=1eb6ae' border='0' alt='' /></a></noscript></div>
+
+
 <div>
 	
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -470,7 +583,7 @@ Copyright 2011 Stanza Ltd. All Rights Reserved.
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=420&amp;rnd=2950058048"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=420&amp;rnd=2384965060"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t9._setAccount', 'UA-1488967-9']);_gaq.push(['t9._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -499,45 +612,60 @@ var _sf_async_config={uid:6902};
 </script>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1373");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1373&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=93471318256&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=65610f&amp;cb=e419c136ed7c28d2b86821b03aba9fd0' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1373&amp;cb=e419c136ed7c28d2b86821b03aba9fd0&amp;n=65610f' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1373");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1373&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=40139692479&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8e33e2&amp;cb=2eb9dd34f53728880691793609a064c0' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1373&amp;cb=2eb9dd34f53728880691793609a064c0&amp;n=8e33e2' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1074");
+					   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1074&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=nontriond&amp;cb=79322969140&amp;loc=https%3A//web.archive.org/web/20111231213237id_/http%253A//notecook.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=24e581&amp;cb=5e8f4b0720333f06a3cb7446a49f5cd6' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1074&amp;cb=5e8f4b0720333f06a3cb7446a49f5cd6&amp;n=24e581' border='0' alt='' /></a></noscript>	</div>
+<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1074");
-   document.write ("&clr_link=444444&clr_title=A4AC09&clr_bg=F7F4E7&clr_border=EDE8D7&clr_text=676357&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1074&amp;clr_link=444444&amp;clr_title=A4AC09&amp;clr_bg=F7F4E7&amp;clr_border=EDE8D7&amp;clr_text=676357&amp;source=acf=&amp;cb=45035664058&amp;loc=https%3A//web.archive.org/web/20110521071438id_/http%3A//notecook.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=66f8a5&amp;cb=22c8332400a2c13ee13e0db1e7dd3509' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1074&amp;cb=22c8332400a2c13ee13e0db1e7dd3509&amp;n=66f8a5' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=012&amp;c=285381&amp;ctg=food&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=bgXMt4tuqr35nOadbiUzgI&amp;s=131"></script>
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
