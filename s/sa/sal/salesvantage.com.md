@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415050307id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213204id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
-**The SalesVantage.com Privacy Policy**  
+**The SalesVantage.com Privacy Policy**
+
 SalesVantage.com privacy policy represents our commitment to your privacy. This policy discloses what information we gather and how we use it. SalesVantage.com will never sell or rent any personally-identifiable information obtained from a user to a third party. The URL covered under this privacy policy is [www.salesvantage.com](http://www.salesvantage.com/)
 
 Information Gathered
@@ -32,8 +33,8 @@ Contact Information
 If you would like to update or delete any of your contact information, please send an e-mail to support@salesvantage.com. If you have any questions about our privacy practices you may contact the Publisher at jmcmahon@salesvantage.com. Or you may write to the address below. If SalesVantage.com makes any changes to its privacy policy, those changes will be noted on the SalesVantage.com home page and you will have the opportunity to opt-out or otherwise prevent that use. 
 
 SalesVantage.com Inc.  
-1 Orient Way, Suite F-128  
-Rutherford, NJ 07070  
+8432 Broadway Rd  
+Wolcott, NY 14590  
 Tel: 201.935.3641   
 Fax: 315.410.5405 
 
@@ -42,3 +43,24 @@ Policy effective date: July 15, 2003; updated September 18, 2006; updated Februa
 * * *
 
 Copyright © 2000 - 2008 SalesVantage.com, Inc. All rights reserved. 
+
+#### Sales & Marketing Articles 4U
+
+Advertising & PR   
+[Advertising](https://web.archive.org/article/list.php?c=2), [Public Relations](https://web.archive.org/article/list.php?c=3)
+
+Business Marketing   
+[Brand Marketing](https://web.archive.org/article/list.php?c=4), [Direct Marketing](https://web.archive.org/article/list.php?c=5), [Event Marketing](https://web.archive.org/article/list.php?c=6), [Incentive Marketing](https://web.archive.org/article/list.php?c=26), [Marketing Concepts](https://web.archive.org/article/list.php?c=8), [Marketing Communications](https://web.archive.org/article/list.php?c=7)
+
+Internet & Web   
+[Ecommerce](https://web.archive.org/article/list.php?c=9), [Email Marketing](https://web.archive.org/article/list.php?c=10), [Internet Marketing](https://web.archive.org/article/list.php?c=11), [Web Development](https://web.archive.org/article/list.php?c=12)
+
+Management & Strategy   
+[Business Etiquette](https://web.archive.org/article/list.php?c=13), [Executive Coaching](https://web.archive.org/article/list.php?c=14), [Forecasting & Budgeting](https://web.archive.org/article/list.php?c=15), [Management Insights](https://web.archive.org/article/list.php?c=16), [Presentation Skills](https://web.archive.org/article/list.php?c=17)
+
+Sales & Customer Service   
+[Distributor Sales](https://web.archive.org/article/list.php?c=19), [Negotiating](https://web.archive.org/article/list.php?c=20), [Sales Coaching](https://web.archive.org/article/list.php?c=21), [Sales Strategy](https://web.archive.org/article/list.php?c=22), [Selling Tactics](https://web.archive.org/article/list.php?c=23), [Telemarketing](https://web.archive.org/article/list.php?c=24), [Time Management](https://web.archive.org/article/list.php?c=25)
+
+#### Featured Advertisers
+
+[ ](http://www.salesvantage.com/advertising-with-salesvantage.php)
