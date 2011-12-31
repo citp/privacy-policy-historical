@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123230929id_/http%3A//jasperforge.org/displaypage.php%3Fact%3D4%26content%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095214id_/http%3A//jasperforge.org/content/privacy) for the most accurate reproduction.*
 
-# JasperForge
-
-| 
+# Privacy Policy : JasperForge
 
 **Privacy Policy**
 
@@ -72,21 +70,10 @@ We revise our Web Site Privacy Policy to keep it up to date with Jaspersoft prod
 If you have any questions about this privacy statement, the practices of our software or Websites, contact:
 
   Jaspersoft  
-Email: info@jaspersoft.com  
+Email: [info@jasperforge.org](mailto:info@jasperforge.org)  
 303 Second Street  
 Suite 450 North  
 San Francisco, CA 94107
 
   
 
-
-|   | 
-
-FEATURED BLOG
-
-Yesterday, Jaspersoft announced JasperReports Server Professional Edition, our first commercial offering built precisely for those who require sophisticated reports, designed and developed professionally...  
-
-
-[](http://jasperforge.org/plugins/project/external_links.php?loc=front&band=OTc= "JasperReports Pro!")  
-  
----|---|---
