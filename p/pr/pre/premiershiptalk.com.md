@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiershiptalk.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228172139id_/http%3A//www.premiershiptalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiptalk.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205642id_/http%3A//www.premiershiptalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Premiership Talk | Premier League news and views
 
