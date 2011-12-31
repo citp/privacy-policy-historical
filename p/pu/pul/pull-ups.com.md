@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616014139id_/http%3A//www.pull-ups.com/na/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pull-ups.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224338id_/http%3A//www.pull-ups.com/na/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pull-Ups® Training Pants
 
-  * [Pull-Ups](https://web.archive.org/web/20110616014139id_/http%3A//www.pull-ups.com/na/)®
+  * [Pull-Ups](https://web.archive.org/web/20111231224338id_/http%3A//www.pull-ups.com/na/)®
   * Privacy Policy
 
 
@@ -15,9 +15,9 @@ At our sites, we collect personally identifiable information and aggregated info
 
 ## How Information is Collected
 
-Information is collected from you directly and with your knowledge. There are some features of our site that require you to sign up to use. And if you do sign up, we use the information you supply for the purpose of providing the products, product information or services you request. And, we add your name and address to our mailing list. If you do not wish to receive our mailings, please notify us by writing to: Kimberly-Clark, PO Box 520, Carlisle, IA 50047-0520 or by [Contacting Us](https://web.archive.org/web/20110616014139id_/http%3A//www.pull-ups.com/na/contact_us.aspx).
+Information is collected from you directly and with your knowledge. There are some features of our site that require you to sign up to use. And if you do sign up, we use the information you supply for the purpose of providing the products, product information or services you request. And, we add your name and address to our mailing list. If you do not wish to receive our mailings, please notify us by writing to: Kimberly-Clark, PO Box 520, Carlisle, IA 50047-0520 or by [Contacting Us](https://web.archive.org/web/20111231224338id_/http%3A//www.pull-ups.com/na/contact_us.aspx).
 
-We occasionally share name and street address information from our mailing list with carefully selected companies (“partners”) whose offers may be of interest to you. However, consumer or customer telephone numbers, email addresses or credit card information are never shared. You may instruct us not to use your information at any time by [Contacting Us](https://web.archive.org/web/20110616014139id_/http%3A//www.pull-ups.com/na/contact_us.aspx) or by calling: 1-800-665-9773, or sending postal mail to: Kimberly-Clark, PO Box 520, Carlisle, IA 50047-0520. Our partners are prohibited from using personal information for other purposes, and they are required to maintain the information in confidence.
+We occasionally share name and street address information from our mailing list with carefully selected companies (“partners”) whose offers may be of interest to you. However, consumer or customer telephone numbers, email addresses or credit card information are never shared. You may instruct us not to use your information at any time by [Contacting Us](https://web.archive.org/web/20111231224338id_/http%3A//www.pull-ups.com/na/contact_us.aspx) or by calling: 1-800-665-9773, or sending postal mail to: Kimberly-Clark, PO Box 520, Carlisle, IA 50047-0520. Our partners are prohibited from using personal information for other purposes, and they are required to maintain the information in confidence.
 
 Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
 
@@ -39,7 +39,7 @@ We use pixels, or transparent GIF files, to help manage online advertising. Thes
 
 ## Contact Us
 
-If you have any questions about our Privacy Policy, you can contact us via [Contact Us](https://web.archive.org/web/20110616014139id_/http%3A//www.pull-ups.com/na/contact_us.aspx) or phone us at 1-800-665-9773. For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [Contact Us](https://web.archive.org/web/20111231224338id_/http%3A//www.pull-ups.com/na/contact_us.aspx) or phone us at 1-800-665-9773. For postal mail, please write to us at:
 
 Kimberly-Clark Corporation  
 P.O. Box 2020  
