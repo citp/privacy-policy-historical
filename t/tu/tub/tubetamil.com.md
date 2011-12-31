@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204125115id_/http%3A//www.tubetamil.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetamil.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231024105id_/http%3A//www.tubetamil.com/privacy.php) for the most accurate reproduction.*
 
-# TubeTamil
+# TubeTamil | Tamil Videos Online
 
 The TubeTamil Privacy Policy describes how TubeTamil and its subsidiaries treat personal information when you use TubeTamil services, including information provided when you use TubeTamil. In addition, the following describes privacy practices specific to TubeTamil. To understand how we treat the information you give us as you use TubeTamil, you should read this policy and theTubeTamil Privacy Policy.
 
