@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407010736id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wajas.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154032id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Wajas | Wolf Breeding Sim | Online Pet Site | Dog Breeding Game
 
