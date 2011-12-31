@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605064234id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204052id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -15,7 +15,7 @@ Please read this Privacy Statement to learn more about:
 
 
 
-This Privacy Statement applies to LINKME’s handling of personal information about users and potential users of LINKME’s services, including users of the website under the domain name ‘linkme.com.au’ (‘LINKME Website’). If users have questions or concerns regarding this statement, you should contact LINKME using the contact details set out in the ‘Questions and Comments’ section below. References to LINKME, we, us and our in this Privacy Statement refer to LinkMe Pty Limited (ABN 95 111 132 953).
+This Privacy Statement applies to LINKME's handling of personal information about users and potential users of LINKME's services, including users of the website under the domain name 'linkme.com.au' ('LINKME Website'). If users have questions or concerns regarding this statement, you should contact LINKME using the contact details set out in the 'Questions and Comments' section below. References to LINKME, we, us and our in this Privacy Statement refer to LinkMe Pty Limited (ABN 95 111 132 953).
 
 ### Information collection
 
@@ -33,7 +33,7 @@ In order to invite others to connect with you directly via the LINKME Website, y
 
 _Cookies & log files_
 
-The LINKME Website uses cookies to track sessions. Cookies are small text files that we transfer to your computer’s hard drive through your web browser to enable our systems to recognise your browser provide a more seamless browsing experience. Cookies may also be used to record non-personal information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not linked to particular individuals. The default settings of browsers like Netscape and Internet Explorer always allow cookies, but users can easily erase cookies from their hard-drive, block all cookies, or receive a warning before a cookie is stored. Please note that some parts of the LINKME Website may not function fully for users that disallow cookies. 
+The LINKME Website uses cookies to track sessions. Cookies are small text files that we transfer to your computer's hard drive through your web browser to enable our systems to recognise your browser provide a more seamless browsing experience. Cookies may also be used to record non-personal information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not linked to particular individuals. The default settings of browsers like Netscape and Internet Explorer always allow cookies, but users can easily erase cookies from their hard-drive, block all cookies, or receive a warning before a cookie is stored. Please note that some parts of the LINKME Website may not function fully for users that disallow cookies. 
 
 ### Information use
 
@@ -69,7 +69,7 @@ Other sharing and use
 
 LINKME may also use and share information:
 
-  * with LINKME’s related bodies corporate;
+  * with LINKME's related bodies corporate;
   * with LINKME's suppliers on condition that they only use it for the purpose of providing services (such as information technology, legal or accounting services) to LINKME;
   * in connection with an acquisition or potential acquisition of an interest in LINKME;
   * to the extent that we are required or authorised by law to do so; and
@@ -97,6 +97,6 @@ LINKME may update this privacy statement at anytime. In the event there are sign
 
 ### Questions or comments
 
-If you have questions or comments about privacy, please [contact us](https://web.archive.org/ui/unregistered/common/ContactUsForm.aspx). 
+If you have questions or comments about privacy, please [contact us](https://web.archive.org/contactus). 
 
 LinkMe Privacy Statement, Version 3.0. Last Updated: 13th November 2006
