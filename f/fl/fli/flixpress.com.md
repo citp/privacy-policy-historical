@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502055323id_/http%3A//www.flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231091752id_/http%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Website video creation - create high-end video and animation online in your website browser - USA & Canada > PrivacyStatement
+# Website video creation - create high-end video and animation online in your website browser > PrivacyStatement
 
 FlixPress is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the FlixPress Web site and governs data collection and usage. By using the FlixPress website, you consent to the data practices described in this statement.
 
