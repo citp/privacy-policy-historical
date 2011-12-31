@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015221id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowlinventory.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065550id_/http%3A//www.fishbowlinventory.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Fishbowl Inventory
 
@@ -26,7 +26,7 @@ is information that is associated with your name or personal identity. Fishbowl 
 
 
 
-is data about usage and service operation that is not associated with a specific personal identity. Fishbowl Inventory collects and analyzes non-personal information to evaluate how visitors use the Fishbowl Inventory website. Non-personal data we collect may include the pages visited on the Fishbowl Inventory website, unique URLs([1](https://web.archive.org/company/legal/privacy.#f1)) visited within [www.fishbowlinventory.com](http://www.fishbowlinventory.com/ "www.fishbowlinventory.com"), browser type and IP([2](https://web.archive.org/company/legal/privacy.#f2)) address. Most non-personal data is collected via analysis technologies. Fishbowl Inventory Web pages use technologies for data analysis and personalization services.
+is data about usage and service operation that is not associated with a specific personal identity. Fishbowl Inventory collects and analyzes non-personal information to evaluate how visitors use the Fishbowl Inventory website. Non-personal data we collect may include the pages visited on the Fishbowl Inventory website, unique URLs([1](https://web.archive.org/company/legal/privacy#f1)) visited within [www.fishbowlinventory.com](http://www.fishbowlinventory.com/ "www.fishbowlinventory.com"), browser type and IP([2](https://web.archive.org/company/legal/privacy#f2)) address. Most non-personal data is collected via analysis technologies. Fishbowl Inventory Web pages use technologies for data analysis and personalization services.
 
 **3\. Children's privacy**
 
