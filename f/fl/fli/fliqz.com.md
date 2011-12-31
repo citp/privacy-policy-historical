@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fliqz.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031000837id_/http%3A//www.fliqz.com/aspx/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliqz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210153id_/http%3A//www.fliqz.com/aspx/privacy.aspx) for the most accurate reproduction.*
 
 # Fliqz: Privacy Policy
 
 Fliqz Media Corporation, Inc. ("Fliqz") values the privacy of our users, members, and others who use www.fliqz.com and any other web sites or services owned or operated by Fliqz Media Corporation (the "Fliqz Sites") (collectively or individually, "Users").
 
-This Privacy Notice is incorporated into and is subject to the Fliqz Media Corporation [Terms of Use](https://web.archive.org/web/20101031000837id_/http%3A//www.fliqz.com/aspx/terms.aspx). Your use of the Fliqz Sites and any personal information you provide on the Fliqz Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20101031000837id_/http%3A//www.fliqz.com/aspx/terms.aspx).
+This Privacy Notice is incorporated into and is subject to the Fliqz Media Corporation [Terms of Use](https://web.archive.org/web/20111231210153id_/http%3A//www.fliqz.com/aspx/terms.aspx). Your use of the Fliqz Sites and any personal information you provide on the Fliqz Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20111231210153id_/http%3A//www.fliqz.com/aspx/terms.aspx).
 
 Please note that any video, image, blog entry, or other content posted at the direction of Users onto the Fliqz Sites becomes publicly-available content, is not considered personally identifiable information subject to this Privacy Notice, and may be collected and used by others.
 
@@ -55,7 +55,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 ### _Special Note to International Users:_
 
-The Fliqz Sites are hosted in the United States and are only intended for and directed to Users in the United States. If you are a User accessing the Fliqz Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Fliqz Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20101031000837id_/http%3A//www.fliqz.com/aspx/terms.aspx), you are transferring your personal information to the United States and you consent to that transfer.
+The Fliqz Sites are hosted in the United States and are only intended for and directed to Users in the United States. If you are a User accessing the Fliqz Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Fliqz Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20111231210153id_/http%3A//www.fliqz.com/aspx/terms.aspx), you are transferring your personal information to the United States and you consent to that transfer.
 
 ### _In the Event of Merger or Sale:_
 
