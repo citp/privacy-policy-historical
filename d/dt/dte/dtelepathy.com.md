@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530083232id_/http%3A//www.dtelepathy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015221id_/http%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following statement explains our policy regarding the personal information we collect about you. 
+The following statement explains our policy regarding the personal information we collect about you.
 
 From time to time, you will be asked to submit personal information about yourself (eg., your name and email address etc..) in order to receive or use services on our website.
 
