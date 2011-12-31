@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603090757id_/http%3A//www.greencupboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencupboards.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015241id_/http%3A//www.greencupboards.com/privacy-policy) for the most accurate reproduction.*
 
-# GreenCupboards - Private Policy
+# GreenCupboards - Private Policy - Eco-Friendly Products
 
 questions? (800) 326-1325 [contact us](http://www.greencupboards.com/contact-us) | [help](http://www.greencupboards.com/customer-service)
 
-0 items 
+  *   * 
+
+
+[Go to Cart](http://www.greencupboards.com/checkout/cart/)
 
 you are $75.00 from FREE shipping 
 
