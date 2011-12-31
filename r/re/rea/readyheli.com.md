@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readyheli.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324072743id_/http%3A//www.readyheli.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyheli.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213004id_/http%3A//www.readyheli.com/privacy-policy.html) for the most accurate reproduction.*
 
-# ReadyHeli.com - Fast Shipping, Excellent Service, Huge Inventory...See For Yourself!
-
-[](https://web.archive.org/new-products-s/69.htm "See our new products")
+# RC Helicopter Privacy Policy | ReadyHeli.com
 
 **
 
@@ -20,7 +18,7 @@ What information do we collect?
   
 How do we use your information?
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -71,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20100324072743id_/http%3A//www.readyheli.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111231213004id_/http%3A//www.readyheli.com/terms-conditions.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
