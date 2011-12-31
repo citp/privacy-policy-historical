@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217005632id_/http%3A//www.instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantxchange.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213142id_/http%3A//instantxchange.com/privacy_policy.php) for the most accurate reproduction.*
 
-# InstantXchange | Privacy Policy information.
+# InstantXchange | Free unique traffic exchange service to increase your website traffic.
 
 **Privacy Policy**
 
@@ -18,4 +18,4 @@ Please read before joining or making any purchase.
 
 **Support:** In order to assist you, we may ask you to provide your Username, Year of Birth, Email Address and/or any other information associated with your account. If we don't have the right information or if it does NOT match with your account we may deny assistance.
 
-You may receive emails from time to time regarding your membership, updates or new features available on our website.
+You may receive emails from time to time regarding your membership, updates, promotions or new features available on our website.
