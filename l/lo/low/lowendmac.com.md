@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619064202id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211139id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
+[](https://web.archive.org/)
+
 ## Low End Mac's Privacy Policy
+
+#### Low End Mac Reader Specials
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2) **[TypeStyler 11](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2)** is now in the Mac App Store!! -- Special Holiday Price of $59.95!! -- To Buy From The Mac App Store [Click Here Now!!](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2)
+
+[](http://www.macpokeronline.com/) Don't install Parallels to play poker online! [Poker Mac](http://www.imaconlinepoker.com/ "Poker Mac") will show you how to download and install a native Mac poker and [Mac Casino](http://www.pokeronamac.com/casinos/mac/ "Mac Casino") applications in minutes.
+
+Ready for **OS X 10.7 Lion**? Get your copy from [the Mac App Store](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/625/clickHTML?ajkey=D3F80455CF3A96D6AE81E44300005347000053480000247A00001B6AFFFFFF91FFFFFF91FFFFFFFFE17C6984) for just $29.99.
+
+[**OWC:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/800/clickHTML?ajkey=6C2ADC64CF3A96D6AE81E44300002FA0000053C60000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF0E8F08E9) Genuine Apple MagSafe power adapters, refurbished or repaired. Replace a damaged adapter or pick up a spare! As low as $19.99 | [macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/800/clickHTML?ajkey=6C2ADC64CF3A96D6AE81E44300002FA0000053C60000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF0E8F08E9)
 
 International privacy standards require businesses to:
 
@@ -25,16 +37,15 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 [Dan Knight](https://web.archive.org/email/dan-knight.htm) , publisher, Low End Mac
 
-Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©1997-2011 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/index.html), unless otherwise noted. All rights reserved. Advice presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
+[Low End Mac](https://web.archive.org/) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Entire Low End Mac website copyright ©1997-2011 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Apple, the Apple logo, Macintosh, iPad iPhone, iMac, iPod, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
+  Advice is presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
-  Access our RSS news feed at [http://lowendmac.com/feed.xml](https://web.archive.org/feed.xml).  
-  Email may be published at our discretion; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. If you prefer your message not be published, mark it "not for publication." Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
-  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)  
-  [Low End Mac](https://web.archive.org/index.shtml) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Apple, the Apple logo, Macintosh, iBook, iMac, eMac, iPod, iPhone, PowerBook, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged. 
+  Email may be published at our discretion unless marked "not for publication"; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
+  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html) � 
 
 | 
-* Mac of the Day: [Macintosh 512K 'Fat Mac'](https://web.archive.org/compact/macintosh-512k-fat-mac.html), 1984.09.10: The first Mac with enough memory for serious work.
-* List of the Day: [Vintage Macs](http://lowendmac.com/lists/vintagemacs.shtml) is for all 680x0-based Macs, from the 128K through Quadras.  
+* Mac of the Day: [iBook G3/466 MHz (FireWire)](https://web.archive.org/pb2/firewire-ibook-g3-466-mhz.html), introduced 2000.09.13. The first Mac to use the PowerPC 750cx includes FireWire and DVD-ROM.
+* List of the Day: [Mac UK](http://lowendmac.com/lists/mac-uk.shtml) is for Mac users in the United Kingdom.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
@@ -75,12 +86,12 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) website copyright ©19
 
 #### Affiliates
 
-[ The Apple Store](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=77305.10005307&type=3&subid=0)  
-[ iTunes Store](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=78941.10000007&type=3&subid=0)  
-[MacMall](http://www.kqzyfj.com/click-272632-53427)  
-[iResQ](http://www.myaffiliateprogram.com/u/macresq/b.asp?id=1046)  
+[ The Apple Store](http://bit.ly/pD4WPm)  
+[The iTunes Store](http://bit.ly/q7hAtI)  
+[MacMall](http://www.jdoqocy.com/click-272632-54376)  
+[iResQ](http://www.iresq.com/idevaffiliate/idevaffiliate.php?id=153)  
 [ ExperCom](http://www.expercom.com/browse_by_category.html?CATEGORY_ID=264&AD=LOEM)  
-[eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=1&pub=5574719130&toolid=10001&campid=5336443318&customid=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)  
+[eBay](http://bit.ly/mTVDLO)  
 [ Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/lowendmac00-20)  
 [PayPal](https://secure.paypal.com/refer/pal=webmaster%40lowendmac.com)  
 [PCMall](http://www.tkqlhce.com/click-272632-54502)  
