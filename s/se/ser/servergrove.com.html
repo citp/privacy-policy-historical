@@ -1,424 +1,479 @@
-<!--The following is the downloaded HTML source of the servergrove.com privacy policy that was archived on 2010-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101027145937id_/http%3A//servergrove.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the servergrove.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215601id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="title" content="ServerGrove Privacy Policy">
-<meta name="robots" content="INDEX, FOLLOW">
-<meta name="description" content="Web Hosting,Virtual Private Servers, Dedicated Servers with ServerGrove Networks.">
-<meta name="keywords" content="Web Hosting,Virtual Private Servers, Dedicated Servers with ServerGrove Networks.">
-<meta name="language" content="en">
-    <title>ServerGrove Privacy Policy</title>
-    <link rel="shortcut icon" href="/favicon.ico">
-    <script type="text/javascript">
-      function govpsPricing() {
-        window.location.href='/vps/pricing';
-      }
-
-      function gosharedPricing() {
-        window.location.href='/sharedhosting/pricing';
-      }
-    </script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="http://yui.yahooapis.com/2.7.0/build/reset/reset-min.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/unified-min.css">
-<!--[if IE]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css" /><![endif]-->
-  </head>
-  <body id="privacy">
-    <div id="utilityNav">
-      <a href="javascript:void(0);" id="show_cp">Control Panel</a> • <a href="javascript:void(0);" id="show_ca">Client Area</a> • <a href="javascript:void(0);" id="show_webmail">Webmail</a>
-      <script language="javascript">
-
-var ajaxcall = function() {
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 
 
-$('#login_result').html('');
-$('#login_btn').attr('disabled','disabled');
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="author" content="ServerGrove Netowrks Inc.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-$.post("/login/getdomain", { username: document.loginform.login_name.value, passwd: document.loginform.passwd.value },
-  function(data){
+        <title>ServerGrove Privacy</title>
 
-      $('#login_btn').removeAttr('disabled');
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-      if ( data.error )
-          {
-              $('#login_result').html(data.error);
-          }
-
-          if ( data.ok )
-          {
-              document.loginform.submit();
-          }
-
-
-  }, "json");
-
-}
-
-var wm_ajaxcall = function() {
-
-
-$('#wm_login_result').html('');
-$('#wm_login_btn').attr('disabled','disabled');
-
-$.post("/webmail/getdomain", { email: document.webmailform.email.value, passwd: document.webmailform.passwd.value },
-  function(data){
-
-      $('#wm_login_btn').removeAttr('disabled');
-
-      if ( data.error )
-          {
-              $('#wm_login_result').html(data.error);
-          }
-
-          if ( data.ok )
-          {
-              document.webmailform.submit();
-          }
-
-
-  }, "json");
-
-}
-
-
-</script>
-<div id="login_toppanel">
-    <div id="login_panel">
-      <div id="login_panel_contents"> </div>
-      
-      <!--
-      <div id="login_panel_cu">
-          <h5 class="login">Contact Us</h5>
-          <div id="login">
-            <form action="/login/ok" method="post" name="loginform">
-                <p><label class="login">Username:<br />
-              <input type="text" size="15" name="login_name" id="username" onkeypress="return handleKeyPress(event, focusPass)" /></label>
-              <br />
-             <label class="login"> Password:<br />
-              <input type="password" size="15" name="passwd" id="passwd" onkeypress="return handleKeyPress(event, ajaxcall)" /></label>
-              <br />
-             <label class="login"> <input type="button" accesskey="l" id="login_btn" name="login" value="Login" onclick="ajaxcall()" /></label>
-            </p>
-            </form>
-          </div>
-          <div id="login_result" class="login_result"></div>
-        </div>
-        -->
+            <link href="/css/ee5de06.css?v2" rel="stylesheet" media="screen">
+                        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/libs/modernizr-1.7.min.js?v2"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    </head>
+    <body>
         
-      <div id="login_panel_cp">
-          <h5 class="login">Control Panel Login</h5>
-          <div id="login">
-            <form action="/login/ok" method="post" name="loginform">
-                <p><label class="login">Username:<br>
-              <input type="text" size="15" name="login_name" id="username" onkeypress="return handleKeyPress(event, focusPass)"></label>
-              <br>
-             <label class="login"> Password:<br>
-              <input type="password" size="15" name="passwd" id="passwd" onkeypress="return handleKeyPress(event, ajaxcall)"></label>
-              <br>
-             <label class="login"> <input type="button" accesskey="l" id="login_btn" name="login" value="Login" onclick="ajaxcall()"></label>
-            </p>
-            </form>
-          </div>
-          <div id="login_result" class="login_result"></div>
-        </div>
-      <div id="login_panel_ca">
-          <h5 class="login">Client Area Login</h5>
-          <div id="login">
-            <form method="post" action="https://secure.servergrove.com/clients/dologin.php?goto=clientarea">
-            <p><label class="login">Email Address:<br>
-              <input type="text" size="15" name="username" id="ca_username"></label>
-              <br>
-             <label class="login"> Password:<br>
-              <input type="password" size="15" name="password" id="ca_password"></label>
-              <br>
-              <input type="submit" accesskey="l" id="ca_login_btn" name="login" value="Login">
-            </p>
-            </form>
-          </div>         
-        </div>
-      <div id="login_panel_webmail">
-          <h5 class="login">Webmail Login</h5>
-          <form name="webmailform" action="/webmail/ok" method="POST">
-          <div id="login">
-            <p><label class="login">Email Address:<br>
-              <input type="text" size="15" name="email" id="wm_email" onkeypress="return handleKeyPress(event, wm_focusPass)"></label>
-              <br>
-             <label class="login"> Password:<br>
-              <input type="password" size="15" name="passwd" id="wm_passwd" onkeypress="return handleKeyPress(event, wm_ajaxcall)"></label>
-              <br>
-              <input type="button" accesskey="l" id="wm_login_btn" name="login" value="Login" onclick="wm_ajaxcall()">
-            </p>
-          </div>
-          </form>
-        </div>
-        <div id="wm_login_result" class="login_result"></div>
-    </div>
-    <div class="panel_button" id="hide_button" style="display: none;">Hide</div>
-  </div>      </div>
+        <!-- Login Panel -->
 
-    <div id="wrapper">
-      <div id="header">
+<div id="loginpanel">
+    <div id="panel">
+        <ul>
+            <li>
+                 <form id="login-client-area" method="post" action="https://secure.servergrove.com/clients/dologin.php?goto=clientarea.php">
+                    <h3>Client Area Login</h3>
+                    <label for="clientarealogin_username">Username</label>
 
-        <div id="logo" onclick="location.href = '/'">
-        </div>
-        <div id="nav">
-          <ul class="topnav">
-            <li class="link1" style="-moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px;"><a href="/sharedhosting" title="Shared Hosting tuned for hosting symfony and zend framework applications">Shared Hosting</a></li>
-            <li class="link1"><a href="/vps" title="VPS preconfigured with symfony and zend framework ">Virtual Servers</a></li>
-             <li class="link1 topNavCommunity"><a href="/infrastructure" title="Dataceter and Connectivity">Infrastructure</a></li>
-            <li class="link1 topNavCommunity"><a href="/community" title="Get help, find out whats going on">Community</a></li>
-            <li class="link1 topNavBlog"><a href="http://blog.servergrove.com" title="Get help, find out whats going on">Blog</a></li>
-            <li class="link2 topNavContact"><a href="/contact" title="Get in touch with us">Contact</a></li>
-            
-          </ul>
-        </div>
-      </div>
-      <div id="content" class="clear">
-        <h1 class="sectionhead">Privacy Policy</h1>
-<br><br>
+                    <br>
+                    <input type="email" id="clientarealogin_username" name="username" required="required" class="input_login" placeholder="name@example.com" value="">
+                    <br><br>
+                    <label for="clientarealogin_passwd">Password</label>
 
-<p align="left">ServerGrove Networks, Inc.</p>
-<p><br>
-</p>
-<p>Version Date:October 6th 2010</p>
-<p><br>
-</p>
-<p><b>GENERAL</b></p>
-<p><br>
-</p>
-<p>ServerGrove Networks, Inc. (“ServerGrove”) respects the privacy of its customers  using our services described in the Terms of Service Agreement or users just visiting our website located at <u><a href="http://www.ServerGrove.com/">www.ServerGrove.com</a></u> (the “Website”) (collectively, the “ServerGrove Services”). The following ServerGrove privacy policy (“Privacy Policy”) is designed to inform you, as a user of the ServerGrove Services, about the types of information that ServerGrove may gather about or collect from you in connection with your use of the ServerGrove Services. It also is intended to explain the conditions under which ServerGrove uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the ServerGrove Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the ServerGrove Services or visit the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the ServerGrove Services or visited the Website. </p><br>
-<p>Our Website is hosted in the United States of America and is subject to U.S. state and federal law. Our office is located in the State of Florida. If you are accessing our Website or servers from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website and our servers, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website, the ServerGrove Services and your agreements with us. Any persons accessing our Website or using the ServerGrove Services from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the ServerGrove Services in a manner lawful in their jurisdiction. If your use of the ServerGrove Services is  unlawful in your jurisdiction, please do not use the ServerGrove Services.</p><br><p>
-ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>
-</p><br>
-<p>By using or accessing the Website and/or using the ServerGrove Services, you are accepting the practices described in this Privacy Policy.</p>
-<br><p><b>CHILDREN</b></p>
-<p><br>
-</p>
-<p>The Website is not intended for children under 13 years of age. ServerGrove does not knowingly collect personal information from children under 13.</p>
-<p><br>
-</p>
-<p><b>GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION</b></p>
-<p><br>
-</p>
-<p><em><b>Users of the Website Generally</b></em></p>
-<p><br>
-</p>
-<p>“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, ServerGrove gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. ServerGrove analyzes Non-Personally-Identifying Information gathered from users of the Website to help ServerGrove better understand how the Website is being used. By identifying patterns and trends in usage, ServerGrove is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, ServerGrove may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.</p>
-<p><br>
-</p>
-<p>We may also periodically obtain both Personally-Identifying Information and Non-Personally-Identifying Information about you from other ServerGrove-affiliated businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated address information, purchase history, and additional demographic information.</p>
-<p><br>
-</p>
-<p><br>
-</p>
-<p><em><b>Web Cookies</b></em></p>
-<p><br>
-</p>
-<p>A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. ServerGrove uses Web Cookies to track the pages that users visit during each Website session, both to help ServerGrove improve users’ experiences and to help ServerGrove understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, ServerGrove analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help ServerGrove, its partners and others better understand how the Website is being used. ServerGrove does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. </p>
-<p><br>
-</p>
-<p>We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the <a href="http://networkadvertising.org/">Network Advertising Initiative</a>, you can <a href="http://networkadvertising.org/managing/opt_out.asp">opt out</a> of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a>. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.</p>
-<p><br>
-</p>
-<p><em><b>Web Beacons</b></em></p>
-<p><br>
-</p>
-<p>A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. ServerGrove may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique ServerGrove may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. </p>
-<p><br>
-</p>
-<p><b><em>Aggregated and Non-Personally-Identifying Information</em></b></p>
-<p><br>
-</p>
-<p>We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. </p>
-<p><br>
-</p>
-<p><b>COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION </b></p>
-<p><br>
-</p>
-<p><em><b>Website Registration</b></em></p>
-<p><br>
-</p>
-<p>As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. ServerGrove collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by ServerGrove about users is information provided by users themselves at the time they sign up to order ServerGrove Services. That information may include each user’s name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, and other demographic information such as your hometown, your gender or your username, and other relevant information as determined by ServerGrove from time to time. Users of the Website are under no obligation to provide ServerGrove with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.</p>
-<p><br>
-</p>
-<p>BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.</p>
-<p><br>
-</p>
-<p><em><b>Online Forums and Public Postings</b></em></p>
-<p><br>
-</p>
-<p>Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Website where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our&nbsp;Terms of Service Agreement. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.</p>
-<p><br>
-</p>
-<p><em><b>ServerGrove Communications</b></em></p>
-<p><br>
-</p>
-<p>We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails by following opt out instructions contained in such emails, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
-<p><br>
-</p>
-<p><em><b>DMCA Infringement Notifications, Notices of Violations of Website Terms of Use and Other Communications Directed to ServerGrove</b></em></p>
-<p><br>
-</p>
-<p>By submitting a copyright infringement notification under the Digital Millennium Copyright Act (DMCA) (explained further in our <a href="/dmca">Infringement Policy</a>) or other communication (including communications about content stored on or transmitted through the Website or our servers) you consent to have such communication forwarded to the person or entity who stored, transmitted or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of our Terms of Service Agreement or other communications (but not DMCA copyright infringement notifications), upon request ServerGrove will edit out your name and contact information. However, DMCA copyright infringement notifications (including any personally identifiable information set forth in the notifications) will be forwarded as submitted to ServerGrove without any deletions.</p>
-<p><br>
-</p>
-<p><br>
-</p>
-<p><em><b>ServerGrove Disclosures</b></em></p>
-<p><br>
-</p>
-<p>ServerGrove will disclose Personally-Identifying Information under the following circumstances: </p>
-<ul>
-  <li>
-    <p> <b>By 	Law or to Protect Rights</b>. 	When 	we believe disclosure is appropriate in connection with efforts to 	investigate, prevent, or take other action regarding illegal 	activity, suspected fraud or other wrongdoing; to protect and defend 	the rights, property or safety of ServerGrove, our users, our 	employees, or others; to comply with applicable law or cooperate 	with law enforcement; or to enforce our Terms of Service Agreement 	or other agreements or policies, in response to a subpoena or 	similar investigative demand, a court order, or a request for 	cooperation from a law enforcement or other government agency; to 	establish or exercise our legal rights; to defend against legal 	claims; or as otherwise required by law. In such cases, we may raise 	or waive any legal objection or right available to us.</p>
-  </li>
-  <li>
-    <p><b>Business 	Partners:</b><b>&nbsp;</b>When 	you make purchases or engage in promotions offered through our 	Website or our services, we may share Personally-Identifying 	Information with 	the businesses with which we partner to offer you those products, 	services, promotions, contests and/or sweepstakes. When you elect to 	engage in a particular merchant's offer or program, you authorize us 	to provide your email address and other information to that 	merchant. </p>
-  </li>
-  <li>
-    <p><b>Marketing 	Communications</b>. 	ServerGrove may email users about products and services that 	ServerGrove believes may be of interest to them. Users may opt out 	of receiving these emails by following the opt out instructions 	included in the emails.</p>
-  </li>
-</ul>
-<p> <br>
-</p>
-<ul>
-  <li>
-    <p><b>Third 	Party Service Providers</b><span lang="en" xml:lang="en">.</span>&nbsp;We 	may share your Personally-Identifying Information, which may include 	your name and contact information (including email address) with our 	authorized service providers that perform certain services on our 	behalf. These services may include fulfilling orders, providing 	customer service and marketing assistance, performing business and 	sales analysis, supporting our website functionality, and supporting 	contests, sweepstakes, surveys and other features offered through 	our website. We may also share your name, contact information and 	credit card information with our authorized service providers who 	process credit card payments. These service providers may have 	access to personal information needed to perform their functions but 	are not permitted to share or use such information for any other 	purpose.</p>
-  </li>
-</ul>
-<p><br>
-</p>
-<ul>
-  <li>
-    <p><b>Business 	Transfers; Bankruptcy</b>. 	ServerGrove reserves the right to transfer all 	Personally-Identifying Information in its possession to a successor 	organization in the event of a merger, acquisition, or bankruptcy or 	other sale of all or a portion of ServerGrove’s assets. Other than 	to the extent ordered by a bankruptcy or other court, the use and 	disclosure of all transferred Personally-Identifying Information 	will be subject to this Privacy Policy, or to a new privacy policy 	if you are given notice of that new privacy policy and are given an 	opportunity to affirmatively opt-out of it. Personally-Identifying 	Information submitted or collected after a transfer, however, may be 	subject to a new privacy policy adopted by the successor 	organization. </p>
-  </li>
-</ul>
-<p><br>
-</p>
-<p><em><b>Changing Personally-Identifying Information; Account Termination </b></em></p>
-<p>You may at any time change your Personally-Identifying Information by logging into the Client Area and updating the information by clicking on the Update Your Details link. You can also review and update your personal information by contacting us at the email address provided below in the Contact section of this Privacy Policy. Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, e-mail us at privacy@ServerGrove.com. We will retain in our files some personal information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Service Agreement and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your personal information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.</p>
-<p><em><b>General Use</b></em></p>
-<p><br>
-</p>
-<p>We use the Personally-Identifiable Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: deliver the products and services that you have requested, manage your account and provide you with customer support, communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties, develop and display content and advertising tailored to your interests on our Website and other sites, resolve disputes, troubleshoot problems, measure consumer interest in our services, reward you for the ads you watch, inform you of updates, customize your experience, detect and protect us against error, fraud and other criminal activity, enforce our Terms of Service Agreement, and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifiable Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifiable Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on our Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.</p>
-<p><br>
-</p>
-<p><b>CONTESTS, GIVEAWAYS AND SURVEYS. </b></p>
-<p><br>
-</p>
-<p>From time to time, ServerGrove may offer Website users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy. From time to time, ServerGrove may also ask Website users to participate in surveys designed to help ServerGrove improve the Website and the ServerGrove Services. Any Personally-Identifying Information provided to ServerGrove in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.</p>
-<p><br>
-</p>
-<p><em><b>EMAIL TO FRIENDS FEATURE AND REFERRAL PROGRAM</b></em></p>
-<p><br>
-</p>
-<p>ServerGrove may offer users the ability to send friends emails about the Website and the ServerGrove Services. If users choose to use this feature, be assured that ServerGrove only uses friends’ email addresses on a one-time basis to send the requested email.</p>
-<p><br>
-</p>
-<p><b>COLLECTION AND USE OF INFORMATION BY THIRD PARTIES </b><b>GENERALLY</b></p>
-<p><br>
-</p>
-<p>ServerGrove contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from ServerGrove, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. ServerGrove neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users’ discretion, protect their privacy.</p>
-<p><br>
-</p>
-<p><b>SECURITY</b></p>
-<p><br>
-</p>
-<p>We take security of your Personally-Identifying Information seriously and use reasonable electronic, personnel, and physical measures to protect it from loss, theft, alteration, or misuse.&nbsp; However, please be advised that even the best security measures cannot fully eliminate all risks.</p>
-<p><br>
-</p>
-<p><b>PRIVACY POLICY CHANGES</b></p>
-<p><br>
-</p>
-<p>ServerGrove may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to ServerGrove’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless ServerGrove obtains your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect, and not to information collected under any earlier Privacy Policies. Users should regularly check this page for any changes to its Privacy Policy. ServerGrove will always post new versions of the Privacy Policy on the Website. However, ServerGrove may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.</p>
-<p> <b>CALIFORNIA PRIVACY RIGHTS</b></p>
-<p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.</p>
-<p><br>
-</p>
-<p><b>CONTACT</b></p>
-<p><br>
-</p>
-<p>If you have any questions regarding our Privacy Policy, please contact our privacy officer at:</p>
-<p><br>
-</p>
-<p>Privacy Officer</p>
-<p>ServerGrove Networks, Inc.</p>
-<p>4005 Loquat Ave. <br>
-  Miami, FL 33133</p>
-<p>Email: privacy@ServerGrove.com</p>
-<p>Phone: 800 511 1855</p>
-<p><br>
-</p>
-        <!--bottom navigation-->
-        <ul class="bottomnav">
-          <li style="width: 250px;">
-            <br>
-            <div class="livechat">
-<!--live support-->
-<script type="text/javascript" src="/sglivechat/f.php/status.js"></script><a href="https://web.archive.org/web/20100102053456/https://secure.servergrove.com/clients/submitticket.php"><img src="/sglivechat/images/livechat_off.png" alt="Live Chat Offline" border="0"></a>
-</div>
-<!--
-            <img src="/images/layout/livechat.png" width="243" height="29" alt="Livechat" />
--->
-<br><br>
-            <form action="https://secure.servergrove.com/clients/knowledgebase.php?action=search" method="POST">
-              <table><tbody><tr><td style="padding:0px;">
-                    <input name="search" value="Search Support" onclick="this.value= '';" size="28" type="text" class="bottomSearch"></td><td style="padding:0px;">
-                    <input name="" type="image" src="/images/layout/search_butt.png" value="Search" class="bottomSearchButton"></td></tr></tbody></table>
-            </form><br>
-            <!-- start RatePoint Site Seal - Please, do not change -->
-            <script type="text/javascript" src="http://siteseal.ratepoint.com/member/js/rpfixPNG.js"></script><a target="_blank" href="http://www.ratepoint.com/profile/10089"><img src="http://siteseal.ratepoint.com/member/seal/10089/9.png" width="116" align="middle" height="82" border="0" alt="RatePoint Site Seal" onload="rpfixPNG(this)"></a>
-            <!-- end RatePoint Site Seal - Please, do not change -->
-          <a href="http://www.treesftf.org/partnerships/cooling.htm" target="_blank"><img src="/images/tree_partner.png" width="80" height="82" alt="Trees for the Future Global Cooling Partner" align="absmiddle" hspace="10"></a> </li>
-          <li style="width: 190px;">
-
-            <b class="footerhead">Support</b><br>
-            <a href="/community">Get support</a><br>
-            <a href="http://secure.servergrove.com/clients/knowledgebase.php">Knowledge Base</a><br>
-            <a href="/contact">Open a Ticket</a><br>
-            <a href="https://secure.servergrove.com/clients/clientarea.php">Billing and Invoices</a><br><br><br>
-            
-          </li>
-          <li>
-			<b class="footerhead">About us</b><br>
-            <a href="/about">Who we are</a><br>
-            <a href="/contact">Contact Us</a><br><br>
-            
-            <b class="footerhead">Community</b><br>
-            <a href="http://blog.servergrove.com">Blog</a><br>
-            <a href="http://www.twitter.com/servergrove">You should really follow us on <u>Twitter</u>!</a><br>
-            <a href="/media">Badges and logo downloads</a><br>
-            <a href="/community#sponsor">Projects we support</a><br><br>
-            
-          </li>
-          <li style="width: 189px;">
-
-            <b class="footerhead">Hosting</b><br>
-            <a href="/sharedhosting">Shared Hosting</a><br>
-            <a href="/vps">Virtual Hosting</a><br>
-            <a href="/symfonyhosting">Symfony Hosting</a><br>
-            <a href="/zendframework">Zend Framework Hosting</a><br>
-            <a href="/dedicated">Managed Dedicated Servers</a><br>
-            <br>
-            <b class="footerhead">Domain names</b><br>
-            <a href="/domain">Buy a domain name</a><br>
+                    <br>
+                    <input type="password" id="clientarealogin_passwd" name="password" required="required" class="input_login" value="">
+                    <br><br>
+                    <input type="submit" value="Login">
+                </form>
             </li>
-      </ul> <div class="clear"></div>
+
+            <li>     
+                <form id="login-webmail" method="post" action="https://webmail.servergrove.com/?_task=mail">
+                    <h3>Webmail Login</h3>
+                    <label for="webmaillogin_username">Username</label>
+
+                    <br>
+                    <input type="email" id="webmaillogin_username" name="_user" required="required" class="input_login" placeholder="name@example.com" value="">
+                    <br><br>
+                    <label for="webmaillogin_passwd">Password</label>
+
+                    <br>
+                    <input type="password" id="webmaillogin_passwd" name="_pass" required="required" class="input_login" value="">
+                    <br><br>
+                    <input type="submit" value="Login">
+                    <input type="hidden" name="_action" value="login">
+                    <input type="hidden" name="sgcontrol" value="1">
+                </form>
+            </li>
+            <li>
+                <form id="login-cpanel" method="post" class="ajaxLogin" action="/login/cpanel">
+                    <h3>Control Panel Login</h3>
+                    <label for="Cpanel_username" class=" required">Username</label>
+                    
+                    <br>
+                    <input type="email" id="Cpanel_username" name="Cpanel[username]" required="required" class="input_login" placeholder="name@example.com">
+                    <br><br>
+                    <label for="Cpanel_passwd" class=" required">Password</label>
+                    
+                    <br>
+                    <input type="password" id="Cpanel_passwd" name="Cpanel[passwd]" required="required" class="input_login">
+                    <br><br>
+                    <input type="hidden" id="Cpanel__token" name="Cpanel[_token]" value="781dd705932e8073371cee9a143f6a7aa375ddd9">
+                    <input type="button" value="Login">
+                </form>
+
+            </li>
+        </ul>
+
+    </div> <!-- /login -->	
+</div> 
+
+<script type="text/javascript">
+    jQuery.fn.extend({
+        enable: function() {
+            return this.each(function(){
+                jQuery(this).removeAttr("disabled");
+            });
+        },
+        disable: function() {
+            return this.each(function(){
+                jQuery(this).attr("disabled", "disabled");
+            });
+        }
+    });
+    jQuery(document).ready(function(){
+
+        $('#cpanellogin_passwd').keypress(function(e){
+            var c = e.which ? e.which : e.keyCode;
+          if(c == 13){
+            e.preventDefault();
+            $('#login-cpanel :button').click();
+            return false;
+           }
+        });
+
+        jQuery("#login-cpanel :button").click(function(){
+            jQuery(this).disable();
+            var form = jQuery(this).parent("form");
+            var button = this;
+
+            jQuery.ajax({
+                type: form.attr("method"),
+                url: "/login/get-domain",
+                data: form.serialize(),
+                dataType: "json",
+                success: function(json){
+                    if (typeof(json.ok) != "undefined") {
+                        form.submit();
+                    } else if (typeof(json.error) != "undefined") {
+                        jQuery(button).enable();
+                        alert(json.error);
+                        return false;
+                    }
+                },
+                error:function(response){
+                    jQuery(button).enable();
+                    alert("An unexpected error occurred, please try again.");
+                    return false;
+                    //alert(response.responseText);
+                }
+            });
+        });
+    });
+</script>
+
+<!-- /Login Panel -->        <div id="head">
+    <div id="headContainer" class="container">
+
+        <ul id="utilnav">
+            <li id="toggle">
+           
+              <a class="open" href="#login-client-area">&nbsp; Client Area &nbsp;</a>
+                <a class="open" href="#login-webmail">&nbsp; Webmail &nbsp;</a>
+                <a class="open" href="#login-cpanel">&nbsp; Control Panel</a>
+                <a href="#es" class="open">  &nbsp; <img src="/images/es.png" width="14" height="11" alt="Versión en Español" title="Versión en Español"></a>                <a id="close" style="display: none;" class="close" href="#">Close login &nbsp;</a>
+                 
+          </li>
+        </ul>
+        <ul id="topnav">
+           <li><a href="/vps">Hosting Products</a> <img src="/images/down.png" width="7" height="4" class="downarrow">
+				<ul>
+           			<li><a href="/sharedhosting">Shared Hosting</a></li>
+            		<li><a href="/vps">Virtual Private Server</a></li>
+            		<li><a href="http://www.mongodbhosting.com">MongoDB Hosting</a></li>
+					<li><a href="https://secure.servergrove.com/clients/cart.php?gid=23">SSL Certificates</a></li>
+					<li><a href="https://secure.servergrove.com/clients/cart.php?a=add&amp;domain=register">Domain Names</a></li>
+				</ul>
+			</li>
+            <li><a href="http://blog.servergrove.com">Blog</a></li>
+            <li>
+                <a href="#">About</a> <img src="/images/down.png" width="7" height="4" class="downarrow">
+                <ul>
+					<li>
+                        <a href="/about">Company</a>
+                    </li>
+                    <li>
+                        <a href="/infrastructure">Infrastructure</a>
+                    </li>
+                    <li>
+                        <a href="/community">Community</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="/contact">Support</a>
+            </li>
+        </ul>
+		<div id="homeclick"></div>
     </div>
-    <div class="legal">
-      <div style="float: right"><a href="/tos">service licence agreement</a> &amp; <a href="/privacy">privacy policy</a></div> © ServerGrove Networks
-    </div>
-    <br><br><br><br>
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-    </script>
-    <script type="text/javascript">
-      _uacct = "UA-237654-3";
-      urchinTracker();
-    </script>
-     <script src="/js/unified-min.js" type="text/javascript"></script>
-     <script src="/sglivechat/tracker_jq.js" type="text/javascript"></script>
-     <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/7923.js"> </script>  
+</div>
+        
+<div id="container" class="container"><br><br>
+ <h1 class="plan">Terms of service</h1> 
+<br><br>
 
 
-</div></body></html>
+<p align="left">ServerGrove Networks, Inc.</p> 
+<p><br> 
+</p> 
+<p>Version Date: June 3rd 2011</p> 
+<p><br> 
+</p> 
+<p><b>GENERAL</b></p> 
+<p><br> 
+</p> 
+<p>ServerGrove Networks, Inc. ("ServerGrove") respects the privacy of its customers  using our services described in the Terms of Service Agreement or users just visiting our website located at <u><a href="http://www.ServerGrove.com/">www.ServerGrove.com</a></u> (the "Website") (collectively, the "ServerGrove Services"). The following ServerGrove privacy policy ("Privacy Policy") is designed to inform you, as a user of the ServerGrove Services, about the types of information that ServerGrove may gather about or collect from you in connection with your use of the ServerGrove Services. It also is intended to explain the conditions under which ServerGrove uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the ServerGrove Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the ServerGrove Services or visit the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the ServerGrove Services or visited the Website. </p><br> 
+<p>Our Website is hosted in the United States of America and is subject to U.S. state and federal law. Our office is located in the State of Florida. If you are accessing our Website or servers from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website and our servers, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website, the ServerGrove Services and your agreements with us. Any persons accessing our Website or using the ServerGrove Services from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the ServerGrove Services in a manner lawful in their jurisdiction. If your use of the ServerGrove Services is  unlawful in your jurisdiction, please do not use the ServerGrove Services.</p><br><p> 
+ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company's certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a> 
+</p><br> 
+<p>By using or accessing the Website and/or using the ServerGrove Services, you are accepting the practices described in this Privacy Policy.</p> 
+<br><p><b>CHILDREN</b></p> 
+<p><br> 
+</p> 
+<p>The Website is not intended for children under 13 years of age. ServerGrove does not knowingly collect personal information from children under 13.</p> 
+<p><br> 
+</p> 
+<p><b>GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION</b></p> 
+<p><br> 
+</p> 
+<p><em><b>Users of the Website Generally</b></em></p> 
+<p><br> 
+</p> 
+<p>"Non-Personally-Identifying Information" is information that, without the aid of additional information, cannot be directly associated with a specific person. "Personally-Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, ServerGrove gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user's Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. ServerGrove analyzes Non-Personally-Identifying Information gathered from users of the Website to help ServerGrove better understand how the Website is being used. By identifying patterns and trends in usage, ServerGrove is able to better design the Website to improve users' experiences, both in terms of content and ease of use. From time to time, ServerGrove may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.</p> 
+<p><br> 
+</p> 
+<p>We may also periodically obtain both Personally-Identifying Information and Non-Personally-Identifying Information about you from other ServerGrove-affiliated businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated address information, purchase history, and additional demographic information.</p> 
+<p><br> 
+</p> 
+<p><br> 
+</p> 
+<p><em><b>Web Cookies</b></em></p> 
+<p><br> 
+</p> 
+<p>A "Web Cookie" is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the site. ServerGrove uses Web Cookies to track the pages that users visit during each Website session, both to help ServerGrove improve users' experiences and to help ServerGrove understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, ServerGrove analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help ServerGrove, its partners and others better understand how the Website is being used. ServerGrove does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. </p> 
+<p><br> 
+</p> 
+<p>We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the <a href="http://networkadvertising.org/">Network Advertising Initiative</a>, you can <a href="http://networkadvertising.org/managing/opt_out.asp">opt out</a> of several third party ad servers' and networks' Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: <a href="http://networkadvertising.org/managing/opt_out.asp">http://networkadvertising.org/managing/opt_out.asp</a>. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.</p> 
+<p><br> 
+</p> 
+<p><em><b>Web Beacons</b></em></p> 
+<p><br> 
+</p> 
+<p>A "Web Beacon" is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. ServerGrove may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users' Personally-Identifying Information; they are a technique ServerGrove may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. </p> 
+<p><br> 
+</p> 
+<p><b><em>Aggregated and Non-Personally-Identifying Information</em></b></p> 
+<p><br> 
+</p> 
+<p>We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on our Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. </p> 
+<p><br> 
+</p> 
+<p><b>COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION </b></p> 
+<p><br> 
+</p> 
+<p><em><b>Website Registration</b></em></p> 
+<p><br> 
+</p> 
+<p>As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. ServerGrove collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by ServerGrove about users is information provided by users themselves at the time they sign up to order ServerGrove Services. That information may include each user's name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, and other demographic information such as your hometown, your gender or your username, and other relevant information as determined by ServerGrove from time to time. Users of the Website are under no obligation to provide ServerGrove with Personally-Identifying Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Website features.</p> 
+<p><br> 
+</p> 
+<p>BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS "COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION" SECTION.</p> 
+<p><br> 
+</p> 
+<p><em><b>Online Forums and Public Postings</b></em></p> 
+<p><br> 
+</p> 
+<p>Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users' use of the Website. We provide areas on our Website where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our&nbsp;Terms of Service Agreement. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.</p> 
+<p><br> 
+</p> 
+<p><em><b>ServerGrove Communications</b></em></p> 
+<p><br> 
+</p> 
+<p>We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails by following opt out instructions contained in such emails, though we reserve the right to send you notices about your account even if you opt out of all voluntary email notifications.</p> 
+<p><br> 
+</p> 
+<p><em><b>DMCA Infringement Notifications, Notices of Violations of Website Terms of Use and Other Communications Directed to ServerGrove</b></em></p> 
+<p><br> 
+</p> 
+<p>By submitting a copyright infringement notification under the Digital Millennium Copyright Act (DMCA) (explained further in our <a href="/dmca">Infringement Policy</a>) or other communication (including communications about content stored on or transmitted through the Website or our servers) you consent to have such communication forwarded to the person or entity who stored, transmitted or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of our Terms of Service Agreement or other communications (but not DMCA copyright infringement notifications), upon request ServerGrove will edit out your name and contact information. However, DMCA copyright infringement notifications (including any personally identifiable information set forth in the notifications) will be forwarded as submitted to ServerGrove without any deletions.</p> 
+<p><br> 
+</p> 
+<p><br> 
+</p> 
+<p><em><b>ServerGrove Disclosures</b></em></p> 
+<p><br> 
+</p> 
+<p>ServerGrove will disclose Personally-Identifying Information under the following circumstances: </p> 
+<ul> 
+  <li> 
+    <p> <b>By 	Law or to Protect Rights</b>. 	When 	we believe disclosure is appropriate in connection with efforts to 	investigate, prevent, or take other action regarding illegal 	activity, suspected fraud or other wrongdoing; to protect and defend 	the rights, property or safety of ServerGrove, our users, our 	employees, or others; to comply with applicable law or cooperate 	with law enforcement; or to enforce our Terms of Service Agreement 	or other agreements or policies, in response to a subpoena or 	similar investigative demand, a court order, or a request for 	cooperation from a law enforcement or other government agency; to 	establish or exercise our legal rights; to defend against legal 	claims; or as otherwise required by law. In such cases, we may raise 	or waive any legal objection or right available to us.</p> 
+  </li> 
+  <li> 
+    <p><b>Business 	Partners:</b><b>&nbsp;</b>When 	you make purchases or engage in promotions offered through our 	Website or our services, we may share Personally-Identifying 	Information with 	the businesses with which we partner to offer you those products, 	services, promotions, contests and/or sweepstakes. When you elect to 	engage in a particular merchant's offer or program, you authorize us 	to provide your email address and other information to that 	merchant. </p> 
+  </li> 
+  <li> 
+    <p><b>Marketing 	Communications</b>. 	ServerGrove may email users about products and services that 	ServerGrove believes may be of interest to them. Users may opt out 	of receiving these emails by following the opt out instructions 	included in the emails.</p> 
+  </li> 
+</ul> 
+<p> <br> 
+</p> 
+<ul> 
+  <li> 
+    <p><b>Third 	Party Service Providers</b><span lang="en" xml:lang="en">.</span>&nbsp;We 	may share your Personally-Identifying Information, which may include 	your name and contact information (including email address) with our 	authorized service providers that perform certain services on our 	behalf. These services may include fulfilling orders, providing 	customer service and marketing assistance, performing business and 	sales analysis, supporting our website functionality, and supporting 	contests, sweepstakes, surveys and other features offered through 	our website. We may also share your name, contact information and 	credit card information with our authorized service providers who 	process credit card payments. These service providers may have 	access to personal information needed to perform their functions but 	are not permitted to share or use such information for any other 	purpose.</p> 
+  </li> 
+</ul> 
+<p><br> 
+</p> 
+<ul> 
+  <li> 
+    <p><b>Business 	Transfers; Bankruptcy</b>. 	ServerGrove reserves the right to transfer all 	Personally-Identifying Information in its possession to a successor 	organization in the event of a merger, acquisition, or bankruptcy or 	other sale of all or a portion of ServerGrove's assets. Other than 	to the extent ordered by a bankruptcy or other court, the use and 	disclosure of all transferred Personally-Identifying Information 	will be subject to this Privacy Policy, or to a new privacy policy 	if you are given notice of that new privacy policy and are given an 	opportunity to affirmatively opt-out of it. Personally-Identifying 	Information submitted or collected after a transfer, however, may be 	subject to a new privacy policy adopted by the successor 	organization. </p> 
+  </li> 
+</ul> 
+<p><br> 
+</p> 
+<p><em><b>Changing Personally-Identifying Information; Account Termination </b></em></p> 
+<p>You may at any time change your Personally-Identifying Information by logging into the Client Area and updating the information by clicking on the Update Your Details link. You can also review and update your personal information by contacting us at the email address provided below in the Contact section of this Privacy Policy. Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, e-mail us at privacy@ServerGrove.com. We will retain in our files some personal information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Service Agreement and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your personal information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.</p> 
+<p><em><b>General Use</b></em></p> 
+<p><br> 
+</p> 
+<p>We use the Personally-Identifiable Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website to: deliver the products and services that you have requested, manage your account and provide you with customer support, communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties, develop and display content and advertising tailored to your interests on our Website and other sites, resolve disputes, troubleshoot problems, measure consumer interest in our services, reward you for the ads you watch, inform you of updates, customize your experience, detect and protect us against error, fraud and other criminal activity, enforce our Terms of Service Agreement, and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifiable Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifiable Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on our Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.</p> 
+<p><br> 
+</p> 
+<p><b>CONTESTS, GIVEAWAYS AND SURVEYS. </b></p> 
+<p><br> 
+</p> 
+<p>From time to time, ServerGrove may offer Website users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy. From time to time, ServerGrove may also ask Website users to participate in surveys designed to help ServerGrove improve the Website and the ServerGrove Services. Any Personally-Identifying Information provided to ServerGrove in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.</p> 
+<p><br> 
+</p> 
+<p><em><b>EMAIL TO FRIENDS FEATURE AND REFERRAL PROGRAM</b></em></p> 
+<p><br> 
+</p> 
+<p>ServerGrove may offer users the ability to send friends emails about the Website and the ServerGrove Services. If users choose to use this feature, be assured that ServerGrove only uses friends' email addresses on a one-time basis to send the requested email.</p> 
+<p><br> 
+</p> 
+<p><b>COLLECTION AND USE OF INFORMATION BY THIRD PARTIES </b><b>GENERALLY</b></p> 
+<p><br> 
+</p> 
+<p>ServerGrove contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from ServerGrove, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. ServerGrove neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users' discretion, protect their privacy.</p> 
+<p><br> 
+</p> 
+<p><b>SECURITY</b></p> 
+<p><br> 
+</p> 
+<p>We take security of your Personally-Identifying Information seriously and use reasonable electronic, personnel, and physical measures to protect it from loss, theft, alteration, or misuse.&nbsp; However, please be advised that even the best security measures cannot fully eliminate all risks.</p> 
+<p><br> 
+</p> 
+<p><b>PRIVACY POLICY CHANGES</b></p> 
+<p><br> 
+</p> 
+<p>ServerGrove may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to ServerGrove's Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless ServerGrove obtains your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect, and not to information collected under any earlier Privacy Policies. Users should regularly check this page for any changes to its Privacy Policy. ServerGrove will always post new versions of the Privacy Policy on the Website. However, ServerGrove may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.</p> 
+<p> <b>CALIFORNIA PRIVACY RIGHTS</b></p> 
+<p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.</p> 
+<p><br> 
+</p> 
+<p><b>CONTACT</b></p> 
+<p><br> 
+</p> 
+<p>If you have any questions regarding our Privacy Policy, please contact our privacy officer at:</p> 
+<p><br> 
+</p> 
+<p>Privacy Officer</p> 
+<p>ServerGrove Networks, Inc.</p> 
+<p>1390 South Dixie Highway<br>
+ Suite 2218 <br> 
+  Coral Gables, FL 33146</p> 
+<p>Email: privacy@ServerGrove.com</p> 
+<p>Phone: 800 511 1855</p> 
+<p><br> 
+</p> 
+
+
+
+
+
+<br><br><br>
+</div>
+
+        <div id="footer">
+    <footer>
+        <div id="footercontainer" class="container">
+            <ul id="footernav">
+                <li>
+
+                    <b class="footerhead">Hosting</b>
+                    <br>
+                    <a href="/sharedhosting">Shared Hosting</a>
+                    <br>
+                    <a href="/vps">Virtual Private Server</a>
+                    <br>
+                    <a href="http://www.mongohosting.com">MongoDB Hosting</a>
+                    <br>
+
+                    <br>
+                    <b class="footerhead">Domain names</b>
+                    <br>
+                    <a href="https://secure.servergrove.com/clients/cart.php?a=add&amp;domain=register">Register a domain name</a>
+                    <br>
+                    <br>
+                    <b class="footerhead">Security</b>
+                    <br>
+                    <a href="https://secure.servergrove.com/clients/cart.php?gid=23">SSL Certificates</a><br>
+
+                </li>
+                <li>
+                    <b class="footerhead">Support</b>
+                    <br>
+                    <a href="/contact">Get support</a>
+                    <br>
+                    <a href="http://secure.servergrove.com/clients/knowledgebase.php">Knowledge Base</a>
+                    <br>
+                    <a href="/contact">Open a Ticket</a>
+                    <br>
+                    <a href="https://secure.servergrove.com/clients/clientarea.php">Billing and Invoices</a>
+                    <br>
+                    <br>
+                    <b class="footerhead">Legal</b>
+                    <br>
+                    <a href="/tos">SLA</a>
+                    <br>
+                    <a href="/privacy">Privacy Policy</a>
+                </li>
+                <li>
+                    <b class="footerhead">About us</b>
+                    <br>
+                    <a href="/about">Who we are</a>
+                    <br>
+                    <a href="/infrastructure">Infrastructure</a>
+                    <br>
+                    <a href="/contact">Contact us</a>
+                    <br>
+                    <br>
+                    <b class="footerhead">Community</b>
+                    <br>
+                    <a href="http://blog.servergrove.com">Blog</a>
+                    <br>
+                    <a href="http://www.twitter.com/servergrove">Twitter <img src="/images/twitter.png" width="20" height="11" alt="twitter" border="0" align="abstop"></a>
+                    <br>
+                    <a href="/media">Logo Downloads</a>
+                    <br>
+                    <a href="/community">Projects we support</a>
+                    <br>
+                    <br>
+                </li>
+
+                <li>
+                    <!--<script type="text/javascript" src="http://livechatdemo.servergrove.com/js/sglivechat-tracker/status.js"></script>-->
+                    <!--live support-->
+                    <script type="text/javascript" src="https://livechat.servergrove.com/sglivechat/f.php/status.js"></script>
+                    <a href="/contact"><img src="/images/email.png" width="153" height="31" alt="Email support"></a>
+                    <br>
+                    <a href="/safeharbor"><img src="/images/safeharbor.gif" width="130" height="52" alt="Safe Harbor Webhost" class="top18"></a>
+                </li>
+            </ul>
+        </div>
+
+    </footer>
+</div>
+         <script type="text/javascript" src="/js/891fc83.js?v2"></script>
+
+        <!--[if lt IE 7 ]>
+        <script src="js/libs/dd_belatedpng.js"></script>
+        <script> DD_belatedPNG.fix('img, .png_bg');</script>
+        <![endif]-->
+        <script src="https://livechat.servergrove.com/sglivechat/tracker_jq.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        $("#homeclick").click(function(event){
+            window.location = 'http://servergrove.com/';
+        });
+        </script>
+        <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-237654-3']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+                        
+    
+
+</body></html>
