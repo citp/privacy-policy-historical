@@ -1,122 +1,200 @@
-> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529235237id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213232id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Top10.com
+# Privacy Policy on uSwitch.com - switch online with confidence
 
-## Privacy Policy
+This privacy policy forms part of uSwitch.com's terms and conditions. Once you have provided your personal details on this website you will be deemed to have read and accepted this privacy policy.
 
-### Data Protection
+uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide.
 
-Top10.com is owned and managed by Top10.com Media Ltd (“we”). Top10.com Media Ltd is registered with the Information Commissioner’s Office as a data controller in accordance with the Data Protection Act 1998 (“DPA”). Our registration number is: 21549624. 
+The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Floor 2, Centro 3, 19 Mandela Street, London NW1 0DU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information.
 
-### General Policy
+The motor and home insurance comparison service is provided by Inspop.com Limited, registered in England and Wales with registration number 03857130 with the registered address at Friary House, Greyfriars Road, Cardiff CF10 3AE ("Inspop.com").  Inspop.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information.
 
-This policy and any other documents referred to within it form part of our [terms and conditions](https://web.archive.org/company/legal/terms) which together set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This privacy statement sets out the policy in relation to how any personal information collected from you through your use of this site is used.
 
-By entering your details in fields on Top10.com, you enable us and our service providers to provide you with the services you select. Whenever you supply personal information, we will treat that information in accordance with this privacy policy. Our collection and use of data collected from you is further described below, as well as the ways (if any) in which the data may be shared with third parties. 
+##  What personal information do we collect? 
 
-If you have comments, questions or concerns, please [click here](https://web.archive.org/company/contact "Contact us") to contact us, or call: +44 (0) 20 3170 8040, or by post to: Top10.com Media Ltd, 131-151 Great Titchfield Street, London W1W 5BB.
+In order to process a switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. If you abandon your switch, we may email or call you to give you the opportunity to compare again and/or to provide feedback on our switching process.
 
-### Information Collected from You
+You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com "Email help@uswitch.com").
 
-We may collect any or all of the following types of information from you: 
+##  How do we use your personal information? 
 
-  * traffic or clickstream data;
-  * cookies;
-  * information that you provide by filling in forms on Top10.com. This includes information provided at the time of registering to use our website (including contact information), subscribing to any service, in order to use the Top 10 Broadband Speed Test (see below for further details) or posting reviews, comments or materials. We may also ask you for information if you enter a competition or promotion and if you report a problem with our website;
-  * records of correspondence between us if you contact us; and
-  * any other personally identifying information as identified in this privacy policy.
+If you have requested to switch suppliers, we will use your personal information to process that switch. This will include passing your information to the new supplier. uSwitch.com may disclose and use personal information collected about you within its own organisation (including its representatives) for the purpose of internal business administration, analysis and marketing. uSwitch.com may also disclose personal information collected about you to third parties, for the purposes of completing any transaction you are undertaking with us, for providing any goods or services to you or for the purposes of associated administration or obtaining professional advice.
 
+  
+If you enter a contest or another promotion, we will use the data so that we can administer the contest and notify winners.
 
+  
+If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
-### Uses Made of the Information Collected from You
+  
+If during your visit to one of our insurance or energy calculators, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine on to one of our representatives. By indicating that you have read and understood this Privacy Policy, you are agreeing to allow uSwitch to pass on your personal data to the relevant supplier. If necessary the supplier might contact you to discuss your insurance or energy quotes. Without clicking 'Continue' or 'Find Suppliers' you will be unable to complete the car insurance or energy quotation process. Our representatives or suppliers contact individuals by phone who started the car insurance or energy quote process but do not buy a policy or switch, in order to offer them competitive quotes or further assistance. They are only authorised to help you with this particular quote and only within a limited amount of time after you have used our service. They have agreed not to use your details for any other purpose.
 
-We use information held about you in the following ways:
+  
+If while comparing loans with us you provide us with your phone number, name, address and postcode, we may pass these details - and the information you have submitted on the site - on to one of our loans brokers. By entering this information you are agreeing for us to pass your personal data to our loans brokers and for them to contact you by phone or email to discuss your requirements. They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
-  * to ensure that content from our website is presented in the most effective manner for you and for your computer or device;
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
-  * to carry out our obligations arising from any contracts entered into between you and us;
-  * to allow you to participate in interactive features of our website, when you choose to do so; and
-  * to notify you about changes to our website and services. 
+  
+If during your visit to our business energy service, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted into our web form onto one of our representatives. By indicating you have read and understood this Privacy Policy you are agreeing for us to pass your personal data to one of these representatives and for them to contact you by phone or email to discuss your requirements and provide business energy quotations. Without clicking 'continue' you will be unable to complete the business energy web form process. The representatives will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
+  
+If during your visit to the energy calculator you opted in for our marketing and told us the month of your home insurance renewal you will be called by one of our representatives in order to help you with your home insurance enquiry.  
+We monitor traffic patterns and site usage. Under the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
+  
+For these purposes we may send your information internationally, including to countries outside the European Economic Association. Other countries offer differing levels of protection for personal information, not all of which will be as high as the levels of protection offered in the UK.
 
-### Traffic and Clickstream Data
+##  Accessing personal data 
 
-Data about traffic and usage is not personally identifying or identifiable, and is not supplemented or combined with personally identifying or identifiable information. 
+You can contact us to ask whether we are keeping personal data about you, by sending an email to dataprotection@uSwitch.com. Upon request, we will provide you with a readable copy of data which we hold about you. If you ask us to delete, correct or amend that personal data we will do so within a reasonable time.
 
-This website collects some information regarding the use of Top10.com by observing browser functions and the files (pages) users’ access, in order to police fraudulent activities and any other irregularities. Aggregate information will be used in order to continually improve our website and service. 
-
-### Cookies
-
-We may store information about you using cookies (files which are sent by us to your computer or other access device) which we can access when you visit our website in the future. We do this to learn about repeat visitors and to find out if we are delivering quality products and services therefore improving our service further.
-
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
-
-Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
-
-### Data collected from you for the Top 10 Broadband Speed Test
-
-We will collect the following data from you where you take a Top 10 Broadband Speed Test:
-
-  * postcode or location data you manually enter; 
-  * the time and date you visited our website; 
-  * your IP address (which is automatically collected from your browser); 
-  * the type of web browser you are using (automatically detected); 
-  * the hostname and/or broadbrand provider you enter; and 
-  * the rating you give for your broadband provider when you enter your details 
+  
+If you have any queries relating to your personal data please contact us at:  
 
 
+Data Protection Officer  
+uSwitch.com  
+Floor 2, Centro 3  
+19 Mandela Street  
+London  
+NW1 0DU
 
-We use the data collected from you when you take a Top 10 Broadband Speed Test for the following purposes: 
+Alternatively, you can call us on 0800 404 7961.
 
-  * performing a look-up on a third party broadband availability service or ‘postcode checker’ to query your connection details including your phone exchange and the type of broadband connections available in your area;
-  * using your IP and/or postcode details, to geo-code your approximate location using the Google Maps API and to present a pin with the broadband provider you entered and the broadband speed we recorded on your local Google Map; 
-  * presenting the data collected on our broadband StreetStats maps and aggregating results (yours included) on our graphs and using your data (in conjunction with others) to work out average speeds for our users at a local and national level.
+##  Your consent 
 
+By disclosing your personal information to uSwitch.com or the motor and home insurance comparison service , you consent to the collection, storage and processing of your personal information in the manner set out in this Privacy Policy.
 
+##  Use of cookies and third-party advertising technology 
 
-We will store all of the data we collect for the purposes of the Top 10 Broadband Speed Test in a database on our servers.
+**1.**
 
-### Removing yourself from our StreetStats maps and database:
+ **a) Non-personalised uSwitch online banner advertising**
 
-We can remove you from our StreetStats maps and from our database if requested. To make this request, please email us at info@top10.com.
+We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise to serve our ads to you.
 
-#### How to remove yourself from our StreetStats maps immediately after your Top 10 Broadband Speed Test:
+In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our third-party ad server, to help manage and optimise our online advertising. These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising.
 
-After you have completed your Top 10 Broadband Speed Test, immediately click ‘StreetStats’ (top right), then click ‘Remove yourself from this map’ (bottom right). You will then be permanently removed from all our StreetStats maps, however we will still hold the data we collected from you for the purposes of the Top 10 Broadband Speed Test. 
+To learn more about our third-party ad-serving partner, cookies, and how to "opt-out" please [click here](http://webmedia.uswitch.com/optout.html).
 
-#### Removing your data from our Top 10 Broadband Speed Test and database at a later date:
+ **b) Personalised gas & electricity results advertisements**
 
-If you never wish to be displayed on our StreetStats maps or compiled within our aggregated speeds, you can be permanently removed from our database. To remove yourself, please contact us stating your postcode, broadband provider and date of speed test and we will remove you within 3 working days. You can contact us [here](https://web.archive.org/company/contact "Contact us")
+Part of this activity includes personalised retargeting display advertisements, which use information collected from your visit to uSwitch to make them more relevant to you. They also provide you with an easy way to revisit the results you saw during your comparison.
 
-### Visitors under the Age of 16
+We understand privacy is very important to our customers, and want to reassure you that we do not share personally identifiable information with 3rd parties while providing this service.
 
-We do not intentionally collect personally identifiable information online from a child under 16 since our website is not directed at children. Any users under 16 must get approval from a parent/guardian prior to submitting information. Users without consent are not allowed to provide us with information. 
+If you wish to opt-out of receiving these personalised adverts, please [click here](http://www.struq.com/consumer-opt-out/ "This link will open in a new window.").
 
-### Security of Personal Data
+ **c) Further information/questions relating to online advertising?**
 
-We shall take measures to avoid improper use, modification, loss, processing or unauthorised access or theft of your personal data by third parties.
+The IAB (Internet Advertising Bureau) has put together a great resource for information on behavioural advertising: how it works, further information about cookies, and steps you can take to protect your privacy on the internet. To learn more, [click here](http://www.youronlinechoices.com/uk/ "This link will open in a new window.").
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we fully intend to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. 
+You can also contact us directly with queries relating to online advertising by sending an email to [privacy@uswitch.com](mailto:privacy@uswitch.com).
 
-### Disclosure of your Personal Information
+ **2\. How does uSwitch use cookies?**
 
-We will not sell or give your personally identifiable information to others except as provided in this privacy policy.
+uSwitch collects information about your preferences in relation to this site by analysing site traffic, which includes the use of cookies. A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited uSwitch before.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+We use cookies to help us analyse traffic on our site and customer behaviour. Cookies may also be used by our partners to understand marketing and traffic patterns. During the course of any visit to uSwitch, the pages you see, along with a cookie, are downloaded to your computer. Any information that is supplied by cookies can help us to provide you with a better service and assists us in analysing the profile of our visitors.
 
-We may disclose your personal information to third parties:
+Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies.
 
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * if Top10.com Media Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its users or customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property, or safety of Top10.com Media Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity.
 
+ **3\. How to find and control your cookies**
 
+If you're using **Internet Explorer 6.0 or 7.0** :
 
-### Email policy (when any email is submitted via our forms)
+1.      Choose Tools, then
 
-We may keep you updated with our own Top10 offers and related information via email. We will never sell your details to third parties and will not send you 'spam' emails. You will have the option to unsubscribe from our email lists at any time. 
+2.      Internet Options
 
-### Policy Changes
+3.      Click the Privacy tab
 
-Due to the rapidly evolving technologies and capabilities on the internet our privacy policy may change over time. Any changes made to our privacy policy will be notified on our website and data taken before the changes will not be affected without your individual permission. 
+4.      Click on the 'Advanced' button
+
+5.      Check the 'Override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
+
+If you're using **Mozilla Firefox** :
+
+1.      Choose Tools, then
+
+2.      Options...
+
+3.      Privacy
+
+4.      Cookies
+
+5.      Set your options as required
+
+If you're using **Opera 8+** :
+
+1.      Choose Tools, then
+
+2.      Preferences
+
+3.      Advanced
+
+4.      Select Cookies
+
+5.      Select your settings using the available options
+
+If you're using **Safari** :
+
+1.      Choose Safari, then
+
+2.      Preferences
+
+3.      Security
+
+4.      Select options by Accept Cookies as required.
+
+4\. How do you know which of the sites you've visited use cookies?
+
+If you're using **Internet Explorer** :
+
+1.      Choose Tools, then
+
+2.      Internet Options
+
+3.      Click the General tab
+
+4.      Click Settings
+
+5.      View Files.
+
+If you're using **Mozilla Firefox** :
+
+1.      Choose Tools, then
+
+2.      Options...
+
+3.      Privacy
+
+4.      Cookies
+
+5.      Click the Show Cookies button.
+
+If you're using **Opera 8+** :
+
+1.      Choose Tools, then
+
+2.      Advanced
+
+3.      Click Cookies.
+
+If you're using **Safari** :
+
+1.      Choose Safari, then
+
+2.      Preferences
+
+3.      Security
+
+4.      Click Show Cookies button.
+
+5\. How to see your cookie code
+
+Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
+
+Rights are reserved to amend or modify the privacy statement at any time and in response to changes in applicable data protection and privacy legislation.
