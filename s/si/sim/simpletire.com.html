@@ -1,0 +1,410 @@
+<!--The following is the downloaded HTML source of the simpletire.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231165356id_/http%3A//simpletire.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        
+	<title>Buy Tires Online for All Major Brands - Discount Tires - SimpleTire.com</title>
+
+	<meta name="description" content="Simplest way to buy discount tires online at the lowest prices possible.  We stock all brands and types of tires, and can get you any tire you need, whether in stock or not!  See why SimpleTire.com is simply the best place to buy tires online!">
+
+	<meta name="keywords" content="discount tires, discount tires online, buy tires online, cheap tires, cheap tires online, tires, tires online, online tire, online tires, buy discount tires online, michelin tires, bridgestone tires, goodyear tires, continental tires, eldorado tires, mastercraft tires, cooper tires, yokohama tires, firestone tires, hankook tires, atlas tires, kumho tires, dunlop tires, pirelli tires, carlisle tires, venezia tires, falken tires, uniroyal tires, nitto tires, nexen tires, toyo tires, discount tire prices, new tire prices, car tires, truck tires, light truck tires, all season tires, snow tires, high performance tires, performance  tires, atv tires, trailer tires, clearance tires, passenger tires, winter tires, auto tires, automobile tires, tyres">
+
+        
+        <!--[if IE 6]><script type="text/javascript" src="/catalog_js/jq-png-min.js"></script><![endif]-->
+        <!--[if IE 6]><link rel="stylesheet" href="/catalog_css/ie6.css" TYPE="text/css" media="screen" /><![endif]-->
+          
+		     
+        <link rel="stylesheet" href="/catalog_css/style.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="/catalog_js/jqueryui/css/theme/jquery-ui-1.8.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="/catalog_js/qtip/jquery.qtip.css" type="text/css" media="screen">
+        
+                <link rel="stylesheet" href="/catalog_js/validation/css/validationEngine.jquery.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="/catalog_js/validation/css/template.css" type="text/css" media="screen">
+  
+        		<link rel="stylesheet" type="text/css" href="/dynamic_css/3113d2f1e919d4e50e8eff198215293d.css">        
+                
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/catalog_js/jquery-1.6.js"></script><script type="text/javascript" src="/catalog_js/jqueryui/jquery-ui-1.8.js"></script><script type="text/javascript" src="/catalog_js/jquery.tmpl.js"></script> 
+<script type="text/javascript" src="/catalog_js/jquery.cycle.js"></script><script type="text/javascript" src="/catalog_js/jquery.bbq.js"></script><script type="text/javascript" src="/catalog_js/qtip/jquery.qtip.js"></script><script type="text/javascript" src="/catalog_js/validation/jquery.validationEngine-en.js"></script><script type="text/javascript" src="/catalog_js/validation/jquery.validationEngine.js"></script><script type="text/javascript" src="/catalog_js/validation/jquery.maskedInput.js"></script><script type="text/javascript" src="/catalog_js/json.js"></script> 
+
+
+<script type="text/javascript">
+ 
+$j = jQuery;    
+ 
+globalSearch = function() {
+    $j('#quick-search-form').submit();
+}   
+
+$(function() {     
+    
+    $('#global-search-input').live('keyup', function(e){
+        if(e.keyCode == 13) {
+            globalSearch();
+        }
+    });
+
+    $('#global-search-btn').bind('click', function() {
+        globalSearch();
+    });
+
+    // global installer search 
+    $('#location-search-input').bind('focus', function() {
+        $('#location-search-input').val('');
+    });
+     $('#location-search-input').live('keyup', function(e){
+        if(e.keyCode == 13) {
+            $('#location-search-btn').click();
+        }
+    });
+    $('#location-search-btn').bind('click', function() {
+        if ($('#location-search-input').val()!='' && $('#location-search-input').val()!='CITY, STATE OR ZIP') {
+            window.location = '/MyInstallers/map/'+$('#location-search-input').val();
+        }else if ($('#location-search-input').val()=='CITY, STATE OR ZIP') {
+             window.location = '/MyInstallers/map/';
+        }
+    });
+    
+    // transform buttons and whatnot into jquery-ui prettyness
+    $("input[type=submit]").addClass('button');
+    $("input[type=button]").addClass('button');
+    
+    // mask fields for validation purposes
+    $('.mask-phone-number').mask('(999) 999-9999');
+});
+
+
+var CSZ = $j('#CSZ').val();
+if(CSZ){
+    window.location = '/MyInstallers/map/'+CSZ;
+}
+    
+function print_r(arr, showFunctions) {
+	var str = '';
+	for(var i in arr) {
+		if(showFunctions || typeof arr[i] != 'function') {
+			var p = arr[i];
+		} else {
+			var p = '[function]';
+		}
+		str = str + i + " => " + p + "\n";
+	}
+	alert(str);
+}
+
+function ifEmpty(value) {
+    if (value != null)
+        if (value.length > 0)
+            return "block";
+    return "none";
+}
+
+/* needed for the jquery templating system */
+(function ($) {
+	$.fn.template = function (opts) {
+		return this.clone().each(function () {
+			for (var i in opts) {
+				if (typeof opts[i] === 'string') {
+					$(this).find(i).html(opts[i]);
+				} else if (typeof opts[i] === 'object') {
+					for (var x in opts[i]) {
+						if (x === 'val' || x === 'css' || x === 'html' || x === 'text' || x === 'data' || x === 'width' || x === 'height' || x === 'offset') {
+							$(this).find(i)[x](opts[i][x]);
+						} else if (typeof opts[i][x] === 'function') {
+							$(this).find(i).bind(x, opts[i][x]);
+						} else {
+							$(this).find(i).attr(x, opts[i][x]);
+						}
+					}
+				}
+			}
+		});
+	};
+})(jQuery);
+
+function sortSelect(selElem) {
+    var tmpAry = new Array();
+    for (var i=0;i<selElem.options.length;i++) {
+        tmpAry[i] = new Array();
+        tmpAry[i][0] = selElem.options[i].text;
+        tmpAry[i][1] = selElem.options[i].value;
+    }
+    tmpAry.sort();
+    while (selElem.options.length > 0) {
+        selElem.options[0] = null;
+    }
+    for (var i=0;i<tmpAry.length;i++) {
+        var op = new Option(tmpAry[i][0], tmpAry[i][1]);
+        selElem.options[i] = op;
+    }
+    return;
+}
+
+function sortObject(object) {
+	for (i in object) {
+		for (k in object) {
+			if (object[i] < object[k]) {
+				var temp = object[i];
+				object[i] = object[k];
+				object[k] = temp;
+			}
+		}
+	}
+	return object;
+}
+
+function round(num, dec) {
+    var result = String(Math.round(num*Math.pow(10,dec))/Math.pow(10,dec));
+    if(result.indexOf('.')<0) {result+= '.';}
+    while(result.length- result.indexOf('.')<=dec) {result+= '0';}
+    return result;
+}
+</script>
+ 
+	
+        
+
+<script>
+	
+		
+	// ie issues with ajax call and 1.4.2 jquery
+	
+	$j.ajaxSetup({
+		xhr: function() {
+			if ($j.browser.msie) {
+				return new ActiveXObject("Microsoft.XMLHTTP");
+			 } else {
+				return new XMLHttpRequest();
+			 }
+			}
+	});
+</script>
+
+			
+				
+		<script type="text/javascript" src="/shared_js/jquery/plugins/cookie/jquery.cookie.min.js"></script>	
+<script type="text/javascript" src="/shared_js/jquery/plugins/serializeobject/jquery.ba-serializeobject.min.js"></script>
+
+
+
+
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-19365632-1']);
+	  
+	  _gaq.push(['_setAllowLinker', true]);
+	  
+	  	  
+	  		//_gaq.push(['_setDomainName', '.simpletire.com']);
+		_gaq.push(['_setDomainName', '.simpletire.com']);
+	    _gaq.push(['_setAllowHash', false]);
+	  	  
+	  	  
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+		
+    </head>
+    <body>
+        <div class="container">
+            <div id="main" class="span-24">               
+                <div id="header" class="span-24">
+                    <a href="/"><img src="/img/logo.jpg" class="logo" alt="Simple Tire"></a>
+                    <div class="right append-1">
+                        
+<div class="login">
+    <ul>
+                    <li><a href="/my_customers/login">Login</a></li>
+                <li class="last"><span class="arrow"><a href="/my_cart/view">My Cart</a></span></li>
+        <li class="last"><a href="/my_cart/view"><img src="/img/icon.jpg"></a></li>
+    </ul>
+    <span class="total">0 items - Subtotal $0.00</span> 
+    	
+	<!---- Social Sharing Buttons ---->
+	<div class="socContainer">
+			
+		<!-- G+ -->
+			<div class="socBoxG">
+			<!-- Place this render call where appropriate -->
+			<script type="text/javascript">
+			  (function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+				po.src = 'https://apis.google.com/js/plusone.js';;
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+			
+			<!-- Place this tag where you want the +1 button to render -->
+			<g:plusone size="medium"></g:plusone>
+			</div>
+		<!-- end G+ -->
+		
+		<!-- Facebook -->
+		<div class="socBoxFB">
+			<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			
+			<div class="fb-like" data-href="http://simpletire.com" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false"></div>
+		</div>
+		<!-- end Facebook -->
+		
+	</div>	
+	<!---- end Social Sharing Buttons ---->
+	
+</div>
+
+                        <h3></h3>
+                    </div>
+                </div>
+                <div id="menu" class="span-24">
+                    
+<ul>
+<h1 class="top-phone">888-410-0604</h1>
+    <li><a href="/tires">SHOP TIRES</a></li>
+    <li><a href="/tire-installation">FIND INSTALLER</a></li>
+    <li><a href="/tire-deals">TIRE DEALS</a></li>
+    <li><a href="/contact">CONTACT</a></li>
+    <li><a href="/about">ABOUT</a></li>
+</ul>
+                   
+                    
+<!--
+<div id="form_container">
+    <form name="QuickSearchForm" id="quick-search-form" method="post" action="/catalog/tires"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /></fieldset>    
+        <input type="image" src="/img/search_img.jpg" alt="" class="btn" id="global-search-btn" />
+        <span class="input_bg">
+            <input type="text" id="global-search-input" name="data[MyProduct][quick_search]" value=""/>
+        </span>     
+    </form></div>
+-->                </div>
+                <div id="body_container" class="span-24 left-content-padding">
+                                        
+
+<div class="content-module-container"><div class="pad15">
+	<h1>
+		Privacy Policy</h1>
+	<p>
+		SimpleTire is serious about protecting our customers’ personal information. You can always browse our site without providing any personal information.<br>
+		<br>
+		While doing business with you, we may have to gather certain information, such as your name, home address, vehicle and email address. We will not sell, rent, trade or give away individual, personally identifiable information entered on this site to any third party. We collect such information so that we can process orders, personalize your shopping experience, or send you the latest product and other useful material. If you do not wish to receive further material from us, you can simply respond to our email or otherwise tell us that you do not want to receive future communications.</p>
+	<h3>
+		Online Orders</h3>
+	<p>
+		SimpleTire also collects credit card information from you to process purchases from the site. Reputable third-party financial institutions handle our credit card transactions. Payment authentication processes are live on our site. These programs allow users to set up password authentication for their credit cards. Once they have established a password, they can authenticate themselves using this password at any participating site. The communication regarding Verified by VISA and MasterCard SecureCode passwords is done between the cardholders and their issuing banks utilizing a secure web server. SimpleTire is not involved in any of the communication regarding these passwords.<br>
+		<br>
+		Whenever you transmit credit card information and other personal information through our site, the numbers and letters are scrambled using encryption technology, making it nearly impossible for the information to be stolen or intercepted. To protect your security, we do not allow you to store your credit card number from session to session.<br>
+		<br>
+		In addition, SimpleTire's website is SSL Secured. Secured sites must employ encrypted data transmission and a secure online payment infrastructure. The SSL Secured seal indicates that SimpleTire has chosen the very best SSL and/or payment processing solution to help protect credit card and other confidential information and ensures that all online transactions are protected. The SSL Secured seal also validates a website owner's identity and via their official records confirms SimpleTire as a valid business.</p>
+	<h3>
+		Cookies</h3>
+	<p>
+		SimpleTire, like most Web sites, uses a feature of your browser to set a "cookie" on your computer. We cannot tell your name or any personal information about you based solely on the cookie. Unless you specifically tell us your name and other identifying information, we will never know who you are. All the cookie tells us is what functions you perform when you are on the site so that we can keep track of your transaction. A cookie also helps SimpleTire note particular traffic patterns on the site so that we can improve what we offer.<br>
+		<br>
+		Every browser allows you to reject cookies or to choose which cookies you will accept. Rejecting cookies, however, may sometimes interfere with your ability to use all the features and benefits of our site.</p>
+	<h3>
+		Third Parties</h3>
+	<p>
+		On occasion, we provide non-personal, aggregate information about our users to third parties such as manufacturers and business partners. For example, we may inform a tire manufacturer about what other products our users buy. This information will not identify any user personally.<br>
+		<br>
+		You may voluntarily elect to be eligible for the benefits of the Tire Road Hazard Program that SimpleTire makes available to you for your consideration. It will require certain personal information, such as your name, address, phone number, email address, vehicle description, tire description, and Tire Road Hazard Program identification numbers, to administer the Tire Road Hazard Program for you. We will not use this personal information except to administer the Tire Road Hazard Program.</p>
+	<h3>
+		Outside Links</h3>
+	<p>
+		SimpleTire may offer links to other sites. Any time you click on a link and are transported to another site, you should be aware that the other site may have a different privacy policy than SimpleTire. We cannot control the policies of other sites.</p>
+	<h3>
+		Changes</h3>
+	<p>
+		This privacy policy is subject to change at the sole discretion of SimpleTire. When we modify it, we will post the changes in a revised policy statement.</p>
+	<h3>
+		How Are We Doing?</h3>
+	<p>
+		We value your business and want to deserve your trust. If you have comments, questions or suggestions, please let us know at <a href="mailto:info@simpletire.com">info@simpletire.com</a>.</p>
+</div>
+</div>                </div>              
+                
+<div id="footer_container" class="span-24">
+    <div class="footer_top_curve"><img src="/img/footer_top_curve.jpg" alt=""></div>
+    <div class="footer_middle">
+        <div class="footer_bottom">
+            <div class="footer_box"> <a href="http://simpletire.com"><img src="/img/footer_logo.png" alt="" class="footer_logo"></a>
+                <h3>888-410-0604</h3>
+                <span class="white">
+                    <a href="mailto:info@simpletire.com">info@simpletire.com</a><br>
+                    
+                    
+                </span>   
+                <span class="white" style="line-height:1.3em;">
+                    31 Oak Ave. Suite 350<br>
+                    Chalfont, PA 18914
+                </span>
+            </div>
+            <div class="footer_box">
+                <a href="/catalog/search_by"><h4>Shop Tires</h4></a>
+                <ul>
+                    <li><a href="/pages/buying_guide">Buying Guide</a></li>
+                    <li><a href="/pages/faqs">FAQs</a></li>
+					<li><a href="/tire-installation">Find Installer</a></li>
+                    <li><a href="/tire-deals">Savings</a></li>
+                </ul>
+            </div>
+            <div class="footer_box">
+				<a href="/about"><h4>About Us</h4></a>
+                <ul>
+                    <li><a href="/pages/road_hazard">Road Hazard</a></li>
+                    <li><a href="/pages/returns">Return Policy</a></li>
+                    <li><a href="/pages/terms">Terms of Use</a></li>
+                    <li><a href="/pages/privacy">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="footer_box">
+                <h4>Dealers</h4>
+                <ul>
+					<li><a href="/become-a-tire-dealer">Dealer/Supplier Sign Up</a></li>
+                    <li><a href="/my_distributors/login">Dealer Login</a></li>
+                </ul>
+            </div>
+            <div class="footer_box last">
+				<a href="/catalog/tires"><h4>We Carry all Brands</h4></a>
+                <ul>
+                    <li><a href="/blog">Simple Tire News</a></li>
+                    <li><a href="/testimonials">Testimonials</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="copy_right"> <span class="copy">© Simple Tire</span>
+                <div class="img_box">
+                   <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=s5TSWi6Aas50jYUJRkxrT2EwaiINZFQmKRcKrQOGCKJO7M1GWveITnR7"></script></span>
+                    <a href="http://tcstire.com"><img src="/img/footer_img3.png" alt="Tire Company Solutions"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            </div>
+        </div>   
+      
+
+
+
+
+ 
+
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","934322aca6",265701,"YVJXNhdXD0oHAkYNCVgYdAERXw5XSTFTAwNFdFoMEUQOVQoEQEsWRF5DAwZP",0,174,new Date().getTime()])</script>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js"></script></body></html>
