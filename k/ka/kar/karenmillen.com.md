@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karenmillen.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085144id_/http%3A//www.karenmillen.com/fcp/content/privacy1/information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karenmillen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203101id_/http%3A//www.karenmillen.com/fcp/content/privacy1/information) for the most accurate reproduction.*
 
 # Karen Millen Privacy Policy
 
