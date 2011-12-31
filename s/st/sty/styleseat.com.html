@@ -1,31 +1,28 @@
-<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2011-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110311031855id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210213id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" class=" webkit chrome linux js"><head> 
-     
-    <title>Welcome to StyleSeat</title>
-    
-   <link rel="stylesheet" type="text/css" href="http://cdn3.styleseat.com/static/css/min/ssmain.3b381975.css">
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0f926739cd92029668a1eb7be394466b7f0f6567.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+        <title>StyleSeat Privacy Policy</title>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta property="fb:app_id" content="111891482183773">        
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="http://cdn4.styleseat.com/static/css/min/ssnew.a4c9442c.css">
 
-    
-    
-   <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0f926739cd92029668a1eb7be394466b7f0f6567.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript" src="http://cdn4.styleseat.com/static/js/min/ssmain.ba8c240e.js"></script>
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+        
+    </head>
+<body id="">
 
-    
-        <script type="text/javascript" charset="utf-8">
-        /*
-        CSS Browser Selector v0.3.5 (Feb 05, 2010)
-        Rafael Lima (http://rafael.adm.br)
-        http://rafael.adm.br/css_browser_selector
-        License: http://creativecommons.org/licenses/by/2.5/
-        Contributors: http://rafael.adm.br/css_browser_selector#contributors
-        */
-        function css_browser_selector(u){var ua = u.toLowerCase(),is=function(t){return ua.indexOf(t)>-1;},g='gecko',w='webkit',s='safari',o='opera',h=document.documentElement,b=[(!(/opera|webtv/i.test(ua))&&/msie\s(\d)/.test(ua))?('ie ie'+RegExp.$1):is('firefox/2')?g+' ff2':is('firefox/3.5')?g+' ff3 ff3_5':is('firefox/3')?g+' ff3':is('gecko/')?g:is('opera')?o+(/version\/(\d+)/.test(ua)?' '+o+RegExp.$1:(/opera(\s|\/)(\d+)/.test(ua)?' '+o+RegExp.$2:'')):is('konqueror')?'konqueror':is('chrome')?w+' chrome':is('iron')?w+' iron':is('applewebkit/')?w+' '+s+(/version\/(\d+)/.test(ua)?' '+s+RegExp.$1:''):is('mozilla/')?g:'',is('j2me')?'mobile':is('iphone')?'iphone':is('ipod')?'ipod':is('mac')?'mac':is('darwin')?'mac':is('webtv')?'webtv':is('win')?'win':is('freebsd')?'freebsd':(is('x11')||is('linux'))?'linux':'','js']; c = b.join(' '); h.className += ' '+c; return c;}; css_browser_selector(navigator.userAgent);
-        </script>
-    
-    
+  <script type="text/javascript" src="http://cdn3.styleseat.com/static/js/min/ssnew.3902f0eb.js"></script>
 
 
+
+    <!--  start tracking code  -->
     <script type="text/javascript">
         var campaign_var = "";
         var from_var = "";
@@ -56,9 +53,17 @@
  
  
  
+ 
 
- </script>
- <!-- END KISSmetrics -->
+function completedUserSignupLogin(data) {
+    if(data.email && data.type && data.action) {
+        _kmq_wr(['identify', data.email]);
+        _kmq_wr(['record', 'Completed ' + data.type + ' ' + data.action]);
+    }
+}
+
+</script>
+<!-- END KISSmetrics -->
             
 
     <!-- GA for styleseat.com -->
@@ -67,21 +72,34 @@
 
             function trackPageview(path) {
              
-               if(_gaq) {
-                   if(path) {
-                   _gaq.push(['_trackPageview', path]);
-                   } else {
-                   _gaq.push(['_trackPageview']);
-                   }
-               }
+	             
+	               if(_gaq) {
+	                   if(path) {
+		                   _gaq.push(['_trackPageview', path]);
+		                   console.log('GA log: '+path);
+	                   } else {
+		                   _gaq.push(['_trackPageview']);
+		                   console.log('GA log page');
+	                   }
+	                   _gaq.push(['_trackPageLoadTime']);
+	               }
+	             
              
             }
    
             function trackEvent(category, action, label, value) {
              
+             
                if(_gaq) {
-                    _gaq.push(["_trackEvent",category, action, label, value]);               
+                    if(value) {
+                        _gaq.push(["_trackEvent",category, action, label, value]);
+                    } else if(label) {
+                        _gaq.push(["_trackEvent",category, action, label]);
+                    } else {
+                        _gaq.push(["_trackEvent",category, action]);
+                    }               
                }
+             
              
             }
    
@@ -93,453 +111,325 @@
               ['_setCustomVar', 2, 'campaign', campaign_var, 1]
           );
           
-          trackPageview();
+          (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
           
-          
+
+          (function() {
+
+            try {
+                var domainRE = /^(?:[^\/]+:\/\/)?([^\/:]+)/;
+                var matches = ''.match(domainRE);
+                var referrerDomain = '';
+                if(matches && matches.length > 1) {
+                    referrerDomain = matches[1];
+                }
+
+                if(referrerDomain.lastIndexOf('styleseat.com') == -1) {
+                    $j.ajax("/tracker/record_event",
+                        { 'type': 'POST',
+                          'data': {
+                              'r' : "",
+                              'i' : "174.129.228.67",
+                              'u' : "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)",
+                              
+                              'e' : '1'
+                          }
+                        }
+                    );
+                }
+            }
+            catch(e) {
+                logError(e, 'Tracker', 'Something failed while making tracker call for non ss referrer visit.');
+            }
+          })();
+
     </script>
     <!-- END GA -->
-     <!-- mixpanel for styleseat.com -->
-    <script type="text/javascript">
-        var mpq = [];
-        mpq.push(["init", "417871d1cfb06b886e3157a5050cc8b9"]);
-        (function() {
-        var mp = document.createElement("script"); mp.type = "text/javascript"; mp.async = true;
-        mp.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + "//api.mixpanel.com/site_media/js/api/mixpanel.js";
-        var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(mp, s);
-        })();
-    </script>
- <!-- END mixpanel -->
-            
+     
+<!-- end tracking code  -->      
 
-
-  </head>
-  <body>
-  <!--[if lte IE 7]><style type="text/css">.schedule .grid tr td {border-bottom:.75em solid #F3F3F3; } .schedule #appointmentServiceSelect { width:25em; }</style><![endif]-->
-  <!--[if IE]><style type="text/css"> .special_service .blue75 { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B00062b1,endColorstr=#B00062b1); zoom: 1; }  </style><![endif]-->
-  <!--[if IE]><style type="text/css"> #pro_lookup { width:21em !important; }  </style><![endif]-->
-  <!--[if lte IE 7]><style type="text/css">#pro_lookup, #pro_search_icon { display:none !important; } </style><![endif]-->
-
-	<!-- KISSinsights for styleseat.com -->
-	<script type="text/javascript">var _kiq = _kiq || [];</script>
-	<script type="text/javascript" src="//s3.amazonaws.com/j.kissinsights.com/u/117/cb0cfddec5f425f23f4076e15ec0a8b1f8520b5f.js" async="true"></script>
-	<script type="text/javascript">
-	 
-	<!-- END KISSinsights -->
-	</script>
-
+<script language="javascript">
     
-  
+trackPageview('/site/privacy');
 
-    <div id="container">
-      <div id="content">
-        <div id="header">
-          <div>
-            
-              <a href="/" title="StyleSeat" class="logo">
-            
-                <img src="http://cdn1.styleseat.com/static/images/logo-on-brown.994e1f23.gif" width="162" height="56" alt="StyleSeat">
-                <div class="inlineblock" style="vertical-align: top; margin-top: 0em; margin-right: 2em; margin-left: -3em; color: #d0d0d0;" title="Beta means you're one of the lucky early users and that we're adding more goodies every week!">beta</div>
-              </a>
-            <div class="notSimple">
-            
-            
-            
-            </div>
-           </div>
-           
-            <div class="right">
-          
-            
-          
-          
-              <ul id="login" class="rounded not_logged_in" style="margin-top:2.6em">
-                
-                  <li>
-                    
-                    <a id="signupLink" class="SignupLink" lang="PageHeader" href="/signup">Sign Up Free!</a>
-                    
-                  </li>
-                  <li>
-                    <a href="/login">Log In</a>
-                  </li>
-                
-              </ul>
-            </div>
-            
-          
-          <div class="message">
-            <span class="statusBubble rounded" id="message" style="display:none;position:fixed;z-index:1500">  </span>
-          </div>
-          <div class="noClear"> </div>
-        </div>
-          
-            <div id="content-header"></div>
-          
-        <div id="body" class="rounded_big">
-          
-          <div id="content-main">
-            
+</script>
+<script language="javascript">
+$j(document).ready(function(){
+    $j('#logoutLink').click(function() {
+        var href = $j(this).attr("href");
+        FB.getLoginStatus(function(response) {
+            if (response.authResponse) {
+                FB.logout(function() {
+                    window.location.href = href;
+                });
+            } else {
+                window.location.href = href;
+            }
+        });
+        return false;
+    });
+
+    function hideProfileCompletion() {
+        $j('#profileCompletion').parent().fadeToggle("slow");
+        setCookie('hpc', "1", 31, "/")
+    }
+
+    $j("#hideProfileCompletion").click(function() {
+        hideProfileCompletion();
+    });
+
+});
+</script>
+<script src="http://widgets.awe.sm/v2/widgets.js?key=c4e2cc2a143cd4741589587221017e476474399de7d50b21d73c78f20eaf45da"></script>
+
+  <div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+
+    var fbLoggedIn = false;
+
+    if(!(typeof FB === 'undefined')) {
+
+	    FB.init({
+	        appId  : '111891482183773',
+	        status : true, // check login status
+	        cookie : true, // enable cookies to allow the server to access the session
+	        xfbml  : true,  // parse XFBML
+            oauth  : true,
+            channelUrl: 'http://www.styleseat.com/sharing/fb_channel' //custom channel - Note that running the channel
+                                                                      // in local dev against www causes IE to be sad.
+	    });
+
+        // Suggested hotfix in comments for IE Permission Denied bug
+        // http://bugs.developers.facebook.net/show_bug.cgi?id=19042
+        //FB.UIServer.setActiveNode = function(a,b){FB.UIServer._active[a.id]=b;} // IE
+
+	    FB.getLoginStatus(function(response) {
+	        if(response.status === "connected") {
+	            window.fbLoggedIn = true;
+//	            var hasReloaded = getCookie("reloaded");
+//	            if(hasReloaded != "1") {
+//	                setCookie("reloaded", "1", 365, "/");
+//	                window.location.reload();
+//	            }
+	        }
+            else {
+                window.fbLoggedIn = false;
+            }
+	    }, true);
+
+        FB.Event.subscribe("auth.authResponseChange", function(response) {
+	        if(response.status === "connected") {
+	            window.fbLoggedIn = true;
+	        }
+            else {
+                window.fbLoggedIn = false;
+            }
+        });
+	        
+	    // StyleSeat specific wrappers
+        
+    }
+
+</script>
+
+  <div class="" id="alert_message" style="display:none"> </div>
+  <div id="fb_loading_modal" style="display: none;">
+    <div style="width: 350px; height: 60px; padding: 10px;">
+      <div class="throbberMessage" style="padding-left: 28px; width: 320px; height: 100%; font-size: 2.5em; margin: 0 auto; line-height: 1.2em; vertical-align: text-bottom; background-repeat: no-repeat; background-position: left center;">StyleSeat and Facebook are talking about you... brb!</div>
+    </div>
+  </div>
+  <div id="wrapper">
+    
+        <!-- start:loggedOutHeader -->
+		    <header id="siteHeader" role="banner">
+		      <h1><a href="/"><img id="logoLight" width="162" height="38" src="http://cdn1.styleseat.com/static/new/images/logo.eaff61f3.png" alt="StyleSeat"></a></h1>
+		      <nav id="siteNav" role="navigation">
+		        <ul>
+		          
+		          <li class="siteNavItem"><a href="/search">Find pros</a></li>
+		          <li class="siteNavItem "><a href="/photos">Browse photos</a></li>
+		          <li class="siteNavItem"><a href="/signup">Get listed</a></li>
+		          <li class="siteNavItem "><a href="/howitworks/clients">About</a></li>
+		          <li class="siteNavItem " id="searchBox">
+		            <form id="nav_var_search" method="GET" action="/search" role="search">
+		                <fieldset>
+		                    <div class="fields">
+		                        <input id="nav_bar_search_q" type="text" name="q" placeholder="pro search" value="pro search" tabindex="-1" onclick="this.value = '';">
+		                    </div><!--end:-->
+		                    <div class="actions searchActions">
+		                        <button type="get">search</button>
+		                    </div><!--end:actions-->
+		                </fieldset>
+		            </form>
+		            <script language="javascript">
+		                //$j(document).ready(function(){
+		                //    $j('#id="nav_bar_search_q').val('');
+		                //});
+		            </script>
+		
+		            </li><!--end:searchBox-->
+		          
+		        </ul>
+		      </nav><!--end:nav-->
+             
+		      <ul id="tools">
+		        <li class="it01"><div class="padMe"><a href="/signup">Join as a Professional</a></div></li>
+		        <li class="it01" style="margin-left:8px"><div class="padMe"><a href="#" class="doClientSignup">Join as Client</a></div>
+		        </li><li><div class="padMe"><a href="/login?next=/privacy">Log in</a></div></li>
+		  	  </ul><!--end:tools-->
+              
+		      
+		      <div id="breadcrumbs">
+		        <span>Privacy Policy</span>
+		      </div><!--end:breadcrumbs-->
+		      
+		      
+		      
+		    </header><!--end:loggedOutHeader -->
+    
+    
+<div id="central">
+  <section class="">
+    <main class="content">
+      <article class="row" style="font-size:8px;">
+        
 <div id="TOS">
 <div>
-<p style="margin: 0pt;"><span style="font-family: Cambria;"><font size="3">Privacy Policy</font></span></p>
-<p style="margin: 0pt;"><span style="font-family: Cambria;"><font size="3">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2">, Inc. ("</font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2">", "we" or "us") provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our subscription management and billing software service and this website (the "Website") collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes. By using or accessing the Website, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at </font></span><a href="mailto:info@StyleSeat.com"><span style="color: rgb(0, 0, 255); font-family: Times;"><u><font size="2">info@StyleSeat.com</font></u></span></a><span style="font-family: Times;"><font size="2">.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Personal Data:</font></b></span><span style="font-family: Times;"><font size="2"> We collect personal data from you, the user, when you voluntarily choose to register with </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2">. We use the personal data that we collect in order to provide and improve our services, and as otherwise set forth in this Privacy Policy and in our Terms of Service. Examples of personal data include first name, last name, address, email address, telephone number, birth date, </font></span><span style="font-family: Times;"><font size="2">billing</font></span><span style="font-family: Times;"><font size="2"> and credit card information.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Use of Personal Data:</font></b></span> <span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2"> uses the personal data you provide in a manner that is consistent with this Privacy Policy or with any applicable service-specific agreement. If you provide personal data for a certain reason, we may use the personal data in connection with the reason for which it was provided. For instance, we will use the personal data you input during the registration process to administer access to the Website. We may also use the client information you submit to send them an SMS when you take action via the site to do so. </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2"> and its affiliates also use you and your clients' personal data and other personally non-identifiable information collected through the Website to help us improve the content and functionality of the Website, to better understand the users of our Website, and to improve our services.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Customer Credit Card Information: </font></b></span><span style="font-family: Times;"><b><font size="2">StyleSeat</font></b></span> <span style="font-family: Times;"><b><font size="2">uses a third party to keep</font></b></span> <span style="font-family: Times;"><b><font size="2">a protected copy of </font></b></span><span style="font-family: Times;"><b><font size="2">your</font></b></span> <span style="font-family: Times;"><b><font size="2">credit card number. This billing data belongs to you and by utilizing the Service, you grant </font></b></span><span style="font-family: Times;"><b><font size="2">StyleSeat</font></b></span><span style="font-family: Times;"><b><font size="2"> a license to use this data to </font></b></span><span style="font-family: Times;"><b><font size="2">bill </font></b></span><span style="font-family: Times;"><b><font size="2">you</font></b></span><span style="font-family: Times;"><b><font size="2"> for services rendered</font></b></span><span style="font-family: Times;"><b><font size="2">.</font></b></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Personally Non-Identifiable Information:</font></b></span><span style="font-family: Times;"><font size="2"> We may collect personally non-identifiable information from you at the time of registration, or when you choose to use certain of our services. This information is not, by itself, sufficient to identify or contact you or your clients. Examples include demographic data, age, education level, profession</font></span><span style="font-family: Times;"><font size="2">, geographic location</font></span><span style="font-family: Times;"><font size="2"> or gender. </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2"> may store such information, or it may be included in databases owned and maintained by </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2">'s</font></span><span style="font-family: Times;"><font size="2"> affiliates, agents or service providers. This Website may use such information and pool it with other information to track, for example, the total number of visitors to our Website and the domain names of our visitors' Internet service providers. It is important to note that no personal data is available or used in this process.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Passively Collected Information:</font></b></span><span style="font-family: Times;"><font size="2"> When you interact with us through the Website, we receive and store certain additional personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP </font></span><span style="font-family: Times;"><font size="2">addresses</font></span><span style="font-family: Times;"><font size="2">, browser types, domain names, and other anonymous statistical data involving your use of the Website and/or our services.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Aggregated Personal Data:</font></b></span><span style="font-family: Times;"><font size="2"> In an ongoing effort to better understand our users, we might analyze the personal data that is provided to the Website in aggregate form. This aggregate information does not identify you or your clients personally. We may share this aggregate data with our affiliates, agents and business partners. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Cookies:</font></b></span><span style="font-family: Times;"><font size="2"> In operating this Website, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Website gives to your computer when you access a website. Our cookies help provide additional functionality to the Website and help us analyze Website usage more accurately.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Sharing Information:</font></b></span><span style="font-family: Times;"><font size="2"> We won't share you or you your clients' personal information with anyone except for the situations listed below or unless we specifically inform you and give you an opportunity to opt out of our sharing your personal information.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">We may share your personal information with:</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><u><font size="2">Authorized service providers.</font></u></span><span style="font-family: Times;"><font size="2"> Our authorized service providers are companies that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analyses, supporting the Website functionality, and supporting contests, sweepstakes, surveys and other features we offer. These service providers may have access to your clients' or your personal information to the extent necessary to perform their functions, but we do not allow them to share or use any of your personal information for any other purpose.</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><u><font size="2">StyleSeat</font></u></span><span style="font-family: Times;"><u><font size="2"> affiliates.</font></u></span><span style="font-family: Times;"><font size="2"> We may share information we collect, including personal information, with </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2">-owned or affiliated businesses. Sharing information with our affiliates enables us to provide you with information about a variety of products and services that might interest you. All </font></span><span style="font-family: Times;"><font size="2">StyleSeat</font></span><span style="font-family: Times;"><font size="2"> companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><u><font size="2">Business partners.</font></u></span><span style="font-family: Times;"><font size="2"> We may share your clients or your personal information with the merchants offering the products, services, promotions, contests and/or sweepstakes. We won't share your personal information with these businesses unless you choose to participate in their offer or program. When you choose to engage in a particular offer or program, you authorize us to share your email address and other information with the relevant merchant.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><u><font size="2">Other Situations.</font></u></span><span style="font-family: Times;"><font size="2"> We also may disclose your clients' or your information:</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><font size="2">In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><font size="2">When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Website's Terms of Use or other agreements or policies.</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-family: Times;"><font size="2">In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.</font></span></p>
-<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Children:</font></b></span><span style="font-family: Times;"><font size="2"> The Website and our related services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and our related services, you are representing that you are at least 18.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Links to Other Web Websites:</font></b></span><span style="font-family: Times;"><font size="2"> This Privacy Policy applies only to this Website and not to any third-party sites.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">&nbsp;</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Security:</font></b></span><span style="font-family: Times;"><font size="2"> We take precautions to ensure the security of your clients' and your personal information. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using the Website and our related services, this information </font></span><span style="font-family: Times;"><font size="2">will</font></span><span style="font-family: Times;"><font size="2"> travel through third party infrastructures which are not under our control.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><font size="2">We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.</font></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">&nbsp;</font></b></span></p>
-<p style="margin: 0.1pt 0pt;"><span style="font-family: Times;"><b><font size="2">Opt-Out Policy:</font></b></span><span style="font-family: Times;"><font size="2"> If, at any time after registering, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. Please contact us as specified above.</font></span></p>
+    <p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">Updated as of October, 2011</font></span></p>
+    <p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+    <p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2">, Inc. ("</font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2">", "we" or "us") provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of our subscription management and billing software service and this website (the "Website") collected via the Website, email, SMS, telephone, WAP or other means. This Privacy Policy may be updated from time to time for any reason, at our sole discretion. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website. You are advised to consult this Privacy Policy regularly for any changes. By using or accessing the Website, you are accepting the practices described in this Privacy Policy, and you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at </font></span><a href="mailto:info@StyleSeat.com"><span style="color: rgb(0, 0, 255); ;"><u><font size="2">info@StyleSeat.com</font></u></span></a><span style=";"><font size="2">.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Personal Data:</font></b></span><span style=";"><font size="2"> We collect personal data from you, the user, when you voluntarily choose to register with </font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2">. We use the personal data that we collect in order to provide and improve our services, and as otherwise set forth in this Privacy Policy and in our Terms of Service. Examples of personal data include first name, last name, address, email address, telephone number, birth date, </font></span><span style=";"><font size="2">billing</font></span><span style=";"><font size="2"> and credit card information.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Third Party Personal Data:</font></b></span><span style=";"><font size="2">  We also collect personal data from you, the user, about certain third party individuals, including but not limited to your clients.  We use this personal data that we collect from you in order to provide and improve our services, facilitate communication between you and such third parties, and as otherwise set forth in this Privacy Policy and in our Terms of Service.  You warrant to StyleSeat that any personal data you provide us about any third party individuals was obtained by you with full consent from such third party, and that such third party has not communicated to you that they wish to opt out of receiving communication from StyleSeat.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+
+
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Use of Personal Data:</font></b></span> <span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2"> uses the personal data you provide in a manner that is consistent with this Privacy Policy or with any applicable service-specific agreement. If you provide personal data for a certain reason, we may use the personal data in connection with the reason for which it was provided. For instance, we will use the personal data you input during the registration process to administer access to the Website. We may also use the client information you submit to send them an email or SMS messages when you take action via the site to do so.  We may also contact your clients to tell them about products and services you offer for the purpose of promoting your business as part of our Service. We will notify you of the intent to send these communications beforehand and give you the ability to opt out.  We will also give your clients the opportunity to opt out of receiving communications from StyleSeat.  StyleSeat and its affiliates also use you and your clients' personal data and other personally non-identifiable information collected through the Website to help us improve the content and functionality of the Website, to better understand the users of our Website, and to improve our services.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Customer Credit Card Information: </font></b></span><span style=";"><b><font size="2">StyleSeat</font></b></span> <span style=";"><b><font size="2">uses a third party to keep</font></b></span> <span style=";"><b><font size="2">a protected copy of </font></b></span><span style=";"><b><font size="2">your</font></b></span> <span style=";"><b><font size="2">credit card number. This billing data belongs to you and by utilizing the Service, you grant </font></b></span><span style=";"><b><font size="2">StyleSeat</font></b></span><span style=";"><b><font size="2"> a license to use this data to </font></b></span><span style=";"><b><font size="2">bill </font></b></span><span style=";"><b><font size="2">you</font></b></span><span style=";"><b><font size="2"> for services rendered</font></b></span><span style=";"><b><font size="2">.</font></b></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Personally Non-Identifiable Information:</font></b></span><span style=";"><font size="2"> We may collect personally non-identifiable information from you at the time of registration, or when you choose to use certain of our services. This information is not, by itself, sufficient to identify or contact you or your clients. Examples include demographic data, age, education level, profession</font></span><span style=";"><font size="2">, geographic location</font></span><span style=";"><font size="2"> or gender. </font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2"> may store such information, or it may be included in databases owned and maintained by </font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2">'s</font></span><span style=";"><font size="2"> affiliates, agents or service providers. This Website may use such information and pool it with other information to track, for example, the total number of visitors to our Website and the domain names of our visitors' Internet service providers. It is important to note that no personal data is available or used in this process.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Passively Collected Information:</font></b></span><span style=";"><font size="2"> When you interact with us through the Website, we receive and store certain additional personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP </font></span><span style=";"><font size="2">addresses</font></span><span style=";"><font size="2">, browser types, domain names, and other anonymous statistical data involving your use of the Website and/or our services.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Aggregated Personal Data:</font></b></span><span style=";"><font size="2"> In an ongoing effort to better understand our users, we might analyze the personal data that is provided to the Website in aggregate form. This aggregate information does not identify you or your clients personally. We may share this aggregate data with our affiliates, agents and business partners. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Cookies:</font></b></span><span style=";"><font size="2"> In operating this Website, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Website gives to your computer when you access a website. Our cookies help provide additional functionality to the Website and help us analyze Website usage more accurately.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Sharing Information:</font></b></span><span style=";"><font size="2"> We won't share you or you your clients' personal information with anyone except for the situations listed below or unless we specifically inform you and give you an opportunity to opt out of our sharing your personal information.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">We may share your personal information with:</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><u><font size="2">Authorized service providers.</font></u></span><span style=";"><font size="2"> Our authorized service providers are companies that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analyses, supporting the Website functionality, and supporting contests, sweepstakes, surveys and other features we offer. These service providers may have access to your clients' or your personal information to the extent necessary to perform their functions, but we do not allow them to share or use any of your personal information for any other purpose.</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><u><font size="2">StyleSeat</font></u></span><span style=";"><u><font size="2"> affiliates.</font></u></span><span style=";"><font size="2"> We may share information we collect, including personal information, with </font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2">-owned or affiliated businesses. Sharing information with our affiliates enables us to provide you with information about a variety of products and services that might interest you. All </font></span><span style=";"><font size="2">StyleSeat</font></span><span style=";"><font size="2"> companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><u><font size="2">Business partners.</font></u></span><span style=";"><font size="2"> We may share your clients or your personal information with the merchants offering the products, services, promotions, contests and/or sweepstakes. We won't share your personal information with these businesses unless you choose to participate in their offer or program. When you choose to engage in a particular offer or program, you authorize us to share your email address and other information with the relevant merchant.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 36pt;"><span style="font-family: Symbol;"><font size="2">-</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><u><font size="2">Other Situations.</font></u></span><span style=";"><font size="2"> We also may disclose your clients' or your information:</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><font size="2">In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><font size="2">When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Website's Terms of Use or other agreements or policies.</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style="font-family: 'Courier New';"><font size="2">o</font></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=";"><font size="2">In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.</font></span></p>
+<p style="margin: 0.1pt 0pt 0.1pt 72pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Children:</font></b></span><span style=";"><font size="2"> The Website and our related services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and our related services, you are representing that you are at least 18.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Links to Other Web Websites:</font></b></span><span style=";"><font size="2"> This Privacy Policy applies only to this Website and not to any third-party sites.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">&nbsp;</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Security:</font></b></span><span style=";"><font size="2"> We take precautions to ensure the security of your clients' and your personal information. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your personal information despite our efforts. You should note that in using the Website and our related services, this information </font></span><span style=";"><font size="2">will</font></span><span style=";"><font size="2"> travel through third party infrastructures which are not under our control.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><font size="2">We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.</font></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">&nbsp;</font></b></span></p>
+<p style="margin: 0.1pt 0pt;"><span style=";"><b><font size="2">Opt-Out Policy:</font></b></span><span style=";"><font size="2"> If, at any time after registering, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice. Please contact us as specified above.</font></span></p>
 <p style="margin: 0pt;"><span style="font-family: Cambria;"><font size="3">&nbsp;</font></span></p>
 </div>
 <br>
 
 </div>  
 
-          </div>
-        </div>
-      </div>
-    </div>
+		  </article>
+		</main>
+  </section>
+</div>
 
-
-    
-    <div id="id_footer_bar"><span style="float:right;color:#b39281;">Talk to us: <!-- 415.830.4051 |  --><a href="mailto:info@styleseat.com" style="color:#b39281;">info@styleseat.com</a></span><span style="color:#b39281;">© 2010 StyleSeat, Inc.  All rights reserved. | <a href="/site/about_us" style="color:#b39281;">about us</a> | <a href="/tos" style="color:#b39281;">terms</a> | <a href="/privacy" style="color:#b39281;">privacy</a> | <a href="/jobs" style="color:#b39281;">jobs</a> | <a href="http://styleseat.zendesk.com/home" style="color:#b39281;">help</a> | <a href="http://styleseat.zendesk.com/entries/434486-pricing" style="color:#b39281;">pricing</a></span></div>
-
-    
-			
-		
-
-    
-
-    
-    
-    
-    
-     
-
-    <script language="javascript">   
-        // this is the callback function for the Invite My Pro modal success post 
-			  function onInviteSuccessFunction() {
-			    $('invite_my_pro_form').reset()
-			    __onClickToggleElement($('InviteMyProFormContainer'), null, '');
-			  }
-    </script>
-
-        <div class="module hide">
-             <a class="hide" id="invite-my-pro-modal-link" href="/invite-my-pro-modal">do modal invite my pro</a>
-             <a class="hide" id="client-login-modal-link" href="/signup-client-modal">do modal login</a>
-             <a class="hide" id="client-update-modal-link" href="/update-client-modal">do modal update</a>
-             <a class="hide" id="user-signup-modal-link" href="/signup-user-modal">do modal simple</a>
-             <a class="hide" id="user-update-modal-link" href="/update-user-modal">do modal simple-update</a>
-        </div>
-
-    
-  
-  <script language="javascript">
-      var visitCount = getCookie("visitC");
-    if(visitCount == null) visitCount = 1;
-    var pageCount = getCookie("pageC");
-    if(pageCount == null) pageCount = 1;
-    if(document.referrer.indexOf("styleseat.com") == -1) {
-      visitCount++;
-      setCookie( "visitC", visitCount, 30, "/");
-      _kmq_wr(['record', 'SS Visit', {'visitCount': visitCount}]);
-      if(visitCount == 3) {
-        _kmq_wr(['record', 'SS Visit x3']);
-      } 
-      if(visitCount == 6) {
-        _kmq_wr(['record', 'SS Visit x6']);
-      }
-      if(visitCount == 20) {
-        _kmq_wr(['record', 'SS Visit x20']);
-      }
-      if(visitCount == 50) {
-        _kmq_wr(['record', 'SS Visit x50']);
-      }
-      // adding this for more granular visibility, added 'new' to differentiate 11/29/10
-      if(visitCount < 10) {
-        _kmq_wr(['record', 'SS Visit new x'+visitCount]);
-      } 
-    } else {
-      pageCount++;
-      setCookie( "pageC", pageCount, 0, "/");
-      _kmq_wr(['record', 'SS Stay', {'pageCount':pageCount}]);
-      if(pageCount == 3) {
-        _kmq_wr(['record', 'SS Stay x3']);
-      }
-      if(pageCount == 6) {
-        _kmq_wr(['record', 'SS Stay x6']);
-      }
-      if(pageCount == 15) {
-        _kmq_wr(['record', 'SS Stay x15']);
-      }
-    }
-   
-
-
-
-
-
-
-function do_process_form(aform) {
-    var reenable = true;
-    
-    var ajaxurl, formparameters, submitbutton, myAjax;
-    
-    try {
-    
-                // where to submit the form
-                ajaxurl = aform.action;
-                formparameters = aform.serialize(true); // take the form field values before you disable it
-                formparametersFlat = aform.serialize();
-              formparameters['format']= 'json'; // add param telling view to use json parsing  DEPRICATED: move to request.is_axaj() on the server
-                
-                //disable the form elements while beeing processed
-                aform.disable();
-                
-                
-                // get the submit button of the form and show an ajax-loader instead
-                submitbutton = aform.getInputs('submit')[0];
-                if(submitbutton) {
-                new Insertion.Before(submitbutton, '<img src="/static/images/throbber.gif" id="ajaxloader" />');
-                submitbutton.hide()
-                }
-                
-                myAjax = new Ajax.Request(
-                    ajaxurl,
-                    { method: 'post', 
-                      parameters: formparameters, 
-                      onSuccess: handlereq, 
-                      /* TODO: Make errors come back as failures. */
-                      onFailure: function() {
-                        alert('Sorry, something went wrong with that.  Our team will look into it asap.');
-                        aform.enable(); // enable the form
-                        $('ajaxloader').remove(); // remove the ajax-loader
-                        submitbutton.show(); // return the submit button
-                      } 
-                      // what to do if the server return something else than 2xx status.
-              });
-    
-    } catch(err) {
-        logError(err, "form", "error in AjaxForm submit, do_process_form top");
-        alert('Sorry, something went wrong with that.  Our team will look into it asap.');
-    }
-
-      function handlereq(req) {
-        try{
+    </div><!--end:wrapper-->
         
-          var progressTracker = 1;
-        
-                    // evaulate the response (get the errors or run the javascript)
-                    var dataObj = eval('(' + req.responseText + ')');
+    <footer id="footerWrapper" style="position: relative;">
+      <div>
+      
+      
+        <section id="about">
+          <strong>About</strong>
+          <p>
             
-                progressTracker = 2;
-                
-                    // clean the errors from the previous run (elements with class="errorlist"
-                var old = aform.getElementsByClassName('errorlist');
-                
-                progressTracker = 3;
-                    
-                for (var i=0; i < old.length; i++) { 
-                  old[i].hide().remove();
-                }
-                
-                progressTracker = 4;
-                
-                    // check for needs-auth response (for User, for Client, or for More Info)
-                if(dataObj.not_auth_user) {
-                    progressTracker = 5;
-                    if(!user_signup_modal && $('user-signup-modal-link')) user_signup_modal = create_modal_ajax($('user-signup-modal-link'), true);
-                    progressTracker = 6;
-                    onSignupOrLoginSuccessFunction = function() {
-                      progressTracker = 7;
-                      do_process_form(aform);
-                      progressTracker = 8;  
-                    }
-                    progressTracker = 9;
-                    if(user_signup_modal) {
-                      progressTracker = 10;
-                      user_signup_modal.open();
-                      progressTracker = 11;
-                    } else {
-                      progressTracker = 12;
-                      alert("Please login first.")
-                    }
-                    // TODO: Launch SignupOrLogin
-                } else if(dataObj.not_user_ready) {
-                    progressTracker = 13;
-                    if(!user_update_modal && $('user-update-modal-link')) user_update_modal = create_modal_ajax($('user-update-modal-link'), true);
-                    progressTracker = 14;
-                    onSignupOrLoginSuccessFunction = function() {
-                      progressTracker = 15;
-                      do_process_form(aform);  
-                    }
-                    progressTracker = 16;
-                    if(user_update_modal) {
-                      progressTracker = 17;
-                      user_update_modal.open();
-                    } else {
-                      progressTracker = 18;
-                      alert("Please update your user info.")
-                    }
-                    progressTracker = 19;
-                    // TODO: Launch SignupOrLogin
-                } else if(dataObj.not_auth_client) {
-                    progressTracker = 20;
-                    if(!login_modal && $('client-login-modal-link')) login_modal = create_modal_ajax($('client-login-modal-link'), true);
-                    progressTracker = 21;
-                    onSignupOrLoginSuccessFunction = function() {
-                      progressTracker = 22;
-                      do_process_form(aform);  
-                    }
-                    progressTracker = 23;
-                    if(login_modal) {
-                      progressTracker = 24;
-                      login_modal.open();
-                    } else {
-                      progressTracker = 25;
-                      alert("Please login first.")
-                    }
-                    // TODO: Launch SignupOrLogin
-                } else if(dataObj.not_client_ready) {
-                    progressTracker = 26;
-                    if (Control.Modal.current) Control.Modal.current.close();
-                    progressTracker = 27;
-                    if(!client_modal && $('client-update-modal-link')) client_modal = create_modal_ajax($('client-update-modal-link'), true);
-                    progressTracker = 28;
-                    onSignupOrLoginSuccessFunction = function() {
-                      progressTracker = 29;
-                      do_process_form(aform);  
-                    }
-                    progressTracker = 30;
-                    if(client_modal) {
-                      progressTracker = 31;
-                      client_modal.open();
-                    } else {
-                      progressTracker = 32;
-                      alert("Please update your client info.")
-                    }
-                    // TODO: Launch SignupOrLogin
-                    } else if (dataObj.status) {
-                      progressTracker = 33;
-                  // clear existing errors
-                  $$('.errorlist').each(function(el) { el.update(''); });
-                  progressTracker = 34;
-                    // if there is a 'status' attribute in the response, run the javascript
-                  // if not show the errors in the for_fieldname element
-                    if(dataObj.callback) {
-                      progressTracker = 35;
-                      var callbackFunction = eval(dataObj.callback);
-                      progressTracker = 36;
-                      if(callbackFunction) {
-                        progressTracker = 37;
-                        callbackFunction(dataObj);
-                        progressTracker = 38;
-                        return;
-                      }
-                       }
-                       progressTracker = 39;
-                       if(dataObj.target) {
-                          progressTracker = 40;
-                          document.location.href=dataObj.target;
-                          progressTracker = 41;
-                          reenable = false; // dont reenable the submit button if we're not staying here
-                       }
-                    } else {
-                      progressTracker = 42;
-                      // clear existing errors
-                  $$('.errorlist').each(function(el) { el.update(''); });
-                  progressTracker = 43;
-                  // display new errors
-                      $H(dataObj).each(function(pair) {
-                        progressTracker = 44;
-                        var isRightAligned = false;
-                        progressTracker = 45;
-                        if (!$('for_' + pair.key)) {
-                          progressTracker = 46;
-                          // create the error field div for each error element if doesnt already exist
-                          formEl = aform.down('[name=' + pair.key + ']');
-                          progressTracker = 47;
-                          if(formEl.up('.formElementContainer')) { formEl = formEl.up('.formElementContainer'); }
-                          progressTracker = 48; 
-                      if(formEl.up('.formElementContainerRight')) { formEl = formEl.up('.formElementContainerRight'); isRightAligned = true; }
-                      progressTracker = 49; 
-                          formEl.insert({ after: '<div id="for_' + pair.key + '"></div>' });
-                          progressTracker = 50;
-                        }
-                        
-                        progressTracker = 51;
-                    
-                            // show the errors on that field
-                        $('for_' + pair.key).innerHTML = '<ul class="errorlist'+ (isRightAligned?" right":"") + '"><li class="form_error_text">' + pair.value + '</li></ul>';
-                        
-                        progressTracker = 52;
-                      });
-                    }
-            } catch(err) {
-                var respT = "";
-                if(req && req.responseText) { respT = req.responseText; }
-                var errMsg = "error in AjaxForm submit in handlereq.  Track Progress: "+ progressTracker +", Returned JSON: "+ respT +", Form Params: "+formparametersFlat+".";
-                //logError(err, "form", errMsg);
-            alert('Sorry, something went wrong with that.  Our team will look into it asap.');
-            } finally {
-                if(reenable) { // this will be false for redirect targets, so not to confuse the user
-                    // reenable form and state
-                    if(aform) { aform.enable(); } // enable the form
-                    if($('ajaxloader')) { $('ajaxloader').remove(); } // remove the ajax-loader
-                    if(submitbutton) {submitbutton.show(); } // return the submit button
-                }
-            }
-        }
-}
 
+            StyleSeat is the online destination for beauty 
+            &amp; wellness professionals and clients. 
+            
+            Professionals can showcase their work, connect with new and existing clients, and build their business. 
+            Clients can discover new services and providers, book appointments online, and get inspired. 
+          <a class="teal" href="/howitworks/clients">learn more »</a>
+          </p>
+        </section><!--end:about-->
+        
+        
+        <section id="newsTwitter">
+          <strong>New on the blog</strong>
 
+          <a href="http://blog.styleseat.com/post/6022194779/faqs-about-the-new-styleseat">FAQ's about the new StyleSeat</a>
 
- 
-  </script>
+          <p>Curious about how the new StyleSeat works? Read on for a couple of...</p>
+
+        </section><!--end:newsTwitter-->
+      
+        <section id="socials">
+          <ul>
+            
+            <li>
+                <div id="fb-root"></div><fb:like href="http://www.facebook.com/pages/StyleSeat/484439085178" send="false" layout="button_count" width="100" show_faces="false" font="lucida grande"></fb:like>
+            </li>
+          </ul>
+          <strong>Talk to us</strong>
+          <a href="mailto:info@styleseat.com">info@styleseat.com</a>
+          <a href="http://styleseat.zendesk.com">StyleSeat Help Center</a>
+        </section><!--end:socials-->
+        
+        
+        <ul id="footerUl">
+          <li role="contentinfo">© 2011 StyleSeat, Inc. All rights reserved.</li>
+          <li><a href="/search">Find professionals</a></li>
+          <li><a href="/signup">Get listed</a></li>
+          <li><a href="/site/about_us">Team</a></li>
+          <li><a href="/tos">Terms</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+          <li><a href="/pricing" class="itLast">Pricing</a></li>
+        </ul>
+      </div>
+    </footer>
+        
+  <!--end:wrapper-->
   
     
-  <script language="javascript">
-         _kmq_wr(['record', {"Provider": "", "Is Student":"", "Status":"", "Provile Completeness":""}]);
-  </script>
-    
+            
+        
+
+
+
+
 
     
     
-  <!--[if lte IE 6]><script src="/static/js/lib/ie_warning.js"></script><script>document.observe('dom:loaded', function() {e("static/images/ie6/")});</script><![endif]-->
-  
-  <script language="javascript" src="/static/js/lib/FB.Share.js"></script>
 
-</body></html>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","4b1135a577",328162,"NQNaYkAHDUQDVhFZWwxJfkNcBRdeDVtKQlEFD0tCQAcXXg1bS0ZdBxFLDEIUCkEDVhw=",0,50,new Date().getTime()])</script>
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+
+<script type="text/javascript" src="//s3.amazonaws.com/j.kissinsights.com/u/117/cb0cfddec5f425f23f4076e15ec0a8b1f8520b5f.js" async="true"></script>
+
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js"></script></body></html>
