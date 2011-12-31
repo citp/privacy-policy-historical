@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the risa.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605194503id_/http%3A//www.risa.com.au/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the risa.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231031030id_/http%3A//www.risa.com.au/AboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # RISA - Racing Information Services Australia
+
+[](https://web.archive.org/home.aspx)
 
 [](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4d9aa7377ce6cbc4)
 
@@ -43,6 +45,6 @@ RISA provides links to external web sites.. These external linked sites are not 
 RISA reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its web site. Your continued use of the RISA web site indicates that you accept the RISA Privacy Policy in place at that time. 
 
 © 2011 Racing Information Services Australia Pty Ltd (and other parties working with it)  
-Use of this website is subject to the express [terms of use](https://web.archive.org/AboutUs/TermsOfUse.aspx) & [privacy policy](https://web.archive.org/AboutUs/PrivacyPolicy.aspx).  
+Use of this website is subject to the express [terms of use](https://web.archive.org/AboutUs/TermsOfUse.aspx) **(Updated June 2011)** & [privacy policy](https://web.archive.org/AboutUs/PrivacyPolicy.aspx).  
 While care has been taken to compile the details of racing materials information available via this website, RISA accepts no responsibility for errors or omissions in the information provided.  
 In the event of any defect, errors or omissions RISA's liability shall be limited to providing the information again. 
