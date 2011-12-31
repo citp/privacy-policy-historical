@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miaminewtimes.com privacy policy that was archived on 2011-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110612083306id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miaminewtimes.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215444id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en" "http://www.w3.org/tr/html4/loose.dtd"><html><head>
     <meta name="google-site-verification" content="ZDp2ot_zRoXxLgSloTJNw_FlkD0NDAkbX9nM1ILd9NY">
@@ -7,11 +7,11 @@
   <meta name="description" content="">
   <meta name="keywords" content="">
   <link rel="alternate" type="application/rss+xml" title="Miami New Times: Privacy" href="feed://miaminewtimes.com/syndication/issue">
-    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/miaminewtimes.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="JavaScript">
+    <script type="text/javascript" async="" id="ic_annonymous_pixel" src="http://pixel.indieclick.com/annonymous/domain/miaminewtimes.com/reach/script_ic.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
         <!--
         //orig configuration
         OAS_url = 'http://oascentral.miaminewtimes.com/';
-        OAS_listpos = 'Top,Bottom,Middle,Middle1';
+        OAS_listpos = 'Top,Bottom,Middle,Middle1,Middle3';
         OAS_sitepage = 'www.miaminewtimes.com/home-misc';
         OAS_query = 'XE&Category=Home&Subcategory=Misc&XE';
         OAS_target = '_top';
@@ -21,25 +21,83 @@
 
     <!-- for dev only, remove when rollup is corrected -->
 
-    <link rel="stylesheet" href="http://assets.miaminewtimes.com/load/c/default-22487.css">
-<link rel="stylesheet" href="http://assets.miaminewtimes.com/load/c/about-privacyPolicy-22487.css">
+    <link rel="stylesheet" href="http://assets.miaminewtimes.com/load/c/default-27205.css">
+<link rel="stylesheet" href="http://assets.miaminewtimes.com/load/c/about-privacyPolicy-27205.css">
     <!-- p/af/v/e/LoadJS -->
-<script language="javascript" src="http://assets.miaminewtimes.com/load/j/default-22487.js" type="text/javascript"></script>
-<script language="javascript" src="http://assets.miaminewtimes.com/load/j/about-privacyPolicy-22487.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.miaminewtimes.com/load/j/default-27205.js" type="text/javascript"></script>
+<script language="javascript" src="http://assets.miaminewtimes.com/load/j/about-privacyPolicy-27205.js" type="text/javascript"></script>
 <!-- End p/af/v/e/LoadJS -->
-    
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-395255-7']);
+  _gaq.push(['_setDomainName', 'miaminewtimes.com']);
+  _gaq.push(['_setCustomVar', 4, '', 'Home|Misc|', 1]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']); 
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
     
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
+    
+    <style>
+     .outerBody { overflow: hidden; }
+     .innerBody { overflow-x: auto; }
+    </style>
+    
+    <script type="text/javascript">
+
+        $(document).ready(function(){
+            $toolbar_height = $('.toolbarStripe').height();
+            $adWrapper = $('<div id="adWrapper"/>');
+            var reQS = new RegExp( "[?&]Category=([^&$]*)", "i" );
+            var offset = OAS_query.search( reQS );
+            var category = ( offset >= 0 ) ? RegExp.$1 : null;
+            if (category != null) {
+                $.post(
+                    '/ads/reskins/' + category + '/',
+                    {},
+                    function(response){
+                        $adWrapper.html(response);
+                        $('.pagecontainer').prepend($adWrapper);
+                    }
+                );
+            }
+
+            $(window).scroll(function(){
+                updateAdWrapperPosition()
+            })
+            updateAdWrapperPosition()
+        });
+
+        function updateAdWrapperPosition(){
+            $y = $(window).scrollTop();
+            if($y > $toolbar_height){
+                $adWrapper.addClass('adWrapperFixed');
+            } else {
+                $adWrapper.removeClass('adWrapperFixed');
+            }
+        }
+    </script>
+        
 </head>
 <body><!--googleoff: all--> 
+<div class="outerBody">
 
 <!-- BACKGROUND AD -->
 
-  
+
 <!-- BACKGROUND AD -->
 <div class="pagecontainer">
-    <div class="leaderboard">
+    <div class="vvmlb">
         <div class="topbanner">
             <!-- NOGSA -->
 <div class="Ads" id="Top">
@@ -87,13 +145,11 @@
                                                                                     $("#sub-nav-music").append( '<li><a href="/music/" target="_self">Music Home</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="http://blogs.miaminewtimes.com/crossfade/" target="_self">Crossfade</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="/events/music/" target="_self">Top Picks</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/directory/club/" target="_self">Clubs Directory</a></li>' ); 
+                                                                                    $("#sub-nav-music").append( '<li><a href="/directory/clubs/" target="_self">Clubs Directory</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="/events/concerts/" target="_self">Concert Calendar</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="/jukebox/" target="_self">Digital Jukebox</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="/adIndex/category/entertainment-17/" target="_self">Entertainment Ads</a></li>' ); 
                                                                                     $("#sub-nav-music").append( '<li><a href="/microsites/hard-rock-live/" target="_self">Hard Rock Live</a></li>' ); 
-                                                                                    $("#sub-nav-music").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
                                                                             });
                                 </script>
                             </ul>
@@ -104,12 +160,11 @@
                                     $(document).ready( function() {
                                                                                     $("#sub-nav-calendar").append( '<li><a href="/calendar/" target="_self">Calendar Home</a></li>' ); 
                                                                                     $("#sub-nav-calendar").append( '<li><a href="/events/search/" target="_self">Top Picks</a></li>' ); 
+                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/category:[1634884]/" target="_self">Holiday Events</a></li>' ); 
+                                                                                    $("#sub-nav-calendar").append( '<li><a href="/events/search/category:[1259983]/" target="_self">New Year&#039;s Eve Events</a></li>' ); 
                                                                                     $("#sub-nav-calendar").append( '<li><a href="/feedback/SubmitAnEvent/" target="_self">Submit an Event</a></li>' ); 
                                                                                     $("#sub-nav-calendar").append( '<li><a href="/adIndex/category/entertainment-17/" target="_self">Entertainment Ads</a></li>' ); 
                                                                                     $("#sub-nav-calendar").append( '<li><a href="/microsites/hard-rock-live/e/" target="_self">Hard Rock Live</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="http://microapp.miaminewtimes.com/beerbque/" target="_self">Seminole Paradise Beer B Que</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="http://www.miaminewtimes.com/promosites/back-door-bamby/" target="_self">Back Door Bamby</a></li>' ); 
-                                                                                    $("#sub-nav-calendar").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
                                                                             });
                                 </script>
                             </ul>
@@ -124,27 +179,27 @@
                                                                                     $("#sub-nav-restaurants").append( '<li><a href="/restaurants/reviews/" target="_self">Restaurant Reviews</a></li>' ); 
                                                                                     $("#sub-nav-restaurants").append( '<li><a href="/restaurants/menus/" target="_self">Sponsored Online Menus</a></li>' ); 
                                                                                     $("#sub-nav-restaurants").append( '<li><a href="http://happyhours.miaminewtimes.com/miami/find/places/" target="_self">Happy Hours</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://digitalissue.miaminewtimes.com/publication/?i=13185&amp;p=1/" target="_self">Taste Flipbook</a></li>' ); 
+                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://digitalissue.miaminewtimes.com/publication/index.php?i=61610&amp;m=&amp;l=&amp;p=4&amp;pre=&amp;ver=flex" target="_self">Taste Flipbook</a></li>' ); 
                                                                                     $("#sub-nav-restaurants").append( '<li><a href="/adIndex/subcategory/restaurants-792/" target="_self">Restaurant Ads</a></li>' ); 
                                                                                     $("#sub-nav-restaurants").append( '<li><a href="http://coupons.miaminewtimes.com/miami/deals/restaurants/" target="_self">Restaurant Coupons</a></li>' ); 
-                                                                                    $("#sub-nav-restaurants").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
+                                                                                    $("#sub-nav-restaurants").append( '<li><a href="/promosites/taste-2012/" target="_self">Taste 2012</a></li>' ); 
                                                                             });
                                 </script>
                             </ul>
                                             </li>
                                                                 <li id="nav-search" class="topMenu">
                         <a class="top" href="#">&nbsp;</a>
-                        <form id="navSearch" method="get" action="http://www.miaminewtimes.com/search/index">                            <input name="keywords" type="text" autocomplete="off" id="searchInput" class="searchInput" value="Search Miami New Times"><input type="image" id="searchSubmit" src="http://assets.miaminewtimes.com/img/nav_search.jpg">
-                        </form>                                            </li>
+                                                <form id="navigationSearch" onsubmit="" method="get" action="http://www.miaminewtimes.com/search/index/">               
+                        <input name="keywords" type="text" autocomplete="off" class="searchInput" id="searchInput" value="Search Miami New Times">                        <input type="image" src="http://assets.miaminewtimes.com/img/nav_search.jpg" id="searchSubmit">                                                                        </form>                    </li>
                                                                 <li id="nav-arts" class="topMenu menuLi">
                         <a href="/arts/" class="top" target="_self">Arts</a>                                                    <ul class="mid subNav" id="sub-nav-arts">
                                 <script type="text/javascript">
                                     $(document).ready( function() {
                                                                                     $("#sub-nav-arts").append( '<li><a href="/arts/" target="_self">Arts Home</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="/microsites/arts-eats/" target="_self">Arts &amp; Eats</a></li>' ); 
+                                                                                    $("#sub-nav-arts").append( '<li><a href="/microsites/arts-eats-2011/" target="_self">Arts &amp; Eats</a></li>' ); 
                                                                                     $("#sub-nav-arts").append( '<li><a href="http://blogs.miaminewtimes.com/cultist/" target="_self">Cultist</a></li>' ); 
                                                                                     $("#sub-nav-arts").append( '<li><a href="/theater/" target="_self">Theater</a></li>' ); 
-                                                                                    $("#sub-nav-arts").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
+                                                                                    $("#sub-nav-arts").append( '<li><a href="/microsites/masterminds/" target="_self">MasterMind Awards</a></li>' ); 
                                                                             });
                                 </script>
                             </ul>
@@ -180,12 +235,12 @@
                                 <script type="text/javascript">
                                     $(document).ready( function() {
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="http://miaminewtimes.backpage.com/" target="_self">Free Classifieds</a></li>' ); 
-                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://www.miaminewtimes.com/classifieds/rentals/" target="_self">Apartment Spaces</a></li>' ); 
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="http://personals.miaminewtimes.com/" target="_self">Personals</a></li>' ); 
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="http://miaminewtimes.trulia.com/FL/Miami/" target="_self">Real Estate for Sale</a></li>' ); 
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="/microsites/job-fair/" target="_self">Virtual Job Fair</a></li>' ); 
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="http://personals.miaminewtimes.com/blog/index.html" target="_self">Personals Blogs</a></li>' ); 
                                                                                     $("#sub-nav-classifieds").append( '<li><a href="/microsites/career-guide/" target="_self">Career Guide</a></li>' ); 
+                                                                                    $("#sub-nav-classifieds").append( '<li><a href="http://www.miaminewtimes.com/feedback/EmailAnEmployee?department=classified" target="_self">Place an Ad (Print)</a></li>' ); 
                                                                             });
                                 </script>
                             </ul>
@@ -232,27 +287,24 @@
                             <script type="text/javascript">
                                 $(document).ready( function() {
                                                                             $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/" target="_self">Best Of Home</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2010/section/bars-and-clubs-13678/" target="_self">Bars &amp; Clubs</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2010/section/food-and-drinks-1645141/" target="_self">Food &amp; Drinks</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2010/section/people-and-places-13676/" target="_self">People &amp; Places</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2010/section/shopping-and-services-13683/" target="_self">Shopping &amp; Services</a></li>' ); 
+                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/bars-and-clubs-13678/" target="_self">Bars &amp; Clubs</a></li>' ); 
+                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/food-and-drinks-1645141/" target="_self">Food &amp; Drinks</a></li>' ); 
+                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/people-and-places-13676/" target="_self">People &amp; Places</a></li>' ); 
+                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="/bestof/2011/section/shopping-and-services-13683/" target="_self">Shopping &amp; Services</a></li>' ); 
                                                                             $("#bottom-sub-nav-best_of").append( '<li><a href="/adIndex/category/best-of-miami-114/" target="_self">Best Of Ads</a></li>' ); 
-                                                                            $("#bottom-sub-nav-best_of").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
                                                                             $("#bottom-sub-nav-best_of").append( '<li><a href="/promotions/mobileApps/" target="_self">Download the App</a></li>' ); 
                                                                     });
                             </script>
                         </ul>
                                     </li>
                             <li id="nav-barsclubs" class="bottomMenu menuLi">
-                <a href="/directory/club/" class="bottom" target="_self">Bars/Clubs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-barsclubs">
+                <a href="/directory/clubs/" class="bottom" target="_self">Bars/Clubs</a>                                            <ul class="mid bottomSubNav" id="bottom-sub-nav-barsclubs">
                             <script type="text/javascript">
                                 $(document).ready( function() {
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="/directory/club/" target="_self">Bars/Clubs Home</a></li>' ); 
+                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="/directory/clubs/" target="_self">Bars/Clubs Home</a></li>' ); 
                                                                             $("#bottom-sub-nav-barsclubs").append( '<li><a href="/adIndex/subcategory/bars-clubs-and-liquor-95/" target="_self">Bars/Clubs Ads</a></li>' ); 
                                                                             $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://coupons.miaminewtimes.com/miami/deals/entertainment/clubs/" target="_self">Bars / Clubs Coupons</a></li>' ); 
                                                                             $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://happyhours.miaminewtimes.com/miami/find/places/" target="_self">Happy Hours</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
-                                                                            $("#bottom-sub-nav-barsclubs").append( '<li><a href="http://www.miaminewtimes.com/promosites/back-door-bamby/" target="_self">Back Door Bamby</a></li>' ); 
                                                                     });
                             </script>
                         </ul>
@@ -286,17 +338,15 @@
                                                                             $("#bottom-sub-nav-promotions").append( '<li><a href="http://deals.voiceplaces.com/miami" target="_self">VOICE Daily Deals</a></li>' ); 
                                                                             $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/hardrocklive/" target="_self">Hard Rock Live</a></li>' ); 
                                                                             $("#bottom-sub-nav-promotions").append( '<li><a href="/samples/readers/" target="_self">Newsletter Samples</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/lionelrichie/" target="_self">Lionel Richie</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/motleycrue/" target="_self">Motley Crue</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/joanjett/" target="_self">Joan Jett</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.urmomcalled.com/" target="_self">URmomcalled</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/bom/" target="_self">Best of Miami VOTE NOW</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/microsites/100K_dream_job_give-away/" target="_self">$100K Dream Job Give-Away</a></li>' ); 
                                                                             $("#bottom-sub-nav-promotions").append( '<li><a href="/follow/" target="_self">Follow Us</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.miaminewtimes.com/microsites/miami-romance-month/" target="_self">Miami Romance Month</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://microapp.miaminewtimes.com/beerbque/" target="_self">Seminole Paradise Beer B Que</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/miraclemile/" target="_self">Miracle Mile</a></li>' ); 
-                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://www.miaminewtimes.com/promosites/back-door-bamby/" target="_self">Back Door Bamby</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/microsites/street-team-promo/" target="_self">Join the Street Team</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promosites/win-a-mini-cooper/" target="_self">Win an Aleloop MINI Cooper</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/microsites/nye-guide-2012/" target="_self">NYE Guide 2012</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/microsites/masterminds/" target="_self">MasterMind Awards</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/jeff-foxworthy/" target="_self">Jeff Foxworthy</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/kelly-clarkson/" target="_self">Kelly Clarkson</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="http://polls.miaminewtimes.com/polls/mia/whoopi-goldberg/" target="_self">Whoopi Goldberg</a></li>' ); 
+                                                                            $("#bottom-sub-nav-promotions").append( '<li><a href="/promosites/taste-2012/" target="_self">Taste 2012</a></li>' ); 
                                                                     });
                             </script>
                         </ul>
@@ -325,11 +375,18 @@
 <div class="ClearIt"></div>
 <!-- !p/af/v/navigation/index -->
     </div>
-
-    <div class="PencilAd">
-            </div>
-
+    
+    <!-- NOGSA -->
+<div class="Ads" id="Middle3">
+    <script language="JavaScript">
+        <!--
+        OAS_AD('Middle3');
+        //-->
+    </script>
+</div>
+<!-- /NOGSA -->
     <div class="Content">
+        <div class="innerBody">
          <div class="backbox about "><div class="widget trackme" name="PrivacyPolicy"><div class="content_area chisel_u">
 <h2>Privacy Policy</h2>
 <div class="PrivacyPolicy">
@@ -421,10 +478,10 @@
 
 
 </div>
-</div></div><div class="right_content basic "><div class="widget trackme" name="VoiceDealOfTheDayWidget"><div class="chisel_u r_ad_box">
+</div></div><div class="right_content basic "><div class="widget trackme" name="DailyDeals"><div class="chisel_u r_ad_box">
     <div class="VoiceDealOfTheDayImage">
-        <a href="http://www.voicedailydeals.com/miami/?utm_source=miaminewtimes&amp;utm_medium=widget&amp;utm_campaign=vdotd-miami" target="_blank">
-            <img src="http://media.miaminewtimes.com/6530473.0.gif" alt="VOICE Daily Deals">
+        <a href="http://www.voicedailydeals.com/miami/?utm_source=miaminewtimes&amp;utm_medium=vdd-widget-mia&amp;utm_campaign=vddw-mia-home" target="_blank">
+            <img src="http://media.miaminewtimes.com/7532206.0.jpg" alt="VOICE Daily Deals">
         </a>
     </div>
 </div></div><div class="ClearIt "></div>
@@ -439,10 +496,10 @@
 <!-- /NOGSA --></div>
 <div class="widget trackme" name="VillageRailWidget"><div class="chisel_u r_box villagerail">
     <div class="chisel_d white">
-        <h6>for free stuff, concert and dining info &amp; more!</h6>
+              <h6>for free stuff, concert and dining info &amp; more!</h6>
         <form action="/village/register/" method="post">
             <input class="text chisel_d" type="text" name="email" value="enter email" id="villagerailemail">
-            <input type="hidden" name="sourceId" value="60">
+            <input type="hidden" name="sourceId" value="8|23|36">
             <div id="more">
                 <div id="recaptcha_rail_placeholder"></div>
                 <a href="/about/privacyPolicy" class="privacy">Privacy policy</a>
@@ -450,27 +507,105 @@
             </div>
         </form>
     </div>
-</div></div><div class="widget trackme" name="MostPopularWidget"></div><div class="ClearIt "></div>
+</div></div><div class="widget trackme" name="MostPopularWidget"><!-- NOGSA -->
+  <div class="chisel_u r_box mostpop">
+   <div class="gray">
+    <div id="mostPopular" class="mostPopular">
+    <h2>Most Popular Stories</h2>
+
+    <script language="javascript">
+var tabs = new TabSet('mostPopular');
+tabs.addTab('Viewed','mostViewed',1);
+tabs.addTab('Commented','mostCommented',0);
+tabs.addTab('eMailed','mostEmailed',0);
+</script>
+
+    <div class="mp_lower chisel_t">
+            <div id="mostViewed">
+            <ul>
+                                                                 <li class="story">
+                <div class="popRating">
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2011-12-01/news/miami-s-federal-detention-center-barely-paralegal/" class="headline">Miami's Federal Detention Center Barely Paralegal</a>                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story">
+                <div class="popRating">
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2011-12-15/news/rolling-stove-yamil-rosaly-jr-nagib-castillo-miami/" class="headline">Miami food truck disappears, a 25-year-old is killed</a>                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story last">
+                <div class="popRating">
+                <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>                </div>
+                <a href="/2011-12-15/news/bcs-college-football-bowl-scam/" class="headline">Insiders use the college bowl system to loot American universities</a>                <div class="subHeadline"></div>
+                </li>
+                                    <li class="more"><a href="/mostPopular/">More Most Popular&gt;&gt;</a></li>
+            </ul>
+        </div>
+                        <div id="mostCommented" style="display: none;">
+        <ul>
+                                                                 <li class="story">
+                <a href="/2011-12-15/news/rolling-stove-yamil-rosaly-jr-nagib-castillo-miami/" class="headline">Miami food truck disappears, a 25-year-old is killed</a> <span class="count">(23)</span>
+                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story">
+                <a href="/2011-12-08/news/famu-robert-champion-hazing-death-scandal-is-no-penn-state/" class="headline">FAMU scandal is no Penn State</a> <span class="count">(16)</span>
+                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story last">
+                <a href="/2011-12-08/news/home-built-aircraft-thrill-and-kill/" class="headline">Home-built aircraft thrill and kill</a> <span class="count">(15)</span>
+                <div class="subHeadline"><a href="http://blogs.miaminewtimes.com/riptide/2011/12/guide_to_new_times_paper_plane.php">Make your own paper plane with this week's <i>New Times</i> cover.</a></div>
+                </li>
+                                    <li class="more"><a href="/most/commented/1/">More Most Commented &gt;&gt;</a></li>
+            </ul>
+        </div>
+                        <div id="mostEmailed" style="display: none;">
+            <ul>
+                                                                <li class="story">
+                <a href="/2011-12-15/news/bcs-college-football-bowl-scam/" class="headline">Insiders use the college bowl system to loot American universities</a>                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story">
+                <a href="/2011-12-29/news/mavericks-in-education-florida-charter-schools-miami-dade-problems/" class="headline">Mavericks charter schools don't live up to big promises</a>                <div class="subHeadline"></div>
+                </li>
+                                                                <li class="story last">
+                <a href="/2011-12-15/news/ice-snitch-angel-jose-perez-duped-the-fbi-and-got-rich/" class="headline">ICE snitch Angel Jose Perez duped the FBI and got rich</a>                <div class="subHeadline"></div>
+                </li>
+                                    <li class="more"><a href="/most/emailed/1/">More Most Emailed &gt;&gt;</a></li>
+            </ul>
+        </div>
+                <div class="microbar">
+                </div>
+    </div>
+</div>
+
+ </div>
+</div>
+<!-- /NOGSA --></div><div class="ClearIt "></div>
 <div class="widget trackme" name="FlatAds"><!-- p/af/v/ads/flat_ads -->
 <div class="chisel_u r_ad_box">
   <div class="FlatAds NYVButtons rail">
    <div style="width:160px;float:left;">
+<a href="http://www.miaminewtimes.com/microsites/nye-guide-2012/"><img src="http://media.miaminewtimes.com/7444189.0.jpg"></a>
 
 
-<!--- <a href="http://www.urmomcalled.com"><img src="http://media.miaminewtimes.com/6134343.0.jpg" /></a> --->
 
 </div>
 
 <div style="width:160px;float:right;">
-<a href="http://joonbug.com/miami" target="_blank"><img src="http://media.miaminewtimes.com/5893567.0.gif" border="0"></a><br>
-<a href="http://joonbug.com/miami" target="_blank">Miami Nightlife Guide</a>
+
+<a href="http://www.urmomcalled.com"><img src="http://media.miaminewtimes.com/6134343.0.jpg"></a>
+
+
+<!--<a href="http://joonbug.com/miami" target="_blank"><img src="http://media.miaminewtimes.com/5893567.0.gif" border="0" /></a><br />
+<a href="http://joonbug.com/miami" target="_blank">Miami Nightlife Guide</a>-->
+
+
 </div>
 
 <br style="clear:both;">  </div>
  </div>
 
 <!-- !p/af/v/ads/flat_ads --></div><div class="ClearIt "></div>
-<div class="chisel_u r_ad_box "><!-- NOGSA -->
+<div class="chisel_u r_ad_box r_noverflow "><!-- NOGSA -->
 <div class="Ads" id="Middle1">
     <script language="JavaScript">
         <!--
@@ -508,7 +643,6 @@
 <option value="76">Services</option>
 <option value="90">Health &amp; Beauty</option>
 <option value="93">Retail</option>
-<option value="180">Medical</option>
 <option value="195">Travel</option>
 <option value="269">Education</option>
 <option value="586">Alternative Medicine</option>
@@ -522,27 +656,27 @@
         <ul>
             <li>
               <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/13980/thumbnail.png">
+                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/14542/thumbnail.png">
               </div>
               <div class="content">
-                <h4><a href="http://coupons.miaminewtimes.com/miami/deals/?offer_id=13980" class="proposition">FREE Bag!</a></h4>
-                <div class="advertiser">Yellow Green Farmers Market</div>
+                <h4><a href="http://coupons.miaminewtimes.com/miami/deals/?offer_id=14542" class="proposition">Legal Defense</a></h4>
+                <div class="advertiser">Dk Philips Attorneys &amp; Counselors</div>
                 <div class="address">
-                      1940 North 30th Road<br>
-                      Hollywood, FL 33021<br>
+                      702 W 51 Street 702<br>
+                      Miami, FL 33140<br>
                 </div>
               </div>
             </li>
             <li class="last">
               <div class="photo">
-                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/25963/thumbnail.png">
+                <img alt="Thumbnail" src="http://photos.offers.analoganalytics.com/production/65787/thumbnail.png">
               </div>
               <div class="content">
-                <h4><a href="http://coupons.miaminewtimes.com/miami/deals/?offer_id=25963" class="proposition">Complimentary Drink!</a></h4>
-                <div class="advertiser">Brickell Irish Pub</div>
+                <h4><a href="http://coupons.miaminewtimes.com/miami/deals/?offer_id=65787" class="proposition">25% Off Entire Bill!</a></h4>
+                <div class="advertiser">Alhambra Restaurant</div>
                 <div class="address">
-                      1451 S Miami Ave<br>
-                      Miami, FL 33130<br>
+                      13550 SW 120th Street<br>
+                      Miami, FL 33186<br>
                 </div>
               </div>
             </li>
@@ -558,7 +692,7 @@
    <div class="chisel_d white">
     <h2>Now Click This</h2>
     <ul>
-<li><a href="http://www.miaminewtimes.com/flipbook/best-of-miamiand-174-2010-2354037/" target="">Best Of Miami® 2010</a></li><li><a href="http://www.facebook.com/pages/Miami-New-Times/34114957278?ref=ts" target="">Be our Fan on Facebook</a></li><li><a href="http://twitter.com/newtimesstreet" target="">Follow us on Twitter @</a></li><li><a href="http://www.miaminewtimes.com/readers/register" target="">Get Text Alerts</a></li><li class="last"><a href="http://www.urmomcalled.com" target="">URmomcalled</a></li>    </ul>
+<li><a href="http://www.miaminewtimes.com/flipbook/june-2011-2833014/" target=""></a></li><li><a href="http://www.facebook.com/pages/Miami-New-Times/34114957278?ref=ts" target="">Be our Fan on Facebook</a></li><li><a href="http://twitter.com/newtimesstreet" target="">Follow us on Twitter @</a></li><li><a href="http://www.miaminewtimes.com/readers/register" target="">Get Text Alerts</a></li><li class="last"><a href="http://www.urmomcalled.com" target="">URmomcalled</a></li>    </ul>
    </div>
   </div>
 
@@ -577,37 +711,38 @@
 <!-- /p/af/v/e/Footer -->
 <!--googleoff: all-->
 <div class="footer">
-    <a href="http://www.miaminewtimes.com/about/index">About Us</a> |
+    <a href="http://www.miaminewtimes.com/about/index/">About Us</a> |
     <a href="http://jobs.miaminewtimes.com" target="_blank">Work for Miami New Times</a> |
-    <a href="http://www.miaminewtimes.com/readers/register">Esubscribe</a> |
+    <a href="http://www.miaminewtimes.com/village/register/">Esubscribe</a> |
     <a href="http://miami.backpage.com">Free Classifieds</a> |
-    <a href="http://www.miaminewtimes.com/about/index">Miami New Times Advertising</a> |
+    <a href="http://www.miaminewtimes.com/about/index/">Miami New Times Advertising</a> |
     <a href="http://www.voicemediagroup.com">National Online Advertising</a> |
     <a href="http://www.miaminewtimes.com/promotions/mobileApps/">Mobile</a> |
-    <a href="http://www.miaminewtimes.com/about/privacyPolicy">Privacy Policy</a> |
-    <a href="http://www.miaminewtimes.com/about/terms">Terms of Use</a> |
-    <a href="http://www.miaminewtimes.com/bugs">Problem With the Site?</a> |
-    <a href="http://www.miaminewtimes.com/about/syndication">RSS</a> |
-    <a href="http://www.miaminewtimes.com/about/siteMap">Site Map</a> 
+    <a href="http://www.miaminewtimes.com/about/privacyPolicy/">Privacy Policy</a> |
+    <a href="http://www.miaminewtimes.com/about/terms/">Terms of Use</a> |
+    <a href="http://www.miaminewtimes.com/bugs/">Problem With the Site?</a> |
+    <a href="http://www.miaminewtimes.com/about/syndication/">RSS</a> |
+    <a href="http://www.miaminewtimes.com/about/siteMap/">Site Map</a> 
 </div>
 <!-- End /p/af/v/e/Footer -->
+        </div>
     </div>
     <div class="copyright">© 2011 Miami New Times, LLC, All rights reserved.</div>
 </div>
 
   <!-- BACKGROUND AD -->
-  
-   
-
-  <!-- BACKGROUND AD -->
+    <!-- BACKGROUND AD -->
 
 <!-- /pagecontainer -->
+<script type="text/javascript">
+var redirectController = 'village';
+</script>
 <div class="toolbarStripe"></div>
 <div id="toolbar">
     <div class="mainContent">
 
         <div id="villages">
-            <span class="triangleOpen"></span> Browse Villages
+            <span class="triangleOpen"></span> Browse Voice Nation
         </div>
 
         <div id="siteContent">
@@ -616,10 +751,10 @@
         <div id="loginProfile">
             <div class="profile">
                 <div id="profile">
-                    <img src="/img/avatar-blank.jpg">
+                    <img src="http://media.miaminewtimes.com/6524627.13.jpg">
                     <div class="username"></div><span class="triangleOpen"></span>
                 </div>
-                <a href="/village/newsletters/">Newsletters</a> | <a href="/village/mobile/">Mobile</a>
+                <span id="profileLink"><a href="/">Profile</a> |</span> <a href="/village/newsletters/">Newsletters</a> | <a href="/village/mobile/">Mobile</a>
             </div>
                         <div id="logLink" class="login">
                 Log in <span class="triangleOpen"></span>
@@ -630,65 +765,80 @@
                     </div>
 
         <div id="showVill">
-            <div class="left">
-                <h2>Digital Markets</h2>
-                <ul>
-                    <li>
-                        <a href="http://www.villagevoice.com">New York Village Voice</a><br>
-                        <a href="http://www.laweekly.com">LA Weekly</a><br>
-                        <a href="http://www.phoenixnewtimes.com">Phoenix New Times</a><br>
-                        <a href="http://www.westword.com">Denver Westword</a><br>
-                        <a href="http://www.houstonpress.com">Houston Press</a><br>
-                        <a href="http://www.dallasobserver.com">Dallas Observer</a><br>
-                        <a href="http://www.sfweekly.com">SF Weekly</a><br>
-                    </li>
-                    <li>
-                        <a href="http://www.seattleweekly.com">Seattle Weekly</a><br>
-                        <a href="http://www.riverfronttimes.com">St. Louis RFT</a><br>
-                        <a href="http://www.miaminewtimes.com">Miami New Times</a><br>
-                        <a href="http://www.citypages.com">Minneapolis City Pages</a><br>
-                        <a href="http://www.ocweekly.com">OC Weekly</a><br>
-                        <a href="http://www.browardpalmbeach.com">Broward/Palm Beach New Times</a><br>
-                    </li>
-                </ul>
-            </div>
-            <div class="right">
-                <h2>Other Villages</h2>
-                <ul>
-                    <li>
-                        <a href="http://bestof.voiceplaces.com"><img src="/img/icon-40-bestof.png" alt="Best Of" height="40" width="40"></a>
-                        <h3><a href="http://bestof.voiceplaces.com" target="_new">Best Of...</a></h3>
-                        <p>More than 10,000 of the BEST things to eat, drink, and experience</p>
-                    </li>
-                    <li>
-                        <a href="http://www.voicedailydeals.com"><img src="/img/icon-40-dotd.png" alt="VOICE Daily Deals" height="40" width="40"></a>
-                        <h3><a href="http://www.voicedailydeals.com" target="_new">VOICE Daily Deals</a></h3>
-                        <p>Get 50 to 90% off every day on restaurants, movies, massages and more</p>
-                    </li>
-                </ul>
-            </div>
+            <ul class="nation">
+                <li>
+                    <a href="http://www.villagevoice.com">New York Village Voice</a><br>
+                    <a href="http://www.laweekly.com">LA Weekly</a><br>
+                    <a href="http://www.phoenixnewtimes.com">Phoenix New Times</a><br>
+                </li>
+                <li>
+                    <a href="http://www.westword.com">Denver Westword</a><br>
+                    <a href="http://www.houstonpress.com">Houston Press</a><br>
+                    <a href="http://www.dallasobserver.com">Dallas Observer</a><br>
+                </li>
+                <li>
+                    <a href="http://www.sfweekly.com">SF Weekly</a><br>
+                    <a href="http://www.seattleweekly.com">Seattle Weekly</a><br>
+                    <a href="http://www.riverfronttimes.com">St. Louis RFT</a><br>
+                </li>
+                <li>
+                    <a href="http://www.miaminewtimes.com">Miami New Times</a><br>
+                    <a href="http://www.citypages.com">Minneapolis City Pages</a><br>
+                    <a href="http://www.ocweekly.com">OC Weekly</a><br>
+                </li>
+                <li>
+                    <a href="http://www.browardpalmbeach.com">Broward/Palm Beach New Times</a><br>
+                </li>
+            </ul>
+            <ul class="other">
+                <li>
+                    <a href="http://www.voiceplaces.com"><img src="/img/clear5.png" class="placesIcon" alt="Voice Places"></a>
+                    <h3><a href="http://www.voiceplaces.com">Voice Places</a></h3>
+                    <p>Discover restaurants, nightlife, travel, shopping...</p>
+                </li>
+                <li>
+                    <a href="http://www.voicedailydeals.com"><img src="/img/clear5.png" class="dotdIcon" alt="VOICE Daily Deals"></a>
+                    <h3><a href="http://www.voicedailydeals.com">VOICE Daily Deals</a></h3>
+                    <p>Get 50 to 90% off every day on restaurants, movies, massages...</p>
+                </li>
+                <li>
+                    <a href="http://bestof.voiceplaces.com"><img src="/img/clear5.png" class="bestofIcon" alt="Best Of"></a>
+                    <h3><a href="http://bestof.voiceplaces.com">Best Of...</a></h3>
+                    <p>More than 10,000 of the BEST things to eat, drink, and experience</p>
+                </li>
+                <li>
+                    <a href="http://www.myvoicenation.com"><img src="/img/clear5.png" class="mvnIcon" alt="My Voice Nation"></a>
+                    <h3><a href="http://www.myvoicenation.com">My Voice Nation</a></h3>
+                    <p>Join the Village Voice community and get exclusive deals and info</p>
+                </li>
+                <li>
+                    <a href="http://happyhours.miaminewtimes.com"><img src="/img/clear5.png" class="happyhourIcon" alt="Happy Hour"></a>
+                    <h3><a href="http://happyhours.miaminewtimes.com">Happy Hour</a></h3>
+                    <p>Your local Happy Hour guide at your fingertips</p>
+                </li>
+            </ul>
         </div>
                 <div id="login">
             <div class="or">or</div>
             <div class="left">
                 <p class="head"><b>Log in</b> or <span>Sign up</span></p>
-                <strong>Village Connect:</strong>
-                <p>Use your favorite account to Log in to the Village.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, 72)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, 72)"></button>
+                <strong>Social Connect:</strong>
+                <p>Use your favorite account to access My Voice Nation.</p>
+                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|24|&quot;)"></button>
+                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|24|&quot;)"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, 72)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, 72)"></button>
+                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|24|&quot;)"></button>
+                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|24|&quot;)"></button>
             </div>
             <div class="right">
-                <p>Use your Village account to log in:</p>
+                <p>Use your My Voice Nation account to log in:</p>
                 <form method="post" action="/village/login/">
                     <label for="email">E-mail</label><br>
                     <input type="text" name="email" id="email"><br>
                     <label for="password">Password</label><br>
                     <input type="password" name="password" id="password"><br>
                     <a href="/village/forgot/">Forgot password?</a>
-                    <input type="checkbox" name="rememberMe" id="rememberMe">
+                    <input type="checkbox" name="rememberMe" id="rememberMe" checked="checked">
                     <label for="rememberMe">Remember me</label>
                     <input type="submit" value="Login" class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">
                 </form>
@@ -699,22 +849,36 @@
             <div class="or">or</div>
             <div class="left">
                 <p class="head"><b>Sign Up</b> or <span>Log in</span></p>
-                <strong>Village Connect:</strong>
-                <p>Use your favorite account to Sign Up for the Village.</p>
-                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, 72)"></button>
-                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, 72)"></button>
+                <strong>Social Connect:</strong>
+                <p>Sign up for My Voice Nation with your preferred network.</p>
+                <button class="facebookConnect" onclick="VVM.Toolbar.socialConnect(&quot;facebook&quot;, &quot;8|24|&quot;)"></button>
+                <button class="yahooConnect" onclick="VVM.Toolbar.socialConnect(&quot;yahoo&quot;, &quot;8|24|&quot;)"></button>
                 <br>
-                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, 72)"></button>
-                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, 72)"></button>
+                <button class="googleConnect" onclick="VVM.Toolbar.socialConnect(&quot;google&quot;, &quot;8|24|&quot;)"></button>
+                <button class="twitterConnect" onclick="VVM.Toolbar.socialConnect(&quot;twitter&quot;, &quot;8|24|&quot;)"></button>
             </div>
             <div class="right">
-                <p>Sign up for a Village account:</p>
+                <p>Sign up for a My Voice Nation account:</p>
                 <form method="post" action="/village/register/">
+<!--
+                    <label for="f_name" id="f_name_label">First Name</label>
+                    <label for="l_name" id="l_name_label">Last Name</label>
+                    <input type="text" name="f_name" id="f_name" maxlength="20" />
+                    <input type="text" name="l_name" id="l_name" maxlength="20" />
+                    <br style="clear: both"/>
+-->
                     <label for="email">E-mail</label><br>
                     <input type="text" name="email" id="email"><br>
+<!--
+                    <label for="username" id="username_label">Username</label><br />
+                    <input type="text" name="username" id="username" maxlength="20" /><br />
+
+                    <label for="zip">Zip Code</label><br />
+                    <input type="text" name="zip" id="zip" maxlength="5" /><br />
+-->
                     <div id="recaptcha_placeholder">
                     </div>
-                    <input type="hidden" name="sourceId" value="72">
+                    <input type="hidden" name="sourceId" value="8|24|">
                     <button class="submit" onclick="javascript:VVM.Toolbar.removeNoAuthCookie();">Sign Up</button>
                     <a href="/about/privacyPolicy/" class="privacy">Privacy policy</a>
                 </form>
@@ -736,13 +900,6 @@
     VVM.Toolbar.checkReferrer();
 </script>
 <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_udn = "miaminewtimes.com";
-_uacct = "UA-395255-7";
-urchinTracker();
-__utmSetVar("Home|Misc|");
-</script>
 	
 
 <!-- Start Quantcast tag -->
@@ -808,7 +965,7 @@ el.parentNode.insertBefore(s, el);
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=545302&amp;cb=25793414915&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20110612083306id_/http%253A//www.miaminewtimes.com/about/privacyPolicy"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a2edab9d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=545302&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2edab9d' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=545302&amp;cb=49391254333&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111231215444id_/http%3A//www.miaminewtimes.com/about/privacyPolicy/"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a2edab9d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=545302&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2edab9d' border='0' alt='' /></a></noscript>
 
 
 <!-- START: IndieClick Pixel -->
@@ -825,23 +982,16 @@ ic_script.parentNode.insertBefore(ic_element, ic_script);
 </script>
 <!-- END: IndieClick Pixel --><!-- INCK -->
 
+<!-- begin ZEDO for channel: Miami New Times , publisher: Miami New Times , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="305"; var zflag_cid="8673/1"; var zflag_sid="1915"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15";
+</script>
+<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
+<!-- end ZEDO for channel: Miami New Times , publisher: Miami New Times , Ad Dimension: Pixel/Popup - 1 x 1 -->
 <!-- /p/af/v/e/PaperSiteJS -->
 
-    <script type="text/javascript">
-        var wt_view_id = VVM.widgetUniqueID();
-    </script>
-
-    <!-- Widget VIEW Tracking -->
-    
-    <!-- Widget CLICK Tracking -->
-                <script type="text/javascript">
-                (function($) {
-                    VVM.widgetClickTracker(wt_view_id);
-                })(jQuery);
-            </script>
-    
 
 
-
+</div><!-- outerBody -->
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
