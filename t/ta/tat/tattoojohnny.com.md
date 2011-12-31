@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tattoojohnny.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129130450id_/http%3A//www.tattoojohnny.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoojohnny.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203239id_/http%3A//www.tattoojohnny.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Tattoo Johnny Tattoo Johnny Company Info: Privacy Policy
 
-Tattoo Johnny, Inc. (“Tattoo Johnny” or "us," "we" or “our”), is the sole proprietor and operator of this website (the "Site"). This Privacy Policy sets forth our information practices and is a part of the Terms and Conditions of Use of this Site located at www.tattoojohnny.com. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy and any updates that are posted on the Site.
+Tattoo Johnny, Inc. (â€œTattoo Johnnyâ€ or "us," "we" or â€œourâ€), is the sole proprietor and operator of this website (the "Site"). This Privacy Policy sets forth our information practices and is a part of the Terms and Conditions of Use of this Site located at www.tattoojohnny.com. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy and any updates that are posted on the Site.
 
 **I. WHAT INFORMATION IS COLLECTED AND WHY**
 
@@ -22,7 +22,7 @@ For our sites that offer user registration, we may retain this information on a 
 
 **b. Contacting You Concerning Promotions and New Products**
 
-We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I “Opt-out” of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
+We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I â€œOpt-outâ€ of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
 
 **c. Use of Your Information**
 
