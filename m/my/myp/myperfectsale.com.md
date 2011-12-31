@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myperfectsale.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514142547id_/http%3A//myperfectsale.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myperfectsale.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222405id_/http%3A//www.myperfectsale.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy - DesignerApparel.com
+# Privacy - MyPerfectSale.com
 
-**Designer Apparel Privacy Policy**   
+**My Perfect Sale Privacy Policy**   
 October 21, 2010 
 
 This privacy statement ("Privacy Policy") covers all the websites and services owned, affiliated or operated by Sugar Publishing, Inc. (collectively "Sugar Publishing", "we", "us", "our"). Sugar Publishing knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Sugar Publishing websites, submitting information or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and consent to having your data transferred to and processed in the United States. If you do not agree to the terms of this Privacy Policy you should not use the websites and services, nor should you submit personal information. 
