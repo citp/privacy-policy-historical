@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809223310id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230228id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
 
 # Torry's Delphi Pages
 
@@ -37,40 +37,45 @@ We reserve the right to update privacy statement from time to time. If we change
 ---  
   
   
-  [Easy data compression solution!](http://www.torry.net/advtxt/adclick.php?bannerid=118&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D15)  
-Easy Compression Library is a very easy-to-use replacement of TFileStream, TMemoryStream and other TStream descendants to their analogues with compression/decompression and encryption. Compression is transparent, all the methods, properties and behavior of TFileStream and TMemoryStream are supported, so it is very simple to replace them in the application code. Save up to $500 by ordering at Torry's Showcase!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=118&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D15)
+  [Kindle, Wi-Fi, Graphite, 6 inches Display with New E Ink Pearl Technology](http://www.torry.net/advtxt/adclick.php?bannerid=159&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB004HFS6Z0%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399373%26creativeASIN%3DB004HFS6Z0)  
+Kindle is our #1 bestselling item for two years running. It's also the most-wished-for, most-gifted, and has the most 5-star reviews of any product on Amazon. Now it's even better. 
 
-  
-  [Tired of common actions? Try SweetControls, they will help...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
-CodeAccelerate’s Delphi VCL controls are native, not derived from a standard control. So the power behind them are not hidden from you and whenever you need, you will find the answers to "howto" questions in seconds.   
-With CodeAccelerate’s Suite (over 50 rich, unique, high-quality, fully customizable, stable, fast controls controls, which are designed carefully to cover all your requirements), give power and profession to your Delphi applications which they desire and let others admire.   
-With SweetControls leave your doubts behind! And, of course, get 10% off as Torry's visitor!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)
+  * All-New, High-Contrast E Ink Screen - 50% better contrast with latest E Ink Pearl technology 
+  * Read in Bright Sunlight - No glare 
+  * New and Improved Fonts - New crisper, darker fonts 
+  * New Sleek Design - 21% smaller body while keeping the same 6" size reading area 
+  * 17% Lighter - Only 8.5 ounces, weighs less than a paperback 
+  * Battery Life of Up to Two Months - A single charge lasts up to two months with wireless off 
+  * Double the Storage - Up to 3,500 books 
+  * More... 
 
-  
-  [Do you know that you can save 10% on LMD products?](http://www.torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)  
-LMD-Tools covers almost 370 components (Relase 7.0 CE, + about 30 labeled controls) for any task you can imagine. Following component groups are only examples for the broad range of available components: LMD Tools includes controls for superior interface design, system programming, file controls, database applications, internet-/web-components, multimedia, text/data input (RichEdit), display of formatted text, and many more.   
-_Only for Torry's visitors!_ [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)
+[ more...](http://www.torry.net/advtxt/adclick.php?bannerid=159&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB004HFS6Z0%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399373%26creativeASIN%3DB004HFS6Z0)
 
   
   [Bring fresh look to your applications!](http://www.torry.net/advtxt/adclick.php?bannerid=69&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D13)  
-ThemeEngine is a library of components which allows to change visual appearance and behavior of your application with use of the powerful set of tools including visual components, convenient designers, easy-to-use non-visual components, the optimized graphic algorithms and a set of ready themes. ThemeEngine can add themes to forms, to the menu and to the elements of the management. 150+ stable easy to use components and 1000+ free skins.  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=69&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D13)  
+ThemeEngine is a library of components which allows to change visual appearance and behavior of your application with use of the powerful set of tools including visual components, convenient designers, easy-to-use non-visual components, the optimized graphic algorithms and a set of ready themes. ThemeEngine can add themes to forms, to the menu and to the elements of the management. 150+ stable easy to use components and 1000+ free skins.  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=69&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D13)
+
+  
+  [Delphi 2010 Handbook: A Guide to the New Features of Delphi 2010;](http://www.torry.net/advtxt/adclick.php?bannerid=155&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1450597262%2Fref%3Das_li_qf_sp_asin_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399377%26creativeASIN%3D1450597262)  
+The guide to what's new in Delphi 2010, from the best-selling author of the Mastering Delphi series and the Delphi 2007 and 2009 Handbooks. The book covers all the new features of Delphi 2010 for Win32, from Extended RTTI to new IDE features, from Windows 7 support to the improved DataSnap architecture. This is a brand new book, there is no overlapping material with the Delphi 2007 Handbook and Delphi 2009 Handbook (which you can consider buying along with this book in printed or electronic format). The Delphi 2010 Handbook is expected to have about 300 pages covering exclusively new Delphi 2010 features. There is no introduction material or anything like that. The book is for developers who use Delphi 2010.  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=155&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1450597262%2Fref%3Das_li_qf_sp_asin_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399377%26creativeASIN%3D1450597262)
+
+  
+  [Introducing Delphi Programming: Theory through Practice](http://www.torry.net/advtxt/adclick.php?bannerid=157&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0195789113%2Fref%3Das_li_qf_sp_asin_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399377%26creativeASIN%3D0195789113)  
+"Introducing Delphi Programming turned out to be outstanding: it begins where I needed to begin: it progresses smoothly from task to task; it is built around sets of practical exercises and practice activities; explanations are clear and well organized. It is the best "how to" book of any type that I have ever used.--Pat Byrd, Department of Applied Linguistics & ESL, Georgia State University  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=157&zoneid=1&source=&dest=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F0195789113%2Fref%3Das_li_qf_sp_asin_tl%3Fie%3DUTF8%26tag%3Dtorrysdelphipage%26linkCode%3Das2%26camp%3D217145%26creative%3D399377%26creativeASIN%3D0195789113)  
   
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
 
   * [Best Web Hosts](http://www.top10webhosting.com/)
-  * [Free Samples](http://www.thunderfap.com/)
 
 |  |  | 
 
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
 
-[](http://www.anyplace-control.com/)
+[pc remote control software](http://www.anyplace-control.com/) [remote desktop software](http://www.anyplace-control.com/) [remote access software](http://www.anyplace-control.com/)
 
 [](http://www.remote-desktop-control.com/)
 
 [](http://www.delphi3000.com/)
-
-[](http://www.interbase-world.com/?r1=torry&r2=ptr_button)
 
 [](http://www.delphi.eti.br/set_lang.php?lang=en)
 
