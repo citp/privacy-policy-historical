@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618012746id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213120id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MediaWales
 
