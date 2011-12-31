@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625133950id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204558id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
 
-# What are they, where to get them and… are they real? | Your Lucky Numbers
+# Privacy Policy | Your Lucky Numbers
 
 **Privacy Policy**
 
@@ -70,7 +70,7 @@ By using the Website and/or agreeing to receive information via e-mail from us, 
 
 **How to opt-out of future emails**
 
-All messages will be sent from Your Lucky Numbers (yourluckynumbers@millions.yourluckynumbers.com). If you no longer wish to receive emails from YourLuckyNumbers.com, you can unsubscribe at any time by using the "Unsubscribe" link at the head and at the foot of the newsletter or clicking [here](http://suppress003.com/Unsubscribe/YLN/). 
+All messages will be sent from Your Lucky Numbers (yourluckynumbers@millions.yourluckynumbers.com). If you no longer wish to receive emails from YourLuckyNumbers.com, you can unsubscribe at any time by using the "Unsubscribe" link at the head and at the foot of the newsletter or clicking [here](http://trk.yourluckynumbers.com/8_0_-design-=empty.aspx). 
 
 Additionally, if you prefer, you may also send us a note via regular mail at the address listed below:   
 GMB555 - yourluckynumbers.com  
@@ -82,4 +82,6 @@ New York, NY 10017
 
 If you have any questions regarding this statement, or would like more information on our privacy practices, please do not hesitate to [contact us](http://yourluckynumbers.com/Contact-Us/3_0_menu=2.aspx).
 
-Copyright © 2010 YourLuckyNumbers.com - All Rights Reserved. For Entertainment Purposes Only.
+Copyright © 2011 YourLuckyNumbers.com - All Rights Reserved. For Entertainment Purposes Only.
+
+[ ](http://yourluckynumbers.com/0_220_object=422347.aspx?banner=2)
