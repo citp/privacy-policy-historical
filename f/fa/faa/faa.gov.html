@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the faa.gov privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606215012id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faa.gov privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205125id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -12,17 +12,22 @@
 		<meta name="pageDate" content="September 22, 2010 9:58 am ET">
 	
 	<meta name="inTemplate" content="1">
-
+	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/themes/base/jquery-ui.css">
 	<link rel="stylesheet" media="screen,projection" href="/templates/3.0/assets/css/general.css" id="cssStandard" title="Standard Styles" type="text/css">
 	<link rel="stylesheet" media="screen,projection" href="/script/jquery/jquery.faaPlugins.css" type="text/css">
 	<link rel="stylesheet" media="print" href="/templates/3.0/assets/css/print.css" type="text/css">
 	<link rel="alternate stylesheet" media="screen,projection" href="/templates/3.0/assets/css/printPreview.css" id="cssPreview" title="Printer-Friendly Styles" type="text/css">
+
+	
+	
+
 	
 	<!--[if IE 8]><link href="/templates/3.0/assets/css/ie8.css" rel="stylesheet" type="text/css" media="screen,projection"><![endif]-->
 	<!--[if LTE IE 7]><link href="/templates/3.0/assets/css/ie7.css" rel="stylesheet" type="text/css" media="screen,projection">
 	<link href="/script/jquery/jquery.faaPlugins.ie7.css" media="screen,projection" rel="stylesheet" type="text/css" id="cssIE"><![endif]-->
 	<!--[if LTE IE 6]><link href="/templates/3.0/assets/css/ie6.css" rel="stylesheet" type="text/css" media="screen,projection">
 	<link href="/script/jquery/jquery.faaPlugins.ie6.css" media="screen,projection" rel="stylesheet" type="text/css" id="cssIE6"><![endif]-->
+
 	<script type="text/javascript">
 	var FAA = {
 		page: {
@@ -37,11 +42,6 @@
                	<script type="text/javascript" src="/script/foresee/6.1/foresee-trigger.js"></script>
 				
 				
-				
-				
-				
-				 
-                
 		
 <script src="https://web.archive.org/web/20110401030259/http://www.faa.gov/script/foresee/6.1/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 
@@ -84,8 +84,9 @@
 			</ul>
 		</div>
 		<div id="googleBox">
-			<form id="google" class="layout" action="/search/">
+			<form id="google" class="layout" method="get" action="/search/">
 				<p>
+					<input type="hidden" id="omni" name="omni" value="MainSearch">
 					<label for="q" style="display:none;">Search:&nbsp;</label><span class="bgload"><input class="text" id="q" name="q" type="text" size="30" title="Search" value=""></span>
 					<input type="image" id="gButton" src="/templates/3.0/assets/images/googlebox_button.png" alt="Search">
 				</p>
@@ -142,7 +143,7 @@
 								
 								
 									<ul>
-										<li class="first"><a href="/air_traffic/international_aviation/">International Aviation</a></li> <li><a href="/air_traffic/nas/">National Airspace System</a></li> <li><a href="/air_traffic/separation_standards/">Separation Standards Analysis Team</a></li> <li><a href="/air_traffic/technology/">Technology</a></li> 
+										<li class="first"><a href="/air_traffic/international_aviation/">International Aviation</a></li> <li><a href="/air_traffic/nas/">National Airspace System</a></li> <li><a href="/air_traffic/separation_standards/">Separation Standards</a></li> <li><a href="/air_traffic/technology/">Technology</a></li> 
 									</ul>
 								
 							</div></div>
@@ -240,8 +241,6 @@
 		<li class="email"><a href="/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&amp;pageurl=%2Fprivacy%2Findex%2Ecfm&amp;sid=true">Email</a></li>
 		
 		
-        	<li class="lastUpdate">|&nbsp;&nbsp;Updated: 9:58 am ET September 22, 2010</li>
-		
 	</ul>
 
 <h2>Our Commitment</h2>
@@ -334,6 +333,9 @@
 <p>View our <a href="http://www.dot.gov/pia.html">Privacy Impact Assessments</a>.</p> 
 			</div>
 			
+		
+			<p id="lastModified">Page Last Modified: 09/22/10 09:58 ET</p>
+		
 		</div>
 		
 	</div>
