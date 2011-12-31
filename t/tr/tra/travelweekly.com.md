@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515093823id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211121id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Northstar Travel Media LLC ("NTM") publishes this Internet Privacy Policy to inf
 
 **How We Collect Information**
 
-NTM collects personal information in a variety of ways, including when you register with NTM on this website, when you subscribe to NTM services c through this website, when you use NTM products or services via the website, when you visit NTM websites or the websites of certain NTM partners, and when you enter Internet-based promotions or sweepstakes sponsored or administered by NTM.
+NTM collects personal information in a variety of ways, including when you register with NTM on this website, when you subscribe to NTM services through this website, when you use NTM products or services via the website, when you visit NTM websites or the websites of certain NTM partners, and when you enter Internet-based promotions or sweepstakes sponsored or administered by NTM.
 
 _User Registration_
 
