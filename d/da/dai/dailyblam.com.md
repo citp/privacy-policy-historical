@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423185446id_/http%3A//www.dailyblam.com/node/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyblam.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223641id_/http%3A//www.dailyblam.com/node/2) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily BLAM!
 
