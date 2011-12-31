@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127131026id_/http%3A//prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211232id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
