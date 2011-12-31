@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628064453id_/http%3A//www.adobe.com/go/gfooter_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobe.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215808id_/https%3A//www.adobe.com/go/gfooter_privacy_policy) for the most accurate reproduction.*
 
 # Adobe - Online Privacy Policy
 
