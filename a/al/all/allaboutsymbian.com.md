@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutsymbian.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614022102id_/http%3A//www.allaboutsymbian.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutsymbian.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045037id_/http%3A//www.allaboutsymbian.com/site/privacy.php) for the most accurate reproduction.*
 
 # All About Symbian - Contact Us
 
@@ -25,6 +25,6 @@ Welcome to All About Symbian. We are the world's biggest community site and port
 ### Also All About
 
   * [All About Meego](http://www.allaboutmeego.com/)
-  * [Ovi Gaming](http://www.ovigaming.com/)
+  * [All About Windows Phone](http://www.allaboutwindowsphone.com/)
 
 
