@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirc.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125825id_/http%3A//www.mirc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirc.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211004id_/http%3A//www.mirc.com/privacy.html) for the most accurate reproduction.*
 
 # mIRC: Privacy Policy
 
@@ -21,7 +21,7 @@ As with all websites, visits to the mIRC website are logged by IP address, brows
   
 We collect your email address when you subscribe to the mIRC mailing list and when you create an account on the mIRC Discussion Forums. We also collect your email address when you register mIRC. 
 
-In the case of the mailing list, your email address is used only for the purpose of emailing you when a new version of mIRC is released and for no other purpose. You can add or remove yourself from the mailing list at any time through the [Mailing List](https://web.archive.org/web/20110623125825id_/http%3A//www.mirc.com/mailing.html) page. 
+In the case of the mailing list, your email address is used only for the purpose of emailing you when a new version of mIRC is released and for no other purpose. You can add or remove yourself from the mailing list at any time through the [Mailing List](https://web.archive.org/web/20111231211004id_/http%3A//www.mirc.com/mailing.html) page. 
 
 In the case of the Discussion Forums, your email address is used only for the purpose of allowing you to use your Discussion Forums account and for no other purpose. You can request deletion of your account at any time by contacting us. 
 
@@ -54,4 +54,4 @@ We may occasionally need to update our privacy policy and if we do we will post 
 ## Questions
 
   
-If you have any questions or concerns regarding this privacy policy please contact us. 
+If you have any questions about this privacy policy, please contact us. 
