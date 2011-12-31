@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818101941id_/http%3A//www.usopenshop.org/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095141id_/http%3A//www.usopenshop.org/terms_privacy.asp) for the most accurate reproduction.*
 
 # US Open Official Merchandise | Official US Open Shop | US Open Tennis Apparel, Gear, Gifts and Accessories
 
