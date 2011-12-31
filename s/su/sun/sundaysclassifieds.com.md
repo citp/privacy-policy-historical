@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaysclassifieds.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130043852id_/http%3A//www.sundaysclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaysclassifieds.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095304id_/http%3A//www.sundaysclassifieds.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
