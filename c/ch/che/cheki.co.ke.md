@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519230650id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210757id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cheki.co.ke Buy and sell cars for sale, motorbikes, matatus and trucks for sale in Nairobi, Mombasa and Kenya. Used Toyota, Nissan, Subaru, Isuzu, BMW, Japanese and imported cars bikes trucks and more
+
+## Search
+
+Only display ads with prices
+
+Only display ads with photos
 
   
 | 
