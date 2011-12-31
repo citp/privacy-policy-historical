@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094218id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumopaint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205611id_/http%3A//www.sumopaint.com/privacy) for the most accurate reproduction.*
 
 # Sumo Paint | Online Image Editor
 
-| [](https://web.archive.org/web/20101120094218id_/http%3A//privacy "umbrella")| 
+| [](https://web.archive.org/web/20111231205611id_/http%3A//privacy "umbrella")| 
 
-### Privacy policy is a summary of how we retain, process, disclose and purge your information.  
+### Esta política de privacidad describe cómo utilizamos y protegemos tu información personal.  
   
 ---|---  
   
@@ -62,7 +62,7 @@ It will help us to serve you better! We would really like to hear any feedback a
 ### Snap Group Ltd
 
 PL 950, 00101 Helsinki, Finland  
-mobile: +358 466 211 809  
+mobile: +358 44 2738311  
 email: info@sumo.fi  |   
 ---|---|---  
 |  | 
