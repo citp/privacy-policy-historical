@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517194034id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204854id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,53 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Softlan "Terima Kasih Mama" Contest
+## Metrojaya Festive Sale
 
-](http://www.offerstation.com/contest-prizes/72669/softlan-terima-kasih-mama-contest.htm)
-
-[
-
-## Caltex Havoline Promotion
-
-](http://www.offerstation.com/offers-promotions/71363/caltex-havoline-promotion.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/81125/metrojaya-festive-sale.htm)
 
 [
 
-## 15% Off at Boston Restaurant
+## Metrojaya Cardmembers' Special
 
-](http://www.offerstation.com/dining-food-offers/69493/15-percent-off-at-boston-restaurant.htm)
-
-[
-
-## New Burt's Bees Outlet at Gurney Plaza
-
-](http://www.offerstation.com/whats-new/72275/new-burts-bees-outlet-at-gurney-plaza.htm)
+](http://www.offerstation.com/offers-promotions/82202/metrojaya-cardmembers-special.htm)
 
 [
 
-## P&G Open Minds Charity Programme
+## KL Sogo Christmas Celebration
 
-](http://www.offerstation.com/happenings-events/71186/pandg-open-minds-charity-programme.htm)
-
-[
-
-## Dynasty Dragon Seafood Restaurant Crab Promotion
-
-](http://www.offerstation.com/dining-food-offers/72358/dynasty-dragon-seafood-restaurant-crab-promotion.htm)
+](http://www.offerstation.com/happenings-events/82962/kl-sogo-christmas-celebration.htm)
 
 [
 
-## FREE Gift with MARIGOLD Milk
+## Zara Sale
 
-](http://www.offerstation.com/offers-promotions/72662/free-gift-with-marigold-milk.htm)
+](http://www.offerstation.com/sales-warehouse-clearance/83069/zara-sale.htm)
 
 [
 
-## New Tesco Store in Kulim
+## Public Bank PB Golden Prosperity Promotion
 
-](http://www.offerstation.com/whats-new/71618/new-tesco-store-in-kulim.htm)
+](http://www.offerstation.com/offers-promotions/81767/public-bank-pb-golden-prosperity-promotion.htm)
+
+[
+
+## The Body Shop Year End Sale
+
+](http://www.offerstation.com/sales-warehouse-clearance/83102/the-body-shop-year-end-sale.htm)
+
+[
+
+## New Samsung Galaxy W (Wonder)
+
+](http://www.offerstation.com/whats-new/81347/new-samsung-galaxy-w-\(wonder\).htm)
+
+[
+
+## Complimentary Bottle of Wine at Subak Restaurant
+
+](http://www.offerstation.com/dining-food-offers/83188/complimentary-bottle-of-wine-at-subak-restaurant.htm)
+
+[](http://www.adventurebots.com/?utm_source=osmy&utm_medium=mrec&utm_content=abfamily&utm_campaign=launch)
 
 FROM FACEBOOK
 
