@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the raveis.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626093711id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raveis.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213010id_/http%3A//www.raveis.com/webpolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>web policy connecticut real estate, massachusetts real estate, rhode island real estate, new york real estate, and newport real estate from william raveis real estate</title>
-<meta name="Description" content="William Raveis Real Estate features Connecticut real estate, Massachusetts real estate, Rhode island real estate, New York real estate, and Newport real estate.">
-<meta name="keywords" content="real estate Connecticut,connecticut real estate,connecticut real estate for sale,connecticut real estate listings,real estate agencies in connecticut,real estate for sale in connecticut,Connecticut homes for sale,houses for sale in connecticut,homes for sale in connecticut,real estate in connecticut,Massachusetts mls listings,Massachusetts real estate,homes for sale in massachusetts,real estate listing massachusetts,real estate massachusetts,Realtors in Massachusetts,real estate in massachusetts,massachusetts real estate listings,fairfield ct real estate,ridgefield ct homes for sale,hartford real estate,greenwich ct real estate,stamford connecticut real estate,stamford homes for sale,litchfield ct real estate,boston area real estate,boston homes real estate,boston real estate agent,boston realtors,rockport massachusetts real estate,westport massachusetts homes for sale,backbay real estate,south boston real estate, fenway real estate, jamaica real estate">
+		<title>William Raveis Real Estate Privacy Policy</title>
+<meta name="Description" content="William Raveis Real Estate, Inc. (" raveis")="" respects="" your="" privacy="" and="" is="" committed="" to="" protecting="" it.="" therefore,="" when="" it="" comes="" information="" that="" personally="" identifies="" you="" or="" allows="" be="" individually="" contacted="" ("personal="" information"),="" raveis="" has="" adopted="" the="" following="" policy="" fully="" protect="" you."="">
+<meta name="keywords" content="William Raveis Real Estate Privacy Policy">
 
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
 		<script type="text/javascript" src="/include/js/min/common.min.js"></script>
 		<script type="text/javascript" src="/include/js/min/jquery.client.min.js"></script>
+		<script type="text/javascript" src="/include/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 		<script type="text/javascript">
 		
 		</script>
@@ -38,30 +39,74 @@
 						$('ul:first',this).css('display', 'none');
 					});
 					
+					$('#global-search').focus( function() {
+						$(this).addClass('norm');
+					});
+					
+					$('#global-search').blur( function() {
+						if ($(this).val() == 'Example: 123 Main St, Fairfield, CT')
+						{
+							$(this).removeClass('norm');
+						}
+					});
+					
 				//Tabs
-					$('#tabs').tabs();
+					$('#tabs').tabs({
+						selected: 1
+					});
 				//Home page Img Map
 					$('li.findahome .mapbg a').hover(function () {
 						var state = $(this).attr('class');
 						var img = state.replace( / state/g, '').toLowerCase();
-						$(this).parent().css('background','url("/images/homepage-map/map2/'+img+'.gif") top left no-repeat');
+						$(this).parent().css('background','url("/images/homepage-map/map3/'+img+'.gif") top left no-repeat');
 					  },function () {
 						$(this).parent().css('background','none');
 					  });
 				//Agent table odd row
 					$('#content table.agentlist table tr:odd').addClass('odd');
-					
+				//jQuery Fancybox video
+				$(".video-popup").fancybox({
+					 'width' : 640,
+					 'height' : 575,
+					 'autoScale' : false,
+					 'transitionIn' : 'elastic',
+					 'transitionOut' : 'elastic',
+					 'speedIn' : 600,
+					 'speedOut' : 600,
+					 'type' : 'iframe'
+				});
+				$(".more-vid").fancybox({
+					 'width' : 640,
+					 'height' : 575,
+					 'autoScale' : false,
+					 'transitionIn' : 'elastic',
+					 'transitionOut' : 'elastic',
+					 'speedIn' : 600,
+					 'speedOut' : 600,
+					 'type' : 'iframe'
+				});
+				$("a.play").fancybox({
+					 'width' : 640,
+					 'height' : 575,
+					 'autoScale' : false,
+					 'transitionIn' : 'elastic',
+					 'transitionOut' : 'elastic',
+					 'speedIn' : 600,
+					 'speedOut' : 600,
+					 'type' : 'iframe'
+				});
+				
 			});
 		</script>
-		
 		
 			<link rel="stylesheet" href="/include/css/min/style.min.css" type="text/css" media="screen">
 			
 			<link rel="stylesheet" href="/include/css/min/popup.min.css" type="text/css" media="screen">
 			<link rel="stylesheet" href="/include/css/print.css" type="text/css" media="print">
+			<link rel="stylesheet" href="/include/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
 			<!--[if IE 7]><link href="/include/css/ie7.css" media="screen" rel="stylesheet" type="text/css" title="IE 7-Specific CSS Rules/Exceptions" /><![endif]-->
 			<!--[if lt IE 7]><link href="/include/css/ie6.css" media="screen" rel="stylesheet" type="text/css" title="IE 6-Specific CSS Rules/Exceptions" /><![endif]-->
-		
+	<link rel="stylesheet" href="/include/css/locations-map.css" type="text/css" media="screen">	
 		
 		
 	
@@ -69,18 +114,14 @@
 	
 	<body class="">
 	
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			_uacct = "UA-1769908-1";
-			urchinTracker();
-		</script>
+		
     <div id="container" class="default">
    
 		
 			<div id="header" class="default">
-				<img id="printheader" class="print" src="/images/printheader.gif">
-				<img id="altprintheader" class="print" src="/images/altprintheader.gif">
-				<img id="altprintheader1" class="print" src="/images/altprintheader1.gif">
+				<img height="132px" width="888px" id="printheader" class="print" src="/images/printheader.gif">
+				<img height="100px" width="888px" id="altprintheader" class="print" src="/images/altprintheader.gif">
+				<img height="43px" width="888px" id="altprintheader1" class="print" src="/images/altprintheader1.gif">
 				
 			
 			
@@ -88,6 +129,7 @@
 				<h1 class="logo">
 					<a href="/" title="Go to Home Page">William Raveis <span>Real Estate - Mortgage - Insurance</span></a>
 				</h1>
+				
 				<div class="tagline">
 					<p>The Largest Family-Owned Real Estate Company in the Northeast</p>
 					<h2>“The Best Website In Real Estate”</h2>
@@ -96,14 +138,14 @@
 			
 				
 				<div class="needhelp">
-					<a href="http://livechat.boldchat.com/aid/6182152763266156544/bc.chat?cwdid=945636427416868435" target="_blank" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/6182152763266156544/bc.chat?cwdid=945636427416868435&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;">
+					<a href="https://raveis.whoson.com/chat/chatstart.aspx?domain=www.raveis.com" target="_blank" onclick="this.newWindow = window.open('https://raveis.whoson.com/chat/chatstart.aspx?domain=www.raveis.com&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;">
 						<img src="/images/buttons/btn.assistance.gif" border="0" alt="Help Button"></a><br>
 					<a href="/">Home</a>
 				</div>
 				
 				<div class="flash">
-				<object type="application/x-shockwave-flash" data="/flash/scrollerv5-1106.swf" width="470" height="29" id="slideshow" align="middle">
-					<param name="movie" value="/flash/scrollerv5-1106.swf">
+				<object type="application/x-shockwave-flash" data="/flash/scrollerv5-1112.swf" width="470" height="29" id="slideshow" align="middle">
+					<param name="movie" value="/flash/scrollerv5-1112.swf">
 					<param name="quality" value="high">
 					<param name="bgcolor" value="#ffffff">
 					<param name="wmode" value="transparent">
@@ -111,9 +153,9 @@
                 </div>
 				
 				<div class="mlssearchx">
-					<form method="post" action="/proplist.asp">
-						<input type="hidden" name="from" value="propquickfind">
-						<label>Enter MLS#</label> <input type="text" size="10" name="mlsid0">
+					<form method="post" action="/quickfind.asp">
+						<input type="hidden" name="from" value="quickfind">
+						<label><small>Search by MLS#, Address, or Agent Name</small></label><br><input id="global-search" type="text" size="28" name="searchtext" onblur="if (this.value == '') {this.value = 'Example: 123 Main St, Fairfield, CT';}" onfocus="if (this.value == 'Example: 123 Main St, Fairfield, CT') {this.value = '';}" value="Example: 123 Main St, Fairfield, CT">
 						<input class="go" type="submit" value="GO" align="top">
 					</form>
                 </div>
@@ -127,7 +169,7 @@
 								<ul>
 									<li><a title="Find a Home in CT, MA, RI, and NY" href="/propfindmap.asp">Find a Home</a></li>								
 									<li><a href="/eCommitment.asp">Exceptional Properties</a></li>
-									<li><a href="JavaScript:newwindow('http://raveisnewhomes.com',800,600)">New Homes</a></li>
+									<li><a href="http://www.raveisnewhomes.com" target="_BLANK">New Homes</a></li>
 									<li><a href="/newfindmap.asp">New Listings</a></li>
 									<li><a title="Find Lot / Land in CT, MA, RI, and NY" href="/propfindmap.asp?type=land">Land / Lot</a></li>
 									<li><a href="/openfindmap.asp">Open Houses</a></li>
@@ -190,14 +232,14 @@
 									<li><a href="http://www.raveis.com/mortgage/">Special Financing</a></li>
 									<li><a href="http://www.raveis.com/mortgage/">Mortgage</a></li>
 									<li><a href="http://www.raveis.com/mortgage/">Refinancing</a></li>
-									<li><a href="http://www.raveis.com/mortgage/eform.asp?EFRM=LN">Contact a Loan Officer</a></li>
+									<li><a href="http://www.raveis.com/mortgage/leadtraxform.asp?EFRM=LN">Contact a Loan Officer</a></li>
 									<li><a href="http://www.raveis.com/mortgage/calculators.asp">Mortgage Calculator</a></li>
 									<li class="last"><a href="http://www.raveis.com/mortgage/ratesub.asp">Today's Mortgage Rates</a></li>
 								</ul>
 							</li>
-							<li class="right last"><a href="JavaScript:newwindow('http://www.raveisinsurance.com',800,600)">Insurance</a>
+							<li class="right last"><a href="http://www.raveisinsurance.com" target="_BLANK">Insurance</a>
 								<ul>
-									<li class="last"><a href="JavaScript:newwindow('http://www.raveisinsurance.com',800,600)">William Raveis Insurance</a>
+									<li class="last"><a href="http://www.raveisinsurance.com" target="_BLANK">William Raveis Insurance</a>
 									<p>Lowest Rates<br>Premier Services<br>Comprehensive Insurance Products</p></li>
 								</ul>
 							</li>
@@ -294,6 +336,11 @@
             </div>
 			<div class="clear"></div>
 			
+			<style type="text/css">
+			#footer .more #tabs #video .title-bg { background: #000; left: 5px; height: 30px; padding: 3px; position:absolute; top: 15px; width: 218px; opacity: .5; filter: alpha(opacity = 50);}
+			#footer .more #tabs #video .title { color: #fff; font-weight: bold; font-size: 13px; left: 5px; padding: 3px; position:absolute; top: 15px; width: 218px; }
+			</style>
+			
             <div id="footer" class="default">
 				<div class="nav">
 				
@@ -315,8 +362,9 @@
 										</ul>
 									</li>
 									<li><a target="_NEW" href="/askraveisdoor.asp">Buyer/Sellers Guide</a></li>
-									<li><a target="_blank" href="http://blog.raveis.com/2011/03/29/the-raveis-difference/">Award Winning Team</a></li>
-									<!--<li class="widget"><a href="/rssandwidget.asp">Widget &amp; RSS</a></li>-->								
+									<li><a href="/raveisawards.asp">Award Winning Team</a></li>
+									<!--<li class="widget"><a href="/rssandwidget.asp">Widget &amp; RSS</a></li>-->
+									<li><a href="/ledtraxform.asp?EFRM=US">Contact Us</a></li>
 								</ul>
 								<ul class="right">
 									<li><a href="/infoguide.asp">Northeast Community Info</a></li>
@@ -325,10 +373,11 @@
 								
 										<!--<li class="ribbon">-->
 										<li>
-											<a target="_NEW" href="/charitablefunddoor.htm">William Raveis Breast Cancer Fund</a>
+											<a target="_NEW" href="/charitablefunddoor.asp">William Raveis Breast Cancer Fund</a>
 										</li>
 								
 								</ul>
+								
 								<!--<ul>
 									<li><a href="/community-involvement.asp">Local Charitable Contributions</a></li>
 									<li class="first"><a href="/raveisrewards.asp">Raveis Rewards</a></li>
@@ -342,13 +391,75 @@
 				
 				</div>
 				<div class="clear"></div>
+
 			
+					<div class="more">
+						<div id="tabs" class="left">
+							<ul>
+								<li><a href="#blog" title="Blog">Blog</a></li>
+								<li><a href="#video" title="Video">Video</a></li>
+								<li><a href="#news" title="Newsletter">Newsletter</a></li>
+							</ul>
+							<div id="blog">
+                                <ul><li><a href="http://blog.raveis.com/2011/12/29/the-5-most-shared-real-estate-posts-of-2011/" title="The 5 Most Shared Real Estate Posts of 2011" target="_blog">The 5 Most Shared Real Estate Posts of 2011<span class="date">&nbsp;| Thu, 29 Dec 2011 </span></a></li><li><a href="http://blog.raveis.com/2011/12/27/3473/" title="Lower Your Energy Bills with Ceiling Fans" target="_blog">Lower Your Energy Bills with Ceiling Fans<span class="date">&nbsp;| Tue, 27 Dec 2011 </span></a></li></ul>
+							</div>
+							<div id="video">
+								<div class="title-bg"></div>
+								<div class="title">Bill and Ryan Raveis Talk About the Mortgage Marke...</div>
+								<a class="play" href="/youtube_channel.asp"></a>
+								<a title="Featured Raveis Videos" class="video-popup" href="/youtube_channel.asp"><img src="http://img.youtube.com/vi/hs5SgYECv0A/0.jpg" width="224" height="125" alt="Raveis Videos"></a>
+								<a class="more-vid" href="/youtube_channel.asp">Click here to view more videos.</a>
+							</div>
+							<div id="news">
+								<h4>Newsletter</h4>
+								<p><a href="http://www.feedblitz.com/f/?Sub=705319" title="Click here to subscribe to our Blog Newsletter!" target="_newsletter">Click here to subscribe to our blog newsletter and stay on top of what matters to you in real estate!</a></p>
+							</div>
+						</div>
+						
+						<div class="marketing left">
+							<h3>Exceptional Properties</h3>
+							<a href="/zmag.asp?type=G" title="William Raveis Global Marketing Program" target="_marketing">
+							<img height="94px" width="163px" src="/images/2010/footer-marketing2.gif" alt=""></a>
+						</div>
+						<div class="prestigious left">
+							<h3>Digital Portfolio of Properties</h3>
+							<a href="/zmag.asp?type=D" target="_NEW"><img height="94px" width="165px" src="/images/2010/footer-prestigious.gif" alt="Prestigious Homes"></a>
+						</div>
+						<div class="mobile left">
+							<h3>Go Mobile</h3>
+							<div class="white">
+								<p>Just visit raveis.com on<br>your mobile device.</p>
+								<a href="../mobilewalkthrough.asp"><img height="40px" width="157px" src="/images/2010/footer-go-mobile2.gif" alt=""></a>
+							</div>
+						</div>
+						
+						<div class="social right">
+							<h3>Social Media</h3>
+							<div class="white">
+								<p>Stay connected with Raveis</p>
+								<a class="blog icon" href="http://blog.raveis.com/" title="blog" target="_blank">Blog</a>
+								<a class="facebook icon" href="http://www.facebook.com/WilliamRaveis" title="Facebook" target="_blank">Facebook</a>
+								<a class="youtube icon" href="http://www.youtube.com/williamraveis" title="You Tube" target="_blank">You Tube</a>
+								<a class="linkedin icon" href="http://www.linkedin.com/companies/william-raveis-real-estate" title="Linked In" target="_blank">Linked In</a>
+								<a class="twitter icon" href="http://www.twitter.com/williamraveis" title="Twitter" target="_blank">Twitter</a>
+								<a class="gplus icon" href="https://plus.google.com/114948484151861147523" title="Google Plus" target="_blank">Google Plus</a>
+								<div class="clear"></div>
+								<!-- AddThis Button BEGIN -->
+								<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=wedmonds"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
+								<script type="text/javascript">var addthis_config = {data_track_clickback:true,  data_ga_property: 'UA-1769908-1',data_ga_social : true};</script>
+								<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=wedmonds"></script>
+								<!-- AddThis Button END -->
+								<a class="widget-rss" href="/rssandwidget.asp">Widget &amp; RSS</a>
+							</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
 			
 					
             </div>
 			
 			<div id="disclaimers">
-				
 				
 				<p class="bottomtext"></p>
 				
@@ -358,7 +469,7 @@
 				
 				<div class="ricon">
 				
-						<img src="/images/icons/ico.hud.blue.gif" alt="Hud">
+						<img height="16px" width="23px" src="/images/icons/ico.hud.blue.gif" alt="Hud">
 				
 				</div>
 			</div>
@@ -371,7 +482,7 @@
                         <li><a href="http://www.raveis.com/sitemap.asp">Site Map</a></li>								
 						<li><a href="/featuredpropertylist.asp">Featured Property List</a></li>
 						<li><a href="/raveispropertylist.asp">Raveis Property List</a></li>
-						<!--<li><a href="/brokerpropertylist.asp">Broker Property List</a></li>--><br>
+						<li><a href="/brokerpropertylist.asp">Broker Property List</a></li><br>
 					
                     
                     <li><a href="http://www.raveis.com/towns/matowns.asp" target="_blank">Massachusetts Towns</a></li>
@@ -389,19 +500,35 @@
             </div>
             
         </div>
+		
+		
+		<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
 
-		<!--BEGINNING OF DEEPMETRIX STATSCRIPT-->
-		<script type="text/javascript" src="/include/js/min/deepmetrix.min.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://web.archive.org/web/20110414082203/http://collector.deepmetrix.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20110626093711id_/http%253A//www.raveis.com/webpolicy.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580348515981" height="1" width="1"></div>
-		<!--END OF DEEPMETRIX STATSCRIPT-->
-		
-		<script language="javascript" type="text/javascript" src="http://analytics.r.msn.com/Analytics/msAnalytics.js"></script>
-		<script language="javascript" type="text/javascript">
-			msAnalytics.ProfileId = 'C422';
-			msAnalytics.CookieDomain = 'raveis.com';
-			msAnalytics.TrackPage();
-		</script>
-		
+	<script type="text/javascript" src="http://raveis.whoson.com/include.js?domain=www.raveis.com"></script>
+
+
+	<script type="text/javascript">
+	sWOResponse='';
+	if(typeof sWOTrackPage=='function')sWOTrackPage();
+	</script>
+	<!-- End of embedded WhosOn -->
+
 	
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1769908-1']);
+	  _gaq.push(['_setDomainName', '.raveis.com']);
+	  _gaq.push(['_setAllowHash', false]);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
 
 	
 </body></html>
