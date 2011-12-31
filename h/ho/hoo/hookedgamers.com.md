@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229191058id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204833id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
 
-# Hooked Gamers - Gaming is a Lifestyle!
+# Hooked Gamers
 
 This privacy policy sets out how Hooked Gamers uses and protects any information that you give us when you use this website. Hooked Gamers is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
@@ -38,4 +38,4 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
