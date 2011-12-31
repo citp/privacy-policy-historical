@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blastro.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518193531id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blastro.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205149id_/http%3A//www.blastro.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -50,26 +50,20 @@ $('#search').autocomplete('/autocomplete_ajax.php', {delay:10,minChars:2,matchSu
 
 })
 function facebook_onlogin() { 
-					
+	
 	FB.login(function(response) {
-	  if (response.session) {
-	    
-		window.location = '/login.php?action=login&redirect_to=http%3A%2F%2Fwww.blastro.com%2Fpolicy.html';
-	    
-	    if (response.perms) {
-	      // user is logged in and granted some permissions.
-	      // perms is a comma separated list of granted permissions
-	    } else {
-	      // user is logged in, but did not grant any permissions
-	    }
-	  } else {
-	    // user is not logged in
-	  }
-	}, {perms:'user_birthday,user_location'});
+        if (response.authResponse) {
+            FB.api('/me', function(info) {
+                window.location = '/login.php?action=login&redirect_to=http%3A%2F%2Fwww.blastro.com%2Fpolicy.html';
+            });
+        } else {
+            //user cancelled login or did not grant authorization
+        }
+    }, {scope:'user_birthday,user_location'});
 	
 } 
 </script>
-</head><body><body">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head><body><body">
 	<div id="wrapper">
 		<div id="header">
 			<div class="sh_left"></div>
@@ -175,28 +169,27 @@ pageTracker._trackPageview();
 
 } catch(err) {}</script>
 <!-- End GA -->
-    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId   : '3b3ac4dd5b724fda808a4e2699b866ad',
-          session : null, // don't refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-          xfbml   : true // parse XFBML
-        });
 
-        // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {
-          //window.location.reload();
-        });
-      };
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '137342012579', // App ID
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      oauth      : true, // enable OAuth 2.0
+      xfbml      : true  // parse XFBML
+    });
+  };
 
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script>
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+</script>
+
+
 </body"></body></html>
