@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114142640id_/http%3A//www.rtiindia.org/forum/content/7-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222352id_/http%3A//www.rtiindia.org/forum/content/7-privacy-policy.html) for the most accurate reproduction.*
 
 # RTI INDIA - Privacy Policy
 
@@ -51,11 +51,7 @@ Any complaints, objections, request, notices to delete the post, modify the post
   
 
 
-We have 
-
-RTI
-
-INDIA Shoutbox here <http://shoutbox.rtiindia.org/> and email sent to us directly at [admin@rtiindia.org](mailto:admin@rtiindia.org) are selected and posted at shoutbox as email by use of Posterous web technology. We generally make sure that only selected content which may of be of public interest to others are only posted at shoutbox. However, we actively pursue any objections, limitations and other such request in case it violates individual privacy. Such request for editing, removal should be sent to us at [admin@rtiindia.org](mailto:admin@rtiindia.org) exclusively on posts made at Shoutbox. 
+We have RTI INDIA Shoutbox here <http://shoutbox.rtiindia.org/> and email sent to us directly at [admin@rtiindia.org](mailto:admin@rtiindia.org) are selected and posted at shoutbox as email by use of Posterous web technology. We generally make sure that only selected content which may of be of public interest to others are only posted at shoutbox. However, we actively pursue any objections, limitations and other such request in case it violates individual privacy. Such request for editing, removal should be sent to us at [admin@rtiindia.org](mailto:admin@rtiindia.org) exclusively on posts made at Shoutbox. 
 
 Regards,
 
