@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetradiocity.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927114337id_/http%3A//www.planetradiocity.com/home/about.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetradiocity.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213920id_/http%3A//www.planetradiocity.com/home/about.php) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetRadioCity.com - Music Portal
 
@@ -14,7 +14,7 @@ To register on PlanetRadioCity.com please go to [http://www.planetradiocity.com/
 
 PlanetRadioCity.com respects the privacy of users and is committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at [webmaster@planetradiocity.com ](mailto:%20webmaster@planetradiocity.com). 
 
-The present privacy policy governs the online information collection practices of PlanetRadioCity.com ("we" or "us" or "PlanetRadioCity"). Specifically, it outlines the types of information that we gather about you from your use of the PlanetRadioCity.com website (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to PlanetRadioCity.com regarding age verification shall be truthful, accurate, and complete. 
+The present privacy policy governs the online information collection practices of PlanetRadioCity.com ("we" or "us" or "PlanetRadioCity"). Specifically, it outlines the types of information that we gather about you from your use of the PlanetRadioCity.com website (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to PlanetRadioCity.com regarding age verification shall be truthful, accurate, and complete.
 
 This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. PlanetRadioCity.com provides this privacy policy to help you make an informed decision about whether to use or discontinue using the Site. 
 
@@ -28,19 +28,30 @@ Please read this privacy policy carefully. By visiting and using the Site, you a
 
 The information that we collect about you while you are using the Site falls into the following general categories: 
 
+  
+
+
   1. **User provided information** : We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site. 
 
-  2. **Cookies information** : When you visit the PlanetRadioCity.com Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. PlanetRadioCity.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the PlanetRadioCity.com Site may not function properly.
+  
 
+  2. **Cookies information** : When you visit the PlanetRadioCity.com Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. PlanetRadioCity.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the PlanetRadioCity.com Site may not function properly.   
 In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy. As PlanetRadioCity.com does not control these third parties we advise users to refer to their Terms of Use and privacy whenever required.
 
+  
+
   3. **Log file information** : When you use the PlanetRadioCity.com Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
+
+  
 
   4. **Clear / transparent GIFs information:** When you use the PlanetRadioCity.com Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The abovementioned are employed to enhance the site experience for users or conduct research for our third party advertisers. 
 
 
 
 **HOW IS THIS INFORMATION USED?**
+
+  
+
 
   1. If you submit personally identifiable information to us through the PlanetRadioCity Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the PlanetRadioCity Site.
   2. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the PlanetRadioCity Site and other users / members can contact you through messages and comments. Any videos that you submit to the PlanetRadioCity Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
@@ -52,9 +63,8 @@ In addition, third party advertisers or third party ad servers that place and pr
   8. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.   
 
 
+**WHEN PLANETRADIOCITY DISCLOSES INFORMATION**   
 
-
-**WHEN PLANETRADIOCITY DISCLOSES INFORMATION**
 
   * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the PlanetRadioCity Site. 
@@ -84,7 +94,7 @@ If PlanetRadioCity learns of a security systems breach, then we may attempt to n
 
 **SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS**
 
-PlanetRadioCity is hosted in India and is governed by the laws of the Republic of India (refer to [Terms and Conditions](https://web.archive.org/web/20100927114337id_/http%3A//www.planetradiocity.com/home/terms.php) ). If you are a user / member accessing the PlanetRadioCity Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the PlanetRadioCity Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India . 
+PlanetRadioCity is hosted in India and is governed by the laws of the Republic of India (refer to [Terms and Conditions](https://web.archive.org/web/20111231213920id_/http%3A//www.planetradiocity.com/home/terms.php) ). If you are a user / member accessing the PlanetRadioCity Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the PlanetRadioCity Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India . 
 
 **HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION**
 
