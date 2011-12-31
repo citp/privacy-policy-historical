@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505044223id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212835id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -25,7 +25,7 @@ Mendeley also uses information extracted from files imported into signed-in user
 
 We believe that aggregating the data in this way benefits both you and the academic community at large, because it
 
-  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](http://www.mendeley.com/faq/#automatic-metadata-extraction "Automatic Document Details Extraction")),
+  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](https://web.archive.org/faq/#automatic-metadata-extraction "Automatic Document Details Extraction")),
   * allows you unprecedented insights into the statistics and research trends of your academic discipline,
   * gives you a better understanding of your own research habits and document collection,
   * enables us to provide you with a research paper recommendation engine,
@@ -43,7 +43,7 @@ We hope you find these principles useful, understandable, and acceptable. For th
 
 Mendeley Limited is committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](http://www.mendeley.com/terms/ "Terms of Use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Terms of Use](https://web.archive.org/terms/ "Terms of Use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Mendeley Limited of Second Floor, Cardiff House, Tilling Road, London NW2 1LJ ("we", "us" or "our"). We are registered under the Act under number Z1344315. 
 
@@ -136,7 +136,7 @@ We may disclose your personal information to any member of our group, which mean
 
 We may disclose your personal information to third parties:
 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.mendeley.com/terms/ "Terms of Use") and other agreements; or 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/terms/ "Terms of Use") and other agreements; or 
   * to protect our rights, property, or safety, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -160,7 +160,25 @@ Our Site may, from time to time, contain links to and from the websites of our p
 
 ### U.S. - EU SAFE HARBOR PRIVACY STATEMENT
 
-For personal information of our users that Mendeley, Inc. receives from the European Economic Area, Mendeley, Inc. has committed to handling such personal information in accordance with the Safe Harbor Principles, defined as the seven principles outlined in EU Directive 95/46/EC on the protection of personal data. Mendeley, Inc. Safe Harbor certification can be found at <http://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
+For personal information of our users that Mendeley, Inc. receives from the European Economic Area, Mendeley, Inc. has committed to handling such personal information in accordance with the Safe Harbor Principles, defined as the seven principles outlined in EU Directive 95/46/EC on the protection of personal data. [Mendeley, Inc. Safe Harbor certification](http://safeharbor.export.gov/companyinfo.aspx?id=11244) can be found at <http://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
+
+In compliance with the Safe Harbor Principles, Mendeley commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Mendeley at or
+
+Mendeley Ltd.  
+Ground Floor  
+White Bear Yard  
+144a Clerkenwell Road  
+London, EC1R 5DF  
+United Kingdom
+
+Mendeley has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mendeley, you may contact the BBB EU SAFE HARBOR program at the address below:
+
+Council of Better Business Bureaus, Inc.  
+BBB EU SAFE HARBOR  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints/)
 
 * TOP
 
