@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaustralian.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406094111id_/http%3A//www.theaustralian.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaustralian.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213423id_/http%3A//www.theaustralian.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Australian
 
@@ -19,8 +19,6 @@ We usually collect personal information directly from you although sometimes we 
 We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.
 
 We use your information to provide our services (which may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
-
-We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you.
 
 ### Use by Third Parties
 
@@ -71,5 +69,4 @@ Please contact our Privacy Officer to ask for access to your information or if y
 Privacy Officer  
 Ph: 02 9288 3212  
 Fax: 02 9288 3397  
-[privacy@matp.newsltd.com.au](mailto:privacy@matp.newsltd.com.au)  
-2 Holt St, Surry Hills, NSW, 2010
+privacy@matp.newsltd.com.au
