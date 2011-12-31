@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624031424id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanetwork.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224615id_/http%3A//www.usanetwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - USA Network
+
+## Privacy Policy
 
 **This Privacy Policy was last updated on August 14, 2007.**
 
@@ -9,14 +11,14 @@
 **PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
 1\. Types of Information Collected  
-·   Personal Data  
-·   Aggregate and Anonymous Data  
+.   Personal Data  
+.   Aggregate and Anonymous Data  
 2\. Use of Cookies and Other Technologies  
 3\. Our Use of Your Information  
 4\. Disclosure of Personal Data to Third Parties  
-·   Disclosure to Affiliates  
-·   Disclosure to Third Parties  
-·   Disclosure to Others  
+.   Disclosure to Affiliates  
+.   Disclosure to Third Parties  
+.   Disclosure to Others  
 5\. Third Party Advertising and Links to Other Sites  
 6\. Your Choice  
 7\. Access and Correction  
