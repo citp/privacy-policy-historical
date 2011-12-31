@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524112937id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ten.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212951id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,9 +56,10 @@ We take reasonable steps to ensure the information we collect, use and disclose 
 When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information.   
 
 
-******Can You Access or Correct Information Held by Network Ten?**
+******  
+Can You Access or Correct Information Held by Network Ten?**
 
-We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Sites, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Sites using your username and password and reviewing your preferences.  Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [ContactUs](http://ten.com.au/contact-us.htm)
+We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.  If you have registered with Network Ten through the Web Sites, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Sites using your username and password and reviewing your preferences.  Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](http://ten.com.au/contact-us.htm)
 
 You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.
 
