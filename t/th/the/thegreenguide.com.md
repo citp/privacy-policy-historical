@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629173933id_/http%3A//www.nationalgeographic.com/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231104023id_/http%3A//www.nationalgeographic.com/community/privacy) for the most accurate reproduction.*
 
 # National Geographic Privacy Policy Highlights
 
-### What This Statement Covers
-
-This statement applies to www.nationalgeographic.com, the Web site of the National Geographic Society. For more information, please read our [complete Privacy Policy.](https://web.archive.org/community/privacy_complete.html) To review additional measures we take in relation to children's privacy, please view our[ Kids Privacy Policy](http://www.nationalgeographic.com/kids/privacy.html). 
+This statement applies to www.nationalgeographic.com, the Web site of the National Geographic Society and online applications that contain a link to this policy. For more information, please read [complete Privacy Policy.](https://web.archive.org/community/privacy_complete.html) To review additional measures we take in relation to children's privacy, please view our[ Kids Privacy Policy](http://www.nationalgeographic.com/kids/privacy.html). 
 
 * * *
 
-### Your Personal Information
+### Information Collected
 
-• In general, you can visit us on the Internet without telling us who you are or giving us personal information. There are times we may ask you to provide personal information, for example, to process an order, provide a subscription, or participate in a contest.
+• If you are interested in obtaining information, products or services from National Geographic, we may ask you to provide us with information about yourself.
 
-• We may supplement this information with information obtained from other National Geographic services and other organizations.
+• We may supplement information that you provide with information obtained from other National Geographic services and other organizations.
 
-• We keep track of your interactions with our sites and our services to offer a more personalized experience. 
+• We keep track of your interactions with our site and our services to offer a more personalized experience. 
 
 [Additional Details »](https://web.archive.org/community/privacy_complete.html#Information_Collection)
+
+### Third-Party Online Advertising
+
+• Third parties that deliver some of the advertisements you see on this site and other websites collect information through technology about your online activities, which may be supplemented with information about you that we provide such as your age, gender or interactions with our site, in an effort to understand your interests and deliver to you advertisements tailored to your interests. These companies may offer you a way to choose not to have your information used for advertising purposes. 
+
+[Additional Details »](https://web.archive.org/community/privacy_complete.html#Information_Use)
+
+* * *
 
 ### Uses of Information
 
@@ -26,19 +32,19 @@ This statement applies to www.nationalgeographic.com, the Web site of the Nation
 
 • We may share information about you with selected other organizations for offers of their products and services.
 
-• We do not share your e-mail address with other organizations for offers of their products and services unless you allow us to do so.
+•We do not share your e-mail address with other organizations for offers of their products and services unless you allow us to do so.
 
 [Additional Details »](https://web.archive.org/community/privacy_complete.html#Information_Use)
-
-* * *
 
 ### Your Privacy Choices
 
 • You may direct us not to send you promotional materials from National Geographic, our affiliates, and our licensees.
 
-• You may direct us not to share your information with selected other organizations for offers of their products and services.
+•You may direct us not to share your information with selected other organizations for offers of their products and services.
 
 [Additional Details »](https://web.archive.org/community/privacy_complete.html#Your_Privacy_Choices)
+
+* * *
 
 ### Contact Us
 
