@@ -1,0 +1,293 @@
+<!--The following is the downloaded HTML source of the favista.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211939id_/http%3A//www.favista.com//privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="cufon-active cufon-ready"><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="description" content="The privacy statement of Favista.com is effective from the time and date a user fills the registration form and accepts the terms and conditions laid out in sites policy.">
+<meta name="privacy policy, favista, favista real estate, property site, real estate, property, online property site, buy property, sell property, rent property,Delhi,gurgaon,noida.">
+<meta name="robots" content="index,follow,all">
+
+
+                          <title>Favista Privacy Policy</title>
+            <link rel="shortcut icon" href="http://www.favista.com/content/img/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="http://www.favista.com/content/css/style.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.favista.com/content/js/jquery-1.js"></script>
+    
+    <script src="http://www.favista.com/content/js/jquery.block.js" type="text/javascript"></script>
+    <link href="http://www.favista.com/content/css/block.css" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="http://www.favista.com/content/js/jquery.form.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="http://www.favista.com/content/css/skin.css">
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#sellRequest").click(function(){
+                $.blockUI({ message: $('#SellingRequestForm'),focusInput: false });
+                $("#closeSellReqDiv").click($.unblockUI);
+            });
+            var options = {
+                url: 'http://www.favista.com/mail/sellmail',
+                beforeSubmit: function($form){
+                    $('div#CustContact_error').hide();
+                    $('div#CustEmail_error').hide();
+                    $mobilecheckfail=false;
+                    $emailcheckfail=false;
+                    if(!isValidMobileNumber($('form#SellRequest input#CustContact').val())){
+                        //$('div#CustContact_error').show();
+                        //$('form#SellRequest input#CustContact').focus();
+                        $mobilecheckfail = true;
+                    }
+                    if(!isValidEmailAddress($('form#SellRequest input#CustEmail').val())){
+                        //$('div#CustEmail_error').show();
+                        //$('form#SellRequest input#CustEmail').focus();
+                        $emailcheckfail = true;
+                    }
+                     if(($mobilecheckfail && $emailcheckfail) || ($emailcheckfail && $mobilecheckfail)) {
+                        $('div#CustContact_error').show();
+                        $('form#SellRequest input#CustContact').focus();
+                        return false;
+                    }
+                    $.blockUI({ message: '<h1>Just a moment...</h1>' });
+                },
+                success: function(data) {
+                    $.blockUI({
+                        message: '<h3>Thank You. We will get back to you shortly.</h3>',
+                        timeout: 2500
+                    });
+                },
+                failure: function(data){
+
+                }
+            };
+            $('#SellRequest').ajaxForm(options);
+        });
+    </script>
+    
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26388276-2']);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    function isValidMobileNumber(mobileNumber) {
+        if(mobileNumber.replace(/\s*/,"").length==0)
+            return false;
+        else{
+            var patternMobile = new RegExp(/^[-,0-9 ()+]+$/);
+            return patternMobile.test(mobileNumber);
+        }
+    }
+    function isValidEmailAddress(emailAddress) {
+        var patternEmail = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+        return patternEmail.test(emailAddress);
+    }
+    function isBlank(textAlpha) {
+        textAlpha=textAlpha.replace(/\s*/g,"");
+        if(textAlpha.length==0){
+            return false;
+        }
+        return true;
+    }
+</script>
+    
+    
+</head>
+<body style="overflow-x:hidden;">
+    <div class="header" style="width:950px;margin:0 auto;padding-left:800px;">
+        <table width="100%" border="0">
+            <tbody>
+            <tr style="font-size: 11px;">
+                <td style="padding-left:8px;"></td>
+                <td style="padding-right:6px;" class="textr">
+                    <div class="nav" style="padding-left:135px;">
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div style="display: none;" id="cboxOverlay"></div>
+    <div style="padding-bottom: 42px; padding-right: 42px; display: none;" class="" id="colorbox">
+        <div id="cboxWrapper">
+            <div>
+                <div style="float: left;" id="cboxTopLeft"></div>
+                <div style="float: left;" id="cboxTopCenter"></div>
+                <div style="float: left;" id="cboxTopRight"></div>
+            </div>
+            <div style="clear: left;">
+                <div style="float: left;" id="cboxMiddleLeft"></div>
+                <div style="float: left;" id="cboxContent">
+                    <div class="" id="cboxLoadedContent" style="width: 0pt; height: 0pt; overflow: hidden;"></div>
+                    <div class="" id="cboxLoadingOverlay"></div>
+                    <div class="" id="cboxLoadingGraphic"></div>
+                    <div class="" id="cboxTitle"></div>
+                    <div class="" id="cboxCurrent"></div>
+                    <div class="" id="cboxNext"></div>
+                    <div class="" id="cboxPrevious"></div>
+                    <div class="" id="cboxSlideshow"></div>
+                    <div class="" id="cboxClose"></div>
+                </div>
+                <div style="float: left;" id="cboxMiddleRight"></div>
+            </div>
+            <div style="clear: left;">
+                <div style="float: left;" id="cboxBottomLeft"></div>
+                <div style="float: left;" id="cboxBottomCenter"></div>
+                <div style="float: left;" id="cboxBottomRight"></div>
+            </div>
+        </div>
+        <div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div>
+    </div>
+    <div class=" fb_reset" id="fb-root">
+        <div style="position: absolute; top: -10000px; height: 0pt; width: 0pt;"></div>
+    </div>
+    <!-- wrapper container start here -->
+    <div id="wrapper">  
+        <div id="header">
+            <!-- header container block start here -->
+            <div class="header">
+                <!-- logo block start here -->
+                <div class="logo">
+                    <h1><a href="http://www.favista.com" title="Favista">Favista</a></h1>
+                </div>
+                <!-- logo block end here --><!-- nav block start here -->
+                <div class="nav">
+                    <ul>
+                        <li><a href="http://www.favista.com/properties/gurgaon/all-new-projects" title="New Projects"><span>New Projects</span></a></li>
+                        <li><a href="http://www.favista.com/properties/gurgaon/buy" title="Buy"><span>Buy</span></a></li>
+                        <li><a href="http://www.favista.com/properties/gurgaon/rent" title="Rent"><span>Rent</span></a></li>
+                        <li><a href="javascript:void(0);" id="sellRequest" title="Sell" class="act"><span>Sell</span></a></li>
+                        <li><a href="http://www.favista.com/contactus" title="Contact Us" class="act"><span>Contact Us</span></a></li>
+                        <li><a href="http://www.favista.com/hiring" title="We are Hiring"><span>Careers</span></a></li>
+                    </ul>
+                </div>
+                <!--  nav block end here --><!-- top right block start here -->
+                <!-- top right block end here -->
+                <div style="padding-top:0px;">
+                    <span class="phn" style="margin-left:0px;padding-right:10px;">+91-124-4897777</span>
+                </div>
+                <div class="clr"></div>
+            </div>
+            <!-- header container block end here -->
+        </div>		<!--content start here-->
+            <div id="content">
+<!-- mid container start here -->
+            <div id="content">
+                                <input name="hdnCurrPropertyId" id="hdnCurrPropertyId" value="51" type="hidden">
+				<!--Search Result Map-->
+				<div class="oneColumn">
+					<div class="contentBoxTopLft">
+						<div class="contentBoxTopRt"></div>
+					</div>
+					<div class="contentBoxMidLft">
+					  <div class="contentBoxMidRt">
+							<div class="contentBoxMidTxt">
+							<h2>Privacy Policy</h2>
+							<div style="padding:10px 12px; color:#002c5d; text-align: justify;">
+								To be able to provide the most relevant information and access to relevant data you might be required to provide some personal information, share specifics and get desired.
+								<br><br>
+								The IP address of the users might be tracked and information saved in the form of cookies, the user reserves the right to accept / decline the cookies by changing the settings of the browser.
+								<br><br>
+								Any personal information provided shall not be shared without prior consent with any third party, general information however may be revealed.
+								<br><br>
+								The user shall be asked to fill in the details while registering only and every effort would be made to secure the information.
+								<br><br>
+								The user shall be solely responsible for maintaining the confidentiality &amp; use of ID &amp; the Password post registration formalities. The user shall be responsible in entirety for making any transactions with any means / forms of instruments and Favista shall have no liability / responsibility whatsoever regards to the acts of the user.
+								<br><br>
+								In the endeavor to provide world class experience Favista might use the general information shared by the user to improve upon the service standards and provide efficient and customized experience &amp; to improve marketing and promotional efforts.
+								<br><br>
+								The user agrees that Favista shall use the personal information provided to deliver the information on areas of interest of the user through various promotional means and varied products. The user reserves the right to select the services offered on the website.
+								<br><br>
+								Favista complies with all Indian Laws applicable and shall cooperate with all law enforcement inquires in regards to sharing of personal details as and when asked for.
+								<br><br>
+								All reasonable efforts have been made to ensure that the information on the site is authentic. Users advised to research bonafides of advertisers independently. Favista shall have no responsibility whatsoever in this regard.
+
+								<br>
+								<br>
+							</div>
+
+							</div>
+						</div>
+					</div>
+					<div class="contentBoxBtmLft">
+						<div class="contentBoxBtmRt"></div>
+					<div class="clr"></div>
+                                        </div>
+				<div class="clr"></div>
+                                </div>
+				<div class="clr"></div>
+				<!--Search Result Map-->
+
+
+            </div>
+			<!-- mid container end  here -->
+
+
+
+            </div>
+		<!--content end here-->
+       <div id="footer">
+        <!--footer start-->
+        <!-- footer container start  here -->
+        <div class="footer">
+            © favista - a Veddis Venture
+            <ul>
+                <li>
+                    <a href="http://www.favista.com/aboutus" title="About Us">About Us</a>
+                </li>
+                <li>
+                    <a href="http://www.favista.com/ourteam" title="Our Team">Our Team</a>
+                </li>
+                <li>
+                    <a href="http://www.favista.com/privacypolicy" title="Privacy Policy">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+        <!-- footer container end here -->        <!--footer end-->
+    </div>
+</div>
+<!-- wrapper container end here -->
+<div style="display: none;-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;" id="SellingRequestForm">
+    <form action="" id="SellRequest" name="SellingRequestForm" method="post" accept-charset="utf-8">
+        <div class="top">
+        </div>
+        <div style="float:left;">
+            <div style="float:left;padding-left:10px;text-align:left;padding-top:10px;padding-bottom:5px;font-family: tahoma;font-size:11px;color: #5E5F5F;"><strong>Kindly enter your property details:</strong>
+                <div style="float:right;margin-left:45px;"><img src="http://www.favista.com/content/img/cross.png" href="javascript:" id="closeSellReqDiv" alt="Close" title="Close" style="cursor:pointer;"></div>
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustName" id="CustName" value="Your Name" maxlength="120" onblur="if(this.value=='') this.value='Your Name';" onfocus="if(this.value=='Your Name') this.value='';">
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustContact" id="CustContact" value="Your Contact Number" maxlength="120" onblur="if(this.value=='') this.value='Your Contact Number';" onfocus="if(this.value=='Your Contact Number') this.value='';">
+            </div>
+            <div id="CustContact_error" style="display:none;color:#FF0000;font-size: 10px;float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                Please input the valid contact or email.
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustEmail" id="CustEmail" value="Your Email Address" maxlength="120" onblur="if(this.value=='') this.value='Your Email Address';" onfocus="if(this.value=='Your Email Address') this.value='';">
+            </div>
+            <div id="CustEmail_error" style="display:none;color:#FF0000;font-size: 10px;float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                Please input the valid email.
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustType" id="CustType" value="For (Sale/Rent)" maxlength="120" onblur="if(this.value=='') this.value='For (Sale/Rent)';" onfocus="if(this.value=='For (Sale/Rent)') this.value='';">
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustPropType" id="CustPropType" value="Property Type (Appartment/Independent Floor)" maxlength="120" onblur="if(this.value=='') this.value='Property Type (Appartment/Independent Floor)';" onfocus="if(this.value=='Property Type (Appartment/Independent Floor)') this.value='';">
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <input type="text" name="CustAskPrice" id="CustAskPrice" value="Asking Price" maxlength="120" onblur="if(this.value=='') this.value='Asking Price';" onfocus="if(this.value=='Asking Price') this.value='';">
+            </div>
+            <div style="float:left;width:100%;text-align:left;padding-left:10px;padding-top:4px;padding-bottom:4px;">
+                <textarea onblur="if(this.value=='') this.value='Property Address';" onfocus="if(this.value=='Property Address') this.value='';" name="CustAddress" id="CustAddress">Property Address</textarea>
+            </div>
+            <div class="submit" style="padding-top:4px;padding-bottom:4px;float:left;padding-left:10px;"><input type="image" src="http://www.favista.com/content/img/submit.png" title="Sell" alt="Sell" id="submitSellForm" tabindex="8"></div>
+        </div>
+    </form>
+</div>
+
+
+</body></html>
