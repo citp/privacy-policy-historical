@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmemberchamp.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317113927id_/http%3A//www.wpmemberchamp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmemberchamp.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154244id_/http%3A//www.wpmemberchamp.com/privacy.php) for the most accurate reproduction.*
 
 # WPMemberChamp.com Privacy Policy
 
