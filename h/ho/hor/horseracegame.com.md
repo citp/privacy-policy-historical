@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseracegame.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030524id_/http%3A//www.horseracegame.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Our Racing Games - Horse Racing Simulation, LLC
 
-[Home](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/index.php "Return to Home Page") : Privacy Policy
+Privacy Statement for www.horseracegame.com
 
-### Privacy Statement for www.horseracegame.com
+has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
 
-Horse Racing Simulation, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy. We believe that strong electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. The following discloses our information gathering and dissemination practices for our website: [http://www.horseracegame.com](http://www.horseracegame.com/ "Horse Racing Fantasy").
-
-#### Personal Information Collected
+Personal Information Collected
 
 We collect the following personal information when registering for our free game: your first and last name, your email address, a user identification (user ID), year of birth, zip code (if you’re a resident of the United States) and country. We utilize only email addresses to communicate with our members. The amount of communication depends on the level of your engagement with our game and community. Players can opt out or opt in for individual communications specifically associated with certain aspects of our game and community in which players are active. In addition, a player can opt out of all email communications at any time.
 
@@ -18,25 +16,25 @@ Occasionally we run online surveys, contests or promotions for additional produc
 
 Finally, unregistered users may request our Demonstration Version via email. In this case we only collect the email address of the requestor. Requestors may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-Our site contains links to other sites. [www.horseracegame.com](http://www.horseracegame.com/) is not responsible for the privacy practices or the content of such Web sites. 
+Our site contains links to other sites. [www.horseracegame.com](http://www.horseracegame.com/) is not responsible for the privacy practices or the content of such Web sites.
 
-#### Security
+Security
 
 Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. Any personal information you provide is encrypted prior to transmission. We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our internal fulfillment system.
 
-#### Confidentiality and Sharing of Information _(Revised 2/7/2003)_
+Confidentiality and Sharing of Information _(Revised 2/7/2003)_
 
 We will keep your Contact Information and Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property.
 
-#### Choice/Opt-Out
+Choice/Opt-Out
 
 Our site allows our users to opt out of our email list by either clicking on the opt out selection on each and every email we send or by simply sending an email to [support@horseracegame.com](mailto:support@horseracegame.com) with the subject ‘Opt Me Out’. All such requests are honored promptly, usually within 24 to 48 hours.
 
-#### Correct/Update of Information
+Correct/Update of Information
 
 Our site allows users to Contact us to specify changes to information previously provided.
 
-#### Contacting the Web Site
+Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact us electronically or write to:
 
@@ -45,14 +43,6 @@ If you have any questions about this privacy statement, the practices of this si
 >  3230 E. Flamingo Road, Ste. 8-307  
 >  Las Vegas, NV 89121
 
-#### Glossary of Terms
+Glossary of Terms
 
 **SSL Encryption** \- A method by which information transmitted across the Internet is scrambled to the point where it's virtually indecipherable by anyone who should intercept the data before it reaches its destination. Most all reputable online stores make use of SSL encryption to request credit card information and other sensitive data from their customers. Web pages where SSL encryption is activated are typically identified by a lock or key symbol displayed somewhere in your browser. Refer to your browser's documentation for the specific symbol and location.
-
-[Home](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/index.php) · [About Us](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/about.php) · [Features](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/features.php) · [Quotes](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/quotes.php) · [Screenshots](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/screens.php) · [Add-ons](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/games_features.php)  
-[Free Game](http://www.horseracegame.com/dl.php) · [Free Stuff](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/free_stuff.php) · [Links](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/links.php) · [Community](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/community/) · [Tournament Play](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/tournaments.php)  
-[Horse Racing Videos](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/videos.php) · [Horse Racetracks](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/racetracks.php) · [Horse Racing History](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/history.php)  
-[Stakes Races](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/racing_events.php) · [Thoroughbred Pedigree](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/thoroughbred_pedigree.php) · [Contact Us](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/contact.php) · [Support](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/support.php)   
-[2010 Kentucky Derby](http://www.horseracingnation.com/probables/2010_Kentucky_Derby_G1/2010_kentucky_derby_horses_contenders_morning_line_odds) · [Betting Info](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/betting.php) · [International Horse Racing](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/international_horse_racing.php)   
-[Horse Racing News](http://www.horseracegame.com/community) · [Famous Race Horses](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/famous_race_horse.php) · [Game Reviews](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/reviews.php)   
-[Privacy Policy](https://web.archive.org/web/20110106091719id_/http%3A//www.horseracegame.com/privacy.php)
