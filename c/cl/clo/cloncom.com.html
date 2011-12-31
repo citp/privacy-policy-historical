@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the cloncom.com privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607182359id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloncom.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231223256id_/http%3A//www.cloncom.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-		
-			<title> Calling Cards: Your Phone Card &amp; International Calling Cards Source.</title>
-			<meta name="title" content=" Calling Cards: Your Phone Card &amp; International Calling Cards Source.">
-		
+            
+                <title> Calling Cards: Your Phone Card &amp; International Calling Cards Source.</title>
+                <meta name="title" content=" Calling Cards: Your Phone Card &amp; International Calling Cards Source.">
+            
 
-		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-		
-			<meta name="description" content="Calling Cards - the cheapest international calling cards on the web for phone card users. Find the lowest rates available and save up to 95 on international phone calls to  USA, UK, India or any destination in the world!">
-		
-			<meta name="keywords" content="calling card, calling cards, phone card, phone cards, international calling cards, international phone cards, long distance, cheap, calling to, phone to">
-		<meta http-equiv="Expires" content="1"><meta content="Webmaster at cloncom.com" name="author"><meta content="All" name="robots">
-			<link rel="shortcut icon" href="/templates/en/images/favicon.ico?1">
-		
-			<link href="/css/new_cloncom.css?14" rel="stylesheet" type="text/css">
-		
+            <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+            
+                <meta name="description" content="Calling Cards - the cheapest international calling cards on the web for phone card users. Find the lowest rates available and save up to 95 on international phone calls to  USA, UK, India or any destination in the world!">
+            
+                <meta name="keywords" content="calling card, calling cards, phone card, phone cards, international calling cards, international phone cards, long distance, cheap, calling to, phone to">
+            <meta http-equiv="Expires" content="1"><meta content="Webmaster at cloncom.com" name="author"><meta content="All" name="robots">
+                <link rel="shortcut icon" href="/templates/en/images/favicon.ico?1">
+            
+                <link href="/css/new_cloncom.css?14" rel="stylesheet" type="text/css">
+            
         <link rel="stylesheet" href="/css/styles.css" type="text/css">
     <script language="javascript" type="text/javascript" src="http://static.ak.cloncom.com/js/prototype.js"></script>
         <script type="text/javascript">
@@ -25,14 +25,13 @@
             }
         </script>
     
-	</head>
-	
+        </head>
+        
 
-	<body class="callingcards" onload="" id="">
+        <body class="callingcards" onload="" id="">
+            <div id="wrap">
 
-		<div id="wrap">
-
-			
+                
 
 <style type="text/css">
 .hd .last{border:none!important}
@@ -50,7 +49,7 @@
 
 
 <div id="cloncom" class="hd">
-    <a class="hdLogo" href="/" title="International Calling Cards"><span>Cloncom</span></a>
+    <a class="hdLogo" href="/" title="International Calling Cards"><span>{0}</span></a>
     <div class="hdLinks">
 
         
@@ -68,27 +67,29 @@
         </ul>
     </div>
 
-	<div class="hdTabs">
-		<h1 class="hdTab hdTabOpen">
-			<a href="/" title="International Calling Cards">
-				International Calling Cards
-			</a>
-		</h1>
-		<div class="hdTab">
-			<a href="/wir_index.jsp">
-				Prepaid Wireless
-			</a>
+	
+		<div class="hdTabs">
+			<h1 class="hdTab hdTabOpen">
+				<a href="/" title="International Calling Cards">
+					International Calling Cards
+				</a>
+			</h1>
+			<div class="hdTab">
+				<a href="/wir_index.jsp">
+					Prepaid Wireless
+				</a>
+			</div>
 		</div>
-	</div>
+	
 </div>
 
 <script language="javascript">
 function el(a){return document.getElementById(a)}function displayDiv(){if(el("lnkMyAccount").className===""){el("lnkMyAccount").className="lnkMyAccountOpen";el("dropMyAccount").style.display=""}else{el("lnkMyAccount").className="";el("dropMyAccount").style.display="none"}};
 </script>
 
-			<div id="main-body">
-				<div id="content">
-					
+                <div id="main-body">
+                    <div id="content">
+                        
 	<div id="privacy">
 		<a name="top"></a>
 		<h2>Privacy Policy<br><span class="negro10">'Last Updated on May 1st, 2007'</span><br></h2>
@@ -198,16 +199,54 @@ function el(a){return document.getElementById(a)}function displayDiv(){if(el("ln
 	</ul>
  	</div>
 
-				</div>
-			</div>
+                    </div>
+                </div>
 
-			
+		
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
+	
+<script type="text/javascript" src="/js/jquery.jstore-flash-1.2.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie-1.0.0.min.js"></script>
+<script type="text/javascript">
+	jQuery.extend(jQuery.jStore.defaults, {
+		project : 'cloncom',
+		engine : 'flash',
+		flash : '/js/jstore.flash.html'
+	})
+	jQuery.jStore.ready(function(engine) {
+		jQuery.jStore.flashReady(function() {
+			engine.ready(function() {
+				var engine = this;
+				var name = 'userpreferences';
+				var up = jQuery.cookie(name);
+				if (up == null) {
+					up = engine.get(name);
+					if (up != null) {
+						jQuery.cookie(name, up, { raw: true,expire: 3650});
+						pageTracker._trackEvent('CookieFlash', 'Sync');
+					}
+				} else {
+					if (up != engine.get(name)) {
+						engine.set(name, up);
+					}
+				}
+				
+					jQuery.noConflict();
+				
+			})
+		})
+	});
+	$(function() {
+		jQuery.jStore.load();
+	});
+</script>
+
 
 <div id="footer">
     <p>
         <a href="/about_us.jsp">About Us</a> | <a href="/privacy">Privacy</a>
 		
-					| <a href="http://www.cloncom.com/affiliate">Affiliate Program</a>
+					| <a href="http://www.multipin.com">Affiliate Program</a>
 				
 			| <a href="http://www.countrycodes.com">Country Codes</a>
 		
@@ -224,24 +263,24 @@ function el(a){return document.getElementById(a)}function displayDiv(){if(el("ln
 </p></div>
 
 
-		</div>
+            </div>
 
-		
-			<script type="text/javascript">
-				var gaJsHost = (("https:" == document.location.protocol) ?
-				"https://ssl." : "http://www.");
-				document.write(unescape("%3Cscript src='" + gaJsHost +
-				"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-				
-				var pageTracker = _gat._getTracker("UA-818016-8");
-				
-				pageTracker._initData();
-				pageTracker._trackPageview();
-				pageTracker._trackPageLoadTime();
-			</script>
-			
-	
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ?
+                    "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost +
+                    "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            <script type="text/javascript">
 
+                
+                                        var pageTracker = _gat._getTracker("UA-818016-8");
+                
+                        pageTracker._initData();
+                        pageTracker._trackPageview();
+                        pageTracker._trackPageLoadTime();
+            </script>
+            
+        
+    
 </body></html>
