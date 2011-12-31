@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630093512id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215343id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Media, CD Media | Shop4tech
 
-  
-
-
-  
-
-
-  
-| 
-
-Privacy policy
-
-  
-
-
-**Shop4tech Inc.** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Shop4tech.com.**
+** Shop4tech Inc.** has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **Shop4tech.com.**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
@@ -43,9 +29,9 @@ This site gives users the following options for removing their information from 
   * You can [click here](http://www.shop4tech.com/e/pref/) to unsubscribe
   * You can send mail to the following postal address:   
 _Shop4tech Inc. (Optout)  
-4664 Mission Blvd   
-Montclair CA 91763_
-  * You can call the following telephone number: 1-909-590-5490
+5595 Daniels Street, Ste H   
+Chino, CA 91710_
+  * You can call the following telephone number: 909-248-2680
 
 
 
@@ -54,8 +40,8 @@ Montclair CA 91763_
   * email [support@shop4tech.com ](mailto:%20support@shop4tech.com)
   * send mail to the following postal address:   
 _Shop4tech Inc. (Optout)  
-4664 Mission Blvd   
-Montclair CA 91763_
+5595 Daniels Street, Ste H   
+Chino, CA 91710_
 
 
 
@@ -65,9 +51,7 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 Shop4tech Inc.   
-4664 Mission Blvd   
-Montclair CA 91763   
-[webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
+5595 Daniels Street, Ste H   
+Chino, CA 91710   
+[webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com) 
 
-
-| 
