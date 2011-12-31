@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605152329id_/http%3A//www.golfchannel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205212id_/http%3A//www.golfchannel.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Golf Channel - Privacy Policy
+# Privacy Policy | Golf Channel
 
 Your privacy is very important to Golf Channel (“Golf Channel,” “we,” or “us”), and we are committed to providing you a secure online environment. The following Privacy Policy applies to all of the websites owned and/or operated by Golf Channel and its owned and/or operated affiliated businesses (collectively, the “Sites,” which shall include but not be limited to any and all sites and subdomains associated with Golf Channel, GolfNow, Golf Channel Solutions, WorldGolf and TravelGolf). This Privacy Policy is a part of and is incorporated into the Golf Channel [terms of use](http://www.thegolfchannel.com/terms/). 
 
