@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226023233id_/http%3A//www.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorbs.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224039id_/http%3A//www.sorbs.net/w3c/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
   * SORBS
   
-GFI House   
-Triq, San Andrea   
-San Gwann   
-SGN 1612   
+Arcadia   
+Triq, il-Hemel   
+Swieqi   
+STJ11   
 Malta   
 Telephone: +61 2 800 46 200   
-Fax: +356 2138 2419 
+Fax: +356 79 543115 
 
 [privacy@sorbs.net](mailto:privacy@sorbs.net)
 
