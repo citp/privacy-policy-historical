@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125133313id_/http%3A//medicalvideos.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203327id_/http%3A//www.medicalvideos.us/privacy) for the most accurate reproduction.*
 
 # Medical Videos -
 
-This document sets out MedicalVideos.us�s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Use](http://medicalvideos.us/page.php?page=3).
+This document sets out MedicalVideos.us�s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Use](http://www.medicalvideos.us/page.php?page=3).
 
-We collect and subsequently process the Data that you voluntarily provide on the [registration form](http://medicalvideos.us/login.php) on the Website including your user ID, a valid email address, and your date of birth. 
+We collect and subsequently process the Data that you voluntarily provide on the [registration form](http://www.medicalvideos.us/login.php) on the Website including your user ID, a valid email address, and your date of birth. 
 
 Data indicated on the Website as mandatory is required in order to use the Website�s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits. Because MedicalVideos.us is an American company, the Data is collected and maintained in the U.S.
 
@@ -30,4 +30,4 @@ You may opt out of the use of the DART cookie by visiting the [Google ad and con
 
 Only doctors,medical students,paramedical personnel and health care professionals can register because MedicalVideos.us is directed to them only.
 
-Patients are not allowed to view the site or ask for any kind of therapeutic help and they should only seek the help of their physicians or doctors for that purpose as we have mentioned in the [terms of use. ](http://medicalvideos.us/page.php?page=3)
+Patients are not allowed to view the site or ask for any kind of therapeutic help and they should only seek the help of their physicians or doctors for that purpose as we have mentioned in the [terms of use. ](http://www.medicalvideos.us/page.php?page=3)
