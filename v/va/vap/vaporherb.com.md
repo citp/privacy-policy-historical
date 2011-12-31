@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524085815id_/http%3A//vaporherb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090534id_/http%3A//www.vaporherb.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Volcano Vaporizer Medical Marijuana Cannabis Hookah Digital Scales Phantom Vaporizer Vaperizer
+# Volcano Vaporizer Medical Marijuana Cannabis Hookah Digital Scales Phantom Vaporizer Vaperizer Cancer Migraine Tumor Alzheimer
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
