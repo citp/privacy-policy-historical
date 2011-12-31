@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trifter.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trifter.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210158id_/http%3A//trifter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -28,6 +28,47 @@
 <meta property="og:site_name" content="Trifter">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://trifter.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
 <script type="text/javascript" src="http://trifter.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
@@ -37,7 +78,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://trifter.com/wp-content/themes/trifter/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://trifter.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -46,6 +87,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -107,7 +195,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://trifter.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -120,14 +208,12 @@ function showTriondSignupForm()
 //]]>
 </script>
 <meta name="google-site-verification" content="2lW3-DteUrO1_vFAJhZGncioG52HR6-E9hsqKNow0Dg">
-<!--
-	generated because: No batcache item found
-	d2d2523d8af163dd834a385ef20e0fbe generated in 2.024 seconds
-	47834 bytes batcached for 300 seconds
--->
 </head>
 
 <body>
+ 
+		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+
 <!-- TOP MENU STARTS -->
 	<div id="top-menu-out">
 	<div id="top-menu">
@@ -137,6 +223,7 @@ function showTriondSignupForm()
 			<li><a href="/contact"><span>Contact</span></a></li>
 			<li><a href="/advertise-with-us"><span>Advertise with us</span></a></li>
 			<li><a href="http://www.triond.com"><span>Submit an Article</span></a></li>
+			<li><a target="_blank" href="http://hosted.adnet-media.net/all?affiliate=69f98fd97fdfd97e">Travel Deals</a></li>
 		</ul>
 	</div>
 	</div>
@@ -153,23 +240,30 @@ function showTriondSignupForm()
 		</div>
 		<div id="ad728">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=635");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=635&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=1646711997&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3b886b&amp;cb=c4469853ccc290398c63ee820b2998ab' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=635&amp;cb=c4469853ccc290398c63ee820b2998ab&amp;n=3b886b' border='0' alt='' /></a></noscript>		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=635");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=635&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=81206996277&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=928252&amp;cb=d56328fd2bacbbdb6413e54064837ba0' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=635&amp;cb=d56328fd2bacbbdb6413e54064837ba0&amp;n=928252' border='0' alt='' /></a></noscript>		</div>
 	</div>
 	</div>
 	</div>
@@ -189,12 +283,11 @@ function showTriondSignupForm()
 </li>
 	<li class="cat-item cat-item-3121"><a href="http://trifter.com/category/europe/" title="View all posts filed under Europe"><span>Europe</span></a>
 </li>
+	<li class="cat-item cat-item-1"><a href="http://trifter.com/category/uncategorized/" title="View all posts filed under Uncategorized"><span>Uncategorized</span></a>
+</li>
 	<li class="cat-item cat-item-74927"><a href="http://trifter.com/category/usa-canada/" title="View all posts filed under USA &amp; Canada"><span>USA &amp; Canada</span></a>
 </li>
-						<li class="cat-item">
-				<a target="_blank" href="http://hosted.adnet-media.net/all?affiliate=69f98fd97fdfd97e">Travel Deals</a>
-			</li>
-		</ul>
+					</ul>
 	</div>
    
 	</div>
@@ -240,7 +333,49 @@ function showTriondSignupForm()
 <p>Trifter is committed to handling your personal information with the highest standards of security information. Trifter shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Trifter, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@trifter.com .</p>
-				</div>
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>				</div>
 				<!-- POST ENDS -->
 								<!-- COMMENTS STARTS -->
 				<div id="comments">
@@ -270,23 +405,30 @@ function showTriondSignupForm()
 
 				<div id="ad300">
 					
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=640");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=640&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=54009113120&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=1423db&amp;cb=2a9daa2fcc57d121be7e9ee912d01e2f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=640&amp;cb=2a9daa2fcc57d121be7e9ee912d01e2f&amp;n=1423db' border='0' alt='' /></a></noscript>				</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=640");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=640&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=52776104512&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=79df18&amp;cb=aa8a86670e3aae47fc4da99580ffd127' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=640&amp;cb=aa8a86670e3aae47fc4da99580ffd127&amp;n=79df18' border='0' alt='' /></a></noscript>				</div>
 
 
 			<div class="subscribe">
@@ -298,56 +440,98 @@ function showTriondSignupForm()
 			<div id="ad160Wrapper">
 				<div id="ad160-1">
 					
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=826");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=826&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=43244946824&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=abe1ce&amp;cb=654a5d796985a84ddc903518f35ca33a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=826&amp;cb=654a5d796985a84ddc903518f35ca33a&amp;n=abe1ce' border='0' alt='' /></a></noscript>				</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=826");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=826&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=46345785190&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=821e6f&amp;cb=5da3c31ad02845ae96103ff8bb4f6e94' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=826&amp;cb=5da3c31ad02845ae96103ff8bb4f6e94&amp;n=821e6f' border='0' alt='' /></a></noscript>				</div>
 				<div id="ad160-2">
 					
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=479");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=479&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=77567492612&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=041c97&amp;cb=769cc657b88e6428eb94f8874ee97c0e' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=479&amp;cb=769cc657b88e6428eb94f8874ee97c0e&amp;n=041c97' border='0' alt='' /></a></noscript>				</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=479");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=479&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=50158148158&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=008369&amp;cb=b9d3f111dbe13d27e95cac4ff39942c6' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=479&amp;cb=b9d3f111dbe13d27e95cac4ff39942c6&amp;n=008369' border='0' alt='' /></a></noscript>				</div>
 				<div class="clear"></div>
 			</div>
 			
 			<div id="popular-posts" class="block">
 				<div class="sidebar-title">Popular Posts</div>
 				<ul class="inside">
-					<li><div class="popularPostImgDiv"><a href="http://trifter.com/europe/united-kingdom/the-mystery-of-parish-closes-in-brittany/" title="The Mystery of Parish Closes in Brittany"><img src="http://s3.amazonaws.com/readers/relijournal/2009/02/25/751075.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/europe/united-kingdom/the-mystery-of-parish-closes-in-brittany/" title="The Mystery of Parish Closes in Brittany">The Mystery of Parish Closes in Brittany</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/singapore/destination-singapore-midnight-shopping-mayhem-at-mustafa-centre/" title="Destination Singapore: Midnight Shopping Mayhem at Mustafa Centre"><img src="http://s3.amazonaws.com/readers/trifter/2009/06/17/1067979.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/singapore/destination-singapore-midnight-shopping-mayhem-at-mustafa-centre/" title="Destination Singapore: Midnight Shopping Mayhem at Mustafa Centre">Destination Singapore: Midnight Shopping Mayhem at Mustafa Centre</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/india/vacation-places-in-india/" title="Vacation Places in India"><img src="http://s3.amazonaws.com/readers/socyberty/2008/01/20/102580.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/india/vacation-places-in-india/" title="Vacation Places in India">Vacation Places in India</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/tension-rising-in-the-korean-peninsula/" title="Tension Rising in The Korean Peninsula"><img src="http://s3.amazonaws.com/readers/socyberty/2008/03/10/123854.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/tension-rising-in-the-korean-peninsula/" title="Tension Rising in The Korean Peninsula">Tension Rising in The Korean Peninsula</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/arizona/seven-natural-wonders-of-the-world/" title="Seven Natural Wonders of The World"><img src="http://s3.amazonaws.com/readers/sportales/2008/09/19/336879.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/arizona/seven-natural-wonders-of-the-world/" title="Seven Natural Wonders of The World">Seven Natural Wonders of The World</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/philippines/exploring-marinduque-philippines/" title="Exploring Marinduque, Philippines"><img src="http://s3.amazonaws.com/readers/trifter/2007/05/14/7628.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/philippines/exploring-marinduque-philippines/" title="Exploring Marinduque, Philippines">Exploring Marinduque, Philippines</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/philippines/prince-mall-opens-in-baybay-leyte-philippines/" title="Prince Mall Opens in Baybay, Leyte, Philippines"><img src="http://readers.s3.amazonaws.com/grey.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/philippines/prince-mall-opens-in-baybay-leyte-philippines/" title="Prince Mall Opens in Baybay, Leyte, Philippines">Prince Mall Opens in Baybay, Leyte, Philippines</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/the-river-that-escaped-from-paradise/" title="The River That Escaped From Paradise"><img src="http://s3.amazonaws.com/readers/socyberty/2008/05/04/118258.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/the-river-that-escaped-from-paradise/" title="The River That Escaped From Paradise">The River That Escaped From Paradise</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/turkey/hagia-sophia-a-beautiful-historic-world-monument/" title="Hagia Sophia a Beautiful, Historic World Monument"><img src="http://s3.amazonaws.com/readers/trifter/2009/04/19/886275.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/turkey/hagia-sophia-a-beautiful-historic-world-monument/" title="Hagia Sophia a Beautiful, Historic World Monument">Hagia Sophia a Beautiful, Historic World Monument</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/india/elephants-in-indian-culture/" title="Elephants in Indian Culture"><img src="http://s3.amazonaws.com/readers/authspot/2008/06/02/173815.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/india/elephants-in-indian-culture/" title="Elephants in Indian Culture">Elephants in Indian Culture</a></div><div style="clear:both;"></div></li>				</ul>
+					<li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/new-york/new-yorker-won-206-million-lottery-jackpot/" title="New Yorker Won $206 Million Lottery Jackpot"><img src="http://s3.amazonaws.com/readers/newsflavor/2008/03/25/131796.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/new-york/new-yorker-won-206-million-lottery-jackpot/" title="New Yorker Won $206 Million Lottery Jackpot">New Yorker Won $206 Million Lottery Jackpot</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/practical-travel/ode-to-the-number-one-songs-of-the-1980s/" title="ODE to THE Number ONE Songs of THE 1980's"><img src="http://s3.amazonaws.com/readers/musicouch/2008/06/29/197145.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/practical-travel/ode-to-the-number-one-songs-of-the-1980s/" title="ODE to THE Number ONE Songs of THE 1980's">ODE to THE Number ONE Songs of THE 1980's</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/philippines/the-river-of-cagayan-de-oro-and-the-typhoon-sendong/" title="The River of Cagayan De Oro and The Typhoon Sendong"><img src="http://s3.amazonaws.com/readers/authspot/2008/11/13/454269.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/philippines/the-river-of-cagayan-de-oro-and-the-typhoon-sendong/" title="The River of Cagayan De Oro and The Typhoon Sendong">The River of Cagayan De Oro and The Typhoon Sendong</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/wyoming/the-world-will-end-in-2012-say-experts/" title="The World Will End in 2012, Say Experts"><img src="http://s3.amazonaws.com/readers/socyberty/2008/07/20/226033.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/wyoming/the-world-will-end-in-2012-say-experts/" title="The World Will End in 2012, Say Experts">The World Will End in 2012, Say Experts</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/worlds-strongest-currency/" title="World's Strongest Currency"><img src="http://s3.amazonaws.com/readers/socyberty/2009/03/29/838173.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/worlds-strongest-currency/" title="World's Strongest Currency">World's Strongest Currency</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/saudi-arabia/pruelpo-shares-it-is-about-time-to-cheers/" title="Pruelpo Shares: It is About Time to Cheers"><img src="http://s3.amazonaws.com/readers/scienceray/2009/02/12/702551.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/saudi-arabia/pruelpo-shares-it-is-about-time-to-cheers/" title="Pruelpo Shares: It is About Time to Cheers">Pruelpo Shares: It is About Time to Cheers</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/washington/my-daily-quota-of-water-and-exercise/" title="My Daily Quota of Water and Exercise"><img src="http://s3.amazonaws.com/readers/healthmad/2007/10/17/69086.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/washington/my-daily-quota-of-water-and-exercise/" title="My Daily Quota of Water and Exercise">My Daily Quota of Water and Exercise</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/india/adventure-safaris-in-rajasthan/" title="Adventure Safaris in Rajasthan"><img src="http://s3.amazonaws.com/readers/socyberty/2008/01/24/104688.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/india/adventure-safaris-in-rajasthan/" title="Adventure Safaris in Rajasthan">Adventure Safaris in Rajasthan</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/usa-canada/new-york/what-to-do-with-206-million/" title="What to Do with $206 Million?"><img src="http://s3.amazonaws.com/readers/authspot/2008/10/06/277077.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/usa-canada/new-york/what-to-do-with-206-million/" title="What to Do with $206 Million?">What to Do with $206 Million?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://trifter.com/asia-pacific/internet-based-illegal/" title="Internet Based Illegal!"><img src="http://s3.amazonaws.com/readers/authspot/2008/07/03/204045.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://trifter.com/asia-pacific/internet-based-illegal/" title="Internet Based Illegal!">Internet Based Illegal!</a></div><div style="clear:both;"></div></li>				</ul>
 			</div>
 			
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+			<div id="ad300">
+				
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1445");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1445&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=60962944256&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=657e00&amp;cb=c7e1bec7a57813044ea0c2b176946ad6' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1445&amp;cb=c7e1bec7a57813044ea0c2b176946ad6&amp;n=657e00' border='0' alt='' /></a></noscript>			</div>
+			
+			
+			
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -356,27 +540,7 @@ function showTriondSignupForm()
 		}
 	}
 	</script>
-	
-	<div class="block">				
-		<div class="sidebar-title">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '290';
-		playerSeed.height = '241';
-		playerSeed.videoControlDisplayColor = '#CCCCCC';
-		playerSeed.featured = true;
-		playerSeed.categories = '17';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</div>
-
-			
+				
 			<div id="cat-arh" class="block">
 				<div class="sidebar-title">Categories</div>
 				<div class="inside">
@@ -393,6 +557,8 @@ function showTriondSignupForm()
 </li>
 	<li class="cat-item cat-item-219309"><a href="http://trifter.com/category/practical-travel/" title="View all posts filed under Practical Travel">Practical Travel</a>
 </li>
+	<li class="cat-item cat-item-1"><a href="http://trifter.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
 	<li class="cat-item cat-item-74927"><a href="http://trifter.com/category/usa-canada/" title="View all posts filed under USA &amp; Canada">USA &amp; Canada</a>
 </li>
 					</ul>
@@ -403,68 +569,6 @@ function showTriondSignupForm()
 				<iframe src="http://www.facebook.com/plugins/activity.php?site=trifter.com&amp;width=290&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:290px; height:300px; background-color: #fff;" allowtransparency="true"></iframe>
 			</div>
 
-			<!-- TABS STARTS -->           
-			<div id="tabs" class="block">
-                <ul class="idTabs tabs wrap">
-                 	<li><a href="#tagcloud">Tags</a></li>
-                    <li><a href="#comm">Comments</a></li>
-                </ul>
-                
-                
-                <div class="inside" id="tagcloud">
-                    <a href="http://trifter.com/tag/adventure/" class="tag-link-1189" title="145 topics" rel="tag" style="font-size: 10.039215686275pt;">adventure</a>
-<a href="http://trifter.com/tag/africa/" class="tag-link-3059" title="164 topics" rel="tag" style="font-size: 10.101307189542pt;">Africa</a>
-<a href="http://trifter.com/tag/asia/" class="tag-link-32439" title="199 topics" rel="tag" style="font-size: 10.21568627451pt;">Asia</a>
-<a href="http://trifter.com/tag/australia/" class="tag-link-1565" title="149 topics" rel="tag" style="font-size: 10.052287581699pt;">Australia</a>
-<a href="http://trifter.com/tag/beach/" class="tag-link-6639" title="244 topics" rel="tag" style="font-size: 10.362745098039pt;">beach</a>
-<a href="http://trifter.com/tag/beaches/" class="tag-link-162159" title="162 topics" rel="tag" style="font-size: 10.09477124183pt;">beaches</a>
-<a href="http://trifter.com/tag/california/" class="tag-link-28625" title="140 topics" rel="tag" style="font-size: 10.022875816993pt;">California</a>
-<a href="http://trifter.com/tag/canada/" class="tag-link-14041" title="141 topics" rel="tag" style="font-size: 10.02614379085pt;">Canada</a>
-<a href="http://trifter.com/tag/caribbean/" class="tag-link-47043" title="136 topics" rel="tag" style="font-size: 10.009803921569pt;">Caribbean</a>
-<a href="http://trifter.com/tag/china/" class="tag-link-1605" title="166 topics" rel="tag" style="font-size: 10.107843137255pt;">China</a>
-<a href="http://trifter.com/tag/country/" class="tag-link-2437" title="199 topics" rel="tag" style="font-size: 10.21568627451pt;">country</a>
-<a href="http://trifter.com/tag/culture/" class="tag-link-2553" title="327 topics" rel="tag" style="font-size: 10.633986928105pt;">culture</a>
-<a href="http://trifter.com/tag/england/" class="tag-link-9325" title="145 topics" rel="tag" style="font-size: 10.039215686275pt;">England</a>
-<a href="http://trifter.com/tag/europe/" class="tag-link-3121" title="224 topics" rel="tag" style="font-size: 10.297385620915pt;">Europe</a>
-<a href="http://trifter.com/tag/family/" class="tag-link-1449" title="156 topics" rel="tag" style="font-size: 10.075163398693pt;">family</a>
-<a href="http://trifter.com/tag/food/" class="tag-link-1377" title="383 topics" rel="tag" style="font-size: 10.816993464052pt;">Food</a>
-<a href="http://trifter.com/tag/france/" class="tag-link-11543" title="206 topics" rel="tag" style="font-size: 10.238562091503pt;">France</a>
-<a href="http://trifter.com/tag/fun/" class="tag-link-2383" title="210 topics" rel="tag" style="font-size: 10.251633986928pt;">fun</a>
-<a href="http://trifter.com/tag/geography/" class="tag-link-6479" title="179 topics" rel="tag" style="font-size: 10.150326797386pt;">geography</a>
-<a href="http://trifter.com/tag/history/" class="tag-link-2059" title="308 topics" rel="tag" style="font-size: 10.571895424837pt;">history</a>
-<a href="http://trifter.com/tag/holiday/" class="tag-link-6541" title="409 topics" rel="tag" style="font-size: 10.901960784314pt;">holiday</a>
-<a href="http://trifter.com/tag/holidays/" class="tag-link-6607" title="173 topics" rel="tag" style="font-size: 10.130718954248pt;">holidays</a>
-<a href="http://trifter.com/tag/hotel/" class="tag-link-25219" title="220 topics" rel="tag" style="font-size: 10.28431372549pt;">hotel</a>
-<a href="http://trifter.com/tag/hotels/" class="tag-link-26573" title="161 topics" rel="tag" style="font-size: 10.091503267974pt;">hotels</a>
-<a href="http://trifter.com/tag/india/" class="tag-link-5563" title="582 topics" rel="tag" style="font-size: 11.467320261438pt;">India</a>
-<a href="http://trifter.com/tag/island/" class="tag-link-915" title="133 topics" rel="tag" style="font-size: 10pt;">Island</a>
-<a href="http://trifter.com/tag/italy/" class="tag-link-5995" title="201 topics" rel="tag" style="font-size: 10.222222222222pt;">Italy</a>
-<a href="http://trifter.com/tag/life/" class="tag-link-1267" title="146 topics" rel="tag" style="font-size: 10.042483660131pt;">life</a>
-<a href="http://trifter.com/tag/london/" class="tag-link-3307" title="155 topics" rel="tag" style="font-size: 10.071895424837pt;">London</a>
-<a href="http://trifter.com/tag/nature/" class="tag-link-583" title="252 topics" rel="tag" style="font-size: 10.388888888889pt;">nature</a>
-<a href="http://trifter.com/tag/philippines/" class="tag-link-2029" title="243 topics" rel="tag" style="font-size: 10.359477124183pt;">Philippines</a>
-<a href="http://trifter.com/tag/recipe/" class="tag-link-26293" title="140 topics" rel="tag" style="font-size: 10.022875816993pt;">recipe</a>
-<a href="http://trifter.com/tag/religion/" class="tag-link-1239" title="143 topics" rel="tag" style="font-size: 10.032679738562pt;">Religion</a>
-<a href="http://trifter.com/tag/restaurant/" class="tag-link-26101" title="154 topics" rel="tag" style="font-size: 10.06862745098pt;">restaurant</a>
-<a href="http://trifter.com/tag/spain/" class="tag-link-26611" title="152 topics" rel="tag" style="font-size: 10.062091503268pt;">Spain</a>
-<a href="http://trifter.com/tag/temple/" class="tag-link-3765" title="174 topics" rel="tag" style="font-size: 10.133986928105pt;">Temple</a>
-<a href="http://trifter.com/tag/tourism/" class="tag-link-25213" title="435 topics" rel="tag" style="font-size: 10.986928104575pt;">Tourism</a>
-<a href="http://trifter.com/tag/tourist/" class="tag-link-29643" title="152 topics" rel="tag" style="font-size: 10.062091503268pt;">tourist</a>
-<a href="http://trifter.com/tag/travel/" class="tag-link-4217" title="2,581 topics" rel="tag" style="font-size: 18pt;">Travel</a>
-<a href="http://trifter.com/tag/trip/" class="tag-link-6237" title="193 topics" rel="tag" style="font-size: 10.196078431373pt;">trip</a>
-<a href="http://trifter.com/tag/united-states/" class="tag-link-25517" title="334 topics" rel="tag" style="font-size: 10.656862745098pt;">United States</a>
-<a href="http://trifter.com/tag/vacation/" class="tag-link-25225" title="866 topics" rel="tag" style="font-size: 12.395424836601pt;">vacation</a>
-<a href="http://trifter.com/tag/vacations/" class="tag-link-159597" title="149 topics" rel="tag" style="font-size: 10.052287581699pt;">vacations</a>
-<a href="http://trifter.com/tag/water/" class="tag-link-3745" title="172 topics" rel="tag" style="font-size: 10.127450980392pt;">water</a>
-<a href="http://trifter.com/tag/world/" class="tag-link-1991" title="214 topics" rel="tag" style="font-size: 10.264705882353pt;">world</a>                </div>
-                
-                <ul class="inside" id="comm">
-                    <li><strong>Ruby Hawk:</strong> <a href="http://trifter.com/europe/united-kingdom/the-mystery-of-parish-closes-in-brittany/#comment-96210" title="View the entire comment by Ruby Hawk">Interesting history lesson and the</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/arizona/awesome-facts-about-arizona/#comment-96208" title="View the entire comment by rivet32">Thanks gj and albert1jemi for</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/cool-facts-on-wyoming/#comment-96206" title="View the entire comment by rivet32">Thanks larry and albert1jemi for</a></li><li><strong>Rhodora Bande:</strong> <a href="http://trifter.com/asia-pacific/philippines/things-to-do-and-see-in-baybay-leyte-philippines-part-1/#comment-96204" title="View the entire comment by Rhodora Bande">Joe, thank you for leaving</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/florida/awesome-facts-about-florida/#comment-96202" title="View the entire comment by rivet32">Thanks moses, gj, sushant94, larry,and</a></li>                    
-                </ul>
-                    
-            </div>      
-			<!-- TABS ENDS -->
-				            
 		</div>		
 	</div>
 	</div>
@@ -482,13 +586,15 @@ function showTriondSignupForm()
 </li>
 	<li class="cat-item cat-item-219307"><a href="http://trifter.com/category/asia-pacific/" title="View all posts filed under Asia &amp; Pacific">Asia &amp; Pacific</a>
 </li>
-	<li class="cat-item cat-item-3121"><a href="http://trifter.com/category/europe/" title="View all posts filed under Europe">Europe</a>
+	<li class="cat-item cat-item-3059"><a href="http://trifter.com/category/africa/" title="View all posts filed under Africa">Africa</a>
 </li>
 	<li class="cat-item cat-item-219317"><a href="http://trifter.com/category/caribbean-latin-america/" title="View all posts filed under Caribbean &amp; Latin America">Caribbean &amp; Latin America</a>
 </li>
-	<li class="cat-item cat-item-3059"><a href="http://trifter.com/category/africa/" title="View all posts filed under Africa">Africa</a>
+	<li class="cat-item cat-item-3121"><a href="http://trifter.com/category/europe/" title="View all posts filed under Europe">Europe</a>
 </li>
 	<li class="cat-item cat-item-75971"><a href="http://trifter.com/category/antarctica/" title="View all posts filed under Antarctica">Antarctica</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://trifter.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
 </li>
 				</ul>
 			</div>
@@ -497,15 +603,12 @@ function showTriondSignupForm()
 			<div class="last block widget widget_recent_entries" id="popular-posts-2">
 			<div class="footer-title">Popular Articles</div>
 				<ul>
-					<li><a href="http://trifter.com/europe/united-kingdom/the-mystery-of-parish-closes-in-brittany/" title="The Mystery of Parish Closes in Brittany"> The Mystery of Parish Closes in Brittany</a></li><li><a href="http://trifter.com/asia-pacific/singapore/destination-singapore-midnight-shopping-mayhem-at-mustafa-centre/" title="Destination Singapore: Midnight Shopping Mayhem at Mustafa Centre"> Destination Singapore: Midnight Shopping Mayhem at Mustafa Centre</a></li><li><a href="http://trifter.com/asia-pacific/india/vacation-places-in-india/" title="Vacation Places in India"> Vacation Places in India</a></li><li><a href="http://trifter.com/asia-pacific/tension-rising-in-the-korean-peninsula/" title="Tension Rising in The Korean Peninsula"> Tension Rising in The Korean Peninsula</a></li><li><a href="http://trifter.com/usa-canada/arizona/seven-natural-wonders-of-the-world/" title="Seven Natural Wonders of The World"> Seven Natural Wonders of The World</a></li>				</ul>
+					<li><a href="http://trifter.com/usa-canada/new-york/new-yorker-won-206-million-lottery-jackpot/" title="New Yorker Won $206 Million Lottery Jackpot"> New Yorker Won $206 Million Lottery Jackpot</a></li><li><a href="http://trifter.com/practical-travel/ode-to-the-number-one-songs-of-the-1980s/" title="ODE to THE Number ONE Songs of THE 1980's"> ODE to THE Number ONE Songs of THE 1980's</a></li><li><a href="http://trifter.com/asia-pacific/philippines/the-river-of-cagayan-de-oro-and-the-typhoon-sendong/" title="The River of Cagayan De Oro and The Typhoon Sendong"> The River of Cagayan De Oro and The Typhoon Sendong</a></li><li><a href="http://trifter.com/usa-canada/wyoming/the-world-will-end-in-2012-say-experts/" title="The World Will End in 2012, Say Experts"> The World Will End in 2012, Say Experts</a></li><li><a href="http://trifter.com/asia-pacific/worlds-strongest-currency/" title="World's Strongest Currency"> World's Strongest Currency</a></li>				</ul>
 			</div>
 		</div>
 		<div class="widget block last">
 			<div class="last block widget widget_recent_entries" id="recent-comments-2">
-			<div class="footer-title">Recent Comments</div>
-				<ul>
-					<li><strong>Ruby Hawk:</strong> <a href="http://trifter.com/europe/united-kingdom/the-mystery-of-parish-closes-in-brittany/#comment-96210" title="View the entire comment by Ruby Hawk">Interesting history lesson and the</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/arizona/awesome-facts-about-arizona/#comment-96208" title="View the entire comment by rivet32">Thanks gj and albert1jemi for</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/cool-facts-on-wyoming/#comment-96206" title="View the entire comment by rivet32">Thanks larry and albert1jemi for</a></li><li><strong>Rhodora Bande:</strong> <a href="http://trifter.com/asia-pacific/philippines/things-to-do-and-see-in-baybay-leyte-philippines-part-1/#comment-96204" title="View the entire comment by Rhodora Bande">Joe, thank you for leaving</a></li><li><strong>rivet32:</strong> <a href="http://trifter.com/usa-canada/florida/awesome-facts-about-florida/#comment-96202" title="View the entire comment by rivet32">Thanks moses, gj, sushant94, larry,and</a></li>				</ul>
-			</div>
+			
 		</div>
 	</div>
 	</div>
@@ -535,11 +638,9 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=836&amp;rnd=2433565852"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=836&amp;rnd=2382416313"><script type="text/javascript">
 					var _gaq = _gaq || [];
-					_gaq.push(['t10._setAccount', 'UA-1488967-10']);
-							_gaq.push(['t10._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);
-							_gaq.push(['t29._trackPageview']);
+					_gaq.push(['t10._setAccount', 'UA-1488967-10']);_gaq.push(['t10._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
 					  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 					  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -568,45 +669,60 @@ var _sf_async_config={uid:6902};
  
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1371");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1371&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=13298031963&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4b96c8&amp;cb=36636c3bcca22cd459f28319007ba37c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1371&amp;cb=36636c3bcca22cd459f28319007ba37c&amp;n=4b96c8' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1371");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1371&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=8341407339&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=259a13&amp;cb=67c2208b032103f836b01c6914cb021d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1371&amp;cb=67c2208b032103f836b01c6914cb021d&amp;n=259a13' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1087");
+					   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1087&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=nontriond&amp;cb=20852139479&amp;loc=https%3A//web.archive.org/web/20111231210158id_/http%253A//trifter.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=6232e4&amp;cb=0233354bfb8cc0fd173771d71ccf79f2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1087&amp;cb=0233354bfb8cc0fd173771d71ccf79f2&amp;n=6232e4' border='0' alt='' /></a></noscript>	</div>
+<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1087");
-   document.write ("&clr_link=006DAD&clr_title=006DAD&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=515151&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1087&amp;clr_link=006DAD&amp;clr_title=006DAD&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=515151&amp;source=acf=&amp;cb=83967727484&amp;loc=https%3A//web.archive.org/web/20101129013519id_/http%3A//trifter.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ac49f9&amp;cb=62f2c5d96c236561cb66120d0c536cb3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1087&amp;cb=62f2c5d96c236561cb66120d0c536cb3&amp;n=ac49f9' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site 
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=020&amp;c=927219&amp;ctg=travel&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cwrE5utt8r35jaadbiUt4I&amp;s=130"></script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
