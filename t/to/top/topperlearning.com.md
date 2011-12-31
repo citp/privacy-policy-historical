@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409055011id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231014240id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers
 
