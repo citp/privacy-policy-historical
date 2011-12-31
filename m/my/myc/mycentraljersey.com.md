@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycentraljersey.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619112418id_/http%3A//www.mycentraljersey.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycentraljersey.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214448id_/http%3A//www.mycentraljersey.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | MyCentralJersey.com | MyCentralJersey.com
+# privacy | MyCentralJersey.com | MyCentralJersey.com
 
-Last Updated: December 30, 2010
+Last Updated: November 9, 2011
 
 We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
@@ -27,7 +27,7 @@ We may collect and store information, including personally identifiable informat
 
 We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.
+If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. To disable Adobe flash cookies, you can use the flash management tools on Adobe’s website [www.adobe.com](http://www.adobe.com/). If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.
 
 The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
@@ -51,6 +51,8 @@ Please also note that as our business grows, we may buy or sell various assets. 
 
 ### Data Collected in Connection with Ad Serving and Targeting
 
+We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.
+
 We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
 We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site. We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
@@ -58,6 +60,8 @@ We also may use third-party service providers, including Yahoo!, to target and s
 The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.
 
 The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please [click here](http://www.mycentraljersey.com/section/adnetwork).
+
+If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
 
 ### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
 
