@@ -1,70 +1,33 @@
-> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624103024id_/http%3A//www.avfirewalls.com/policies/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortiguard.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204828id_/http%3A//www.fortinet.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# AVFirewalls.com Privacy Policy | AVFirewalls.com
+# Privacy Policy | Fortinet
 
-**READ CAREFULLY.** This Privacy Policy applies to use of the AVFirewalls.com website located at http://www.AVFirewalls.com (the "Site"). The Site is the property of Virtual Graffiti, Inc.
+This statement discloses the Fortinet privacy practices related to the site [www.Fortinet.com](http://www.fortinet.com/) and other Fortinet web sites and documents that refer to this Privacy Policy. 
 
-Our website allows you to buy products and services, apply for credit and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. _Except as limited below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired._
+We collect and store personal information including, among other information, some or all of the following: name; email address; and billing information, such as address, phone number and credit card number. If you do not wish to have your credit card number stored, please contact Customer Support. We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.Fortinet.com. More information on our use of "cookies" can be found below. 
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. In those cases the third-party service provider or merchant's privacy policy will govern how your information is handled.
+In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products, and more detailed contact preferences. Customers and visitors always have the option of choosing not to provide us with this information. 
 
-> **1\. What information do we collect from you?**
-> 
-> In order to better provide you with numerous products and services, Virtual Graffiti, Inc collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
-> 
-> _**Personally Identifiable Information:**_
-> 
-> This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product or service. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, Virtual Graffiti, Inc can fill your orders and better provide you with personalized services.
-> 
-> _**Non-Personally Identifiable Information:**_
-> 
-> This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
-> 
-> On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent.
-> 
-> **2\. Where do we collect information from you and how do we use it?**
-> 
-> Our primary goal in collecting personal information is to provide Virtual Graffiti, Inc’s visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems.
-> 
-> Demographic data also may be collected at our site from third party advertising servers, content servers, or web site analysis agents who provide us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the Virtual Graffiti, Inc visitors on an aggregate basis to determine customers' preferences. Virtual Graffiti, Inc also does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from our web site analysis agents, or from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services. We receive reports from third party ad servers, content servers, or web site analysis agents that tells us how many ads were presented and clicked upon or what content was served or viewed. 
-> 
-> _**Ordering:**_
-> 
-> When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use. We may require additional verifications or information before accepting any order.
-> 
-> _**Newsletters, Promotional E-mails and Personalized On-line Ads:**_
-> 
-> We offer free newsletters, promotional e-mails and personalized on-line advertisements as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements.
-> 
-> **3\. With whom do we share your information?**
-> 
-> _**Fulfillment:**_
-> 
-> The information collected by Virtual Graffiti, Inc is used for processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you.
-> 
-> _**Other Parties Generally:**_
-> 
-> We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third parties, but these statistics do not include any Personally Identifiable Information.
-> 
-> _**Products Advertised on Our Site:**_
-> 
-> Where you order or sign up for goods or services offered through our site, but sold directly to you by a third party or fulfilled by a third party, we give your personal information to that third party to facilitate the sale of such goods or services (e.g., orders shipped from distribution or direct from the manufacturer).
-> 
-> **4\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
-> 
-> In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
-> 
-> Within Virtual Graffiti, Inc, your information is kept on password protected, limited access servers. Wherever possible and applicable, Virtual Graffiti, Inc servers reside behind a corporate firewall that maintains controls on access to the system from both our internal network and the Internet.
-> 
-> **5\. Contacting Virtual Graffiti, Inc about privacy questions or concerns**
-> 
-> If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Virtual Graffiti, Inc by sending a letter to: 
->
->> Attn: Privacy Policy  
->  Virtual Graffiti, Inc  
->  9979 Muirlands Blvd.  
->  Irvine, California, 92618
-> 
-> **6\. Privacy Policy changes**
-> 
-> This Privacy Policy was last changed on August 6, 2008. If Virtual Graffiti, Inc makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.
+We may also employ certain applications, such as the various components of Security Center, to retrieve information about your computer system to assist us in the provision of services that you have chosen to subscribe to or use. This information is essential to enable us to provide you with quality service, and for that reason there is no opt-out available for this information collection. 
+
+Fortinet uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, including fulfillment of orders and promotional offers, to communicate back to you, for marketing programs, to update you on service and benefits, to personalize our Web sites for you, and to manage and renew your subscription(s). Credit card numbers are used only for payment processing and fraud protection, and are not used for other purposes without your permission. 
+
+If you provide us with your email address when you register as a customer or make a purchase from us, we may occasionally send you email with recommendations or notices of new products, prices, and services. This email may include paid advertisements from third parties. At the time you register or make a purchase, you will be given the opportunity to opt into our out of this service. If you do not initially choose to opt out, you may still block future email of this type, simply by following the unsubscribe instructions that accompany all such communications. 
+
+Separately, we send service notifications via email to keep you informed about the status of your service orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our services. Therefore there is no opt-out available for service notifications and these messages cannot be blocked. 
+
+We follow industry standard practices for email marketing and customer contact, and we urge our business partners to do so as well. 
+
+Except as provided in the Privacy Policy, Fortinet will not sell, rent, or lease your personally information to others for commercial gain. We reserve the right to engage other companies or individuals to provide limited services on our behalf that may involve sharing your information, such as the activities discussed elsewhere in this Privacy Policy, handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis. In addition, we may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal processes; (b) protect the rights or property of Fortinet or our partners or customers, including the enforcement of our agreements or policies; or (c) act on a good faith belief that such access or disclosure may be necessary to protect the personal safety of individuals such as Fortinet employees, partners, customers or the public. 
+
+We may also disclose, sell or assign personal information in connection with a corporate transaction, such as a merger, acquisition, sale of assets or restructuring. 
+
+Our site contains links to other Web sites. Please note that when you click on one of these links, you are 'clicking' to another Web site. As Fortinet does not accept liability for misuse of any information by any Web site controller to which we may link, we encourage you to read the privacy statements of these linked sites, as their privacy policies may differ from ours. 
+
+Fortinet uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. Additionally, cookies help us to identify returning users so that we don't ask them to enter their email and password with every visit. Except as stated in this Privacy Policy, the information we collect with cookies is not sold, rented, or shared with any outside parties. We also ask that you fill in your first name and last name in a box so that our customer support services can identify and assist you in case of login problems. We cannot provide subscription services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. 
+
+Fortinet maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
+
+Fortinet is committed to use reasonable measures to protect the security of your personal information, and we use a variety of measures to help protect such information from unauthorized access, use or disclosure. For example, we may store personal information you provide on computer systems with limited access, located in facilities with limited access. If a password is used to help protect your personal information, it is your responsibility to keep the password confidential. Do not share this information with anyone. 
+
+If we make a change to our privacy policy, we will post the changes on our site. We encourage you to periodically review this Privacy Policy to stay informed as to Fortinet's policies around privacy. 
