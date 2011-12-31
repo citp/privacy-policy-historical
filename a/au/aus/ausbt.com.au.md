@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausbt.com.au privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413054655id_/http%3A//www.ausbt.com.au/etc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausbt.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215328id_/http%3A//www.ausbt.com.au/etc/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Business Traveller
 
@@ -18,11 +18,11 @@ The second type of information that Australian Business Traveller collects is pe
 
 Sometimes, we may specifically ask for personal information about you when you sign up to use a service. Certain information may be required, such as your name, age, internet address or screen name, billing address, type of computer, credit card number, in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on our website. We may also ask about your interests, but it is your choice whether to respond.
 
-How much of your personal information that you choose to disclose to ABC Online is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
+How much of your personal information that you choose to disclose to Australian Business Traveller is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
 
  **Use of anonymous information**
 
-Australian Business Traveller automatically gathers anonymous information to monitor the use of Australian Business Traveller like the numbers and frequency of visitors to ABC Online and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve Australian Business Traveller to assure that it is as appealing as we can make it for as many users as possible. Australian Business Traveller may publish or provide this aggregate data to other people.
+Australian Business Traveller automatically gathers anonymous information to monitor the use of Australian Business Traveller like the numbers and frequency of visitors to Australian Business Traveller and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve Australian Business Traveller to assure that it is as appealing as we can make it for as many users as possible. Australian Business Traveller may publish or provide this aggregate data to other people.
 
  **Use of personal information**
 
