@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the updatesforu.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621061041id_/http%3A//updatesforu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatesforu.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215350id_/http%3A//updatesforu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Updatesforu | Updatesforu
+# Privacy Policy – Updatesforu
 
 _**Privacy Policy for www.updatesforu.com**_ ** __**
 
