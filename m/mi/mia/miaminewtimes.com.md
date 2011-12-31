@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612083306id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215444id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Miami Privacy Policy
 
