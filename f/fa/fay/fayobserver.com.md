@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528035356id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fayobserver.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222148id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # FayObserver.com -
 
@@ -26,9 +26,21 @@ We use our best efforts to ensure the security of all personal information that 
 
 The Children's Online Privacy Protection Act (COPPA) provides that web site operators cannot knowingly collect information from children younger than 13 without verifiable permission from their parents. We do not intend for our Online Service to be used by anyone under the age of 13 for any purpose, including for any service that requires the collection of personal information, through registration or otherwise. Our Terms of Use require that users represent and warrant that they are at least 13 years old. Therefore, we will not knowingly gather or disclose personal information about users under the age of 13 without prior parental consent, except as required by law. Other sites accessible through the Online Service have their own policies about children's privacy. We are not responsible for their policies, and you should contact them directly regarding those policies.
 
-You may use our online registration form at any time to change or update information you have provided to us. Questions regarding the accuracy of your personal information, the use of the information collected, or our Privacy Policy in general should be directed via e-mail to [privacy@FayObserver.com](https://web.archive.org/web/20110528035356id_/http%3A//www.fayobserver.com/help/privacy@FayObserver.com). You can also reach us by calling (910) 323-4848 or by writing to The Fayetteville Observer, Online Department, P.O. Box 849, Fayetteville, NC 28392.
+You may use our online registration form at any time to change or update information you have provided to us. Questions regarding the accuracy of your personal information, the use of the information collected, or our Privacy Policy in general should be directed via e-mail to [privacy@FayObserver.com](https://web.archive.org/web/20111231222148id_/http%3A//www.fayobserver.com/help/privacy@FayObserver.com). You can also reach us by calling (910) 323-4848 or by writing to The Fayetteville Observer, Online Department, P.O. Box 849, Fayetteville, NC 28392.
 
 We may occasionally send you information via e-mail about various products and services. You may "opt-out" of receiving further e-mail contact from us by clicking the "click to unsubscribe" link at the bottom of one of your emails, or by managing email subscriptions online at: <http://fayobserver.upickem.net/engine/Registration.aspx?contestid=9891>. You can also contact us at the e-mail address, telephone number, or postal address listed above. This will not prevent you from accessing and using the Online Service.
+
+SPECIAL REPORT
+
+Collateral Damage: War's continuing toll on soldiers
+
+DISCOVER FAYETTEVILLE
+
+Get to know Fayetteville with 2011 Discover Fayetteville
+
+SPECIAL SECTION
+
+Heroes Homecoming: Celebrating the community's ties to Vietnam era
 
 DATA CENTER
 
@@ -36,44 +48,24 @@ See government salaries and other public information in our databases
 
 ELITE MAGAZINE
 
-Read about Holly Petraeus and her fight against financial fraud in this month's issue of Elite Magazine.
+In this month's Elite, read about a general's wife and the toughest battle she's ever faced.
 
-DO YOU LIKE FAYE?
+LIFE
 
-Get local news and more on Facebook from our very own Faye Observer. 
+Find out what to eat, and where, on our new Dining Out page
 
-CALENDAR
+YOUR PICKS
 
-Looking for a summer camp? Here's a list of them.
+Our readers pick the best in town
 
-SLIDE SHOW
+SLIDE SHOWS
 
-Photos of the damage caused by a tornado that struck Joplin, Mo.
+Fan Cams: Did we take your picture at a high school football game?
 
-SLIDE SHOW
+SLIDE SHOWS
 
-5th Squadron, 73rd Cavalry Regiment, 3rd Brigade Combat team receives Presidential Unit Citation
+Check out our high school football game photos
 
-SLIDE SHOW
+MILITARY
 
-Cadets graduate from the U.S. Military Academy in West Point, N.Y.
-
-SLIDE SHOW
-
-Scotty McCreery wins 'American Idol'
-
-SLIDE SHOW
-
-Fallen Special Operations Soldiers' Memorial ceremony
-
-SLIDE SHOW
-
-Spring Lake Memorial Day ceremony
-
-FRIDAY'S PHOTOS
-
-View and buy photos that appeared in The Fayetteville Observer 
-
-SLIDE SHOW
-
-Remember This? Train derailment in downtown Fayetteville in 1978
+Observer's Drew Brooks and James Robinson embedded with 82nd in Iraq
