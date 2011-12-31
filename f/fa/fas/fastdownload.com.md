@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastdownload.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617051804id_/http%3A//www.gametop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastdownload.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231010828id_/http%3A//www.gametop.com/privacy.html) for the most accurate reproduction.*
 
 # MEDIA CONTACT LLC WEB SITE PRIVACY STATEMENT
 
