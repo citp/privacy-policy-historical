@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatefooterad.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623203516id_/http%3A//www.ultimatefooterad.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatefooterad.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231162850id_/http%3A//www.ultimatefooterad.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bright Future Marketing
 
