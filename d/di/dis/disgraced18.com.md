@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disgraced18.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502013708id_/http%3A//disgraced18.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disgraced18.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231022535id_/http%3A//disgraced18.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
