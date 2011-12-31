@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastpencil.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121094653id_/http%3A//www.fastpencil.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpencil.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205616id_/http%3A//www.fastpencil.com/company/privacy) for the most accurate reproduction.*
 
 # FastPencil Privacy Policy
 
