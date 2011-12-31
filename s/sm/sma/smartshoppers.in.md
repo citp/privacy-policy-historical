@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613041319id_/http%3A//www.smartshoppers.in/auxpage_5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224539id_/http%3A//www.smartshoppers.in/auxpage_5) for the most accurate reproduction.*
 
-# Privacy policy ― SmartShoppers: Online Shopping India | Cameras, Digital Camera, SLR Camera, Camera Lenses, Mobiles, Laptops & Accessories
+# Privacy policy ― Online Shopping , Compare Price,Review, Compare price and Shop online in India. Shop Online best price for Digital Cameras, Digital SLR Cameras, Camera Accessories, Camera Lenses, Camcorders, Mobile Phones, MP3 Players, Ipods, Laptops, Storage Devices, L
 
 **
 
