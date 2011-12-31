@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmedianews.com.au privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601215742id_/http%3A//www.socialmedianews.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedianews.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112443id_/http%3A//www.socialmedianews.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Media News
 
