@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmants.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623120133id_/http%3A//www.charmants.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmants.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231010859id_/http%3A//www.charmants.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Charmants.com
 
