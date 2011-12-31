@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507060304id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062110id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -99,4 +99,4 @@ E-mail: [sales@techforless.com](mailto:sales@techforless.com)
   
 ---|---  
   
-*The Compare At price is the lowest price we've recently found on the Web from another reputable merchant.
+*The Compare At price is the lowest price we've recently found on the Web from another reputable merchant. 
