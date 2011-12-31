@@ -1,97 +1,76 @@
-> *The following text is extracted and transformed from the derbytelegraph.co.uk privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101084253id_/http%3A//www.thisisderbyshire.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derbytelegraph.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231153914id_/http%3A//www.thisisderbyshire.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# This is Derbyshire | Privacy Policy
 
-Protecting the privacy and personal data of individuals is an important aspect of the way our company, undefined, organises and implements its activities both on-line and off-line.
+10 October 2011
 
-This Privacy Policy covers the website accessible from this site and the services. In this policy when we refer to 'services' this includes any of the information, services or facilities provided to you via the site by us.
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
-Our site or services may, from time to time, contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies and websites. Please check these policies before you submit any personal data to these websites.
+**Collection Of Personal Information**
 
-The information you provide will be held and processed by Northcliffe Media Ltd., a member of the DMGT Group of Companies (DMGT). Northcliffe Media Ltd. is registered in England and Wales under company number 272225 and has its registered office at Northcliffe Accounting Centre, PO BOX 6795, Leicester, LE1 1ZP. Our main trading address is 2 Derry St, London W8 5TT. Our VAT number is 243-5711-74.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails or text messages to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-We may collect and process the personal data that you:
+**Collection Of Other Information/Cookies**
 
-  * Volunteer on forms you submit to us (including but not limited to registration, order, survey, and competition forms), and in emails you send to us.
-  * Upload, post, comment or submit to a discussion board, story blog, wiki, forum, chatroom or similar discussion or opinion group;
-  * Submit when you report a problem with our site or services or contact us; and
-  * Leave as a result of your visits to our site (including but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise), use of the services and the resources that you access.
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most Internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. Generally you have the option to accept all cookies, to be notified when a cookie is issued or reject all cookies. CLICK HERE for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
 
+If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
 
+The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the Internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
 
-The personal data we collect (as described above) is used to:
+**Interest Based Advertising**
 
-  * Allow us to develop our sites or services in a way that will enhance the online experience of the greatest number of users;
-  * Ensure that content from our site or services is presented in the most effective manner for you and for your computer, PDA, mobile phone or other device;
-  * To provide you with information, products or services that you request from us or which we may feel may interest you, where you have consented to be contacted for such purposes;
-  * To carry out our obligations arising from any contents entered into between you and us;
-  * To allow you to participate in interactive features of our service, when you choose to do so; and
-  * To notify you about changes to our service.
-  
-You agree that we and other (DMGT) group companies may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes.
+Interest based advertisements on our site are provided by our advertising partner, AudienceScience. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on certain information about your visit to this and other websites. This information is collected and used without reference to other data which could identify you in the real world, in that it does not include your name, street address, e-mail address or telephone number. In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. You have the right to exercise control over the way we collect and use information about your online activities in this way and you are entitled to opt-out of receiving this type of interest based advertising.
 
-This will include communication (and personalising such communication) with you from other DMGT group companies, and from other companies (if you have agreed to such).
+For more information about this type of interest based advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/). Please note that the effectiveness of any opt-out for interest based advertising may be impacted by deleting all cookies on your browser.
 
-Our web sites and services enable you to communicate with other visitors or to post information to be accessed by others. When you use these services, other visitors could collect your data. We have no control over this and accept no liability for any consequences of this.
+You can also refer to the [privacy policy](http://www.audiencescience.com/privacy) of our advertising partner for further information on interest based advertising on other sites served by their system.
 
-Registered users posting comments via the Story Comments facility on our sites or services will also have their submitted details stored along with their IP address. Your IP address will not be disclosed to anyone accept in cases of the story comments facility being abused or unless we are required to do so by law.
+**Use Of Your Information**
 
-  
-Yes, you can access our web site's homepage and browse our sites without disclosing personal data.   
-We use cookies to hold session information, ensure effective advertising tailored to the users' needs and save an individual user's password, once entered, so that it does not have to be re-keyed during the session.
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
-We do not use persistent cookies, which means that the site will not remember who users are when they visit again later.
+• Verifying your identity (for example when you return to the Site)  
+• Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you   
+• Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting   
+• Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities   
+• Enabling you to share our content with others e.g. using our Email a friend and Share this article facilities   
+• Communicating (and personalising such communication) with you   
+• Informing you if you have been successful in any Site competitions or promotions   
+• Compiling customer reviews   
+• Conducting market research   
+• Carrying out statistical, technical and logistical analysis 
 
-We do not associate the information stored in a user's cookie with any other personal data about that user. The information collected includes your IP address, operating system and browser type.
+**Sharing Your Personal Information**
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site or services.
+By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies. Subject to obtaining your consent, we may also supply personal information about you to third parties.
 
-Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site or use services.
+We reserve the right to disclose your personal information to comply with applicable laws (such as the Data Protection Act 1998) and government or regulatory bodies' lawful requests for information.
 
-Please note that our advertisers and other third party partners may also use cookies, over which we have no control.
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-Advertisements on our site or services are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer, PDA, mobile phone or other device. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
+**Message Boards, Blogs and Other Public Forums**
 
-  
-We will ensure that your personal data will not be disclosed except insofar as you have consented to such disclosure or we are required to do so by law.
+The Site makes message boards, blogs and other such user generated content facilities available to users of the Site and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Site becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Site's Terms and House Rules.
 
-We may disclose your personal information to third parties:
+**Email A Friend And Share This Article Facilities**
 
-    * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
-    * If Northcliffe Media Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  
-We may share by way of a central platform, your information with other companies within the DMGT Group to which all companies have access or by means of a direct transfer of data from one company to another.
+When you use these facilities and provide us with personal data (e.g. the name and email address) of a third party, please ensure that you have their consent before giving us their details.
 
-You may choose to give your consent to us disclosing your personal data and to receiving promotional or marketing information from other third parties selected by Northcliffe Media Ltd. and DMGT Group by ticking the relevant boxes at the points where our sites or services collect personal data. Leaving the relevant boxes unchecked indicates to us that you would prefer your personal data not to be disclosed and that you would prefer not to receive such material.
+**Safeguards And Security**
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in a particular postcode). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www.ico.gov.uk
 
-  
-By sending an email or by contacting us by any of the other means available by clicking the "contact us" link in "About us" on the site, you may request that we confirm whether or not we are holding personal data about you which will be provided free of charge. You may also request a copy of any such data which we do hold, in which case a £10 fee is payable for dealing with this request (as permitted under the Data Protection Act 1998).
+**Accessing Your Personal Information**
 
-Upon receipt of such a request from you, we will endeavour to meet your request within 40 days of our receiving all that information which we require in order to deal with the request. Insofar as the law permits, however, we reserve the right to refuse to provide you with information. In the event of our refusing to provide you with information we will provide you with the reasons behind the refusal.
+If you wish to review or receive copies of the personal information we hold about you, or have any other queries or concerns about the way we are collecting and using your personal information, please write to us (including full details of your request) at:
 
-All information that we provide to you as a result of a request will be provided free of charge.
+Legal Department.   
+Associated Newspapers Limited   
+Northcliffe House   
+2 Derry Street   
+London   
+W8 5TT  
+United Kingdom 
 
-  
-You may request that we amend any personal data that we are holding about you which is factually inaccurate, free of charge.
-
-If you have agreed to the disclosure of personal information and to receiving marketing and promotional information, but no longer wish to do so, then please contact us.
-
-  
-All of our employees and data processors who have access to your personal data and/or are associated with the processing of that data are contractually obliged to respect the confidentiality of your personal data.
-
-To protect the integrity and security of your personal data we will take steps to verify your identity before granting access to your data or making corrections to it.
-
-We have put in place appropriate technology measures and security policies and procedures to protect the personal data that we have under our control from unauthorised access, improper use, alteration, unlawful or accidental destruction or accidental loss.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site or services; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-  
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.   
-Questions, comments and requests regarding this privacy policy are welcomed and should be address to Northcliffe Media Ltd., 2 Derry St, London W8 5TT.
-
-**Last Updated: 9 June 2010**
-
-
-
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
