@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524154526id_/http%3A//www.hostgator.in/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231050234id_/http%3A//www.hostgator.in/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,11 +40,11 @@ By default, customers do receive any voluntary system updates, such as the newsl
 
 ## Security
 
-[hostgator.in](http://www.hostgator.in/) uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. [hostgator.in](http://www.hostgator.in/) uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
+[hostgator.in](https://web.archive.org/) uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. [hostgator.in](https://web.archive.org/) uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology.
 
 ## Data and Information Submitted to Another Person or Entity on Our Network
 
-As mentioned above, [hostgator.in](http://www.hostgator.in/) collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does [hostgator.in](http://www.hostgator.in/) regarding, data or confidential information that is submitted to another person or entity for whom [hostgator.in](http://www.hostgator.in/) may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy e should be made before submitting data or confidential information to them.
+As mentioned above, [hostgator.in](https://web.archive.org/) collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does [hostgator.in](https://web.archive.org/) regarding, data or confidential information that is submitted to another person or entity for whom [hostgator.in](https://web.archive.org/) may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity's own privacy policy e should be made before submitting data or confidential information to them.
 
 ## Compliance with Laws and Law Enforcement
 
@@ -56,7 +56,7 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ## Enforcement and Dispute Resolution
 
-[hostgator.in](http://www.hostgator.in/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. Hostgator also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [hostgator.in](http://www.hostgator.in/) at the address below.
+[hostgator.in](https://web.archive.org/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. Hostgator also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [hostgator.in](https://web.archive.org/) at the address below.
 
 1st Floor,Vijay Chambers,
 
