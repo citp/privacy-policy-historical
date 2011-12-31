@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216000907id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223257id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -48,5 +48,8 @@ You have the right to obtain information about your personal data, its origin an
 
 ## More information
 
-Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de) at any time.  
+Your trust is important to us. Therefore we will always to justify ourself to you concerning the processing of your personal data. If you have any questions, you are not answered by this privacy policy, or if you want more in-depth information, please contact our data protection supervisor [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de) at any time.
 
+## Personal Data
+
+To delete your personal data, please contact us via email to our data protection officer [Lars Rohrbeck](mailto:lars.rohrbeck@nextidea.de). 
