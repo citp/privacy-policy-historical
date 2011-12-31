@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106000438id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231072630id_/http%3A//www.webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WebGuru, India, a Web Design and Development company
 
-This legal notice pertains to web site “www.webguru-india.com” here after referred to as “[webguru](https://web.archive.org/web/20110106000438id_/http%3A//www.webguru-india.com/about-us.htm)” or “this Web site” or “this site”.
+This legal notice pertains to web site “www.webguru-india.com” hereinafter referred to as “webguru” or “this Web site” or "this site". 
 
 **Welcome**
 
-This site is owned by Brainware Consultancy Private Limited, hereinafter referred to as “Brainware”. The terms “Brainware” and “webguru” have been used interchangeably in this site. WebGuru would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy. 
+This site is owned by Brainware Consultancy Private Limited, hereinafter referred to as "Brainware". The terms "Brainware" and "webguru" have been used interchangeably in this site. WebGuru would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy.
 
 **Intellectual copyright**
 
-All information displayed, transmitted or carried on [www.webguru-india.com](http://www.webguru-india.com/) is protected by copyright and other intellectual property laws.   
-You may not, under any circumstances, modify, publish, distribute, repost, perform, display or in any way commercially exploit any of the content on this web site. 
+All information displayed, transmitted or carried on [www.webguru-india.com](http://www.webguru-india.com/) is protected by copyright and other intellectual property laws. You may not, under any circumstances, modify, publish, distribute, repost, perform, display or in any way commercially exploit any of the content on this web site.
 
 **Your Consent**
 
@@ -19,8 +18,7 @@ By using this site, you agree with the terms of this Privacy Policy. Whenever yo
 
 **Active Information Collection**
 
-Like many Web sites, this site actively collects information from its visitors by permitting you to communicate directly with us via e-mail and feedback forms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on).  
-Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, order processing, submitting a resume). You will be informed at each information collection point what information is required and what information is optional.
+Like many Web sites, this site actively collects information from its visitors by permitting you to communicate directly with us via e-mail and feedback forms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). Some areas of this site may require you to submit information in order for you to benefit from the specified features (such as newsletter subscriptions, order processing, submitting a resume). You will be informed at each information collection point what information is required and what information is optional.
 
 **Passive Information Collection**
 
@@ -30,7 +28,7 @@ This site may use Internet Protocol (IP) addresses. An IP Address is a number as
 
 **Use and Disclosure of Information**
 
-Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes (could be on users demographics, interests and behavior), and for providing you with the latest information for direct marketing purposes where we think you may be interested in the products and services of some of our affiliates or third parties. 
+Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes (could be on users demographics, interests and behavior), and for providing you with the latest information for direct marketing purposes where we think you may be interested in the products and services of some of our affiliates or third parties.
 
 If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise.
 
@@ -54,16 +52,17 @@ We take reasonable steps to protect your personally identifiable information as 
 
 The materials on this Web site may contain inaccuracies and typographical errors. WebGuru does not warrant the accuracy or completeness of the data or materials or the reliability of any advice, opinion, statement or other information displayed or distributed through this Web site. You acknowledge that any reliance on any such opinion, advice, statement, memorandum, or information shall be at your sole risk. WebGuru reserves the right, in its sole discretion, to correct any error or omission in any portion of the site. WebGuru may make any other changes to the site, the materials and the products, programs, services or prices described in this Web site at any time without notice.
 
-The WebGuru Web site, the information and materials on this Web site, and the software made available on this Web site, are provided "As Is" without any representation or warranty, express or implied, of any kind, including, but not limited to, warranties of merchantability, non-infringement, or fitness for any particular purpose, some jurisdictions do not allow for the exclusion of implied warranties, so the above exclusions may not apply to you. 
+The WebGuru Web site, the information and materials on this Web site, and the software made available on this Web site, are provided "As Is" without any representation or warranty, express or implied, of any kind, including, but not limited to, warranties of merchantability, non-infringement, or fitness for any particular purpose, some jurisdictions do not allow for the exclusion of implied warranties, so the above exclusions may not apply to you.
 
 **Other Terms**
 
 1\. Credit Card orders will commence on receiving the authorization from the credit card company. Paypal / CCAvenue orders will commence after receiving the confirmation from the respective payment gateways.
 
-2\. All the graphic designs like logo, stationery etc. and websites created by webguru for its clients will be sent to the respective clients only through e-mail or FTP upload.  
-3\. Orders once placed cannot be terminated or transferred 
+2\. All the graphic designs like logo, stationery etc. and websites created by webguru for its clients will be sent to the respective clients only through e-mail or FTP upload.
 
-**How to Contact Us ?**
+3\. Orders once placed cannot be terminated or transferred
+
+**How to Contact Us?**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please use "contact us" link on this Web site.
 
