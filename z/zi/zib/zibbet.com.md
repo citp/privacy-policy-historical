@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113194547id_/http%3A//www.zibbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113604id_/http%3A//www.zibbet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,8 @@ We may also share your personal information with:
 
   * Service providers under contract, who help with our business operations such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards.
   * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. In such events, we will disclose information relevant to the investigation, such as name, city, state, zip code, telephone number, email address, User ID history, IP address, fraud complaints, and transaction history.
+  * Trusted third parties that are affiliated with Zibbet, but never without asking for your consent and authorization.  
+
 
 
 
