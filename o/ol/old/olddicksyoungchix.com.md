@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olddicksyoungchix.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126205622id_/http%3A//olddicksyoungchix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olddicksyoungchix.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231071555id_/http%3A//olddicksyoungchix.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
