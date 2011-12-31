@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613233136id_/http%3A//www.wlos.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154024id_/http%3A//www.wlos.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WLOS ABC13 :: Privacy Policy
 
