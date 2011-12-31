@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221140458id_/http%3A//myitthings.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitthings.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214016id_/http%3A//myitthings.com/Privacy) for the most accurate reproduction.*
 
 # MyItThings - User Generated Magazine - Privacy
 
