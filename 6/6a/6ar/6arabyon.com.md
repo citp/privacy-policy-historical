@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6arabyon.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629222445id_/http%3A//www.6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6arabyon.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154055id_/http%3A//www.6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Tarabyon! - Download Arabic Mp3, Watch Videos, Listen to Arabic Music
 
@@ -16,7 +16,7 @@ If we suspect that you provided false information when registering or settings i
  • We never sell your personal information to third parties.
 
 **Google:**  
-Google, as a third party vendor, uses cookies to serve ads on your site. Google�s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 Tarabyon.com also use third party advertisements on Tarabyon to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
 
