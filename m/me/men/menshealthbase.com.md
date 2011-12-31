@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menshealthbase.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613032202id_/http%3A//www.menshealthbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealthbase.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231123554id_/http%3A//www.menshealthbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Mens Health Base
 
@@ -64,4 +64,4 @@ Please Contact Us if you have any further questions.
 
 _Effective: September 2008_
 
-Last modified: November 10, 2009
+[Content Created/Medically Reviewed by our Expert Doctors](http://www.menshealthbase.com/expert-advisory-board/)
