@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webproxy.ca privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603214331id_/http%3A//www.webproxy.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webproxy.ca privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231125456id_/http%3A//www.webproxy.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.webproxy.ca
 
