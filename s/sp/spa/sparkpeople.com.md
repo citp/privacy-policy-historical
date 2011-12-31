@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430215355id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpeople.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224113id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
 
 # SparkPeople Privacy Policy
-
-###### \-- By SparkPeople Support
 
 At SparkPeople, we respect your privacy and believe you should be informed about how we collect, use and disclose your Personal Information (as defined below). This Privacy Policy describes our practices regarding how we use and share with third parties Personal Information and other information that we collect on the Website. 
 
