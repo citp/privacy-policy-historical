@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612101043id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223841id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
 # Fermilab Disclaimer
 
@@ -22,7 +22,7 @@ Fermilab policy and rules for computing, including appropriate use, may be found
 
 We collect no information about you when you visit this site except whatever you choose to send, for example through web-based forms or email, and some portion of whatever your web browser automatically sends to web sites you visit.
 
-The information we do automatically collect and store includes the following: 
+**The information we do automatically collect and store includes the following:**
 
   * the Internet Protocol (IP) address from which you access the Internet (e.g., 192.255.238.66), whether your own or provided as a proxy by your Internet Service Provider (ISP),
   * the date and time you access our site, 
@@ -38,9 +38,15 @@ We use summary statistics of the above information to help us make our site more
 
 This information is **not** shared with anyone for any commercial purpose whatsoever. It is used as a source of anonymous statistical information and to diagnose network problems and intrusion attempts.
 
-Email you send us may be forwarded as needed in order to make the best possible response. Also, you should be aware that email to some destination addresses may be archived, possibly in a way visible to the public. Unless you have reliable information to the contrary, you should never assume that email you send is confidential or ephemeral.
+**Use of cookies:**
 
-We endeavour to avoid the use of cookies on pages intended for the general public. Cookies may be present either inadvertently, as a result of incorrect or default installation settings, or intentionally on pages intended only for internal technical and administrative use. If you access such pages and provide information it may be collected automatically. However, it is our policy that information from the general public collected in this way will not be examined or used for any purpose.
+In addition, we use Google Analytics to collect and analyze this information. Google Analytics uses a persistent cookie to track your usage of our site. This is classified as a Tier 2 usage under OMB Memorandum M-10-22. If you wish, you may opt out of Google Analytics by disabling cookies in your browser. If you choose to opt out of Google Analytics tracking, you will still have access to all of the information on this site.
+
+We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes, such as determining the site's technical design specifications and identifying system performance or problem areas.
+
+**Email:**
+
+Email you send us may be forwarded as needed in order to make the best possible response. Also, you should be aware that email to some destination addresses may be archived, possibly in a way visible to the public. Unless you have reliable information to the contrary, you should never assume that email you send is confidential or ephemeral.
 
 Notwithstanding everything in this Privacy Notice, any information we can collect may be used for security purposes as explained in our Security Notice. 
 
@@ -69,6 +75,6 @@ Fermilab is not responsible for the contents of any offsite pages referenced.
 
 * * *
 
-The URL for this page is http://www.fnal.gov/pub/disclaim.html Last updated June 25, 2000
+The URL for this page is http://www.fnal.gov/pub/disclaim.html Last updated September 29, 2011
 
 [webmaster@fnal.gov](mailto:webmaster@fnal.gov)
