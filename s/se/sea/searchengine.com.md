@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623092341id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengine.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212634id_/http%3A//searchengine.com/Terms_of_use/privacystatement.asp) for the most accurate reproduction.*
 
-# searchengine.com - Welcome to the leading search engine
+# - Welcome to the leading search engine
 
   
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [searchengine.com](http://searchengine.com/) (the "Website"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [](http://) (the "Website"). We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
 Your use of Website indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: privacy @ cybwell.com 
 
