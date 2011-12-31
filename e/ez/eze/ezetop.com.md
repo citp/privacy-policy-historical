@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezetop.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130155218id_/http%3A//www.ezetop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezetop.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231025324id_/http%3A//www.ezetop.com/privacy-policy) for the most accurate reproduction.*
 
-# ezetop | Privacy Policy
+# Privacy Policy | ezetop
 
 ## 1\. Information About Us
 
@@ -57,4 +57,4 @@ You may inform us of any changes in your Personal Data, and in accordance with o
 
 Any changes to this Privacy Policy will be posted on our Website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
 
-This page is also available in: [French](http://www.ezetop.com/fr/politique-de-confidentialite/), [Spanish](http://www.ezetop.com/es/politica-de-privacidad/)
+This page is also available in: [French](http://www.ezetop.com/fr/politique-de-confidentialite/), [Spanish](http://www.ezetop.com/es/politica-de-privacidad/), [Portuguese (Brazil)](http://www.ezetop.com/pt-br/politica-de-privacidad_pt/)
