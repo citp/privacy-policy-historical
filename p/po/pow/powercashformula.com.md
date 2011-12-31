@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powercashformula.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223005833id_/http%3A//www.powercashformula.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powercashformula.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204332id_/http%3A//www.powercashformula.com/privacy.php) for the most accurate reproduction.*
 
 # Power Cash Formula
 
