@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128120611id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204338id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
 
-# PSP Custom Firmware – PSP CFW | Privacy Policy
+# Privacy Policy | PSP Custom Firmware - PSP CFW - PS Vita CFW
 
 **Privacy Policy Statement  
 This is the web site of Pspcustomfirmware **
 
-Our postal address is 
+President  
+Roger Escobar
+
+Vice President  
+Yahaira Velez
+
+Our postal address is
 
 **PSP Custom Firmware  
-35 ft washington ave  
-suite 3C  
-New York , NY , 10032**
+Admin: Yahaira Velez  
+35 Fort Washington Ave  
+New York , New York , 10032**
 
 We can be reached via e-mail at info@pspcustomfirmware.com
+
+Or Via Telephone : 917-508-6047
 
 For each visitor to our Web page, our Web server automatically recognizes the  
 consumer’s domain name and e-mail address (where possible).
@@ -81,10 +89,10 @@ information, communications that the consumer/visitor has directed to the site.
 Consumers can have this information corrected by sending us e-mail at the above  
 address.
 
-**With respect to security All Financial information is handle by PayPal.**
+**With respect to Security , All Financial information is handle by PayPal. This website also has a Valid SSL Certificate in place to ensure Customer Financial information is Secure and encrypted via our site .**
 
 If you feel that this site is not following its stated information policy, you  
-may contact us at the above addresses or email address . 
+may contact us at the above addresses or email address .
 
 **PHOTO-SENSITIVITY NOTICE**
 
@@ -107,3 +115,20 @@ Use and handling of content, including video games, to reduce the likelihood of 
 (iv) avoid prolonged use of the PlayStation system;  
 (v) take a 15-minute break during each hour of play; or  
 (vi) avoid playing when you are tired or require sleep.
+
+#### Incoming search terms:
+
+  * ???????
+  * flash hen cfw
+  * sos psp 3004 למכירה
+  * jpcsp הסבר
+  * פריצה מלאה 6 20 B9
+  * מדריך פריצה מלאה לPSP 6 20 pro b10
+  * sommeil psp
+  * psp 620 cfw nasil atilir
+  * PSP 6 60me 1 7
+  * percentuale batteria psp per aggiornamento firmware
+
+
+
+Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
