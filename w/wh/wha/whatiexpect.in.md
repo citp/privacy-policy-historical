@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315210206id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatiexpect.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112405id_/http%3A//whatiexpect.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Whatiexpect.in
 
 **Whatiexpect.in - Privacy Policy**
 
-Last Revised on: September 10, 2009   
+Last Revised on: July 29, 2011   
 
 
 **About whatiexpect.in**
@@ -46,7 +46,12 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 4\. Clear / transparent GIFs information: When you use the Whatiexpect.in Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
 
-How is this information used? 
+  
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/) .
+
+  
+How is this information used?   
+
 
 1\. If you submit personally identifiable information to us through the Whatiexpect.in Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Whatiexpect.in Site.   
 
