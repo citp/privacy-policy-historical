@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609062344id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112250id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
 # Webyog Privacy Policy
 
@@ -53,7 +53,5 @@ Our web site utilizes industry standard security technology to protect the secur
 **Changes to the Webyog Privacy Policy**
 
 Webyog may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted.
-
-You may contact us with your comments on Webyog's privacy policy at: 
 
 If you have further questions, please send a mail to [support@webyog.com](mailto:support@webyog.com)
