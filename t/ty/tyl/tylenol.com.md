@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524150035id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204059id_/http%3A//www.tylenol.com/vcrc/privacy.jhtml) for the most accurate reproduction.*
 
 # Tylenol.com
 
-Welcome to  www.tylenol.com! This site is owned by  McNeil Consumer Healthcare Division of McNEIL-PPC, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States.
+Welcome to  www.tylenol.com! This site is owned by  McNeil Consumer Healthcare Division of McNEIL-PPC, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. This site is intended for use by residents of the United States. If you reside outside of the United States, you can call us. [Click here](https://www.ccc-consumercarecenter.com/phone_us) for a list of telephone numbers by country.
 
 Your Consent  
 By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
