@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623073158id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the time4learning.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224333id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -19,63 +19,9 @@
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/_css/ie6.css" /><script type="text/javascript" src="/_js/ie6.js"></script><![endif]-->
 <!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
 
-<!--BEGIN Promotional Slider -->
-<!--Checks for cookies in order to disable/enable popup -->
-<script type="text/javascript" src="/_js/slider-cookie-check.js"></script>
-<script type="text/javascript" language="javascript">
-//<![CDATA[
+<script type="text/javascript" src="/_js/slider-cookie-check.js"></script> <!--Cookie Check -->
+<script type="text/javascript" src="/_js/promos-sitewide.js"></script> <!-- Promos -->
 
-	// Settings for 75% off promo.
-	// Set a global variable to get the date to run the promo.
-	var start_date = new Date('4/1/2011');
-	// Updated by IB on 04/30/2011 - Changed 4/30 to 5/1
-	// When using the Date function, it returns the date + time requested.
-	// If no time value is specified, it defaults to 00:00:00 which is AM of the day of
-	// So if your last date is 4/30, Date produces 4/30/2011 00:00:00 which is 4/30 12:00AM (the start of the day)
-	// So a comparison of now <= end_date using this format will never be valid, b/c 
-	// the value of "now" will be 4/30/2011 14:20:30 (for example) which will always be greater than 
-	// the AM of the same date.
-	var end_date = new Date('5/1/2011');
-	var now = new Date();
-	// Updated by IB on 4/30/2011 - changed <= to <
-	var show_promo = ( now >= start_date && now < end_date );
-	
-	// Settings for VSC promo.
-	// Updated by JZ on 06/15/2011
-	var start_date_VSC = new Date('6/22/2011');
-	var end_date_VSC = new Date('6/30/2011');
-	var url = window.location.href;
-	var show_promo_VSC = (now >= start_date_VSC && now < end_date_VSC) && ((url.indexOf('?CC=VSC&utm_source=GreatSchools&utm_medium=Dedicated+Email&utm_campaign=GreatSchools+VSC+T4L+Dedicated') != -1) || (url.indexOf('&CC=VSC&utm_source=GreatSchools&utm_medium=Dedicated+Email&utm_campaign=GreatSchools+VSC+T4L+Dedicated') != -1));
-	
-
-
-$j().ready(
-	function() {
-		// If the date falls between the start and end date, then show the promo slider.
-		if (show_promo) {
-			$j("#DemoBox").show();
-		}
-	}
-);
-
-//Runs the cookie check function.
-window.onload=checkCount;
-
-function checkCount() {
-	var count = GetCookie('count');
-	if (count == null) {
-	count=1;
-	SetCookie('count', count, exp);
-	setTimeout("flvFSL1('DemoBox',-18,5,1,10)",700); // ('Div ID',x-pos,y-pos,speed,speed)
-	} else {
-	count++;
-	SetCookie('count', count, exp);
-	}
-}
-
-//]]>
-</script>
-<!--END Promotional Slider -->
 </head>
 
 <body>
@@ -139,7 +85,7 @@ $j(document).ready(function(){
  
 </div>
 <!--END Member Login Slider -->
-
+<a name="top" id="top"></a>
 <ul class="menu_top">
   <li id="btn_signup"><a title="Sign Up for Time4Learning" href="/SignUp/parent_information.aspx">Sign Up</a></li>
   <li id="btn_faqs"><a title="program faqs" href="/curriculum/faq.html">Help / FAQs</a></li>
@@ -159,16 +105,16 @@ $j(document).ready(function(){
             <div class="inner">
               <img src="/_img/polaroids/polaroid_150x175_boyteen.png" alt="Time4Learning" width="" height="">
               <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox">
-  <div align="center" style="padding:15px 0;" class="custom_images">
-	<span class="blue-bold14">Tell Your Friends</span><br>
-      <a class="addthis_button_compact"><img src="/_img/buttons/addthis/addthis_32.png" width="20" height="20" alt="More..."></a>
-      <a class="addthis_button_facebook"><img src="/_img/buttons/addthis/facebook_32.png" width="20" height="20" alt="Share to Facebook"></a>
-      <a class="addthis_button_twitter"><img src="/_img/buttons/addthis/twitter_32.png" width="20" height="20" alt="Share to Twitter"></a>
-      <a class="addthis_button_google"><img src="/_img/buttons/addthis/googleb.png" width="22" height="22" alt="Google Bookmark this"></a>
-      <a class="addthis_button_favorites"><img src="/_img/buttons/addthis/favorite.png" width="22" height="22" alt="Favorite This"></a>
-      <a class="addthis_button_email"><img src="/_img/buttons/addthis/email_40x40.png" width="22" height="22" alt="Email This"></a><br>
-   </div>
+ <div class="addthis_toolbox addthis_default_style " style="padding: 15px 0;" align="center">
+<span class="blue-bold14">Tell Your Friends</span><br> 
+<a class="addthis_button_compact"></a>
+ <a class="addthis_button_facebook"></a>
+      <a class="addthis_button_twitter"></a>
+      <a class="addthis_button_google"></a>
+      <a class="addthis_button_favorites"></a>
+      <a class="addthis_button_email"></a>
+      <a class="addthis_button_google_plusone" g:plusone:count="false" g:plusone:size="small"></a>
+      <br>
 </div>
 <script type="text/javascript">
 var addthis_share = {
@@ -323,14 +269,14 @@ var addthis_config = {
     <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
       <tbody>
       <tr>
-        <td colspan="2" align="center" valign="top" class="header15"><img src="/_img/hdr_promo_apr_2011.png" width="293" height="81" alt="December 2010 Winter Special!"><br>
+        <td colspan="2" align="center" valign="top" class="header15"><img src="/_img/promos/hdr_promo_July_2011.png" width="293" height="81" alt="July2011 Summer Special"><br>
           <p><strong class="orange">No contracts. Cancel Anytime.<br>Two-week money back guarantee!</strong></p></td></tr>
       
         <tr><td align="left" valign="middle"><img src="/_img/edmouse_leaning.png" width="110" height="165" alt="Ed Mouse" style="padding-right:10px;"></td>
           <td align="center" valign="middle"><table>
             <tbody><tr>
               <td width="16" align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
-              <td class="SplashBodyTxt" align="left" valign="top"><strong>Offer valid for brand new members who register between April 1 - 30. </strong>No prior Time4Learning members please.</td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>Offer valid for brand new members who register between July 1 - 31. </strong>No prior Time4Learning members please.</td>
               </tr>
             <tr>
               <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
@@ -343,6 +289,10 @@ var addthis_config = {
             <tr>
               <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
               <td class="SplashBodyTxt" align="left" valign="top"><strong>Cancellation of service is required.</strong> After 30 days, uncancelled memberships convert to the regular monthly price.</td>
+              </tr>
+            <tr>
+              <td align="left" valign="top"><img src="/_img/bullet_bluecheck.gif" width="16" height="16" alt="Check"></td>
+              <td class="SplashBodyTxt" align="left" valign="top"><strong>Not valid with any other offer.</strong></td>
               </tr>
             </tbody></table></td>
         </tr>
@@ -384,7 +334,7 @@ pageTracker._trackPageview();
       data_ga_tracker: pageTracker
    };
 </script>
-<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=Time4Learning"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=Time4Learning"></script>
 <!-- END AddThis GA Config Code -->
 
 
