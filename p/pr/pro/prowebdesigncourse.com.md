@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prowebdesigncourse.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515200956id_/http%3A//www.prowebdesigncourse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowebdesigncourse.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214416id_/http%3A//prowebdesigncourse.com/privacy.html) for the most accurate reproduction.*
 
 # Pro Web Design Course Privacy Policy
 
-This Privacy Policy governs the manner in which Ben Hunt Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the [prowebdesigncourse.com](https://web.archive.org/web/20110515200956id_/http%3A//www.prowebdesigncourse.com/prowebdesigncourse.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Ben Hunt Ltd..
+This Privacy Policy governs the manner in which Ben Hunt Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the [prowebdesigncourse.com](https://web.archive.org/web/20111231214416id_/http%3A//prowebdesigncourse.com/prowebdesigncourse.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Ben Hunt Ltd..
 
 **Personal identification information**
 
