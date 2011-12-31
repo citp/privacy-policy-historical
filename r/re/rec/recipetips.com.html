@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the recipetips.com privacy policy that was archived on 2011-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303103630id_/http%3A//www.recipetips.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recipetips.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224121id_/http%3A//www.recipetips.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!--<![endif]--><head>
 <title>RecipeTips.Com Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1;">
 <meta name="description" content="Recipe Tips .com features recipes along with kitchen tips, techniques, and advice.">
 <meta name="keywords" content="recipe turkey ham pork beef appetizer recipes, recipe tips, recipes, recipe knowledge, recipes thanksgiving christmas easter, kitchen help, food tips, cooking tips, kitchen glossary">
-<link rel="stylesheet" href="/styles/recipes-v6.css" type="text/css">
+
+ <link rel="stylesheet" href="/styles/template4-v3.css" type="text/css">
+
+<link rel="stylesheet" href="/styles/global-v4.css" type="text/css">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 function addToDivsToMove(divId){
  if (typeof divsToMove === 'undefined')
 	 divsToMove = new Array();
@@ -18,64 +21,118 @@ function addToDivsToMove(divId){
  }
 </script>
 
-<script type="text/javascript" src="/includes/js/recipetips-combined.js">
-/***********************************************
-* Cool DHTML tooltip script II- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-</script></head><body bgcolor="#ffffff" link="#000000" alink="#000000" vlink="#000000"><div id="dhtmltooltip" style="position: absolute; top: 0px; left: -1000px; visibility: hidden;"></div><img id="dhtmlpointer" style="visibility: hidden;">
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
- GS_googleAddAdSenseService("ca-pub-5488634208991251");
- GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
- GA_googleAddSlot("ca-pub-5488634208991251", "Google_Right_Bottom_300x250");
- GA_googleAddSlot("ca-pub-5488634208991251", "RecipeTips_ROS_RightBottom_300x250");
- GA_googleAddSlot("ca-pub-5488634208991251", "RecipeTips_ROS_RightCenter_300x250");
- GA_googleAddSlot("ca-pub-5488634208991251", "RecipeTips_R2R3_PreRoll_AdUnit");
- GA_googleAddSlot("ca-pub-5488634208991251", "RecipeTips_ROS_RightTop_300x250");
- GA_googleAddSlot("ca-pub-5488634208991251", "RecipeTips_ROS_TopBanner_728x90");
- GA_googleAddSlot("ca-pub-5488634208991251", "Community_Top_Banner");
- GA_googleAddSlot("ca-pub-5488634208991251", "Community_Top_Right");
-</script>
-<script type="text/javascript">
- GA_googleFetchAds();
-</script>
+<script type="text/javascript" src="/includes/js/recipetips-combined.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery.min.js"></script><!--JQuery Library-->
+<script type="text/javascript" src="/includes/js/jquery-impromptu.3.1.min.js"></script><!--JQuery Impromptu Library-->
+<script type="text/javascript" src="/includes/js/prompts.min.js"></script><!--JQuery Impromptu Library-->
+<script type="text/javascript" src="/includes/js/topNav.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery.hoverIntent.minified.js"></script>
 
 
-<!-- Casale Media: Pop Under -->
-<script type="text/javascript"><!--
- var casaleD = new Date(); var casaleR = (casaleD.getTime() % 8673806982) + Math.random();
- var casaleU = escape(window.location.href);
- var casaleHost = ' type="text/javascript" src="http://as.casalemedia.com/s?s=';
- document.write('<scr' + 'ipt' + casaleHost + '120357&amp;u=');
- document.write(casaleU + '&amp;f=1&amp;id=' + casaleR + '"><\/scr' + 'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=120357&amp;u=https%3A//web.archive.org/web/20110303103630id_/http%253A//www.recipetips.com/privacy.asp&amp;f=1&amp;id=1733273905.6498492"></script>
-<!-- DO NOT MODIFY -->
+<script type="text/javascript" charset="utf-8">
+ $(document).ready(function() {
+  $("#topNav div.topNavItem").hoverIntent(expandNav, compressNav);
+ });  // close document.ready
+function expandNav() {
+ //showTopNav(this,dvTopNavRecipes,0,'imgTopNavRecipes','/images/headers/button-recipes-down.jpg');
+ var id = $(this).attr('id');
+ //alert('expandNav...$(this).id=' + id);
+ switch (id) {
+  case 'topNavRecipes':
+   showTopNav($(this), 'dvTopNavRecipes', 0, 'imgTopNavRecipes', '');
+   break;
+  case 'topNavTipsAdvice':
+   showTopNav($(this), 'dvTopNavTipsAdvice', 0, 'imgTopNavTipsAdvice', '');
+   break;
+  case 'topNavCommunity':
+   showTopNav($(this), 'dvTopNavCommunity', 0, 'imgTopNavCommunity', '');
+   break;
+  case 'topNavSeasonal':
+   showTopNav($(this), 'dvTopNavSeasonal', 0, 'imgTopNavSeasonal', '');
+   break;
+  case 'topNavMyRecipeTips':
+   showTopNav($(this),'dvTopNavMyRecipeTips',-307,'imgTopNavMyRecipeTips','');
+   break;
+ }
+}
+function compressNav() {
+ //hideTopNav(dvTopNavRecipes,'imgTopNavRecipes','/images/headers/button-recipes.jpg');
+ var id = $(this).attr('id');
+ //alert('compressNav...id=' + id);
+ switch (id) {
+  case 'topNavRecipes':
+   hideTopNav('dvTopNavRecipes', 'imgTopNavRecipes', '');
+   break;
+  case 'topNavTipsAdvice':
+   hideTopNav('dvTopNavTipsAdvice','imgTopNavTipsAdvice','');
+   break;
+  case 'topNavCommunity':
+   hideTopNav('dvTopNavCommunity','imgTopNavCommunity','');
+   break;
+  case 'topNavSeasonal':
+   hideTopNav('dvTopNavSeasonal', 'imgTopNavSeasonal', '');
+   break;
+  case 'topNavMyRecipeTips':
+   hideTopNav('dvTopNavMyRecipeTips','imgTopNavMyRecipeTips','');
+   break;
+ }
+}
+</script>
 <script type="text/javascript">
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-335445-1']);
  
  _gaq.push(['_trackPageview']);
+ _gaq.push(['_trackPageLoadTime']);
 
  (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
  })();
-</script><!--<link  title="RecipeTips - Latest Recipes" href="http://www.recipetips.com/rss/rss.asp" rel="alternate" type="application/rss+xml" />-->
+</script>
+</head>
+<body>
 
-
-
-<table class="bgMain" border="0" cellpadding="0" cellspacing="0" width="1000" align="center">
-  <tbody><tr>
-    <td align="center" width="1000">
-      <!-- Begin comScore Tag -->
-<script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+ //Like button
+ (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) { return; }
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+ } (document, 'script', 'facebook-jssdk'));
+ //+1 button
+ (function() {
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  po.src = 'https://apis.google.com/js/plusone.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+ })();
+ //pinterest button
+ (function() {
+  window.PinIt = window.PinIt || { loaded: false };
+  if (window.PinIt.loaded) return;
+  window.PinIt.loaded = true;
+  function async_load() {
+   var s = document.createElement("script");
+   s.type = "text/javascript";
+   s.async = true;
+   s.src = "http://assets.pinterest.com/js/pinit.js";
+   var x = document.getElementsByTagName("script")[0];
+   x.parentNode.insertBefore(s, x);
+  }
+  if (window.attachEvent)
+   window.attachEvent("onload", async_load);
+  else
+   window.addEventListener("load", async_load, false);
+ })();
+ </script>
+ <div id="dvBodyWrapper">
+<div id="dvBody">
+ <!-- Begin comScore Tag -->
+<script type="text/javascript">
 var _comscore = _comscore || [];
 _comscore.push({ c1: "2", c2: "8252534" });
 (function() {
@@ -85,293 +142,457 @@ el.parentNode.insertBefore(s, el);
 })();
 </script>
 <noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=8252534&cv=2.0&cj=1" />
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=8252534&amp;cv=2.0&amp;cj=1" alt="" >
 </noscript>
 <!-- End comScore Tag -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr><td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td valign="top"><a href="http://www.recipetips.com"><img src="/images/common/home.jpg" alt="RecipeTips.Com Home" border="0"></a></td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td align="right">
-      <table border="0" cellpadding="2" cellspacing="0">
-        <tbody><tr>
-          
-            <td><a href="http://www.recipetips.com/community/my-files.asp?member=new" class="smallText">Join Now</a></td>
-            <td class="smallText">|</td>
-            <td><a href="http://www.recipetips.com/community/my-files.asp" class="smallText">Sign In</a></td>
-          
-          <td class="smallText">|</td>
-          <td valign="middle"><a href="http://www.recipetips.com/cooking-feed/rss-feed.asp"><img width="14" height="14" src="http://www.recipetips.com/cooking-feed/images/rss-14-14.gif" alt="RSS Feeds" border="0"></a></td>
-          <td><a href="http://www.recipetips.com/cooking-feed/rss-feed.asp" class="smallText">RSS Feeds</a></td>
-          <td class="smallText">|</td>
-          <td valign="top"><a href="http://www.facebook.com/pages/RecipeTipscom/119579448063734" target="_blank"><img src="http://www.recipetips.com/images/buttons/facebook.jpg" alt="Find Us On Facebook" border="0"></a></td>
-          <td class="smallText">|</td>
-          <td><a class="smallText" href="/bookmarks.asp?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy" onclick="popHelpWindow('bookmarks', '400', '350', true, '?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy') ;return false;" target="_blank"><img border="0" src="/images/addto/bookmarks.gif" alt="Share"></a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-</tbody></table></td></tr>
-  <tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td valign="top" width="100%">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr><td></td></tr>
-                <tr><td valign="top"><img src="/images/headers/header_top_border.gif" alt="" border="0"></td></tr>
-                <tr>
-                  <td class="bgHeaderTop">
-                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                      <tbody><tr>
-                        <td>
-                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                            <tbody><tr>
-                              <td valign="top" align="left"><a href="http://www.recipetips.com"><img src="/images/headers/recipetips_logo.gif" border="0" alt="RecipeTips.Com Privacy Policy"></a></td>
-                              <td valign="top" nowrap="" width="100%">
-                                
-    <div id="dvAd1"></div>
-    <script type="text/javascript">
-    //var strAd1 = '<iframe src="http://dev.recipetips.com.webdev9/utilities/ads/adpage.asp?id=1" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var strAd1 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=1" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var targetDivAd1 = document.getElementById('dvAd1');
-    setTimeout("targetDivAd1.innerHTML = strAd1;", 4000);
-    </script>
+<div class="adBanner"><div id="dvAd1"></div></div>
+<div id="dvHeader">
+ <div id="dvHeaderBody">
+  <div id="dvHeaderTop">
+   <div>
+    <div id="dvHeaderLeft">
+     <div class="breadcrumb">
+      <a href="http://www.recipetips.com"><img src="/images/common/home-verson-2.jpg" alt="" width="12" height="10" border="0"></a>&nbsp;&nbsp;
+     </div>
+     <div class="headerLogo"><a href="http://www.recipetips.com"><img src="/images/headers/recipetips_logo3-50x50.jpg" alt="" border="0"></a>&nbsp;&nbsp;<a href="http://www.recipetips.com"><img src="/images/headers/recipetips_logo.jpg" alt="RecipeTips" border="0"></a></div>
+     <div class="headerSearchBox">
+<div class="searchBox">
+ <form action="http://www.recipetips.com/search.asp" method="GET" id="Search_results">
+  <input type="hidden" name="index" value="recipes">
+  <input type="hidden" name="advsearchmode" value="1">
   
-                              </td>
-                              <td valign="top" align="right"><img src="/images/headers/header_right_border.gif" border="0" alt=""></td>
-                            </tr>
-                          </tbody></table>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                  </td>
-                </tr>
-              
-              <tr>
-                <td class="bgHeaderBottom">
-                  <table border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      <td><img src="/images/spacer.gif" width="16" height="1" alt=""></td>
-                      <td>
-                        <table border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr>
-                            <td valign="top">
-                              <table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0">
+  <div class="searchLinks">
+   <span class="searchLinksTitle">Popular Searches</span>
+   &nbsp;<a href="/recipes-collections/ham-recipes.asp">Ham Recipes</a> | <a href="/recipes-collections/chicken-recipes.asp">Chicken Recipes</a>
+  </div>
+  
+  <div>
+   <div class="searchInput"><input type="text" id="querytext" name="querytext" value="Enter search term" onclick="javascript:initValue(this);" onblur="javascript:checkValue(this, 'Enter search term');" maxlength="50"></div>
+   <input type="image" src="/images/headers/search.jpg" alt="Search Site">
+  </div>
+ </form>
+</div> 
+	  </div>
+    </div>
+    <div class="headerFeatureItem">
+     
+      <div><a href="http://www.facebook.com/pages/RecipeTipscom/119579448063734" rel="nofollow" target="_blank"><img id="img2" src="/images/headers/btnFacebook.gif" alt="Find Us On Facebook" title="Find Us On Facebook" width="85" height="85" border="0"></a></div>
+     
+    </div>
+   </div>
+   <div class="clear"></div>
+  </div>
+  <div id="dvHeaderNavBar">
+   
+<div class="headerLine">
+ <div class="headerLineFB">
+  <a href="http://www.facebook.com/pages/RecipeTipscom/119579448063734" rel="nofollow" target="_blank"><img id="imgHeaderFacebook" src="/images/headers/facebook_icon.png" alt="Find Us On Facebook" title="Find Us On Facebook" width="20" height="20" border="0"></a>
+ </div>
+ <div class="right padTopSmall">
+  
+   <a href="http://www.recipetips.com/community/my-files.asp?member=new" rel="nofollow">Join Now</a> | 
+   <a href="http://www.recipetips.com/community/my-files.asp" rel="nofollow">Sign In</a>
+  
+ </div>
+ <div class="clear"></div>
+</div>
+<div id="topNav">
+ <div id="topNavRecipes" class="topNavItem">
+  <div class="headerImg"><div class="headerButton"><a class="topNavText" href="http://www.recipetips.com/recipe.asp">Recipes</a></div></div>
+  <!-- Tab 1 [RECIPES] -->
+  <div id="dvTopNavRecipes">
+   <div>
+   <ul class="topNavRecipes dropMenu" style="width: 556px;">
+    <li class="liTopLeft" style="height: 8px;">&nbsp;</li>
+    <li class="liTopMiddle" style="width: 514px; height: 8px;">&nbsp;</li>
+    <li class="liTopRight" style="height: 8px;">&nbsp;</li>
+    <li class="liTopClear">&nbsp;</li>
+    <li class="liTopContainer" style="width: 554px;">
+     <div class="topNavContainer">
+      <div class="topNavContainerItem">
+       <!--[if IE 7]>&nbsp;<![endif]-->
+       <div class="topNavHeader">Recipes</div>
+       <div class="topNavFeaturedLeft">
+        <div class="dvFeatured">
+          
+          <a href="/recipes-collections/ham-recipes.asp"><img src="/images/headers/topnav/baked_honey_ham_cloves.jpg" width="100" height="73" border="0" alt="Holiday Ham Recipes" title="Holiday Ham Recipes" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/recipes-collections/ham-recipes.asp">Holiday Ham Recipes</a><br>
+          Make your holiday extra special with one of our mouth watering hams as your centerpiece.
+          
+        </div>
+        <div class="featuredDivider">&nbsp;</div>
+        <div class="dvFeatured">
+          
+          <a href="/recipes-collections/slow-cooker-recipes.asp"><img src="/images/headers/topnav/slowcooker_beefstew.jpg" width="100" height="64" border="0" alt="Slow Cooker Recipes" title="Slow Cooker Recipes" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/recipes-collections/slow-cooker-recipes.asp">Slow Cooker Recipes</a><br>
+          Breathe a little easier in the evenings by starting your slow cooker in the morning.
+          
+        </div>
+        <div class="featuredDivider">&nbsp;</div>
+        <div class="dvFeatured">
+          
+          <a href="/recipe-cards/t--3705/southwest-chicken-nachos.asp"><img src="/images/headers/topnav/yummy_sw_chicken_nachos.jpg" width="96" height="65" border="0" alt="Southwest Chicken Nachos Recipe" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/recipes-collections/super-bowl/super-bowl-recipes.asp">Super Bowl Recipes</a><br>
+          Serve up some tasty snacks for the big game!
+          
+        </div>
+        <div class="dvClear"></div>
+       </div>
+       <!-- Change width depending on the number of columns -->
+       <div class="topNavListsRight">
+         
+         <ul class="topNavListLeft">
+          <li><div class="bannerText">Popular Recipes &amp; Collections</div></li>
+          <li><a href="/recipes-collections/turkey-recipes.asp">Turkey Recipes</a></li>
+          <li><a href="/recipes-collections/chicken-recipes.asp">Chicken Recipes</a></li>
+          <li><a href="/recipes-collections/ham-recipes.asp">Ham Recipes</a></li>
+          <li><a href="/recipes-collections/slow-cooker-recipes.asp">Slow Cooker Recipes</a></li>
+          <li><a href="/recipe-cards/t--1779/baked-turkey.asp">Baked Turkey</a></li>
+          <li><a href="/recipe-cards/t--2292/rib-eye-roast.asp">Rib Eye Roast Recipe</a></li>
+          <li><a href="/recipes-collections/desserts/cookie-recipes.asp">Cookie Recipes</a></li>
+          <li><a href="/recipes-collections/pork-recipes.asp">Pork Recipes</a></li>
+          <li><a href="/recipes-collections/casserole-recipes.asp">Casserole Recipes</a></li>
+          <li><a href="/recipes-collections/meatloaf-recipes.asp">Meatloaf Recipes</a></li>
+          <li><a href="/recipes-collections/chili-recipes.asp">Chili Recipes</a></li>
+          <li><a href="/recipes-collections/soup-recipes.asp">Soup Recipes</a></li>
+          <li><a href="/archived-recipes-collections/default.asp">More Recipe Collections...</a></li>
+         </ul>
+       </div>
+       <!-- END topNavListsRight -->
+       <div class="dvClearSmall"></div>
+       <div class="topNavMoreBottom">
+        <p>
+         <a href="/recipes-collections/default.asp?viewall=true">All Recipe Collections</a> | 
+         <a href="/recipe.asp" id="A29">More Recipes</a>
+        </p>
+       </div>
+      </div>
+      <!-- end topNavContainerItem -->
+     </div>
+     <!-- end topNavContainer -->
+    </li>
+    <li class="dvClear liBottomLeft">&nbsp;</li>
+    <li class="liBottomMiddle" style="width: 514px;">&nbsp;</li>
+    <li class="liBottomRight">&nbsp;</li>
+   </ul>
+   </div>
+  </div>
+ </div>
+ <div id="topNavTipsAdvice" class="topNavItem">
+  <div class="headerImg"><div class="headerButton"><a class="topNavText" href="http://www.recipetips.com/kitchen.asp">Tips &amp; Advice</a></div></div>
+  <!-- Tab 2 [TIPS AND ADVICE] -->
+  <div id="dvTopNavTipsAdvice">
+   <div>
+   <ul class="topNavTipsAdvice dropMenu" style="width: 556px;">
+    <li class="liTopLeft" style="height: 8px;">&nbsp;</li>
+    <li class="liTopMiddle" style="width: 514px; height: 8px;">&nbsp;</li>
+    <li class="liTopRight" style="height: 8px;">&nbsp;</li>
+    <li class="liTopClear">&nbsp;</li>
+    <li class="liTopContainer" style="width: 554px;">
+     <div class="topNavContainer">
+      <div class="topNavContainerItem">
+       <!--[if IE 7]>&nbsp;<![endif]-->
+       <div class="topNavHeader">Cooking Tips &amp; Advice</div>
+       <div class="topNavFeaturedLeft">        
+        <div class="dvFeatured">
+          
+          <a href="/kitchen-tips/t--1315/cooking-prime-rib.asp"><img src="/images/headers/topnav/prime_rib_xmas.jpg" width="100" height="66" border="0" alt="Cooking Prime Rib Article" title="Cooking Prime Rib Article" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/recipe-cards/t--3606/prime-rib.asp">Cooking Prime Rib</a><br>
+          Your guide to the perfect prime rib for the holiday.
+          
+        </div>
+        <div class="featuredDivider">&nbsp;</div>
+        <div class="dvFeatured">
+          
+          <a href="/kitchen-tips/t-105-/ham.asp"><img src="/images/headers/topnav/ham.jpg" width="100" height="68" border="0" alt="All About Ham Article" title="All About Ham Article" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/kitchen-tips/t-105-/ham.asp">All About Ham</a><br>
+          Prepare the holiday ham to impress your family and friends.
+          
+        </div>
+        <div class="featuredDivider">&nbsp;</div>
+        <div class="dvFeatured">
+          
+          <a href="/kitchen-tips/t-164-/slow-cooker.asp"><img src="/images/headers/topnav/slowcooker_chickNoodlesoup.jpg" width="100" height="64" border="0" alt="Slow Cooker Cooking Tips" title="Slow Cooker Cooking Tips" class="imgTopNavFeatured"></a>
+          <a class="featuredTitle" href="/kitchen-tips/t-164-/slow-cooker.asp">Slow Cooker Cooking Tips</a><br>
+          Learn how to use your slow cooker for everything and make like alot less hectic.
+          
+        </div>
+        <div class="dvClear"></div>
+       </div>
+       <!-- Change width depending on the number of columns -->
+       <div class="topNavListsRight">
+         <ul class="topNavListLeft">
+          <li><div class="bannerText">Featured Cooking Tips</div></li>
+          <li><a href="/kitchen-tips/t--910/turkey-cooking-times.asp">Turkey Cooking Times</a></li>
+          <li><a href="/kitchen-tips/t--1226/how-to-make-stuffing.asp">How to Make Stuffing</a></li>
+          <li><a href="/kitchen-tips/t--1045/turkey-breast-roasting-times.asp">Turkey Breast Roasting Times</a></li>
+          <li><a href="/kitchen-tips/t--1043/flavor-injecting-turkey.asp">Flavor Injecting Turkey</a></li>
+          <li><a href="/kitchen-tips/t--997/roasting-a-turkey-in-an-electric-roaster.asp">Roasting A Turkey In An Electric Roaster</a></li>
+          <li><a href="/kitchen-tips/t--987/convection-oven-turkey-roasting.asp">Convection Oven Turkey Roasting</a></li>
+          <li><a href="/kitchen-tips/t--749/roasting-ham.asp">Roasting Ham</a></li>
+          <li><a href="/cooking-tips/ham/ham-cooking-times.asp">Ham Cooking Times</a></li>
+          <li><a href="/kitchen-tips/t--666/how-to-prepare-and-bake-a-ham.asp">How to Bake a Ham</a></li>
+          <li><a href="/kitchen-tips/t--907/pork-cooking-times.asp">Pork Cooking Times</a></li>
+          <li><a href="/kitchen-tips/t--911/chicken-cooking-times.asp">Chicken Cooking Times</a></li>
+          <li><a href="/kitchen-tips/t--906/beef-cooking-times.asp">Beef Cooking Times</a></li>
+          <li><a href="/kitchen-tips/t--1084/how-much-to-buy.asp">How Much To Buy</a></li>
+          <li><a href="/kitchen-tips/t-129-/cooking-temperature-and-time.asp">Cooking Temperature And Time</a></li>
+          <li><a href="/archived-cooking-tips/popular/popular-cooking-tips.asp">More Cooking Advice...</a></li>
+         </ul>
+         <ul class="topNavListMiddle">
+         </ul>
+       </div>
+       <!-- END topNavListsRight -->
+       <div class="dvClearSmall"></div>
+       <div class="topNavMoreBottom">
+        <p>
+         <a href="/kitchen-tips/t-109-/knowledge.asp" id="A1">Food &amp; Cooking Knowledge</a> | 
+         <a href="/newest-cooking-tips.asp" id="B28">Newest Cooking Tips</a> | 
+         <a href="/glossary.asp" id="B29">Glossary</a> | 
+         <a href="/videos/" id="B30">Cooking Videos</a>
+        </p>
+       </div>
+      </div>
+      <!-- end topNavContainerItem -->
+     </div>
+     <!-- end topNavContainer -->
+    </li>
+    <li class="dvClear liBottomLeft">&nbsp;</li>
+    <li class="liBottomMiddle" style="width: 514px;">&nbsp;</li>
+    <li class="liBottomRight">&nbsp;</li>
+   </ul>
+   </div>
+  </div>
+ </div>
+ <div id="topNavCommunity" class="topNavItem">
+  <div class="headerImg"><div class="headerButton"><a class="topNavText" href="http://www.recipetips.com/community/">Community</a></div></div>
+  <!-- Tab 3 [Community] -->
+  <div id="dvTopNavCommunity">
+   <div>
+   <ul class="topNavCommunity dropMenu" style="width: 480px;">
+    <li class="liTopLeft" style="height: 8px;">&nbsp;</li>
+    <li class="liTopMiddle" style="width: 438px; height: 8px;">&nbsp;</li>
+    <li class="liTopRight" style="height: 8px;">&nbsp;</li>
+    <li class="liTopClear">&nbsp;</li>
+    <li class="liTopContainer" style="width: 478px;">
+     <div class="topNavContainer">
+      <div class="topNavContainerItem">
+       <!--[if IE 7]>&nbsp;<![endif]-->
+       <div class="topNavHeader">Community</div>
+       <div class="topNavFeaturedLeft">
+       
+       <div class="dvFeatured">
+        <a href="/community/"><img src="/images/community/welcome_to_my_community.gif" width="230" height="63" border="0" alt="RecipeTips Recipe And Cooking Community" title="RecipeTips Recipe And Cooking Community" class="imgTopNavFeatured"></a>
+        <div class="dvClear"></div>    
+        This is a great place to share your recipes and cooking ideas!
+        </div>
+        <div class="dvClear"></div>
+       </div>
+       <div class="topNavListsRight">
+        <a href="/community/"><img src="/images/community/visit_now.jpg" width="185" height="35" border="0" alt="Visit The RecipeTips Cooking Community" title="Visit The RecipeTips Cooking Community"></a><br>
+        <a href="/community/my-files.asp?member=new"><img src="/images/community/join_now.jpg" width="185" height="35" border="0" alt="Join The RecipeTips Cooking Community" title="Join The RecipeTips Cooking Community"></a><br>
+        <a href="/community/my-files.asp"><img src="/images/community/sign_in.jpg" width="185" height="35" border="0" alt="Sign In To The RecipeTips Cooking Community" title="Sign In To The RecipeTips Cooking Community"></a><br>
+       </div>
+       
+       <!-- END topNavListsRight -->
+       <div class="dvClearSmall"></div>
+       <div class="topNavMoreBottom">
+        <p>
+          <a href="/community/reviews/newest-reviews.asp" id="A3">Reviews</a> | 
+          <a href="/newest-community-recipes.asp" id="A39">Newest Member Recipes</a> | 
+          <a href="/community/newest-members.asp" id="A40">Newest Members</a> | 
+          <a href="/newsletters/newsletter.asp" id="A66">Recent Newsletters</a>
+        </p>
+       </div>
+      </div>
+      <!-- end topNavContainerItem -->
+     </div>
+     <!-- end topNavContainer -->
+    </li>
+    <li class="dvClear liBottomLeft">&nbsp;</li>
+    <li class="liBottomMiddle" style="width: 438px;">&nbsp;</li>
+    <li class="liBottomRight">&nbsp;</li>
+   </ul>
+   </div>
+  </div>
+ </div>
+ <div id="topNavSeasonal" class="topNavItem">
+  <div class="headerImg"><div class="headerButton"><a class="topNavText" href="http://www.recipetips.com/seasonal/">Seasonal</a></div></div>
+  <!-- Tab 4 [Seasonal] -->
+  <div id="dvTopNavSeasonal">
+   <div>
+   <ul class="topNavSeasonal dropMenu" style="width: 500px;">
+    <li class="liTopLeft" style="height: 8px;">&nbsp;</li>
+    <li class="liTopMiddle" style="width: 458px; height: 8px;">&nbsp;</li>
+    <li class="liTopRight" style="height: 8px;">&nbsp;</li>
+    <li class="liTopClear">&nbsp;</li>
+    <li class="liTopContainer" style="width: 498px;">
+     <div class="topNavContainer">
+      <div class="topNavContainerItem">
+       <!--[if IE 7]>&nbsp;<![endif]-->
+       <div class="topNavHeader">Seasonal</div>
+       <div class="topNavFeaturedLeft">
+       <div class="dvFeatured">
         
-          <tbody><tr>
-            <td align="center"><a href="http://www.recipetips.com/recipe.asp"><img src="/images/headers/recipes_up.gif" border="0" alt="Recipes"></a></td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td align="center"><a href="http://www.recipetips.com/kitchen.asp"><img src="/images/headers/tips_advice_up.gif" border="0" alt="Cooking Tips &amp; Advice"></a></td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td align="center"><a href="http://www.recipetips.com/glossary.asp"><img src="/images/headers/glossary_up.gif" border="0" alt="Glossary"></a></td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td align="center"><a href="http://www.recipetips.com/community/"><img src="/images/headers/community_up.gif" border="0" alt="Community"></a></td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td align="center"><a href="http://www.recipetips.com/cooking-videos/v-0-0/video.asp"><img src="/images/headers/videos_up.gif" border="0" alt="Videos"></a></td>
-          </tr>
+         <a href="/recipe-cards/t--3583/mexican-shrimp-cocktail.asp"><img src="/images/headers/topnav/mexican_shrimp_cocktail.jpg" width="100" height="77" border="0" alt="Mexican Shrimp Cocktail Recipe" title="Mexican Shrimp Cocktail Recipe" class="imgTopNavFeatured"></a>
+         <a class="featuredTitle" href="/recipes-collections/new-years/new-years-eve-recipes.asp">New Year's Eve Recipes</a><br>
+         Ring in the New Year with a feast. Resolutions start tomorrow!
         
-        <tr>
-          <td width="156" style="height:100%" valign="top" class="bgNav">
-            <table border="0" cellpadding="0" cellspacing="0" style="height:100%">
-              
-                <tbody><tr><td class="navList" valign="top"><a href="http://www.recipetips.com/recipes-collections/ham-recipes.asp" class="navbar">Ham Recipes</a></td></tr>
-                <tr><td class="navList" valign="top"><a href="http://www.recipetips.com/recipes-collections/chicken-recipes.asp" class="navbar">Chicken Recipes</a></td></tr>
-              
-              <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td width="156" style="height:100%" valign="top" class="bgNav">
-            <table border="0" cellpadding="0" cellspacing="0" style="height:100%">
-              
-                <tbody><tr><td class="navList" valign="top"><a href="http://www.recipetips.com/kitchen-tips/t--666/how-to-prepare-and-bake-a-ham.asp" class="navbar">How To Cook A Ham</a></td></tr>
-                <tr><td class="navList" valign="top"><a href="http://www.recipetips.com/kitchen-tips/t--911/chicken-cooking-times.asp" class="navbar">Chicken Cooking Times</a></td></tr>
-              
-              <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td width="156" style="height:100%" valign="top" class="bgNav">
-            <table border="0" cellpadding="0" cellspacing="0" style="height:100%">
-              
-                <tbody><tr><td class="navList" valign="top"><a href="http://www.recipetips.com/glossary-term/t--34613/sweet-potato.asp" class="navbar">Sweet Potatoes</a></td></tr>
-                <tr><td class="navList" valign="top"><a href="http://www.recipetips.com/glossary-term/t--38860/turkey-brine.asp" class="navbar">Turkey Brine</a></td></tr>
-              
-              <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td width="156" style="height:100%" valign="top" class="bgNav">
-            <table border="0" cellpadding="0" cellspacing="0" style="height:100%">
-              
-              <tbody><tr><td class="navList" valign="top"><a href="http://www.recipetips.com/community/blogs/t-0-1-9-0/spiced-chicken-breasts-with-applejalapeno-chutney.asp" class="navbar">Spiced Chicken Breasts</a></td></tr>
-              <tr><td class="navList" valign="top"><a href="http://www.recipetips.com/community/blogs/t-0-1-5-0/ardavids-honey-glazed-chicken-recipe.asp" class="navbar">Honey Glazed Chicken</a></td></tr>
-              
-              <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td width="156" style="height:100%" valign="top" class="bgNav">
-            <table border="0" cellpadding="0" cellspacing="0" style="height:100%">
-              
-                <tbody><tr><td class="navList" valign="top"><a href="http://www.recipetips.com/cooking-videos/v-0-rt900003/how-to-cook-a-ham.asp" class="navbar">How To Cook A Ham</a></td></tr>
-                <tr><td class="navList" valign="top"><a href="http://www.recipetips.com/cooking-videos/v-0-rt900002/cutting-up-a-chicken-for-your-favorite-chicken-recipes.asp" class="navbar">Cutting Up A Chicken</a></td></tr>
-              
-              <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
+       </div>
+       <div class="featuredDivider">&nbsp;</div>
+       <div class="dvFeatured">
+        
+         <a href="/recipes-collections/new-years/beverage-recipes.asp"><img src="/images/headers/topnav/chocolate_raspberry_martini.jpg" width="100" height="69" border="0" alt="New Year's Eve Cocktail Recipes" title="New Year's Eve Cocktail Recipes" class="imgTopNavFeatured"></a>
+         <a class="featuredTitle" href="/recipes-collections/new-years/beverage-recipes.asp">New Year's Eve Cocktail Recipes</a><br>
+         Clink glassed when the ball drops with these spectacular cocktails.
+         
+       </div>
+       <div class="dvClear"></div>
+      </div>
+      <div class="topNavListsRight">
+        <ul class="topNavListLeft">
+         
+          <li><a href="/recipe-cards/t--2770/cocktail-pigs-in-a-blanket.asp">Cocktail Pigs In A Blanket Recipe</a></li>
+          <li><a href="/recipe-cards/t--2065/chocolate-fondue.asp">Chocolate Fondue Recipe</a></li>
+          <li><a href="/kitchen-tips/t--684/the-basics-of-fondue.asp">Basics of Fondue</a></li>
+          <li><a href="/kitchen-tips/t--672/party-planner-appetizer-buying-guide.asp">Appetizer Buying Guide</a></li>
+          <li><a href="/recipes-collections/appetizer-recipes.asp">Appetizer Recipes</a></li>
+          <li><a href="/recipes-collections/chili-recipes.asp">Chili Recipes</a></li>
+          <li><a href="/recipe-cards/t--4523/spicy-bloody-mary.asp">Spicy Bloody Mary Recipe</a></li>
+          <li><a href="/recipe-cards/t--4511/mimosa.asp">Mimosa Recipe</a></li>
+          <li><a href="/recipes-collections/leftover-ham-recipes.asp">Leftover Ham Recipes</a></li>
+          <li><a href="/recipe-cards/t--2315/ham-and-bean-soup.asp">Ham and Bean Soup Recipe</a></li>
+          <li><a href="/recipes-collections/football-recipes.asp">Football Recipes</a></li>
+          <li><a href="/recipes-collections/super-bowl/super-bowl-recipes.asp">Super Bowl Recipes</a></li>
+          <li><a href="/recipes-collections/tailgating/best-tailgating-recipes.asp">Tailgating Recipes</a></li>
+        
+        </ul>
+      </div>
+       <!-- END topNavListsRight -->
+       <div class="dvClearSmall"></div>
+       <div class="topNavMoreBottom">
+        <p>
+          <a href="/recipes/seasonal/seasonal-recipes.asp" id="A75">Seasonal Recipes</a> | 
+          <a href="/cooking-tips/seasonal/seasonal-cooking-tips.asp" id="A76">Seasonal Cooking Tips</a> | 
+          <a href="/video-collections/seasonal/seasonal-videos.asp" id="A77">Seasonal Videos</a>
+        </p>
+       </div>
+      </div>
+      <!-- end topNavContainerItem -->
+     </div>
+     <!-- end topNavContainer -->
+    </li>
+    <li class="dvClear liBottomLeft">&nbsp;</li>
+    <li class="liBottomMiddle" style="width: 458px;">&nbsp;</li>
+    <li class="liBottomRight">&nbsp;</li>
+   </ul>
+   </div>
+  </div>
+ </div>
+ <div id="topNavSpacer" class="topNavItem">
+  <div class="headerImg"><img id="imgTopNavSpacer" src="/images/spacer.gif" width="40" height="1" alt="" title="" border="0"></div>
+ </div>
+ <div id="topNavMyRecipeTips" class="topNavItem">
+  <div class="headerImg"><div class="myRTButton"><a class="topNavText" href="http://www.recipetips.com/community/my-files.asp">My RecipeTips</a></div></div>
+  <!-- Tab 4 [My RecipeTips] -->
+  <div id="dvTopNavMyRecipeTips">
+   <div>
+   <ul class="topNavMyRecipeTips dropMenu" style="width: 480px;">
+    <li class="liTopLeft" style="height: 8px;">&nbsp;</li>
+    <li class="liTopMiddle" style="width: 438px; height: 8px;">&nbsp;</li>
+    <li class="liTopRight" style="height: 8px;">&nbsp;</li>
+    <li class="liTopClear">&nbsp;</li>
+    <li class="liTopContainer" style="width: 478px;">
+     <div class="topNavContainer">
+      <div class="topNavContainerItem">
+       <!--[if IE 7]>&nbsp;<![endif]-->
+       <div class="topNavHeader">My RecipeTips</div>
+       
+       <div class="topNavFeaturedLeft">
+        <div class="dvFeatured">
+         <a href="/community/my-files.asp" rel="nofollow"><img src="/images/recipebox/myrecipetips.gif" width="200" height="61" border="0" alt="My Recipe And Cooking Files" title="My Recipe And Cooking Files" class="imgTopNavFeatured"></a>
+         <div class="dvClear"></div>
+          Save all your recipes and food related information right on RecipeTips.com!
+        </div>
+        <div class="dvClear"></div>
+       </div>
+       <div class="topNavListsRight">
+         <a href="/community/my-files.asp?member=new" rel="nofollow"><img src="/images/community/join_now.jpg" width="185" height="35" border="0" alt="Join The RecipeTips Cooking Community" title="Join The RecipeTips Cooking Community"></a><br>
+         <a href="/community/my-files.asp" rel="nofollow"><img src="/images/community/sign_in.jpg" width="185" height="35" border="0" alt="Sign In To The RecipeTips Cooking Community" title="Sign In To The RecipeTips Cooking Community"></a>
+       </div>
+       
+       <!-- END topNavListsRight -->
+       <div class="dvClearSmall"></div>
+       <div class="topNavMoreBottom">
+        
+       </div>
+      </div>
+      <!-- end topNavContainerItem -->
+     </div>
+     <!-- end topNavContainer -->
+    </li>
+    <li class="dvClear liBottomLeft">&nbsp;</li>
+    <li class="liBottomMiddle" style="width: 438px;">&nbsp;</li>
+    <li class="liBottomRight">&nbsp;</li>
+   </ul>
+  </div>
+ </div>
+ </div>
+ 
+ <div style="clear: both"></div>
+</div>
 
-                            </td>
-                            <td><img src="/images/spacer.gif" width="4" height="1" alt=""></td>
-                            
-                            <td align="center" style="padding: 0px 10px 0px 10px;"><a class="navbarBold" style="FONT-SIZE: 12px;" href="/community/blogs/">View what's happening on our Blogs</a></td>
-                            
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr>
-                <td class="bgSearchBox" valign="top" width="100%">
-<form action="/search.asp" method="GET" id="Search_results" style="margin:0px;">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tbody><tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-    <tr>
-      <td width="100%" valign="top">
-        <table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td class="navbarBig">Search</td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td align="left" valign="top">
-              <input style="width:250px;font-size:12px;" type="text" id="querytext" name="querytext" value="Enter keyword(s)" onclick="javascript:initValue(this);" onblur="javascript:checkValue(this, 'Enter Keyword(s)');" maxlength="50">
-            </td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td valign="top">
-              <table border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td class="navbar" nowrap=""><input type="radio" name="index" value="recipes,foodknowledge,foodglossary,membertags,forums,blogs,videos,newsletters" checked="">Entire Site</td>
-                  <td class="navbar" nowrap=""><input type="radio" name="index" value="recipes">Recipes</td>
-                </tr>
-              </tbody></table>
-            </td>
-            <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-            <td valign="top">
-              <table border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td valign="bottom"><input type="image" src="/images/common/go_button.gif" alt="Search Site"></td>
-                  <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-                  <td align="right"><a href="http://www.recipetips.com/searchHints.asp" onclick="javascript: popHelpWindow('searchhints','750','550','setscrollon',''); return false;" class="navbarBold" target="_blank">hints</a></td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-      <td align="right">
-        <table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td>
-              <table border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td valign="bottom">
-                    <table border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td nowrap="" class="navbarBold">
-                          <a class="navbarBold" href="http://www.recipetips.com/kitchen-tips/t--1356/printable-recipe-cards.asp">FREE Printable Recipe Cards</a>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td nowrap="" align="right"><a class="navbarBold" href="http://www.recipetips.com/newsletterSignup.asp">e-Newsletter</a></td>
-                      </tr>
-                    </tbody></table>
-                  </td>
-                  <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-                  <td valign="bottom"><a href="http://www.recipetips.com/newsletterSignup.asp" class="navbar"><img src="/images/headers/sign_up.gif" alt="RecipeTips.com Newsletter Sign Up" border="0"></a></td>
-                  <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-                </tr>
-              </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table> 
-</form>
-	  </td>
-              </tr>
-              <tr><td><img src="/images/headers/nav_bottom.gif" alt="" title=""></td></tr>
-            </tbody></table>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-</tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="1000">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0" width="100%">
-              <tbody><tr>
-                
-                  <td height="1"></td>
-                
-                <td align="LEFT" valign="TOP" rowspan="2" width="500" height="100%">
-                  <table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
-                    <tbody><tr>
-                      <td width="500" height="100%" valign="top" bgcolor="#ffffff">
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                          <tbody><tr>
-                            <td>
-                              <table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-  <tr>
-    <td><h1>Privacy Policy</h1></td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-  <tr>
-    <td>
-      <p><font class="mainTitle">Background</font></p>
+  </div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+ <div id="dvBodyMain">
+  <div id="dvBodyContent">
+   <div id="dvMain">
+    <div id="dvMainBody">
+     
+     <div id="dvMiddleCol">
+      
+ <div id="dvContentHeader">
+  
+  <div class="contentHeader">
+   
+   <div class="">
+    
+    <div><h1 class="fn">Privacy Policy</h1></div>
+    
+     <div class="summary">The privacy of our visitors is important to us. Please review our policies below.</div>
+    
+   </div>
+  </div>
+ </div>
+ <div class="buttons">
+  
+   <div id="dvFacebookWidget"><div class="fb-like" data-href="http://www.recipetips.com/privacy.asp" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="verdana"></div></div>
+  
+   <div class="pinterest"><a href="http://pinterest.com/pin/create/button/?url=http://www.recipetips.com/privacy.asp" rel="nofollow" class="pin-it-button" count-layout="horizontal">Pin It</a></div>
+  
+   <div id="dvStumbleUpon"><script src="http://www.stumbleupon.com/hostedbadge.php?s=2"></script></div>
+  
+   <div class="g-plusone" data-size="medium"></div>
+  
+  <div class="clearLeft"></div>
+ </div>
+
+       <p><font class="mainTitle">Background</font></p>
       <p>Tecstra Systems is committed to serving the needs of our visitors and in an effort to explain our procedures pertaining to the privacy of our visitors, we are providing a summary of our Privacy Policies regarding the information we collect online. Our Policy applies only to the online collection of information and does not apply to information that is provided to Tecstra Systems through letters, mail, telephone, or other means other than the Web sites where this Privacy Policy is posted.</p>
-      <p>Tecstra Systems does not collect information about any visitor that can personally identify an individual accessing the Tecstra Web site, so visitors can visit the Tecstra Web site without having a concern that personal information is being collected. If any personal information is to be collected, it will be accomplished as a request and the visitor will not only be fully informed of the specific information being requested and the purpose of use, but will also have an opportunity to elect not to participate (opt out) of providing personal information. Personal information means information that identifies a particular individual, such as the individual�s name, postal address, and telephone number. When other information such as consumer product preferences or number of children is directly associated with personally identifiable information, this other information is also treated as personal information for purposes of this Privacy Policy. Screen names, member names, usernames or other online aliases provided by you or others accessing this Web site (except where such email addresses are requested as screen names) are not considered personal information.</p>
+      <p>Tecstra Systems does not collect information about any visitor that can personally identify an individual accessing the Tecstra Web site, so visitors can visit the Tecstra Web site without having a concern that personal information is being collected. If any personal information is to be collected, it will be accomplished as a request and the visitor will not only be fully informed of the specific information being requested and the purpose of use, but will also have an opportunity to elect not to participate (opt out) of providing personal information. Personal information means information that identifies a particular individual, such as the individual's name, postal address, and telephone number. When other information such as consumer product preferences or number of children is directly associated with personally identifiable information, this other information is also treated as personal information for purposes of this Privacy Policy. Screen names, member names, usernames or other online aliases provided by you or others accessing this Web site (except where such email addresses are requested as screen names) are not considered personal information.</p>
       <p>The access and use of the Tecstra Web site signifies your acceptance of our <a href="http://www.recipetips.com/termsOfUse.asp">Terms of Use</a> and our Privacy Policy. If you do not accept any aspect of our <a href="http://www.recipetips.com/termsOfUse.asp">Terms of Use</a> or Privacy Policy we request that you do not use our Web site, submit information to our Web site, or access tools provided by our company.</p>
       <p><font class="mainTitle">Information Collected On the Site</font></p>
       <p>Our primary goal in collecting information is to provide you with a customized experience when visiting our Web site and to make our Web site more valuable to you. We try for example to ensure that any banner advertising that may be delivered to you are consistent with your interests. We may also email you with messages and advertisements that we think may be of interest to you.</p>
       <p>There are several forms of information that may be collected. First, information consisting of standard Web site statistics, referred to as tracking information may be collected with the use of cookies or other technology. Second, personally identifiable information provided by you electing to become a Registered Visitor may be collected through the use of registration pages on the Web site and will be collected only if you decide to provide the personal information as a visitor to the Web site.</p>
       <p>Standard Web site statistics or tracking information will include information such as the visiting domains, length of stay, pages visited, geographic locations, types of browsers, types of operating systems, key words used or searched, and similar information which are all typical statistics commonly recorded by Tecstra. This information may be collected by the use of cookies or other similar Web technologies. This data is used to identify trends, patterns of use, page delivery problems, and other relevant data to be used for improving Web site functions and operational performance.</p>
       <p><font class="mainTitle">Cookies</font></p>
-      <p>The use of Cookies technology involves the placement of a small piece of data on a visitor�s browser so that the Tecstra Web site recognizes the data in order to deliver simple preferences of the visitor for use when they revisit the Web site or to provide usage information while visiting the site. Our Cookies do not collect any personally identifiable information such as the visitor�s e-mail address or name unless the visitor has personally elected to provide and register the information on the Web site. If desired and personally elected by the visitor, cookies can be utilized to provide usage or Web site information when a visitor personally enters requested information on a registration page provided by the Web site. When revisiting the Web site, registered users can then receive a variety of services or functions that deliver information personalized or configured for their needs.</p>
-      <p>Cookies can be turned off (disabled) on a visitor�s computer by simply configuring the Web browser to accomplish this procedure. This eliminates the ability of our Web site to attach cookies to a visitor. However, by turning the cookies off, the full functionality of the Web site and the Web site offering may be limited when distributing content and information to the visitor. By setting your browser to reject cookies you may also be required to login to the Web site every time you desire to make use of the personalization features of the Web site.</p>
+      <p>The use of Cookies technology involves the placement of a small piece of data on a visitor's browser so that the Tecstra Web site recognizes the data in order to deliver simple preferences of the visitor for use when they revisit the Web site or to provide usage information while visiting the site. Our Cookies do not collect any personally identifiable information such as the visitor's e-mail address or name unless the visitor has personally elected to provide and register the information on the Web site. If desired and personally elected by the visitor, cookies can be utilized to provide usage or Web site information when a visitor personally enters requested information on a registration page provided by the Web site. When revisiting the Web site, registered users can then receive a variety of services or functions that deliver information personalized or configured for their needs.</p>
+      <p>Cookies can be turned off (disabled) on a visitor's computer by simply configuring the Web browser to accomplish this procedure. This eliminates the ability of our Web site to attach cookies to a visitor. However, by turning the cookies off, the full functionality of the Web site and the Web site offering may be limited when distributing content and information to the visitor. By setting your browser to reject cookies you may also be required to login to the Web site every time you desire to make use of the personalization features of the Web site.</p>
       <p><font class="mainTitle">Third Party Advertising</font></p>
-      <p>Many advertisements are managed and placed on our Web site by third parties. We may use third party advertising companies to serve ads when you visit our Web site. These companies may use information about your visits to this Web site and other web sites as necessary to provide advertisements on this Web site and other Web sites about goods and services that may be of interest to you. In the course of serving advertisements to this Web site our third party advertiser  may place or recognize a unique cookie on your browser to accomplish the above service. If you should click on an advertisement on our Web site and link to a third party�s Web site, our Privacy Policy will not apply to your personal information collected on that third party Web site. If you would like more information about how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please <a href="http://www.networkadvertising.org/managing/index.asp" target="_blank">click here</a>.</p>
+      <p>Many advertisements are managed and placed on our Web site by third parties. We may use third party advertising companies to serve ads when you visit our Web site. These companies may use information about your visits to this Web site and other web sites as necessary to provide advertisements on this Web site and other Web sites about goods and services that may be of interest to you. In the course of serving advertisements to this Web site our third party advertiser  may place or recognize a unique cookie on your browser to accomplish the above service. If you should click on an advertisement on our Web site and link to a third party's Web site, our Privacy Policy will not apply to your personal information collected on that third party Web site. If you would like more information about how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please <a href="http://www.networkadvertising.org/managing/index.asp" target="_blank">click here</a>.</p>
       <p><font class="mainTitle">Personally Identifiable Information</font></p>
       <p>There may be instances when a registration page asks for information and if a visitor agrees to provide personal information it is only then that personal information will be collected and entered exactly as provided by the visitor. Information such as user name, address (e-mail or postal mail), telephone number, city, state, zip, and any other information personally provided by a visitor are examples of information that may be collected and kept to identify individuals for future use. The visitor will be informed of the use for the information and will be provided with the opportunity to opt out of the registration at any time. All information provided by the visitor must be given as their personal information or information for another individual for whom the visitor has permission to register the information given to the Web site.</p>
       <p>Typical instances that may involve the collection of personally identifiable information may include job applications, job inquiries, demonstration requests, product inquiries, requests for marketing materials, access to Web site tools, newsletter registration, sweepstakes registration, promotions registration, survey participation, registration as necessary to post information or participate in any community forums or discussion groups, and other similar applications requiring data that assists with the process or procedure being undertaken.</p>
@@ -384,7 +605,7 @@ el.parentNode.insertBefore(s, el);
       <p>As a registered user you may have the ability to post recipes and other information or participate in a discussion group or forum. We require personal information from such users so that we can hold participants responsible for abiding by the rules of participation and Terms of Use of the Web site. We are however not responsible for what you or others may post on the Web site and will act in good faith and as reasonably necessary to correct any problem consistent with our Terms of Use.</p>
       <p><font class="mainTitle">Links to Sites</font></p>
       <p>Web sites that may be displayed and linked in the Tecstra Systems site are not governed by the Privacy Policies of Tecstra Systems. Therefore, Web site visitors to those linked sites will be required to review the policies of the linked Web sites in order to gain a thorough understanding of their Privacy Policies, realizing that Tecstra Systems has no governing rights to the policies of others. </p>
-      <p><font class="mainTitle">Children�s Privacy</font></p>
+      <p><font class="mainTitle">Children's Privacy</font></p>
       <p>Tecstra Systems is committed to protecting the rights and interests of children. It is our policy to not allow the collection of personal information at the Tecstra Web site from children who are 13 years of age or younger unless consent is provided by a parent or guardian.</p>
       <p><font class="mainTitle">Privacy Policy Changes</font></p>
       <p>This Privacy Policy was last updated October 1, 2007 and may be modified any time at the discretion of Tecstra Systems. We encourage you to return periodically to review updates made to our Policy or if there is any concern regarding our Policy to contact Tecstra Systems directly at support@tecstra.com.</p>
@@ -392,595 +613,375 @@ el.parentNode.insertBefore(s, el);
       <p>The information collected through the Tecstra Web site is placed in databases controlled by Tecstra Systems. The security measures used to maintain the privacy of the information include the use of firewalls, a Secure Sockets Layer (SSL) of encryption, and security procedures designed to assist in protecting the data and information provided by you as a visitor in order to prevent unauthorized access and use. It is important to realize that we cannot fully guarantee the security of any data or information provided to our Web site and that you, as a visitor, provide it at your own risk. Information that you include in any message you post on our Website is available to anyone with access to the Web site. If you do not want people to have access or knowledge of your name or email address make sure that you do not include it in any message or information you post on our Web site.</p>
       <p><font class="mainTitle">Contact Us</font></p>
       <p>If you have any questions concerning our Privacy Policy or the information we collect, you may contact us at <a href="mailto:support@tecstra.com">support@tecstra.com</a> or use postal mail to send us your comments to the following address: Tecstra Systems � Attn: Customer Service - P.O. Box 478 - Austin, MN 55912.</p>
-    </td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="20" alt=""></td></tr>
-</tbody></table>
 
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-	            </td>
-              </tr>
-              
-                <tr>
-                  <td valign="top" width="186" height="99%">
-                    
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td valign="top" width="186">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        
-          <tbody><tr>
-            <td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-	<td>
-	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0" width="176">
-              <tbody><tr>
-                <td style="background:url('');background-repeat:no-repeat;" class="bannerText" nowrap=""><a class="banner" href="http://www.recipetips.com/recipes-collections/default.asp"><b>Recipe Collections</b></a></td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-              <tr>
-                <td valign="top" width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0">
-	                <tbody><tr>
-	                  <td width="100%">
-                        <table border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/chicken-recipes.asp">Chicken Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/ham-recipes.asp">Ham Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/slow-cooker-recipes.asp">Slow Cooker Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/cookie/cookie-and-bar-recipes.asp">Cookie Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/turkey-recipes.asp">Turkey Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/pork-recipes.asp">Pork Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/mexican/mexican-recipes.asp">Mexican Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/casserole-recipes.asp">Casserole Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/dessert-recipes.asp">Dessert Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/meatloaf-recipes.asp">Meatloaf Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/chili-recipes.asp">Chili Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/appetizer-recipes.asp">Appetizer Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/healthy-recipes.asp">Healthy Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/10-ingredients-or-less.asp">10 Ingredients Or Less Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/gluten-free-recipes.asp">Gluten-Free Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/default.asp">More Recipe Collections...</a></td></tr>
-
-                        </tbody></table>
-                      </td>
-                      
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          
-        </tr>
-  	  </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-          </tr>
-        
-        <tr>
-          <td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-	<td>
-	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0" width="176">
-              <tbody><tr>
-                <td style="background:url('');background-repeat:no-repeat;" class="bannerText" nowrap=""><a class="banner" href="http://www.recipetips.com/cooking-tips/popular/popular-cooking-tips.asp"><b>Cooking Advice</b></a></td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-              <tr>
-                <td valign="top" width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0">
-	                <tbody><tr>
-	                  <td width="100%">
-                        <table border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--1075/types-of-kitchen-knives.asp">Types of Kitchen Knives</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--666/how-to-prepare-and-bake-a-ham.asp">How to Bake a Ham</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/cooking-tips/ham-cooking-guide.asp">Ham Cooking Guide</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--911/chicken-cooking-times.asp">Chicken Cooking Times</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--171/types-of-pasta.asp">Types of Pasta</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--1197/grilling-salmon.asp">Grilling Salmon</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--906/beef-cooking-times.asp">Beef Cooking Times</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--907/pork-cooking-times.asp">Pork Cooking Times</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--1228/types-of-fish.asp">Types of Fish</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--3626/top-round-beef-roast.asp">Top Round Beef Roast Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/kitchen-tips/t--1133/how-to-make-homemade-ice-cream.asp">How to Make Homemade Ice Cream</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/cooking-tips/popular/popular-cooking-tips.asp">More Cooking Advice...</a></td></tr>
-
-                        </tbody></table>
-                      </td>
-                      
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          
-        </tr>
-  	  </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-        </tr>
-        
-          <tr>
-            <td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-	<td>
-	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0" width="176">
-              <tbody><tr>
-                <td style="background:url('');background-repeat:no-repeat;" class="bannerText" nowrap=""><a class="banner" href="http://www.recipetips.com/recipes/seasonal/seasonal-recipes.asp"><b>Seasonal Recipes</b></a></td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-              <tr>
-                <td valign="top" width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0">
-	                <tbody><tr>
-	                  <td width="100%">
-                        <table border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/mardi-gras/mardi-gras-recipes.asp">Mardi Gras Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2332/king-cake.asp">King Cake Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/soup-recipes.asp">Soup Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2978/slow-cooker-corned-beef-and-cabbage.asp">Corned Beef and Cabbage Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2050/irish-stew.asp">Irish Stew Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/irish/st-patricks-day-recipes.asp">Irish Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/easter/easter-recipes.asp">Easter Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/ham-recipes.asp">Ham Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/ham-glaze-recipes.asp">Ham Glaze Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/easter/hard-boiled-egg-recipes.asp">Easter Hard Boiled Egg Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes-collections/holiday-recipes.asp">Holiday Recipes</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes/seasonal/seasonal-recipes.asp">More Seasonal Recipes...</a></td></tr>
-
-                        </tbody></table>
-                      </td>
-                      
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          
-        </tr>
-  	  </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-          </tr>
-        
-          <tr>
-            <td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-	<td>
-	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0" width="176">
-              <tbody><tr>
-                <td style="background:url('');background-repeat:no-repeat;" class="bannerText" nowrap=""><a class="banner" href="http://www.recipetips.com/recipes/popular/popular-recipes.asp"><b>Featured Recipes</b></a></td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-              <tr>
-                <td valign="top" width="100%">
-                  <table border="0" cellpadding="0" cellspacing="0">
-	                <tbody><tr>
-	                  <td width="100%">
-                        <table border="0" cellpadding="0" cellspacing="0">
-                          <tbody><tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2396/honey-baked-ham-with-cloves.asp">Honey Baked Ham Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1922/banana-bread.asp">Banana Bread Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1653/egg-salad.asp">Egg Salad Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--3470/pigs-in-a-blanket.asp">Pigs in a Blanket Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2742/pumpkin-pie-traditional.asp">Pumpkin Pie Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1937/popcorn-balls.asp">Popcorn Ball Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1997/pumpkin-cheesecake.asp">Pumpkin Cheesecake Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2273/turkey-brine.asp">Turkey Brine Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2398/roasted-red-potatoes.asp">Roasted Red Potatoes Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--2545/rotisserie-turkey.asp">Rotisserie Turkey Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--3487/homemade-chicken-noodle-soup.asp">Chicken Noodle Soup Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1946/ratatouille.asp">Ratatouille Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipe-cards/t--1717/carrot-cake.asp">Carrot Cake Recipe</a></td></tr>
-<tr><td class="menuList"><a class="menu" href="http://www.recipetips.com/recipes/popular/popular-recipes.asp">More Featured Recipes...</a></td></tr>
-
-                        </tbody></table>
-                      </td>
-                      
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-            </tbody></table>
-          </td>
-          
-        </tr>
-  	  </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-          </tr>
-        
-      </tbody></table>
-    </td>
-    <td><img src="/images/spacer.gif" width="10" height="1" border="0" alt=""></td>
-  </tr>
-</tbody></table>
-
-                  </td>
-                </tr>
-              
-            </tbody></table>
-          </td>
-          <td width="304" valign="top" bgcolor="#ffffff">
-            
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td><img src="/images/spacer.gif" width="10" height="10" border="0" alt=""></td>
-      <td valign="top" width="100%">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%">
-          <tbody><tr>
-            <td>
-              
-<div id="tabs">
-  <div id="tabSectionsHeader">
-    <table border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td><a href="#" onclick="javascript: togglePantry('Pantry', 'tabSectionsHeaderImg'); return false;"><img name="tabSectionsHeaderImg" id="tabSectionsHeaderImg" src="/images/tabs/header_top.gif" border="0" alt="Pantry"></a></td>
-      </tr>
-        <tr>
-          <td align="center">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td valign="bottom" nowrap="">
-                  <a class="smallText" href="http://www.recipetips.com/community/my-files.asp">my recipe box<img src="/images/tabs/recipeBox_icon.gif" border="0" alt="My Recipe Box"></a>
-                </td>
-                <td class="smallText" valign="bottom">&nbsp;|&nbsp;</td>
-                <td valign="bottom" nowrap="">
-                  <a class="smallText" href="http://www.recipetips.com/community/my-files.asp">my files<img src="/images/tabs/community_icon.gif" border="0" alt="My Files"></a>
-                </td>
-                <td class="smallText" valign="bottom">&nbsp;|&nbsp;</td>
-                <td valign="bottom" nowrap="">
-                  <a class="smallText" href="http://www.recipetips.com/shoppinglist.asp">my grocery list&nbsp;<img src="/images/tabs/grocery_list_purple.gif" border="0" alt="View My Grocery List"></a>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-      <tr>
-        <td><img name="tabSectionsBottomImg" id="tabSectionsBottomImg" src="/images/tabs/bottom.gif" border="0" alt=""></td>
-      </tr>
-    </tbody></table>
-  </div>
-  <div id="tabSectionPantry" style="display:none;">
-  
-    <table cellpadding="0" cellspacing="0" border="0" style="height:100%;" class="bgPantry" width="100%">
-      <tbody><tr>
-        <td width="100%">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tbody><tr>
-              <td width="100%">
-                <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                  <tbody><tr>
-                    <td><img src="/images/spacer.gif" width="10" height="1" alt=""></td>
-                    <td width="100%">
-                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                        <tbody><tr>
-                          <td valign="top"><img src="/images/tabs/share.gif" border="0" alt="Share"></td>
-                          <td valign="top" align="right" bgcolor="#ffffff" width="100%">
-                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                              <tbody><tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-                              
-                              <tr>
-                                <td valign="bottom"><a href="http://www.recipetips.com/bookmarks.asp?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy" onclick="popHelpWindow('bookmarks', '400', '350', true, '?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy') ;return false;" target="_blank"><img border="0" src="/images/addto/bookmarks.gif" alt="Bookmarks"></a></td>
-                              </tr>
-                              <tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-                            </tbody></table>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td valign="top"><img src="/images/tabs/newsletter.gif" border="0" alt="Newsletter"></td>
-                          <td valign="top" align="right" bgcolor="#ffffff" width="100%">
-                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                              <tbody><tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/newsletterSignup.asp">Sign Up For Our Newsletter</a></td>
-                              </tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/newsletterReferFriend.asp">Refer a Friend</a></td>
-                              </tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/newsletters/newsletter.asp">Newsletter Archives</a></td>
-                              </tr>
-                              <tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-                            </tbody></table>
-                          </td>
-                        </tr>
-                        <tr>
-                          <td valign="top"><img src="/images/tabs/community.gif" border="0" alt="Community"></td>
-                          <td valign="top" align="right" bgcolor="#ffffff" width="100%">
-                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                              <tbody><tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/community/my-files.asp">Recipe Box</a></td>
-                              </tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/shoppingList.asp">Grocery List</a></td>
-                              </tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/community/meal-planning/newest-meal-plans.asp">Free Meal Planning</a></td>
-                              </tr>
-                              <tr>
-                                <td class="menuList"><a class="menu" href="http://www.recipetips.com/community/forums/default.asp">Forums</a></td>
-                              </tr>
-                            </tbody></table>
-                          </td>
-                        </tr>
-                      </tbody></table>
-                    </td>
-                    <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-                  </tr>
-                </tbody></table>
-              </td>
-            </tr>
-          </tbody></table>
-        </td>
-      </tr>
-      <tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-      <tr><td><img src="/images/common/ad_bottom_bevel.gif" border="0" alt=""></td></tr>
-    </tbody></table>
-  
-  </div>
+     </div>
+     
+<div id="dvLeft">
+ 
+<div id="dvLeftTop">
+<div class="leftTopFeature"><!-- Facebook Badge START --><a href="http://www.facebook.com/pages/RecipeTipscom/119579448063734" rel="nofollow" target="_TOP" title="RecipeTips.com"><img src="http://badge.facebook.com/badge/119579448063734.1299.138389026.png" style="border: 0px; width: 120px; height: 180px;"></a><!-- Facebook Badge END --></div>
 </div>
 
-            </td>
-          </tr>
-          <tr><td class="adSpacer">
-    <div id="dvAd2"></div>
-    <script type="text/javascript">
-    //var strAd2 = '<iframe src="http://dev.recipetips.com.webdev9/utilities/ads/adpage.asp?id=2" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var strAd2 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=2" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var targetDivAd2 = document.getElementById('dvAd2');
-    setTimeout("targetDivAd2.innerHTML = strAd2;", 4000);
-    </script>
-  </td></tr>
-            <tr>
-              <td align="center"><table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-  <tr>
-    <td valign="top">
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td valign="top">
-            <table border="0" cellpadding="0" cellspacing="0">
-              
-                <tbody><tr>
-                  <td><img src="/images/common/border_common_top_left.gif" alt=""></td>
-                  <td class="bgOutlineTop"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
-                  <td><img src="/images/common/border_common_top_right.gif" alt=""></td>
-                </tr>
-                <tr>
-                  <td class="bgOutlineLeft"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
-                  <td width="100%">
-                    <table border="0" cellpadding="8" cellspacing="0">
-              
-              <tbody><tr>
-                <td>
-                  <table border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      
-                        <td align="center" class="tipTitle">
-                          
-                            <b>Tip of the Week:</b><br>
-                          
-                          <a href="/quick-tips-ideas/cook-shrimp-to-proper-doneness.asp"><b>Cook Shrimp to Proper Doneness</b></a>
-                        </td>
-                        <td align="center" class="qtSpacer"><a href="/quick-tips-ideas/"><img src="/kitchen/images/refimages/quicktips/shrimp_risotto.jpg" alt="Quick Tips &amp; Ideas" title="Quick Tips &amp; Ideas" border="0"></a></td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-              <tr>
-                <td class="menu">Prevent tough overcooked shrimp by watching it closely for doneness. If the shrimp form a half-circle, they are done. They are overdone if they have coiled into a circle. <a href="/quick-tips-ideas/cook-shrimp-to-proper-doneness.asp" class="smalltext link">View more</a>.</td>
-              </tr>
-              
-                      <tr>
-                        <td valign="top"><a href="/quick-tips-ideas/" class="smalltext link">View other quick tips</a></td>
-                      </tr>
-                    </tbody></table>
-                  </td> 
-                  <td class="bgOutlineRight"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
-                </tr>
-                <tr>
-                  <td><img src="/images/common/border_common_bottom_left.gif" alt=""></td>
-                  <td class="bgOutlineBottom"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
-                  <td><img src="/images/common/border_common_bottom_right.gif" alt=""></td>
-                </tr>
-              
-            </tbody></table>
-          </td>
-          
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-            </tr>
-            <tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-            <tr><td class="adSpacer">
-    <div id="dvAd3"></div>
-    <script type="text/javascript">
-    //var strAd3 = '<iframe src="http://dev.recipetips.com.webdev9/utilities/ads/adpage.asp?id=3" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var strAd3 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=3" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var targetDivAd3 = document.getElementById('dvAd3');
-    setTimeout("targetDivAd3.innerHTML = strAd3;", 4000);
-    </script>
-  </td></tr>
-            <tr><td><img src="/images/spacer.gif" width="1" height="5" alt=""></td></tr>
-            <tr>
-              <td><table border="0" cellpadding="0" cellspacing="0" style="width:100%;">
-<tbody><tr><td style="background:url('');background-repeat:no-repeat;" class="bannerText"><b>Popular Searches</b></td></tr>
-<tr>
-<td><ol>
-<li><a href="http://www.recipetips.com/search-site/1/chicken.asp" class="menu">chicken</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/turkey.asp" class="menu">turkey</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/chili.asp" class="menu">chili</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/pork+chops.asp" class="menu">pork chops</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/cookies.asp" class="menu">cookies</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/appetizers.asp" class="menu">appetizers</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/slow+cooker.asp" class="menu">slow cooker</a></li>
-<li><a href="http://www.recipetips.com/search-site/1/soup.asp" class="menu">soup</a></li>
-</ol></td>
-</tr>
-<tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-</tbody></table>
-</td>
-            </tr>
-          
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
+  <div id="dvLeftMenu">
+   
+    <div id="dvLeftMenuTree">
+     
+   <div class="left menuTreeListing">
+    <div class="menuHeaderTree"><a class="bannerHeaderOn" href="http://www.recipetips.com/recipes-collections/recipe-finder.asp">Recipe Finder</a></div>
+    <div class="menuItemsPlain">
+     <div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/appetizer-recipes.asp">Appetizer Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/beverage-recipes.asp">Beverages</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/bread-recipes.asp">Breads</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/casserole-recipes.asp">Casserole Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/chicken-recipes.asp">Chicken Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/chili-recipes.asp">Chili Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/dessert-recipes.asp">Dessert Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/desserts/cookie-recipes.asp">Cookies</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/fish-seafood-recipes.asp">Fish and Seafood</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/ham-recipes.asp">Ham Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/main-dish/entree-recipes.asp">Main Dish</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/meat/meat-and-poultry.asp">Meat and Poultry</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/meatloaf-recipes.asp">Meatloaf Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/pork-recipes.asp">Pork Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/salad-recipes.asp">Salad Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/side-dishes/side-recipes.asp">Side Dish Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/slow-cooker-recipes.asp">Slow Cooker Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/soup-stew-and-chili-recipes.asp">Soup, Stew, and Chili</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/turkey-recipes.asp">Turkey Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/occasions-holiday-recipes.asp">Holidays and Occasions</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/archived-recipes-collections/recipe-finder.asp">Archived Recipe Finder...</a></div>
 
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>  
-  <tr>
-    <td align="center" width="1000">
-      <table cellspacing="0" cellpadding="0" width="100%" border="0">
-  <tbody><tr><td><img src="/images/spacer.gif" width="1" height="5" border="0" alt=""></td></tr>
-  <tr><td class="adSpacer">
-    <div id="dvAd8"></div>
-    <script type="text/javascript">
-    //var strAd8 = '<iframe src="http://dev.recipetips.com.webdev9/utilities/ads/adpage.asp?id=8" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var strAd8 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=8" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"></iframe>';
-    var targetDivAd8 = document.getElementById('dvAd8');
-    setTimeout("targetDivAd8.innerHTML = strAd8;", 4000);
-    </script>
-  </td></tr>
-  <tr>
-    <td class="bgFooter" width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-        <tr>
-          <td valign="top" align="center" width="100%">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td align="center" class="footer">
-                  <a class="footer" href="http://www.recipetips.com/termsOfUse.asp">Terms of Use</a>&nbsp;|&nbsp;
-                  <a class="footer" href="http://www.recipetips.com/privacy.asp">Privacy Policy</a>&nbsp;|&nbsp;
-                  <a class="footer" href="http://www.recipetips.com/siteMap.asp">Site Map</a>&nbsp;|&nbsp;
-                  <a class="footer" href="http://www.recipetips.com/index.asp?listkey=B">Cooking Tips &amp; Advice Index</a>&nbsp;|&nbsp;
-                  <a class="footer" href="http://www.recipetips.com/contactUs.asp">Contact Us</a>&nbsp;|&nbsp;
-                  <a href="http://www.recipetips.com/media/media.asp" target="_blank" class="footer">Advertise</a>&nbsp;|&nbsp; 
-                  <a href="http://www.recipetips.com/licensing/" target="_blank" class="footer">Licensing</a>&nbsp;|&nbsp; 
-                  <a class="footer" href="http://www.recipetips.com/recipes-collections/holiday-recipes.asp">Holiday Recipes</a>&nbsp;|&nbsp;
-                  <a class="footer" href="http://www.recipetips.com/promotions/">Promotions</a>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr><td><img src="/images/spacer.gif" width="1" height="3" alt=""></td></tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr><td>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td valign="top"><a href="http://www.recipetips.com"><img src="/images/common/home.jpg" alt="RecipeTips.Com Home" border="0"></a></td>
-          <td><img src="/images/spacer.gif" width="5" height="1" alt=""></td>
-          <td></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td align="right">
-      <table border="0" cellpadding="2" cellspacing="0">
-        <tbody><tr>
-          
-            <td><a href="http://www.recipetips.com/community/my-files.asp?member=new" class="smallText">Join Now</a></td>
-            <td class="smallText">|</td>
-            <td><a href="http://www.recipetips.com/community/my-files.asp" class="smallText">Sign In</a></td>
-          
-          <td class="smallText">|</td>
-          <td valign="middle"><a href="http://www.recipetips.com/cooking-feed/rss-feed.asp"><img width="14" height="14" src="http://www.recipetips.com/cooking-feed/images/rss-14-14.gif" alt="RSS Feeds" border="0"></a></td>
-          <td><a href="http://www.recipetips.com/cooking-feed/rss-feed.asp" class="smallText">RSS Feeds</a></td>
-          <td class="smallText">|</td>
-          <td valign="top"><a href="http://www.facebook.com/pages/RecipeTipscom/119579448063734" target="_blank"><img src="http://www.recipetips.com/images/buttons/facebook.jpg" alt="Find Us On Facebook" border="0"></a></td>
-          <td class="smallText">|</td>
-          <td><a class="smallText" href="/bookmarks.asp?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy" onclick="popHelpWindow('bookmarks', '400', '350', true, '?url=http%3A//www.recipetips.com/privacy.asp&amp;title=RecipeTips.Com%20Privacy%20Policy') ;return false;" target="_blank"><img border="0" src="/images/addto/bookmarks.gif" alt="Share"></a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="2" alt=""></td></tr>
-</tbody></table></td></tr>
-  <tr>
-    <td width="100%">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:0px;">
-        <tbody><tr>
-          <td valign="top" align="center" width="100%">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td align="center" class="smallText">Reproduction in whole or in part without written permission is strictly prohibited.</td>
-              </tr>
-              <tr>
-                <td align="center" class="smallText">© Copyright 2011 Tecstra Systems, All Rights Reserved, <a class="smalltext" href="http://www.recipetips.com/">RecipeTips.Com</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-<!--
-          <TD vAlign="top" align="right">
-            <table border="0" cellpadding="0" cellspacing="0">
-              <tr>
-                <td align="center" class="footer">
-                  <a class="footer" href="http://www.bhg.com/" target="_blank"><img src="/images/sales/footerlogo_bhg.jpg" border="0" alt="Better Homes and Gardens" /></a>
-                </td>
-              </tr>
-            </table>
-          </TD>
--->
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr><td><img src="/images/spacer.gif" width="1" height="10" alt=""></td></tr>
-</tbody></table>
+    </div>
+   </div>
+   
+   <div class="clear"></div>
+   
+    </div>
+   <div class="leftWithBG"><div class="menuTreeListing"><div align="left" class="menuHeaderTree"><a href="/kitchen-tips/t-109-/knowledge.asp" class="bannerHeaderOn">Tip Finder</a></div><div class="menuItemsPlain"><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-1-/charts.asp">Charts</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-7-/kitchen-advice.asp">Kitchen Advice</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-164-/slow-cooker.asp">Slow Cooker</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-183-/grilling.asp">Grilling</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-5-/meat.asp">Meat</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-154-/fish.asp">Fish</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-113-/fruit.asp">Fruit</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-114-/vegetables.asp">Vegetables</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-145-/bread.asp">Bread</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-211-/desserts.asp">Desserts</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-3-/pasta.asp">Pasta</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-196-/sauces.asp">Sauces</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-2-/eggs.asp">Eggs</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-198-/cheese.asp">Cheese</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-153-/oils-and-fats.asp">Oils and Fats</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-132-/grains.asp">Grains</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-133-/flour.asp">Flour</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-118-/beverages.asp">Beverages</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-4-/food-safety.asp">Food Safety</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-166-/nutrition.asp">Nutrition</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-8-/seasoned-insight.asp">Seasoned Insight</a></div><div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-193-/youtube-cooking-videos.asp">YouTube Cooking Videos</a></div></div></div></div>
+  </div>
+ 
+</div>
+
+     <div class="clear"></div>
+    </div>
+    
+ <div id="dvRight">
+  <div id="dvRightFeature">
+ <div id="dvRightPantry">
+  <div class="pantryItem"><a href="http://www.recipetips.com/community/post-recipe.asp"><img src="/images/icons/store.gif" width="16" height="16" border="0" alt="Enter My Recipes"><span class="iconText">Enter My Recipes</span></a></div>
+  <div class="pantryItem"><a href="http://www.recipetips.com/community/my-files.asp"><img src="/images/icons/save.gif" width="16" height="16" border="0" alt="View My Recipes"><span class="iconText">View My Recipes</span></a></div>
+  <div class="clearLeft"></div>
+ </div>
+ 
+</div>
+ <div id="dvRightTop">
+  <div class="adSlot"><div id="dvAd2"></div><div class="adText">Advertisement</div></div>
+ </div>
+
+ <div id="dvRightBottom">
+  
+   <div class="rightFeature">
+    <div class="right"><a href="/kitchen-tips/t--672/party-planner-appetizer-buying-guide.asp"><img src="/kitchen/images/refimages/seasonedinsight/features/meat_cheese_tray_features.jpg" width="104" height="95" border="0" alt="Party Planner - Appetizer Buying Guide" title="Party Planner - Appetizer Buying Guide"></a></div>
+    <div>
+     <div class="subTitle">Party Planner:</div>
+     <div align="center"><a href="/kitchen-tips/t--672/party-planner-appetizer-buying-guide.asp">Party Planner - Appetizer Buying Guide</a></div>
+     <div class="padBottomSmall">Let RecipeTips assist you with your party planning. Our helpful party planner takes the guesswork out of food buying.</div>
+    </div>
+    <div class="clearRight"></div>
+   </div>
+  <div class="quickTips">
+ <div>
+  
+   <div class="left padRight">
+    <a href="/quick-tips-ideas/"><img src="/kitchen/images/refimages/quicktips/bacon_wrap_smokies.jpg" alt="Quick Tips &amp; Ideas" title="Quick Tips &amp; Ideas" border="0"></a>
+   </div>
+  
+  <div>
+   
+    <div class="subTitle">Tip of the Week:</div>
+    <div align="center"><a href="/quick-tips-ideas/precook-bacon-for-better-holiday-appetizers.asp">Precook Bacon for Better Holiday Appetizers</a></div>
+   
+   <div class="padBottomSmall">
+    For crispy bacon wrapped holiday appetizers, precook the bacon until done but not crispy; then wrap around the appetizer and cook as directed. <a href="/quick-tips-ideas/precook-bacon-for-better-holiday-appetizers.asp">View more</a>.
+   </div>
+   
+    <div class="padBottomSmall"><a href="/quick-tips-ideas/">View other quick tips</a></div>
+   
+  </div>
+  <div class="clearLeft"></div>
+ </div>
+ 
+</div>
+<div class="adSlot"><div id="dvAd3"></div><div class="adText">Advertisement</div></div>
+ </div>
+
+ </div>
+
+    <div class="clear"></div>
+    <div id="dvFooter">
+ 
+ <div class="footerNav">
+
+  <div class="featureBanner"><h2>RecipeTips Featured Items</h2></div>
+  <div class="footerFeatureItems">
+   <div class="footerFeatureItem">
+    <div class="footerFeatureArea">
+     
+   <div class="left menuListing">
+    <div class="menuHeader"><a class="bannerText2" href="http://www.recipetips.com/recipes/seasonal/seasonal-recipes.asp">Seasonal Recipes</a></div>
+    <div class="menuItems">
+     <div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/leftover-ham-recipes.asp">Leftover Ham Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/leftover-turkey-recipes.asp">Leftover Turkey Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/new-years/new-years-eve-recipes.asp">New Year's Eve</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/new-years/appetizer-recipes.asp">New Year's Eve Appetizer Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2292/rib-eye-roast.asp">Rib Eye Roast Beef Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/prime-rib-recipes.asp">Prime Rib Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/super-bowl/super-bowl-recipes.asp">Super Bowl</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/football-recipes.asp">Football Recipes</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/tailgating/tailgating-recipes.asp">Tailgating</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2321/chocolate-covered-strawberries.asp">Chocolate Covered Strawberry Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/chocolate-recipes.asp">Chocolate</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/occasions-holiday-recipes.asp">Holidays and Occasions</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes/seasonal/seasonal-recipes.asp?showarchive=true">Archived Seasonal Recipes...</a></div>
+
+    </div>
+   </div>
+   
+   <div class="clear"></div>
+   
+    </div>
+   </div>
+   <div class="footerFeatureItem">
+    <div class="footerFeatureArea">
+     
+   <div class="left menuListing">
+    <div class="menuHeader"><a class="bannerText5" href="http://www.recipetips.com/recipes/popular/popular-recipes.asp">Featured Recipes</a></div>
+    <div class="menuItems">
+     <div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--1779/baked-turkey.asp">Baked Turkey</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--3606/prime-rib.asp">Prime Rib</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2396/honey-baked-ham-with-cloves.asp">Honey Baked Ham</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2292/rib-eye-roast.asp">Rib Eye Roast Beef Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2516/easy-barbecue-sauce.asp">Easy Barbeque Sauce Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--3267/slow-cooker-beef-roast.asp">Slow Cooker Beef Roast</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--1592/homemade-chili.asp">Homemade Chili</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2449/slow-cooker-chicken-and-rice.asp">Slow Cooker Chicken and Rice Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--1949/oven-roasted-carrots.asp">Oven Roasted Carrots Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--3626/top-round-beef-roast.asp">Top Round Beef Roast Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2398/roasted-red-potatoes.asp">Roasted Red Potatoes Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--3487/homemade-chicken-noodle-soup.asp">Chicken Noodle Soup</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2770/cocktail-pigs-in-a-blanket.asp">Cocktail Pigs In A Blanket Recipe</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2978/slow-cooker-corned-beef-and-cabbage.asp">Slow Cooker Corned Beef</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipe-cards/t--2315/ham-and-bean-soup.asp">Ham and Bean Soup</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes-collections/default.asp?viewall=true">All Recipe Collections</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/recipes/popular/popular-recipes.asp?showarchive=true">Archived Featured Recipes...</a></div>
+
+    </div>
+   </div>
+   
+   <div class="clear"></div>
+   
+    </div>
+   </div>
+   <div class="footerFeatureItem">
+    <div class="footerFeatureArea">
+     
+   <div class="left menuListing">
+    <div class="menuHeader"><a class="bannerText4" href="http://www.recipetips.com/cooking-tips/seasonal/seasonal-cooking-tips.asp">Seasonal Cooking Tips</a></div>
+    <div class="menuItems">
+     <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1315/cooking-prime-rib.asp">Cooking Prime Rib</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/ham-cooking-guide.asp">Ham Cooking Guide</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/ham/carving-a-ham-cooking-tips.asp">Carving a Ham</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/glossary-term/t--35218/rib-eye-roast-beef.asp">Rib Eye Roast Beef</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1305/how-to-cook-a-turkey.asp">How to Cook a Turkey</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--278/be-my-valentine.asp">Be My Valentine...</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1226/how-to-make-stuffing.asp">How To Make Stuffing</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/turkey/preparing-a-turkey-cooking-tips.asp">Preparing A Turkey</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1063/chocolate-covered-strawberries.asp">Chocolate Covered Strawberries</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/ham/preparing-a-ham-cooking-tips.asp">Preparing a Ham Cooking Tips and Advice</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/turkey-cooking-guide.asp">Turkey Cooking Guide</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1270/slow-cooker-basics.asp">Slow Cooker Basics</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--830/all-about-winter-squash.asp">All About Winter Squash</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/glossary-term/t--35479/delicata-squash.asp">Delicata Squash</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--644/roasting-a-turkey-turkey-cooking-times.asp">Roasting a Turkey - Turkey Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--142/table-settings-formal-casual-or-buffet.asp">Table Settings: Formal, Casual or Buffet</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1324/how-to-make-apple-crisp.asp">How To Make Apple Crisp</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/archived-cooking-tips/seasonal/seasonal-cooking-tips.asp">Archived Seasonal Cooking Tips...</a></div>
+
+    </div>
+   </div>
+   
+   <div class="clear"></div>
+   
+    </div>
+   </div>
+   <div class="footerFeatureItem">
+    <div class="footerFeatureArea">
+     
+   <div class="left menuListing">
+    <div class="menuHeader"><a class="bannerText6" href="http://www.recipetips.com/cooking-tips/popular/popular-cooking-tips.asp">Cooking Advice</a></div>
+    <div class="menuItems">
+     <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--907/pork-cooking-times.asp">Pork Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--987/convection-oven-turkey-roasting.asp">Convection Oven Turkey Roasting</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--997/roasting-a-turkey-in-an-electric-roaster.asp">Roasting A Turkey In An Electric Roaster</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--911/chicken-cooking-times.asp">Chicken Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/turkey/turkey-cooking-times.asp">Turkey Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1084/how-much-to-buy.asp">How Much To Buy</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--749/roasting-ham.asp">Roasting Ham</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--906/beef-cooking-times.asp">Beef Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/cooking-tips/ham/ham-cooking-times.asp">Ham Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--908/lamb-cooking-times.asp">Lamb Cooking Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-129-/cooking-temperature-and-time.asp">Cooking Temperature And Time</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1045/turkey-breast-roasting-times.asp">Turkey Breast Roasting Times</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--666/how-to-prepare-and-bake-a-ham.asp">How to Bake a Ham</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1043/flavor-injecting-turkey.asp">Flavor Injecting Turkey</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/glossary-term/t--36096/bottom-round-roast-beef.asp">Bottom Round Roast Beef</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/glossary-term/t--36098/top-round-roast-beef.asp">Top Round Roast Beef</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1065/how-to-make-powdered-sugar-frosting.asp">How To Make Powdered Sugar Frosting</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1228/types-of-fish.asp">Types of Fish</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--171/types-of-pasta.asp">Types of Pasta</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-105-/ham.asp">Ham</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/glossary.asp">Glossary</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/videos/">Videos</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/newest-cooking-tips.asp">Newest Cooking Tips</a></div>
+<div class="menuItem"><a href="http://www.recipetips.com/archived-cooking-tips/popular/popular-cooking-tips.asp">Archived Cooking Advice...</a></div>
+
+    </div>
+   </div>
+   
+   <div class="clear"></div>
+   
+    </div>
+   </div>
+   <div class="footerFeatureItem">
+    <div class="footerFeatureArea">
+     <div class="menuListing">
+ <div class="menuHeader"><a href="http://www.recipetips.com/kitchen-tips/t-1-/charts.asp">Handy Kitchen Charts</a></div>
+ <div class="menuItems">
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--910/turkey-cooking-times.asp">Turkey Cooking Times</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1312/ham-cooking-times.asp">Ham Cooking Times</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-129-/cooking-temperature-and-time.asp">Cooking Temperature and Time</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t-16-/ingredient-equivalents.asp">Ingredient Equivalents</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--510/conversion-calculators.asp">Conversion Calculators</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--1084/how-much-to-buy.asp">How Much To Buy</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--200/food-substitutions.asp">Food Substitutions</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--904/alcohol-substitutions.asp">Alcohol Substitutions</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--656/can-equivalents.asp">Can Sizes And Can Equivalents</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--917/temperature-conversion.asp">Temperature Conversion</a></div>
+  <div class="menuItem"><a href="http://www.recipetips.com/kitchen-tips/t--482/units-of-measure.asp">Units Of Measure</a></div>
+ </div>
+</div>
+    </div>
+   </div>
+   <div class="clearLeft"></div>
+  </div>
+  
+  <div class="footerNav">
+   <div class="featureBanner"><h2>Recipe Index</h2></div>
+   <div class="padBottom">
+    <div class="footerNavItem">
+     <div class="menuItem"><a href="/search-recipes/1/appetizer-snack.asp">Appetizers</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/beverage.asp">Beverages</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/bread.asp">Breads</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/breakfast.asp">Breakfast</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/burger.asp">Burgers</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/candy.asp">Candy</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/casserole.asp">Casseroles</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/condiment.asp">Condiments</a></div>
+    </div>
+    <div class="footerNavItem">
+     <div class="menuItem"><a href="/search-recipes/1/cookies-bars.asp">Cookies &amp; Bars</a></div>
+     <div class="menuItem"><a href="/recipes-collections/dessert-recipes.asp">Desserts</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/entree.asp">Entrees</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/fish-seafood.asp">Fish &amp; Seafood </a></div>
+     <div class="menuItem"><a href="/search-recipes/1/lunch.asp">Lunch</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/ham-beef-turkey-chicken-lamb.asp">Meat</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/barbecuing-grilling.asp">Barbecuing</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/beef.asp">Beef</a></div>
+    </div>
+    <div class="footerNavItem">
+     <div class="menuItem"><a href="/recipes-collections/chicken-recipes.asp">Chicken</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/ham.asp">Ham</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/lamb.asp">Lamb</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/pork.asp">Pork</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/turkey.asp">Turkey</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/pasta.asp">Pasta</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/pizza.asp">Pizza</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/salad.asp">Salads</a></div>
+    </div>
+    <div class="footerNavItem">
+     <div class="menuItem"><a href="/search-recipes/1/sandwich.asp">Sandwiches</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/sauce-base.asp">Sauces &amp; Bases </a></div>
+     <div class="menuItem"><a href="/search-recipes/1/side-dish.asp">Side&nbsp;Dishes</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/slow-cook.asp">Slow Cooker</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/soup.asp">Soups</a></div>
+     <div class="menuItem"><a href="/search-recipes/1/vegetarian.asp">Vegetarian</a></div>
+    </div>
+    <div class="clearLeft"></div>
+   </div>
+  </div>
+ </div>
+
+
+<div id="dvFooterBottom">
+ <div id="dvFooterLinks" align="center">
+  <a href="http://www.recipetips.com/termsOfUse.asp">Terms of Use</a>&nbsp;|&nbsp;
+  <a href="http://www.recipetips.com/privacy.asp">Privacy Policy</a>&nbsp;|&nbsp;
+  <a href="http://www.recipetips.com/siteMap.asp">Site Index</a>&nbsp;|&nbsp;
+  <a href="http://www.recipetips.com/contactUs.asp">Contact Us</a>&nbsp;|&nbsp;
+  <a href="http://www.recipetips.com/media/media.asp" target="_blank">Advertise</a>&nbsp;|&nbsp; 
+  <a href="http://www.recipetips.com/licensing/" target="_blank">Licensing</a>&nbsp;|&nbsp; 
+  <a href="http://www.recipetips.com/promotions/">Promotions</a>
+ </div>
+ Reproduction in whole or in part without written permission is strictly prohibited.<br>
+ © Copyright 2011 Tecstra Systems, All Rights Reserved, <a href="http://www.recipetips.com/">RecipeTips.Com</a>
+</div>
 <!--dedp219 204.236.226.210-->
+ <div id="dvFooterTop">
+  <div class="adBanner"><div id="dvAd8"></div></div>
+ </div>
 
-    </td>
-  </tr> 
-</tbody></table>
+</div>
 
+   </div>
+  </div>
+ </div>
+</div>
+</div>
+<script type="text/javascript">
+ if (showSignupPrompt == true) {
+  //var displayInd = getSignupDisplay();
+  var displayInd = '2';
+  openSignup(displayInd);
+ }
+ else if ('False' == 'True')
+  openSignupConfirmation('');
+</script>
+
+        <script type="text/javascript">
+        var strAd1 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=1&amp;ord=4839898944" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0" style="z-index:1"><\/iframe>';
+        var targetDivAd1 = document.getElementById('dvAd1');
+        setTimeout("targetDivAd1.innerHTML = strAd1;", 10000);
+        </script>
+      
+        <script type="text/javascript">
+        var strAd2 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=2&amp;ord=4839898944" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0" style="z-index:1"><\/iframe>';
+        var targetDivAd2 = document.getElementById('dvAd2');
+        setTimeout("targetDivAd2.innerHTML = strAd2;", 10000);
+        </script>
+      
+          <script type="text/javascript">
+          var strT1Google = '<iframe src="http://www.recipetips.com/includes/ad_scripts/G_Google.asp" height="250" width="300" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0"><\/iframe>';
+          var targetDivT1Google = document.getElementById('dvAd3');
+          setTimeout("targetDivT1Google.innerHTML = strT1Google;", 10000);
+          </script>
+          
+        <script type="text/javascript">
+        var strAd8 = '<iframe src="http://www.recipetips.com/utilities/ads/adpage.asp?id=8&amp;ord=4839898944" height="90" width="728" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" align="middle" border="0" style="z-index:1"><\/iframe>';
+        var targetDivAd8 = document.getElementById('dvAd8');
+        setTimeout("targetDivAd8.innerHTML = strAd8;", 10000);
+        </script>
+      
+<img height="1" width="1" src="http://a.triggit.com/px?u=42c34116ffabdbf4&amp;rtv=ae,food,foodrt" alt="">
 
 
 
