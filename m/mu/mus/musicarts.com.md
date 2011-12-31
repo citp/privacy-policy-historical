@@ -1,119 +1,93 @@
-> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621040552id_/http%3A//www.musicarts.com/MAC-Privacty-Policy-g20006t0.mac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicarts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222224id_/http%3A//www.musicarts.com/MAC-Privacty-Policy-g20006t0.mac) for the most accurate reproduction.*
 
 # Privacy Policy | MAC
 
-All rights reserved. Copyright on this document is owned by Music & Arts Center, Inc. Any person is hereby authorized to view, copy, print, and distribute this document subject to the following conditions: 
-
-3\. Any copy of this document or portion thereof must include this copyright notice. 
-
-Note that any product, process or technology described in the document may be the subject of other Intellectual Property rights reserved by Music & Arts Center, a Division of Guitar Center Stores, Inc. and are not licensed hereunder. 
-
-**Restricted Rights Legend**  
-Use, duplication, or disclosure by the United States Government is subject to the restrictions set forth in DFARS 252.227-7013 (c)(1)(ii) and FAR 52.227-19. 
-
-**Trademarks**  
-Music & Arts Center and musicarts.com are trademarks and/or registered trademarks of Music & Arts Center, a Division of Guitar Center Stores, Inc. All other product names mentioned herein are the trademarks of their respective owners. ****
-
-**This online publication is provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.**
-
-**This publication may include technical inaccuracies and typographical errors. Changes are constantly added to the information herein; these changes will be incorporated in new editions of the publication. Music & Arts Center and musicarts.com may make improvements and/or changes in the product(s) described on this Web site at any time. **
-
-For further information on Intellectual Property matters contact Music & Arts Center, a Division of Guitar Center Stores, Inc. at 5795 Lindero Canyon Road, Westlake Village, CA 91362. 
-
-Musicarts.com is brought to you by Music & Arts Center, a Division of Guitar Center Stores, Inc. Back to Top
-
-Privacy
-
-Music & Arts knows that you care about how your personal information is used and shared. Our goals are to inspire the confidence of the users of our Web site. This privacy policy discloses how we collect, use and share information gathered about you on our Web site. 
-
-We hope that this disclosure will help increase your confidence in our site and enhance your experience on the Internet.  
-· What types of information is the Music & Arts site collecting, and how is the site collecting it?   
-· How does Music & Arts use the personally identifiable information that has been collected?  
-· Does Music & Arts share information with companies or other organizations not a part of the Music & Arts site?   
-· What choices do I have about Music & Arts collecting, using, and sharing my information?   
-· Whom do I contact with questions or concerns about this privacy policy?   
-· Will you make changes to this privacy policy?   
-· Notice of Privacy of Consumer Financial Information  
+  
 
 
-**What types of information is the Music & Arts site collecting, and how is the site collecting it?**
-
-Many of the services and products on our site are available for viewing without our collecting any personally identifiable information from you. You can surf Music & Arts' site and see much of our content anonymously. For instance, you can get store information, and learn about events at musicarts.com, without giving out any personally identifiable information. 
-
-**Information You Provide**  
-There are some activities on our site where the collection of personally identifiable information is necessary. Those activities include things like entering a contest or sweepstakes, requesting product information at MusicArts.com, or otherwise contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. Personally identifiable information may include contact data, such as your name, address, phone and e-mail address; financial data, such as your account or credit card number; and demographic data, such as your zip code, age and income. 
-
-**Information Collected from You with Technology**  
-The Music & Arts site collects some information about you using technology, so it may not be obvious to you that it is being collected. That information may include your IP address, your domain server, your type of computer, your type of web browser, and statistical information regarding the pages that you visit. The Music & Arts site uses information collected through technology to make our site more interesting and useful to you. For example, statistical information can help us track which areas of a site are more popular, so that we can better customize content to the interests of our visitors. We will combine information collected using technology with personally identifiable information only to identify a visitor in order to protect our service, site, Guests or others, when required by law, or when needed to help resolve a technical issue a Guest may be having while viewing the site. 
-
-**What Are Cookies, and How Does Music & Arts Use Them?**  
-Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. These pieces of information allow the Web site to remember important information that will make your use of that site more useful. Music & Arts and other Internet companies use cookies for a variety of purposes. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many Music & Arts features that make your Web experience more efficient and some of our services will not function properly. 
-
-Privacy Top   
+**Your Privacy Rights – Privacy Policy**  
 
 
-**How does Music & Arts use the personally identifiable information that has been collected?**
+Financial Privacy Policy
 
-Music & Arts uses personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, if you contact us to rent or purchase an item via musicarts.com we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a contest. Information we collect may be used to send you e-mail updates and newsletters about our site. We may also use the information you provide to send you Music & Arts e-mail promotions and special offers from our third-party sponsors, affiliates and partners. And we use demographic data to customize and tailor your experience on our site, displaying content that we think you might be interested in. 
+  
+At Music & Arts we are committed to protecting the privacy of our customers and users of our website located at www.musicarts.com (the "Site"). This privacy policy ("Privacy Policy") gives you details of our privacy practices, including: (a) what types of information we collect about you; (b) how the information will be used; (c) to whom we disclose the information; and (d) how we safeguard the information. We may modify this Privacy Policy from time to time and will provide notice of any major changes by posting notice on the Site.
 
-Privacy Top   
+**Your Consent**
 
+By providing personal information and/or non-personal information to us through the Site, our stores or through our customer service department in connection with our Site, you are agreeing to let Music & Arts collect and use your information as described in the Privacy Policy. 
 
-**Does Music & Arts share information with companies or other organizations not a part of the Music & Arts site?**
+**What Information Do We Collect and Why?**
 
-You are one of the most valuable assets of our business. We aren't in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. 
+**Registration and Payment Information:** We may ask you to provide us with personal information on a voluntary basis in certain areas of the Site, and you will be required to provide personal information when you make purchases on the Site. The kinds of personal information that we may request may include your name, address, email address, telephone number, fax number, credit card information (“Personal Information”) and information about your interests in and use of various products, programs, and services. All such information will be treated in accordance with the terms of this Privacy Policy.
 
-**Companies That Are "Standing in the Shoes" of Music & Arts **  
-Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically "standing in the shoes" of Music & Arts, and they are allowed to use the information only to deliver the product or service upon approval of Music & Arts only. 
+**IP Addresses and "Cookie" Information:** As is the case with many sites, the Site logs your IP address and uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit the Site. Cookies automatically identify your browser to the guitarcenter.com server whenever you interact with the Site. We use cookies and the information they provide to improve our services and the quality of your experience with the Site. If you prefer not to allow us to collect "cookie" information, you can disable the cookies by turning them off in your browser, although some areas of the Site may not function properly if you do. We do not link IP addresses to your name, email address or other Personal Information. This means that your session will be tracked, but you will not be personally identified. However, certain kinds of cookies allow us to store certain information of yours so you can save time in filling out forms on the Site. We only send this type of cookie to your browser when you have provided your consent for us to save your profile information.
 
-**Companies Offering Promotions, Products, or Services**  
-On occasion, we may offer promotions--like sweepstakes or free subscriptions--in conjunction with a sponsor. We will share your information with the sponsors if they need it to send you a product, such as a magazine subscription or contest prize. We may share your information with those sponsors so that they can send you other special promotions they offer, but only if you give us your permission to do so, and we will share it only with that specific sponsor. In addition, Music & Arts may occasionally send e-mail promotions out to our Guests on behalf of third-party sponsors. In this instance, we don't share your name with the third party--we do the mailing for them. Again, we only send these promotions to you if you've given your permission by signing up for our e-mail list. 
+**Web Beacons and Clear GIFs:** The Site may also use pieces of code called "web beacons" or "clear gifs" to obtain certain types of information when your Web browser accesses the Site or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other email you may have received from the Site. These web beacons or clear GIFs may also be used to deliver cookies that conform to our cookie policy. 
 
-**Content Partners**  
-On our site we may provide or link to content that is created by a third-party partner Web site. For example, we may link to partner or affiliate sites that offer products or services. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected may be shared between Music & Arts and our third-party sponsors. Third-party sponsors may also have their own privacy policies posted on their Web sites. 
+**Use of Information From Third Parties:** Music & Arts may use consumer information obtained from third party providers for a variety of purposes, including improving the accuracy of our customer database, to increase our understanding of our customer database, to increase our understanding of our customers, to identify potential new customers and to better tailor our advertising to our customers. 
 
-**Links to Other Outside Web Sites**  
-Our Web site may contain links to outside Web sites with which we do not have affiliation, partnership or other cooperative agreement. Music & Arts does not share your personal information with those Web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. 
+**Third-Party Optimization Providers and Cookie Opt-Out:** We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information provided by the customer (including information necessary to complete transactions), IP addresses, cookie information (and other information that tracks browsing and purchasing history). By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of our ability to analyze such data by clicking [ **here**](http://www.omniture.com/optout). 
 
-**Purchase or Sale of Businesses**  
-Online business is still in a very early stage and is changing and evolving rapidly. As Music & Arts continually looks for ways to improve our business, we may buy or sell a company. If we buy or sell a business, the names collected will likely be transferred as a part of the sale. Information about registrants will be used in the aggregate. However, if we buy a business, we will honor the requests that customers made of that business regarding e-mail communications. In the event that we sell a business, we will attempt to be reasonable to ensure that the e-mail communications requests you made of us are honored. 
+**Third Party Advertising Partners:** We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with third-party advertising partners and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide it anonymous when utilized in advertising. To learn more about the use of this information or choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by [**clicking here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Organizations That Help Protect the Security and Safety of Our Guests and Our Sites**  
-We will give out personal information as required by law, for example, to comply with a court order or subpoena; to enforce our Terms of Use; or to protect the safety and security of Guests and our site. 
+**How Else Does Music & Arts Use Information That It Collects from the Site?**
 
-Privacy Top   
+As well as using information about you for the specific purposes set out above, we may also use information about visitors to the Site to monitor consumer interest in our range of products and services, to troubleshoot problems that may arise on our Site, to protect against fraud or other criminal activity on our Site and other websites, to customize your user experience on the Site, to notify you of product or service offerings that we think may be of interest to you, to inform you about special promotions, and to assist us in tailoring our product lines, our services, and the content of the Site to our online visitors' needs by collecting information about their preferences through tracking patterns of page-viewing on the Site. To assist in this, at certain times, we create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences. We may also share data we collect about you, your devices and other visitors to the Site in an anonymous or aggregated form with our business partners and others.
 
+Music & Arts may disclose information about individual users to third parties who provide services to Music & Arts and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties provide a variety of services to Music & Arts, including, without limitation, fulfilling product orders, managing or hosting the Site, helping create new content and promotions for the Site, and sending or coordinating the sending of marketing communications to users who have consented to receive such materials. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by one of our business partners, we may also send the information you have supplied to the business partners that offer such products or services.
 
-**What choices do I have about Music & Arts collecting, using, and sharing my information?**
+From time to time, Music & Arts may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law.  We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful. In addition, we may share certain personal information when we believe that doing so is reasonably necessary to protect the rights, property and safety of our company and/or others. Music & Arts may also share personally identifiable information with controlling entities, entities it controls, and those under common control. Finally, Music & Arts may transfer personal information to participating companies in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from Music & Arts and from our third-party partners. You can request at any time that Music & Arts not send future e-mail to you by unsubscribing using the instructions included in each e-mail, or by filling out the remove form ([email list removal](https://web.archive.org/MyAccount/Preferences.aspx)), as mentioned above, there are ways to limit the information collected through technology--though some of our features won't work if you decide to do this. For the safety of minors, we request that children under the age of 18 not fill out any personal information on our Web site without first receiving the approval of a parent or guardian. 
+**Your Rights**
 
-Privacy Top   
+You can correct factual errors in your Personal Information by sending us a request that credibly shows any error. If you wish to access, update or correct your Personal Information that we collect online, please contact us by mail at the address shown in the How to Contact section below. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections.
 
+**Opt Out:** From time to time, Music & Arts may notify you by email of special promotions, changes to our Site, new product lines or products or service offerings that we think may be of special interest to you. If you decide you no longer want to receive emails notifying you of this information, follow the instructions in each promotional message.
 
-**Whom do I contact with questions or concerns about this privacy policy?**
+**Mailing List:** Music & Arts may occasionally share its mailing list or a part of its mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, or do not wish to receive our mailings, please contact us at (888) 731-5396. 
 
-If you need further assistance, please write us at: 
+Please note that requested changes to the Mailing List may take up to eight (8) weeks to take effect, particularly if we are removing your name from our postal mailings.  Email Opt Out requests will be processed within ten (10) days.
 
-Internet Privacy Policy  
-Music & Arts Center, a Div. of Guitar Center Stores, Inc.  
+**Security**
+
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  We use these procedures to better safeguard your information. 
+
+Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals are permitted access to the information that you provide to us. We take physical, technical and administrative measures to safeguard against unauthorized disclosures of Personal Information, however; we cannot guarantee that these measures will prevent breaches of the integrity and security of our network and systems, or that Personal Information will never be accessed or acquired by unauthorized persons, notwithstanding the safeguards we have in place.
+
+You hereby acknowledge that Music & Arts is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+
+**External Links**
+
+The Site provides links to various websites operated by third parties including, but not limited to, third party sites that display the Music & Arts trademarks.  This Privacy Policy does not apply to third party websites that are accessible through the Music & Arts site. When you click on one of these links, you will be transferred out of our website and connected to the website of the organization or company that maintains that website. Even if an affiliation exists between our Site and a third party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. We encourage you to read the privacy policies of those other websites to learn how they collect, use, share and secure your information before providing any personal information.
+
+**Terms And Modifications to Privacy Policy**
+
+By using the Site, you agree to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the Site. Music & Arts may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users' personal identifiable information, then we will post notice of that change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Site constitutes your consent to any changes to this Privacy Policy.
+
+**Collection Of Children’s Personal Information**
+
+Music & Arts is committed to protecting the privacy of children. The Site is not directed at children under the age of 13, and Music & Arts does not collect or maintain personal information online from children we actually know are under the age of 13. Should a child who we know is under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+
+**How to Contact**
+
+If you have any questions or concerns about this Privacy Policy and/or if you want to exercise any of the rights that you are given under this Privacy Policy, please contact us by mail at:
+
+Music & Arts  
 5795 Lindero Canyon Road  
 Westlake Village, CA 91362  
-(818) 735-8800  
-[customerservice@guitarcenter.com](mailto:customerservice@guitarcenter.com)  
+Attention: Legal Department
 
+If you communicate with us, we may retain this correspondence to improve our products, services, and the Site, and for other disclosed purposes. We may use information you provide to us in order to send you updates, such as notifications of changes to the terms of our services or important information about our services and products. 
 
-Privacy Top   
+Updated October 6, 2011
 
-
-**Will you make changes to this privacy policy?**
-
-Our business changes constantly. This privacy policy may also change as we see the need for updates. Use of the information that we gather now is subject to the privacy policy in effect at time of use. We reserve the right, at any time and without notice, to add to, change, update or modify this privacy policy simply by posting such change, update or modification on the Web site. Any such change, update or modification will be effective immediately upon posting on the Web site. You should check our Web site frequently to see the most recent version of this privacy policy.   
-
-
-Notice of Privacy of Consumer Financial Information
-
-**This notice is being provided pursuant to a Federal Trade Commission Rule under federal law.**
-
-Music and Arts collects nonpublic personal information about you from the following sources:  
+**_Notice of Privacy of Consumer Financial Information_   
+This notice is being provided pursuant to a Federal Trade Commission Rule under federal law.**   
+Music and Arts collects nonpublic personal information about you from the following sources:  
+· Information we receive from you on applications or other forms   
+· Information about your transactions with us or others   
+· Information we receive from a consumer-reporting agency   
+We do not disclose any nonpublic personal information about you to anyone, except as permitted by law. If you decide to pay off your account(s), we will adhere to the privacy policies and practices as described in this notice.   
+Music and Arts restricts access to your personal and account information to those employees who need to know that information to provide products or services to you. Music and Arts provides physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.   
 
