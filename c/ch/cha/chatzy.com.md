@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231041322id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatzy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223116id_/http%3A//www.chatzy.com/privacy.htm) for the most accurate reproduction.*
 
 # Chatzy - Privacy Policy
 
@@ -33,6 +33,19 @@ Likewise, information about individual chat users, such as IP address, email add
 We do NOT disclose IP addresses to private users who have been offended in the chatrooms.
 
 If, however, we are contacted by the police or similar authorities acting upon the request of users who have been deliberately harassed by threats or insults in the chat rooms or in email invitations, we may let them know the IP address(es) of the responsible user(s). This also applies if the chatroom has been used to promote criminal activity of any kind.
+
+## Third-party login (Facebook)
+
+If you have a Facebook account, you can use it to log into Chatzy. The following information from Facebook is stored in your Chatzy profile:
+
+  * Your email address, which is used as your normal account ID.
+  * Your real name and Facebook profile address, which may be added to the visitor list in rooms you enter.
+
+
+
+We do not read any additional information about you or your friends.
+
+Furthermore, we do not interact with your Facebook account, i.e. we cannot and we will not post anything about Chatzy or your use of Chatzy on Facebook.
 
 ## Changes to the Privacy Policy
 
