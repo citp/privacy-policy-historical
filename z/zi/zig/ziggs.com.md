@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziggs.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629024130id_/http%3A//www.ziggs.com/about/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziggs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114211id_/http%3A//www.ziggs.com/about/company/privacy.aspx) for the most accurate reproduction.*
 
 # Ziggs - Privacy Policy
 
@@ -15,7 +15,7 @@ The Site may contain links to web sites of both our affiliated and non-affiliate
 
 [](http://www.truste.org/ivalidate.php?url=www.ziggs.com&sealid=101) Ziggs is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.ziggs.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Ziggs [Customer Support](https://web.archive.org/web/20110629024130id_/http%3A//www.ziggs.com/help/HelpContactUs.aspx). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Ziggs [Customer Support](https://web.archive.org/web/20111231114211id_/http%3A//www.ziggs.com/help/HelpContactUs.aspx). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 Collection and Retention of Information   
 In some areas of the Site, Ziggs requests or may request that you provide personal information, which may include your name, address, e-mail address, telephone number, credit card number, contact information, billing information and any other information from which your identity is discernible (“Personal Information”). Unless you provide it to us voluntarily, Ziggs does not collect Personal Information about you. In other areas, Ziggs collects or may collect demographic information that is not unique to you such as your postal code, age, preferences, gender, interests and favorites (“Demographic Information”). Sometimes Ziggs collects or may collect a combination of the two types of information. Ziggs also gathers or may gather certain information about your use of our Site (such as what areas you visit and what services you access) and information about your computer hardware and software, including without limitation your IP address, browser type, domain names, access times and referring web site addresses (“Usage Information” and together with Demographic Information, “Non-Personal Information”). The Personal Information and Non-Personal Information we collect and/or that you voluntarily provide on the Site will be referred to in this Privacy Statement collectively as “Information.” 
@@ -53,7 +53,7 @@ Ziggs, is a Delaware corporation with its principal place of business at 2688 Mi
 
 Ziggs welcomes your comments concerning this Privacy Statement. If you have comments or questions concerting this Privacy Statement, please contact Ziggs by e-mail at [ziggs@Reputation.com](mailto:ziggs@Reputation.com) or by calling (877) MY-ZIGGS (877-699-4447). Thank you for using ziggs.com. 
 
-Your use of our Site is subject to and contingent upon your agreement with our [Terms of Use](https://web.archive.org/web/20110629024130id_/http%3A//www.ziggs.com/about/company/terms.aspx), which are hereby incorporated by reference. 
+Your use of our Site is subject to and contingent upon your agreement with our [Terms of Use](https://web.archive.org/web/20111231114211id_/http%3A//www.ziggs.com/about/company/terms.aspx), which are hereby incorporated by reference. 
 
 Except as described in this notice, and subject to your choices, Ziggs will not use your Personal Information for any other purpose unless we first obtain your express authorization. 
 
