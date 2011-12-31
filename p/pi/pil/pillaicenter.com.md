@@ -1,18 +1,21 @@
-> *The following text is extracted and transformed from the pillaicenter.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805093459id_/http%3A//www.pillaicenter.com/general/privacy.pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillaicenter.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205118id_/http%3A//www.pillaicenter.com/general/privacy.pc) for the most accurate reproduction.*
 
-# privacy
+# PillaiCenter.com-Privacy Policy
+
+  
+
 
 We do not trade, rent, or sell the personal information from our database or mailing list.
 
 Any information received will only be used by Vaaak Sounds, Pillai Center for MindScience or any other organization directly associated with Dr. Pillai, and will not be sold to third parties. 
 
-We collect e-mail addresses supplied to us through online and telephone orders, and requests for information. If you have supplied us with your e-mail address, we may contact you with news of new products and services or upcoming events. If you do not wish to receive such mailings, you may [Unsubscribe via e-mail](mailto:info@PillaiCenter.com?subject=Unsubscribe), postal mail, or by calling us. 
+We collect e-mail addresses supplied to us through online and telephone orders, and requests for information. If you have supplied us with your e-mail address, we may contact you with news of new products and services or upcoming events. If you do not wish to receive such mailings, you may [Unsubscribe via e-mail](mailto:office@PillaiCenter.com?subject=Unsubscribe), postal mail, or by calling us. 
 
 Postal Addresses
 
 We collect postal addresses supplied to us through online and telephone orders and requests for information. 
 
-If you have supplied us with your postal address, we may contact you with news of new products and services or upcoming events. If you do not wish to receive such mailings, you may [Unsubscribe via e-mail](mailto:info@PillaiCenter.com?subject=Unsubscribe), postal mail, or by calling us. 
+If you have supplied us with your postal address, we may contact you with news of new products and services or upcoming events. If you do not wish to receive such mailings, you may [Unsubscribe via e-mail](mailto:office@PillaiCenter.com?subject=Unsubscribe), postal mail, or by calling us. 
 
 We do not retain telephone numbers for purposes other than contacting individuals with a question or information regarding their order. 
 
