@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429025142id_/http%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einpresswire.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210749id_/http%3A//www.einpresswire.com/privacy-policy) for the most accurate reproduction.*
 
-# Press Release Service - EIN Presswire
+# Privacy policy - EIN Presswire Press Release Distribution Service
 
 IPD Groups web servers automatically collect information about which pages are visited and the domain name (e.g., aol.com) of visitors, but not any information that personally identifies a visitor. This information is used for internal review, to tailor information to individual visitors and for traffic audits. IPD Group is supported by advertisers, so having aggregate information about visitors helps us build a better site and attract advertisers, whose revenue allows us keep subscription pricing lower.
 
