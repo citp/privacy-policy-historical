@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cubics.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314022408id_/http%3A//advertiser.cubics.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubics.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222323id_/http%3A//advertiser.cubics.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Adknowledge/Cubics Privacy Policy
-
-| 
 
 THE ADKNOWLEDGE/CUBICS SOCIAL NETWORK CHANNEL PRIVACY POLICY 
 
@@ -78,5 +76,3 @@ Adknowledge, Inc.
 Attn: General Counsel   
 4600 Madison Ave., 10th Floor   
 Kansas City, MO 64112 
-
-| 
