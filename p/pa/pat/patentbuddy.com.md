@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212095616id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214147id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
 
 # Patent Buddy -Privacy Policy Highlights
 
@@ -81,9 +81,9 @@ We use cookies to improve the quality of our service by storing User preferences
 
 
 Web Beacons.   
-We allow other companies, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Patent Buddy may "target" some ads to Users that fit a certain general profile - for example, "product managers in Texas". Patent Buddy does NOT use personally identifiable information to target ads.   
+We allow other Patent Owners, called ad networks, to serve advertisements to Users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Patent Buddy may "target" some ads to Users that fit a certain general profile - for example, "product managers in Texas". Patent Buddy does NOT use personally identifiable information to target ads.   
 To deliver these ads properly, Patent Buddy may include a file, called a web beacon, from these ad networks within pages served by Patent Buddy so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.   
-Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.   
+Because your web browser must request these advertisements and web beacons from the ad network's servers, these Patent Owners can view, edit or set their own cookies, just as if you had requested a web page from their site.   
 These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. Patent Buddy does not provide personally identifiable information to any advertiser or any other third party.   
 
 
@@ -117,7 +117,7 @@ Information provided to Patent Buddy (or to third parties with whom it offers co
 
 
 Sharing Information with Third Parties.   
-Patent Buddy takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing company to bill Users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.   
+Patent Buddy takes the privacy of Users very seriously. We do not sell, rent, or otherwise provide your personally identifiable information to third parties for marketing purposes. We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information. For instance, we use a credit card processing Patent Owner to bill Users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and they are bound by confidentiality agreements which limit their use of such information.   
 Patent Buddy offers a "public profile" feature which allows Users to publish portions of their Patent Buddy profile, including their "name", but not their "email address", however Patent Buddy does not warrant how often third-party search engines will update their cache.   
 We may provide aggregated anonymous data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on Patent Buddy.   
 
@@ -135,7 +135,7 @@ It is possible that we may need to disclose personal information when required b
 
 
 Disclosures to others.   
-We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Patent Buddy corporation division or company. Any third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.   
+We may also disclose your personal and other information you provide, to another third party as part of a reorganization or a sale of the assets of a Patent Buddy corporation division or Patent Owner. Any third party to which we transfer or sell Patent Buddy's assets will have the right to continue to use the personal and other information that you provide to us.   
 
 
 Your Information Choices.   
@@ -160,7 +160,7 @@ Any violation of these guidelines may lead to the restriction, suspension or ter
 
 Important Information.   
 **Children**  
-Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service unless identified as registered US patent attorney /or patent agent or inventor on US patent and /or published application.   
+Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service unless identified as registered US patent attorney /or patent agent or innovator on US patent and /or published application.   
 **Changes to this Privacy Policy**  
 Patent Buddy may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the Patent Buddy website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.   
 If you use the Patent Buddy service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.   
