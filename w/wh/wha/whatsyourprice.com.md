@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416133024id_/http%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsyourprice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204413id_/http%3A//www.whatsyourprice.com/privacy) for the most accurate reproduction.*
 
-# WhatsYourPrice
+# Online Dating | Buy & Sell First Dates
 
 ## Our Privacy Policy
 
