@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbotrafficsystem.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626042351id_/http%3A//www.turbotrafficsystem.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotrafficsystem.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215951id_/http%3A//www.turbotrafficsystem.com/members/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turbo Traffic System
 
