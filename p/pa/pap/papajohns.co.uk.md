@@ -1,25 +1,9 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319133855id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114027id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Papa John's - Better Ingredients, Better Pizza - Papa John's : Privacy Statement
 
-change store
-
-## South Croydon
-
-323 Brighton Road  
-Croydon  
-Surrey  
-CR2 6EQ  
-Telephone: 020 868 868 86
-
-**Standard Opening times:**  
-
-
-This store is currently **Open**
-
-We aim to deliver in **30 Minutes**
-
- **All collection orders are ready within 15 minutes** ****
+**Offers may not be available in NI.  
+Please check with your local stores or visit [www.papajohns.ie](http://www.papajohns.ie/)**
 
 ## Papa John's : Privacy Statement
 
@@ -34,7 +18,9 @@ Papa John's has created this privacy statement in order to demonstrate our stron
 
 
 
-Part Two: To place an interactive order, enter a competition or take part in an online survey, you will be required to supply contact and personal information.
+### Part Two: 
+
+To place an interactive order, enter a competition or take part in an online survey, you will be required to supply contact and personal information.
 
 ### Part Three: Consent
 
