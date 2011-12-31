@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retireby40.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605063225id_/http%3A//retireby40.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireby40.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095109id_/http%3A//retireby40.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Retire By 40
 
@@ -20,7 +20,7 @@ retireby40.org does use cookies to store information about visitors preferences,
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
+Google [Adsense](http://retireby40.org/2011/08/check-from-google/)  
 Amazon
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on retireby40.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
