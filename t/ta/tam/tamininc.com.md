@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225235457id_/http%3A//www.tamininc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamininc.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231035949id_/http%3A//www.tamininc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tamin Inc - Privacy Policy
 
 Tamininc.com  Privacy Policy
 
@@ -70,7 +70,7 @@ We may disclose your Personal Information if we believe in good faith that such 
   
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at **info@tamininc.com** Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care. Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at **[info@tamininc.com](mailto:info@tamininc.com)** Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care. Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.
 
   
 **Links to Other Sites**
@@ -97,4 +97,4 @@ This Privacy Policy is subject to occasional revision, and if we make any change
 
 **Choice of Law**
 
-If you choose to visit Web.com's website or use our products or services, any dispute over privacy is subject to this Privacy Policy as governed by the laws of the State of South Dakota.
+If you choose to visit Tamininc.com's website or use our products or services, any dispute over privacy is subject to this Privacy Policy as governed by the laws of the State of South Dakota.
