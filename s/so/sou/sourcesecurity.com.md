@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530052348id_/http%3A//sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcesecurity.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214435id_/http%3A//www.sourcesecurity.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SourceSecurity.com
 
@@ -63,7 +63,7 @@ In the unlikely event that we sell or otherwise dispose of some or all of our bu
 
 Your personal data may be transferred outside of the European Economic Area for processing.  Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's Data Protection legislation.  By registering on this site and consenting to these terms, you are consenting to this transfer.
 
-**If you have any questions or concerns regarding this privacy statement, please contact the Data Protection Officer at Notting Hill Media Limited, Shaftesbury Centre, 85 Barlby Road, London W10 6BN, UK or email us at info@sourcesecurity.com.**
+**If you have any questions or concerns regarding this privacy statement, please contact the Data Protection Officer at Notting Hill Media Limited, Park House, 206-208 Latimer Road, London W10 6QY, United Kingdom or email us at info@sourcesecurity.com.**
 
 _This Privacy Policy was last updated in May 2008._
 
