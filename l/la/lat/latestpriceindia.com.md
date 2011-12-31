@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestpriceindia.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302060839id_/http%3A//latestpriceindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestpriceindia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154756id_/http%3A//latestpriceindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Price India
 
