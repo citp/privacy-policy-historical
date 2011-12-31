@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the where2go.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521032040id_/http%3A//www.where2go.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2go.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114216id_/http%3A//www.where2go.com/html/privacy.html) for the most accurate reproduction.*
 
 # Where2Go.com - The Place to Find a Business on the Web
 
