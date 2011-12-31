@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareable.net privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106005537id_/http%3A//www.shareable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareable.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225110id_/http%3A//shareable.net/privacy-policy) for the most accurate reproduction.*
 
 # Shareable: Privacy Policy
 
@@ -28,9 +28,8 @@ At Shareable.net we take the privacy of our members very seriously. Please read 
   **Social Security Number.** We do not ask for or require your social security number to use any of our services or to access any part of our site.
 
   **3\. Information We Track.**  
-**Log Files.** Similar to many websites, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes Internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and clickstream data. We use this information to improve our site, analyze trends, administer the site, track users' movements around the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or members from which individual member identities have been removed, and therefore does not include your personally identifiable information.
-
-  **Cookies.** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. It can also help us understand how our site visitors click to our site, and what pages they view during their visit. Similar to many websites, we store an encrypted cookie on your computer so we can remember you when you come back to our website without requiring you to log-in every time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site.
+**Log Files.** Similar to many websites, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes Internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and clickstream data. We use this information to improve our site, analyze trends, administer the site, track users' movements around the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or members from which individual member identities have been removed, and therefore does not include your personally identifiable information.  
+**Cookies.** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. It can also help us understand how our site visitors click to our site, and what pages they view during their visit. Similar to many websites, we store an encrypted cookie on your computer so we can remember you when you come back to our website without requiring you to log-in every time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site.
 
   You can set your web browser software to disable cookies. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly.
 
@@ -46,7 +45,6 @@ We use emails and/or prominent notifications on our website as our primary means
 
 
 
-   
 **2\. On Our Website.**
 
   * **Identification Of Authors By Username.** Shareable.net offers opportunities for members to vote and comment on content found in Shareable.net, engage in dialogue, share information, and submit original content on a blog. This means that to some extent we depend on the contributions and actions of our members to improve the quality of the site experience. When you make a contribution to the site (such as sharing a Do It Yourself idea), you will be identified by your username as the author of that contribution. In these circumstances, we will only identify you by your username. Other than the username which can be entirely made up, in using our service, you are not required to provide or publicize any personally identifiable information in connection with your contributions and actions on our website.
@@ -54,8 +52,6 @@ We use emails and/or prominent notifications on our website as our primary means
   * Site Statistics. As noted above, we may use information collected from our web log files to calculate and publish anonymous, non-personal, aggregate statistics that we believe our members are interested in viewing. For example, we may track and publish the total number of users who have viewed a particular web page. We publish this data in aggregate form only, and do not tie it to any personally identifiable information.
 
 
-
- 
 
 **3\. For Internal Reporting And Analysis.**  
 As noted above, we use information gathered from log files and cookies to improve our site, analyze trends, administer the site, track users' movements around the site, and to gather aggregate information about our user base as a whole. We do not tie this data to personally identifiable information.
@@ -74,15 +70,12 @@ As noted above, we use information gathered from log files and cookies to improv
 
 
 
-   
 **3\. As Necessary In Certain Legal Circumstances.**
 
   * **Legal Requirements.** We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
   * **Acquisition or Other Transfer.** If Shareable.net is acquired by another organization, all of our assets, including member information, may be transferred to the acquiring organization. At that time, your member information, including personally identifiable information, may become subject to the acquiring company's privacy policy. In addition, in the event that we must liquidate our assets due to bankruptcy or other event, we will consider our subscriber and membership information, including personally identifiable information, as a unique asset subject to sale or other transfer. Before we transfer your information under any of these scenarios, we will notify you either by email or by posting a notice on our site, and we will remind you of your ability to add, edit or delete your personally identifiable information from your member profile in advance of any such transfer.
 
 
-
- 
 
 **HOW INFORMATION IS KEPT SECURE**  
 **Security of Account Information**. Your member account information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your account information secure.
