@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623134037id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weburbanist.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231115436id_/http%3A//weburbanist.com/privacy) for the most accurate reproduction.*
 
 # WebUrbanist + WebEcoist | Privacy Policy | WebUrbanist
 
