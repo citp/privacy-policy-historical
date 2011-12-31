@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514212425id_/http%3A//teamusa.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212911id_/http%3A//teamusa.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Team USA
 
