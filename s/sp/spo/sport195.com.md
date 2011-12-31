@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518195818id_/http%3A//www.sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport195.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204919id_/http%3A//sport195.com/home/site_documents/Privacy%2520Policy) for the most accurate reproduction.*
 
 # About Us: All Sports | All Levels| All Coutries|Sport195
 
