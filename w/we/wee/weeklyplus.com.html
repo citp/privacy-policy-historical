@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the weeklyplus.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518194552id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weeklyplus.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231020911id_/http%3A//www.weeklyplus.com/legal/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!-- Head Begins --><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><!-- Head Begins --><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- Head Meta -->
 		<title>WeeklyPlus.com Privacy Policy</title>
@@ -12,41 +12,85 @@
 		<meta property="og:description" content="Privacy Policy for WeeklyPlus.com.">
 		<meta property="og:site_name" content="WeeklyPlus.com">
 		<meta property="fb:admins" content="525696734,720865290,756159027">
-		<link href="/themes/css/page-5.css" rel="stylesheet" type="text/css" media="screen">
-					</head>
+		<link href="/themes/css/legal-10.css" rel="stylesheet" type="text/css" media="screen">
+		<script type="text/javascript" language="javascript">
+            function toggleDiv(action, div){
+                if(document.getElementById(div)){
+                    if(action == 'hide'){
+                        document.getElementById(div).style.display = 'none';
+                    } else if(action == 'show') {
+                        document.getElementById(div).style.display = 'block';
+                    } else {
+                        if(document.getElementById(div).style.display == 'block'){
+                            document.getElementById(div).style.display = 'none';
+                        } else {
+                            document.getElementById(div).style.display = 'block';
+                        }
+                    }
+                }
+            }
+        </script>			<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <!-- Body Begins -->
 	<body onload="">
-		<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript">
-    window.fbAsyncInit = function() {
-		FB.init({appId: '131701313508759', status: true, cookie: true, xfbml: true});
+        <div id="fb-root"></div>
+        <script type="text/javascript">
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId      : '131701313508759', // App ID
+                    channelURL : '//www.weeklyplus.com/fbchannel.php', // Channel File
+                    status     : true, // check login status
+                    cookie     : true, // enable cookies to allow the server to access the session
+                    oauth      : true, // enable OAuth 2.0
+                    xfbml      : true  // parse XFBML
+                });
 
-		/* All the events registered */
-		FB.Event.subscribe('auth.login', function(response) {
-			// do something with response
-			if(response.status == 'connected'){
-				window.location.reload(true);
-			}
-		});
-    };
-    (function() {
-        var e = document.createElement('script');
-        e.type = 'text/javascript';
-        e.src = document.location.protocol +
-            '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-    }());
-</script>
+                /* All the events registered */
+                FB.Event.subscribe('auth.login', function(response) {
+                    // do something with response
+                    if(response.status == 'connected'){
+                        window.location.reload(true);
+                    }
+                });
+            };
+
+            // Load the SDK Asynchronously
+            (function(d){
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            }(document));
+        </script>
+        <div id="headerSignup" style="display: block;">
+            <div id="headerSignupContent">
+                <div id="headerSignupClose"><a href="#" onclick="toggleDiv('hide','headerSignup'); return false;"><img src="/themes/images/header-signup-close.png"></a></div>
+                <div id="headerSignupBody">
+                    <form name="subscribeForm" id="subscribeForm" action="/denver/membership/" method="post">
+                        <h2>Get the Deal-of-the-Week:</h2>
+<!--                        Denver Weekly Plus-->
+                        <input type="text" name="email" size="35" value="enter your email address" onblur="fieldBlur(this, 'enter your email address');" onfocus="fieldFocus(this, 'enter your email address')">
+<!--                        <input type="text" name="city" size="25" value="Provide drop down box" />-->
+                        <input type="submit" name="subscribe" value="Subscribe">
+                        <a href="javascript:void(1);" onclick="FB.login('', {scope:'email,publish_stream'});">Connect</a>
+                    </form>
+                </div>
+            </div>
+        </div>
 		<div id="header">
 			<div id="headerContent">
 				<div id="headerLeft">
-					<div id="headerLogo"><a href="/" title="WeeklyPlus Deal-of-the-Week!"><img src="/themes/images/header-logo.png" alt="WeeklyPlus Logo"></a></div>
+					<div id="headerLogo"><a href="/" title="WeeklyPlus Deal-of-the-Week!"><img src="/themes/images/header-logo-2.png" alt="WeeklyPlus Logo" width="296" height="72"></a></div>
 				</div>
+                <div id="headerCity">
+                    <div id="headerCityText">
+                        <h2><a href="javascript:toggleDiv('','citySelector');" title="Change City">Denver</a> <a href="javascript:toggleDiv('','citySelector');" title="Change City"><img src="/themes/images/header-city-select.png" alt="Change City" width="20" height="20"></a></h2>
+                        <div id="headerCitySelect"><a href="javascript:toggleDiv('','citySelector');" title="Select City">Change City?</a></div>
+                    </div>
+                </div>
 				<div id="headerRight">
 					<div id="headerRightTop">
 						<div id="headerMembers">
-							<a href="https://www.weeklyplus.com/members/login.php">Login</a> | <a href="/denver/membership/">Subscribe</a>
+							<a href="https://www.weeklyplus.com/members/login.php">Login</a> <span>|</span> <a href="/denver/membership/" onclick="toggleDiv('','headerSignup'); return false;">Subscribe Now!</a>
 						</div>
 						<div id="facebookLike">
 							<fb:like href="http://www.weeklyplus.com" layout="button_count" show_faces="false" colorscheme="light"></fb:like>
@@ -54,16 +98,10 @@
 					</div>
 					<div id="headerRightBottom">
 						<form name="headerForm" id="headerForm" action="" method="post">
-						<div id="headerCity">
-							<div id="headerCityText">
-								<h2><a href="javascript:toggleDiv('','citySelector');" title="Change City">Denver</a> <a href="javascript:toggleDiv('','citySelector');" title="Change City"><img src="/themes/images/header-city-select.png" alt="Change City" width="7" height="6"></a></h2>
-								<div id="headerCitySelect"><a href="javascript:toggleDiv('','citySelector');" title="Select City">Change City?</a></div>
-							</div>
-						</div>
 						<div id="headerLinks">
 							<a href="/denver/" title="Current Deals">Current Deals</a>
 							<a href="/howitworks/" title="How It Works">How It Works</a>
-							<div class="headerStats">Sandee in Phoenix has saved $454.00 with WeeklyPlus</div>
+							<div class="headerStats">Crystal in Denver has saved $221.00 with WeeklyPlus</div>
 						</div>
 
 						<div class="clearer"></div>
@@ -77,48 +115,29 @@
 			<div id="headerCitySelector">
 				<div class="headerCitySelectorContent">
 					<div class="headerCitySelectorLabel">Select City:</div>
-					<div class="headerCitySelectorOptions">							<a href="/denver/" title="" class="active">Denver</a>							<a href="/phoenix/" title="">Phoenix</a>							<a href="/dallas/" title="">Dallas</a>							<a href="/portland/" title="">Portland</a></div>
+					<div class="headerCitySelectorOptions"><div class="headerCitySelectorOption"><a href="/denver/" title="" class="active">Denver</a></div><div class="headerCitySelectorOption"><a href="/phoenix/" title="">Phoenix</a></div><div class="headerCitySelectorOption"><a href="/dallas/" title="">Dallas</a></div><div class="headerCitySelectorOption"><a href="/portland/" title="">Portland</a></div></div>
 					<div class="headerCitySelectorHide"><a href="javascript:toggleDiv('hide','citySelector');">Hide</a></div>
+                                        <div class="clearer"></div>
 				</div>
 			</div>
 		</div>
-		<div id="content">			<div id="contentInner">
-				<div id="contentGearsLeft">
-					<div id="contentGearsTop">
-						<div id="contentHeader">
-						<div id="subscribe">
-							<div id="memberSubscribe">
-								<form name="subscribeForm" id="subscribeForm" action="/denver/membership/" method="post">
-									<img src="/themes/images/subscribe-title.png" alt="SUBSCRIBE" id="subscribeImg"><br>
-									<span id="subscribeText">and be the first to know about the next Deal!</span><br>
-									<input type="hidden" name="idSub" id="idSub" value="1760496">
-									<input type="text" name="emailSubscribe" id="emailSubscribe" class="memberSubscribeField" size="30" value="enter your email address" onfocus="fieldFocus(this,'enter your email address')" onblur="fieldBlur(this,'enter your email address')"><input type="submit" name="go" id="go" value="Go" class="memberSubscribeBtn"><br>
-									<a href="javascript:toggleSubscribe();" title="Already a Member? Login Here" id="subscribeLogin">Login Here</a> <a href="javascript:void(1);" title="Already a Member? Login Here" id="facebookLogin" onclick="FB.login('', {perms:'email,publish_stream'})">Facebook Connect</a>
-								</form>
-							</div>
-							<div id="memberLogin">
-								<form name="loginForm" id="loginForm" action="https://www.weeklyplus.com/members/login.php" method="post" autocomplete="off">
-									<input type="hidden" name="backLink" id="backLink" value="yes">
-									<input type="text" name="emailLogin" id="subscribeEmailLogin" class="memberLoginField" size="20" value="" onfocus="fieldBGBlur(this, '');" onblur="fieldBGBlur(this, 'url(/beta/themes/images/subscribe-input-email.gif)');"><br>
-									<input type="password" name="passwordLogin" id="subscribePasswordLogin" class="memberLoginField" size="20" value="" onfocus="fieldBGBlur(this, '');" onblur="fieldBGBlur(this, 'url(/beta/themes/images/subscribe-input-password.gif)');"><br>
-									<input type="checkbox" name="rememberLogin" id="subscribeRememberLogin" value="true"> <label for="subscribeRememberLogin">Stay logged in</label> <input type="submit" name="login" value="Login" class="memberLoginBtn"><input type="button" name="cancel" value="X" onclick="toggleSubscribe();" class="memberXBtn">
-								</form>
-							</div>
-							<div class="clearer"></div>
-						</div>							<h1 id="contentTitle">PRIVACY POLICY</h1>
-						</div>
-						<div class="clearer"></div>
-						<div id="contentBody">
-							<div id="contentBodyTop">
-								<div id="contentBodyLeft">
-									<div class="contentBodyInner">
+		<div id="content">
+            <div id="contentInner">                    <div class="contentBackground">
+                        <div class="contentBackgroundOverlay" id="contentBackgroundOverlay">
+                            <div class="contentGearsFooter">
+                            <div class="contentGearsOverlay">
+                            <div class="contentHeader">
+                                <h1 id="contentTitle">PRIVACY POLICY</h1>
+                                <div class="contentWide">
+                                    <div class="contentWideTop"></div>
+                                    <div class="contentWideBody">
                                         <p class="pageText"><em>Last updated March 3, 2011</em></p>
 
-                                        <p class="pageText">This Privacy Policy discloses the privacy practices for the WeeklyPlus.com website. WeeklyPlus, LLC, a Nevada company, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.</p>
+                                        <p class="pageText">This Privacy Policy discloses the privacy practices for the WeeklyPlus.com website. WeeklyPlus, LLC, a Colorado company, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.</p>
 
                                         <h3>PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.</h3>
 
-                                        <p class="pageText">WeeklyPlus, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 3705 Kipling St. 2nd Floor Denver, CO 80033  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
+                                        <p class="pageText">WeeklyPlus, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1600 Stout St. 4th Floor, Denver, CO 80202  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
 
                                         <p class="pageText">The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to WeeklyPlus.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.</p>
 
@@ -213,15 +232,15 @@
 
                                         <p class="pageText"><strong>Public Areas.</strong> We may provide areas on our Website where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.</p>
 
-										<p class="pageText"><strong>Refer A Friend.</strong> If you choose to use our referral service to email a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WeeklyPlus.com stores this information for the sole purpose of sending this one-time email and tracking the success of your referral.</p>
+                                        <p class="pageText"><strong>Refer A Friend.</strong> If you choose to use our referral service to email a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WeeklyPlus.com stores this information for the sole purpose of sending this one-time email and tracking the success of your referral.</p>
 
-										<p class="pageText">Your friend may contact us at service@weeklyplus.com to request that we remove this information from our database.</p>
+                                        <p class="pageText">Your friend may contact us at service@weeklyplus.com to request that we remove this information from our database.</p>
 
-										<p class="pageText"><strong>Facebook Connect.</strong> You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+                                        <p class="pageText"><strong>Facebook Connect.</strong> You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
 
-										<p class="pageText"><strong>Links to Third Party Sites.</strong> If you click on a link to a third party site, you will leave the weeklyplus.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as [name of company/URL]. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an [name of company/URL] site, you should read that site's privacy statement before providing any personally identifiable information.</p>
+                                        <p class="pageText"><strong>Links to Third Party Sites.</strong> If you click on a link to a third party site, you will leave the weeklyplus.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as [name of company/URL]. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an [name of company/URL] site, you should read that site's privacy statement before providing any personally identifiable information.</p>
 
-										<p class="pageText"><strong>Testimonials.</strong> We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. We also post publicly available reviews from other sites. If you wish to request your testimonial or review to be removed please contact us at service@weeklyplus.com.</p>
+                                        <p class="pageText"><strong>Testimonials.</strong> We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. We also post publicly available reviews from other sites. If you wish to request your testimonial or review to be removed please contact us at service@weeklyplus.com.</p>
 
                                         <p class="pageText"><strong>Notice of Privacy Rights to California Residents.</strong> California law requires that we provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the "Act") and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Website and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. California law requires us to inform you, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products marketed by those companies. The Act further requires us to allow you to control who you do not want us to share that information with. To obtain this information, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with Affiliated Businesses or Marketing Partners. The request should be sent to the attention of our legal department, and labeled "California Customer Choice Notice." Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.</p>
 
@@ -229,139 +248,68 @@
 
                                         <p class="pageText"><strong>Corporate Address</strong><br>
                                         WeeklyPlus, LLC<br>
-                                        3705 Kipling Street, 2nd Floor<br>
-                                        Denver, CO 80033</p>
+                                        1600 Stout St. 4th Floor<br>
+                                        Denver, CO 80202<br>
+                                        800-520-6920</p>
 
                                         <p class="pageText"><strong>For Customers</strong><br>
                                         Please use the "<a href="http://www.weeklyplus.com/contact/">Contact</a>" link here or from our web site for Customer Service Inquiries</p>
                                         <div class="clearer"></div>
 
                                     </div>
-								</div>
-								<div id="contentBodyRight">
-									<div id="sidebarTop">
-										<div id="sidebarTopBody">
-									<div id="sidebarMenu">
-										<div class="manageIcons">
-											<img src="/themes/images/icons/cog_blue.png" alt="Today's Denver Deal" class="menuIcon" width="16" height="16"> <a href="/" title="Today's Denver Deal">Today's Denver Deal</a><br>
-											<img src="/themes/images/icons/cog_blue.png" alt="View all Current Denver Deals" class="menuIcon" width="16" height="16"> <a href="/denver/" title="View all Current Denver Deals">View all Current Denver Deals</a><br>
-										</div>
-									</div>										</div>
-									</div>
-									<div id="sidebar">
-									<div id="sidebarContainer">
-										<!-- LAST CHANCE -->
-										<div class="sidebarLastChance" onclick="redirect('/denver/spa-and-salon/colorado-massage-therapy-and-skin-care-2-1007.html');">
-											<div class="sidebarLastChanceHeader"><img src="/themes/images/sidebar-last-chance-header.png" alt="Last Chance Deal"></div>
-											<div class="sidebarLastChanceTitle">$25 for a Papaya-Pineapple Facial at Colorado Massage 
-Therapy and 
-Skin Care ($57 Value)</div>
-											<div class="sidebarLastChanceCTA">
-												<div class="sidebarLastChanceView"><a href="/denver/spa-and-salon/colorado-massage-therapy-and-skin-care-2-1007.html" onclick="void(0);" title="VIEW">VIEW</a></div>
-												<div class="sidebarLastChanceImage"><img src="/media/images/original_1007_2_1.jpg" alt=" Image" width="109" height="67"></div>
-												<div class="clearer"></div>
-											</div>
-											<div class="sidebarLastChanceCity">Englewood / Centennial</div>
-										</div>
-										<div id="sidebarLastChanceBottom"></div>
-
-										<!-- DEALS WAITING -->
-										<div class="sidebarDeals" onclick="redirect('/denver/');">
-											<div class="sidebarDealLocation">
-												<div class="sidebarDealLocationFront"></div>
-												<div class="sidebarDealLocationCity waitingNow"><a href="/denver/" onclick="void(0);" title="14 deals are waiting!">14 deals are waiting!</a></div>
-												<div class="sidebarDealLocationEnd"></div>
-											</div>
-											<div class="sidebarDealContainer oddRow">
-												<div class="sidebarDealTitle waitingCity"><a href="/denver/" onclick="void(0);" title="14 deals are waiting!">View all available <span class="sidebarDealsWaitingNow">Deals</span> in<br>
-												<span class="sidebarDealsWaitingCity">Denver</span></a></div>
-											</div>
-										</div>
-
-										<!-- INVITE FRIENDS -->
-										<div class="sidebarInvites">
-											<a href="/invitefriends/" alt="Invite Friends; $50 Get It!"></a>
-										</div>
-
-										<!-- ADVERTISE -->
-										<div id="sidebarAdvertise" onclick="redirect('/advertising/');">
-											<div id="sidebarAdvertiseHeading">Feature your business on WeeklyPlus.com</div>
-											<div id="sidebarAdvertiseText">Ready to get hundreds or thousands of new customers to your door? <a href="/advertising/" onclick="void(0);" title="LEARN MORE">LEARN MORE</a></div>
-										</div>
-
-										<div id="sidebarCerts">
-
-											<div id="sidebarCerstRight">
-												<!-- BBB EMBLEM -->
-												<!--<div class="emblem" title="Click to review our BBB rating">
-													 <a title="Click for the Business Review of Weeklyplus LLC, an Internet Shopping in Denver CO" href="http://www.bbb.org/denver/business-reviews/advertising-shoppers-guides/weeklypluscom-in-denver-co-90118245#sealclick"><img alt="Weeklyplus LLC is a BBB Accredited Business. Click for the BBB Business Review of this Internet Shopping in Denver CO" style="border: 0;" src="http://seal-denver.bbb.org/seals/blue-seal-96-50-weeklyplusllc-90118245.png" /></a>
-												</div>-->
-
-												<!-- TRUSTe EMBLEM -->
-												<div class="emblem" title="TRUSTe online privacy certification">
-													 <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.weeklyplus.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.weeklyplus.com/seal_m.png" alt="TRUSTe online privacy certification"></a>
-												</div>
-
-												<!-- VERISIGN EMBLEM -->
-												<div class="emblem" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-													<script type="text/javascript" src="https://trustseal.verisign.com/getseal?host_name=www.weeklyplus.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-													<!--<script src="https://seal.verisign.com/getseal?host_name=www.weeklyplus.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en" type="text/javascript"></script>-->
-												</div>
-											</div>
-
-											<div id="sidebarCertsLeft">
-												<!-- BBB EMBLEM -->
-												<a title="Click for the Business Review of Weeklyplus LLC, an Internet Shopping in Denver CO" href="http://www.bbb.org/denver/business-reviews/advertising-shoppers-guides/weeklypluscom-in-denver-co-90118245#sealclick"><img alt="Weeklyplus LLC is a BBB Accredited Business. Click for the BBB Business Review of this Internet Shopping in Denver CO" style="border: 0;" src="http://seal-denver.bbb.org/seals/blue-seal-63-134-weeklyplusllc-90118245.png"></a>
-											</div>
-
-										</div>
-
-									</div>									</div>
-								</div>
-								<div class="clearer"></div>
-							</div>
-							<div class="clearer"></div>
-							<div id="contentBodyBottom"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="footerGears">
-				<div id="footer">
-					<div id="footerLogoLeft">
-						<div id="footerContent">
-							<div id="footerNavLeft">
-								<div class="footerNavItem1"><a href="/" title="Today's Denver Deal"><img src="/themes/images/footer-nav-blue-gear.png" alt="Today's Denver Deal Gear" width="24" height="24"></a> <a href="/" title="Today's Denver Deal">Today's Denver Deal</a></div>
-								<div class="footerNavItem1"><a href="/denver/" title="View all Current Denver Deals Gear"><img src="/themes/images/footer-nav-blue-gear.png" alt="View all Current Denver Deals Gear" width="24" height="24"></a> <a href="/denver/" title="View all Current Denver Deals Gear">View all Current Denver Deals</a></div>
-								<!--<div class="footerNavItem1"><a href="" title="Past deals Gear"><img src="/themes/images/footer-nav-blue-gear.png" alt="Past deals Gear" width="24" height="24" /></a> <a href="" title="Past deals Gear">Past deals</a></div>-->
-							</div>
-							<div id="footerNavRight">
-								<div class="footerNavRightRow">
-									<div class="footerNavItem2"><a href="" title="How It Works"><img src="/themes/images/footer-nav-green-gear.png" alt="How It Works Gear" width="24" height="23"></a> <a href="/howitworks/" title="How It Works">How It Works</a></div>
-									<div class="footerNavItem2"><a href="" title="Advertising"><img src="/themes/images/footer-nav-green-gear.png" alt="Advertising Gear" width="24" height="23"></a> <a href="/advertising/" title="Advertising">Advertising</a></div>
-								</div>
-								<div class="footerNavRightRow">
-									<div class="footerNavItem2"><a href="" title="Careers"><img src="/themes/images/footer-nav-green-gear.png" alt="Careers" width="24" height="23"></a> <a href="/careers/" title="Careers">Careers</a></div>
-									<div class="footerNavItem2"><a href="" title="Contact Us"><img src="/themes/images/footer-nav-green-gear.png" alt="Contact Us Gear" width="24" height="23"></a> <a href="/contact/" title="Contact Us">Contact Us</a></div>
-								</div>
-							</div>
-							<div id="footerLogoRight">
-								<a href="" title="Today's Denver Deal"><img src="/themes/images/footer-weekly-logo.png" alt="WeeklyPlus Logo" width="374" height="101"></a>
-								<div class="footerCopyright"><a href="/legal/privacy.php" target="_blank">Privacy Policy</a> | <a href="/legal/terms.php" target="_blank">Terms &amp; Conditions</a><br>© 2011 WeeklyPlus, LLC. All Rights Reserved</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<script src="/themes/js/page-5.js" language="javascript" type="text/javascript"></script>
+                                    <div class="contentWideBottom"></div>
+                                </div>
+                            </div>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+        <div id="footer">
+            <div id="footerContentBg">
+                <div id="footerContent">
+                    <div id="footerLogo">
+                        <a href="/" title="Today's Denver Deal"><img src="/themes/images/footer-logo.png" alt="WeeklyPlus Logo" width="285" height="68"></a>
+                    </div>
+                    <div id="footerLinks">
+                        <div id="footerLinksColumn">
+                            <h3>Get to Know Us</h3>                        
+                            <a href="/" title="Featured Deal"><img src="/themes/images/footer-content-bullet.png" alt="Featured Deal" width="14" height="14"></a> <a href="/" title="Featured Deal">Featured Deal</a><br>
+                            <a href="/denver/" title="Current Deals"><img src="/themes/images/footer-content-bullet.png" alt="Current Deals" width="14" height="14"></a> <a href="/denver/" title="Current Deals">Current Deals</a><br>
+                            <a href="/howitworks/" title="How It Works"><img src="/themes/images/footer-content-bullet.png" alt="How It Works Gear" width="14" height="14"></a> <a href="/howitworks/" title="How It Works">How It Works</a><br>
+                        </div>
+                        <div id="footerLinksColumn">
+                            <h3>Get Involved</h3>
+                            <a href="/advertising/" title="Run a Deal"><img src="/themes/images/footer-content-bullet.png" alt="Run a Deal Gear" width="14" height="14"></a> <a href="/advertising/" title="Advertising">Run a Deal</a><br>
+                            <a href="/denver/membership/" title="Subscribe Now"><img src="/themes/images/footer-content-bullet.png" alt="Subscribe Now" width="14" height="14"></a> <a href="/denver/membership/" title="Subscribe Now">Subscribe Now</a><br>
+                            <a href="/careers/" title="Careers"><img src="/themes/images/footer-content-bullet.png" alt="Careers" width="14" height="14"></a> <a href="/careers/" title="Careers">Careers</a><br>
+                            <a href="/invitefriends/" title="Invite Friends"><img src="/themes/images/footer-content-bullet.png" alt="Invite Friends" width="14" height="14"></a> <a href="/invitefriends/" title="Invite Friends">Invite Friends</a><br>
+                        </div>
+                        <div id="footerLinksColumn">
+                            <h3>Get Help</h3>
+                            <a href="/contact/" title="Contact Us"><img src="/themes/images/footer-content-bullet.png" alt="Contact Us Gear" width="14" height="14"></a> <a href="/contact/" title="Contact Us">Contact Us</a><br>
+                            <a href="/legal/privacy.php" title="Privacy Policy"><img src="/themes/images/footer-content-bullet.png" alt="Privacy Policy Gear" width="14" height="14"></a> <a href="/legal/privacy.php" title="Privacy Policy">Privacy Policy</a><br>
+                            <a href="/legal/terms.php" title="Terms of Use"><img src="/themes/images/footer-content-bullet.png" alt="Terms of Use Gears" width="14" height="14"></a> <a href="/legal/terms.php" title="Terms of Use">Terms of Use</a>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="footerCopyright">
+                <div id="footerCopyrightContent">
+                    <a href="/legal/privacy.php" target="_blank">Privacy Policy</a> <a href="/legal/terms.php" target="_blank">Terms &amp; Conditions</a> © 2011 WeeklyPlus, LLC. All Rights Reserved
+                </div>
+            </div>
+        </div>
+		<script src="/themes/js/legal-10.js" language="javascript" type="text/javascript"></script>
 <!--[if (gte IE 5.5)&(lt IE 7)]>
 		<script src="/themes/js/png.0.0.8a.js" language="javascript" type='text/javascript'></script>
 		<script type='text/javascript'>
 			DD_belatedPNG.fix('#subscribe, #footer');
 		</script>
 <![endif]-->
-		<script type="text/javascript">loadLoginFields();</script>		<script type="text/javascript">
+				<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
