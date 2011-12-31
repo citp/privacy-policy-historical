@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shoppingvouchers.co.uk privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628213546id_/http%3A//www.shoppingvouchers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingvouchers.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211011id_/http%3A//www.shoppingvouchers.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
+
+## Privacy Policy for Ommven Ltd t/a ShoppingVouchers.co.uk.
 
 This privacy policy discloses the privacy practices for Ommven Limited, a company incorporated in England & Wales with company number 07369969 and having its registered office at New Lodge, Drift Road, Windsor, Berkshire ("we", "us", "our"). Our website is www.shoppingvouchers.co.uk (the "Site"). By submitting personal data manually or in electronic form to us in connection with the Site you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at contact@shoppingvouchers.co.uk or, alternatively, in writing to www.shoppingvouchers.co.uk c/o Ommven Limited, New Lodge, Drift Road, Windsor, SL4 4RR 
 
