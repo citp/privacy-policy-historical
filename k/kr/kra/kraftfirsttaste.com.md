@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605143646id_/http%3A//www.kraftfirsttaste.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfirsttaste.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215345id_/http%3A//www.kraftfirsttaste.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - KRAFT First Taste
 
