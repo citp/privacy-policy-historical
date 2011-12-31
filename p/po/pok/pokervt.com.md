@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526094654id_/http%3A//pokervt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervt.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231161517id_/http%3A//pokervt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poker VT
 
