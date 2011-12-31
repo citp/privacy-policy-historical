@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabagun.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622024503id_/http%3A//grabagun.com/customer-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabagun.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210133id_/http%3A//grabagun.com/customer-service) for the most accurate reproduction.*
 
 # Grabagun.com Customer Service Online Gun Store
 
