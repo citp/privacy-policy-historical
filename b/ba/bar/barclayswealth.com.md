@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430161041id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214633id_/http%3A//www.barclayswealth.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Barclays Wealth
 
@@ -26,6 +26,8 @@ This policy contains the following sub-headings:
 
 
 ###  Cookies 
+
+With regards to the new requirements on Cookies following the revision of the e-Privacy Directive, Barclays is working towards implementing the new requirements in line with guidance from the Information Commissioner's Office. 
 
 To make using our Site as straightforward as possible and to improve the service we offer you, we use cookies. 
 
@@ -91,7 +93,7 @@ We will store and process your information on the Barclays Group computers where
 
 By "Barclays Group" we mean subsidiaries of Barclays Bank PLC (as defined in section 736 of the UK Companies Act 1985). We and other companies in the Barclays Group will use your information to manage your account(s), give you statements and provide our services, for assessment and analysis (including credit and/or behaviour scoring, market and product analysis), to identify and tackle fraud, money laundering and other crime, carry out regulatory checks and meet our obligations to any relevant regulatory authority, and to develop and improve our services to you and other customers and protect our interests. 
 
-We and other members of the Barclays Group may use your information for marketing purposes. If you don't want us to tell you about other products and services, please write to us and supply us with your full name and address and details of any products or services you have with us. Please write to your normal point of contact, or your Relationship Manager. Alternatively, [contact us](https://www.barclayswealth.com/contactus/action/stepOne "Contact us"). 
+We and other members of the Barclays Group may use your information for marketing purposes. If you don't want us to tell you about other products and services, please write to us and supply us with your full name and address and details of any products or services you have with us. Please write to your normal point of contact, or your Relationship Manager. Alternatively, [contact us](https://web.archive.org/contact-us.htm "Contact us"). 
 
 Back to top
 
