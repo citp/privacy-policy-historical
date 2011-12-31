@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010103447id_/http%3A//www.readersdigest.co.za/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.za privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224818id_/http%3A//www.readersdigest.co.za/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
