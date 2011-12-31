@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518162807id_/http%3A//www.mig33.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231110511id_/http%3A//www.mig33.com/privacy.php) for the most accurate reproduction.*
 
 # mig33 - Privacy Policy
 
@@ -22,7 +22,7 @@ Through the website, we receive data that you actively submit and data that we t
 
 #### Purposes of Data Collection
 
-We collect information from you so that we can manage and administer the services we provide to you; administer your account; respond to your questions; solve any technical support problems; communicate with you about any modifications, upgrades or enhancements to our service; determine what sorts of services are likely to be most useful for you and to further develop our understanding of customers' needs; ensure your compliance with our [Terms of Use](https://web.archive.org/web/20110518162807id_/http%3A//www.mig33.com/terms.php); and carry out a statistical analysis of the use of our service.
+We collect information from you so that we can manage and administer the services we provide to you; administer your account; respond to your questions; solve any technical support problems; communicate with you about any modifications, upgrades or enhancements to our service; determine what sorts of services are likely to be most useful for you and to further develop our understanding of customers' needs; ensure your compliance with our [Terms of Use](https://web.archive.org/web/20111231110511id_/http%3A//www.mig33.com/terms.php); and carry out a statistical analysis of the use of our service.
 
 #### Disclosure of Data
 
@@ -58,7 +58,7 @@ This Privacy Policy is effective August 31, 2007. We reserve the right to amend 
 
 #### Terms of Use
 
-Note also that your use of our website is subject to our [Terms of Use](https://web.archive.org/web/20110518162807id_/http%3A//www.mig33.com/terms.php), which contain disclaimers, limitations of liability, a choice of California law, and consent to the jurisdiction of State and federal courts in California.
+Note also that your use of our website is subject to our [Terms of Use](https://web.archive.org/web/20111231110511id_/http%3A//www.mig33.com/terms.php), which contain disclaimers, limitations of liability, a choice of California law, and consent to the jurisdiction of State and federal courts in California.
 
 #### Contact Us
 
