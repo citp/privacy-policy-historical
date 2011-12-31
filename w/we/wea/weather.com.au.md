@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.com.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422062745id_/http%3A//www.weather.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203739id_/http%3A//www.weather.com.au/about/privacy) for the most accurate reproduction.*
 
 # Weather.com.au - Privacy Policy
 
