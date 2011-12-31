@@ -1,65 +1,77 @@
-> *The following text is extracted and transformed from the mrbigcock.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622052352id_/http%3A//intrustdomainsstore.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbigcock.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231044557id_/http%3A//cdn.dsultra.com/t/privacy_ds.htm) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
-In this document, Domain Names International is referred to as “DNI”.
+### DomainSponsor Privacy Policy Highlights
 
-DNI respects your privacy. We do not sell or rent your personal information to third parties for marketing purposes without your explicit consent. By law, domain name registration information must be made available through Whois, a publicly accessible database that lists the domain name registration information of each registrant. Since domain name registration information is available to the public through Whois, anyone can access it on other web resources that offer Whois. Therefore, the domain name registration information you provide us is, and must be, made available to the public. At times our customers may be included within searches of the Whois database; however, any "spam" received through the use of Whois does not originate from DNI.
+Last Updated: April 28th, 2010
 
-The privacy policy of this statement applies to our services offered under the domain name DNI and to our subsidiaries or joint venture websites. We promise that we will not use your personal information in any way that is incompatible with this privacy policy. By visiting this website you agree to be bound by the terms and conditions of this privacy policy. This privacy policy is incorporated into and subject to the terms of the DNI Universal Terms of Service (“UTOS”) Agreement. Please do not use or access the DNI website if you do not agree to the UTOS or to this privacy policy.
+### Scope
 
-DNI does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, DNI conducts its business under the following privacy principles: 
+The DomainSponsor [Privacy Policy](http://domainsponsor.com/privacy.php) applies to DomainSponsor's and our affiliates' websites that link to the [Privacy Policy](http://domainsponsor.com/privacy.php). Below follows some of the highlights of the Privacy Policy. 
 
-**Principle 1 - No Collection of Personal Information**
+### Information Collection
 
-DNI does not collect any personal information such as names, ages, phone numbers, addresses, or e-mail addresses from visitors to our website.
+  * We may collect personal information that can identify you, such as your name and e-mail address, as well as other information that does not identify you. 
+  * We may collect and store any personal information you provide to us, such as when you contact us for help. 
+  * We use various technologies to collect information from your computer and about your activities on our Site, such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine your viewing preferences for advertising and other purposes. 
+  * We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. 
+  * Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. 
 
-**Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**
 
-Since DNI does not collect any personal information from website visitors, we do not combine traffic analysis information with personal information such as name, age, phone number or mailing address.
 
-**Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**
+### Information Use and Sharing
 
-DNI does not collect individual profile information for visitors across multiple sites and does not aggregate information from any other sources about browsing patterns of individual visitors across multiple sites.
+Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following: 
 
-**Principle 4 - Collection of Non-Personally Identifiable Information**
+  * To provide you with products or services, including the display of customized content, advertising, and services.
+  * To provide technical or customer support.
+  * To perform research and analysis to gauge use of or interest in products, services, or content offered on our sites, and to develop new services.
+  * To communicate with you by e-mail about products or services that may be of interest to you.
+  * To enforce our terms and conditions, or otherwise manage our business.
+  * To perform functions as otherwise described to you at the time of collection.
+  * To communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service, unless you have opted out of these features where available. 
 
-DNI collects anonymous visitor information including IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited, and time spent on the web site. DNI collects this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns for our website; (2) to administer our website and servers, (3) to allow for auditing of our services by third parties, and (4) to improve our services.
 
-**Principle 5 - Anonymous Use of Cookies**
 
-It is DNI's policy to use cookies only for more accurate anonymous traffic analysis such as tracking the time/date of the visit, the page viewed, the referrer, and transaction information for eCommerce pages. The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address. In addition, DNI does not link cookies to personal data such as name, age, phone number, e-mail address or mailing address. Because we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing us to monitor traffic on our site.
+### Information Use and Sharing with Third Parties
 
-**Principle 6 - No Individual Profiling**
+Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes: 
 
-DNI does not create individual profiles of visitors. Unlike other tracking services we do not have a database of individual profiles of each visitor. DNI collects data in aggregate form, and data is not recorded or stored about individual visitors.
+  * To respond to your request for customer service on our sites.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+  * To respond to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency. 
+  * To establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. 
+  * To investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
+  * To protect and defend the rights, property or safety of our company, our users, our employees, or others.
+  * To comply with applicable law or cooperate with law enforcement.
+  * To enforce our sites' terms of use or other agreements or policies.
 
-**Notices:**
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials when legally required to do so. This includes disclosing any information necessary or appropriate to enforce our Universal Terms of Service, or in response to subpoenas, claims and other legal process, to protect our own property and rights or the property and rights of any third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may also rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver targeted advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. 
 
-**Transfer of Data Abroad**
+Our Privacy Policy does not cover any third party's use or handling of your information once it is shared, and the privacy policies of the various third parties will govern. 
 
-If you are visiting any DNI website from a country other than the country in which our servers are located, any communication with us may result in the transfer of information across international borders.  By visiting any DNI website and communicating electronically with us, you consent to such transfers.
+Our sites contain links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if our sites frame the linked third party websites. 
 
-DNI may amend this privacy policy at any time by posting the amendment terms to our website.
+### Choice/Opt Out
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Durango Merchant Services, keeps this information encrypted and secure on your behalf.
+  * When we collect information from you, you may tell us that you do not want the information used for purposes not directly related to our sites at the point where we ask for the information.
+  * You may choose to discontinue receiving communications or our services by following the <http://www.networkadvertising.org/managing/opt_out.asp> and requesting to opt-out, sending an email to [privacy@domainsponsor.com](mailto:privacy@domainsponsor.com), or sending mail to DomainSponsor, Privacy, 515 S. Flower Street, Suite 4400, Los Angeles, CA 90071.
+  * To opt-out of communications from our third party business partners, please contact them directly. 
 
-Inquiries to DNI shall be made either by email, sent by first class mail to the physical address provided on the DNI Web site, or sent by first class mail to DNI's address at:
 
-Domain Names International, Inc.
 
-Legal Counsel
+### Privacy Policy Changes
 
-11605 Meridian Market View
+DomainSponsor's Privacy Policy may be updated from time to time to reflect changes in our practices and Services. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will prominently post a notice of the changes on our sites and/or notify you by sending an e-mail to the e-mail address you most recently provided us.
 
-Unit 124-134
+### General Contact:
 
-Falcon, CO 80831
+DomainSponsor  
+Attn: Privacy  
+515 S. Flower Street, Suite 4400  
+Los Angeles, California 90071
 
-Revised: 4/12/2011
-
-Copyright © 2011 Domain Names International.  All Rights Reserved.
+[privacy@domainsponsor.com](mailto:privacy@domainsponsor.com)
