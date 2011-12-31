@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515110048id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204217id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://worldslastchance.com/component/option,com_mailto/link,aHR0cDovL3dvcmxkc2xhc3RjaGFuY2UuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw=/tmpl,component/ "E-mail")
-
-[](http://worldslastchance.com/privacy-policy/print.html "Print")
 
 **WorldsLastChance.com** (" **WorldsLastChance.com** ", "we", or, "us") is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users. For that reason, we follow a privacy policy (the "Privacy Policy") that applies to our web site (the "Site") and our distribution of various newsletters. 
 
@@ -18,7 +14,7 @@
 
 #### 1\. Member Registration and Profile
 
-In order to access certain information and services on the Site, a user must first become a **WorldsLastChance.com** member ("Member") by completing our member registration form. During the registration process you will be required to give information such as your name, e-mail address, your street address, and birth date.The only and sole reason for collecting this information is to be able to send out the free membership gift to the correct address of members. 
+In order to access certain information and services on the site, a user must first become a **WorldsLastChance.com** "member" by completing our member registration form. During the registration process you will be required to give information such as your name, e-mail address, your street address, and birth date. The _sole_ reason for collecting this information is to be able to send out the free membership gift to the correct address of members. 
 
 _**Important Information about Changing and Updating Your Member Profile**_
 
@@ -30,9 +26,6 @@ If you elect to use the "Send-To-A-Friend" referral service, we will ask for you
 
 **WorldsLastChance.com** does not rent, sell, or share personal information about you with other people.
 
- **How To Contact Us**  
-Should you have any questions or concerns about the Policy, please send an e-mail to [privacy@ **WorldsLastChance.com**](mailto:privacy@%3Cb%3EWorldsLastChance.com%3C/b%3E)
+ **How To Contact Us**
 
-  
-  
-
+Should you have any questions or concerns about the Policy, please send an e-mail to _[privacy@WorldsLastChance.com.](mailto:privacy@WorldsLastChance.com)_
