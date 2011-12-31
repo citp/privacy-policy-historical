@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403094555id_/http%3A//www.tcpglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213258id_/http%3A//www.tcpglobal.com/privacy.htm) for the most accurate reproduction.*
 
-# TCP Global Privacy Statement
+# Privacy Statement
 
-<<< CLICK HERE FOR PREVIOUS PAGE
+### Privacy Statement
 
 ### Information about our Organization and Web site
 
