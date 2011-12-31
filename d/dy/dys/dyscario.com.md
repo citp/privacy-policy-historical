@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyscario.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420064316id_/http%3A//www.dyscario.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyscario.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231235014id_/http%3A//www.dyscario.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
