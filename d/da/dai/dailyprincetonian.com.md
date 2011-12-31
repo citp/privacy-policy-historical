@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyprincetonian.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614224809id_/http%3A//www.dailyprincetonian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyprincetonian.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231152311id_/http%3A//www.dailyprincetonian.com/privacy) for the most accurate reproduction.*
 
 # Daily Princetonian Privacy Statement - The Daily Princetonian
 
@@ -54,7 +54,7 @@ Your friend may [](mailto:web@dailyprincetonian.com%3E%20contact%20us%20%3C/a%3E
 
 ##### Uses of Information
 
-The Daily Princetonian Publishing Company, Inc. uses the personal information collected on [www.dailyprincetonian.com ](https://web.archive.org/web/20110614224809id_/http://www.dailyprincetonian.com/privacy/www.dailyprincetonian.com) and affiliated sites for billing, user interactivity and tracking purposes. Billing information is collected for the purpose of allowing users to subscribe to online or print editions of The Daily Princetonian. The information of users who interact with the site by registering their account information, commenting on stories or in any other manner is recorded by this and affiliated websites for aggregate tracking and feedback. Aggregate information on pageviews, e-mailed stories and comments is tracked with no personally identifiable information. Comments on stories and other user feedback are recorded with the personally identifiable account information that users choose to provide, and users retain the option to comment or otherwise give feedback anonymously.
+The Daily Princetonian Publishing Company, Inc. uses the personal information collected on [www.dailyprincetonian.com ](https://web.archive.org/web/20111231152311id_/http://www.dailyprincetonian.com/privacy/www.dailyprincetonian.com) and affiliated sites for billing, user interactivity and tracking purposes. Billing information is collected for the purpose of allowing users to subscribe to online or print editions of The Daily Princetonian. The information of users who interact with the site by registering their account information, commenting on stories or in any other manner is recorded by this and affiliated websites for aggregate tracking and feedback. Aggregate information on pageviews, e-mailed stories and comments is tracked with no personally identifiable information. Comments on stories and other user feedback are recorded with the personally identifiable account information that users choose to provide, and users retain the option to comment or otherwise give feedback anonymously.
 
 #### Communications from the Site
 
@@ -142,7 +142,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/web/20110614224809id_/http://www.dailyprincetonian.com/privacy/web@dailyprincetonian.com).
+If you have any questions about security on our Web site, you can [contact us](https://web.archive.org/web/20111231152311id_/http://www.dailyprincetonian.com/privacy/web@dailyprincetonian.com).
 
 #### Changes in this Privacy Statement
 
