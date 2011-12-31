@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the universalstudioshollywood.com privacy policy that was archived on 2011-01-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110105054712id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universalstudioshollywood.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205235id_/http%3A//www.universalstudioshollywood.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<!-- META TAGS -->
@@ -21,7 +21,24 @@
 <link rel="stylesheet" type="text/css" href="/stylesheets/topnav.css">
 <link rel="stylesheet" type="text/css" href="/stylesheets/sidebar.css">
 <link rel="stylesheet" type="text/css" href="/stylesheets/footer.css">
+<link rel="stylesheet" href="stylesheets/boxdark.css" type="text/css">
 
+<!-- Boxdark -->
+<!--[if IE]>
+<style>
+#divBoxDark
+{
+	position:fixed;
+	z-index:2;
+	width:100%;
+	height:100%;
+	background:#000000;
+	filter: alpha(opacity = 50) !important;	
+	display:none;
+}
+</style>
+<![endif]-->
+<!-- Boxdark Ends -->
 	<link rel="stylesheet" type="text/css" href="/stylesheets/visitor_info.css">
     <style typs="text/css">
 	<!--
@@ -52,9 +69,15 @@
 <script type="text/javascript" src="/javascript/swfobject.js"></script>
 <script language="JavaScript" type="text/javascript" src="/javascript/wz_tooltip.js"></script>
 <script language="JavaScript" type="text/javascript" src="/javascript/wz_tt_text.js"></script>
-
-
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.js" type="text/javascript"></script>
+<script src="/javascript/jqModal.js" type="text/javascript"></script>
+<script src="/javascript/form.js" type="text/javascript"></script>
+<script src="/javascript/formOverlay.js" type="text/javascript"></script>
+<script src="/javascript/socal_check.js" type="text/javascript"></script>
+<!-- boxdark -->
+<script type="text/javascript" src="javascript/boxdark.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<!-- boxdark -->
 </head>
 
 <body>
@@ -65,7 +88,7 @@
 	<script type="text/javascript"><!-- 
 	var omniture_page_name = "Privacy Policy";
 	// --></script>
-	<script language="JavaScript" src="/javascript/s_wrapper.js"></script><script src="/javascript/s_code.js"></script>
+	<script language="JavaScript" src="/javascript/s_wrapper.js"></script><script src="/javascript/s_code.js"></script><img name="s_i_nbcuglobal" height="1" width="1" border="0" alt="">
 	<script language="JavaScript"><!--
 	s.pageName=omniture_page_name;
 	s.prop10='USH Main';
@@ -78,12 +101,16 @@
 </div>
 
 <div class="wrapper">
-	<!--TOP BANNER-->
+	<div class="toggle_link" align="center">
+			<a href="./esi/redirect_to_mobile.php?url=http://m.universalstudioshollywood.com/inf/infomo?site=ush">Click Here to switch to mobile site</a>
+		  </div>
+<a id="skip_nav" href="#skipNavigation">Skip to main content</a>
+<!--TOP BANNER-->
 <div class="bannerWrap">
-<div class="topBanner" id="ushbanner"><img src="http://www.universalstudioshollywood.com/images/homepage/img_topBanner_searchbox.jpg" width="600" alt="Universal Studios Hollywood Theme Park is the Entertainment Capital of L.A." height="100" border="0" usemap="#Map"></div>
+<div class="topBanner" id="ushbanner"><img src="http://www.universalstudioshollywood.com/images/homepage/img_topBanner_searchbox.jpg" width="600" alt="Universal Studios Hollywood in Los Angeles California - theme park, movie studio tour and CityWalk entertainment destination" height="100" border="0" usemap="#Map"></div>
 <div class="searchBox"><form action="/search/" method="get" name="theSearchBox">
-<input name="q" id="q" type="text" size="18" maxlength="50" value="search this website" style="color:#999999" onclick="clearTextSearch(this); changeInColorSearch(this)">
-<a href="javascript:document.forms['theSearchBox'].submit();"><img src="http://www.universalstudioshollywood.com/images/common/btn_go.gif" width="35" height="22" class="roImg" id="searchGo" name="searchGo" alt="Submit Search" hsrc="http://www.universalstudioshollywood.com/images/common/btn_go_over.gif"></a>
+<input name="q" id="q" type="text" size="18" maxlength="50" value="search this website" onclick="clearTextSearch(this); changeInColorSearch(this)">
+<a href="javascript:document.forms['theSearchBox'].submit();"><img src="http://www.universalstudioshollywood.com/images/common/btn_go.gif" width="35" height="22" class="roImg" id="searchGo" name="searchGo" alt="Submit Search"></a>
 </form></div>
 <script type="text/javascript">
 	var topBanner = new SWFObject('http://www.universalstudioshollywood.com/flash/topBanner_searchbox.swf', 'mainFlash', '600', '100', '9');
@@ -97,7 +124,7 @@ function clearTextSearch(thefield) {
 }
 function changeInColorSearch(thefield) {
 		if (thefield.defaultValue == thefield.value)
-			document.theSearchBox.searchQuery.style.color= "#999999"
+			document.theSearchBox.searchQuery.style.color= "#3981b1"
 		else
 			document.theSearchBox.searchQuery.style.color= "#000000"
 }
@@ -119,21 +146,21 @@ function changeInColorSearch(thefield) {
 <a href="/special_deals.html"><img src="/images/common/online_only_offers.jpg" width="177" height="38" alt="Online Only Offers" class="onlineOffer"></a>
 <div class="inner">
 				<!--Sidebar Offers-->
-		<div class="offers" style="height:325px;">
-            <h3><img src="/images/common/best_val_socal_residents.gif" width="90" height="29" alt="Best Ticket Deal for SoCal Residents" style="padding-bottom:5px;padding-top:8px; padding-left: 8px;"></h3>
+		<div class="offers" style="height:332px;">
+            <h3><img src="/images/common/best_val_socal_residents.gif" width="90" height="29" alt="Best Ticket Deal for SoCal Residents" style="padding-bottom:5px;padding-top:13px; padding-left: 8px;"></h3>
             <div class="either_or_container">
-                <!--<p class="no_btm_space" ><a href="/ticket_annualpass_offer.html">Buy a Day, <br />Get a Year Free!</a></p>-->
-               
-                <p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="/ticket_annualpass_offer.html">Buy a Day, <br>Get 2011 Free</a></p>
+            	<p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="ticket_buyaday12.html">Buy a Day, Get 2012 Free</a></p>
+                <!--p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="#" onclick="SetCookie('redirect_url','/tickets_local.html');" class="jqmModal3">Exclusive SoCal Offers</a></p>
+                <p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="/ap_overview_flexpay.php">$5 off all <br />Annual Passes</a></p-->
             </div>
             
-            <h3><img src="/images/common/best_val_visitors.gif" width="92" height="31" alt="Best Ticket Deal for Visitors to SoCal" style="padding-bottom:5px; padding-left: 8px;"></h3>
+          <h3><img src="/images/common/best_val_visitors.gif" width="92" height="31" alt="Best Ticket Deal for Visitors to SoCal" style="padding-bottom:5px; padding-left: 8px;"></h3>
             <div class="either_or_container">
-                <!--<p class="no_btm_space" style="padding-bottom:15px;"><a href="/ticket_2_for_1.html">2 Days for the Price of 1</a></p>-->
-               <p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="/ticket_2_for_1.html">Get a 2nd Day Free!</a></p>
+                <p class="no_btm_space" style="padding-bottom: 40px; padding-left: 8px;"><a href="/ticket_2_for_1.html">2 Days for the Price of 1</a></p>
+               <!--<p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="/ticket_2_for_1.html">Get a 2nd Day Free!</a></p>-->
                <!--<div style="padding:8px 0px 8px 0px">or</div>-->
                <!-- <p class="no_btm_space" style="padding-bottom:13px;"><a href="/ticket_hotel_offer.html">Save on hotel packages</a></p>-->
-            </div>
+          </div>
             
             <h3><img src="/images/common/best_opt_bypassing_lines.gif" width="90" height="31" alt="Best Ticket Deal for Bypassing Lines" style="padding-bottom:5px; padding-left: 8px;"></h3>
             <p class="no_btm_space" style="padding-bottom:40px; padding-left: 8px;"><a href="/ticket_front_of_line.html">Front of Line Pass</a></p>
@@ -147,7 +174,15 @@ function changeInColorSearch(thefield) {
 			
 		
 		
-				<!--Sidebar Contact Info-->
+				
+		<script type="text/javascript" src="/javascript/calendar.js"></script>
+		<script>
+			var now = new Date();
+			var month = now.getMonth();
+			var year = now.getFullYear();
+			loadTodaysParkHours(month,year);
+		</script>
+		<!--Sidebar Contact Info-->
 		<div class="contact_info">
 			<div class="directions">
 				<b><a href="/visitor_info_directions_parking.html" class="bluelink">DIRECTIONS</a><br>
@@ -162,17 +197,22 @@ function changeInColorSearch(thefield) {
 			</div>
 			<div class="hr"><hr></div>
 			<div class="todays_hours">
-				<!-- DYNAMICALLY-GENEREATED PARK HOURS:  Time Filled in Dynamically (each day, at midnight, the Park's opening and closing hours (PST) are retrieved from the Park Hours Calendar (calendar.html). -->
-					Today's Park Hours:<br>
-					10:00 am - 6:00 pm
-<br>
-					<a href="/calendar.html?calendar=ush_park_hours&amp;template=ush_park_hours.html">All Hours</a>
+				Today's Park Hours:<br>
+                    		<span id="todays_park_hours"></span>
+                    		<br>
+				<a href="/calendar.html?calendar=ush_park_hours&amp;template=ush_park_hours.html">All Hours</a>
 				<!-- END DYNAMICALLY-GENEREATED PARK HOURS -->
 			</div>
 			<div class="hr"><hr></div>
-			<div class="receive_email_btn"><a href="http://signup.universalstudios.com/form/24"><img src="/images/common/btn_receive_email_news.gif" width="140" height="22" alt="RECEIVE EMAIL NEWS" class="roImg" hsrc="/images/common/btn_receive_email_news_over.gif"></a></div>
+			<div class="receive_email_btn" style="text-align:left;"><strong>Stay in the know!</strong><!--a href="http://signup.universalstudios.com/form/24"><img src="/images/common/btn_receive_email_news.gif" width="140" height="22" alt="RECEIVE EMAIL NEWS" class="roImg" /></a--></div>
+            <div id="socialMediaLinks">
+            	<a href="#" class="jqModal" onclick="social_omn(this,'rail_email')"><img title="Sign up for email updates" src="/images/homepage/envelope.png"></a>
+                <a href="http://www.facebook.com/UniversalStudiosHollywood" onclick="social_omn(this,'rail_facebook')" target="_blank"><img title="Find Universal Studios Hollywood on Facebook" src="/images/homepage/facebook.png"></a>
+                <a href="http://twitter.com/unistudios" onclick="social_omn(this,'rail_twitter')" target="_blank"><img title="Find Universal Studios Hollywood on Twitter" src="/images/homepage/twitter.png"></a>
+                <a href="http://www.youtube.com/universalstudios" onclick="social_omn(this,'rail_youtube')" target="_blank"><img title="Find Universal Studios Hollywood on Youtube" src="/images/homepage/utube.png"></a>
+            </div>
 		</div>
-		<a href="http://www.facebook.com/UniversalStudiosHollywood"><img alt="Find Universal Studios Hollywood on Facebook" src="/images/common/btn_facebook.gif" style="margin:0px 0 10px 5px"></a>
+		<!--<a href="http://www.facebook.com/UniversalStudiosHollywood"><img alt="Find Universal Studios Hollywood on Facebook" src="/images/common/btn_facebook.gif" style="margin:0px 0 10px 5px" /></a>-->
 		<!--End Sidebar Contact Info-->
 		
 		
@@ -202,13 +242,19 @@ function changeInColorSearch(thefield) {
 	<div id="Attractions" class="offState" onclick="divLink('/park_overview.html')" onmouseover="openDropDownMenu('Attractions',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/park_overview.html"><img src="/images/topnav/attractions_over.jpg" alt="Attractions" width="135" height="47" border="0"></a></div><a href="/park_overview.html"><img src="/images/topnav/attractions.jpg" alt="Attractions" width="135" height="47" border="0"></a></div>
     <!--Visitor Info-->
 	<div id="VisitorInfo" class="offState" onmouseover="openDropDownMenu('VisitorInfo',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/visitor_info_news.html"><img src="/images/topnav/visitorinfo_over.jpg" alt="Visitor Info" width="148" height="47" border="0"></a></div><a href="/visitor_info.html"><img src="/images/topnav/visitorinfo.jpg" alt="Visitor Info" width="148" height="47" border="0"></a></div>
+    <!--VIP Experience-->
+    <div id="VipExperience" style="display: block;" class="offState" onclick="divLink('/ticket_vip.html')">
+    <a href="ticket_vip.html?__source=vip_outernav" onmouseover="imageSwap('imgVipExperience', 'vipexperience_over.jpg');" onmouseout="imageSwap('imgVipExperience');"><img src="/images/topnav/vipexperience.jpg" alt="VIP Experience" width="178" height="47" border="0" name="imgVipExperience"></a></div>
     <!--Annual Pass-->
-	<div id="AnnualPass" class="offState" onclick="divLink('/ap_overview.php')" onmouseover="openDropDownMenu('AnnualPass',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/ap_overview.php"><img src="/images/topnav/annualpassinfo_over.jpg" alt="Annual Pass Info" width="178" height="47" border="0"></a></div><a href="/ap_overview.php"><img src="/images/topnav/annualpassinfo.jpg" alt="Annual Pass Info" width="178" height="47" border="0"></a></div>
-    <!--Tickets-->
-    <div id="Tickets" class="offState" onmouseover="openDropDownMenu('Tickets',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/tickets.html"><img src="/images/topnav/tickets_over.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div><a href="/tickets.html"><img src="/images/topnav/tickets.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div>
+	<div id="AnnualPass" style="display:none" class="offState" onclick="divLink('/ap_overview_flexpay.php')" onmouseover="openDropDownMenu('AnnualPass',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/ap_overview.php"><img src="/images/topnav/annualpassinfo_over.jpg" alt="Annual Pass Info" width="148" height="47" border="0"></a></div><a href="/ap_overview.php"><img src="/images/topnav/annualpassinfo.jpg" alt="Annual Pass Info" width="148" height="47" border="0"></a></div>
+    <!--Tickets Local-->
+    <div id="TicketsLocal" style="display:none" class="offState" onmouseover="openDropDownMenu('TicketsLocal',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/tickets_local.html"><img src="/images/topnav/tickets_over.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div><a href="/tickets_local.html"><img src="/images/topnav/tickets.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div>
+    <!--Tickets Outer-->
+    <div id="TicketsOuter" style="display: block;" class="offState" onmouseover="openDropDownMenu('TicketsOuter',this,event,false);" onmouseout="hideDropDownMenu(true)"><div class="hoverState"><a href="/tickets.html"><img src="/images/topnav/tickets_over.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div><a href="/tickets.html"><img src="/images/topnav/tickets.jpg" alt="Buy Tickets" width="116" height="47" border="0"></a></div>
     <img src="/images/topnav/topnavright.jpg" alt="" width="6" height="47" border="0" align="left">
 </div><div id="navMenuContainer"></div><div id="navSecMenuContainer"></div>
 </div>
+<script src="/includes/country_check_topnav.php" type="text/javascript"></script>
 		</div>	
 		
 		<!-- MAIN CONTENT -->
@@ -380,7 +426,7 @@ function changeInColorSearch(thefield) {
 <div class="footer">
 	<ul class="horiz nowrap general">
 		<li><a href="http://www.universalstudioshollywood.com/espanol_index.html">Español</a></li>
-		<li><a href="http://www.universalstudioshollywood.com/japan_index.html"><img src="/images/common/japanese_icon.gif" width="48" height="15" alt="Japanese" id="japanese_icon" class="roImg" hsrc="/images/common/japanese_icon_over.gif"></a></li>
+		<li><a href="http://www.universalstudioshollywood.com/japan_index.html"><img src="/images/common/japanese_icon.gif" width="48" height="15" alt="Japanese" id="japanese_icon" class="roImg"></a></li>
 		<li><a href="http://www.universalstudioshollywood.com/tickets.html">Buy Tickets Now</a></li>
 		<li><a href="http://www.universalstudioshollywood.com/about_us.html">About Us</a></li>
 		<li><a href="http://www.universalstudioshollywood.com/jobs.html">Jobs</a></li>
@@ -400,12 +446,70 @@ function changeInColorSearch(thefield) {
 	</ul>
     <div>
     
-    <p class="prices">Ticket prices, park hours, attractions and ride availability subject to change without notice.</p>
-	<p class="copyright">©2010	Universal Studios.  All Rights Reserved.</p>
-	<p class="copyright" style="padding-top:10px">Universal Studios Hollywood theme park in Los Angeles, CA is a Division of NBC Universal.</p>
+    <p class="prices">Theme park ticket prices, hours, attractions and ride availability subject to change without notice.</p>
+	<p class="copyright">©2011	Universal Studios.  All Rights Reserved.</p>
+	<p class="copyright" style="padding-top:10px">Universal Studios Hollywood theme park in Los Angeles, CA is a Division of NBCUniversal.</p>
     </div>
 </div>
 </div>
+    <div class="jqmWindow modal1" id="dialog">
+        <a href="#" class="jqmClose">X</a>
+        <br clear="all">
+        <div id="formContent">
+			<p>Receive special ticket offers plus the latest news about upcoming events, attractions, and more from Universal Studios Hollywood.</p> 
+            <form id="myform" action="">
+                <fieldset>
+                    <ul class="form">
+                        <li class="email">
+                            <label for="form_email">Email</label>
+                            <input id="form_email" class="is_required vemail" name="Email" type="text">
+                        </li>
+                        <li>                    
+                            <label for="form_name">Zip Code</label>
+                            <input id="form_zip" name="Zip" class="vzip" type="text">
+                            
+                            
+                            <input id="omni_track" name="omni_track" type="text" style="display:none;" value="rail_email_submit">
+                            
+                        </li>
+                        <li class="submit">
+                            <input id="send_contact" type="submit" value="submit">
+                        </li>
+                    </ul>
+                </fieldset>
+            </form>
+        </div>
+	</div>
+    <div class="jqmWindow_socal_check modal3" id="dialog3">
+    	<a class="jqmClose3" style="float: right;" href="#">X</a>
+        <div style="width: 450px; margin: 30px auto;">
+            <div class="text_soc_check">
+                <!-- "ZIP CODE" HTML -->
+                <div style="font-size:14px;font-weight:bold;">Southern California Resident Offer!</div>
+                <br>
+                <p>Proof of residency will be required at the Front  Gate.</p>
+                <p>Zip codes will be verified by the Online Ticket Store.</p>
+                <div class="zipCode">
+                    <form action="javascript:zippy();" id="socalpop" name="socalpop" style="position: relative; width">
+                        <div style="float:left">Enter your 5 digit zip code:
+                            <input name="zip" id="zip" type="text" value="" size="5" maxlength="5" onfocus="errorMsg('hide');" style="width: 3em;">
+                        </div>
+                        <div style="float:left; padding:2px 0px 0px 10px">
+                            <input type="image" name="Submit" value="submit" src="images/common/btn_go.gif" alt="GO">
+                        </div>
+                    </form>
+                </div>	
+                <!-- END "ZIP CODE" HTML -->
+            </div>
+            <div id="error" name="error" align="center">
+                <span class="errorTxt">This is not a qualifying zip code. Please re-enter or<br><a href="tickets.html">see tickets for Visitors to Southern California.</a></span>
+            </div>
+            <div class="text_soc_check" style="padding-top:10px">
+                <p>Not a resident of Southern California?</p>
+                <p><a href="/tickets.html">See ticket offers for you</a>.</p>
+            </div>
+        </div>
+	</div>
 	<!-- END container -->
 	
 </div>
@@ -417,8 +521,8 @@ function changeInColorSearch(thefield) {
 	<ul>
 		<!--li><a href="/park_overview.html" class="firstli" onMouseOver="openDropDownMenu('AttrParkOverview',this,event,true);menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);hideSecDropDownMenu(true);">Park Overview</a></li-->
         <li><a href="/park_overview.html" class="firstli" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">Park Overview</a></li>
-        <!--li><a href="/attraction_studio_tour.html" onMouseOver="openDropDownMenu('AttrStudioTour',this,event,true);menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);hideSecDropDownMenu(true);">Studio Tour</a></li-->
-        <li><a href="/attraction_studio_tour.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">Studio Tour</a></li>
+        <li><a href="/attraction_studio_tour.html" onmouseover="openDropDownMenu('AttrStudioTour',this,event,true);menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);hideSecDropDownMenu(true);">Studio Tour</a></li>
+<!--        <li><a href="/attraction_studio_tour.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">Studio Tour</a></li>-->
 		<li><a href="/attraction_all.html" onmouseover="openDropDownMenu('AttrRides',this,event,true);menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);hideSecDropDownMenu(true);">Rides and Shows</a></li>
 		<li><a href="/attraction_character_photo_ops.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">Character Photo Ops</a></li>
 		<li><a href="/dining.html" onmouseover="openDropDownMenu('AttrDining',this,event,true);menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);hideSecDropDownMenu(true);">Dining</a></li>
@@ -457,23 +561,38 @@ function changeInColorSearch(thefield) {
 	</ul>
 	</div>
 </div>
-<!-- Buy Tickets Menu -->
-<div id="navTickets" class="hiddenDiv">
+
+<!-- Buy Tickets Local Menu -->
+<div id="navTicketsLocal" class="hiddenDiv">
 	<div class="navMenu">
 	<ul>
 		<li><a href="/tickets.html" class="firstli" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);"><div style="line-height: 12px; padding: 8px 0;">Visitors to<br>Southern California</div></a></li>
 		<li><a href="/tickets_local.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);"><div style="line-height: 12px; padding: 8px 0;">Residents of<br>Southern California</div></a></li>
-		<li><a href="/ticket_front_of_line.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);hideSecDropDownMenu(true);">Front of Line Pass</a></li>
+		<li><a href="/ticket_front_of_line.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">Front of Line Pass</a></li>
 		<li><a href="/ticket_vip.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">VIP Experience</a></li>
 		<li><a href="/ticket_hotel.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);"><div style="line-height: 12px; padding: 8px 0;">Hotel &amp;<br>Ticket Packages</div></a></li>
-	  <!--li><a href="/tickets.html" class="firstli" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">Ticket Choices</a></li-->
-	  <!--li><a href="/special_deals.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">Special Value Deals</a></li-->
-	  <!--li><a href="/ticket_2_for_1.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);hideSecDropDownMenu(true);">2  Days for 1</a></li-->
-	  <!--li><a href="/ticket_universal_and_seaworld.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">SeaWorld Combo</a></li-->
-	  <!--li><a href="/ticket_california_citypass_2009.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">So Cal CityPass</a></li-->
-        <!--li><a href="/ticket_why_buy.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">Why&nbsp;Buy&nbsp;Online?</a></li-->
-        <!--li><a href="/ticket_best_ticket.html" onMouseOver="menuItemRollOver(this, false);" onMouseOut="menuItemRollOff(this);">Best&nbsp;Ticket&nbsp;For&nbsp;You</a></li-->
-	  <!--li><a href="/ticket_group.html" onMouseOver="openDropDownMenu('TicGroup',this,event,true);menuItemRollOver(this);" onMouseOut="menuItemRollOff(this);hideSecDropDownMenu(true);">Group Events</a></li-->
+	</ul>
+  </div>
+</div>
+
+<!-- Buy Tickets Outer Menu -->
+<div id="navTicketsOuter" class="hiddenDiv">
+	<div class="navMenu">
+	<ul>
+		<li><a href="/tickets.html" class="firstli" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);"><div style="line-height: 12px; padding: 8px 0;">Visitors to<br>Southern California</div></a></li>
+		<li>
+			<a href="tickets_local.html" onclick="menuItemRollOff(this)" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">
+        		<div style="line-height: 12px; padding: 8px 0;">
+					Residents of
+					<br>
+					Southern California
+				</div>
+			</a>
+		</li>
+		<li><a href="/ticket_front_of_line.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">Front of Line Pass</a></li>
+		<li><a href="/ticket_vip.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">VIP Experience</a></li>
+		<li><a href="/ticket_hotel.html" onmouseover="menuItemRollOver(this, false);" onmouseout="menuItemRollOff(this);">
+        <div style="line-height: 12px; padding: 8px 0;">Hotel &amp;<br>Ticket Packages</div></a></li>
 	</ul>
   </div>
 </div>
@@ -484,7 +603,7 @@ function changeInColorSearch(thefield) {
 		<ul>
 			<li><a href="/entertainment_jobs/show_jobs.html" class="firstli" onmouseover="menuItemRollOver(this);" onmouseout="menuItemRollOff(this);">Shows</a></li>
 			<li><a href="/entertainment_jobs/atmosphere_jobs.html" onmouseover="menuItemRollOver(this);" onmouseout="menuItemRollOff(this);">Atmosphere</a></li>
-			<li><a href="/entertainment_jobs/crew_jobs.html" onmouseover="menuItemRollOver(this);" onmouseout="menuItemRollOff(this);">Crew</a></li>
+			<li><a href="/entertainment_jobs/crew_jobs.html" onmouseover="menuItemRollOver(this);" onmouseout="menuItemRollOff(this);">Characters</a></li>
 		</ul>
 	</div>
 </div>
@@ -494,14 +613,14 @@ function changeInColorSearch(thefield) {
 <div id="navMiniParkMaps" class="hiddenDiv">
 	<div class="navMenu">
 		<ul>
-			<li><a href="/pdf/parkmap.pdf" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Deutsch</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Español</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Français</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
-			<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Korean</a></li>
+			<li><a target="_blank" href="/pdf/Universal_Studios_Hollywood_Park_Map.pdf" class="firstli" onclick="trackClicks('Sales | Map | English');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onclick="trackClicks('Sales | Map | Chinese Simplified');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onclick="trackClicks('Sales | Map | Chinese Traditional');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onclick="trackClicks('Sales | Map | Deutsch');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Deutsch</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onclick="trackClicks('Sales | Map | Espanol');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Español</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onclick="trackClicks('Sales | Map | Francais');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Français</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onclick="trackClicks('Sales | Map | Japanese');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
+			<li><a target="_blank" href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onclick="trackClicks('Sales | Map | Korean');" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Korean</a></li>
 		</ul>
 	</div>
 </div>
@@ -509,30 +628,6 @@ function changeInColorSearch(thefield) {
 
 
 <!-- Secondary Menus start here -->
-
-<!--Attractions Secondary menus -->
-
-<!-- Park Overview Secondary Menu 
-<div id="navAttrParkOverview" class="hiddenDiv">
-	<div class="navMenu navSecondary">
-	<ul>
-		<li><a href="/real_moviemaking.html" class="firstli" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">Real Moviemaking</a></li>
-		<li><a href="/blockbuster_thrills.html" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">Blockbuster&nbsp;Thrills</a></li>
-		<li><a href="/family_fun.html" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">Family Fun</a></li>
-	</ul>
-	</div>
-</div>-->
-
-<!-- Studio Tour Secondary Menu 
-<div id="navAttrStudioTour" class="hiddenDiv">
-	<div class="navMenu navSecondary">
-	<ul>
-		<li><a href="/gallery_studio_tour.html" class="firstli" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">Tour Gallery</a></li>
-		<li><a href="/st_filming.html?calendar=ush_whatsfilming&template=ush_film_tmpl.html" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">What's&nbsp;Filming?</a></li>
-		<li><a href="/list_of_films.html" onMouseOver="menuItemRollOver(this, true);" onMouseOut="menuItemRollOff(this, true);">List of Blockbuster Films</a></li>
-	</ul>
-	</div>
-</div-->
 
 <!-- Attractions Secondary Menu -->
 <div id="navAttrRides" class="hiddenDiv">
@@ -565,6 +660,22 @@ function changeInColorSearch(thefield) {
 </div>
 <!-- End Dining Secondary Menu -->
 
+
+<!-- Studio Tour Secondary Menu -->
+<div id="navAttrStudioTour" class="hiddenDiv">
+	<div class="navMenu navSecondary">
+	<ul>
+		<li><a href="/attraction_studio_tour.html" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Overview</a></li>
+		<li><a href="/king_kong_attraction.html" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">King Kong 360 3-D</a></li>
+	</ul>
+	</div>
+</div>
+<!-- End Dining Secondary Menu -->
+
+
+
+
+
 <!-- ShoppingSecondary Menu -->
 <div id="navAttrShopping" class="hiddenDiv">
 	<div class="navMenu navSecondary">
@@ -578,14 +689,14 @@ function changeInColorSearch(thefield) {
 <div id="navAttrParkMap" class="hiddenDiv">
 	<div class="navMenu navSecondary">
 	<ul>
-		<li><a href="/visitor_info_interactive_map.html" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Deutsch</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Español</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Français</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Korean</a></li>
+		<li><a href="pdf/Universal_Studios_Hollywood_Park_Map.pdf" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Deutsch</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Español</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Français</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Korean</a></li>
 	</ul>
 	</div>
 </div>
@@ -598,14 +709,14 @@ function changeInColorSearch(thefield) {
 <div id="navVisParkmap" class="hiddenDiv">
 	<div class="navMenu navSecondary">
 	<ul>
-		<li><a href="/visitor_info_interactive_map.html" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Deutsch</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Español</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Français</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
-		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">Korean</a></li>
+		<li><a href="pdf/Universal_Studios_Hollywood_Park_Map.pdf" class="firstli" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);">English</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_CHS.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_chinese_simp.gif" width="45" height="25">&nbsp;Chinese Simplified</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_ZHT.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_chinese_trad.gif" width="45" height="25">&nbsp;Chinese Traditional</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_GRM.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Deutsch</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_SPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Español</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_FRN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Français</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_JPN.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank"><img src="/images/vi_news/x-small_japanese.gif" width="50" height="25">Japanese</a></li>
+		<li><a href="/pdf/international/8145_Foreign_Guide_Map_R3_KOR.pdf" onmouseover="menuItemRollOver(this, true);" onmouseout="menuItemRollOff(this, true);" target="_blank">Korean</a></li>
 	</ul>
 	</div>
 </div>
