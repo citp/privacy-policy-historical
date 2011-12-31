@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702024609id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204401id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
-# Free Business, Computer, Engineering and Trade Magazine Subscriptions and Free White Papers
+# Free Business, Computer, Engineering and Trade Magazines, White Papers, Reports, and eBooks
 
 TradePub.com Privacy Policy   
 ---  
@@ -49,11 +49,11 @@ NetLine's TradePub.com website offers a periodic newsletter to which visitors ma
 Choice / Opt-Out  
 | 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an opt-out mechanism so users who subscribe through us, but don't want to receive any further communication from us, can choose to keep their email address off of our lists.
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an opt-out mechanism so users who subscribe through us, but don't want to receive any further communication from us, can choose to keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the unsubscribe link at the end of the newsletter and we will immediately remove your name from our list. 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the unsubscribe link contained in all email communications. The link can be found at the top or bottom of each email. 
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party.  
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party.   
   
 Security  
 | 
