@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202064640id_/http%3A//www.webanalyticsdemystified.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsdemystified.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214437id_/http%3A//www.webanalyticsdemystified.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Web Analytics Demystified Privacy Policy | Web Analytics Demystified
+# Web Analytics Demystified Privacy Policy | Web Analytics Consulting from Web Analytics Demystified
 
 At Web Analytics Demystified your data privacy is our primary concern. Because we do collect some personally identifiable information on this site, this document describes how that information is used and not used.
 
