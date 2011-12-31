@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501062753id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakegov.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231153958id_/http%3A//www.wakegov.com/web/privacy/default.htm) for the most accurate reproduction.*
 
 # WakeGOV.com - Privacy Statement When Using WakeGOV
 
@@ -42,7 +42,5 @@
 
 
 We use this information to help us make our site more useful to visitors – to learn about the number of visitors to our site and the types of technology our visitors use to interact with our site.
-
-If you would like to learn more about "cookie placement" on your computer [click here](http://www.wakegov.com/sitehelp/cookies.htm).
 
 THIS NOTICE IS SUBJECT TO CHANGE WITHOUT NOTICE. Questions regarding this Privacy Statement can be addressed to the Web Support Team at [wwwadmin@wakegov.com](mailto:wwwadmin@wakegov.com).
