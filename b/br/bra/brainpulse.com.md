@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161748id_/http%3A//www.brainpulse.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030900id_/http%3A//www.brainpulse.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # BrainPulse - Privacy Policy
 
