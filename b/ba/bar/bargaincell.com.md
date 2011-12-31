@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628153808id_/http%3A//www.bargaincell.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204356id_/http%3A//www.bargaincell.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : BargainCell.com - Bargain Cellular Phone Accessories
 
