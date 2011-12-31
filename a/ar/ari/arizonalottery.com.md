@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422110933id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonalottery.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204832id_/http%3A//www.arizonalottery.com/About/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Complete game information and prize claiming instructions are available on this 
 
 **Privacy Policy**
 
-Pursuant to A.R.S. § 41-4152, all agencies of the State of Arizona maintain a Privacy Policy. This disclosure addresses collection, use, and security of and access to information that may be obtained through the use of this website. Your rights to privacy are of utmost importance to the State of Arizona in building trust and confidence when conducting business through the Internet.
+Pursuant to [**A.R.S. § 41-4152**](http://www.azleg.gov/ars/41/04152.htm), all agencies of the State of Arizona maintain a Privacy Policy. This disclosure addresses collection, use, and security of and access to information that may be obtained through the use of this website. Your rights to privacy are of utmost importance to the State of Arizona in building trust and confidence when conducting business through the Internet.
 
 The Arizona Lottery offers access to its public information online that you might otherwise request in person. Our goal is to provide citizens with a more convenient and efficient means with which to receive information from the Lottery. If you choose not to receive your information through the website, you may also receive information through the Lottery’s informational telephone number 480.829.PICK (7425).
 
@@ -34,3 +34,6 @@ The Arizona Lottery website has links to other websites. When you link to anothe
 
 This policy may be updated or revised from time to time, so please check back periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this website may be collected, used, or disseminated.  
  
+
+  
+
