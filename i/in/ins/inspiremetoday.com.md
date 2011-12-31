@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501000327id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210341id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration, Interviews, Videos and More!
 
-* * *
+|   | 
 
-  
-
-
-|   |    
-
+## Privacy Policy
 
 * * *
 
@@ -138,35 +134,8 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 |   | 
 
-[](https://secure.vitamix.com/redirect.aspx?index.aspx?COUPON=06-005644)
+[](http://www.inspiremetoday.com/courses)
 
-[](https://www.sendoutcards.com/inspiremetoday)
-
-* * *
-
-[](http://www.inspiremetoday.com/globalhugtour/index.php)
-
-* * *
-
-  
-
-
-[](http://www.addthis.com/bookmark.php?v=250&username=razorfrog)
-
-  
-
-
-* * *
-
-"Once you've found your passion, I can't think of anything better to keep you on track than a healthy dose of daily inspiration. Inspire Me Today keeps you "heart centered" so that it becomes effortless for you to choose in favor of your passions!"
-
-\- Janet Bray Attwood- NY Times Bestselling Author, "The Passion Test"
-
-  
-
-
-* * *
-
-#### Most Commented  
+[](https://secure.vitamix.com/redirect.aspx?COUPON=06-005644)  
   
 ---|---|---|---|---
