@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slashphone.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516031332id_/http%3A//www.slashphone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashphone.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224609id_/http%3A//www.slashphone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SlashPhone
 
@@ -92,3 +92,14 @@ SlashPhone offers users the ability to correct or change the information collect
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
 
 Currently, SlashPhone does not offer users a means by which to completely delete personal information established at the time of registration for any site.
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.slashphone.com%2Fprivacy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&title=Privacy%20Policy&notes=%20%2A%20Information%20SlashPhone%20Gathers%20and%20Tracks%0D%0ASlashPhone%20gathers%20three%20types%20of%20information%20about%20users%3A%20data%20that%20users%20provide%20through%20optional%2C%20voluntary%20registrations%20on%20several%20of%20our%20sites%20and%20in%20certain%20contests%20and%20sweepstakes%3B%20data%20SlashPhon "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&srcTitle=SlashPhone+Worldwide+mobile+phone+news%2C+reviews+and+wireless+innovations "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&title=Privacy%20Policy&source=SlashPhone+Worldwide+mobile+phone+news%2C+reviews+and+wireless+innovations&summary=%20%2A%20Information%20SlashPhone%20Gathers%20and%20Tracks%0D%0ASlashPhone%20gathers%20three%20types%20of%20information%20about%20users%3A%20data%20that%20users%20provide%20through%20optional%2C%20voluntary%20registrations%20on%20several%20of%20our%20sites%20and%20in%20certain%20contests%20and%20sweepstakes%3B%20data%20SlashPhon "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.slashphone.com%2Fprivacy&Title=Privacy%20Policy "BlinkList")
+  * 
+
