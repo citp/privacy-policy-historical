@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620224503id_/http%3A//www.motorola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225513id_/http%3A//www.motorola.com/privacy) for the most accurate reproduction.*
 
 # Motorola Legal - Privacy Policy - Motorola Mobility, Inc. USA
 
