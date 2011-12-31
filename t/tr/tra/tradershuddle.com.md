@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradershuddle.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626075648id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradershuddle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112329id_/http%3A//www.tradershuddle.com/Site-Details/pp.html) for the most accurate reproduction.*
 
-# Privacy Policy | Site Details- TradersHuddle.com
+# Privacy Policy | Site Details - TradersHuddle.com
 
 Tradershuddle.com shares your concerns about your privacy and the protection of your personal information online. We are committed to treating personal information we obtain through our website with respect for you privacy concerns, and in accordance with our privacy policy.
 
