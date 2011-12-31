@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428231156id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poets.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214209id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.*
 
 # Privacy Policy Statement- Poets.org - Poetry, Poems, Bios & More
 
@@ -6,8 +6,8 @@ _Poets.org_ is the website of the Academy of American Poets.
 
 Our postal address is:  
 The Academy of American Poets  
-584 Broadway, Suite 604  
-New York, NY 10012  
+75 Maiden Lane, Suite 901  
+New York, NY 10038  
 We can be reached via email at academy@poets.org or you can reach us by telephone at (212) 274-0343. 
 
 We are committed to protecting your privacy and the privacy of any personally identifiable information that we collect.
