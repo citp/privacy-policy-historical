@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10webhosting.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613000950id_/http%3A//www.top10webhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10webhosting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113539id_/http%3A//www.top10webhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Top10webhosting.com Privacy Policy Statement
 
