@@ -1,35 +1,44 @@
-> *The following text is extracted and transformed from the teenieblackgirls.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601110449id_/http%3A//www.teenieblackgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenieblackgirls.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210119id_/http%3A//join.teenieblackgirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**TeenieBlackGirls.com**  
+**Teenie Black Girls**
 
-
-**PRIVACY POLICY STATEMENT FOR MARKETSOCIAL LTD WEBSITES**  
+**PRIVACY POLICY STATEMENT**  
+  
+  
 
 
 * * *
 
-Our to Privacy
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of teenieblackgirls.com. teenieblackgirls.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. The information we collect from you helps us better serve the online community by continually personalizing the electronic payment services we provide.
+### Non-Personal Information and Cookies
 
-The Information We Collect
+Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
 
-This notice applies to all information collected or submitted on through our processing system. The types of personal information collected at these pages are: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by our terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank.s routing number, bank account number, username, password, birth date and phone number. You are obligated to provide us with accurate and up-to-date information, and failure to provide us with such information could void any customer agreement.
+### Use of Information
 
-The Way We Use Information
+We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
 
-Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below. We will send personally identifiable information about you to other companies or people when we have your consent to share the information or we need to share your information to provide the product or service you have requested.
+We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
 
-We use the information that you provide for such purposes as processing your purchase request, responding to customer service inquiries, loss prevention, improving our service, communicating with you and allowing our clients to provide customers a service and fulfill their obligations to you. You can request to be contacted or provided with more information from our website. Information you submit on our website will be used only properly respond to your requests. Finally, employees have access to your information on a need-to-know basis. We will not sell your information to an independent third party for any reason.
+No credit card holder information is shared with third parties
 
-Our Commitment to Data Security
+Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
 
-We employ the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility. We will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our clients. We pass the following data to the owners/operators of the website which you are purchasing goods from: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by our terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank.s routing number, bank account number, username, password, birth date and phone number.
+There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
 
-Spam Policy
+The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
 
-We do not condone the use of spam and the sending of unsolicited materials in any form, nor do we control other websites involvement and/or practices in this area.
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to 
+
+### Security
+
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
+
+### Acceptance of these Terms
+
+By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
 
 * * *
