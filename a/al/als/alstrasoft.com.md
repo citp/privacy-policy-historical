@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420113846id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210731id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
 
 # AlstraSoft - Privacy Policy
 
@@ -74,7 +74,7 @@ If you choose not to register or provide personal information, you can still use
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. 
 
-The AlstraSoft does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
+The AlstraSoft does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. To opt out of AlstraSoft Newsletter, you can send us an email to: unsubscribe@alstrasoft.com and we will remove your contact information from our database
 
 Back to Top
 
