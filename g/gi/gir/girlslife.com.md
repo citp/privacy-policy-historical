@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221031251id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlslife.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222245id_/http%3A//www.girlslife.com/page/privacy.aspx) for the most accurate reproduction.*
 
 # GirlsLife.com - Privacy Policy
 
@@ -41,16 +41,16 @@ The importance of security for all personally identifiable information associate
 Please let us know your concerns and questions regarding privacy:
 
 1\. Send an e-mail to [webmaster@girlslife.com](mailto:webmaster@girlslife.com)  
-2\. Send your request via mail to: Online Privacy, Girls' Life, 4529 Harford Road, Baltimore, Maryland.  
-3\. Call us at 1-410-254-9200  
-4\. Fax your comments to 1-410-254-0991
+2\. Send your request via mail to: Online Privacy, Girls' Life, 4529 Harford Road, Baltimore, MD 21214.  
+3\. Call us at 1-410-426-9600  
+4\. Fax your comments to 1-866-793-1531
 
 **Opting out**  
 Our site provides users the opportunity to opt/out from receiving future communications or mailings from Girls' Life magazine. You may also correct/update any information supplied to Girls' Life. You may:
 
 1\. Send an e-mail to [webmaster@girlslife.com](mailto:webmaster@girlslife.com)  
-2\. Send your request via mail to: Opt/Out, Girls' Life Subscription Department, 4529 Harford Road, Baltimore, Maryland.  
-3\. Call us at 1-410-254-9200  
-4\. Fax your request to 1-410-254-0991
+2\. Send your request via mail to: Opt/Out, Girls' Life Subscription Department, 4529 Harford Road, Baltimore, MD 21214.  
+3\. Call us at 1-410-426-9600  
+4\. Fax your request to 1-866-793-1531
 
 **NOTICE** : Visit [ftc.gov/kidzprivacy](http://ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.
