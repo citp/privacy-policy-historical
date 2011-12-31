@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321081048id_/http%3A//www.match.com.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224007id_/http%3A//www.match.com.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# match.com - When you're serious about love.
+# match.com - The Leading Online Dating Site for Singles & Personals
 
 ### Protecting all our Global Network members privacy
 
