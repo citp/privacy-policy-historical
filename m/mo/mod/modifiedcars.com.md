@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515140033id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213519id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
 
 # ModifiedCars.com » Privacy Policy
 
-[](http://www.modifiedcars.com/ "Modified Cars")
+ModifiedCars.com » Privacy Policy
 
+| [](http://www.modifiedcars.com/ "Modified Cars")  
+---|---  
+  
   * It is modifiedcars.com's policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or enquiry).
   * Personal information will not be released to third parties. except if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties.
   * This site makes use of forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
