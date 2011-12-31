@@ -1,18 +1,62 @@
-<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623040851id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231212518id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/main.css?ver=4654">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.4shared.com/js/jquery-1.4.4.min.js?ver=10909"></script>
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.form.js?ver=10909"></script>
+
+
+
+<script type="text/javascript" src="/js/header.js"></script>
+<script type="text/javascript" src="/js/account/AccountFacade.js?rnd=1"></script>
+  
+  <link rel="stylesheet" type="text/css" href="/css/ui/elements.css?ver=10909">
+  <!--[if lt IE 8]>
+  <script src="/js/IE7.js"></script>
+  <![endif]-->
+
+  <!--[if IE 9]>
+  <style type="text/css">
+   a.button-orange, .submit-blue, a.submit-blue, a.submit-blue:link, a.submit-blue:visited, .submit-light, a.submit-light {filter:none !important;}
+  </style>
+  <![endif]-->
+
+  <script src="/js/modernizr.custom.js?ver=10909"></script>
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/main.css?ver=10909">
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/common_n.css?ver=10909">
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/popup_n.css?ver=10909">
+<link rel="stylesheet" type="text/css" href="http://static.4shared.com/css/header.css?ver=10909">
+
+
+
+
+
 </head>
 <body>
 
 
 
 
+    
 
 
 
@@ -20,6 +64,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#footer {width:800px;margin:0 auto}
+#footer .footer {background-image:none;}
+#footer .copy {background-image:none;}
+.footer .fcol {border-right:solid 1px #DEDEDE;border-left:solid 1px #FFFFFF}
+</style>
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://static.4shared.com/bundles/css/630963420/css/openid.css">
 
@@ -37,19 +101,168 @@
 
 
 
-<script type="text/javascript" src="http://static.4shared.com/bundles/js/N261585984/bundles/js/global.js"></script>
 
+<script src="http://static.4shared.com/js/json2.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.caps.js?ver=10909"></script>
+
+<script type="text/javascript" src="http://static.4shared.com/js/plugins/jquery.openid.js?ver=10909"></script>
+
+<script src="http://static.4shared.com/js/purchaseStats.js?ver=10909" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N705103755/bundles/js/global.js"></script>
 
 <script type="text/javascript" src="http://static.4shared.com/bundles/js/N984828520/js/Events.js"></script>
 
+<link rel="stylesheet" type="text/css" href="/auth-popup.css">
 
 <script type="text/javascript">
+  var eventObj;
+  var paramsObj;
+
+  var authBox;
+
   var loginBox;
   var signUpBox;
-  var eventObj;
   var df;
   var sd = '';
   var su;
+  var sn = 'www.4shared.com';
+
+  function authenticate(e, params){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+
+    paramsObj = {};
+    for (var p in params) paramsObj[p] = params[p];
+
+    var sp = escape(JSON.stringify(params));
+
+    document.body.style.cursor = 'wait';
+    $('#authBoxDiv').load('/authPopup.jsp',
+        {login : '', password : '', params: sp},
+        function(){
+          $('body').css('cursor', '');
+          writeDrag.hide();
+          authBox = new WriteDrag('authBoxDiv');
+          authBox.set(eventObj, undefined, 522, 'c', 'c');
+          $('#authBoxDiv').show();
+          $('form.openid:eq(0)').openid();
+        }
+    );
+    return false;
+  }
+
+  function authSaveParams(params){
+    $('#authBoxDiv').hide();
+    var sp = escape(JSON.stringify(params));
+    Cookies.create('jsParams', sp, -1, '/', '.4shared.com', false);
+    if(params.returnTo){
+      Cookies.create('returnTo', params.returnTo, -1, '/', '.4shared.com', false);
+    }
+  }
+
+  function authLogin(){
+    var login = $('#loginfield').val();
+    var password = $('#passfield').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }
+
+    $('#authBoxDiv #signupErrorMsg').html('').hide();
+    $('#authBoxDiv #loginErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #loginErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #loginErrorMsg').hide();
+    }
+
+    var params = {
+        login: login,
+        password: password,
+        remember: false,
+        doNotRedirect: 1
+    };
+    document.body.style.cursor = 'wait';
+    $.get('https://www.4shared.com/login?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #loginErrorMsg').html(data.rejectReason).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function authSignUp(){
+    var login = $('#signupEmailField').val();
+    var password = $('#signupPassField').val();
+    var password2 = $('#signupPassFieldRepeat').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }else if (password2 == ''){
+      err = loginFnc.msgEmptyPassword2;
+    }else if (password != password2){
+      err = loginFnc.msgPasswordsDontMatch;
+    }else if (!loginFnc.checkEmail(trim(login))){
+      err = loginFnc.msgIncorrectEmail + ' ' + loginFnc.msgTryAgain;
+    }
+
+    $('#authBoxDiv #loginErrorMsg').html('').hide();
+    $('#authBoxDiv #signupErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #signupErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #signupErrorMsg').hide();
+    }
+
+    var params = {
+      login: login,
+      password: password,
+      password2: password2,
+      successUrl: unescape(paramsObj.returnTo)
+    };
+
+    $("body").css("cursor", "progress");
+    $.get('https://www.4shared.com/signup?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #signupErrorMsg').html(data.error).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
   function loadAndShowSignUpBox(e, dfp, sup){
     var signUpInDiv = true;
     if(!signUpInDiv){
@@ -83,16 +296,20 @@
     }
     if(typeof dragObj == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared.com/js/dw_event.js?ver=4655')
-              .script('http://static.4shared.com/js/dw_viewport.js?ver=4655')
-              .script('http://static.4shared.com/js/dw_writedrag.js?ver=4655')
-              .script('http://static.4shared.com/js/dw_drag.js?ver=4655')
+              .script('http://static.4shared.com/js/dw_event.js?ver=10909')
+              .script('http://static.4shared.com/js/dw_viewport.js?ver=10909')
+              .script('http://static.4shared.com/js/dw_writedrag.js?ver=10909')
+              .script('http://static.4shared.com/js/dw_drag.js?ver=10909')
+              .wait();
+    }
+    if(typeof $.openid == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared.com/js/plugins/jquery.openid.js?ver=10909')
               .wait();
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared.com/js/plugins/jquery.openid.js?ver=4655')
-              .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+              .script('http://static.4shared.com/js/login_fnc.js?ver=10909')
               .wait(function(){
                 loginFnc.msgEmail = 'your e-mail';
                 loginFnc.msgOpenIdAccount = 'your OpenID account';
@@ -191,12 +408,18 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+        .script('http://static.4shared.com/js/login_fnc.js?ver=10909')
         .wait(function(){
           loginFnc.signOut(serverURL);
+          if(serverURL != sn){
+            loginFnc.signOut('/');
+          }
         });
     }else{
       loginFnc.signOut(serverURL);
+      if(serverURL != sn){
+        loginFnc.signOut('/');
+      }
     }
     return false;
   }
@@ -210,7 +433,7 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared.com/js/login_fnc.js?ver=4655')
+        .script('http://static.4shared.com/js/login_fnc.js?ver=10909')
         .wait(function(){
           loginFnc.goToAccount();
         });
@@ -221,6 +444,9 @@
   }
 
   function addCapsChecking() {
+    if($('body input[type=password]').length == 0){
+        return;
+    }
     $('input[type=password]').caps(function(caps) {
       var form = $(this).parents('form:first');
       // "this" is current element
@@ -230,18 +456,48 @@
 </script>
 
 <script type="text/javascript">
-  $(function() {
-    addCapsChecking()
-    $('#loginfield, #passfield').keypress(function(event) {
-      if (event.which != '13') return true
+  $(function(){
+    if(Cookies['jsParams']){
+      var p = JSON.parse(unescape(Cookies['jsParams']));
+      if(p.after){
+        if(!event){
+          var event = {length: 0};
+        }
+        eval(p.after);
+      }
+      Cookies.erase('jsParams', '/', '.4shared.com');
+    }
+  });
+</script>
 
-      var form = $(this).parents('form:first')
-      $('input[type=submit]', form).click()
+<script type="text/javascript">
+  $(function() {
+    if(typeof jQuery != 'undefined'){
+      addCapsChecking();
+    }
+    $('#loginfield, #passfield').keypress(function(event) {
+      if (event.which != '13') return true;
+
+      var form = $(this).parents('form:first');
+      $('input[type=submit]', form).click();
       return false
     })
   })
 </script>
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        if (!$('#authBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'authBoxDiv').appendTo($(document.body));
+        }
+        if (!$('#signUpBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'signUpBoxDiv').appendTo($(document.body));
+        }
+        if (!$('#loginBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'loginBoxDiv').appendTo($(document.body));
+        }
+    });
+</script>
 
 
 <table cellpadding="0" cellspacing="0" class="head" align="center">
@@ -250,8 +506,7 @@
         <td width="150"><h1>Free file sharing</h1></td>
         
         <td align="center" valign="bottom">
-              
-      <a href="http://www.4shared.com/premium.jsp?ref=top"><img src="http://static.4shared.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://static.4shared.com/images/pro.gif'" onmouseout="this.src='http://static.4shared.com/images/pr.gif'" height="69" width="175"></a></td>
+              </td>
         
         <td class="alignRight" style="font-weight:bold;">
           
@@ -274,25 +529,16 @@
     </tr>
 </tbody></table>
 
-<table cellpadding="0" cellspacing="0" class="contents" align="center">
-    <tbody><tr valign="top">
-        <td>
-            <div class="resheight">
-
+<div class="centered contents">
     <img src="http://static.4shared.com/images/spacer.gif" alt="" class="ctr">
     <img src="http://static.4shared.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
-    <table cellpadding="0" cellspacing="0" width="801">
+    <table cellpadding="0" cellspacing="0" width="795">
         <tbody><tr>
             <td class="alignRight">
                 
+
                 
-
-
-
-
-<a href="http://www.4shared.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
-                
-
+                   <a href="javascript:reportAbuse();" class="greylink">Report abuse</a> &nbsp;
                 
 
 
@@ -407,39 +653,83 @@
 
         </tr>
     </tbody></table>
-              
+</div>
     <div id="loginBoxDiv" style="visibility:hidden;">
     </div>
     <div id="signUpBoxDiv" style="visibility:hidden;">
     </div>
+    <div id="authBoxDiv" style="visibility:hidden;">
+    </div>
+
+<script type="text/javascript">
+    function reportAbuse() {
+        var windowname="abuse";
+        var url="/abuse.jsp?abuseType=1&link=" + " ";
+        OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=550,height=650,left=50,top=50');
+        OpenWindow.focus();
+    }
+</script>
+    
 
 
-          <div class="large green" style="padding-left:20px">4shared Privacy Policy</div>
-            <div style="padding-top:20px;margin-right:20px;margin-left:20px;text-align:justify;">
+      <div class="centered">
+          <br>
+          <div class="large green">4shared Privacy Policy</div>
+            <div style="padding-top:20px;text-align:justify;">
                 <br>
-                4shared is the official trademark of pmStation. Your use of the www.4shared.com site is governed by 4shared Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at 4shared may be used, and how such information is both protected and made available on our Web site.
+                4shared is the official trademark of New IT Solutions LTD. Your use of www.4shared.com site is governed by 4shared
+                Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we
+                provide, how the information you store at the 4shared may be used, and how such information is both
+                protected and made available on our Web site.
                 <br><br>
-                This privacy policy may change from time to time, so you are encouraged to check the page regularly. pmStation will operate this Web site according to the Privacy Policy that is posted at the time.
+                This privacy policy may change from time to time, so you are encouraged to check the page regularly.
+                New IT Solutions LTD will operate this Web site according to the Privacy Policy that is posted at the time.
                 <br><br>
 
                 <b>Information we Receive When you Register</b><br><br>
-                pmStation stores your E-mail and Password you create for yourself when you register with 4shared and First and Last Names if they are indicated in the User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions).
+                New IT Solutions LTD stores your E-mail and Password you create for yourself when you register with 4shared and
+                First and Last Names if they are indicated in User Profile. We also use your IP address for internal
+                purposes (for covering the download limitation and user sessions).
                 <br><br>
 
                 <b>Your Virtual Drive</b><br><br>
-                When you upload your files to the 4shared server, we will provide you with a unique URL to download your file. 4shared will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. 4shared has the right to review your file contents for violations of our Terms of Use. If 4shared determines your files are in violation of 4shared Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems.
+                When you upload your files to the 4shared server, we will provide you with a unique URL to download your
+                file. The 4shared will not provide this URL to any other person or entity, but will provide your file to
+                any web browser requesting your unique URL. 4shared has the right to review your file contents for
+                violations of our Terms of Use. If 4shared determines your files is in violation of 4shared Terms of Use
+                we will ban your account and will attempt to contact you. We reserve the right to cancel your account
+                and files from our systems.
                 <br><br>
-                4shared will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. 4shared will only have access to your files for purposes of troubleshooting. When 4shared receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. 4shared has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization.
+                4shared will not attempt to access your files at any time unless explicitly instructed to do so by you.
+                We do not own the contents of your virtual drive. 4shared will only have access to your files for
+                purposes of troubleshooting. When 4shared receives your files, we will store them in your virtual drive.
+                We will allow your files to be downloaded according to your security settings. 4shared has extensive
+                security measures in place to protect your files while stored on our servers and we will prosecute any
+                attempt to access this information without authorization.
                 <br><br>
 
                 <b>Web-Server Log and Cookies</b><br><br>
-                pmStation collects information about the areas and pages of the 4shared website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. 4shared also collects this information to make the website viewable and useful for the majority of our clients.
+                New IT Solutions LTD Company collects information about the areas and pages of the 4shared website you visit. We
+                also collect information such as your operating system, browser version and the size of your screen. We
+                analyze this data to determine what is of interest to our users as a group, and thereby improve our
+                website. This information is collected in the form of the usual web server logs and cookies. 4shared
+                also collects this information to make the website viewable and useful for the majority of our clients.
                 <br><br>
-                Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps 4shared track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies.
+                Our website utilizes a non-persistent cookie to track your session with our web site. This is an
+                encrypted number generated when you visit any site that supports sessions. This is a session cookie. It
+                helps 4shared track your sessions and store persistent information to make your visit to our site
+                smoother. This cookie is saved permanently at your PC. This data does not contain any secure information
+                (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our
+                system a little easier. At no time are cookies used to track where you have been either before or after
+                your visit to our website. No other website can access any information about you from the cookies we may
+                store on your local computer. We do not share cookies, as well as any type of information, with any
+                other companies.
                 <br><br>
 
                 <b>Access to your information</b><br><br>
-                You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience.
+                You have the right to access, upload and download your files and access, correct your personal
+                information at any time. You may also grant access to your drive to other persons through folder sharing
+                or providing the download link to your audience.
                 <br><br>
                 If for some reason you cannot access your virtual drive on the 4shared or you want to change other
                 information you provided to us, please contact us at
@@ -447,21 +737,32 @@
                 <br><br>
 
                 <b>How we protect your information</b><br><br>
-                Any information collected and processed with pmStation is treated with the utmost confidentiality. pmStation will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through pmStation will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data.
+                Any information collected and processed with New IT Solutions LTD is treated with the utmost confidentiality.
+                New IT Solutions LTD will not sell or rent out any personal information gathered from clients. We will make no
+                public release of any personal information that is collected through our proprietary file sharing tool.
+                All client-specific information gathered through New IT Solutions LTD will be the property of the user. To
+                prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use
+                of information, we have put into place physical, electronic and managerial procedures to safeguard the
+                information that we collect online. We use encryption when collecting or transferring data.
                 <br><br>
-                Automated and scheduled backups for premium users make the service considerably more reliable. Daily copying of the information will help you avoid any unpleasant consequences.
+                Automated and scheduled backups for premium users make reliability of the service much higher. Daily
+                copying of the information will let you avoid any unpleasant consequence.
                 <br><br>
-                On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access, monitored 24x7.
+                On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access
+                monitored 24x7.
                 <br><br>
 
                 <b>E-mail non-disclosure</b><br><br>
-                Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of 4shared.
+                Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are
+                kept on the server for granting access to the account. These addresses are yours, not the property of
+                4shared.
                 <br><br>
                 4shared Customer Support team may examine these lists as well as the account files for support and
                 troubleshooting purposes. They also may examine the files stored by the users in case of abuse
                 reporting.
                 <br><br>
-                4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted.
+                4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your
+                e-mail addresses without your authorization will be prosecuted.
                 <br><br>
                 We will only use your email to send the service and support letters. You may address the
                 <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support team</a>
@@ -469,15 +770,23 @@
                 <br><br>
 
                 <b>Anti SPAM Policy</b><br><br>
-                The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. 4shared and its users agree to never initiate any SPAM emailing.
+                The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed,
+                exchanged, bartered, distributed, or disclosed in any way.
+                4shared and its users agree to never initiate any SPAM emailing.
                 <br><br>
 
                 <b>Third Party Web Sites</b><br><br>
-                The 4shared website may contain links to Internet sites and services that are maintained by third parties. These sites may have privacy and security policies that are different from those followed by pmStation. pmStation has no control over these sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.4shared.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force.
+                4shared website may contain links to Internet sites and services that are maintained by third parties.
+                Those sites may have privacy and security policies that are different from those followed by New IT Solutions LTD.
+                The New IT Solutions LTD has no control over those sites and is not responsible or liable for the policies and
+                practices followed by such third parties. When you visit any site outside www.4shared.com this Privacy
+                Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into
+                force.
                 <br><br>
 
                 <b>The Feedback Form</b><br><br>
-                The Feedback Form is an online tool that allows you to report violations of 4shared Services privacy statements and specific privacy concerns pertaining to 4shared.com.
+                The Feedback Form is an online tool that allows you to report violations of 4shared Services privacy
+                statements, specific privacy concerns pertaining to 4shared.com.
                 <br><br>
                 To access feedback form use the Feedback link at the top right of the screen of our web service.
                 <br><br>
@@ -487,10 +796,12 @@
                 <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support@4shared.com</a>.
             </div>
             <br><br>
+             </div>
+          
 
 
 
-</div>
+<div id="footer">
 
 
 
@@ -498,7 +809,9 @@
 
 
 
-<div class="footer">
+
+<div class="footer" style="border-top:solid 1px #F5F4F1">
+    <div class="centered">
     <table cellpadding="0" cellspacing="0" width="100%">
         <tbody><tr valign="top">
             <td class="fcol first">
@@ -506,13 +819,15 @@
                 <a href="http://www.4shared.com/">Home</a><br>
                 <a href="http://www.4shared.com/premium.jsp?ref=footer">Premium</a><br>
                 <a href="http://search.4shared.com/search.html">Search</a><br>
+                
                 <a href="http://www.4shared.com/signup.jsp" onclick="return loadAndShowSignUpBox(event, '');">Sign Up</a><br>
                 <a href="http://www.4shared.com/login.jsp" onclick="return loadAndShowLoginBox(event);">Log In</a>
+                
             </td>
             <td class="fcol">
                 <div>Help</div>
                 <a href="http://www.4shared.com/faq.jsp">FAQ</a><br>
-                <a href="http://help.4shared.com" target="_blank">Help</a><br>
+                <a href="http://www.4shared.com/help/index.jsp">Help</a><br>
                 <a href="http://www.4shared.com/tutorial/">Quick Tour</a><br>
                 <a href="http://www.4shared.com/features.jsp">Features</a><br>
                 <a href="http://www.4shared.com/contact.jsp">Contact Us</a>
@@ -523,15 +838,17 @@
                 <a href="http://www.4shared.com/advertise/">Advertising</a><br>
                 
                 <a href="http://www.4shared.com/resellers.jsp">Resellers</a><br>
-                <a href="http://www.4shared.com/links.jsp">Link to Us</a>
+                <a href="http://www.4shared.com/links.jsp">Link to Us</a><br>
+                <a href="http://www.4shared.com/copyright-center.jsp">Copyright</a>
             </td>
             <td class="fcol">
                 <div>Legal</div>
                 <a href="http://www.4shared.com/terms.jsp">Terms of Use</a><br>
                 <a href="http://www.4shared.com/privacy.jsp">Privacy</a><br>
+                <a href="http://www.4shared.com/dmca.jsp">DMCA Policy</a><br>
                 <a href="http://www.4shared.com/security.jsp">Security</a><br>
                 <a href="http://www.4shared.com/sla.jsp" title="Service Level Agreement">SLA</a><br>
-                <a href="http://www.4shared.com/enterprise/">Enterprise</a>
+                
             </td>
             <td class="fcol">
                 <div>Sharing</div>
@@ -546,23 +863,22 @@
                 <a href="http://www.4shared.com/press_room/">Press Room</a><br>
                 <a href="http://forum.4shared.com/" target="_blank">Forum</a><br>
                 <a href="http://blog.4shared.com/" target="_blank">Blog</a><br>
-                <a href="http://twitter.com/4sharedTEAM" target="_blank" title="Follow us on Twitter" rel="nofollow"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="tw"> Twitter</a><br>
-                <a href="http://www.facebook.com/official.4shared" target="_blank" title="Follow us on Facebook" rel="nofollow"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="fb"> Facebook</a><br>
+                <a href="http://twitter.com/4shared" target="_blank" title="Follow us on Twitter" rel="nofollow" style="white-space:nowrap;"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="tw"> Twitter</a><br>
+                <a href="http://www.facebook.com/official.4shared" target="_blank" title="Follow us on Facebook" rel="nofollow" style="white-space:nowrap;"><img src="http://static.4shared.com/images/spacer.gif" alt="Twitter" class="fb"> Facebook</a><br>
             </td>
             <td class="fcol last">
                 <div>Tools</div>
                     
-                    <a href="http://www.4shared.com/m/symbian.jsp">4shared for Symbian</a><br>
-                    
+                    <a href="http://www.4shared.com/m/">4shared Mobile</a><br>
                     <a href="http://www.4shared.com/desktop/">4shared Desktop</a><br>
-                    <a href="http://www.4shared.com/toolbar/">4shared Toolbar</a><br>
+                    <a href="http://www.4shared.com/sync/">4shared Sync</a><br>
                     <a href="http://www.4shared.com/developer/">Developer</a><br>
-                    <a href="http://help.4shared.com/index.php/SOAP_API" target="_blank">API</a>
+
 
             </td>
         </tr>
     </tbody></table>
-
+    </div>
     
 
 
@@ -573,16 +889,17 @@
 </div>
 
 
-<div style="position:relative;">
+
+
 <div class="copy">
-    Copyright <span title="dc329, rev=4654">©</span> 2005-2011 4shared.com 
+    Copyright <span title="dc328, rev=10909">©</span> 2005-2011 4shared.com 
 </div>
 
 </div>
-<!-- www.currDcID=329 -->
-</td>
-</tr>
-</tbody></table>
+
+
+<!-- www.currDcID=328 -->
+
 
 
 
@@ -606,22 +923,23 @@ var sc_security="e8ecc2ac";
 </noscript>
 <script type="text/javascript">
  document.write("<img src='http://www.jscount.com/a/4/28b1a41b/z?ref="+
-escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")</script><img src="http://www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20110623040851id_/http%253A//www.4shared.com/privacy.jsp&amp;rand=0.07011216674931364" width="1" height="1" alt="" style="display:none">
+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")</script><img src="http://www.jscount.com/a/4/28b1a41b/z?ref=&amp;url=https%3A//web.archive.org/web/20111231212518id_/http%253A//www.4shared.com/privacy.jsp&amp;rand=0.33441654070174365" width="1" height="1" alt="" style="display:none">
 
 <!-- End of StatCounter Code -->
 
 <!-- Start of google-analytics -->
 
+
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-306602-1");
-pageTracker._setSampleRate("10"); //sets sampling rate to 7 percent
-pageTracker._trackPageview();
-} catch(err) {}
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-306602-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setSampleRate', '10']);
+
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+
 </script>
 
 <!-- End of google-analytics -->
@@ -635,7 +953,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
 "' width=1 height=1 alt='' style='display:none'>")//-->
-</script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20110623040851id_/http%253A//www.4shared.com/privacy.jsp;0.5136374134740482" width="1" height="1" alt="" style="display:none">
+</script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20111231212518id_/http%253A//www.4shared.com/privacy.jsp;0.5909780739348922" width="1" height="1" alt="" style="display:none">
 <!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
@@ -647,6 +965,11 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </a>
 </noscript>
 <!-- End Quantcast tag -->
+
+
+
+
+
 
 
 
