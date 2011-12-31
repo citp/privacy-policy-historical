@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215031224id_/http%3A//meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220015id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meat Processing Products Privacy Policy
 
@@ -16,9 +16,8 @@ To request a correction or deletion of your private information, or if you have 
 >  **Surface mailing address:**
 >
 >> Meat Processing Products .com  
->  Division of Product Station, Inc.  
->  PO Box 900163  
->  Sandy, UT 84090
+>  PO Box 5755  
+>  Incline Village, NV 89450
 
 **What Information Do We Collect?**  
 When visiting the our web site, you may provide us with two types of information: personal information you voluntarily choose to disclose that is collected on an individual basis, and Web site use information gathered on a collective basis as you and others browse our Web site. 
