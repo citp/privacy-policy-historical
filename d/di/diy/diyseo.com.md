@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624124014id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyseo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210806id_/http%3A//www.diyseo.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # SEO Software for Your Small Business | DIYSEO
 
 ## Privacy Policy
 
-This is the web site of DIYSEO LLC, a provider of [SEO Software](https://www.diyseo.com/)
+This is the web site of DIYSEO LLC, a provider of [SEO Software](http://www.diyseo.com/)
 
 Our postal address is:
 
 1333 N. Kingsbury St., Suite 204  
 Chicago, IL, 60642
 
-We can be reached via e-mail at [info@diyseo.com](mailto:info@diyseo.com) or you can reach us via the [see contact page](https://www.diyseo.com/company/contact).
+We can be reached via e-mail at [info@diyseo.com](mailto:info@diyseo.com) or you can reach us via the [see contact page](http://www.diyseo.com/company/contact).
 
 This Privacy Policy describes the information DIYSEO, LLC ("DIYSEO") may collect about you through your use of the DIYSEO search engine optimization service and related web sites (collectively, the "DIYSEO Site"). It also describes how DIYSEO uses your information, how DIYSEO protects it, and what choices you have on how that information is used.
 
