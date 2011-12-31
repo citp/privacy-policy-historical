@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiolista.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502023215id_/http%3A//www.fashiolista.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiolista.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095301id_/http%3A//www.fashiolista.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | FASHIOLISTA | love your style!
 
@@ -34,9 +34,9 @@ We may share or disclose your information with your explicit consent, like when 
   2. **Law and Harm**  
 We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Fashiolista.com’s rights or property.
   3. **Third party service Providers**  
-We engage certain trusted third parties to perform functions and provide services to us, like delivering email, or optimzing website load times. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only if they agree to uphold the protections as outlined in this privacy policies.
+We engage certain trusted third parties to perform functions and provide services to us, like delivering email, or optimizing website load times. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only if they agree to uphold the protections as outlined in this privacy policies.
   4. **Business Transfers**  
-In the event that Twitter is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
+In the event that Fashiolista is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
   5. **Non-Private or Non-Personal Information**  
 We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public finds and loves, or the number of users who “Love” an item, click on a link, or viewed an item or profile.
 
