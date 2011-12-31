@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426034448id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trugreen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114114id_/http%3A//www.trugreen.com/About/Privacy) for the most accurate reproduction.*
 
 # TruGreen | Privacy Policy
 
