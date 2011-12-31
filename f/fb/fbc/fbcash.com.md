@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbcash.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125173728id_/http%3A//fbcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbcash.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213231id_/http%3A//fbcash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « FB Cash Blueprint
+# 
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order or fill out a form.  
