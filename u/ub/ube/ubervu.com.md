@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubervu.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606160204id_/http%3A//www.ubervu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubervu.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231135438id_/http%3A//www.ubervu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - uberVU
 
@@ -38,7 +38,7 @@ f) to administer, support, improve and develop Our Website.
 
 3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and services.
 
-3.3 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us .
+3.3 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us.
 
 3.4 Please note that this may include the transfer of Your personal data to one or more countries outside the UK .
 
