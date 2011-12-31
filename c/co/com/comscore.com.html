@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629133136id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231220322id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -26,7 +26,7 @@
 			    						<meta name="copyright" content="comScore">
 			    											<meta name="description" content="This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com.">
 							
-			    											<meta name="keywords" content="online market research, mobile market research, media research, online media research, internet trends, online measurement, online analysis, mobile media, comscore, comscore networks, media metrix, ad metrix, market intelligence, copy testing, audience measurement, business analytics, digital analytics, comScore ARS, ARS Group, Nedstat, Sitestat, ">
+			    											<meta name="keywords" content="online market research, mobile market research, media research, online media research, internet trends, online measurement, online analysis, mobile media, comscore, comscore networks, media metrix, ad metrix, market intelligence, copy testing, audience measurement, business analytics, digital analytics, comScore ARS, ARS Group, Nedstat, Sitestat, social media measurement,">
 							    
     <meta name="MSSmartTagsPreventParsing" content="TRUE">
     <meta name="generator" content="eZ Publish">
@@ -35,8 +35,10 @@
 
 <!-- Styles -->
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/tipTip.css" media="screen">
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie6.css" media="screen" /><![endif]-->
 <link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/prettyPhoto.css" media="screen" charset="utf-8">
 
 <!-- /Styles -->
 
@@ -47,6 +49,52 @@
 
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/validator.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/sfsbp.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.tipTip.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.validate.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.prettyPhoto.js"></script><script type="text/javascript" src="/extension/comscore/design/site/javascript/dax_forms.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/dax_softclick.js"></script>
+
+
+
+<script type="text/javascript" charset="utf-8">
+$(document).ready(function(){
+	
+	$('a[rel^="download"]').click(function(){ 
+		var cn='int.about_comscore/privacy_policy.';
+		var title=($(this).html()).replace(/ /gi,"_");
+		var softclick=jQuery.trim((cn.concat(title)).replace(/\//gi, "."));
+		ns_onclick(this,'',softclick.toLowerCase()+'&category=download','clickout');
+		return false
+	});
+	$('a[rel^="addthis"]').click(function(){ 
+		var cn='int.about_comscore/privacy_policy.';
+		var title=($(this).html()).replace(/ /gi,"_");
+		var softclick=jQuery.trim((cn.concat(title)).replace(/\//gi, "."));
+		ns_onclick(this,'',softclick.toLowerCase()+'&category=addthis','clickout');
+		return false
+	});
+	$('a[target="_blank"]').click(function(){ 
+		var cn='int.about_comscore/privacy_policy.';
+		var title=($(this).html()).replace(/ /gi,"_");
+		var softclick=jQuery.trim((cn.concat(title)).replace(/\//gi, "."));
+		ns_onclick(this,'',softclick.toLowerCase()+'&category=external_link','clickout');
+		return false
+	});	
+	$('#nav_last').click(function(){ 
+		var cn='int.about_comscore/privacy_policy.';
+		var title='login';
+		var softclick=jQuery.trim((cn.concat(title)).replace(/\//gi, "."));
+		ns_onclick(this,'',softclick.toLowerCase()+'&category=login','clickout');
+		return false
+	});		
+});
+</script>
+
+		
+
+		
+
 
 </head>
 			<body class="about"><div class="pageBounds">
@@ -108,6 +156,8 @@
 														</ul>
 			      </div>
 	
+		
+			
     <form name="search" id="search" class="search" action="http://www2.comscore.com/s/1552/4769b7c4f141a39944dc21448f265fa2" method="get">
       <label id="searchLabel" for="searchQuery">Search</label>
       <input type="text" size="15" name="q" id="searchQuery" value="">      
@@ -116,6 +166,20 @@
       <input type="hidden" name="ie" value="UTF-8">
       <button class="submit" name="searchSubmit" type="submit" value="Search">Search</button>
     </form>
+	
+	<script type="text/javascript" language="javascript">
+	var cn='int.about_comscore/privacy_policy.';
+	var title=($(this).html()).replace(/ /gi,"_");
+	var formclick=(cn.concat(title)).replace(/\//gi, ".");
+	var formsearch=new ns_API.form("search"); 
+	formsearch.setURL("http://nl.sitestat.com/comscore/int/s?"+formclick.toLowerCase()); 
+	formsearch.addSubmitEvent("*","",""); 
+	formsearch.addAbandonEvent("*","",""); 
+	formsearch.setMaxFieldSize(200);
+	</script>
+	
+	
+		
 </div>
 <!-- /mastHead -->
   
@@ -145,113 +209,426 @@
 										
 													
 															
-																																										<li>
-								  <a href="/Products_Services" title="Products &amp; Services Overview">Products &amp; Services Overview</a>
+																
+																
+								
+																	
+																		
+																									<li class="">
+								  <a class="" href="/Products_Services" title="Products &amp; Services Overview">Products &amp; Services Overview </a>
+									
 								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Media_Planning_Analysis" title="Media Planning &amp; Analysis">Media Planning &amp; Analysis</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Advertising_Effectiveness" title="Advertising Effectiveness">Advertising Effectiveness</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Web_Analytics" title="Web Analytics">Web Analytics</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Search_Marketing" title="Search Marketing">Search Marketing</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Mobile_Media" title="Mobile Media">Mobile Media</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Cross_Media_Measurement" title="Cross Media Measurement">Cross Media Measurement</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Video_and_Distributed_Media_Measurement" title="Video and Distributed Media Measurement">Video and Distributed Media Measurement</a>
-								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Marketing_on_the_Internet" title="Marketing on the Internet">Marketing on the Internet</a>
-								</li>
+									
+						
+										
+													
+									
+						
+										
+																												
 									
 						
 										
 																												
 															
-																																																													<li>
-								  <a class="sub" href="/International_Solutions" title="International Solutions">International Solutions</a>
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub sf-with-ul " href="/Products_Services/Advertising_Effectiveness" title="Advertising Effectiveness">Advertising Effectiveness </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+													
+									
+						
+										
+																												
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Advertising_Effectiveness/Media_Planning_Analysis" title="Media Planning &amp; Analysis">Media Planning &amp; Analysis </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Advertising_Effectiveness/Creative_Messaging_Optimization" title="Creative &amp; Messaging Optimization">Creative &amp; Messaging Optimization </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Advertising_Effectiveness/Ad_Audience_Validated_Ratings" title="Ad &amp; Audience Validated Ratings">Ad &amp; Audience Validated Ratings </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Advertising_Effectiveness/Lift_ROI_Measurement" title="Lift &amp; ROI Measurement">Lift &amp; ROI Measurement </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub sf-with-ul " href="/Products_Services/Web_Analytics" title="Web Analytics">Web Analytics </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Social_Media" title="Social Media">Social Media </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Search_Marketing" title="Search Marketing">Search Marketing </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																																													<li>
-								  <a class="sub" href="/Industry_Solutions" title="Industry Solutions">Industry Solutions</a>
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Mobile_Media" title="Mobile Media">Mobile Media </a>
+									
 								</li>
+									
+						
+										
+																												
 									
 						
 										
 													
 															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Technology_Tracking" title="Technology Tracking">Technology Tracking</a>
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Cross_Media_Measurement" title="Cross Media Measurement">Cross Media Measurement </a>
+									
 								</li>
 									
 						
 										
 													
-															
-																																																													<li>
-								  <a class="sub" href="/Products_Services/Custom_Research" title="Custom Research">Custom Research</a>
-								</li>
 									
 						
 										
 													
 															
-																																																																																										<li class="viewAll">
-								  <a href="/Products_Services/Product_Index" title="Product Index">Product Index</a>
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Video_and_Distributed_Media_Measurement" title="Video and Distributed Media Measurement">Video and Distributed Media Measurement </a>
+									
 								</li>
+									
+						
+										
+																												
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Marketing_on_the_Internet" title="Marketing on the Internet">Marketing on the Internet </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+													
+									
+						
+										
+																												
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Technology_Tracking" title="Technology Tracking">Technology Tracking </a>
+									
+								</li>
+									
+						
+										
+																												
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																									<li class="">
+								  <a class="sub " href="/Products_Services/Custom_Research" title="Custom Research">Custom Research </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																	
+																			
+																												
+																			
+										
+																																			<li class="viewAll ">
+								  <a class="sub sf-with-ul " href="/Products_Services/Product_Index" title="Product Index">Product Index </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+													
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
+									
+						
+										
+																												
 									
 																		</ul>
 					  									</li>
@@ -271,128 +648,192 @@
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions" title="Industry Solutions Overview">Industry Solutions Overview</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions" title="Industry Solutions Overview">Industry Solutions Overview </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Agencies" title="Agencies">Agencies</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Agencies" title="Agencies">Agencies </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Automotive" title="Automotive">Automotive</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Automotive" title="Automotive">Automotive </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Consumer_Packaged_Goods" title="Consumer Packaged Goods">Consumer Packaged Goods</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Consumer_Packaged_Goods" title="Consumer Packaged Goods">Consumer Packaged Goods </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Gaming" title="Gaming">Gaming</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Gaming" title="Gaming">Gaming </a>
+									
 								</li>
 									
 						
 										
 																												
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Government" title="Government">Government</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Government" title="Government">Government </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Financial_Services" title="Financial Services">Financial Services</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Financial_Services" title="Financial Services">Financial Services </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Media" title="Media">Media</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Media" title="Media">Media </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Mobile" title="Mobile">Mobile</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Mobile" title="Mobile">Mobile </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Pharmaceutical" title="Pharmaceutical">Pharmaceutical</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Pharmaceutical" title="Pharmaceutical">Pharmaceutical </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Retail" title="Retail">Retail</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Retail" title="Retail">Retail </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Technology" title="Technology">Technology</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Technology" title="Technology">Technology </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Telecommunications" title="Telecommunications">Telecommunications</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Telecommunications" title="Telecommunications">Telecommunications </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Travel" title="Travel">Travel</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Travel" title="Travel">Travel </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/University_and_Academic" title="University and Academic">University and Academic</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/University_and_Academic" title="University and Academic">University and Academic </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Industry_Solutions/Wall_Street" title="Wall Street">Wall Street</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Industry_Solutions/Wall_Street" title="Wall Street">Wall Street </a>
+									
 								</li>
 									
 																		</ul>
@@ -401,9 +842,9 @@
 						
 												
 																								
-										
+																
 					
-				<li id="mIndustry">
+				<li id="mAcademy">
 									
 					  <a href="/comScore_Academy" title="Academy">Academy</a>
 					  					  
@@ -412,49 +853,125 @@
 						
 										
 													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
 															
-																																	<li>
-								  <a href="/comScore_Academy" title="Overview">Overview</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy" title="Overview">Overview </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/Digital_Analytix_Courses" title="Digital Analytix Courses">Digital Analytix Courses</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/Digital_Analytix_Courses" title="Digital Analytix Courses">Digital Analytix Courses </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/Media_Metrix_Courses" title="Media Metrix Courses">Media Metrix Courses</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/Media_Metrix_Courses" title="Media Metrix Courses">Media Metrix Courses </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/Partner_Training_and_Certification" title="Partner Training">Partner Training</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/Partner_Training_and_Certification" title="Partner Training">Partner Training </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog </a>
+									
 								</li>
 									
 						
@@ -465,8 +982,12 @@
 										
 													
 															
-																																	<li>
-								  <a href="/comScore_Academy/Contact_Academy" title="Contact Academy">Contact Academy</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/comScore_Academy/Contact_Academy" title="Contact Academy">Contact Academy </a>
+									
 								</li>
 									
 						
@@ -504,81 +1025,229 @@
 						
 										
 													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
 															
-																																	<li>
-								  <a href="/Press_Events" title="Press &amp; Events Overview">Press &amp; Events Overview</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Press_Events" title="Press &amp; Events Overview">Press &amp; Events Overview </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/Press_Releases" title="Press Releases">Press Releases </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="http://blog.comscore.com/" title="Blog">Blog </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Press_Events/Press_Releases" title="Press Releases">Press Releases</a>
-								</li>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/Events_Webinars" title="Events &amp; Webinars">Events &amp; Webinars </a>
 									
-						
-										
-													
-															
-																																	<li>
-								  <a href="http://blog.comscore.com/" title="Blog">Blog</a>
-								</li>
-									
-						
-										
-													
-															
-																																	<li>
-								  <a href="/Press_Events/Events_Webinars" title="Events &amp; Webinars">Events &amp; Webinars</a>
 								</li>
 									
 						
 										
 																												
 															
-																																	<li>
-								  <a href="/Press_Events/Presentations_Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/Presentations_Whitepapers" title="Presentations &amp; Whitepapers">Presentations &amp; Whitepapers </a>
+									
 								</li>
 									
 						
 										
 																												
 															
-																																	<li>
-								  <a href="http://www.comscoredatamine.com/" title="comScore Data Mine" target="_blank">comScore Data Mine</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="http://www.comscoredatamine.com/" title="comScore Data Mine" target="_blank">comScore Data Mine </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Press_Events/comScore_In_the_News" title="comScore In the News">comScore In the News</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/comScore_In_the_News" title="comScore In the News">comScore In the News </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Press_Events/Media_Kit" title="Media Kit">Media Kit</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/Media_Kit" title="Media Kit">Media Kit </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/Press_Events/Data_Usage_Policy" title="Data Usage Policy">Data Usage Policy</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Press_Events/Data_Usage_Policy" title="Data Usage Policy">Data Usage Policy </a>
+									
 								</li>
 									
 						
 										
-													
+																												
 															
-																																	<li>
-								  <a href="/Press_Events/Join_Our_Email_List" title="Join Our Email List">Join Our Email List</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="http://www.comscore.com/email/settings/(action)/add/" title="Join Our Email List">Join Our Email List </a>
+									
 								</li>
 									
 						
@@ -597,9 +1266,17 @@
 										
 																												
 															
-																																	<li>
-								  <a href="/Press_Events/RSS_Feeds" title="RSS Feeds">RSS Feeds</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/Press_Events/Social_and_RSS" title="Stay Connected: Social and RSS">Stay Connected: Social and RSS </a>
+									
 								</li>
+									
+						
+										
+																												
 									
 																		</ul>
 					  									</li>
@@ -618,65 +1295,97 @@
 						
 										
 													
+									
+						
+										
+													
 															
-																																	<li>
-								  <a href="/About_comScore" title="Overview">Overview</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/About_comScore/Methodology/Privacy" title="Privacy">Privacy </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+																												
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore" title="Overview">Overview </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/Why_comScore" title="Why comScore?">Why comScore?</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Why_comScore" title="Why comScore?">Why comScore? </a>
+									
 								</li>
 									
 						
 										
 																												
 															
-																																	<li>
-								  <a href="/About_comScore/Methodology" title="Methodology">Methodology</a>
-								</li>
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/About_comScore/Methodology" title="Methodology">Methodology </a>
 									
-						
-										
-													
-															
-																																	<li>
-								  <a href="/About_comScore/Mission" title="Mission">Mission</a>
-								</li>
-									
-						
-										
-													
-															
-																																	<li>
-								  <a href="/About_comScore/Management" title="Management">Management</a>
-								</li>
-									
-						
-										
-													
-															
-																																	<li>
-								  <a href="http://ir.comscore.com" title="Investor Relations">Investor Relations</a>
-								</li>
-									
-						
-										
-													
-															
-																																	<li>
-								  <a href="/Careers" title="Careers">Careers</a>
-								</li>
-									
-						
-										
-													
-															
-																																	<li>
-								  <a href="/About_comScore/Industry_Recognition" title="Industry Recognition">Industry Recognition</a>
 								</li>
 									
 						
@@ -687,48 +1396,156 @@
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/Corporate_Responsibility" title="Corporate Responsibility">Corporate Responsibility</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Mission" title="Mission">Mission </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="sf-with-ul " href="/About_comScore/Management" title="Management">Management </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="http://ir.comscore.com" title="Investor Relations">Investor Relations </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Careers" title="Careers">Careers </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/comScore_History" title="comScore History">comScore History</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Industry_Recognition" title="Industry Recognition">Industry Recognition </a>
+									
+								</li>
+									
+						
+										
+													
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Corporate_Responsibility" title="Corporate Responsibility">Corporate Responsibility </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/Recent_Acquisitions" title="Recent Acquisitions">Recent Acquisitions</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/comScore_History" title="comScore History">comScore History </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/comScore_Fact_Sheet" title="comScore Fact Sheet">comScore Fact Sheet</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Recent_Acquisitions" title="Recent Acquisitions">Recent Acquisitions </a>
+									
 								</li>
 									
 						
 										
 													
 															
-																																	<li>
-								  <a href="/About_comScore/Locations" title="Locations">Locations</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/comScore_Fact_Sheet" title="comScore Fact Sheet">comScore Fact Sheet </a>
+									
+								</li>
+									
+						
+										
+													
+															
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/About_comScore/Locations" title="Locations">Locations </a>
+									
 								</li>
 									
 						
 										
 																												
 															
-																																	<li>
-								  <a href="/Contact_Us" title="Contact Us">Contact Us</a>
+																
+																
+								
+																																	<li class="">
+								  <a class="" href="/Contact_Us" title="Contact Us">Contact Us </a>
+									
 								</li>
 									
 																		</ul>
@@ -743,7 +1560,7 @@
 																				</li>
 						
 					</ul>
-		<div id="logIn">							<a href="https://my.comscore.com/login" title="Client Log In ">Client Log In </a>
+		<div id="logIn">							<a id="nav_last" href="https://my.comscore.com/login" title="MyMetrix Client Log In">MyMetrix Client Log In</a>
 						</div>
 	  </div>
 	  <!-- /bounds -->
@@ -761,21 +1578,50 @@
   <div id="toolbar">
     </div>
   <!-- Toolbar area: END -->
-  	
+  
 		
-<div id="subMasthead" class="cfx">
-  <div class="grid_12">
-    <h1>
-		  Privacy Policy
-		</h1>
-  </div>
+<div id="subMasthead">
+  <!-- Breadcrumb -->	
+  	
+<div id="breadcrumbs">
+You are here: 
+	
+	
+
+				
+
+ 						<a href="/">
+			
+		
+		Home</a> &gt;
+			
+	
+
+				
+
+ 						<a href="/About_comScore">
+			
+		
+		About comScore</a> &gt;
+		
+
+				Privacy Policy
+</div>
+   <!-- Contact us links -->	
   <div id="contactActions" class="grid_4">
   <ul>
   	<li><a class="phone" href="/Contact_Us_by_Phone" title="Contact Us by Phone">Contact Us by Phone</a></li>
 	<li><a class="email" href="/Contact_Us" title="Contact Us Online">Contact Us Online</a></li>
   </ul>
 </div>
-<!--/contactActions--></div>
+<!--/contactActions-->  
+  <div class="grid_12">
+    <h1>
+		  Privacy Policy
+		</h1>
+  </div>
+
+</div>
 <!--/subMasthead-->
 
 <div class="sectionBreak grid_16">
@@ -804,7 +1650,9 @@
       <div class="sNav">
 						<h3>About comScore</h3>
 	<ul>
-																																										
+									
+						<li><a href="/About_comScore/Methodology/Privacy" title="Privacy">Privacy</a></li>
+																																															
 						<li><a href="/About_comScore" title="Overview">Overview</a></li>
 								
 						<li><a href="/About_comScore/Why_comScore" title="Why comScore?">Why comScore?</a></li>
@@ -841,87 +1689,95 @@
   </div>
   <!-- /sideColumn -->
 </div>
-<!-- /grid_4-->	
+<!-- /grid_4-->
 
   </div>
   <!-- /contentBounds -->
   
-  <div id="footer" class="cfx">
+  
+	
+
+<div id="footer" class="cfx">
     <div class="hr">
       <hr>
     </div>
     <p id="footerLogo"><a href="/"><img src="/extension/comscore/design/site/images/logo_footer.gif" alt="comScore" width="112" height="19"></a></p>
     <div class="bounds">
       <div id="fNav">
-	
+			 
+
 			<ul>
 								
 														
+						
 						<li>
 			  <a href="/About_comScore/Privacy_Policy" title="Privacy Policy">
 			  Privacy Policy
 			  </a>
 			</li>
-			
-								
+											
 														
-													<li>
+													
+						<li>
 			  <a href="/Contact_Us" title="Contact Us">
 			  Contact Us
 			  </a>
 			</li>
-			
-								
+											
 														
+						
 						<li>
 			  <a href="/Careers" title="Careers">
 			  Careers
 			  </a>
 			</li>
-			
-								
+											
 														
+						
 						<li>
 			  <a href="http://ir.comscore.com" title="Investor Relations">
 			  Investor Relations
 			  </a>
 			</li>
-			
-								
+											
 														
-													<li>
+													
+						<li>
 			  <a href="/Site_Map" title="Site Map">
 			  Site Map
 			  </a>
 			</li>
-			
-								
+											
 														
-													<li class="last">
-			  <a href="http://direct.comscore.com/" title="comScore Direct" target="_blank">
-			  comScore Direct
-			  </a>
-			</li>
-			
-				</ul>
-	
-		  
-		</div>
+													
+							<li class="last">
+			  		<a href="http://direct.comscore.com/" title="comScore Direct" target="_blank">
+			  			comScore Direct
+			 		</a>
+				</li>
+							</ul>
+		
+			</div>
       <!-- /fNav -->
       <div id="copyright">
 					© 2011 comScore, Inc. 
-				 
-			  </div>
+				
+				<!--2-->
+	  </div>
     </div>
     <!-- /bounds -->
 </div>
-<!-- /footer -->  
+<!-- /footer -->
+	  
+
+
+  
 
 </div>
 <!-- /pageBounds -->
 
 <!-- Javascript -->
-<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/dax_overlay_loader.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/superfish.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.bgiframe.min.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/hoverIntent.js"></script>
@@ -929,17 +1785,18 @@
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.cycle.core.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/base.js"></script><link rel="stylesheet" type="text/css" href="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/skin/classic/skin.css"><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/skin/classic/skin.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/lang/shadowbox-en.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-flv.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-html.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-iframe.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-img.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-qt.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-swf.js"></script><script type="text/javascript" src="http://web.archive.org/extension/comscore/design/site/javascript/shadowbox/player/shadowbox-wmp.js"></script>
 <script type="text/javascript" src="/extension/comscore/design/site/javascript/search.js"></script>
-  
-<!-- Begin CMC v.1.0.1 -->
-<script type="text/javascript">
-// <![CDATA[
-function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"/><'+'/p>');}; 
-sitestat("http://int.sitestat.com/comscore/int/s?name=comScore_default"+"&ns_ilevel="+escape(window.location.pathname.split("/").length-1)); 
-// ]]>
-</script>
-<noscript><p><img src="http://int.sitestat.com/comscore/int/s?name=comScore_default" height="1" width="1" alt="*"/></p></noscript>
-<!-- End CMC -->
 
+	 
+	<!-- Begin CMC v2.0 -->
+	<script type="text/javascript">
+	// <![CDATA[
+	function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);var m=u.lastIndexOf("&");if(u.length>2000&&m>=0){u=u.substring(0,m+1)+"ns_cut="+u.substring(m+1,u.lastIndexOf("=")).substring(0,40)}(d.images)?new Image().src=u:d.write('<'+'p><'+'img src="'+u+'" height="1" width="1" alt="*"/'+'><'+'/p>');};
+	sitestat("http://int.sitestat.com/comscore/int/s?name=comScore_default&lang=eng&ns_ilevel="+escape(window.location.pathname.split("/").length-1)); 
+	// ]]>
+	</script>
+	<noscript><p><img src="http://int.sitestat.com/comscore/int/s?name=comScore_default&lang=eng" height="1" width="1" alt="*"/></p></noscript>
+	<!-- End CMC -->
+		
 <!-- comscore beacon -->
 <script>
   document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -975,5 +1832,4 @@ sitestat("http://int.sitestat.com/comscore/int/s?name=comScore_default"+"&ns_ile
 
 
 
- 
 </body></html>
