@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vivaprograms.net privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330235439id_/http%3A//www.vivaprograms.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaprograms.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090623id_/http%3A//www.vivaprograms.net/privacy.html) for the most accurate reproduction.*
 
 # privacy » Nulled Scripts download for webmasters, joomla templates
+
+## privacy
 
 **Privacy Policy:**
 
@@ -24,3 +26,6 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us.
+
+  
+
