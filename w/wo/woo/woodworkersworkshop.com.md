@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512053018id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231111829id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
 
 # WoodworkersWorkshop.com - Our Privacy Policy
 
@@ -11,6 +11,8 @@
 ---|---  
   
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
+
+**Please be advised that we do not provide customer support for free woodworking plans. The free plans are owned by other web sites, we only list where to find them. Since we do not get paid anything, we cannot provided support. We recommend you visit the web site that has the free plan and ask someone there for assistance. We appreciate your understanding in this matter.**
 
 **Our contact information:**  
 Company Name: WoodchuckCanuck.com, Inc.  
