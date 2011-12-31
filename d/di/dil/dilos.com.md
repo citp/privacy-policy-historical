@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the dilos.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123220619id_/http%3A//www.dilos.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dilos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225656id_/http%3A//www.dilos.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Dilos.com Privacy Policy : Dilos Holiday World
 
 |  PRIVACY POLICY    
 ---  
+[Follow @DilosHoliday](https://twitter.com/DilosHoliday)  
   
 Understanding your concerns over online purchases, we would like to assure you that it is our priority to ensure security over the transactions and confidentiality over your personal data. We hereby set out the basic principles of our privacy policy. Should you still have any concerns, you are encouraged to ask for clarifications. None of this information (your personal data) is either sold or leased by us to any third party. 
 
