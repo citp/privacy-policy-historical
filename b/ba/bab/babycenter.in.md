@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525182134id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205048id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
+
+[](https://web.archive.org/)
+
+  * [ About BabyCenter](https://web.archive.org/about/)
+
+
 
 ## Welcome
 
@@ -84,5 +90,8 @@ U.S.A.
 
 ## Changes to This Privacy Policy
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on January 17, 2007.   
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on January 17, 2007. 
 
+Loading
+
+[View full site](https://web.archive.org/about/privacy/?mobileSite=false&intcmp=mobile_desktop_seefull)
