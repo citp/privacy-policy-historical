@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613193711id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carbonated.tv privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231210953id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/prototype.js?3.0.6"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/prototype.js?3.0.17"></script>
 	
 <link rel="SHORTCUT ICON" href="/images/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/carbo_style.css?3.0.6"><link rel="stylesheet" type="text/css" href="/css/topNav.css?3.0.6"><link rel="stylesheet" type="text/css" href="/css/paging.css?3.0.6"><link rel="stylesheet" type="text/css" href="/css/carousel_ent.css?3.0.6"><title>
+<link rel="stylesheet" type="text/css" href="/css/carbo_style.css?3.0.17"><link rel="stylesheet" type="text/css" href="/css/topNav.css?3.0.17"><link rel="stylesheet" type="text/css" href="/css/paging.css?3.0.17"><title>
 			Carbonated TV </title>
 		
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -39,7 +39,7 @@
 			var mediaDownloadURL = 'http://media.carbonated.tv/{0}.flv';
 			var thumbnailDownloadURL = 'http://thumbs.carbonated.tv/{0}.jpg';
 			var homeServerName = 'www.carbonated.tv/';
-			var encodedURI = encodeURIComponent(window.location.href);
+			//var encodedURI = encodeURIComponent(window.location.href);
 			var videoId = '';
 			var mediaType = '';
 			function searchVideoKeyPress(event){
@@ -47,11 +47,13 @@
 			}
 			function searchVideoClick(){searchVideo();}
 			function searchVideo(){
-				if (  !$F('q').blank()  )
-					$('SearchVideoForm').submit();
+				if (  !($F('q') == "Type to Search") && !$F('q').blank() ){					
+						$('SearchVideoForm').submit();	
+				} 
 				return ;	
 			}
 	</script>
+	
 	
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
@@ -63,7 +65,8 @@
 	<script src="https://c.compete.com/bootstrap/d386b58cbd55c3163277c15a6856819a/bootstrap.js" type="text/javascript" async=""></script></head>
 	<body>
 
-	<form action="/logoutUser;jsessionid=6A9989522236B0556AF9AFCA504422EB" method="post" id="logoutForm" style="display: none;"> 
+	
+	<form action="/logoutUser" method="post" id="logoutForm" style="display: none;"> 
 	<input type="submit">
 	</form>
 	
@@ -205,7 +208,7 @@
 									</tr>
 									<tr>
 										<td align="left">
-											<a href="/forgotPassword;jsessionid=6A9989522236B0556AF9AFCA504422EB">Forgot Username or Password?</a>
+											<a href="/forgotPassword">Forgot Username or Password?</a>
 										</td>
 									</tr>
 								</tbody></table>
@@ -220,7 +223,7 @@
 								</tr>
 								<tr>
 									<td align="left">
-										<a href="/registerUser;jsessionid=6A9989522236B0556AF9AFCA504422EB">Register</a> or login using one of these accounts:
+										<a href="/registerUser">Register</a> or login using one of these accounts:
 									</td>
 								</tr>
 								<tr>
@@ -285,8 +288,8 @@
 													</td>
 												</tr>
 												<tr>
-													<td width="30%" style="vertical-align: bottom;">
-														<a href="/;jsessionid=6A9989522236B0556AF9AFCA504422EB">
+													<td width="40%" style="vertical-align: bottom;">
+													<a href="/">
 															<img src="/images/logo.png" alt="" width="401" height="47" border="0" class="logo">
 														</a>
 													</td>
@@ -303,7 +306,7 @@
 																						<a href="javascript:void(0)" id="twitter-login-main"><img src="/images/twitterSmall.png" style="vertical-align: bottom; border: 0px;"></a>&nbsp;
 																						<a href="javascript:connectViaGoogle();"><img src="/images/googleSmall.png" style="vertical-align: bottom; border: 0px; padding-right:5px;"></a>
 																						<a href="javascript:void[0]" onclick="loginUser();" class="white">LOGIN</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
-																						<a href="/registerUser;jsessionid=6A9989522236B0556AF9AFCA504422EB" class="white">REGISTER</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
+																						<a href="/registerUser" class="white">REGISTER</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
 																						<a href="/upload" class="bold white">UPLOAD STORY </a>
 																						<a href="/upload"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="/images/icon_upload.png" width="16" height="16" border="0"> </a>
 																					</td>
@@ -315,10 +318,11 @@
 			
 																	<div id="signinLinks" class="white" style="padding: 9px 0 0 0; display: none; height:18px;">
 																		<div style=" float: left; width: 100%;  ">
-																			<span id="adminPanel" style="display:none">																				
+																			<span id="adminPanel" style="display:none">
+																				<a href="/backstage/approver" class="white">BACKSTAGE</a>&nbsp;<img style="vertical-align:top;" src="/images/icon_new.gif" border="0"> &nbsp;<span class="white">|</span>&nbsp;&nbsp;
 																				<a href="/admin/login" class="white">ADMIN PANEL</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;&nbsp;
 																			</span>
-																			<a href="/logoutUser;jsessionid=6A9989522236B0556AF9AFCA504422EB" id="logoutlink" onclick="delete_cookie();" class="white">LOGOUT</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
+																			<a href="/logoutUser" id="logoutlink" onclick="delete_cookie();" class="white">LOGOUT</a>&nbsp;&nbsp;<span class="white">|</span>&nbsp;
 																			<a href="/upload" class="bold white">UPLOAD STORY</a>
 																			<a href="/upload"><img style="vertical-align: bottom; padding: 0 0 0 2px;" src="/images/icon_upload.png" width="16" height="16" border="0"> </a>
 																		</div>
@@ -347,7 +351,7 @@
 																				<td width="76%">
 																					<div class="txtField" style="width: 220px;">
 																						<div>
-																							<input name="q" id="q" type="text" class="italictxt" style="width: 205px;" maxlength="120" onkeypress="searchVideoKeyPress(event)" value="Type to Search" onclick="this.value=''" onblur="this.value=(this.value=='')?'Type to Search':this.value">
+																							<input name="q" id="q" type="text" class="italictxt" style="width: 205px;" maxlength="120" onkeypress="searchVideoKeyPress(event)" value="Type to Search" onclick="javascript:if(this.value == 'Type to Search'){ this.value = '';}" onblur="this.value=(this.value=='')?'Type to Search':this.value">
 																						</div>
 																						<span>&nbsp;</span>
 																					</div>
@@ -559,6 +563,21 @@ Carbonated.TV’s Privacy Policy is to share personal information only with the 
 </tbody></table></td>
 						</tr>
 						
+						<tr>
+							<td align="center" valign="middle">
+								<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1835404824408108";
+/* main_Ad_5 */
+google_ad_slot = "2686191246";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br><br>
+							</td>
+						</tr>
+						
 						<!-- Footer Start -->
 						<tr>
 							<td align="center" valign="top" class="bodyBg">
@@ -673,7 +692,7 @@ Carbonated.TV’s Privacy Policy is to share personal information only with the 
 										</tr>
 										<tr>
 											<td align="left">
-												<a target="_blank" href="http://www.facebook.com/pages/carbonatedtv/344071029011?ref=ts#!/pages/carbonatedtv/344071029011?v=wall&amp;ref=ts"><img src="/images/icon_facebook_footer.gif" width="16" height="16" border="0" alt=""> </a>
+												<a target="_blank" href="http://www.facebook.com/carbonated.tv"><img src="/images/icon_facebook_footer.gif" width="16" height="16" border="0" alt=""> </a>
 											</td>
 											<td align="left">
 												<a target="_blank" href="http://www.facebook.com/pages/carbonatedtv/344071029011?ref=ts#!/pages/carbonatedtv/344071029011?v=wall&amp;ref=ts">Facebook</a>
@@ -879,13 +898,12 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
     s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
-
+	
 	
 
-<!-- 966568623e132c2045749b14a37b871b -->
-
-<script type="text/javascript" src="/scripts/common.js?3.0.6"></script><script type="text/javascript" src="/scripts/stars.js?3.0.6"></script><script type="text/javascript" src="/scripts/loginUserAjax.js?3.0.6"></script><script type="text/javascript" src="/scripts/subscribe.js?3.0.6"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" src="/scripts/common.js?3.0.17"></script><script type="text/javascript" src="/scripts/stars.js?3.0.17"></script><script type="text/javascript" src="/scripts/loginUserAjax.js?3.0.17"></script><script type="text/javascript" src="/scripts/subscribe.js?3.0.17"></script><script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=carbonated&amp;apiKey=R_b42221c3152f0681b810d07e0f865bda">
+	
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script src="http://platform.twitter.com/anywhere.js?id=K23e2zzIOMiNfaQdWleDUA&amp;v=1" type="text/javascript"></script>
 <style type="text/css">
 	
@@ -930,8 +948,14 @@ style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	<div id="uservoice-feedback">
 	<a href="javascript:facebook()" class="fb_button fb_button_large"><span class="fb_button_text">Login</span></a>
 	</div>
-	<script src="http://connect.facebook.net/en_US/all.js"></script>
-<script type="text/javascript" src="/scripts/connect.js?3.0.6"></script>
+	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<script type="text/javascript" src="/scripts/connect.js?3.0.17"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+
+
+
+
 <!-- Start Quantcast tag -->
 
 <!-- <script type="text/javascript">
