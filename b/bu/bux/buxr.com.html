@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615120058id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buxr.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231205105id_/http%3A//www.buxr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -57,7 +57,7 @@
 <div id="reminder-popup">
 <div class="reminder-message">
 <a id="close-reminder" href="#" onclick="close_reminder(); return false;"><img alt="Close" width="10px" height="10px" src="http://img.buxr.com/yellow-close.gif"></a><p>
-<img alt="Tip" width="16px" height="16px" src="http://img.buxr.com/lightbulb.png"><b>Tip:</b> New to Buxr? <a href="http://www.buxr.com/wiki/?tip=2">Our Wiki</a> has some great tips on how to get started!</p>
+<img alt="Tip" width="16px" height="16px" src="http://img.buxr.com/lightbulb.png"><b>Tip:</b> Save and share deals with <a href="/user/wishlist/tip/2">Wish Lists</a>! More details <a href="http://www.buxr.com/blog/2008/09/29/introducing-deal-alerts-and-wish-lists/?tip=2">here</a>.</p>
 </div>
 </div><!-- reminder-popup -->
 
@@ -67,7 +67,7 @@
 function close_reminder()
 {
 	Element.hide('reminder-popup');
-	document.cookie = 'buxr-popup=aGlkZS0y; expires=Wed, 29 Jun 2011 07:51:38 -0400; path=/'
+	document.cookie = 'buxr-popup=aGlkZS0y; expires=Sat, 14 Jan 2012 15:49:40 -0500; path=/'
 }
 
 //]]>
@@ -99,6 +99,7 @@ function close_reminder()
 <ul>
 <li>
 <a href="/">home</a></li>
+
 <li>
 <a href="/deals">hot deals</a> 
 </li>
@@ -129,19 +130,19 @@ Rico.Corner.round('header-menu', {corners:"bottom"});
 <img class="banner-icon" src="http://img.buxr.com/piggybank-32x32.png" alt="Piggybank-32x32"></td>
 <td valign="middle" align="center">
 <div class="banner-title">Share deals!</div>
-<div class="banner-subtitle">63 deals posted today</div>
+<div class="banner-subtitle">65 deals posted today</div>
 </td>
 <td valign="middle" align="center">
 <img class="banner-icon" src="http://img.buxr.com/users-32x32.png" alt="Users-32x32"></td>
 <td valign="middle" align="center">
 <div class="banner-title">Join discussions!</div>
-<div class="banner-subtitle">532 started this week</div>
+<div class="banner-subtitle">935 started this week</div>
 </td>
 <td valign="middle" align="center">
 <img class="banner-icon" src="http://img.buxr.com/coinstack-32x32.png" alt="Coinstack-32x32"></td>
 <td valign="middle" align="center">
 <div class="banner-title">Win prizes!</div>
-<div class="banner-subtitle">$1,525 awarded this month</div>
+<div class="banner-subtitle">$2,920 awarded this month</div>
 </td>
 <!--
 <td valign="middle" align="center">
@@ -165,17 +166,17 @@ Rico.Corner.round('header-menu', {corners:"bottom"});
 </tbody></table>
 </div><!-- header -->
 
-
 <div id="header-tabs">
 <table id="page-menu" cellspacing="0" cellpadding="0">
 <tbody><tr>
 
 
+
 <td>
-<div id="page-menu-wiki" class="menu-tab">&nbsp;&nbsp;<a href="http://www.buxr.com/wiki/">Wiki</a>&nbsp;&nbsp;</div>
+<div id="page-menu-wiki" class="menu-tab">&nbsp;&nbsp;<a href="/wiki">Wiki</a>&nbsp;&nbsp;</div>
 </td>
 <td>
-<div id="page-menu-blog" class="menu-tab">&nbsp;&nbsp;<a href="http://www.buxr.com/blog">Blog</a>&nbsp;&nbsp;</div>
+<div id="page-menu-blog" class="menu-tab">&nbsp;&nbsp;<a href="/blog">Blog</a>&nbsp;&nbsp;</div>
 </td>
 <td>
 <div id="page-menu-info" class="menu-tab">&nbsp;&nbsp;<a href="/about">Info</a>&nbsp;&nbsp;</div>
@@ -184,15 +185,7 @@ Rico.Corner.round('header-menu', {corners:"bottom"});
 <div id="page-menu-selected">&nbsp;&nbsp;Legal&nbsp;&nbsp;</div>
 </td>
 
-<script type="text/javascript">
-//<![CDATA[
 
-Rico.Corner.round('page-menu-wiki', {corners:"top"});
-Rico.Corner.round('page-menu-blog', {corners:"top"});
-Rico.Corner.round('page-menu-info', {corners:"top"});
-
-//]]>
-</script>
 
 </tr>
 </tbody></table>
@@ -200,8 +193,24 @@ Rico.Corner.round('page-menu-info', {corners:"top"});
 </div> <!-- header-tabs -->
 
 
+<script type="text/javascript">
+//<![CDATA[
 
+if ($('page-menu-wiki') != undefined) {
+Rico.Corner.round('page-menu-wiki', {corners:"top"});
+}
+if ($('page-menu-blog') != undefined) {
+Rico.Corner.round('page-menu-blog', {corners:"top"});
+}
+if ($('page-menu-legal') != undefined) {
+Rico.Corner.round('page-menu-legal', {corners:"top"});
+}
+if ($('page-menu-info') != undefined) {
+Rico.Corner.round('page-menu-info', {corners:"top"});
+}
 
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -210,7 +219,6 @@ Rico.Corner.round('page-menu-selected', {corners:"top"});
 
 //]]>
 </script>
-
 </div> <!-- header -->
 
 </div>
@@ -358,13 +366,14 @@ Privacy Policy Template changes</p>
 </div>
 </div>
 
-
-
-
 <script type="text/javascript">
 function document_mouse_move(e){
 getMouseXY(e);	
 positiontip(e);
 }
 document.onmousemove=document_mouse_move;
-</script></body></html>
+</script>
+
+
+
+</body></html>
