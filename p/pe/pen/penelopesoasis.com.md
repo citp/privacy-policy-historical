@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405054215id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224817id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 **Changes to this privacy policy**
 
@@ -59,11 +59,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://penelopesoasis.com/contact-us "contact us") at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Penelope’s Oasis](http://penelopesoasis.com/)  
 [http://penelopesoasis.com](http://penelopesoasis.com/)  
 PenelopesOasis@yahoo.com
 
 This document was last updated on February 24, 2011
-
-[](http://www.shareasale.com/r.cfm?b=256142&u=362270&m=25929&urllink=&afftrack=)
