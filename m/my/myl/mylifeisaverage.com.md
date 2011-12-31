@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifeisaverage.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503155245id_/http%3A//mylifeisaverage.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifeisaverage.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223830id_/http%3A//mylifeisaverage.com/terms) for the most accurate reproduction.*
 
 # MyLifeIsAverage - Life is pretty normal today
 
