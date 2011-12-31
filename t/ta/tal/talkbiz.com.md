@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419204056id_/http%3A//talkbiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkbiz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/privacy.html) for the most accurate reproduction.*
 
 # TalkBiz News Privacy Policy
 
@@ -108,4 +108,4 @@ Neither this statement nor any of the associated documents are intended to, nor 
 
  **TalkBiz Digital, LLC  
 651 E 24th St  
-Erie, PA 16503** [Main Page](https://web.archive.org/web/20110419204056id_/http%3A//talkbiz.com/index.html) . . [Privacy Policy](https://web.archive.org/web/20110419204056id_/http%3A//talkbiz.com/privacy.html) . . [Publishing Policies](https://web.archive.org/web/20110419204056id_/http%3A//talkbiz.com/policy.html)
+Erie, PA 16503** [Main Page](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/index.html) . . [Privacy Policy](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/privacy.html) . . [Publishing Policies](https://web.archive.org/web/20111231213141id_/http%3A//www.talkbiz.com/policy.html)
