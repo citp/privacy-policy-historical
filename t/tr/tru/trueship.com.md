@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueship.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602103129id_/http%3A//www.trueship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueship.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112522id_/http%3A//www.trueship.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueShip
 
