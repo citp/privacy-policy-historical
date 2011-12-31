@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413063122id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210355id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | ESL & Travel
+# Privacy Policy | Travel and photography blog
 
 > Privacy Policy for strange-lands.com
 > 
@@ -19,7 +19,3 @@
 > You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts
 
 [Online college degrees](http://www.online-collegedegrees.net/)
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://wmgz5.th8.us "Post to Twitter")
