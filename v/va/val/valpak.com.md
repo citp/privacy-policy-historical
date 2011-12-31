@@ -1,66 +1,111 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205051300id_/http%3A//www.valpak.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154312id_/http%3A//www.valpak.com/coupons/show/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy for Valpak.com
+# Free Coupons, Food Coupons and Restaurant Coupons Online - Valpak.com
 
-  
-  
-Valpak.com respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices.
+Effective on 9/21/2010
 
-**TRUSTe Statement**
+We at Valpak.com, owned by Valpak Direct Marketing Systems, Inc. (" **Valpak** "), respect your privacy and value the relationship we have with you. Your visit to this website is subject to this Privacy Policy and its Terms and Conditions
 
-This confirms that Val-Pak DMS is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.valpak.com. 
+This Privacy Policy describes the types of personal information we collect at Valpak.com, (the " **Site** "), how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of this information as well as how you may reach us to update your contact information, remove your name from our mailing list or ask us any questions you may have about our use of your personal information. It also explains how you may elect to stop receiving communications about our products and services.
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
+Please note that this Privacy Policy governs only information provided to Valpak.com. It does not govern any other information collected or communications received by way of any other Valpak® product e.g., the Valpak® direct mail envelope. If you link to another website from this Site, you are subject to the privacy policy applicable for that website and we suggest that you consult such privacy policy.
 
-1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site.  
-2\. The organization collecting the information.  
-3\. How the information is used.  
-4\. With whom the information may be shared.  
-5\. What choices are available to you regarding collection, use and distribution of the information.  
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Valpak.com control.  
-7\. How you can correct any inaccuracies in the information.  
-If you have questions or concerns regarding this statement, you should first contact Valpak.com Customer Service by emailing valerie@valpak.com, or writing to the address at the bottom of this page. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/users_watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+### 1\. Information We Collect and How We Use It
 
-**Council of Better Business Bureau**
+You may choose to provide us with personal information when you visit our Site. For example, if you decide to complete an online survey, complete a user registration form or make a purchase, you may be asked to provide certain information such as your contact information (name, email address, mailing address, and telephone number), age group and gender. If you decide to place an order, we will also need to know your billing address, credit card number and expiration date. To protect your personal information, users registering at the Site must also enter a user name/email address and password.
 
-Valpak.com also participates in the Council of Better Business Bureaus' BBB _OnLine_ Privacy Program, and complies with all the BBB _OnLine_ ® Privacy standards. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
+If you would prefer that we not collect any personal information from you, please do not provide us with any such information.
 
-Questions regarding privacy issues should be directed to Valpak.com at valerie@valpak.com. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration.
+### 2\. Use of Personal Information by Valpak.com
 
-**Collection and Use of Information**
+  1. Marketing Emails
 
-The information gathered by Valpak.com falls into two categories: (1) information voluntarily supplied by visitors to our website through optional membership registration or other means such as registration for an online contest or sweepstakes and E-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our sites, may be gathering the same kinds of information.
+If you so elect, the information you provide may be used by Valpak.com to create and deliver to you emails such as our newsletters, surveys or other email messages containing product and event information (" **Emails** "). If you do elect to receive them and later decide that you would no longer like to receive these Emails, see the Deactivate or Change Your Status section below.
 
-**A Note about Children's Online Privacy:** Children are welcome to visit Valpak.com, but we have neither a children's area nor any information likely to be of special interest to children. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with Valpak.com, to otherwise provide personally-identifiable information, or to access those features that require registration.
+  2. Text Messages
 
-**Membership Registration:** To make use of certain features on our websites (such as coupon e-mails) a visitor needs to register as a Valpak.com member and to provide certain information as part of the registration process. The membership registration form asks the visitor for his or her name, age range, address, zip code, e-mail address, general demographic information, and coupon category preferences. If the visitor does not wish to provide his or her name or address, or answer demographic questions, then these fields may be left blank.
+If you so elect, you may provide your mobile phone number in order to receive text message alerts containing product, event and promotions information (" **Text Messages** "). There is no fee from Valpak.com to receive Text Messages, however, your mobile service provider may charge for you for sending and/or receiving text messages and air-time, as well as any other standard applicable rates charged by your mobile service provider. If you do elect to receive them and later decide that you would no longer like to receive these Text Messages, see the Deactivate or Change Your Status section below.
 
-The information you supply will help us to offer you more personalized features, and to tailor our site to your interests and make it more useful to you. The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't offer you personalized coupons or maps and driving directions to local businesses if you don't tell us where you live. And we can't send you email alerting you to a new service we're offering if you don't tell us what you're interested in and give us your email address. Similarly, we can't notify you that you've been lucky enough to win a prize in a promotional contest if we don't know how to contact you. Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of coupons and other content available on our site without registration.
+  3. Communications to Serve You
 
-The demographic information collected on Valpak.com is used internally for marketing and planning purposes. At times, Valpak.com may summarize the demographic information it collects for use in aggregate form for marketing and promotional purposes and share this aggregated information with third parties.
+If you have elected to provide us with your contact information, we may provide you with service related announcements by email, or direct mail, concerning the Site or contact you regarding your customer service requests or questions or your order. For example, all registered users will receive a welcoming Email to confirm their registration. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that Valpak.com offers its customers.
 
-**E-mail Newsletter:**  
-When you register as a member or participate in a special promotion or contest on Valpak.com you may be asked whether you would like to receive Valpak.com's e-mail newsletter. The newsletter notifies interested Valpak.com visitors of new coupons available on Valpak.com and occasionally provides notice of special events. Only visitors who explicitly "opt-in" will receive our e-mail newsletter. If you do not wish to receive Valpak.com's e-mail newsletter, simply "opt-out" by checking the appropriate box on the applicable Valpak.com form.
+  4. Special Events, Questionnaires and Surveys
 
-**Cookies**  
-To help make our sites more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don't control.
+On occasion, Valpak.com may sponsor special events (such as contests, sweepstakes or other offerings), questionnaires and surveys. There may be specific rules applicable to these promotions that explain how any personal information you provide will be processed. We strongly suggest you review any applicable rules before participating. To the extent any special event, questionnaire or survey is not subject to specific rules, the processing of personal information is governed by this Privacy Policy for the purposes set forth herein.
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. It is a cookie, for example, that allows us to deliver your personalized coupons, including driving directions and maps to direct you to local businesses. With cookies, we save you time because you don't need to re-enter information you've already entered, even if you have not visited Valpak.com for a while. And we use cookies to avoid showing you the same ad repeatedly during a single visit. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to Valpak.com.
 
-**IP Addresses:**  
-Our web server automatically collects limited information about your computer's connection to the Internet, including your IP address, when you visit Valpak.com. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
 
-**Information Sharing and Other Sites Beyond Valpak.com:**  
-To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Services such as Val-Pak Values, Complimentary Magazine Subscription, Val-Pak Savings Bar and Valpak.com Coupon Keeper, are made available through cooperative arrangements with providers that specialize in operating such services. And, of course, our sites include links to plenty of other websites, and provide access to products and services offered by third parties, whose privacy policies we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. And when you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you're on Valpak-branded pages throughout the transaction. The provider's privacy policy may differ from ours. If you can't find the privacy policy of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
 
-**Advertisers:**  
-When we present information to our advertisers - to help them understand our audience and confirm the value of advertising on our web site - it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe might be of interest to you. Please indicate on the appropriate registration form if you'd prefer we not share such information with them. If you so indicate on the appropriate registration form, we won't share information about you with anyone other than those identified when the information is collected. If you want to change your election (or to review, update, or delete the information you provided on registering), click to http://www.valpak.com/member/member_reg.jsp, enter the changes you want to make, and re-submit the form. Sometimes, we might also contact you directly about our own or our advertisers' products and services. If you'd prefer that we not do so, just indicate on your registration form that you prefer not to receive offers and information. And remember, you can always change your preferences.
+### 3\. Technologies That Allow Us to Customize Your Experience on Our Site
 
-All information gathered on our site is stored within a Val-Pak-controlled database accessible only to Val-Pak. However, as effective as any security measure implemented by Val-Pak may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet.
+We use various technologies to collect information about your visit to our Site and to enhance and customize your experience on our Site. For example, we may collect the numerical Internet Protocol (IP) address identifying your computer or device which may indicate your geographic location. In some instances, we may use these technologies in combination with the personal information you provide on the Site. These technologies may provide a variety of information such as whether you have visited our Site before. They also may enable you to save your preferences. Each technology is explained below.
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later.
+  1. Web Beacons and Tracking Links
 
-Val-Pak Direct Marketing Systems, Inc.  
-8605 Largo Lakes Drive  
-Largo, FL 33773  
-[](https://www.truste.org/validate/5307)
+Web beacons (also called clear gifs and pixel tags), tracking links and/or similar technology consist of a few lines of code and are embedded on the pages of our Site. They are often used in combination with cookies and are often not visible to the user of the Site. Web beacons may relay information to third parties such as our service providers and may be used in order to track customer response to certain advertising, to better target interactive advertising and to enhance customer support and usability. If you reject our cookies (see "Cookies" section below), you will prevent Web beacons from relaying this information about you and may limit your use of some of our Site features.
+
+  2. Cookies
+
+The Site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of a cookie is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to Valpak.com, the information you previously provided can be retrieved, so you can easily use the Valpak.com features that you customized.
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Valpak.com services or web sites you visit.
+
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use non-identifying information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+
+
+
+### 4\. Information We Share and With Whom We Share It
+
+We will not provide your personal information to third parties for their use in marketing their products or services to you without your consent, except as described below. In addition, we do not sell or otherwise disclose personal information about our Site visitors except as described here.
+
+  1. Valpak Companies
+
+We may share your personal information with other Valpak affiliates and/or subsidiaries that distribute and market Valpak® products (the " **Valpak Companies** "). Valpak Companies will use this information in accordance with this Privacy Policy.
+
+  2. Third Parties
+
+We may retain other companies and individuals to perform functions on our behalf consistent with this Privacy Policy. Examples include credit card companies, data analysis firms, customer support specialists, email vendors, and web hosting companies. Such third parties may be provided with access to personal information needed to perform their functions but may not use such information other than on our behalf and in accordance with this Privacy Policy.
+
+In addition, in some instances, you may be offered the opportunity to consent to the sharing of your information with a third party such as an event or promotion co-sponsor. If you consent, we will share your information with such third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies.
+
+  3. Compliance With Law and Fraud Protection
+
+We may disclose any information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. In addition, we may disclose any information when we believe, in our sole discretion, disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with suspected or actual illegal activity.
+
+
+
+
+### 5\. Children's Privacy
+
+Valpak.com does not knowingly collect information from children under the age of 13 years. Valpak.com does not wish to collect information from children under 13 years old. By registering with Valpak.com, the new member certifies that they are not under the age of 13 years. If a user indicates their age as under 13 then their personally identifiable information will automatically be removed from the Valpak.com database and will not be retained.
+
+### 6\. How We Protect Personal Information
+
+We maintain reasonable safeguards for this Site to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on the site. If you have any questions about security at our Site, you can send an email to [customer_service@valpak.com](mailto:customer_service@valpak.com.).
+
+### 7\. Updates to Our Privacy Policy
+
+We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. We suggest that you periodically consult this Privacy Policy. Please find the effective date of the Privacy Policy at the top of this page.
+
+### 8\. Deactivate or Change Your Status
+
+Valpak.com gives our members the option of deactivating from our service so as not to receive future communications from Valpak.com or any other part of our service, or to change their profile and preferences.
+
+To change your profile and preferences or deactivate your participation in the service, you may:
+
+  * Visit the "Your Profile" section of Valpak.com and change your current status.
+  * Send an email to [customer_service@valpak.com](mailto:customer_service@valpak.com.) and request to unsubscribe.
+  * Write to Valpak.com, 8605 Largo Lakes Drive, Largo, Florida 33773 attn: Customer Service.
+  * Call 1-800-237-6266 and ask for Digital Support with any other questions you may have.
+
+
+
+Note: It may take up to 48 hours for us to process your request and any email communications within the queue prior to your decision to deactivate will still be sent to you by Valpak.com.
+
+### 9\. Comments
+
+We have taken great measures to ensure that your visit to our Site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [customer_service@valpak.com](mailto:customer_service@valpak.com.)
