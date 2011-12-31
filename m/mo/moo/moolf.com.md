@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623160814id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230638id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,5 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. 
-
-## You MUST see these cool photo galleries!
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.   
+That's your widget’s code. Embed it in the place where you want the widget to be displayed 
