@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmarketingideas.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216125430id_/http%3A//goodmarketingideas.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmarketingideas.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231151618id_/http%3A//www.goodmarketingideas.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,3 @@ We give users options wherever necessary and practical. Such choices include:
 YOUR CONSENT
 
 By using this site, you consent to the collection and use of this information by EB Web Services Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=ebweb)
-
-**...Find More Good[Marketing Ideas](http://www.goodmarketingideas.com/)**
