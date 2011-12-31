@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226031430id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214101id_/http%3A//www.celebrations.com/privacy) for the most accurate reproduction.*
 
-# Celebrations.com
+# Party Ideas, Party Planning Tips, Expert Advice - Celebrations
 
 CELEBRATIONS.COM recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
