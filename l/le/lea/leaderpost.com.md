@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the leaderpost.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629104937id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaderpost.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231010629id_/http%3A//www.canada.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # canada.com - Customer Privacy Statement
 
-[Version français](https://web.archive.org/web/20110629104937id_/http%3A//www.canada.com/aboutus/privacy_fr.html)
+[Version français](https://web.archive.org/web/20111231010629id_/http%3A//www.canada.com/aboutus/privacy_fr.html)
 
 Postmedia Network Canada Corp. and its affiliated and subsidiary entities, including Postmedia Network Inc. ("Postmedia Network", "we" or "us") is committed to protecting your privacy and safeguarding your personal information. This Privacy Statement describes how we may collect, use and disclose personal information. This Privacy Statement applies to any personal information we collect or receive about you, from any source. However, it does not apply to personal information that we collect, use or disclose for journalistic purposes. 
 
