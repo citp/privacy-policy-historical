@@ -1,94 +1,106 @@
-> *The following text is extracted and transformed from the sidetick.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202115330id_/http%3A//www.sidetick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidetick.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Privacy Policy
+SIDETICK PRIVACY POLICY - [Updated 08.17.10]
 
-[Updated 8.6.08]
+Sidetick.com ("Sidetick") would like to thank you for visiting our website Sidetick located at http://www.sidetick.com (the "Website"). Through out this Privacy Policy, Sidetick may be referred to as "we", "us", or "our" and you, the user of the Website, may be referred to as "you" or "your". 
 
-Sidetick.com (“Sidetick”) would like to thank you for visiting our website [enter site name] located at [http://www.sidetick.com](http://www.sidetick.com/)  (the “Website”).  Throughout this Privacy Policy, Sidetick may be referred to as “we”, “us”, or “our” and you, the user of the Website, may be referred to as “you” or “your”. 
+**1\. Purpose**
 
-**Purpose**
-
-The purpose of this policy is to explain to you our business practices that we have in place regarding the information you provide to us online at this Website and the various choices that are available to you regarding the ways that we utilize this information. 
-
-**More Information**
-
-If you have any questions regarding this Privacy Policy or would like additional information on our privacy practices, please feel free to contract us directly at [insert email address].
-
-**What information do we collect?**
-
-A.      **Non-Personally Identifiable Information**  
-We use your non-personally identifiable information that you submit for Website design and content improvements and to allow us the opportunity to personalize your experience on the internet, in particular, your return visits to the Website.  Personalizing your internet experience allows us to present you with offers for products and services that we believe might be of interest to you.  To the extent allowable by law, we may disclose this type of information to other parties.  We also use this type of information in our analysis of the overall usage of our Website by you and other users.  This type of data describes the demographics of users of the Website including each user’s usage and characteristics compiled and reported as a group rather than on an individual basis.  To the extent allowable by law, we reserve the right to share this aggregate data with third parties.  Your use of the Website and your sharing of your personal information while visiting the Website shall be considered your approval to our sharing this aggregate information to third parties. 
-
-B.      **Personally Identifiable Information**
-
-Your name, street address, e-mail address, telephone number, date of birth, social security number and credit card information are examples of the types of personally identifiable information that we collect when you register or make a purchase at this Website.  We also collect information that you provide us in response to questions we ask of you while visiting this Website regarding interests you may have about certain products and services offered by some of our advertising partners.  This information is collected when you provide it to us, even when you complete some, but not all, of the registration process.
-
-**How Do We Use Your Information?**
-
-We may use information that we have collected for any legally permissible purpose.  We may sell or transfer this information to internet marketing companies or any other third party.  When you provide your information to us,  you affirmatively and expressly authorize, consent to , and grant to us and any of our affiliates or other third parties **** the right to use your information for any legal purpose including any of the following:  completing a purchase transaction which you initiate with us or another party at this Website; marketing purposes such as sharing your information with affiliated and non-affiliated  financial service providers, such as mortgage lenders or brokers, insurance companies and title companies and non-financial service providers, such as third party advertisers, retailers or direct marketers; sending you promotional offers by e-mail advertising, telemarketing, direct mail marketing, pop-ups, pop-unders, SMS cell phone text messaging, instant messaging, **** and/or online banner advertising; tracking compliance with terms and conditions; and for validation, suppression, content improvement and feedback purposes.
-
-Your affirmative consent regarding the disclosure of your information to nonaffiliated third parties may be revoked by you (see the “Your Choices” section of this policy below to learn how).
-
-If and when you purchase any products or services offered on the Website, you are allowing us to collect your credit card information which we will use to bill you for those purchases.  We may share your credit card information with third parties from whom you purchase products or services advertised at the Website.  You also are authorizing us, through a third party service provider,  to periodically verify the active status of your account by charging a small amount to the card then immediately crediting back that amount.  To accomplish this verification, your credit card information will be shared with such third party service provider, but only for that limited purpose.  We may also share with other third parties the fact that we have credit card information for certain individuals, but not share the actual information unless you consent to such disclosure in advance.
-
-If there is an update to the Website or other information regarding your use of the Website, you give your affirmative consent and expressly authorize us, our affiliates or other third parties to contract you to relay that information via electronic mail, text or instant messaging, or by other electronic means such a your cell phone and you agree to pay any charges that may be incurred by you in relation to those communications directly to your wireless service provider.  This affirmative consent and authorization may be later revoked by you by following the procedure below and you will no longer receive these types of communications.
-
-By submitting your personal information to us, you have effectuated a purchase, made an inquiry, or submitted an application in accordance to the provisions of the Amended Telemarketing Sales Rule (16 CFR Part 310) (hereinafter the “ATSR”).  The ATSR affords us or a third party acting on our behalf the opportunity to contact you through telemarketing and you hereby expressly authorize us to do so regardless if your phone number is registered with the Federal Trade Commission and appears on their “Do Not Call List.”  Similarly, registering with, purchasing from, or placing an inquiry with any third party advertiser at the Website signifies your granting express authorization to such third party advertiser(s) to contact you by email, text or instant messaging, direct mail or through telemarketing.
-
-In the event that it is determined that the Gramm-Leach-Bliley Act, 15 U.S.C. §6802 (hereinafter the “GLB Act”) is applicable to us and the services we provide, this policy shall serve as the initial “Privacy Notice” which we are required to furnish to you in accordance with the provisions of the GLB Act.  Your submission of your personal information shall serve as your acknowledgment of receipt of the required notice as well as granting your consent for us to forward your annual notice of the Privacy Policy by posting the same at this Website and/or transmitting the same to you via email communication.
-
-In the event that we reasonably believe that this Website has ever been used in connection with any illegal act(s) or commission of a crime, is the subject of a subpoena issued to us or is required to be disclosed as a matter of law or pursuant to some other order issued by a court of law, is responsive to a due diligence inquiry made by a prospective purchaser as part of a merger or acquisition of our assets or ownership interests, or is otherwise appropriate and necessary to be disclosed according to our best judgment so shall be disclosed.
-
-By registering at this Website, you are providing your affirmative consent to become a member of our lists and in doing so you expressly waive any protection of privacy afforded by the national and all states’ “Do Not Call” registries.  If your jurisdiction disallows such a waiver, then this waiver is void and does not apply to you.  Your registration also documents your agreement to allow us to track the pages that you access on our Website through the use of pixel tags or gifs.  This tracked information regarding Website usage may be shared with third parties for any legal purpose including future campaign development and statistical analysis, for example, and you provide your consent to such sharing of information.
-
-When you submit your personal information during registration, you are also agreeing to allow us to utilize cookies, text files that are placed on your computer’s browser which indicate your preferences, which helps us improve the Website and personalize your internet experience.  You may learn more about cookies by visiting [www.cookiecentral.com](http://www.cookiecentral.com/).  You may still visit our Website even if you decide that you do not wish to allow cookies.
-
-By opting in to our lists and agreeing to receive email communications from us you are agreeing to each provision of this Privacy Policy, which may be modified by us at any time.  Any change to this Privacy Policy shall become effective immediately upon posting on the Website and your continued use of the Website or continued acceptance of email communications that we send to you shall indicate your acceptance of those changes.  Bookmark this page and check it periodically for any changes to this Privacy Policy. 
-
-If you are under the age of 18, you are not permitted to use the Website.  This Website is not intended for use by minors and we do not knowingly collect any information pertaining to individuals who have not attained the age of 18.  Parents and guardians should closely monitor the internet activities of their children and we encourage such adult supervision and active participation which support a positive internet learning experience. 
-
-The advertisements contained at this Website are not endorsed by us and the accuracy of the information contained in them is not guaranteed by us.  Responsibility for ad content remains solely with the third party advertiser.  Please be aware that each of these independent third party advertisers has their own Privacy Policy which describes how they collect and use your personally identifiable information.  We recommend that you carefully review the privacy policies for each third party advertiser and remember that this Privacy Policy only applies to the information you submit to us at this Website.
-
-Your agreement to the terms of this Privacy Policy signifies your granting your consent allowing us to disclose any information or communication to any third party which we determine is appropriate to market our products and services and/or necessary to complete a transaction initiated by you with an unaffiliated third party.  Such determination shall be made at our sole and absolute discretion and you hereby authorize such disclosure.
-
-**What security measures do we take to safeguard your information?**
-
-The information that you submit to us at this Website is safeguarded by us utilizing industry standard security measures in an effort to protect such data from unauthorized access or disclosure whether online or off-line.  Please keep in mind that the security of any information transmitted over the internet cannot be guaranteed and you submit your personal information at your own risk.  In the unlikely event that the security of your information is compromised, we will notify you as quickly as is reasonably practicable after the federal authorities and law enforcement personnel have been notified, the scope of security breach has been determined, and the appropriate remedial measures have been initiated to mitigate the damages.  You agree and hereby affirmatively consent to receive such notification via email to the address you provide to us at registration. 
-
-We protect the information that you submit to us online using SSL encryption software.  Off-line your information is shared internally only with our employees who have a “need to know” in order to perform their assigned duties.  Access to any of your information is prohibited to all others.
-
-  **What choices are available to you regarding disclosure of your information?**
-
-You have the choice to request that we not share your personally identifiable information with unaffiliated third parties.  To exercise this option and opt-out, simply send an email to [insert email address] or call toll-free [insert toll-free telephone number] during the hours of [insert the hours that the toll-free line is manned].  Remember, opting-out from receiving future marketing communications from us will not effectuate an opt-out from receiving similar communications from third parties with whom we have shared your information.  To opt-out from receiving communications from these third parties, you must notify each of the parties that you wish to opt-out of their respective list utilizing the opt-out mechanism identified in each party’s privacy policy.
-
-If you wish to no longer receive future email communications pertaining to this Website [Click Here](http://www.sidetick.com/unsubscribe.php) and we will promptly honor your opt-out request.
-
-If you no longer wish to receive future SMS text messages from us, please reply to any of our text messages with “STOP” or “QUIT” and we will remove you from our list.
-
-If you no longer wish to receive future instant messages from us, follow the instructions which appear after you click on any opt-out link located near the end of each instant message we send to you.
-
-If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [[clicking here](http://www.sidetick.com/unsubscribe.php)].
-
-If you submit your personal information and register at one of our other websites, you will need to affirm any changes you have requested regarding the sharing of your information.
-
-**Special Notice for Vermont Residents**
-
-Your authorization or consent is required prior to our sharing your information with non-affiliated third-parties.  When you submit your personal information to us, you provide your express authorization and affirmative consent allowing us to disclose your information to our affiliates and any non-affiliated third-party only for those purposes outlined within this Privacy Policy.  If you no longer wish for us to share your information with these parties, simply notify us via email at [webmaster@sidetick.com] and we will discontinue sharing your information as per your request.  
-  
+The purpose of this policy is to explain to you our business practices that we have in place regarding the information you provide to us online at this Website and the various choices that are available to you regarding the ways that we utilize this information. Sidetick is a social networking site that encourages users to share information with other users. This privacy policy is intended to explain to you how we use information you submit to us over the site. In addition to sharing information with Sidetick, you may share personal information with other users based on your profile settings and affirmative decisions to participate in forums, discussions, and other services offered through the Website. 
 
 
-**Special Privacy Rights for California Residents**
+**2** . **Minors**
 
-**__If you are a resident of the State of California and wish to opt-out from future disclosure of your personal information to third parties for marketing purposes [[click here](http://www.sidetick.com/unsubscribe.php)] or send us an email at [webmaster@sidetick.com].  Opting-out from this sharing of your personal information to these third-party marketers will not opt you out of receiving future communications from us.  Additionally, in accordance with the California Financial Information Privacy Act (“CFIPA”), we will not share your social security number with any third-party without your prior consent.__**  Pursuant to the CFIPA, we will not share your “non-public personal information”, as defined therein, with any of our affiliates without first providing you with the required annual notice notifying you that we will be sharing such information with those affiliates.  To formally document a CFIPA consent acknowledgement [click here].
+This Website is not intended for use by minors under the age of 13. If you are under the age of 13, you are not permitted to use the Website. We do not knowingly collect any information pertaining to minors under the age of 13. Parents and guardians should closely monitor the Internet activities of their children and we encourage such adult supervision and active participation which support a positive Internet learning experience. 
 
-Pursuant to California Civil Code §1798.83, if you wish to request certain information regarding our disclosure of your personal information to third parties for direct marketing purposes, simply notify us via email at [webmaster@sidetick.com](mailto:webmaster@sidetick.com) or via US Mail and we will provide you with such information.
 
-**Submitting Your Information Using Your Electronic Signature**
+**3** . **More Information**
 
-By submitting your information and agreeing to the terms contained in this Privacy Policy, you agree to conduct business electronically in accordance with the federal Electronic Signatures in Global and National Commerce Act (E-Sign), 15 U.S.C.A. §§ 7001-7031 (Supp. 2001). You further understand that transactions and/or signatures in records may not be denied legal effect solely because they are conducted, executed or prepared in electronic form and that if a law requires or permits a record or signature to be in writing, an electronic record or signature satisfies that requirement.  You acknowledge and freely consent that submitting your information shall constitute a binding electronic signature under the laws of the United States.  You further agree that you will use your electronic signature to accept electronic records pertaining to the Website, its products and/or services which includes in part this Privacy Policy.  Additionally, you agree and consent to receive and to be legally bound by other information sent electronically, which may include certain disclosures which we might be required to make in accordance with federal, state or local law or regulation which may be issued to you electronically. 
+If you have any questions regarding this Privacy Policy or would like additional information on our privacy practices, please feel free to contract us directly at [support@sidetick.com](mailto:support@sidetick.com) or write to: SideTick, LLC, 1100 Hammond Drive, #410-202, Sandy Springs, Georgia, 30328. 
 
-By submitting your information, you affirm that you own or have access to a compatible operating system, web browser, email application, and either a printer or document download capabilities that will enable you to retain copies of all communications which we send to you electronically.
 
-If you require technical assistance regarding electronic records or electronic signatures or have a matter appropriate for a customer service representative, please contact us via email at [webmaster@sidetick.com](mailto:webmaster@sidetick.com)  and we will be glad to assist you.  To obtain a paper copy of any information that we send to you electronically free of charge to you, please make your request via email at [webmaster@sidetick.com](mailto:webmaster@sidetick.com) .
+**4\. What information do we collect?**
+
+**a. Non-Personally Identifiable Information** 
+When you visit this Website, our servers automatically collect certain web site usage information. Website usage information is non-identifying information that describes how our visitors use and navigate this Web Site, and it includes the number and frequency of visitors to each web page and the length of their stays. We also collect the information automatically sent to us by your browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting this Web Site, and IP address. An IP address is a number that is automatically assigned to your computer whenever you access the Internet, which web servers use to identify where to send the information your computer requests. We may use IP addresses for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of this Web Site. We also may determine the technology available through your browser in order to serve you the most appropriate version of a web page. We may disclose non-identifying user information, such as aggregated statistics, to third parties for a variety of purposes, including describing our services, marketing, and providing a better user experience on this Website. 
+**b. Personally Identifiable Information** 
+We collect personally identifiable information about you. For example, we may collect your name, street address, e-mail address, telephone number and date of birth when you register or make a purchase at this Website. You may also provide us with highly sensitive personal information through your profile or other services on the Website, including, but not limited to, where you work, pictures, relationships, and political and religious views. 
+We also collect information that you provide us in response to questions we ask of you while visiting this Website regarding interests you may have about certain products and services offered by some of our advertising partners. This information is collected when you provide it to us, even when you complete some, but not all, of the registration process. 
+Furthermore, we may collect personally identifiable information about you through surveys, polls, forums, and other services provided through the Website. 
+
+
+**5\. How Do We Use Your Information?**
+
+We use your _non-personally identifiable information_ that you submit for Website design and content improvements and to allow us the opportunity to personalize your experience on the Internet, in particular, your return visits to the Website. Personalizing your Internet experience allows us to present you with offers for products and services that we believe might be of interest to you. We also use this type of information in our analysis of the overall usage of our Website by you and other users. This type of data describes the demographics of users of the Website including each user's usage and characteristics compiled and reported as a group rather than on an individual basis. To the extent allowable by law, we reserve the right to share non-personally identifiable information collected from you with third parties. Your use of the Website shall be considered your approval to our sharing this non-personally identifiable information to third parties. 
+We do not share your personally identifiable information with unaffiliated third parties, except as provided for in this Privacy Policy and the Sidetick Terms of Service. 
+We use _personally identifiable information_ to provide the social networking services over this Website. These uses include, but are not limited to, contacting you about the services on our Website, billing you for certain services, or providing offers for products and services offered by Sidetick, its affiliates, or trusted third-parties. Sidetick uses the information it collects on the Website to provide the Website and affiliated services to you and may use such information to enhance the value of the Website. Sidetick may also use information about you in the aggregate for marketing and promotional purposes, to improve the content of our Website or services, or to notify you about updates to our Website. We may also allow publicly-shared information to be collected and used by search engines, such as Bing and Google. We may collect publically-shared information in any legally permissible manner. 
+Sidetick will use information about you to contact you through email and notices posted on the Website. Sidetick will also contact you to authorize other users to access your networks and information. You may block any user for any reason or for no reason by pressing the 'Block" button located at their profile homepage which shall restrict their ability to access your profile. **** We send all new users a welcoming email to verify password and user name. Established members may also receive information on products, services, events, and publications. 
+We will use information we collect about you to serve advertisements to you. We may also use your information we collect about you to serve advertisements through email and other channels to you through one or more listed marketing partners, that among them is Diversiosity, LLC. 
+Information about other users and non-users that you provide Sidetick may be used like information collected by Sidetick directly, and is subject only to this Privacy Policy. 
+In the event that it is determined that the Gramm-Leach-Bliley Act, 15 U.S.C. 6802 (hereinafter the "GLB Act") is applicable to us and the services we provide, this policy shall serve as the initial "Privacy Notice" which we are required to furnish to you in accordance with the provisions of the GLB Act. Your submission of your personal information shall serve as your acknowledgment of receipt of the required notice as well as granting your consent for us to forward your annual notice of the Privacy Policy by posting the same at this Website and/or transmitting the same to you via email communication. 
+We may partner with third-parties to provide services to Users, such as credit card processing or course materials. We share some information collected over the Website - including personally identifiable information - that such third-parties need to provide these services. Such third-parties may only use any information from Sidetick to provide these third-party services to you. Such third-parties are governed by their own privacy and security policies. We do not sell, share, exchange, rent, or otherwise provide personally identifiable information about our Users to third-parties for their marketing purposes. 
+We may share personally identifiable information about you when (i) we reasonably believe that this Website has been used in connection with any illegal act(s) or commission of a crime, (ii) information about you is the subject of a subpoena issued to us or is required to be disclosed as a matter of law or pursuant to some other order issued by a court of law, (iii) information about you is responsive to a due diligence inquiry made by a prospective purchaser as part of a merger or acquisition of our assets or ownership interests, or (iv) the need for your information is based on public or personal safety concerns; to detect or deter actual or potential fraud, abuse, or other misuse of the Website or against Sidetick or another third-party; or to protect against potential losses, as determined in our sole discretion. 
+If the ownership of all or substantially all of this Website or the company changes, we reserve the right to transfer your personally identifiable information to the new owner(s). In the event of such a transfer, your information remains subject to the promises made in the then-current version of this Privacy Policy. 
+If you join a community in SideTick, your information will be shared with the leader of that community. By joining a community you consent to this sharing of information and to receive communications from the community.s leader. 
+When you convert your Tickbucks into cash, your information may be shared with others, including other SideTick members and taxing authorities, disclosing that such cash payment has been made to you. 
+
+
+**6\. You May Also Share Information with Others**
+
+As a social networking site, you may disclose personally identifiable information through your profile or through your use of services on this Website to other users or to the general public. You may change your settings to limit the amount of profile information you share with others. By participating in or otherwise using the Website, you consent to allowing other Users that you have authorized to access and see information, including personally identifiable information, about you that you have provided to the Site. Each user controls how much personally identifiable information is shared with others, except your name is always shared with others on the Website. Other than your name, which is shared with everyone on the Website at all times, you have complete control over how much and when personally identifiable information is available to any other user. You should also be aware that any personally identifiable information you choose to provide as part of participating in the Website - including responding to emails from other Users, participating in forums or message boards, or responding to surveys - may be read, collected, or used by Users, or forwarded to non-Users. You should exercise caution when using chat rooms, forums, or other services on this Website where personally identifiable information may be shared with other users or the general public. **** 
+
+
+**7\. "Cookies"**
+
+This Website may also utilize cookies, text files that are placed on your computer's browser which indicate your preferences, which helps us improve the Website and personalize your Internet experience. You may learn more about cookies by visiting www.cookiecentral.com. You may still visit our Website even if you decide that you do not wish to allow cookies; however, certain functionality may be lost if you do not accept cookies. For example, the "remember me" function on the log-in page would not be operable. 
+
+
+**8\. Third-Party Advertisement and Sites**
+
+The advertisements that appear on and third-party sites linked from this Website are not endorsed by us. We make no guarantee regarding the accuracy of the information contained in these third-party advertisements and sites. Responsibility for such ad and site content remains solely with the third party. 
+You may choose to share information with third-party advertisers not associated with the Website. Such sharing through their on-site offers is entirely up to you. 
+Please be aware that each of these independent third party advertisers and sites may have their own Privacy Policy, which describes how each third-party collects and uses your information. We recommend that you carefully review the privacy policies for each third-party site and remember that this Privacy Policy only applies to the information you submit to us at this Website. 
+
+
+**9\. What security measures do we take to safeguard your information?**
+
+The information that you submit to us at this Website is safeguarded by us utilizing industry standard security measures in an effort to protect such data from unauthorized access or disclosure whether online or off-line. Please keep in mind that the security of any information transmitted over the Internet cannot be guaranteed and you submit your personal information at your own risk. In the unlikely event that the security of your information is compromised, we will notify you as quickly as is reasonably practicable consistent with the needs of federal or local authorities and law enforcement and following determination of the scope of the security breach and appropriate remedial measures have been initiated to mitigate the damages. You agree and hereby affirmatively consent to receive such security breach notification via email to the address you provide to us at registration. 
+We protect the information that you submit to us online using SSL encryption software. Off-line your information is shared internally only with our employees who have a "need to know" in order to perform their assigned duties. Access to any of your information is prohibited to all others. 
+
+
+**10\. What choices are available to you regarding our use of your information?**
+
+If you wish to no longer receive future email communications pertaining to this Website [Click Here](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/unsubscribe.php) and we will promptly honor your opt-out request. 
+If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [Clicking Here](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/unsubscribe.php). 
+If you are an existing member or become a member but wish to not receive Sidetick system notifications, you will also need to indicate your opt-out preferences by unmarking the boxes on your [account settings page](https://web.archive.org/web/20111231213937id_/http%3A//www.sidetick.com/user_account.php). 
+Although Sidetick strives to honor your opt-out request promptly, please allow ten (10) business days to process your request. During such processing time, it is possible that you may continue to receive communications from us. 
+A user can decide to quit Sidetick by simply selecting the 'Profile' tab located on the Home Page and then selecting 'Account Settings' and then selecting 'Delete Account', the forth tab on the following page. On the next page select 'Delete My Account'. 
+Your personal identifying information is retained by us in our archives for as long as we deem appropriate, which may include indefinitely, showing, in part, compliance with applicable law and have record of the termination. Your information is not shared with affiliates. 
+
+
+**11\. Copies of Information; Updating and Correcting Information We Have Collected**
+
+You may obtain copies of information we collect upon by sending a written request to [support@sidetick.com](mailto:support@sidetick.com). You may update and make any corrections to your profile if and when necessary by selecting 'Account Settings' from the 'Profile' pull down menu. **** 
+
+
+**12\. Foreign Privacy**
+
+By using the Website, you consent to having your personal data transferred to and processed in the United States. 
+
+
+**13\. Submitting Your Information Using Your Electronic Signature**
+
+By submitting your information and agreeing to the terms contained in this Privacy Policy, you agree to conduct business electronically in accordance with the federal Electronic Signatures in Global and National Commerce Act (E-Sign), 15 U.S.C.A. 7001-7031 (Supp. 2001). You further understand that transactions and/or signatures in records may not be denied legal effect solely because they are conducted, executed or prepared in electronic form and that if a law requires or permits a record or signature to be in writing, an electronic record or signature satisfies that requirement. You acknowledge and freely consent that submitting your information shall constitute a binding electronic signature under the laws of the United States. You further agree that you will use your electronic signature to accept electronic records pertaining to the Website, its products and/or services which includes in part this Privacy Policy. Additionally, you agree and consent to receive and to be legally bound by other information sent electronically, which may include certain disclosures which we might be required to make in accordance with federal, state or local law or regulation which may be issued to you electronically. 
+
+
+**14\. Amendments and Updates to this Privacy Policy**
+
+By accessing this Website, you are agreeing to each provision of this Privacy Policy, which may be modified by us at any time. Any change to this Privacy Policy shall become effective immediately upon posting on the Website and your continued use of the Website. Bookmark this page and check it periodically for any changes to this Privacy Policy. 
+
+
+**15\. States' Laws Take Precedence on Limitation of Liability**
+
+**Some states have laws which prohibit certain limitations from liability, so the limitations expressed in this Privacy Policy and other SideTick documents and policies may not apply to you. For residents of those select states, we recommend that you seek advice from legal counsel regarding the limitations applicable and acceptable in your jurisdiction.** 
+
