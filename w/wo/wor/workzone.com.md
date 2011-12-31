@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workzone.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202180905id_/http%3A//www.workzone.com/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workzone.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090627id_/http%3A//workzone.com/security.jsp) for the most accurate reproduction.*
 
 # WorkZone Security Policy
 
