@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toursbylocals.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606000340id_/http%3A//www.toursbylocals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toursbylocals.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205943id_/http%3A//www.toursbylocals.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,6 +13,9 @@ Personal Information
 Personal information is collected when you voluntarily purchase services or register as a user. Personal information may include e-mail address, passwords, telephone numbers, address and other data needed to provide services to you.
 
 We will only require the minimum personal information we need and use it only to provide the services you have requested.
+
+Full Names Displayed in Reviews  
+By default, your first and last name is displayed with any guide reviews you post. If you would like to only have your first name and the first letter of your last name displayed, uncheck the 'Display full name' option in the 'Account Options' section after you log in.
 
 Messages Sent Through the System  
 ToursByLocals provides a method for communicating with the guides on our system. We may monitor these messages for the purpose of ensuring that you are properly served by our guides and to ensure compliance with the terms and conditions of ToursByLocals.
@@ -39,4 +42,4 @@ No one can guarantee that transmission of data over the Internet is completely s
 
 ToursByLocals.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online.
 
-Please contact us via e-mail at info@ ToursByLocals.com if you have any questions or concerns about our Privacy Policy.
+Please contact us via e-mail at info@ToursByLocals.com if you have any questions or concerns about our Privacy Policy.
