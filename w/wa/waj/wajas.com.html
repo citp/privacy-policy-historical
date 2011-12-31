@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the wajas.com privacy policy that was archived on 2010-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100407010736id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wajas.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231154032id_/http%3A//www.wajas.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy | Wajas | Wolf Breeding Sim | Online Pet Site | Dog Breeding Game</title>
 	<meta name="ROBOTS" content="ALL">
 	<noscript><META HTTP-EQUIV="refresh" CONTENT="0;URL=no_javascript.php"></noscript>
+	<script type="text/javascript">var yoHeadTime = new Date().getTime();</script>
 	<link rel="shortcut icon" href="./favicon.ico">
 	<link href="_css/screen.css" type="text/css" rel="stylesheet" media="all">
 		<link href="_css/fall_layout.css" type="text/css" rel="stylesheet" media="all">
@@ -22,7 +23,9 @@
     <script type="text/javascript">
 		function showmenu(menu){
 			//alert(menu);
-			document.getElementById('page_menu_2').innerHTML = document.getElementById(menu).innerHTML + document.getElementById('google_ads').innerHTML;
+			var google_ads = document.getElementById('google_ads');
+			if (google_ads)
+				document.getElementById('page_menu_2').innerHTML = document.getElementById(menu).innerHTML + google_ads.innerHTML;
 			return false;
 		}
 	</script>
@@ -55,22 +58,9 @@
 		        
         <input class="text default-value" size="8" type="text" name="username" maxlength="50" value="Username">
         <label class="check">Password:</label><input class="text" size="8" type="password" name="password" maxlength="50" value=""> 
-        <label class="check">Remember Me:</label><input type="checkbox" name="remember_me" value="1">
-        <!--<label class="check">
-        <input type="checkbox" id="cbox_remember" class="cbox" value="1" /> 
-        <a href="javascript:;" onclick="javascript: check_remember();" style="text-decoration:none;"><span id="remember_me"><img src="/_images/themes/purple_moon/checkbox_0.gif" /></span> Remember me</a></label>-->
-        
-        <!--<input type="image" src="/_images/themes//btn_login_0.gif" 
-        class="button" 
-        id="button_login"
-        name="login"
-        value="LOGIN"
-		onmouseover="return roll_on(this);" 
-		onmouseout="return roll_off(this);" />-->
-        <input type="submit" class="submit_button" name="login" value="Login">        
-        <!--<input type="image" alt="Login" src="/_images/themes//btn_login_0.gif" class="button" name="login" id="button_login" /> -->
-  <span class="pass_link">[<a href="lost_password.php">Lost Password?</a>]</span>
-</form>
+		        	<label class="check">Remember Me:</label><input type="checkbox" name="remember_me" value="1">
+			<input type="submit" class="submit_button" name="login" value="Login">			<span class="pass_link">[<a href="lost_password.php">Lost Password?</a>]</span>
+		</form>
 </div>   
             <div id="page_menu_1"></div>     
             <div id="page_menu_2"></div>    <div id="menu_1" class="hidden_menu">
@@ -130,13 +120,53 @@
 
                     <p>&nbsp;</p>
                     
-                    <div id="page_footer"><p><em> All Images, Breeds, Coding, Text © 2010, <a href="http://www.wajas.com">Wajas, Inc</a>. All rights reserved.</em>
+                    <div id="page_footer"><p><em> All Images, Breeds, Coding, Text © 2011 <a href="http://www.wajas.com">Wajas, Inc</a>. All rights reserved.</em>
 <br>
-<a href="privacy_policy.php">Privacy Policy</a> || <a href="terms_of_service.php">Terms of Service</a> || <a href="credits.php">Credits</a> || <a href="sitemap.php">Sitemap</a>
+<a href="privacy_policy.php">Privacy Policy</a> || 
+<a href="terms_of_service.php">Terms of Service</a> || 
+<a href="credits.php">Credits</a> || 
+<a href="sitemap.php">Sitemap</a>
 </p>
 
-
-</div>
+<p id="profiling" class="small"></p><script type="text/javascript"> 
+//<![CDATA[
+(function() {
+	var pair = ["none", 0]
+	var reportTimeSegment = function(name, start, end) {
+		if( (start && end) && (end-start > 0) ) {
+			var distance = (end-start)/1000;
+			pair = [name, distance];
+		}
+	};
+	var onLoadHandler = function() {
+		var onLoadTime = new Date().getTime();
+		reportTimeSegment("headToOnLoad", yoHeadTime, onLoadTime);
+		var webTiming = ( window.performance || 
+						window.mozPerformance ||
+						window.msPerformance ||
+						window.webkitPerformance );
+		if( webTiming && webTiming.timing ) {
+			var navTime = webTiming.timing.navigationStart || null;
+			var responseEndTime = webTiming.timing.responseEnd || null;
+			reportTimeSegment("navToOnload", navTime, onLoadTime);
+		}
+		var img = document.createElement('img');
+		img.src = '/tracking.php?k=' + pair[0] 
+				+ "&v=" + pair[1]
+				+ "&r=" + Math.random() 
+				+ "&u=" + encodeURIComponent(location.href.substr(7))
+				+ "&p=";
+		img.width = 1;
+		img.height = 1;
+		document.body.appendChild(img);
+	};
+	if(!window.addEventListener)
+		window.attachEvent("onload", onLoadHandler);
+	else
+		window.addEventListener("load", onLoadHandler, false);
+})();
+//]]>
+</script></div>
                 </div>
             </div><!-- END page_content -->
         </div><!-- END page_container -->
@@ -153,6 +183,43 @@ var pageTracker = _gat._getTracker("UA-6616805-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+<script type="text/javascript">
+//<![CDATA[
+var _dbw1 = document.getElementById("profiling").innerHTML;
+var _dbw2 = "";
+(function() {
+  var reportTimeSegment = function(index, name, start, end, scope) {
+    if( (start && end) && (end-start > 0) ) {
+      var distance = (end-start)/1000;
+      _dbw2 += name + ", " + distance + " &nbsp; ";
+    }
+  };
+  var onLoadHandler = function() {
+    var onLoadTime = new Date().getTime();
+    reportTimeSegment(1, "headToOnLoad", yoHeadTime, onLoadTime, 3);
+    var webTiming = ( window.performance || 
+                      window.mozPerformance ||
+                      window.msPerformance ||
+                      window.webkitPerformance );
+    if( webTiming && webTiming.timing ) {
+      var navTime = webTiming.timing.navigationStart || null;
+      var responseEndTime = webTiming.timing.responseEnd || null;
+      reportTimeSegment(2,"navToResponseEnd", navTime, responseEndTime, 3);
+      reportTimeSegment(3,"navToOnLoad", navTime, onLoadTime, 3);
+      if (_dbw1 != "")
+        document.getElementById("profiling").innerHTML = _dbw1 + "<br>" + _dbw2;
+    }
+  };
+  if(!window.addEventListener) {
+    window.attachEvent("onload", onLoadHandler);
+  } else {
+    window.addEventListener("load", onLoadHandler, false);
+  }
+})();
+//]]>
+</script>
+<div id="performance"></div>
 
 
-</body></html>
+
+<img src="/tracking.php?k=navToOnload&amp;v=2.341&amp;r=0.7816007574398198&amp;u=%2Fweb.archive.org%2Fweb%2F20111231154032id_%2Fhttp%253A%2F%2Fwww.wajas.com%2Fprivacy_policy.php&amp;p=" width="1" height="1"></body></html>
