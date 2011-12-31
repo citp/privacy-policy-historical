@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.ca privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624114750id_/http%3A//www.google.ca/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.ca privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211213id_/http%3A//www.google.ca/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
@@ -16,6 +16,4 @@ We have five [privacy principles](https://web.archive.org/intl/en/corporate/priv
 
 
 
-This Privacy Center was created to provide you with easy-to-understand information about our products and policies to help you make more informed choices about which products you use, how to use them and what information you provide to us. 
-
-For information and advice on how to help your family stay safe online, see the [Google Family Safety Center](https://web.archive.org/familysafety/).
+For information and advice on how to stay safe on the Internet and manage the data you share online, see the [Google Good to Know](http://www.google.com/goodtoknow/) site and the [Google Family Safety Center](https://web.archive.org/familysafety/).
