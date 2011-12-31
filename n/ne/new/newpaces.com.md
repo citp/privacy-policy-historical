@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newpaces.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513175303id_/http%3A//newpaces.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newpaces.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211530id_/http%3A//newpaces.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy - NEWPACES
 
@@ -58,7 +58,7 @@ We may also disclose your personal data where we are required to do so by applic
 
 #### Technology Licensor disclosures
 
-We may also disclose your personal data to the business (SocialGO Limited) that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy (available at [socialgo.com/legal/privacy](http://www.socialgo.com/legal/privacy "SocialGO Privacy Policy")). 
+We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy. 
 
 #### International transfers
 
@@ -88,4 +88,4 @@ If you wish to exercise any of the above rights, please e-mail us at the address
 
 This website also contains links to other third party websites over which we have no control. Please note that this privacy policy applies only to the personal data that we collect through this website and we cannot be responsible for personal data that third parties may collect, store and use through their independent websites. You should always read the privacy policy of each website you visit carefully. 
 
-Malaysia Online Friends, Find Online Friend, Friend online. Meet New Friends. [Add site](http://www.thebestlinks.com/)
+Meet New Friends. [Add site](http://www.thebestlinks.com/) [](http://cdn.attracta.com/badge/verify/52330.html) [](http://www.activesearchresults.com/) [Contextual Links](http://www.linksmanagement.com/)
