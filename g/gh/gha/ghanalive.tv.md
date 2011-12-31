@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218093607id_/http%3A//www.ghanalive.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210139id_/http%3A//www.ghanalive.tv/privacy.php) for the most accurate reproduction.*
 
 # 
 
-## Introduction:
-
 GhanaLive.tv respects your privacy. This Privacy Statement explains what information we collect through our products and when you contact us for support, how we use that information, and what choices you have.
 
-The Sites contains links to other web sites. This Privacy Statement does not apply to the practices of any company or individual that GhanaLive.tv does not control, or any web sites that you link to from the Sites. You should carefully review the privacy policies of any web sites that you visit from ours to learn more about their information and privacy practices. The collection and use of your personal information shall be governed by such other party or site’s privacy policy. GhanaLive.tv is not responsible for their privacy practices.
+The Sites contains links to other web sites. This Privacy Statement does not apply to the practices of any company or individual that GhanaLive.tv does not control, or any web sites that you link to from the Sites. You should carefully review the privacy policies of any web sites that you visit from ours to learn more about their information and privacy practices. The collection and use of your personal information shall be governed by such other party or site's privacy policy. GhanaLive.tv is not responsible for their privacy practices.
 
 Please take a few moments to read this Privacy Statement. By accessing the Sites or using a GhanaLive.tv product, you agree to accept the terms and conditions of this Privacy Statement and are aware that our policies may change in the future.
 
@@ -24,13 +22,13 @@ GhanaLive.tv products is personally identifiable by product serial number. In so
 
 The information collected from many users is aggregated for analysis and, in some Instances, made generally available anonymously to users of GhanaLive.tv services. For example, GhanaLive.tv may use such information to provide features such as lists of popular movies. GhanaLive.tv may also use personally identifiable information to make content recommendations to individual users.
 
-If you do not wish GhanaLive.tv to use your information as described in this section, please follow the procedure in “What Choices You Have” below.
+If you do not wish GhanaLive.tv to use your information as described in this section, please follow the procedure in "What Choices You Have" below.
 
 ## How we use the information we collect:
 
 We use Personally Identifiable Information that you provided us to perform the services for which the data was collected, such as for order fulfillment, customer support and marketing activities, such as e-mail newsletters and sending you information about products and services that may be of interest to you. Later on in this Privacy Statement, we provide you with more information on how to opt-out of marketing communications.
 
-We use non-Personally Identifiable Information to determine how people use the Sites and its services and to analyze usage and performance of our products and their software and features. For example this data tells us information including how often users click on our advertisements, which files are downloaded most frequently, and which areas of our site are the most popular. Analyzing this data allows us to improve our products and services.
+We use non-Personally Identifiable Information to determine how people use the Sites and its services and to analyze usage and performance of our products and their software and features. For example this data tells us information including how often users click on our advertisements, which files are downloaded most frequently, and which areas of our site are the most popular. Analyzing this data allows us to improve our products and services. 
 
 ## How we share information:
 
@@ -46,7 +44,7 @@ If you do not want to receive information about our products and services or do 
 
 ## Security:
 
-During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL ("Secure Sockets Layer"), and other security technology. These guards against the interception of the information while it is on the Internet. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, and only our employees and agents with a need to know the information are given access. However, there is no such thing as "perfect security" on the Internet. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Third parties may unlawfully access transmissions or private communications. Please contact us if you have any information regarding unauthorized use of the Sites. 
+During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL ("Secure Sockets Layer"), and other security technology. These guards against the interception of the information while it is on the Internet. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, and only our employees and agents with a need to know the information are given access. However, there is no such thing as "perfect security" on the Internet. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Third parties may unlawfully access transmissions or private communications. Please contact us if you have any information regarding unauthorized use of the Sites.
 
 ## Questions:
 
