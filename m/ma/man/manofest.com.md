@@ -1,31 +1,63 @@
-> *The following text is extracted and transformed from the manofest.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604161310id_/http%3A//superbooyah.com/index.php/Home/System/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manofest.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231124351id_/http%3A//superbooyah.com/index.php/Home/System/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## **PRIVACY POLICY FOR SUPER BOOYAH (www.SuperBooyah.com)**
+Hutch Media, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-All Contributors and Partners are required and Visitors are requested to read and familiarize themselves with the Super Booyah Privacy Policy.  The Privacy Policy will be updated periodically and it is the responsibility of Contributors, Partners, and Visitors to check this site for changes.
+This Privacy Policy covers Hutch Media, LLC's treatment of personal information that Hutch Media, LLC gathers when you are on the Hutch Media, LLC website and when you use Hutch Media, LLC services. This policy does not apply to the practices of third parties that Hutch Media, LLC does not own or control, or to individuals that Hutch Media, LLC does not employ or manage.
 
-If you require any more information or have any questions about our Privacy Policy, please feel free to contact us by email at info(at)SuperBooyah(dot)com. SuperBooyah.com considers the privacy of its visitors of extreme importance. This privacy policy document outlines the types of personal information that is received and collected by SuperBooyah.com and how it is used.
+Information Collected by Hutch Media, LLC
 
-### **Log Files**
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Hutch Media, LLC users:
 
-Like many other Web sites, SuperBooyah.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-### **Cookies and Web Beacons**
+2\. Automatic Information:
 
-SuperBooyah.com uses cookies to store information about visitor preferences, to record user-specific information on which pages the visitor accesses or visits, and to customize Web page content based on visitor browser type or other information that the visitor sends via their browser.
+  * We receive and store certain types of information whenever you interact with us. Hutch Media, LLC and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, Hutch Media, LLC cookie information, and the page you requested. Hutch Media, LLC uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * Hutch Media, LLC may collect and, on any page, display the total counts that page has been viewed. 
+  * Many companies offer programs that help you to visit websites anonymously. While Hutch Media, LLC will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-### **Advertisers**
 
-Some of our advertising partners also use cookies and web beacons on our site. These third-party ad servers or ad networks use technology on the advertisements and links that appear on SuperBooyah.com which are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The SuperBooyah.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options.  More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  Users may also opt out from such collection and use via a live hyperlink to an opt out service such as the Network Advertising Initiative <http://www.networkadvertising.org/managing/opt_out.asp.>
 
-Our advertising partners include, but are not limited to:
+E-mail Communications
 
-Break Media  
-Google Adsense  
-Heavy.com  
-Mondo Media/Cindy Clips  
-PV Media Group  
-The Rubicon Project  
-Value Click Media
+Hutch Media, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. Hutch Media, LLC may send out e-mails with Hutch Media, LLC-related news, products, offers, surveys or promotions.
+
+Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Hutch Media, LLC cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Hutch Media, LLC's coolest features.
+
+Hutch Media, LLC's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page.
+
+Sharing Your Information
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+
+Hutch Media, LLC Personnel: Hutch Media, LLC personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Hutch Media, LLC business.
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Hutch Media, LLC, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+
+Protection of Hutch Media, LLC and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Hutch Media, LLC, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Syndication: Hutch Media, LLC allows for the RSS syndication of all of its public content within the Hutch Media, LLC website.
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the Hutch Media, LLC website. As a result, Hutch Media, LLC does not specifically collect information about children. If we learn that Hutch Media, LLC has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using Hutch Media, LLC or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy
+
+Hutch Media, LLC may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Hutch Media, LLC website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use
+
+If you decide to visit Hutch Media, LLC website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of June 26, 2011 and last updated June 26, 2011.
