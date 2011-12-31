@@ -1,180 +1,36 @@
-<!--The following is the downloaded HTML source of the ubervu.com privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606160204id_/http%3A//www.ubervu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubervu.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231135438id_/http%3A//www.ubervu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy - uberVU</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="shortcut icon" href="/favicon.ubervu.ico" type="image/x-icon"><link href="http://d284gtceqi4kf4.cloudfront.net/ubervu_v15.r1306326258.css" rel="stylesheet" type="text/css"><script type="text/javascript">
-    // Nr of keywords left for this account - 0 if not logged
-    var keywords_left = 0;
-    /* Hold all reactions in an id->json(reaction) hash, to be used for
-     * server-side communication. */
-    var idToJsonReaction = {};
-  </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head><body onload="updateClock(); setInterval('updateClock()', 1000 )"><script type="text/javascript">
-  function updateClock() { return 0;}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/Article"><head><title>Privacy Policy - uberVU</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="google-site-verification" content="dBtmS-WuMDd1n6NeOycCLxz4B0I_vCY6AAaxcVWmNAU"><link rel="shortcut icon" href="/favicon.ubervu.ico" type="image/x-icon"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script><link href="http://fonts.googleapis.com/css?family=Quattrocento+Sans&amp;v1" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://d284gtceqi4kf4.cloudfront.net/ubervu_public.r1324470426.js" charset="utf-8"></script><link href="http://d284gtceqi4kf4.cloudfront.net/ubervu_public.r1324392838.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+            function geoip_country_code() { return 'US'; }
 
-  try {
-    var _gaq = _gaq || [];
-    
-    _gaq.push(['_setAccount', "UA-7442996-1"]);
-    
-      _gaq.push(['_setCustomVar', 1, "User Type", "Not Logged in", 2]);
-    
-    _gaq.push(['_trackPageview']);
-    setTimeout('_gaq.push(["_trackEvent", "NoBounce", "NoBounce", "Over 10 seconds"]);', 10000);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-    
-  } catch(err) {}
-
-  function error_image(image, type) {
-    error_src = 'http://d284gtceqi4kf4.cloudfront.net/static/new/img/reactions_rss.jpg';
-    if (type == 'user') {
-      error_src = 'http://d284gtceqi4kf4.cloudfront.net/static/new/img/user_img.png';
-    } else if (type == 'none') {
-      error_src = 'http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif';
-      image.style.width = '0px';
-    }
-    if (image.src != error_src) {
-      image.src = error_src;
-    }
-  }
-  var compare_colors = []; // Will be replaced on compare page
-</script><script type="text/javascript">
-  function encode(str) {
-	  return encodeURIComponent(str).replace(/%20/g,"+").replace("%2B", "+");
-  }
-  function submit_search(id) {
-    if (typeof id == 'undefined') {
-      id = 'search_text';
-    }
-    var query = document.getElementById(id).value;
-    query = query.replace('  ', ' ').replace('  ', ' ').replace('  ', ' ');
-    pageTrack('search', 'search', query);
-    query = query.replace(/ vs. /g, ' vs ');
-    var index = query.indexOf(' vs ');
-    if (index != -1) {
-      query = encode(query);
-      query = query.replace(/\+vs\+/g, '-vs-');
-      window.location = "/social-media-comparison/" + query + '/';
-    } else {
-      query = encode(query);
-      if (query.length > 0 && query != 'enter company or url') {
-        window.location = "/" + query + "/social-media/";
-      }
-    }
-  }
-  function submit_compare() {
-
-	var term_a;
-	var comp_terms = [];
-	var j;
-
-  	j = 0;
-	if (document.compare_input.term_a != null){
-		term_a = document.compare_input.term_a.value;
-	}
-	else{
-		term_a = 0;
-	}
-
-	if (term_a) {
-		comp_terms.push(encode(term_a));
-		j = 1;
-	}
-
-	for (var i=0; i<document.compare_input.term_b.options.length; i++){
-  		if (document.compare_input.term_b.options[i].selected){
-				j++;
-				comp_terms.push(encode(document.compare_input.term_b.options[i].value));
-			}
-		if (j == 5) break;
-  	}
-    if (comp_terms.length < 2) {
-      return;
-    }
-    term_string = '';
-    sep = '';
-    for (var i=0; i<comp_terms.length; i++) {
-      term_string += sep + comp_terms[i];
-      sep = '-vs-';
-    }
-
-    if (j > 1){
-        pageTrack('search', 'compare', term_string);
-        window.location = "/social-media-comparison/" + term_string + '/';
-    }
-    else{
-        alert('Too few keywords selected!');
-    }
-  }
-</script><div id="page"><div id="window_container" style="display: none;"><div id="window_top"><div id="window_bottom"><div id="window"></div></div></div></div><div class="main_header"><div class="content"><a href="/" class="logo"></a><ul class="home_login"><li><a href="/benefits/" title="Social media analytics features">Features</a></li><li><a href="/case-studies/" title="Social media case studies">Case Studies</a></li><li><a href="/resources/" title="Social media analytics resources">Resources</a></li><li><a href="/pricing/" title="Pricing &amp; Plans - Social media analysis plans">Pricing &amp; sign-up</a></li><li class="login_home_login"><a href="#" onclick="login(); return false;" rel="nofollow" title="Login to uberVU">LOGIN</a></li></ul></div></div><div class="content"><h1 class="public_page_title">uberVU Privacy Policy</h1><div class="phone_container"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" class="phone_img" alt=""><p>Call us at: <span>(+1) 646-233-3095</span></p></div><div class="clearboth"></div><div class="simple_content_top"></div><div class="simple_content_mid content_padding"><div id="page_content"><h2 class="page_contenth2_nofloat">1. Information that we collect from&nbsp;you</h2><p>1.1 If You decide to register with and use uberVU.com You will be asked to provide certain information about yourself including Your name and contact details. By submitting Your personal information, You consent to the collection, use and transfer of your information in accordance with the terms of this privacy&nbsp;policy.</p><p>1.2 We may also collect information about Your usage of the Website and of the Service, as well as information about You, from emails, phone calls or letters that You send to Us or form information that you post on our Website. We will only use any such information in accordance with the terms of this privacy&nbsp;policy.</p><p>1.3 If You are 16 years old or younger You may not register with Us on the Website. If We become aware that You are 16 years old or younger and You have not obtained such permission, We will remove Your personal information from Our records. By entering Your details on the Website You are stating that You are 17 years old or&nbsp;older.</p><p>1.4 We do not store any of Your financial information including billing and credit card information. Your financial information is processed by secure, third party services.</p><h2 class="page_contenth2_nofloat">2. Use of your&nbsp;information</h2><p>2.1 We will only use Your information for the following&nbsp;purposes:</p><p style="padding-left: 25px;">a) to enable Us to provide You with access to all parts of the Website and to use the Service and to enable You to download information and materials from the&nbsp;Website;</p><p style="padding-left: 25px;">b) to contact You with Our newsletter and other email&nbsp;updates;</p><p style="padding-left: 25px;">c) to make You occasional offers of uberVU products or services or to make You aware of other products or services offered by Us from time to&nbsp;time;</p><p style="padding-left: 25px;">d) to produce reports, statistics and analysis of the types of people who access the&nbsp;Website;</p><p style="padding-left: 25px;">e) to contact You for Your views on the Website and to notify You occasionally about important changes or developments to the&nbsp;Website;</p><p style="padding-left: 25px;">f) to administer, support, improve and develop Our&nbsp;Website.</p><p>2.2 If you change Your mind about being contacted in the future, please let Us know and We will remove You from Our mailing&nbsp;list.</p><p>2.3 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all&nbsp;times.</p><h2 class="page_contenth2_nofloat">3. Disclosure of your&nbsp;information</h2><p>3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we&nbsp;operate.</p><p>3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and&nbsp;services.</p><p>3.3 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us&nbsp;.</p><p>3.4 Please note that this may include the transfer of Your personal data to one or more countries outside the UK&nbsp;.</p><p>3.5 By using the Website You consent to third parties having access to Your personal data, including those outside the European Economic Area (EEA). You understand and accept that if Your data is disclosed to third parties outside theEEA those parties may be based in territories that may not have sensitive data protection provisions in law. Every effort will be made to ensure that Your data is processed solely to provide You with a newsletter or other email update, or in connection with a competition/promotion. We will attempt to ensure that Your data is held&nbsp;safely.</p><p>3.6 You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your uberVU account. Note that although You set the password, it is Our proprietary information and belongs to Us for all&nbsp;time.</p><h2 class="page_contenth2_nofloat">4.&nbsp;Cookies</h2><p>Cookies are small amounts of information which We store on Your computer. We issue cookies to Your computer when You log on to the Website and when You register with the Service. Cookies are necessary for the operation of the Service and therefore, if You set up your computer to reject cookies You will be unable to access the&nbsp;Service.</p><h2 class="page_contenth2_nofloat">5. Security and data&nbsp;retention</h2><p>We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law&nbsp;requires.</p><h2 class="page_contenth2_nofloat">6. Accessing and&nbsp;updating</h2><p>You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. If You wish to do this, please contact Us. We are entitled by law to charge a fee of £10 to meet Our costs in providing You with details of the information We hold about&nbsp;You.</p><h2 class="page_contenth2_nofloat">7. Changes to our privacy&nbsp;policy</h2><p>Any changes to Our privacy policy in the future will be posted to the Website and, where appropriate, through e-mail notification. Please ensure that You are kept up-to-date with any such changes. By using the Service or accessing the Website You agreed to be bound by the most up-to-date version of this&nbsp;Policy.</p><h2 class="page_contenth2_nofloat">8.&nbsp;Contact</h2><p>All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed&nbsp;to:</p><p style="padding-left: 25px;">uberVU Limited<br>
+            $(document).ready(function() {
+                
+            });
+        </script></head><body><div id="register-ty-message" style="display:none"><div class="overlay-container" style="display:block;"></div><div class="form-holder" style="display:block;"><div class="ty-pricing-container"><p>Thank you! Your trial is almost ready!</p><span>One of our Customer Success experts will contact you soon to ask you a few short question about your social media use case. They'll use that information to setup the uberVU dashboard for your specific use case so you can get the most value out of your free trial.</span><div class="clearboth"></div><a href="/case-studies/" class="redirect-button">READ OUR CASE STUDIES</a></div></div></div><div class="base-layout"><div class="header"><div class="page-body"><a href="/" title="uberVU" class="logo"></a><ul class="top-menu"><li class="border-none    "><a href="/features-overview/" title="EXPLORE UBERVU">EXPLORE UBERVU</a></li><li class="    "><a href="/overview/" title="WHO USES UBERVU?">WHO USES UBERVU?</a></li><li class=""><a href="/pricing/" title="PRICING &amp; SIGN-UP">PRICING &amp; SIGN-UP</a></li><li class=" "><a href="/resources/" title="RESOURCES">RESOURCES</a></li><li class=""><a class="blog-link" href="http://blog.ubervu.com" title="BLOG">BLOG</a></li><li class="login-tab"><a href="/login/" title="LOGIN">LOGIN</a></li></ul></div></div><div class="page-body"><h1 class="page-title">uberVU Privacy Policy</h1><div class="main-content"><div id="page_content"><h2 class="page_contenth2_nofloat">1. Information that we collect from&nbsp;you</h2><p>1.1 If You decide to register with and use uberVU.com You will be asked to provide certain information about yourself including Your name and contact details. By submitting Your personal information, You consent to the collection, use and transfer of your information in accordance with the terms of this privacy&nbsp;policy.</p><p>1.2 We may also collect information about Your usage of the Website and of the Service, as well as information about You, from emails, phone calls or letters that You send to Us or form information that you post on our Website. We will only use any such information in accordance with the terms of this privacy&nbsp;policy.</p><p>1.3 If You are 16 years old or younger You may not register with Us on the Website. If We become aware that You are 16 years old or younger and You have not obtained such permission, We will remove Your personal information from Our records. By entering Your details on the Website You are stating that You are 17 years old or&nbsp;older.</p><p>1.4 We do not store any of Your financial information including billing and credit card information. Your financial information is processed by secure, third party services.</p><h2 class="page_contenth2_nofloat">2. Use of your&nbsp;information</h2><p>2.1 We will only use Your information for the following&nbsp;purposes:</p><p style="padding-left: 25px;">a) to enable Us to provide You with access to all parts of the Website and to use the Service and to enable You to download information and materials from the&nbsp;Website;</p><p style="padding-left: 25px;">b) to contact You with Our newsletter and other email&nbsp;updates;</p><p style="padding-left: 25px;">c) to make You occasional offers of uberVU products or services or to make You aware of other products or services offered by Us from time to&nbsp;time;</p><p style="padding-left: 25px;">d) to produce reports, statistics and analysis of the types of people who access the&nbsp;Website;</p><p style="padding-left: 25px;">e) to contact You for Your views on the Website and to notify You occasionally about important changes or developments to the&nbsp;Website;</p><p style="padding-left: 25px;">f) to administer, support, improve and develop Our&nbsp;Website.</p><p>2.2 If you change Your mind about being contacted in the future, please let Us know and We will remove You from Our mailing&nbsp;list.</p><p>2.3 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all&nbsp;times.</p><h2 class="page_contenth2_nofloat">3. Disclosure of your&nbsp;information</h2><p>3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we&nbsp;operate.</p><p>3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and&nbsp;services.</p><p>3.3 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us.</p><p>3.4 Please note that this may include the transfer of Your personal data to one or more countries outside the UK&nbsp;.</p><p>3.5 By using the Website You consent to third parties having access to Your personal data, including those outside the European Economic Area (EEA). You understand and accept that if Your data is disclosed to third parties outside theEEA those parties may be based in territories that may not have sensitive data protection provisions in law. Every effort will be made to ensure that Your data is processed solely to provide You with a newsletter or other email update, or in connection with a competition/promotion. We will attempt to ensure that Your data is held&nbsp;safely.</p><p>3.6 You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your uberVU account. Note that although You set the password, it is Our proprietary information and belongs to Us for all&nbsp;time.</p><h2 class="page_contenth2_nofloat">4.&nbsp;Cookies</h2><p>Cookies are small amounts of information which We store on Your computer. We issue cookies to Your computer when You log on to the Website and when You register with the Service. Cookies are necessary for the operation of the Service and therefore, if You set up your computer to reject cookies You will be unable to access the&nbsp;Service.</p><h2 class="page_contenth2_nofloat">5. Security and data&nbsp;retention</h2><p>We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law&nbsp;requires.</p><h2 class="page_contenth2_nofloat">6. Accessing and&nbsp;updating</h2><p>You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. If You wish to do this, please contact Us. We are entitled by law to charge a fee of £10 to meet Our costs in providing You with details of the information We hold about&nbsp;You.</p><h2 class="page_contenth2_nofloat">7. Changes to our privacy&nbsp;policy</h2><p>Any changes to Our privacy policy in the future will be posted to the Website and, where appropriate, through e-mail notification. Please ensure that You are kept up-to-date with any such changes. By using the Service or accessing the Website You agreed to be bound by the most up-to-date version of this&nbsp;Policy.</p><h2 class="page_contenth2_nofloat">8.&nbsp;Contact</h2><p>All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed&nbsp;to:</p><p style="padding-left: 25px;">uberVU Limited<br>
     8 Clifford Street<br>
     W1S 2LQ<br>
     London<br>
     United Kingdom<br>
     reg: 6717335<br>
     tel: +44 (0) 7532 150 986<br>
-    e-mail: <a class="reaction_link" href="mailto:hello@ubervu.com">hello@ubervu.com</a></p></div></div><div class="simple_content_bottom"></div></div><div class="clearboth"></div><div class="content"><div class="home_footer"><ul><li class="footer_title">Features</li><li><a href="/benefits/">Features Overview</a></li><li><a href="/benefits/full/">Full feature list</a></li><li><a href="/benefits/platforms/">Supported platforms</a></li><li><a href="/why/">Testimonials</a></li></ul><ul><li class="footer_title">Resources</li><li><a href="/resources/">Resource center</a></li><li><a href="/tools/">Addons &amp; extras</a></li><li><a href="/benefits/api/">API</a></li><li><a href="http://help.ubervu.com/home">Help section</a></li></ul><ul><li class="footer_title">Social</li><li><a href="http://twitter.com/ubervu" rel="external"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" alt="" class="footer_link"><span>Twitter</span></a></li><li><a href="http://www.facebook.com/ubervu" rel="external"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" alt="" class="footer_link"><span>Facebook</span></a></li><li><a href="http://www.getsatisfaction.com/ubervu/" rel="external"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" alt="" class="footer_link"><span>Get Satisfaction</span></a></li><li><a href="http://blog.ubervu.com" rel="external"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" alt="" class="footer_link"><span>Read the blog</span></a></li></ul><ul class="no_margin"><li class="footer_title"><span>uberVU</span><a href="http://www.contextvoice.com" rel="external"><img src="http://d284gtceqi4kf4.cloudfront.net/static/v15/img/default.gif" class="contextvoice" alt=""></a></li><li><a href="/about/">About us</a></li><li><a href="/contact/">Contact</a></li><li><a href="/demo/">Request a demo</a></li><li><a href="/jobs/">Jobs</a></li></ul></div><div class="clearboth"></div><ul class="left_footer"><li>© uberVU Ltd. 2010</li><li class="sep">|</li><li><a href="/terms/">Terms of use</a></li><li class="sep">|</li><li><a href="/privacy/">Privacy Policy</a></li><li class="sep">|</li><li><a href="/cancellation/">Cancellation Policy</a></li></ul><ul class="left_footer float_r"><li><a href="/top-stories/">Top stories</a></li><li class="sep">|</li><li><a href="/trending_searches/">Trending searches</a></li></ul></div><div id="email_message" style="display: none;"></div><div id="error_message"></div></div><script type="text/javascript">
-    
-    var is_logged = false;
-    var is_tracking = false;
-    var subscription_plan = null;
-		var user_account_type = 'Paying';
-    
-    var user_group_length = 0;
-    var user_keywords_number = 0;
-  </script><script type="text/javascript" src="http://d284gtceqi4kf4.cloudfront.net/ubervu.r1306920508.js" charset="utf-8"></script><script>
-    $(document).ready(function() {
-      
-      
-      $("a[rel=external]").live('click', function() {
-        window.open(this.href);
-        return false;
+    e-mail: <a class="reaction_link" href="mailto:hello@ubervu.com">hello@ubervu.com</a></p></div></div><div class="main-content-bottom"></div><div class="home_footer"><ul><li class="footer_title">EXPLORE UBERVU</li><li><a href="/features-overview/">Features Overview</a></li><li><a href="/features/">Full Feature List</a></li><li><a href="/walkthrough/">uberVU Tour</a></li><li><a href="/platforms/">Supported Platforms</a></li><li><a href="/new/">What's new</a></li></ul><ul><li class="footer_title">WHO USES UBERVU</li><li><a href="/overview/">Who are our clients?</a></li><li><a href="/business/">uberVU for Business</a></li><li><a href="/agencies/">uberVU for Agencies</a></li><li><a href="/use-cases/">uberVU Use Cases</a></li><li><a href="/case-studies/">Case Studies</a></li></ul><ul><li class="footer_title">RESOURCES</li><li><a href="/resources/">Social media white-papers</a></li><li><a href="/api/">uberVU API</a></li><li><a href="http://help.ubervu.com/" target="_blank">Help</a></li><li><a class="blog-link" href="http://blog.ubervu.com" target="_blank">Read the blog</a></li><li><a href="http://twitter.com/ubervu" target="_blank">Twitter</a><span>/</span><a href="http://www.facebook.com/ubervu" target="_blank">Facebook</a></li></ul><ul class="no_margin"><li class="footer_title">UBERVU</li><li><a href="/about/">About us</a></li><li><a href="/contact/">Contact</a><span>/</span><a href="/demo/">Request a demo</a></li><li><a href="/jobs/">Jobs</a></li><li><a href="/hackathons/">Hackathons</a></li></ul></div><div class="clearboth"></div><div class="center-container"><div class="center-content"><ul class="left_footer"><li>© uberVU Ltd. 2010</li><li class="sep">|</li><li><a href="/terms/">Terms of use</a></li><li class="sep">|</li><li><a href="/privacy/">Privacy Policy</a></li><li class="sep">|</li><li><a href="/cancellation/">Cancellation Policy</a></li></ul></div></div></div></div><!-- begin olark code--><script> (function(d,u,o){window.olark={__k:o};var h=d.location.protocol=='https:'?'https://':'http://'; d.write(unescape("%3Cscript src='"+h+ u+"' type='text/javascript'%3E%3C/script%3E")); })(document,'static.olark.com/javascript/olark.js', '1429-136-10-7043');
+  </script><script src="https://static.olark.com/javascript/olark.js" type="text/javascript"></script><a href="http://olark.com/about" style="display:none" rel="nofollow">Powered by Olark</a><script>
+      olark.configure(function(conf){
+      // this is where you can configure extensions, and even configure some of our core functionality
+        conf.box.vertical_offset = 5;
+        conf.box.horizontal_offset = 5;
       });
-    });
-  </script><script type="text/javascript">
-  var kw_roll_sw = 0;
-  $('body').click(function() {
-    $('.other_action_menu').each(function(i) {
-      $(this).hide();
-    });
-    $('.plans_box').each(function(i) {
-      $(this).hide();
-    });
-    $('.user_info_box').each(function(i) {
-      $(this).hide();
-      user_info_id = '';
-    });
-    if (($('#kw_roll').is(':visible')) == true) {
-      if (kw_roll_sw == 1) {
-        kw_roll_sw = 0;
-        $('#kw_roll').slideUp();
-      } else if (kw_roll_sw == 0) {
-        kw_roll_sw = 1;
-      }
-    }
-  });
-</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAnWkwEROrj5j6OU-ScwurxRSxxlvc3fI62s1shdggSwllJqb9QxRl7L00q-V2ypEVNW913_DVXJ120w"></script><script type="text/javascript">
-  var visitor_countrycode = '';
-  if(google.loader.ClientLocation)
-  {
-    visitor_countrycode = google.loader.ClientLocation.address.country_code;
-  }
-</script><script type="text/javascript">
-  null_fn = function () {};
-  var mpmetrics = {  track: null_fn,
-                track_funnel: null_fn,
-                register: null_fn,
-                register_once: null_fn,
-                register_funnel: null_fn };
-</script><!--[if !IE]--><script type="text/javascript">
-  $(function() {
-    $('.east-tooltip').tipsy({gravity: 'n'});
-		$('.west-tooltip').tipsy({gravity: 'w'});
-		$('.south-tooltip').tipsy({gravity: 's'});
-  });
-</script><!--[endif]-->
+  </script><!-- /End Olark Chat --><script type="text/javascript">
 
-</body></html>
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-7442996-5']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+
+</script><script type="text/javascript" language="javascript">llactid=20659</script><script type="text/javascript" language="javascript" src="http://t3.trackalyzer.com/trackalyze.js"></script></body></html>
