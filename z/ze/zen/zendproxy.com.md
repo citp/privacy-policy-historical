@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zendproxy.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606025414id_/http%3A//www.zend2.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zendproxy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231052404id_/http%3A//www.zend2.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,4 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-Back to the [Homepage](https://web.archive.org/web/20110606025414id_/http%3A//www.zend2.com/index.php)
+Back to the [Homepage](https://web.archive.org/web/20111231052404id_/http%3A//www.zend2.com/index.php)
