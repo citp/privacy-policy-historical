@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621022651id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradett.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225450id_/http%3A//www.tradett.com/service/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Help
 
 TradeTT.com makes a firm commitment to protect your privacy. The following policy, as part of Terms & Conditions which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
