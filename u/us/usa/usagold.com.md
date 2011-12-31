@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104204900id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203750id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
 
 # Privacy Policy / Terms and Conditions (for online buying of gold coins)
 
-**_Privacy Policy / Terms & Conditions_**
-
-**_TERMS & CONDITIONS (applicable to [_online_ orders](http://www.usagold.com/buy-gold-coins.html))_**
-
-1\. $10,000 max payment accepted per client by credit card -- Visa, Mastercard, AmEx and Discover. (Applicable to **US _online_ orders.**) To read our guidelines **[for international orders, please click here](http://www.usagold.com/international-gold/how-to-buy.html)**.
-
-*2. We will pay shipping and insurance expenses for online coin orders meeting our qualifying minimum of five ounces. For smaller orders a $25 shipping and handling fee will be applied to the order. **Gold bullion** is available by _phone only_ ; free shipping on bullion applies to minimum orders of five ounces or more.
-
-3\. Discount pricing available on volume orders and on payment by check or bankwire. To inquire, call our trading desk at **1-800-869-5115**.
-
-4\. Delivery is typically 20-30 business days from payment date by US Postal Service or FedEx; insured, signature required. Delays may occur subject to market conditions beyond our control. We reserve the right to cancel any order and return your funds if market conditions or supplier failure make it impossible to fill your order.
-
-5\. All items subject to availability; first-come, first-served. We retain the right to refuse online orders in a volatile market and any orders with erroneous or outdated reference pricing.
-
-6\. All sales are final. If you believe there is a discrepancy between the contents of your shipment and what you should have received, contact USAGOLD-CPM, Inc. IMMEDIATELY. If CPM, Inc. is not informed immediately of a possible discrepancy -- within five business days of receipt of this package -- it will assume all was received in good order.
-
-7\. Any sales or use tax, value added tax, customs or duties which may result from this transaction is the responsibility of the buyer. Orders delivered locally (that is, to Denver residents only) will incur a local sales tax of 3.62%. NOTE: Centennial Precious Metals does not render tax or legal advice on the tax treatment of certain transactions, including trades of one type of coins or bars for another.
-
-8\. All items guaranteed authentic.
-
-**_PRIVACY_**
+**_Privacy Policy_**
 
 This privacy notice discloses the privacy practices for USAGOLD-Centennial Precious Metals, Inc., and applies solely to information collected through this web site.
 
@@ -49,3 +29,9 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and recommend they read the privacy statements of any other site that may seek to collect personally identifiable information.
+
+Saturday December 31  
+website support: sitemaster@usagold.com  
+[Site Map](http://www.usagold.com/sitemap.html) \- [Privacy](http://www.usagold.com/shop/terms.html)\- [Disclaimer](http://www.usagold.com/shop/disclaimer.html)  
+The USAGOLD logo and stylized gold coin pile are trademarks of Michael J. Kosares.  
+© 1997-2011 Michael J. Kosares / USAGOLD All Rights Reserved
