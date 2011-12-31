@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksautomation.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412001902id_/http%3A//backlinksautomation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksautomation.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154732id_/http%3A//backlinksautomation.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Fully Automated Link Building Service | BacklinksAutomation
 
@@ -20,4 +20,4 @@ Customers may prevent their information from being used for purposes other than 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [ mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
 
-**[Home](http://www.backlinksautomation.com/) | [Contact Us](http://www.backlinksautomation.com/support) | [Legal Disclaimer](https://web.archive.org/web/20110412001902id_/http%3A//backlinksautomation.com/disclaimer.htm) | [Privacy Policy](https://web.archive.org/web/20110412001902id_/http%3A//backlinksautomation.com/privacy.htm)**
+**[Home](http://www.backlinksautomation.com/) | [Contact Us](http://www.backlinksautomation.com/support) | [Legal Disclaimer](https://web.archive.org/web/20111231154732id_/http%3A//backlinksautomation.com/disclaimer.htm) | [Privacy Policy](https://web.archive.org/web/20111231154732id_/http%3A//backlinksautomation.com/privacy.htm)**
