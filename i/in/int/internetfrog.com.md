@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetfrog.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621075121id_/http%3A//www.internetfrog.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetfrog.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215619id_/http%3A//www.internetfrog.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Internet Broadband Speed Test, IP Address Lookup, DNS Lookup, VoIP
 
