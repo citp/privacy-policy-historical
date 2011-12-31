@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129081452id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062843id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
 
 # The Week Magazine - News reviews and opinion, arts, entertainment & political cartoons
 
@@ -22,7 +22,7 @@ This Site has implemented appropriate safeguards to help prevent unauthorized ac
 
 To unsubscribe from the theweekdaily.com newsletter and/or other electronic communications from The Week, reply to the e-mail newsletter with "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line, or by following the "unsubscribe" link at the bottom of the e-mail. You can also unsubscribe from promotional and marketing e-mails that you receive from one of this Site's partners by typing "UNSUBSCRIBE" (and only "UNSUBSCRIBE") in the subject line in a reply to one of the partner's e-mails to you, or following the "unsubscribe" link at the bottom of the e-mail.
 
-To change the address of your The Week Magazine subscription, or to provide any other subscription-related information to The Week, you may write to The Week, P.O. Box 420235, Palm Coast, FL 32142 or call 1-386-447-6312.
+To change the address of your The Week Magazine subscription, or to provide any other subscription-related information to The Week, you may write to The Week, P.O. Box 420235, Palm Coast, FL 32142 or call 1-386-447-6324.
 
 POLICY FOR MINORS
 
