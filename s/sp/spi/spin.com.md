@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518111604id_/http%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214438id_/http%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SPIN.com
 
@@ -7,6 +7,10 @@ The policies below are applicable to the Authors of this site which include Spin
 We respect your privacy. Any information you give us is held with the utmost care and security and is only used in the ways that are described in this policy. 
 
 We collect personally identifying information such as your name, age and e-mail address during registration for certain portions of sites in which guests participate in interactive online activities (e.g., surveys, chat rooms, games, or bulletin boards). In addition, information is collected should you choose to purchase an item from an online store hosted on our site. As described below, we may use such information to fulfill prizes, track customer usage of the sites or for promotional and marketing purposes. 
+
+## Sweepstakes, Games, Promotions, etc
+
+Information collected for the purpose of entering a sweepstakes, playing a game, or taking advantage of a promotion is subject to the official rules of that program.
 
 ## Policies for Minors
 
