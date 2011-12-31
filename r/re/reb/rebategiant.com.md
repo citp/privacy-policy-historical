@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506153629id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebategiant.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222356id_/http%3A//www.rebategiant.com/local/privacy.aspx) for the most accurate reproduction.*
 
-# RebateGiant.com: Cash Back Rebates, Coupons and Discount Offers
+# RebateGiant
 
 This is the Privacy Policy of this program (also referred to herein as “we," or "us"). If you have any questions about this Privacy Policy, please contact us using the contact information provided in your program materials or on the program website.
 
