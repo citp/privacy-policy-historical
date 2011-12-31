@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422024244id_/http%3A//www.mediafire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211439id_/http%3A//www.mediafire.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free File Hosting Made Simple - MediaFire
+# Free File Sharing Made Simple - MediaFire
 
-This MediaFire Privacy Policy, in conjunction with the [AUP](http://www.mediafire.com/acceptable_use_policy.php), [Terms of Service](http://www.mediafire.com/terms_of_service.php) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the MediaFire website and are collectively referred to as the "Agreement". 
+This MediaFire Privacy Policy, in conjunction with the [AUP](https://web.archive.org/terms_of_service.php), [Terms of Service](https://web.archive.org/terms_of_service.php) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the MediaFire website and are collectively referred to as the "Agreement". 
 
 MediaFire may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
 
