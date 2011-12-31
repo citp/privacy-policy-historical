@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkwiz.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319223415id_/http%3A//www.bookmarkwiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkwiz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210744id_/http%3A//www.bookmarkwiz.com/privacy.html) for the most accurate reproduction.*
 
 # Bookmarkwiz Privacy Policy
 
