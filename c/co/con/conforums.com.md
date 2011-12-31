@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619220105id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223029id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
 
-# Conforums.com - Privacy Policy
+# Conforums.com - Free Message Boards & Free Forums, Privacy Policy
 
 Conforums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Conforums, and is not applicable to third-party websites, that may have potential privacy policy differences and practices.  By using our website Conforums.com, you agree to and merit the understanding of Conforums' Privacy Policy in its entirety. If the user does not agree to Conforums' Privacy Policy and does not wish to be bound by its policy, it is the user's responsibility to no longer operate and immediately leave the Conforums' website. Each time a user uses the Conforums website, the current posted Privacy Policy will apply and it is the user's responsibility to review any changes since the last time a user has used the Conforums website. Policy Modification Agreement is further explained below. 
 
