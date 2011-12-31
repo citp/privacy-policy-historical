@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627004905id_/http%3A//www2.pulsetv.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsetv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213004id_/http%3A//www2.pulsetv.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Pulse Direct, Inc.
 
