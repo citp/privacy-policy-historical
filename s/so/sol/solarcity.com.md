@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424120650id_/http%3A//www.solarcity.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarcity.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222254id_/http%3A//www.solarcity.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ We collect only those e-mail addresses that are volunteered by the visitor, thro
 
 We use the lists of e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. We may also use the lists of e-mail addresses volunteered by our visitor's to register the visitor for an extranet account or to process orders for brochures and other written materials.
 
-You may opt-out of receiving the promotional or marketing e-mails at any time by [following this link](http://www.solarcity.com/contact/web-collect-unsubscribe.aspx), notifying us as a reply to any unwanted e-mail, or by writing to SolarCity at 393 Vintage Park Drive, Suite 140, Foster City, CA 94404 USA. Requests to unsubscribe from SolarCity e-mails may take 10 business days to process.
+You may opt-out of receiving the promotional or marketing e-mails at any time by [following this link](http://www.solarcity.com/contact/web-collect-unsubscribe.aspx), notifying us as a reply to any unwanted e-mail, or by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA. Requests to unsubscribe from SolarCity e-mails may take 10 business days to process.
 
 This opt-out procedure will not be available for e-mails that are necessary to provide confirmation of a completed transaction (such as a purchase, service request or change in the visitor's user profile) or for e-mails that confirm a visitor's status as a registered user of the SolarCity customer extranet.
 
@@ -52,7 +52,7 @@ This opt-out procedure will not be available for e-mails that are necessary to p
 
 We may use a mailing address or phone number that a visitor provides for a variety of SolarCity-related reasons. We may send periodic mailings to visitors or make telephone calls to inform those visitors who have provided a mailing address or telephone number of new products, services or events.
 
-If you do not wish to receive such calls or mailings, you may request to be removed from the contact list by contacting SolarCity at contact@solarcity.com or by telephone (+1-650-638-1028). Additionally you may make your request by writing to SolarCity at 393 Vintage Park Drive, Suite 140, Foster City, CA 94404 USA.
+If you do not wish to receive such calls or mailings, you may request to be removed from the contact list by contacting SolarCity at contact@solarcity.com or by telephone (+1-650-638-1028). Additionally you may make your request by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA.
 
 **Personal Information is Not Released to Outside Parties**
 
@@ -88,4 +88,4 @@ By using our website, you consent to the collection and use of your information 
 
 **Comments and Questions**
 
-We welcome comments and questions on this Privacy Policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our Privacy Policy should be directed via e-mail to [contact@solarcity.com](mailto:contact@solarcity.com) or by telephone (+1- 650-638-1028). Additionally you may make your request by writing to SolarCity at 393 Vintage Park Drive, Suite 140, Foster City, CA 94404 USA.
+We welcome comments and questions on this Privacy Policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure. Questions regarding our Privacy Policy should be directed via e-mail to [contact@solarcity.com](mailto:contact@solarcity.com) or by telephone (+1- 650-638-1028). Additionally you may make your request by writing to SolarCity at 3055 Clearview Way, San Mateo, CA 94402 USA.
