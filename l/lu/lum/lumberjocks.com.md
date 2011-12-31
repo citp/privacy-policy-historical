@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumberjocks.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130063501id_/http%3A//lumberjocks.com/privacy_pop_up) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumberjocks.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214559id_/http%3A//lumberjocks.com/privacy_pop_up) for the most accurate reproduction.*
 
 # Privacy Policy | LumberJocks.com :: woodworking community
 
