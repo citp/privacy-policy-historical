@@ -1,28 +1,27 @@
-> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206081530id_/http%3A//americanmeadows.com/priv_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210954id_/http%3A//www.americanmeadows.com/privacy-security) for the most accurate reproduction.*
 
-# American Meadows - New privacy and Security Statement
+# Privacy and Security
 
-|  | 
+At American Meadows, our people have been selling only the finest gardening products for almost 30 years. We are veteran retailers and have the utmost respect for customer service, privacy and security, whether a sale is made in person, on the phone, via the mail or on the Internet.
 
-AmericanMeadows.com  
-Privacy and Security Statements   
+This privacy policy was updated on November 11, 2011 and describes the information we collect and how it is used.
 
+**Security for your online order:**
 
-We at American Meadows have been selling only the finest, freshest seed for over 20 years. Our retail location, The Vermont Wildflower Farm, was founded in 1981, so we are veteran retailers, and have a healthy respect for customer service, privacy and security, whether a sale is made in person or on the internet. (If you'd prefer to order by phone, fax, or mail, go to [How to Order](https://web.archive.org/web/20061206081530id_/http%3A//americanmeadows.com/howto.cfm).) 
+We have been selling online since 1999, and are continuously investing in state of the art protection for your privacy and security. It is our intention to provide you with the best possible protection available. When you order from this website, your credit card transaction is handled by a completely secure and independent authorization service and your credit card information is not accessible by American Meadows’ employees. Once your order is filled, your credit card number is deleted from our records, and not stored.
 
-**Security for your order OnLine.** We understand that many customers have concerns about using their credit cards online, and we have invested in the finest security programming for our website to assure you.   
+As an added assurance, we subscribe to McAfee SECURE, a service that tests our site’s security vulnerabilities. McAfee SECURE tests our security shields daily and is famous for being the leader in internet security, chosen by the most respected online merchants in the world. Over half of the Top 500 Internet Sites (ranked by Internet Retailer Magazine) are McAfee SECURE subscribers.
 
+Wherever possible, we transmit sensitive data using 128-bit Secure Socket Layer (SSL) encryption. When navigating secure areas of our website, you will notice that the prefix to the web address (URL) will change from ‘http’ to ‘https’ where the ‘s’ stands for ‘secure.’ Common web browsers (such as Internet Explorer, Firefox, AOL, Safari and others) all support SSL encryption. We always recommend using the most current version of both your web browser and operating system and ensuring that you have downloaded any available security patches.,
 
-  When you order from this website, your credit card transaction is handled by a completely secure shopping cart program created by a company called CyberCash, a division of Verisign, Inc. This is the same security software used by some of the internet's largest and most successful sites. CyberCash handles approximately 10 million internet transactions per month for over 26,000 merchants. Internet leaders who use CyberCash include Sprint, H&R Block, Motorola, and Dell Computers.   
+**Privacy:**
 
+At American Meadows, we are proud to be your trusted gardening partner. In order to help ensure a positive experience, we use the information you provide to better serve you. When you visit our website, we record the following information to help us serve our visitors better: We record the web address of the site you came from before visiting us (usually a search engine), and any terms you may have used to search for our site, such as "wildflower seeds." We also record which pages each visitor views on our site. This information is collected in an effort to improve our website and product offerings. 
 
-Once your order is filled, your credit card number is deleted from our records, and not stored.   
+We contract with multiple third parties to help serve you, including companies that specialize in shipping, email distribution, address verification, research, website hosting, payment processing and more. American Meadows provides these companies with the minimal amount of information required to perform their services. We require these companies also meet strict security standards.
 
+When you navigate our website, we utilize current technology, such as cookies and transparent image files, to help better serve you. This allows us to do things like hold products in your shopping cart, remember your preferences and generally provide the best possible browsing experience. You may always set your browser to refuse cookies, although doing so may negatively affect your browsing experience on our website. If you choose to disable cookies and experience any trouble, please contact us so that we may help. American Meadows uses a third party service to collect information regarding consumer preferences related to our products and our website. The third party service provider may use cookies and transparent GIF files to collect information on our website as a part of the service. You may review the third party service provider’s privacy policy at www.mybuys.com/privacy.html
 
-**Privacy.** We are anxious to make your visit to AmericanMeadows.com a pleasant experience, and we respect your privacy. When you visit, we record the following information to help us serve our visitors better: We record the web address of the site you came from before visiting us (usually a search engine), and any terms you may have used to search for our site, such as "wildflower seeds." We also record which pages each visitor views on our site. If you choose to communicate with us via email, we record your email address, and if requested, will send you our newsletter, "Wildflower World." In addition, we may send you email about special offers and announcements from time to time.   
+If you choose to communicate with us via email, we record your email address, and if requested, will send you our Membership Emails and Newsletters. Our emails often include special offers, gardening advice and announcements. You may opt out of our emails at any time by clicking on the ‘Unsubscribe’ link at the bottom of any email. Please allow several days for this process to complete. If you opt out of our Membership and Newsletter emails, you will still receive emails directly related to any pending or future orders you may place. We do not sell or rent your email address to other companies. The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. 
 
-
-We do not sell or rent your name and address information to any other company.   
-
-
-If you supply us your postal address, email address or phone, you may receive periodic contacts from us with information on new products, special prices or upcoming events. If you do not wish to receive such contacts, please let us know by sending a message to our Customer Service Department via email at [customerservice@americanmeadows.com](mailto:customerservice@americanmeadows.com) or call us at (802) 951-5812, ext. 0 
+If you supply us your postal address or phone number, you may receive periodic contacts from us with information on new products, special prices or upcoming events. If you do not wish to receive such contacts, please let us know by sending a message to our Customer Service Department via email at customerservice@americanmeadows.com or by calling us at (802) 951-5812, x 0, and we'll be happy to follow your requests. 
