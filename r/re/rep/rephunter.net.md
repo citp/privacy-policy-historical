@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055235id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210959id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
 # RepHunter Privacy Notice, Manufacturers Reps, Independent Sales Rep, Sales Agency, Sales Force, Manufacturer Agent
 
