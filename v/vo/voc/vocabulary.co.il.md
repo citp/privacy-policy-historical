@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.co.il privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502213518id_/http%3A//www.vocabulary.co.il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.co.il privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231091743id_/http%3A//www.vocabulary.co.il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal
 
@@ -32,7 +32,7 @@ Children on the internet should be closely supervised and instructed about secur
 
 Vocabulary.co.il is a web 2.0 social media-type website which includes user-generated content in terms of posted spelling lists and discussions on the forum. While the forum is moderated, the problems of misinformation, false identities and other risks typical of the internet in its current state also exist on Vocabulary.co.il. You are advised that when you register with Vocabulary.co.il, your name and username will be displayed on the Vocabulary.co.il website associated with your selected school and will be viewable by people and by automated systems, such as the automated indexing software utilized by Google, Yahoo, and Bing.
 
-**Vocabulary.co.il does not disclose user personal information to outside parties (except as described above). Vocabulary.co.il will not sell or share email addresses with any outside group**. Vocabulary.co.il has appropriate security measures in place to safeguard against unauthorized access to the personal information collected at our Web site, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections.
+ **Vocabulary.co.il does not disclose user personal information to outside parties (except as described above). Vocabulary.co.il will not sell or share email addresses with any outside group**. Vocabulary.co.il has appropriate security measures in place to safeguard against unauthorized access to the personal information collected at our Web site, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections.
 
 ### What about the collection of information by third parties?
 
@@ -62,7 +62,7 @@ Registration with Vocabulary.co.il includes an option to receive periodic email 
 
 ### Notice to California Residents: Your California Privacy Rights
 
-Effective January 1, 2005, California Civil Code Secton 1798.83 permist our customers who are California residents to request cerain information regarding our dislcosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at: 
+Effective January 1, 2005, California Civil Code Secton 1798.83 permist our customers who are California residents to request cerain information regarding our dislcosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
 Vocabulary.co.il  
 Attention: California Privacy Rights Request  
