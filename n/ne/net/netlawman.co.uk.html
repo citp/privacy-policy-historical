@@ -1,149 +1,33 @@
-<!--The following is the downloaded HTML source of the netlawman.co.uk privacy policy that was archived on 2011-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110205062256id_/http%3A//netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netlawman.co.uk privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224817id_/http%3A//www.netlawman.co.uk/nlm/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="robots" content="index,follow">
-	<meta name="description" content="Netlawman provides best collection of UK legal documents in plain english on the Internet.">
-	<meta name="keywords" content="Net Lawman Australia privacy policy">
-	<title>UK Legal Documents, Legal Forms and Legal advice</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>Privacy Policy Net Lawman</title>
 	
-	<!--	CSS CODE	-->
-	<style type="text/css">
-		body{
-			background-image:url(http://www.netlawman.co.uk/images_new/header_back_rep.jpg);
-			background-repeat:repeat-x;
-			margin: 0 auto;
-		}
-
-	</style>
-	<!-- <link href="http://www.netlawman.co.uk/css/nl_css.php" rel="stylesheet" type="text/css" /> -->
+	<!--CSS CODE-->
+  
+        
+                
+	<!-- <link href="nl_css.php" rel="stylesheet" type="text/css" /> -->
+	
+	<link href="http://www.netlawman.co.uk/css/header_new_css.css" rel="stylesheet" type="text/css">	
 	<link href="http://www.netlawman.co.uk/css/nl_css_new.php" rel="stylesheet" type="text/css">
-	
+        <link rel="stylesheet" href="http://www.netlawman.co.uk/css/styles_forms.css" type="text/css">
+        
+	        
 	<!--	JAVASCRIPT CODE		-->
+	<script type="text/javascript" src="http://www.netlawman.co.uk/scripts/floating.js"> </script>  
 			
-	<script language="JavaScript" src="http://www.netlawman.co.uk/scripts/jquery-nightly.js"></script>
 
-	<script language="JavaScript" type="text/javascript">
-		function home(host){		
-			window.location.href = host+'/index.php';
-		}
-		
-		function selJury(host){
-			var jury;
-			var URL;
-			jury_id = document.getElementById("jury").value; 		
-			URL =  host + '/' + 'index.php?tbl_jury_id=' + jury_id;		
-			window.location.href = URL;
-		}
-		
-		function submitSearch(){
-			document.frmSearch.submit();
-		}
-		
-		function ckh_default(){
-			document.frmSearch.dcmt.checked = true;
-		}
-		
-		function JurySubmit(){
-			var jury_id;
-			jury_id = document.getElementById('jury_id_id').value;
-			if (jury_id == 'bbae00170c'){	//Ireland
-				window.location.href ='http://www.netlawman.ie';	
-				return;
-			}else if(jury_id == '099e9b3449'){ //Scotland
-				window.location.href ='http://www.scotlawman.co.uk';	
-				return;
-			}else if(jury_id == 'd1b30f936a'){	//India
-				window.location.href ='http://www.netlawman.co.in';	
-				return;
-			}else if(jury_id == '59ff32b9ad'){	//New Zealand
-				window.location.href ='http://www.netlawman.co.nz';	
-				return;
-			}else if(jury_id == '3072bd2fbf'){	//UK
-				window.location.href ='http://www.netlawman.co.uk';	
-				return;
-			}else if(jury_id == 'a9022a7f1d'){	//AUSTRALIA
-				window.location.href ='http://www.netlawman.com.au';	
-				return;
-			}else {//hard coded by naveed qadri *
-				window.location.href ='http://www.netlawman.co.za';	
-				return;
-			}
-		}
-		
-		$("document").ready(function(){
-			$("#jury_ddm_div").hide();
-			//$("#jury").width("200");
-			
-		});
+     <script language="JavaScript" src="http://www.netlawman.co.uk/scripts/jquery-nightly.jgz" type="text/javascript"></script>			
+	<script language="JavaScript" src="http://www.netlawman.co.uk/scripts/changejury_sub.js" type="text/javascript"></script>	
 
-		function changeJury(){
-			$("#cng_jury").hide();
-			document.getElementById("img_country").style.paddingTop = "2px";
-			document.getElementById("div_country_name").style.paddingTop = "2px";
-			$("#jury_ddm_div").show();	
-		}
-		
-		var flg = 0;
-		
-		function showSearchLayer(){
-			document.getElementById("search_div").style.display = "block";
-			flg = 1;
-		}
-		
-		function selSearchItem(item_val){
-			
-			document.getElementById("item").value = item_val;
-			
-			var search_title = new String();
-			
-			if (item_val == "doc"){
-				search_title = "Search Documents";
-			}else if (item_val == "form"){
-				search_title = "Search Statutory Forms";
-			}else if (item_val == "act"){
-				search_title = "Search Acts of Parliament";
-			}else if (item_val == "info"){
-				search_title = "Search Information Articles";
-			}else if (item_val == "courts"){
-				search_title = "Search UK Courts";
-			}
-			document.getElementById("search").value = search_title;
-			document.getElementById("search_div").style.display = "none";
-			
-		}
-		function remove_text(){
-			document.getElementById("search").value = "";	
-		}
-		function erase(_val){
-			if (flg == 1){
-				flg = 0;
-				return;
-			}
-			if (document.getElementById("search").value == "Search Documents"){
-				document.getElementById("search").value = "";
-			}else if (document.getElementById("search").value == "Search Forms"){
-				document.getElementById("search").value = "";
-			}else if (document.getElementById("search").value == "Search Acts of Parliament"){
-				document.getElementById("search").value = "";
-			}else if (document.getElementById("search").value == "Search Information Articles"){
-				document.getElementById("search").value = "";	
-			}else if (document.getElementById("search").value == "Search UK Courts"){
-				document.getElementById("search").value = "";
-			}
-			
-			document.getElementById("search_div").style.display = "none";
-		}
-		
-		function submitSearchForm(){
-			document.getElementById("search_item_main").click();
-			document.frmSearchMain.submit();
-		}
-		
-		//selSearchItem('');
-		
-	</script>
+
 	
 		
 
@@ -159,53 +43,62 @@
 		
 			<div id="maindiv">
 			<div id="header">
-				<div style="clear:both;float:left; width:400px">
-					<div id="logo"><a href="http://www.netlawman.co.uk"><img src="http://www.netlawman.co.uk/images_new/logo.jpg" width="226" height="77" hspace="25" border="0"></a></div>
+				<div style="clear:both;float:left; width:500px">
+                                    <!--<div id="logo">-->
+									<div id="logo" style=" float:left; width:650px; padding-top:10px; ">
+									<a href="http://www.netlawman.co.uk"><img src="http://www.netlawman.co.uk/images_new/logo.jpg" width="226" height="77" hspace="25" border="0" alt="Net Lawman" title="Net Lawman"></a>
+<img src="http://www.netlawman.co.uk/images_new/off_11.png" width="226" height="77" hspace="25" alt="Christmas &amp; New Year Offer" title="Christmas &amp; New Year Offer" border="0" style="padding-left:55px;">																			
+									</div>
 				</div>
 				<div style="float:right; width:400px; ">
 							
-							<div id="jury" style="text-align:right;">
-								<div style="float:right; " id="cng_jury">
-									<a href="javascript:changeJury();" class="bluelink11" style="text-decoration:none">Change Jurisdiction</a> 
-								</div>
-								<div id="jury_ddm_div" style="float:right;   display:none">
-									<form name="juryform" id="juryform" action="/nlm/privacy_policy.php" method="post" style="margin:0px; padding:0px;">
-												
-											<select name="jury_id" class="blacktxt_11" id="jury_id_id" onchange="JurySubmit();">
-												<option value="other_jurisdictions" selected="">Other jurisdictions</option>
-											
-												 
-												<option value="a9022a7f1d">Australia </option>
-												 
-												<option value="d1b30f936a">India </option>
-												 
-												<option value="bbae00170c">Ireland </option>
-												 
-												<option value="59ff32b9ad">New Zealand </option>
-												 
-												<option value="099e9b3449">Scotland </option>
-												 
-												<option value="774ea9ae82">South Africa </option>
-																							
-											</select>
-											<input type="hidden" name="ssubmit" value="jury">
-											<input type="hidden" name="change_jury" value="1">
-																				</form>
-								</div>	
-								
-								
-									<img id="img_country" style="float:right;" src="http://www.netlawman.co.uk/images_new/flag.jpg" width="24" height="13" hspace="5" border="0">
-									<div style="float:right;" id="div_country_name">
-										<span class="bold11black">England &amp; Wales</span>
-									</div>
-								
-												
-							</div>
+                                <div id="jury" style="text-align:right;">
+                                    <div style="float:right; " id="cng_jury">
+                                        <a href="javascript:changeJury();" class="bluelink11" style="text-decoration:none;">Change Jurisdiction</a> 
+                                    </div>
+                                    <div id="jury_ddm_div" style="float:right;   display:none">
+                                        <form name="juryform" id="juryform" action="/nlm/privacy_policy.php" method="post" style="margin:0px; padding:0px;">
+                                            	
+                                            <select name="jury_id" class="blacktxt_11" id="jury_id_id" onchange="JurySubmit();">
+                                                <option value="other_jurisdictions" selected="selected">Other jurisdictions</option>
+
+                                                 
+                                                    <option value="a9022a7f1d">Australia </option>
+ 
+                                                    <option value="d1b30f936a">India </option>
+ 
+                                                    <option value="bbae00170c">Ireland </option>
+ 
+                                                    <option value="59ff32b9ad">New Zealand </option>
+ 
+                                                    <option value="099e9b3449">Scotland </option>
+ 
+                                                    <option value="774ea9ae82">South Africa </option>
+
+                                            </select>
+                                            <input type="hidden" name="ssubmit" value="jury">
+                                            <input type="hidden" name="change_jury" value="1">
+                                                                                    </form>
+                                    </div>	
+                                    <style type="text/css">
+                                        .jury_img{
+                                            float:right;
+                                        }
+                                    </style>
+                                    <!--[if lte IE 7]> <style type="text/css"> .jury_img{ float:right; margin-top: 5px;  } </style> <![endif]-->
+                                    
+                                    <img id="img_country" class="jury_img" src="http://www.netlawman.co.uk/images_new/flag.jpg" width="24" height="13" hspace="5" border="0" alt="flag">
+                                    <div style="float:right;" id="div_country_name">
+                                        <span class="bold11black">England &amp; Wales</span>
+                                    </div>
+
+
+                                </div>
                             
                            
                             
                             <div style="clear:both"></div>
-                                                            <div style="float:right; padding-left:10px; margin-right:6px; display:none" id="sCart">
+                                                            <div style="padding-left:10px; margin-right:6px; display:none" id="sCart">
                                                 <div style="float:right; margin-top:52px;font-size:12px" class="bodytxt13"><span id="cart_item_count"></span></div>
                                                 <a href="http://www.netlawman.co.uk/nlm/cart.php">
                                                 <img style="float:right; margin-top:46px; padding-right:4px; padding-top:4px;" src="http://www.netlawman.co.uk/images_new/cart_plain.jpg" border="0" alt="">
@@ -214,14 +107,14 @@
                                                                                  
                            
 							<div style="float:right; width:280px; margin-top:46px;   ">
-								<div style="float:right; margin-right:10px;"><a class="squarebutton" href="javascript:submitSearchForm();"><span style="height:17px; cursor:pointer">GO</span></a></div>
+								<div style="float:right; width:35px; margin-right:10px; padding-top:01px; "><a class="squarebutton" href="javascript:submitSearchForm();"><span style="height:17px; cursor:pointer">GO</span></a></div>
 											<div style="background-image:url(http://www.netlawman.co.uk/images_new/search_rep.jpg); background-repeat:repeat-y;  height:24px; width:226px; border-top:1px solid #ADD4F5; border-bottom:1px solid #ADD4F5;">
-												<div style="float:right;margin-right:4px;"><img src="http://www.netlawman.co.uk/images_new/search_ddm.jpg" style="cursor:pointer" onclick="showSearchLayer(); "></div>
+                                                                                            <div style="float:right;margin-right:4px;"><img src="http://www.netlawman.co.uk/images_new/search_ddm.jpg" style="cursor:pointer" onclick="showSearchLayer(); " alt="searchddm"></div>
 												<form name="frmSearchMain" method="get" style="margin:0px; padding:0px;" action="http://www.netlawman.co.uk/nlm/search_nlm_new.php">
 												 													<div style="float:right;">
 														  
               <div style="position:relative"> 
-                <input type="text" id="search" name="search_nlm" value="Search Documents" style="width:190px; height:18px; color:#B2ADCA; border:1px solid #FFFFFF;" onclick="remove_text()">
+                <input type="text" id="search" name="search_nlm" value="Search Documents" style="width:190px; height:18px; color:#B2ADCA; border:1px solid #FFFFFF; padding-top:02px;" onclick="remove_text(this.value)">
                 <div id="search_div" style="display:none; padding-left:6px; padding-top:6px;position:absolute; border:1px solid #ADD4F5; height:104px; width:160px; top:24px; left:52px; z-index:100; background-color:#EFF6FF;" class="bodytxt13"> 
                   <a href="javascript:selSearchItem('doc');" class="search_top_link">Search 
                   Documents</a><br>
@@ -236,70 +129,57 @@
                 </div>
               </div>
 													</div>
-													<input type="hidden" name="item" id="item" value="doc">
+													<input type="hidden" name="item1" id="item1" value="doc">
 													<input type="submit" name="search" id="search_item_main" value="Search" style="display:none"> 
-													<input type="hidden" name="tbl_search_nlm_id" value="99489af98c"> 
+													<input type="hidden" name="tbl_search_nlm_id" value="5800b8d7a3"> 
 													<input type="hidden" name="is_search_made" value="Y">
 												</form>	
-										</div>
-							</div>
-                            
-                                                        
-                           
-                            
-                            
-						</div>
-				<div style="clear:both; margin:0; padding:0"></div>	
+</div>
+</div>                            
+</div>
+<div style="clear:both; margin:0; padding:0"></div>	
 			</div>
 			
                         
-				<div id="topnavbar"><div style="width:800px; float:left;">
+								
+				
+				
+		<div id="topnavbar"><div style="width:820px; float:left;">
 				<ul id="nav">
-					<li id="nav-doc"><a href="http://www.netlawman.co.uk">Home</a></li>
+					
 					
 											<li id="nav-doc"><a href="http://www.netlawman.co.uk/legal-documents.php">Legal Documents</a></li>
 										
-
-											                        		<li id="nav-draft"><a href="http://www.netlawman.co.uk/document-drafting.php">Legal Drafting</a></li>
+                                                <li id="nav-doc"><a href="http://www.netlawman.co.uk/residentialtenancyagreement" style="width:146px;">Tenancy Agreements</a></li>
                                                 
-										
+											                        		<li id="nav-draft" style="width:115px;"><a href="http://www.netlawman.co.uk/document-drafting.php" style="width:115px;">Legal Drafting</a></li>
+                                                
+					                                        
+                                                                    	<li id="nav-contact"><a href="http://www.netlawman.co.uk/property-advice-service" style="width:165px;">Property Advice Service</a></li>
+					                                
+					
+<!--                    <li id="nav-doc" ><a href="/tdg" style="width:146px;">Tenancy Agreements</a></li>-->
                     
-					                  			                          		<li id="nav-forms"><a href="http://www.netlawman.co.uk/legal-forms.php">Statutory Forms</a></li>
+					
+					                  			                          		<li id="nav-forms"><a href="http://www.netlawman.co.uk/legal-forms.php" style="width:115px;">Statutory Forms</a></li>
                             					
                   
 					                    
-                                                	<li id="nav-testim"><a href="http://www.netlawman.co.uk/nlm/testimonials.php">Reviews</a></li>
-					                    
- 
- 
-                                                 	<li id="nav-contact"><a href="http://www.netlawman.co.uk/others/contact_us.php">Contact Us</a></li>
-					                    
-        
-          
-          
-          
-          
-				</ul></div>
+					                    <li id="nav-testim"><a href="http://www.netlawman.co.uk/nlm/law_professional.php" style="width:128px;">Law Professionals</a></li>
+          					
+					
+                                                 
+				</ul></div>		
+								
 									<div style="float:right; margin-top:8px;">
-															<div class="loginpan" style=" border:0px solid #000000;"><img style="float:left" src="http://www.netlawman.co.uk/images_new/login_icon.jpg" width="13" height="15" hspace="10" border="0"><a href="http://www.netlawman.co.uk/users/login.php" class="bluelink12">Login</a></div>
+						                                            <div class="loginpan" style=" border:0px solid #000000;"><img style="float:left" src="http://www.netlawman.co.uk/images_new/login_icon.jpg" width="13" height="15" hspace="10" border="0" alt="login"><a href="http://www.netlawman.co.uk/users/login.php" class="bluelink12">Login</a></div>
 											</div>	
 			
 				</div>
+				
+    
 
-
-
-
-
-
-
-
-
-
-
-
-			
-		
-        <style type="text/css">
+<style type="text/css">
 	.srvc_heading{
 		font-family:Arial, Helvetica, sans-serif;
 		font-size:22px;
@@ -333,10 +213,32 @@
 		color:#F00;
 		text-decoration:none;
 	}
+	.navlist
+	{
+	margin-left: 20;
+	padding-left: 20;
+	list-style: none;
+	}
+
+	.navlist li
+	{
+	padding-left:30px;
+	margin-left:10px;
+	background-image: url(../images_new/li_arrows.jpg);
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
 	
-	.arial_12blue_link{font-family:arial; font-size:14px; color:#377cc9; text-decoration:none}
-	a.arial_12blue_link:link{font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#377cc9; text-decoration:none}
-	a.arial_12blue_link:Hover{color:#F00; text-decoration:underline}
+	font-family: sans-serif;
+		font-size:13px;
+		line-spacing:22px;
+		color:#000000;
+		text-decoration:none;
+		font-weight:none;
+	}
+	
+	.arial_12blue_link{font-family:arial; font-size:12px; color:#377cc9; text-decoration:none}
+	a.arial_12blue_link:link{font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#377cc9; text-decoration:none}
+	a.arial_12blue_link:Hover{color:#F00; text-decoration:none}
 	
 </style>
 
@@ -349,7 +251,7 @@
             <td align="left" valign="bottom">&nbsp;</td>
           </tr>
           <tr> 
-            <td align="left" valign="bottom" class="bodytxt13"> <a href="http://www.netlawman.co.uk" class="brdgrmb">Home</a>&nbsp;&nbsp;<img src="http://www.netlawman.co.uk/images_new/bread_arrow.jpg"> 
+              <td align="left" valign="bottom" class="bodytxt13"> <a href="http://www.netlawman.co.uk" class="brdgrmb">Home</a>&nbsp;&nbsp;<img src="http://www.netlawman.co.uk/images_new/bread_arrow.jpg" alt=""> 
               &nbsp; Privacy policy</td>
           </tr>
           <tr> 
@@ -361,157 +263,145 @@
                   <td><span class="bigheading">Privacy Policy</span></td>
                 </tr>
               </tbody></table>
-              <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr align="left" valign="top"> 
-                  <td>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td>&nbsp; </td>
-                      </tr>
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13">At Net Lawman we are extremely concerned to protect your privacy and confidentiality. We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not fall into the hands of a third party. Our policy is both specific and strict. It complies with UK law. If you think our policy falls short of your expectations or that we are failing to abide by our policy, <strong>do please tell us.</strong><p>
-                        Information may be unlawfully available to hackers and snoopers. We take no responsibility for this. The risk is no different from a similar risk in a bricks and mortar establishment. Except as set out below, <strong>we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site..</strong></p>
-                        <p>Here is a list of the information we collect, and why it is necessary to collect it:</p></td>
-                      </tr>
-                      
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:10px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">1 Basic identification and contact information <span class="bodytxt13">,such                             as your name and contact details.</span></td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="99%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;">This information is used:
-                        </td>
-                      </tr>
-                      <tr> 
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;to maintain our accounts&nbsp; 
-                        </td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;to provide you with the services which you request </td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;for billing</td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;for answering your enquiries</td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;for verifying your identity for security purposes</td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;for marketing our services</td>
-                      </tr>
-                      <tr>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11">&nbsp;&nbsp;&nbsp;&nbsp;to help make our web site as useful to you as possible</td>
-                      </tr>
-                      
-                    </tbody></table>
-                    
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">2 Your domain name and e-mail address <span class="bodytxt13">are recognised by our servers and the pages that you visit are recorded.</span></td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="99%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;" colspan="2">This information is used:
-                        </td>
-                      </tr>
-                      <tr>
-                        <td width="2%" align="left" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11"></td>
-                        <td width="98%" class="bodytxt13" style="padding:5px 0px 0px 10px;">in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site</td>
-                      </tr>
-                      <tr>
-                        <td style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11"></td>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;">to send you news about the services to which you have signed up</td>
-                      </tr>
-                    </tbody></table>
-                     
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">3 Financial information<span class="bodytxt13">, 
-                          including credit card details.</span></td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="99%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;" colspan="2">This information is used to obtain payment for goods and services you have ordered from us. All such information is automatically encrypted and decrypted for use. Our staff and contractors never have access to it. We do not retain this information. However, in the future, we may retain this information because:
-                        </td>
-                      </tr>
-                      <tr>
-                        <td width="2%" style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11"></td>
-                        <td width="98%" class="bodytxt13" style="padding:5px 0px 0px 10px;">Our services are sold in a way which involves repeat ordering at unspecified future times.</td>
-                      </tr>
-                      <tr>
-                        <td style="padding:5px 0px 0px 10px;"><img src="../images_new/li_arrows.jpg" width="14" height="11"></td>
-                        <td class="bodytxt13" style="padding:5px 0px 0px 10px;">It is convenient for clients to provide credit card information just once, rather than on many occasions.
+			  <!-- body content-->
+              <table width="100%" cellpadding="0" cellspacing="0">
+			  <tbody><tr>
+			  	<td><p>
+	This is the privacy policy of Net Lawman Ltd. In this document, “we” or “us” refers to Net Lawman Ltd.</p>
+<p>
+	This policy relates to all information provided by you either:</p>
+<ul class="navlist">
+	<li>in the process of buying goods or services from us as a client or customer, or</li>
+	<li>
+		to assist us in providing legal services</li>
+	<li>
+		in your capacity as our sales partner or affiliate, or</li>
+	<li>
+		in your capacity as our supplier or customer or client.</li>
+</ul>
+<p>
+	We are extremely concerned to protect your privacy and confidentiality.&nbsp; We understand that all users of our site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party. Our policy is both specific and strict. It complies with UK law and with the laws of all jurisdictions of which we are aware. If you think our policy falls short of your expectations or that we are filing to abide by our policy, <strong>do please tell us.</strong></p>
+<p>
+	Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site.</p>
+<p>
+	Here is a list of the information we collect, and why it is necessary to collect it:</p>
+<ol>
+	<li class="bodytxt13">
+		&nbsp;<strong>Basic identification and contact information</strong>, such as your name and contact details.</li>
+</ol>
+<p style="margin-left:.5in;">
+	This information is used:</p>
+<ul class="navlist">
+	<li>
+		to provide you with the services which you request</li>
+	<li>
+		for answering your enquiries</li>
+	<li>
+		for verifying your identity for security purposes</li>
+	<li>
+		for marketing our services and products</li>
+	<li>
+		information which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service.</li>
+</ul>
+<ol>
+	<li class="bodytxt13" value="2">
+		<strong>Your domain name and e-mail address</strong> are recognised by our servers and the pages that you visit are recorded.</li>
+</ol>
+<p style="margin-left:.5in;">
+	This information is used:</p>
+<ul class="navlist">
+	<li>
+		in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site</li>
+	<li>
+		to send you news about the services to which you have signed up</li>
+	<li>
+		to tell you about other Net Lawman services or services of sister websites.</li>
+</ul>
+<ol>
+	<li class="bodytxt13" value="3">
+		<strong>Financial information relating only to your credit cards</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	This information is <strong>never taken by us either through our website or otherwise</strong>.&nbsp; At the point of payment, you are transferred to a secure page on the website of SagePay or some other reputable payment service provider. That page may be dressed in our “livery”, but it is not controlled by us. Our staff and contractors never have access to it.</p>
+<ol>
+	<li class="bodytxt13" value="4">
+		<strong>Credit reference</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	To assist in combatting fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.</p>
+<ol>
+	<li class="bodytxt13" value="5">
+		<strong>Business and personal information</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	This includes all information given to us in the course of your business and ours, such as information you give us in your capacity as our client.&nbsp; We need to keep all such information to continue to serve you. We undertake to preserve the confidentiality of the information and of the terms of our relationship.&nbsp; It is not used for any other purpose.&nbsp; We expect you to reciprocate this policy.</p>
+<ol>
+	<li class="bodytxt13" value="6">
+		<strong>Third party advertising</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	Third parties may advertise on our web site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects your IP address when they send an advertisement that appears on our site to your browser. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their adverts. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.</p>
+<ol>
+	<li class="bodytxt13" value="7">
+		<strong>Your e-mail address</strong> is recorded when you send e-mail to us.</li>
+</ol>
+<p style="margin-left:.5in;">
+	We shall use it only to correspond with you or otherwise strictly in accordance with your instructions.&nbsp; We shall not under any circumstances divulge your e-mail address to any person who is not an employee or contractor of ours and who does not need to know, either generally or specifically.</p>
+<ol>
+	<li class="bodytxt13" value="8">
+		<strong>Update your information</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	At any time you may review or update the personally identifiable information that we hold about you, by contacting us.&nbsp; To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.</p>
+<ol>
+	<li class="bodytxt13" value="9">
+		<strong>Cookies</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	A cookie is information that we transfer to your computer's hard drive through your web browser. We may then request the return of that information from your computer when your browser requests a web page from our server. Cookies enable our web server to identify you to us, and to track your actions and the pages you visit while you use our website. The cookies we use may last for a single visit to our site (they are deleted from your computer when you close your browser), or may remain on your computer until you delete them or until a defined period of time has passed.</p>
+<p style="margin-left:.5in;">
+	Your browser software provides help on how to manage and disable cookies. We recommend that you allow the use of cookies in order to take advantage of the features of our website that rely on their use. If you prevent their use, you may not be able to use all the functionality of our website.</p>
+<ol>
+	<li class="bodytxt13" value="10">
+		<strong>Information we obtain from third parties</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	Although we do not disclose your personal information to any third party (except as set out in this notice), we do receive data which is indirectly made up from your personal information, from software services such as Google Analytics and others.&nbsp; No such information is identifiable to you.</p>
+
+<ol>
+	<li class="bodytxt13" value="11">
+		<strong>Affiliate information</strong></li>
+</ol>
+<p style="margin-left:.5in;">
+	This is information given to us by you in your capacity as an affiliate of us or a customer or client of ours.&nbsp; Such information is retained for business use only.&nbsp; We undertake to preserve the confidentiality of the information and of the terms of our relationship.&nbsp; It is not used for any other purpose.&nbsp; We expect any affiliate to agree to reciprocate this policy.&nbsp; <strong>As an exception to this</strong>, we have the right to disclose your first name and URL of your affiliate connection to other affiliates and to any other person or organisation, on and off site. The reason is solely to enable us to mention winners and others whose performance as an affiliate is in some way outstanding.</p>
+<ol>
+	<li class="bodytxt13" value="12">
+		<strong>Disclosure to Government</strong> and their agencies.&nbsp; We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.</li>
+</ol>
+<ol>
+	<li class="bodytxt13" value="13">
+		<strong>At any time you may review or update</strong> the personally identifiable information that we hold about you, by contacting us at the address below.&nbsp; To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.</li>
+</ol>
+<ol>
+	<li class="bodytxt13" value="14">
+		<strong>We do not rent, sell or otherwise disclose any of your information</strong> to any person outside Net Lawman Ltd under any circumstances.</li>
+</ol>
+<ol>
+	<li class="bodytxt13" value="15">
+		<strong>Data may be “processed” outside the UK</strong></li>
+</ol>
+<p class="bodytxt13" style="margin-left:.5in;">
+	Our website is hosted in northern England.&nbsp; But we use outsourced services in countries outside the EU from time to time in all aspects of our business. Specifically, our technical centre is based in Lahore, Pakistan. We also provide legal services in several countries under arrangements with local lawyers. Accordingly data obtained within the UK may be “processed” outside the UK and data obtained in any other country may be processed within or outside that country.</p>
+<p class="bodytxt13">
+	This confidentiality policy has been compiled so as to comply with current US and EU legislation, so far as we are aware.</p>
+<p class="bodytxt13">
+	If you have any question regarding the confidentiality policy, please <a href="http://www.netlawman.co.uk/others/contact_us.php" class="arial_12blue_link">contact us</a>.</p>
+<p class="bodytxt13" style="margin-left:0px;">
+	Now <a href="javascript:history.go(-1)" class="arial_12blue_link">take me back</a> where I was before reading this.</p>
 </td>
-                      </tr>
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">4 Business information</td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;">This is information given to us in the course of your business and ours, such as in relation to your application to partner us or advertise with us. Such information is retained for business use only. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect any partner to agree to reciprocate this policy.
-                        </td>
-                      </tr>
-                      
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">5 Disclosure to Government<span class="bodytxt13"> and their agencies</span></td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;">We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
-</td>
-                      </tr>
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">6 Credit reference</td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;">To assist in combatting fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
-</td>
-                      </tr>
-                    </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:20px;">
-                      <tbody><tr>
-                        <td class="srvc_heading">7 Update your information</td>
-                      </tr>
-                    </tbody></table>
-                   
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td class="bodytxt13" style="padding-top:16px;">At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information. If you have any question regarding the confidentiality policy, please contact us.
-						</td>
-                      </tr>
-                   </tbody></table>
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin-top:30px;">
-                      <tbody><tr>
-                        <td class="bodytxt13">Now <a href="javascript:history.go(-1)" class="arial_12blue_link">take me back</a> where I was before   reading this.</td>
-                      </tr>
-                   </tbody></table></td>
-                </tr>
-              </tbody></table>
+			  </tr>
+			  </tbody></table>
+			  <!-- end body content-->
             </td></tr><tr> 
             <td align="left" valign="bottom"></td>
           </tr>
@@ -524,19 +414,19 @@
 
 
 </div>
-<div style="clear:both; "><span style="height:10px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="18"></span></div>
+<div style="clear:both; "><span style="height:10px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="18" alt=""></span></div>
 <div style="clear:both; width:auto; height:auto; background-image:url(http://www.netlawman.co.uk//images_new/footer_back_rep.jpg); background-repeat:repeat-x;">
 	<div style="clear:both; width:1002px; margin:0 auto; ">
 	
-			<div style="clear:both; "><span style="height:7px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="7"></span></div>
+            <div style="clear:both; "><span style="height:7px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="7" alt=""></span></div>
 			<div style="clear:both; background-color:#eff7e7;">
 			<div id="greenfooter">
-			<div><span style="height:30px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="20"></span></div>
+                            <div><span style="height:30px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="20" alt=""></span></div>
 			<div style="margin:0 auto;">
 			
 			
 
-			<div class="footercell" style="width:240px;">
+			<div class="footercell" style="width:215px;">
 			
 				<div><a href="http://www.netlawman.co.uk/nlm/subscribe.php" class="footerlink13">Subscribe to Newsletter</a></div>
 				<div><a href="http://www.netlawman.co.uk/legal-information.php" class="footerlink13">Information Articles</a></div>
@@ -545,7 +435,7 @@
 				 
 			</div>
 
-			<div class="footercell" style="width:220px;">
+			<div class="footercell" style="width:215px;">
 				<div><a href="http://www.netlawman.co.uk/county-courts.php" class="footerlink13">County Courts List</a></div>
 			  	<div><a href="http://www.netlawman.co.uk/magistrate-courts.php" class="footerlink13">Magistrates Courts List</a></div>
 			  	<div><a href="http://www.netlawman.co.uk/crown-courts.php" class="footerlink13">Crown Courts List</a></div>
@@ -553,40 +443,75 @@
 				
 				 
 		    </div>
-			<div class="footercell" style="width:220px;">
+			<div class="footercell" style="width:215px;">
 			  	<div><a href="http://www.netlawman.co.uk/nlm/who_we_are.php" class="footerlink13">Who we are</a></div>
 			  	<div><a href="http://www.netlawman.co.uk/nlm/how_we_charge.php" class="footerlink13">How we charge</a></div>
-			  	<div><a href="http://www.netlawman.co.uk/affiliates/affiliate-information.php" class="footerlink13">Partners and affiliates</a></div>
+	  	<div><a href="http://www.netlawman.co.uk/nlaffiliates/affiliate-information.php" class="footerlink13">Partners and affiliates</a></div>
+			  	<div><a href="http://www.netlawman.co.uk/nlm/testimonials.php" class="footerlink13">Reviews</a></div>
 				 
 		    </div>
-		    <div class="footercell" style="width:160px;">
+		    <div class="footercell" style="width:150px;">
+                <div><a href="http://www.netlawman.co.uk/others/contact_us.php" class="footerlink13">Contact Us</a></div>	
+                <div><a href="http://www.netlawman.co.uk/faqs/faqs.php" class="footerlink13">FAQs</a></div>			
 			  	<div><a href="http://www.netlawman.co.uk/nlm/privacy_policy.php" class="footerlink13">Privacy policy</a></div>
 			  	<div><a href="http://www.netlawman.co.uk/nlm/sitemap.php" class="footerlink13">Site map</a></div>
-                <div><a href="http://www.netlawman.co.uk/faqs/faqs.php" class="footerlink13">FAQs</a></div>
+
+
 				 
-			</div>
-			  <div class="greanh_small" style="text-align:center;">Follow Us at</div>
-				<div align="center">
-				<table width="100" border="0">
+		<!-- Google Plus -->
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	</div>
+			  <div class="greanh_small" style="text-align:left;">Follow Us at</div>
+				<div align="left">
+				<table width="130" border="0">
 					  <tbody><tr>
-						<td><a href="http://twitter.com/netlawman" target="_blank"><img src="http://www.netlawman.co.uk/images_new/twitter.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0"></a></td>
-						<td><a href="http://www.netlawman.co.uk/blog/feed" target="_blank"><img src="http://www.netlawman.co.uk/images_new/rss.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0"></a></td>
-						<td><a href="http://www.facebook.com/pages/NetLawman-UK/129612703757965" target="_blank"><img src="http://www.netlawman.co.uk/images_new/facebook.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0" style="padding-left:-3px"></a></td>
-					  </tr>
+						<td align="left" colspan="2"><a href="http://twitter.com/netlawman" target="_blank"><img src="http://www.netlawman.co.uk/images_new/twitter.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0" style="margin-left: 0px;"></a>
+						<a href="http://www.netlawman.co.uk/blog/feed" target="_blank"><img src="http://www.netlawman.co.uk/images_new/rss.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0"></a>
+					<a href="http://www.facebook.com/pages/NetLawman-UK/129612703757965" target="_blank"><img src="http://www.netlawman.co.uk/images_new/facebook.jpg" alt="" width="23" height="23" hspace="5" vspace="10" border="0" style="padding-left:-3px"></a>
+						
+						  </td>
+					  </tr>	
+					   <tr>
+					  <td align="left"> <!-- Shair Button Code -->
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4dc3fdbf5f8e11ad"></script>
+			<div align="left" class="addthis_toolbox addthis_default_style" style="width:50px;">
+			<a class="addthis_counter addthis_pill_style"></a>
+			</div> </td>
+			<td>  <g:plusone></g:plusone></td>
+					 </tr>
+					 
 					</tbody></table>
+					
+					
 				</div>
 			
-			<div style="clear:both;"><span style="height:15px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="20"></span>
+                          <div style="clear:both;"><span style="height:15px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="20" alt=""></span>
 			
 			
 			</div>
 			</div>
 			</div>
-			<div style="clear:both;"><span style="height:30px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="10"></span></div>
-			<div class="cpyrite" style="text-align:center;">© 2000 - 2011 Net Lawman Ltd. All rights reserved. </div>
-	
-	</div>
+                            <div style="clear:both;"><span style="height:30px;"><img src="http://www.netlawman.co.uk/images_new/spacer.gif" width="15" height="10" alt=""></span></div>
+						<!-- <div class="cpyrite" style="text-align:center;">&copy; 2000 - 2011 Net Lawman Ltd. All rights reserved. </div> -->
+				</div>
 </div>
+
+
+<div class="cpyrite" style="text-align:center;">© 2000 - 2011 Net Lawman Ltd. All rights reserved. </div>
+
+
+
+
+
+
+<!-- start: Euraffiliates natural link and deep link tracking code -->
+
+		
+
+<img src="http://www.netlawman.co.uk/nlaffiliates/inc-landing-direct-link.php?aid=&amp;httpReferer=&amp;httpUserAgent=ia_archiver+%28%2Bhttp%3A%2F%2Fwww.alexa.com%2Fsite%2Fhelp%2Fwebmasters%3B+crawler%40alexa.com%29" border="0" width="0" height="0" alt="">
+
+<!-- end: Euraffiliates natural link and deep link tracking code -->
+
 	<script language="JavaScript" type="text/javascript">
 		var isCart = '0';
 		var cart_item_count  = '';
@@ -622,10 +547,14 @@
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-6324885-1");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
+		try { var pageTracker = _gat._getTracker("UA-6324885-1"); 
+		pageTracker._trackPageview(); 
+		pageTracker._trackPageLoadTime();
+		 } catch(err) {}
+</script>
 
-		
+		                
+
+
+
 </div></body></html>
