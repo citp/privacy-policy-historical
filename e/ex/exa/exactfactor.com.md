@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exactfactor.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209131009id_/http%3A//www.exactfactor.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactfactor.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090619id_/http%3A//www.seoandgo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# ExactFactor - privacy policy
+# SEO&GO - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.doubleclick.com&sealid=101 "TRUSTe: Click to Verify")Last updated: April 20, 2009
 
-ExactFactor Ltd. (“ **we, our or us** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit the [ www.exactfactor.com](http://www.exactfactor.com/) site (the “ **Site** ”) and when you use any part of our service or software via our Site or on the websites of our partners or other third parties (collectively, the “ **Service** ”). This Privacy Policy applies only to information that you provide to us through the Service when you access, download, purchase or use any information, services, products or content appearing on the Site or offered by us through the Service, or that we collect on your behalf as part of the Service.
+ExactFactor Ltd. (“ **we, our or us** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit the [ www.seoandgo.com](http://www.seoandgo.com/) site (the “ **Site** ”) and when you use any part of our service or software via our Site or on the websites of our partners or other third parties (collectively, the “ **Service** ”). This Privacy Policy applies only to information that you provide to us through the Service when you access, download, purchase or use any information, services, products or content appearing on the Site or offered by us through the Service, or that we collect on your behalf as part of the Service.
 
 This Privacy Policy may be amended or updated from time to time. If we make any material changes to this Privacy Policy, we will post a notice of these changes on our website and in this Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes.
 
@@ -44,7 +44,7 @@ This Privacy Policy applies only to the Service. We do not exercise control ov
 
 **2\. Our Policy Toward Children**
 
-We do not knowingly collect personally identifiable information from children under 13\. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@ExactFactor.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not knowingly collect personally identifiable information from children under 13\. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@seoandgo.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **3\. How We Use Personal Information**
 
@@ -82,6 +82,6 @@ Your information may be processed or transferred outside of your state, where th
 
 **8\. Contacting Us**
 
-If you have any concerns or questions about this Privacy Policy, please contact us at info@ExactFactor.com. 
+If you have any concerns or questions about this Privacy Policy, please contact us at info@seoandgo.com. 
 
-Copyright © 2010, ExactFactor Ltd. All rights reserved. 
+Copyright © 2011, ExactFactor Ltd. All rights reserved. 
