@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628054318id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hushmail.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215504id_/http%3A//www.hushmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<title>  Privacy Policy - Hushmail – Free Email with Privacy</title>
@@ -65,11 +65,28 @@ if(username.indexOf("@")<0){username+="@hushmail.com";
 var url="https://www.hushmail.com/"+username;
 var title="Sign in to Hushmail ("+username+")";
 if(document.all&&window.external){window.external.AddFavorite(url,title);
-}}}function populate(){if(document.location.search){var matches=document.location.search.match(/hush_username=([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4})/i);
-if(matches.length===2){theForm&&(theForm.elements["hush_username"].value=matches[1]);
-}}}function focus(){theForm&&theForm.elements["hush_username"]&&theForm.elements["hush_username"].focus();
+}}}function populate(){options.emailAddress&&theForm&&(theForm.elements["hush_username"].value=options.emailAddress);
+}function focus(){theForm&&theForm.elements["hush_username"]&&theForm.elements["hush_username"].focus();
 }that.populate=populate;
 that.focus=focus;
+return that;
+},request:function(options){var that={};
+function getEmailAddress(){if(document.location.search){var matches=document.location.search.match(/hush_username=([A-Z0-9._-]+)(@[A-Z0-9.-]+\.[A-Z]{2,4})?/i);
+if(matches&&matches.length===3&&matches[1]!==undefined){emailAddress=matches[1];
+if(matches[2]===undefined){var username=matches[1];
+matches=document.location.search.match(/hush_domain=([A-Z0-9.-]+\.[A-Z]{2,4})?/i);
+if(matches&&matches.length===2&&matches[1]!==undefined){return username+"@"+matches[1];
+}}else{return matches[1]+matches[2];
+}}}return null;
+}that.getEmailAddress=getEmailAddress;
+return that;
+},upgradeLinks:function(options){var that={};
+function init(){if(!options.emailAddress){return;
+}var ids=["upgrade-to-premium","upgrade-to-desktop","upgrade-to-forms"];
+for(var id in ids){var element=document.getElementById(ids[id]);
+if(element&&element.tagName==="A"){element.href+=element.href.indexOf("?")>=0?"&":"?";
+element.href+="hush_username="+options.emailAddress;
+}}}that.init=init;
 return that;
 },businessAccountCreationForm:function(options){var that={};
 var theForm=document.getElementById("business-account-creation-form");
@@ -93,6 +110,8 @@ var tip=document.getElementById(subject);
 if(lastTip){lastTip.style.display="none";
 }if(tip){tip.style.display="block";
 lastTip=tip;
+}var formAndButtons=document.getElementById("contact-form-fields-and-buttons");
+if(formAndButtons){formAndButtons.style.display=(subject==="Please close my free Hushmail account"?"none":"block");
 }}function send(){sender();
 subject();
 username();
@@ -129,17 +148,20 @@ that.segment=segment;
 that.event=event;
 return that;
 },web:function(options){var that={};
-var loginForm,businessAccountCreationForm,analytics,contactForm;
+var loginForm,businessAccountCreationForm,analytics,contactForm,request;
 var analytics=null;
 function init(){if(options.analytics){analytics=HUSHMAIL.analytics({profile:"UA-1837381-4"});
 analytics.record();
-}loginForm=HUSHMAIL.loginForm({analytics:analytics});
+}request=HUSHMAIL.request();
+loginForm=HUSHMAIL.loginForm({analytics:analytics,emailAddress:request.getEmailAddress()});
 loginForm.populate();
 loginForm.focus();
 contactForm=HUSHMAIL.contactForm({analytics:analytics});
 contactForm.init();
 businessAccountCreationForm=HUSHMAIL.businessAccountCreationForm();
 businessAccountCreationForm.focus();
+upgradeLinks=HUSHMAIL.upgradeLinks({emailAddress:request.getEmailAddress()});
+upgradeLinks.init();
 }init();
 return that;
 }};
