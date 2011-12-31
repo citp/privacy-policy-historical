@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613193711id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210953id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
 
 # Carbonated TV
 
