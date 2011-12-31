@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913023101id_/http%3A//www.kingolotto.co.uk/mentions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingolotto.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234540id_/http%3A//uk.kingolotto.com/mentions.php) for the most accurate reproduction.*
 
 # Kingolotto - 100% Free Game - Win: Vouchers, prizes, DVD, mobiles, video games, holidays, Nintendo DS, PSP, digital camera, PS3, MP3 players !
 
