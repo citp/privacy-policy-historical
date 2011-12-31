@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513193804id_/http%3A//www.salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210721id_/http%3A//www.salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for SBI
 
 At Sales Benchmark Index, we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Sales Benchmark Index (collectively, Sales Benchmark Index's "services").
 
