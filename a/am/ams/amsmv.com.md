@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amsmv.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220131759id_/http%3A//www.amsmv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsmv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231070440id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | MyLeadSystemPRO™
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
+This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
 
 By using our services or submitting information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to provide our services. Similarly, we need you to provide accurate personal information so that you can be contacted and use our website and related services. You can opt-out and decide not to provide the requested personal information. However, by doing so, we will not be able to contact you and you will not be able to use our website and/or services.
 
@@ -21,8 +21,8 @@ We cannot ensure that all of your private communications and other personally id
 Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
   This website is owned and operated by:  
-Attraction Marketing Systems, LLC  
-8605 Santa Monica Blvd #32725  
+Upwards Enterprises, LLC  
+8605 Santa Monica Blvd #32665  
 Los Angeles, California 90069
 
-This privacy policy is effective as of August 17, 2009.
+This privacy policy is effective as of Sept 7, 2010.
