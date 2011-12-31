@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the straightnorth.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427105132id_/http%3A//www.straightnorth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straightnorth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231031439id_/http%3A//www.straightnorth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 Your privacy is important to us. When you provide information to us via our website, we protect it according to this policy. If you have any questions, please don't hesitate to let us know.
 
@@ -10,7 +10,7 @@ Straight North operates primarily as a provider of business-to-business services
 
 **What Information Do We Collect Online?**
 
-Unless otherwise stated in another, more specific policy on the Web pages you are viewing, we collect the following types of information when you browse [www.straightnorth.com](http://www.straightnorth.com/ "www.straightnorth.com") or any other Straight North website:
+Unless otherwise stated in another, more specific policy on the Web pages you are viewing, we collect the following types of information when you browse [www.straightnorth.com](http://www.straightnorth.com/ "www.straightnorth.com") or any other Straight North website:
 
 Information you provide directly, such as your name or ordering information when you register or make an online order, or any chat room postings or e-mail messages you send us;
 
