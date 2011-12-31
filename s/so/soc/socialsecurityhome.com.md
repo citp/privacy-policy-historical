@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the socialsecurityhome.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616234218id_/http%3A//www.socialsecurityhome.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurityhome.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211115id_/http%3A//www.socialsecurityhome.com/privacy) for the most accurate reproduction.*
 
-# Social Security Disability: Privacy Policy
-
-Privacy Policy
+# Privacy Policy | SocialSecurityHome.com
 
 SocialSecurityHome.com is committed to safeguarding the privacy of everyone who uses this website. Accordingly, we have developed this privacy policy to explain to you what information we collect about you, the steps we take to keep this information private and secure, and what we do with this information. This privacy statement is part of our Terms and Conditions, which can be viewed in full by clicking here. By visiting this website, you agree to be bound by the terms of this policy. If you do not agree with the terms of this policy, please do not use this website. 
 
@@ -42,11 +40,10 @@ We may also provide aggregate statistical information (such as the city or state
 ** If you have any questions or concerns regarding this policy, you should contact us at: 
 
 **SocialSecurityHome**  
-112 Goliad street 
+800 Forest Oaks Lane  
+Hurst, TX 76053  
+info@socialsecurityhome.com  
 
-Fort Worth , TX 76126 
-
-info@fileconsumerbankruptcy.com 
 
 You can also review and update the personal information we have about you in order to ensure its accuracy. To do so, please contact us at the above address. 
 
