@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508193433id_/http%3A//www.worldsoccershop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsoccershop.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205653id_/http%3A//www.worldsoccershop.com/privacy.html) for the most accurate reproduction.*
 
 # World Soccer Shop - Privacy Policy
 
