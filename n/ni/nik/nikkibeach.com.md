@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210012317id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkibeach.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223141id_/http%3A//www.nikkibeach.com/privacy.php) for the most accurate reproduction.*
 
 # Nikki Beach
 
@@ -42,5 +42,8 @@ Nikki Beach website will not use your personal information for a different purpo
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [abuse@nikkibeach.com](mailto:abuse@nikkibeach.com)
 
-|   
+| 
+
+[](http://www.nikkibeachlifestyle.com/)  
+  
 ---|---
