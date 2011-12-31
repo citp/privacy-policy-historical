@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165622id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledir.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154058id_/http%3A//www.wholesaledir.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
