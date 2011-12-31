@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wegottickets.com privacy policy that was archived on 2010-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101102193753id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wegottickets.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231112505id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -7,6 +7,7 @@
 <title>WeGotTickets - Your Online Box Office - Our privacy policy</title>
 <meta name="Description" content="Buy tickets for music, comedy, theatre, film, festivals and much more - with the best service in UK ticketing">
 
+<!--link rel="stylesheet" type="text/css" href="/css/b/wegottickets.css" / -->
 <link rel="stylesheet" type="text/css" href="/css/b/framework.css">
 <link rel="stylesheet" type="text/css" href="/css/b/Header.css">
 <link rel="stylesheet" type="text/css" href="/css/b/Footer.css">
@@ -20,12 +21,20 @@
 <link rel="stylesheet" type="text/css" href="/css/b/RightColumn.css">
 <link rel="stylesheet" type="text/css" href="/css/b/Forms.css">
 <link rel="stylesheet" type="text/css" href="/css/b/phase1.css">
+<link rel="stylesheet" type="text/css" href="/css/b/calendar.css">
+<link rel="stylesheet" type="text/css" href="/css/b/datepicker.css">
 
 
 <link rel="stylesheet" type="text/css" href="/css/b/clientadminsignpost.css">
 <link rel="stylesheet" type="text/css" href="/css/incident.css">
 <link rel="stylesheet" type="text/css" href="/css/birthdaybasket.css">
+
 <link rel="stylesheet" type="text/css" href="/css/header.css">
+<link rel="stylesheet" type="text/css" href="/css/b/YouthMusic1.css">
+
+<!-- REMOVE THIS (and the font file) AFTER DECEMBER 25th -->
+<link rel="stylesheet" type="text/css" href="/css/adventcalendar.css">
+
 <style type="text/css">
 
 	#logo{
@@ -51,7 +60,88 @@
 
 
 <link rel="shortcut icon" href="http://www.wegottickets.com/images/wegottickets.ico" type="image/x-icon">
+
+<script type="text/javascript" src="http://www.wegottickets.com/js/jquery.min.js"></script>
+
+<script type="text/javascript">
+jQuery.noConflict();
+
+jQuery(function($){
+	
+	var Snowy = function(el, options) {
+		this.el = el;
+		this.init(options);
+	};
+	
+	Snowy.fn = Snowy.prototype;
+	$.extend(Snowy.fn, {
+		defaults: {
+			revealSpeed: 400, 
+			concealSpeed: 400
+		},
+		
+		init: function(options) {
+			this.options = $.extend({}, this.defaults, options)
+			this.overlay = this.el.find('.snow:first').show();
+			this.overlayTop = this.overlay.css('top');
+			this.state = 'concealed';
+			this.el.bind('mouseenter', $.proxy(this.reveal, this));
+			this.el.bind('mouseleave', $.proxy(this.conceal, this));
+		}, 
+		
+		reveal: function(e) {
+			if(this.state == 'concealed') {
+				this.state = 'revealing';
+				this.overlay.animate({
+					opacity: 0, 
+					top: '+=80'
+				},this.options.revealSpeed,'linear', $.proxy(this.revealFinish, this));
+			}
+		}, 
+		
+		revealFinish: function() {
+			this.state = 'revealed';
+		},
+		
+		conceal: function(e) {
+			if(this.state == 'revealed') {
+				this.state = 'concealing';
+				this.overlay.css({top:this.overlayTop});
+				this.overlay.animate({
+					opacity: 1
+				},this.options.concealSpeed,'linear', $.proxy(this.concealFinish, this));
+			}
+		}, 
+		
+		concealFinish: function() {
+			this.state = 'concealed'
+		}
+	});
+	
+	new Snowy($('#advent-calendar .sign').first());
+	
+});
+</script>
+
 <script src="http://www.wegottickets.com/js/activeContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.wegottickets.com/js/utilities.js"></script>
+<script type="text/javascript">
+domReady( function() {
+	 var starLinks = $$('star-compliance');
+	 for( var i = 0, l = starLinks.length; i < l; i++ ) {
+		 addEvent( starLinks[i], 'click', function( e ) {
+			 e.preventDefault();
+			 window.open(
+			     "http://www.star.org.uk/verify?dn=http://www.wegottickets.com",
+			     'star-compliance-window',
+			     "toolbar=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=560,height=490"
+			 );
+		 });
+	 }
+	 
+});
+</script>
+
 
 </head>
 <body>
@@ -80,10 +170,10 @@
 		        </div>
 	            <div id="Navigation">
 					<ul id="MainNav">
-						<li><a id="SearchLink" href="http://www.wegottickets.com/" title="White Label Home">home</a></li>
-						<li><a id="Basket" href="http://www.wegottickets.com/viewcart" title="basket">basket</a></li>
-						<li><a href="http://www.wegottickets.com/faqs">faqs</a></li>
-						<li><a href="http://www.wegottickets.com/help">help!</a></li>
+						<li><a id="SearchLink" href="http://www.wegottickets.com/" title="WeGotTickets Home">home</a></li>
+						<li><a id="Basket" href="http://www.wegottickets.com/viewcart" title="Basket">basket</a></li>
+						<li><a href="http://www.wegottickets.com/faqs" title="Frequently Asked Questions">faqs</a></li>
+						<li><a href="http://www.wegottickets.com/help" title="Get Help">help!</a></li>
 					</ul>
 					<ul id="UserNav">
 						<li id="UserEdge"></li>
@@ -91,12 +181,21 @@
 <li><h3><a id="LoginLink" href="http://www.wegottickets.com/account" title="login">login</a></h3></li>
 					</ul>
 				</div>
+				
+				<!--  div id="portals">
+					<ul>
+						<li><a href="http://www.wegotcomedy.com/" />WeGot<span class="alt">Comedy</span></a></li>
+						<li class="last"><a href="http://www.wegotfestivals.com/" />WeGot<span class="alt">Festivals</span></a></li>
+					</ul>
+				</div> -->
             </div>
             <div id="header_shadow"></div>
         </div>
 		<div id="WrapperInner">
 			<div id="extra_content"></div>
-			<div id="Page" class="clearfix"><h1>Privacy Policy</h1>
+			<div id="Page" class="clearfix">
+				
+				<h1>Privacy Policy</h1>
 <div id="RightColumn">
 	
 	<div class="ChatterBox">
@@ -106,7 +205,7 @@
 </div>
 <div class="ChatterBox">
 	<div class="chatterboxtop"></div>
-	<blockquote>View our <a href="http://www.wegottickets.com/ppl">privacy policy</a> here.</blockquote>
+	<blockquote>View our <a href="http://www.wegottickets.com/tandc">terms and conditions</a> here.</blockquote>
 	<div class="ChatterBottom"></div>
 </div>
 <div class="ChatterBox">
@@ -117,7 +216,7 @@
 
 </div>
 <div id="Content" class="clearfix"><p><br>
-Internet Tickets Ltd of Unit 13 King's Meadow, Ferry Hinksey Road, Oxford, OX2 0DP UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously.  This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.<br><br>
+Internet Tickets Ltd of Unit 13 Kings Meadow, Ferry Hinksey Road, Oxford, OX2 0DP UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously.  This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.<br><br>
 <b>Please read this Privacy Policy carefully.  Once you use this Website ("this Website") or Our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy.  You will also be deemed to have read and accepted this Privacy Policy and the Website Terms and Conditions of use (<a href="http://www.wegottickets.com/tandc">terms and conditions</a>).<br><br>  
 You must not use Our Website or any services available via it if you do not accept this Privacy Policy and the Website Terms and Conditions (<a href="http://www.wegottickets.com/tandc">terms and conditions</a>).</b><br><br>
 <b>1. Your Details And The Purposes For Which Information Is Used</b><br>
@@ -153,7 +252,7 @@ All Website material is owned by Internet Tickets Ltd. There must be no reproduc
 	        <a href="/back" title="back to WeGotTickets" id="backlinkfooter">
 	            <img src="http://www.wegottickets.com/images/logo_small.gif" alt="WeGotTickets - Festival tickets" border="0" height="35">
 	        </a>
-	        <p>© Internet Tickets Ltd 2004 - 2010</p>
+	        <p>© Internet Tickets Ltd 2004 - 2011</p>
 	        <ul class="clearfix">
 	            <li>
 	            	<a href="http://www.facebook.com/#!/pages/WeGotTickets/40707078898" target="_blank">
