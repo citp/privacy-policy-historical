@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pieceabout.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824060028id_/http%3A//www.pieceabout.com/site/page/view/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pieceabout.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210141id_/http%3A//www.pieceabout.com/site/page/view/privacyPolicy) for the most accurate reproduction.*
 
 # Piece About - Privacy Policy
 
