@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607062924id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnyc.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203120id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WNYC
 
@@ -48,7 +48,6 @@ Unless otherwise specified, you must be a least 18 years old in order to partici
 
 **Links to other Sites and Services**
 
-  
 Please be advised that the NYPR’s site and services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as NYPR.  For instance, clicking or tapping on an underwriting notice or some third party logos will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that NYPR would not. NYPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.
 
 In some cases, the NYPR’s site and services may include certain embedded tools provided and controlled by third parties and governed by the terms and policies of the third parties. You should only use these third party tools if you agree to their respective terms and policies.
