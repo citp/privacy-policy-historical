@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428074804id_/http%3A//www.omgpm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213303id_/http%3A//uk.omgpm.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
