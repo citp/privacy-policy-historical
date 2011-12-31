@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportal.com.au privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628211732id_/http%3A//www.sportal.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportal.com.au privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231211441id_/http%3A//www.sportal.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Sportal</title>
@@ -21,7 +21,7 @@
 <link rel="stylesheet" type="text/css" href="/site/_template/AUS/_css/HtmlSnippet.css">
 <link rel="stylesheet" type="text/css" href="/site/_template/AUS/_css/Image_Header.css">
 <link rel="stylesheet" type="text/css" href="/site/_template/AUS/_css/Menu_Footer.css">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/site/_library/common.js"></script>
+<script type="text/javascript" src="/site/_library/common.js"></script>
 <script type="text/javascript" src="/site/_library/flash.js"></script>
 <script type="text/javascript" src="/site/_library/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" src="/site/_library/menu.js"></script>
@@ -48,26 +48,10 @@ End Function
 // -->
 </script>
 </head><body id="body">
-<form name="SWMSForm" method="post" action="/privacy-policy" id="SWMSForm">
+<form name="SWMSForm" method="post" action="privacy-policy" id="SWMSForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkocwBF5biOqlYqRqSIwujGgeAX97IPJG0A3UzkAmdZr4=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkWx8eitjjiQbhHOk4N/BYxM2eKbP8/rL0DpTBi+JGTAY=">
 </div>
-<!-- Begin comScore Tag -->
-<script>
-var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "6035584" });
-(function() {
-var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-el.parentNode.insertBefore(s, el);
-})();
-</script>
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035584&cv=2.0&cj=1"; />
-</noscript>
-<!-- End comScore Tag -->
-
-<div class="cA-gutter gutter-full"></div>
 <div style="left:-1500em; position:absolute">
 	<a href="#Content">Skip to Content.</a>
 	<a href="#nav">Skip to Navigation.</a>
@@ -137,9 +121,17 @@ el.parentNode.insertBefore(s, el);
 		    
 			    <div class="menuitem">
 			        <div class="image_sur">
-				        <a id="ctl03_rptMenuParent_ctl04_hlMenuItem" class="menu_masthead_Video" href="http://www.sportal.com.au/eplayer-feature"></a>
+				        <a id="ctl03_rptMenuParent_ctl04_hlMenuItem" class="menu_masthead_Podcasts" href="/Podcasts"></a>
 				    </div>
-				    <div class="name"><a id="ctl03_rptMenuParent_ctl04_hlMenuItemText" href="http://www.sportal.com.au/eplayer-feature">Video</a></div>
+				    <div class="name"><a id="ctl03_rptMenuParent_ctl04_hlMenuItemText" href="/Podcasts">Podcasts</a></div>
+					<div class="desc"></div>
+			    </div>
+		    
+			    <div class="menuitem">
+			        <div class="image_sur">
+				        <a id="ctl03_rptMenuParent_ctl05_hlMenuItem" class="menu_masthead_Bundaberg" href="/bundy-rum-think-tank"></a>
+				    </div>
+				    <div class="name"><a id="ctl03_rptMenuParent_ctl05_hlMenuItemText" href="/bundy-rum-think-tank">Bundaberg</a></div>
 					<div class="desc"></div>
 			    </div>
 		    
@@ -170,9 +162,28 @@ el.parentNode.insertBefore(s, el);
 	 
         <img id="ctl05_imgSearchIcon" class="searchicon" title="search Icon" src="/site/_template/AUS/icon/searchIcon.gif" alt="search Icon" align="absmiddle" style="height:16px;width:26px;border-width:0px;">
         <input name="ctl05$txtSearch" type="text" id="ctl05_txtSearch" class="searchtext" alt="Search Text">        
-        <input type="submit" name="ctl05$btnSearch" value="Search" id="ctl05_btnSearch" class="searchbutton">
+        
+        <input type="button" class="searchbutton" value="Search">
 
 </div>
+<script type="text/javascript">
+    $(document).ready(
+        function () {
+            $(".searchtext").keyup(function (event) {
+                if (event.keyCode == 13) {
+                    $(".searchbutton").click();
+                }
+            });
+            $(".searchbutton").click(
+            function () {
+                var searchterm = $(".searchtext").val();
+                if (searchterm.length > 0) {
+                    searchterm = searchterm.replace("+", " ");
+                    window.location.href = "/searchresult/" + searchterm;
+                }
+            });
+        });    
+</script>
 		</div>
 	</div>
 	<div id="masthead">
@@ -183,7 +194,7 @@ el.parentNode.insertBefore(s, el);
 <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5344.1/2012819/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5344.1/2012819/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1582116659697"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5344.1/2012819/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5344.1/2012819/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5344.1/2012819/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1582116661021"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5344.1/2012819/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5344.1/2012819/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag -->
     </div>
     <div class="clearline">&nbsp;</div>
@@ -308,7 +319,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                            <div class="menuwrapper">
                                 <div id="rptMenuParent_ctl05_menutext" class="menutext">
 				                                
-                                     <a id="rptMenuParent_ctl05_hlMenuItem" class="mainmenu_League" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl05_ulChildMenu');" href="/league">League</a>
+                                     <a id="rptMenuParent_ctl05_hlMenuItem" class="mainmenu_Horseracing" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl05_ulChildMenu');" href="/horseracing">Horseracing</a>
                                 
 			</div>
                            </div>                                              
@@ -328,7 +339,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                            <div class="menuwrapper">
                                 <div id="rptMenuParent_ctl06_menutext" class="menutext">
 				                                
-                                     <a id="rptMenuParent_ctl06_hlMenuItem" class="mainmenu_Motorsport" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl06_ulChildMenu');" href="/motorsport">Motorsport</a>
+                                     <a id="rptMenuParent_ctl06_hlMenuItem" class="mainmenu_League" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl06_ulChildMenu');" href="/league">League</a>
                                 
 			</div>
                            </div>                                              
@@ -348,7 +359,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                            <div class="menuwrapper">
                                 <div id="rptMenuParent_ctl07_menutext" class="menutext">
 				                                
-                                     <a id="rptMenuParent_ctl07_hlMenuItem" class="mainmenu_Horseracing" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl07_ulChildMenu');" href="/horseracing">Horseracing</a>
+                                     <a id="rptMenuParent_ctl07_hlMenuItem" class="mainmenu_Motorsport" onmouseover="MenuItem_OnMouseOver('rptChildMenus_ctl07_ulChildMenu');" href="/motorsport">Motorsport</a>
                                 
 			</div>
                            </div>                                              
@@ -489,7 +500,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl00_rptChildMenuItems_ctl10_hlChildMenuItem" href="/afl-tippers">Expert Tips</a>
+                                <a id="rptChildMenus_ctl00_rptChildMenuItems_ctl10_hlChildMenuItem" href="/afl-report-cards">Report Cards</a>
                             </li>                            
                         
                             <li>
@@ -509,7 +520,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl01_rptChildMenuItems_ctl01_hlChildMenuItem" href="/Basketball-fixture/20">NBL Fixture</a>
+                                <a id="rptChildMenus_ctl01_rptChildMenuItems_ctl01_hlChildMenuItem" href="/Basketball-fixture/2015">NBL Fixture</a>
                             </li>                            
                         
                             <li>
@@ -541,7 +552,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl02_rptChildMenuItems_ctl03_hlChildMenuItem" href="/cricket-ladder/188">Standings</a>
+                                <a id="rptChildMenus_ctl02_rptChildMenuItems_ctl03_hlChildMenuItem" href="/cricket-ladder/219">Standings</a>
                             </li>                            
                         
                             <li>
@@ -573,27 +584,27 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl02_hlChildMenuItem" href="/football-fixture/49">Fixtures</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl02_hlChildMenuItem" href="/football-fixture/21602">A-League Fixture</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl03_hlChildMenuItem" href="/football-ladder/49">Standings</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl03_hlChildMenuItem" href="/football-fixture/7">EPL Fixture</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl04_hlChildMenuItem" href="/football-aleague">A-League</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl04_hlChildMenuItem" href="/football-ladder/21602">Standings</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl05_hlChildMenuItem" href="/football-epl">England</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl05_hlChildMenuItem" href="/football-aleague">A-League</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl06_hlChildMenuItem" href="http://goal.sportal.com.au">goal.sportal.com.au</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl06_hlChildMenuItem" href="/football-epl">England</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl07_hlChildMenuItem" href="http://aleaguedreamteam.sportal.com.au/">Fantasy A-League</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl07_hlChildMenuItem" href="http://goal.sportal.com.au">goal.sportal.com.au</a>
                             </li>                            
                         
                             <li>
@@ -601,7 +612,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl09_hlChildMenuItem" onclick="window.open(this.href, '','');return false;" href="http://tipping.sportal.com.au/" target="_blank">Tipping</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl09_hlChildMenuItem" onclick="window.open(this.href, '','');return false;" href="http://epltipping.sportal.com.au" target="_blank">EPL Tipping</a>
                             </li>                            
                         
                             <li>
@@ -609,7 +620,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl11_hlChildMenuItem" onclick="window.open(this.href, '','');return false;" href="/football-the-penalty-box" target="_blank">Podcast - TPB</a>
+                                <a id="rptChildMenus_ctl03_rptChildMenuItems_ctl11_hlChildMenuItem" onclick="window.open(this.href, '','');return false;" href="/football-the-penalty-box" target="_blank">Podcast</a>
                             </li>                            
                         
                 </ul>
@@ -624,120 +635,116 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                                 <a id="rptChildMenus_ctl04_rptChildMenuItems_ctl01_hlChildMenuItem" href="/golf-opinion">Opinion</a>
                             </li>                            
                         
-                </ul>
-            
-                <ul id="rptChildMenus_ctl05_ulChildMenu" class="mainmenu_sub_League" style="display:none;">
-                    
                             <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl00_hlChildMenuItem" href="/league-match-previews">Match Previews</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl01_hlChildMenuItem" href="/league-news">News</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl02_hlChildMenuItem" href="/league-opinion">Opinion</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl03_hlChildMenuItem" href="/league-team">Player Profiles</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl04_hlChildMenuItem" href="/league-nrl-teams">Latest Teams</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl05_hlChildMenuItem" href="/league-match-reports">Match Reports</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl06_hlChildMenuItem" href="/league-fixture/21">Fixture</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl07_hlChildMenuItem" href="/league-ladder/21">Ladder</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl08_hlChildMenuItem" href="http://nrldreamteam.sportal.com.au/">Fantasy NRL</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl09_hlChildMenuItem" href="http://nrltipping.sportal.com.au/">NRL Tipping</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl10_hlChildMenuItem" href="/league-unleashed">NRL Unleashed</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl11_hlChildMenuItem" href="/league-celebrity-tippers">Expert Tips</a>
+                                <a id="rptChildMenus_ctl04_rptChildMenuItems_ctl02_hlChildMenuItem" href="/golf-scoreboard">Scoreboard</a>
                             </li>                            
                         
                 </ul>
             
-                <ul id="rptChildMenus_ctl06_ulChildMenu" class="mainmenu_sub_Motorsport" style="display:none;">
+                <ul id="rptChildMenus_ctl05_ulChildMenu" class="mainmenu_sub_Horseracing" style="display:none;">
                     
                             <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl00_hlChildMenuItem" href="/motorsport-news">News</a>
+                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl00_hlChildMenuItem" href="/horseracing-news">News</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl01_hlChildMenuItem" href="/motorsport-f1-news">F1 News</a>
+                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl01_hlChildMenuItem" href="/horseracing-opinion">Opinion</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl02_hlChildMenuItem" href="/motorsport-motogp-news">MotoGP News</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl03_hlChildMenuItem" href="/motorsport-v8-news">V8 News</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl04_hlChildMenuItem" href="/motorsport-ladder/43">Standings</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl05_hlChildMenuItem" href="http://f1dreamteam.sportal.com.au/">Fantasy F1</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl06_hlChildMenuItem" href="http://v8dreamteam.sportal.com.au/">Fantasy V8</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl07_hlChildMenuItem" href="http://motogpdreamteam.sportal.com.au/?p=index">Fantasy MotoGP</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl08_hlChildMenuItem" href="http://f1tipping.sportal.com.au/">F1 Tipping</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl09_hlChildMenuItem" href="http://v8tipping.sportal.com.au">V8 Tipping</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl10_hlChildMenuItem" href="/motorsport-eplayer-feature">Video</a>
+                                <a id="rptChildMenus_ctl05_rptChildMenuItems_ctl02_hlChildMenuItem" href="/horseracing-calendar">Racing Calendar</a>
                             </li>                            
                         
                 </ul>
             
-                <ul id="rptChildMenus_ctl07_ulChildMenu" class="mainmenu_sub_Horseracing" style="display:none;">
+                <ul id="rptChildMenus_ctl06_ulChildMenu" class="mainmenu_sub_League" style="display:none;">
                     
                             <li>
-                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl00_hlChildMenuItem" href="/horseracing-news">News</a>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl00_hlChildMenuItem" href="/league-match-previews">Match Previews</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl01_hlChildMenuItem" href="/horseracing-opinion">Opinion</a>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl01_hlChildMenuItem" href="/league-news">News</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl02_hlChildMenuItem" href="/horseracing-calendar">Racing Calendar</a>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl02_hlChildMenuItem" href="/league-opinion">Opinion</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl03_hlChildMenuItem" href="/league-team">Player Profiles</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl04_hlChildMenuItem" href="/league-match-reports">Match Reports</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl05_hlChildMenuItem" href="/league-fixture/21">Fixture</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl06_hlChildMenuItem" href="/league-ladder/21">Ladder</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl07_hlChildMenuItem" href="http://nrldreamteam.sportal.com.au/">Fantasy NRL</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl08_hlChildMenuItem" href="http://nrltipping.sportal.com.au/">NRL Tipping</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl06_rptChildMenuItems_ctl09_hlChildMenuItem" href="/league-unleashed">NRL Unleashed</a>
+                            </li>                            
+                        
+                </ul>
+            
+                <ul id="rptChildMenus_ctl07_ulChildMenu" class="mainmenu_sub_Motorsport" style="display:none;">
+                    
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl00_hlChildMenuItem" href="/motorsport-news">News</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl01_hlChildMenuItem" href="/motorsport-f1-news">F1 News</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl02_hlChildMenuItem" href="/motorsport-motogp-news">MotoGP News</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl03_hlChildMenuItem" href="/motorsport-v8-news">V8 News</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl04_hlChildMenuItem" href="/motorsport-ladder/43">Standings</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl05_hlChildMenuItem" href="http://f1dreamteam.sportal.com.au/">Fantasy F1</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl06_hlChildMenuItem" href="http://v8dreamteam.sportal.com.au/">Fantasy V8</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl07_hlChildMenuItem" href="http://motogpdreamteam.sportal.com.au/?p=index">Fantasy MotoGP</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl08_hlChildMenuItem" href="http://f1tipping.sportal.com.au/">F1 Tipping</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl09_hlChildMenuItem" href="http://v8tipping.sportal.com.au">V8 Tipping</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl07_rptChildMenuItems_ctl10_hlChildMenuItem" href="/motorsport-eplayer-feature">Video</a>
                             </li>                            
                         
                 </ul>
@@ -757,11 +764,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl03_hlChildMenuItem" href="/rugby-union-super-rugby-standings">Standings</a>
+                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl03_hlChildMenuItem" href="/rugby-union-rwc-standings">Standings</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl04_hlChildMenuItem" href="/rugby-union-fixture/48">Super Rugby Fixture</a>
+                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl04_hlChildMenuItem" href="/rugby-union-fixture/48">Fixtures</a>
                             </li>                            
                         
                             <li>
@@ -769,11 +776,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl06_hlChildMenuItem" href="/mastercard-rwc">Mastercard RWC poll</a>
-                            </li>                            
-                        
-                            <li>
-                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl07_hlChildMenuItem" href="/rugby-eplayer-feature">Video</a>
+                                <a id="rptChildMenus_ctl08_rptChildMenuItems_ctl06_hlChildMenuItem" href="/rugby-eplayer-feature">Video</a>
                             </li>                            
                         
                 </ul>
@@ -789,7 +792,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl09_rptChildMenuItems_ctl02_hlChildMenuItem" href="http://tennisdreamteam.sportal.com.au/">Fantasy Tennis</a>
+                                <a id="rptChildMenus_ctl09_rptChildMenuItems_ctl02_hlChildMenuItem" onclick="window.open(this.href, '','');return false;" href="http://tennisdreamteam.sportal.com.au/" target="_blank">Fantasy Tennis</a>
                             </li>                            
                         
                             <li>
@@ -805,15 +808,15 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl01_hlChildMenuItem" href="/other-sports-netball">Netball</a>
+                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl01_hlChildMenuItem" href="/other-sports-cycling">Cycling</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl02_hlChildMenuItem" href="/netball-fixture">Netball Fixture</a>
+                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl02_hlChildMenuItem" href="/other-sports-netball">Netball</a>
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl03_hlChildMenuItem" href="/tourdefrance">Tour De France</a>
+                                <a id="rptChildMenus_ctl10_rptChildMenuItems_ctl03_hlChildMenuItem" href="/netball-fixture">Netball Fixture</a>
                             </li>                            
                         
                             <li>
@@ -829,7 +832,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                             </li>                            
                         
                             <li>
-                                <a id="rptChildMenus_ctl11_rptChildMenuItems_ctl01_hlChildMenuItem" href="/performance-reviews">Compeed reviews</a>
+                                <a id="rptChildMenus_ctl11_rptChildMenuItems_ctl01_hlChildMenuItem" href="/performance-gseries">G Series</a>
+                            </li>                            
+                        
+                            <li>
+                                <a id="rptChildMenus_ctl11_rptChildMenuItems_ctl02_hlChildMenuItem" href="/performance-reviews">Gatorade reviews</a>
                             </li>                            
                         
                 </ul>
@@ -849,7 +856,8 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 <div class="clearline"></div>
 	</div>
 </div>
-<div id="pagebg">
+<div id="pagebg" style="position:relative;">
+<div class="cA-gutter gutter-full"></div>
 <div id="container">
 	<div id="resizable">		
 			<div id="channel">
@@ -897,6 +905,7 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
         <div id="sb_facebook">
         <iframe id="Iframe1" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.sportal.com.au%2Fdefault.aspx%2Fprivacy-policy&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
          </div>
+        
     </div>          
     <div class="thirdpartycomments">
         
@@ -927,7 +936,9 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 </div>
 <div id="ctl10_Container">
 	   
-	<div class="headerimage">
+
+
+<div class="headerimage">
 		
 	</div>
 	<div class="articlefulldisplay">        
@@ -1011,29 +1022,29 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		            
 			        <div id="ctl12_rptArticle_ctl00_pnlThumbnail" class="thumbnail">
 		
-	                    <a id="ctl12_rptArticle_ctl00_hlThumbnail" href="/league-news-display/hodgo-to-spark-maroons-128112"><img id="ctl12_rptArticle_ctl00_imgThumbnail" title="Hodgo to spark Maroons" src="/site/_content/thumbnail/00070529-Thumbnail.jpg" alt="Hodgo to spark Maroons" style="height:70px;width:70px;border-width:0px;"></a>
+	                    <a id="ctl12_rptArticle_ctl00_hlThumbnail" href="/football-news-display/roar-end-loss-streak-154428"><img id="ctl12_rptArticle_ctl00_imgThumbnail" title="Roar end loss streak" src="/site/_content/thumbnail/00077715-Thumbnail.jpg" alt="Roar end loss streak" style="height:70px;width:70px;border-width:0px;"></a>
                     
 	</div>
                     
 			        <div class="item">
 			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl00_hlTitle" class="headerlink" href="/league-news-display/hodgo-to-spark-maroons-128112">Hodgo to spark Maroons</a>
+				            <a id="ctl12_rptArticle_ctl00_hlTitle" class="headerlink" href="/football-news-display/roar-end-loss-streak-154428">Roar end loss streak</a>
 				        </span>
 				             
 				        <div class="sportanddate">
 				            <div class="channel">
-				                League
+				                Football
 				            </div>
 				            
                             <div id="ctl12_rptArticle_ctl00_pnlUTCDate" class="headlinedate">
 		
-	                            <span class="headlineutctime">06/28/2011 09:11:07 PM</span>
+	                            <span class="headlineutctime">12/31/2011 11:35:07 AM</span>
                             
 	</div>
                         </div>
                         <div id="ctl12_rptArticle_ctl00_pnlPullquote" class="pullquote">
 		 
-                            Queensland are counting on incoming centre Justin Hodges to be the X-factor in the series ...
+                            Brisbane have reclaimed their swagger, rolling over the Melbourne Victory and snapping a ...
                         
 	</div>
                         <div class="clearline">&nbsp;</div>
@@ -1056,29 +1067,29 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		            
 			        <div id="ctl12_rptArticle_ctl01_pnlThumbnail" class="thumbnail">
 		
-	                    <a id="ctl12_rptArticle_ctl01_hlThumbnail" href="/cricket-news-display/scots-overcome-netherlands-128110"><img id="ctl12_rptArticle_ctl01_imgThumbnail" title="Scots overcome Netherlands" src="/site/_content/thumbnail/00070987-Thumbnail.jpg" alt="Scots overcome Netherlands" style="height:70px;width:70px;border-width:0px;"></a>
+	                    <a id="ctl12_rptArticle_ctl01_hlThumbnail" href="/basketball-news-display/taipans-thump-breakers-154427"><img id="ctl12_rptArticle_ctl01_imgThumbnail" title="Taipans thump Breakers" src="/site/_content/thumbnail/00077678-Thumbnail.jpg" alt="Taipans thump Breakers" style="height:70px;width:70px;border-width:0px;"></a>
                     
 	</div>
                     
 			        <div class="item">
 			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl01_hlTitle" class="headerlink" href="/cricket-news-display/scots-overcome-netherlands-128110">Scotland beat Dutch in opening one-dayer</a>
+				            <a id="ctl12_rptArticle_ctl01_hlTitle" class="headerlink" href="/basketball-news-display/taipans-thump-breakers-154427">Taipans thump Breakers</a>
 				        </span>
 				             
 				        <div class="sportanddate">
 				            <div class="channel">
-				                Cricket
+				                Basketball
 				            </div>
 				            
                             <div id="ctl12_rptArticle_ctl01_pnlUTCDate" class="headlinedate">
 		
-	                            <span class="headlineutctime">06/28/2011 08:42:17 PM</span>
+	                            <span class="headlineutctime">12/31/2011 11:09:46 AM</span>
                             
 	</div>
                         </div>
                         <div id="ctl12_rptArticle_ctl01_pnlPullquote" class="pullquote">
 		 
-                            Scotland defeated the Netherlands by 15 runs on Tuesday in the first of their two-match ...
+                            The Cairns Taipans have ensured centre Ian Crosswhite celebrated his 200th career game in ...
                         
 	</div>
                         <div class="clearline">&nbsp;</div>
@@ -1099,31 +1110,27 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		            
 		            
 		            
-			        <div id="ctl12_rptArticle_ctl02_pnlThumbnail" class="thumbnail">
-		
-	                    <a id="ctl12_rptArticle_ctl02_hlThumbnail" href="/cricket-news-display/minnows-back-in-for-2015-wc-128104"><img id="ctl12_rptArticle_ctl02_imgThumbnail" title="Minnows back in for 2015 WC" src="/site/_content/thumbnail/00060773-Thumbnail.jpg" alt="Minnows back in for 2015 WC" style="height:70px;width:70px;border-width:0px;"></a>
-                    
-	</div>
+			        
                     
 			        <div class="item">
 			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl02_hlTitle" class="headerlink" href="/cricket-news-display/minnows-back-in-for-2015-wc-128104">ICC reinstates minnows for World Cup</a>
+				            <a id="ctl12_rptArticle_ctl02_hlTitle" class="headerlink" href="/horseracing-news-display/western-jewel-wins-perth-cup-154418">Western Jewel wins Perth Cup</a>
 				        </span>
 				             
 				        <div class="sportanddate">
 				            <div class="channel">
-				                Cricket
+				                Horseracing
 				            </div>
 				            
                             <div id="ctl12_rptArticle_ctl02_pnlUTCDate" class="headlinedate">
 		
-	                            <span class="headlineutctime">06/28/2011 08:38:25 PM</span>
+	                            <span class="headlineutctime">12/31/2011 10:14:42 AM</span>
                             
 	</div>
                         </div>
                         <div id="ctl12_rptArticle_ctl02_pnlPullquote" class="pullquote">
 		 
-                            The International Cricket Council (ICC) on Tuesday have decided to allow four associate ...
+                            Western Jewel has taken out the 2400 metre Perth Cup at Ascot racecourse on Saturday ...
                         
 	</div>
                         <div class="clearline">&nbsp;</div>
@@ -1150,7 +1157,71 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
                     
 			        <div class="item">
 			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl03_hlTitle" class="headerlink" href="/tennis-news-display/maria-moves-into-semis-128109">Maria marches into semis, Lisicki through</a>
+				            <a id="ctl12_rptArticle_ctl03_hlTitle" class="headerlink" href="/football-news-display/stalemate-in-gosford-154412">Stalemate in Gosford</a>
+				        </span>
+				             
+				        <div class="sportanddate">
+				            <div class="channel">
+				                Football
+				            </div>
+				            
+                            <div id="ctl12_rptArticle_ctl03_pnlUTCDate" class="headlinedate">
+		
+	                            <span class="headlineutctime">12/31/2011 09:14:16 AM</span>
+                            
+	</div>
+                        </div>
+                        
+                        <div class="clearline">&nbsp;</div>
+				    </div>
+				    
+				    
+				    
+                    
+		    
+		            
+		            
+		            
+		            
+		            
+		            
+			        
+                    
+			        <div class="item">
+			            <span class="title">
+				            <a id="ctl12_rptArticle_ctl04_hlTitle" class="headerlink" href="/football-news-display/donovan-eager-to-help-everton-154389">Donovan eager to help Everton</a>
+				        </span>
+				             
+				        <div class="sportanddate">
+				            <div class="channel">
+				                Football
+				            </div>
+				            
+                            <div id="ctl12_rptArticle_ctl04_pnlUTCDate" class="headlinedate">
+		
+	                            <span class="headlineutctime">12/31/2011 08:42:39 AM</span>
+                            
+	</div>
+                        </div>
+                        
+                        <div class="clearline">&nbsp;</div>
+				    </div>
+				    
+				    
+				    
+                    
+		    
+		            
+		            
+		            
+		            
+		            
+		            
+			        
+                    
+			        <div class="item">
+			            <span class="title">
+				            <a id="ctl12_rptArticle_ctl05_hlTitle" class="headerlink" href="/tennis-news-display/france-start-with-win-154406">France overpower China in Hopman Cup</a>
 				        </span>
 				             
 				        <div class="sportanddate">
@@ -1158,73 +1229,9 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 				                Tennis
 				            </div>
 				            
-                            <div id="ctl12_rptArticle_ctl03_pnlUTCDate" class="headlinedate">
-		
-	                            <span class="headlineutctime">06/28/2011 08:33:15 PM</span>
-                            
-	</div>
-                        </div>
-                        
-                        <div class="clearline">&nbsp;</div>
-				    </div>
-				    
-				    
-				    
-                    
-		    
-		            
-		            
-		            
-		            
-		            
-		            
-			        
-                    
-			        <div class="item">
-			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl04_hlTitle" class="headerlink" href="/league-news-display/cleary-set-for-panthers-128108">Cleary set for Panthers</a>
-				        </span>
-				             
-				        <div class="sportanddate">
-				            <div class="channel">
-				                League
-				            </div>
-				            
-                            <div id="ctl12_rptArticle_ctl04_pnlUTCDate" class="headlinedate">
-		
-	                            <span class="headlineutctime">06/28/2011 08:26:52 PM</span>
-                            
-	</div>
-                        </div>
-                        
-                        <div class="clearline">&nbsp;</div>
-				    </div>
-				    
-				    
-				    
-                    
-		    
-		            
-		            
-		            
-		            
-		            
-		            
-			        
-                    
-			        <div class="item">
-			            <span class="title">
-				            <a id="ctl12_rptArticle_ctl05_hlTitle" class="headerlink" href="/league-news-display/king-keen-on-souths-128103">King keen for NRL return</a>
-				        </span>
-				             
-				        <div class="sportanddate">
-				            <div class="channel">
-				                League
-				            </div>
-				            
                             <div id="ctl12_rptArticle_ctl05_pnlUTCDate" class="headlinedate">
 		
-	                            <span class="headlineutctime">06/28/2011 08:14:48 PM</span>
+	                            <span class="headlineutctime">12/31/2011 08:10:45 AM</span>
                             
 	</div>
                         </div>
@@ -1274,15 +1281,15 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		        <div class="item">
 			        <div class="title">
 			            <div class="icon">
-			                <img id="ctl14_rptForumLatest_ctl00_imgChannelIcon" title="League" src="/site/_content/channel/00000016-Icon.gif" alt="League" style="height:20px;width:20px;border-width:0px;">
+			                <img id="ctl14_rptForumLatest_ctl00_imgChannelIcon" title="Cricket" src="/site/_content/channel/00000001-Icon.gif" alt="Cricket" style="height:20px;width:20px;border-width:0px;">
 			            </div>
 			            <div class="titletext">
-			                <a id="ctl14_rptForumLatest_ctl00_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=7">League</a>
+			                <a id="ctl14_rptForumLatest_ctl00_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=3">Cricket</a>
 			            </div>
 			            <div class="clearline">&nbsp;</div>
 			        </div>
 			        <div class="text">
-			            <a id="ctl14_rptForumLatest_ctl00_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=81730">Official Match Thread: Queensland Maroons v NSW Blues</a>
+			            <a id="ctl14_rptForumLatest_ctl00_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=85630">Australia vs India, Second Test, SCG</a>
 			        </div>
 			        <div class="clearline">&nbsp;</div>
 			    </div>
@@ -1292,15 +1299,15 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		        <div class="item">
 			        <div class="title">
 			            <div class="icon">
-			                <img id="ctl14_rptForumLatest_ctl02_imgChannelIcon" title="League" src="/site/_content/channel/00000016-Icon.gif" alt="League" style="height:20px;width:20px;border-width:0px;">
+			                <img id="ctl14_rptForumLatest_ctl02_imgChannelIcon" title="Cricket" src="/site/_content/channel/00000001-Icon.gif" alt="Cricket" style="height:20px;width:20px;border-width:0px;">
 			            </div>
 			            <div class="titletext">
-			                <a id="ctl14_rptForumLatest_ctl02_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=7">League</a>
+			                <a id="ctl14_rptForumLatest_ctl02_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=3">Cricket</a>
 			            </div>
 			            <div class="clearline">&nbsp;</div>
 			        </div>
 			        <div class="text">
-			            <a id="ctl14_rptForumLatest_ctl02_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=81741">Warriors Press Conference Wednesday Afternoon</a>
+			            <a id="ctl14_rptForumLatest_ctl02_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=85595">Australia vs India, Boxing Day Test, MCG [+English lessons]</a>
 			        </div>
 			        <div class="clearline">&nbsp;</div>
 			    </div>
@@ -1310,15 +1317,15 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		        <div class="item">
 			        <div class="title">
 			            <div class="icon">
-			                <img id="ctl14_rptForumLatest_ctl04_imgChannelIcon" title="AFL" src="/site/_content/channel/00000008-Icon.gif" alt="AFL" style="height:20px;width:20px;border-width:0px;">
+			                <img id="ctl14_rptForumLatest_ctl04_imgChannelIcon" title="Tennis" src="/site/_content/channel/00000019-Icon.gif" alt="Tennis" style="height:20px;width:20px;border-width:0px;">
 			            </div>
 			            <div class="titletext">
-			                <a id="ctl14_rptForumLatest_ctl04_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=1">AFL</a>
+			                <a id="ctl14_rptForumLatest_ctl04_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=10">Tennis</a>
 			            </div>
 			            <div class="clearline">&nbsp;</div>
 			        </div>
 			        <div class="text">
-			            <a id="ctl14_rptForumLatest_ctl04_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=81603">Official Match Thread: Carlton v West Coast</a>
+			            <a id="ctl14_rptForumLatest_ctl04_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=81926">General Tennis Tournaments Thread</a>
 			        </div>
 			        <div class="clearline">&nbsp;</div>
 			    </div>
@@ -1328,15 +1335,15 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		        <div class="item">
 			        <div class="title">
 			            <div class="icon">
-			                <img id="ctl14_rptForumLatest_ctl06_imgChannelIcon" title="League" src="/site/_content/channel/00000016-Icon.gif" alt="League" style="height:20px;width:20px;border-width:0px;">
+			                <img id="ctl14_rptForumLatest_ctl06_imgChannelIcon" title="Football" src="/site/_content/channel/00000011-Icon.gif" alt="Football" style="height:20px;width:20px;border-width:0px;">
 			            </div>
 			            <div class="titletext">
-			                <a id="ctl14_rptForumLatest_ctl06_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=7">League</a>
+			                <a id="ctl14_rptForumLatest_ctl06_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=4">Football</a>
 			            </div>
 			            <div class="clearline">&nbsp;</div>
 			        </div>
 			        <div class="text">
-			            <a id="ctl14_rptForumLatest_ctl06_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=81753">Who banned undercover mod?</a>
+			            <a id="ctl14_rptForumLatest_ctl06_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=85544">Suarez receives 8-match ban</a>
 			        </div>
 			        <div class="clearline">&nbsp;</div>
 			    </div>
@@ -1346,15 +1353,15 @@ function MenuHideAll() {document.getElementById('rptChildMenus_ctl00_ulChildMenu
 		        <div class="item">
 			        <div class="title">
 			            <div class="icon">
-			                <img id="ctl14_rptForumLatest_ctl08_imgChannelIcon" title="League" src="/site/_content/channel/00000016-Icon.gif" alt="League" style="height:20px;width:20px;border-width:0px;">
+			                <img id="ctl14_rptForumLatest_ctl08_imgChannelIcon" title="Football" src="/site/_content/channel/00000011-Icon.gif" alt="Football" style="height:20px;width:20px;border-width:0px;">
 			            </div>
 			            <div class="titletext">
-			                <a id="ctl14_rptForumLatest_ctl08_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=7">League</a>
+			                <a id="ctl14_rptForumLatest_ctl08_hlForum" href="http://forum.sportal.com.au/viewforum.aspx?f=4">Football</a>
 			            </div>
 			            <div class="clearline">&nbsp;</div>
 			        </div>
 			        <div class="text">
-			            <a id="ctl14_rptForumLatest_ctl08_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=80806">NRL DREAM TEAM 2011.1</a>
+			            <a id="ctl14_rptForumLatest_ctl08_hlThread" href="http://forum.sportal.com.au/viewthread.aspx?t=83297">The Official Manchester United Thread</a>
 			        </div>
 			        <div class="clearline">&nbsp;</div>
 			    </div>
@@ -1397,27 +1404,27 @@ document.write('<script language="JavaScript" src="http://ad.au.doubleclick.net/
         </div>
 	    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl00_hlPartnerImage" onclick="window.open(this.href, 'http://virginmobile.com.au/','');return false;" href="http://virginmobile.com.au/" target="http://virginmobile.com.au/"><img id="rptPartners_ctl00_imgpartnerThumbnail" title="Virgin Mobile" src="/site/_content/partner/00000055-Thumbnail.gif" alt="Virgin Mobile" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl00_hlPartnerImage" onclick="window.open(this.href, 'http://www.events.com.au/','');return false;" href="http://www.events.com.au/" target="http://www.events.com.au/"><img id="rptPartners_ctl00_imgpartnerThumbnail" title="Events Worldwide" src="/site/_content/partner/00000038-Thumbnail.jpg" alt="Events Worldwide" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl01_hlPartnerImage" onclick="window.open(this.href, 'http://www.liveperformance.com.au/','');return false;" href="http://www.liveperformance.com.au/" target="http://www.liveperformance.com.au/"><img id="rptPartners_ctl01_imgpartnerThumbnail" title="Live Performance Australia" src="/site/_content/partner/00000040-Thumbnail.gif" alt="Live Performance Australia" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl01_hlPartnerImage" onclick="window.open(this.href, 'http://www.footballaustralia.com.au/','');return false;" href="http://www.footballaustralia.com.au/" target="http://www.footballaustralia.com.au/"><img id="rptPartners_ctl01_imgpartnerThumbnail" title="Football Federation Australia" src="/site/_content/partner/00000013-Thumbnail.gif" alt="Football Federation Australia" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl02_hlPartnerImage" onclick="window.open(this.href, 'http://www.a_league.com.au/','');return false;" href="http://www.a-league.com.au/" target="http://www.a-league.com.au/"><img id="rptPartners_ctl02_imgpartnerThumbnail" title="Hyundai A-League" src="/site/_content/partner/00000014-Thumbnail.gif" alt="Hyundai A-League" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl02_hlPartnerImage" onclick="window.open(this.href, 'http://pontingfoundation.com.au','');return false;" href="http://pontingfoundation.com.au" target="http://pontingfoundation.com.au"><img id="rptPartners_ctl02_imgpartnerThumbnail" title="The Ponting Foundation" src="/site/_content/partner/00000058-Thumbnail.gif" alt="The Ponting Foundation" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl03_hlPartnerImage" onclick="window.open(this.href, 'http://netballnz.co.nz/','');return false;" href="http://netballnz.co.nz/" target="http://netballnz.co.nz/"><img id="rptPartners_ctl03_imgpartnerThumbnail" title="Netball New Zealand" src="/site/_content/partner/00000021-Thumbnail.gif" alt="Netball New Zealand" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl03_hlPartnerImage" onclick="window.open(this.href, 'http://www.three.com.au/','');return false;" href="http://www.three.com.au/" target="http://www.three.com.au/"><img id="rptPartners_ctl03_imgpartnerThumbnail" title="3" src="/site/_content/partner/00000042-Thumbnail.gif" alt="3" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl04_hlPartnerImage" onclick="window.open(this.href, 'http://www.footballaustralia.com.au/','');return false;" href="http://www.footballaustralia.com.au/" target="http://www.footballaustralia.com.au/"><img id="rptPartners_ctl04_imgpartnerThumbnail" title="Football Federation Australia" src="/site/_content/partner/00000013-Thumbnail.gif" alt="Football Federation Australia" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl04_hlPartnerImage" onclick="window.open(this.href, 'http://www.pga.org.au/','');return false;" href="http://www.pga.org.au/" target="http://www.pga.org.au/"><img id="rptPartners_ctl04_imgpartnerThumbnail" title="PGA of Australia" src="/site/_content/partner/00000016-Thumbnail.gif" alt="PGA of Australia" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
 		        <div class="partneritem">
-			           <a id="rptPartners_ctl05_hlPartnerImage" onclick="window.open(this.href, 'http://cricket.com.au','');return false;" href="http://cricket.com.au" target="http://cricket.com.au"><img id="rptPartners_ctl05_imgpartnerThumbnail" title="Cricket Australia" src="/site/_content/partner/00000003-Thumbnail.gif" alt="Cricket Australia" style="height:95px;width:150px;border-width:0px;"></a>
+			           <a id="rptPartners_ctl05_hlPartnerImage" onclick="window.open(this.href, 'http://netballnz.co.nz/','');return false;" href="http://netballnz.co.nz/" target="http://netballnz.co.nz/"><img id="rptPartners_ctl05_imgpartnerThumbnail" title="Netball New Zealand" src="/site/_content/partner/00000021-Thumbnail.gif" alt="Netball New Zealand" style="height:95px;width:150px;border-width:0px;"></a>
 				</div>  
 		    
     <div style="clear:both"></div>
@@ -1449,33 +1456,41 @@ document.write('<script language="JavaScript" src="http://ad.au.doubleclick.net/
 		    
 			    <div class="menuitem">
 			        <div class="image_sur">
-				        <a id="rptMenuParent_ctl02_hlMenuItem" class="footermenu_Terms_and_Conditions" href="/terms-and-conditions"></a>
+				        <a id="rptMenuParent_ctl02_hlMenuItem" class="footermenu_Jobs" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/jobs" target="_blank"></a>
 				    </div>
-				    <div class="name"><a id="rptMenuParent_ctl02_hlMenuItemText" href="/terms-and-conditions">Terms and Conditions</a></div>
+				    <div class="name"><a id="rptMenuParent_ctl02_hlMenuItemText" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/jobs" target="_blank">Jobs</a></div>
 					<div class="desc"></div>
 			    </div>
 		    
 			    <div class="menuitem">
 			        <div class="image_sur">
-				        <a id="rptMenuParent_ctl03_hlMenuItem" class="footermenu_Privacy_Policy" href="/privacy-policy"></a>
+				        <a id="rptMenuParent_ctl03_hlMenuItem" class="footermenu_Terms_&amp;_Conditions" href="/terms-and-conditions"></a>
 				    </div>
-				    <div class="name"><a id="rptMenuParent_ctl03_hlMenuItemText" href="/privacy-policy">Privacy Policy</a></div>
+				    <div class="name"><a id="rptMenuParent_ctl03_hlMenuItemText" href="/terms-and-conditions">Terms &amp; Conditions</a></div>
 					<div class="desc"></div>
 			    </div>
 		    
 			    <div class="menuitem">
 			        <div class="image_sur">
-				        <a id="rptMenuParent_ctl04_hlMenuItem" class="footermenu_Our_Partners" href="/partners"></a>
+				        <a id="rptMenuParent_ctl04_hlMenuItem" class="footermenu_Privacy_Policy" href="/privacy-policy"></a>
 				    </div>
-				    <div class="name"><a id="rptMenuParent_ctl04_hlMenuItemText" href="/partners">Our Partners</a></div>
+				    <div class="name"><a id="rptMenuParent_ctl04_hlMenuItemText" href="/privacy-policy">Privacy Policy</a></div>
 					<div class="desc"></div>
 			    </div>
 		    
 			    <div class="menuitem">
 			        <div class="image_sur">
-				        <a id="rptMenuParent_ctl05_hlMenuItem" class="footermenu_Sportal_Corporate" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/" target="_blank"></a>
+				        <a id="rptMenuParent_ctl05_hlMenuItem" class="footermenu_Partners" href="/partners"></a>
 				    </div>
-				    <div class="name"><a id="rptMenuParent_ctl05_hlMenuItemText" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/" target="_blank">Sportal Corporate</a></div>
+				    <div class="name"><a id="rptMenuParent_ctl05_hlMenuItemText" href="/partners">Partners</a></div>
+					<div class="desc"></div>
+			    </div>
+		    
+			    <div class="menuitem">
+			        <div class="image_sur">
+				        <a id="rptMenuParent_ctl06_hlMenuItem" class="footermenu_Sportal_Corporate" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/" target="_blank"></a>
+				    </div>
+				    <div class="name"><a id="rptMenuParent_ctl06_hlMenuItemText" onclick="window.open(this.href, '','');return false;" href="http://corporate.sportal.com.au/" target="_blank">Sportal Corporate</a></div>
 					<div class="desc"></div>
 			    </div>
 		    
@@ -1533,27 +1548,39 @@ trac.record().post();
 	    <ul class="menuParent" id="mnuParent">
 		    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl00_hlMenuItem" class="sitemap_footer_links_Forums" href="http://forum.sportal.com.au/">Forums</a>
+					    <a id="ctl19_rptMenuParent_ctl00_hlMenuItem" class="sitemap_footer_links_Fantasy_Sports" href="/fantasy">Fantasy Sports</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Mobile" href="http://www.sportal.com.au/mobile">Mobile</a>
+					    <a id="ctl19_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Forums" href="http://forum.sportal.com.au/">Forums</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_News_Ticker_Generator" href="http://www.sportal.com.au/ticker-generator">News Ticker Generator</a>
+					    <a id="ctl19_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Mobile" href="http://www.sportal.com.au/mobile">Mobile</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Photo_Galleries" href="/photogallery">Photo Galleries</a>
+					    <a id="ctl19_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_News_Ticker_Generator" href="http://www.sportal.com.au/ticker-generator">News Ticker Generator</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Video" href="/eplayer-feature">Video</a>
+					    <a id="ctl19_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Photo_Galleries" href="/photogallery">Photo Galleries</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl19_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Wallpapers" href="/wallpaper">Wallpapers</a>
+					    <a id="ctl19_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Podcasts" href="/podcasts">Podcasts</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl19_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Tipping" href="/tipping">Tipping</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl19_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_Video" href="/eplayer-feature">Video</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl19_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_Wallpapers" href="/wallpaper">Wallpapers</a>
 				    </li>
 			    
 	    </ul>		
@@ -1604,11 +1631,15 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl21_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Fantasy_NBL" href="http://nbldreamteam.sportal.com.au">Fantasy NBL</a>
+					    <a id="ctl21_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Fantasy_NBL" onclick="window.open(this.href, '','');return false;" href="http://nbldreamteam.sportal.com.au" target="_blank">Fantasy NBL</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl21_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Basketball_Video" href="/basketball-eplayer-feature">Basketball Video</a>
+					    <a id="ctl21_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_NBL_Tipping" onclick="window.open(this.href, '','');return false;" href="http://nbltipping.sportal.com.au/" target="_blank">NBL Tipping</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl21_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Basketball_Video" href="/basketball-eplayer-feature">Basketball Video</a>
 				    </li>
 			    
 	    </ul>		
@@ -1668,15 +1699,19 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl23_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_AFL_Forums" href="http://forum.sportal.com.au/yaf_topics1_AFL.aspx">AFL Forums</a>
+					    <a id="ctl23_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Mondayitis" href="/afl-mondayitis">Mondayitis</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl23_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Fantasy_AFL" onclick="window.open(this.href, '','');return false;" href="http://fantasyafl.sportal.com.au/" target="_blank">Fantasy AFL</a>
+					    <a id="ctl23_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_AFL_Forums" href="http://forum.sportal.com.au/yaf_topics1_AFL.aspx">AFL Forums</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl23_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_AFL_Tipping" href="http://afltipping.sportal.com.au/">AFL Tipping</a>
+					    <a id="ctl23_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_Fantasy_AFL" onclick="window.open(this.href, '','');return false;" href="http://fantasyafl.sportal.com.au/" target="_blank">Fantasy AFL</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl23_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_AFL_Tipping" href="http://afltipping.sportal.com.au/">AFL Tipping</a>
 				    </li>
 			    
 	    </ul>		
@@ -1783,7 +1818,7 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl27_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Cricket_Standings" href="/cricket-ladder/188">Cricket Standings</a>
+					    <a id="ctl27_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Cricket_Standings" href="/cricket-ladder/219">Cricket Standings</a>
 				    </li>
 			    
 				    <li class="menuitem">
@@ -1846,27 +1881,31 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Fantasy_Formula_1" href="http://f1dreamteam.sportal.com.au/">Fantasy Formula 1</a>
+					    <a id="ctl29_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Fantasy_Formula_1" onclick="window.open(this.href, '','');return false;" href="http://f1dreamteam.sportal.com.au/" target="_blank">Fantasy Formula 1</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Fantasy_V8_Supercars" href="http://v8dreamteam.sportal.com.au/">Fantasy V8 Supercars</a>
+					    <a id="ctl29_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Fantasy_V8_Supercars" onclick="window.open(this.href, '','');return false;" href="http://v8dreamteam.sportal.com.au/" target="_blank">Fantasy V8 Supercars</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_F1_Tipping" href="http://f1tipping.sportal.com.au/">F1 Tipping</a>
+					    <a id="ctl29_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Fantasy_MotoGP" onclick="window.open(this.href, '','');return false;" href="http://motogpdreamteam.sportal.com.au/" target="_blank">Fantasy MotoGP</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_V8_Tipping" href="http://v8tipping.sportal.com.au">V8 Tipping</a>
+					    <a id="ctl29_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_F1_Tipping" href="http://f1tipping.sportal.com.au/">F1 Tipping</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_MotoGP_Tipping" href="http://motogptipping.sportal.com.au/">MotoGP Tipping</a>
+					    <a id="ctl29_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_V8_Tipping" href="http://v8tipping.sportal.com.au">V8 Tipping</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl29_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_Motorsport_Video" href="/motorsport-eplayer-feature">Motorsport Video</a>
+					    <a id="ctl29_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_MotoGP_Tipping" href="http://motogptipping.sportal.com.au/">MotoGP Tipping</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl29_rptMenuParent_ctl09_hlMenuItem" class="sitemap_footer_links_Motorsport_Video" href="/motorsport-eplayer-feature">Motorsport Video</a>
 				    </li>
 			    
 	    </ul>		
@@ -1914,23 +1953,23 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_A-League_Fixture" href="/football-fixture/49">A-League Fixture</a>
+					    <a id="ctl31_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_The_Penalty_Box" href="/football-the-penalty-box">The Penalty Box</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_EPL_Fixture" href="/football-fixture/7">EPL Fixture</a>
+					    <a id="ctl31_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_A-League_Fixture" href="/football-fixture/21602">A-League Fixture</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_A-League_Standings" href="/football-ladder/20">A-League Standings</a>
+					    <a id="ctl31_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_EPL_Fixture" href="/football-fixture/7">EPL Fixture</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Football_Forums" href="http://forum.sportal.com.au/yaf_topics4_Football.aspx">Football Forums</a>
+					    <a id="ctl31_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_A-League_Standings" href="/football-ladder/21602">A-League Standings</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Fantasy_A-League" onclick="window.open(this.href, '','');return false;" href="http://aleaguedreamteam.sportal.com.au/" target="_blank">Fantasy A-League</a>
+					    <a id="ctl31_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Football_Forums" href="http://forum.sportal.com.au/yaf_topics4_Football.aspx">Football Forums</a>
 				    </li>
 			    
 				    <li class="menuitem">
@@ -1938,11 +1977,15 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_Football_Match_Reports" href="/football-match-reports">Football Match Reports</a>
+					    <a id="ctl31_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_EPL_Tipping" onclick="window.open(this.href, '','');return false;" href="http://epltipping.sportal.com.au" target="_blank">EPL Tipping</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl31_rptMenuParent_ctl09_hlMenuItem" class="sitemap_footer_links_Football_Video" href="/football-eplayer-feature">Football Video</a>
+					    <a id="ctl31_rptMenuParent_ctl09_hlMenuItem" class="sitemap_footer_links_Football_Match_Reports" href="/football-match-reports">Football Match Reports</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl31_rptMenuParent_ctl10_hlMenuItem" class="sitemap_footer_links_Football_Video" href="/football-eplayer-feature">Football Video</a>
 				    </li>
 			    
 	    </ul>		
@@ -1993,7 +2036,11 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl33_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Tennis_Video" href="/tennis-eplayer-feature">Tennis Video</a>
+					    <a id="ctl33_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Fantasy_Tennis" onclick="window.open(this.href, '','');return false;" href="http://tennisdreamteam.sportal.com.au/" target="_blank">Fantasy Tennis</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl33_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Tennis_Video" href="/tennis-eplayer-feature">Tennis Video</a>
 				    </li>
 			    
 	    </ul>		
@@ -2041,31 +2088,35 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_NRL_Fixture" href="/league-fixture/21">NRL Fixture</a>
+					    <a id="ctl35_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Teams_&amp;_Players" href="/league-team">Teams &amp; Players</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_NRL_Ladder" href="/league-ladder/21">NRL Ladder</a>
+					    <a id="ctl35_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_NRL_Fixture" href="/league-fixture/21">NRL Fixture</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Toyota_Cup_Ladder" href="/league-ladder/25">Toyota Cup Ladder</a>
+					    <a id="ctl35_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_NRL_Ladder" href="/league-ladder/21">NRL Ladder</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_League_Forums" href="http://forum.sportal.com.au/yaf_topics7_League.aspx">League Forums</a>
+					    <a id="ctl35_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_NRL_Unleashed" href="/league-unleashed">NRL Unleashed</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Fantasy_NRL" href="http://nrldreamteam.sportal.com.au/">Fantasy NRL</a>
+					    <a id="ctl35_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Toyota_Cup_Ladder" href="/league-ladder/25">Toyota Cup Ladder</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_League_Match_Previews" href="/league-match-previews">League Match Previews</a>
+					    <a id="ctl35_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_League_Forums" href="http://forum.sportal.com.au/yaf_topics7_League.aspx">League Forums</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl35_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_NRL_Tipping" href="http://nrltipping.sportal.com.au/">NRL Tipping</a>
+					    <a id="ctl35_rptMenuParent_ctl08_hlMenuItem" class="sitemap_footer_links_Fantasy_NRL" href="http://nrldreamteam.sportal.com.au/">Fantasy NRL</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl35_rptMenuParent_ctl09_hlMenuItem" class="sitemap_footer_links_NRL_Tipping" href="http://nrltipping.sportal.com.au/">NRL Tipping</a>
 				    </li>
 			    
 	    </ul>		
@@ -2108,19 +2159,23 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl37_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Netball" href="/other-sports-netball">Netball</a>
+					    <a id="ctl37_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Cycling" href="/other-sports-cycling">Cycling</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl37_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Netball_Fixtures" href="/netball-fixture">Netball Fixtures</a>
+					    <a id="ctl37_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Netball" href="/other-sports-netball">Netball</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl37_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Other_Sports_Forums" href="http://forum.sportal.com.au/yaf_topics13_Other-Sports.aspx">Other Sports Forums</a>
+					    <a id="ctl37_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Netball_Fixtures" href="/netball-fixture">Netball Fixtures</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl37_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Other_Video" href="/eplayer-feature">Other Video</a>
+					    <a id="ctl37_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Other_Sports_Forums" href="http://forum.sportal.com.au/yaf_topics13_Other-Sports.aspx">Other Sports Forums</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl37_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Other_Sports_Video" href="/eplayer-feature">Other Sports Video</a>
 				    </li>
 			    
 	    </ul>		
@@ -2164,31 +2219,31 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Rugby_Opinion" href="/rugby-union-opinion">Rugby Opinion</a>
+					    <a id="ctl39_rptMenuParent_ctl01_hlMenuItem" class="sitemap_footer_links_Fixture" href="/rugby-union-fixture/58">Fixture</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Rugby_Match_Reports" href="/rugby-union-match-report">Rugby Match Reports</a>
+					    <a id="ctl39_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Rugby_Opinion" href="/rugby-union-opinion">Rugby Opinion</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Teams_&amp;_Players" href="/rugby-union-super-rugby-teams">Teams &amp; Players</a>
+					    <a id="ctl39_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Rugby_Match_Reports" href="/rugby-union-match-report">Rugby Match Reports</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Standings" href="/rugby-union-super-rugby-standings">Standings</a>
+					    <a id="ctl39_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Teams_&amp;_Players" href="/rugby-union-super-rugby-teams">Teams &amp; Players</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Rugby_Forums" href="http://forum.sportal.com.au/yaf_topics9_Rugby.aspx">Rugby Forums</a>
+					    <a id="ctl39_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Tri_Nations" href="/rugby-union-tri-nations">Tri Nations</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Fantasy_Super_Rugby" href="http://superrugbydreamteam.sportal.com.au/">Fantasy Super Rugby</a>
+					    <a id="ctl39_rptMenuParent_ctl06_hlMenuItem" class="sitemap_footer_links_Standings" href="/rugby-union-super-rugby-standings">Standings</a>
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl39_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_Super_Rugby_Tipping" href="http://superrugbytipping.sportal.com.au/">Super Rugby Tipping</a>
+					    <a id="ctl39_rptMenuParent_ctl07_hlMenuItem" class="sitemap_footer_links_Rugby_Forums" href="http://forum.sportal.com.au/yaf_topics9_Rugby.aspx">Rugby Forums</a>
 				    </li>
 			    
 				    <li class="menuitem">
@@ -2239,7 +2294,19 @@ trac.record().post();
 				    </li>
 			    
 				    <li class="menuitem">
-					    <a id="ctl41_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Horseracing_Forums" href="http://forum.sportal.com.au/yaf_topics6_Horseracing.aspx">Horseracing Forums</a>
+					    <a id="ctl41_rptMenuParent_ctl02_hlMenuItem" class="sitemap_footer_links_Racing_Calendar" href="/horseracing-calendar">Racing Calendar</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl41_rptMenuParent_ctl03_hlMenuItem" class="sitemap_footer_links_Cox_Plate" href="/horseracing-sportsbet">Cox Plate</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl41_rptMenuParent_ctl04_hlMenuItem" class="sitemap_footer_links_Horseracing_Forums" href="http://forum.sportal.com.au/yaf_topics6_Horseracing.aspx">Horseracing Forums</a>
+				    </li>
+			    
+				    <li class="menuitem">
+					    <a id="ctl41_rptMenuParent_ctl05_hlMenuItem" class="sitemap_footer_links_Fantasy_Horseracing" onclick="window.open(this.href, '','');return false;" href="http://horseracingdreamteam.sportal.com.au" target="_blank">Fantasy Horseracing</a>
 				    </li>
 			    
 	    </ul>		
@@ -2271,7 +2338,7 @@ pageTracker._trackPageview();
 </script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLKyJuvBQKWnbaXDgKpnIfmBALd+I32AwKqy4+5AgLF/ML0AgL2t+COAjs0arJQI69a3wGtO/qxx2YLmBVjKysaawrU3wgQfn1l">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLA9evWBAKWnbaXDgKpnIfmBALd+I32AwKqy4+5AgLF/ML0AvTewZt3CYWyzczHtSHlVU6z4Lc6aMCTMEhy9TIMl/1y">
 </div></form>
 
 
