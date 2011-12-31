@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424020219id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.ie privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231162855id_/http%3A//www.skyscanner.ie/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Skyscanner Ireland
 
 ## Skyscanner Privacy Policy
 
-This Privacy Policy covers your use of this website (and all other domains and websites)(" **our website** ") operated by Skyscanner Limited (" **us** "/" **we** "). We are committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing Skyscanner Limited with any of your personal details.
+This Privacy Policy covers your use of this website (and all other domains and websites) and any Skyscanner application used by you on a mobile phone or other electronic device (" **our website** ") operated by Skyscanner Limited (" **us** "/" **we** "). We are committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal details you provide to us. As a visitor to our website you have the right to know and understand our information privacy practices prior to providing Skyscanner Limited with any of your personal details.
 
 This page explains our Privacy Policy. This policy (together with our [Terms of Service](http://www.skyscanner.net/termsofservice.aspx) and any other documents referred to therein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -12,7 +12,7 @@ Please read the following carefully to understand our views and practices regard
 
 ## Consent
 
-By using our website, you consent to the collection and use of your IP Details and Personal Information in accordance with this policy. If we change our privacy policy at any time, these changes will be reflected in this Privacy Policy.
+By using our website, you consent to the collection and use of your IP Details, Personal Information and location data in accordance with this policy. If we change our privacy policy at any time, these changes will be reflected in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -49,9 +49,13 @@ We may collect and process the following data (" **Personal Information** ") abo
 
 
 
+### Location Data
+
+We may obtain information relating to your geographical location ( **"Location Data"** ) where you use any Skyscanner application on a mobile phone or other electronic device. We will use such Location Data only for the purpose of identifying which airport is nearest to you at that time.
+
 ### Use of Information
 
-We will use your IP Details, Cookies and Personal Information (together, your " **Information** ") held about you in the following ways:
+We will use your IP Details, Cookies and Personal Information held about you in the following ways:
 
   * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
   * To provide you with information, products or services that you request from us or which we feel may interest you.
@@ -61,7 +65,7 @@ We will use your IP Details, Cookies and Personal Information (together, your " 
 
 
 
-We will not sell, share, or provide your Information to others other than in accordance with this Privacy Policy or where we are required to do so by law. 
+We will not sell, share, or provide your IP Details, Cookies, Personal Information and Location Data (together, your **"Information"** ) to others other than in accordance with this Privacy Policy or where we are required to do so by law. 
 
 ## Disclosure Of Your Information
 
@@ -77,7 +81,7 @@ In addition, we may disclose your Information to third parties:
 
 Where we direct you to websites of third party flight or travel provider companies for you to make bookings, we may use your Information to auto-fill selected details within the third party companies website in order to make the booking process easier and more efficient for you. 
 
-We may also use your Information, or permit selected third parties to use your Information, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email or telephone. 
+We may also use your Information (excluding Location Data), or permit selected third parties to use your Information (excluding Location Data), to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email or telephone. 
 
 ## Data Storage
 
