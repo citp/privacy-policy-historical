@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222114541id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadcapturepagesystem.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215900id_/http%3A//leadcapturepagesystem.com/disclosurepolicy.php) for the most accurate reproduction.*
 
 # Lead Capture Page System
 
 ## Business Description
 
-We provide website design and development services for our clients. In addition to this, we also: sell php scripts we have created, provide graphical design services, provide online marketing services. For more information about us [click here](https://web.archive.org/web/20110222114541id_/http%3A//leadcapturepagesystem.com/aboutus.php) to visit our about us page.
+We provide website design and development services for our clients. In addition to this, we also: sell php scripts we have created, provide graphical design services, provide online marketing services. For more information about us [click here](https://web.archive.org/web/20111231215900id_/http%3A//leadcapturepagesystem.com/aboutus.php) to visit our about us page.
 
 ## Privacy Policy
 
@@ -16,4 +16,4 @@ We do not provide refunds for any purchases made from our site. In the rare even
 
 ## Contact Information
 
-You can contact us be email at sales@leadcapturepagesystem.com. You can contact us by phone at 1-888-65LEADS. For more information about contacting us [click here](https://web.archive.org/web/20110222114541id_/http%3A//leadcapturepagesystem.com/contactus.php). 
+You can contact us be email at sales@leadcapturepagesystem.com. You can contact us by phone at 1-888-65LEADS. For more information about contacting us [click here](https://web.archive.org/web/20111231215900id_/http%3A//leadcapturepagesystem.com/contactus.php). 
