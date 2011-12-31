@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nrdconline.org privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624050742id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nrdconline.org privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231203522id_/http%3A//www.nrdc.org/privacy/default.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>NRDC Privacy Policy</title>
@@ -36,19 +36,39 @@
     <div id="laondaverda"><b><a href="/laondaverde/">La Onda Verda (Español)</a></b></div>
     
     <div id="searchbox">
-	<form action="/search.asp" method="get" id="cse-search-box">
+
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+	  google.load('search', '1');
+	  google.setOnLoadCallback(function() {
+  		google.search.CustomSearchControl.attachAutoCompletion(
+  		  '001024953138106184952:levppyfplwy',
+  		  document.getElementById('searchfield'),
+  		  'cse-search-box-initiator');
+  		
+  		//this one is for the searchbox on the search page
+      if(jQuery("#searchpage-q").length > 0) {
+    		google.search.CustomSearchControl.attachAutoCompletion(
+    		  '001024953138106184952:levppyfplwy',
+    		  document.getElementById('searchpage-q'),
+    		  'cse-search-box');
+      }    
+  	});
+	</script>
+	
+	<form action="/search.asp" method="get" id="cse-search-box-initiator">
 	  <div>
 		<input type="hidden" name="cof" value="FORID:11">
 		<input type="hidden" name="ie" value="UTF-8">
-		<input class="text" type="text" id="searchfield" name="q" size="31" value="Enter Search Here" onfocus="javascript:if(this.value=='Enter Search Here')this.value='';">
+		<input class="text" type="text" id="searchfield" name="q" size="31" autocomplete="off" value="Enter Search Here" onfocus="javascript:if(this.value=='Enter Search Here')this.value='';">
 		<input id="submit" name="sa" type="image" src="/_images/bg-submit.gif" alt="Go"><br>
 		<input type="hidden" name="cx" value="001024953138106184952:levppyfplwy">
 		<input type="hidden" name="hq" value="-inurl:https">
 		<input type="hidden" name="t" value="iframe">
 	  </div>
 	</form>
-
     </div>
+    <script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 	
 	<div id="nrdc-teaser"><b><a href="/joingive/default.asp">NRDC gets top ratings from the charity watchdogs</a></b></div>
 	
@@ -63,7 +83,7 @@
     <li id="nav-bus"><a href="/business/">Smarter Business</a></li>
     <li id="nav-mul"><a href="/tv/">Multimedia</a></li>
     <li id="nav-blo"><a href="/blogs">Blogs</a></li>
-    <li id="nav-don"><a href="/joingive/">Donate</a></li>
+    <li id="nav-don"><a href="https://www.nrdc.org/joingive/Default.asp?&amp;utm_source=nrdc&amp;utm_medium=topnav&amp;utm_campaign=donate">Donate</a></li>
     <li id="nav-act"><a href="/action/">Take Action</a></li>
     </ul>
     </div> 
@@ -74,7 +94,7 @@
     <div id="content">
 
     <div id="col-left">
-    
+    <div id="section-nav"></div>
     </div> 
 
         <div id="col-main" class="nonlegacy">
@@ -146,61 +166,54 @@ When you donate to NRDC via our website your donation information is encrypted a
         </div>
         <p class="more"><a href="/newsletter/">See the latest issue &gt;</a></p>
         </div> <!-- end module -->
-		<div class="module">
-<a href="http://www.nrdc.org/joingive/"><img height="100" alt="Donate to NRDC" width="183" border="0" src="/_images/col-right/button-donate-wolves2.jpg"></a>
-</div>
-<div class="module action">
-<h2>Take Online Action Now!</h2>
-<ul>
-<li><a href="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1695">Tell Interior Secretary Salazar to uphold federal protections for Yellowstone’s grizzly bears</a></li>
-</ul></div>
-<div class="module action">
-<p></p><h2>NRDC Gets Top Ratings from the Charity Watchdogs</h2>
-<p><img alt="" src="/_images/right-column/4stars.gif"></p><p></p><dl>
-<dt><a href=""></a></dt>
+		<div class="module"><a href="http://www.nrdc.org/joingive/"><img height="100" alt="Donate to NRDC" width="183" border="0" src="/_images/col-right/button-donate-wolves2.jpg"></a>
+</div><div class="module action"><h2>Take Online Action Now!</h2>
+<p><br></p>
+<ul><li><a href="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=1695">Tell Interior Secretary Salazar to uphold federal protections for Yellowstone’s grizzly bears</a></li>
+</ul></div><div class="module action"><h2>NRDC Gets Top Ratings from the Charity Watchdogs</h2>
+<p><img alt="" src="/_images/right-column/4stars.gif"></p>
+<dl><dt><a href=""></a></dt>
 <dd><a href="http://www.charitynavigator.org/index.cfm?keyword_list=nrdc&amp;Submit2=GO&amp;bay=search.results" target="win2">Charity Navigator</a> awards NRDC its 4-star top rating.</dd>
 <dt><a href=""></a></dt>
 <dd><i>Worth</i> magazine named NRDC one of America's 100 best charities.</dd>
 <dt><a href=""></a></dt>
 <dd>NRDC meets the highest standards of the <a href="http://charityreports.bbb.org/public/Report.aspx?CharityID=129" target="win2">Wise Giving Alliance</a> of the Better Business Bureau.</dd>
-</dl>
-<p class="more"><br>
-<a href="/joingive/default.asp">Donate now &gt;</a></p></div>
-<div class="module">
-<h2>Victories</h2>
-<dl>
-<dd class="source">For more than three decades, NRDC has fought successfully to defend wilderness and wildlife and to protect clean air, clean water and a healthy environment.</dd>
-<dd><a href="/about/victories.asp">read more &gt;</a></dd>
-</dl>
-</div>
+</dl><p class="more"><br>
+<a href="/joingive/default.asp">Donate now &gt;</a></p></div><div class="module"><h2>Victories</h2>
 
+<dl><dd class="source">For more than three decades, NRDC has fought successfully to defend wilderness and wildlife and to protect clean air, clean water and a healthy environment.</dd>
+<dd><a href="/about/victories.asp">read more &gt;</a></dd>
+</dl></div>
     </div>
 
     <div id="share">
 
 <script type="text/javascript">
-var addthis_share ={
+var addthis_share = {
     templates: {
-                   twitter: 'check out  from NRDC\'s Switchboard: {{http://www.nrdc.org/privacy/default.asp}} (from @nrdc)'
-               }
-}
+	    twitter: ' from @NRDC: {{url}}'
+    }
+};
+var addthis_config = {
+    data_ga_property: 'UA-532044-1',
+    data_ga_social : true
+};
 </script>
-	<div style="left: 380px; position: relative; width: 300px;" class="addthis_toolbox addthis_default_style">
-	<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact">Share</a>
-	<span style="color: #ccc;" class="addthis_separator"> | </span>
-    <a class="addthis_button_digg"></a>
-    <a class="addthis_button_stumbleupon"></a>
+<div style="left: 380px; position: relative; width: 300px;" class="addthis_toolbox addthis_default_style">
+    <a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact">Share</a>
+    <span style="color: #ccc;" class="addthis_separator"> | </span>
     <a class="addthis_button_twitter"></a>
-	<span style="color: #ccc;" class="addthis_separator"> | </span>
-	<a style="border-bottom: none;" class="addthis_button_facebook_like"></a>
-	</div>
+    <span class="ie7" style="float:left; width:53px!important; overflow:hidden!important;"><a class="addthis_button_google_plusone" g:plusone:size="small" rel="nofollow"></a></span>
+    <span class="ie7" style="color:#ccc; border-bottom:none; display:block; float:left; margin:0 5px!important;"> | </span>
+    <a style="border-bottom:none;" class="addthis_button_facebook_like"></a>
+</div>
 
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nrdcweb"></script>
     </div>
 
     <div id="nrdcsites">
     <h2>Find Your Favorite NRDC website</h2>
-    <dl><dt>Get Involved:</dt><dd class="first"><a href="http://www.savebiogems.org">Save BioGems</a></dd><dd><a href="http://www.nrdc.org/action">Action Center</a></dd><dd><a href="http://www.nrdcactionfund.org">NRDC Action Fund</a></dd><dd><a href="http://www.nrdcgreengifts.org?s_src=ggorgft&amp;utm_source=footer&amp;utm_medium=link&amp;utm_campaign=nrdcorg">Green Gifts</a></dd><dd><a href="http://www.greendaynrdc.com">GreenDay+NRDC</a></dd><dd><a href="http://www.e2.org">Environmental Entrepreneurs (E2)</a></dd></dl><dl><dt>News:</dt><dd class="first"><a href="http://www.onearth.org">OnEarth</a></dd><dd><a href="http://switchboard.nrdc.org">Switchboard</a></dd><dd><a href="http://www.nrdc.org/naturesvoice/default.asp">Nature's Voice</a></dd><dt>International:</dt><dd class="first"><a href="http://www.nrdc.org/laondaverde/">La Onda Verde</a></dd><dd><a href="http://china.nrdc.org/">China's Green Future</a></dd><dt>For Kids:</dt><dd class="first"><a href="http://www.nrdc.org/greensquad/default.htm">Green Squad</a></dd></dl>
+    <dl><dt>Get Involved:</dt><dd class="first"><a href="http://www.savebiogems.org">Save BioGems</a></dd><dd><a href="http://www.nrdc.org/action">Action Center</a></dd><dd><a href="http://www.nrdcactionfund.org">NRDC Action Fund</a></dd><dd><a href="http://www.nrdcgreengifts.org?s_src=ggorgft&amp;utm_source=footer&amp;utm_medium=link&amp;utm_campaign=nrdcorg">Green Gifts</a></dd><dd><a href="http://www.greendaynrdc.com">GreenDay+NRDC</a></dd><dd><a href="http://www.e2.org">Environmental Entrepreneurs (E2)</a></dd></dl><dl><dt>News:</dt><dd class="first"><a href="http://www.onearth.org">OnEarth</a></dd><dd><a href="http://switchboard.nrdc.org">Switchboard</a></dd><dd><a href="http://www.nrdc.org/naturesvoice/default.asp">Nature's Voice</a></dd><dt>International:</dt><dd class="first"><a href="http://www.nrdc.org/laondaverde/">La Onda Verde</a></dd><dd><a href="http://www.nrdc.cn/english/E_index.php">China's Green Future</a></dd><dt>For Kids:</dt><dd class="first"><a href="http://www.nrdc.org/greensquad/default.htm">Green Squad</a></dd></dl>
     </div>
     
     <div>
