@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layyous.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620150629id_/http%3A//layyous.com/root%2520folder/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layyous.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204758id_/http%3A//layyous.com/root%2520folder/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Layyous.com
 
