@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modenus.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626161053id_/http%3A//www.modenus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modenus.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224708id_/http%3A//www.modenus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Modenus
 
