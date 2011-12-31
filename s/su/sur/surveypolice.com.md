@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530012027id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203910id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
 
 # Survey Police - Privacy Policy
 
-EFFECTIVE DATE: June 02, 2008
+EFFECTIVE DATE: August 16, 2011
 
 This privacy policy (“Privacy Policy”) describes how information is collected and used on [www.surveypolice.com](https://web.archive.org/) (the “Web Site”). Your visit to the Web Site constitutes your acceptance of this Privacy Policy.
 
@@ -38,7 +38,7 @@ You may discontinue receipt of the electronic newsletters or other e-mail commun
 
 As part of the services offered on the Web Site, you may access third-party Web Sites via hyperlinks. The privacy policies of those parties are likely to differ from this one. We recommend that you review the policies posted on those web sites before submitting any personal information.
 
-If you receive e-mails from our partners it is because you have opted to agree to receive additional information during the registration process for becoming a Member of this website, please note that these e-mails do not originate from SurveyPolice.com or Varsityplaza LLC. Please visit the website of [Opt-Intelligence](http://www.opt-intelligence.com/) for more information on who is handling your information when you "opt-in" to these offers.
+If you receive e-mails from our partners it is because you have opted to agree to receive additional information during the registration process for becoming a Member of this website, please note that these e-mails do not originate from SurveyPolice.com or F.I.S. Inc. Please visit the website of [Opt-Intelligence](http://www.opt-intelligence.com/) for more information on who is handling your information when you "opt-in" to these offers.
 
 ## Changes to this Privacy Policy
 
