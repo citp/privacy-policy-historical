@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the plus.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424234859id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225016id_/http%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Plusnet Policies
-
-[Support Pages](https://web.archive.org/support/index.shtml) > [Plusnet Service](https://web.archive.org/support/service/index.shtml) > [Policies](https://web.archive.org/support/service/policies/index.shtml) > Privacy Policy
 
 **Summary:** Information about our policy on privacy and related issues.
 
@@ -77,12 +75,6 @@ Your right to privacy is very important. We recognise that when you choose to pr
 
 [Top]
 
-#### Related Articles
-
-#### Was this page helpful?
-
-Your feedback helps us to improve the help we provide. Has this page helped you solve your problem?
+#### Did you find this page helpful?
 
 Yes No Maybe
-
-We cannot reply to individual feedback through Rate My Page. If you need more help with a problem please use the [Help Assistant](https://web.archive.org/wizard/?helpheader=helpassistant).
