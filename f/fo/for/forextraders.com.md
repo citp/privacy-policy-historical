@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518172252id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205707id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Forextraders.com
 
@@ -44,7 +44,10 @@ We follow accepted industry standards to protect any personal information you ha
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
- 
+ForexTraders.com  
+Riddargatan 30  
+114 57 Stockholm  
+Sweden
 
 ## Legal Disclaimer
 
