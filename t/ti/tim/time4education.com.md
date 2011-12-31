@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315055036id_/http%3A//www.time4education.com/tandc/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4education.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213325id_/http%3A//www.time4education.com/tandc/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -67,4 +67,4 @@ We make good faith efforts to provide you access to your personal information up
 For any doubts/clarifications or additional information that you may require,   
 please contact us at 
 
-[info@time4education.com](mailto:info@time4education.com)[General Terms and Conditions](https://web.archive.org/web/20110315055036id_/http%3A//www.time4education.com/tandc/tandc.asp)[Refund Policy](https://web.archive.org/web/20110315055036id_/http%3A//www.time4education.com/tandc/refundpolicy.asp)
+[info@time4education.com](mailto:info@time4education.com)[General Terms and Conditions](https://web.archive.org/web/20111231213325id_/http%3A//www.time4education.com/tandc/tandc.asp)[Refund Policy](https://web.archive.org/web/20111231213325id_/http%3A//www.time4education.com/tandc/refundpolicy.asp)
