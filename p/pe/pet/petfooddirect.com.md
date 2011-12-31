@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629043013id_/http%3A//www.petfooddirect.com/landing/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfooddirect.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231122158id_/http%3A//www.petfooddirect.com/landing/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
