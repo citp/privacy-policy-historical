@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606215012id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205125id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
   * [Print](https://web.archive.org/privacy/index.cfm?print=go)
   * [Email](https://web.archive.org/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)
-  * |  Updated: 9:58 am ET September 22, 2010
 
 
 
