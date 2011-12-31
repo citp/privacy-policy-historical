@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoats.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725072559id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoats.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211216id_/http%3A//www.myoats.com/privacy.aspx) for the most accurate reproduction.*
 
 # Myoats - Privacy
 
