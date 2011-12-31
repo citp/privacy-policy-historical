@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012340id_/http%3A//www.barbequesgalore.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205310id_/http%3A//www.barbequesgalore.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Barbeques Galore - Privacy Policy
 
 This privacy statement applies to your use of the Barbeques Galore (Aust) Pty Ltd website at [www.barbequesgalore.com.au](https://web.archive.org/).
 
 We understand and appreciate the fact that our customers are concerned about the privacy afforded to their information collected via the Internet. We are committed to providing our customers with a high level of privacy in relation to the personal information collected whilst online.
-
-To view our company privacy policy statement please click here.
 
 ## Information collected
 
