@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202192205id_/http%3A//www.flashtemplates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205242id_/http%3A//www.flashtemplates.com/privacy.php) for the most accurate reproduction.*
 
-# Flash Templates
+# Flash Templates Free and Premium
 
 **Cookies**
 
