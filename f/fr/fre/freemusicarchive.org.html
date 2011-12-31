@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2011-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110210010713id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215326id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,7 +49,7 @@
 
                     <div id="fma-menusearch">
                         <form class="fmasearch" name="fmasearch" action="/search/" method="get">
-                        <div class="inpwrap"><input type="text" class="quicksearch" name="quicksearch" size="20" value="Music Search"></div>
+                        <div class="inpwrap"><input type="text" class="quicksearch" name="quicksearch" size="20" value="Search (Boolean OK)" placeholder="Search (Boolean OK)"></div>
                         <a href="/search/" class="btn-searchgo" id="menusearch"></a>
                         </form>
                     </div>
@@ -58,7 +58,9 @@
                         <div class="searchdrop-hd"><a href="#" class="btn-searchdrop"></a></div>
                         <div class="searchdrop-box">
                             <div class="searchdrop-mid">
-                                <a href="http://freemusicarchive.org/search">Search Music</a>
+                                <!--<a href="http://freemusicarchive.org/search">Search Music</a> -->
+				<a style="cursor:pointer;" onclick="$('.fmasearch').submit();">Search Music</a>
+				<a style="cursor:pointer;" onclick="$('.fmasearch').attr('action', ('/search/'.search('blog') == -1 ? '/search/blog/' : '/search/'));$('.fmasearch').submit();">Search Blogs</a>
                                 <a href="http://www.google.com/search?site=&amp;hl=en&amp;q=site%3Ahttp://freemusicarchive.org/" id="site-search" class="search-last" target="_blank">Site Search</a>
                             </div>
                             <div class="searchdrop-bot"></div>
@@ -83,17 +85,20 @@
                                                                             <a href="http://freemusicarchive.org/curator/KEXP/" title="KEXP">KEXP</a>
                                                                             <a href="http://freemusicarchive.org/curator/CBC_Radio_3/" title="CBC Radio 3">CBC Radio 3</a>
                                                                             <a href="http://freemusicarchive.org/curator/ISSUE_Project_Room/" title="ISSUE Project Room">ISSUE Project R...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/dublab/" title="dublab">dublab</a>
-                                                                            <a href="http://freemusicarchive.org/curator/ATP/" title="All Tomorrow's Parties">All Tomorrow's ...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Primavera_Sound/" title="Primavera Sound">Primavera Sound</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Breitband/" title="Breitband">Breitband</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Halasam/" title="Halas.am">Halas.am</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CASH_Music/" title="CASH Music">CASH Music</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Excavated_Shellac/" title="Excavated Shellac">Excavated Shell...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/True_Chip_Till_Death/" title="True Chip Till Death">True Chip Till ...</a>
                                                                             <a href="http://freemusicarchive.org/curator/Creative_Commons/" title="Creative Commons">Creative Common...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Video/" title="Music for Video">Music for Video</a>
+                                                                            <a href="http://freemusicarchive.org/curator/True_Chip_Till_Death/" title="True Chip Till Death">True Chip Till ...</a>
                                                                             <a href="http://freemusicarchive.org/curator/Oddio_Overplay/" title="Oddio Overplay">Oddio Overplay</a>
                                                                             <a href="http://freemusicarchive.org/curator/Music_from_the_Isabella_Stewar/" title="Music from the Isabella Stewart Gardner Museum, Boston">Music from the ...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CPDP/" title="Cylinder Preservation and Digitization Project">Cylinder Preser...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/DRAM/" title="DRAM">DRAM</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CCcommunity/" title="ccCommunity">ccCommunity</a>
+                                                                            <a href="http://freemusicarchive.org/curator/ATP/" title="All Tomorrow's Parties">All Tomorrow's ...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Primavera_Sound/" title="Primavera Sound">Primavera Sound</a>
+                                                                            <a href="http://freemusicarchive.org/curator/blipfestival/" title="Blip Festival">Blip Festival</a>
+                                                                            <a href="http://freemusicarchive.org/curator/ckut/" title="CKUT">CKUT</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CASH_Music/" title="CASH Music">CASH Music</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Excavated_Shellac/" title="Excavated Shellac">Excavated Shell...</a>
                                                                         <div class="more-curators"><a href="/curator/">More</a></div>
                                 </div>
                                 <div class="menu-bot"></div>
@@ -135,7 +140,8 @@
                                 <div class="menu-mid">
                                                                             <a href="/member/login/">Log In</a>
                            				<a href="/member/signup/">Sign Up</a>
-                                                                        <a href="/forum">Forum</a>
+                                                                        <a href="/api">API</a>
+                                    <a href="/forum">Forum</a>
                                 </div>
                                 <div class="menu-bot"></div>
                             </div>
@@ -240,7 +246,7 @@
                 </div>
 
         </div>
-     <!-- generated on freemusicarchive.org / 10.210.27.47 at 2011-02-09T20:07:12-05:00 -->
+     <!-- generated on freemusicarchive.org / 10.242.134.195 at 2011-12-31T16:53:26-05:00 -->
     
 
 </body></html>
