@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514042625id_/http%3A//www.nidirect.gov.uk/index/your-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112429id_/http%3A//www.nidirect.gov.uk/index/your-privacy.htm) for the most accurate reproduction.*
 
 # Your privacy | nidirect
 
@@ -34,17 +34,7 @@ Once nidirect has replied to you, a record of your message will be kept for a ma
 
 ### Cookies
 
-Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookies directory of your computer. Cookies are created when you visit nidirect.
-
-nidirect cookies store a random number on your computer to help count the number of times users return to the website. 
-
-nidirect uses cookies to help administer online surveys and collect information about customer usage patterns.
-
-The cookies do not contain any personal information about you, and they cannot be used to identify an individual user.
-
-If you use the benefits adviser, it will store a cookie on your computer while you use the service. The service will not work if you do not let it set the cookie on your PC.
-
-You can set your browser not to accept cookies.
+When you enter the nidirect site your computer will be automatically issued with a cookie, in order to collect non-personal user information required for system administration and correct functioning of the website.
 
 You can find more information on cookies on the following nidirect page:
 
