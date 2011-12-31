@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phuket.net privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107040945id_/http%3A//www.phuket.net/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuket.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223800id_/http%3A//www.phuket.net/admin/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Phuket.Net
 
@@ -26,6 +26,8 @@ Phuket.Net may use the information you provide us to send you newsletters, email
 ## Website Statistics and Usage Profile
 
 We analyse our website log files and general statistics and make this in part available to third parties such as advertisers. This does not include any personal information and is general data such as number of visitors, pages accessed, country of origin, number of goods and services purchased, etc. 
+
+In order to display advertisements on third party websites such as Google, Yahoo and Bing we use cookies to serve ads and to monitor which ads drive visitors to our site, as well as those of our affiliates and partners. Should you wish to opt out of the use of cookies by third parties please visit the opt out page on the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) website.
 
 ## Links to Other Sites
 
