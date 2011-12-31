@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workcircle.co.uk privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409101315id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workcircle.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154838id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy | Workcircle
+# Privacy policy | Workcircle UK
 
 **a) General:** We are strongly committed to protecting users' privacy, and this sets out our policy on the use of personal data which has been collected in relation to access to and use of the Site.
 
