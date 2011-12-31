@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115172307id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212832id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RobbieWilliams.com
 
@@ -50,7 +50,7 @@
 
   4.3      Cookies may be required to allow you to access and participate in certain areas of the Site.
 
-  4.4     The majority of browsers will allow you to alter the settings used for cookies and to disable and enable them as you require.  If you do not want cookies then please refer to the help menu on your browser for instructions on disabling them.  For further general information on cookies and more detailed advice on how to disable and enable them please go to [www.allaboutcookies.org. ](http://www.allaboutcookies.org.%20/ "www.allaboutcookies.org. ")
+  4.4     The majority of browsers will allow you to alter the settings used for cookies and to disable and enable them as you require.  If you do not want cookies then please refer to the help menu on your browser for instructions on disabling them.  For further general information on cookies and more detailed advice on how to disable and enable them please go to [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
   **5.     CHANGES TO THIS PRIVACY POLICY**
 
