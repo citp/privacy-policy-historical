@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429101215id_/http%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstore.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231062110id_/http%3A//www.webstore.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
 
-# - WebStore
+# Webstore.com News
 
 |  |  [Adv](https://web.archive.org/search.php)   
 |  |  [](http://www.webstore.com/geo/) |  [Browse By City](http://www.webstore.com/geo/) |   |   
@@ -120,6 +120,6 @@ We may amend this Privacy Policy at any time by posting a prominent notice of ma
   
 ---|---|---  
   
-Copyright ©1996-2011 **[Webstore.com](http://www.webstore.com/)**. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the **WebStore** [TERMS & CONDITIONS](http://www.webstore.com/terms,page,content_pages) and [PRIVACY POLICY](http://www.webstore.com/privacy,page,content_pages)
+Copyright ©1996-2011 **[Webstore.com](http://www.webstore.com/)**. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the **Webstore** [TERMS & CONDITIONS](http://www.webstore.com/terms,page,content_pages) and [PRIVACY POLICY](http://www.webstore.com/privacy,page,content_pages)
 
-Page generated in 0.175560 seconds
+Page generated in 0.348164 seconds
