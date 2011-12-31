@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231033020id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231050630id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs | Privacy Policy
 
@@ -73,6 +73,6 @@ Franchise Gator
 599 W. Crossville Road, Suite 200  
 Roswell, GA 30075 
 
-[Archived Microsoft Privacy Policy](https://web.archive.org/web/20101231033020id_/http%3A//www.franchisegator.com/privacy-microsoft.html)  
+[Archived Microsoft Privacy Policy](https://web.archive.org/web/20111231050630id_/http%3A//www.franchisegator.com/privacy-microsoft.html)  
   
 ---|---|---
