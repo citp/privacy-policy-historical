@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629204246id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225228id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
 
 # YLighting's Privacy Policy and Privacy Process | YLighting
 
@@ -137,5 +137,3 @@ Scoop Wall Wash trims will have a shield inserted into the trim. This allows the
 SWAROVSKI ELEMENTS is the premium brand for the finest crystal elements manufactured by Swarovski. Available in a myriad of colors, effects, shapes and sizes. Formerly known as Strass® Swarovski® crystal, SWAROVSKI ELEMENTS have been the choice of designers since 1895. Machine-cut and polished to perfection, the logo is engraved in miniature in each piece to prevent imitations.
 
 SPECTRA® Crystal stands for machine cut Swarovski crystal with reliable Swarovski quality. SPECTRA® Crystal has been a registered trademark since 1999 and offers the most important cuts in clear crystal.
-
-DimmSystem Punkt 1 is a technologically advanced dimmer developed by Holtkoetter for use with a select number of its light fixtures. It features 'Point Dimming', with dimming control reduced to a single point on the arm of the fixture. A 'Soft On' feature turns the fixture on with a single touch and then gradually brightens to full brightness. A 'Soft/Delayed Off' turns the fixture off in the same way, dimming to 60% brightness and remaining at that level to allow you to exit the room; then gradually turns off. Pressing and holding the dimmer down activates a 'Dimming Cycle' which cycles the fixture through all dimming levels and stops at the light level of choice when the dimmer is released. DimmSystem Punkt 1 also includes a 'Tilt Switch' which will switch the light off if knocked over.
