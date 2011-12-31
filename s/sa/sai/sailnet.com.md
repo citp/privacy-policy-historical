@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailnet.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029163004id_/http%3A//www.sailnet.com/forums/sn_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailnet.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203314id_/http%3A//www.sailnet.com/forums/sn_privacy.php) for the most accurate reproduction.*
 
 # SailNet Privacy Policy
 
@@ -52,4 +52,6 @@ If you do not want to receive email from us, please adjust your Customer Communi
 
 **Services Agreement and terms and conditions of Use, Notices, and Revisions**
 
-If you choose to visit SailNet.com, your visit and any dispute over privacy is subject to this including limitations on damages, arbitration of disputes, and application of the law of the state of Delaware. If you have any concern about privacy at SailNet.com, please send us a thorough description and we will try to resolve it. Our business changes constantly. This Notice and the Services Agreement will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. 
+If you choose to visit SailNet.com, your visit and any dispute over privacy is subject to this including limitations on damages, arbitration of disputes, and application of the law of the state of Delaware. If you have any concern about privacy at SailNet.com, please send us a thorough description and we will try to resolve it. Our business changes constantly. This Notice and the Services Agreement will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes.   
+  
+All times are GMT -4. The time now is 04:33 PM.
