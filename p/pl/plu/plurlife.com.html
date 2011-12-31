@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2011-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110103174218id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plurlife.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231112400id_/http%3A//www.plurlife.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Plurlife : Electronic Music, DJs, Clubs, and Parties!</title>
@@ -279,12 +279,9 @@ function PreviewPost(idin, idout){
 	);
 }
 
-function PreviewPostBulletin(idin, idout, idsubject){
-	var txt=$F(idout);
-
-	if(typeof(tinyMCE)!='undefined' && TinyMCE_run && txt=='')
-		txt=tinyMCE.get(idout).getContent();
-
+function PreviewPostBulletin(idin, idout, idsubject)
+{
+	txt = (typeof(tinyMCE)!='undefined' && TinyMCE_run) ? tinyMCE.get(idout).getContent() : $F(idout);
 	new Ajax.Updater(idin, '/ajax_scripts/previewpostbulletin.php',
 		{
 			asynchronous: true,
@@ -2505,7 +2502,7 @@ div.t2 {
 	margin: 5px 0 10px 21px;
 }
 #af .time {
-	margin-left: 5px;
+	margin-left: 0px;
 	font-size: 10px;
 	color: #888888;
 	font-family: Tahoma;
@@ -2807,7 +2804,7 @@ span.v_m {
 	font-size: 9px !important;
 	font-weight: normal !important;
 	float: none !important;
-	margin-left: 5px !important;
+	margin-left: 3px !important;
 }
 span.v_m img {
 	margin: 0 1px 0 0 !important;
@@ -3035,7 +3032,7 @@ function hooktextarea(){
 			theme_advanced_buttons2 : "bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,|,fontselect,fontsizeselect,|,forecolor,backcolor",
 			theme_advanced_buttons3 : "",
 			external_image_list_url : "/js/tiny_mce/image_list.js",
-			plugins: 'inlinepopups,emotions,fullscreen,paste,searchreplace,advimage,images,advlink', // media
+			plugins: 'inlinepopups,emotions,fullscreen,paste,searchreplace,advimage,images,advlink,media', // 
 			skin : "o2k7",
 			skin_variant : "black",
 			mode : xmode,
@@ -3732,7 +3729,7 @@ function swapImage(newImg, mpeg, key, type) {
 	
 	var uid=27845220;var menu6=new Array()
 menu6[1]='<div style=padding-top:5px;padding-left:3px;text-align:center;font-size:12px;color:red;>In the chatroom...</div>'
-menu6[2]='<div style=padding-left:10px;>DustinBowls</div>'
+menu6[2]='<div style=padding-left:10px;>MEXICANUMBER1, ThatGuy, LimeIsHere, Darkshadow, Shr00mZ, thaydesbby, summer, fourfourjunkie</div>'
 	var menuwidth='165px' //default menu width
 	var menubgcolor='#f6f6f6'  //menu bgcolor
 	var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
@@ -3918,14 +3915,14 @@ menu6[2]='<div style=padding-left:10px;>DustinBowls</div>'
 				 | <a class="nav_text_mac" href="/browse.php"><b>Browse</b></a>
 			| <a href="/search.php" class="nav_text_mac">Search</a>
 			 | <a href="/view_folder.php?folder=inbox" class="nav_text_mac">Mail Box</a> | 			<a href="/games.php" class="nav_text_mac">Games</a>
-			| <a href="http://www.groovetickets.com/affiliate.asp?affilID=3121" class="nav_text_mac">Tickets</a>
+			| <a href="https://www.purplepass.com/?SID=plurlife" class="nav_text_mac">Tickets</a>
 				<!-- <a href="/chat_room_1.php" target="_blank"
 				class="nav_text_" onClick="clickreturnvalue()"
 				onMouseover="dropdownmenu(this, event, menu6, '350px')"
 				onMouseout="delayhidemenu()">Chat ()</a> -->
 			  <script language="JavaScript" src="http://chat.plurlife.com/flashcoms/common/js/flashcoms.js">
 			  </script>
-			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (1)</a>
+			  				| <a href="/login.php" onclick="clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '350px')" onmouseout="delayhidemenu()" class="nav_text_mac">Chat (8)</a>
 							| <a href="/forum/" class="nav_text_mac">Forum</a> 			| <a href="/groups.php" class="nav_text_mac">Groups</a>
 			| <a href="/events.php" class="nav_text_mac">Events</a>
 			 | <a href="/videos.php" class="nav_text_mac">Videos</a>
@@ -4027,7 +4024,7 @@ if (typeof(_gat) != 'undefined')
 <tr>
 <td height="5" class="txt_label" align="center" style="padding-top:5px;padding-bottom:12px;">
 ©2011 Plurlife.com<br>
-Page generated in 0.0073 seconds
+Page generated in 0.0135 seconds
 </td>
 </tr>
 </tbody></table>
