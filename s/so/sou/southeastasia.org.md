@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southeastasia.org privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530045455id_/http%3A//www.southeastasia.org/index.php/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southeastasia.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210117id_/http%3A//www.southeastasia.org/index.php/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southeast Asia
 
