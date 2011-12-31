@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlygowns.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630084756id_/http%3A//www.onlygowns.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlygowns.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215340id_/http%3A//www.onlygowns.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Only Gowns : Privacy-Policy
 
