@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217090712id_/http%3A//www.maturedatingonly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturedatingonly.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231230800id_/http%3A//www.maturedatingonly.com/maturesinglesonly/privacy.php) for the most accurate reproduction.*
 
-# Mature Dating Only
+# None
+
+Effective Date: March 10, 2005 
 
 Mature Dating Only (“Mature Dating Only”, “us” or “we”), has created this privacy policy (hereinafter the “Privacy Policy”) in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. You agree to this Privacy Policy, in its entirety, when you: 1) access or use Mature Dating Only (the “Website”); and/or 2) select and register for an offer(s) on the Website by clicking the offer(s) presented. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website.
 
 If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for direct marketing purposes, please e-mail us at optout@maturedatingonly.com
 
-**Information We Collect:**
+**  
+Information We Collect:**
 
 The information that we collect is generally limited to personal information about you that you submit on the Website. The personally identifiable information that may be collected includes: your name; address; email address; telephone number; fax number; information about your interests in and use of various products, programs, and services; and education level and interests. Although we are not collecting credit card information at this time, we reserve the right to do so in the future. To the extent that customer credit card-specific information is collected by Mature Dating Only and any of its affiliates and/or subsidiaries, said information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the customer's prior informed consent. Notwithstanding the foregoing, Mature Dating Only and its affiliates and subsidiaries reserve the right to share with third parties the fact that they have credit card information on file for specific customers but they will not share this credit card information with third parties without the customer's prior informed consent.
 
