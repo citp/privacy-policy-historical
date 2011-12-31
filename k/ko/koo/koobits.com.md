@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519194222id_/http%3A//www.koobits.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215612id_/http%3A//www.koobits.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
