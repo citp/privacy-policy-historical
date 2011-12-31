@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517061927id_/http%3A//xy7.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xy7.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114231id_/http%3A//xy7.com/privacy.html) for the most accurate reproduction.*
 
-# Xy7.com - The Affiliate Authority.
+# XY7.com, The Leading Online Affiliate Network
 
 ###  PRIVACY POLICY
 
@@ -29,6 +29,9 @@ RAPID RESPONSE MARKETING.
 
 Rapid Response Marketing collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes a survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by Third Parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Rapid Response Marketing or a Third Party (a "Third Party") may ask an individual to provide various information to Rapid Response Marketing, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Rapid Response Marketing may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Rapid Response Marketing or Third Party, but an individual may receive incentives from Rapid Response Marketing or a Third Party in exchange for providing Survey Information to Rapid Response Marketing. 
 
+  
+
+
 ##### 1.2 Site Membership or Registration
 
 To the extent registration is required to receive email and possibly postal communications from Rapid Response Marketing or a Third Party Advertiser, this Privacy Policy also applies to consumers that have agreed to receive e-mail marketing from Rapid Response Marketing or a Third Party Advertiser, whether at our Website, via email, on Third Party websites or otherwise. We collect information in certain portions of our Website, where guests provide content submissions and suggestions or participate in interactive online activities (i.e., by way of responding to questions and surveys, community listings, ratings, searches and comparison searches, bidding, purchasing, chat, games, or bulletin boards, etc.). The personal profile information you submit to Rapid Response Marketing or Third Party Advertisers remains your property, but by submitting that information to Rapid Response Marketing or Third Party Advertisers, you grant Rapid Response Marketing and/or Third Party Advertisers, the right to use that information for marketing purposes. Rapid Response Marketing or Third Party Advertisers may also use such information for content improvement and feedback purposes. We may sell the personal information that you supply to us and we may join together with other businesses to bring selected retail opportunities to you. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. In addition, Rapid Response Marketing reserves the right to release current or past information in the event Rapid Response Marketing believes that the information is being or has been used in violation of the Rules or to commit unlawful acts, if the information is subpoenaed, if Rapid Response Marketing is sold or acquired, or when Rapid Response Marketing deems it necessary or appropriate. By agreeing to these terms, you hereby consent to disclosure of any record or communication to any Third Party when Rapid Response Marketing in its sole discretion, determines the disclosure to be appropriate.
@@ -39,9 +42,15 @@ To the extent registration is required to receive email and possibly postal comm
 
 Rapid Response Marketing collects information from individuals when an individual provides information to a Third Party and Rapid Response Marketing subsequently purchases, licenses, or otherwise acquires the information from the Third Party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Rapid Response Marketing seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Rapid Response Marketing and that the Seller has a right to provide offers from Advertisers to the individuals whose personal information is included on the Seller's list. 
 
+  
+
+
 ##### 1.4 Other Information.
 
 Other occasions when Rapid Response Marketing obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Rapid Response Marketing or by a Third Party, (2) when an individual requests assistance through Rapid Response Marketing's customer service department, (3) when an individual voluntarily subscribes to a service or newsletter; (4) when private information is provided by means of a referral by a third party to Rapid Response Marketing or a Third Party Advertiser (together, "Other Information"). 
+
+  
+
 
 ##### 1.5 Cookies, Web Beacons, and Other Info Collected using Technology.
 
@@ -76,23 +85,36 @@ Rapid Response Marketing may offer free voluntary registration to potential subs
 You have the ability to contact Rapid Response Marketing to provide us with your feedback. Rapid Response Marketing uses this information to respond to you and analyze customer service issues. 
 
 
+  
 
 
 ##### 1.6 Outside Information
 
 Rapid Response Marketing may receive information about individuals from Third Parties or from other sources of information outside of Rapid Response Marketing including information located in public databases ("Outside Information").
 
+  
+
+
 ##### 1.7 Individual Information
 
 As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Rapid Response Marketing gathers or receives about individuals. 
+
+  
+
 
 ##### 1.8 No Information Collected from Children.
 
 Rapid Response Marketing will never knowingly collect any personal information about children under the age of 18. If Rapid Response Marketing obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from our database. Because it does not collect such information, Rapid Response Marketing has no such information to use or to disclose to Third Parties. Rapid Response Marketing has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). 
 
+  
+
+
 ##### 1.9 Credit Card Information.
 
 Rapid Response Marketing may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Rapid Response Marketing. When the Credit Card Information is submitted to Rapid Response Marketing, such information is encrypted and is protected with SSL encryption software. Rapid Response Marketing will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. Although Rapid Response Marketing takes all commercially reasonable action to protect Credit Card Information, you ultimately assume the risk of any damage or loss as a result of transmitting such information to Rapid Response Marketing, including but not limited to, identify theft, credit card fraud or credit card loss. 
+
+  
+
 
 ##### 1.10 Links to External Websites.
 
@@ -106,6 +128,9 @@ THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE I
 
 The following paragraphs in Section 2 describe how Rapid Response Marketing currently uses Individual Information, but Rapid Response Marketing may change or broaden its use at any time. As noted below, Rapid Response Marketing may update this policy from time to time. Rapid Response Marketing may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses. 
 
+  
+
+
 ##### 2.2 Email and Unsubscribe Policy.
 
 Rapid Response Marketing uses Individual Information to provide promotional offers by email to individuals. Rapid Response Marketing may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Rapid Response Marketing's email lists, a person must send an email to network@xy7.com. 
@@ -114,29 +139,50 @@ Rapid Response Marketing's unsubscribe process impacts only the future delivery 
 
 You should also note that unsubscribing from Rapid Response Marketing's electronic mailings will not automatically unsubscribe the subscriber's information from any Third Party associates and licensees of the data. Since Third Party associates and licensee partners maintain separate databases from Rapid Response Marketing, and you will need to unsubscribe from each source individually, if desired. This allows you the freedom to pick and choose which subscriptions to maintain and which to discontinue. 
 
+  
+
+
 ##### 2.3 Content of Email Messages.
 
 In certain commercial email messages sent by Rapid Response Marketing, an Advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Rapid Response Marketing. The "Subject:" line of Rapid Response Marketing email messages will usually contain a line provided from the Advertiser to Rapid Response Marketing. 
+
+  
+
 
 ##### 2.4 Solicited Email.
 
 Rapid Response Marketing only sends email to individuals who have agreed on the Websites to receive email from Rapid Response Marketing or to individuals who have agreed on Third Party websites to receive email from Third Parties. As such Rapid Response Marketing does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Rapid Response Marketing's email messages. 
 
+  
+
+
 ##### 2.5 Targeted Advertising.
 
 Rapid Response Marketing uses Individual Information to target advertising to an individual. When an individual is using the Internet, Rapid Response Marketing uses Technology Information (see also Section 2.7 below) to associate an individual with that person's Individual Information, and Rapid Response Marketing attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Rapid Response Marketing may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
+
+  
+
 
 ##### 2.6 Direct Mail and Telemarketing.
 
 Rapid Response Marketing uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones.
 
+  
+
+
 ##### 2.7 Use of Technology Information.
 
 Rapid Response Marketing uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Rapid Response Marketing's websites are most frequently visited. This information helps Rapid Response Marketing to better understand the online habits of individuals so that Rapid Response Marketing can target advertising and promotions to them.
 
+  
+
+
 ##### 2.8 Profiles of Individuals.
 
 Rapid Response Marketing uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as behavioral and other information obtained from public databases. Rapid Response Marketing may also publish personal information in the form of a testimonial if such information is sent to Rapid Response Marketing by you.
+
+  
+
 
 ##### 2.9 Storage of Individual Information.
 
@@ -152,13 +198,22 @@ RAPID RESPONSE MARKETING MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PA
 
 Rapid Response Marketing will transfer Individual Information to Third Parties when necessary to provide a product or service that a person orders from such Third Party while using Rapid Response Marketing websites or when responding to offers provided by Rapid Response Marketing.
 
+  
+
+
 ##### 3.3 Legal Process.
 
 Rapid Response Marketing may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
 
+  
+
+
 ##### 3.4 Summary Data.
 
 Rapid Response Marketing may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
+
+  
+
 
 ##### 3.5 Access.
 
@@ -170,13 +225,22 @@ Individuals have access to their Individual Information collected to provide an 
 
 Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Rapid Response Marketing does not control Advertisers' use of such technology and Rapid Response Marketing has no responsibility for the use of such technology to gather information about individuals.
 
+  
+
+
 ##### 4.2 Links.
 
 The Websites and email messages sometimes contain hypertext links to the websites of Third Parties. Rapid Response Marketing is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by Third Parties. Such links are provided for your convenience and reference only. Rapid Response Marketing does not operate or control in any respect any information, software, products or services available on such Third Party websites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
 
+  
+
+
 ##### 4.3 Affiliated Companies.
 
 Rapid Response Marketing may disclose, transfer, and sell Individual Information to entities affiliated with Rapid Response Marketing in Rapid Response Marketing's discretion.
+
+  
+
 
 ##### 5\. Unsubscribe Procedures.
 
