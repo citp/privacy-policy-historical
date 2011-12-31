@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625103252id_/http%3A//www.quicksales.com.au/public/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205722id_/http%3A//www.quicksales.com.au/public/privacy.htm) for the most accurate reproduction.*
 
 # quicksales Privacy Policy
 
@@ -76,9 +76,9 @@ You generally have a right to access your personal Information. If you wish to a
 
 If you want to change your personal information or have a complaint or concern about your privacy on this website please contact us.
 
-| Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122  
+| Location: | Level 4, 449 Punt Road, Richmond VIC 3121  
 ---|---  
-Postal Address: | Locked Bag 3333, Hawthorn VIC 3122  
+Postal Address: | Locked Bag 9001, Richmond VIC 3121  
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Margaret Beattie  
 Email: | [Click here](http://helpcentre.carsales.com.au/help/contact-us/) to contact us by email
