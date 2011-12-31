@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106013026id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214349id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
-# PPL Privacy Policy
+# PPL Privacy Policy - PPL Motor Homes
 
 > ### What information do we collect?
 > 
@@ -77,8 +77,7 @@
 > Diana LeBlanc  
 > 10777 Southwest Freeway  
 > Houston, Texas 77074  
-> United States  
-> 1-800-755-4775
+> United States
 > 
 > Email:  
 >  [diana.l@pplmotorhomes.com](mailto:diana.l@pplmotorhomes.com?subject=PPL%20Motor%20Homes%20Privacy%20Policy)
