@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329014255id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordstream.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114225id_/http%3A//www.wordstream.com/privacy-policy) for the most accurate reproduction.*
 
 # WordStream Privacy Policy | WordStream
 
@@ -86,18 +86,3 @@ If you have comments or questions about our privacy policy, please Contact Us. W
 ## Changes to Policy
 
 WordStream will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy.
-
-**See Our Next Generation Keyword Tools:**
-
-  * [Keyword Analyzer](http://www.wordstream.com/keyword-analyzer)
-  * [Keyword Discovery Tool](http://www.wordstream.com/keyword-discovery-tool)
-  * [Keywords Generator](http://www.wordstream.com/keyword-generator)
-  * [Keyword Grouper](http://www.wordstream.com/keyword-grouper)
-  * [Keyword Research Tool](http://www.wordstream.com/keyword-research-tool)
-  * [Keyword Software](http://www.wordstream.com/keyword-software)
-  * [Keyword Suggestion Tool](http://www.wordstream.com/keyword-suggestion-tool)
-  * [Long Tail Keyword Tool](http://www.wordstream.com/long-tail-keyword-tool)
-  * [Negative Keyword Tool](http://www.wordstream.com/negative-keyword-tool)
-  * [SEO Keyword Tool](http://www.wordstream.com/seo-keyword-tool)
-
-
