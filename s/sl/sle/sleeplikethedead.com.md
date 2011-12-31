@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeplikethedead.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625024549id_/http%3A//sleeplikethedead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeplikethedead.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223921id_/http%3A//www.sleeplikethedead.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,7 +42,7 @@ Security
 Sleep Like The Dead has security measures in place to protect the loss, misuse, and alteration of the information under our control.  Email messages sent to us do not reside on a networked server and are inaccessible except for authorized persons in our employ. 
 
 Disclosure regarding changes in this policy  
-Sleep Like The Dead has created this privacy statement in order to demonstrate our firm commitment to privacy. If you have any questions pertaining to this privacy policy and its contents, please [contact us](https://web.archive.org/web/20110625024549id_/http%3A//sleeplikethedead.com/contact.html).
+Sleep Like The Dead has created this privacy statement in order to demonstrate our firm commitment to privacy. If you have any questions pertaining to this privacy policy and its contents, please [contact us](https://web.archive.org/web/20111231223921id_/http%3A//www.sleeplikethedead.com/contact.html).
 
 We reserve the right to change, clarify or extend this policy statement from time to time based on our needs, the needs of our visitors, changes in technology or changes in applicable law. 
 
