@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513013651id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212752id_/http%3A//mymangosteen.com/privacy.asp) for the most accurate reproduction.*
 
-# mymangosteen.com - Buy XanGo Today!
+# XANGO - Welcome to MyMangosteen.com
 
   
 Does MyMangosteen.com Share My Information with Outside Parties?
@@ -27,7 +27,7 @@ We work to protect the security of your information during transmission of sensi
 
 What Information Can I Access?
 
-MMyMangosteen.com gives you access to the following personal information for the limited purpose of viewing and, in certain cases, updating that information. This list may change as our website evolves. 
+MyMangosteen.com gives you access to the following personal information for the limited purpose of viewing and, in certain cases, updating that information. This list may change as our website evolves.
 
   * Account Information
   * Public Profile
