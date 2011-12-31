@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818133654id_/http%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203451id_/http%3A//www.kiwicollection.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Kiwi Collection
 
