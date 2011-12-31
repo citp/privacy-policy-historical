@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteminder.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630190842id_/http%3A//www.siteminder.com/privacy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteminder.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214345id_/http%3A//www.siteminder.com/privacy-terms-conditions) for the most accurate reproduction.*
 
 # PMS Integration | SiteMinder Privacy, Terms & Conditions
 
