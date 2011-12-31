@@ -1,583 +1,107 @@
-<!--The following is the downloaded HTML source of the esalerugs.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221112225id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esalerugs.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231223804id_/http%3A//esalerugs.com/customer-service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="viewport" content="width=1100">
+		<link rel="stylesheet" type="text/css" href="/includes/index4.css">
+<style>
+#coupon_dialog{
+	display: none;
+}
+</style>
 		<title>Rug Education Center</title>
 
 
-		<link rel="stylesheet" type="text/css" href="/includes/main.css">
-		<link rel="stylesheet" href="/includes/colorpicker.css" type="text/css">		
+		
+				
 		<meta name="description" content="">
 		<meta name="google-site-verification" content="e8GGxf_FUMuXrAOSDY1c910RCCbGyQ8ITlgBx4JOgwE">
 		<meta name="msvalidate.01" content="D69D7252195479785E442A84D86BCE86">
-		
-		<script type="text/javascript" src="/jquery-1.3.1.min.js"></script>
-		<script type="text/javascript" src="/jquery.magnify-1.0.2.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1860758-1']);
+		_gaq.push(['_setCustomVar', 1, 'Rug Images', 'new', 3]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		<script type="text/javascript">
+		var drawing_time = new Date(2011, 12, 31,23,59,0);
+		</script>
+		<script type="text/javascript" src="/jquery.selectboxes.pack.js"></script>
 		<script type="text/javascript" src="/jquery.cycle.all.pack.js"></script>
 		<script type="text/javascript" src="/jquery.countdown.pack.js"></script>
-		<script type="text/javascript" src="/jquery.selectboxes.pack.js"></script>
-		<script type="text/javascript" src="/jquery-ui-personalized-1.6rc6.min.js"></script>
-		<script type="text/javascript" src="/colorpicker.js"></script>
-		<script type="text/javascript" src="/jquery.pngFix.pack.js"></script>
-		<script type="text/javascript" src="/jquery.simplemodal.js"></script>
+		
 		<script type="text/javascript">
-		var until_date = new Date(2009, 1, 15);
-		window.RelatedItems = new Array();
-		var SelectedItem = "";
-		function HelpfulReviewVote(reviewID, vote){
-			var get_url = "/web/reviews.py/rate_review?ReviewID=" + reviewID + "&vote=" + vote;
-			$.ajax({
-				type: "GET",
-				url: get_url
-			});
-			$("#review-helpful-" + reviewID).html("Thank you for your opinion!");
-		}
-		function ShowRelatedItemsBox(SkuNo, RelationCode){
-			SelectedItem = SkuNo;
-			var get_url = "/web/browse.py/related_items?SkuNo=" + SkuNo + "&RelationCode=" + RelationCode;
-			$.ajax({
-				type: "GET",
-				url: get_url,
-				dataType: "xml",
-				success: ShowRelatedItemsBoxHandleResponse
-			});
-		}
-		function ShowRelatedItemsBoxHandleResponse(xml){
-			RelatedItems = new Array();
-			$('item', xml).each(function(i){
-				var sku = $(this).find("skuno").text();
-				var obj = new Object();
-				try{
-				obj.SkuNo = sku;
-				if (sku != undefined){
-					obj.Price = $(this).find("price").text();
-					obj.Size = $(this).find("size").text();
-					obj.Shape = $(this).find("shape").text();
-					obj.Image = $(this).find("image").text();
-					RelatedItems[sku] = obj;
-				}
-				}
-				catch(err){}
-			});
-			var list_of_related_items_html = "";
-			for (x in RelatedItems){
-				if (RelatedItems[x].Size != undefined){
-				list_of_related_items_html += "<a href=\"/" + RelatedItems[x].SkuNo + "\" OnMouseOver=\"ShowRelatedItems_Item('" + RelatedItems[x].SkuNo + "');\">" + RelatedItems[x].Size + " " + RelatedItems[x].Shape + " $" + RelatedItems[x].Price + "</a><br />";
-			}
-			}
-			$("#related_browse_box_items").html(list_of_related_items_html);
-			var pos = $("#" + SelectedItem).position();
-			$("#related_browse_box").css("position", "absolute");
-			$("#related_browse_box").css("left", pos.left);
-			if (($("#related_browse_box").width() + pos.left) >= ($("#wrap").width() + $("#wrap").offset().left)){
-				$("#related_browse_box").css("left", pos.left-220);
-			}
-			$("#related_browse_box").css("top", pos.top);
-			$("#related_browse_box").fadeIn("def").css("visibility", "visible");
-			
-			$("#related_browse_box_size").text(RelatedItems[SelectedItem].Size);
-			$("#related_browse_box_price").text("$" + RelatedItems[SelectedItem].Price);
-			$("#related_browse_box_image_link").attr("href", "/" + SelectedItem);
-			$("#related_browse_box_view_item_link").attr("href", "/" + SelectedItem);
-			$("#related_browse_box_image").attr("src", RelatedItems[SelectedItem].Image);
-			
-		}
-		function ShowRelatedItems_Item(SkuNo){
-			
-			$("#related_browse_box_size").text(RelatedItems[SkuNo].Size);
-			$("#related_browse_box_price").text("$" + RelatedItems[SkuNo].Price);
-			$("#related_browse_box_image_link").attr("href", "/" + SkuNo);
-			$("#related_browse_box_view_item_link").attr("href", "/" + SkuNo);
-			$("#related_browse_box_image").attr("src", RelatedItems[SkuNo].Image);
-		}
-		function CloseRelatedItemsBox(){
-			$("#related_browse_box").css("visibility", "hidden");
-		}		
-		
-		function UpdateRelatedRugsBox(CallerSkuNo, Page){
-			function RenderItem(SkuNo, Title, RetailValue, Price, Image, PreClearance){
-				html = "";
-				if (SkuNo != undefined){
-				html = "<td><div style=\"padding: 5px; width: 180px; height: 210px; border: 1px solid rgb(239, 239, 239); text-align: center;\">";
-				html += "<a href=\"/" + SkuNo + "\"><img src=\"" + Image + "\" ";
-				//if (CallerSkuNo != undefined && CallerSkuNo != null){
-				//	if (CallerSkuNo.toString() == SkuNo.toString()){
-				//		html += "style=\"border: 4px solid green;\"";
-				//	}
-				//}
-				html += "/>";
-				html += "</a><div class=\"list_deals_details\"><div class=\"browse_description\">" + Title + "</div><div class=\"browse_pricing\"><strike>$" + RetailValue + "</strike> <strong>"
-				if (PreClearance != ''){
-					html += "<strike>$" + PreClearance + "</strike> "
-				}
-				html += " <span style=\"color: rgb(0, 143, 33); font-size: 15px;\">$" + Price + "</span></strong></div></div>";
-				html += "</div></td>";
-				}
-				return html;
-			}
-			function RenderCurrentPageNav(CurrentPage, TotalPages){
-				$("#related_rugs_pages").html("Page " + CurrentPage + " of " + TotalPages);
-				if (CurrentPage - 1 > 0){
-				$("#navigate_related_left").attr("href", "javascript:UpdateRelatedRugsBox('" + CallerSkuNo + "', '" + (CurrentPage - 1) + "')");
-				}
-				if (parseInt(CurrentPage) + 1 <= TotalPages){
-				$("#navigate_related_right").attr("href", "javascript:UpdateRelatedRugsBox('" + CallerSkuNo + "', '" + (parseInt(CurrentPage) + 1) + "')");
-				}
-			}
-			function HandleRelatedRugsResponse(xml){
-				RelatedItems = new Array();
-				$('item', xml).each(function(i){
-					var sku = $(this).find("skuno").text();
-					RelatedItems[sku] = new Object();
-					RelatedItems[sku].SkuNo = sku
-					RelatedItems[sku].Price = $(this).find("price").text();
-					RelatedItems[sku].PreClearance = null;
-					var preclearance_price = $(this).find("preclearance").text();
-					if (preclearance_price != null){
-						RelatedItems[sku].PreClearance = preclearance_price;
-					}
-					RelatedItems[sku].Title = $(this).find("title").text();
-					RelatedItems[sku].Retail = $(this).find("retail").text();
-					RelatedItems[sku].Image = $(this).find("image").text();
-				});
-				total_pages = $(xml).find("pages").text();
-				RenderCurrentPageNav(Page, total_pages);
-				var new_related_rugs_table = "<tr>";
-				var counter = 0;
-				for (x in RelatedItems){
-					if (counter == 2){
-						new_related_rugs_table += "</tr><tr>";
-						counter == 0;
-					}
-					new_related_rugs_table += RenderItem(RelatedItems[x].SkuNo, RelatedItems[x].Title, RelatedItems[x].Retail, RelatedItems[x].Price, RelatedItems[x].Image, RelatedItems[x].PreClearance);
-					counter++;
-				}
-				$("#related_rugs_table").html(new_related_rugs_table);
-			}
-			function GetItemsForPage(SkuNo, Page){
-				var url = "http://esalerugs.com/web/display_item.py/getRelatedItems?SkuNo=" + SkuNo + "&Page=" + Page;
-				$.ajax({
-				type: "GET",
-				url: url,
-				dataType: "xml",
-				success: HandleRelatedRugsResponse
-				});				
-			}
-			GetItemsForPage(CallerSkuNo, Page);
-		}
-		
-		countdown_timer = new Date(2010, 12, 21, 15, 45, 0);
-		function countdown_serverTime(){
-			var current = new Date(2010,12,21,6,22,25);
-			return current;
-		}		
-		$(document).ready(function() {
-			//$(document).pngFix();
-			$("#d2").magnify({
-			showEvent: 'mouseover',
-			hideEvent: 'mouseout',
-			lensWidth: 100,
-			lensHeight: 100,
-			preload: false,
-			stagePlacement: 'right',
-			lensCss: { backgroundColor: '#cc0000',
-			border: '0px', 
-			opacity: 0.5 },
-			stageCss: { border: '2px solid black' },
-			onBeforeShow : function() {
-			if ($.browser.msie && $.browser.version == '6.0'){
-               $("quantityBox").css("visibility","hidden");
-			   }
-			},
-			onAfterHide : function() {
-			if ($.browser.msie && $.browser.version == '6.0'){
-               $("quantityBox").css("visibility","visible");
-			   }
-			}
-		});
-		$('#countdown_banner').countdown({until: countdown_timer, compact: true, layout: '<div id="icountdown_banner"><div class=\"hours\"><b>{hnn}</div><div class=\"minutes\">{mnn}</div><div class=\"seconds\">{snn}</div></b></div>',serverSync: countdown_serverTime, format:'HMS', description: ''});
-		$("#countdown_banner").click(function(){
-			window.location.replace("http://esalerugs.com/clearance.html");
-		});
-		$(".m_sizes").click(function(i){
-			var sku = $(this).attr("alt");
-			var rel_code = $(this).attr("rel");
-			ShowRelatedItemsBox(sku, rel_code);
-		});
-		$(".top_tab").hover(function(i){
-			var current_background = $(this).css("background-image");
-			var new_background = current_background;
-			if (current_background.indexOf("_tan") > 0){
-				new_background = current_background.replace("_tan", "_blue");
-			}
-			else{
-				if ($(this).attr('class').indexOf("selected") < 1){
-					if (current_background.indexOf("blue") > 0){
-						new_background = current_background.replace("_blue", "_tan");
-					}
-				}
-			}
-			$(this).css("background-image", new_background);
-		}, function(i){
-			var current_background = $(this).css("background-image");
-			var new_background = current_background;
-			if (current_background.indexOf("_tan") > 0){
-				new_background = current_background.replace("_tan", "_blue");
-			}
-			else{
-				if ($(this).attr('class').indexOf("selected") < 1){
-					if (current_background.indexOf("blue") > 0){
-						new_background = current_background.replace("_blue", "_tan");
-					}
-				}
-			}
-			$(this).css("background-image", new_background);		
-		});
-		$('#colorSelector').ColorPicker({
-		color: '#0000ff',
-		onShow: function (colpkr) {
-			$(colpkr).fadeIn(500);
-			return false;
-		},
-		onHide: function (colpkr) {
-			$(colpkr).fadeOut(500);
-			return false;
-		},
-		onChange: function (hsb, hex, rgb) {
-			$('#custom_color').val(hex);
-			$('#color').addOption('custom','Custom Color', true);
-			$("#colorSelector div").css('backgroundColor', '#' + hex);
-		}
-		});
-		$('#sort_by_box_top').change(function(){
-			var new_sort_value = $(this).val();
-			$("#sort_form_input").val(new_sort_value);
-			$("#browse_search_form").submit();
-		});
-		$('#color').change(onColorChange);
-		
-		$("#valentine_banner").countdown(
-			{until: until_date, format: 'DHMS',
-			layout: "<a style='text-decoration: none;' href='http://esalerugs.com/customer-service/valentine'><div id='ivalentine-banner'><div id='valentine_counter'>Only <span style='font-size: 17px;'><strong>%D%nn%D days</strong></span> %H%nn%H:%M%nn%M:%S%nn%S remain.</div></div></a>"});	
-		});
-		function onColorChange(){
-			var selected_color = $("#color").selectedValues();
-			switch (selected_color.toString()){
-				case "black":
-					$('#colorSelector').ColorPickerSetColor('000000');
-					$("#colorSelector div").css('backgroundColor', '#000000');
-				break;
-				case "blue":
-					$('#colorSelector').ColorPickerSetColor('0000FF');
-					$("#colorSelector div").css('backgroundColor', '#0000FF');
-				break;
-				case "brown":
-					$('#colorSelector').ColorPickerSetColor('802A2A');
-					$("#colorSelector div").css('backgroundColor', '#802A2A');
-				break;
-				case "burgundy":
-					$('#colorSelector').ColorPickerSetColor('9E0508');
-					$("#colorSelector div").css('backgroundColor', '#9E0508');
-				break;			
-				case "green":
-					$('#colorSelector').ColorPickerSetColor('008000');
-					$("#colorSelector div").css('backgroundColor', '#008000');	
-				break;
-				case "orange":
-					$('#colorSelector').ColorPickerSetColor('FFA500');
-					$("#colorSelector div").css('backgroundColor', '#FFA500');
-				break;
-				case "pink":
-					$('#colorSelector').ColorPickerSetColor('FFB5C5');
-					$("#colorSelector div").css('backgroundColor', '#FFB5C5');
-				break;
-				case "purple":
-					$('#colorSelector').ColorPickerSetColor('A020F0');
-					$("#colorSelector div").css('backgroundColor', '#A020F0');
-				break;
-				case "red":
-					$('#colorSelector').ColorPickerSetColor('CD0000');
-					$("#colorSelector div").css('backgroundColor', '#CD0000');
-				break;
-				case "yellow":
-					$('#colorSelector').ColorPickerSetColor('FCD116');
-					$("#colorSelector div").css('backgroundColor', '#FCD116');
-				break;
-				}				
-		}
-		function update_freerug(SkuNo, ImagePath){
-			var action_url = "http://esalerugs.com/cart/freerug?SkuNo=" + escape(SkuNo)
-			$.get(action_url);
-			$("#free_rug_image").attr("src", ImagePath);
-			$("#free_rug_link").attr("href", "/"  + SkuNo.toString().substring(0,1) + SkuNo);
+		function call_me_now_popup(){
+		var popurl="http://esalerugs.com/web/click_to_call.py";
+		winpops=window.open(popurl,"","width=600,height=500,scrollbars,");
 		}
 		
 		</script>
-
-
-<script type="text/javascript">
-function LiveChatPop(){
-	var popurl="https://bestofferrugs.com/live-chat";
-	winpops=window.open(popurl,"","width=500,height=500,scrollbars,");
-}
-function UPSMap(){
-	var popurl="http://www.bestofferrugs.com/images/ups_map.png";
-	winpops=window.open(popurl,"","width=535,height=355,scrollbars,");
-}
-
-var disappeardelay=250  //tooltip disappear delay (in miliseconds)
-var verticaloffset=0 //vertical offset of tooltip from anchor link, if any
-var enablearrowhead=0 //0 or 1, to disable or enable the arrow image
-var arrowheadimg=["arrowdown.gif", "arrowup.gif"] //path to down and up arrow images
-var arrowheadheight=11 //height of arrow image (amount to reveal)
-
-/////No further editting needed
-
-var ie=document.all
-var ns6=document.getElementById&&!document.all
-verticaloffset=(enablearrowhead)? verticaloffset+arrowheadheight : verticaloffset
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-function showhide(obj, e){
-dropmenuobj.style.left=dropmenuobj.style.top="-500px"
-if (e.type=="mouseover")
-obj.visibility="visible"
-}
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function clearbrowseredge(obj, whichedge){
-if (whichedge=="rightedge"){
-edgeoffsetx=0
-var windowedge=ie && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffsetx=dropmenuobj.contentmeasure-obj.offsetWidth
-return edgeoffsetx
-}
-else{
-edgeoffsety=0
-var topedge=ie && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure) //move up?
-edgeoffsety=dropmenuobj.contentmeasure+obj.offsetHeight+(verticaloffset*2)
-return edgeoffsety
-}
-}
-
-function displayballoontip(obj, e){ //main ballooon tooltip function
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-if (typeof dropmenuobj!="undefined") //hide previous tooltip?
-dropmenuobj.style.visibility="hidden"
-clearhidemenu()
-//obj.onmouseout=delayhidemenu
-dropmenuobj=document.getElementById(obj.getAttribute("rel"))
-showhide(dropmenuobj.style, e)
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")+verticaloffset
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
-if (enablearrowhead)
-displaytiparrow()
-}
-
-function displaytiparrow(){ //function to display optional arrow image associated with tooltip
-tiparrow=document.getElementById("arrowhead")
-tiparrow.src=(edgeoffsety!=0)? arrowheadimg[0] : arrowheadimg[1]
-var ieshadowwidth=(dropmenuobj.filters && dropmenuobj.filters[0])? dropmenuobj.filters[0].Strength-1 : 0
-//modify "left" value depending on whether there's no room on right edge of browser to display it, respectively
-tiparrow.style.left=(edgeoffsetx!=0)? parseInt(dropmenuobj.style.left)+dropmenuobj.offsetWidth-tiparrow.offsetWidth-10+"px" : parseInt(dropmenuobj.style.left)+5+"px"
-//modify "top" value depending on whether there's no room on right edge of browser to display it, respectively
-tiparrow.style.top=(edgeoffsety!=0)? parseInt(dropmenuobj.style.top)+dropmenuobj.offsetHeight-tiparrow.offsetHeight-ieshadowwidth+arrowheadheight+"px" : parseInt(dropmenuobj.style.top)-arrowheadheight+"px"
-tiparrow.style.visibility="visible"
-}
-
-function delayhidemenu(){
-delayhide=setTimeout("dropmenuobj.style.visibility='hidden'; dropmenuobj.style.left=0; if (enablearrowhead) tiparrow.style.visibility='hidden'",disappeardelay)
-}
-
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
-}
-
-function reltoelement(linkobj){ //tests if a link has "rel" defined and it's the ID of an element on page
-var relvalue=linkobj.getAttribute("rel")
-return (relvalue!=null && relvalue!="" && document.getElementById(relvalue)!=null && document.getElementById(relvalue).className=="balloonstyle")? true : false
-}
-
-function initalizetooltip(){
-var all_links=document.getElementsByTagName("a")
-if (enablearrowhead){
-tiparrow=document.createElement("img")
-tiparrow.setAttribute("src", arrowheadimg[0])
-tiparrow.setAttribute("id", "arrowhead")
-document.body.appendChild(tiparrow)
-}
-for (var i=0; i<all_links.length; i++){
-if (reltoelement(all_links[i])){ //if link has "rel" defined and it's the ID of an element on page
-all_links[i].onmouseover=function(e){
-var evtobj=window.event? window.event : e
-displayballoontip(this, evtobj)
-}
-all_links[i].onmouseout=delayhidemenu
-}
-}
-}
-
-if (window.addEventListener)
-window.addEventListener("load", initalizetooltip, false)
-else if (window.attachEvent)
-window.attachEvent("onload", initalizetooltip)
-else if (document.getElementById)
-window.onload=initalizetooltip
-</script>
-
-
-
-
 		
-		<script type="text/javascript">
-		function layerToggle(obj, obj2) {
-			var el1 = document.getElementById(obj);
-			var el2 = document.getElementById(obj2);
-			el1.style.display = 'none'
-			el2.style.display = 'block'
-		}
-		function toggleLayer(obj){
-			var e = document.getElementById(obj);
-			if (e.style.display == "block")
-			{
-				e.style.display = "none";
-			}
-			else
-			{
-				e.style.display = "block";
-			}
-		}
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>		
 		
-		function jumpto(destination){
-			document.location = "/browse/" + destination;
-		}
-		function open_live_help(){
-			window.open('https://rugmessenger.com/live_chat/', null, 'status=0,toolbar=0,menubar=0,height=420,width=380');
-		}
-		function searchClear(){
-			var el1 = document.getElementById('search_form_text');
-			if (el1.value == 'Search SKU or Keywords'){
-				el1.value = '';
-			}
-		}
-function openseries(id, index){
-var popurl="http://esalerugs.com/web/imageseries?id=" + escape(id) + "#" + escape(index);
-winpops=window.open(popurl,"","width=800,height=600,scrollbars,");
-}
-function sharewithfriends(id){
-	var popurl = "http://esalerugs.com/web/customer-service/sendtofriend?skuno=" + escape(id)
-	winpops = window.open(popurl, "", "width=300, height=400, scrollbars,");
-}
-
-		</script>
-<style>
-#related_browse_box{
-	font-family: Arial;
-	font-size: 14px;
-	width: 411px;
-	height: 273px;
-	background: url("/images/related/bg.png") no-repeat;
-	overflow: hidden;
-	visibility: hidden;
-	display: none;
-}
-
-#related_browse_box_image_box{
-	width: 190px;
-	height: 175px;
-	margin-left: 15px;
-	padding: 5px 5px 0px 8px;
-	background: url("/images/related/image_box.png") no-repeat;
-}
-#related_browse_box_header{
-	width: 210px;
-	text-align: center;
-	padding: 10px 0 6px 0;
-}
-#related_browse_box_size{
-	font-size: 18px;
-	padding-right: 5px;
-display: inline;
-}
-#related_browse_box_price{
-	font-size: 22px;
-	color: #098122;
-	font-weight: bold;
-	display: inline;
-}
-#related_browse_box_lower{
-	padding-top: 3px;
-	width: 215px;
-	text-align: center;
-}
-#related_browse_box_right{
-	width: 193px;
-	float: right;
-}
-#related_browse_box_left{
-	width: 210px;
-	float: left;
-	
-}
-#related_browse_box_exit{
-	text-align: right;
-	padding-top: 8px;
-	padding-bottom: 8px;
-	padding-right: 15px;
-}
-#related_browse_box_items{
-	height: 170px;
-	width: 170px;
-	overflow: auto;
-}
-#related_browse_box_items a{
-	text-decoration: none;
-	font-size: 12px;
-}
-#related_browse_box_sizes_text{
-	padding-bottom: 7px;
-}
-</style>
-<script type="text/javascript">
-
-
-</script>
-		<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=75961609"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+		<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=75961609"></script></head>
 		<body>
-		<div id="wrap">
+		
+		<style>
+		#iglobal_bar{
+			width: 985px;
+			margin: 0 auto;
+			text-align: left;
+			padding-top: 4px;
+			font-size: 12px;
+			color: white;
+		}
+		#iglobal_bar h1{
+			font-size: 12px;
+		}
+		</style>
+		<div id="global_bar">
+			<div id="iglobal_bar">
+			<table width="100%">
+			<tbody><tr>
+			<td>
+			<h1>Largest Online Area Rugs Superstore</h1>
+			</td>
+			<td style="text-align: right;">
+			<strong>Free Shipping&nbsp;&nbsp;|&nbsp;&nbsp;30 Day Hassle-Free Returns&nbsp;&nbsp;|&nbsp;&nbsp;24/7 Customer Service</strong>
+			</td>
+			</tr></tbody></table>
+			</div>
+		</div>
+		<div id="global_wrap">
+		
+	
+		<div id="wrap" style="z-index: 50">
+
 			<div id="top">
-				<table width="100%" cellpadding="0" cellspacing="0" style="margin-top: 4px; padding: 0;">
+				<table width="100%" cellpadding="0" cellspacing="0" style="margin-top: 18px; padding: 0;">
 				<tbody><tr>
 					<td>
 						<table width="100%" cellpadding="0" cellspacing="0" style="padding: 0; margin: 0;">
 						<tbody><tr>
-							<td style="height: 72px; padding-left: 18px; margin: 0; width: 210px;" valign="middle" align="center"><a href="/"><img style="padding-top: 10px;" src="/images/logo.png" id="top_logo" alt="eSaleRugs"></a></td>
+							<td style="height: 72px; padding-left: 29px; margin: 0; width: 180px;" valign="middle" align="center"><a href="/" onclick="_gaq.push(['_trackEvent', 'Global', 'Logo Clicked']);"><img style="padding-top: 11px;" src="/images/logo.png" id="top_logo" alt="eSaleRugs"></a><span style="font-size: 12px; color: green;"><strong>Happy Holidays!</strong></span>
+
+							
+							
+							
+							
+							</td>
 							<td>
 								<div id="top_phone_livechat">
-								<table width="100%"><tbody><tr><td align="center"><div id="phone_number">1-866-647-3965
-								<div style="font-size: 13px;">803-802-3965</div>
-								</div></td></tr><tr><td align="center"><div id="customer_service"><a href="/web/order-status" title="Where is my rug?">Order Status</a> | <a href="/customer-service/faq" title="Frequently Asked Questions about eSaleRugs">FAQ</a> | <!-- BEGIN LivePerson Button Code --><div style="display: inline;"><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/75961609/?cmd=file&amp;file=visitorWantsToChat&amp;site=75961609&amp;byhref=1&amp;SESSIONVAR!opid=2&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat75961609" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/75961609/?cmd=file&amp;file=visitorWantsToChat&amp;site=75961609&amp;SESSIONVAR!opid=2&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat75961609','width=475,height=400,resizable=yes');return false;"><span style="font:normal 11px Arial, Helvetica, sans-serif;color:#0000ff">Live Help</span></a></div><!-- END LivePerson Button code --></div></td></tr></tbody></table>
+								<table width="100%"><tbody><tr><td align="center"><div id="phone_number">1-888-777-4496
+								<div style="font-size: 13px; padding-top: 1px;"><table><tbody><tr><td style="font-size: 11px;">803-802-3965</td><td style="font-size: 11px;">(24/7 Customer Service!)</td></tr></tbody></table></div>
+								</div></td></tr><tr><td align="center"><div id="customer_service" style="font-size: 12px;"><strong>Free Shipping With Every Order!</strong></div></td></tr></tbody></table>
 								</div>
 							</td>
 							<td style="padding-right: 3px;">
@@ -585,11 +109,23 @@ display: inline;
 								<form action="/web/search">
 								<table width="100%" cellpadding="0" cellspacing="0">
 								<tbody><tr>
-								<td valign="MIDDLE" style="height: 72px; width: 227px">
-								
-								<div id="search_form"><input type="text" name="s" id="search_form_text" onclick="searchClear();" border="0" value="Search SKU or Keywords"></div>
+								<td valign="MIDDLE" style="height: 72px; width: 222px">
+									<table cellpadding="0" cellspacing="0"><tbody><tr><td>
+									<div id="search_form"><input style="padding: 8px; padding-top: 11px; width: 200px; background: none; border: none;" type="text" name="s" id="search_form_text" onclick="searchClear();" border="0" value="Search SKU or Keywords"></div>
+									</td>
+									<td valign="MIDDLE" style="width: 44px; padding: 0;"><div><input type="image" height="40px" width="44px" src="/images/new_top/search_go.png" onclick="_gaq.push(['_trackEvent', 'Global', 'Search Go Clicked']);"></div></td>
+								</tr></tbody></table></td>
+
+<td valign="MIDDLE" align="left"><div id="account_cart" style="line-height: 130%; padding-top: 5px; font-size: 12px;"><table><tbody><tr><td>- <a href="http://esalerugs.com/customer-service" onclick="_gaq.push(['_trackEvent', 'Global', 'Header Link Clicked', 'Help and FAQ']);">Help &amp; FAQ</a><br>- <a href="https://esalerugs.com/account" onclick="_gaq.push(['_trackEvent', 'Global', 'Header Link Clicked', 'My Account']);">My Account</a><br>- <a href="/wishlist" onclick="_gaq.push(['_trackEvent', 'Global', 'Header Link Clicked', 'Wishlist']);">Wishlist</a></td>
+								<td>
+								<div id="shopping_cart_icon_container" style="padding-left: 35px;"><a href="http://esalerugs.com/cart">
+		<div id="shopping_cart_icon" style="padding-left: 15px; width: 64px;"><img src="/images/new_top/shopping_cart.png"></div></a></div>
 								</td>
-								<td valign="MIDDLE" style="width: 47px; padding: 0;"><div><input type="image" height="46px" width="47px" src="/images/refresh/go_button.png"></div></td><td valign="MIDDLE" align="left"><div id="account_cart"><a href="/account">My Account</a><br><a href="http://esalerugs.com/cart">Shopping Cart (1 Items)</a></div></td></tr></tbody></table></form>
+								</tr>
+								</tbody></table>
+								
+								<!--<strong><a href="http://esalerugs.com/cart">Shopping Cart</a> (0 Items)</strong>!-->
+								</div></td></tr></tbody></table></form>
 								</div>
 							</td>
 						</tr>
@@ -600,169 +136,33 @@ display: inline;
 			</div>
 			<div id="top_navigation">
 			<div id="top_navigation_inner">
-			<style>
-			#top_navigation ul{
-				padding: 0;
-				padding-left: 5px;
-			}
-			#top_navigation_inner{
-				
-			}
-			#nav_tabs{
-				height: 36px;
-				padding: 0px;
-			}
-			#nav_tabs li{
-				float: left;
-				display: block;
-				padding: 0;
-				margin: 0;
-				margin-right: 2px;
-				text-align: center;
-				height: 36px;
-			}
-			#home_tab{
-				background: url("/images/home_tab_tan.png");
-				width: 94px;
-				height: 36px;
-				margin-right: 2px;
-				margin-top: 1px;
-			}
-			#home_tab_selected{
-				background: url("/images/home_tab_blue.png");
-				width: 94px;
-				height: 36px;
-				margin-right: 2px;
-				margin-top: 1px;			
-			}
-			.standard_tab{
-				background: url("/images/standard_tab_tan.png");
-				width: 141px;
-				height: 36px;
-				margin-right: 2px;
-			}
-			.standard_tab_selected{
-				background: url("/images/standard_tab_blue.png");
-				width: 141px;
-				height: 36px;
-				margin-right: 2px;			
-			}
-			.most_popular_tab{
-                                background: url("/images/standard_tab_tan.png");
-                                width: 141px;
-                                height: 36px;
-                                margin-right: 2px;
-
-			}
-			.most_popular_tab_selected{
-                                background: url("/images/standard_tab_tan.png");
-                                width: 141px;
-                                height: 36px;
-                                margin-right: 2px;
-			}
-			#traditional_tab{
-				background: url("/images/traditional_tab_tan.png");
-				width: 129px;
-				height: 36px;
-				margin-right: 2px;
-			}
-			#traditional_tab_selected{
-				background: url("/images/traditional_tab_blue.png");
-				width: 129px;
-				height: 36px;
-				margin-right: 2px;			
-			}
-			#contemporary_tab{
-				background: url("/images/contemporary_tab_tan.png");
-				width: 162px;
-				height: 36px;
-				margin-right: 2px;
-			}
-			#contemporary_tab_selected{
-				background: url("/images/contemporary_tab_blue.png");
-				width: 162px;
-				height: 36px;
-				margin-right: 2px;			
-			}
-			#oriental_tab{
-				background: url("/images/oriental_tab_tan.png");
-				width: 146px;
-				height: 36px;
-				margin-right: 2px;
-			}
-			#oriental_tab_selected{
-				background: url("/images/oriental_tab_blue.png");
-				width: 146px;
-				height: 36px;
-				margin-right: 2px;			
-			}
-			#nav_tabs a{
-				display: block;
-				clear: both;
-				padding-top: 10px;
-				font-size: 14px;
-			}
-			#nav_tabs a:hover{
-				text-decoration: underline;
-			}
-			</style>
 			<table width="100%">
 				<tbody><tr>
 				<td>
 				<ul id="nav_tabs">
-		<li id="home_tab" class="top_tab"><a href="http://esalerugs.com/" title="eSaleRugs Home">Home</a></li>
-		<li class="standard_tab top_tab"><a href="http://esalerugs.com/persian-rugs.html" title="Persian Area Rugs">Persian Rugs</a></li>
+		<li id="home_tab" class="top_tab"><a href="http://esalerugs.com/" title="All eSaleRugs Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Home Tab Clicked']);">Home</a></li>
+		<li class="persian_tab top_tab"><a href="http://esalerugs.com/persian-rugs.html" title="Persian Area Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Persian Rugs Tab Clicked']);">Persian Rugs</a></li>
 		<li id="oriental_tab" class="top_tab
-		"><a href="http://esalerugs.com/oriental-rugs.html" title="Oriental Area Rugs">Oriental Rugs</a></li>
-		<li id="traditional_tab" class="top_tab
-		">			
-				<a href="http://esalerugs.com/traditional-rugs.html" title="Traditional Area Rugs">Traditional</a></li>
+		"><a href="http://esalerugs.com/oriental-rugs.html" title="Oriental Area Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Oriental Rugs Tab Clicked']);">Oriental Rugs</a></li>
+
 		<li id="contemporary_tab" class="top_tab
-		"><a href="http://esalerugs.com/contemporary-rugs.html" title="Contemporary Area Rugs">Contemporary</a></li>
-		<li class="most_popular_tab top_tab"><a href="http://esalerugs.com/most-popular.html" title="Most Popular Area Rugs">Most Popular</a></li>
-		<li class="standard_tab top_tab"><a href="http://esalerugs.com/clearance.html" title="Rugs on Clearance"><strong>Clearance</strong></a></li>
+		">			
+				<a href="http://esalerugs.com/hand-knotted-rugs.html" title="Hand Knotted Area Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Hand Knotted Rugs Tab Clicked']);">Hand Knotted Rugs</a></li>
+		<li id="traditional_tab" class="top_tab
+		"><a href="http://esalerugs.com/modern-rugs.html" title="Modern Area Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Modern Rugs Tab Clicked']);">Modern Rugs</a></li>
+		<li class="most_popular_tab top_tab"><a href="http://esalerugs.com/most-popular.html" title="Most Popular Area Rugs" onclick="_gaq.push(['_trackEvent', 'Global', 'Most Popular Rugs Tab Clicked']);">Most Popular</a></li>
+		<li class="clearance_tab top_tab"><a href="http://esalerugs.com/clearance.html" title="Rugs on Clearance" onclick="_gaq.push(['_trackEvent', 'Global', 'Clearance Tab Clicked']);"><strong>Clearance</strong></a></li>
 				</ul>
 				</td>
 				</tr>
 			</tbody></table>
 			</div>
 			</div>
-			<style>
-		#countdown_banner{
-			width: 820px;
-			height: 50px;
-			margin-bottom: 8px;
-			background: url("/images/timer-820x50.jpg") no-repeat;
-			cursor: pointer;
-		}
-		#icountdown_banner{
-			font-size: 16px;
-			font-family: Arial;
-			padding-top: 12px;
-			padding-left: 342px;
-		}
-		#icountdown_banner .hours{
-			color: white;
-			float: left;
-			
-			
-		}
-		#icountdown_banner .minutes{
-			color: white;
-			float: left;
-			padding-left: 42px;
-		}
-		#icountdown_banner .seconds{
-			color: white;
-			float: left;
-			padding-left: 42px;
-		}			
-			</style>
 			<div id="mid">
 			<div id="imid">
 			<table width="100%" style="clear: both; display: block;">
 		
-						<tbody><tr><td colspan="2"><table colspacing="0" colpadding="0" width="950px;"><tbody><tr><td><div style="width: 820px;" id="20percentoffbanner" "=""><a href="http://esalerugs.com/persian-rugs.html"><img src="/images/year_end_sale.png" style="padding-bottom: 10px;"></a></div></td><td valign="top" style="text-align: right;"><!-- START SCANALERT CODE --><a href="https://www.mcafeesecure.com/RatingVerify?ref=esalerugs.com" target="_blank"><img style="padding-top: 10px;" height="32" border="0" width="115" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/esalerugs.com/22.gif"></a><!-- END SCANALERT CODE --></td></tr></tbody></table></td></tr>
+						<tbody><tr><td colspan="2"><table colspacing="0" colpadding="0" width="950px;"><tbody><tr><td><div style="width: 820px;" id="20percentoffbanner" "=""><a href="http://esalerugs.com/rugs.html" onclick="_gaq.push(['_trackEvent', 'Global', 'Banner Clicked']);"><img src="https://s3.amazonaws.com/esale-promos/NewTopBannerRT10.png" style="padding-bottom: 7px;"></a></div></td><td valign="top" style="text-align: right;"><!-- START SCANALERT CODE --><a href="https://www.mcafeesecure.com/RatingVerify?ref=esalerugs.com" target="_blank"><img style="padding-top: 10px;" height="32" border="0" width="115" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/esalerugs.com/22.gif"></a><!-- END SCANALERT CODE --></td></tr></tbody></table></td></tr>
 						<tr><td><h2>Privacy Policy</h2>
 <p>Your email address and other personally identifiable information will be used only in order fulfillment, and to send you newsletters if you so request. We will never sell or give your information to third parties, unless related to order fulfillment (such as giving your email address to UPS so that they can inform you if there is a problem with delivery.)</p>
 <p>This site is owned and operated by Unique USA Inc. Your privacy on the Internet is of the utmost importance to us. At Unique USA Inc, we want to make your experience online satisfying and safe.</p>
@@ -843,66 +243,60 @@ Unique USA Inc uses the above-described information to tailor our content to sui
 		</div>
 
 		<div id="footer">
-		<div id="footer_table">
-		<table width="100%">
+		<div id="footer_table" style="width: 980px; padding-bottom: 15px; padding-top: 5px;">
+		<table width="100%" cellspacing="0" cellpadding="0" style="padding-bottom: 10px;">
 		<tbody><tr>
-		<td valign="top">
-		<h2>Tools &amp; Resources</h2>
-		<ul>
-			<li><a href="/blog" title="Rugs Blog">Blog</a></li>
-			<li><a href="/customer-service/faq" title="Frequently Asked Questions">FAQ</a></li>
-			<li><a href="/customer-service/" title="Our contact information">Contact Us</a></li>
-		</ul>
+		<td>
+		<table>
+		<tbody><tr>
+		<td><img src="/images/logos/visa.png"></td>
+		<td><img src="/images/logos/amex.png"></td>
+		<td><img src="/images/logos/mastercard.png"></td>
+		<td><img src="/images/logos/discover.png"></td>
+		<td><img style="margin-top: 2px;" src="/images/logos/paypal.png"></td>
+		<td><img style="margin-top: 2px;" src="/images/logos/google_checkout.png"></td>
+		</tr>
+		</tbody></table>
+
 		</td>
-		<td valign="top">
-		<h2>My Account</h2>
-		<ul>
-		<li><a href="/account/login" title="Log in or create an account">Log In / Register</a></li>
-		<li><a href="/account" title="Account History and Store Credit Profile">My Account</a></li>
-		<li><a href="/order-status" title="Rug Order Status">Order Status</a></li>
-		</ul>
+		<td style="text-align: right; width: 400px;">
+		<table style="float: right;" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td>
+<a href="http://www.bbb.org/charlotte/business-reviews/carpet-and-rug-dealers-new/esalerugscom-in-fort-mill-sc-214599" target="_blank"><img src="/images/bbb-seal.gif"></a>
 		</td>
-		<td valign="top">
-		<h2>Company Info</h2>
-		<ul>
-		<li><a href="/customer-service/returns" title="Our Return Policy">Return Policy</a></li>
-		<li><a href="/customer-service/privacy" title="Our Privacy Policy">Privacy Policy</a></li>
-		<li><a href="/customer-service/testimonials" title="Testimonials from our happy customers">Testimonials</a></li>
-		<li><a href="http://esalerugs.com/blog/?cat=5" title="Interesting Press Releases">Press Releases</a></li>
-		<li><a href="/customer-service/terms" title="Terms and Conditions">Terms and Conditions</a></li>
-		</ul>
+		<td>
+<table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=esalerugs.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+</tr>
+</tbody></table>
 		</td>
-		<td valign="middle">
-		Copyright 2007 - 2010 eSaleRugs.com<br>
-		104 Williamson St. Fort Mill, SC 29715<br>
-		Unique USA, Inc.<br>
-		 <a class="tf_upfront_badge" href="http://www.thefind.com/store/about-esalerugs" title="TheFind Upfront" style="text-decoration:none;">eSaleRugs.com is UpFront</a>
-		  <script src="//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js" type="text/javascript"></script>
-		  <script type="text/javascript">thefind.upfront.init('tf_upfront_badge', 'fae9084415178b9dbb4236f90fae74d6')</script>
+		<td>
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=esalerugs.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/esalerugs.com/31.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE -->
 		</td>
 		</tr>
 		</tbody></table>
+		</td>
+		</tr></tbody></table>
+		<table width="100%">
+		<tbody><tr><td valign="top"><a href="/customer-service">Customer Service</a> | <a href="/customer-service/faq">FAQ</a> | <a href="/customer-service/contact">Contact Us</a> | <a href="/blog">Blog</a> | <a href="/customer-service/coupon_codes">Coupons</a> | <a href="/customer-service/returns">Return Policy</a> | <a href="https://esalerugs.com/account">My Account</a></td>
+		<td valign="top" style="text-align: right">
+		104 Williamson Street | Fort Mill, South Carolina 29715 | U.S.A.<br><strong>Customer Service Reference #: 20-4-69-97-3</strong><br>Copyright 2007 - 2011 eSaleRugs.com
+		</td>
+		</tr>
+		</tbody></table>
+		
+
 		</div>
-		<br>
 		</div>
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-1860758-1");
-		pageTracker._trackPageview();
-		} catch(err) {}</script>
-		<script language="JavaScript" type="text/javascript">
-		<!-- Yahoo! Inc.
-		var ysm_accountid  = "1QOBG4CEK4H62QQEDCC45EREVMC";
-		document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-		+ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-		+ "></SCR" + "IPT>");
-		// -->
-		</script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1QOBG4CEK4H62QQEDCC45EREVMC"></script>
-	
+		
+		
+		<script type="text/javascript" src="/includes/host.js"></script>
+
+
 
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "75961609",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 <!-- BEGIN Monitor Tracking Variables  -->
@@ -911,44 +305,47 @@ if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = n
 lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'opid=2';
 </script>
 <!-- End Monitor Tracking Variables  -->
-<iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=2280" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-<script language="JavaScript"><!--
-{
-document.write("<img src=https://tracking.searchmarketing.com/welcome.asp?SMCID=53000598&x="+escape(document.referrer)+" width=1 height=1>");
-}
-//-->
-</script><img src="https://tracking.searchmarketing.com/welcome.asp?SMCID=53000598&amp;x=" width="1" height="1">
+
+
+		</div>
+		
+<!-- begin Marin Software Tracking Script -->
 <script type="text/javascript">
+var _marinClientId = "5enam5xbi0";
+var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
+_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://tracker.marinsm.com/tracker/5enam5xbi0.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+_marinTrack.trackPage();
+} catch(err) {}
+</script>
+<noscript>
+<img src="https://tracker.marinsm.com/tp?act=1&cid=5enam5xbi0&script=no" >
+</noscript>
+<!-- end Copyright Marin Software -->
 
-adroll_adv_id = "HVKRAP7OENCUHKQR6SE44M";
+<script type="text/javascript">
+var _sf_async_config={uid:31995,domain:"esalerugs.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
 
-adroll_pix_id = "UTBISJ3OVVGRHA6OIPY277";
+</script>
 
-(function () {
-
-var oldonload = window.onload;
-
-window.onload = function(){
-
-   __adroll_loaded=true;
-
-   var scr = document.createElement("script");
-
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-
-   scr.setAttribute('async', 'true');
-
-   scr.type = "text/javascript";
-
-   scr.src = host + "/j/roundtrip.js";
-
-   document.documentElement.firstChild.appendChild(scr);
-
-   if(oldonload){oldonload()}};
-
-}());
-
-</script>			
 		
 				
-		</body></html>
+		<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
