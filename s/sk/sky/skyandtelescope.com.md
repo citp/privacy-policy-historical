@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202091030id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214437id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
 
-# SkyandTelescope.com - Privacy - Privacy Statement
+# Privacy Statement - Privacy - SkyandTelescope.com
 
 At SkyandTelescope.com (the "Site"), we respect your personal privacy. We strongly believe that preserving your online privacy is our responsibility. You do not have to register to use this Site, and the information we gather from you is primarily used to process your shopping orders, provide you with customized data, and communicate with you about products or services we offer. Personal data may be collected when you send us e-mail, subscribe to magazines or fee-based content, purchase products at Shop at Sky, our online store, or request information. Sky generally does not share your personal information with third parties except in special circumstances, such as, when we believe that law requires such disclosure, or other circumstances, which are described more fully below. Please also read our [Terms & Conditions](https://web.archive.org/terms.asp). 
 
