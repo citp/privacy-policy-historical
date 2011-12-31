@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204946id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204944id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
 
 # Educational coloring pages privacy policy
 
