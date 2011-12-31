@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623042802id_/https%3A//www.awm.gov.au/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231031300id_/http%3A//www.awm.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Australian War Memorial
 
@@ -11,10 +11,10 @@ Our server makes a record of your visit and logs the following information for s
   * the user's server address
   * the user's top level domain name (eg. .com, .gov, .au, .uk etc.)
   * the date and time of the visit to the site,
-  * the pages accessed 
+  * the pages accessed
   * documents downloaded
-  * the previous site visited and 
-  * the type of browser used. 
+  * the previous site visited and
+  * the type of browser used.
 
 
 
@@ -22,19 +22,19 @@ No attempt will be made to identify users or their browsing activities except, i
 
 ### Cookies
 
-'Cookies' are small amounts of information that are created and stored on the user's system, and used by the Web host server for a variety of possible purposes. 
+'Cookies' are small amounts of information that are created and stored on the user's system, and used by the Web host server for a variety of possible purposes.
 
-The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to [set your browser to accept 'cookies'](https://web.archive.org/database/cookies.asp) in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes. 
+The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to [set your browser to accept 'cookies'](https://web.archive.org/database/cookies.asp) in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes.
 
 Information passed between the client and server via these cookies is not retained by the host software in any fashion once the search session is terminated. The only information gathered from the client is that amount necessary to identify that particular session and keep it distinct from the other search sessions that may be happening at any one time.
 
-Cookie information is not retained or forwarded to any other body or organisation and users may have complete confidence that the Australian War Memorial fully respects and applies the principles of privacy and confidentiality over the Internet. 
+Cookie information is not retained or forwarded to any other body or organisation and users may have complete confidence that the Australian War Memorial fully respects and applies the principles of privacy and confidentiality over the Internet.
 
 For more information about the Australian War Memorial's use of cookies in its databases, send an email to [webmaster@awm.gov.au](mailto:webmaster@awm.gov.au)
 
 ### Collection of personal information - Email, phone, address details
 
-The Australian War Memorial is fully committed to protecting your privacy. Any personal information, like your email, phone and address details, will be used to process your request or order. 
+The Australian War Memorial is fully committed to protecting your privacy. Any personal information, like your email, phone and address details, will be used to process your request or order.
 
 From time to time, we may use parts of the data you and other users provide us with to better understand how our services are used and to provide information for future improvements. The data used to do these reviews does not include any direct personal information that identifies you as our customer.
 
