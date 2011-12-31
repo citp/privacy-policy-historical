@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062707id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortprice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203014id_/http%3A//www.sortprice.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sortprice.com
 
@@ -27,5 +27,5 @@ Sortprice.com users may submit their e-mail address to request an e-mail for pro
 If you have any questions or comments regarding our Privacy Policy, you may contact us at: **privacy [at] sortprice.com**
 
 Sortprice.com.   
-44 Wall Street 12th Floor   
-New York, NY. 10005
+222 West 37th Street 9th Floor   
+New York, NY. 10018
