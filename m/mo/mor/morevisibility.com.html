@@ -1,17 +1,61 @@
-<!--The following is the downloaded HTML source of the morevisibility.com privacy policy that was archived on 2011-03-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303174243id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morevisibility.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213620id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  <script async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1202130-3']);
-  _gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);
+  _gaq.push(
+  ['_setAccount', 'UA-1202130-3'],
+  ['_setCustomVar',1, 'visitor-type', 'just-looking', 2],
+  ['_setAllowHash',false],
+  ['_trackPageview'],
+  ['_trackPageLoadTime']
+  );
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript';ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+var utmb = get_utm_value(document.cookie, '__utmb=', ';');
+var utmc = get_utm_value(document.cookie, '__utmc=', ';');
+var pageview_count = get_utm_value2(utmb, utmc);
+if(pageview_count>=5)
+{
+_gaq.push(
+['_setCustomVar',1, 'visitor-type', 'lengthy looking', 2],
+['_trackPageview']
+);
+}
+//This function extracts the “_utmb” and “_utmc” string from the cookies set by Google Analytics
+//This function was originally written by the Google Analytics team (urchin.js)
+function get_utm_value(l,n,s)
+{
+if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+var i, i2, i3, c="-";
+i=l.indexOf(n);
+i3=n.indexOf("=")+1;
+if (i > -1)
+{
+i2=l.indexOf(s,i);
+if (i2 < 0)
+{
+i2=l.length;
+}
+c=l.substring((i+i3),i2);
+}
+return c;
+}
+//This function extracts the “pageview count” value from the _utmb cookie
+function get_utm_value2(utmb,utmc)
+{
+var i, j, k;
+var utmc=utmc+'.';
+i=utmc.length;
+j=utmb.indexOf(".", i);
+k=utmb.substring(i,j);
+return k;
+}
 </script>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>MoreVisibility's Privacy Policy</title>
@@ -48,6 +92,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <!-- //AdReady Cookie Placed on 12/07/2010  -->
 <script language="javascript" src="http://www.adreadytractions.com/rt/232211?p=8791"></script>
+<!-- Place this tag in the head of your document -->
+<link href="https://plus.google.com/115346027077652586481/" rel="publisher">
 </head>
 <body>
 	<div id="mainContainer">
@@ -62,6 +108,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         	<li class="first">
             <a href="/services-seo.php">Search Engine Optimization</a>
             <ul>
+              <li><a href="/seo-video-tutorials.php">Video Tutorials</a></li>
               <li><a href="/services-seo-optimization.php">Optimization</a></li>
               <li><a href="/services-seo-linking.php">Link Building</a></li>
               <li><a href="/services-seo-copywriting.php">Copywriting</a></li>
@@ -80,19 +127,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
           <li class="third">
             <a href="/services-design-optimized-site.php">Optimized Web Design</a>
             <ul>
-              <li><a href="/services-design-cms.php">Content Management System</a></li>
+              <li><a href="/services-design-portfolio.php">Portfolio</a></li>
               <li><a href="/services-design-landing-pages.php">Landing Pages</a></li>
               <li><a href="/services-design-usability.php">Site Usability</a></li>
               <li><a href="/services-design-e-commerce.php">E-Commerce</a></li>
-            
               <li><a href="/services-rich-media.php">Rich Media</a></li>
-              <li class="last"><div><a href="/services-design-portfolio.php">Portfolio</a></div></li>
+              <li class="last"><div><a href="/services-design-cms.php">Content Management System</a></div></li>
             </ul>
           </li>
-          <li class="fourth">
+          <li class="fifth">
             <a href="/services-seo-social.php">Social Media</a>
             <ul>
-              <li><a href="/services-seo-social-strategy.php">Social Strategy</a></li>
+               <li><a href="/services-design-portfolio.php?tabid=social">Portfolio</a></li>
+               <li><a href="/services-seo-social-strategy.php">Social Strategy</a></li>
               <li><a href="/services-seo-social-channel-design.php">Channel Design</a></li>
               <li class="last"><div><a href="/services-seo-social-interaction.php">Buzz &amp; Interaction</a></div></li>
             </ul>
@@ -105,7 +152,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                 <li class="last"><div><a href="/google_analytics_audit.php">Audit Program</a></div></li>
             </ul>
           </li>
-         <li class="last"><a href="/services-mobile-website.php">Mobile</a></li>
+         <li class="last">
+              <a href="/services-mobile-website.php">Mobile</a>
+              <ul>
+                <li><a href="/services-design-portfolio.php?tabid=mobile">Portfolio</a></li>
+                <li class="last"><div><a href="/services-mobile-qr-codes.php">QR Code</a></div></li>
+              </ul>
+        </li>
         </ul>
         <div id="bodyContainer">
         	<div id="leftContainer">
@@ -143,7 +196,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         <li class="last"><a href="/news-events.php">Events</a></li>
                     </ul>
             	</div>
-                                
                  
                         <div id="googleSearchBox">
                             <form action="/google-results.php" id="cse-search-box">
@@ -157,7 +209,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                         </div>
                         
                         <a href="/knowledge-sev-report.php" id="freeReportBanner"><img src="/images/free_search.gif" alt="Free Search Engine Visibility Report" height="44" width="190"></a>
-                                <div id="newsLetterSignUpBox">
+                                
+                                   <div id="newsLetterSignUpBox">
                     <p class="leftNavHeader">Newsletter Sign Up</p>  
                     <div id="newsLetterSignUpContainer">
                       <table width="150" border="0" cellspacing="0" cellpadding="0">
@@ -190,6 +243,30 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                       </tbody></table>
                     </div>
                 </div>
+                   <!--SEO box Start Added April 13 2011  -->
+                 <div class="leftNavHeaderPlain">
+                  <div id="seoLeftNavBox">
+                  	<div id="seoLeftNavBoxContainer">
+                      <p style="font-size:20px; color: #296F79; margin: 0 0 15px 10px; line-height:22px; "><strong>SEO Client<br>Results</strong></p>
+                      <p style="margin: 0 10px 10px 10px;">Don't take our word for it, see our SEO results for yourself. When selecting a SEO firm make sure to ask for examples of their rankings. We only employ ethical SEO practices (white hat SEO practices) to achieve the best results for our clients.</p>
+                      <p class="last"><a href="http://www.morevisibility.com/about-client-results.php"><strong>View Results »</strong></a></p>
+                    </div>
+                    <div style="clear:both"></div>
+                  </div>
+                </div>
+                               <!--SEO box Start Added April 13 2011 
+                <div class="leftNavHeaderPlain">
+                  <div id="seoLeftNavBoxBox">
+                      <div id="seoLeftNavBoxContainer">
+                        <div style="background: url(../images/hm-seo-chart-arrow-small.gif) no-repeat 87px 0; ">
+                          <p style="font-size: 20px;">SEO Client<br />Results</p>
+                          <p style="font-size: 12px;">Don't take our word for it, see our SEO results for yourself. When selecting a SEO firm make sure to ask for examples of their rankings. We only employ ethical SEO practices (white hat SEO practices) to achieve the best results for our clients.</p>
+                          <a href="http://www.morevisibility.com/about-client-results.php">View Results &raquo;</a>
+                        </div>
+                      </div>
+                  </div>
+                </div>  -->
+              <!--SEO box End Added April 13 2011 -->  
               <!-- Remove for new HP Dec 15 2010 <div id="newsFeedBox">
                 <p class="leftNavHeader">Free Resources</p>  
                 <div id="newsLetterSignUpContainer">
@@ -222,6 +299,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			
   <p>We can be reached via e-mail at <a href="mailto:info@MoreVisibility.com?subject=MV Website Privacy Policy">info@MoreVisibility.com</a> or you can reach us by telephone at 561.620.9682</p>
 
+<h2>1.&nbsp;&nbsp;Collecting Information</h2>
+  
   <p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
 
 
@@ -230,40 +309,36 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
   
   <p>The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used by us to contact consumers for marketing purposes.</p>
   
+ <p>Do we use cookies? <br>
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information, including:
+</p><ul>
+<li>Third party vendors, including Google, show your ads on sites on the internet.</li>
+<li>Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.</li>
+<li>Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page.</li>
+</ul>
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+<p></p>  
   
-  <p>
-  
-  MoreVisibility uses <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, and is a <a href="http://www.google.com/analytics/authorized_consultants.html" target="_blank">Google Analytics Authorized Consultant</a>. Google Analytics uses four first-party cookies that are set on a visitor’s computer which allow anonymous web site usage data to be collected. MoreVisibility uses this anonymous information to study and observe how our web site is performing, and how we can improve the user-experience of our web site. MoreVisibility does not in any way, shape, or form re-distribute, re-sell, or make publicly available the anonymous web site data that we collect. The first-party cookies set on your computer by our web site are 128-bit secure socket layer (SSL) encrypted, and can only be read by our primary domain
-  
+  <p>MoreVisibility uses <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>, and is a <a href="http://www.google.com/analytics/partners.html" target="_blank">Google Analytics Authorized Partner</a>. Google Analytics uses four first-party cookies that are set on a visitor’s computer which allow anonymous web site usage data to be collected. MoreVisibility uses this anonymous information to study and observe how our web site is performing, and how we can improve the user-experience of our web site. MoreVisibility does not in any way, shape, or form re-distribute, re-sell, or make publicly available the anonymous web site data that we collect. The first-party cookies set on your computer by our web site are 128-bit secure socket layer (SSL) encrypted, and can only be read by our primary domain.  
   </p>
+<h2>2.&nbsp;&nbsp;Use of Your Information</h2>
   
+  <p>If you supply us with your postal address on-line you will only receive the information which you requested.</p>
+   
+  <p>Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line or following up to information requested from us.</p>
   
-  <p>From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.</p>
-  
-  
-  <p>From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.</p>
-  
-  
-  <p>If you supply us with your postal address on-line you will only receive the information for which you provided us your address.</p>
-  
-  <p>Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.</p>
-  
-  <p>Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.  
-  From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
+  <p>If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
   
   <p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.</p>
   
-  <p>Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them.</p>
+  <p>Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them.  Consumers can access this information by e-mail us at the above address.</p>
   
-  <p>Consumers can access this information by e-mail us at the above address.</p>
+  <p>Upon request we offer visitors the ability to have inaccuracies corrected in contact information.  Consumers can have this information corrected by sending us e-mail at the above address.</p>
   
-  <p>Upon request we offer visitors the ability to have inaccuracies corrected in contact information.</p>
-  
-  <p>Consumers can have this information corrected by sending us e-mail at the above address.</p>
-  
-  <p>With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.</p>
-  
-  <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
+  <p>With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.</p>
+    
+  <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+  </p>
     
 </div> 
 
@@ -276,7 +351,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         </div><!-- bodyContainer -->
         <div id="bottomLogos">
         	<a href="http://www.inc.com/" target="_blank"><img src="/images/inc5000.gif" alt="Inc 5000" class="bottomLogoIcons" style="margin: 38px 18px 0 29px;"></a>
-            <a href="http://www.google.com/analytics/authorized_consultants.html" target="_blank"><img src="/images/gaac_logo1.gif" alt="Google Analytics Authorized Consultant" class="bottomLogoIcons" style="margin-top: 30px;"></a>
+            <a href="http://www.google.com/analytics/partners-details.html#MoreVisibility" target="_blank"><img src="/images/gaac_logo1.gif" alt="Google Analytics Authorized Consultant" class="bottomLogoIcons" style="margin-top: 30px;"></a>
             <a href="https://adwords.google.com/select/ProfessionalStatus?id=2-Gxhe7_YeTkg_VcBp2ryQ&amp;hl=en_US" target="_blank"><img src="/images/gaqc_logo.gif" alt="Google Qualified Company" class="bottomLogoIcons" style="margin-top: 30px;"></a>
             <a href="http://adexcellence.com/adEx/Member.aspx?name=GMgNljHRKY29w2dt/gUh6g==" target="_blank"><img src="/images/microsoft_logo.gif" alt="Microsoft adExcellence Member" class="bottomLogoIcons" style="margin-top: 45px;"></a>
             <a href="http://www.greenbusinessalliance.com/" target="_blank"><img src="/images/greenified_logo.gif" alt="Greenified 2009" class="bottomLogoIcons" style="margin-top: 48px;"></a>
@@ -286,7 +361,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         	<div id="address">
             	<p class="addressBlock"><span class="footer1Headers">MoreVisibility</span><br>
                 925 South Federal Highway, Suite 750<br>
-                Boca Raton, Florida 33432, USA</p>
+                Boca Raton, FL 33432
+                <a href="http://www.morevisibility.com" style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color: #0BD7FF;">www.morevisibility.com</a></p>
                 <p class="footerPhone">800.787.0497</p>
                 <p class="phoneNumbers"><strong>ph:</strong> 561.620.9682</p>
             	<p class="phoneNumbers"><strong>fx:&nbsp;</strong> 561.620.9684</p>
@@ -325,16 +401,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         	<p class="credit">© 1999 - 2011 MoreVisibility ® All Rights Reserved. <a href="/privacy_policy.php">Privacy</a>  |  <a href="/terms.php">Legal</a></p>
                     <p id="socialMedia">
             <img id="getSocial" src="/images/getsocial.gif" alt="MoreVisibility Social Networking Links" title="getsocial" height="6" width="65">
-            <a href="http://www.youtube.com/morevisibility"><img src="/images/youtube.gif" alt="YouTube " title="YouTube" height="16" width="16"></a>
-            <a href="http://www.linkedin.com/companies/morevisibility" target="_blank"><img src="/images/linkedin.gif" alt="LinkedIn" title="LinkedIn" height="16" width="16"></a>
-            <a href="http://www.facebook.com/MoreVisibility" target="_blank"><img src="/images/facebook.gif" alt="Facebook" title="Facebook" height="16" width="16"></a>
-            <a href="http://twitter.com/morevisibility" target="_blank"><img src="/images/twitter.gif" alt="Twitter" title="Twitter" height="16" width="16"></a>
+            <!-- <g:plusone size="small" count="false"></g:plusone>  --> 
+            <a target="_blank" href="https://plus.google.com/115346027077652586481/?prsrc=3" onclick="_gaq.push(['_trackSocial', 'Google+', 'View']);"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="16" height="16" style="border: 0;" alt="Google+"></a>
+            <a href="http://www.youtube.com/morevisibility" onclick="_gaq.push(['_trackSocial', 'YouTube', 'View']);"><img src="/images/youtube.gif" alt="YouTube " title="YouTube" height="16" width="16"></a>
+            <a href="http://www.linkedin.com/companies/morevisibility" target="_blank" onclick="_gaq.push(['_trackSocial', 'LinkedIn', 'View']);"><img src="/images/linkedin.gif" alt="LinkedIn" title="LinkedIn" height="16" width="16"></a>
+            <a href="http://www.facebook.com/MoreVisibility" target="_blank" onclick="_gaq.push(['_trackSocial', 'Facebook', 'View']);"><img src="/images/facebook.gif" alt="Facebook" title="Facebook" height="16" width="16"></a>
+            <a href="http://twitter.com/morevisibility" target="_blank" onclick="_gaq.push(['_trackSocial', 'Twitter', 'View']);"><img src="/images/twitter.gif" alt="Twitter" title="Twitter" height="16" width="16"></a>
                     <!-- AddThis Button BEGIN -->
                     <script type="text/javascript">
                     addthis_pub  = 'morevis';
                     addthis_brand = 'MoreVisibility.com';
                     </script>
-                    <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+                    <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="_gaq.push(['_trackSocial', 'AddThis', 'View']);return addthis_sendto()"><img src="http://s7.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
                     <!-- AddThis Button END -->
                     </p>
                         
@@ -364,7 +442,15 @@ src="http://www.googleadservices.com/pagead/conversion/1052786323/?label=VwBaCIH
 </noscript>
 </div>
     </div><!--mainContainer-->
-
+<script>
+(function(d, t) {
+var g = d.createElement(t),
+s = d.getElementsByTagName(t)[0];
+g.async = true;
+g.src = 'https://apis.google.com/js/plusone.js';
+s.parentNode.insertBefore(g, s);
+})(document, 'script');
+</script>
 
 
 </body></html>
