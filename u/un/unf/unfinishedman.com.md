@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unfinishedman.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519232259id_/http%3A//www.unfinishedman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfinishedman.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113526id_/http%3A//www.unfinishedman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Unfinished Man
 
 We take the privacy of our visitors pretty damn seriously. We hate it when companies sell or distribute our personal information, and we know you do too. While we do use Google Analytics to collect aggregate information on unique visits and page-views, we only use this information for traffic pattern analysis. It basically helps us make our site more awesome. If you notice our website sending you a cookie from Google, that’s the reason.
 
