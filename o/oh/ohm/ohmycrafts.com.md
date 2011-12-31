@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602061654id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210145id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Oh My Crafts - Privacy Policy
 
@@ -32,6 +32,15 @@ Oh My Crafts's approach to responsible information handling is founded on the ba
 |   
 | |   
 |   
+---  
+| | |   
+---|---|---  
+| **Reminder: FREE shipping on orders $75+ within the US**
+
+Your cart is empty.
+
+|   
+| |   
 ---  
 | | |   
 ---|---|---  
