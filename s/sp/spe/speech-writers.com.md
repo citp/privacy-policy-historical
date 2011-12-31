@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the speech-writers.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527184620id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-writers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214139id_/http%3A//www.speech-writers.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 This privacy statement covers the site of www.speech-writers.com.   
-Because it wants to demonstrate a commitment to users' privacy. 
+Because it wants to demonstrate a commitment to users' privacy.
 
   * What personally identifiable information Speech-writers.com (and Speechwriters.com) collect. 
   * What personally identifiable information third parties collect through the web sites. 
@@ -16,13 +16,13 @@ Because it wants to demonstrate a commitment to users' privacy.
 
 
 
-If users have questions or concerns regarding this statement, they should first contact Fred Crowe, Director, by email ([Click here to email Speech-Writers.com](http://www.speech-writers.com/contacts/)) or by phone +353 86 2531518. 
+If users have questions or concerns regarding this statement, they should first contact Fred Crowe, Director, by email ([Click here to email Speech-Writers.com](http://www.speech-writers.com/contacts/)) or by phone +353 86 2531518.
 
 ## Information Collection and Use
 
 ### Information Collection
 
-Speech-writers is the sole owner of the information collected on Speech-writers.com (and Speechwriters.com) other than credit card information which goes directly to our payment processing partner Worldpay.com ([support@uk.worldpay.com](https://web.archive.org/mailto:support@uk.worldpay.com) and phone +44 (0)870 742 7001 ) and Natwest a major UK bank.
+Speech-writers is the sole owner of the information collected on Speech-writers.com (and Speechwriters.com) other than credit card information which goes directly to our payment processing partner.
 
 #### Order
 
@@ -76,13 +76,13 @@ In the event Speech-writers.com (or Speechwriters.com) goes through a business t
 
 We post customer comments on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the comment to post their name along with their comment.
 
-We do not share Personally Identifiable Information for any unknown or unrelated uses.
+We do not share Personally Identifiable Information for any unknown or unrelated uses. 
 
 #### Links
 
 This Web sites contains links to other sites. Please be aware that we, Speech-writers.com (and Speechwriters.com), are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by these web sites.
 
-We do not share Personally Identifiable Information for any unknown or unrelated uses.
+We do not share Personally Identifiable Information for any unknown or unrelated uses. 
 
 ### Security
 
@@ -102,7 +102,7 @@ We do not combine any information that we collect with any third party.
 
 #### Enhancement of Marketing Profile
 
-We do not purchase third party marketing data. 
+We do not purchase third party marketing data.
 
 #### Correcting/Updating/Deleting/Deactivating Personal Information
 
@@ -118,7 +118,6 @@ If, however, we are going to use users' personally identifiable information in a
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**Phone:** +353 86 2531518  
-**Fax:** +353 1 8532319  
+**Phone:** 1800 961 5617  
 **Email:** [Click here to email Speech-Writers.com](http://www.speech-writers.com/contacts)  
 **Postal Address:** 18 Vernon Rise. Clontarf, Dublin 3, Ireland. Europe.
