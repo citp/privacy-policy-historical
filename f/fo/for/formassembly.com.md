@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the formassembly.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230210156id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formassembly.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210815id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Effective Date: 11/24/2010
+### Effective Date: 11/24/2011
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality services with integrity in dealing with our Users and Subscribers. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be assessed from time to time against new technologies, business practices and our Subscribers and their Users' needs. 
 
@@ -15,7 +15,7 @@ Users
 
 ### TRUSTe Privacy Seal
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.formassembly.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.formassembly.com/seal_m "TRUSTe European Safe Harbor certification")
 
 Veer West LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
@@ -25,7 +25,7 @@ If you are not satisfied with our response you can contact [TRUSTe here](http://
 
 [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.formassembly.com/seal_m "TRUSTe European Safe Harbor certification")
 
-Veer West LLC complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+Veer West LLC complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>.
 
 ## What Information Do We Collect?
 
@@ -103,6 +103,8 @@ We follow generally accepted standards to protect the personal information submi
 ## How Can You Access and Correct Your Information?
 
 If your personally identifiable information changes, or if you no longer desire our service, you may request access to all your personally identifiable information to correct, update, amend, delete/remove or deactivate it by making the change by logging into your account, by emailing us at contact@formassembly.com, or by contacting us by postal mail at the contact information listed below. We will respond to your request to access within 30 days. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## What About Legally Compelled Disclosure of Information?
 
