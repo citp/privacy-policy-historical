@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the specialtyansweringservice.net privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222222629id_/http%3A//www.specialtyansweringservice.net/specialty-answering-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialtyansweringservice.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210201id_/http%3A//www.specialtyansweringservice.net/specialty-answering-service-privacy-policy.html) for the most accurate reproduction.*
 
-# Answering Service Privacy Policy, Call Center Privacy Policy | Answering Service, Call Center
+# Specialty Answering Service Privacy Policy | Specialty Answering Service™
 
 ## Specialty Answering Service's Privacy Policy
 
