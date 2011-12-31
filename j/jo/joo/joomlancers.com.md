@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822110448id_/http%3A//www.joomlancers.com/joomlancerscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlancers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204311id_/http%3A//www.joomlancers.com/joomlancerscom-privacy-policy.html) for the most accurate reproduction.*
 
 # JOOMLANCERS.COM PRIVACY POLICY
 
@@ -19,6 +19,13 @@ The use of an individual's e-mail address is necessary to keep our Customers wel
 
 We like to keep our Customers informed via e-mail and other means. Sometimes Joomlancers.com uses personal and demographic information to help us determine which Joomlancers.com products and Services are most likely to be of interest to you or help diagnose problems with our servers or administration of our sites. We also use demographic information to gather general interest in our products, to help in the analysis of product usage, purchasing, and target markets. 
 
+** Storage of Collected Information**
+
+**Updated on 11th Nov 2010**  
+The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our website, we encrypt that information using secure socket layer technology (SSL). When Credit Card details are collected, we simply pass them on in order to be processed as required by secured third party gateway who is storing the data or looking after your data. We never permanently store complete Credit Card details. 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. 
+
 ** Correct/Update  **   
 If you want to change or modify information you have previously provided to us, please [ contact us ](http://www.joomlancers.com/explore/contact/ "Contact")
 
@@ -32,4 +39,5 @@ Some of the websites we host place small bits of text or "cookies" onto your com
 ** If you have any questions about Joomlancers.com's privacy policy or the privacy practices of our web sites, please [ contact us ](http://www.joomlancers.com/explore/contact/ "Contact") ****
 
 **** Changes to the Privacy Policy  **   
-In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the Joomlancers.com web site. Please check back often to review any revisions. ** {yootooltip title=[Tooltip Link] sticky=[1]}Tooltip Content{/yootooltip} 
+In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the Joomlancers.com web site. Please check back often to review any revisions.   
+**
