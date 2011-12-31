@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the10kteam.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225143952id_/http%3A//the10kteam.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the10kteam.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112414id_/http%3A//the10kteam.com/privacy.php) for the most accurate reproduction.*
 
 # The10KTeam
 
   
   
-[](http://the10kteam.com/bannerclick.php?id=7)
+[](http://the10kteam.com/bannerclick.php?id=8)
 
 The10KTeam Privacy Policy
 
