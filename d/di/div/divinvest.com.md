@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414000335id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222207id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
 
-# Diversified Investment Advisors
+# Diversified
 
 ### Purpose of the Internet Privacy Policy
 
-At Diversified Investment Advisors, protecting your privacy is very important to us. By posting our Internet Privacy Policy, we want you to understand what information we collect about you when you visit our Web site and how we use that information. This Internet Privacy Policy also describes our practices for handling and securing such information. This Policy applies solely to information collected by this Web site (divinvest.com). The Policy does not apply to third party web sites, if any, linking to or from this site. Diversified is not responsible for the privacy practices employed by other sites.
+At Diversified, protecting your privacy is very important to us. By posting our Internet Privacy Policy, we want you to understand what information we collect about you when you visit our Web site and how we use that information. This Internet Privacy Policy also describes our practices for handling and securing such information. This Policy applies solely to information collected by this Web site (divinvest.com). The Policy does not apply to third party web sites, if any, linking to or from this site. Diversified is not responsible for the privacy practices employed by other sites.
 
 ### Categories of Information We Collect
 
@@ -38,4 +38,4 @@ In the event that you choose to submit nonpublic personal information on our Web
 
 Diversified reserves the right to modify or supplement the Internet Privacy Policy at anytime. If we make changes, we will provide you with a revised policy that describes our new practices. We encourage you to review this Policy periodically for changes. Your use of this web site after we have posted any changes to this Policy constitutes your acceptance of the changes.
 
-### Date: 02/18/10
+### Date: 05/25/2011
