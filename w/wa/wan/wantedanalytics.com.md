@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wantedanalytics.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507224509id_/http%3A//www.wantedanalytics.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantedanalytics.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231170249id_/http%3A//www.wantedanalytics.com/policy) for the most accurate reproduction.*
 
 # WANTED Analytics - Privacy Policy
 
 ### Overview
 
-This privacy policy applies to Wanted Technologies Corporation's ("Wanted" or "us") "WANTED Analytics" service (the "Service") available at [www.wantedtech.com](http://www.wantedtech.com/) or [www.wantedanalytics.com](https://web.archive.org/web/20110507224509id_/http://www.wantedanalytics.com/) (the "Sites"). 
+This privacy policy applies to Wanted Technologies Corporation's ("Wanted" or "us") "WANTED Analytics" service (the "Service") available at [www.wantedtech.com](http://www.wantedtech.com/) or [www.wantedanalytics.com](https://web.archive.org/web/20111231170249id_/http%3A//) (the "Sites"). 
 
 To demonstrate our commitment to the privacy of the users of the Service, we wish to disclose our information practices with respect to the Service: 
 
