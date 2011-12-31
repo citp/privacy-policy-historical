@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mastersoftrivia.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006033639id_/http%3A//www.mastersoftrivia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastersoftrivia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231123341id_/http%3A//www.mastersoftrivia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Masters of Trivia - Privacy Policy
+# Privacy Policy - Masters of Trivia
 
 * * *
 
@@ -25,5 +25,4 @@ We are committed to privacy. Protecting your privacy on-line is an evolving area
 
 By using this web site, you consent to the terms of our Online Privacy Policy. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time. 
 
-  
-[Back to Masters of Trivia Home Page](https://web.archive.org/index.html)[](https://web.archive.org/privacy.html)
+If you found a typo please select the text and press Ctrl + Enter
