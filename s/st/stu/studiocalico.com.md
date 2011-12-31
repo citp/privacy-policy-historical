@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117044035id_/http%3A//www.studiocalico.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocalico.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234352id_/http%3A//www.studiocalico.com/about/privacy) for the most accurate reproduction.*
 
-# Studio Calico Privacy Policy - StudioCalico.com
+# Studio Calico Privacy Policy - StudioCalico.com | Scrapbooking Kits, Paper & Supplies, Ideas & More at StudioCalico.com!
 
 Studio Calico Website Privacy Statement
 
