@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623144455id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icr.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223931id_/http%3A//www.icr.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
