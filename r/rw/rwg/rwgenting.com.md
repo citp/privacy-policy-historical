@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwgenting.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518202141id_/http%3A//www.rwgenting.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwgenting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213147id_/http%3A//www.rwgenting.com/policy.htm) for the most accurate reproduction.*
 
 # Genting Malaysia | Resorts World Genting - City of Entertainment | Privacy Policy
 
@@ -29,6 +29,6 @@ We limit access to personal information about you to employees who we believe re
 
 ** Important Notice:**   
 Please ensure your  ** SSL** setting is turned on.  
-Click  [ here](https://web.archive.org/web/20110518202141id_/http%3A//www.rwgenting.com/ssl.htm) for more information.   
+Click  [ here](https://web.archive.org/web/20111231213147id_/http%3A//www.rwgenting.com/ssl.htm) for more information.   
   
 * * *
