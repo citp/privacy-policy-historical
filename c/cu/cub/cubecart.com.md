@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228040542id_/http%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubecart.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215417id_/http%3A//www.cubecart.com/privacy-policy) for the most accurate reproduction.*
 
-# CubeCart - Privacy Policy
-
-» Privacy Policy
+# Privacy Policy | CubeCart
 
 **PRIVACY POLICY AND CONSENT TO USE OF DATA  
 **IMPORTANT: BY SUBMITTING DATA TO US AND/OR USING OUR WEB SITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
