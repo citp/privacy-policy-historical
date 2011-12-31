@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406094602id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231174731id_/http%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -12,7 +12,7 @@ SEEK collects information on our site visitors collectively including which sect
 
 ### IP Addresses
 
-SEEK's web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user. 
+SEEK's web servers gather your IP address to assist with the diagnosis of problems or support issues with our services, and to monitor legitimate use of our site. 
 
 ### Cookies & Applets
 
@@ -106,9 +106,13 @@ As indicated in point 2, unless you become a registered '[My Account](https://we
 
 ## SEEK Partners & Advertisers
 
-SEEK provides links and passes online application to third party sites. The use of your information by these third party sites is not within the control of SEEK and we cannot accept responsibility for the conduct of these companies. Advertisers who place job ads on SEEK are asked to comply with Australian federal privacy policy with regard to their own information handling practices.
+SEEK provides links and passes online application to third party sites. The use of your information by these third party sites is not within the control of SEEK and we cannot accept responsibility for the conduct of these companies. 
 
-You may also directly contact advertisers to request access to any personal information that you have sent as part of an application.
+With the consent of SEEK's registered members, SEEK may provide that member's personal profile to SEEK clients who have placed job ads with matching classifications and locations to the registered member's profile and who have purchased access to the member's profile.. The use of that information by these SEEK clients is not within the control of SEEK and we cannot accept responsibility for the conduct of these clients. 
+
+SEEK clients who place job ads on SEEK, and who purchase SEEK registered members' profiles are asked to comply with Australian federal privacy policy with regard to their own information handling practices.
+
+You may also directly contact advertisers to request access to any personal information that you have sent as part of an application or as part of a profile.
 
 ## Transborder data flows
 
