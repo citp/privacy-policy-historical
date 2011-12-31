@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125052928id_/http%3A//www.megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203130id_/http%3A//www.megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
 
-# Privacy Statement for MegaGames | MegaGames - The Hardcore Gaming Experience
+# Privacy Statement for MegaGames | MegaGames
 
 MegaGames has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: MegaGames
 
@@ -52,4 +52,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [megagames@megagames.com](mailto:megagames@megagames.com).
 
-[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fmegagames.com%2Fprivacy-statement-megagames&linkname=Privacy%20Statement%20for%20MegaGames%20%7C%20MegaGames%20-%20The%20Hardcore%20Gaming%20Experience)
+[](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.megagames.com%2Fprivacy-statement-megagames&linkname=Privacy%20Statement%20for%20MegaGames%20%7C%20MegaGames)
