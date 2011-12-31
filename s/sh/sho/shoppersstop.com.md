@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204080022id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersstop.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220023id_/http%3A//www.shoppersstop.com/privacyPolicy.jsp.vr) for the most accurate reproduction.*
 
 # ShoppersStop.com - Privacy Policy
 
-Shopper’s Stop Limited (SSL) and its subsidiaries and divisions, including Shoppersstop.com, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Shoppersstop.com you agree to the collection and use of your data by Shoppersstop.com in the manner provided in this Privacy Policy.
+Shoppers Stop Limited (SSL) and its subsidiaries and divisions, including Shoppersstop.com, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by SSL. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Shoppersstop.com you agree to the collection and use of your data by Shoppersstop.com in the manner provided in this Privacy Policy.
 
 If you have questions or concerns regarding this statement, you can contact us at (022) 6648 6648 (9:00 am to 9:00 pm) or email us at [estore@shoppersstop.com](mailto:estore@shoppersstop.com)
 
@@ -24,7 +24,7 @@ Through this document, we wish to make you:
 
 Shoppersstop.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
 
-**Kindly, note that Shoppersstop.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
+ **Kindly, note that Shoppersstop.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Shoppers Stop have access to, or store, your complete card account information.**
 
 We may collect additional information in connection with your participation in any promotions or contests offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and website use, which enables us to improve the service we provide. We will collect only such information as is necessary and relevant to us to provide you with the services available on the website.
 
@@ -236,7 +236,7 @@ To protect your privacy and security, we will verify your identity before granti
 
 To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you. 
 
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this website, you agree that Shopper’s Stop Ltd will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this website, you agree that Shoppers Stop Limited will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
 
 We follow generally accepted industry standards to protect the personal information and email addresses submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address, we cannot guarantee its absolute security.
 
@@ -272,13 +272,13 @@ You can offer your views, suggestions, if any, by submitting the filled in feedb
 
 You can contact us at: 
 
-Shoppers Stop Ltd (Shoppersstop.com)
+Shoppers Stop Limited (Shoppersstop.com)
 
 Eureka Tower, 9th Floor, B-Wing
 
 Mindspace, Link Road
 
-Malad (W), Mumbai 400 101
+Malad (W), Mumbai 400 064 
 
 Or
 
@@ -287,3 +287,6 @@ Or
 Or
 
 (022) 6648 6648
+
+  
+
