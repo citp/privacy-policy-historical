@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615163045id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211220id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Austral
 
 This privacy policy applies to all personal information collected by Catch via the internet.
 
-Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
+Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
 
 Collection of information
 
@@ -21,9 +21,9 @@ The four main ways we collect personal information about you are:
 
 Our use of cookies
 
-Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.  Most web browsers are set to accept cookies.  Catch uses cookies to make your use of our website and services as convenient as possible.  Cookies in and of themselves do not personally identify users, although they do identify a user's browser.  Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
+Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. Catch uses cookies to make your use of our website and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies.  This may mean you will not be able to take full advantage of Catch's services.
+If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of Catch's services.
 
 Catch uses Google to serve advertisements when you visit a Catch website. Google may use cookies in relation to your visits to Catch websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, [click here](http://www.google.com.au/privacy_ads.html "google ad and content network privacy policy").
 
