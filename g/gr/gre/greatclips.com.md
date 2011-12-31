@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515095114id_/http%3A//www.greatclips.com/Com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220512id_/http%3A//www.greatclips.com/privacy-statement) for the most accurate reproduction.*
 
-# GreatClips.com - Privacy Statement
+# Privacy Statement
 
 **Privacy Practices Related to Customer Data** , Effective August 2, 2010
 
-At Great Clips Inc. (“Great Clips” or “we” or “our”), the privacy of our customers is important to us. We collect and use personal information at Great Clips salons and at [www.greatclips.com](http://www.greatclips.com/) (the “Site”) about our customers to create and maintain a relationship that allows us to provide quality services and products. We are careful to ensure this information is used responsibly, and only for the purposes for which it was given to us.
+At Great Clips, Inc. (“Great Clips” or “we” or “our”), the privacy of our customers is important to us. We collect and use personal information at Great Clips salons and at [www.greatclips.com](http://www.greatclips.com/) (the “Site”) about our customers to create and maintain a relationship that allows us to provide quality services and products. We are careful to ensure this information is used responsibly, and only for the purposes for which it was given to us.
 
 We reserve the right to modify our Privacy Practices from time to time and will mark new versions with a corresponding effective date. We recommend customers visit the Site or any Great Clips salons periodically to review any changes in our practices.
 
