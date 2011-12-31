@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wealthymen.com privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628204752id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wealthymen.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213123id_/http%3A//wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -17,7 +17,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 
-<script type="text/javascript" language="javascript" src="/js/functions.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" language="javascript" src="/js/functions.js"></script>
 <script type="text/javascript" language="javascript" src="/js/javascript.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery.js"></script>
 
@@ -59,17 +59,30 @@ p { margin:12px 0; line-height:1.4em; }
 
 <body>
 
+<script type="text/javascript">
+    // if in an iframe (for FB app)
+    var _inIframe = (window.location != window.parent.location) ? true : false;
+
+    // if no cookie is set and in an iframe, then write cookie and reload
+    // if cookie is set, and js doesn't agree, erase and reload
+            if (_inIframe) {
+            createCookie('_inIframe', 1, 7);
+            window.location.reload();
+        }
+    </script>
+
+
 <div id="header_wrap">
   <div id="header">
   
     <a id="logo" href="http://www.wealthymen.com/?prg=1&amp;id=noadvert">
-      <img src="/images/wm_logo_new.gif" border="0">
+      <img src="http://www.wealthymen.com/images/wm_logo_new.gif" border="0">
     </a>
     
     
  
     
-    
+  
         
       <script language="Javascript">
     <!--
@@ -94,12 +107,12 @@ p { margin:12px 0; line-height:1.4em; }
       
 
             <div id="fb_head_btn_wrap">      
-                <fb:login-button title="Register with your facebook account in just one click!" perms="email,user_birthday,user_location,user_interests,user_activities">Login</fb:login-button>
+                <fb:login-button title="Register with your facebook account in just one click!" scope="email,user_birthday,user_location,user_interests,user_activities">Login</fb:login-button>
                 </div>
         
     
     <div id="header_login_wrap">
-      <form name="formBrowse" id="formBrowse" method="post" action="/main.php?m=user&amp;c=login&amp;e=validate&amp;prg=1&amp;id=noadvert">
+      <form name="formBrowse" id="formBrowse" method="post" action="http://www.wealthymen.com/main.php?m=user&amp;c=login&amp;e=validate&amp;prg=1&amp;id=noadvert">
       <input name="ctest" type="hidden" value="0">
       <table width="360" align="right" cellpadding="2" cellspacing="0" id="tblMember" border="0">
       <tbody><tr>
@@ -199,29 +212,59 @@ p { margin:12px 0; line-height:1.4em; }
 
 <div id="footer_wrap">
   <div id="footer">
-    <p>© Copyright 2011 WealthyMen.com, All rights reserved.</p>
+  
+    <ul class="ft_links">
+      <li><a href="/help.php?prg=1&amp;id=noadvert" target="_new">Help</a></li>
+      <li><a href="http://www.wmnethelp.com?prg=1&amp;id=noadvert" target="_blank">Customer&nbsp;Service</a></li>
+      <li><a href="/terms.php?prg=1&amp;id=noadvert" target="_new">Terms &amp; Conditions</a></li>
+      <li><a href="/sitemap.php?prg=1&amp;id=noadvert" target="_new">Sitemap</a></li>
+    </ul>
     
-    <div id="footer_links">
-      <a href="/help.php?prg=1&amp;id=noadvert" target="_new">Help</a>
-      <span>|</span>
-      <a href="/track.php?tid=100&amp;prg=1&amp;id=noadvert" target="_blank">Customer&nbsp;Service</a>
-      <span>|</span>
-      <a href="/terms.php?prg=1&amp;id=noadvert" target="_new">Terms &amp; Conditions</a>
-      <span>|</span>
-      <a href="/sitemap.php?prg=1&amp;id=noadvert" target="_new">Sitemap</a>
-      <span>|</span>
-	        
-      <a href="/privacy.php?prg=1&amp;id=noadvert" target="_new">Privacy Policy</a>
-      
-                  <span>|</span>
-      <a href="/track.php?tid=102&amp;prg=1&amp;id=noadvert" target="_new">Careers</a>
+    <ul class="ft_links" style="margin:0;">
+          <li><a href="/privacy.php?prg=1&amp;id=noadvert" target="_new">Privacy Policy</a></li>
+            
+      <li><a href="/track.php?tid=102&amp;prg=1&amp;id=noadvert" target="_new">Careers</a></li>
+      <li><a href="/redirect_mobile.php">Mobile Site</a></li>
+    </ul>
+    
+    <div id="ft_right">
 
+      <p id="copyright">© Copyright 2011 WealthyMen.com, All rights reserved.</p>
+      
+       
+      <div id="ft_social">
+        <p id="label">Follow Us</p>
+        
+        <div id="gplus">
+          <!-- Place this tag where you want the +1 button to render -->
+          <g:plusone size="medium" annotation="none" href="http://www.wealthymen.com"></g:plusone>
+          
+          <!-- Place this render call where appropriate -->
+          <script type="text/javascript">
+            (function() {
+              var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+              po.src = 'https://apis.google.com/js/plusone.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+          </script> 
+        </div>
+       
+        <a href="http://www.facebook.com/pages/WealthyMen/121352727892624" id="fb_link" target="_new"><img src="/images/ico_fb.png" width="20" height="20" border="0"></a>
+        <a href="http://twitter.com/#!/realwealthymen" id="tw_link" target="_new"><img src="/images/ico_tw.png" width="20" height="20" border="0"></a>
+       <div class="cb"></div>
+      </div>
+            
+      <div class="cb"></div>
+      
+	          <p><img id="logos" src="/images/seen_on_logos.png"></p>
+             
     </div>
+    
+
   
     <div class="cb"></div>
     
-      <img id="logos" src="/images/seen_on_logos.png">
-    
+ 
     
   </div><!--footer end-->
 </div><!--footer_wrap end--> 
@@ -238,14 +281,17 @@ pageTracker._trackPageview();
 </script>
 
 <!-- Great Personals Pixels : Added 08/25/08 by Global Personals -->
-	<img src="http://www.greatpersonals.com/ct/imgcount.cgi?a=noadvert&amp;w=wm&amp;t=m&amp;p=pps&amp;r=&amp;i=174.129.228.67&amp;u1=&amp;u2=" width="0" height="0">
+    	<img src="http://www-old.greatpersonals.com/ct/imgcount.cgi?a=noadvert&amp;w=wm&amp;t=1&amp;p=pps&amp;r=&amp;i=174.129.228.67&amp;u1=&amp;u2=" width="0" height="0">
+
+<!-- PS 7 hit tracking -->
+    	<img src="http://partners.greatpersonals.com/ct/imgcount.php?a=noadvert&amp;s=wm&amp;t=1&amp;mod=&amp;u1=&amp;u2=&amp;u3=&amp;u4=&amp;u5=&amp;p=&amp;pr=pps&amp;cc=US" width="0" height="0">
 
     <!-- Brand Reach Tracking Pixel : Added 09/23/08 by Stacy Cook -->
     <script type="text/javascript"> 
       v_tileID = Math.floor(10000000*Math.random()); 
       v_userID = "brandreach";
       document.write("<img src=''http://promos.brandreachsys.com/serve/pixel.gif?r=" + document.URL + "&memusr=" + v_userID + "&tile=" + v_tileID + "' width='1px' height='1px' border='0' alt=''>");
-    </script><img src="" http:="" promos.brandreachsys.com="" serve="" pixel.gif?r="https://web.archive.org/web/20110628204752id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert&amp;memusr=brandreach&amp;tile=7889571'" width="1px" height="1px" border="0" alt="">
+    </script><img src="" http:="" promos.brandreachsys.com="" serve="" pixel.gif?r="https://web.archive.org/web/20111231213123id_/http%3A//wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert&amp;memusr=brandreach&amp;tile=5417999'" width="1px" height="1px" border="0" alt="">
 
 <!-- pop -->
 
