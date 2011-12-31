@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406195733id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220042id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Budget Fashionista
 
 ### PRIVACY POLICY and DISCLAIMER
 
