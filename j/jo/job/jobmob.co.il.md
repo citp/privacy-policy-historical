@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmob.co.il privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620160734id_/http%3A//jobmob.co.il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmob.co.il privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231133028id_/http%3A//jobmob.co.il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobMob
 
