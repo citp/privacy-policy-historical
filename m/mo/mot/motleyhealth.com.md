@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527162133id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motleyhealth.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210204id_/http%3A//www.motleyhealth.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | MotleyHealth®
 
@@ -6,15 +6,17 @@ Motley Health respects the privacy and confidentiality of personal data submitte
 
 The web site owners undertake to honor or exceed the legal requirements of medical/health information privacy that apply in the country and state where the web site is located.
 
+Everyone can read all articles and comments on this site and make personal use of this information. No information may be republished without our written authorisation.
+
 ### Community Comments
 
-What information do we collect? If you leave a comment your name (comment name), email address and IP address will be kept on the database. This is standard operating procedure for any blog or forum. If you wish your comment/s to be deleted for any reason your private information will also be removed from out database. You may of course use a false name and address for comments if you are concerned about privacy, although obviously you will not receive comment updates if you use a false email address.
+What information do we collect? If you leave a comment your name (comment name), email address and IP address will be kept on the database. This is standard operating procedure for any blog or forum. If you wish your comment/s to be deleted for any reason your private information will also be removed from out database. You may of course use a pseudonym (false name) and email address for comments if you are concerned about privacy, although obviously you will not receive comment updates if you use a false email address.
 
-Your email address will never be shared, and it will only be used by us if you subscribe to comment updates. If you raise a delicate question in the forums/comments part of the site we may contact you directly rather than publish the discussion publicly.
+Your email address will never be shared, and it will only be used by us if you subscribe to comment updates. If you raise a delicate question in the forums/comments part of the site we may contact you directly rather than publish the discussion publicly. Nobody outside of MotleyHealth has access to the private data stored on the servers.
 
 ### Newsletters
 
-The newsletter is run by our own software. Your email address and name will never be shared. It is a double opt in service (meaning after subscribing you will need to confirm by email) and each email sent to you will provide an unsubscribe link.
+The newsletter is run on our own servers. Your email address and name will never be shared. It is a double opt in service (meaning after subscribing you will need to confirm by email) and each email sent to you will provide an unsubscribe link.
 
 ### Google and the DoubleClick DART cookie
 
