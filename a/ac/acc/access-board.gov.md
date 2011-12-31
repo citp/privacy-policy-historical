@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the access-board.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,9 +22,9 @@ We use this information to make our site more useful to visitors and to learn ab
 
 Our website permits you to send us information through several on-line forms. These forms allow you to:
 
-  * sign up to receive our free newsletter by mail or by e-mail ([see form](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/news/Access%20Currents/General.cfm));
-  * order publications ([see form](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/po1.cfm)); or
-  * file a complaint under the Architectural Barriers Act ([see form](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/enforcement/form-email.htm)).
+  * sign up to receive our free newsletter by mail or by e-mail ([see form](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/news/Access%20Currents/General.cfm));
+  * order publications ([see form](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/po1.cfm)); or
+  * file a complaint under the Architectural Barriers Act ([see form](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/enforcement/form-email.htm)).
 
 
 
@@ -32,11 +32,11 @@ Forms for subscribing to our mailed newsletter request the necessary mailing inf
 
 The Access Board is responsible for enforcing the Architectural Barriers Act (ABA), which requires access to facilities designed, built, altered, or leased with Federal funds. The Board enforces this law through the investigation of complaints filed by the public about the lack of access to a facility. Our enforcement regulations prohibit us from disclosing the identity of complainants without their written permission.We do not create individual profiles with the information you provide or give it to any private organizations.
 
-The only other means of submitting information to us is by sending us an e-mail message. A posted [e-mail directory](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/contact.htm) lists the various Access Board mailboxes noted on our website. If you choose to provide us with personal information in an e-mail message, we will use such information only to respond to your message and to get you the information you have requested. However, comments which are e-mailed to the Board in response to notices of proposed rulemaking are placed in a docket for public inspection at the Board’s office and may be posted on the Board’s website as well.
+The only other means of submitting information to us is by sending us an e-mail message. A posted [e-mail directory](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/contact.htm) lists the various Access Board mailboxes noted on our website. If you choose to provide us with personal information in an e-mail message, we will use such information only to respond to your message and to get you the information you have requested. However, comments which are e-mailed to the Board in response to notices of proposed rulemaking are placed in a docket for public inspection at the Board’s office and may be posted on the Board’s website as well.
 
 ### Links to Other Sites
 
-Our website has links to many other Federal agencies and non-commercial sites. Once you link to another site, you are subject to the privacy policy of the other site. See our [directory](https://web.archive.org/web/20110607183102id_/http%3A//www.access-board.gov/links.htm) of links to other sites.
+Our website has links to many other Federal agencies and non-commercial sites. Once you link to another site, you are subject to the privacy policy of the other site. See our [directory](https://web.archive.org/web/20111231070847id_/http%3A//www.access-board.gov/links.htm) of links to other sites.
 
 ### Contact for Further Information
 
