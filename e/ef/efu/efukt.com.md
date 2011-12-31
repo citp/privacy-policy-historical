@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501070839id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090528id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
 
 # eFukt.com | adult humor for adults
 
