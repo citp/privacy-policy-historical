@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoblogblueprint.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305065533id_/http%3A//www.autoblogblueprint.com/c/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoblogblueprint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231041518id_/http%3A//www.autoblogblueprint.com/c/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
