@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220140757id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrojoint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213452id_/http%3A//www.metrojoint.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MetroJoint.com
 
@@ -119,7 +119,7 @@ Some of our business partners may use cookies on our site (for example, advertis
   
 ** Top **  
 **   ** **Tell me about MetroJoint.com's policy on correcting, updating or removing personal information.**  
-MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20110220140757id_/http%3A//www.metrojoint.com/contactus.php).  
+MetroJoint.com gives users several options for modifying or removing their information from our database. Please visit your "My Page" to modify/remove your information (edit profile) or [contact us](https://web.archive.org/web/20111231213452id_/http%3A//www.metrojoint.com/contactus.php).  
 ** Top **  
 **   ** **Changes in MetroJoint.com's privacy policy.**  
   
