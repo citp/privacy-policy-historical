@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606122322id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231013945id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
@@ -24,4 +24,4 @@ STA Travel may disclose the information that we collect about you when we have r
 
 ## Email subscription opt in and opt out
 
-If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/cps/rde/xchg/au_division_web_live/hs.xsl/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
+If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
