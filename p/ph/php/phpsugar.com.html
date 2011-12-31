@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the phpsugar.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522123536id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phpsugar.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231224955id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<meta name="copyright" content="© 2011 PhpSugar.com">
+<meta name="copyright" content="© 2012 PhpSugar.com">
 <title>Privacy Policy - phpSugar</title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 <link href="http://feeds2.feedburner.com/phpSugar-news" title="RSS 2.0" type="application/rss+xml" rel="alternate">
-<link href="stylev2.css" rel="stylesheet" type="text/css">
+<link href="stylev2.css.php" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
 <script type="text/javascript">
 var RecaptchaOptions = {
@@ -21,6 +21,8 @@ var RecaptchaOptions = {
 </script>
 </head>
 <body>
+<div class="PopOverTrigger">&nbsp;</div> 
+<div class="PopOverTrigger2">&nbsp;</div>
 <em></em>
 	<div id="container">
 				<div id="ca_login"><a href="http://www.phpsugar.com/customer/" rel="nofollow" target="_blank"><img src="http://static.phpsugar.com/images/v2/img_ca_head.png" alt="Log into our Customer Area" width="136" height="36" border="0"></a></div>
@@ -85,10 +87,11 @@ var RecaptchaOptions = {
 			<div class="footer_column">
 				<h4>PRODUCTS</h4>
 				<ul>
-					<li><a href="http://www.phpsugar.com/phpmelody.html" title="PHP Melody 1.6.6">PHP Melody - Video CMS</a></li>
-					<li><a href="http://www.phpsugar.com/phpmelody_templates.html" title="PHP Melody 1.6.6 Templates">PHP Melody Templates</a></li>
+					<li><a href="http://www.phpsugar.com/phpmelody.html" title="PHP Melody 1.6.7">PHP Melody - Video CMS</a></li>
+					<li><a href="http://www.phpsugar.com/phpmelody_templates.html" title="PHP Melody 1.6.7 Templates">PHP Melody Templates</a></li>
+					<li><a href="http://www.phpsugar.com/phpmelody_mobile.html" title="Mobile Melody plugin for PHP Melody">Mobile Melody Plugin</a></li>
 					<li><a href="http://www.phpsugar.com/ultimate-regnow-affiliate.html" title="Ultimate Regnow Affiliates">Ultimate Regnow Affiliate</a></li>
-					<li><a href="http://www.phpsugar.com/customer/" rel="nofollow" title="Affiliate Program">Join our Affiliate Program</a></li>
+					<!--<li><a href="http://www.phpsugar.com/customer/" rel="nofollow" title="Affiliate Program">Join our Affiliate Program</a></li>-->
 				</ul>
 			</div>
 	
@@ -109,15 +112,41 @@ var RecaptchaOptions = {
 					<li><a href="http://www.phpsugar.com/privacy.html" title="Privacy Policy - phpSugar">Privacy Policy</a></li>
 					<li>—</li>
 				</ul>
-				PHPSugar © 2004-2011<br>
+				PHPSugar © 2004-2012<br>
 			 </div>
 	  </div><!--end #footer-->
 	</div><!--end #container-->
-<script type="text/javascript" src="http://static.phpsugar.com/js/phpsugar.js"></script>
+	<div class="meerkat">
+		<span class="button_dontshow">Close</span>
+		<div id="meerkat_bar">
+
+		<div id="meerkat">
+			<a href="http://www.phpsugar.com/phpmelody_mobile.html?utm_source=hover_message&amp;utm_medium=wwwphpsugarcom&amp;utm_campaign=releasemm"><img src="http://static.phpsugar.com/images/v2/bg_intro_mm2.png" style="position: absolute; overflow: visible; top: -126px; padding: 2px; margin: 0 auto;"></a>
+		</div>
+		</div>
+	</div>
+<script type="text/javascript" src="http://static.phpsugar.com/js/v2/jquery.meerkat.1.3.min.js"></script>
+<script type="text/javascript">
+
+	$('.meerkat').meerkat({
+		background: '#02549d url(http://static.phpsugar.com/images/v2/bg_intro_mm_vio.png) repeat-x center bottom',
+		height: '106px',
+		width: '100%',
+		position: 'bottom',
+		close: '.button_close',
+		dontShowAgain: '.button_dontshow',
+		cookieExpires: 2,
+		animationIn: 'slide',
+		animationSpeed: 300,
+		timer: 140,
+		opacity: 0.9
+	});
+
+</script>
+<script type="text/javascript" src="http://static.phpsugar.com/js/phpsugar.js"></script><script type="text/javascript" src="http://static.phpsugar.com/js/phpsugar.js"></script>
 <style type="text/css">
 img, div, span, a { behavior: url(http://www.phpsugar.com/js/iepngfix.htc) }
 </style>
-
 <!--[if lt IE 7]>
 <style type="text/css"  type="text/css" media="screen, projection">
 	.png {
@@ -201,6 +230,33 @@ img, div, span, a { behavior: url(http://www.phpsugar.com/js/iepngfix.htc) }
 $('.method').change(function() {
 	$('#loading').css("display","block");
 });
+</script>
+<script type="text/javascript">
+/*$(document).ready(function() {
+
+    function staticNav() {
+        var sidenavHeight = $("#side_bar").height(); //Get height of side_bar
+        var winHeight = $(window).height(); //Get height of viewport
+        var browserIE6 = (navigator.userAgent.indexOf("MSIE 6")>=0) ? true : false; //Check for IE6
+
+        if (browserIE6) { //if IE6...
+            $("#side_bar").css({'position' : 'absolute'});  //reset the side_bar to be absolute
+        } else { //if not IE6...
+            $("#side_bar").css({'position' : 'fixed'}); //reset the side_bar to be fixed
+        }
+
+        if (sidenavHeight > winHeight) { //If sidenav is taller than viewport...
+            $("#side_bar").css({'position' : 'static'}); //switch the fixed positioning to static. Say good bye to sticky nav!
+        }
+    }
+
+    staticNav(); //Execute function on load
+
+    $(window).resize(function () { //Each time the viewport is adjusted/resized, execute the function
+        staticNav();
+    });
+
+});*/
 </script>
 
 <script type="text/javascript">
