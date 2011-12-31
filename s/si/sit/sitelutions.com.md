@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitelutions.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206061307id_/http%3A//www.sitelutions.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelutions.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113523id_/http%3A//www.sitelutions.com/info/privacy) for the most accurate reproduction.*
 
 # Sitelutions - Solutions for your site. All in one place.
 
