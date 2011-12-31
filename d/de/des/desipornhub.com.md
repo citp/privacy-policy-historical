@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the desipornhub.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629030322id_/https%3A//www.blogger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desipornhub.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211805id_/http%3A//www.blogger.com/go/privacy) for the most accurate reproduction.*
 
-# Blogger: Blogger Privacy Notice
-
-## October 9, 2007
+# Blogger Privacy Notice
 
 The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use Blogger. In addition, the following describes our privacy practices that are specific to Blogger.
 
