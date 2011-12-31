@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201010436id_/http%3A//membercentre.fairfax.com.au/digitalprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045241id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
@@ -22,7 +22,7 @@ We are bound by the National Privacy Principles contained in the Privacy Act 198
 
 We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. 
 
-This policy was last updated on 31 March 2009. 
+This policy was last updated in January 2011. 
 
 ## What information we collect
 
@@ -53,12 +53,13 @@ If you do not provide us with the information that we request, we may not be abl
 In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:   
 
 
-  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in;
+  * to provide you with news and information about our products and services;
+  * to send marketing and promotional material that we believe you may be interested in. This material may relate to any of Fairfax’s businesses or a third party business which we believe may be of interest to you;
   * for purposes necessary or incidental to the provision of goods and services to you;
   * to personalise and customise your experiences;
   * to manage and enhance our products and services;
   * to communicate with you, including by email, mail or telephone;
-  * to conduct competitions or promotions;
+  * to conduct competitions or promotions on behalf of Fairfax and selected third parties;
   * to verify your identity;
   * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
   * as required or permitted by any law (including the Privacy Act).
@@ -83,11 +84,11 @@ We may also disclose personal information, and you consent to us disclosing your
 
 ## Opting in or out
 
-At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above. 
 
-You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to e-newsletters sent by us. 
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on our [Member Centre page.](https://membercentre.fairfax.com.au/) You may also cancel your account on our Member Centre page. 
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us at the address set out below. 
+If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using [this form](https://membercentre.fairfax.com.au/ContactUs.aspx). 
 
 ## Management and security
 
@@ -114,3 +115,7 @@ If you would like to seek access to personal information we hold about you, or i
 Privacy Officer   
 GPO Box 506   
 Sydney NSW 2001 
+
+Fairfax Digital Australia & New Zealand Pty Ltd. ABN 34 087 887 456.   
+1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
+[Contact us](https://membercentre.fairfax.com.au/ContactUs.aspx)
