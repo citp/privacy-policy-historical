@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621052712id_/http%3A//save-a-lot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the save-a-lot.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210148id_/http%3A//save-a-lot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Save-A-Lot
 
