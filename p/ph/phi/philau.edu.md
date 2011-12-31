@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520091934id_/http%3A//www.philau.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210244id_/http%3A//www.philau.edu/about/privacy.html) for the most accurate reproduction.*
 
-# Philadelphia University's Mission Statement
+# Philadelphia University's Privacy Policy
 
 **Philadelphia University** respects your privacy. 
 
@@ -16,7 +16,7 @@ Cookies are, however, required for
 
 Other services for which you may see a cookie set include CareerLink, Trumba, services employed by the technology help desk and physical plant.
 
-Personal information that you provide via email or through other online means (e.g. forms) will be used only for purposes necessary to serve your needs, such as responding to an inquiry, processing an application, or posting material you have authorized us to post (e.g. alumni contact info submitted through the site). If additional personal information about you is requested by a particular office (e.g. an online application through the Office of Admissions), the web page that collects this information may have a separate, more detailed privacy statement that will tell you how that data is to be used. In many cases (including applications sent to the Office of Admissions), this information is collected and processed via a secure server (look for the prefix https:// in your browser’s address bar). 
+Personal information that you provide via email or through other online means (e.g. forms) will be used only for purposes necessary to serve your needs, such as responding to an inquiry, processing an application, or posting material you have authorized us to post (e.g. alumni contact info submitted through the site). If additional personal information about you is requested by a particular office (e.g. an online application through the Office of Admissions), the web page that collects this information may have a separate, more detailed privacy statement that will tell you how that data is to be used. In many cases (including applications sent to the Office of Admissions), this information is collected and processed via a secure server (look for the prefix https:// in your browser’s address bar).
 
 Note that we do use server logs to collect information concerning your Internet connection and general information about your visit to [http://www.philau.edu](http://www.philau.edu/) (page visits, duration of visit, etc.). Such information is, however, unconnected to any personal information about you, and is used solely for statistical purposes 
 
