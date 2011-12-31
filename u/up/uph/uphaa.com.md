@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uphaa.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326152128id_/http%3A//www.uphaa.com/uploads/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uphaa.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204537id_/http%3A//www.uphaa.com/uploads/privacy.txt) for the most accurate reproduction.*
 
 # 
 
