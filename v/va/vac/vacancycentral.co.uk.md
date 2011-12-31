@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the vacancycentral.co.uk privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311032120id_/http%3A//www.vacancycentral.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacancycentral.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224445id_/http%3A//www.vacancycentral.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy - UK Job Vacancies at Vacancy Central
 
-|  |  |   
----|---|---  
 [](http://www.vacancycentral.co.uk/regform.php)
 
 ## Privacy Policy & Disclaimer
@@ -59,7 +57,7 @@ Please report any errors in the information above by [contacting us](https://web
 |  | 
 
 Job Search  
-(88,280 live jobs)
+(70,982 live jobs)
 
 Further search options
 
@@ -70,8 +68,4 @@ Job Type Wanted:
 Job Term Wanted:  
 **Any**  
   
----  
-  
-  
-© Copyright and Database Rights Agency Central Ltd. 2004-2011   
-[Contact Us](https://web.archive.org/contact.php) | [Disclaimer](https://web.archive.org/disclaimer.php) | [Terms and Conditions](https://web.archive.org/disclaimer.php) | [Privacy Policy](https://web.archive.org/privacy.php)
+---
