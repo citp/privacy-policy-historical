@@ -1,39 +1,64 @@
-> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102180255id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224135id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Razoo
+# The Razoo.com Privacy Policy - Razoo
 
-Our privacy policy is simple--we are vigilant about protecting yours. Our mission is to serve donors and provide you with the best possible experience so you can focus on your giving.
+Our approach to privacy is simple—we are vigilant about protecting your privacy at all times. Your use of the Website constitutes your acceptance of this Privacy Policy and the Terms of Use. If you do not accept any aspect of the Policy you should not use the Website.
 
-This policy is designed to assist you in understanding what information you may provide, how the information is used and shared, and how you can control the information via our website razoo.com (aka "Website") . We will not use or share your information with anyone, except as prescribed in this Privacy Policy (aka “Policy”). If you ever have a question about our policies or feel that we are not living up to this standard, we’d love to talk. Feel free to email us at support@razoo.com and we will get back to you promptly.
+This policy is designed to assist you in understanding what information you may be asked to provide, how the information is used and shared, and how you can control the information via our website razoo.com (aka “Website”). We will not use or share your information with anyone except as prescribed in this Privacy Policy (aka “Policy”).
 
-### Registration and Fundraising
+## Information We Ask You to Provide
 
-If you choose to register with our Website, we will ask you to provide certain personal information, such as first name, last name, and email address, in creating your user profile. Once created, the user profile will be viewable by the general public. However, you may choose to disable this option via your profile settings.
+If you choose to create an account with us and become a member, you will be asked to select a username and password. We will ask you to provide certain personal information, such as first name, last name, and email address, in creating your user profile. Once created, the user profile will be viewable by the general public. (You may, however, disable this option via your profile settings.) If you donate via the Website, we will also ask you to provide your mailing address for tax-deductible receipt purposes.
 
-Razoo has access to all information you submitted to the Website. If you create an account with us, we may send a monthly newsletter, system messages pertaining to account information, and other communications to your email. You may opt out of the monthly newsletter by adjusting the settings in your user account. 
+We and our associated charitable organization, Razoo Foundation, have access to all information you submit to the Website.
 
-You may also post information, such as comments, texts, images, videos, and other contents (aka “Materials”) to the Website. Any Materials you post to the Website will be viewable by the general public and will be governed by our Terms of Use.
+You may also post information, such as comments, texts, images, videos, and other content (aka “Materials”) to the Website. Any Materials you post to the Website may be viewable by the general public and are governed by our Terms of Use.
 
-### Donation
+## Our Use of Information You Provide
 
-Network for Good is a partner company that processes all donations that come through the Website. Network for Good will never sell, trade, or rent your personal information to other individuals or companies. The information you provide will only be used to complete your donation and to provide you with tools to manage and monitor your transactions.
+If you create an account with us, we may send a monthly newsletter, system notifications, and other communications to your email. You may opt out of the monthly newsletter by adjusting the settings in your user account. We will also use the information you submit to the Website to facilitate completion of your donations made via the Website and to provide you with tools to manage and monitor your transactions.
 
-When you make a donation to a non-profit listed on our website, you grant Razoo and Network for Good permission to access your donation records at any time. With your permission, your name and contact information will be provided to the charity you support through Razoo. If you do not wish to share your name and contact information with the charity you support, or you choose to make your donation anonymously, neither Razoo nor Network for Good will share your name or contact information.
+Razoo Foundation is an associated independent, tax-exempt nonprofit that is the recipient of all donations that are made through the Website. Razoo Foundation maintains one of the largest donor advised funds in the nation, consisting of most US-based public charities in good standing with current tax-exempt from the IRS. In furthering its charitable and educational mission of catalyzing grass-roots philanthropy, the Foundation has agreed to serve as the nation’s trusted charity facilator of choice. When you make a donation to Razoo Foundation and regrant recommendation (“advisement”) to a nonprofit listed on the Website, you grant us (along with Razoo Foundation) permission to access your donation records at any time. Unless you request that your donor advisement be anonymous, we or Razoo Foundation will make available to your selected nonprofit upon regranting of your contribution online reports identifying, where available, the name, address, email, and transaction accounting details of the regrant. We or Razoo Foundation will also share your name and email with nonprofit organizations administrating giving events in which you participate. If you choose to make your advisement anonymously, we will share only the donation amount of the advised and completed regrant with your selected nonprofit.
 
-Razoo and Network for Good will use your contact information to send you information pertaining to your donation, such as a donation confirmation or an alert about a problem with your credit card. 
+Your information may also be provided to third parties – such as (for example) the credit card company, the sponsoring bank, and/or the bank issuing the credit card – for the purpose of processing the credit card (or other) charitable gift transaction.
 
-### Links to Other Websites
+Neither Razoo Foundation nor we will, however, ever share your personal information, donation activity, or email address with any other third party without your prior consent (except as may be required by law – see “Legal Requirements” section below).
 
-The Website may contain links to other third party websites, including non-profits and other organizations. Razoo is not responsible for the privacy practice, policies, or content of such websites.
+We will use your contact information to send you information concerning your donation, including without limitation a donation confirmation and any notices about problems with your credit card.
 
-### Legal Process
+## Security
 
-Although unlikely, Razoo may be required to disclose user information to appropriate authorities pursuant to law requests, such as subpoenas, or in compliance with applicable laws.
+Razoo takes security seriously and we take reasonable measure to protect our user’s information. All transaction and credit card information entering the Razoo system is encrypted using SSL certificates from VeriSign. We are not, however, responsible for any information your share with other users of the Website or other third parties.
 
-### Security
+## Privacy Protection for Children
 
-Razoo takes security seriously and we take reasonable measure to protect our user’s information. All transaction and credit card information entering the Razoo system is encrypted using SSL certificates from VeriSign. However, Razoo holds no liability if you share your information with other users and 3rd parties at your own will.
+This Website is not directed to children under the age of thirteen. In compliance with the Children’s Online Privacy Protection Act, we do not knowingly collect personally identifiable information from persons under the age of 13 through the Website or otherwise. If we later learn that any user is under the age of 13, or that we have inadvertently received personally identifiable information from a user under the age of 13 through the Website, we will take appropriate steps to remove that user’s information from the database and restrict that user’s access to the Website.
 
-### Acceptance
+Because we do not collect any personally identifiable information from children under the age of 13 via the Website, we also do not knowingly distribute such information to third parties, and we do not condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.
 
-Your use of the Website implies acceptance of this Privacy Policy and the Terms of Use. If you do not accept any aspect of the Policy you should not use the Website. This Policy may change from time to time without notice and you are deemed to have accepted the current version every time you use the Website.
+## How To Review and Make Changes to Your Information
+
+If you are a registered member of our Website, you can make changes to your user account information by logging in to the Website and using the account tools available via the Website. If you have any questions about modifying your account or preference information, please visit the customer service pages of our Website.
+
+## Links to Other Websites
+
+The Website may contain links to third-party websites, including nonprofits and other organizations. Razoo is not responsible for the privacy practice, policies, or content of such websites.
+
+## Legal Requirements
+
+Although such a situation may be unlikely, Razoo may be required to disclose user information to appropriate authorities in accordance with law, whether by subpoena or other legitimate request, or if, in our business judgment, such disclosure is reasonably necessary to protect the rights, property, or personal safety of our Website, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+
+## Changes
+
+Any changes or updates to this Privacy Policy will be posted on our Website, with the effective date listed at the top. By continuing use of the Website after we post any such changes, you accept the Privacy Policy as modified. Please check back often to read the most updated and amended Policy.
+
+## Questions Regarding Privacy
+
+If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to:
+
+Bo Lotinsky, Razoo Global Corporation  
+Attn: Online Privacy Coordinator  
+Address: 1020 19th Street, NW, Suite 800, Washington, DC 20036  
+Telephone number: 1-866-437-1952  
+E-mail address: privacy@razoo.com  
+
