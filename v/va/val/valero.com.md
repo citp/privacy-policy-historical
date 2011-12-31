@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valero.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628231334id_/http%3A//www.valero.com/legal/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valero.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112412id_/http%3A//www.valero.com/legal/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,21 +9,21 @@ The information that we receive and use depends on what you do when you visit ou
 
 \--Privacy 
 
-[IP Address](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#IPAddress)   
-[Cookies](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Cookies)   
-[Consumer Information/Information Collection](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Consumer)   
-[Other Nonpublic Personal Information](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Other)   
-[Disclosure of Personal Information](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Disclosure)   
-[Advertising and Promotions](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Advertising)   
+[IP Address](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#IPAddress)   
+[Cookies](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Cookies)   
+[Consumer Information/Information Collection](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Consumer)   
+[Other Nonpublic Personal Information](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Other)   
+[Disclosure of Personal Information](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Disclosure)   
+[Advertising and Promotions](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Advertising)   
 [Acceptance of Offers   
-](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Acceptance)[Prospect Information](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Prospect)   
-[Web Site Links](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Web)   
-[Privacy Policy Changes](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Privacy)   
-[-Security](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Security)   
-[-Supplementation Information](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Supplement)   
-[-Children's Privacy](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Children)   
-[-Choice/Opt-Out](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Choice)   
-[-Contacting the Web Site](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Contact)
+](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Acceptance)[Prospect Information](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Prospect)   
+[Web Site Links](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Web)   
+[Privacy Policy Changes](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Privacy)   
+[-Security](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Security)   
+[-Supplementation Information](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Supplement)   
+[-Children's Privacy](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Children)   
+[-Choice/Opt-Out](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Choice)   
+[-Contacting the Web Site](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Contact)
 
 **IP Address  
 ** When your web browser or e-mail application requests a web page or e-mail from another computer on the Internet, it automatically gives that computer the address where it should send the information. This is called your computer's "IP address." (IP stands for "Internet protocol.") For most users accessing the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time you log on. We use your IP address to help diagnose service or technology problems with our server, and to administer our Site. We use your IP address to send you the most appropriate advertising based on geographic area or information derived from your IP address. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. Aggregate information derived from IP addresses may also be reported to advertisers. Your IP address is used to help identify you, to track activity within our Site and to gather broad demographic information which is used to further develop advertisements, products and services. 
@@ -34,17 +34,17 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 **Consumer Information/Information Collection  
 ** When you browse the Site and have not registered for any online service from Valero, you browse anonymously. Personal information -- such as your name, address, phone number or e-mail address -- is not collected as you browse. Valero does, however, use 
 
-["cookies"](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Cookies) to collect non-personal information about how our Site is used. Non-personal information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to a Valero banner ad or e-mail is collected and tracked. This non-personal information is used for the purpose of measuring response rates to banner ads and e-mail offers. 
+["cookies"](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Cookies) to collect non-personal information about how our Site is used. Non-personal information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to a Valero banner ad or e-mail is collected and tracked. This non-personal information is used for the purpose of measuring response rates to banner ads and e-mail offers. 
 
 Registration for Online Products and Services. In order to provide you with a particular product or service online, we may request that you voluntarily supply us with personal information, including your e-mail address and credit card account number (if you are a Diamond Shamrock, TOTAL, or Ultramar-Beacon credit cardholder, for example), for purposes such as correspondence, site registration, checking your bill online, making a purchase, or participating in online surveys and enabling us to provide an online product or service to you in an efficient manner.   
 If you are known to us as a registered user of a Valero online service, we may combine information about your use of the Site and the online product or service you utilize with certain other online and offline information we have about you as a Valero customer and information you have provided to us as well as information available from external sources, such as census bureau data, in order to customize your online experience and present you with relevant online and offline offers and updates. We also use a "cookie" to enable our server to recognize you as a registered Valero online service user when you re-enter our Site. If you would like to learn more about cookies, please read about 
 
-[Cookies](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Cookies) for more information. Your individually identifiable information is used to contact you when necessary, such as when we make changes to our Privacy and Security Policy or [Legal Notice & Terms of Use](https://web.archive.org/Legal/pages/default.aspx). Users may opt-out of receiving future mailings, or be deleted from our Site and customer information database; see the [-Choice/Opt-Out](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Choice) section below. 
+[Cookies](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Cookies) for more information. Your individually identifiable information is used to contact you when necessary, such as when we make changes to our Privacy and Security Policy or [Legal Notice & Terms of Use](https://web.archive.org/Legal/pages/default.aspx). Users may opt-out of receiving future mailings, or be deleted from our Site and customer information database; see the [-Choice/Opt-Out](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Choice) section below. 
 
 **Other Nonpublic Personal Information**  
 When you submit your information for a credit card application, Valero retrieves a credit report. Valero may also generate and store a consumer credit score and personalized recommendations for each registered user. Some registered users may also receive pre-approved offers of credit while at the Site. Registered users may request Valero to retrieve and generate this credit-related information multiple times in a year at no cost to you. The credit report is typically stored for approximately 45 days. The scores, recommendations and any offers viewed or accepted and the dates of that information may be stored indefinitely. While these items are not sold to third parties for any reason, they may be used to qualify registered users for certain products, services or promotions. See the 
 
-[Disclosure of Personal Information](https://web.archive.org/Legal/pages/PrivacyStatement.aspx#Disclosure) section below for additional information. 
+[Disclosure of Personal Information](https://web.archive.org/legal/Pages/PrivacyStatement.aspx#Disclosure) section below for additional information. 
 
 **Disclosure of Personal Information  
 ** From time to time, we enter into contractual agreements with nonaffiliated, third party providers, such as marketers, Web hosting facilities, transaction processors and decisioning systems. In the course of providing services, these parties may receive your personally identifiable information. These parties, however, are obligated by contract to maintain the confidentiality of the information. 
@@ -68,7 +68,7 @@ This Site contains links to other sites. Valero is not responsible for the priva
 **Changes to the Privacy and Security Policy**   
 The protection of consumer information is one the guiding principles behind Valero. Because of that stance, registered users will be notified via e-mail (if you have provided us with your e-mail address) of any changes to the 
 
-[Privacy and Security Policy](https://web.archive.org/Legal/pages/PrivacyStatement.aspx). We will also post a change notification marker on [www.valero.com](https://web.archive.org/) home page for review. 
+[Privacy and Security Policy](https://web.archive.org/legal/Pages/PrivacyStatement.aspx). We will also post a change notification marker on [www.valero.com](https://web.archive.org/) home page for review. 
 
 **Security**  
 This Site has security measures in place to protect against the negligent or inadvertent loss, misuse and alteration of the information under our control. Valero’s networking systems include an industry standard firewall and systems that are both physically and logically protected (via secured locations and passwords). Consumer information will be regularly backed-up and stored in a secure location. Credit Report information will be kept on our servers in encrypted format for a maximum of 45 days. Other consumer data (such as name, address, etc.) will be kept on an industry standard computer database fully protected behind a firewall. 
@@ -85,6 +85,11 @@ Our Commitment to Children's Privacy: Protecting the privacy of children is espe
 Our Site provides users the opportunity to opt-out of receiving communications from affiliates or non-affiliated third parties at the point where we request information about the visitor. The benefits of remaining on our mailing list include e-mail notification about enhanced service or product offerings that we believe may be of interest to you. This Site gives registered users the following option for removing their information from our e-mail database to not receive future offers and communications via e-mail, direct mail or telemarketing. You can send e-mail to 
 
 [Customer.Relations@valero.com](mailto:Customer.Relations@valero.com?Subject=Privacy%20Policy). 
+
+**Safe Harbor Certification  
+** With respect to the personal data it receives from countries European Union, Valero has certified its adherence to the US-EU Safe Harbor Principles.  You can find Valero's Safe Harbor certification at [](http://www.export.gov/safeharbor/)<https://safeharbor.export.gov/list.aspx> .  For more information about these Safe Harbor Principles, please visit the U.S. Department of Commerce's website at [](http://www.export.gov/safeharbor/)
+
+[http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
 **Contacting the Web Site**   
 If you have any questions, concerns, or comments about this privacy statement, the practices of this Site, or your dealings with this Site, you can contact: 
