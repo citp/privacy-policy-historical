@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titist.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122147id_/http%3A//www.titist.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titist.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101003805id_/http%3A//www.titist.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Find Your Degree
 
