@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143625id_/http%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231145603id_/http%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Lawyer.com
 
@@ -22,7 +22,7 @@ Registered Users are users that sign up for an account at our Website for the pu
 
 If you register with us, we will collect personal information from you that you enter into our forms in addition to the non-personal information described above that we collect from unregistered users. Such personal information will include information about you or about other profiles that you manage on behalf of other lawyers and will include information such as name, email address, mailing address, telephone number, practice specialties, and other information about you and/or your law firm, username and password, and contact information. The information we collect may vary. We may store all or some of this information such as your login user name in a cookie file on your hard drive so that our system will recognize you each time you visit our Website. In that way, we can save your preferences between visits and present you with a customized Website each time you visit.
 
-If you enter credit card information we will use a secure connection to retrieve this information and pass it on to our authorized secure payment processor. We do not store your credit card number. We do provide you with information on the name of the payment processor prior to you providing us with payment information.
+If you enter credit card information into our secure payment page we will use a secure connection to retrieve this information and pass it on to our authorized secure payment processor. We do not store your credit card number unless you provide your billing information to us outside of our secure payment page. We do provide you with information on the name of the payment processor prior to you providing us with payment information.
 
 If you reach our Website through one of our partners and you choose to register with us, we may be required to give our partner your registration information.
 
