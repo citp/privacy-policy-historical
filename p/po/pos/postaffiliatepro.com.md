@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523033013id_/http%3A//www.qualityunit.com/about-us/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postaffiliatepro.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231075346id_/http%3A//www.qualityunit.com/company/privacy-policy-quality-unit) for the most accurate reproduction.*
 
-# Privacy Policy - About Us
+# Privacy Policy - Company
 
 This is the privacy policy for Quality Unit. Our homepage on the Web is located at [http://www.qualityunit.com](http://www.qualityunit.com/ "QualityUnit homepage").  
 If you have any questions about this policy, please contact us. 
