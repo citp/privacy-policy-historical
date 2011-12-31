@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113183052id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112525id_/http%3A//www.thesecret.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Official Web Site of The Secret and The Power
 
