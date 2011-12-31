@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623124447id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worstpreviews.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205607id_/http%3A//www.worstpreviews.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | WorstPreviews.com
 
@@ -18,7 +18,7 @@ Children
 
 WorstPreviews.com is not directed to children under the age of 13. WorstPreviews.com will not knowingly collect personally identifiable information from anyone under 13.
 
-**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20110623124447id_/http%3A//www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
+**NOTE TO PARENTS:** If you have any concerns about WorstPreview.com or the services we offer, please contact us via our online form available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20111231205607id_/http%3A//www.worstpreviews.com/contact_us.php). WorstPreviews.com encourages parents to spend time online with their children. We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
 
 Information Collection, Storage and Use
 
@@ -70,7 +70,7 @@ Notwithstanding these security measures, please be aware that when you submit Pe
 
 Accessing, Correcting and Updating Your Information
 
-If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20110623124447id_/http%3A//www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
+If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at [http://www.worstpreviews.com/contact_us.php](https://web.archive.org/web/20111231205607id_/http%3A//www.worstpreviews.com/contact_us.php) or email us at: [support@worstpreviews.com](mailto:support@worstpreviews.com).
 
 **Newsletters.** You may unsubscribe to email newsletters by following the instructions at the bottom of each newsletter.
 
