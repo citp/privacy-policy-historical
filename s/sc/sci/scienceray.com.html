@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scienceray.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scienceray.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231223302id_/http%3A//scienceray.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -44,6 +44,47 @@ img, .logo, .featured-tag,  { behavior: url(http://scienceray.com/wp-content/the
 <meta property="og:site_name" content="Scienceray">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://scienceray.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
 <script type="text/javascript" src="http://scienceray.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
@@ -53,7 +94,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://scienceray.com/wp-content/themes/scienceray/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://scienceray.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -62,6 +103,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -123,7 +211,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://scienceray.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -139,6 +227,9 @@ function showTriondSignupForm()
 <meta name="google-site-verification" content="z8dY0UOYabGbVgj0_NAJUqz_Ww-lo54nPygKbl_MHjE">
 </head>
 <body>
+ 
+		<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+ 
 <div id="wrapper-main">
 <div id="container-main">
 <!-- /// TOP PANEL DROP DOWN SEARCH /// -->
@@ -148,23 +239,30 @@ function showTriondSignupForm()
 
 <div id="ad728">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=634");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=634&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=22582834505&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3572bc&amp;cb=69a068981efeb58eb48b2906e989f73b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=634&amp;cb=69a068981efeb58eb48b2906e989f73b&amp;n=3572bc' border='0' alt='' /></a></noscript></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=634");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=634&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=5626542790&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=8b134b&amp;cb=f0166e85d5d0d006d3da52fbf553b36b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=634&amp;cb=f0166e85d5d0d006d3da52fbf553b36b&amp;n=8b134b' border='0' alt='' /></a></noscript></div>
 
 <div class="logo"><a href="http://scienceray.com"><img src="http://scienceray.com/wp-content/themes/scienceray/images/logo.png" width="174" height="54" alt=""></a></div>
 
@@ -219,7 +317,49 @@ function showTriondSignupForm()
 <p>Scienceray is committed to handling your personal information with the highest standards of security information. Scienceray shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Scienceray, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@scienceray.com .</p>
-	
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>	
  
 </div><!-- end .single-post-content -->
 </div><!-- end .single-post-block -->
@@ -246,23 +386,30 @@ function showTriondSignupForm()
 </div>
 <div id="ad300">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=633");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=633&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=84366114269&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=835f8f&amp;cb=5c005888cb2448f2d4fda548283dd21c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=633&amp;cb=5c005888cb2448f2d4fda548283dd21c&amp;n=835f8f' border='0' alt='' /></a></noscript></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=633");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=633&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=2158255692&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7c33ad&amp;cb=0e3891ad593d79aeff4fb88fbe5681e2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=633&amp;cb=0e3891ad593d79aeff4fb88fbe5681e2&amp;n=7c33ad' border='0' alt='' /></a></noscript></div>
 
 
 <div class="sidebar-widget">
@@ -285,42 +432,56 @@ function showTriondSignupForm()
 <div id="ad160Wrapper">
 	<div id="ad160-1">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=817");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=817&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=74296893109&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=6109f3&amp;cb=fe1f4742fcc83e2054f1c027ca4361c9' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=817&amp;cb=fe1f4742fcc83e2054f1c027ca4361c9&amp;n=6109f3' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=817");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=817&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=34429770905&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4b81b9&amp;cb=04c2853d9a75a2d97c4c6f71519718a3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=817&amp;cb=04c2853d9a75a2d97c4c6f71519718a3&amp;n=4b81b9' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad160-2">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=632");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=632&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=14521768784&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=aa9834&amp;cb=25eda41a75fe36fb7acd0d731730fc90' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=632&amp;cb=25eda41a75fe36fb7acd0d731730fc90&amp;n=aa9834' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=632");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=632&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=92774780440&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c7f213&amp;cb=543ffa6ef34bba5e2b30a5f616fc8ea3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=632&amp;cb=543ffa6ef34bba5e2b30a5f616fc8ea3&amp;n=c7f213' border='0' alt='' /></a></noscript>	</div>
 	<div class="clear"></div>
 </div>
 
@@ -328,31 +489,35 @@ function showTriondSignupForm()
 <div class="sidebar-widget">
 <div class="sidebar-title-two">Popular Articles</div>
 <ul>
-<li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/lungs-stem-cells-may-be-life-of-emphysema-and-other-diseases-for-lungs-patient/" title="Lungs Stem Cells May be Life of  Emphysema and Other Diseases for Lungs Patient"><img src="http://s3.amazonaws.com/readers/healthmad/2008/11/25/483807.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/lungs-stem-cells-may-be-life-of-emphysema-and-other-diseases-for-lungs-patient/" title="Lungs Stem Cells May be Life of  Emphysema and Other Diseases for Lungs Patient">Lungs Stem Cells May be Life of  Emphysema and Other Diseases for Lungs Patient</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/engineering/interesting-facts-of-the-potato/" title="Interesting Facts of The Potato"><img src="http://s3.amazonaws.com/readers/notecook/2008/04/17/145855.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/engineering/interesting-facts-of-the-potato/" title="Interesting Facts of The Potato">Interesting Facts of The Potato</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/astronomy/aliens-on-earth-seven-places-where-extraterrestrial-species-could-exist/" title="Aliens on Earth: Seven Places Where Extraterrestrial Species Could Exist"><img src="http://s3.amazonaws.com/readers/socyberty/2008/04/07/139981.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/astronomy/aliens-on-earth-seven-places-where-extraterrestrial-species-could-exist/" title="Aliens on Earth: Seven Places Where Extraterrestrial Species Could Exist">Aliens on Earth: Seven Places Where Extraterrestrial Species Could Exist</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/most-harmful-insects/" title="Most Harmful Insects"><img src="http://s3.amazonaws.com/readers/gomestic/2008/02/14/113308.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/most-harmful-insects/" title="Most Harmful Insects">Most Harmful Insects</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/botany/titan-penis-the-biggest-flower-in-the-world/" title="Titan Penis The Biggest Flower in The World"><img src="http://s3.amazonaws.com/readers/authspot/2008/09/28/358691.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/botany/titan-penis-the-biggest-flower-in-the-world/" title="Titan Penis The Biggest Flower in The World">Titan Penis The Biggest Flower in The World</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/earth-sciences/may-21st-2011-doomsday-is-the-world-going-to-end/" title="May 21st, 2011 Doomsday - is The World Going to End?"><img src="http://s3.amazonaws.com/readers/socyberty/2009/05/21/972185.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/earth-sciences/may-21st-2011-doomsday-is-the-world-going-to-end/" title="May 21st, 2011 Doomsday - is The World Going to End?">May 21st, 2011 Doomsday - is The World Going to End?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/zoology/five-poisonous-and-toxic-birds/" title="Five Poisonous and Toxic Birds"><img src="http://s3.amazonaws.com/readers/gomestic/2009/06/08/1032187.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/zoology/five-poisonous-and-toxic-birds/" title="Five Poisonous and Toxic Birds">Five Poisonous and Toxic Birds</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/africas-most-fearful/" title="Africa's Most Fearful"><img src="http://s3.amazonaws.com/readers/scienceray/2009/03/16/803001.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/africas-most-fearful/" title="Africa's Most Fearful">Africa's Most Fearful</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/10-largest-insects-in-the-world/" title="10 Largest Insects in The World"><img src="http://s3.amazonaws.com/readers/scienceray/2008/04/29/134156.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/10-largest-insects-in-the-world/" title="10 Largest Insects in The World">10 Largest Insects in The World</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/where-do-bees-go-in-winter/" title="Where Do Bees Go in Winter?"><img src="http://s3.amazonaws.com/readers/gomestic/2008/06/16/182923.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/where-do-bees-go-in-winter/" title="Where Do Bees Go in Winter?">Where Do Bees Go in Winter?</a></div><div style="clear:both;"></div></li></ul>
+<li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/the-word-human-might-become-an-empty-obsolete-expression/" title="The Word &amp;Ldquo;human” Might Become an Empty Obsolete Expression"><img src="http://s3.amazonaws.com/readers/healthmad/2007/07/22/43701.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/the-word-human-might-become-an-empty-obsolete-expression/" title="The Word &amp;Ldquo;human” Might Become an Empty Obsolete Expression">The Word &amp;Ldquo;human” Might Become an Empty Obsolete Expression</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/astronomy/nasa-discovers-earthlike-planet/" title="Nasa Discovers Earthlike Planet"><img src="http://s3.amazonaws.com/readers/scienceray/2008/04/28/438.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/astronomy/nasa-discovers-earthlike-planet/" title="Nasa Discovers Earthlike Planet">Nasa Discovers Earthlike Planet</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/why-solar-energy-is-an-ideal-choice-for-universal-exploitation/" title="Why Solar Energy is an Ideal Choice for Universal Exploitation"><img src="http://s3.amazonaws.com/readers/authspot/2008/05/17/164304.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/why-solar-energy-is-an-ideal-choice-for-universal-exploitation/" title="Why Solar Energy is an Ideal Choice for Universal Exploitation">Why Solar Energy is an Ideal Choice for Universal Exploitation</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/astronomy/all-about-the-planets/" title="All About The Planets"><img src="http://s3.amazonaws.com/readers/scienceray/2008/04/28/13410.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/astronomy/all-about-the-planets/" title="All About The Planets">All About The Planets</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/cars-changing-technology/" title="Cars Changing Technology!"><img src="http://s3.amazonaws.com/readers/authspot/2009/06/20/1081073.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/cars-changing-technology/" title="Cars Changing Technology!">Cars Changing Technology!</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/engineering/watch-nat-geo-adv/" title="Watch Nat Geo Adv"><img src="http://s3.amazonaws.com/readers/relijournal/2008/04/22/148794.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/engineering/watch-nat-geo-adv/" title="Watch Nat Geo Adv">Watch Nat Geo Adv</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/philosophy-of-science/sightings-of-orang-pendek-evidence-of-an-undiscovered-human-species/" title="Sightings of Orang Pendek:  Evidence of an Undiscovered Human Species?"><img src="http://s3.amazonaws.com/readers/scienceray/2009/05/25/979259.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/philosophy-of-science/sightings-of-orang-pendek-evidence-of-an-undiscovered-human-species/" title="Sightings of Orang Pendek:  Evidence of an Undiscovered Human Species?">Sightings of Orang Pendek:  Evidence of an Undiscovered Human Species?</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/biology/robber-flies/" title="Robber Flies"><img src="http://s3.amazonaws.com/readers/authspot/2007/09/03/55159.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/biology/robber-flies/" title="Robber Flies">Robber Flies</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/space-junk/" title="Space Junk"><img src="http://s3.amazonaws.com/readers/scienceray/2008/04/28/13410.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/space-junk/" title="Space Junk">Space Junk</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://scienceray.com/technology/new-years-2012-fireworks-safety/" title="New Years 2012 Fireworks Safety"><img src="http://s3.amazonaws.com/readers/gomestic/2008/07/02/202839.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://scienceray.com/technology/new-years-2012-fireworks-safety/" title="New Years 2012 Fireworks Safety">New Years 2012 Fireworks Safety</a></div><div style="clear:both;"></div></li></ul>
 </div>
 
-
-	<div class="sidebar-widget">				
-		<div class="sidebar-title-two">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '270';
-		playerSeed.height = '225';
-		playerSeed.videoControlDisplayColor = '#F3EFE8';
-		playerSeed.featured = true;
-		playerSeed.categories = '195,197';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</div>
-
-
-
+<div class="sidebar-widget">
+	
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1392");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1392&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=15492541264&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=fea402&amp;cb=c7c15a0602da54a38b92690cf190d74a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1392&amp;cb=c7c15a0602da54a38b92690cf190d74a&amp;n=fea402' border='0' alt='' /></a></noscript></div>
 
 <div class="sidebar-widget">
 <div class="sidebar-title-two">Categories</div>
@@ -378,11 +543,10 @@ function showTriondSignupForm()
 
 
 
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -396,57 +560,6 @@ function showTriondSignupForm()
 	<iframe src="http://www.facebook.com/plugins/activity.php?site=scienceray.com&amp;width=270&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:300px;" allowtransparency="true"></iframe>
 </div>
 
-
-
-<div class="sidebar-widget">
-<div class="sidebar-title-two">Tag Cloud</div>
-<ul>
-<a href="http://scienceray.com/tag/africa/" class="tag-link-3059" title="224 topics" rel="tag" style="font-size: 8.3873873873874pt;">Africa</a>
-<a href="http://scienceray.com/tag/animal/" class="tag-link-8131" title="324 topics" rel="tag" style="font-size: 9.2882882882883pt;">animal</a>
-<a href="http://scienceray.com/tag/animals/" class="tag-link-4199" title="624 topics" rel="tag" style="font-size: 11.990990990991pt;">animals</a>
-<a href="http://scienceray.com/tag/astronomy/" class="tag-link-24455" title="412 topics" rel="tag" style="font-size: 10.081081081081pt;">Astronomy</a>
-<a href="http://scienceray.com/tag/australia/" class="tag-link-1565" title="181 topics" rel="tag" style="font-size: 8pt;">Australia</a>
-<a href="http://scienceray.com/tag/biology/" class="tag-link-73789" title="543 topics" rel="tag" style="font-size: 11.261261261261pt;">Biology</a>
-<a href="http://scienceray.com/tag/bird/" class="tag-link-46961" title="264 topics" rel="tag" style="font-size: 8.7477477477477pt;">bird</a>
-<a href="http://scienceray.com/tag/birds/" class="tag-link-26673" title="183 topics" rel="tag" style="font-size: 8.018018018018pt;">birds</a>
-<a href="http://scienceray.com/tag/chemistry/" class="tag-link-25269" title="354 topics" rel="tag" style="font-size: 9.5585585585586pt;">Chemistry</a>
-<a href="http://scienceray.com/tag/dna/" class="tag-link-67059" title="311 topics" rel="tag" style="font-size: 9.1711711711712pt;">DNA</a>
-<a href="http://scienceray.com/tag/earth/" class="tag-link-3655" title="1,401 topics" rel="tag" style="font-size: 18.990990990991pt;">earth</a>
-<a href="http://scienceray.com/tag/earthquake/" class="tag-link-77115" title="417 topics" rel="tag" style="font-size: 10.126126126126pt;">Earthquake</a>
-<a href="http://scienceray.com/tag/energy/" class="tag-link-12581" title="391 topics" rel="tag" style="font-size: 9.8918918918919pt;">energy</a>
-<a href="http://scienceray.com/tag/environment/" class="tag-link-5489" title="352 topics" rel="tag" style="font-size: 9.5405405405405pt;">environment</a>
-<a href="http://scienceray.com/tag/evolution/" class="tag-link-11895" title="244 topics" rel="tag" style="font-size: 8.5675675675676pt;">Evolution</a>
-<a href="http://scienceray.com/tag/family/" class="tag-link-1449" title="187 topics" rel="tag" style="font-size: 8.0540540540541pt;">family</a>
-<a href="http://scienceray.com/tag/fish/" class="tag-link-26727" title="341 topics" rel="tag" style="font-size: 9.4414414414414pt;">fish</a>
-<a href="http://scienceray.com/tag/global-warming/" class="tag-link-28193" title="198 topics" rel="tag" style="font-size: 8.1531531531532pt;">Global warming</a>
-<a href="http://scienceray.com/tag/health/" class="tag-link-5597" title="219 topics" rel="tag" style="font-size: 8.3423423423423pt;">health</a>
-<a href="http://scienceray.com/tag/human/" class="tag-link-3235" title="276 topics" rel="tag" style="font-size: 8.8558558558559pt;">human</a>
-<a href="http://scienceray.com/tag/japan/" class="tag-link-2693" title="550 topics" rel="tag" style="font-size: 11.324324324324pt;">Japan</a>
-<a href="http://scienceray.com/tag/jupiter/" class="tag-link-72387" title="201 topics" rel="tag" style="font-size: 8.1801801801802pt;">Jupiter</a>
-<a href="http://scienceray.com/tag/life/" class="tag-link-1267" title="452 topics" rel="tag" style="font-size: 10.441441441441pt;">Life</a>
-<a href="http://scienceray.com/tag/mars/" class="tag-link-34265" title="308 topics" rel="tag" style="font-size: 9.1441441441441pt;">Mars</a>
-<a href="http://scienceray.com/tag/math/" class="tag-link-29503" title="350 topics" rel="tag" style="font-size: 9.5225225225225pt;">Math</a>
-<a href="http://scienceray.com/tag/milky-way/" class="tag-link-34269" title="213 topics" rel="tag" style="font-size: 8.2882882882883pt;">milky way</a>
-<a href="http://scienceray.com/tag/moon/" class="tag-link-4917" title="416 topics" rel="tag" style="font-size: 10.117117117117pt;">Moon</a>
-<a href="http://scienceray.com/tag/nasa/" class="tag-link-35877" title="716 topics" rel="tag" style="font-size: 12.81981981982pt;">Nasa</a>
-<a href="http://scienceray.com/tag/nature/" class="tag-link-583" title="439 topics" rel="tag" style="font-size: 10.324324324324pt;">nature</a>
-<a href="http://scienceray.com/tag/nuclear-power/" class="tag-link-91339" title="206 topics" rel="tag" style="font-size: 8.2252252252252pt;">nuclear power</a>
-<a href="http://scienceray.com/tag/physics/" class="tag-link-3055" title="407 topics" rel="tag" style="font-size: 10.036036036036pt;">Physics</a>
-<a href="http://scienceray.com/tag/planet/" class="tag-link-6467" title="390 topics" rel="tag" style="font-size: 9.8828828828829pt;">Planet</a>
-<a href="http://scienceray.com/tag/plants/" class="tag-link-26043" title="201 topics" rel="tag" style="font-size: 8.1801801801802pt;">plants</a>
-<a href="http://scienceray.com/tag/science/" class="tag-link-781" title="1,735 topics" rel="tag" style="font-size: 22pt;">science</a>
-<a href="http://scienceray.com/tag/solar-system/" class="tag-link-160723" title="419 topics" rel="tag" style="font-size: 10.144144144144pt;">Solar System</a>
-<a href="http://scienceray.com/tag/space/" class="tag-link-2603" title="464 topics" rel="tag" style="font-size: 10.54954954955pt;">space</a>
-<a href="http://scienceray.com/tag/species/" class="tag-link-38417" title="254 topics" rel="tag" style="font-size: 8.6576576576577pt;">species</a>
-<a href="http://scienceray.com/tag/sun/" class="tag-link-9519" title="488 topics" rel="tag" style="font-size: 10.765765765766pt;">sun</a>
-<a href="http://scienceray.com/tag/technology/" class="tag-link-6759" title="424 topics" rel="tag" style="font-size: 10.189189189189pt;">Technology</a>
-<a href="http://scienceray.com/tag/the/" class="tag-link-1905" title="319 topics" rel="tag" style="font-size: 9.2432432432432pt;">the</a>
-<a href="http://scienceray.com/tag/tsunami/" class="tag-link-911" title="233 topics" rel="tag" style="font-size: 8.4684684684685pt;">Tsunami</a>
-<a href="http://scienceray.com/tag/united-states/" class="tag-link-25517" title="470 topics" rel="tag" style="font-size: 10.603603603604pt;">United States</a>
-<a href="http://scienceray.com/tag/universe/" class="tag-link-23407" title="282 topics" rel="tag" style="font-size: 8.9099099099099pt;">universe</a>
-<a href="http://scienceray.com/tag/volcano/" class="tag-link-3489" title="182 topics" rel="tag" style="font-size: 8.009009009009pt;">volcano</a>
-<a href="http://scienceray.com/tag/water/" class="tag-link-3745" title="473 topics" rel="tag" style="font-size: 10.630630630631pt;">water</a></ul>
-</div>
 
 
 
@@ -464,7 +577,7 @@ function showTriondSignupForm()
 <div class="bottomblock-header">Popular Articles</div>
 <ul>
 
-<li><a href="http://scienceray.com/biology/lungs-stem-cells-may-be-life-of-emphysema-and-other-diseases-for-lungs-patient/" title="Lungs Stem Cells May be Life of  Emphysema and Other Diseases for Lungs Patient"> Lungs Stem Cells May be Life of  Emphysema and Other Diseases for Lungs Patient</a></li><li><a href="http://scienceray.com/technology/engineering/interesting-facts-of-the-potato/" title="Interesting Facts of The Potato"> Interesting Facts of The Potato</a></li><li><a href="http://scienceray.com/astronomy/aliens-on-earth-seven-places-where-extraterrestrial-species-could-exist/" title="Aliens on Earth: Seven Places Where Extraterrestrial Species Could Exist"> Aliens on Earth: Seven Places Where Extraterrestrial Species Could Exist</a></li><li><a href="http://scienceray.com/biology/most-harmful-insects/" title="Most Harmful Insects"> Most Harmful Insects</a></li><li><a href="http://scienceray.com/biology/botany/titan-penis-the-biggest-flower-in-the-world/" title="Titan Penis The Biggest Flower in The World"> Titan Penis The Biggest Flower in The World</a></li><li><a href="http://scienceray.com/earth-sciences/may-21st-2011-doomsday-is-the-world-going-to-end/" title="May 21st, 2011 Doomsday - is The World Going to End?"> May 21st, 2011 Doomsday - is The World Going to End?</a></li><li><a href="http://scienceray.com/biology/zoology/five-poisonous-and-toxic-birds/" title="Five Poisonous and Toxic Birds"> Five Poisonous and Toxic Birds</a></li><li><a href="http://scienceray.com/biology/africas-most-fearful/" title="Africa's Most Fearful"> Africa's Most Fearful</a></li>
+<li><a href="http://scienceray.com/technology/the-word-human-might-become-an-empty-obsolete-expression/" title="The Word &amp;Ldquo;human” Might Become an Empty Obsolete Expression"> The Word &amp;Ldquo;human” Might Become an Empty Obsolete Expression</a></li><li><a href="http://scienceray.com/astronomy/nasa-discovers-earthlike-planet/" title="Nasa Discovers Earthlike Planet"> Nasa Discovers Earthlike Planet</a></li><li><a href="http://scienceray.com/technology/why-solar-energy-is-an-ideal-choice-for-universal-exploitation/" title="Why Solar Energy is an Ideal Choice for Universal Exploitation"> Why Solar Energy is an Ideal Choice for Universal Exploitation</a></li><li><a href="http://scienceray.com/astronomy/all-about-the-planets/" title="All About The Planets"> All About The Planets</a></li><li><a href="http://scienceray.com/technology/cars-changing-technology/" title="Cars Changing Technology!"> Cars Changing Technology!</a></li><li><a href="http://scienceray.com/technology/engineering/watch-nat-geo-adv/" title="Watch Nat Geo Adv"> Watch Nat Geo Adv</a></li><li><a href="http://scienceray.com/philosophy-of-science/sightings-of-orang-pendek-evidence-of-an-undiscovered-human-species/" title="Sightings of Orang Pendek:  Evidence of an Undiscovered Human Species?"> Sightings of Orang Pendek:  Evidence of an Undiscovered Human Species?</a></li><li><a href="http://scienceray.com/biology/robber-flies/" title="Robber Flies"> Robber Flies</a></li>
 
 </ul>
 </li>
@@ -474,26 +587,19 @@ function showTriondSignupForm()
 <div class="bottomblock-header">Recent Articles</div>
 <ul>
 
-	<li><a href="http://scienceray.com/mathematics/list-of-prime-numbers/" title="List of Prime Numbers">List of Prime Numbers</a></li>
-	<li><a href="http://scienceray.com/biology/ecology/five-reasons-for-air-duct-cleaning/" title="Five Reasons for Air Duct Cleaning">Five Reasons for Air Duct Cleaning</a></li>
-	<li><a href="http://scienceray.com/technology/the-electric-car-you-never-hear-about/" title="The Electric Car You Never Hear About">The Electric Car You Never Hear About</a></li>
-	<li><a href="http://scienceray.com/physics/five-weirdest-things-in-the-universe/" title="Five Weirdest Things in The Universe">Five Weirdest Things in The Universe</a></li>
-	<li><a href="http://scienceray.com/biology/the-beginnings-of-transfusion/" title="The Beginnings of Transfusion">The Beginnings of Transfusion</a></li>
-	<li><a href="http://scienceray.com/astronomy/new-survey-suggests-there-may-be-more-planets-than-stars/" title="New Survey Suggests There May be More Planets Than Stars">New Survey Suggests There May be More Planets Than Stars</a></li>
-	<li><a href="http://scienceray.com/technology/staff-of-russia-u-s-missile-shield-real-threat-to-russia/" title="Staff of Russia: U.s. Missile Shield, Real Threat to Russia">Staff of Russia: U.s. Missile Shield, Real Threat to Russia</a></li>
-	<li><a href="http://scienceray.com/technology/nasa-says-it-does-not-end-the-world-in-2012-comes/" title="Nasa Says It Does Not End The World in 2012 Comes">Nasa Says It Does Not End The World in 2012 Comes</a></li>
+	<li><a href="http://scienceray.com/biology/ecology/radon-gas/" title="Radon Gas">Radon Gas</a></li>
+	<li><a href="http://scienceray.com/astronomy/nasa-explore-the-unknown-of-the-moon/" title="“Nasa Explore The Unknown of The Moon">“Nasa Explore The Unknown of The Moon</a></li>
+	<li><a href="http://scienceray.com/mathematics/geometry/algebra-topic/" title="Algebra Topic">Algebra Topic</a></li>
+	<li><a href="http://scienceray.com/mathematics/algebra/algebra-one-tips/" title="Algebra One Tips">Algebra One Tips</a></li>
+	<li><a href="http://scienceray.com/biology/tian-tian-one-of-the-bbcs-12-female-faces-of-2011/" title="Tian Tian: One of The Bbc’s 12 Female Faces of 2011">Tian Tian: One of The Bbc’s 12 Female Faces of 2011</a></li>
+	<li><a href="http://scienceray.com/technology/detecting-zero-point-energy/" title="Detecting Zero Point Energy">Detecting Zero Point Energy</a></li>
+	<li><a href="http://scienceray.com/philosophy-of-science/the-date-night-is-not-optional/" title="The Date Night is – Not Optional">The Date Night is – Not Optional</a></li>
+	<li><a href="http://scienceray.com/philosophy-of-science/mystery-of-the-manuscripts-of-the-prophet-solved-2/" title="Mystery of “The Manuscripts of The Prophet” Solved">Mystery of “The Manuscripts of The Prophet” Solved</a></li>
 
 </ul>
 </li>
 
-<li class="bottom-block-box">
 
-<div class="bottomblock-header">Recent Comments</div>
-<ul>
-
-<li><strong>jthrine:</strong> <a href="http://scienceray.com/biology/botany/worlds-largest-organisms/#comment-205632" title="View the entire comment by jthrine">@ pguims: haha..tnx..mahirap nga tlaga..pero</a></li><li><strong>Likha:</strong> <a href="http://scienceray.com/biology/amazing-animals-11-creatures-that-use-gadgets/#comment-205630" title="View the entire comment by Likha">You always come up with</a></li><li><strong>Jewels4461:</strong> <a href="http://scienceray.com/biology/botany/15-interesting-facts-about-plants/#comment-205628" title="View the entire comment by Jewels4461">I love to read about</a></li><li><strong>V Kumar:</strong> <a href="http://scienceray.com/biology/this-snake-kills-the-maximum-number-of-people-in-the-world/#comment-205626" title="View the entire comment by V Kumar">Very interesting article, and informative</a></li><li><strong>Ukrainian:</strong> <a href="http://scienceray.com/earth-sciences/meteorology/the-great-storm-of-1950/#comment-205624" title="View the entire comment by Ukrainian">Interesting read.</a></li>
-</ul>
-</li>
 
 </ul>
 <br class="clear">
@@ -521,7 +627,7 @@ Copyright © <a href="http://scienceray.com/">Scienceray</a> 2011. All Rights Re
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript> 
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1525&amp;rnd=2903699903"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=1525&amp;rnd=2066966423"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t28._setAccount', 'UA-1488967-28']);_gaq.push(['t28._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -552,45 +658,60 @@ var _sf_async_config={uid:6902};
  
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1364");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1364&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=6250516100&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=496969&amp;cb=57e17f558be022eb0a1779dfd1d4e40d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1364&amp;cb=57e17f558be022eb0a1779dfd1d4e40d&amp;n=496969' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1364");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1364&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=66449863781&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=843752&amp;cb=63b5fe05ced75f44c3115b0e433b885d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1364&amp;cb=63b5fe05ced75f44c3115b0e433b885d&amp;n=843752' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1084");
+					   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1084&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=nontriond&amp;cb=1547748156&amp;loc=https%3A//web.archive.org/web/20111231223302id_/http%253A//scienceray.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=216c10&amp;cb=dd610eb3d106a35dda89d4a82447723b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1084&amp;cb=dd610eb3d106a35dda89d4a82447723b&amp;n=216c10' border='0' alt='' /></a></noscript>	</div>
+<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1084");
-   document.write ("&clr_link=7FAB00&clr_title=7FAB00&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=413627&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1084&amp;clr_link=7FAB00&amp;clr_title=7FAB00&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=413627&amp;source=acf=&amp;cb=64267809805&amp;loc=https%3A//web.archive.org/web/20110521003319id_/http%3A//scienceray.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3d1592&amp;cb=30c2f2eb69d3ff7e3deffc8dc99a6b25' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1084&amp;cb=30c2f2eb69d3ff7e3deffc8dc99a6b25&amp;n=3d1592' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=017&amp;c=927235&amp;ctg=science&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <!-- Wibiya start
 <script type="text/javascript" src="http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=580&nc=0&pl=1"></script>
  Wibiya end -->
