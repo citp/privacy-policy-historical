@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617060100id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesupply.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213503id_/http%3A//www.storesupply.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # 
 
