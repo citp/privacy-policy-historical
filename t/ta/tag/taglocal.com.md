@@ -1,39 +1,45 @@
-> *The following text is extracted and transformed from the taglocal.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619201931id_/http%3A//www.taglocal.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taglocal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231031248id_/http%3A//www.taglocal.com/privacy.html) for the most accurate reproduction.*
 
-# taglocal.com | Privacy Policy
+# TagLocal.com | Privacy Policy
 
-#### Privacy Statement - July 1, 2009
+The protection of your privacy is extremely important to us at {SITE_SHORT_TITLE. We want you to get the information you need, but without costing your privacy. By using Tag Local, you agree to the terms and conditions listed on this privacy policy. If you cannot comply with these terms, please do not use Tag Local.
 
-#### General.
+#### PERSONAL INFORMATION COLLECTED
 
-The following Privacy Statement (the "Statement") supplements the [Terms of Use](https://web.archive.org/page/termsofuse) posted elsewhere on TagLocal.com. You should read the Statement and the Terms of Use before you use TagLocal.com. By using TagLocal.com, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time without notice by posting revisions to TagLocal.com. Your continued use of the site constitutes your acceptance of the revised Statement. If you do not accept all of the terms and conditions set forth in the Statement, you must exit TAGLOCAL.COM immediately.
+Any information that you post on Tag Local may be shown on the site. Tag Local may log your submissions for our marketing and site improvement purposes. However, your personal information will never be used other than the user intended purpose.
 
-#### No Use by Children.
+We love to hear from our users! Any feedback that you leave for Tag Local will be recorded to help us improve the site. This includes your submission and the personal information you include with it. This allows us to track our feedback efficiently and quickly.
 
-TagLocal.com is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger). Children should not use TagLocal.com or submit any information to Operator.
+Tag Local wants the user to get everything they need from Tag Local. Because of this, we have created a login system that will feature your name and email. Once you create a login with Tag Local, you will have a more personalized viewing experience. Creating a login with Tag Local improves our customer service and creates content that is better suited for our users needs.
 
-#### What Information is Collected.
+When you browse Tag Local, we take note of your browser type, IP address, searches, timestamp information and the pages you view. This information is used to better curate content that our users will enjoy and to personalize each visit.
 
-There are two (2) general types of information that can be collected as a result of your use of TagLocal.com: (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
+We utilize the use of cookies, so that we can create a site that is personalized for each user. Cookies are used to better enhance the site experience. Cookies are small pieces of data that are sent to your hard drive from your browser that store pieces of information. When cookies are enabled, we are automatically able to collect information. For example, you will not have to reenter your site preferences each time you visit Tag Local. You may decide to disable your use of cookies on your browser, but this will hinder your use of Tag Local.
 
-#### Personally Identifiable Information.
+#### PROTECTION OF INFORMATION
 
-Certain features available at TagLocal.com will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features may be offered by Operator, while others may be offered by third parties. (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at TagLocal.com.
+We take your privacy very seriously at Tag Local. We have taken strong measures to keep your personal information safe.
 
-IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF TAGLOCAL.COM FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST.
+We will never sell, lease, rent or trade your information to outside parties. We will show advertisements from third parties that we are not affiliated with. These sites will redirect you to another website. When you are redirected from our website, we are no longer responsible for your privacy.
 
-In general, the use of Personal Information you choose to submit to a third party in connection with your use of TagLocal.com will be controlled by the privacy practices of the third party and not this Statement. 
+Tag Local may transfer non-personally identifiable information to our current our future affiliates. These affiliates may include: our parent company, joint ventures, subsidiaries, or companies under common control. These companies are required to honor our privacy policy and will never have access to your personal information.
 
-#### Aggregate Information/Cookies.
+Tag Local reserves the right to hire a third party company to acquire statistical information on our site. This information will never be personally identifiable and will include information such as how many people clicked on a certain displayed advertisement and how many daily users visit Tag Local.
 
-Operator and third parties with features at TagLocal.com may collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, TagLocal.com likely will not operate as efficiently for you. 
+Your personal information will only be shared if need to do so for legal reasons including: subpoenas, court orders, warrants or to protect the safety of our users, ourselves or the public.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+#### CALIFORNIA ONLINE PRIVACY PROTECTION ACT
 
-#### Ownership and Use of Information.
+Identity theft should be taken very seriously. Tag Local wants to do our part in combating identity theft. Therefore, we have taken the steps to comply with the California Online Privacy Protect Act. Your information will never be given to a third party without your consent.
 
-ANY INFORMATION COLLECTED BY OPERATOR IN CONNECTION WITH YOUR USE OF TagLocal.com - REGARDLESS OF WHETHER CHARACTERIZED AS PERSONAL INFORMATION OR AGGREGATE - SHALL BELONG EXCLUSIVELY TO OPERATOR AND MAY BE USED, MAINTAINED, UPDATED, DISCLOSED OR SOLD BY OPERATOR AS DESIRED IN ITS SOLE DISCRETION.
+#### CHILDREN’S ONLINE PRIVACY PROTECTION ACT
 
-#### Contact Information.
+Tag Local strongly believes that children should be safe when browsing the Internet. Because of this, we will not collect any information from children under the age of 13. If you are under the age of 13 and wish to use Tag Local, please consult a parent or guardian.
 
-Questions concerning TagLocal.com, should be directed to the [info@TagLocal.com](mailto:info@taglocal.com).
+#### CHANGES TO THE POLICY
+
+Tag Local reserves the right to make changes to the policy at any point. If we decide to do so, the changes will be posted on this page. If you have any questions regarding this policy, please contact us using our Contact Us form.
+
+#### UNSUBSCRIBE
+
+Your interaction with Tag Local is strictly optional. You may decide to opt out of communication by emails, notifications and mailings. If you want to unsubscribe from Tag Local, please visit our Unsubscribe page: [http://www.taglocal.com/unsubscribe/ ](http://www.taglocal.com/unsubscribe/)
