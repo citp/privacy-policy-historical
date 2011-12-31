@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424050516id_/http%3A//www.gamepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214455id_/http%3A//www.gamepost.com/privacy) for the most accurate reproduction.*
 
 # GamePost.com - Free Online Games - Play A Mini Game Now!
 
