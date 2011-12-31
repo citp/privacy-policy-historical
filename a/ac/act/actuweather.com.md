@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actuweather.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503061843id_/http%3A//www.miniweather.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actuweather.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095545id_/http%3A//www.miniweather.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - MiniWeather.com
 
