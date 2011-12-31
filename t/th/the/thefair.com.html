@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thefair.com privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606012710id_/http%3A//www.thefair.com/utility/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefair.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215242id_/http%3A//www.thefair.com/utility/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -96,8 +96,6 @@ Sign up today to get discounts, concert, event and activity information.</p>				
 						</div>
 					</form>
 				</div> <!-- end #newsletter -->
-				<div id="social">
-					<div class="socialLink facebook"><a href="http://www.facebook.com/pages/Puyallup-WA/Puyallup-Fair/7911932322" target="_blank"><span class="socialIcon"></span>Facebook</a></div><div class="socialLink blog"><a href="http://puyallupfair.blogspot.com/" target="_blank"><span class="socialIcon"></span>Blog</a></div><div class="socialLink twitter"><a href="http://twitter.com/PuyallupFair" target="_blank"><span class="socialIcon"></span>Twitter</a></div><div class="socialLink rss"><a href="/events-calendar/feed.xml" target="_blank"><span class="socialIcon"></span>RSS</a></div>				</div>
 			</div> <!-- end .sidebar -->
 			<div class="divider"><hr></div>
 		</div> <!-- end #main -->
@@ -166,7 +164,373 @@ Sign up today to get discounts, concert, event and activity information.</p>				
         </tr>
     </tbody>
 </table></div>
-		        					<script type="text/javascript" charset="utf-8">
+			        <script type="text/javascript">
+        $(document).ready(function() {
+            var fadeDuration = 200,
+                invisibleClass = 'invisible',
+                hideClass = 'hide',
+				mouse_is_inside = false;
+			
+			//detect if the mouse is over the social areas or not
+			$('#socialNav, .socialBox').hover(function() { 
+				mouse_is_inside = true; 
+			}, function() { 
+				mouse_is_inside = false; 
+			});
+
+            $('#socialNav a').click(function(e) {
+                e.preventDefault();
+
+                var tabClass = $(this).attr('class'),
+                    socialBox = $('.socialBox');
+
+                if (socialBox.is('.'+invisibleClass)) {
+                    //add page overlay
+                    if ($('.pageOverlay').length == 0)
+                        $('body > div:first').prepend('<div class="pageOverlay" style="height:' + $('body > div').height() + 'px;"></div>');
+
+                    socialBox
+                        .addClass(hideClass)
+                        .removeClass(invisibleClass)
+                        .css({'visibility':'visible','display':'none','top':'23px'});
+                }
+
+                if (socialBox.is('.'+invisibleClass+', .'+hideClass))
+                    $('.pageOverlay').fadeIn(fadeDuration);
+
+
+                //hide all other opened social boxes
+                socialBox.find('.contents').addClass(hideClass);
+
+                //fade out other social icons
+                $('#socialNav').addClass('faded');
+
+                //open selected social box
+                socialBox
+                    .find('.contents.'+tabClass)
+                        .removeClass(hideClass)
+                    .end()
+                    .fadeIn(fadeDuration, function() {
+                        $(this).removeClass(hideClass)
+                    });
+            });
+            $('.jsClose').click(function(e) {
+                e.preventDefault();
+
+                //remove page overlay
+                $('.pageOverlay').fadeOut(fadeDuration);
+
+                //fade in all social icons
+                $('#socialNav').removeClass('faded');
+
+                //hide the active social box
+                $(this).closest('.socialBox').fadeOut(fadeDuration, function(){
+                    $(this).add('.socialBox .contents').addClass(hideClass);
+                });
+            });
+			$('body').mouseup(function() { 
+				if (! mouse_is_inside) {
+					//remove page overlay
+					$('.pageOverlay').fadeOut(fadeDuration);
+	
+					//fade in all social icons
+					$('#socialNav').removeClass('faded');
+					
+					//hide all active social boxes
+					$('.socialBox').fadeOut(fadeDuration);
+				}
+			});
+        });
+        </script>
+
+        <!-- Social Nav START -->
+        <div id="socialNav">
+            <a href="#facebook" class="facebook"></a>
+            <a href="#blog" class="blog"></a>
+            <a href="#twitter" class="twitter"></a>
+            <a href="#rss" class="rss"></a>
+        </div>
+        <!-- Social Nav END -->
+
+        <div class="socialBox invisible">
+            <a href="#close" class="closeButton jsClose"></a>
+            <!-- Facebook START -->
+            <div class="contents facebook clearfix">
+                <div class="tab">
+                    <a href="#close" class="jsClose"></a>
+                </div>
+                <h1 class="sIFR">The Fair on Facebook</h1>
+                <div class="horizontalRule"></div>
+                <div class="facebookStream">
+                    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FPuyallupFair&amp;width=489&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23cccccc&amp;stream=true&amp;show_faces=false&amp;header=false&amp;height=396" scrolling="no" frameborder="0" allowtransparency="true" class="likeBox"></iframe>
+                </div>
+							<a href="http://www.facebook.com/event.php?eid=194062960654549" target="_blank" class="buttonAttend"></a>
+			<div id="att-count"></div>
+			<div id="fb-root"></div>
+							<script src="http://connect.facebook.net/en_US/all.js"></script>
+							<script type="text/javascript">
+
+				//EVENT ID
+				var eventId = 194062960654549;
+				$(document).ready(function()
+				{
+					// initialize the library with the API key
+					FB.init({ appId: '192489810788041' });
+					
+					// fetch the status on load
+					FB.getLoginStatus(function(response)
+					{
+						if (response.session)
+						{
+							displayUserData(response);
+						}
+						else
+						{
+							FB.Event.subscribe('auth.login', displayUserData);
+						}
+					});
+					
+					$('.buttonAttend').bind('click', function() 
+					{
+						if ($(this).hasClass('isAttending'))
+						{
+							return true;
+						}
+						else
+						{
+							FB.getLoginStatus(function(response)
+							{
+								if (response.session)
+								{
+									rsvp();
+								}
+								else
+								{
+									FB.login(rsvp, {perms: 'rsvp_event'});
+								}
+							});
+							
+							return false;
+						}
+					});
+				});
+
+				function rsvp()
+				{
+					FB.api('/' + eventId + '/attending', 'post', function(response) 
+					{
+						if (response && !response.error)
+						{
+							$('.buttonAttend').addClass('isAttending');
+						}
+					});
+				}
+
+				function displayUserData(response)
+				{
+					//get whether the current user is attending this event
+					var query1 = FB.Data.query('SELECT \'\' FROM event_member WHERE eid = {0} AND rsvp_status = \'attending\' AND uid = me()', eventId);
+					query1.wait(function(rows) 
+					{
+						if (rows.length > 0)
+						{
+							$('.buttonAttend').addClass('isAttending');
+						}
+					});
+					
+					/*
+					We are not doing this feature for the moment. Keeping this here and commented out, as we may revisit this later.
+
+					//get total attending this event
+					var query2 = FB.Data.query('SELECT \'\' FROM event_member WHERE eid = {0} AND rsvp_status = \'attending\'', eventId);
+					query2.wait(function(rows) 
+					{
+						$('#att-count').html('# Attending: ' + rows.length);
+					});
+					*/
+				}
+			</script>
+			                <!-- <a href="#" class="attendButton"></a> -->
+            </div>
+            <!-- Facebook END -->
+            <!-- Blog START -->
+			<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+			<script type="text/javascript">
+				google.load("feeds", "1");
+				function initialize()
+				{
+					var feed = new google.feeds.Feed("http://puyallupfair.blogspot.com/feeds/posts/default");
+					feed.setNumEntries(5);
+					feed.includeHistoricalEntries();
+
+					feed.load(function(result)
+					{
+						if (!result.error)
+						{
+							var blogElement = $('div.socialBox div.blogposts');
+							for (var i = 0; i < result.feed.entries.length; i++)
+							{
+								var entry = result.feed.entries[i];
+								var pubDate = new Date(entry.publishedDate);
+								var dateFormattted = (pubDate.getMonth()+1)+'.'+pubDate.getDate()+'.'+pubDate.getFullYear();
+								blogElement.append('<div class="postEntry"><div class="date">'+ dateFormattted +'</div><div class="post"><a href="'+entry.link+'">'+entry.title+'</a></div></div>');
+							}
+						}
+					});
+				}
+				google.setOnLoadCallback(initialize);
+			</script>
+            <div class="contents blog clearfix">
+                <div class="tab">
+                    <a href="#close" class="jsClose"></a>
+                </div>
+                <h1 class="sIFR">The Fair Blog</h1>
+                <div class="horizontalRule"></div>
+                <h2 class="sIFR subTitle">Latest Posts</h2>
+				<div class="blogposts"></div>
+                <a href="http://puyallupfair.blogspot.com/" target="_blank"><img src="/_images/layout/social-button-fair-blog.png" class="buttonBlog"></a>
+            </div>
+            <!-- Blog END -->
+            <!-- Twitter START -->
+            <div class="contents twitter clearfix">
+                <div class="tab">
+                    <a href="#close" class="jsClose"></a>
+                </div>
+                <h1 class="sIFR">The Fair on Twitter</h1>
+                <div class="horizontalRule"></div>
+                <div class="twitterContainer">
+                    <div class="twitterFollow">
+                        <a href="https://twitter.com/puyallupfair" class="twitter-follow-button" data-show-count="true" data-text-color="ffffff" data-link-color="83d6fd">Follow @puyallupfair</a>
+                        <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                    </div>
+                    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+                    <script>
+                    new TWTR.Widget({
+                      version: 2,
+                      type: 'profile',
+                      rpp: 15,
+                      interval: 6000,
+                      width: 488,
+                      height: 352,
+                      theme: {
+                        shell: {
+                          background: '#666666',
+                          color: '#ffffff'
+                        },
+                        tweets: {
+                          background: '#ffffff',
+                          color: '#707070',
+                          links: '#02a1d2'
+                        }
+                      },
+                      features: {
+                        scrollbar: true,
+                        loop: false,
+                        live: false,
+                        hashtags: true,
+                        timestamp: true,
+                        avatars: true,
+                        behavior: 'all'
+                      }
+                    }).render().setUser('PuyallupFair').start();
+                    </script>
+                </div>
+            </div>
+            <!-- Twitter END -->
+            <!-- RSS START -->
+			            <div class="contents rss clearfix">
+                <div class="tab">
+                    <a href="#close" class="jsClose"></a>
+                </div>
+                <h1 class="sIFR">The Fair RSS Feeds</h1>
+                <div class="horizontalRule"></div>
+                <div class="rssBox">
+											<a href="/events-calendar/index.php?event=8cf40926ca7c7fc95d33697f7b1f1db2" class="font16">West Coast Bridal Showcase</a>
+						<p>
+						<b>Dates:</b>
+						December 31, 2011 - January 1, 2012						<br>
+						<b>Location:</b> Americraft Showplex						<br>
+						<b>Hours:</b> <br>Sat: 9:30 am - 5 pm<br>Sun:10 am - 5 pm<br><b>Admission:</b> <br>$8 Online Advance<br>$10 at the door<br><b>Email:</b> <a href="mailto:jerri@westcoastbridalshowcase.com">jerri@westcoastbridalshowcase.com</a><br><b>Website:</b> <a href="http://www.westcoastbridalshowcase.com" target="_blank">http://www.westcoastbridalshowcase.com</a><br></p><p>Online ticket sales ended Thursday, Dec. 29.</p><p></p>						<a href="/events-calendar/index.php?event={B2D36775-1C0D-4570-5AC1-FF5CBE833034}" class="font16">Crossroads Doll &amp; Teddy Bear Show</a>
+						<p>
+						<b>Dates:</b>
+						October 13, 2012 - October 14, 2012						<br>
+						<b>Location:</b> Pavilion						<br>
+						<b>Hours:</b> <br>Sat: 10 am - 4 pm<br>Sun: 10 am - 3 pm<br><b>Admission:</b> Adults: $ 8<br><b>Contact:</b> Dorothy Drake<br><b>Phone:</b> 775-348-7713<br><b>Email:</b> <a href="mailto:dorothy@dolls4all.com">dorothy@dolls4all.com</a><br><b>Website:</b> <a href="http://www.dolls4all.com" target="_blank">http://www.dolls4all.com</a><br></p>						<a href="/events-calendar/index.php?event=8cf40926ca7c7fc95d33697f7b1f1db2" class="font16">West Coast Bridal Showcase</a>
+						<p>
+						<b>Dates:</b>
+						December 31, 2011 - January 1, 2012						<br>
+						<b>Location:</b> Americraft Showplex						<br>
+						<b>Hours:</b> <br>Sat: 9:30 am - 5 pm<br>Sun:10 am - 5 pm<br><b>Admission:</b> <br>$8 Online Advance<br>$10 at the door<br><b>Email:</b> <a href="mailto:jerri@westcoastbridalshowcase.com">jerri@westcoastbridalshowcase.com</a><br><b>Website:</b> <a href="http://www.westcoastbridalshowcase.com" target="_blank">http://www.westcoastbridalshowcase.com</a><br></p><p><a target="_blank" href="http://tickets.thefair.com/orderticketsarea.asp?p=140&amp;a=1&amp;backurl=default.asp"><strong><br>
+Purchase Tickets Online</strong></a><strong>&nbsp;</strong><br>
+Online ticket sales end Thursday, Dec. 29.</p><p></p>						<a href="/events-calendar/index.php?event={892450FB-8701-FB68-2A52-E7A5B4CB4275}" class="font16">Early Bird Auto Swap Meet &amp; Car Show</a>
+						<p>
+						<b>Dates:</b>
+						February 18, 2012 - February 19, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex, Pavilion, Expo Hall, Centennial Building, Show Arena						<br>
+						<b>Hours:</b> <br>Sat: 8 am - 5 pm<br>Sun: 9 am - 3 pm<br><b>Admission:</b> $5<br><b>Contact:</b> Charlie Ostlund<br><b>Phone:</b> 253-863-6211<br><b>Email:</b> <a href="mailto:charlie@earlybirdswap.org">charlie@earlybirdswap.org</a><br><b>Website:</b> <a href="http://www.earlybirdswap.org" target="_blank">http://www.earlybirdswap.org</a><br></p>						<a href="/events-calendar/index.php?event={429972BD-AE7A-40EA-864C-81E082DF0CA7}" class="font16">Orting High School Graduation 2012</a>
+						<p>
+						<b>Date:</b>
+						June 11, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex						<br>
+						<b>Hours:</b> Gates open at 5 pm<br><b>Admission:</b> School district issued ticket<br><b>Contact:</b> Robin Bessey<br><b>Phone:</b>  <br><b>Email:</b> <a href="mailto: "> </a><br><b>Website:</b> <a href="http://www.orting.wednet.edu" target="_blank">http://www.orting.wednet.edu</a><br></p>						<a href="/events-calendar/index.php?event={AAE768B2-C3E1-441F-926C-8A81491C066F}" class="font16">49th Annual Puyallup Rotary Crab Feed </a>
+						<p>
+						<b>Date:</b>
+						March 23, 2012						<br>
+						<b>Location:</b> Pavilion 1st Floor						<br>
+						<b>Hours:</b> 6 pm - 10 pm<br><b>Admission:</b> TBD<br><b>Contact:</b> Chanel Studebaker<br><b>Phone:</b> 253-376-9866<br><b>Email:</b> <a href="mailto:cstudebaker@firstam.com">cstudebaker@firstam.com</a><br><b>Website:</b> <a href="http://puyalluprotary.org" target="_blank">http://puyalluprotary.org</a><br></p>						<a href="/events-calendar/index.php?event={F5C4903C-D9FC-3566-50E7-58C223C1E077}" class="font16">Western Washington All Breed Dog Show Cluster</a>
+						<p>
+						<b>Dates:</b>
+						January 14, 2012 - January 16, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex, Pavilion, Centennial Building						<br>
+						<b>Hours:</b> 8 am - 6 pm<br><b>Admission:</b> FREE<br><b>Contact:</b> Fran Stephens<br><b>Phone:</b> 253-267-1919<br><b>Email:</b> <a href="mailto:mistihil@comcast.net">mistihil@comcast.net</a><br></p>						<a href="/events-calendar/index.php?event={5439E3F6-EC7E-C7E7-4648-16054BD13A31}" class="font16">Puyallup School District Ninth Grade Dance</a>
+						<p>
+						<b>Date:</b>
+						June 14, 2012						<br>
+						<b>Location:</b> Pavilion						<br>
+						<b>Hours:</b> 7 pm - 10 pm <br><b>Admission:</b> Puyallup School District issued ticket<br><b>Contact:</b> Joan Forseth<br><b>Phone:</b> 253-840-8881<br><b>Email:</b> <a href="mailto:forsethjl@puyallup.k12.wa.us">forsethjl@puyallup.k12.wa.us</a><br></p>						<a href="/events-calendar/index.php?event={B58CBECD-513A-C670-4259-ABFF9B695CC9}" class="font16">Sewing &amp; Stitchery Expo</a>
+						<p>
+						<b>Dates:</b>
+						March 1, 2012 - March 4, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex, Pavilion, Expo Hall						<br>
+						<b>Hours:</b> <br>Gates open at 8:00 am<br>Thu - Sat: 8:30 am - 6 pm<br>Sun: 9:00 am - 4 pm<br><b>Admission:</b> Advance: $10<br>At the show: $12<br><b>Contact:</b> Janet York<br><b>Phone:</b> 253-445-4629<br><b>Email:</b> <a href="mailto:janet@sewexpo.com">janet@sewexpo.com</a><br><b>Website:</b> <a href="http://www.sewexpo.com" target="_blank">http://www.sewexpo.com</a><br></p>						<a href="/events-calendar/index.php?event=8cf40926ca7c7fc95d33697f7b1f1db2" class="font16">West Coast Bridal Showcase</a>
+						<p>
+						<b>Dates:</b>
+						December 31, 2011 - January 1, 2012						<br>
+						<b>Location:</b> Americraft Showplex						<br>
+						<b>Hours:</b> <br>Sat: 9:30 am - 5 pm<br>Sun:10 am - 5 pm<br><b>Admission:</b> <br>$8 Online Advance<br>$10 at the door<br><b>Email:</b> <a href="mailto:jerri@westcoastbridalshowcase.com">jerri@westcoastbridalshowcase.com</a><br><b>Website:</b> <a href="http://www.westcoastbridalshowcase.com" target="_blank">http://www.westcoastbridalshowcase.com</a><br></p><p><a target="_blank" href="http://tickets.thefair.com/orderticketsarea.asp?p=140&amp;a=1&amp;backurl=default.asp"><strong><br>
+Purchase Tickets Online</strong></a><strong>&nbsp;</strong></p><p></p>						<a href="/events-calendar/index.php?event={F377D861-E90B-B9F0-D002-FF926F8117E6}" class="font16">Bonney Lake High School Graduation </a>
+						<p>
+						<b>Date:</b>
+						June 12, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex						<br>
+						<b>Hours:</b> Gates open at 4:30 pm<br><b>Admission:</b> School district issued ticket<br><b>Contact:</b> Linda Masteller<br><b>Phone:</b> 253-891-5797<br><b>Email:</b> <a href="mailto:linda_masteller@sumner.wednet.edu">linda_masteller@sumner.wednet.edu</a><br><b>Website:</b> <a href="http://www.sumner.wednet.edu" target="_blank">http://www.sumner.wednet.edu</a><br></p>						<a href="/events-calendar/index.php?event={429972BD-AE7A-40EA-864C-81E082DF0CA7}" class="font16">Orting High School Graduation 2012</a>
+						<p>
+						<b>Date:</b>
+						June 11, 2012						<br>
+						<b>Location:</b> Americraft ShowPlex						<br>
+						<b>Hours:</b> Gates open at 5 pm<br><b>Admission:</b> School district issued ticket<br><b>Contact:</b> Judy Spawn<br><b>Phone:</b> 360-893-2246  <br><b>Email:</b> <a href="mailto:spawnj@orting.wednet.edu">spawnj@orting.wednet.edu</a><br><b>Website:</b> <a href="http://www.orting.wednet.edu" target="_blank">http://www.orting.wednet.edu</a><br></p>						<a href="/events-calendar/index.php?event={13508947-6A4C-01F5-372A-B123957FA3E0}" class="font16">Mickey Fay's NW Extreme Flat Track Racing  </a>
+						<p>
+						<b>Date:</b>
+						November 26, 2011						<br>
+						<b>Location:</b> Paulhamus Arena						<br>
+						<b>Hours:</b> <br>Gates open at 4:30 pm<br>Racing begins at 5:30 pm<br><b>Admission:</b> <br>General Admission: $10<br>6 &amp; Under: FREE<br><b>Contact:</b>  <br><b>Phone:</b>  <br><b>Website:</b> <a href="http://www.mickeyfaysraces.com" target="_blank">http://www.mickeyfaysraces.com</a><br></p>						<a href="/events-calendar/index.php?event={8B0D28F5-A5C9-DC33-52F9-7B37551125AF}" class="font16">Mickey Fay's NW Extreme Flat Track Racing</a>
+						<p>
+						<b>Date:</b>
+						January 21, 2012						<br>
+						<b>Location:</b> Paulhamus Arena						<br>
+						<b>Hours:</b> <br>Gates open at 4:30 pm<br>Racing at 5:30 pm<br><b>Admission:</b> <br>$10<br>Children under 6: FREE<br><b>Website:</b> <a href="http://www.Mickeyfaysraces.com" target="_blank">http://www.Mickeyfaysraces.com</a><br></p>						<a href="/events-calendar/index.php?event={9223DCB1-4348-F128-9147-F2BE2D7A67B8}" class="font16">Indoor Motorcycle &amp; Quad Flattrack Racing</a>
+						<p>
+						<b>Date:</b>
+						December 10, 2011						<br>
+						<b>Location:</b> Paulhamus Arena						<br>
+						<b>Hours:</b> <br>Gates open at 4:30 pm<br>Racing begins at 5:30 pm<br><b>Admission:</b> <br>General Admission: $10<br>Children 6 &amp; Under: FREE<br><b>Contact:</b>  <br><b>Phone:</b>  <br><b>Email:</b> <a href="mailto: "> </a><br><b>Website:</b> <a href="http://www.mickeyfaysraces.com" target="_blank">http://www.mickeyfaysraces.com</a><br></p>                </div>
+                <h2 class="sIFR feedsLabel">RSS Feeds URL:</h2>
+                <input type="text" class="feedsInput" value="http://www.thefair.com/events-calendar/feed.xml">
+            </div>
+            <!-- RSS END -->
+            <div class="bottom"></div>
+        </div>
+							<script type="text/javascript" charset="utf-8">
 				//<![CDATA[
 					theFair.init();
 				//]]
