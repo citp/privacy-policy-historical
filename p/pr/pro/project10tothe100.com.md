@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the project10tothe100.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013233id_/http%3A//www.google.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project10tothe100.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231122137id_/http%3A//www.google.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Google Privacy Center
 
 ## Privacy Policy
 
-Last modified: October 3, 2010 ([view archived versions](https://web.archive.org/intl/en/privacy/archive/)) 
+Last modified: October 20, 2011 ([view archived versions](https://web.archive.org/intl/en/privacy/archive/)) 
 
 This Privacy Policy applies to all of the [products, services and websites](https://web.archive.org/options/) offered by Google Inc. or its subsidiaries or affiliated companies except Postini ([Postini Privacy Policy](https://web.archive.org/a/help/intl/en/security/terms/new_privacy.html)). Sometimes, we may post product specific privacy notices or Help Center materials to explain our products in more detail. 
 
@@ -25,7 +25,7 @@ We may collect the following types of information:
   * **Log information** – When you access Google services via a browser, application or other client our servers automatically record certain information. These [server logs](https://web.archive.org/intl/en/privacy/faq.html#toc-terms-server-logs) may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account. 
   * **User communications** – When you send email or other communications to Google, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services. 
   * **Affiliated Google Services on other sites** – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Google in order to deliver the service. We process such information under this Privacy Policy. 
-  * **Third Party Applications** – Google may make available third party applications, such as gadgets or extensions, through its services. The information collected by Google when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies. 
+  * **Third Party Applications** – Google may make available third party applications, such as gadgets or extensions, through its services. The information collected by Google when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies. 
   * **Location data** – Google offers location-enabled services, such as Google Maps and Latitude. If you use those services, Google may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). 
   * **Unique application number** – Certain services, such as Google Toolbar, include a unique application number that is not associated with your account or you. This number and information about your installation (e.g., operating system type, version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers (for example, to request automatic updates to the software). 
   * **Other sites** – This Privacy Policy applies to Google services only. We do not exercise control over the sites displayed as search results, sites that include Google applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
@@ -49,7 +49,7 @@ You can use the [Google Dashboard](https://www.google.com/dashboard/?hl=en) to r
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled. 
 
-Google uses the [DoubleClick advertising cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view and manage your ads preferences associated with this cookie by accessing the [Ads Preferences Manager](https://web.archive.org/ads/preferences/?hl=en). In addition, you may choose to opt out of the DoubleClick cookie at any time by using [DoubleClick’s opt-out cookie](https://web.archive.org/intl/en/privacy/ads/). 
+Google uses the [DoubleClick advertising cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) on AdSense partner sites and certain Google services to help advertisers and publishers serve and manage ads across the web. You can view and manage your ads preferences associated with this cookie by accessing the [Ads Preferences Manager](https://web.archive.org/ads/preferences/?hl=en). In addition, you may choose to opt out of the DoubleClick cookie at any time by using [DoubleClick’s opt-out cookie](https://web.archive.org/intl/en/privacy/ads/). 
 
 ### Information sharing
 
@@ -75,7 +75,7 @@ When you use Google services, we make good faith efforts to provide you with acc
 
 ### Enforcement
 
-Google adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/). 
+Google complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Google has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Google’s certification, please visit the [Safe Harbor website](http://export.gov/safeharbor/). 
 
 Google regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is Google’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Google and an individual. 
 
