@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208022428id_/http%3A//www.pcthreat.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcthreat.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225003id_/http%3A//www.pcthreat.com/privacy-en.html) for the most accurate reproduction.*
 
 # Privacy policy
 
