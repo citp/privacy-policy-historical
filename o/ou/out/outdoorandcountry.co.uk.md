@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222055005id_/http%3A//www.outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorandcountry.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - The Outdoor & Country Store
 
 **We are committed to protecting and respecting your privacy.**
 
-**This policy (together with our[Terms of Use](https://web.archive.org/web/20101222055005id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
+**This policy (together with our[Terms of Use](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
-**For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smith and Morris (Corn Merchants) Limited T/A The Outdoor and Country Store of The Old School, Stone Road, Blackbrook, Newcastle-under-Lyme, Staffordshire, ST5 5EG.**
+**For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smith and Morris Retail Limited T/A The Outdoor and Country Store of The Old School, Stone Road, Blackbrook, Newcastle-under-Lyme, Staffordshire, ST5 5EG.**
 
 **Our nominated representative for the purpose of the Act is Jonathan Capener.**
 
@@ -20,7 +20,7 @@ We may collect and process the following data about you:
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
   * Details of transactions you carry out through our site and of the fulfilment of your orders. 
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
-  * Information that you provide by filling in forms on our site www.OutdoorAndCountry.co.uk (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Smith and Morris (Corn Merchants) Limited T/A The Outdoor and Country Store, and when you report a problem with our site.
+  * Information that you provide by filling in forms on our site www.OutdoorAndCountry.co.uk (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Smith and Morris Retail Limited T/A The Outdoor and Country Store, and when you report a problem with our site.
 
 
 
@@ -39,7 +39,7 @@ For the same reason, we may obtain information about your general internet usage
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
-Please note that our advertisers may also use cookies, over which we have no control.
+Please note that our advertisers and tracking software may also use cookies (third-party), over which we have no control.
 
 ## WHERE WE STORE YOUR PERSONAL DATA 
 
@@ -75,8 +75,8 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
 
-  * If Smith and Morris (Corn Merchants) Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20101222055005id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20101222055005id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris (Corn Merchants) T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If Smith and Morris Retail Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20111231204853id_/http%3A//www.outdoorandcountry.co.uk/returnspolicy.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris Retail Ltd T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
