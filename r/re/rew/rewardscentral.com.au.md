@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404183658id_/http%3A//www.rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045539id_/http%3A//www.rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RewardsCentral
 
@@ -51,10 +51,10 @@ We respect your time and attention. We will never send to you more than fourteen
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20110404183658id_/http%3A//www.rewardscentral.com.au/Account/Settings.aspx).
+To unsubscribe now, [click here](https://web.archive.org/web/20111231045539id_/http%3A//www.rewardscentral.com.au/Account/Settings.aspx).
 
-**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20110404183658id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx).
+**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20111231045539id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx).
 
-**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20110404183658id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20111231045539id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20110404183658id_/http%3A//www.rewardscentral.com.au/Terms.aspx).
+This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20111231045539id_/http%3A//www.rewardscentral.com.au/Terms.aspx).
