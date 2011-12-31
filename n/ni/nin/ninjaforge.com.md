@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjaforge.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320204453id_/http%3A//ninjaforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjaforge.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203041id_/http%3A//ninjaforge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ Where you submit personal information for publication on our website, we will pu
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
 
-All our website financial transactions are handled through our payment services provider, Paypal.  You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at [www.paypal.com](http://ninjaforge.com/www.paypal.com) ).  We will share information with  Paypal only to the extent necessary for the purposes of processing payments you make via our website. 
+All our website financial transactions are handled through our payment services provider, Paypal.  You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at [www.paypal.com](http://www.paypal.com/) ). We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website. 
 
 Disclosures
     
