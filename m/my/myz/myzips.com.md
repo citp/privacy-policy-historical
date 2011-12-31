@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910075904id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzips.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215950id_/http%3A//www.myzips.com/privacy.phtml) for the most accurate reproduction.*
 
 # Myzips.com Privacy Policy
 
-|  |  |  |   
+|  [TheFreeSite](http://www.thefreesite.com/)   
+[FreewareFiles](http://www.freewarefiles.com/)   
+[Download Free Software](http://www.download3000.com/)   
+[Only Freeware](http://www.onlyfreewares.com/) [Privacy Policy](http://www.myzips.com/privacy.phtml)  
+[Site Map](http://www.myzips.com/sitemap.phtml)  
+[Contact Us](http://www.myzips.com/contactus.phtml)  
+© 1999 - 2011 Myzips.com  |  |  |   
   
-[Computer Software](http://www.myzips.com/) | [**Advertise**](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Your Software](http://www.myzips.com/regform.phtml) | Bookmark Us | [Link To Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
+[Home](http://www.myzips.com/) | [Advertise](http://www.myzips.com/advertise.phtml) | [New Software](http://www.myzips.com/new.phtml?days=7) | [Add Software](http://www.myzips.com/regform.phtml) | Bookmark | [Link Us](http://www.myzips.com/linktous.phtml) | [Blog](http://www.myzips.com/blog/)
 
 **Information Collection & Usage**  
 Our site will not share, sell, or otherwise divulge any information gathered on this site with unauthorized parties. 
@@ -28,8 +34,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 You can adjust your own personal cookie settings in your browser. Please access your browsers "Help" section and search for "cookie" to manage how your browser handles cookies. You should be able to do everything from allowing all cookies to blocking all cookies. 
 
   
-[User FAQ](http://www.myzips.com/userfaq.phtml) | [Author FAQ](http://www.myzips.com/authorfaq.phtml) | [Privacy Policy](http://www.myzips.com/privacy.phtml) | [Feedback](mailto:support@myzips.com) | [Newsletter](http://www.myzips.com/newsletter.phtml) | [Site Map](http://www.myzips.com/sitemap.phtml) | [Most Popular](http://www.myzips.com/popular.phtml) | [Contact Us](http://www.myzips.com/contactus.phtml)  
-[Web Developer Software](http://www.myzips.com/web-developer-software.phtml) \- [Programming Software](http://www.myzips.com/programming-software.phtml) \- [Email Software](http://www.myzips.com/email-software.phtml) \- [Business Software](http://www.myzips.com/business-software.phtml)  
-[Audio & Video Software](http://www.myzips.com/audio-and-video-software.phtml) \- [Internet Software](http://www.myzips.com/internet-software.phtml) \- [Desktop Enhancement Software](http://www.myzips.com/desktop-software.phtml) \- [Education Software](http://www.myzips.com/education-software.phtml)  
-[Home & Leisure Software](http://www.myzips.com/home-and-leisure-software.phtml) \- [Newsgroup Software](http://www.myzips.com/newsgroup-software.phtml) \- [Games Software](http://www.myzips.com/games-software.phtml) \- [Utilities Software](http://www.myzips.com/utilities-software.phtml)  
-© 1999 - 2010 Myzips.com | 
+| 
