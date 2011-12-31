@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motigo.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509194104id_/http%3A//motigo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motigo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224546id_/http%3A//motigo.com/about/privacy) for the most accurate reproduction.*
 
 # free tools for your website | Motigo
 
