@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609092622id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3-themes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210330id_/http%3A//www.ps3-themes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PS3 Themes » Privacy Policy
 
 Privacy has become a major concern on the Internet. PS3-Themes.com knows that you care how information about you is used and shared. This privacy statement describes how PS3-Themes.com deals with your information. By visiting PS3-Themes.com, you are accepting the practices described in this privacy statement. 
 
