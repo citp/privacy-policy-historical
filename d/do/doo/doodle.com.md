@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422003040id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231030634id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
 
-# Doodle: Yksityisyysperiaatteet
+# Doodle: Privacy Policy
 
 Doodle takes great care to protect your privacy and to secure the data that is stored on the Doodle servers. Doodle employs several security professionals who implement the technical and organizational security during development and operations. Doodle takes measures to protect personal information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or destruction.
 
@@ -18,7 +18,7 @@ Doodle records certain requests and transactions in log files. This log data is 
 
 Doodle also uses Google Analytics to compile usage statistics. Analytics is a service provided by Google, Inc. Google’s privacy policy can be accessed here: <http://www.google.com/privacy.html>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
 
-Doodle also employs Net-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [Net-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html). 
+Doodle also employs Net-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [Net-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html). An appendix at the end of the [German version of this policy](http://doodle.com/about/policy.html?locale=DE) also provides further information on how information is collected for web traffic that originates from Germany. 
 
 ## Cookies
 
@@ -82,6 +82,6 @@ Doodle may share personal information with other companies or individuals only i
 
 ## Changes
 
-Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [http://doodle.com/about/policy.html](http://www.doodle.com/about/policy.html).
+Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at <http://doodle.com/about/policy.html>.
 
-Dec 3 2010
+Jul 22 2011
