@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfax.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629141151id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfax.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231045241id_/http%3A//www.fairfax.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
@@ -86,7 +86,7 @@ We may also disclose personal information, and you consent to us disclosing your
 
 At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above. 
 
-You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on our [Member Centre page](https://membercentre.fairfax.com.au/). 
+You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on our [Member Centre page.](https://membercentre.fairfax.com.au/) You may also cancel your account on our Member Centre page. 
 
 If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us using [this form](https://membercentre.fairfax.com.au/ContactUs.aspx). 
 
@@ -115,3 +115,7 @@ If you would like to seek access to personal information we hold about you, or i
 Privacy Officer   
 GPO Box 506   
 Sydney NSW 2001 
+
+Fairfax Digital Australia & New Zealand Pty Ltd. ABN 34 087 887 456.   
+1 Darling Island Road, Pyrmont, Sydney, NSW 2009. 1800 500 864.   
+[Contact us](https://membercentre.fairfax.com.au/ContactUs.aspx)
