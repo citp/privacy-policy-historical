@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628072612id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205958id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SameIP.org
-
-Find all Sites/Website/Domains on the same IP address
-
-## [Privacy Policy](https://web.archive.org/privacy "Privacy Policy")
-
-[ ](http://www.jdoqocy.com/fj104wktqks7BHCFD9A798CHFDCA)
 
 The privacy of our visitors to sameip.org is important to us.
 
@@ -50,7 +44,5 @@ When you use domain whois privacy, you can protect yourself against:
 In order to enable privacy protection for your domain name, you need to contact the Sponsoring Registrar and ask them if they provide the service. You can find the Sponsoring Registrar by performing a whois lookup for your domain name. If that service is not provided by the Sponsoring Registrar, you need to transfer your domain name to another registrar. 
 
 Still have questions? Please [contact us](https://web.archive.org/contact "contact us")
-
-Copyright © [Find All Website On The Same IP Address](https://web.archive.org/ "Find All Website On The Same IP Address") \- [Contact Us](https://web.archive.org/contact "Contact Us") \- [Privacy Policy](https://web.archive.org/privacy "Privacy Policy")
 
 [Daily Domain Spy](http://dailydomainspy.com/) | [Daily Domains](http://dailydomains.org/) | [Name Server Spy](http://nameserverspy.org/)
