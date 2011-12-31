@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503101815id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154536id_/http%3A//www.usc.edu.au/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -18,7 +18,7 @@ The University of the Sunshine Coast collects and uses personal information abou
 
 Personal information held by the University is collected and managed in a responsible, secure manner, and will not be released to third parties without your consent, unless required by law. 
 
-Information on how the University manages personal information can be found in our [Information Privacy Policy](https://web.archive.org/University/AbouttheUniversity/Governance/Policies/InformationPrivacy.htm).
+Information on how the University manages personal information can be found in our [Information Privacy Policy](https://web.archive.org/university/governance-and-executive/policies-and-procedures/information-communications-and-technology/information-privacy-governing-policy.htm).
 
 #### Website information
 
