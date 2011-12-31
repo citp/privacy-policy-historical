@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softplatz.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117180116id_/http%3A//www.softplatz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softplatz.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214038id_/http%3A//www.softplatz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - www.softplatz.com
 
