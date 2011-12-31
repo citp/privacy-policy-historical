@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421231759id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213242id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for Third Door Media - Third Door Media
 
