@@ -1,100 +1,76 @@
-> *The following text is extracted and transformed from the michellephan.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellephan.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213159id_/http%3A//www.michellephan.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Summary
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Your privacy is very important to us. By using [http://www.michellephan.com](http://www.michellephan.com/) you are agreeing to the underlying Privacy Policy. This Privacy Policy describes EQAL's use of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number) that Members voluntarily provide to EQAL when they register for an account or otherwise provide PII to EQAL through your use of Website. Website is a general audience service and does not knowingly collect PII from children under 13 years of age.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Amendments
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+From time to time EQAL may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of Website, or technology, and such modifications shall be effective upon posting by EQAL. Your continued use of Website after EQAL posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If EQAL materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
 
-**Information Collection and Use**
+## Gathering of Personally-Identifying Information
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When EQAL collects PII from you it is because you are voluntarily providing that information through your use of Website or submitting PII to us in order to register as a Member. In addition, EQAL collects other non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve Website, track usage, and for security purposes. Members may also choose to provide or store non-PII information in their account, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively "Profile Information"). The Information in a Member's account is provided at his or her sole discretion.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Members can change their PII and Profile Information at any time and can control how other Members and EQAL communicate with them by controlling their account settings, available within the "Edit Profile" section of the Member's profile page on any website operated by EQAL. Cookies are small bits of information that EQAL places on your computer. EQAL uses cookies to identify your Internet browser, store preferences, and determine whether you have installed the enabling software needed to access certain material on Website. Data in cookies may be read to authenticate user sessions or provide services.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Aggregated Statistics
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+EQAL may collect statistics about the behavior of visitors on the Website. (E.g., monitoring the most popular sites on Website to help identify spam). EQAL may display this information publicly or provide it to others. We will not disclose your PII unless otherwise indicated below.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Advertisements
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Third party advertisements displayed on Website by site owners may also contain cookies set by Internet advertising companies or advertisers (known as "third party cookies"). EQAL does not control these third party cookies and Users of Website should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on customized advertising on EQAL. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. EQAL may allow third party pixel tags to be present on Website for purposes of advertising, providing services or data and statistics collection.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on Website.
 
-**Security**
+When you voluntarily provide PII to EQAL, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses EQAL will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## 3rd Party Websites
 
-**Updating Your Information**
+Website may be linked to Internet sites operated by other companies. Website may also carry advertisements from other companies. EQAL is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with Website or for the privacy practices of third party Internet advertising companies. Once you leave Website via such a link (e.g., to sites such as [http://www.youtube.com](http://www.youtube.com/)), access a third party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Advertisements placed on the Website by a site owner may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of EQAL Service, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please click here.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Third party applications (such as widgets) created by third party developers may also be available on Website. Third party applications are small bits of software, often with interactivity, that can be installed into Members' profiles or shared with other Users. However, EQAL does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with EQAL. EQAL encourages Members not to provide PII to the third party's application unless the Member knows the party with whom it is interacting.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## Use of Personally-Identifying Information
 
-      iii.      You may call us at: (480) 505-8800
+EQAL will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If EQAL obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
 
-       iv.      You may fax us at: (480) 505-8844
+## Member Search
 
-**Sending Emails**
+In order to locate other EQAL Members that you may already know in the physical world, EQAL allows Users to search for Members using Registration PII (i.e., full name or email address). EQAL also allows Users to browse for certain Profile Information in order to help connect with Members. EQAL may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under "Edit Profile." Search engines may index the portion of a Member's profile (including the Profile Information it contains) that is publicly displayed.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Promotional Materials
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from EQAL, EQAL may periodically use your email address to send you such materials related to Website, as applicable. If you want to stop receiving such materials from EQAL, you can access the "Edit Profile" section on your profile page within any website operated by EQAL for which you have subscribed or follow the unsubscribe instructions at the bottom of each email.
 
-**Compliance with Laws and Law Enforcement**
+EQAL employees, agents and contractors must have a business reason to obtain access to your PII. EQAL may share your PII with those who help us manage or provide EQAL Service' information activities (for example, message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Disclosure
 
-**Third Party Service Providers**
+At EQAL's sole discretion, your PII may be shared with the third party owner or co-owner(s) of the website(s) which you join that is/are built on Website or one of its affiliated or related entities, in which case all PII will be subject to that entity or entities then applicable Privacy Policy and/or Terms of Use, copies of which can be found at the owner's or co-owner(s)'s website.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+There may be instances when EQAL may access or disclose PII, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of EQAL, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of Website or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if EQAL sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, EQAL may transfer your PII to the party or parties involved in the transaction as part of that transaction.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+When a Member who is located in the European Union chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. EQAL is not responsible under the EU local data protection laws for Member-posted information.
 
-**Supplementation of Information**
+## Security
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+EQAL uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information (if applicable) in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, EQAL uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
 
-**Contests/Surveys**
+Whenever possible, EQAL Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and navigating to the "Edit Profile" section on your profile page. If you ask EQAL to stop using your PII, EQAL will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+If you would like to communicate with us about this Privacy Policy or EQAL's collection and use of your PII please email 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+[privacy@eqal.com](mailto:privacy@eqal.com)
 
-**Tell-A-Friend**
+or write to us at
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Privacy, EQAL, Inc.,  
+5250 Lankershim Blvd., Suite 720  
+North Hollywood, CA 91601  
+Attn: Paras Maniar
