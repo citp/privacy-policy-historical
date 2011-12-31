@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012014707id_/http%3A//www.myjellybean.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjellybean.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224825id_/http%3A//www.myjellybean.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Myjellybean.com
 
@@ -14,7 +14,7 @@ Myjellybean.com is a strong advocate of Internet privacy and embraces the Childr
 
 **Myjellybean.com - No User Registration Required for General Site**
 
-Myjellybean.com does not require users of our general site register or provide any contact/demographic information prior to surfing our articles, games and other features. Unlike some other major sites for kids and teens, you can surf Myjellybean.com without "logging on" or being asked to share any personal information.
+Myjellybean.com does not require users of our general site register or provide any contact/demographic information prior to surfing our articles, games and other features. Unlike some other major sites for kids and teens, you can surf most areas of Myjellybean.com without "logging on" or being asked to share any personal information.
 
 **No Third-Party Sharing**
 
@@ -35,6 +35,10 @@ Users should be aware that any posts and conversations on an Internet message bo
 **Contests & Sweepstakes**
 
 Myjellybean.com hosts regular contests and sweepstakes in which we ask visitors for contact information (such as full name, e-mail and mailing address). This information is used strictly to contact entrants when necessary (such as informing them they have won) and to fulfill prizing. Contact information collected for contests is deleted once winners have been confirmed and prizes have been shipped. In cases where prizing is fulfilled by third-party companies (contest sponsors), we require them to delete contest winners' personal information after the prizes are sent.
+
+**Covet Program**
+
+Myjellybean.com runs a membership-only COVET Program to connect teens with companies wishing to give away products and services. Members of our COVET Program must register and provide certain personal details to join, including but not limited to date of birth, email address, mailing address, number of Facebook friends. This information is used to screen and communicate with members, and to fulfill any prizing a member may win in the Program. Date of birth information is used to screen under-13 users. We do not permit registration by users identifying themselves as age 12 and under. When we run COVET Program contests and sweepstakes, this site may ask members for additional information. Members agree that upon request, they will provide a photo of themself with any product they win, for promotional use on this website, and will write a review of any product they win on the COVET Program Blog on this website. Members further agree that the name and email information collected during their COVET Program registration may be shared with third-party sponsors of the COVET Program. 
 
 **E-Mail**
 
@@ -74,5 +78,3 @@ RPO Chester
 Toronto, ON   
 M4K 3Z2   
 Canada
-
-Phone: (416) 466-9993
