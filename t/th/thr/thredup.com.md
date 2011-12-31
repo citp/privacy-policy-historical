@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526073153id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095413id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
 # Swap Kids Clothing on thredUP - Privacy Policy
 
