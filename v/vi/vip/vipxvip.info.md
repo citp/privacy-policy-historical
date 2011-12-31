@@ -1,20 +1,50 @@
-> *The following text is extracted and transformed from the vipxvip.info privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114042522id_/http%3A//www.vipxvip.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipxvip.info privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113541id_/http%3A//www.vipxvip.info/privacy_policy.php) for the most accurate reproduction.*
 
-# Economy - Movie - Game - fashion clothing - Privacy Policy
+# Economy - Movie - Game - fashion clothing
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vip@vipxvip.org.  
-At Economy - Movie - Game - fashion clothing, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.vipxvip.info and how it is used.  
-Log Files  
-Like many other Web sites, http://www.vipxvip.info makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
-Cookies and Web Beacons  
-http://www.vipxvip.info does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on http://www.vipxvip.info.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.vipxvip.info and other sites on the Internet   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense
+### Forum Privacy and  
+  
+Last Updated: 5th September 2009   
+  
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at vb:raw vip@vipxvip.org.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.vipxvip.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
-Economy - Movie - Game - fashion clothing has no access to or control over these cookies that are used by third-party advertisers.  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.vipxvip.info privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+The privacy of our visitors to http://www.vipxvip.info is important to us.
+
+At Economy - Movie - Game - fashion clothing, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.vipxvip.info, and how we safeguard your information. We never sell your personal information to third parties. 
+
+## Google Adsense 3rd Party Cookie Info
+
+  * Log Files
+  * Cookies and Beacons
+  * DoubleClick DART cookies
+
+
+
+As with most other websites, http://www.vipxvip.info collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+## Forum Privacy Policy 
+
+  * Registration
+  * Inappropriate Language
+  * Posting Links
+  * Security
+  * Ad Servers
+  * Opt-Out Policy
+  * Consent
+  * Disclaimer
+
+
+
+Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.
+
+http://www.vipxvip.info is the sole owner of the information collected on this Web site.
+
+**Changes in this Privacy Statement**  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+**DoubleClick Opt-out Click link below**
+
+[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)
+
+AdSense Privacy Policy Provided by [**Tutorials4you**](http://www.tutorials4you.co.uk/index.php)
