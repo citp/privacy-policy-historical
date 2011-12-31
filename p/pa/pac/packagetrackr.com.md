@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the packagetrackr.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508145657id_/http%3A//www.packagetrackr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagetrackr.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212826id_/http%3A//www.packagetrackr.com/privacy) for the most accurate reproduction.*
 
-# Packagetrackr / Privacy Policy
+# Privacy Policy @ Packagetrackr
+
+[What's New](http://www.packagetrackr.com/whatsnew) | Auto add tracking numbers by forward your shipping confirmation emails to track@packagetrackr.com. Auto forwarding supported now, [Learn more](http://www.packagetrackr.com/feature/forwarding/email)
+
+## Privacy Policy
 
 Last modified: 01 April 2009
 
