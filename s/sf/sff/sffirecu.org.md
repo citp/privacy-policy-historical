@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616085518id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sffirecu.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203853id_/http%3A//www.sffirecu.org/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # SF Fire Credit Union : Your Privacy Rights
 
@@ -29,42 +29,6 @@ We restrict access to non-public personal information about you to those employe
 #### Scope of Our Policy
 
 Our Privacy Policy governs Member Information which is defined as personally identifiable information about a member or their relationship with us. The policy applies to individuals who obtain products or services from us for personal, family or household purposes. Our Privacy Policy applies to member information obtained by San Francisco Fire Credit Union.
-
-[[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
-
-#### Information Obtained for Your Benefit
-
-We obtain information about you that we believe will be necessary or useful in processing or servicing your savings and loan accounts. Your information also enables us to provide products, services and other opportunities that we think will be of interest to you. We obtain the following types of Member Information:
-
-  * Information you provide on your loan application or that you provide to us verbally or in writing
-  * Information about your transactions with the Credit Union, or affiliates and other third parties
-  * Information from consumer reporting agencies
-  * Information we receive from other third parties
-
-
-
-#### Who May Receive your Information
-
-**Information sharing with our affiliated companies**
-
-At this time we do not have any business relationships with affiliated companies.
-
-**Information sharing with nonaffiliated third parties**
-
-To inform you of product and service opportunities that may be of interest to you, we might share the following types of Member Information that we obtain about you as described in this policy, with nonaffiliated third parties:
-
-  * Information about your identity
-  * Information about your transactions or experiences with us
-  * Information we receive from other third parties
-
-
-
-**Companies who may receive this information include:**
-
-  * Financial service providers, such as credit card issuers, insurance companies and mortgage companies
-  * Non-financial companies, including check printers and mailing services
-
-
 
 [[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
 
@@ -99,8 +63,6 @@ We strive to keep records of member information about you accurate and up to dat
 
 The law requires parental consent to collect or use information from a child under 13 years of age. If you are a child under 18 years of age, please show this to your parents, and do not use the online services of this institution without disclosure to parents and verifiable parental consent pursuant to the requirements of the [Children’s Online Privacy Protection Act Rule](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) (COPPA Rule).
 
-**Alternate Link:** the Federal Trade Commission’s website was hacked on July 7, 2009 and has been experiencing problems. [Here is an alternate link](http://www.coppa.org/coppa.htm) to the COPPA legislation.
-
 [[Top of Page]](https://web.archive.org/about-us/privacy-and-security#top)
 
-April 25, 2006
+April 25, 2006 rev Dec 2011
