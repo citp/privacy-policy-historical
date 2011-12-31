@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524175712id_/http%3A//mu-sigma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213318id_/http%3A//www.mu-sigma.com/privacy.html) for the most accurate reproduction.*
 
 # Mu Sigma - Privacy Policy
 
-The below sets out the practices of Mu Sigma as of January 2011 to the information which is gathered and distributed through www.mu-sigma.com.
+**PREAMBLE:**
 
-With respect to information collected: For each visitor to the website, our server does not recognize any information regarding your domain or email address. Sessions of visitors to the website are monitored, but the user remains anonymous.
+Mu Sigma Inc. ("Company") is engaged in the business of providing analytics services ("Services") to clients all over the world ("Clients"). Personal information is collected by the Clients and provided as input data for the Company in order to provide the Services. Given the nature of the Company's business, the Company does not collect Personal Information (as defined below).
 
-With respect to the type of information that the website collects: The website collects only that information which is volunteered by the visitor, such as survey information and/or site registrations and the email addresses of those who communicate with us via email.
+While this Privacy Policy ("Policy") applies to all Personal Information in the Company's custody, it is specifically intended to comply with the United States – European Union ("EU") Safe Harbor Principles, thereby enabling Clients in the EU to transmit Personal Information to the Company.
 
-With respect to use of the information collected: The very limited information collected is not shared with other organizations for commercial purposes and is used solely for the benefit of our visitors in the following manner:
+For the purposes of this Policy, "Personal Information" means data about an identified or identifiable individual received by the Company from any Client and recorded in any form and includes Sensitive Information. "Sensitive Information" shall mean Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual.
 
-  * for internal review, after which the information is discarded
-  * to improve the content of the website
-  * used to notify visitors about updates to the website
+**POLICY**
 
+ **Notice:** Given the nature of its business, the Company does not collect Personal Information from any person. However, the Company may, for the purpose of rendering Services, receive Personal Information collected by Clients, including Clients in the EU. The Company does not disclose Personal Information to any third party except to subsidiaries and even that under obligations of confidentiality. The Company enters into non-disclosure agreements with all employees who may deal with Personal Information in the course of rendering Services. For any inquiries and complaints related to this Policy, the Company's officer identified in the Enforcement clause below may be contacted. 
 
+**Choice:** As stated earlier in this Policy, the Company does not collect Personal Information from any person. The Company reasonably presumes that the Clients who transmit Personal Information to the Company have obtained appropriate consents, including affirmative consents in respect of Sensitive Information, from those to whom the Personal Information belongs or relates to.
 
-With respect to email addresses: We collect the email addresses of those who communicate with us via email. Information is volunteered by the visitor, such as survey information, site registrations, comments and/or questions from our visitors. Such information is collected via direct submission from the individual visitor. We do not send emails as a form of solicitation. We may however, send you an email in response to any questions and/or comments you might have about our website Although your email address is kept on file within our database, we will never use it to send you follow-up emails, or solicit you in any way.
+**Onward Transfers:** The Company may, in order to perform the Services for Clients, transmit the Personal Information onward to its subsidiaries. The Company shall have entered into contractual arrangements requiring them to provide the same privacy protection as incorporated in the Safe Harbor Principles read with this Policy. If any person has any inquiries in this regard or any complaints as regards onward transfer by the Company, or chooses not to have his or her Personal Information so transmitted onward, the person may please contact the Company officer mentioned above.
 
-With respect to links: Mu Sigma website might contain links to internal or external website locations in order to better facilitate your visit or clarify your query. However, Mu Sigma accepts no responsibility towards the contents and/or information practices of third party websites. This Privacy statement does not apply to any websites that are linked from the website
+**Access:** If any person requests access to his or her Personal Information held by the Company, including for the purpose of correct, amend, or delete that information where it is inaccurate, the Company shall provide such access within a reasonable time after informing the relevant Client of such request. Alternately, the Company shall request the relevant Client to provide access to the Personal Information directly to the requestor. This obligation shall not apply if in a given instance, the burden or expense of providing access would be disproportionate to the risks to the requestor's privacy in the case in question, or where the rights of persons other than the requestor would be violated.
 
-With respect to cookies: Access to the website does not set any cookies. With respect to traffic monitoring: Mu Sigma collects aggregate information on what pages visitors access, and from where visitors originate whether from search engines, referral links or direct entries.
+**Security:** The Company shall take all reasonable precautions to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-With respect to security: Mu Sigma has appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+**Data Integrity:** Personal Information received by the Company shall be relevant for the purposes for which it is to be used. The Company shall not process Personal Information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the Client and/or individual. The Company shall take reasonable steps to ensure that the reliability of the Personal Information for its intended use, or its accuracy, completeness and currency, are not affected.
 
-If you feel that the website is not following this stated information policy, you may contact us at [info@mu-sigma.com](mailto:info@mu-sigma.com)
+**Enforcement:** For any inquiries and complaints, the following person may be contacted: Chief Privacy Officer, [cpo@mu-sigma.com](mailto:cpo@mu-sigma.com), Tel +91 80 4054 9100, Fax +91 80 4113 3739. 
+
+All inquiries and complaints shall be looked into promptly and without charging any fee to the inquirer / complainant. Since the Company merely receives Personal Information from Clients and does not collect the Information itself, the Company shall keep informed and cooperate with the Client from whom the Information related to the inquiry / complaint was received. The Company shall also cooperate with the Data Protection authorities of the European Union in the investigation and resolution of complaints in relation to the treatment of Personal Information under this Policy. The Company will comply with any advice given by such authorities in relation to any complaint. 
