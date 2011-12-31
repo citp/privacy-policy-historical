@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttersafe.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610084404id_/http%3A//buttersafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttersafe.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210726id_/http%3A//buttersafe.com/privacy) for the most accurate reproduction.*
 
 # Buttersafe – Updated Tuesdays and Thursdays » Privacy Policy
 
