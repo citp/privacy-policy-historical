@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the letter-samples.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618005421id_/http%3A//www.letter-samples.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letter-samples.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205057id_/http%3A//www.letter-samples.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
-
-|  |  |   
----|---  
-  
 **Effective Date: Jan. 1, 2007.**  
 LETTER-SAMPLES.COM has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. That is why we have adopted the following policy, which explains our position on information gathering and how we intend to use and share any information we collect. It is important to note that this policy applies only to information collected by LETTER-SAMPLES.COM 
 
@@ -84,9 +79,4 @@ Platform for Privacy Preferences.**
 LETTER-SAMPLES.COM supports P3P, the Platform for Privacy Preferences, which allows us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While our site supports P3P, the resulting code has inherent limitations such that it does not fully and may not accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code for all purposes.  
 **  
 General**  
-LETTER-SAMPLES.COM endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association.  
-  
-   
-|  |   |  |   
----  
- 
+LETTER-SAMPLES.COM endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association.
