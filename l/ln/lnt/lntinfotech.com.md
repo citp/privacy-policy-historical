@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313002730id_/http%3A//www.lntinfotech.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lntinfotech.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211010id_/http%3A//www.lntinfotech.com/privacy.aspx) for the most accurate reproduction.*
 
 # L&T Infotech - Privacy Policy
 
@@ -20,4 +20,4 @@ You may choose to give us personal information, such as your name and address or
 We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on L&T INFOTECH web sites, but we do so in ways that keep the information anonymous. L&T INFOTECH or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
 
 **Mailers**  
-L&T INFOTECH may, choose to send direct mailers to you at the address given by you. We respect your privacy and in the event that you choose to not receive such mailers, kindly let us know in writing or by an e-mail, we will take all steps to remove you from the list.
+L&T INFOTECH may choose to send direct mailers to you at the address given by you. We respect your privacy and in the event that you choose to not receive such mailers, kindly let us know in writing or by an e-mail, we will take all steps to remove you from the list.
