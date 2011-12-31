@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502200348id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100857id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indecision Forever | Political Humor and Satire Blog | 2012 Election | Comedy Central
 
@@ -174,10 +174,10 @@ Copyright © 2009 MTV Networks, a division of Viacom International Inc. – All 
 
 [ ](mailto:theindecider@comedycentral.com)
 
-[ ](http://www.indecisionforever.com/2011/04/25/john-mccain-apparently-not-sold-on-donald-trump/)
+[ ](http://www.indecisionforever.com/tag/michelle-obama/)
 
-## [](http://www.indecisionforever.com/2011/04/25/winner-caption-challenge-donald-trump-2/)
+## [](http://www.indecisionforever.com/2011/12/26/winner-caption-challenge-mitt-romney-8/)
 
-"Trump/Palin 2012... their slogan: You're fired, I quit!!!" 
+"Secret Service agents managed to wrestle the angry protester to the ground before she was able to disable Romney's hard drive." 
 
-[ ](http://www.indecisionforever.com/2011/04/25/winner-caption-challenge-donald-trump-2/)
+[ ](http://www.indecisionforever.com/2011/12/26/winner-caption-challenge-mitt-romney-8/)
