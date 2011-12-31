@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2011-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531003425id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231212751id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head profile="http://www.w3.org/2005/10/profile">
 <!-- template_regular -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Privacy Policies</title>
 <link rel="stylesheet" type="text/css" href="/redesign/style_main.css" media="screen">
 <link rel="stylesheet" href="/redesign/print.css" type="text/css" media="print">
 <link rel="stylesheet" type="text/css" href="/redesign/colorbox.css">
-
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 
 <!--[if lt IE 8]>
@@ -17,29 +17,29 @@
 <![endif]-->
 <!--[if IE 6]><link rel="stylesheet" media="screen" type="text/css" href="http://www.windows2universe.org/redesign/IE6.css" /><![endif]--> 
 <link rel="stylesheet" href="/redesign/horiz-nav.css" type="text/css" media="screen">
-<script type="text/javascript" src="/JavaScript/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/JavaScript/jquery.min.js"></script>
 <script type="text/JavaScript" src="/redesign/zRSS/jquery.zrssfeed.js"></script>
 <script type="text/javascript" src="/redesign/zRSS/jquery.vticker.js"></script>
 <script type="text/javascript" src="/redesign/hoverIntent/jquery.hoverIntent.minified.js"></script>
+<script type="text/JavaScript" src="/redesign/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/JavaScript/win_main_jquery.js"></script>
-
-
 <script type="text/javascript">
 $(document).ready(function() {
 	var feeds = ['http://nsf.gov/rss/rss_www_discoveries.xml','http://www.nasa.gov/rss/breaking_news.rss','http://feeds.feedburner.com/UsgsNewsroomPartial'];
 	for( var i=0; i<feeds.length; i++ ) {
   	  $('#news_left').append('<div id="ticker'+i+'"> </div>');
-  	  $('#ticker'+i).rssfeed(feeds[i], { content: false }).ajaxStop(function() {
-                    $(this).find(' div.rssBody').vTicker({ showItems: 1, pause: 20000, height: 0, speed: 1000});
-   	 });
-
+  		$('#ticker'+i).rssfeed(feeds[i], { content: false }, function(e) {
+                    $(e).find(' div.rssBody').vTicker({ showItems: 1, pause: 20000, height: 0, speed: 1000});
+   	 	});
 	}
 	
+	if ( $('#events_scroll').find('li').length > 2 ) {
 	$('#events_scroll').vTicker({
 		speed: 1000,
 		pause: 20000,
 		showItems: 2
 	});
+	}
 
 	$('#bookmark_button').click( function() {
             $.get( '/php/bookmark.php', $(this).attr('name'), function(data) {
@@ -62,6 +62,7 @@ $(document).ready(function() {
 		$('#donation_ad').hide();
 		 $.get( '/php/ad_close.php');
 	});
+	$('a[href*="quiz.php"]').colorbox({width:"700", height:"800",  opacity:0.5, iframe:true, overlayClose: false});
  });
 </script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -75,13 +76,18 @@ GA_googleAddSlot("ca-pub-7815427952014216", "156x90_bottom_left");
 GA_googleAddSlot("ca-pub-7815427952014216", "156x90_bottom_right");
 GA_googleAddSlot("ca-pub-7815427952014216", "156x90_top_left");
 GA_googleAddSlot("ca-pub-7815427952014216", "156x90_top_right");
+GA_googleAddSlot("ca-pub-7815427952014216", "top_leaderboard");
+GA_googleAddSlot("ca-pub-7815427952014216", "bottom_leaderboard");
+GA_googleAddSlot("ca-pub-7815427952014216", "content_rectangle");
+GA_googleAddSlot("ca-pub-7815427952014216", "left_skyscraper");
+GA_googleAddSlot("ca-pub-7815427952014216", "right_skyscraper");
+GA_googleAddSlot("ca-pub-7815427952014216", "156x192_rectangle");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
 
 
-<script type="text/JavaScript" src="/redesign/jquery.colorbox-min.js"></script>
 <script type="text/JavaScript">
  $(document).ready(function() {
       
@@ -103,11 +109,10 @@ GA_googleFetchAds();
 </head>
 <body>
 <div id="frame">
-<div id="ad_top"><!-- ValueClick Media 728x90 LEADERBOARD CODE for Windows to the Universe -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;tp=5&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=1&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=61158&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
-<!-- ValueClick Media 728x90 LEADERBOARD CODE for Windows to the Universe --></div>
+<div id="ad_top"><!-- top_leaderboard -->
+<script type="text/javascript">
+GA_googleFillSlot("top_leaderboard");
+</script></div>
     <div id="header">
 		<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/logo.gif" border="0"></a></div>
 		
@@ -127,7 +132,7 @@ GA_googleFetchAds();
 		  <input type="hidden" name="edu" value="high">
 		  <input type="hidden" name="lang" value="en">
 		  </form>
-		  <div id="member_link"><a href="/membership.html">Become a Member</a></div>
+		  <div id="member_link"><a href="/membership.html">Become a Member</a><br><a href="/gen_member_benefits.html">Member Benefits, No Ads</a></div>
 		  </div>
 		</div>
 		<div id="nesta_blurb"><a href="http://www.nestanet.org">Brought to you by the National Earth Science Teachers Association</a></div>
@@ -295,23 +300,34 @@ GA_googleFetchAds();
 </li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
 </li></ul>
             </div> <!-- links_left -->
-            	  
-	    <div id="hotchalk"><!-- Begin Adify tag for "WideSkyscraper" Ad Space (160x600) ID #1000004835707 -->
+            	     
+	    <div id="hotchalk"><!-- left_skyscraper -->
 <script type="text/javascript">
-	sr_adspace_id = 1000004835707;
-	sr_adspace_width = 160;
-	sr_adspace_height = 600;
-	sr_ad_new_window = true;
-	sr_adspace_type = "graphic";
+GA_googleFillSlot("left_skyscraper");
 </script>
-<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000004835707">
-</script>
-<!-- End Adify tag for "WideSkyscraper" Ad Space (160x600) ID #1000004835707 --></div>
+ </div>
   
             <div id="news_left">
  	     	     <div id="ticker"> <h4><a href="/multimedia_gallery/rss_feeds.html">RSS Feeds</a></h4> </div> 
 	    <div id="ticker0" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker1" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker2" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div></div>
-
+	           <div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_top_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_top_right");
+        </script>
+	</div>
+	<div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_bottom_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_bottom_right");
+        </script>
+	</div>
+                    <div class="dfp_ad">
+		<!-- ca-pub-7815427952014216/156x90_top_left -->
+		<script type="text/javascript">
+		GA_googleFillSlot("156x90_top_left");
+		</script>
+		</div>
 
     	</div> <!-- column_left -->
 
@@ -370,15 +386,15 @@ Boulder, CO 80305<p></p>
         
 		<div id="last_updated">Last modified November 3, 2010 by <a href="/bio/julia.html">Julia Genyuk</a>.</div>   
 		 
-		<div class="ad_store_content"><a href="/store/product.php?productid=50" target="_blank"><img src="/store/images/T/xctmpXW53GR.png" border="0" class="left"></a><img src="/images/cart_earth.jpg" class="right"><p></p><h4>Shop Windows to the Universe Science Store!</h4>Enjoy your love of minerals and fossils through jewelry!  We have beautiful Nature's Own <a href="http://www.windows2universe.org/store/home.php?cat=12">jewelry</a> in our <a href="http://www.windows2universe.org/store/home.php">online store</a>, including earrings, necklaces, and pendants! </div> 
+		<div class="ad_store_content"><a href="/store/product.php?productid=11" target="_blank"><img src="/store/images/T/xctmpd5pDur.png" border="0" class="left"></a><img src="/images/cart_earth.jpg" class="right"><p></p><h4>Shop Windows to the Universe Science Store!</h4>Our <a href="http://www.windows2universe.org/store/home.php">online store</a> includes <a href="http://www.windows2universe.org/store/home.php?cat=20">books</a> on science education, <a href="http://www.windows2universe.org/store/home.php?cat=19">classroom activities in <i>The Earth Scientist</i></a>, <a href="http://www.windows2universe.org/store/home.php?cat=9">mineral</a> and <a href="http://www.windows2universe.org/store/home.php?cat=10">fossil</a> specimens, and <a href="http://www.windows2universe.org/store/home.php?cat=22">educational games</a>!</div> 
 		 
 	    </div> <!-- content-->
-	<div id="community">       <div id="adrect">
- <!-- ValueClick Media 300x250 Medium Rectangle CODE for Windows to the Universe -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=6&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=61158&m=6&tp=8&d=s&c=1" width=300 height=250 border=1></a></noscript>
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for Windows to the Universe --></div>
+	<div id="community"> <div id="adrect">
+ <!-- content_rectangle -->
+<script type="text/javascript">
+GA_googleFillSlot("content_rectangle");
+</script>
+ </div>
  
   <table border="0">
   <tbody><tr><td colspan="2" align="center"> <h3>Windows to the Universe Community </h3></td></tr>
@@ -393,8 +409,8 @@ Boulder, CO 80305<p></p>
 </div>
 
 	    
-		<div id="features" style="display: none;">
-                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=12"><img src="/images/tes26_2.jpg" width="155"></a><h2><a href="/store/product.php?productid=12">The Earth Scientist, Volume XXVI, Issue 2, Summer 2010</a></h2>Our 2010 Summer issue of The Earth Scientist includes six articles dealing with various aspects of Earth Science. An article from NOAA details how lake effect snow can, under the right conditions, actually occur on the narrow Mississippi River.<a class="more" href="/store/product.php?productid=12">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div><div class="feature"><a href="/partnership_opportunities.html"><img src="/teacher_resources/images/roomful_teachers_reno.jpg" width="155"></a><h2><a href="/partnership_opportunities.html">Windows to the Universe Partnership Opportunities for Education and Outreach</a></h2>Are you looking for an effective and efficient education and outreach program to supplement your research activities? Are you struggling to reach a significant audience of students, teachers, and the public?<a class="more" href="/partnership_opportunities.html">...more</a></div>
+		<div id="features">
+                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=53"><img src="/images/tes25_4.jpg" width="155"></a><h2><a href="/store/product.php?productid=53">The Earth Scientist, Volume XXV, Issue 4, Winter 2009</a></h2>This special issue of The Earth Scientist, which focuses on Earth System science, was sponsored by The Pennsylvania State University TESSE Team. The issue features the work of middle and high school teachers, and graduate and undergraduate students who have participated in the TESSE program from 2006 - 2009.<a class="more" href="/store/product.php?productid=53">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div><div class="feature"><a href="/partnership_opportunities.html"><img src="/teacher_resources/images/roomful_teachers_reno.jpg" width="155"></a><h2><a href="/partnership_opportunities.html">Windows to the Universe Partnership Opportunities for Education and Outreach</a></h2>Are you looking for an effective and efficient education and outreach program to supplement your research activities? Are you struggling to reach a significant audience of students, teachers, and the public?<a class="more" href="/partnership_opportunities.html">...more</a></div>
 		</div> <!-- features -->
 	    
         </div> <!-- column_main -->
@@ -402,31 +418,40 @@ Boulder, CO 80305<p></p>
        
     <div id="column_right">
         <div id="shop" class="highlight">
-        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=55" target="_blank"><img src="/store/images/logo1_white.gif" height="90" border="0"></a>Please help support Windows to the Universe, and our <a href="/teacher_resources/main/teacher_resources.html">activities to help Earth and space science teachers</a>, with a <a href="/store/home.php?cat=15">tax-exempt donation</a> today!        
+        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=43" target="_blank"><img src="/store/images/T/earrings.jpg" height="90" border="0"></a>These beautiful <a href="/store/product.php?productid=43&amp;cat=12&amp;page=1">amethyst earrings</a> are available in our <a href="/store/home.php">online store</a>, along with other <a href="/store/home.php?cat=12">jewelry</a>, <a href="/store/home.php?cat=9">minerals</a>, <a href="/store/home.php?cat=10">fossils</a>, <a href="/store/home.php?cat=7">classroom materials</a>, and <a href="/store/home.php?cat=11">household items</a>.        
         </div>
         <div id="login">
 	        <h2>Please log in</h2>
-        <form method="post" action="https://www.windows2universe.org/php/registration/reg_login_new.php">
+        <form method="post" action="https://www.windows2universe.org/php/registration/reg_login_new.php?lang=en">
         Username:<br><input size="17" name="login" class="bordered"><br>
         Password:<br><input size="17" name="password" type="password" class="bordered">
         <br><input type="submit" name="submit" value="Log in" class="login_button"> 
         <input type="hidden" name="lang" value="en">
         <input type="hidden" name="location" value="/privacy_policy.html">
         </form>
-        <p><a href="/membership.html">Become a member</a>
-        </p></div>       
+        <p><a href="/membership.html">Become a member</a><br><a href="/gen_member_benefits.html">Member Benefits, No Ads</a><br>
+	 <a href="/php/registration/reg_school.php">School Subscriptions</a><br>
+	  <a href="/php/registration/reg_menu_school.php">School/Classroom Login</a></p><p><a href="/php/teacher_resources/quiz.php"><font color="red">Test your knowledge</font></a></p>
+        </div>   
+      <div class="dfp_double_ad">
+      <!-- 156x192_rectangle -->
+      <script type="text/javascript">
+      GA_googleFillSlot("156x192_rectangle");
+      </script>
+      </div>    
         <div id="google_mockup">
-	<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for Windows to the Universe -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;tp=7&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=3&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=61158&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for Windows to the Universe -->
+	<!-- right_skyscraper -->
+<script type="text/javascript">
+GA_googleFillSlot("right_skyscraper");
+</script>
         </div>
+ 
 	<div id="blogs">    <h4>Science Blogs</h4>
     <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a>
     </p><p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a>
     </p><p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a>
     </p><p><a href="http://www.talkingscience.org/category/citizen-science-buzz/" target="_blank">Citizen Science Buzz</a></p></div>
+    
         <div id="sponsors" class="highlight">
             <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Generous sponsorship of Windows to the Universe is provided by the Hewlett Foundation, the American Geological Institute, the American Geophysical Union, the National Science Foundation, NASA, NCAR, and the CISM and CMMAP projects.<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
     <map name="m_sponsors2">
@@ -442,38 +467,14 @@ Boulder, CO 80305<p></p>
     <area shape="rect" coords="4,4,37,38" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
 </map>      
         </div>
-                <div class="dfp_ad">
-	<!-- ca-pub-7815427952014216/156x90_top_right -->
-        <script type="text/javascript">
-        GA_googleFillSlot("156x90_top_right");
-        </script>
-	</div>
-	<div class="dfp_ad">
-	<!-- ca-pub-7815427952014216/156x90_bottom_right -->
-        <script type="text/javascript">
-        GA_googleFillSlot("156x90_bottom_right");
-        </script>
-	</div>
-                    <div class="dfp_ad">
-		<!-- ca-pub-7815427952014216/156x90_top_left -->
-		<script type="text/javascript">
-		GA_googleFillSlot("156x90_top_left");
-		</script>
-		</div>
+    
     </div> <!-- column_right -->
 
     <div id="footer">
-  <div id="adsense_bottom"><!-- Begin Adify tag for "Leaderboard" Ad Space (728x90) ID #1000004835807 -->
+  <div id="adsense_bottom"><!-- bottom_leaderboard -->
 <script type="text/javascript">
-	sr_adspace_id = 1000004835807;
-	sr_adspace_width = 728;
-	sr_adspace_height = 90;
-	sr_ad_new_window = true;
-	sr_adspace_type = "graphic";
-</script>
-<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000004835807">
-</script>
-<!-- End Adify tag for "Leaderboard" Ad Space (728x90) ID #1000004835807 -->  </div> 
+GA_googleFillSlot("bottom_leaderboard");
+</script>  </div> 
         <div id="footer_content">
           <ul>
           <li><a href="/about_windows.html">About Us</a></li>
