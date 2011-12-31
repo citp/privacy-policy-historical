@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreegames.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522202940id_/http%3A//www.gameteam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreegames.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231010828id_/http%3A//www.gametop.com/privacy.html) for the most accurate reproduction.*
 
 # MEDIA CONTACT LLC WEB SITE PRIVACY STATEMENT
 
@@ -35,6 +35,6 @@ To provide relevant information not found on our Web site, Media Contact LLC may
 Any personal information that you disclose while visiting any of our websites is collected by Media Contact LLC, and is used in the manner specified above.
 
 **Questions and Complaints**  
-If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us.
+If you have any questions, complaints or comments regarding our Privacy Policy Statement, [please contact us](http://www.gametop.com/email/).
 
 By using this site, you signify your assent to the Media Contact LLC Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
