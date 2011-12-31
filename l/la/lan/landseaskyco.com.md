@@ -1,0 +1,5 @@
+> *The following text is extracted and transformed from the landseaskyco.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231050222id_/http%3A//www.landseaskyco.com/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+
+# viewall : Land Sea and Sky, Houston TX, Takahashi Telescopes, Microscopes, Binoculars, Weather Instruments, Gifts, Service and Repair
+
+We strive to protect our customers' privacy. Any and all information collected at this website will be kept confidential and will not be sold, rented, reused, disclosed or loaned. We will occaisionally send you an email on an upcoming event or special promotion but we do not share any email addresses or any information with anyone outside of Land, Sea & Sky that is not directly invovled in processing your sales order. Any information you provide to Land, Sea & Sky will be held with the utmost care and will not be used in ways you have not consented to. If you have any questions, please feel free to call or email us.
