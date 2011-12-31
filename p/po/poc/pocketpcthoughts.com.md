@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketpcthoughts.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511041423id_/http%3A//www.thoughtsmedia.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketpcthoughts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112536id_/http%3A//www.thoughtsmedia.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Thoughts Media Inc
 
