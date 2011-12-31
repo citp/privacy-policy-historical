@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521010502id_/http%3A//uktv.co.uk/network/item/aid/614892) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212735id_/http%3A//uktv.co.uk/network/item/aid/614892) for the most accurate reproduction.*
 
 # Privacy Policy
 
