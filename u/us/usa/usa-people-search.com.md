@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618113025id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210305id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 **People Database**  
 The records that you see when you run searches on USA People Search are all public records. If you are surprised to see yourself in our database, this is most likely due to having property records, marriage records, or some other type of public record that was created at some time in your life. We don't create any of the records in our database, we simply aggregate public records from thousands of sources. We are basically like Google, but instead of searching for web sites you are searching for people.   
 **Security**  
-USA People search takes every precaution to protect out users' information. When users submit sensitive information via the website, your information is protected both online and offline. 
+USA People search takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and offline. 
 
 When our registration form asks users to enter sensitive information (such as credit card number or contact information), that information is encrypted and protected with the best encryption software in the industry. Our servers are behind firewalls as well. 
 
