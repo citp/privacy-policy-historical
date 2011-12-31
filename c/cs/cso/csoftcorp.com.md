@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csoftcorp.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413004149id_/http%3A//www.csoftcorp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csoftcorp.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210816id_/http%3A//www.csoftcorp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
