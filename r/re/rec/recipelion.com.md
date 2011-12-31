@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626024513id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213644id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecipeLion.com
 
@@ -129,11 +129,11 @@ Should the Company choose to sell or transfer business assets, it is possible th
 
 COMPANY CUSTOMER CHOICES
 
-Marketing Communications  
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking here and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+Marketing Communications and Unsubscribe Information  
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.recipelion.com/index.php/hct/contact_us_page) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
 
 Request for More Information  
-As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, PO Box 663, Highland Park, IL 60035-0663.
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 340, Northbrook, IL  60062.
 
 WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?  
 Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.
@@ -158,8 +158,16 @@ Please Wait
 
 #### Thanks for signing up
 
-#### Sorry, we could not sign you up.  
-  
-| 
+#### Sorry, we could not sign you up.
 
-If you have a friend that you would like to show this page to, or simply want to send it to yourself as a reminder, just use the below form.
+##### Something worth saving?
+
+[Register now](https://web.archive.org/section/account/action/login) to:
+
+  * save all your favorite recipes
+  * add personal notes
+  * quickly reference your recipes
+
+  
+  
+---|---|---
