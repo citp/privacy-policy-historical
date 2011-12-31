@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623221221id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204432id_/http%3A//www.napster.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -61,7 +61,7 @@ We sometimes use third party service providers to help us track the activity and
 
 Our advertisers and other third parties whose products or services are promoted on our site may also use cookies, and we advise you to check their privacy policies for information about their cookies and other privacy practices. 
 
-You are not obliged to accept cookies. Most web browsers automatically accept cookies but you may modify your browser so that it will not accept cookies. Please use the help tools provided with your browser to find out how to achieve this. 
+You are not obliged to accept cookies. Most web browsers automatically accept cookies but you may modify your browser so that it will not accept cookies. Please use the help tools provided with your browser to find out how to achieve this. Napster sets cookies from the "napster.co.uk" domain.
 
 Other. In order to personalise our service for your enjoyment and to monitor and improve the performance of our technology, we capture other data such as members' search criteria and results. We only share this data on an aggregate basis. Also for internal purposes, we gather information such as date, time, connection speed and IP address of all service users. We keep this information for our internal security audit log, aggregate trend analysis, and system administration. 
 
