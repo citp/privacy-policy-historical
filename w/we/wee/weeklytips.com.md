@@ -1,87 +1,64 @@
-> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218201855id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklytips.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231052753id_/http%3A//www.multiplestreammktg.com/advertising/privacy-policy.html) for the most accurate reproduction.*
 
-# Multiple Stream Media - Our Advertisers
+# Multiple Stream Media. Internet Advertising Services. Online Advertising Network.
 
-> **COPYRIGHT**
-> 
-> All content included on this site, such as text, graphics, logos, button icons, images, audio clips and software, is the property of Multiple Stream or its content suppliers and protected by U.S. and international copyright laws. No part of this website may be reproduced or transmitted in any form or by any means without written permission from the authors.
-> 
-> **PRIVACY POLICY**
-> 
-> MultipleStreamMktg.com has created this privacy statement in order to demonstrate our firm commitment to privacy. 
-> 
-> **Logging**  
->  We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
-> 
-> **Use of Cookies**  
->  A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Our site uses cookies to make sure you don't see the same ad repeatedly.  We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit certain sections of our site that require a login for use, such as our advertiser's area.  
-> 
-> **Registration**  
->  In areas of our site that require registration, our site's registration form requires users to give us contact information (like their name and email address).  Your contact information is used to deliver the publication that you subscribed to, and to contact you if it becomes necessary to provide you with customer support. Your contact information is also used to notify you of special promotions from MultipleStreamMktg.com.com and our network sites.  MultipleStreamMktg.com pledges that we will never release your name or e-mail address to a third party for any purpose. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-> 
-> **Links**  
->  This site contains links to other sites. MultipleStreamMktg.com is not responsible for the privacy practices or the content of such Web sites.
-> 
-> Our online form ask visitors for contact information (like their email address) and demographic information (like their zip code, category of interest). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis only.
-> 
-> “Aggregate” means that we may provide advertisers with general statements about our site visitors as a group, such as “90% of the visitors to our site are from the United States” (aggregate information).  We will never provide advertisers with information that is specific to you as an individual, such as your email address.
-> 
-> **Security**  
->  This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including daily backups of all data. Only authorized personnel are allowed physical and/or digital access to servers and data, and each authorized personnel has signed a Non-Disclosure agreement prior to being granted access. All servers and data backups are kept secure from physical and electronic intrusion by use of firewalls and redundant security systems, which are constantly being evaluated and upgraded.
-> 
-> **Double Opt-in Registration**  
->  We employ a double opt-in process, which requires that you confirm your intent to subscribe by replying to a confirmation message sent to your email address before your subscription request is activated. The double opt-in process is used to ensure that only email addresses from those persons wishing to subscribe are added to our subscription lists.
-> 
-> **Choice/Opt-Out**  
->  Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
-> 
-> This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-> 
->   1. You can login to your Advertiser Area and click on "Delete Account"
->   2. You can [email us](http://www.multiplestreammktg.com/helpdesk/index.html).
->   3. You can send mail to the following postal address:  
->  Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
->   4. You can call the following telephone number: 845.247.2565
-> 
+| **How do we protect your information?**
 
-> 
-> **Correct/Update**  
->  This site gives users the following options for changing and modifying information previously provided.
-> 
->   1. You can login to your Advertiser Area and click on "Edit Account"
->   2. You can send email to admin@MultipleStreamMktg.com
->   3. You can send mail to the following postal address:  
-> 
-> 
-> Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
-> 
->   4. You can call the following telephone number:   
->  (845) 247 2565   
->  (845) 247 2567  
->  Fax: (845) 247 2569  
-> 
-> 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-> 
-> **Policy Changes - This Privacy Policy is subject to change**    
->  Modifications to this policy will be posted publicly on this page. 
-> 
-> **Contacting the Web Site**  
->  If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-> 
-> Multiple Stream Media LLC  
->  603 Old Stage Road, Main Bldg.  
->  Saugerties, NY 12477
-> 
-> Telephone:  
->  (845) 247 2565   
->  (845) 247 2567  
->  Fax: (845) 247 2569
-> 
-> **DISCLAIMER OF WARRANTIES, LIMITATION OF LIABILITIES, INDEMNIFICATION**
-> 
-> Multiple Stream DOES NOT WARRANT THAT THE WEBSITE AND SERVICE WILL BE ERROR FREE OR UNINTERRUPTED. THE WEBSITE AND SERVICE IS DISTRIBUTED ON "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED. ON TARGET MARKETING, INC. WILL NOT BE RESPONSIBLE FOR ANY LOSSES, DAMAGES OR COSTS THAT YOU AND/OR YOUR BUSINESS MAY SUFFER WHEN USING THE WEBSITE OR SERVICE. YOU AGREE TO INDEMNIFY AND HOLD HARMLESS "ON TARGET MARKETING, INC." FROM ANY CLAIMS RESULTING FROM YOUR USE OF THE WEBSITE OR SERVICE. YOU EXPRESSLY AGREE THAT USE OF THE WEBSITE OR SERVICE IS AT YOUR SOLE RISK. NEITHER ON TARGET MARKETING, INC. NOR ITS SERVICE PROVIDERS, AGENTS, LICENSORS, EMPLOYEES SHALL HAVE ANY LIABILITY FOR ANY DAMAGES SUFFERED BY YOU OR ANY OTHER PARTY AS A RESULT OF THE USE OR MISUSE OF THE SERVICE.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance  
+**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.multiplestreammktg.com/advertising/terms.html
+
+**Your Consent**
+
+By using our site, you consent to our websites privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.multiplestreammktg.com  
+544 Sawmill Road  
+Hurley, New York 12443  
+USA  
+company@multiplestreammktg.com  
+845-383 1007
+
+* * *
