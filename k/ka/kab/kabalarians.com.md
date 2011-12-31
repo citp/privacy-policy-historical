@@ -1,20 +1,68 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602023555id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205249id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
 ## Privacy Policy
 
-We guard your privacy like it was our own! Under no circumstances is your info given, sold or shared with others. Period!
+The **Kabalarian Philosophy** and the **Society of Kabalarians of Canada** have been providing Balanced Name Recommendations, Name Reports, and other services to the public for over 80 years. We are a provincially registered non-profit society. Our policy is that all the information you provide us is kept **strictly private and confidential** and is used **only** in preparing your Name Report. We guard your privacy like it was our own! Under no circumstances is your information given, sold, or shared with others. 
 
-The **Kabalarian Philosophy** and the **Society of Kabalarians of Canada** have been providing Balanced Name Recommendations, Name Reports, and other services to the public for over 80 years. We are a provincially registered non-profit society. 
+### Our Privacy Commitment
 
-Our policy is that all the information you provide us is kept **strictly private and confidential** and is used **only** in preparing your Name Report™. We do not in any way sell, trade, or distribute any personal information, address, e-mail, or telephone numbers with any organizations, governments, or companies.
+We, at the Society of Kabalarians of Canada ("Society") are firmly committed to protecting the privacy, confidentiality, accuracy and security of our customers', students', and members' ("customers") personal information. We do not collect any personally identifying information about customers unless it has been specifically provided to us by the customer. We will not sell, trade or rent any personal information of our customers to any third parties. If you are under 18 be sure to obtain your parent(s) or guardian(s) permission before you send any personal information to us. We have created this privacy policy in order to demonstrate our firm commitment to protect our customers' privacy and to answer the following questions: 
 
-We protect the personal information you share with us. For example, if you make an online purchase with us, we encrypt your credit card number. Access to your personal information is limited to people who need it to do their job. 
+  * What personal information may be collected from you 
+  * How is the personal information used 
+  * With whom may the information be shared 
+  * What choices are available to you regarding collection, use and disclosure of the information 
+  * What kind of security procedures are in place to protect loss, misuse or alteration of information under our control 
+  * How can you correct any inaccuracies in the information 
+  * How long do we keep your personal information 
 
-Shipping companies (Fed Ex, UPS) may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We provide these companies with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third-parties, unless you have granted us permission to do so. 
 
-We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Kabalarian Philosophy's terms and conditions, or as otherwise required by law. We may respond to subpoenas, court orders, or legal process. We also may choose to establish or exercise our legal rights or defend against legal claims.
+
+Our privacy policy is based on the Canadian Standards Association Model Code for the Protection of Personal Information (CAN/CSA-Q30-96) and describes how the Society subscribes to the following Ten Privacy Principals in summary: 
+
+### Principle 1 - Accountability
+
+Society is responsible for maintaining and protecting customer personal information under its control. Society has formed a Privacy Team comprised of associates who are accountable for Society's compliance with our Ten Privacy Principles. 
+
+### Principle 2 - Identifying purposes
+
+The purpose for collecting personal information from people will be identified before the information is collected. 
+
+### Principle 3 - Consent
+
+We shall require the customer's knowledge and consent for the collection, use or disclosure of their personal information, except where required or permitted by law. 
+
+### Principle 4 - Limiting Collection
+
+Any personal information we collect from our customer, by fair and lawful means, will be limited to only those details necessary for the identified purpose. We will not collect more information than we need to fulfill the purpose identified to our customer. 
+
+### Principle 5 - Limiting Use, Disclosure, and Retention
+
+Our customer's personal information will not be used or disclosed for purposes other than those for which it was collected, except with the customer's consent or as required by law. We will keep customer's personal information only for as long as necessary to fulfill the purpose identified to our customer. 
+
+### Principle 6 - Accuracy
+
+We will keep our customer's personal information accurate, complete and up-to-date as is necessary for the purposes for which it is to be used. 
+
+### Principle 7 - Safeguards
+
+Customer's personal information shall be protected with security measures that are appropriate for the sensitivity level of the information. 
+
+### Principle 8 - Openness
+
+We will provide and make readily available to customers information on our policies, procedures and practices relating to how the customer's personal information is managed. 
+
+### Principle 9 - Customer Access
+
+Upon request, a customer will be informed of the existence, use, and disclosure of his or her personal information and will be given access to that information. A customer may verify the accuracy and completeness of the information and have it amended as appropriate. 
+
+### Principle 10 - Compliance
+
+A customer may forward any questions or enquiries about compliance with these privacy principles to our Privacy Team Coordinator. 
+
+We protect the personal information you share with us. For example, if you make an online purchase with us, we encrypt your credit card number. Access to your personal information is limited to people who need it to do their job in our office. 
 
 ### Data Retention
 
@@ -38,11 +86,19 @@ We do not knowingly collect personal information from children under the age of 
 
 
 
+### Shipping Information
+
+Shipping companies (Fed Ex, UPS) may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We provide these companies with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third-parties, unless you have granted us permission to do so. 
+
+### Legal Proceedings
+
+We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Kabalarian Philosophy's terms and conditions, or as otherwise required by law. We may respond to subpoenas, court orders, or legal process. We also may choose to establish or exercise our legal rights or defend against legal claims.
+
 ### Accessing and Updating Information
 
 We need your help in making sure your personal information is correct in our systems. Please notify us of changes to your name, address, title, phone number or e-mail address. 
 
-Each e-mail newsletter has instructions on how to unsubscribe.
+Each email newsletter has instructions on how to unsubscribe.
 
 The Kabalarian Philosophy forums are public. Please consider this before posting.
 
@@ -61,13 +117,13 @@ We will only use your personal information in the ways specified when it was col
 
 ### Policy Updates
 
-All updates to this policy will be posted here. Last update: May 28, 2010
+All updates to this policy will be posted here. Last update: October 12, 2011
 
 ###  Need Help with an Update, Access or Unsubscribe Request?
 
 [Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback.cfm). To aid in processing your request, please include the following details:
 
-  * Contact information (your name, address, e-mail address, etc.) 
+  * Contact information (your name, address, email address, etc.) 
   * Name of the program where you want the update applied 
   * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) 
 
@@ -82,7 +138,7 @@ Check out the privacy policy frequently asked questions (FAQs) listed below. Sho
 ###  FAQs
 
 **_Q: What should I do if I have a privacy question after reading the policy and FAQs?_**  
-A: As always, you can send your privacy questions and comments to us at [info1@kabalarians.com](mailto:info1@kabalarians.com?Subject=Privacy%20Question). We will use these items as input to future FAQs. Please send technical support questions to the [technical support department](mailto:technical99@kabalarians.com?Subject=Technical%20Question). 
+A: As always, you can send your privacy questions and comments to us at [privacy@kabalarians.com](mailto:privacy@kabalarians.com?Subject=Privacy%20Question). We will use these items as input to future FAQs. Please send technical support questions to the [technical support department](mailto:technical99@kabalarians.com?Subject=Technical%20Question). 
 
 _**Q: Does this policy also cover personal information collected offline?**_  
 A: Yes. We strive to have consistent privacy practices for your personal information, regardless of the medium used to collect the information. 
