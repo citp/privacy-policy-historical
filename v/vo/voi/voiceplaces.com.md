@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceplaces.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625212400id_/http%3A//www.voiceplaces.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceplaces.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211932id_/http%3A//www.voiceplaces.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Voice Places Privacy Policy
 
@@ -76,7 +76,7 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@voiceplaces.com](mailto:community@voiceplaces.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@villagevoicemedia.com](mailto:community@villagevoicemedia.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
