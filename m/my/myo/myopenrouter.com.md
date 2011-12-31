@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312145003id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopenrouter.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205159id_/http%3A//www.myopenrouter.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: MyOpenRouter
 
@@ -12,7 +12,7 @@ We do not collect any personal information about our users other than when you e
 
 Through our site, you may publish, rate or discuss content such as an article, quick tip, or a forum topic. In most cases your content and information will be made publicly available to the website community unless specified differently in your user configuration. By contributing to the community in this way, you are giving Capable Networks permission to republish and use this information as per the Capable Networks' User Agreement **[Terms of Use](https://web.archive.org/help/terms_of_use). **
 
-We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this site, other web sites and other forms of media in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
   
 
