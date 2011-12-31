@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613193605id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedingamerica.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214353id_/http%3A//feedingamerica.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Except as otherwise indicated, Feeding America uses the personally identifiable 
 
 **Opt Out**
 
-You may choose not to receive such information and/or to allow Feeding America to use your information in the manner described above by simply checking the box provided on the contribution form itself, or by contacting us directly at [fundraise@secondharvest.org](mailto:fundraise@secondharvest.org). Upon receipt and processing of an "opt out" request, Feeding America will, within its commercially reasonable amount of time, remove your information from any future marketing communications.
+You may choose not to receive such information and/or to allow Feeding America to use your information in the manner described above by simply checking the box provided on the contribution form itself, or by contacting us directly at [fundraise@feedingamerica.org](mailto:fundraise@feedingamerica.org). Upon receipt and processing of an "opt out" request, Feeding America will, within its commercially reasonable amount of time, remove your information from any future marketing communications.
 
 **Security; No Liability**
 
