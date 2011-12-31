@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501144054id_/http%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchlotto.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205244id_/http%3A//www.searchlotto.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Search Lotto - Search the Internet for your chance to win
+# Privacy Policy - Play the National Lottery for free by searching the web
 
-**Updated as of 01/03/2010**
+**Updated as of 25/10/2010**
 
 **What Information Do We Collect**
 
@@ -36,10 +36,9 @@ SearchLotto.co.uk use cookies:
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit:  
+<http://networkadvertising.org/managing/opt_out.asp>
+
 **Security**
 
-All personal information is encoded using Secure Sockets Layer (SSL) technology before being sent over the Internet.
-
-To make the most of the security on our site, we recommend using either Netscape Navigator® or Microsoft® Internet Explorer™ version 4.0 or higher, both of which enable SSL. We also recommend setting your browser's preferences to accept cookies and enable JavaScript™. 
-
-We employ security measures to prevent unauthorised access to information that we collect online. However, we cannot guarantee the security of your personal information.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
