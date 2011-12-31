@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630005315id_/http%3A//www1.voanews.com/english/news/69075687.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voanews.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204531id_/http%3A//www1.voanews.com/english/news/69075687.html) for the most accurate reproduction.*
 
 # English - Terms of Use and Privacy Notice | News | English
 
