@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hindilyrics.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629133522id_/http%3A//www.hindilyrics.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindilyrics.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211220id_/http%3A//hindilyrics.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hindilyrics.net
-
-  
-
 
 Invention of internet has revolutionized the whole communication system. Today, more and more people are on internet for almost every need. With the increase in the usage of internet, privacy has become a major fear. 
 
