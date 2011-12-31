@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jblpro.com privacy policy that was archived on 2011-01-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110123221946id_/http%3A//www.jbl.com/EN-US/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jblpro.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231215529id_/http%3A//www.jbl.com/EN-US/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html __expr-val-dir="ltr" dir="ltr"><head><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0">
 
@@ -19,19 +19,48 @@ JBL - Privacy Policy
  
 function ClickLogo()
 {
-        var url = location.href;        
-        if(url.toUpperCase().indexOf('NL-NL') != -1)
+        var url = location.href;   
+     
+        if(url.toUpperCase().indexOf('NL-NL') != -1 || url.toUpperCase().indexOf('EN-GB') != -1 || url.toUpperCase().indexOf('FR-FR') != -1 || url.toUpperCase().indexOf('DE-DE') != -1)
         {
           return true;
+        }                   
+        
+        else
+        {
+        //url = url.replace('http://','');
+        //var urlA = url.split('/');
+        //url = "http://"+ urlA[0] +"/" + urlA[1];
+        //location.href = url;
+        var httpIndex = url.indexOf('http');
+        var httpsIndex = url.indexOf('https');
+        if(httpsIndex != -1)
+        {        
+        url = url.replace('https://','');
+        var urlA = url.split('/');
+        url = "https://"+ urlA[0] +"/" + urlA[1];
         }
         else
-        {       
-        
+        {
         url = url.replace('http://','');
         var urlA = url.split('/');
         url = "http://"+ urlA[0] +"/" + urlA[1];
-        location.href = url;
         }
+
+	//15th Dec 2011
+	if(url.toUpperCase().indexOf('EN-US') != -1)
+        {
+         
+	   location.href = "http://www.jbl.com/en-US/Pages/home.aspx";
+		
+
+        }
+	else
+	{
+
+	        location.href = url;
+	}
+      }  
         
 }
  </script>
@@ -43,11 +72,27 @@ function ClickLogo()
         {
             alert("Some invalid characters in the URL");
             
-            url = url.replace('http://','');
-            var urlA = url.split('/');
-            url = "http://"+ urlA[0];
-            location.href =url ;
+            //url = url.replace('http://','');
+            //var urlA = url.split('/');
+            //url = "http://"+ urlA[0];
+            //location.href =url ;
             
+            var httpIndex = url.indexOf('http');
+        	var httpsIndex = url.indexOf('https');
+        	if(httpsIndex != -1)
+       		{
+        	url = url.replace('https://','');
+        	var urlA = url.split('/');
+        	url = "https://"+ urlA[0] +"/" + urlA[1];
+        	}
+        	else
+        	{
+        	url = url.replace('http://','');
+        	var urlA = url.split('/');
+        	url = "http://"+ urlA[0] +"/" + urlA[1];
+        	}
+        	location.href = url;
+       		}            
         }    
     
 </script>
@@ -57,9 +102,11 @@ function ClickLogo()
 <!--<script type="text/javascript" src="/_layouts/1033/js/sifr.js"></script> 
 <script type="text/javascript" src="/_layouts/1033/js/sifr-config_jbl.js"></script> 
 <script type="text/javascript" src="/_layouts/1033/js/sifr-debug.js"></script> -->
+<!--[if lt IE 9]>
 <script type="text/javascript" src="/_layouts/1033/js/prototype.js"></script>
 <script type="text/javascript" src="/_layouts/1033/js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="/_layouts/1033/js/lightbox_jbl.js"></script> 
+<![endif]-->
 
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/jbl.css"> 
 <!--<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/sifr.css" /> -->
@@ -100,7 +147,7 @@ dhtmlmodal.open('addaccessgroup', 'iframe', '/EN-US/Products/Pages/ProAudioInter
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xA366BF3983B63AEEF41C59BD901B02FB76A8AA263711A93C2D6272BC17F7D7BA17DD4C3777BBAF5E3D55F862BD06827FB8A8C4735AB32A7BCFE9D974E8587750,23 Jan 2011 22:19:45 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xE3CBC6884B29FE3D1B0A8C7E3F892FF20A3D5A4B7956A5C0435941425642A94A801A8E56AB6B1E60B314B484EE6824E3404937DF438F1C80884F93623E71DC58,31 Dec 2011 21:55:28 -0000">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
@@ -250,7 +297,7 @@ function ValidateSearchBox()
 			    <div class="masterNav">
 					<span></span><table class="tablemasternavigation" border="0">
 	<tbody><tr>
-		<td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=HOM">Home Audio</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=PER">Personal Audio</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=CAR">Car Audio</a></td><td class="h1_Navigation"><a href="http://www.harmanaudio.com/?utm_source=JBL&amp;utm_medium=mainnav&amp;utm_campaign=buyjbl" target="_blank">buy from JBL</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/WhereToBuy.aspx">find a retailer</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/MyAccount/Pages/ProductRegistrationProcess.aspx">registration</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Support/Pages/SupportOverView.aspx">support</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/AboutUS/Pages/AboutUS.aspx">about us</a></td>
+		<td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=HOM">Home Audio</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=PER">Personal Audio</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=CAR">Car Audio</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/MarketGroup.aspx?MID=MARINE">marine audio</a></td><td class="h1_Navigation"><a href="http://www.harmanaudio.com/?utm_source=JBL&amp;utm_medium=mainnav&amp;utm_campaign=buyjbl" target="_blank">buy from JBL</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Products/Pages/WhereToBuy.aspx">find a retailer</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/MyAccount/Pages/ProductRegistrationProcess.aspx">registration</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/Support/Pages/SupportOverView.aspx">support</a></td><td class="h1_Navigation"><a href="http://www.jbl.com/EN-US/AboutUS/Pages/AboutUS.aspx">about us</a></td>
 	</tr>
 </tbody></table>
 				</div>
@@ -325,8 +372,8 @@ function ValidateSearchBox()
 		<td id="MSOZoneCell_WebPartWPQ4" valign="top"><table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr>
 				<td valign="top"><div webpartid="26d2b7a1-4f38-4c38-831e-c25348e007b9" haspers="false" id="WebPartWPQ4" width="100%" class="ms-WPBody" allowdelete="false" style=""><p><span class="storyHeadline">Who We Are:</span></p>
-<p>This web site is operated by or on behalf of Harman Consumer, Inc. (“referred to as “Harman”, “we”, “our” and “us”). Harman’s registered address is:
-<br><br>Harman Consumer, Inc.<br>400 Atlantic Street<br>Suite 1500<br>Stamford, CT 06901 U.S.A. </p>
+<p>This web site is operated by or on behalf of Harman International Industries, Inc. (“referred to as “Harman”, “we”, “our” and “us”). Harman’s registered address is:
+<br><br>Harman International Industries, Inc.<br>400 Atlantic Street<br>Suite 1500<br>Stamford, CT 06901 U.S.A. </p>
 <p><span class="storyHeadline">Introduction: </span></p>
 <p>Harman provides you this privacy policy to explain to you how Harman collects, uses and protects your personal information when you visit Harman’s web sites and when you use Harman’s products. Harman respects your privacy and is committed to securing your personal information. This privacy policy was last updated on July 15, 2010. By using this website, you consent to our privacy policy and to Harman’s terms of use. Please do read this privacy policy and the terms of use carefully before contributing any information to this website. </p>
 <p><span class="storyHeadline">Collecting and Using Your Personal Information: </span></p>
@@ -568,28 +615,29 @@ Sys.Application.initialize();
 <!-- end -->
 
 <!-- This section is for google analytics : updated 05/10  Ticket 214 -->
-<script type="text/javascript"> 
+<!--<script type="text/javascript"> 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-11287980-3");
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}</script>-->
 <!-- end -->
 
 <script type="text/javascript"> 
-
-       var url = location.href;
-        if(url.toUpperCase().indexOf('NL-NL') != -1)
-         {
-           document.getElementById('logoClick').style.cursor = 'pointer !Important';
-          }
-          else 
-          {
-          	document.getElementById('logoClick').style.cursor ='hand';
-          }
+ 
+		var url = location.href;
+		  if(url.toUpperCase().indexOf('NL-NL') != -1 || url.toUpperCase().indexOf('EN-GB') != -1 || url.toUpperCase().indexOf('FR-FR') != -1 || url.toUpperCase().indexOf('DE-DE') != -1)
+		 {
+		 document.getElementById('logoClick').style.cursor = 'pointer !Important';
+		 }
+		 else 
+		{
+		document.getElementById('logoClick').style.cursor ='hand';
+		}           
+ 
 </script>
 
 
