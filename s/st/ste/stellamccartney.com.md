@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613101350id_/http%3A//www.stellamccartney.com/default/footernav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203927id_/http%3A//www.stellamccartney.com/default/footernav/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ You will also be given the opportunity to “unsubscribe” from our marketing l
 Cookies are pieces of information the Site can send to your computer's browser for record-keeping purposes. We use cookies in connection with your online purchases (if any) to give you a better experience when you return to the Site. For example, cookies allow us to save your password so you do not have to re-enter it every time you visit our site. Most web browsers automatically accept cookies, but you do not have to accept them. To disable cookies, you should access the "help" tab on your browser or read the information that came with your browser software. However, your visit to our Site will be significantly enhanced if cookies are not disabled. For more details on cookies visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
  
-  11. ### Your California Privay Rights
+  11. ### Your California Privacy Rights
 
 If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you request it, we will provide you with a notice of your right to prevent sharing of your personal information, as well as a cost-free means of doing so. To receive such a notice, submit a request to the address listed in the Contact section below, specifying that you seek your California Customer Choice Notice. Please allow thirty days for a response.
 
