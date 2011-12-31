@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shorturl.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129115340id_/http%3A//www.shorturl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shorturl.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214146id_/http%3A//www.shorturl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # shortURL.com - free short URL redirection with no ads!
 
@@ -9,4 +9,4 @@ ShortURL may share non-identifiable aggregate information about our users with a
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ShortURL.com can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
-ShortURL may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) shortURL rights or property, other ShortURL users, or anyone else that could be harmed by such activities. ShortURL may disclose user information when we believe in good faith that the law requires it. 
+ShortURL may disclose a users's information if we believe that it is reasonably necessary to comply with a legal request such as a court order; to protect the safety of any person; to address fraud; or to protect ShortURLs rights and properties. 
