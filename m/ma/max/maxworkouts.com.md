@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517102331id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095052id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
 
 # MAX WORKOUTS: Privacy Policy
 
