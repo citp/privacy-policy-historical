@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515193538id_/http%3A//www.sinalite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinalite.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231093201id_/http%3A//sinalite.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Sinalite Privacy Policy
+# Privacy Policy | Sina Lite
 
 Sinalite recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website at www.Sinalite.com ("Website"), you agree to this Privacy Policy.This Privacy Policy explains the information practices that apply to personally identifiable information that we collect about you as an individual ("Personal Information"), when you visit and/or use our Website, or when you purchase and/or use our products or services. This Privacy Policy does **not** apply to information about you collected by our affiliates or third party websites that may post links or advertisements on or otherwise be accessible from the Website. The information collected by these affiliates or third party websites is subject to their own privacy policies. 
 
