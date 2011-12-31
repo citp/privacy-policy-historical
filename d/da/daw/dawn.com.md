@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629093643id_/http%3A//www.dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213703id_/http%3A//www.dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
 
 # DAWN PRIVACY POLICY DAWN.COM | Latest news, Breaking news, Pakistan News, world news, business, sport and multimedia.
 
