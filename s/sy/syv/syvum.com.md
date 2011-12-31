@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130100645id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214610id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
@@ -24,7 +24,9 @@ There are times when we may collect personal information from you. It is our int
 
 _**Syvum does not engage in or support spamming or misuse of email addresses.**_
 
-We require your email address when you register as a member to our Teens or Individual Clubs (for ages > 13). Your email address is used once to send you a welcome notice, and may be used to send emergency emails (such as a major change to our service, or to send your password if you lose/forget it). If you take part in our contests, and are a winner, your prize notification will also be sent at that address. Any other emails from Syvum will only be sent to you if you explicitly ask us to send them by subscribing to any of our optional services. 
+We require your email address when you register as a member to our Teens or Individual Clubs (for ages > 13). Your email address is used once to send you a welcome notice. It is also used to regularly send you our newsletter or emails as a part of our mailing lists. It may also be used to send emergency emails, such as a major change to our service, or to send your password if you lose/forget it. If you take part in our contests, and are a winner, your prize notification will also be sent at that address. 
+
+Additionally, you may consent to receive information in the email on certain parts of our web site by simply providing us your email address. 
 
 When you use the "Send this page to a friend" feature on the Syvum web site, the email address of your friend is used only to send the requested page to them. No further emails are sent to that address, nor is that address revealed to any third party. 
 
@@ -48,9 +50,7 @@ Syvum may share aggregate information about its users with advertisers, business
 
 ### THIRD PARTY ADVERTISING
 
-We use Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ http://www.maxonline.com/privacy_policy/index.php](http://www.maxonline.com/privacy_policy/index.php)
-
-In addition to MaxOnline, we also utilize the services of Adtegrity.com to serve ads on our site. To view their privacy policy, [click here](http://www.adtegrity.com/privacy.asp). 
+We use several third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
 ### THIRD PARTY COOKIES
 
@@ -60,6 +60,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 We are committed to privacy. Personal data privacy is a new and evolving area, and Syvum is evolving to meet these demands. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please [contact us](https://web.archive.org/contact.html). We will address any issue to the best of our abilities. 
 
-By using this site, you signify your assent to the Syvum Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Syvum Web Site following the posting of changes to these terms will mean you accept those changes. 
+By using this site, you signify your assent to the Syvum Privacy Policy. If you do not agree to this policy, please do not use our site. Privacy is an evolving area, and consequently, these terms may be changed at any time. Any changes will be posted on this page for your information. 
 
 Thank you for your support of these policies and of Syvum Technologies. 
