@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themafiaboss.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312072106id_/http%3A//www.themafiaboss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themafiaboss.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205454id_/http%3A//www.themafiaboss.com/privacy.php) for the most accurate reproduction.*
 
-# The Mafia Boss: Privacy Policy
+# The Mafia Boss Game Privacy Policy
 
 Any private information received by TheMafiaBoss WILL NOT be given out to anyone or any organization; it WILL NEVER be sold or distributed in any form, or for any purpose unless approved by the account holder. Therefore, client information collected by TheMafiaBoss is the property of TheMafiaBoss and is not shared with any third party, including merchants. 
 
@@ -38,4 +38,4 @@ Contact Information
 
 If you have any questions or comments regarding this Privacy Policy, feel free to contact us at support@TheMafiaBoss.com 
 
-Last Update: 07/09/2008 
+Last Update: 07/09/2008
