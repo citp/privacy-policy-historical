@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicbrainz.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628181458id_/http%3A//musicbrainz.org/doc/MusicBrainz_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicbrainz.org privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103123852id_/http%3A//musicbrainz.org/doc/MusicBrainz_Privacy_Policy) for the most accurate reproduction.*
 
 # MusicBrainz Privacy Policy - MusicBrainz
 
@@ -18,7 +18,7 @@
 
 
 
-##  Summary
+## Summary
 
   1. You do not have to provide any personal data to be able to browse the contents of the MusicBrainz database. 
   2. You do not have to provide any personally-identifying information if you choose not to. 
@@ -34,7 +34,7 @@ If you do not create an account (or are not logged in) you will not have access 
 
 ###  Cookies 
 
-We use session cookies, but only if you're logged in and/or using [Picard Tagger](http://musicbrainz.org/doc/Picard_Tagger "Wiki: Picard Tagger"). 
+We use session cookies, but only if you're logged in and/or using [Picard Tagger](http://musicbrainz.org/doc/Picard_Tagger). 
 
 We currently only use two "permanent" (i.e. non-session) cookies: 
 
@@ -49,7 +49,7 @@ In a practice similar to other web sites we keep logs of all web requests made a
 
 ###  Third-party content 
 
-The only third-party content loaded by MusicBrainz web pages are the album cover art images that are provided by the various [cover art sites](http://musicbrainz.org/doc/Cover_Art_Sites "Wiki: Cover Art Sites") that have given MusicBrainz permission to do so. This means that the relevant site will know (if they want to) your IP address, User-Agent string, etc., and which MusicBrainz web page you were visiting (the one which included the cover art image). 
+The only third-party content loaded by MusicBrainz web pages are the album cover art images that are provided by the various [cover art sites](http://musicbrainz.org/doc/Cover_Art_Sites) that have given MusicBrainz permission to do so. This means that the relevant site will know (if they want to) your IP address, User-Agent string, etc., and which MusicBrainz web page you were visiting (the one which included the cover art image). 
 
 If you have created an account and logged-in, you may opt out of displaying cover art images if you wish. 
 
@@ -75,7 +75,7 @@ This does not provide "perfect" privacy though, in some cases it will be possibl
 
 ##  Mailing lists 
 
-MusicBrainz has a number of [mailing lists](http://musicbrainz.org/doc/Mailing_List "Wiki: Mailing List") which you can subscribe to by providing your email address. 
+MusicBrainz has a number of [mailing lists](http://musicbrainz.org/doc/Mailing_List) which you can subscribe to by providing your email address. 
 
 This email address will not be revealed to anyone, unless you post a message to a list, in which case your email address will be revealed to all subscribers of the list(s) to which you posted on. Additionally, every mailing list has multiple public archives, and any posts made will contain the email address of the poster (albeit in a form intended to provide some anti-spam protection). 
 
