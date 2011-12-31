@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222155617id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
 
-# People's Choice Awards Privacy Policy - PeoplesChoice.com
+# People's Choice Awards Privacy Policy -
 
-This statement applies to websites operated by or on behalf of Sycamore Productions, Inc. and/or its affiliates (Sycamore, we or us).
+This statement applies to websites operated by or on behalf of P&G Productions, Inc. and/or its affiliates (Sycamore, we or us).
 
 ### Personal Information
 
@@ -14,7 +14,7 @@ This statement applies to websites operated by or on behalf of Sycamore Producti
 
 
 
-[Click here](https://web.archive.org/web/20101222155617id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
+[Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
 
 ### Uses
 
@@ -25,13 +25,13 @@ This statement applies to websites operated by or on behalf of Sycamore Producti
 
 
 
-[Click here](https://web.archive.org/web/20101222155617id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
+[Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp) for more information
 
 ### Your Rights & Choices
 
   * You have the right to have a copy of the personal information you provide, and to correct or update your personal information.
   * You may instruct Sycamore to remove any previous consent you provided to share your personal information with other companies.
-  * [Click here](https://web.archive.org/web/20101222155617id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp#contact) to be linked to the correct address to use to obtain a copy of the personal information you provided.
+  * [Click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp#contact) to be linked to the correct address to use to obtain a copy of the personal information you provided.
   * [Click here](http://show.custhelp.com/cgi-bin/show.cfg/php/enduser/std_alp.php?p_pv=1.634&p_prods=634&prod_lvl1=634) to submit a privacy-related question or comment.
 
 
@@ -51,8 +51,8 @@ To contact us with a question, [click here](http://show.custhelp.com/cgi-bin/sho
 TeleNext Media, Inc.  
 Attn: People's Choice Awards  
 Worldwide Plaza  
-825 Eighth Avenue, 35th Floor  
+1675 Broadway, 8th floor  
 New York, New York 10019  
 
 
-To read our full Online Privacy Statement [click here](https://web.archive.org/web/20101222155617id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp)
+To read our full Online Privacy Statement [click here](https://web.archive.org/web/20111231222321id_/http%3A//www.peopleschoice.com/pca/privacy2.jsp)
