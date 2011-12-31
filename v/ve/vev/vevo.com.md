@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vevo.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330132050id_/http%3A//www.vevo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vevo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231125221id_/http%3A//www.vevo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy-Policy US | VEVO
 
 VEVO recognizes that the users of vevo.com value their privacy and we take your privacy seriously. This Privacy Policy (as defined below) explains our privacy practices, including what types of information we collect from you and how we may use it, our rights to share and disclose such information to third parties and how you can review and modify information that you provide to us and your preferences regarding our use or disclosure of such information.
 
@@ -120,4 +120,4 @@ This document is the sole statement of the Site's Privacy Policy and no summary,
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2009 VEVO LLC 
+Copyright © 2011 VEVO LLC 
