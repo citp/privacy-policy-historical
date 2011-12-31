@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612183251id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharmota.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211120id_/http%3A//www.sharmota.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Arab Sex - Sharmota шармута شرموطة: Free Arab sex Tube Videos
 
 #### **Sharmota.com.** ("Sharmota") recognizes that its customers, visitors, users, and others who use [www.Sharmota.com](http://www.sharmota.com/) or other web sites owned or operated by Sharmota (the "Sharmota Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Sharmota Sites. Sharmota provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Sharmota Sites.
 
