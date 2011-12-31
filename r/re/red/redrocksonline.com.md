@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516093405id_/http%3A//redrocksonline.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205136id_/http%3A//www.redrocksonline.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
