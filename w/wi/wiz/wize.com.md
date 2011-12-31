@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607184355id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211417id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
 # Wize Product Reviews Privacy Policy
 
@@ -104,7 +104,7 @@ You should also note that if we have provided your information to third parties,
 
 Some of the advertisements that appear on the Websites are delivered or served to you by third-party Internet advertising companies. These companies use certain technologies to deliver advertisements and marketing messages and also use cookies, clear gifs or similar methods to collect information, such as anonymous data about your visit to and use of the Websites and your interactions with their advertisements. These companies may use this information and information that they have collected from other web sites to provide you with advertisements that are tailored to your interests. We do not have access to or control over cookies or other features that these companies may use, and the information practices of these advertisers and third-party Web sites are not covered by this Website Privacy Statement. Please contact them directly for more information about their privacy practices. 
 
-The offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection practices. To receive further information or to opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, visit http://www.networkadvertising.org/index.asp. 
+The offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection practices. To receive further information or to opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, visit [www.networkadvertising.org](http://www.networkadvertising.org/index.asp). 
 
 * **Choice/Opt Out Policy**
 
