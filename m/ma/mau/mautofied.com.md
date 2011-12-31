@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430113747id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213250id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Mautofied.com Privacy Policy
 
 This is the web site of Mautofied, Inc.
 
