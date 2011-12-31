@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826012800id_/http%3A//www.livephish.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204220id_/http%3A//www.livephish.com/privacy.aspx) for the most accurate reproduction.*
 
 # LivePhish.com - Privacy Policy - Live Phish MP3 Downloads FLAC Downloads Live CDs
 
