@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614141931id_/http%3A//www.health.vic.gov.au/privstat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204327id_/http%3A//www.health.vic.gov.au/privstat.htm) for the most accurate reproduction.*
 
 # Website Privacy Statement - Department of Health
 
 Page content: General | Collection of your personal information | Web statistics data collection | Use and disclosure of your personal information | Security | Feedback form, information request form and email | Links to external websites | Clickstream data | Cookies | Access and correction
 
-View the Department's [Privacy Policy](https://web.archive.org/web/20110614141931id_/http%3A//www.health.vic.gov.au/privacy.htm "link to DHS Privacy website")
+View the Department's [Privacy Policy](https://web.archive.org/web/20111231204327id_/http%3A//www.health.vic.gov.au/privacy.htm "link to DHS Privacy website")
 
 ## General 
 
@@ -86,7 +86,7 @@ To request access to or correction of your personal information held by the Depa
 
 It is policy in the Department of Health that, where appropriate, you should be able to request access to your personal information directly, without the need to make a formal application under the _Freedom of Information Act 1982 (Vic)_. However, there are situations where it will not be appropriate to provide direct access to information, and you will be required to make an FOI application. (For example, where providing direct access would compromise the privacy of another person).
 
-For information on making an FOI application see [Freedom of Information](https://web.archive.org/web/20110614141931id_/http%3A//www.health.vic.gov.au/foi.htm) or contact
+For information on making an FOI application see [Freedom of Information](https://web.archive.org/web/20111231204327id_/http%3A//www.health.vic.gov.au/foi.htm) or contact
 
 Freedom of Information Officer  
 Department of Health  
@@ -96,7 +96,7 @@ Tel: **03 9606 8449** or **1300 650 172**
 
 ### Further information
 
-For further information on how the department manages privacy,see [Privacy](https://web.archive.org/web/20110614141931id_/http%3A//www.health.vic.gov.au/privacy.htm) or contact
+For further information on how the department manages privacy,see [Privacy](https://web.archive.org/web/20111231204327id_/http%3A//www.health.vic.gov.au/privacy.htm) or contact
 
 Senior Privacy Advisor  
 Department of Health  
