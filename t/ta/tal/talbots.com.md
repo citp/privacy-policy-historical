@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623062104id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203158id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
@@ -33,6 +33,7 @@ By doing business with or interacting with Talbots in the manner described in th
   * California Privacy Rights
   * Contact Information
   * Changes To Talbots' Privacy Policy
+  * Talbots Terms and Conditions for Text Messages
 
 
 
@@ -222,3 +223,11 @@ Talbots is a member of the Direct Marketing Association (DMA) and complies with 
 ### Changes To Talbots' Privacy Policy
 
 Talbots reserves the right to modify this Privacy Policy at any time. Changes will be posted on our website. We encourage you to check Talbots' Privacy Policy when you visit our website. 
+
+### Talbots Terms and Conditions for Text Messages
+
+The mobile operators participating in this campaign are AT&T, Verizon Wireless, Sprint, T-Mobile, Nextel, Boost, Dobson and Alltel. If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate - Check with your mobile operator. To opt in for: Talbots text messages, text TALBOTS to 36302. You will receive up to 4 messages per month. 
+
+Message and Data Rates May Apply. To stop a service at any time, reply TALBOTS STOP to 36302. Text TALBOTS HELP to 36302 to receive help information, reply TALBOTS HELP to any message. Any messages you send in text messages become our property. No remuneration is implied or offered. News and data delivered are believed to be accurate at the time of delivery. For Support, email customer.service@talbots.com or call 1-800-992-9010. 
+
+We take great precautions to keep the information you share with us safe and private. We will not sell or give your personal information to other marketers without your express consent. However, from time to time, we would like your permission to send you sneak previews of new products, or personalized offers or tips. You will be receiving these offers or tips only if you choose to opt-in to these services. 
