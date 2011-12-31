@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translia.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232632id_/http%3A//www.translia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154140id_/http%3A//www.translia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Translia
 
@@ -94,8 +94,8 @@ If you have questions or concerns regarding this statement, you should first con
 Or send us a postal mail to the followings address: 
 
 Acosys Limited  
-21/F, New World Tower 1,  
-18 Queen's Road Central,  
+11/F, AXA Centre,  
+151 Gloucester Road,  
 Hong Kong
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.translia.com&sealid=101)
