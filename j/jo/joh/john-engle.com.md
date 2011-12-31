@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the john-engle.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502055054id_/http%3A//seoblogtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the john-engle.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231090408id_/http%3A//seoblogtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEOBlogTips.com
 
