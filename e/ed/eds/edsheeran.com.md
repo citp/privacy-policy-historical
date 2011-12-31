@@ -1,61 +1,95 @@
-> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318064905id_/http%3A//edsheeran.com/page.asp%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231234438id_/http%3A//www.wminewmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-This privacy policy sets out how Ed Sheeran / Sheeran Lock Limited use and protect any information that you give " Ed Sheeran" when you use this website. Ed Sheeran / Sheeran Lock Limited are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**LAST UPDATED:  **18 **** August 2009
 
-Ed Sheeran / Sheeran Lock Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Oct 2007.
+**Privacy Policy**
 
- **What we collect**
+We Warner Music UK Limited **** are concerned about online privacy and we want you to understand how we collect, use and disclose your personal information.  This Privacy Policy applies to the Warner Music or artist site (“Site”) from which you are linking to it.  By using the Site you agree to this Privacy Policy. ****
 
-We may collect the following information:
+**1.             ****What Types of Information Do We Collect From You?**
 
-  * name and job title 
-  * contact information including email address 
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+We gather three basic types of information through the Site: “ **Personally Identifiable Information** ” (or “ **PII** ”), “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** ”) and “ **IP Addresses.** ” 
 
+**Personally Identifiable Information** identifies a person as an individual.  You do not have to provide PII to use the Site, but we may ask that you do so when we are providing opportunities to you through the Site. The information we ask for will depend on what opportunity we are providing but may include your name, postal address, telephone number, e-mail address, and for purchases, your credit card number including any validation code.   We may also provide functionality so that you can send messages about Site-related content to a friend, for example music clips or artist information.  By using this functionality, you affirm that you are entitled to provide us with the recipient’s name and e-mail address for this purpose.  ****
 
+**Non-Personally Identifiable Information** does not personally identify you. It may include your MAC address, your computer type, screen resolution, OS version, Internet browser, cookies, pixel tags, web beacons, and other similar technologies to better serve you with more tailored information and facilitate your ongoing use of our Site.  It may also include demographic data, for example your location. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.  
 
- **What we do with the information we gather**
+**IP Addresses.   **Your Internet Protocol (IP) address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP).  This number is logged automatically in our server log files whenever you visit the Site, along with the time of your visit and the pages that you visited.  Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. 
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+**2.                ****How Do We Use The Information We Collect?**
 
-  * Internal record keeping
-  * We may use the information to improve our products and services 
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
-  * We may use the information to customise the website according to your interests. 
+**Personally Identifiable Information.   **We may use PII:
 
+·           to fulfill your requests such as to send newsletters to you or complete your purchases.
 
+·           to send you important information about the Site, or changes to our terms, conditions, and policies.  Because this information may be important to your use of the Site, you may not opt-out of receiving these communications.
 
-**Security**  
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+·           to tell you about any artists, products, programs, services and promotions we believe may be of interest to you. 
 
-**How we use cookies**
+·           to send messages you have chosen to send to a friend through the Site. We will not use your friend’s PII except to enable the message to be sent, unless we disclose any other use purpose to you when you provide this PII.  Your friend will be able to see your name and email address. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+·           for internal business purposes, such as data analysis, audits, developing new products, improving our services, identifying usage trends and determining the effectiveness of promotional campaigns.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+**Non-Personally Identifiable Information.**   This does not personally identify you. We may use this information and share it with our affiliates and other third parties for any purpose.  We may combine Non-PII with PII, such as combining your geographic location with your name, but if we do this the information will be treated by us as PII for so long as it is combined.  We may aggregate PII such that the end-product does not personally identify you or any other user of the Site, for example by using PII to calculate the percentage of our users who like a particular artist. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+**IP Addresses.**   We use IP addresses for the same purposes for which we use PII and in addition for calculating Site usage levels, helping diagnose server problems, and administering the Site and your use of it including providing opportunities to you and fulfilling your requests and purchases.  Except where otherwise required by law, we treat IP Addresses, server log files and related information as Non-PII. 
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Legal Requirements.**  We may use PII, Non-PII and IP Addresses for any purpose required or permitted by the law of any country.
 
- **Controlling your personal information**
+**3.             ****How Do We Disclose Information?**
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [**ed@edsheeran.com**](mailto:ed@edsheeran.com)
+  * to our affiliates [www.wminewmedia.com/affiliates/](http://www.wminewmedia.com/affiliates/) who may use it for the purposes described in this Privacy Policy **.**   We are still responsible for the management of the PII. Our affiliate Warner Music Group ("WMG") has subscribed to and will adhere to the U.S.-EU Safe Harbor program ("Safe Harbor Program"). Click <http://www.wmg.com/privacy/safeharbor> to see WMG's Safe Harbor policy. More information about the Safe Harbor Program can be found at [http://www.wmg.com/privacy/safeharbor](http://www.export.gov/safeharbor/).
 
 
+  * to third parties who provide services to us, so that they can provide the services, such as data analysis, order fulfillment, infrastructure provision, IT services, customer service, e-mail delivery services, credit card processing and other similar services.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: 
 
-Ed Sheeran / Sheeran Lock Limited   
-PO Box 279  
-Woodbridge  
-Suffolk IP13 9WU
+  * to our artists and their representatives so that the artists may use this information to tell you about products, programs, services and promotions they believe may be of interest to you.  We do not control, and are not responsible for, artists’ use of PII.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+  * to our affiliates or a third party **** if we reorganize, merge, sell, assign, transfer or dispose of all or any part of our business, assets or stock.
+
+
+  * to comply with legal process, to respond to requests from governmental and/or public authorities of any country in which we operate, to enforce our terms and conditions, to protect our operations or those of our affiliates or our artists, to protect your, our, our affiliates’ and our artists’ rights, privacy, safety or property, and to enable us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+**4.             ****Other Important Notices.**
+
+**Information Posted on the Site.**  The information or materials (including photographs, videos and other content) that you post on the Site (including in any profile page you create for yourself on the Site, or in any Site forum, chat room, blog or similar service on the Site) become public information and will be accessible to other Site users and the general public.  Please note that, pursuant to the Terms of Use [www.wminewmedia.com/t&c](http://www.wminewmedia.com/t&c) applicable to the Site, we retain certain rights in the information or materials that you post on the Site, and we may use or disclose such information or materials (including any PII included in such information or materials) in accordance with the terms and conditions of our Terms of Use.  Please exercise discretion and caution when disclosing any information in this way.  We are not responsible for the use or disclosure by others of any information you disclose in this way.
+
+**Promotions/Contests/Surveys.**   This privacy policy does not address the specifics of any particular promotion, contest or survey.  If you elect to participate in a promotion, contest or survey, please be certain to check the specific rules/policies relating to the promotion or contest as those rules/policies may differ for each contest, promotion or survey.
+
+**Third Party Sites.**   This privacy policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including without limitation our affiliates and any third party operating any site to which this Site contains a link.  The inclusion of a link on the Site does not imply endorsement of the linked site by us, artist(s) or our affiliates. 
+
+**Third Party Advertisers.**   We may use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to this Site to provide advertisements about goods and services that may be of interest to you.  In the course of serving advertisements to this Site, these companies may place or recognize a unique cookie on your browser.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit ****[ http://networkadvertising.org/optout_nonppii.asp](http://networkadvertising.org/optout_nonppii.asp).
+
+**Security.   **We use reasonable organizational, technical and administrative measures to protect PII under our control.  Security measures and tools, such as firewalls, are in place to help protect against the loss, misuse and alteration of the information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  Please do not send us sensitive information through e-mail.  If you have reason to believe that your interaction with us is no longer secure, you must immediately notify us of the problem by contacting us at the contact address given below.    If you choose to notify us by physical mail this will delay the time it takes for us to respond to the problem.
+
+**Opt-Out.**   If you change your mind, and no longer wish to receive marketing-related e-mails from us and our affiliates, or if you would prefer that we do not share your PII with our affiliates and/or artists, you may opt-out of receiving these marketing-related e-mails and from this sharing by e‑mailing us at [privacy@warnermusic.com](mailto:privacy@warnermusic.com) making it clear in your email that you wish to opt-out.  We will endeavor to comply with your request as soon as reasonably practicable.  If you do opt-out, we will not be able to remove your PII from the databases of our affiliates or artists with which we have already shared your PII.  If you wish to stop receiving marketing-related e-mails from these affiliates or artists, please contact these affiliates or artists directly and use any opt-out mechanisms set forth in their respective privacy policies or marketing-related e-mails. 
+
+**Changing or Suppressing PII.**   If you would like to review, correct, update or suppress PII about you that has been previously provided to us through the Site, you may contact us by e-mailing us at [privacy@warnermusic.com](mailto:privacy@warnermusic.com).  We may need to verify your identity before implementing your request.  We will endeavor to comply with your request as soon as reasonably practicable.  We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed.   We are not responsible for removing or suppressing information from the databases of third parties with whom we have already shared PII about you. ****
+
+**Retention Period.**   We will retain PII about you for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required by law. ****
+
+**Note Regarding the Use of the Site by Children.**  The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide PII through the Site.  ****
+
+**Jurisdictional Issues.   **We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction.  Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.  We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.  By using the Site and submitting any PII, you consent to the transfer of PII to other countries, such as the United States, which may provide a different level of data security than in your country of residence. ****
+
+**Contacting Us.   **If you have any questions regarding this Privacy Policy, please contact us by e-mail at [privacy@warnermusic.com](mailto:privacy@warnermusic.com), or please write to the following address:  ****
+
+Warner Music UK Limited
+
+The Warner Building
+
+28 Kensington Church Street
+
+London 
+
+W8 4EP
+
+Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information in your e-mail correspondence with us. 
+
+**Updates to this Privacy Policy.**  We may update this Privacy Policy from time to time – you can see when it was last updated by referring to the “ _Last Updated_ ” legend at the top of this page.  Any updates are effective when the updated Privacy Policy is posted on the Site.  You may wish to review the Privacy Policy from time to time to see any updates to the way in which we use your personal information.  By using the Site after the Privacy Policy has been updated, you agree to the terms of the Updated Privacy Policy. 
