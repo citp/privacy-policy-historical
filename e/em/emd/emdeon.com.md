@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emdeon.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430113127id_/http%3A//www.emdeon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emdeon.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231221431id_/http%3A//www.emdeon.com/privacy) for the most accurate reproduction.*
 
 # Emdeon Privacy Policy
 
