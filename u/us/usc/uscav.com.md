@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627233824id_/http%3A//uscav.com/privacy.aspx%3Ftabid%3D1%26catid%3D5110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscav.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210233id_/http%3A//www.uscav.com/privacy.aspx%3Ftabid%3D1%26catid%3D5110) for the most accurate reproduction.*
 
 # U.S. Cavalry - Privacy & Security
 
@@ -28,14 +28,14 @@ When you send us an e-mail or use the form on the 'How to Contact Us' section of
 
 We **do not** sell or exchange e-mail addresses with third parties. 
 
-We occasionally make our list of names and mailing addresses (but not e-mail addresses) available to companies and organizations whose products and activities may be of interest to you. If you do not want your name and address shared with other organizations, or if you do not wish to receive U.S. Cavalry catalogs, simply contact us at 1-800-333-5102 or e-mail: [service@uscav.com](mailto:service@uscav.com). 
+We occasionally make our list of names and mailing addresses (but not e-mail addresses) available to companies and organizations whose products and activities may be of interest to you. If you do not want your name and address shared with other organizations, or if you do not wish to receive U.S. Cavalry catalogs, simply contact us at 1-800-333-5102 or e-mail: service @ uscav.com. 
 
 In an effort to offer you the best, and most current, shopping opportunities, we may contact you with news and/or special offers about our products and services **only** for those customers who voluntarily join our email lists. 
 
-If for any reason, you would like to be taken off of our preferred list, please contact us via e-mail at [nomail@uscav.com](mailto:nomail@uscav.com) and put **NO USCAV.com NEWS** in the Subject Line.   
+If for any reason, you would like to be taken off of our preferred list, please contact us via e-mail at nomail @ uscav.com and put **NO USCAV.com NEWS** in the Subject Line.   
   
 How To Access Or Correct Your Information   
-At any time, you may review or update your personally identifiable information that we collect online and maintain by calling us at 1-800-333-5102, 270-351-1164 (International Customers) or by sending us an e-mail to [service@uscav.com](mailto:service@uscav.com). 
+At any time, you may review or update your personally identifiable information that we collect online and maintain by calling us at 1-800-333-5102, 270-351-1164 (International Customers) or by sending us an e-mail to service @ uscav.com. 
 
 To better protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.   
   
@@ -48,7 +48,7 @@ By **Mail** :
 _U.S. Cavalry  
 2855 Centennial Avenue   
 Radcliff, KY 40160-9000_   
-By **E-mail** : [service@uscav.com](mailto:service@uscav.com)  
+By **E-mail** : service @ uscav.com   
   
 Safe and Secure Shopping   
 We are aware that our customers have concerns regarding the use of credit cards over the Internet. We share your concern and have provided the ability to encrypt your transactions using our Secured Sockets Layer (SSL), ensuring that your ordering information remains private, protected, and secure. This means that your name, address, credit card numbers and any other information you provide through our SSL, cannot be read by anyone else. 
