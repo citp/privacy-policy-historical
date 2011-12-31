@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rupeetalk.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529111638id_/http%3A//www.rupeetalk.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeetalk.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214611id_/http%3A//www.rupeetalk.com/privacy.php) for the most accurate reproduction.*
 
-# Home Loans,Credit Cards,Personal Loans,Life Insurance,Stocks,Health Insurance,Car Loan,Income Tax,Fixed Deposits in India- Compare and apply online.
+# 
 
 **Privacy Policy**
 
