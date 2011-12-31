@@ -1,8 +1,46 @@
-> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143527id_/http%3A//www.microdirect.co.uk/Articles/Index/Normal/153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213117id_/http%3A//www.microdirect.co.uk/Articles/Index/Help/89) for the most accurate reproduction.*
 
-# Privacy Policy - microdirect.co.uk
+# Security & Privacy Policy - microdirect.co.uk
 
-Micro Direct Ltd is committed to respecting your privacy. In general, you can visit Micro Direct Ltd without revealing any information about yourself. We do collect information regarding visitors to our website. Some information is required in order to process orders, for example, we analyze this data for trends and statistics to help us provide you with a better service.
+### Website security
+
+Microdirect is committed to respecting your privacy. In general, you can visit our website without giving any personal information. Some information is required in order to process orders or send latest offers through our newsletter. All of this information is collected in secure mode. A padlock sign shown at bottom right of your screen help you identify secure mode.   
+
+
+In secure mode all your information is transferred to our secure server using industry standard "secure socket layer". We also use McAfee secure to keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams. We do these checks on daily basis to make sure there is no compromise to security.   
+
+
+As stated in our privacy policy, we've taken the appropriate measures to ensure that your personal information is not unlawfully processed. We tread data as an asset which must be protected against loss and unauthorized access. Microdirect.co.uk uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers.
+
+### Internet Shopping Is Safe (ISIS)
+
+You can shop online with confidence because ISIS logo on Microdirect.co.uk certifies that the Microdirect.co.uk has: 
+
+  * registered with the ISIS programme and undertaken to trade in a manner that is LEGAL, DECENT, HONEST, TRUTHFUL AND FAIR;
+  * had its web site and service reviewed and monitored by IMRG 
+  * had its Business, VAT and Data Protection registrations checked by IMRG 
+
+
+
+### Internet Delivery Is Safe (IDIS)
+
+Microdirect.co.uk is an IDIS-accredited retailer. As an online shopper with an IDIS-accredited retailer, you have the right to: 
+
+  * Clear delivery information before you place your order;
+  * Convenient and reliable delivery service;
+  * Notification of any delivery limitations / conditions;
+  * Charges that are complete and simple to understand;
+  * Access to information on your order progress / history;
+  * Delivery within the agreed time frame;
+  * Helpful support with failed / late / attempted deliveries;
+  * Your goods arriving in good condition;
+  * A clear returns process, with any limitations / conditions notified prior to purchase.
+
+
+
+## Privacy Policy
+
+Micro Direct is committed to respecting your privacy. In general, you can visit Micro Direct without revealing any information about yourself. We do collect information regarding visitors to our website. Some information is required in order to process orders, for example, we analyze this data for trends and statistics to help us provide you with a better service.
 
 To process your order, we require your name, billing address, phone number, email address and credit card details. Credit card information can be removed after purchasing an item by clicking on the icon “manage credit cards” and click the box with the cross. If we need to contact you via email first hand. If unsuccessful (or time is critical), we will try to contact you by phone.
 
