@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119223016id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203932id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
@@ -80,5 +80,7 @@ Server Intellect will use commercially reasonable efforts to promptly respond an
 _Acceptance of the Master Service Agreement incorporating the[Terms of Service](https://web.archive.org/terms/tos.aspx), [Acceptable Use Policy](https://web.archive.org/terms/aup.aspx), [Service Level Agreement](https://web.archive.org/terms/sla.aspx) and [Privacy Agreement](https://web.archive.org/terms/privacy.aspx) hereby initiates billable services and is deemed complete by agreement to the terms as described on the online signup form(s) and completion of the ordering process._
 
 **Have questions? Ready to order?** Call us at **(800) 317-8552**
+
+   
 
 [](https://processing.serverintellect.com/)
