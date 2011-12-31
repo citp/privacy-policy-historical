@@ -1,87 +1,163 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419023637id_/http%3A//www.mrfood.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214138id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
-# Mr.Food - Privacy Policy
+# Privacy Policy | mrfood.com
 
-**PRIVACY NOTICE/SECURITY POLICY**
+| 
 
-Effective Date: March 1, 2009 
+Privacy Policy / Your California Privacy Rights   
+Active Date: December 15, 2009
 
-**Privacy Notice/Security Policy Contents:**   
-Our Commitment to Privacy   
-The Information We Collect  
-How We Use Information   
-Policy Terms  
-Submission of Materials  
-Shared Information  
-Our Commitment to Data Security   
-Ad Servers  
-Our Commitment to Children's Privacy  
-E-Commerce  
-Product Descriptions  
-Privacy Policy Changes/Changes to Your Information  
-Copyright  
-How to Contact Us
+Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
-**Our Commitment to Privacy**  
-Your privacy is very important to us. Ginsburg Enterprises Incorporated (“GEI”) and its affiliates, owners of the MR. FOOD® and OOH IT’S SO GOOD!!® brands, respect your interest in maintaining your privacy. To better protect your privacy, we provide this notice explaining our online information practices.
+This Privacy Policy will tell you, among other things:
 
-**The Information We Collect**  
-This Policy applies to all information collected or submitted on mrfood.com. We do not collect personally identifiable information (i.e., information such as name, address, phone number, electronic mail [“e-mail”] address, etc., which might identify a user as a particular person) about you on our website or otherwise unless you choose to give it to us by making purchases from our website, entering a contest on our website, or by communicating with us by e-mail, telephone, postal mail or the like. When you choose to give us information, we endeavor to keep it confidential, but only to the extent described in this Privacy Policy.
+Your California privacy rights.  
+How we collect information and what information we collect.  
+How we may use information.  
+How we may share information.  
+Your choices regarding the sharing of information.
 
-You can visit the public parts of our website without telling us who you are or revealing any personal information. We currently do not enable “cookies” on our website.
+ACKNOWLEDGEMENT/YOUR AGREEMENT  
+Company websites are not intended for use by individuals under the age of 18 or those who are not legal residents of the United States. By using our website or submitting information to us, you consent to the Company's use and sharing of the information collected or submitted as described in this Privacy Policy. If you are not 18 years of age or older and a valid resident of the United States or you do not agree with the terms of this Privacy Policy, do not provide us with any information or use any of the products or services offered or provided on Company websites or through Company technology.
 
-To improve the content and usability of this website, however, GEI does automatically collect information about the type of browser (for example, Firefox, Internet Explorer, etc.) used, the operating system resident on a user’s computer, and the date and time a user visited the site.
+YOUR CALIFORNIA PRIVACY RIGHTS  
+Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties please write to us.
 
-On some pages, you can order products. The types of personal information collected at these pages are: 
+HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?  
+We collect and combine personally identifiable information ("PII") and non-personally identifiable information ("Non-PII") through various sources, including those discussed below. For your reference, PII is data collected with an intention to specifically identify, contact or locate a person, including but not limited to name, address, telephone number, or e-mail address. Conversely, Non-PII is data that is not used to specifically identify, contact or locate an individual, including but not limited to zip code, gender, age, or IP address.
 
-Name   
-Address   
-E-mail address   
-Phone number   
-Credit/Debit Card Information   
-(etc.)
+Distribution Partners  
+Website operators that license our ad serving technology pass information to us so that we may serve advertisements to you. The information passed may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, and gender.
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
+Offer Forms  
+We also collect information about you when you complete a survey or offer form on one of our websites or web pages. This information may include, but is not limited to: your e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other personal information or unique preference information you provide to us or our advertisers.
 
-Name   
-Address   
-(etc.)
+Website Registration Forms  
+We collect information about you when you register on one of our websites. This registration information may include, but is not limited to your:  
+e-mail address  
+full name  
+mailing address  
+telephone number  
+date of birth  
+gender
 
-**How We Use Information**  
-We may maintain some records of individuals who contact us in case we need to contact them later or provide them information in the future. If you choose to correspond with us through e-mail, we may retain the content of your e-mail messages, your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.  
-We may post the name and hometown of contest winners on our website. By entering a contest on our website, you give us permission to so post your name and hometown should you be selected a winner. If you do not wish to receive such information, or have your name and hometown posted on the website if you should win a contest, please do not enter the contest or otherwise submit any personally identifiable information about yourself to us.
+Publisher Partners   
+When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner.
 
-**Policy Terms**  
-The terms of this Privacy Notice/Security Policy will supersede any inconsistent terms that you might seek to impose on any such Information, including terms accompanying any such Information, unless GEI expressly states otherwise in writing in connection with any specific request for Information that GEI may publish.
+Marketing Partners  
+We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.
 
-**Submission of Materials**  
-Mr. Food and GEI are pleased to hear from loyal fans and welcome comments regarding their TV program, products and services, including the MR. FOOD® online services. Unfortunately, however, GEI’s company policy does not allow us to accept or consider creative ideas, suggestions or materials other than those we may specifically request from time to time. We hope you will understand that it is the intent of this policy to avoid the possibility of future misunderstandings when projects developed by Mr. Food or GEI’s professional staff might seem to others to be similar to their own creative work.
+Automatic Information/Digital Identifiers  
+We may automatically receive and store certain types of information about you through the data sources listed above.
 
-**Shared Information**  
-If you do submit any recipes, creative suggestions, ideas, notes, drawings, concepts or other information (collectively, the “Information”), the Information shall be deemed, and shall remain, the property of GEI. None of the Information shall be subject to any obligation of confidentiality on the part of Ginsburg Enterprises Incorporated, and GEI shall not be liable for any use or disclosure of Information. Without limitation of the foregoing, GEI shall exclusively own all now known or hereafter existing rights to any Information submitted and will be entitled to use the Information for any commercial or other purpose whatsoever, without compensation to, or acknowledgement of, you or any other person sending the submission.
+You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.
 
-**Our Commitment to Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL.
 
-We take precautions, including use of sophisticated encryption and authentication tools, to protect the security of any personal information that you share with us. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our websites, and you do so at your own risk. 
+Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL.
 
-**Ad Servers**  
-In order to bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: https://www.valueclickmedia.com/privacy.shtml. 
+Government Forms  
+The Company may be required to create, collect, maintain, and submit certain information required by the government, such as IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will not be used, shared, transferred, or sold for marketing purposes.
 
-**Our Commitment to Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, applications on the mrfood.com website do not specifically solicit information from minors (anyone under eighteen years old) nor do they seek to determine whether the visitor is a minor. Minors are prohibited from entering any contest or otherwise providing personally identifiable information to GEI through the website. Because such information will not be specifically identified as being from minors, users of the mrfood.com website should be aware that personally identifiable information submitted to it by minors will be subject to being treated in the same manner as information given by an adult.
+HOW DO WE USE THIS INFORMATION?  
+We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.
 
-**E-Commerce**  
-We sell merchandise through the site located on the World Wide Web at [mrfood.com](http://www.%20mrfood.com/). Because we recognize and respect your privacy, we limit the information collected about you to what is needed for conducting business and offering products or services that might be of interest to you. As well, we limit our employees’ access to our customer files only to those who need such information to conduct our business.
+Ad Serving  
+We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.
 
-**Product Descriptions**  
-GEI attempts to be as accurate as possible. However, GEI does not warrant that product descriptions or other content of this site is accurate, complete, reliable, current, or error-free. If a product offered by GEI itself is not as described, your sole remedy is to return it in unused condition.
+We also use third party advertising companies, such as Advertising.com, to serve advertisements when you visit our websites. These companies may use and optimize information (not including your name, mailing address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Advertising.com please visit http://www.advertising.com/privacy_policy_details.php.
 
-**Privacy Policy Changes/Changes to Your Information**   
-If we decide to change or update our Privacy Policy, we will post those changes here in the Privacy Policy section of our website. If you have any questions or concerns about this Privacy Policy, or would like to review, correct or remove any information that we may have on file about you, please feel free to contact us by e-mail at [info@mrfood.com](mailto:info@mrfood.com).
+Pre-select/Pre-fill Offers  
+Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
 
-**Copyright** ****  
-All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, recipes, and videos are the property of GEI and protected by United States copyright laws. The compilation of all content on this site is the exclusive property of GEI and protected by U.S. copyright laws.
+Upsell   
+We utilize customized post transactional or "upsell" technology to help advertisers generate sales, while providing you with a series of great offers we think may be of interest to you. The way it works is simple: once you purchase a product or service from one of our reward advertisers, you will be offered additional products or services that we think may be of interest to you. If you elect to purchase products or services from an advertiser in the post transactional channel, we will pass the information that you provided during the initial transaction to the subsequent advertiser, including but not limited to your credit card information. This information pass is done to enhance and simplify your purchasing experience. Your information will only be passed to an advertiser in the post transactional channel after you have elected to purchase their product or service. By electing to purchase their product or service you consent to the passing of your data to the third party advertiser in question.
 
-**How to Contact Us**  
-Should you have questions or concerns about these Privacy Policies, please call us at 954-938-0400 or send us an email at [info@mrfood.com](mailto:info@mrfood.com).
+Customer Service and Fulfillment  
+We may use your information to operate the website promotion, service your account and to fulfill rewards earned through Company websites. We may also use your information to verify your identity or claimed account status and, where we consider appropriate, investigate your compliance with the terms and conditions of the website promotion or any advertiser offer. We do retain customer service correspondence.
+
+Credit Card Preauthorization  
+By submitting your credit card information to us or to one of our advertisers, you are authorizing the Company or its agent to periodically verify that your credit card account is valid and has credit available by charging, and thereafter crediting, a small sum to the card.
+
+Marketing  
+We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs please write to us.
+
+HOW DO WE SHARE INFORMATION?  
+We may share the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below.
+
+Within the Company   
+We may share information we collect with affiliated companies, including our parent company and other subsidiaries of our parent company, for use in their ad serving and marketing programs. This Privacy Policy does not apply to affiliated companies and their collection, use and sharing of information.
+
+Vendors  
+We may share your information with various third party vendors that are not part of the Company, including but not limited to vendors that provide us with technology to deploy commercial e-mail, vendors that sell the products or services for which you have qualified through one of our websites, and shipping companies that we utilize to ship products to you.
+
+Advertisers  
+When you participate in an offer by completing a form, we will transfer the information you submitted on the form to the applicable advertiser.
+
+When you answer "yes" or "no" to a marketing or survey question, some or all of the information that you submitted during the website registration process will be transferred to advertisers that we believe may be of interest to you without providing you with another opportunity to review the information.
+
+When you select "yes" next to an offer, we will transfer some or all of the information that you submitted during the website registration process to the applicable advertiser without providing you with another opportunity to review the information.
+
+Ad Serving Companies   
+We may use third party ad networks or ad serving companies to serve advertisements on our websites. We pass information about you to these companies so that they can deliver targeted advertisements that they believe will be of interest to you. The information passed to these companies may include, but is not limited to, your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and any other information you provide to us. Web pages that are served by these companies will state that they are "powered by" or "ads by" the applicable company and will contain a link to that company's privacy policy.
+
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+Marketing Partners  
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs write to us.
+
+Data Enhancement/Appending/Validation  
+We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.
+
+Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.
+
+Governmental Agencies or Other Companies  
+We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.
+
+We may store and share your information with third parties for suppression or opt-out purposes.
+
+We also may share your information with third parties when: (1) trying to protect against or prevent actual or potential fraud or unauthorized transactions; (2) investigating fraud that has already taken place; (3) enforcing or applying existing terms and conditions and/or other agreements; (4) protecting the rights, property or safety of our websites, our users or others; or (5) responding to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.
+
+In all cases, this information is not provided to these entities or persons for marketing purposes.
+
+Right to Transfer  
+Should the Company choose to sell or transfer business assets, it is possible that the information we possess may be transferred as part of that transaction. The Company may decide to retain a copy of the information post sale or transfer.
+
+COMPANY CUSTOMER CHOICES
+
+Marketing Communications and Unsubscribe Information  
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by [clicking here](http://www.mrfood.com/index.php/hct/contact_us_page) and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.
+
+Request for More Information  
+As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 340, Northbrook, IL  60062.
+
+WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?  
+Our websites may offer links to other websites. Other websites have their own terms of use and privacy and security policies. If you choose to visit one of these sites, you should review the policies that govern that particular site.
+
+APPLICATION OF THIS PRIVACY POLICY  
+This Privacy Policy applies to all information collected by or submitted to the Company. Other affiliated entities of the Company may obtain information independently from transactions and experiences with you or from other sources. This Privacy Policy does not pertain to that information.
+
+WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?  
+We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, click here to contact us and we will delete the information about the child referenced from our files.
+
+SECURITY  
+There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates.
+
+LIMITATION OF LIABILITY   
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
+
+| 
+
+[](http://www.mrfood.com/Fruit-Recipes/Chilean-Blueberries-for-a-Healthy-New-Year)
+
+Please Wait 
+
+#### Thanks for signing up
+
+#### Sorry, we could not sign you up.  
+  
+---|---|---
