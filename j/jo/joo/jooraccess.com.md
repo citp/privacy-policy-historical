@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the jooraccess.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313005202id_/http%3A//jooraccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jooraccess.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213838id_/http%3A//jooraccess.com/privacy) for the most accurate reproduction.*
 
-# JOOR
+# JOOR | Pages
 
-### Introduction
+## Introduction
 
-Welcome to the JOOR web site, which is located at http://jooraccess.com, as operated by Bijoor Group, Inc. (the "Web Site"). The following Terms of Service ("TOS") contain the terms and conditions that govern your use of the Web Site and the JOOR Service (as defined below). These TOS describe your rights and responsibilities and what you can expect from the JOOR Service. If you do not read, understand, and agree to all of the TOS, you may not use the Web Site.
+Welcome to the JOOR web site, which is located at http://jooraccess.com, as operated by JOOR, Inc. (the "Web Site"). The following Terms of Service ("TOS") contain the terms and conditions that govern your use of the Web Site and the JOOR Service (as defined below). These TOS describe your rights and responsibilities and what you can expect from the JOOR Service. If you do not read, understand, and agree to all of the TOS, you may not use the Web Site.
 
 Given the dynamic nature of the JOOR Service, JOOR reserves the right to add to, delete or change these TOS at any time. As such, you should check these TOS from time to time for such changes.
 
-### Principles of the JOOR Privacy Policy
+## Principles of the JOOR Privacy Policy
 
 We don't share your Personal Information with anyone except to comply with the law, to provide a service you have requested, to protect our rights, or as provided in this Privacy Policy.
 
 We don't store Personal Information on our servers unless required for the on-going operation of one of our services.
 
-### What This Privacy Policy Covers
+## What This Privacy Policy Covers
 
-This privacy policy governs the use of the JOOR Web Site at http://jooraccess.com/ as operated by Bijoor Group Inc. (the "Web Site"). The Web Site, its operation by Bijoor Group Inc., and the services it provides (the "JOOR Services") are collectively known as "JOOR" in this Privacy Policy.
+This privacy policy governs the use of the JOOR Web Site at http://jooraccess.com/ as operated by JOOR, Inc. (the "Web Site"). The Web Site, its operation by JOOR, Inc., and the services it provides (the "JOOR Services") are collectively known as "JOOR" in this Privacy Policy.
 
 It covers how JOOR treats "Personal Information" — that is, personally identifiable like your name, address, and email address.
 
 This Privacy Policy is a part of the Terms of Service ("TOS"). Accordingly, when you click the "I Agree" button or access or use the Web Site or the JOOR Services, you agree that we can collect, use and disclose your information in accordance with this Privacy Policy. If you do not agree or are not comfortable with any part of this Privacy Policy, you may not use the Web Site or the JOOR Services.
 
-### General Information
+## General Information
 
 JOOR collects Personal Information when you register with JOOR to use JOOR Services, or to post content on JOOR.
 
@@ -32,7 +32,7 @@ JOOR receives and records information on our server logs from your browser, incl
 
 JOOR may use analytic tools or services to view aggregate statistics about the usage of the JOOR Service.
 
-### IP Addresses
+## IP Addresses
 
 IP Addresses are automatically reported by your browser each time you view a web page. IP addresses may be used for various purposes, including:
 
@@ -42,7 +42,7 @@ To tailor advertising based on geographic area or other information derived from
 
 To estimate the total number of users visiting JOOR from specific geographical regions.
 
-### Cookies
+## Cookies
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a Web Site's computers and stored on your computer's hard drive.
 
@@ -61,7 +61,7 @@ JOOR uses its own cookies for a number of purposes, including to:
 
 Since JOOR uses cookies to track, diagnose and service technology problems reported by our users or engineers, if you reject all cookies, you will not be able to use JOOR products or services that require you to "sign in," and you may not be able to take full advantage of the JOOR Service.
 
-### Information Sharing and Disclosure
+## Information Sharing and Disclosure
 
 Any Personal Information or content that you voluntarily disclose online (on message boards, in reviews and discussion areas, and within your public profile page, etc.) becomes publicly available and can be collected and used by others.
 
@@ -83,7 +83,7 @@ JOOR reserves the right to disclose personally identifiable information and/or n
 
 JOOR may contract with various third parties who help us provide and maintain the Web Site or the JOOR Service. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purposes of providing the services in question. We cannot, however, guarantee that such parties will not disclose our Personal Information and will not be liable for any unauthorized use or disclosure by any third party.
 
-### Editing and Deleting Account Information
+## Editing and Deleting Account Information
 
 You can delete your JOOR username at any time. You can edit and change other account information at any time.
 
@@ -97,7 +97,7 @@ Your JOOR account information is password-protected.
 
 In certain areas, JOOR uses commercially available encryption protocols to protect data transmissions.
 
-### Data Security and Change of Control
+## Data Security and Change of Control
 
 JOOR uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to JOOR and you do so at your own risk. Once we receive your transmission of information, JOOR makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
@@ -105,10 +105,10 @@ If JOOR learns of a security systems breach, then we may attempt to notify you e
 
 In the event that JOOR is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used.
 
-### Changes and Updates to This Privacy Notice
+## Changes and Updates to This Privacy Notice
 
 This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your Personal Information in the manner described in the Privacy Notice in effect when we received the Personal Information you provided. Your continued use of the JOOR Site constitutes your agreement to this Privacy Notice and any future revisions.
 
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the Personal Information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
-#### March 4, 2010
+**March 4, 2010**
