@@ -1,0 +1,87 @@
+> *The following text is extracted and transformed from the livesample.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231041206id_/http%3A//www.livesample.com/privacy.html%3Fheight%3D540%26width%3D1010%26PHPSESSID%3D17a86ff83b69b7b80b0b6a9cf7b9f791) for the most accurate reproduction.*
+
+# LiveSample
+
+reInvention LLC dba LiveSample is committed to protecting the security and integrity of all Personal Information collected by, or disclosed to, LiveSample. We will not use any Personal Information for direct marketing or advertising purposes. Membership as a panel member and/or participation in any survey(s) or any other type of marketing research project is completely voluntary. This Privacy Policy identifies the Personal Information that we collect and how such Personal Information will be used and protected on our site www.livesample.com
+
+LiveSample has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@LiveSample.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe certification covers the information collected on www.LiveSample.com only and not any information that may be collected through our mobile application.
+
+**WHAT INFORMATION DO WE COLLECT**
+
+We invite users to register and become members of our panel of survey takers. We also allow users to participate in surveys without becoming a panel member. We collect Personal Information during the registration process including, without limitation to, first and last name, residential address, email address and date of birth. We also collect Demographic Information such as race, gender, marital status, income, education, occupation and employment status
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+**HOW DO WE USE INFORMATION THAT WE COLLECT**
+
+LiveSample conducts surveys on behalf of its clients to get feedback from consumers like you on products and services they offer. Data collected from such surveys is shared with our clients only in an aggregate format and does not identify individuals. We may however use Personal Information for the purpose of contacting and communicating with you in connection with your panel membership and/or participation in surveys, provide you with information about incentives for responding to our survey requests, provide customer support, allow you to cash out, notify you about new features on our website, or other products or services in which we think you may be interested. You may at any time select how often you receive survey invites by simply logging into your account and editing your personal profile.
+
+We may also share your personal information with our subsidiaries or non-affiliated vendors, who may need to access and use your personal information to process your rewards, ensure that your mailing address is accurate, and eliminate duplicate information from our records. These third parties are not allowed to use your personal information for any other purpose. We may also use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance, if needed. Except as set forth in this Privacy Policy, we do not trade, share, rent, sell or give away information concerning you to third parties.
+
+**LINKS TO OTHER SITES**
+
+From time-to-time LiveSample may provide panelists with the ability to voluntarily link or connect to websites maintained and/or operated by our partners/third parties. LiveSample is not responsible for the privacy policies and practices or the content of any websites which are linked to the Site. LiveSample does not endorse the Third Party Websites or any products or services advertised, offered and/or sold by, through or in connection with the Third Party Websites. LiveSample does not make any representations and/or warranties concerning the Third Party Websites; the business and/or privacy practices of any third party or third parties operating or owning the Third Party Websites and/or the products and/or services offered by or through the Third Party Websites such as a procurement site to process your incentive cash outs.
+
+**ONWARD TRANSFER OF INFORMATION**
+
+LiveSample will not share,sell, rent, or trade your personal information to any third party or third parties for any marketing or advertising purpose(s). LiveSample may disclose your information across other properties owned by ReInvention LLC or companies or persons we engage to perform services for us such as a payment processor to process your debit card transactions and an email processing vendor to ensure that you are not being spammed. In such cases, the third party will be given access to the information on the understanding that it will be used solely to render the services we require.
+
+LiveSample may also share your information with our corporate affiliates and with any third party that purchases substantially all of our assets or business; provided, however, that such third party has agreed to use and protect your personal information in accordance with this Privacy Policy. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership and control of your personal information.
+
+We will also share information we have collected with third parties as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, regulation, legal process served on our Web site or governmental inquiry.
+
+**ACCESSING/UPDATING YOUR PERSONAL INFORMATION**
+
+If you provided personal information during registration or in response to a survey invite, you may change, delete inaccuracies or modify such information by visiting the www.LiveSample.com website and accessing your account information or by emailing us at [privacy@LiveSample.com](mailto:privacy@oneopinion.com). We will respond to your access request within 30 days. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@LiveSample.com](mailto:support@oneopinion.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+**SAFETY AND SECURITY**
+
+LiveSample is committed to protecting the security and integrity of information collected from you. We take strict security measures to protect against unauthorized access, alteration, disclosure or destruction of Personal Information. These measures include internal review of our data collection, storage and processing practices. We also take physical security measures to guard against unauthorized access to systems where we store personal data. Our policy is to allow only authorized personnel to access the physical areas where such systems are located. In addition, we use firewalls to protect the servers from outside intrusion. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+**CHILDREN'S PRIVACY**
+
+LiveSample strongly believes that it is important to protect the privacy of children and we encourage parents or guardians to spend time with their children to participate and monitor their Internet activities. Accordingly, LiveSample complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet. Our surveys are not directed to children under the age of 13, therefore we do not provide memberships to persons under age 13. We will not knowingly collect, maintain, or disclose any personal information from children under the age of 13.
+
+From time to time, we may ask our adult survey respondents whether they have children residing with them who might have certain interests, such as favorite movies or music. In such event, we do not ask the child or parent to submit personally identifiable information about the child.
+
+**USE OF COOKIES / FLASH COOKIES**
+
+LiveSample uses "Cookies" and local shared objects ("Flash Cookies") to provide a better experience to you when participating in surveys. Cookies are bits of electronic information stored on your hard drive and are often used to save website customizations and website login information (such as email address and password). Cookies are used temporarily during the time you are actively completing a survey or filling out the registration forms. When we use cookies, we do so to help us recognize you as a prior user of this site. This improves the delivery of web pages the next time you visit the site and allows us to provide you with information specifically tailored to your interests. We do not store or retain information collected by a cookie and you always have the option to delete cookies from your computer. However this will reduce your chances of receiving more tailored surveys and as a result lower your reward earning opportunities.
+
+The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
+
+**USE OF WEB BEACONS**
+
+Our third party tracking utility company employs a software technology called web beacons, that help us better manage content on our site by informing us what content is effective. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+**ADVANCED COOKIES**
+
+The advanced cookie tracks the online patterns of LiveSample Members. The advanced cookie, which may be placed by e-Rewards or in conjunction with a third party, incorporates a key which can identify tags contained in certain online content relating to our clients and their products and services. If a LiveSample Member views a page containing any content that includes the tag, the key will send LiveSample an update confirming that the Member has viewed the page containing this content. Certain web pages or web-based advertisements that you view may be tracked, and in some cases, this tracking data may be combined with survey answers that you provide. For example, when you visit or click on our third-party marketing and reward partners' websites or online advertisements these events are recorded by one of our technology partners, which in turn reports the data to us. We combine that data with the other information that you provide us with, such as your survey responses and demographic information (but not with your personally identifiable information), to provide market research analysis to our Rewards Partners and Marketing Partners, for example on the effectiveness of their websites and advertisements. You can opt out of our technology partners' own data collection and ad targeting here http://preferences.truste.com/truste. If you delete cookies on your browser after opting out, you will have to opt out again.
+
+**OPTING-OUT OF OUR PANEL**
+
+If you desire to end your membership with the LiveSample panel, you may terminate your membership from within your account. Go to the My Profile section, click on Open Account Details, Open Personal Profile and then click on "Delete Account". Upon opting out of panel membership, we will deactivate your account and you will not receive any further survey invitations to take surveys; although you may continue to receive some previously prepared survey invitations for a few days following the termination of membership. LiveSample will retain your Personal Information for an indefinite period of time for tax and account purposes; however, we will continue to protect your Personal Information in accordance with this Privacy Policy.
+
+**APPLICABLE LAWS**
+
+This Privacy Policy will be governed by and construed in accordance with the laws of the State of Connecticut USA, without giving effect to any principles of conflict of laws.
+
+**CHANGES TO PRIVACY POLICY**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**BUSINESS TRANSFERS**
+
+As we continue to develop our business, we might sell or buy additional assets. In such transactions, the information you have provided would be considered transferred business assets. Any sale or transfer of LiveSample or substantially all of its business assets would be to an entity that agreed to comply with all of the material terms of our privacy policy. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership and control of your personal information.
+
+**AGREEMENT**
+
+By agreeing to participate in LiveSample's surveys or to become a LiveSample panel member, you signify your acceptance of the terms and conditions of this Privacy Policy. 
+
+**HOW TO CONTACT US**
+
+LiveSample is committed to working with you to obtain a fair resolution to any complaints or disputes about privacy and Personal Information. Any complaints or concerns about this Privacy Policy should be sent via regular mail, addressed to Privacy Officer, LiveSample, 264 Riverside Avenue, Westport, CT 06880 or email [privacy@LiveSample.com](mailto:privacy@oneopinion.com).
+
+**LAST UPDATED August 1, 2011**
