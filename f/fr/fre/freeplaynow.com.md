@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604212501id_/http%3A//www.freeplaynow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210939id_/http%3A//www.freeplaynow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
