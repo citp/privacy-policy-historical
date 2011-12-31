@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeekrewards.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625133740id_/http%3A//zeekrewards.com/privacy.asp%3Fusername%3DMaster) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewards.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231124902id_/http%3A//zeekrewards.com/privacy.asp%3Fusername%3DMaster) for the most accurate reproduction.*
 
 # NewNetMail - Privacy Policy
 
@@ -32,4 +32,4 @@ Once you have signed up as a ZeekRewards user, even if you later cancel your use
 
 ZeekRewards cannot guarantee the accuracy of personal data.
 
-USE OF ZEEKREWARDS IS CONTINGENT UPON ACCEPTANCE OF THIS PRIVACY POLICY,  TERMS OF SERVICE AND PURCHASE/MEMBERSHIP AGREEMENT. 
+USE OF ZEEKREWARDS IS CONTINGENT UPON ACCEPTANCE OF THIS PRIVACY POLICY,  TERMS OF SERVICE AND PURCHASE/AFFILIATE AGREEMENT. 
