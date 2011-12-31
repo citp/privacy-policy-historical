@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623221749id_/http%3A//www.my3cents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204232id_/http%3A//www.my3cents.com/privacy.cgi) for the most accurate reproduction.*
 
 # My3cents.com - Let your voice be heard! Consumer Reviews, Complaints and more...
 
@@ -27,7 +27,7 @@ In addition, My3cents.com may disclose personally identifiable user information 
 
 Consumers should be aware that information provided to us may be subpoenaed by courts of law and that in most instances we will be obligated to honor lawful court orders. 
 
-We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes. If you are posting a complaint, the company may attempt to contact you regarding a resolution to your problem/issue. 
+We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes except in the case of companies wishing to resolve consumer complaints. 
 
 **Send Your Letter to Others/Pass It On E-mail**  
 Our site gives you the opportunity to enter a friend's e-mail address to send a copy of your letter or opinion or other information you feel may be of interest. This use is a one-time only e-mail sent to the recipient and our site will not send any further communications to the recipient. 
