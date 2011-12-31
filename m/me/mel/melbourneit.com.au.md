@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617064122id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourneit.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212703id_/http%3A//www.melbourneit.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Date: September 2010
+Date: October 2011
 
 Melbourne IT Ltd (ABN 21 073 716 793)("Melbourne IT") respects your privacy and is committed to the protection of it.
 
@@ -62,7 +62,7 @@ In addition, ICANN has another mandatory requirement that all its accredited reg
 We will be contacting you and may use the personal details you provide to us, at the time you apply for a domain name registration with Melbourne IT or during the licence period of your domain name registration with Melbourne IT, to obtain relevant information from you with respect to your domain name application, or, to advise you of all relevant information relating to your domain name licence. This includes any account administration information including renewal information and billing information, as well as notices of any important system changes which will impact on your online interactions with us. Each of these functions is necessary if Melbourne IT is to effectively fulfil its role as the registrar of your domain names.
 
   * **Other uses**
-    * Melbourne IT may use your information to measure your experience of our services and products and to inform you of new product developments and associated services that we believe will interest you. If you do not wish to receive email notices or other communications from Melbourne IT regarding additional products and services, please contact us on 1300 654 677 and request to opt-out.
+    * Melbourne IT may use your information to measure your experience of our services and products, and to identify and inform you of new product developments and associated services that we believe will interest you. If you do not wish to receive email notices or other communications from Melbourne IT regarding additional products and services, please contact us on 1300 654 677 and request to opt-out.
     * We may use your information in statistical form to analyze your purchasing preferences. This information is not used to track your individual preferences but rather to give us a general picture of the products and services our customers prefer. We might also gather information in statistical form such as the number of visitors who visit the Melbourne IT website on a daily basis. Again this is not used to track any individual customer's browsing habits. 
     * We may use your email communications with Melbourne IT to analyze customer service issues as a way of identifying potential improvements for Melbourne IT products and services. In addition, we may occasionally monitor telephone conversations with you in order to facilitate staff training and to maintain our high levels of customer service. We will always inform you prior to any telephone conversation which is monitored in this way to obtain your prior approval. 
     * We may use your IP address to contact your Internet Service Provider to let you know of any problems with payments you have made to us where we believe this is reasonably necessary to protect against fraud and credit card misuse. 
