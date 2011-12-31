@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatedotcom.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527145449id_/http%3A//members.affiliatedotcom.com/disclaimers/70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatedotcom.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214119id_/http%3A//members.affiliatedotcom.com/disclaimers/70) for the most accurate reproduction.*
 
 # None
 
