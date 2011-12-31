@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606065007id_/http%3A//www.twip.org/wiki-en-privacy-policy-p13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twip.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203749id_/http%3A//www.twip.org/wiki-en-privacy-policy-p13) for the most accurate reproduction.*
 
 # Privacy Policy - WIKI TWIP
 
