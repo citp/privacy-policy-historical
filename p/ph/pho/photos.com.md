@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229232239id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231170438id_/http%3A//www.photos.com/legal/privacy) for the most accurate reproduction.*
 
-# Photos.com - Privacy Policy
+# Privacy Policy | Photos.com Royalty-Free Subscription Stock Photos
 
 Last updated: September 2009
 
@@ -64,7 +64,7 @@ The security of your personal information is important to us. We follow generall
 
 If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential. 
 
-## Forums & Other Interactive Services
+## Forums Other Interactive Services
 
 Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at sales@photos.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems. 
 
@@ -82,7 +82,7 @@ We may link to websites, including those of our third-party content providers, t
 
 ## DMA
 
-If you have questions or concerns regarding this privacy policy, you should first contact Photos.com (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410. 
+If you have questions or concerns regarding this privacy policy, you should first contact Photos.com (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org), by mail at Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036, or by phone at 202-861-2410. 
 
 ## Changes to This Privacy Policy
 
