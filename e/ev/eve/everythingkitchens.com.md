@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621022726id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingkitchens.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215405id_/http%3A//www.everythingkitchens.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Everything Kitchens Privacy Policy
 
@@ -18,13 +18,13 @@
   * Last Updated
   
 **Other Policies and Legal Notices:**
-    * [Legal Notices / Policies](https://web.archive.org/web/20110621022726id_/http%3A//www.everythingkitchens.com/legal.html)
-    * [Return Policy](https://web.archive.org/web/20110621022726id_/http%3A//www.everythingkitchens.com/returnpolicy.html)
+    * [Legal Notices / Policies](https://web.archive.org/web/20111231215405id_/http%3A//www.everythingkitchens.com/legal.html)
+    * [Return Policy](https://web.archive.org/web/20111231215405id_/http%3A//www.everythingkitchens.com/returnpolicy.html)
 
 
 
 **_Information Collection and Use_**  
-Everything Kitchens is the sole owner of any information collected on this site. **We will not sell, share, or rent your information to any outside marketing agencies.** We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates as well as occasional low volume sales or promotions specific to our company. If you do not wish to receive any promotional e-mails you may [opt-out](https://web.archive.org/web/20110621022726id_/http%3A//www.everythingkitchens.com/mailinglist-opt-out.html) at any time. 
+Everything Kitchens is the sole owner of any information collected on this site. **We will not sell, share, or rent your information to any outside marketing agencies.** We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates as well as occasional low volume sales or promotions specific to our company. If you do not wish to receive any promotional e-mails you may [opt-out](https://web.archive.org/web/20111231215405id_/http%3A//www.everythingkitchens.com/mailinglist-opt-out.html) at any time. 
 
 **_Information Collected for Order Processing_**  
 Information will be collected from you to process your order. During this order process, you will have to provide financial information such as your credit card number and expiration date. This information is used for billing purposes and to fulfill your order. If we have trouble processing an order, we will use this contact information to get in touch with you. To properly process your credit card information, we must share your personal and financial information with the merchant bank for authorization and approval. This process is protected by an enhanced security system. See the Data Security section below for more details on security measures and procedures. **We do not share your personal and financial information with any third parties** , except those specified in the Third Party Sharing section of this policy. 
@@ -54,7 +54,7 @@ Everything Kitchens, does not sell products for purchase by children. Youth-orie
 Everything Kitchens website contains links to other sites. Please be aware that EverythingKtichens.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
 
 **_Special Offers / Opt-Out_**  
-To honor the privacy of our customers, we offer the option to not receive these types of communications. All special offers are sent via e-mail and include an [opt-out link](https://web.archive.org/web/20110621022726id_/http%3A//www.everythingkitchens.com/mailinglist-opt-out.html) if you no longer wish to receive special offers and news. 
+To honor the privacy of our customers, we offer the option to not receive these types of communications. All special offers are sent via e-mail and include an [opt-out link](https://web.archive.org/web/20111231215405id_/http%3A//www.everythingkitchens.com/mailinglist-opt-out.html) if you no longer wish to receive special offers and news. 
 
 **_Last Updated_**  
 The Privacy Policy contained herein was last updated and became officially effective April 20, 2010.
