@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplan.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228205847id_/http%3A//www.myplan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplan.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224022id_/http%3A//www.myplan.com/privacy.php) for the most accurate reproduction.*
 
 # MyPlan.com :: Privacy Policy
 
