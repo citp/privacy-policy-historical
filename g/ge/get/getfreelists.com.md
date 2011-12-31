@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getfreelists.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101024002id_/http%3A//getfreelists.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreelists.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223916id_/http%3A//getfreelists.com/privacy_policy) for the most accurate reproduction.*
 
 # Get Free Lists - Privacy Policy
-
-## Privacy Policy
 
 ###  Get Free Lists Privacy Policy
 
@@ -39,3 +37,11 @@ This policy covers how Get Free Lists Technologies Private Limited treats person
 ·  We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
 ·  The web site also uses SSL Encryption to protect all sensitive information that is collected on the web site
+
+  
+
+
+Haven't Got your required material? Please tell us what is required to you! 
+
+  
+
