@@ -1,35 +1,25 @@
-> *The following text is extracted and transformed from the myzibzoom.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129085233id_/http%3A//www.myzibzoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzibzoom.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211022id_/http%3A//zibzoom.com/portal/privacy.php) for the most accurate reproduction.*
 
-# Myzibzoom.com - Privacy Policy
+# 
 
-Our company collects information in different ways from visitors and members who access the various parts of our services and the network of web sites accessible through our service.
+Privacy Policy ZibZoom.com
 
-Any personal information you provide to us including and similar to your address and telephone number will not be released, sold, or rented to any entities or individuals outside of MyZibZoom.com.
+ZibZoom.com respects your legal and moral right to privacy.  Our company understands when safe and appropriate policy and regulations are implemented, you are apt to remain an active ZibZoom.com user.  
 
-**Registration**
+Our success relies heavily on maintaining a high standard of privacy protection with the information we obtain and, not limited to, by you using any and or all of our services at Zibzoom.com.
 
-Members may be asked to provide certain personal information when they sign up for our products or services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each member's account (such as for billing purposes).
+By using any of our free services, or by becoming a ZibZoom.com portal user, you are consenting to allowing us to collect and use the information and data collected as described in this privacy policy.  The information and data is collected for the sole purpose of evaluating market trends and providing the best user experience and marketing service possible.
 
-This information may be shared with third parties, as stated herein, or in special circumstances.
+What information do we collect when you use Zibzoom.com or any of our services?
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the services as a result of the joint promotion for the purpose of offering you other products and services. In this instance, the partner may not use personal information for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
+IP address of computer, browser type, browser language setting, other browser information , operating system or platform.  Your IP address also provides additional information, such as, general area and the ability to track back your specific Internet service provider.
 
-Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. That business partner company collects sales proceeds.  We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies.  At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
+In addition, and not limited to the information we collect, when you visit our website we also track the website that you came from, the time spent on our website and the website you go to after leaving our site.  
 
-**Credit card details**
+When you choose to become a ZibZoom.com user we collect additional information.  Your information you provide during the signup process will be displayed only to the person who referred you to ZibZoom.com.  It will also only contain your username and the date you became a ZibZoom.com user and member.
 
-If you pay for anything on our site using a credit or debit card, we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information and you authorize us to do so, to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
+If you decide to become a member by completing and agreeing to this privacy policy you are consenting to allowing Zibzoom.com to track your activities in the portal.  This tracking is done to obtain information and data for research analysis to better your experience and to also allow us to provide for a better marketing experience for our marketers.  ZibZoom.com also tracks any revenue that is generated from your activity so that we can properly reward the person or group that referred you to our free services.
 
-**External Sites**
+We retain your information for up to 18 months, after which time, we only retain your account information unless you wish to terminate your account.  Account termination can be done at any time at your request.
 
-MyZibZoom.com is not responsible for the content of external Internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
-
-**Cookies**
-
-A "cookie" is a small data text file that is placed in your browser and allows MyZibZoom.com to recognize you each time you visit this site (customization etc). Cookies themselves do not contain any personal information, and MyZibZoom.com does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
-
-**Remember The Risks Whenever You Use The Internet**
-
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to MyZibZoom.com and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through MyZibZoom.com have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
-
-Please contact those vendors and others directly if you have any questions about their privacy policies.
+Your account can be terminated yourself from inside your ZibZoom.com portal area under the My Account tab or you may contact ZibZoom.com and our staff would be willing to assist you in this process.
