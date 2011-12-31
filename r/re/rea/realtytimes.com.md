@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218023947id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223113id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -69,12 +69,12 @@ If you have any questions or concerns about the Realty Times online policy for t
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-The Privacy Notice posted on this site was updated on or about August 1, 2006. 
+The Privacy Notice posted on this site was updated on or about August 15, 2011. 
 
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RT_MCR_Banner_C1&LINK=http://realtytimes.com/conditions.htm?open&promo=RTBANC1)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotCom_Banner_C6&LINK=http://www.topproducer.com/tp-mobileb/default.aspx?utm_source=rltytimes&utm_medium=banner&utm_content=teaser&utm_campaign=mobile)
 
 |    
 
@@ -83,28 +83,28 @@ Real Estate News Network
 
 [ ](http://www.adobe.com/go/getflashplayer)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CoreLogic_Sponsor_C6&LINK=http://www.corelogic.com/realestatebroker)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\WebcastCity_Sponsor_C1&LINK=http://WebcastCity.com/)
 
 **Mortgage Rates**  
-30 Year Fixed: 4.83%  
-15 Year Fixed: 4.17%  
-1 Year Adj: 3.35%  
+30 Year Fixed: 3.95%  
+15 Year Fixed: 3.24%  
+1 Year Adj: 2.78%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines 08/10/2006  
 
 
-  * [The X Factor--Why Making An Offer On A Home Should Be Based On Value To You](https://web.archive.org/rtpages/20101217_xfactor.htm)
-  * [Buyer Consultation: Financial Options and Qualifications Section](https://web.archive.org/rtpages/20101217_consult.htm)
-  * [Mortgage Rates Continue to Climb](https://web.archive.org/rtpages/20101217_rates.htm)
-  * [Mortgage Fraud Up 20 Percent](https://web.archive.org/rtpages/20101216_fraud.htm)
-  * [Homes Values Continue to Fall](https://web.archive.org/rtpages/20101216_values.htm)
-  * [How Do I Get Contact Information from Open House Visitors?](https://web.archive.org/rtpages/20101216_openhouse.htm)
-  * [Pros and Cons of Condo Living](https://web.archive.org/rtpages/20101215_condoliving.htm)
-  * [Ask the HOA Expert](https://web.archive.org/rtpages/20101215_askhoa.htm)
-  * [Tips for Lowing Your Homeowners Insurance Bill](https://web.archive.org/rtpages/20101214_lower.htm)
-  * [Short Sale Advisory May Be A Case of Too Much Information](https://web.archive.org/rtpages/20101214_shortsale.htm)
+  * [Agents: Selling a Home During Cold Weather](https://web.archive.org/rtpages/20111230_cold.htm)
+  * [Keep Your Eyes On These Real Estate Markets In 2012](https://web.archive.org/rtpages/20111230_markets.htm)
+  * [Mortgage Rates Finish 2011 Near Historic Lows](https://web.archive.org/rtpages/20111230_rates.htm)
+  * [Establishing Your Own Board of Directors](https://web.archive.org/rtpages/20111230_directors.htm)
+  * [Real Estate Marketing Strategies: 5 Tips to Turning a Resolution into a Reality](https://web.archive.org/rtpages/20111229_resolutions.htm)
+  * [Mortgage Rate Myths Can Offset The Advantages of Record Low Rates](https://web.archive.org/rtpages/20111229_myths.htm)
+  * [Homes and New Babies](https://web.archive.org/rtpages/20111229_babies.htm)
+  * [Keeping New Year's Resolutions](https://web.archive.org/rtpages/20111228_resolutions.htm)
+  * [Ask The HOA Expert](https://web.archive.org/rtpages/20111228_hoaexpert.htm)
+  * [Investors: Wi-Fi Yields Obvious Results](https://web.archive.org/rtpages/20111228_wifi.htm)
 
   
 
@@ -114,4 +114,4 @@ Today's Headlines 08/10/2006
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotOrg_Spotlight_C11&LINK=http://marketing.realtor.com/cmp/sta/ba/buyera/111010/) [](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\CraigProctorProductions_Sponsor_C85&LINK=http://www.hypertracker.com/go/cp/rtsb101213)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\RealtorDotCom_Spotlight_C6&LINK=http://www.topproducer.com/tp-mobileb/default.aspx?utm_source=rltytimes&utm_medium=banner&utm_content=teaser&utm_campaign=mobile)
