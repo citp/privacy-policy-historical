@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055833id_/http%3A//www.clicksor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213259id_/http%3A//www.clicksor.com/footer-link/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Contextual Advertising and Behavioral Marketing Services
+# Privacy Policy | Online Contextual Advertising and Retargeting Behavioral Marketing Services
 
 At Clicksor, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order. We have NO access to any information collected by our Payment Services Providers and you may direct further inquiries here:
 
