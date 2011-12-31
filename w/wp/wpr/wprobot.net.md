@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614025818id_/http%3A//www.wprobot.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231114726id_/http%3A//www.wprobot.net/privacy.php) for the most accurate reproduction.*
 
 # WP Robot - Premium Wordpress Autoposting Plugin
 
