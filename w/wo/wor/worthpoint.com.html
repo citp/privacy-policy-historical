@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the worthpoint.com privacy policy that was archived on 2011-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110304004915id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worthpoint.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214033id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>WorthPoint-GoAntiques-PriceMiner Privacy Policy | WorthPoint</title>
-<meta name="generator" content="WordPress 3.0.4">
 
 <link rel="stylesheet" type="text/css" href="http://static.worthpoint.com/wp-content/themes/worthpoint/style.css">
 <link rel="stylesheet" type="text/css" href="http://static.worthpoint.com/wp-content/themes/worthpoint/superfish.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://static.worthpoint.com/css/header.css">
+
 <link rel="alternate" type="application/rss+xml" title="WorthPoint.com News, Multimedia &amp; Articles" href="http://www.worthpoint.com/feed">
-<link rel="alternate" type="application/rss+xml" title="WorthPoint.com Multimedia (Video &amp; Audio)" href="http://www.worthpoint.com/category/multumedia/feed">
+<link rel="alternate" type="application/rss+xml" title="WorthPoint.com Multimedia (Video &amp; Audio)" href="http://www.worthpoint.com/category/multimedia/feed">
 <link rel="alternate" type="application/rss+xml" title="WorthPoint.com News" href="http://www.worthpoint.com/category/news/feed">
 
 <link rel="shortcut icon" href="http://www.worthpoint.com/wp-content/themes/worthpoint/images/wp20_favicon.png">
 
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-9663586152881115");
 GS_googleEnableAllServices();
@@ -31,32 +32,17 @@ GA_googleAddSlot("ca-pub-9663586152881115", "worthpoint_atf_leaderboard");
 GA_googleAddSlot("ca-pub-9663586152881115", "worthpoint_atf_rectangle");
 GA_googleAddSlot("ca-pub-9663586152881115", "worthpoint_btf_leaderboard");
 GA_googleAddSlot("ca-pub-9663586152881115", "worthpoint_btf_rectangle");
+GA_googleAddSlot("ca-pub-9663586152881115", "worthpoint_btf_rectangle");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
 <script type="text/javascript" src="http://static.worthpoint.com/wp-content/themes/worthpoint/jquery.js"></script>
-<script type="text/javascript" src="http://static.worthpoint.com/wp-content/themes/worthpoint/jquery_002.js"></script>
+<!--<script type="text/javascript" src="http://static.worthpoint.com/wp-content/themes/worthpoint/jquery_002.js"></script>-->
 <script type="text/javascript" src="http://static.worthpoint.com/wp-content/themes/worthpoint/ui_002.js"></script>
 <script type="text/javascript" src="http://static.worthpoint.com/wp-content/themes/worthpoint/ui.js"></script>
 <script type="text/javascript" src="http://static.worthpoint.com/js/superfish_corner.js"></script>
 <script type="text/javascript">
-
-function toggleSearch(){
-    if (document.getElementById("moreOptions").style.display == "none"){
-    document.getElementById("moreOptions").style.display = "";
-    document.getElementById("moreOptions2").style.display = "";    
-    document.getElementById("moreOptionsLink").innerHTML = "[-] General Search";
-    /* document.getElementById("showMoreOptionsId").value="Y"; */
-    document.getElementById("searchbox").style.height="97";
-    }else{
-    document.getElementById("moreOptions").style.display='none';
-    document.getElementById("moreOptions2").style.display='none';
-    document.getElementById("moreOptionsLink").innerHTML = "[+] Advanced Search";
-    /* document.getElementById("showMoreOptionsId").value="N"; */
-    document.getElementById("searchbox").style.height="60";
-    }
-}
 
     $(document).ready(function(){ 
         $("ul.sf-menu").superfish({
@@ -84,15 +70,84 @@ jQuery('#searchsubmit').click( function(){
     }); 
 
 
+</script> 
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  dropDown();
+
+  $(".dropdown dt a").click(function(e) {
+		e.preventDefault();
+		$(".dropdown dd ul").toggle();
+  });
+
+  $(document).bind('click', function(e) {
+    var $clicked = $(e.target);
+    if (! $clicked.parents().hasClass("dropdown"))
+    $(".dropdown dd ul").hide();
+  });
+
+  $(".dropdown dd ul li a").click(function(event) {
+    event.preventDefault();
+		var text = $(this).html();
+    $(".dropdown dt a").html(text);
+    $(".dropdown dd ul").hide();
+
+    var select = $("#search_select");           
+		ns = $(this).find("span.value").html();
+    select.val(ns)
+		$("input#s").attr('name', ns);
+		switch (ns)
+		{
+		 	case "s":
+				action = "/";
+				break;
+			case "keyword":
+				action = "/classified";
+				break;
+			default:
+				action = "/inventory/search";
+		 }
+		$("#searchform").attr("action", action);
+  });
+  //$("input#s").focus();
+});
+function dropDown(){
+  var select = jQuery("#search_select");
+  var selected = select.find("option:selected");
+  var options = jQuery("option", select);
+  jQuery("#searchform").prepend('<dl id="target" class="dropdown"></dl>')
+  jQuery("#target").append('<dt><a href="">' + selected.text() + 
+  '<span class="value">' + selected.val() + 
+  '</span></a></dt>')
+  jQuery("#target").append('<dd><ul></ul></dd>')
+
+  options.each(function(){
+    jQuery("#target dd ul").append('<li><a href="#">' + 
+    jQuery(this).text() + '<span class="value">' + 
+    jQuery(this).val() + '</span></a></li>');
+  });
+  jQuery("#search_select").hide();
+}  
 </script>
 <script charset="utf-8" id="injection_graph_func" src="http://static.worthpoint.com/wp-content/themes/worthpoint/injection_graph_func.js"></script>
 <link rel="alternate" type="application/rss+xml" title="WorthPoint » WorthPoint-GoAntiques-PriceMiner Privacy Policy Comments Feed" href="http://www.worthpoint.com/worthpoint-privacy-policy/feed">
-<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://www.worthpoint.com/?mcsf_action=main_css&amp;ver=3.0.4" type="text/css" media="all">
+
+<link rel="stylesheet" href="http://www.worthpoint.com/wp-content/plugins/fancybox-for-wordpress/css/fancybox.css" type="text/css" media="screen">
+
+	<style type="text/css">
+		div#fancy_inner {border-color:#BBBBBB}
+		div#fancy_close {right:-15px;top:-12px}
+		div#fancy_bg {background-color:#FFFFFF}
+		div#fancy_title table {display:none} 
+	</style>
+
+	<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://www.worthpoint.com/?mcsf_action=main_css&amp;ver=3.2.1" type="text/css" media="all">
 <!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.worthpoint.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.worthpoint.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.2.1' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" src="http://www.worthpoint.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<script type="text/javascript" src="http://www.worthpoint.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://www.worthpoint.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.worthpoint.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.worthpoint.com/wp-includes/js/jquery/jquery.form.js?ver=2.73"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mailchimpSF = {
@@ -102,27 +157,68 @@ var mailchimpSF = {
 </script>
 <script type="text/javascript" src="http://www.worthpoint.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US?ver=0.4"></script>
-<script type="text/javascript" src="http://www.google.com/jsapi?ver=3.0.4"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi?ver=3.2.1"></script>
 <script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=8J7Ws2oAp40KcVhnDqWg&amp;v=1&amp;ver=1"></script>
+<script type="text/javascript" src="http://www.worthpoint.com/wp-content/plugins/fancybox-for-wordpress/js/jquery.fancybox-1.2.6.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.worthpoint.com/wp-content/plugins/cryptx/js/cryptx.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.worthpoint.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.worthpoint.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="WorthPoint" href="http://www.worthpoint.com">
-<link rel="prev" title="Press Releases" href="http://www.worthpoint.com/press-releases">
-<link rel="next" title="Terms of Use" href="http://www.worthpoint.com/terms-use">
-<meta name="generator" content="WordPress 3.0.4">
 <link rel="canonical" href="http://www.worthpoint.com/worthpoint-privacy-policy">
 
-<!-- all in one seo pack 1.4.6.15 [254,329] -->
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[308,383] -->
 <meta name="description" content="ATTENTION: Please take a moment to read this privacy policy carefully as it provides information about WorthPoint Corporation’s (“WorthPoint”)">
 <!-- /all in one seo pack -->
 <script type="text/javascript" src="http://www.worthpoint.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=20080825040617"></script>
 <script type="text/javascript">AudioPlayer.setup("http://www.worthpoint.com/wp-content/plugins/audio-player/assets/player.swf?ver=20080825040617", {width:"181",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"DCDCDC",text:"333333",leftbg:"CCCCCC",lefticon:"620000",volslider:"620000",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"620000",righticonhover:"FFFFFF",track:"FFFFFF",loader:"671B14",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
-<script type="text/javascript" src="http://www.worthpoint.com/wp-content/plugins/cryptx/js/cryptx.js"></script>
+
+
+<!-- Fancybox for WordPress v2.7.5 -->
+
+<script type="text/javascript">
+
+	jQuery.noConflict();
+
+	jQuery(function(){
+
+				jQuery.fn.getTitle = function() {
+			var arr = jQuery("a.fancybox");
+			jQuery.each(arr, function() {
+				var title = jQuery(this).children("img").attr("title");
+				jQuery(this).attr('title',title);
+			})
+		}
+
+		// Supported file extensions
+		var thumbnails = 'a:has(img)[href$=".bmp"],a:has(img)[href$=".gif"],a:has(img)[href$=".jpg"],a:has(img)[href$=".jpeg"],a:has(img)[href$=".png"],a:has(img)[href$=".BMP"],a:has(img)[href$=".GIF"],a:has(img)[href$=".JPG"],a:has(img)[href$=".JPEG"],a:has(img)[href$=".PNG"]';
+
+	
+		jQuery(thumbnails).addClass("fancybox").attr("rel","fancybox").getTitle();
+
+			jQuery("a.fancybox").fancybox({
+			'imageScale': true,
+			'padding': 10,
+			'zoomOpacity': true,
+			'zoomSpeedIn': 500,
+			'zoomSpeedOut': 500,
+			'zoomSpeedChange': 300,
+			'overlayShow': true,
+			'overlayColor': "#666666",
+			'overlayOpacity': 0.3,
+			'enableEscapeButton': true,
+			'showCloseButton': true,
+			'hideOnOverlayClick': true,
+			'hideOnContentClick': false,
+			'frameWidth':  560,
+			'frameHeight':  340,
+												'centerOnScroll': true
+		});
+
+})
+
+</script>
+<!-- END Fancybox for WordPress -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="WorthPoint-GoAntiques-PriceMiner Privacy Policy">
-<meta name="title" content="WorthPoint-GoAntiques-PriceMiner Privacy Policy">
-<meta name="description" content="   ATTENTION:  Please take a moment to read this privacy policy carefully as it provides information about WorthPoint Corporation’s (“WorthPoint”) information, collection, use and handling practices. If you have any questions whatsoever, please do not hesitate to contact us using the information in the section below entitled “Contact Information”. This privacy policy was last updated in ...">
-<meta name="medium" content="blog">
 <meta property="fb:app_id" content="130982950277104">
 <meta property="og:site_name" content="WorthPoint">
 <meta property="og:url" content="http://www.worthpoint.com/worthpoint-privacy-policy">
@@ -133,154 +229,133 @@ var mailchimpSF = {
 <!-- Wordpress Popular Posts v2.0.2 -->
 <script type="text/javascript" charset="utf-8">
     /* <![CDATA[ */				
-    jQuery.post('http://www.worthpoint.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '354dd24cc6', id: 2470970});
+    jQuery.post('http://www.worthpoint.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '8e8a4728b8', id: 2470970});
     /* ]]> */
 </script>
 <!-- End Wordpress Popular Posts v2.0.2 -->
-            </head>
+            <!-- GA -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2113658-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- /GA -->
+</head>
 
 
-    <body bgcolor="#a18361">
-    <div>&nbsp;</div>
-<div align="center">
-<div><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/top_corners.gif" height="20" width="960"></div>
+    		<body bgcolor="#a18361">
+				<div>&nbsp;</div>
+		<div align="center">
+			<div><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/top_corners.gif" height="10" width="960"></div>
 
 <!-- Header Div begins here -->
 
 <div id="header" align="left">
 
 	<table style="margin-top: 0px; margin-left: 20px;" border="0" cellpadding="0" cellspacing="0" width="920">
-  		<tbody><tr> 
-    		<td align="left" valign="top">
-			<a href="http://www.worthpoint.com"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/worthpoint_header_logo.gif" border="0" height="85" width="360"></a>
-			
+		<tbody><tr> 
+			<td align="left" valign="top">
+				<a href="http://www.worthpoint.com"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/worthpoint_header_logo.gif" border="0" height="85" width="360"></a>
+
 			</td>
-    		<td align="right" valign="top">
-<script type="text/javascript" src="http://www.worthpoint.com/wp-content/themes/worthpoint/navbar.js.php?url=http://www.worthpoint.com"></script>
-
-    		
-
-		<div id="searchbox" class="rounded-4" style="border: medium none ; padding: 2px; position: relative; right: 0px; top: 10px; background-color: rgb(223, 215, 182); width: 400px; -moz-border-radius: 4px;">
-		<table border="0" cellpadding="6" cellspacing="0">
-          <tbody><tr> 
-            <td align="right" bgcolor="#dfd7b6">
-            <table size="100%" border="0" cellpadding="0" cellspacing="0">
-          		<tbody><tr> 
-            		<td align="right">
-            		<span class="p2">SEARCH: </span><form method="get" id="searchform" action="http://www.worthpoint.com/">
-<input type="text" value="" name="s" id="s">
-<input type="hidden" name="metasearch" value="yes">
-<input type="submit" id="searchsubmit" value="Search" size="20">
+			<td align="right" valign="top">
+				<div id="header-login">
+				<script type="text/javascript" src="http://www.worthpoint.com/wp-content/themes/worthpoint/navbar.js.php?url=http://www.worthpoint.com"></script>
+			</div>
 
 
-            		</form></td>
-  				</tr>
-  				<tr id="moreOptions" style="display: none;"> 
-            		<td align="right" nowrap="nowrap" valign="middle">
-            		<span class="pgray"><strong>Include</strong>: 
-            		<input name="metasearch_cats[]" value="news" checked="" type="checkbox">News 
-                	<input name="metasearch_cats[]" value="articles" checked="" type="checkbox">Articles 
-                	<input name="metasearch_cats[]" value="multimedia" checked="" type="checkbox">Multimedia
-                	<input name="metasearch_cats[]" value="classifieds" checked="" type="checkbox">Classifieds
-                	</span>
-            		</td>
-  				</tr>
-  				<tr id="moreOptions2" style="display: none;"> 
-            		<td align="right" nowrap="nowrap" valign="middle">
-            		<span class="pgray">
-            		<input name="metasearch_cats[]" value="profiles" checked="" type="checkbox">Profiles
-                	<input name="metasearch_cats[]" value="price_guide" checked="" type="checkbox">Price Guide
-                	<input name="metasearch_cats[]" value="upcoming_auctions" checked="" type="checkbox">Upcoming Auctions
-                	</span>
+			<div id="searchbox">
+				<form method="get" id="searchform" action="http://www.worthpoint.com/inventory/search">
+					<select id="search_select">
+             <option selected="selected" value="query">Price Guide</option>
+             <option value="s">News/Articles</option>
+             <option value="keyword">Classifieds</option>
+           </select>
+					<input type="text" value="" name="query" id="s">
+					<input class="button" type="submit" id="searchsubmit" value="Search" size="20">
+				</form>
+			</div>
+	</td>
+</tr>
+</tbody></table>
 
-            		</td>
-  				</tr>
-  				<tr> 
-            		<td align="right" valign="middle">
-            		<table size="100%" border="0" cellpadding="0" cellspacing="0" height="20">
-  						<tbody><tr> 
-            				<td align="right" valign="bottom"> <a class="rednavsm" id="moreOptionsLink" href="javascript:toggleSearch()">[+] Advanced Search</a>
-            				</td>
-  						</tr>
-					</tbody></table>
-            		</td>
-  				</tr>
-			</tbody></table> 
-            </td>
-          </tr>
-        </tbody></table>
-</div><br>
-			</td>
-  		</tr>
-	</tbody></table>
-        
 </div>
 <!-- Header Div ends here -->
 
 
-			<!-- Banners Div begins here -->
+<!-- Banners Div begins here -->
 <div id="banners" align="left">
 
-	<table style="position: relative; right: -20px; top: 0px;" border="0" cellpadding="0" cellspacing="0" width="920">
-  		<tbody><tr valign="top"> 
-    		<td align="left">
-<!-- goantiques_atf_leaderboard -->
-<script type="text/javascript">
-   GA_googleFillSlot("worthpoint_atf_leaderboard");
-</script>   
-			</td>
-    		<td align="right">
-			<a rel="nofollow" href="http://www.worthpoint.com/user2/createStep1"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/top_banner_right.gif" border="0" height="90"></a>
-			</td>
-  		</tr>
-	</tbody></table> 
+	
+<table style="position: relative; right: -20px; top: 0px;" border="0" cellpadding="0" cellspacing="0" width="920">
+	<tbody><tr valign="top"> 
+		<td align="left">
+		<!-- goantiques_atf_leaderboard -->
+		<script type="text/javascript">
+		GA_googleFillSlot("worthpoint_atf_leaderboard");
+		</script>   
+	</td>
+	<td align="right">
+		<a rel="nofollow" href="http://www.worthpoint.com/user2/createStep1"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/top_banner_right.gif" border="0" height="90"></a>
+	</td>
+</tr>
+</tbody></table> 
 
 </div>
 <!-- Banners Div ends here -->
-			
+
 <!-- Navigation Div begins here -->
 <!-- preload the bg rollovers -->
 <div id="preload"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/news_mainmenu_over.gif"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/research_mainmenu_over.gif"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/buysell_mainmenu_over.gif"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/community_mainmenu_over.gif"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/findabusiness_mainmenu_over.gif"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/upcoming_mainmenu_over.gif"></div>
 <div id="navigation" align="left">
-<img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" height="8"><br>
-<img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" align="left" height="8" width="19">
-<ul class="sf-menu sf-js-enabled">
-  <li class="" id="news"><a href="http://www.worthpoint.com/news-articles-multimedia"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="157"></a>
-    <ul style="display: none; visibility: hidden;">
-      <li><a href="http://www.worthpoint.com/category/news">News Stories</a></li>
-      <li><a href="http://www.worthpoint.com/category/article/feature-article">Feature Articles</a></li>
-      <li><a href="http://www.worthpoint.com/category/multimedia">Video &amp; Audio</a></li>
-    </ul>
-  </li>
-  <li class="" id="research"><a href="http://www.worthpoint.com/research-items"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="143"></a>
-    <ul style="display: none; visibility: hidden;">
-<li><a href="http://www.worthpoint.com/worthopedia">Worthopedia™ Price Guide</a></li>
-<li><a href="http://www.worthpoint.com/askWorthologist/index">Ask a Worthologist™ - Expert Advice</a></li>
-    </ul>
-  </li>
-  <li class="" id="upcoming"><a><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="181"></a>
-    <ul style="display: none; visibility: hidden;">
-      <li><a rel="nofollow" href="/auctionhsad/index">Upcoming Auctions</a></li>
-      <li><a href="http://www.worthpoint.com/mainCalendar/maincalendar" rel="nofollow">Events Calendar</a></li>
-    </ul>      
-  </li>
-      <li class="" id="buysell"><a href="http://www.worthpoint.com/buy-sell"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="139"></a>
-    <ul style="display: none; visibility: hidden;">
-      <li><a href="http://www.goantiques.com/?source=FUL9900" rel="nofollow" target="_blank">GoAntiques - The WorthPoint Marketplace</a></li>
-      <li><a href="http://www.worthpoint.com/classifieds">Browse Classifieds</a></li>
-      <li><a href="http://www.worthpoint.com/classfied/post" rel="nofollow">Post a Classified</a></li>      
-    </ul>      
-  </li>
-  <li class="" id="community"><a href="http://www.worthpoint.com/profile/index" rel="nofollow"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="147"></a>
-    <ul style="display: none; visibility: hidden;">
-      <li><a href="http://www.worthpoint.com/profile/index" rel="nofollow">My Profile</a></li>
-      <li><a href="http://www.worthpoint.com/friends/editfriends" rel="nofollow">My Friends</a></li>
-      <li><a href="http://www.worthpoint.com/classfied/forums" rel="nofollow">Community Forums</a></li>      
-    </ul>      
-  </li>
-      <li class="" id="findabusiness"><a href="/search/findBusiness" rel="nofollow"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="158"></a>
-  </li>
-</ul>
+	<img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" height="8"><br>
+	<img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" align="left" height="8" width="19">
+	<ul class="sf-menu sf-js-enabled">
+		<li class="" id="news"><a href="http://www.worthpoint.com/news-articles-multimedia"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="157"></a>
+			<ul style="display: none; visibility: hidden;">
+				<li><a href="http://www.worthpoint.com/category/news">News Stories</a></li>
+				<li><a href="http://www.worthpoint.com/category/article/feature-article">Feature Articles</a></li>
+				<li><a href="http://www.worthpoint.com/category/multimedia">Video &amp; Audio</a></li>
+			</ul>
+		</li>
+		<li class="" id="research"><a href="http://www.worthpoint.com/research-items"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="143"></a>
+			<ul style="display: none; visibility: hidden;">
+				<li><a href="http://www.worthpoint.com/worthopedia">Worthopedia™ Price Guide</a></li>
+				<li><a href="http://www.worthpoint.com/askWorthologist/index">Ask a Worthologist™ - Expert Advice</a></li>
+			</ul>
+		</li>
+		<li class="" id="upcoming"><a><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="181"></a>
+			<ul style="display: none; visibility: hidden;">
+				<li><a rel="nofollow" href="/auctionhsad/index">Upcoming Auctions</a></li>
+				<li><a href="http://www.worthpoint.com/mainCalendar/maincalendar" rel="nofollow">Events Calendar</a></li>
+			</ul>      
+		</li>
+		<li class="" id="buysell"><a href="http://www.worthpoint.com/buy-sell"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="139"></a>
+			<ul style="display: none; visibility: hidden;">
+				<li><a href="http://www.goantiques.com/?source=FUL9900" rel="nofollow" target="_blank">GoAntiques - The WorthPoint Marketplace</a></li>
+				<li><a href="http://www.worthpoint.com/classifieds">Browse Classifieds</a></li>
+				<li><a href="http://www.worthpoint.com/classfied/post" rel="nofollow">Post a Classified</a></li>      
+			</ul>      
+		</li>
+		<li class="" id="community"><a href="http://www.worthpoint.com/profile/index" rel="nofollow"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="147"></a>
+			<ul style="display: none; visibility: hidden;">
+				<li><a href="http://www.worthpoint.com/profile/index" rel="nofollow">My Profile</a></li>
+				<li><a href="http://www.worthpoint.com/friends/editfriends" rel="nofollow">My Friends</a></li>
+				<li><a href="http://www.worthpoint.com/forums" rel="nofollow">Community Forums</a></li>      
+			</ul>      
+		</li>
+		<li class="" id="findabusiness"><a href="/search/findBusiness" rel="nofollow"><img src="http://static.worthpoint.com/wp-content/themes/worthpoint/images/spacer_10x10.gif" border="0" height="44" width="158"></a>
+		</li>
+	</ul>
 </div>
 <!-- Navigation Div ends here -->
 
@@ -436,7 +511,7 @@ Some of our email communications to you may include a “click-through URL” li
 	<form method="post" action="#mc_signup" id="mc_signup_form">
 		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
 		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
-		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="975caa8112">		
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="3ab22a3a54">		
 			<div id="mc_subheader">
 			Subscribe to the <i>WorthPoint Insider</i>, our free weekly email newsletter with the latest in antiques, art &amp; collectibles.<br>		</div><!-- /mc_subheader -->
 			
@@ -482,7 +557,6 @@ Some of our email communications to you may include a “click-through URL” li
 </td>
 
 
-
   </tr>
 </tbody></table>
 				
@@ -524,7 +598,8 @@ Some of our email communications to you may include a “click-through URL” li
 			<span>
 			<a class="unav" href="http://www.worthpoint.com/about">About WorthPoint</a> | <a class="unav" href="http://www.worthpoint.com/advertise-with-us">Advertising</a> | <a class="unav" href="http://www.worthpoint.com/about-contact">Contact Us</a> | <a class="unav" href="http://www.worthpoint.com/careers">Careers</a> | <a class="unav" href="http://www.worthpoint.com/about/products-pricing">Products &amp; Pricing</a> | <a class="unav" href="http://www.worthpoint.com/worthpoint-privacy-policy">Privacy Policy</a> | <a class="unav" href="http://www.worthpoint.com/terms-use">Terms of Use</a>
 
-			<p>© 2011 - WorthPoint Corporation</p>
+			<p>© 2011 - WorthPoint Corporation
+</p>
 			</span>
                 
             </td>
@@ -555,29 +630,7 @@ Some of our email communications to you may include a “click-through URL” li
 </noscript>
 <!-- End Quantcast tag -->
 
-<!-- Begin Adify tag for "AudiencePixelWorthPoint" Ad Space (1x1) ID #1000002971807 -->
-<script type="text/javascript">
-   sr_adspace_id = 1000002971807;
-sr_adspace_width = 1;
-sr_adspace_height = 1;
-sr_ad_new_window = true;
-sr_adspace_type = "graphic";
-</script>
-<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000002971807">
-</script><img height="1" width="1" border="0" src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3272765660196&amp;PageID=430&amp;EventType=view">
-<!-- End Adify tag for "AudiencePixelWorthPoint" Ad Space (1x1) ID #1000002971807 -->
-
-<!-- GA -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <!-- <script src="http://www.worthpoint.com/wp-content/themes/worthpoint/addLinkerEvents-ga.js" type="text/JavaScript"></script>-->
-<script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-2113658-1");
-pageTracker._trackPageview();
-</script>
-<!-- /GA -->
 <script type="text/javascript">
 FB_RequireFeatures(["XFBML"], function() {
   	FB.init("a4cceaf323e639726e24359105d2aeff", "http://www.worthpoint.com/?xd_receiver=1", {"permsToRequestOnConnect":"email"});
@@ -586,7 +639,4 @@ FB_RequireFeatures(["XFBML"], function() {
 
 
 
-
-<!-- Dynamic page generated in 0.241 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2011-01-22 20:21:02 -->
-<!-- super cache --></div></body></html>
+</div></body></html>
