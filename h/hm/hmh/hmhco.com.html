@@ -1,192 +1,397 @@
-<!--The following is the downloaded HTML source of the hmhco.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519110250id_/http%3A//www.hmhco.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hmhco.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231043425id_/http%3A//www.hmhco.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="Home Page" href="/rss.xml">
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/x-icon">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/suj0dvh.js"></script>
+<meta name="keywords" content="">
+<meta name="description" content="">
+  <title>Privacy Policy | Houghton Mifflin Harcourt</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_8b1e4408a68f462776c4afc9a5aa5278.css">
+   <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/hmh/style.ie6.css" type="text/css" /><![endif]-->
+   <!--[if IE 7]><link rel="stylesheet" href="/sites/all/themes/hmh/style.ie7.css" type="text/css" /><![endif]-->
+   <!--[if IE]><link rel="stylesheet" href="/sites/all/themes/hmh/style.ie.css" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_41318ee23cab431973032bc5ff73c555.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "cron": { "basePath": "/poormanscron", "runNext": 1325307770 }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){$('.press-releases-sidebar').equalHeights().css('overflow', 'hidden');$('.three-equal').equalHeights().css('overflow', 'hidden');$('.equal-height').equalHeights().css('overflow', 'hidden');});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 
-	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
-	<meta content="en-us" http-equiv="Content-Language">
-	<meta content="false" http-equiv="imagetoolbar">
-	<meta content="true" name="MSSmartTagsPreventParsing">
-	<meta content="index, follow" name="robots">
+    function setTwittertimer(){
+    $.ajax({
+  url: '/hmhco-twitterlist',
+  success: function(data) {
+    $('ul.tweets-pulled-listing').html(data);
+    }});
+    }
+    window.setInterval(function() {
+    setTwittertimer(); }, 900000);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){
+	
+	var them = $("#block-aggregator-feed-1 a:not(:last)");
+	var it;
+	$(them).each(function(index) {
+    	it = ($(this).text());
+		
+		var begin = (it.indexOf("-") + 1);
+		var end = (it.indexOf("Job"));
+		var job = it.substring(begin, end);
+		
+		begin = (it.indexOf("(") + 1);
+		end = (it.indexOf(")"));
+		var location = it.substring(begin, end);
 
-	<title> Privacy Policy :: Houghton Mifflin Harcourt</title>
-	<meta name="description" content="Welcome to the Houghton Mifflin Harcourt Publishing Company website">
-	<meta name="keywords" content="Houghton Mifflin Harcourt Publishing Company, School Publishers, College Division, Trade and Reference, Riverside Press, education publishing, learning, professional development, tests, testing, assessment, reading, writing, English, spelling, phonics, vocabulary, Language Arts, science, math, mathematics, social studies, history, teach, literature, reference, dictionary, supplemental, education technology, learning technology, religion publishers, greenwood, heinemann, curriculum, american heritage dictionary, curious george, tolkien, children's books, young adults, texts, textbooks, teaching tools, student materials, teaching materials, International Publishers, Great Source, Saxon, Rigby, Steck Vaughn, Destination Success, Riverdeep, SkillsTutor, Beyond the Book">
-	<link href="media/images/global/favicon.ico" rel="icon">
-	<link href="media/images/global/favicon.ico" rel="shortcut icon" type="image/x-icon">
+		$(this).text(job);
+		$(this).parent().append("<br />" + location + "<br />")
+  	});
+	
+	$("#block-aggregator-feed-1 div.more-link a").html("View All Openings");
+	$("#block-aggregator-feed-1 div.more-link a").attr("href","http://careers.hmhco.com");	
+    
+	var them = $(".views-summary a");
+	var that;
+	
+	var params = window.location.href.slice(window.location.href.indexOf("?") + 1);
+	
+	it = 0;
+	$(them).each(function(index) {
+    	it = ($(this).text());
+		$(this).attr("alt", "Browse all Press Releases for" + it);
+		$(this).attr("title", "Browse all Press Releases for " + it);
+		that = $(this).attr("href"); 
+		var there = that.indexOf("/", 1);
+		which = that.substring(there+1, there+7);
+		what = "/content/press-release-monthly-archive?month=" + which;
+		
+		$(this).attr("href",what);
+		
+		
+		
+		if(params  == ("month=" + which) ) {
+			$(this).css("font-weight","bold");
+			$(this).css("color","black");
+		}
+		
+		
+  	});
+	
+	
+	$(".views-summary a").click(function(){
+		$(this).css("font-weight","bold");
+	});
+	
+	
+	//alert(where);
+	 
+	})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<!--[if IE 6]>
+        <script type="text/javascript" src="/sites/all/themes/hmh/scripts/jquery.pngFix.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(document).pngFix();
+    });
+</script>
+<![endif]-->
+<!--[if IE 7]>
+<script type="text/javascript">
+$(function() {
+	var zIndexNumber = 3000;
+	$('div').each(function() {
+		$(this).css('zIndex', zIndexNumber);
+		zIndexNumber -= 10;
+	});
+});
+</script>
+<![endif]-->
 
-	<link rel="stylesheet" href="media/styles/reset.css" type="text/css" media="all">
-	<link rel="stylesheet" href="media/styles/global.css" type="text/css" media="all">
-	<!--[if lte IE 7]><link rel="stylesheet" href="media/styles/ie.css" type="text/css" media="all" /><![endif]-->
-	<!--[if lte IE 6]><link rel="stylesheet" href="media/styles/ie6.css" type="text/css" media="all" /><![endif]-->
-	<link rel="stylesheet" href="media/styles/print.css" type="text/css" media="print">
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $("#superfish ul.menu").superfish({ 
+            delay:       100,                           
+            animation:   {opacity:'show',height:'show'},  
+            speed:       'fast',                          
+            autoArrows:  true,                           
+            dropShadows: true                   
+        });
+  });
+</script>
+ </head>
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="media/scripts/jquery.min.js"></script>
-	<script type="text/javascript" src="media/scripts/library.js"></script>
-	<script type="text/javascript" src="media/scripts/jquery.flash.js"></script>
-	<script type="text/javascript" src="media/scripts/application.js"></script>
-	<script type="text/javascript" src="media/scripts/cufon-yui.js"></script>
-	<script type="text/javascript" src="media/scripts/futura-book.font.js"></script>
-	<script type="text/javascript" src="media/scripts/gill-sans.font.js"></script>
-	<script type="text/javascript" src="media/scripts/gill-sans-light.font.js"></script>
-	<!--[if lte IE 6]>
-	<script type="text/javascript" src="media/scripts/pngfix.js"></script>
-	<script type="text/javascript">
-		DD_belatedPNG.fix('img, .bgpng, div.hr');
-	</script>
-	<![endif]-->
-	<script type="text/javascript">
-		Cufon.replace('#topNav li a, ul.breadcrumbs li a, .cufonFutura', {fontFamily: 'futura-book'}); Cufon.replace('.cufonGill', {fontFamily: 'gill-sans'}); Cufon.replace('.cufonGillLight', {fontFamily: 'gill-sans-light'});
-	</script>
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-17416443-2']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
-</head>
-<body>
-
-<!-- Skip to content link for accessibility -->
-<div class="hidden"><a href="#primary">Skip to Content</a></div>
-
-<div id="container">
-
+<body class="sidebars-1 not-logged-in not-front full-node node-type-page argument-node layout-main" id="sidebar-side-1">
+<div id="header-wrapper">
 	<div id="header">
-	<h3><a href="index.html"><img src="media//images/content/hmh-logo.png" alt="Houghton Mifflin Harcourt"></a></h3>
+        <div id="header-first">
+           
+          <div class="logo">
+            <a href="/" title="Home"><img src="/sites/default/files/logo.png" alt="Home"></a>
+          </div>
+                  </div><!-- /header-first -->
+        <div id="header-middle">
+	  				        </div><!-- /header-middle -->
+        <div id="menu">
+                       <!-- PRIMARY -->
+              <div id="superfish">
+                <div id="block-menu-primary-links" class="block ">
+  <h2 class="block-title">Primary links</h2>
+
+    <div class="block-content">
+      <div class="block-content-inner">
+        <ul class="menu"><li class="expanded first"><a href="/around-the-world.html" title="Who We Are">About Us</a><ul class="menu"><li class="leaf first"><a href="/around-the-world.html" title="We are a global learning company.">Who We Are</a></li>
+<li class="leaf"><a href="/content/corporate-social-responsibility" title="Social Responsibility">Social Responsibility</a></li>
+<li class="leaf"><a href="/content/hmh-innovation-fund" title="Innovation Fund">Innovation Fund</a></li>
+<li class="leaf"><a href="/leadership.html" title="Executive Leadership">Executive Leadership</a></li>
+<li class="leaf last"><a href="/content/board-directors" title="Board of Directors">Board of Directors</a></li>
+</ul></li>
+<li class="expanded"><a href="/at-school.html" title="The Education Group">Our Portfolio</a><ul class="menu"><li class="leaf first"><a href="/at-school.html" title="Education Group">Education Group</a></li>
+<li class="leaf"><a href="/at-home.html" title="The Learning Company">The Learning Company</a></li>
+<li class="leaf last"><a href="/content/trade-and-reference" title="Trade &amp; Reference Publishers">Trade and Reference</a></li>
+</ul></li>
+<li class="expanded"><a href="/news.html" title="">Newsroom</a><ul class="menu"><li class="leaf first last"><a href="/news.html" title="Press Releases">Press Releases</a></li>
+</ul></li>
+<li class="expanded last"><a href="/content/contact-us" title="Contact Us">Contact Us</a><ul class="menu"><li class="leaf first"><a href="/content/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/content/investor-relations" title="Investor Relations">Investor Relations</a></li>
+<li class="leaf"><a href="/partners/index.html" title="">Partners &amp; Suppliers</a></li>
+<li class="leaf"><a href="/content/offices" title="Offices">Offices</a></li>
+<li class="leaf last"><a href="/careers.html" title="">Careers</a></li>
+</ul></li>
+</ul>      </div>
+    </div>
 </div>
-	<div id="primaryContainer">
-		<div id="topNav" class="noSubNav" "="">
-	<ul class="nav bgpng">
-		<li class="first"><a href="at-home.html">At Home</a></li>
-		<li><a href="at-school.html">At School</a></li>
-		<li><a href="around-the-world.html">Around the World</a></li>
-		<li><a href="about-us.html">About Us</a>
-				</li>
-		<li><a href="news.html">Recent News</a></li>
-		<li><a href="http://careers.hmhco.com/" target="_blank">Careers</a></li>
-		<li class="last"><a href="http://customercare.hmhco.com/contactus/contact_us.html">Contact Us</a></li>
-	</ul>
+              </div> <!-- /primary -->
+                    </div> <!-- end menu -->
+        <div id="header-above-search"><div id="block-block-5" class="block ">
+
+    <div class="block-content">
+      <div class="block-content-inner">
+        <p><a href="http://careers.hmhco.com" target="_blank">Careers</a> |  <a href="http://customercare.hmhco.com/index.html" target="_blank">Customer Care</a> | <a href="http://www.facebook.com/HoughtonMifflinHarcourt" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/FaceBook_32x32.png" border="0" width="15" height="15"></a> <a href="http://twitter.com/#!/HMHCo" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/Twitter_32x32.png" border="0" width="15" height="15"></a> <a href="http://www.linkedin.com/company/3980?trk=tyah" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/linkedin_32.png" border="0" width="15" height="15"></a></p>      </div>
+    </div>
 </div>
-		<div id="primary">
+</div>        <div id="search-box">
+          <form action="/privacy-policy.html" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
 
-			<h1>Privacy Policy</h1>
+<div class="form-item" id="edit-search-theme-form-1-wrapper">
+<input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Search HMHCo.com" title="Search HMHCo.com" class="form-text" onclick="this.value=''">
+<input type="image" alt="Search" id="image-submit" src="/sites/all/themes/hmh/images/search.png" class="form-image">
+</div>
 
-			<p>Houghton Mifflin Harcourt Publishing Company recognizes the importance of protecting the information that we collect from customers during the process of purchasing a product, or registering for a service, newsletter, or membership area of a Houghton Mifflin Harcourt site. Depending on the nature of the site, we may collect first and last names; home or school address; e-mail address; credit card or other billing information; fax or telephone number; and other information appropriate to the purpose for which it is being collected. It is our policy to use this information, or information acquired through user postings at our sites, for internal business purposes only, and we maintain appropriate security measures to keep this information private. Gathering this information helps us develop websites and products to match your interests. We may share this information with vendors providing contractual services to us, such as (by way of example only and not of limitation) hosting services, tech support, credit card processors, and database managers.</p>
+<input type="hidden" name="form_token" id="edit-search-theme-form-form-token" value="034a42414cac9dc1a8ce3c6b5acfff26">
 
-			<p>You should be aware that personal information, such as your name or e-mail address, that you voluntarily disclose on bulletin boards or in chat areas could be collected and disclosed by other users with access to those sites. Houghton Mifflin Harcourt Publishing Company cannot take any responsibility for such collection or disclosure.</p>
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 
-			<p>Occasionally, we use “cookies” to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin Harcourt uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage and to create an ID for use in a multiple-session assessment), and to store user information that helps us to customize our content to enhance your use of our websites. We may also use cookies to track links from an affiliate’s websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites.</p>
+</div>
 
-			<p>In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children’s Privacy Policy. If you have any questions about the Houghton Mifflin Harcourt privacy policy, please contact the Houghton Mifflin Harcourt Legal Department at 617-351-3910. This privacy policy was last updated on June 8, 2005. Houghton Mifflin Harcourt reserves the right to change this privacy policy without notice to users of or visitors to our websites.</p>
+</div></form>
+        </div><!-- /search-box -->
+	</div> <!-- /header -->
+</div><!-- /header-wrapper -->
+<div style="clear:both"></div>
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+<div id="content">
+												<h1 class="title">Privacy Policy</h1>					      <div class="content-middle">
 
-			<div class="hr"><hr></div>
-			<a name="coppa"></a>
-			<h2 id="childrensPrivacyPolicy" class="first">Children’s Privacy Policy</h2>
 
-			<p>The following paragraphs summarize Houghton Mifflin Harcourt’s policy regarding the collection and use of personal information about children.</p>
-			<h3>Types of personal information collected</h3>
-			<p>Under the Children’s Online Privacy Protection Act, “personal”
-			is defined as individually identifiable information, such as a first and last name; a home or other physical address including street name and city or town; an e-mail address; a telephone number; a Social Security number; or persistent identifiers such as customer or processor serial numbers held in a cookie, where the identifier is associated with individually identifiable information. Cookies are small pieces of information that are stored in a designated file on a user’s computer. Houghton Mifflin Harcourt usually does not collect personal information as defined under the Children’s Online Privacy Protection Act. We collect and use only as much information about a child as necessary for the activity, and do not condition participation in any online activity on the disclosure of more personal information than is reasonably necessary. Occasionally, we use cookies to store pertinent user information during a session.</p>
-			<h3>Use of personal information</h3>
-			<p>We use the information we collect from children only for internal business purposes, and/or to give credit to children for work they have created. We contact children by e-mail only in response to their requests for information or assistance. Houghton Mifflin Harcourt uses cookies solely for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage, or to create an ID for use in a multiple-session assessment). If, however, a child voluntarily discloses personal information, such as a name or e-mail address, on bulletin boards or in chat areas that are accessible to other users, then such information could be collected and disclosed by others. Houghton Mifflin Harcourt cannot take any responsibility for such collection or disclosure.</p>
-			<h3>Involvement of parents</h3>
-			<p>In accordance with the provisions of the Children’s Online Privacy Protection Act, we will notify parents when collecting personal information from children, and will seek parental consent before collecting, using, or disclosing certain personal information from children. Parents may review and have deleted their child’s personal information, and may refuse to permit further collection or use of their child’s information by contacting the Houghton Mifflin Harcourt representatives listed below. Parents may consent to our collection and use of their child’s personal information without consenting to the disclosure of that information to others.</p>
+  <div class="node">
+                		
+	  <div class="content"><p>Houghton Mifflin Harcourt Publishing Company recognizes the importance of protecting the information that we collect from customers during the process of purchasing a product, or registering for a service, newsletter, or membership area of a Houghton Mifflin Harcourt site. Depending on the nature of the site, we may collect first and last names; home or school address; e-mail address; credit card or other billing information; fax or telephone number; and other information appropriate to the purpose for which it is being collected. It is our policy to use this information, or information acquired through user postings at our sites, for internal business purposes only, and we maintain appropriate security measures to keep this information private. Gathering this information helps us develop websites and products to match your interests. We may share this information with vendors providing contractual services to us, such as (by way of example only and not of limitation) hosting services, tech support, credit card processors, and database managers.<br><br>You should be aware that personal information, such as your name or e-mail address, that you voluntarily disclose on bulletin boards or in chat areas could be collected and disclosed by other users with access to those sites. Houghton Mifflin Harcourt Publishing Company cannot take any responsibility for such collection or disclosure.<br><br>Occasionally, we use “cookies” to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin Harcourt uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage and to create an ID for use in a multiple-session assessment), and to store user information that helps us to customize our content to enhance your use of our websites. We may also use cookies to track links from an affiliate’s websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites.<br><br>In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children’s Privacy Policy. If you have any questions about the Houghton Mifflin Harcourt privacy policy, please contact the Houghton Mifflin Harcourt Legal Department at 617-351-3910. This privacy policy was last updated on June 8, 2005. Houghton Mifflin Harcourt reserves the right to change this privacy policy without notice to users of or visitors to our websites.<br>
+<a name="childrensPrivacyPolicy"></a>
+</p><p>
 
-			<!--<div class="hr"><hr /></div>
+</p><h1>
+Children’s Privacy Policy</h1>
+<p>The following paragraphs summarize Houghton Mifflin Harcourt’s policy regarding the collection and use of personal information about children.</p>
+<p>
+Types of personal information collected Under the Children’s Online Privacy Protection Act, “personal” is defined as individually identifiable information, such as a first and last name; a home or other physical address including street name and city or town; an e-mail address; a telephone number; a Social Security number; or persistent identifiers such as customer or processor serial numbers held in a cookie, where the identifier is associated with individually identifiable information. Cookies are small pieces of information that are stored in a designated file on a user’s computer. Houghton Mifflin Harcourt usually does not collect personal information as defined under the Children’s Online Privacy Protection Act. We collect and use only as much information about a child as necessary for the activity, and do not condition participation in any online activity on the disclosure of more personal information than is reasonably necessary. Occasionally, we use cookies to store pertinent user information during a session.<br>Use of personal information<br><br>We use the information we collect from children only for internal business purposes, and/or to give credit to children for work they have created. We contact children by e-mail only in response to their requests for information or assistance. Houghton Mifflin Harcourt uses cookies solely for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage, or to create an ID for use in a multiple-session assessment). If, however, a child voluntarily discloses personal information, such as a name or e-mail address, on bulletin boards or in chat areas that are accessible to other users, then such information could be collected and disclosed by others. Houghton Mifflin Harcourt cannot take any responsibility for such collection or disclosure.<br>Involvement of parents<br><br>In accordance with the provisions of the Children’s Online Privacy Protection Act, we will notify parents when collecting personal information from children, and will seek parental consent before collecting, using, or disclosing certain personal information from children. Parents may review and have deleted their child’s personal information, and may refuse to permit further collection or use of their child’s information by contacting the Houghton Mifflin Harcourt representatives listed below. Parents may consent to our collection and use of their child’s personal information without consenting to the disclosure of that information to others.<br><br></p></div>
+	<div style="clear:both"></div>
+      </div>
+</div>
+						
+</div> <!-- end content -->
 
-			<h2 class="first">How to get in touch with Houghton Mifflin</h2>
-			<p>The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Harcourt Company.</p>
+			<div id="sidebar-right" class="sidebar">
+				<div id="block-block-11" class="block ">
+  <div class="block-inner">
 
-			<h3>Division: Corporate</h3>
-			<p>Name: Josef Blumenfeld<br />
-			Title: Vice President, Communications<br />
-			Address: 222 Berkeley Street<br />
-			Boston, MA 02116-3764<br />
-			Telephone Number: 617-351-5280<br />
-			E-mail Address: <a href="mailto:josef.blumenfeld@hmhpub.com">josef.blumenfeld@hmhpub.com</a></p>
+          <h2 class="block-title">Latest Press Releases</h2>
+    
+    <div class="block-content">
+      <div class="block-content-inner">
+        <div class="view view-front-page-press-releases view-id-front_page_press_releases view-display-id-default view-dom-id-1">
+        <div class="view-header">
+      <!--div id='news-rule'><hr></div-->    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pr-date-block"><div class="pr-date-block-month">Dec</div><div class="pr-date-block-day"> 21</div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/houghton-mifflin-harcourt-joins-bookshelf-project-revitalize-urban-school-districts-innovati">Houghton Mifflin Harcourt Joins The Bookshelf Project to Revitalize Urban School Districts with Innovative Solution<span class="link-triangle"><img src="/sites/default/files/more-triangle.png" width="12" height="11"></span><br><br><br></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pr-date-block"><div class="pr-date-block-month">Dec</div><div class="pr-date-block-day"> 15</div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/mathematics-fundamentals-fall-place-number-stax-app-houghton-mifflin-harcourt">Mathematics Fundamentals Fall into Place with Number Stax App from Houghton Mifflin Harcourt<span class="link-triangle"><img src="/sites/default/files/more-triangle.png" width="12" height="11"></span><br><br><br></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pr-date-block"><div class="pr-date-block-month">Dec</div><div class="pr-date-block-day"> 15</div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/carmen-sandiego-makes-much-anticipated-debut-wii">Carmen Sandiego™ Makes Much-Anticipated Debut on Wii™<span class="link-triangle"><img src="/sites/default/files/more-triangle.png" width="12" height="11"></span><br><br><br></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pr-date-block"><div class="pr-date-block-month">Dec</div><div class="pr-date-block-day"> 14</div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/leadership-and-learning-center-partners-cognition-education-bring-visible-learning-american-">The Leadership and Learning Center Partners with Cognition Education to Bring Visible Learning to American Schools<span class="link-triangle"><img src="/sites/default/files/more-triangle.png" width="12" height="11"></span><br><br><br></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field-nothing">
+                <span class="field-content"><div class="pr-date-block"><div class="pr-date-block-month">Dec</div><div class="pr-date-block-day"> 8</div></div></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/content/former-red-sox-manager-terry-francona-signs-houghton-mifflin-harcourt-pen-memoir">Former Red Sox Manager Terry Francona Signs with Houghton Mifflin Harcourt to Pen Memoir<span class="link-triangle"><img src="/sites/default/files/more-triangle.png" width="12" height="11"></span><br><br><br></a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>       </div>
+    </div>
 
-			<h3>Division: School</h3>
-			<p>Name: Richard Lena<br />
-			Title: Executive Editor, Instructional Technology<br />
-			Address: 222 Berkeley Street, 3rd Floor<br />
-			Boston, MA 02116-3764<br />
-			Telephone Number: 617-351-3640<br />
-			E-mail Address: <a href="mailto:richard_lena@hmco.com">richard_lena@hmco.com</a></p>
-
-			<h3>Division: McDougal Littell</h3>
-			<p>Name: Ann Marie McNamara<br />
-			Title: Director of Internet Technologies<br />
-			Address: 909 Davis Street<br />
-			Evanston, IL 60201<br />
-			Telephone Number: 847-869-2300 ext. 3929<br />
-			E-mail Address: <a href="mailto:annmarie_mcnamara@hmco.com">annmarie_mcnamara@hmco.com</a></p>
-
-			<h3>Division: Riverside Publishing Company</h3>
-			<p>Name: Tracey Barrett<br />
-			Title: Senior Director, Strategic Marketing<br />
-			Address: 425 Spring Lake Drive<br />
-			Itasca, IL 60143<br />
-			Telephone Number: 630-467-7130<br />
-			E-mail Address: <a href="mailto:tracey_barrett@hmco.com">tracey_barrett@hmco.com</a></p>
-
-			<h3>Division: Great Source Education Group</h3>
-			<p>Name: Lauren McDonough<br />
-			Title: Director of Web Initiatives<br />
-			Address: 181 Ballardvale Street<br />
-			Wilmington, MA 01887<br />
-			Telephone Number: 978-661-1489<br />
-			E-mail Address: <a href="mailto:lauren_mcdonough@hmco.com">lauren_mcdonough@hmco.com</a></p>
-
-			<h3>Division: Trade and Reference</h3>
-			<p>Name: Trade Webmaster<br />
-			Title: Webmaster<br />
-			Address: 222 Berkeley Street, 9th Floor<br />
-			Boston, MA 02116-3764<br />
-			E-mail Address: <a href="mailto:trade_webmaster@hmco.com">trade_webmaster@hmco.com</a></p>
-
-			<p>Riverside Publishing Company and Cognitive Concepts, Inc. are wholly owned subsidiaries of Houghton Mifflin Harcourt Company.</p>-->
-
-		</div>
-		<!-- end #primary -->
-	</div>
-	<!-- end #primaryContainer -->
-
-	<div id="secondaryContainer">
-		<div id="secondary" class="bgpng">
-			<div id="secondaryContent">
-				<ul class="breadcrumbs bgpng">
-					<li><a href="index.html">Home</a></li>
-					<li class="last"><a href="privacy-policy.html">Privacy Policy</a></li>
-				</ul>
+  </div>
+</div> <!-- /block -->
 			</div>
-		</div>
-		<!-- end #secondary -->
+		<div style="clear:both"></div>
+</div> <!-- end wrapper -->
+ 
 
-		<div id="footer" class="bgpng">
-	<div class="footerContent">
-		<ul>
-			<li><a href="terms-and-conditions.html">Terms &amp; Conditions of Use</a></li>
-			<li><a href="privacy-policy.html">Privacy Policy</a></li>
-			<li><a href="privacy-policy.html#childrensPrivacyPolicy">Children's Privacy Policy</a></li>
-		</ul>
-		<p>Copyright © 1995-2009 Houghton Mifflin Harcourt. All rights reserved.</p>
-	</div>
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+ <div id="footer-left">
+ <div id="block-block-1" class="block ">
+
+    <div class="block-content">
+      <div class="block-content-inner">
+        <table style="width:210px;" border="0">
+<tbody>
+<tr>
+<td valign="top"><img style="border: 0pt none;" src="/sites/default/files/hmh_logo.png" border="0" width="152" height="14">
+<div>
+<table border="0">
+<tbody>
+<tr>
+<td style="width: 45px;" valign="top"><a href="http://www.facebook.com/HoughtonMifflinHarcourt" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/FaceBook_32x32.png" border="0" width="15" height="15"></a><a href="http://twitter.com/#%21/HMHCo" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/Twitter_32x32.png" border="0" width="15" height="15"></a><a href="http://www.linkedin.com/company/3980?trk=tyah" target="_blank"><img style="border: 0pt none;" src="/sites/default/files/linkedin_32.png" border="0" width="15" height="15"></a></td>
+<td>222 Berkeley St.<br>Boston, MA 02116<br>617-351-5000</td>
+</tr>
+</tbody>
+</table>
 </div>
-	</div>
-	<!-- end #secondaryContainer -->
+</td>
+</tr>
+</tbody>
+</table>      </div>
+    </div>
 </div>
-<!-- /end #container -->
+<div id="block-gtranslate-0" class="block ">
 
-<script type="text/javascript"> Cufon.now(); </script>
+    <div class="block-content">
+      <div class="block-content-inner">
+        <div id="google_translate_element"></div><script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en',includedLanguages: ''}, 'google_translate_element');}</script><script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>      </div>
+    </div>
+</div>
+ </div>
+ <div id="footer-right">
+ <div id="footer-primary-links"><ul class="menu"><li class="expanded first"><a href="/around-the-world.html" title="Who We Are">About Us</a><ul class="menu"><li class="leaf first"><a href="/around-the-world.html" title="We are a global learning company.">Who We Are</a></li>
+<li class="leaf"><a href="/content/corporate-social-responsibility" title="Social Responsibility">Social Responsibility</a></li>
+<li class="leaf"><a href="/content/hmh-innovation-fund" title="Innovation Fund">Innovation Fund</a></li>
+<li class="leaf"><a href="/leadership.html" title="Executive Leadership">Executive Leadership</a></li>
+<li class="leaf last"><a href="/content/board-directors" title="Board of Directors">Board of Directors</a></li>
+</ul></li>
+<li class="expanded"><a href="/at-school.html" title="The Education Group">Our Portfolio</a><ul class="menu"><li class="leaf first"><a href="/at-school.html" title="Education Group">Education Group</a></li>
+<li class="leaf"><a href="/at-home.html" title="The Learning Company">The Learning Company</a></li>
+<li class="leaf last"><a href="/content/trade-and-reference" title="Trade &amp; Reference Publishers">Trade and Reference</a></li>
+</ul></li>
+<li class="expanded"><a href="/news.html" title="">Newsroom</a><ul class="menu"><li class="leaf first last"><a href="/news.html" title="Press Releases">Press Releases</a></li>
+</ul></li>
+<li class="expanded last"><a href="/content/contact-us" title="Contact Us">Contact Us</a><ul class="menu"><li class="leaf first"><a href="/content/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/content/investor-relations" title="Investor Relations">Investor Relations</a></li>
+<li class="leaf"><a href="/partners/index.html" title="">Partners &amp; Suppliers</a></li>
+<li class="leaf"><a href="/content/offices" title="Offices">Offices</a></li>
+<li class="leaf last"><a href="/careers.html" title="">Careers</a></li>
+</ul></li>
+</ul></div> </div>
+ <div class="clear-block"></div>
+ <div id="block-block-3" class="block ">
 
-<script type="text/javascript" language="JavaScript" src="http://www.hmheducation.com/templates/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.hmheducation.com/templates/elqNow/elqImg.js"></script>
+    <div class="block-content">
+      <div class="block-content-inner">
+        <p style="text-align: center;">© Houghton Mifflin Harcourt. All rights reserved. <a href="/terms-and-conditions.html">Terms &amp; Conditions of Use</a> | <a href="/privacy-policy.html">Privacy Policy</a> | <a href="/privacy-policy.html#childrensPrivacyPolicy">Children's Privacy Policy</a> |  <a href="/partners/index.html">Partners and Suppliers</a></p>      </div>
+    </div>
+</div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-20684711-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
 
 
 </body></html>
