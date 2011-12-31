@@ -1,0 +1,682 @@
+<!--The following is the downloaded HTML source of the akitio.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231021338id_/http%3A//www.akitio.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr"><head>
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="Privacy Policy | Akitio">
+  <meta property="og:description" content="This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. Akitio will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.">
+  <meta property="og:url" content="http://www.akitio.com/privacy-policy">
+  <meta property="og:site_name" content="AKiTiO">
+  <base href="http://www.akitio.com/privacy-policy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="privacy policy">
+  
+  <meta name="description" content="This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. Akitio will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.">
+  
+  <title>Privacy Policy | Akitio</title>
+  <link href="/templates/it_thestore2/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/content/attachments1.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/content/attachments.css" type="text/css">
+  <link rel="stylesheet" href="http://www.akitio.com/modules/mod_jw_latesttweets/tmpl/css/style.css" type="text/css">
+  <link rel="stylesheet" href="http://www.akitio.com/modules/mod_superfishmenu/tmpl/css/superfish.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/it_thestore2/js/javascript.php"></script>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/plugins/content/attachments_refresh.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
+  <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
+  <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();
+jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:400, animation:{height:'show'}, speed:'def', autoArrows:1, dropShadows:1}) });
+jQuery.event.special.hover.delay = 100;
+jQuery.event.special.hover.speed = 100;
+
+  </script>
+  <!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+
+<script type="text/javascript">
+	//<![CDATA[
+	function twitterCallbackId354(twitters) {
+
+	  var statusHTML = [];
+	  for (var i=0; i<twitters.length; i++){
+	    var username = twitters[i].user.screen_name;
+	    var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+	      return '<a href="'+url+'">'+url+'</a>';
+	    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+	      return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
+	    });
+	    
+	    if(i%2==1) var liClass = 'Even'; else var liClass = 'Odd';
+	    
+	    var liOutput = '\
+		    <li class="lt'+liClass+'">\
+			    <span class="ltUserStatus">'+status+'</span>\
+			    <br />\
+			    <a class="ltStatusTimestamp" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">\
+			    	'+relative_time(twitters[i].created_at)+'\
+			    </a>\
+		    </li>\
+	    ';
+	    
+	    statusHTML.push(liOutput);
+	  }
+	  
+	  setTimeout(function(){document.getElementById('ltUpdateId354').innerHTML = statusHTML.join('');},2000);
+	}
+	
+	function relative_time(time_value) {
+	  var values = time_value.split(" ");
+	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+	  var parsed_date = Date.parse(time_value);
+	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+	  delta = delta + (relative_to.getTimezoneOffset() * 60);
+	
+	  if (delta < 60) {
+	    return 'less than a minute ago';
+	  } else if(delta < 120) {
+	    return 'about a minute ago';
+	  } else if(delta < (60*60)) {
+	    return (parseInt(delta / 60)).toString() + ' minutes ago';
+	  } else if(delta < (120*60)) {
+	    return 'about an hour ago';
+	  } else if(delta < (24*60*60)) {
+	    return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
+	  } else if(delta < (48*60*60)) {
+	    return '1 day ago';
+	  } else {
+	    return (parseInt(delta / 86400)).toString() + ' days ago';
+	  }
+	}
+	//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+	window.addEvent('domready', function() {
+	  var twitterJson = 'http://twitter.com/statuses/user_timeline/akitio.json?callback=twitterCallbackId354&count=2';
+		var twitterScript = document.createElement('script');
+		twitterScript.setAttribute('charset','utf-8');
+		twitterScript.setAttribute('type','text/javascript');
+		twitterScript.setAttribute('src',twitterJson);
+		var b = document.getElementsByTagName('body')[0];
+		b.appendChild(twitterScript);
+	});
+	//]]>
+</script>
+
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+  <script type="text/javascript" language="javascript" src="http://www.akitio.com/modules/mod_pixsearch/js/pixsearch.js"></script>
+		<style type="text/css">#ps_results{margin-left:-130px;}</style>
+
+
+
+
+<style type="text/css" media="screen">
+/*\*/@import url("/templates/it_thestore2/css/template_css.css.php");/**/
+
+
+/* Select the style */
+/*\*/@import url("/templates/it_thestore2/css/styles/akitio.css");/**/
+
+/* Column's border/background color */
+#inner-column-container {  border-left-color:#none; border-right-color:#none;  }
+
+/* Hide/Show and choose the width for the columns */
+	
+
+#outer-column-container { border-right-width:258px;	}
+#right-column { margin-right: -258px; width: 258px;}
+#inner-column-container { border-right-width:1px; margin-left:-1px;}	
+	
+
+/*This is when menu is set to 1 line from the Template Manager */
+ul#nav li a { font-size:1em;  padding:0 14px 0; height:45px; line-height:43px; color:#ababab;}
+ul#nav li a span { padding-top:10px; display:inline;}
+ul#nav li a span.sub { display:inline; padding-top:10px;}
+ul#nav li:hover a, ul#nav li:hover span  {color:#fff!important}
+
+ul#nav  li#current a, ul#nav  li.active a, #MainMenuSub li#current a,
+ul#nav  li#current a span, ul#nav  li.active a span, #MainMenuSub li#current a span { color:#fff;}
+ul#nav  li#current a span, ul#nav  li.active a span { background:none; padding:0; margin:0}
+
+
+/* One-item based dropdown menu */
+ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { width:189px}
+
+
+
+</style>
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/templates/it_thestore2/css/ie.css" />
+<![endif]-->
+
+
+
+
+<script type="text/javascript">
+	window.addEvent('domready', function() {			
+		
+		// MainMenu
+				var MainMenu = new IceMenu({
+			id: 'nav',
+			subMenusContainerId:'MainMenuSub',
+			effect: 'slide and fade',
+			duration: 1200,
+			physics: Fx.Transitions.Quart.easeOut,
+			hideDelay: 700,
+			orientation: 'horizontal',
+			direction:{	x: 'right',	y: 'down' },
+			opacity: 100		});
+				
+		// OtherMenu 
+		 
+		
+				new SmoothScroll({ duration:1500, transition: Fx.Transitions.linear  }, window); 
+		 
+	
+	
+	});		
+</script>
+  
+
+
+ 
+
+
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5598564-4']);
+  _gaq.push(['_setCustomVar', 1, 'Page creation time and ram', '99', 3]);
+  _gaq.push(['_setCustomVar', 2, 'Logged-in user', 'anonymous', 3]);
+  
+  
+  
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
+<body class="font-medium">
+    <div id="fb-root"></div><script type="text/javascript">
+    
+    // Load the SDK Asynchronously
+    (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = '//connect.facebook.net/en_US/all.js';
+     d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+    
+    </script>
+
+<div class="wrapper_full" id="go_top">
+
+    <!-- Header --> 	
+    <div id="header">      
+
+   		<!-- / Header Inside --> 
+        <div id="header_inside">
+
+            <div class="wrapper">
+
+			                <div class="floatleft" id="logo">
+                    <p><a href="/"><img style="margin-left: 10px; margin-top: 7px;" class="png" src="/images/logos/akitio_weblogo_slogan3.png" alt="AKiTiO" height="55" width="190"></a></p> 
+                </div>
+                
+				
+                                 <div id="bannertop" class="floatright">
+                    		
+        
+        <div class="icemodule ">
+
+					                    
+                    <div class="icemodule_content"> 
+					<ul class="menu sf-menu sf-horizontal"><li class="parent item781"><a><img src="/images/stories/worldwide-globe-shiny-14.png" align="left" alt="usa"><span>USA - English</span></a><ul><li class="last-child first-child item782"><a href="http://www.akitio.com.tw" onclick="_gaq.push(['_trackEvent', 'Akitio', 'Taiwan', 'Top'])"><span>Taiwan - 繁體中文</span></a></li></ul></li><li class="parent item800"><a href="/community/akitio-community"><span>Social</span></a><ul><li class="first-child item805"><a href="/forum/"><img src="/images/stories/icon-forum-16.png" align="left" alt="forum"><span>Forum</span></a></li><li class="item801"><a href="http://twitter.com/akitio"><img src="/images/stories/icon-twitter-16.png" align="left" alt="twitter"><span>Twitter</span></a></li><li class="item802"><a href="http://www.youtube.com/user/akitious"><img src="/images/stories/icon-youtube-16.png" align="left" alt="youtube"><span>YouTube</span></a></li><li class="item803"><a href="http://www.facebook.com/pages/Akitio/148287718534583"><img src="/images/stories/icon-facebook-16.png" align="left" alt="facebook"><span>Facebook</span></a></li><li class="last-child item804"><a href="http://www.akitio.com/press-releases/feed/rss"><img src="/images/stories/icon-feed-16.png" align="left" alt="rss"><span>RSS Feed</span></a></li></ul></li><li class="parent item610"><a href="/about-akitio/"><span>About Akitio</span></a><ul><li class="first-child item611"><a href="/about/company-profile"><span>Company Profile</span></a></li><li class="item632"><a href="/about/link-to-akitio"><span>Link to Us</span></a></li><li class="last-child item633"><a href="/about/contact-akitio"><span>Contact Us</span></a></li></ul></li></ul>
+                    </div>
+                    
+           
+        </div>
+        
+	 
+                </div>
+                				
+				
+        	</div>
+
+        </div><!-- / Header Inside --> 
+
+	 </div><!--  / Header -->		
+
+	
+    <div id="main-nav_wrap">
+        <div id="main-nav">
+            <ul class="menu" id="nav"><li class="item68"><a href="http://www.akitio.com/"><span>Home</span></a></li><li class="parent item590"><a href="/products"><span>Products</span></a><ul class="accordionstyle"><li class="item619"><a href="/professional-storage"><span>Professional </span><span class="sub">Storage</span></a></li><li class="item621"><a href="/usb3-superspeed"><span>USB 3.0 </span><span class="sub">SuperSpeed</span></a></li><li class="item617"><a href="/network-attached-storage"><span>Network </span><span class="sub">Storage</span></a></li><li class="item769"><a href="/home-entertainment"><span>Home </span><span class="sub">Entertainment</span></a></li><li class="item777"><a href="/accessories"><span>Accessories</span></a></li></ul></li><li class="item593"><a href="/where-to-buy/akitio-sites"><span>Where </span><span class="sub">to Buy</span></a></li><li class="parent item635"><a href="/press/newsroom"><span>Newsroom</span></a><ul class="accordionstyle"><li class="item638"><a href="/reviews/akitio-reviews"><span>Product </span><span class="sub">Reviews</span></a></li><li class="item807"><a href="/announcements/"><span>Announcements</span></a></li><li class="item636"><a href="/press-releases/"><span>Press </span><span class="sub">Releases</span></a></li><li class="item806"><a href="/press/media-resources"><span>Press </span><span class="sub">Contact</span></a></li><li class="item641"><a href="/press/media-kit"><span>Media </span><span class="sub">Kit</span></a></li></ul></li><li class="parent item600"><a href="/support"><span>Support</span></a><ul class="accordionstyle"><li class="item602"><a href="/information-center/"><span>Information </span><span class="sub">Center</span></a></li><li class="item795"><a href="/forum/"><span>Community </span><span class="sub">Forum</span></a></li><li class="item601"><a href="/support/help-desk"><span>Help </span><span class="sub">Desk</span></a></li><li class="item605"><a href="/firmware/"><span>Firmware</span></a></li><li class="item662"><a href="/software/"><span>Software</span></a></li><li class="item606"><a href="/support/user-manuals"><span>Manuals</span></a></li><li class="item603"><a href="/support/faq"><span>FAQ</span></a></li></ul></li></ul> 
+			
+<form name="pp_search" id="pp_search" action="http://www.akitio.com/" method="get">
+
+<div class="pixsearch">
+
+<div class="ps_pretext"></div>
+
+    
+
+    <!--icons -->    
+
+    <div id="ps_icon_background">
+
+		<div id="ps_icon"></div>
+
+    </div>
+
+    <!--icons end -->
+
+    
+
+	<input id="ps_search_str" name="searchword" type="text">
+
+	<input type="hidden" name="searchphrase" value="all">
+
+	<input type="hidden" name="limit" value="">
+
+	<input type="hidden" name="ordering" value="newest">
+
+	<input type="hidden" name="view" value="search">
+
+	<input type="hidden" name="Itemid" value="99999999">
+
+	<input type="hidden" name="option" value="com_search">
+
+	<div class="ps_posttext"></div>
+
+	<div id="ps_results"></div>
+
+	<script type="text/javascript">
+
+	setSpecifiedLanguage(
+
+		'Results',
+
+		'Close',
+
+		'Search...',
+
+		'Read more...',
+
+		'No results',
+
+		'Advanced search',
+
+		'http://www.akitio.com/index.php?option=com_search&amp;view=search',
+
+		'http://www.akitio.com/',
+
+		'5',
+
+		'newest',
+
+		'all',
+
+		'',
+
+		1,
+
+		'View all results',
+
+		0,
+
+		0,
+
+		1
+	);
+
+	</script>
+
+</div>
+
+<div id="pixsearch_tmpdiv" style="visibility:hidden;display:none;"></div>
+
+</form>
+        </div>      
+    </div>
+
+     
+
+	<!-- Content --> 
+
+    <div id="content_gradient_t">
+ 		
+		<div id="content_gradient_b">
+					  
+		<div id="content_t"></div>
+
+	<!-- IceSlideshow and IceCarousel Frontpage -->
+									
+	<!-- IceSlideshow and IceCarousel Frontpage -->		
+	
+        	<div id="content_shadow">
+
+            	<div id="content" class="clearfix">
+
+                	<div class="wrapper">
+	
+                    	<div class="padding">
+
+                  			<div id="content_inside"> 
+            
+                          		<div id="content_inside_ie7">
+                                   
+                                  
+								  
+								  
+											<div id="bannerinside" class="clearfix">
+                                    		<p><a title="MyCloud Mini - Personal Cloud" href="/network-attached-storage/mycloud-mini"><img alt="MyCloud Mini Personal Cloud" src="/images/banners/banner-mycloudmini.png" height="110" width="931"></a></p>
+                               				</div> 											
+											
+											<div id="breadcrumbs" class="clearfix">
+                                    		
+<ol>
+
+<li class="breacrumbs_home"><a href="/">Home</a></li>
+
+
+
+
+	
+
+    
+
+	
+</ol>
+
+
+                               				</div> 
+
+									
+                	<!-- Columns Container -->    
+
+                    <div id="columns-container">
+                           
+                    	<div id="outer-column-container">
+                            
+                        	<div id="inner-column-container" class="clearfix">
+                        
+                            	<div id="source-order-container">
+                                        
+                                        <!-- Middle Column -->   
+
+                                        <div id="middle-column">
+                                                         
+                                            <div class="inside">
+                               
+                                                                                                
+                                                                                                   	
+<div id="page">
+
+
+
+
+
+	    <h1 class="contentheading">
+        Privacy Policy    </h1>
+    
+
+
+	<div class="itemcontainer">
+
+	    
+        
+	 	 <div class="buttonheading">
+        
+			            
+
+			
+			        
+        
+			   		         
+			
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+<div class="blogcontent">
+
+<p>Akitio is committed to protect our customer's privacy. This statement is meant to inform our users of how we define, gather and utilize personally identifiable information. Akitio will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and the applicable laws.</p>
+<h4>Information Collected</h4>
+<p>As a standard practice, Akitio assigns a random number to each user for anonymously tracking content preferences and traffic patterns. This random number lets us keep track of "how many" times folks are doing specific things - like visiting our site each month - without really knowing who those folks are (unless they specifically tell us). We analyze this data for trends and statistics, such as which parts of our site users are visiting and how long they spend there. We also gather information about what folks are searching for. We use all this information in order to improve our content, plan site enhancements, and measure overall site effectiveness, and therefore to make the site better and more hopefully fitting to your needs.</p>
+<h4>Transaction Information</h4>
+<p>When you order products from Akitio, we may ask you to complete an order form that requests certain information from you, including financial information such as a credit card number and expiration date and general contact details. We use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. (We do not store your credit card information.)</p>
+<h4>Cookies</h4>
+<p>This random number is kept in a file on your computer called a "cookie". Cookies, by themselves, cannot be used to determine the identity of any user: unless you specifically tell us. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.)</p>
+<h4>And Finally</h4>
+<p>Akitio may disclose Personal Information if required to do so by law.</p>
+<p>Akitio may modify, alter or otherwise update this policy at any time, so we encourage you to review this policy from time to time.</p>
+<p>If you have any queries about this policy please feel free to contact us.</p>
+
+<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_1232"></div>
+
+</div></div>
+
+
+
+
+
+
+
+</div>
+
+
+												                                    
+												 
+                                                                                                  
+                                            </div>
+
+                                        </div><!-- Middle Column -->
+
+                                        
+                                    </div><!-- Source Order Container -->	
+
+                                    
+                                    <div id="right-column">
+          
+                                        <div class="inside">
+
+                                                           
+                                              		<div class="col-module ">
+		
+            <div><div><div><div>
+            <div class="col-module_fix">                                      
+           
+                                                                    
+                                                      <h3>
+                                <span class="col-module_header_r">
+                                <span class="col-module_header_l">
+                                <span class="col-module_header_arrow">
+                                
+                                <span class="col-module_header_color">Latest</span> News                           		</span>
+                                </span>
+                             	</span>  
+                        	</h3>
+                                                
+        	
+                         <div class="col-module_content">
+                         
+<!-- JoomlaWorks "Ultimate Content Display" Module (v1.1) starts here -->
+<div class="ucd">
+  <ul class="ucd_list">
+    <!-- UCD item 0 -->
+<li class="ucd_item row0">
+<div class="ucd_title"><a href="/201111081306/2011/akitios-mycloud-duo-provides-network-and-mobile-storage-access-worldwide">Akitio’s MyCloud Duo Provides Network and Mobile Storage Access Worldwide</a></div>
+</li>
+<!-- UCD item 1 -->
+<li class="ucd_item row1">
+<div class="ucd_title"><a href="/201109291300/2011/akitio-unveils-sk3501-supers3">Akitio Unveils SK-3501 Super-S3 Desktop Hard Drive Enclosure Featuring SuperSpeed USB 3.0</a></div>
+</li>
+<!-- UCD item 2 -->
+<li class="ucd_item row0">
+<div class="ucd_title"><a href="/201108011296/2011/akitio-releases-taurus-mini-super-s">Akitio Releases Taurus Mini Super-S to Professional Storage Product Line</a></div>
+</li>
+  </ul>
+</div>
+<!-- JoomlaWorks "Ultimate Content Display" Module (v1.1) ends here -->
+                         </div>
+               
+            </div></div></div></div>  
+            </div>
+				                              
+		</div>
+			<div class="col-module ">
+		
+            <div><div><div><div>
+            <div class="col-module_fix">                                      
+           
+                                                                    
+                                                      <h3>
+                                <span class="col-module_header_r">
+                                <span class="col-module_header_l">
+                                <span class="col-module_header_arrow">
+                                
+                                <span class="col-module_header_color">Latest</span> Tweets                           		</span>
+                                </span>
+                             	</span>  
+                        	</h3>
+                                                
+        	
+                         <div class="col-module_content">
+                         
+
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+
+<div class="ltBlock">
+	<ul id="ltUpdateId354" class="ltBlockList">
+		<li class="ltBlockListLoader"><span>Loading...</span></li>
+	</ul>
+	<div class="ltFollowUsLink">
+		<a target="_blank" href="http://twitter.com/akitio">
+			<span>follow us on Twitter</span>
+		</a>
+	</div>
+</div>
+
+<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+
+                         </div>
+               
+            </div></div></div></div>  
+            </div>
+				                              
+		</div>
+	
+
+                                        </div>
+                                     </div>
+                                     <div class="clear-columns"></div>
+                                                                     </div>
+                            </div>
+                        </div>
+
+                        <!-- Columns Container -->    
+
+                            
+
+                        </div> 
+					 </div> 
+                   </div> 
+               </div> 
+           	</div>
+        </div>   
+
+    		<div id="content_b"></div>
+	        
+     </div> 
+    </div> 
+                      
+	  <!-- Footer -->     
+
+      <div id="footer">
+         <div id="footer_t">
+            <div class="wrapper">
+                <div class="padding">
+
+					                    <div id="footermenu">
+            			 <div class="joomla_add_this"><!-- AddThis Button BEGIN -->
+<script type="text/javascript">
+var addthis_product = 'jlp-1.2';
+var addthis_config =
+{pubid:'ra-4ee0d06f045ad50d',
+ui_hover_direction:0,
+data_track_clickback:true,
+ui_language:'en',
+ui_use_css:true,
+data_ga_tracker:pageTracker}</script>
+<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_compact">Share</a><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_youtube"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+<!-- AddThis Button END -->
+</div><ul class="menu"><li id="current" class="active item764"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item765"><a href="/terms-and-conditions"><span>Terms of Use</span></a></li><li class="item766"><a href="/sitemap-1"><span>Sitemap</span></a></li></ul>
+                    </div>
+                                       
+                                        <div class="width100  floatleft">
+                        		<div class="moduletable ">
+		
+		        	
+             <div class="moduletable_content">
+			 <p style="text-align: center;"><a target="_blank" title="YouTube" href="http://www.youtube.com/user/akitious" onclick="_gaq.push(['_trackEvent', 'Links', 'Outgoing', 'Footer Youtube']);"><img alt="YouTube" src="/images/logos/youtube-gray-40.png" height="40" width="40"></a> <a target="_blank" title="Facebook" href="http://www.facebook.com/pages/Akitio/148287718534583" onclick="_gaq.push(['_trackEvent', 'Links', 'Outgoing', 'Footer Facebook']);"><img alt="Facebook" src="/images/logos/facebook-gray-40.png" height="40" width="40"></a> <a target="_blank" title="Twitter" href="http://twitter.com/akitio" onclick="_gaq.push(['_trackEvent', 'Links', 'Outgoing', 'Footer Twitter']);"><img alt="Twitter" src="/images/logos/twitter-gray-40.png" height="40" width="40"></a> <a title="RSS Feed for News" href="/press-releases/feed/rss"><img alt="RSS Feed" src="/images/logos/rss-gray-40.png" height="40" width="40"></a></p>             </div>
+            
+		</div>
+	
+                    </div>
+                    
+                    
+                    
+                      
+ 				</div>  
+            </div>      
+
+                   
+                    <!-- Copyright -->  
+
+                    <div id="copyright">
+                      <div class="wrapper">
+                         <div class="padding">                         
+
+                             <p id="copytext">Copyright © 2011 AKiTiO. All Rights Reserved.</p>
+
+                          
+                                                        
+                                                             <div id="gotop"><p><a href="#go_top"><span>GO_TOP</span></a></p></div>
+                               
+                        </div>
+                    </div>
+                 </div><!-- Copyright -->
+
+             	   
+         </div>       
+	</div><!-- Footer -->  
+
+</div><!-- Wrapper Full -->                  
+
+
+
+           
+
+
+
+</body></html>
