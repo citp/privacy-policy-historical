@@ -1,90 +1,72 @@
-> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outtask.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231121628id_/https%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Concur Technologies, Inc. Privacy Policy
+# Concur Technologies, Inc. Privacy Policy | Concur
 
-**"Protecting all proprietary information relating to Concur, its clients, prospective clients and its business partners is vital to the Concur mission."
+**NOTICE OF CHANGES to Concur.com visitors: Concur has made changes to its privacy policy in an effort to better describe how it collects, uses, and shares its information. Please contact us by emailing by emailing[concurnews@concur.com](mailto:concurnews@concur.com) with any questions or concerns about these changes.**
 
-Thomas DePasquale  
-Vice President & General Manager  
-Concur Technologies, Inc.
+Last Updated: August 1, 2011
 
-**
+This Policy explains how your personal information is collected, used, and disclosed by Concur Technologies, Inc. ("Concur") and its subsidiaries and affiliated companies ("Concur" or "We"). This privacy policy ("Policy") applies to the Web sites of Concur, including concur.com (collectively, "Sites"). The Sites are hosted in the United States of America and the personal information you submit to them will be held and processed in the United States of America. If you are based in the European Union, Concur has committed to handling such personal information in accordance with the Safe Harbor Principles. Concur’s Safe Harbor certification can be found at [ http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at [ http://export.gov/safeharbor](http://export.gov/safeharbor). 
 
-**Concur’s Data Privacy Policy**
+### INFORMATION COLLECTED
 
-Concur values your right to privacy and takes care to keep your personal identifying, company identifying and security information safe, secure and confidential. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our marketing website. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy. This privacy policy is located at [www.outtask.com/privacy.asp](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/privacy.asp) and covers all Concur-owned domains including but not limited to the following web sites: 
+We collect information from you in various ways when you use our Sites. We collect information you directly provide to us. For example, we collect your name, email address, postal address, phone number, fax number, demographics, preference information and other information you provide us on our Sites. We also collect credit card numbers if you purchase services on our Sites or use services that reconcile your credit card charges. We may also obtain information from other sources and combine that with information we collect on our Sites.
 
-  * [www.outtask.com](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/index.asp)
-  * [www.cliqbook.com](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/solutions_t_corp.asp)
-  * [www.vinnet.com](http://www.concur.com/solutions/exp/default.asp)
-  * [www.corporatetande.com](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/solutions_te.asp)
-  * [www.outtask.co.uk](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/index.asp)
-  * [www.outtask.de](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/index.asp)
+When you visit our Sites, some information is automatically collected. For example, when you visit our Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and referring Web site addresses are logged automatically. We also collect information about your usage and activity on our Sites.
 
-This privacy policy **DOES NOT** cover Concur’s Internet Applications. For users of Concur’s applications, see the privacy policy located within the respected application, within your personal profile.
+**Cookies.** We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a Web site. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. If you set your browser not to accept cookies or if you reject a cookie (your help screen or manual should tell you how to do this), it may affect certain features or services of our Sites. 
 
-**Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, email or postal address. In many cases we need this information to provide the personalized or enhanced service that you have requested. 
+**Web Beacons.** We may collect information using Web beacons. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
-**The Information We Collect**
+We may also use third parties to serve ads on the Site. Certain third parties may automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [ http://www.networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/consumer/opt_out.asp)
 
-This notice applies to all information collected or submitted on the Concur website. Concur collects information about our web visitors through voluntary submissions and through cookie technology.
+### USE OF PERSONAL INFORMATION WE COLLECT
 
-On some pages, you can order literature, make requests, and register to receive materials or product demonstrations. In our effort to provide personalization and opportunities for services, we may at times ask you to submit information or share your business interests with us. You never have to answer these questions, and you can decline this exchange of information, however, if you should choose to withhold requested information, we may not be able to provide you with some of your requested information or services. Many items are not accessible without registration. The types of personal information collected on these pages are: 
+We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use your information to:
 
-  * Name
-  * State
-  * Country
-  * Business Title
-  * Business Name
-  * Business Phone
-  * Email address
-  * Company Address
-  * Company Demographics
+  * operate and improve our Sites and services;
+  * process and deliver contest entries and rewards;
+  * respond to your comments and questions and provide customer service;
+  * provide and deliver products and to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * register you for events and training;
+  * communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Concur and our selected partners;
+  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service. 
 
-**Logged Files and Cookies**
 
-The Concur Web site logs IP addresses and browser types for systems administration purposes. These logs will be analyzed to constantly improve the value of the materials available on the website. We do not link IP addresses to any personal identifiable information. This means that a user's session will be tracked, but the user will be anonymous.
 
-Concur sets a permanent cookie that is in no way related to any personally identifiable information upon completion of the registration form. Concur uses cookies to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. The Concur sites also use session cookies that track server-side data. Cookies allow a site to track usage behavior and compile site usage information that will allow for the improvement of site navigation, content and messaging. These cookies are terminated once the user closes their browser. If a user rejects the cookie, they may still use our site. We do not use cookies to collect personal identifiable information, track or target our users Concur’s websites.
+Concur may store and process personal information in the United States and other countries. 
 
-**How We Use Information**
+### SHARING OF PERSONAL INFORMATION
 
-Concur does not resell or share with other companies or entities any personal identifying, corporate identifying, or demographic information gained through this process in any way, except by characterizations of demographics in the aggregate.
+We do not share your personal information with third parties other than as follows:
 
-The information Concur collect is used in a variety of ways: for internal communications or review; to improve the content, navigation, and messaging of Concur’s website; for notifications of updates to company, products or services you specified interest in; marketing and sales efforts unless you specify otherwise.
+  * in an aggregated form that does not directly identify you;
+  * with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing uses subject to their privacy policies;
+  * with your employer if you are participating in a Concur service provided through your employer;
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
+  * to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Concur our agents, members, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Concur, its customers, or any person; 
+  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company. 
 
-For the purpose of better target marketing, we do enhance our information with rented and bought lists of prospects. This information is used for marketing purposes only, and is not resold or shared with any outside vendors.
 
-Concur does not sell or share personally identified information or any other visitor information with third parties. Concur keeps volunteered information confidential.
 
-Please be advised that in certain instances, it may be necessary for Concur to disclose your personal information to government officials or otherwise as required by our legal obligations.
+### SECURITY OF YOUR PERSONAL INFORMATION
 
-**How To Opt-Out/Unsubscribe**
+Concur takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our registration form has an 'opt-out' option so users who download material from the site, but don't wish to receive any marketing material, can keep their email off of our internal lists. Users who no longer wish to receive information, material or newsletters from us may 'opt-out' at any time by clicking here, sending an email to [unsubscribe@outtask.com](mailto:unsubscribe@outtask.com?subject=unsubscribe) with the subject line of "UNSUBSCRIBE", or writing to:
+### YOUR INFORMATION CHOICES AND CHANGES
+
+You may opt out of receiving promotional emails from Concur by following the instructions in those emails. If you are registered on any of our sites, you may login and make certain changes to your information in your account. You may also send requests about your preferences and changes to your information by emailing [concurnews@concur.com](mailto:concurnews@concur.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. Additionally, if you are participating in a Concur service through your employer, your employer may make changes to information on your behalf. 
+
+### CHANGES TO THIS POLICY 
+
+Concur may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. 
+
+### ENFORCEMENT
+
+If you have any questions about this Policy, please contact us at
 
 Concur Technologies, Inc.  
-Privacy  
-209 Madison St., Suite 400  
-Alexandria, VA 22314  
-USA
-
-**How To Access Or Correct Your Information**
-
-Concur believes in maintaining accurate and up-to-date personal information as well as providing people with access to Concur personnel when necessary. Individuals can make inquiries, complaints, or review or change their data by contacting us at [privacy@outtask.com](mailto:privacy@outtask.com?subject=privacy%20inquiry).
-
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Links To Third Party Sites**
-
-The links in portions of this website will let you leave the Concur marketing website. The linked sites are not under the control of Concur and Concur is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. Concur is providing these links to you only as a convenience and the inclusion of any link does not imply endorsement by Concur.
-
-**Your Consent**
-
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy in addition to the terms and conditions ([www.outtask.com/legal.asp](https://web.archive.org/web/20060425210855id_/http%3A//outtask.com/legal.asp)) of visiting Concur’s corporate marketing site.
-
-**Safe Harbor Enforcement**
-
-Concur is certified as compliant with the U.S. Department of Commerce under the "Safe Harbor Agreement" with the European Union. Concur agrees to investigate and resolve individual complaints or disputes, and have procedures in place for resolution.
+18400 NE Union Hill Road  
+Redmond, WA 98052  
+USA  
+Attention: [concurnews@concur.com](mailto:concurnews@concur.com)
