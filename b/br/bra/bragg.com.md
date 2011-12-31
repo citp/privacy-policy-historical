@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516042315id_/http%3A//www.bragg.com/general/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bragg.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210821id_/http%3A//www.bragg.com/general/privacy_statement.html) for the most accurate reproduction.*
 
 # Bragg Live Foods, Bragg Apple Cider Vinegar, Bragg Liquid Aminos,Systemic Enzymes, Bragg Live Organic Food Products, Patricia Bragg, Paul Bragg, Bragg Organic Olive Oil, Bragg Salad Dressings, Bragg Seasonings, Bragg Health Products
 
@@ -27,3 +27,13 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before making corrections and will not transmit that information to any sources that cannot be reasonably determined to be authorized by the person to whom the information concerns.
+
+**Refunds**
+
+All sales are final – All claims/returns will be made on a case-by case basis
+
+**Corporate Address:**
+
+Live Food Products  
+199 Winchest Canyon Rd  
+Goleta, CA, 93117 
