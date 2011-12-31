@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530012924id_/http%3A//www.greenhousemegastore.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhousemegastore.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205116id_/http%3A//www.greenhousemegastore.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | Greenhouse Megastore
 
@@ -50,16 +50,3 @@ Phone:  888-281-9337
 OR
 
 Send all email requests to: [help@igcusa.com](mailto:help@igcusa.com)
-
-Testimonials
-
-"Excellent and fast service!!!! I'll be buying again!!!!"   
-\- _Debbie M._
-
-"What planet are you folks from?! This is customer service I have never, ever experienced, and I have dealt with, and worked for, those who claim to excel in it. This most definitely tops it. Thank you."   
-\- _Nick W._
-
-"Just wanted to thank you for the help ordering my greenhouse materials.  It went up perfectly.  I appreciate that you did what you said you would do - that's getting to be less common these days."  
-\- _Tom_
-
-[View all Testimonials](https://web.archive.org/testimonials "View all Testimonials")
