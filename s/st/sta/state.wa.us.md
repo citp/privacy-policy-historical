@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523204622id_/http%3A//access.wa.gov/siteinfo/resources/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wa.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212839id_/http%3A//access.wa.gov/siteinfo/resources/privacy.aspx) for the most accurate reproduction.*
 
 # Access Washington - Privacy notice
 
@@ -60,7 +60,7 @@ After 30 days, user names, IP address, and email addresses are automatically era
 
 The database of transcripts may be used to compile statistics about chat usage and for research to help improve online reference service. Excerpts from transcripts may be used for reports or publications. Personal information (e.g. IP address, email, names, phone numbers, etc.) that might be included in the body of a chat transcript will not be shared outside DIS unless otherwise required by law.
 
-To have your chat transcript deleted from the database, please email [awa@dis.wa.gov](mailto:awa@dis.wa.gov). Please send the date and time the chat started. 
+To have your chat transcript deleted from the database, please email [accesswa@dis.wa.gov](mailto:accessWa@dis.wa.gov). Please send the date and time the chat started. 
 
 **Bing Search**
 
@@ -157,4 +157,4 @@ Phone: (360) 902-3551
 Fax: (360) 586-5885  
 Email: _[_PrivacyOfficer@dis.wa.gov_](mailto:PrivacyOfficer@dis.wa.gov)
 
-_Last Modified: August 2009_
+_Last Modified: September 2011_
