@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planningcenteronline.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124093707id_/http%3A//www.planningcenteronline.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planningcenteronline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112523id_/http%3A//www.planningcenteronline.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Planning Center | Privacy Policy
 
