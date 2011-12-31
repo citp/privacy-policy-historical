@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleofmoms.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028210752id_/http%3A//www.circleofmoms.com/privacy.php%3Ftrk%3Dmain_menu_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleofmoms.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095202id_/http%3A//www.circleofmoms.com/privacy.php%3Ftrk%3Dmain_menu_footer) for the most accurate reproduction.*
 
 # Circle of Moms
 
@@ -44,7 +44,9 @@ Cookies.  To help make sure you receive information that is relevant to you, our
 
 Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs). These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the Ad Partners. Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our Platform. 
 
-With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Most web browsers are set to accept cookies. You can instruct your browser not to accept cookies. However, if you disable this function, you will not be able to use some of the features on our Site. 
+With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Most web browsers are set to accept cookies. You can instruct your browser not to accept cookies. However, if you disable this function, you will not be able to use some of the features on our Site.
+
+Email and Deactivation. Circle of Moms requires that members receive certain emails as part of their membership.  They can select which emails they will receive at <http://www.circleofmoms.com/mom_settings.php>.  Members who wish to deactivate their accounts can do so at <http://www.circleofmoms.com/deactivate.php>. 
 
 Security.  We take precautions to ensure the security of your personal information. However, we cannot guarantee that hackers or unauthorized personnel may gain access to your personal information despite our efforts. You should note that in using the Service, your information will travel through third party infrastructures which are not under our control. 
 
