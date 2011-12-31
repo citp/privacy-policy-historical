@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the retweet.it privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520181936id_/http%3A//retweet.it/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the retweet.it privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231114736id_/http%3A//retweet.it/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,15 +11,15 @@
 	<meta name="keywords" content="privacy policy, privacy">
 	
 	<!-- CSS -->
-	<link href="http://media.retweet.it/css/quark.css" rel="stylesheet" type="text/css" media="all">
-	<link href="http://media.retweet.it/css/style.css" rel="stylesheet" type="text/css" media="all">
+	<link href="http://retweet.it/css/quark.css" rel="stylesheet" type="text/css" media="all">
+	<link href="http://retweet.it/css/style.css" rel="stylesheet" type="text/css" media="all">
 	
 	<!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="Latest Retweets On reTweet.it" href="http://retweet.it/rss.php">
     
     <!-- FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="http://media.retweet.it/favicon.ico">
-    <link rel="apple-touch-icon" href="http://media.retweet.it/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="http://retweet.it/favicon.ico">
+    <link rel="apple-touch-icon" href="http://retweet.it/apple-touch-icon.png">
     
     <!-- OTHER -->
 	<meta name="viewport" content="width = 1024">
@@ -27,19 +27,19 @@
 	<style>
 	.bonusbadge {
 	background: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.retweet.it/img/sm/bonus-badge.png', sizingMethod='scale');
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://retweet.it/img/sm/bonus-badge.png', sizingMethod='scale');
 	}
 	.bonus5 {
 	background: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.retweet.it/img/sm/plus5.png', sizingMethod='scale');
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://retweet.it/img/sm/plus5.png', sizingMethod='scale');
 	}
 	.bonus10 {
 	background: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.retweet.it/img/sm/plus10.png', sizingMethod='scale');
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://retweet.it/img/sm/plus10.png', sizingMethod='scale');
 	}
 	.bonus30 {
 	background: none;
-	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://media.retweet.it/img/sm/plus30.png', sizingMethod='scale');
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://retweet.it/img/sm/plus30.png', sizingMethod='scale');
 	}
 	</style>
 	<![endif]-->
@@ -52,7 +52,7 @@
 	    var toretweet = document.getElementById('toretweet').value;
 	    var assigned = document.getElementById('assigned').value;
 	    if ((toretweet) && (assigned)) {
-	        document.getElementById('retweetloader').innerHTML = '<img src="http://media.retweet.it/img/sm/ajax-loader.gif" class="center" height="16" width="16" />';
+	        document.getElementById('retweetloader').innerHTML = '<img src="http://retweet.it/img/sm/ajax-loader.gif" class="center" height="16" width="16" />';
 	
 	        var data = 'assigned=' + assigned + '&tort=' + encodeURIComponent(toretweet) + '&category=' + encodeURIComponent(category);
 	        var aj = new Ajax.Request('functions/newretweet.php', {
@@ -71,7 +71,7 @@
 	}
 	
 	function retweet(id) {
-	    document.getElementById('retweet' + id).innerHTML = '<img src="http://media.retweet.it/img/sm/ajax-loader.gif" class="center" height="16" width="16" />';
+	    document.getElementById('retweet' + id).innerHTML = '<img src="http://retweet.it/img/sm/ajax-loader.gif" class="center" height="16" width="16" />';
 	    var data = 'id=' + id;
 	    var aj = new Ajax.Request('functions/retweet.php', {
 	        method: 'get',
@@ -92,7 +92,7 @@
 	
 </head>
 
-<body onload="run()">
+<body>
 	<div class="wrapper">
 		<div class="header">
 			<div id="retweet-logo">
@@ -116,7 +116,6 @@
 			<ul>
 				<li><a href="http://retweet.it/" class="home">Home</a></li>
 				<li><a href="http://retweet.it/about.php">About</a></li>
-				<li><a href="http://retweet.it/blog/">Blog</a></li>
 				<li><a href="http://retweet.it/browse.php">Browse</a></li>
 				<li><a href="http://retweet.it/buy.php" class="buy">Buy</a></li>
 				<li><a href="http://retweet.it/submit.php">Submit</a></li>
@@ -127,7 +126,7 @@
 		<div class="twocolrighta">
 			<div class="column first">
 				<div class="padded-container"><div class="onecol">
-	<img src="http://media.retweet.it/img/sm/pages.gif" alt="Privacy Policy" width="102" height="106" class="right">
+	<img src="http://retweet.it/img/sm/pages.gif" alt="Privacy Policy" width="102" height="106" class="right">
     <h1>reTweet.it Privacy Policy</h1>
     <h2>Your privacy is very important to us.</h2>
     <p>We have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p>
@@ -150,18 +149,18 @@
 				<div class="padded-container">
 
 										<h2>Please Login</h2>
-										<a class="sign-in-twitter" href="https://twitter.com/oauth/authorize?oauth_token=SEsFTzLjdSiOI5V0ifyHqCeAgxl8wImtk90VHktM" title="Sign In With Twitter">Sign In With Twitter</a><p>Use your Twitter account to login. The first time you login to use this tool it automatically retweets a link.</p>
+										<a class="sign-in-twitter" href="https://twitter.com/oauth/authorize?oauth_token=B22L7MX3WMSh79gitHHvyvjPLdQlFc57RuV9zG0TAc" title="Sign In With Twitter">Sign In With Twitter</a><p>Use your Twitter account to login. The first time you login to use this tool it automatically retweets a link.</p>
 					
 					<h2>What's reTweet.it</h2>
 					<p>reTweet.it is both a free and paid service that makes getting retweets easy, allowing you to reach an exponential number of followers on Twitter.</p>
 					<p><a href="about.php">Learn More</a></p>
 
 					<h2>Retweet Credits</h2>
-					<p>There are plently of ways to get credits. Learn how to earn free retweets or buy retweets in bulk.</p>
+					<p>There are plenty of ways to get credits. Learn how to earn free retweets or buy retweets in bulk.</p>
 					<p><a href="about.php#credits">Learn More</a></p>
 					
 					<h2>Buyers Special</h2>
-					<p>To reward out retweet credit buyers, we offer up-to 10 free credits when you purchase credits!</p>
+					<p>To reward our retweet credit buyers, we offer up-to 10 free credits when you purchase credits!</p>
 					<p><a href="buy.php">Buy Now</a></p>
 
 					<h2>Submit To reTweet.it</h2>
@@ -218,11 +217,9 @@
 		
 		<div class="twocol copyright">
 			<div class="column first"><p class="left">Copyright © reTweet.it 2011. All rights reserved.</p></div>
-			<div class="column last"><p class="right">Created By <a href="http://www.joeysikes.com">Joey Sikes</a></p></div><a href="http://www.joeysikes.com">
-		</a></div><a href="http://www.joeysikes.com">
-		<noscript><a href="http://www.joeysikes.com">Orlando Web Design</a></noscript>
-
-</a></div><a href="http://www.joeysikes.com">
+			<div class="column last"></div>
+		</div>
+</div>
 <!--/wrapper-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -237,4 +234,4 @@ pageTracker._trackPageview();
 
 
 
-</a></body></html>
+</body></html>
