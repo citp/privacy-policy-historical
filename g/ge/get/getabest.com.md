@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getabest.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318174635id_/http%3A//getabest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getabest.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213826id_/http%3A//getabest.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Getabest.com Download
+# Privacy Policy - Getabest.net Download
 
-Getabest.com - Software Catalog is the Web's largest library of software downloads. Provides detailed information for shareware and freeware applications covering major operating systems, spam free with daily updates, including instant software download. All software on Getabest.com has been tested to ensure it's 100% free of spyware, viruses, and other malware. We accept PAD submissions from developers.
+Getabest.net - Software Catalog is the Web's largest library of software downloads. Provides detailed information for shareware and freeware applications covering major operating systems, spam free with daily updates, including instant software download. All software on Getabest.net has been tested to ensure it's 100% free of spyware, viruses, and other malware. We accept PAD submissions from developers.
 
-[Home](http://getabest.com/ "Main Page") > **Privacy Policy**
+[Home](http://getabest.net/ "Main Page") > **Privacy Policy**
 
-When a visitor requests pages from Getabest.com site, our Web servers automatically recognize the browser's domain name, and IP address. Our server do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. 
+When a visitor requests pages from Getabest.net site, our Web servers automatically recognize the browser's domain name, and IP address. Our server do not record e-mail addresses. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. 
 
 ### COOKIES
 
@@ -20,21 +20,15 @@ This website takes every precaution to protect our users' information. When user
 
 ### LINKS
 
-This web site contains links to other sites. Please be aware that we Getabest.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we Getabest.net, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-[Home](http://getabest.com/ "Main Page") > **Privacy Policy**
+[Home](http://getabest.net/ "Main Page") > **Privacy Policy**
 
 | 
 
 Subscribe!
 
 Categories
-
-Partners
-
-[](http://mysitecost.com/)
-
-[](http://downloadnew.org/ "Free software downloads")
 
 More Getabest.com  
   
