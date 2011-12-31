@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428094652id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204146id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
 
 # TrafficHoopla Privacy Policy
 
