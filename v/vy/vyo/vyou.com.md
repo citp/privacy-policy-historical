@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613084346id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224918id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
 
 # VYou
 
@@ -98,7 +98,7 @@ No system can be completely secure. Therefore, although we take steps to secure 
 
 **User Submissions**
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. audio files, videos, pictures, blogs etc.); and post comments or reviews of content found on the Website. Such postings are governed by our [Terms and Conditions of Use](http://vyou.com/index/tos). In addition, such postings may appear whn searches are executed on the subject matter of your posting or on other websites. Also, any voluntary disclosure by you of personal information on publicly-viewable web pageswill be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post. We strongly urge you to use a high degree of discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. audio files, videos, pictures, blogs etc.); and post comments or reviews of content found on the Website. Such postings are governed by our [Terms and Conditions of Use](http://vyou.com/index/tos). In addition, such postings may appear when searches are executed on the subject matter of your posting or on other websites. Also, any voluntary disclosure by you of personal information on publicly-viewable web pageswill be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post. We strongly urge you to use a high degree of discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
 
 **Children’s Privacy**
 
@@ -121,7 +121,7 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:
 
 **Virtual Labs Inc**  
-594 Broadway, Suite 1212
+560 Broadway, Suite 402
 
 New York, NY 10012  
 [privacy@vyou.com](mailto:privacy@vyou.com)
