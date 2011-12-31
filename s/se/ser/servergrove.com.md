@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027145937id_/http%3A//servergrove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215601id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
 
-# ServerGrove Privacy Policy
+# ServerGrove Privacy
 
 ServerGrove Networks, Inc.
 
-Version Date:October 6th 2010
+Version Date: June 3rd 2011
 
 **GENERAL**
 
-ServerGrove Networks, Inc. (“ServerGrove”) respects the privacy of its customers using our services described in the Terms of Service Agreement or users just visiting our website located at _[www.ServerGrove.com](http://www.servergrove.com/)_ (the “Website”) (collectively, the “ServerGrove Services”). The following ServerGrove privacy policy (“Privacy Policy”) is designed to inform you, as a user of the ServerGrove Services, about the types of information that ServerGrove may gather about or collect from you in connection with your use of the ServerGrove Services. It also is intended to explain the conditions under which ServerGrove uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the ServerGrove Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the ServerGrove Services or visit the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the ServerGrove Services or visited the Website. 
+ServerGrove Networks, Inc. ("ServerGrove") respects the privacy of its customers using our services described in the Terms of Service Agreement or users just visiting our website located at _[www.ServerGrove.com](http://www.servergrove.com/)_ (the "Website") (collectively, the "ServerGrove Services"). The following ServerGrove privacy policy ("Privacy Policy") is designed to inform you, as a user of the ServerGrove Services, about the types of information that ServerGrove may gather about or collect from you in connection with your use of the ServerGrove Services. It also is intended to explain the conditions under which ServerGrove uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the ServerGrove Services, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the ServerGrove Services or visit the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the ServerGrove Services or visited the Website. 
 
 Our Website is hosted in the United States of America and is subject to U.S. state and federal law. Our office is located in the State of Florida. If you are accessing our Website or servers from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website and our servers, you consent to that transfer and to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website, the ServerGrove Services and your agreements with us. Any persons accessing our Website or using the ServerGrove Services from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure different from those of the jurisdictions mentioned above may only use the ServerGrove Services in a manner lawful in their jurisdiction. If your use of the ServerGrove Services is unlawful in your jurisdiction, please do not use the ServerGrove Services.
 
-ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
+ServerGrove complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>
 
 By using or accessing the Website and/or using the ServerGrove Services, you are accepting the practices described in this Privacy Policy.
 
@@ -24,19 +24,19 @@ The Website is not intended for children under 13 years of age. ServerGrove does
 
 _**Users of the Website Generally**_
 
-“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, ServerGrove gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. ServerGrove analyzes Non-Personally-Identifying Information gathered from users of the Website to help ServerGrove better understand how the Website is being used. By identifying patterns and trends in usage, ServerGrove is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, ServerGrove may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.
+"Non-Personally-Identifying Information" is information that, without the aid of additional information, cannot be directly associated with a specific person. "Personally-Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, ServerGrove gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user's Internet Protocol (IP) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Website. ServerGrove analyzes Non-Personally-Identifying Information gathered from users of the Website to help ServerGrove better understand how the Website is being used. By identifying patterns and trends in usage, ServerGrove is able to better design the Website to improve users' experiences, both in terms of content and ease of use. From time to time, ServerGrove may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.
 
 We may also periodically obtain both Personally-Identifying Information and Non-Personally-Identifying Information about you from other ServerGrove-affiliated businesses, business partners, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated address information, purchase history, and additional demographic information.
 
 _**Web Cookies**_
 
-A “Web Cookie” is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. ServerGrove uses Web Cookies to track the pages that users visit during each Website session, both to help ServerGrove improve users’ experiences and to help ServerGrove understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, ServerGrove analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help ServerGrove, its partners and others better understand how the Website is being used. ServerGrove does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+A "Web Cookie" is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the site. ServerGrove uses Web Cookies to track the pages that users visit during each Website session, both to help ServerGrove improve users' experiences and to help ServerGrove understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, ServerGrove analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help ServerGrove, its partners and others better understand how the Website is being used. ServerGrove does not attempt to link information gathered using Web Cookies to Personally-Identifying Information. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the [Network Advertising Initiative](http://networkadvertising.org/), you can [opt out](http://networkadvertising.org/managing/opt_out.asp) of several third party ad servers’ and networks’ Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: <http://networkadvertising.org/managing/opt_out.asp>. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
+We use third-party advertising companies to serve ads when you visit the Website. These companies may use information (not including any Personally-Identifying Information) about your visits to this and other websites that are contained in Web Cookies in order to provide advertisements about goods and services of interest to you. Using a tool created by the [Network Advertising Initiative](http://networkadvertising.org/), you can [opt out](http://networkadvertising.org/managing/opt_out.asp) of several third party ad servers' and networks' Web Cookies simultaneously. If you would like more information about this practice and to know your choices about not having this information used by these companies, please follow the following link: <http://networkadvertising.org/managing/opt_out.asp>. Please contact us if you would like to know the identity of the third-party advertising companies we are currently using to serve ads.
 
 _**Web Beacons**_
 
-A “Web Beacon” is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. ServerGrove may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information; they are a technique ServerGrove may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. 
+A "Web Beacon" is an object that is embedded in a web page that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page. ServerGrove may use Web Beacons on the Website to count users who have visited particular pages and to deliver co-branded services. Web Beacons are not used to access users' Personally-Identifying Information; they are a technique ServerGrove may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. 
 
 **_Aggregated and Non-Personally-Identifying Information_**
 
@@ -46,13 +46,13 @@ We may share aggregated and Non-Personally Identifying Information we collect un
 
 _**Website Registration**_
 
-As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. ServerGrove collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by ServerGrove about users is information provided by users themselves at the time they sign up to order ServerGrove Services. That information may include each user’s name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, and other demographic information such as your hometown, your gender or your username, and other relevant information as determined by ServerGrove from time to time. Users of the Website are under no obligation to provide ServerGrove with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. ServerGrove collects a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by ServerGrove about users is information provided by users themselves at the time they sign up to order ServerGrove Services. That information may include each user's name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, and other demographic information such as your hometown, your gender or your username, and other relevant information as determined by ServerGrove from time to time. Users of the Website are under no obligation to provide ServerGrove with Personally-Identifying Information of any kind, with the caveat that a user's refusal to do so may prevent the user from using certain Website features.
 
-BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.
+BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY IDENTIFYING INFORMATION AS DESCRIBED IN THIS "COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION" SECTION.
 
 _**Online Forums and Public Postings**_
 
-Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users’ use of the Website. We provide areas on our Website where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms of Service Agreement. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
+Certain Personally-Identifying Information collected from users is disclosed as a matter of course as a result of those users' use of the Website. We provide areas on our Website where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms of Service Agreement. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. USERS ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM THEIR VOLUNTARY DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION.
 
 _**ServerGrove Communications**_
 
@@ -78,7 +78,7 @@ ServerGrove will disclose Personally-Identifying Information under the following
 
 
 
-  * **Business Transfers; Bankruptcy**. ServerGrove reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ServerGrove’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
+  * **Business Transfers; Bankruptcy**. ServerGrove reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ServerGrove's assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
 
 
 
@@ -97,11 +97,11 @@ From time to time, ServerGrove may offer Website users the opportunity to partic
 
 _**EMAIL TO FRIENDS FEATURE AND REFERRAL PROGRAM**_
 
-ServerGrove may offer users the ability to send friends emails about the Website and the ServerGrove Services. If users choose to use this feature, be assured that ServerGrove only uses friends’ email addresses on a one-time basis to send the requested email.
+ServerGrove may offer users the ability to send friends emails about the Website and the ServerGrove Services. If users choose to use this feature, be assured that ServerGrove only uses friends' email addresses on a one-time basis to send the requested email.
 
 **COLLECTION AND USE OF INFORMATION BY THIRD PARTIES** **GENERALLY**
 
-ServerGrove contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from ServerGrove, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. ServerGrove neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users’ discretion, protect their privacy.
+ServerGrove contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from ServerGrove, other than in accordance with this Privacy Policy. Third parties are under no obligation to comply with this Privacy Policy, however, with respect to Personally-Identifying Information that users provide directly to those third parties or that those third parties collect for themselves. ServerGrove neither owns nor controls the third-party websites accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third-party, whether by means of a link on the Website or otherwise, and before providing any Personally-Identifying Information to any third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in those users' discretion, protect their privacy.
 
 **SECURITY**
 
@@ -109,7 +109,7 @@ We take security of your Personally-Identifying Information seriously and use re
 
 **PRIVACY POLICY CHANGES**
 
-ServerGrove may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to ServerGrove’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless ServerGrove obtains your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect, and not to information collected under any earlier Privacy Policies. Users should regularly check this page for any changes to its Privacy Policy. ServerGrove will always post new versions of the Privacy Policy on the Website. However, ServerGrove may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.
+ServerGrove may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to ServerGrove's Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless ServerGrove obtains your express consent, any revised Privacy Policy will apply only to information collected after such time as the revised Privacy Policy takes effect, and not to information collected under any earlier Privacy Policies. Users should regularly check this page for any changes to its Privacy Policy. ServerGrove will always post new versions of the Privacy Policy on the Website. However, ServerGrove may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.
 
 **CALIFORNIA PRIVACY RIGHTS**
 
@@ -123,41 +123,10 @@ Privacy Officer
 
 ServerGrove Networks, Inc.
 
-4005 Loquat Ave.   
-Miami, FL 33133
+1390 South Dixie Highway  
+Suite 2218   
+Coral Gables, FL 33146
 
 Email: privacy@ServerGrove.com
 
 Phone: 800 511 1855
-
-  * [](https://web.archive.org/web/20100102053456/https://secure.servergrove.com/clients/submitticket.php)
-
-  
-[](http://www.ratepoint.com/profile/10089) [](http://www.treesftf.org/partnerships/cooling.htm)
-  *   
-[Get support](https://web.archive.org/community)  
-[Knowledge Base](http://secure.servergrove.com/clients/knowledgebase.php)  
-[Open a Ticket](https://web.archive.org/contact)  
-[Billing and Invoices](https://secure.servergrove.com/clients/clientarea.php)
-  *   
-[Who we are](https://web.archive.org/about)  
-[Contact Us](https://web.archive.org/contact)
-
-  
-[Blog](http://blog.servergrove.com/)
-
-[You should really follow us on _Twitter_!](http://www.twitter.com/servergrove)  
-[Badges and logo downloads](https://web.archive.org/media)  
-[Projects we support](https://web.archive.org/community#sponsor)
-  *   
-[Shared Hosting](https://web.archive.org/sharedhosting)  
-[Virtual Hosting](https://web.archive.org/vps)  
-[Symfony Hosting](https://web.archive.org/symfonyhosting)  
-[Zend Framework Hosting](https://web.archive.org/zendframework)  
-[Managed Dedicated Servers](https://web.archive.org/dedicated)
-
-  
-[Buy a domain name](https://web.archive.org/domain)
-
-
-
