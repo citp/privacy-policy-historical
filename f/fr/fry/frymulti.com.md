@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frymulti.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423110349id_/http%3A//www.fry.com/category/Privacy-Policy/671.uts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frymulti.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223123id_/http%3A//www.fry.com/category/Privacy-Policy/671.uts) for the most accurate reproduction.*
 
 # Fry, Inc. - Privacy Policy
 
