@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/privacy.php) for the most accurate reproduction.*
 
 # Goproxing - Surfing
 
@@ -24,10 +24,10 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-  * [Home](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/index.php)
-  * [Manage Cookies](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20110516100344id_/http%3A//www.goproxing.com/terms.php)
+  * [Home](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/index.php)
+  * [Manage Cookies](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20111231210321id_/http%3A//www.goproxing.com/terms.php)
 
 
