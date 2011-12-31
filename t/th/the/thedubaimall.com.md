@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedubaimall.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521075947id_/http%3A//www.thedubaimall.com/en/general/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedubaimall.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112329id_/http%3A//www.thedubaimall.com/en/general/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » The Dubai Mall
 
