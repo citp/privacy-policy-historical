@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524012105id_/http%3A//www.odu.edu/oduhome/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213141id_/http%3A//www.odu.edu/oduhome/privacy.shtml) for the most accurate reproduction.*
 
 # Old Dominion University
 
@@ -37,7 +37,7 @@ _Usage Information_ **-** ODU routinely analyzes usage patterns on the Web site 
 _Use of "Cookies"_ **-** This Web server makes use of "cookies."  A cookie is a small piece of information (or data) that the Web server may send in your Internet browser, which is usually stored on your computer. Cookies are designed to improve your Web browsing experience and to make the web site more useful. However, you may choose to disable cookies from your Internet browser. This may affect Web site functionality for you.  
 
 
-**Digital Millennium Copyright Act (DMCA) -** Refer to the [DMCA Notices](https://web.archive.org/web/20110524012105id_/http%3A//www.odu.edu/oduhome/dmca.shtml) Page for more information. 
+**Digital Millennium Copyright Act (DMCA) -** Refer to the [DMCA Notices](https://web.archive.org/web/20111231213141id_/http%3A//www.odu.edu/oduhome/dmca.shtml) Page for more information. 
 
 **Pop Up Advertisement Disclaimer**
 
@@ -49,4 +49,4 @@ Some Internet sites are programmed to create Pop-up windows when you exit them. 
 
 Also, some free ware programs that you may have installed on your system may cause these Pop-up windows. . These programs (for example: Music and File sharing) support themselves by agreeing to install advertising packages with their product. For more information see this article by wired.com 
 
-If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](https://web.archive.org/web/20110524012105id_/http%3A//www.odu.edu/oduhome/feedback.shtml)
+If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](https://web.archive.org/web/20111231213141id_/http%3A//www.odu.edu/oduhome/feedback.shtml)
