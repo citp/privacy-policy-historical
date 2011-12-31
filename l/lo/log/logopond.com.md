@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607141846id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231222304id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
 
 # Logopond - Identity Inspiration
+
+[**Logopond Book - Phase 1**](http://logopond.com/members/profile/bookrelease/) If you have ever gotten a logo in the gallery, go sign the book release form! Phase 1 will last til Jan. 15th shortly after instructions will go out individually about which logos made the book selection and how to send in print ready pieces.
 
 ## Privacy Policy
 
