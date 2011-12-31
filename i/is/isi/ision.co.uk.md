@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ision.co.uk privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501125756id_/http%3A//www.ndo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ision.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231150904id_/http%3A//www.ndo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Welcome to NDO - A Leading UK ISP offering Dialup, ISDN, Broadband ADSL and SDSL, Hosting and Email
 
