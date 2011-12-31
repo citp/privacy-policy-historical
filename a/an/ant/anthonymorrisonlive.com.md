@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonymorrisonlive.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201011729id_/http%3A//www.anthonymorrisonlive.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonymorrisonlive.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213241id_/http%3A//www.anthonymorrisonlive.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ANTHONY MORRISON LIVE: ANTHONY MORRISON LIVE COMMUNITY
 
