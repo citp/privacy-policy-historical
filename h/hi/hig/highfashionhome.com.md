@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205225241id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfashionhome.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231132926id_/http%3A//www.highfashionhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Contemporary Furniture, Accessories, and more at High Fashion Home : Privacy Policy
 
@@ -9,6 +9,8 @@ We will not knowingly collect information or correspond via email with persons u
 Our website may contain links to other websites. High Fashion Home does not control the privacy policies or practices of these websites. You should review those policies before providing any personal information.
 
 This site is hosted by Yahoo! Store. Yahoo! Store uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. Yahoo! automatically collects order information from this site but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
+
+VeriSign, Inc. is a technology company that specializes in data encryption and e-commerce. You can feel at ease shopping our website with one of the leading companies for certifying that a website is secure and encrypted.
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
@@ -24,4 +26,4 @@ Houston, TX 77006
   
 If our information practices change in the future, we'll post an updated policy on our website. 
 
-Last Updated: August 18, 2008
+Last Updated: August 9, 2011
