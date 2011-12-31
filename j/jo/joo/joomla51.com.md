@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528105112id_/http%3A//www.joomla51.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211341id_/http%3A//www.joomla51.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Joomla51 - Joomla Templates
+# Privacy Policy - Joomla Templates - New breed of Professional Template Design
 
 **What information do we collect?**  
 We collect information from you when you place an order or subscribe to our newsletter.  
