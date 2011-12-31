@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624000045id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231052845id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
 
 # Virb › Privacy
 
-## Privacy Policy
+### All things concerning our privacy policy
 
 Welcome to Virb.com ("Virb"), owned, produced and operated by Virb LLC ("Virb LLC"). Virb LLC is a (mt) Media Temple Venture company. Virb.com is a Website creation service that provides a platform to musicians, artists, and other content creators to build a website, post information regarding themselves as well as content owned and/or created by them. Unless explicitly stated otherwise, any current, updated and new products and services ("Products and Services"), including the addition of new properties shall be subject to these General Terms and Conditions of Use ("Terms and Conditions"), whether or not you register as a user. Please read this Privacy Policy carefully.
 
