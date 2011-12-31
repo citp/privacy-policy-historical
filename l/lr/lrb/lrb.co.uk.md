@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514041757id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213133id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
 
-# LRB · privacy
+# Privacy · LRB
 
 The _London Review of Books_ ( _LRB_ ) has created this statement to demonstrate our commitment to your privacy, to explain how we collect information and to explain how we use the information we collect about our web site users.
 
