@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625183430id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231221902id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,3 +9,7 @@ The Personally-Identifying information mentioned above may be used by **Thesuper
 **Thesupercars.org** may also share any of your Personally-Identifying Information with select companies or organizations for their own marketing and promotional use. While **Thesupercars.org** wishes to only share your Personally-Identifiable Information with such companies that follow the appropriate privacy policy procedures, it can bear no responsibility to what these said third parties will do with the information. If you wish that we not share your Personally-Identifying Information with third parties, you may "opt out" by emailing us with a request pertaining to such.
 
 You should be aware that any Personally-Identifying Information, such as your user name and email address, as well as any other information that you post on a bulletin board, commented on a blog post, or otherwise specifically and knowingly disclose by use of the forums, may be directly collected and used by third parties.
+
+**Google Adsense**
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
