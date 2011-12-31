@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526022749id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213910id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # First Choice | Our Policies | Privacy Policy
+
+[Go to Statement on Cookies > ](http://www.firstchoice.co.uk/our-policies/statement-on-cookies/index.html)
 
 TUI UK Limited’s Privacy Policy sets out what information we collect, how we collect it, and what we do with it. 
 
@@ -52,31 +54,21 @@ Outside the European Economic Area (EEA), note that controls on data protection 
   
 If our contact and dealing with you is via our website(s), we may use HTTP cookies. These cookies allow us to identify your computer but not you personally.
 
-  
 You can set your web browser to refuse cookies. However, you may not be able to enjoy all the facilities or book via our website if you do so.
 
-  
-We may use information we hold and cookies to identify your individual website behaviour, searches, preferences, facilitate your activities on our website(s) and provide you with services and offers. For example:-
-
-  
-* If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.  
+**We may use information we hold and cookies to identify your individual website behaviour, searches, preferences, facilitate your activities on our website(s) and provide you with services and offers. For example:-**  
+*If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another.  
 *We collect information relating to customer use, trends and patterns and use cookies and software tools to capture, measure and analyse site usage and related information.   
 *If you also receive our email marketing, we will tailor the information we send you unless you tell us not to. This will enable us to send you more personalised and relevant communications. You will be given the opportunity on every communication to opt-out of this personalisation.  
 *When you are on our website, we may interact with you and/or provide you with personalised information. We do this by using cookies to identify your individual website behaviour which allows us to provide you with more relevant personalised promotions.
 
-  
 When you are online but off our site, to help us deliver advertising effectively and avoid repeating adverts, we employ cookies. These cookies allow us to provide advertising off site which is more relevant to a user’s interests. The information that we collect and share is anonymous and not personally identifiable. It does not contain a user’s name, address, telephone number or email address.
 
-  
-Our website(s) may use a variety of HTTP cookies. To help you understand more about, control and/or delete cookies:
+Use of our website(s) is subject to our [Website Terms and Conditions](http://www.firstchoice.co.uk/our-policies/terms-of-use/) of use, which means you agree to our Statement on Cookies.
 
-  
-(1) Pinsent Masons law firm: [www.aboutcookies.org](http://www.aboutcookies.org/)  
-(2) Internet Advertising Bureau: [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk/)  
-(3) Adobe: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)  
-(4) Google Analytics: [http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+To find out more about the types of cookies we use and why we use them, please visit view our [Statement on Cookies ](http://www.firstchoice.co.uk/our-policies/statement-on-cookies/index.html)
 
-By using our website(s), you consent to our use of cookies as set out above.Our website(s) may contain links to other sites not controlled by us. It is your responsibility to check the status of these sites.
+By using our website(s), you consent to our use of cookies as set out above. Our website(s) may contain links to other sites not controlled by us. It is your responsibility to check the status of these sites. 
 
 **MONITORING**
 
@@ -102,3 +94,5 @@ Privacy Policy: v March 2011
 **-Caricom API Data:** Please note that some or all of the Caricom states listed below have entered into an agreement with the USA whereby advance passenger data, required by and provided to Caricom states for border security purposes, will be passed to the USA Department for Homeland Security for processing on behalf of those Caricom states listed as follows: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saint Lucia, St Kitts and Nevis, St Vincent and the Grenadines, Surinam, Trinidad and Tobago, Turks and Caicos Islands. Collectively members or associate members of ‘Caricom’. The UK Information Commissioner’s Office has accepted that this will not breach the Data Protection Act but that we are required to bring this to your attention. 
 
 - **US Secure flight Data:** The Transportation Security Administration (TSA) requires you to provide your full name, date of birth ,and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA Web site at [www.tsa.gov](http://www.tsa.gov/).
+
+[Go to Statement on Cookies >](http://www.firstchoice.co.uk/our-policies/statement-on-cookies/index.html)
