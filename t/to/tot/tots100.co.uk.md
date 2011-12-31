@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110064546id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231060338id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
 
-# Tots 100 » Privacy
+# Privacy | Tots 100
 
 **Privacy Policy**
 
