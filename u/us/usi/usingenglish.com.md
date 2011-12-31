@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303122821id_/http%3A//www.usingenglish.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204832id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
@@ -44,6 +44,6 @@ This site contains links to sites owned or operated by parties other than UsingE
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use our [contact us](https://web.archive.org/contact.php) form.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use our [contact us](https://web.archive.org/about/contact/) form.
 
 UsingEnglish.com reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. To ensure you are viewing the most current statement, select the _**refresh**_ option in your browser.
