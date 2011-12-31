@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605211837id_/http%3A//adfoc.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231155120id_/http%3A//adfoc.us/privacy.php) for the most accurate reproduction.*
 
 # AdFoc.us | Privacy Policy
 
-This statement was last updated March 22, 2011.
+_Last Modified: March 22, 2011_   These terms are subject to change.
 
 The term 'AdFoc.us' or 'us' or 'we' refers to the owner of the website 'AdFoc.us'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 8\. Contacting Us
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20110605211837id_/http%3A//adfoc.us/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20111231155120id_/http%3A//adfoc.us/contact.php). 
