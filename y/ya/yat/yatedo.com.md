@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629050532id_/http%3A//about.yatedo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatedo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204339id_/http%3A//about.yatedo.com/privacy) for the most accurate reproduction.*
 
 # Privacy « About
 
