@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the flipter.com privacy policy that was archived on 2011-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511102954id_/http%3A//flipter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flipter.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214159id_/http%3A//www.flipter.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en">
     
     
     <meta name="description" content="The simplest way to get answers that count!">
@@ -48,6 +49,7 @@
     
     <script type="text/javascript" src="http://flipter.com/media/js/flipter.js?v=2"></script>
     <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     
     
     
@@ -82,15 +84,15 @@
                     window.location=window.location.search.replace("?next=", "");
                 }
                 if(data["status"] == "facebookloginsuccess") {
-                    showDropDownError("Please wait...", 5);
+                    showFullForeverMessage("You are being signed in");
                     setTimeout("window.location='/facebook/?action=updateinfo'", 1000);
                 }
                 if(data["status"] == "facebookloginfirsttime") {
-                    showDropDownError("Please wait...", 5);
+                    showFullForeverMessage("You are being signed in");
                     setTimeout("window.location='/find/?first_time=true'", 1000);
                 }
                 if(data["status"] == "noflipteraccount") {
-                    showDropDownError("Please wait...", 5);
+                    showFullForeverMessage("You are being signed in");
                     setTimeout("window.location='/facebook/?action=autocreate'", 1000);
                     /*$("#facebooklink").fadeIn("fast");
                     $("#disableworld").fadeIn(200);
@@ -118,20 +120,16 @@
                     
                     
                     FB.login(function(response) {
-                        if(response.session) {
-                            if(response.perms) {
-                                // user logged in and granted perms
-                                do_server_fblogin(response);
-                            } else {
-                                // user is logged in, but did not grant any permissions
-                                showDropDownError(gettext("You need to allow the application to sign in via Facebook!"), 1);
-                            }
+                        if(response.authResponse) {
+                            // user logged in and granted perms
+                            do_server_fblogin(response);
                         } else {
                         }
-                    }, {perms:facebookperms});
+                    }, {scope:facebookperms});
                 }
             });
         } catch(err) {
+            console.log(err);
             return false;
         }
     };
@@ -144,13 +142,14 @@
         //if($(theitem).find(".t0")) {
         image = $(theitem).find(".ballot-container").find(".flip-image, .image-container");
         video = $(theitem).find(".ballot-container").find(".flip-video, .video-container .play-button");
-        ballots = $(theitem).find(".ballot-container").find(".ballot");
-    
+        ballots = $(theitem).find(".ballot-container").find(".ballot").not(".add-open-answer");
+        
         // parse ballots
         for(var i = 0; i < ballots.length; i++) {
+            var $b = $(ballots[i]);
             resultproperties[i] = {
-                "text": $(ballots[i]).find(".ballotlabel").text(),
-                "href": basefburl + "?fb_vid=" + $(ballots[i]).attr("href").split('/')[2]
+                "text": $b.find(".ballotlabel").text(),
+                "href": basefburl + "?fb_vid=" + $b.attr("href").split('/')[2]
             };
         }
         
@@ -182,9 +181,9 @@
         
         if($.cookie("fbloggedin") == 1) {
             if(newpost)
-                title = " just posted a Flip and would like to know&hellip;";
+                title = " just posted a poll and would like to know&hellip;";
             else
-                title = " wants to share a Flip&hellip;";
+                title = " wants to share a poll&hellip;";
             FB.ui({
                 method: 'stream.publish',
                 attachment: {
@@ -198,101 +197,105 @@
                         text: "See results!",
                         href: basefburl + "?fb_fid=" + $(theitem).find("h3").eq(0).find("a").attr("href").split('/')[2]
                 }],
-                user_message_prompt: "Tell your friends about your Flip!"
+                user_message_prompt: "Tell your friends about your poll!"
             });
         } else {
             if(newpost) {
-                showDropDownError("Your Flip has been added!", 0);
+                showDropDownError("Your poll has been added!", 0);
                 $(theitem).find(".action-link.share").click();
             }
         }
     }
     
     function publish_vote_to_facebook(theballotcontainer, ballot_casted, data) {
-        parentcontainer = $(theballotcontainer);
-        parentflipitem = $(theballotcontainer).parents(".flipitem");
+        var $parentcontainer = $(theballotcontainer);
+        var $parentflipitem = $(theballotcontainer).parents(".flipitem");
+        var $ballot_casted = $(ballot_casted);
         
         // canvas code for publishing vote stuffs
-        voted_count = data['votes'];
-        vote_option_count = 0;
-        vote_options = [];
-        resultmedia = "";
-        resultproperties = {};
+        var voted_count = data['votes'];
+        var vote_option_count = 0;
+        var vote_options = [];
+        var resultmedia = "";
+        var resultproperties = {};
+        var $theoptions = "";
+        var voted_for = "";
         
         if($(parentcontainer).hasClass('pushtype0')) {
-            theoptions = $(parentcontainer).find(".ballot");
-            voted_for = $(ballot_casted).find(".ballotlabel").text();
-            for(i = 0; i < theoptions.length; i++) {
-                vote_options[$(theoptions).eq(i).find(".ballotlabel").text()] = [$(theoptions).eq(i).attr("href").split('/')[2], $(theoptions).eq(i).find(".label span").text()];
+            $theoptions = $parentcontainer.find(".ballot");
+            voted_for = $ballot_casted.find(".ballotlabel").text();
+            var $fv = $parentflipitem.find(".flip-video");
+            var $fi = $parentflipitem.find(".flip-image");
+
+            for(i = 0; i < $theoptions.length; i++) {
+                vote_options[$theoptions.eq(i).find(".ballotlabel").text()] = [$theoptions.eq(i).attr("href").split('/')[2], $theoptions.eq(i).find(".ballotvotes").text()];
                 vote_option_count++;
             }
-            
-            if($(parentflipitem).find(".pushvideo").length > 0) {
+
+            if($fi.length > 0) {
+                resultmedia = [{
+                    'type': 'image',
+                    'href': basefburl + "?fb_fid=" + $parentflipitem.find("h3").eq(0).find("a").attr("href").split('/')[2],
+                    'src': $fi.find("img").attr("src")
+                }];
+            }
+            if($fv.length > 0) {
                 resultmedia = [{
                     'type': 'flash',
-                    'swfsrc': 'http://youtube.com/v/' + $(parentflipitem).find(".videothumb").attr("name") + '?autoplay=1',
-                    'imgsrc': 'http://img.youtube.com/vi/' + $(parentflipitem).find(".videothumb").attr("name") + '/0.jpg',
+                    'swfsrc': 'http://youtube.com/v/' + $fv.attr("name") + '?autoplay=1',
+                    'imgsrc': 'http://img.youtube.com/vi/' + $fv.attr("name") + '/0.jpg',
                     'width': '100',
                     'height': '80',
                     'expanded_width': '460',
                     'expanded_height': '259'
                 }];
             }
-            if($(parentflipitem).find(".pushimage").length > 0) {
-                resultmedia = [{
-                    'type': 'image',
-                    'href': basefburl + "?fb_fid=" + $(parentflipitem).find("h3").eq(0).find("a").attr("href").split('/')[2],
-                    'src': $(parentflipitem).find(".pushimage img").attr("src")
-                }];
-            }
-        } else if($(parentcontainer).hasClass('pushtype1')) {
-            theoptions = $(parentcontainer).find(".first, .second");
-            voted_for = $(ballot_casted).parents(".first, .second").find(".ballotlabel").text();
-            for(i = 0; i < theoptions.length; i++) {
-                vote_options[$(theoptions).eq(i).find(".ballotlabel").text()] = [$(theoptions).eq(i).find(".ballotlabel .ballot").attr("href").split('/')[2], $(theoptions).eq(i).find(".label span").text()];
+        } else if($parentcontainer.hasClass('pushtype1')) {
+            $theoptions = $parentcontainer.find(".ballot");
+            voted_for = $ballot_casted.find(".ballotlabel").text();
+            var $fv = $ballot_casted.find(".video-container");
+            var $fi = $ballot_casted.find(".image-container");
+
+            for(i = 0; i < $theoptions.length; i++) {
+                vote_options[$theoptions.eq(i).find(".ballotlabel").text()] = [$theoptions.eq(i).attr("href").split('/')[2], $theoptions.eq(i).find(".ballotvotes").text()];
                 vote_option_count++;
             }
-            
-            parentcasted = $(ballot_casted).parents(".first, .second");
             
             // too naive, needs to be overwritten if there is an actual video
-            if($(parentcasted).find(".voted_for img").length > 0) {
+            if($fi.length > 0) {
                 resultmedia = [{
                     'type': 'image',
-                    'href': basefburl + "?fb_fid=" + $(parentflipitem).find("h3").eq(0).find("a").attr("href").split('/')[2],
-                    'src': $(parentcasted).find(".voted_for img").attr("src")
+                    'href': basefburl + "?fb_fid=" + $parentflipitem.find("h3").eq(0).find("a").attr("href").split('/')[2],
+                    'src': $fi.find("img").attr("src")
                 }];
             }
-            if($(parentcasted).find(".voted_for .videothumb").length > 0) {
+            if($fv.length > 0) {
                 resultmedia = [{
                     'type': 'flash',
-                    'swfsrc': 'http://youtube.com/v/' + $(parentcasted).find(".voted_for .videothumb").attr("name") + '?autoplay=1',
-                    'imgsrc': 'http://img.youtube.com/vi/' + $(parentcasted).find(".voted_for .videothumb").attr("name") + '/0.jpg',
+                    'swfsrc': 'http://youtube.com/v/' + $fv.find(".play-button").attr("name") + '?autoplay=1',
+                    'imgsrc': 'http://img.youtube.com/vi/' + $fv.find(".play-button").attr("name") + '/0.jpg',
                     'width': '100',
                     'height': '80',
                     'expanded_width': '460',
                     'expanded_height': '259'
                 }];
             }
-        } else if($(parentcontainer).hasClass('pushtype2')) {
-            theoptions = $(parentcontainer).find(".ballotitem .ballottitle");
-            voted_for = $(ballot_casted).parents(".ballotitem").find(".ballotlabel").text();
+        } else if($parentcontainer.hasClass('pushtype2')) {
+            $theoptions = $parentcontainer.find(".individual-ballot").not(".add-open-answer-ballot");
+            voted_for = $(ballot_casted).find(".ballotlabel").text();
+            var $fv = $ballot_casted.find(".inner-video-container");
+            var $fi = $ballot_casted.find(".inner-image-container");
             
-            // cover edge case for some reason, ballot casted not actually the ballot clicked
-            if(voted_for == "") {
-                voted_for = $(ballot_casted).find(".ballotlabel").text();
-            }
-            for(i = 0; i < theoptions.length; i++) {
-                vote_options[$(theoptions).eq(i).find(".ballotlabel").text()] = [$(theoptions).eq(i).find(".ballot").attr("href").split('/')[2], $(theoptions).eq(i).find(".label span").text()];
+            for(i = 0; i < $theoptions.length; i++) {
+                vote_options[$theoptions.eq(i).find(".ballotlabel").text()] = [$theoptions.eq(i).find(".ballot").attr("href").split('/')[2], $theoptions.eq(i).find(".ballotvotes").text()];
                 vote_option_count++;
             }
             
-            // no need for video check yet
-            if($(ballot_casted).find(".ballot img")) {
+            if($fi.length > 0) {
                 resultmedia = [{
                     'type': 'image',
-                    'href': basefburl + "?fb_fid=" + $(parentflipitem).find("h3").eq(0).find("a").attr("href").split('/')[2],
-                    'src': $(parentcontainer).find(".voted_for .ballotimage .ballot img").attr("src")
+                    'href': basefburl + "?fb_fid=" + $parentflipitem.find("h3").eq(0).find("a").attr("href").split('/')[2],
+                    'src': $fi.find("img").attr("rel")
                 }];
             }
         }
@@ -312,7 +315,7 @@
             method: 'stream.publish',
             attachment: {
                 name: "  said " + voted_for,
-                caption: "on the Flip, <b>" + $(ballot_casted).parents(".pushitem").find("h3").eq(0).text() + "</b>",
+                caption: "on the poll, <b>" + $(ballot_casted).parents(".pushitem").find("h3").eq(0).text() + "</b>",
                 description: "What's your say?",
                 media: resultmedia,
                 properties: resultproperties
@@ -321,7 +324,7 @@
                     text: "Give your opinion!",
                     href: basefburl + "?fb_fid=" + $(flipheader).find("a").attr("href").split('/')[2]
             }],
-            user_message_prompt: 'Tell your friends about this Flip!'
+            user_message_prompt: 'Tell your friends about this poll!'
         });
     }
     
@@ -330,7 +333,7 @@
             { user_id: userid },
             function(data) {
                 data = JSON.parse(data);
-                return_html = '<div class="tipsy-userinfo"><div style="float: left; margin: 2px 10px 0 0;"><img class="avatar-regular" src="' + data.avatar + '" style="border-radius: 3px; -moz-border-radius: 3px;" /></div><p style="text-align: left; margin: 0 5px 5px; line-height: 1.9em;"><b>' + data.name + '</b> joined on <span class="infodata joined">' + data.joined + '</span>. Since then, they have posted <span class="infodata pushcount">' + data.push_count + '</span> Flips and voted <span class="infodata votecount">' + data.vote_count + '</span> times.</p><div style="clear: both;"></div></div>';
+                return_html = '<div class="tipsy-userinfo"><div style="float: left; margin: 2px 10px 0 0;"><img class="avatar-regular" src="' + data.avatar + '" style="border-radius: 3px; -moz-border-radius: 3px;" /></div><p style="text-align: left; margin: 0 5px 5px; line-height: 1.9em;"><b>' + data.name + '</b> joined on <span class="infodata joined">' + data.joined + '</span>. Since then, they have posted <span class="infodata pushcount">' + data.push_count + '</span> polls and voted <span class="infodata votecount">' + data.vote_count + '</span> times.</p><div style="clear: both;"></div></div>';
                 //$(sender).tipsy({trigger: 'manual', title: function() { return return_html; }, delayOut: 1000, html: true, gravity: 'n'});
                 $(sender).attr('original-title', return_html);
                 $(sender).tipsy("show");
@@ -413,7 +416,7 @@
             oldvalue = $.cookie("facebookcanvas");
             $.cookie("facebookcanvas", 1, {path: "/"});
             if(oldvalue != $.cookie("facebookcanvas")) {
-                showDropDownError("Please wait...", 5);
+                showFullForeverMessage("You are being signed in");
                 setTimeout('window.location.reload()', 500);
                 return false;
             }
@@ -503,7 +506,7 @@
                     $(theform).find("input").attr("disabled", "");
                     data = JSON.parse(data);
                     if(data.status) {
-                        showDropDownError("The Flip has been sent successfully!", 0);
+                        showDropDownError("The poll has been sent successfully!", 0);
                         $("#sharedialog .close").click();
                     }
                     else {
@@ -523,125 +526,13 @@
             return false;
         });
         
-        // ballot voting javascript
-        $('a.ballot').live('click', function(e){
-            var $self = $(this),
-                $request_login_dialog = $('.request-sign-in-dialog', $self.closest('.pushitem')[0]);
-            
-            // disable voting on flash videos
-            try {
-                if($(e.srcElement)[0].nodeName == "OBJECT")
-                    return false;
-            } catch(err) {}
-            
-            ballot_casted = $(this);
-            
-            
+        
+        $(".cloud .follow").die().live("click", function(e) {
             loadForm("guest_blocker");
-            $(".unauthenticated-dialog").remove();
-            return false;
-            //showBlockError('<a href="/login?next=/privacy/" class="loginmodallink">Sign in</a> to vote! <a href="/accounts/register">Sign up</a> or sign in with <a href="#" class="facebookconnect fb">Facebook</a>.', 1, $(ballot_casted).parents('.ballot-container'));
-            //return false;
-            
-            
-            if($(ballot_casted).parents(".flipitem").hasClass("expired"))
-                return false;
-            
-            $(ballot_casted).addClass('voted_for');
-            
-            // do ajax post if request dialog doesn't exist
-            if (!$request_login_dialog.length) {
-                $.ajax({
-                    url: $(this).attr('href'),
-                    cache: false,
-                    dataType: "json",
-                    contentType: "application/javascript; charset=utf8",
-                    success: function(data, status, request) {
-                        if(data['status'] == 1) {
-                            if(data['message'] == "pastexpiry")
-                                showDropDownError("You cannot vote on this flip anymore. It is past it's expiry date.", 1);
-                            else if(data['message'] == "deleted")
-                                showDropDownError("You cannot vote on this flip anymore. It was deleted.", 1);
-                            else
-                                showDropDownError(data['message'], 1);
-                                
-                            $(ballot_casted).removeClass('voted_for');
-                            
-                            return false;
-                        }
-                        
-                        $('.ballotvotes_' + data['ballot']).html(data['votes']);
-                        
-                        if($(ballot_casted).parents(".opposing-comment").length > 0) {
-                            parentcontainer = $(ballot_casted).parents(".flipitem").find('.ballotcontainer, .ballot-container');
-                            $(parentcontainer).find('.ballot').removeClass('voted_for');
-                            $("#b" + $(ballot_casted).attr("name")).addClass("voted_for");
-                            
-                            all_common = $(ballot_casted).parents(".flip-comment-block").find(".ballot[name=" + $(ballot_casted).attr("name") + "]");
-                            $(all_common).parents(".flip-comment").removeClass("opposing-comment");
-                            $(all_common).hide();
-                        } else {
-                            parentcontainer = $(ballot_casted).parents('.ballotcontainer, .ballot-container');
-                            $(parentcontainer).find('.ballot').removeClass('voted_for');
-                        }
-                        
-                        if($(parentcontainer).hasClass('pushtype0')) {
-                            $(ballot_casted).addClass("voted_for");
-                        } else if($(parentcontainer).hasClass('pushtype1')) {
-                            $(ballot_casted).parents('.first, .second').find('.ballot').addClass('voted_for');
-                        } else if($(parentcontainer).hasClass('pushtype2')) {
-                            $(parentcontainer).find('.ballotitem').removeClass('voted_for');
-                            $(ballot_casted).parents('.ballotitem').addClass('voted_for');
-                        } else {
-                            $(ballot_casted).addClass('voted_for');
-                        }
-                        
-                        message = $self.closest('.pushitem').find('.message-after-vote').html();
-                        code = 0;
-                        
-                        message = "Your opinion has been counted!";
-                        
-                        // decrement users previous ballot if needed
-                        if (data['old_ballot_id']) {
-                            $('.ballotvotes_' + data['old_ballot_id']).html(data['old_ballot_votes']);
-                            if(data['old_ballot_id'] && data['already_voted']) {
-                                message = "Your vote was changed!";
-                            }
-                        } else {
-                            if(data['already_voted']) {
-                                message = "This is already your current vote, so the vote wasn't changed.";
-                                code = 2;
-                            }
-                        }
-                        
-                        
-                        
-                        try {
-                            showBlockTempMessage(message, code, $(ballot_casted).parents('.ballot-container'));
-                        } catch(err) {
-                            showBlockTempMessage(message, code, $(ballot_casted).parents('.flip-comment'));
-                        }
-                        
-                        try {
-                            setTimeout('try {drawOverviewCharts($(this));} catch(err) {}', 1200);
-                        } catch(err) {};
-                        
-                        evaluateVersusResults();
-                        applyStarVoted();
-                    },
-                    error: function(request, status, code) {
-                        //showDropDownError("Something bad happened&hellip; Please try again!", 1);
-                        //console.log("Ajax vote error.\n\t Status: " + status + "\n\tCode: " + code);
-                    }
-                });
-                return false;
-            } else {
-                // Show request-sign-in-dialog
-                $request_login_dialog.css({ display: 'block' });
-            }
             return false;
         });
         
+
         // apply comments (for new type)
         $(".hidden-comments").hide();
         $(".show-hidden-comments").live("click", function(e) {
@@ -746,14 +637,44 @@
             });
             return false;
         });
-    
+
+        // hook ajax to share button
+        $(".action-link.share-broadcast").unbind("click").live("click", function(e) {
+            
+            showBlockError('<a href="/login?next=/privacy/" class="loginmodallink">Sign in</a> to share with Flipter users! <a href="/accounts/register">Sign up</a> or sign in with <a href="#" class="facebookconnect fb">Facebook</a>.', 1, this);
+            return false;
+            
+            var $thisobject = $(this);
+            var url = $thisobject.attr("href");
+            postdata = ({'flip_id': $thisobject.attr("rel")});
+            $.ajax({
+                url: url,
+                cache: false,
+                datatype: "json",
+                type: "POST",
+                data: postdata,
+                contentType: "application/javascript; charset=utf8",
+                success: function(data, status, request) {
+                    data = JSON.parse(data);
+                    if(data.status) {
+                    } else {
+                        $thisobject.remove();
+                    }
+                },
+                error: function(request, status, code) {
+                    //console.log("Ajax error.\n\t Status: " + status + "\n\tCode: " + code);
+                }
+            });
+            return false;
+        });
+
         // hook ajax to follow button
-        $(".action-link.follow").unbind("click").click(function(e) {
+        $(".action-link.follow").unbind("click").live("click", function(e) {
             thisobject = $(this);
             postdata = ({'object_id': $(this).attr("href").split("/")[2]});
             
             
-            showBlockError('<a href="/login?next=/privacy/" class="loginmodallink">Sign in</a> to follow Flips! <a href="/accounts/register">Sign up</a> or sign in with <a href="#" class="facebookconnect fb">Facebook</a>.', 1, this);
+            showBlockError('<a href="/login?next=/privacy/" class="loginmodallink">Sign in</a> to follow polls! <a href="/accounts/register">Sign up</a> or sign in with <a href="#" class="facebookconnect fb">Facebook</a>.', 1, this);
             return false;
             
             
@@ -885,7 +806,7 @@
 
         // show an error message for no flips
         if($("#categories .flipitem").length == 0) {
-            $("#categories").append("<br /><p class='error'>There are no flips to display.</p>");
+            $("#categories").append("<br /><p class='error'>There are no polls to display.</p>");
         }
         
         // show missing image instead of ugly one
@@ -955,39 +876,6 @@
         }
         
         
-        
-            // style navigation bar
-            $("#navigation li a:first").css({
-                'border-left': '1px solid #c2c2c2',
-                '-moz-border-radius-topleft': '3px',
-                '-moz-border-radius-bottomleft': '3px',
-                'border-top-left-radius': '3px',
-                'border-bottom-left-radius': '3px',
-                'padding-left': '15px'
-            });
-            
-            $("#navigation li a:last").css({
-                '-moz-border-radius-topright': '3px',
-                '-moz-border-radius-bottomright': '3px',
-                'border-top-right-radius': '3px',
-                'border-bottom-right-radius': '3px',
-                'border-right': '1px solid #c2c2c2',
-                'padding-right': '15px'
-            });
-            
-            $("#navigation li a").mousedown(function(e) {
-                $(this).addClass("navigationclick");
-            });
-            
-            $("#navigation li a").mouseup(function(e) {
-                $(this).removeClass("navigationclick");
-            });
-            
-            $("#navigation li a").mouseout(function(e) {
-                $(this).removeClass("navigationclick");
-            });
-        
-        
         applyFlips();
     });
     
@@ -1031,7 +919,7 @@
                 <a id="logo" href="/new/"></a>
                 <span class="searchbar">
                     <form class="fancyform" name="search" action="/search/" method="get">
-                        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="61e4fff663295338523be82cc63f9d20"></div>
+                        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="6b748f7f454ef9163fdb31224386765d"></div>
                         
                         <input class="search" type="text" name="q" placeholder="Search " autocomplete="off" style="width: 130px; margin-top: 2px;">
                     </form>
@@ -1058,10 +946,10 @@
                             </a>
                             <ul class="top-menu">
                                 <li>
-                                    <form class="fancyform" method="post" action="/login/?next=/privacy/"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="61e4fff663295338523be82cc63f9d20"></div>
+                                    <form class="fancyform" method="post" action="/login/?next=/privacy/"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="6b748f7f454ef9163fdb31224386765d"></div>
                                         <input class="id_username field" type="text" name="username" placeholder="Username" maxlength="30">
-                                        <input class="id_password field" type="password" name="password" placeholder="Password">
-                                        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="61e4fff663295338523be82cc63f9d20"></div>
+                                        <input class="id_password field" type="password" name="password">
+                                        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="6b748f7f454ef9163fdb31224386765d"></div>
                                         <input class="submitbutton subtle" type="submit" value="Go!">
                                         <div style="margin: 10px 0 0; color: #444;">
                                             
@@ -1134,22 +1022,13 @@
 </div>
 <div id="footer">
     <div class="inner">
-        <form action="/setlang/" method="post" class="lang-changer"><div style="display:none;"><input type="hidden" name="csrfmiddlewaretoken" value="61e4fff663295338523be82cc63f9d20"></div>
-            <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="61e4fff663295338523be82cc63f9d20"></div>
-            <select name="language" style="width: 80px; margin: -2px 0 0 12px;">
-                
-                <option value="en" selected="selected">English</option>
-                
-                <option value="es">Spanish</option>
-                
-            </select>
-            <input class="submitbutton" type="submit" value="Translate">
-        </form>
+        
     
         <div style="float: right;">
-    <strong style="color: #ff6600;">Follow us on: </strong>
+<strong style="color: #ff6600;">Follow us on: </strong>
     <a href="http://twitter.com/flipter_com"><span class="button-icon fb"></span></a>
-    <a href="http://www.facebook.com/#!/pages/Flipter/113814715319937?ref=ts"><span class="button-icon twitter"></span></a>
+   <a href="http://www.facebook.com/#!/pages/Flipter/113814715319937?ref=ts"><span class="button-icon twitter"></span></a>
+    <g:plusone size="small" count="true" href="http://flipter.com/"></g:plusone>
 </div>
 <a href="http://flipter.com">Home</a> - 
 <a href="http://flipter.com/about">About</a> - 
@@ -1157,13 +1036,25 @@
 <a href="http://blog.flipter.com">Blog</a> - 
 <a href="http://flipter.com/help">Help</a> -
 <a href="http://flipter.com/privacy">Privacy</a> -
-<a href="http://blog.flipter.com/index.php?option=com_contact&amp;view=category&amp;catid=12&amp;Itemid=55">Contact</a> <br>
+<a href="/contact/">Contact</a> <br>
 <strong style="color: #ff6600;">©2011 Flipter</strong>
 
     
-    <p style="color: #808080; font-size: xx-small; text-align: center;">
-    The views, opinions and positions expressed on this site are responsability of their authors and those providing comments are theirs alone, and do not necessarily reflect the views, opinions, positions or strategies of Flipter.com.
-    </p>
+        <div style="width: 250px; position: absolute; left: 50%; margin-left: -125px; margin-top: -33px; text-align: center;">
+        
+            
+            <a href="http://flipter.com/privacy/?reset_language=1" style="margin: 0 5px; border-bottom: 1px dotted #aaa;">English</a>
+            
+        
+            
+            <a href="http://es.flipter.com/privacy/" style="margin: 0 5px; border-bottom: 1px dotted #aaa;">Spanish</a>
+            
+        
+        </div>
+
+        <p style="color: #808080; font-size: xx-small; text-align: center;">
+        The views, opinions and positions expressed on this site are responsability of their authors and those providing comments are theirs alone, and do not necessarily reflect the views, opinions, positions or strategies of Flipter.com.
+        </p>
     </div>
 </div>
 <div id="fb-root"></div>
