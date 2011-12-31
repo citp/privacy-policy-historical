@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ongreen.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319061244id_/http%3A//www.ongreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongreen.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225056id_/http%3A//www.ongreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnGreen
-
-<!--[if gte mso 9]> <![endif]--><!--[if gte mso 9]> Normal 0 false false false <![endif]--><!--[if gte mso 9]> <![endif]--><!--[if !mso]>
-
-<! st1\:*{behavior:url(#ieooui) } --> <!--[endif]--> <!--[if gte mso 10]> <! /* Style Definitions */ table.MsoNormalTable {mso-style-name:"Table Normal"; mso-tstyle-rowband-size:0; mso-tstyle-colband-size:0; mso-style-noshow:yes; mso-style-parent:""; mso-padding-alt:0in 5.4pt 0in 5.4pt; mso-para-margin:0in; mso-para-margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:10.0pt; font-family:"Times New Roman"; mso-ansi-language:#0400; mso-fareast-language:#0400; mso-bidi-language:#0400;} --> <!--[endif]-->
 
 **PRIVACY POLICY**
 
@@ -60,7 +56,7 @@ Effective Date: October 19th, 2009 – V1.01 
 
 **I. Notice**
 
-The “Website” refers to the website at [www.ongreen.com](https://web.archive.org/web/20110319061244id_/http%3A/), its subdomains, and related domains. The Website is owned or operated by Clean Green Guy, Inc. and/or its subsidiary companies in the United States of America (collectively the "Company"). This privacy policy ("Privacy Policy") applies to information that you provide to Company or is collected about you via the Website and/or by your use of services (collectively, the "Services") that may be provided by the Website or by the Company via some other means, including as set forth below and as defined in the applicable Terms and Conditions or other terms.
+The “Website” refers to the website at [www.ongreen.com](https://web.archive.org/web/20111231225056id_/http%3A/), its subdomains, and related domains. The Website is owned or operated by Clean Green Guy, Inc. and/or its subsidiary companies in the United States of America (collectively the "Company"). This privacy policy ("Privacy Policy") applies to information that you provide to Company or is collected about you via the Website and/or by your use of services (collectively, the "Services") that may be provided by the Website or by the Company via some other means, including as set forth below and as defined in the applicable Terms and Conditions or other terms.
 
 This Privacy Policy is intended to provide you notice of the Company's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any Company Service or Website constitutes acceptance of this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the Terms and Conditions for the Website.
 
@@ -116,9 +112,7 @@ The Website's pages or e-mail messages may contain cookies, web beacons (also kn
 
 The Company’s web pages may include advertisements for third parties and their products, and those third-party advertisements may include a cookie or web beacon served by the third party.  The Company does not control cookies in such third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The Company's Privacy Policy does not cover the use of information collected from you by third party ad servers. These companies may use information about your visits to this Website in order to provide advertisements on the Website and other websites about goods and services that may be of interest to you.  
 
-A web beacon is a small graphic image that allows the party that set the web beacon to monitor and collect certain information about the viewer of the web page, web-based document, or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to, and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. The Company may use web beacons to count visitors to the web pages on the Website or to monitor how our users navigate the Website, and the Company may include web beacons in e-mail messages in order to count how many messages sent were actually opened, acted upon or forwarded.   
-<!--[if !supportLineBreakNewLine]-->  
-<!--[endif]-->
+A web beacon is a small graphic image that allows the party that set the web beacon to monitor and collect certain information about the viewer of the web page, web-based document, or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to, and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. The Company may use web beacons to count visitors to the web pages on the Website or to monitor how our users navigate the Website, and the Company may include web beacons in e-mail messages in order to count how many messages sent were actually opened, acted upon or forwarded. 
 
 **XI. Not Intended for Persons Under 18**
 
