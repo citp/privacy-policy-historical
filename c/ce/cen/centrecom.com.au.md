@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426182744id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211013id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
 
-# CentreCom - Cheap Notebooks & Computers
+# Centre Com - Cheap Laptops & Computers
 
 Privacy Notice
 
