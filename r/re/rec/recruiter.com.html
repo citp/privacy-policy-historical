@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recruiter.com privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510085210id_/http%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recruiter.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231102132id_/http%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -12,7 +12,69 @@
 <link rel="stylesheet" type="text/css" href="http://www.recruiter.com/css/recruiter.css">
 <link rel="stylesheet" type="text/css" href="http://www.recruiter.com/css/menu.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.recruiter.com/js/jquery-1.4.2.js">
+</script>
+<script type="text/javascript"> 
+$(document).ready(function(){
+
+	$("ul.subnavjobseekerspop").parent().append("<span></span>"); 
+	
+	$("ul.mytopnav li span").hover(function() { 
+		
+		
+		$(this).parent().find("ul.subnavjobseekerspop").slideDown('fast').show(); 
+
+		$(this).parent().hover(function() {
+		}, function(){	
+			$(this).parent().find("ul.subnavjobseekerspop").slideUp('slow'); 
+		});
+
+		
+		}).hover(function() { 
+			$(this).addClass("subhover"); 
+		}, function(){	
+			$(this).removeClass("subhover"); 
+	});
+	
+	$("ul.subnavrecruiterspop").parent().append("<span></span>"); 
+	
+	$("ul.mytopnav li span").hover(function() { 
+		
+		
+		$(this).parent().find("ul.subnavrecruiterspop").slideDown('fast').show(); 
+
+		$(this).parent().hover(function() {
+		}, function(){	
+			$(this).parent().find("ul.subnavrecruiterspop").slideUp('slow'); 
+		});
+
+		
+		}).hover(function() { 
+			$(this).addClass("subhover"); 
+		}, function(){	
+			$(this).removeClass("subhover"); 
+	});
+
+	$("li#subdropdowncareercenter").append("<span></span>"); 
+	$("li#subdropdowncareercenter").hover(function() { 
+		$("li#subdropdowncareercenter ul.subdropdown").slideDown('fast').show(); 
+
+		$("li#subdropdowncareercenter").hover(function() {
+		}, function(){	
+			$("li#subdropdowncareercenter ul.subdropdown").slideUp('slow'); 
+		});
+
+		
+		}).hover(function() { 
+			$("li#subdropdowncareercenter span").addClass("subhover"); 
+		}, function(){	
+			$("li#subdropdowncareercenter span").removeClass("subhover");
+	});
+
+});
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-5510177760327993");
@@ -23,6 +85,12 @@ GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_Banner_468x60"
 GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_Footer_300x250_1");
 GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_Footer_300x250_2");
 GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_Footer_300x250_3");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_1");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_2");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_3");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_4");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_5");
+GA_googleAddSlot("ca-pub-5510177760327993", "Recruiter_AboutPages_TextLink_280x80_6");
 </script>
 <script type="text/javascript">
 GA_googleFetchAds();
@@ -48,80 +116,65 @@ GA_googleFetchAds();
 
 <center>
 
-<div id="main">
-	<div id="xg_head">
-		<div id="xg_masthead">
-                <div id="xg_sitename">
-					<a href="http://www.recruiter.com/"><img src="http://www.recruiter.com/img/recruiter.png" alt="Recruiter Recruiters Recruiting Recruitment" border="0" hspace="0" vspace="0" width="357px" height="45px" style="margin:0px; padding:0px;"></a>
-				</div>
-				<div id="bannerad">
-						<!-- Recruiter_AboutPages_Banner_468x60 -->
-						<script type="text/javascript">
-						GA_googleFillSlot("Recruiter_AboutPages_Banner_468x60");
-						</script>
-				</div>
-        </div>
-		
-		 
-         <div id="xg_navigation" style="border-bottom:1px solid #666666; margin-left:-10px;">
+<div id="xg_head" style="width:100%; background:#ffffff;">
+	<div id="xg_masthead" style="width:1000px !important;">
+			<div id="xg_sitename">
+				<a href="http://www.recruiter.com/"><img src="http://www.recruiter.com/img/recruiter.png" alt="Recruiter Recruiters Recruiting Recruitment" border="0" hspace="0" vspace="0" width="357px" height="45px" style="margin:0px; padding:0px;"></a>
+			</div>
+			<div id="bannerad" style="margin-right:30px;">
+					<!-- Recruiter_AboutPages_Banner_468x60 -->
+					<script type="text/javascript">
+					GA_googleFillSlot("Recruiter_AboutPages_Banner_468x60");
+					</script>
+			</div>
+	</div>
+</div>
 
-                <ul id="leftmenu" class="menu">
-                     <li id="xg_tab_recruiters" style="background-image:none; border:0px; margin-left:10px;">
-							<a href="http://www.recruiter.com/recruiters.html"><img src="http://www.recruiter.com/img/recruiters-tab.jpg" border="0" alt="Recruiters" title="The Global Platform for Recruiters" hspace="0" vspace="0" style=""></a>
-								<ul class="recruiters">
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/activity.html">LATEST ACTIVITY</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/forum/">FORUM</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/articles/">ARTICLES</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/recruiting-news/">NEWS</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/recruitertoday/">RECRUITER TODAY</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://research.recruiter.com">WHITE PAPERS</a>
-									 </li>
-									 <li class="submenu submenulast"><a class="menu" href="http://www.recruiter.com/glossary/">GLOSSARY</a>
-									 </li>
-								</ul>
-								
+<div style="width:100%; height:33px; text-align:center; background: url('http://www.recruiter.com/img/menu/mytopnav_bg.gif') repeat-x; ">
+	<div style="width:1000px; background: url('http://www.recruiter.com/img/menu/mytopnav_bg.gif') repeat-x; height:33px; margin:auto;">
+		<ul class="mytopnav">
+			<li id="menurecruiters" style="padding-left:5px; width:110px;">
+				<a href="http://www.recruiter.com/recruiters.html" style="text-transform:uppercase">Recruiters</a>
+				<ul class="subnavrecruiterspop">
+					<li><a href="http://www.recruiter.com/activity.html" style="width:92px;">Latest Activity</a></li>
+					<li><a href="http://www.recruiter.com/forum/" style="width:54px;">Forum</a></li>
+					<li><a href="http://www.recruiter.com/articles/" style="width:58px;">Articles</a></li>
+					<li><a href="http://www.recruiter.com/recruiting-news/" style="width:49px;">News</a></li>
+					<li><a href="http://www.recruiter.com/recruitertoday/" style="width:102px;">Recruiter Today</a></li>
+					<li><a href="http://research.recruiter.com/" style="width:86px;">Whitepapers</a></li>
+					<li><a href="http://www.recruiter.com/glossary/" style="width:68px;">Glossary</a></li>
+					<li style="margin-right:0px; display: block; font:Arial; font-size: 12px; float:right; width:362px; border-right:none; text-align:right;">
 					</li>
 				</ul>
-				<ul id="leftmenu" class="menu">
-					<li id="xg_tab_jobs" style="background-image:none; border:0px;">
-							<a href="http://www.recruiter.com/career.html"><img src="http://www.recruiter.com/img/jobseekers-tab.jpg" border="0" alt="Career" title="Career Advice. Career Opportunities" hspace="0" vspace="0" style=""></a>
-								<ul class="jobs" style="margin-left:-130px;">
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/jobs.html">JOBS</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/career-development/">ASK AN EXPERT</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/findarecruiter.html">FIND A RECRUITER</a>
-									 </li>
-									 <li class="submenu"><a class="menu" href="http://www.recruiter.com/career-advice/">CAREER ADVICE</a>
-									 </li>
-									 <li class="submenu submenulast"><a class="menu" href="http://www.recruiter.com/careerweek/">CAREER WEEK</a>
-									 </li>
-								</ul>
+			</li>
+			<li id="menujobseekers" style="width:120px;">
+				<a href="http://www.recruiter.com/career.html" style="text-transform:uppercase">Job Seekers</a>
+				<ul class="subnavjobseekerspop">
+					<li><a href="http://www.recruiter.com/jobs.html" style="width:46px;">Jobs</a></li>
+					<li id="subdropdowncareercenter">
+						<a href="http://www.recruiter.com/careers.html" style="width:100px;">Career Center</a>
+						<ul class="subdropdown">
+							<li><a href="http://www.recruiter.com/careers.html">List of Careers</a></li>
+							<li><a href="http://www.recruiter.com/careers/search.html">Career Search</a></li>
+							<li><a href="http://www.recruiter.com/careers/green-careers.html">Green Careers</a></li>
+							<li><a href="http://www.recruiter.com/careers/salary-comparison.html">Salary Comparison</a></li>
+						</ul>
 					</li>
+					<li><a href="http://www.recruiter.com/career-development/" style="width:94px;">Career Forum</a></li>
+					<li><a href="http://www.recruiter.com/findarecruiter.html" style="width:104px;">Find a Recruiter</a></li>
+					<li><a href="http://www.recruiter.com/career-advice/" style="width:96px;">Career Advice</a></li>
+					<li><a href="http://www.recruiter.com/careerweek/" style="width:90px;">Career Week</a></li>
 				</ul>
-				
-				<ul id="rightmenu">
-                     <li id="xg_tab_home" class="xg_subtab">
-							<a href="http://www.recruiter.com/"><span>Home</span></a>
-					</li>
-                   <li id="xg_tab_blog" class="xg_subtab">
-							<a href="http://www.recruiter.com/blog"><span>Blog</span></a>
-					</li>
-                    <li id="xg_tab_about" class="xg_subtab">
-							<a href="http://www.recruiter.com/about.html"><span>About</span></a>
-					</li>
-
-				</ul>
-        </div>
-
-    </div>
+			</li>
+			<li id="menuabout" style="float:right; padding-right:0px;"><a href="http://www.recruiter.com/about.html" style="text-transform:uppercase">About</a></li>
+			<li id="menublog" style="float:right;"><a href="http://www.recruiter.com/blog/" style="text-transform:uppercase">Blog</a></li>
+			<li id="menuhome" style="float:right;"><a href="http://www.recruiter.com/" style="text-transform:uppercase">Home</a></li>
+		</ul>
+	</div>
+</div>
                 
-	<div id="xg_body" style="margin-top:30px;">
+<div id="main" style="margin-top:0px;">               
+	<div id="xg_body" style="padding-top:60px; margin-top:0px;">
 
     	<div class="xg_span-20" style="min-height:200px;">
 			<div style="text-align:left; float:left; width:600px;  font-family:Arial !important; font-size:13px !important; font-weight:normal; color:#000000; display:block; clear:none;">
@@ -332,22 +385,25 @@ Forestville, CT 06011<br>
 						<div style="display:block; clear:both;"></div>
 		
 				
-						<span style="font-size:14px; font-weight:bold; color:#666666;">SPONSORED LINKS</span>
+						
+
 						<div style="display:block; clear:both; height:20px;"></div>
 						
-						<div style="border:1px solid#dddddd; display:block; clear:both; padding:20px; height:100px;">
-								<div style="width:290px; display:block; clear:none; float:left; height:100px; font-size:12px; font-family:Arial; text-align:left;">
-										<a href="https://recruit.theladders.com/passport/free-signup?pl=rece-ros&amp;cr=txt" target="_blank" style="color:#003366; font-weight:bold;">TheLadders is Now Free</a><br>
-										Sign up today with TheLadders Passport and<br>
-										access pre-screened professional talent for free<br>
-										<a href="https://recruit.theladders.com/passport/free-signup" target="_blank" style="color:#336633;">Recruit.TheLadder.com/Passport</a>
+						<table cellpadding="0" cellspacing="0" align="center" style="border:1px solid#dddddd; display:block; clear:both; padding:20px; ">
+						<tbody><tr align="left" valign="top">
+						<td align="left" valign="top">
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
+										<!-- Recruiter_AboutPages_TextLink_280x80_1 -->
+										<script type="text/javascript">
+										GA_googleFillSlot("Recruiter_AboutPages_TextLink_280x80_1");
+										</script>
 								</div>
 
 								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
-								<div style="display:block; caption-side:none; float:left; width:20px; height:100px; border-left:1px solid #cccccc;"></div>
+								<div style="display:block; caption-side:none; float:left; width:20px;"></div>
 								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
 
-								<div style="width:290px; display:block; clear:none; float:left; height:100px; font-size:12px; font-family:Arial; text-align:left;">
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
 										<a href="http://www.icims.com/prelude/1001/4997" target="_blank" style="color:#003366; font-weight:bold;">Applicant Tracking Software</a><br>
 										Innovative Candidate Management Solutions<br>
 										Power Your Sourcing, CRM, and Recruitment<br>
@@ -355,16 +411,50 @@ Forestville, CT 06011<br>
 								</div>
 
 								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
-								<div style="display:block; caption-side:none; float:left; width:20px; height:100px; border-left:1px solid #cccccc;"></div>
+								<div style="display:block; caption-side:none; float:left; width:20px;"></div>
 								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
 
-								<div style="width:290px; display:block; clear:none; float:left; height:100px; font-size:12px; font-family:Arial; text-align:left;">
-										<a href="http://recruiter.com/contact.html" target="_blank" style="color:#003366; font-weight:bold;">Be a Thought Leader</a><br>
-										Write HR/Recruiting articles regularly?<br>
-										Contribute to our publication and get a by-line.<br>
-										<a href="http://recruiter.com/contact.html" target="_blank" style="color:#336633;">www.recruiter.com</a>
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
+										<!-- Recruiter_AboutPages_TextLink_280x80_3 -->
+										<script type="text/javascript">
+										GA_googleFillSlot("Recruiter_AboutPages_TextLink_280x80_3");
+										</script>
 								</div>
-						</div>
+								
+								<!-- New row -->
+								<div style="display:block; clear:both; height:20px;"></div>
+								
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
+										<!-- Recruiter_AboutPages_TextLink_280x80_4 -->
+										<script type="text/javascript">
+										GA_googleFillSlot("Recruiter_AboutPages_TextLink_280x80_4");
+										</script>
+								</div>
+
+								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
+								<div style="display:block; caption-side:none; float:left; width:20px;"></div>
+								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
+
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
+										<!-- Recruiter_AboutPages_TextLink_280x80_5 -->
+										<script type="text/javascript">
+										GA_googleFillSlot("Recruiter_AboutPages_TextLink_280x80_5");
+										</script>
+								</div>
+
+								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
+								<div style="display:block; caption-side:none; float:left; width:20px;"></div>
+								<div style="display:block; caption-side:none; float:left; width:15px;"></div>
+
+								<div style="width:290px; display:block; clear:none; float:left; font-size:12px; font-family:Arial; text-align:left;">
+										<!-- Recruiter_AboutPages_TextLink_280x80_6 -->
+										<script type="text/javascript">
+										GA_googleFillSlot("Recruiter_AboutPages_TextLink_280x80_6");
+										</script>
+								</div>	
+						</td>
+						</tr>							
+						</tbody></table>
 
 				
 				</div>
@@ -425,10 +515,6 @@ Forestville, CT 06011<br>
 					<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="right"></script>
 					<div style="display:block; clear:both; height:10px;"></div>
 					<iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
-					<div style="display:block; clear:both; height:10px;"></div>
-					<script src="http://www.stumbleupon.com/hostedbadge.php?s=1"></script>
-					<div style="display:block; clear:both; height:10px;"></div>
-					<a href="http://recruitercom.ourtoolbar.com/"><img src="http://recruiter.com/img/toolbarbuttonlong.jpg" border="0" width="155" height="18" alt="Recruiter.com Toolbar"></a>
 				</div>
 				<div style="display:block; clear:both; height:10px;"></div>
 				<div id="footercopyrightcontainer">
@@ -445,7 +531,8 @@ Forestville, CT 06011<br>
 	</div>
 	
 </div>
-	
+
+
 	
 
 </center>
