@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230053231id_/http%3A//www.serverpoint.com/en/policies/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverpoint.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205621id_/http%3A//www.serverpoint.com/en/policies/privacy.phtml) for the most accurate reproduction.*
 
-# Privacy Policy - Server Point
+# Privacy Policy
 
 For ServerPoint your privacy is very important. All of our employee's sign strict non-disclosure agreements. This makes them liable for any unauthorized information disclosure about the company's business or its customers. As in any business we gather important information about our customers. We believe that you as our customer have the right to know how this information is used.
 
