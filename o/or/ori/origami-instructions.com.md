@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the origami-instructions.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607114724id_/http%3A//www.origami-instructions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origami-instructions.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211313id_/http%3A//www.origami-instructions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Origami-Instructions.com Privacy Policy
 
