@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102193753id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegottickets.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112505id_/http%3A//www.wegottickets.com/ppl) for the most accurate reproduction.*
 
 # WeGotTickets - Your Online Box Office - Our privacy policy
 
-Internet Tickets Ltd of Unit 13 King's Meadow, Ferry Hinksey Road, Oxford, OX2 0DP UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
+Internet Tickets Ltd of Unit 13 Kings Meadow, Ferry Hinksey Road, Oxford, OX2 0DP UK and its group companies including WeGotTickets Ltd and SU Tickets Ltd ("We" "Us" or "Our") take your privacy seriously. This Privacy Policy explains the steps We take to ensure information about you is kept secure and confidential.
 
 **Please read this Privacy Policy carefully. Once you use this Website ("this Website") or Our services available via it you will be deemed to have read and consented to the uses of your personal data set out in this Privacy Policy. You will also be deemed to have read and accepted this Privacy Policy and the Website Terms and Conditions of use ([terms and conditions](http://www.wegottickets.com/tandc)).
 
