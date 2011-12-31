@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the uqr.me privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502191944id_/http%3A//uqr.me/qr/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uqr.me privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231233345id_/http%3A//uqr.me/qr/en/privacy) for the most accurate reproduction.*
 
 # uQR.me | Privacy
-
-## uQR.me Privacy Policy
 
 This Privacy Policy describes uQR.me’s policies and procedures on the collection, use and disclosure of your information. UQR.me receives your information through our various web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by UQR.me in Argentina or any other country in the world.
 
