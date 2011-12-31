@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519214224id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft112.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112522id_/http%3A//www.soft112.com/policy.html) for the most accurate reproduction.*
 
 # SOFT112 Privacy Policy
 
