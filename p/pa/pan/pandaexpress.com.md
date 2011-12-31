@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandaexpress.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607015411id_/http%3A//www.pandaexpress.com/shared/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandaexpress.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204227id_/http%3A//www.pandaexpress.com/shared/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Panda Express: Chinese Food, Wok-Cooked and Served Fast
 
@@ -30,6 +30,6 @@ We love having your children visit our websites with you, and hope our websites 
 We may at some point make changes to this privacy policy. We will only use information as specified under whatever privacy policy was posted at the time of collection. If we would like to use information differently, we will send an e-mail asking your permission and only use the information if you give us consent. 
 
 **Contact Us**  
-If you wish to change or delete your registration information or opt-out of any promotional materials please contact us at "[Contact Us](https://web.archive.org/web/20080607015411id_/http%3A//www.pandaexpress.com/contact/contactus.aspx)" at www.pandaexpress.com. To update your information concerning your Panda Card please contact us at www.mypandacard.com. 
+If you wish to change or delete your registration information or opt-out of any promotional materials please contact us at "[Contact Us](https://web.archive.org/web/20111231204227id_/http%3A//www.pandaexpress.com/contact/contactus.aspx)" at www.pandaexpress.com. To update your information concerning your Panda Card please contact us at www.mypandacard.com.
 
 _
