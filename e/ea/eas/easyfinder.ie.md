@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfinder.ie privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625084907id_/http%3A//easyfinder.ie/en/index/article/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfinder.ie privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231095306id_/http%3A//easyfinder.ie/en/index/article/content/privacy) for the most accurate reproduction.*
 
 # Privacy
 
