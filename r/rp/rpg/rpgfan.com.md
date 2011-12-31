@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623121125id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224953id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Legal Info and Privacy Policy
 
@@ -7,12 +7,12 @@
 | Legal Info  
 ---  
   
-All games, game titles, characters, music, pictures, and related media contained within this online publication are copyright and trademarks of their respective companies and are used with permission. Reproduction of works published on [http://www.rpgfan.com](http://www.rpgfan.com/) in whole or in part without written permission by the publisher is strictly prohibited. All section titles, characters, and related indicia contained within this publication are copyright and trademarks of RPGFan, All Rights Reserved. All HTML, JavaScript, graphics and logo are property of RPGFan unless otherwise noted. RPGFan is a subdivison of Cerberus Media Group Inc., a Florida corporation.  
+All games, game titles, characters, music, pictures, and related media contained within this online publication are copyright and trademarks of their respective companies and are used with permission. Reproduction of works published on [http://www.rpgfan.com](http://www.rpgfan.com/) in whole or in part without written permission by the publisher is strictly prohibited. All section titles, characters, and related indicia contained within this publication are copyright and trademarks of RPGFan, All Rights Reserved. All HTML, JavaScript, graphics and logo are property of RPGFan unless otherwise noted. RPGFan is a owned by RPGFan, LLC, a Wisconsin Limited Liability Company.  
   
 Privacy Policy  
 ---  
   
-By using this site, you agree to the Privacy Policy of RPGFan. If you do not agree to the Policy, please do not use this site. RPGFan reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please e-mail us at [webmaster@rpgfan.com](mailto:webmaster@rpgfan.com).
+By using this site, you agree to the Privacy Policy of RPGFan. If you do not agree to the Policy, please do not use this site. RPGFan reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please e-mail us via [our staff page](https://web.archive.org/staff.html).
 
 RPGFan, which operates the Internet site located at www.rpgfan.com, recognizes the importance of protecting the privacy of personally identifiable information collected about visitors to our sites. As a general policy, no personally identifiable information, such as your name, address or email address, is automatically collected from visitors to our sites. Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. We may collect certain non-personal information to optimize our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites.
 
@@ -36,7 +36,7 @@ RPGFan may use personally identifiable information in aggregate form to make our
 
 If at any time after submitting your personal information to our sites you would no longer like to receive information from us, simply follow the "unsubscribe" directions at the end of any email communication you receive. 
 
-RPGFan does not knowingly collect personally identifiable information from children under the age of 18. 
+RPGFan abides by COPPA and does not knowingly collect personally identifiable information from children under the age of 13. 
 
 Personal information may be disclosed in special situations where RPGFan has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with RPGFan's rights, property, users, or anyone else who could be harmed by such activities. Also, RPGFan may reveal information when we believe in good faith that the law requires it. 
 
