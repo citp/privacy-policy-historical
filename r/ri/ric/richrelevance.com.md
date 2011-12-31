@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612190046id_/http%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richrelevance.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211604id_/http%3A//www.richrelevance.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RichRelevance
 
 ## RichRelevance Privacy Policy
 
-_Your privacy is very important to us.   This Privacy Policy explains how we collect, use and disclose your information through our recommendation, personalization and advertising retargeting services (“Services”) and through our corporate website located at ____www.richrelevance.com_ _. If you have any questions, please do not hesitate to contact us at_ _. To opt out of our behavioral advertising product,_[ _click here._](https://web.archive.org/web/20110612190046id_/http%3A//www.richrelevance.com/opt-out)
+_Your privacy is very important to us.   This Privacy Policy explains how we collect, use and disclose your information through our recommendation, personalization and advertising retargeting services (“Services”) and through our corporate website located at ____www.richrelevance.com_ _. If you have any questions, please do not hesitate to contact us at_ _. To opt out of our behavioral advertising product,_[ _click here._](https://web.archive.org/web/20111231211604id_/http%3A//www.richrelevance.com/opt-out)
 
 **Except as explicitly set forth herein, RichRelevance, Inc. (“RichRelevance”, “We”, “Us” OR “Our”) does not collect your Personal Information through our Services. In limited instances, certain of our Customers provide us with their consumer end users’ email addresses so that we can personalize their email communications to you; however, we make no use of such email addresses other than as instructed by such Customers. Furthermore, none of the Non-Personally Identifiable Information we do collect, individually or grouped together, can be traced back to you.** We do allow you to provide certain non-financial personal information on our website so that we may respond to inquiries you make.
 
@@ -36,9 +36,11 @@ Most Web browsers are set up to accept cookies. If you prefer not to receive coo
 
 #### Advertising Opt Out
 
-You may also opt out of our use of your NPII to determine what advertisements to show you on Publishers’ websites by clicking on the button below. Opting out will prevent us from providing you personalized advertisements based on your preferences. If you choose to opt-out by clicking on this button you will receive what is referred to as a “persistent cookie” that tells us not to recognize your browser. We must maintain the cookie on your browser in order to recognize you as having opted-out. You must opt-out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
+You may also opt out of our use of your NPII to determine what advertisements to show you on Publishers’ websites by clicking on the button below. Opting out will prevent us from providing you personalized advertisements based on your preferences. However, we will continue to collect your NPII as described above in “Information Collection and Use.” If you choose to opt-out by clicking on this button you will receive what is referred to as a “persistent cookie” that tells us not to recognize your browser. We must maintain the cookie on your browser in order to recognize you as having opted-out. You must opt-out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
 
 In our Customer agreements, we use commercially reasonable efforts to require that Customers, as data controllers (in the EU context), add statements or clauses to their privacy policies specifically describing their use of NPII for behavioral advertising. Further, we use commercially reasonable efforts to require that each Customer provide its end user consumers with information regarding the ability to opt-out of such use of the NPII as we have provided herein. RichRelevance is a member of the Network Advertising Initiative. You can learn more about the Network Advertising Initiative, as well as opt-out of our behavioral advertising product by [clicking here.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+RichRelevance also adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising <http://www.aboutads.info/>.
 
 #### Disclosure of Aggregated Information
 
@@ -107,4 +109,4 @@ If you wish to access your Personal Information, please send an email to . We wi
 
 Children under 13 are not eligible to use the Website and so this privacy policy makes no provision for children’s use of the Website.
 
-### **Effective Date:   June 3, 2011 **
+### **Effective Date:   august 16, 2011 **
