@@ -1,40 +1,59 @@
-<!--The following is the downloaded HTML source of the mautofied.com privacy policy that was archived on 2011-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430113747id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mautofied.com privacy policy that was archived on 2011-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231213250id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 					
-<title>Privacy Policy </title>
-<meta name="description" content="Privacy Policy ">
-<meta name="keywords" content="Privacy Policy ">		
+<title>Mautofied.com Privacy Policy </title>
+<meta name="description" content="View Mautofied.com Privacy Policy  Page for Privacy Policy  info">
+<meta name="keywords" content="Mautofied,Privacy Policy ">		
 <meta http-equiv="content-language" content="en-us">    
     <meta name="google-site-verification" content="ar5f9Bp-P_AKc2KwhNpwY9HSkXItaRWth4VMqPkQez0">
     <meta name="verify-v1" content="OXj1rUtL89CHVs/cNfiiYfk1yZKb77FG7VHXBHvMrqM=">
     <meta name="y_key" content="b64095a7b87e1560">	
     <link rel="SHORTCUT ICON" href="http://www.mautofied.com/images/theme_YSB/mfdicon.ico">
-	<link href="http://www.mautofied.com/css/mautofied_ss.css" type="text/css" rel="stylesheet">
-	<link href="http://www.mautofied.com/css/toptabmenu.css" type="text/css" rel="stylesheet">
-    <script type="text/javascript" src="http://www.mautofied.com/inc/jquery/js/jquery-1.4.2.min.js"></script>
-    <script type="text/javascript" src="http://www.mautofied.com/inc/inc_functions.js"></script>
-    <script type="text/javascript" src="http://www.mautofied.com/ajax/ajax_functions.js"></script><!--// ajax advertisement loader-->	
-    <script>
-            <!--
-            
-            function load_ajaxContent(bl_HideFooter){
-                //alert(bl_HideFooter);
-                // load global ad zones in ajax after page is loaded to reduce load times
-                
-                
-                //run vehicle marketplace ajax if available
-                if(typeof loadAjax_VM=='function'){
-                    loadAjax_VM();			
-                }
-                
-                
-                //load_ajaxAd();		
-            }
-            //-->
-        
-	</script>
+	<link type="text/css" rel="stylesheet" href="http://www.mautofied.com/css/mfd-global.min.css">
+    <!--[if IE]><link type="text/css" rel="stylesheet" href="http://www.mautofied.com/css/ie_exceptions.css"><![endif]-->    
+    <script type="text/javascript">var siteURL = 'http://www.mautofied.com/';</script>
+    <script type="text/javascript" src="http://www.mautofied.com/js/mfd-global.min.js"></script>
+    
+    <script type="text/javascript">
+		<!--
+		
+		function load_ajaxContent(bl_HideFooter){				
+			//run vehicle marketplace ajax if available
+			if(typeof loadAjax_VM=='function'){
+				loadAjax_VM();		
+				alert("call loadAjax_VM()");	
+			}			
+		}
+		
+		$(document).ready(function(){
+			//$('a[title]').qtip({ style: { name: 'cream', tip: true } })
+		   // By suppling no content attribute, the library uses each elements title attribute by default
+		   
+		   $('#acct_closed a[href][title]').qtip({
+			  content: {
+				 text: false // Use each elements title attribute
+			  },
+			  style: {
+				 my: 'bottom right',
+				 at: 'top left'
+				 /*
+				 name: 'dark',
+				 corner: 'bottomRight'
+				 */
+			  }
+				  
+		   });
+		   
+		   // NOTE: You can even omit all options and simply replace the regular title tooltips like so:
+		   // $('#content a[href]').qtip();
+		});
+		//-->
+	</script>    
+    
+	
+    
 	
     <noscript>
 		
@@ -64,10 +83,49 @@
 <script type="text/javascript">
 	GA_googleFetchAds();
 </script>
-    
-</head>
-<body onload="javascript:load_ajaxContent();">
+	</head><body id="body_container"><a id="box-logo-link" href="http://www.mautofied.com/"></a>
+	<a id="box-link-top" href="http://www.facebook.com/pages/Mautofiedcom/125027024191045"></a>
+	<a id="box-link-left" href="http://www.facebook.com/pages/Mautofiedcom/125027024191045"></a>
+	<a id="box-link-right" href="http://www.facebook.com/pages/Mautofiedcom/125027024191045"></a>
+	<style type="text/css">		
+	#box-link-top {position: absolute;top: 0px; left: 0px; height:170px; color:transparent; width: 100%; background-color: transparent; border: 0px dotted gold; z-index:4;}			
+	#box-link-left {position: absolute;top: 172px;left: 0px;width: 0px; color:transparent;height: 1000px;background-color: transparent;border: 0px dotted orangered;}	
+	#box-link-right {position: absolute;top: 172px;left: 0px;width: 0px; color:transparent;height: 1000px;background-color: transparent;border: 0px dotted orangered;}			
+	#box-logo-link {position: absolute;top: 104px;width: 300px;height: 53px; color:transparent;background-color: transparent;border: solid orangered 0px;z-index:5;}			
+	#topLeaderboard {position:relative;z-index:10;border:none;width:740px;height:94px;}	
+	</style>
+	<script type="text/javascript">
+		
+		$(document).ready(function() { setClickableAreas()});		
+		window.onresize = function (){ setClickableAreas()};
+				
+		function setClickableAreas(){
+			
+			Width = window.innerWidth || document.body.offsetWidth;
+			Width			= Width-21;
+			//$("#bgi-debug").append("Width=" + Width + "<br>");
+			
+			var boxWidth 	= (Width-902)/2;
+			var boxLeft 	= Width-(boxWidth);
+			
+			// set top box height
+			//$("#box-link-top").css("height",);			
+			// Set top widths
+			$("#box-link-top").css("width",Width).hide();
+			$("#box-logo-link").css("left",boxWidth-14);
+			// Set Left widths
+			$("#box-link-left").css("width",boxWidth);			
+			// Set Right Box Width
+			$("#box-link-right").css("left",boxLeft);
+			$("#box-link-right").css("width",boxWidth);			
+		}
+	</script>
+	
+ 
+
+<!--<BODY onLoad="javascript:load_ajaxContent();">-->
 <a name="top"></a>
+
 <div style="height:165px;" align="center">	
 	<div id="topLeaderboard">
 	    	
@@ -87,11 +145,10 @@
 					<li><a href="http://www.mautofied.com/" class="m1 selected"><b></b><em>HOME</em></a></li>
 					<li><a href="http://www.mautofied.com/placead/" class="m2"><b></b><em>SELL</em></a></li>
 					<li><a href="http://www.mautofied.com/browse/" class="m3"><b></b><em>BROWSE</em></a></li>
-					<li><a href="http://www.mautofied.com/search/" class="m4"><b></b><em>SEARCH</em></a></li>
-					<!--<li><a href="http://www.mautofied.com/dealers/" class="m5"><b></b><em>DEALERS</em></a></li>-->
-					<li><a href="http://www.mautofied.com/newlistings/" class="m6"><b></b><em>NEW ADS</em></a></li>
-					<!--<li><a href="http://www.mautofied.com/events/" class="m7"><b></b><em>EVENTS</em></a></li>-->
-					<li><a href="http://community.mautofied.com" class="m8"><b></b><em>COMMUNITY</em></a></li>					
+					<li><a href="http://www.mautofied.com/search/" class="m4"><b></b><em>SEARCH</em></a></li>					
+					<li><a href="http://www.mautofied.com/newlistings/" class="m6"><b></b><em>NEW ADS</em></a></li>					
+					<li><a href="http://www.mautofied.com/productcart/pc/home.asp" class="m7"><b></b><em>STORE</em></a></li>
+                    <li><a href="http://community.mautofied.com" class="m8"><b></b><em>COMMUNITY</em></a></li>
 			   </ul>				
 			</td>
 			<td valign="bottom" align="right">
@@ -219,7 +276,6 @@
 </tr>
 </tbody></table>
 <!--FOOTER COPYRIGHT-->
-
 <table id="Div_Footer_Links" cellpadding="5" cellspacing="0" border="0" width="100%">
 	<tbody><tr>			
 		<td valign="top" width="20%">
@@ -239,7 +295,7 @@
 			</tbody></table>	
 		</td>
 		<td valign="top" width="20%">
-			&nbsp;Mautofied.com<br>
+			&nbsp;Site Links<br>
 			<table class="footerMenuItem">
 				<tbody><tr>
 					<td valign="top">
@@ -251,7 +307,7 @@
 						<a href="http://community.mautofied.com/">Community</a><br>
                         <a href="http://www.mautofied.com/events/">Events &amp; Coverage</a><br>
                         <a href="http://www.mautofied.com/site_map.html">Site Map</a><br>
-						<a href="http://autoparts.mautofied.com/">Shop Auto Parts</a><br>
+						<a href="http://autoparts.mautofied.com/" rel="nofollow">Shop Parts</a><br>
 					</td>
 				</tr>
 			</tbody></table>
@@ -276,9 +332,9 @@
 				<tbody><tr>
 					<td valign="top">																		
                         <a href="http://www.mautofied.com/directory">Link Directory</a><br>
-                        <a href="http://www.aemintakes.com/ads/ad.aspx?id=4461" target="_blank">AEM Cold Air Intakes</a><br>
+                        <a href="http://www.aemintakes.com/ads/ad.aspx?id=4461" rel="nofollow" target="_blank">AEM Cold Air Intakes</a><br>
                         <!--
-                        <a href="http://www.airbagit.com" target="_blank">Airbagit.com</a><br>
+                        <a href="http://www.airbagit.com" target="_blank">Airbagit.com</a><br />
                         -->
 					</td>
 				</tr>
@@ -300,17 +356,17 @@
 	<table width="100%" height="6" border="0" cellpadding="0" cellspacing="0" id="Table1">
 		<tbody><tr>
 			<td id="bottom_site_left">&nbsp;</td>
-			<td id="bottom_site_title" valign="middle">
-				
+			<td id="bottom_site_title" valign="middle">				
                 <table width="100%">
                 <tbody><tr><td style="color:#999999">
-				&nbsp;Copyright © 2002 - 2011 Mautofied, Inc. all rights reserved.
-                &nbsp;<i>Part of the BNQT Media Group</i>
+				&nbsp;Copyright © 2002 - 2011 <a href="http://www.mautofied.com">Mautofied, Inc.</a> all rights reserved.
+                &nbsp;|&nbsp;<a href="http://www.mautofied.com" title="auto classifieds">Auto Classifieds</a>
+                &nbsp;|&nbsp;<i>Part of the BNQT Media Group</i>
 				&nbsp;|&nbsp;
 				<a href="http://www.mautofied.com/info/Visitor_Agreement.html"><u>Terms of Service</u></a>
                	</td>
                 <td align="right" style="color:#777">
-					load time 0.02
+					load time 0.00
                 </td>
                 </tr></tbody></table>
 			</td>
@@ -319,9 +375,7 @@
 	</tbody></table>
     
 </div>
-<div align="center" style="height:30px;"></div>
-	<!--// DEBUG CODE -->		
-	
+<div align="center" style="height:30px;"></div>	
   <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -333,12 +387,10 @@
 	} catch(err) {}</script>
    		
   	<!-- start Vibrant Media IntelliTXT script section -->
-	<!--<script type="text/javascript" src="http://mautofied.us.intellitxt.com/intellitxt/front.asp?ipid=21141"></script>-->
+	<!--<script type="text/javascript" src="http://mfied.us.intellitxt.com/intellitxt/front.asp?ipid=21141"></script>-->
     <!-- end Vibrant Media IntelliTXT script section -->	
-  	 
   
-  
-   <!-- Start Quantcast tag -->
+   <!-- Start Quantcast tag -->   
 	<script type="text/javascript">
     _qoptions={
     qacct:"p-e9xGGC0SN2aqk"
