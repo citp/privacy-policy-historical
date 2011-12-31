@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spring.gov.sg privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624235914id_/http%3A//www.spring.gov.sg/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spring.gov.sg privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215734id_/http%3A//www.spring.gov.sg/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
 # SPRING - Government of Singapore Privacy Statement
 
