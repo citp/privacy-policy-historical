@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228204732id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211350id_/http%3A//yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
 # YO! RAPS MAGAZINE | HIPHOP & R&B 24/7 - ANYTIME, ANYWHERE | WWW.YORAPS.COM
 
