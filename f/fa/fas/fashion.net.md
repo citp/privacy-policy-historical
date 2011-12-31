@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425065022id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215557id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.*
 
-# fashion net | feedback
+# fashion net | pr
 
-[](http://www.pntrac.com/t/4-33684-52760-17652) [an error occurred while processing this directive] 
+[](http://www.fashion.net/a/links/clicks/parsons.cgi)
+
+  
+
 
 Internet user privacy is of paramount importance to Fashion Net. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Fashion Net's commitment to protect the privacy of users and to ensure the integrity of the Internet. 
 
