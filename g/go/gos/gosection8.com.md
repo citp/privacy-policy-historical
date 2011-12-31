@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603090639id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosection8.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215515id_/http%3A//www.gosection8.com/Main/privacy_policy.aspx) for the most accurate reproduction.*
 
 # GoSection8.com - Section 8 Rental Housing & Apartments Listing Service for Landlords & Tenants
 
-**Our Privacy Policy**
+## Privacy Policy
 
 This website (“Website”) is operated by Affordable Housing Network, LLC (“AHN” or the “Company”).  This privacy policy governs only the collection of information at the Website, and does not govern the collection of information through other means. Because our business will continue to evolve, we reserve the right to change this Privacy Policy from time to time.  Upon any change, we will post the revised policy here, and change the Effective Date noted above.  You are encouraged to check this page periodically so that you are aware of any changed.  If we do make changes, we may send to you, and you agree to receive (unless you have opted-out), an email notifying you about the changes.
 
