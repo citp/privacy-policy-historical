@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orgjunkie.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228210719id_/http%3A//orgjunkie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgjunkie.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212858id_/http%3A//orgjunkie.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : I'm an Organizing Junkie
 
 The privacy of my visitors to orgjunkie.com is important to me.
 
