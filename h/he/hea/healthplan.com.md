@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629151047id_/http%3A//healthplan.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231185928id_/http%3A//healthplan.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,7 @@ Although we perform payment and healthcare operations activities, which require 
 
 
 
-**EMAIL  PRIVACY STATEMENT: **We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. This policy was created on August 1, 2007.
+**EMAIL  PRIVACY STATEMENT: **We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
   * How we protect your privacy. We use security measures to protect against the loss, misuse and alteration of data used by our system.
   * Sharing and Usage. We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
