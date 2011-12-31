@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawconfessions.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401014146id_/http%3A//www.rawconfessions.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawconfessions.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220439id_/http%3A//www.rawconfessions.com/common/privacy) for the most accurate reproduction.*
 
 # RawConfessions.com - Confess Online or Browse Unedited Confessions!
 
@@ -11,7 +11,7 @@ This privacy policy is intended to inform you about the types of information gat
 
 Raw Confessions is intended to provide our users with a forum to anonymously make public certain information they might otherwise keep private. Your safety and anonymity is as important to us as it is to you. We do our best to ensure all posts to Raw Confessions are and will remain anonymous and respectful of the privacy of others – indeed, our Terms of Service prohibit the posting of any information that included personally-indentifying information of any individual. 
 
-However, it is possible for users to include information in a post that is specific enough to identify either the author or the subject of the post. We reserve the right to review, remove, or revise all posts to Raw Confessions, including any post that we believe may risk indentifying the author or any third party. If you have any concerns about the content of any post you may have made or viewed on Raw Confessions, please contact us at _[Contact](https://web.archive.org/web/20110401014146id_/http%3A//www.rawconfessions.com/common/contact "Contact")_. 
+However, it is possible for users to include information in a post that is specific enough to identify either the author or the subject of the post. We reserve the right to review, remove, or revise all posts to Raw Confessions, including any post that we believe may risk indentifying the author or any third party. If you have any concerns about the content of any post you may have made or viewed on Raw Confessions, please contact us at _[Contact](https://web.archive.org/web/20111231220439id_/http%3A//www.rawconfessions.com/common/contact "Contact")_. 
 
   
 
@@ -50,7 +50,7 @@ Use of Raw Confessions and creation of Raw Confessions accounts are expressly li
 
 ## Notifications & Opt-Out
 
-If you choose to register with Raw Confessions, we will send you a welcome email including information about Raw Confessions and your account. Unless you elect otherwise, we may periodically send you emails notifying you about new or upcoming Raw Confessions features, information about changing or updating your registration, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, marketing partners, advertisers and other third parties.Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by clicking [here](https://web.archive.org/web/20110401014146id_/http%3A//www.rawconfessions.com/common/contact "Contact") or following the opt-out procedures included in each email. 
+If you choose to register with Raw Confessions, we will send you a welcome email including information about Raw Confessions and your account. Unless you elect otherwise, we may periodically send you emails notifying you about new or upcoming Raw Confessions features, information about changing or updating your registration, changes to our Terms of Service and Privacy Policy, and promotional materials and offers from our company as well as from our subsidiaries, marketing partners, advertisers and other third parties.Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by clicking [here](https://web.archive.org/web/20111231220439id_/http%3A//www.rawconfessions.com/common/contact "Contact") or following the opt-out procedures included in each email. 
 
   
 
@@ -89,6 +89,6 @@ We may periodically update this policy, and will post a notice of such updates o
 
 ## Contact Us
 
-If you have any questions or concerns about this policy or Raw Confessions, please click [here](https://web.archive.org/web/20110401014146id_/http%3A//www.rawconfessions.com/common/contact "Contact") to contact us. 
+If you have any questions or concerns about this policy or Raw Confessions, please click [here](https://web.archive.org/web/20111231220439id_/http%3A//www.rawconfessions.com/common/contact "Contact") to contact us. 
 
 Effective Date: February 14, 2011
