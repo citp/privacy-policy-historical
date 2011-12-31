@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303061737id_/http%3A//www.saharareporters.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213618id_/http%3A//saharareporters.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sahara Reporters
-
-Posted: July 25, 2010 - 14:05
 
 **Overview**   
 SaharaReporters.com (“SaharaReporters.com”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. This policy describes the types of information collected, how it may and may not be used, and how it is protected. By visiting SaharaReporters.com’s website ("Website"), or using any of our services on the website ("Website Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy and our use of your information in accordance with this Privacy Policy.
@@ -30,11 +28,3 @@ You agree that SaharaReporters.com may amend this policy from time to time by po
 
 **How to contact us if you believe your privacy has been violated**  
 If you suspect that your privacy has been violated or that SaharaReporters.com has not abided by the terms set forth in this policy, contact SaharaReporters.com by emailing customerservice@SaharaReporters.com
-
-  * [](http://www.addthis.com/bookmark.php)
-
-
-
-## Support Us
-
-**Help support the work of Sahara Reporters by making a donation through PayPal**
