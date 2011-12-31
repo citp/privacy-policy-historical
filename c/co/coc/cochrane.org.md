@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611000707id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213259id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal data | The Cochrane Collaboration
 
