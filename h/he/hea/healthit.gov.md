@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthit.gov privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628214906id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthit.gov privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231120825id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS - HHS Privacy Notice
 
