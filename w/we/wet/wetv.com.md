@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615064440id_/http%3A//www.wetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetv.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112354id_/http%3A//www.wetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – WE tv
+
+
+
 
 Privacy Policy
 
