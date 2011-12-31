@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberwebsearch.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502075817id_/http%3A//www.cyberwebsearch.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberwebsearch.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210653id_/http%3A//www.cyberwebsearch.com/policy.html) for the most accurate reproduction.*
 
 # Private Policy - Cyber Web Search
 
