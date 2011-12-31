@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510013404id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214207id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
-Violinist.com accepts articles and comments from Internet users who register with the site. If you choose to register with the site, you will be asked to submit some personal information, including your name, place of residence and e-mail address. Violinist.com collects this information in order to verify the identity of individuals submitting information to the site.
+Violinist.com accepts articles and comments from Internet users who register with the site. If you choose to register with the site, you will be asked to submit some personal information, including your name and e-mail address. Violinist.com collects this information in order to verify the identity of individuals submitting information to the site.
 
 In addition, when you submit a comment or article to the site, Violinist.com will collect and record the IP address of the machine through which you accessed the Internet when you submitted the comment. (An IP address is a unique number assigned to each computer hooked up to the Internet. It is not your e-mail address. In fact, if you are connecting through a dial-up account, the IP address recorded will be that of a computer at your Internet Service Provider, and not your personal computer. Nevertheless, be aware that your ISP may track user logins, and thereby be able to identify you based on an IP number and time of day, if asked.)
 
@@ -18,41 +18,54 @@ Information collected by Violinist.com becomes the property of Violinist.com, an
 
 ## Support Violinist.com
 
-[](http://www.facebook.com/pages/Violinistcom/100897636577)[](http://twitter.com/violinist)[](http://feeds.feedburner.com/violinistcom)[](http://visitor.constantcontact.com/d.jsp?m=1101878620137&p=oi)
+[](https://www.facebook.com/violincommunity)[](http://twitter.com/violinist)[](https://plus.google.com/106795084692641209355)[](http://visitor.constantcontact.com/d.jsp?m=1101878620137&p=oi)
 
 ## Search Violinist.com
 
-## [Interviews](http://www.violinist.com/interviews/)
-
-[**Nadja Salerno-Sonnenberg**](http://www.violinist.com/blog/laurie/20114/12266/) talks about her career path with the violin and what it's like to be music director of New Century Chamber Orchestra, after so many years as a soloist.
-
-[**Nicola Benedetti**](http://www.violinist.com/blog/laurie/20113/12192/) talks about her new recordings of the Bruch and Tchaikovsky Concertos.
-
-[**Lisa Batiashvili**](http://www.violinist.com/blog/laurie/20113/12176/) talks about the Shostakovich Violin Concerto and the composer's influence on Soviet musicians.
-
-[More interviews...](http://www.violinist.com/interviews/)
-
-## [Editor's Blogs](http://www.violinist.com/blog/laurie/)
+## [News and Interviews](http://www.violinist.com/interviews/)
 
 [ **Laurie Niles**](http://www.violinist.com/blog/laurie/)  
-Violinist.com's editor is a professional symphony violinist and former newspaper reporter who interviews top violin performers and pedagogues, as well as reports on her experience in violin music and education.
+Violinist.com's editor writes about all things violin in her blog, which includes a weekly news update.
+
+[ **Simon Fischer**](http://www.violinist.com/blog/laurie/201112/12945/) talks about his new exercise book, "Warming Up," for strengthening the hands and improving their abilities.
+
+[ **Katia Popov**](http://www.violinist.com/blog/laurie/201112/12942/) talks about what makes Hollywood special and about why she loves playing music for the movies.
+
+[ **Mikhail Simonyan**](http://www.violinist.com/blog/laurie/201111/12890/) talks with Laurie about his recording of the Khachaturian and Barber concertos.
+
+More [Violinist.com Interviews](http://www.violinist.com/interviews/) with Philippe Quint, Nadja Salerno-Sonnenberg, Joshua Bell, and others.
 
 Plus: [The Weekend Vote](http://www.violinist.com/blog/weekendvote/)
 
 ## [Sponsors](http://www.violinist.com/advertising/)
 
-Violinist.com thanks its May sponsors. We hope you will return the favor by considering them first when making a violin- or music-related purchase.
+The following sponsors have provided financial support to the Violinist.com community, making the publication of this website possible. We hope that you will consider these sponsors first whenever you are making decisions about music-related purchases or investments.
 
-[\- Shar Music](http://goo.gl/K8uPE)  
-[\- Bazzini String Instruments](http://goo.gl/82rYE)  
-[\- 'Master Your Stage Fright' by Bohdan Warchal](http://goo.gl/6f0dx)  
-[\- Southwest Strings](http://goo.gl/VjjIm)  
-[\- Hans Pluhar](http://goo.gl/qAEWs)  
+[\- Kennedy Violins](http://goo.gl/feKcc)  
+[\- Shar Music](http://goo.gl/PABAZ)  
+[\- Corilon Violins](http://goo.gl/PXDMS)  
+[\- Stradpet Violin Neckguard](http://goo.gl/HbTbq)  
+[\- Magic Rosin](http://goo.gl/JkHUa)  
+[\- Southwest Strings](http://goo.gl/nSt8n)  
+[\- Baroque Bling](http://goo.gl/uUd6T)  
+[\- Meadowmount School of Music](http://goo.gl/PgM6J)  
+[\- Second International Violin Competition Buenos Aires](http://goo.gl/FtltI)  
+[\- Virtual Sheet Music](http://goo.gl/V0TSf)  
+[\- Warchal](http://goo.gl/So7mn)  
 [\- Snow Violin](http://goo.gl/TuPPP)  
-[\- StringMall.com](http://goo.gl/Kyoqy)  
-[\- Metronome Plus for iOS](http://goo.gl/RkyER)  
-[\- Concert Fashion New York](http://goo.gl/f0CRy)  
-[\- Charles L. Johnson Violin](http://goo.gl/4Lanz)  
-
+[\- Charles L. Johnston](http://goo.gl/j8Yth)  
+[\- A. Cavallo Violins](http://goo.gl/k0Psk)  
+[\- Carriage House Violins](http://goo.gl/GpxcL)  
+[\- Dimitri Musafia](http://goo.gl/T9X9C)  
+[\- Electric Violin Shop](http://goo.gl/s2q4A)  
+[\- Frustrated Accompanist](http://goo.gl/X1BGv)  
+[\- J.R. Judd Violins](http://goo.gl/f4QzD)  
+[\- Old Town Music](http://goo.gl/haLkp)  
+[\- The Potter Violin Company](http://goo.gl/gUwnk)  
+[\- Reuning & Son Violin](http://goo.gl/pf0n3)  
+[\- Stradivari Model](http://goo.gl/WDtXL)  
+[\- Things 4 Strings](http://goo.gl/paoSR)  
+[\- The Violin Case](http://goo.gl/YUweP)  
+[\- Wangbow Violin Bow Workshop](http://goo.gl/lUB5v)
 
 [**Please consider supporting Violinist.com by becoming a sponsor**](http://www.violinist.com/advertising/)
