@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409184621id_/http%3A//www.myhuckleberry.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhuckleberry.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203903id_/http%3A//www.myhuckleberry.com/privacy.aspx) for the most accurate reproduction.*
 
 # MyHuckleberry Privacy Policy
 
