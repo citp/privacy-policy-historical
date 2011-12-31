@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliableremodeler.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414110953id_/http%3A//www.reliableremodeler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliableremodeler.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213500id_/http%3A//www.reliableremodeler.com/privacy.htm) for the most accurate reproduction.*
 
 # ReliableRemodeler.com, Inc. Privacy Policy
 
