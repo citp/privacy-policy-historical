@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usedprice.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113160658id_/http%3A//www.usedprice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedprice.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204047id_/http%3A//www.usedprice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Fair Market Value & Online Price Guide - UsedPrice.com
+# Privacy Policy by UsedPrice.com
 
 UsedPrice.com holds our customers privacy as a very serious issue. We highly value our customers therefore we work hard to protect all of our customer's personal information by the latest security safeguards such as physical, electronic, and managerial procedures to safeguard and secure the information we collect online. UsedPrice.com is an online marketplace that allows our members to set up business and personal profiles that can be linked together through networks of contacts. UsedPrice.com members can view other profiles throughout various categories, communicate, post comments, and save members as contacts in their My UsedPrice member page. Members can display some personal address and contact information to other members and visitors, which allows our users to identify each other and expand their network of personal and business contacts. UsedPrice.com members can edit and change their profile and directory information at any time. 
 
