@@ -1,16 +1,28 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601224534id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224227id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
 | Use **GOOGLE** to search the site  
 ---  
   
+[](https://web.archive.org/articles/feature.php?article-id=480) [](https://web.archive.org/product/store.php)  
 ---  
-| 5/2 [Builder Showcase #67](https://web.archive.org/articles/feature.php?article-id=512) |   
+| 12/28 [Building the Silver Edition Buggy Champ](https://web.archive.org/articles/feature.php?article-id=594) |   
+| 12/28 [Annual Inventory 12/29/11 - 1/12/12](https://web.archive.org/articles/feature.php?article-id=593) |   
+| 12/28 [Building the Sand Rover 2011](https://web.archive.org/articles/feature.php?article-id=592) |   
+| 12/19 [TRF801x Building Tips by: David Jun](https://web.archive.org/articles/feature.php?article-id=588) |   
 [More News...](https://web.archive.org/news/index.php) |   
-[](https://web.archive.org/articles/feature.php?article-id=3)[](https://web.archive.org/product/stuff.php)[](https://web.archive.org/product/category.php?sub-id=78500)[](https://web.archive.org/articles/feature.php?article-id=144)[](https://web.archive.org/dealers/index.php)[](https://web.archive.org/tcs/index.php) |  |   
----|---  
 |   
+  
+---|---  
+---  
+|  Jan 22, 2012  |   
+|  TCS Race #168 Aliso Viejo, CA - Aliso Viejo, CA  |   
+|  Feb 11-12, 2012  |   
+|  TCS Race #169 Omaha, NE - Omaha, NE  |   
+[Past Events...](https://web.archive.org/events/event_list.php) |   
+[](https://web.archive.org/product/rcpss.php)[](https://web.archive.org/articles/feature.php?article-id=3)[](https://web.archive.org/product/category.php?sub-id=79000)[](https://web.archive.org/product/stuff.php)[](https://web.archive.org/product/category.php?sub-id=78500)[](https://web.archive.org/articles/feature.php?article-id=144)[](https://web.archive.org/dealers/index.php)[](https://web.archive.org/tcs/index.php)
+
 | Privacy Statement  
 ---  
 | Tamiya America, Inc. (TamiyaUSA.com) recognizes privacy and security as being a concern for most individuals and businesses accessing the Internet. Whether you are seeking specific information about one of our quality products, or just browsing our website, we want to make you comfortable with our privacy policy and the security measures we take to protect your information.  
@@ -34,5 +46,4 @@ You can unsubscribe or change your subscription to any of our notification servi
  **Additional Information**  
 Questions regarding this policy should be directed to [customer service](https://web.archive.org/contact/).  
 Rev. 11/05  
-Back To Top  
-| 
+Back To Top
