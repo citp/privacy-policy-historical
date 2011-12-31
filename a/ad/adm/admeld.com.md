@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the admeld.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215031530id_/http%3A//www.admeld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admeld.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231034501id_/http%3A//www.admeld.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Admeld
+# Privacy Policy: Admeld
 
 **Effective:** July 1, 2009  
 **Last updated:** January 14, 2011
@@ -44,11 +44,22 @@ Please be aware that the web sites of our customers as well as the web sites lin
 Our Technology interfaces with the following entities:
 
   * **Our Customers' Web Sites  
-**In some cases, our customers can choose to use our ad tags to pass information to buyers about you, such as demographic information you have previously volunteered to them (for example, during the registration process) so long as they have the right to use this information for ad selection. Our policy forbids such information to be PII, and if we are made aware that we were unknowingly passed PII, we will purge such information from our servers and request that such customer cease sending us such information.  We are not responsible for the privacy practices of these web sites and you should check the applicable privacy policies of such web sites you visit to determine how they handle any information they collect from you.
+**
+
+In some cases, our customers can choose to use our ad tags to pass information to buyers about you, such as demographic information you have previously volunteered to them (for example, during the registration process) so long as they have the right to use this information for ad selection. Our policy forbids such information to be PII, and if we are made aware that we were unknowingly passed PII, we will purge such information from our servers and request that such customer cease sending us such information.  We are not responsible for the privacy practices of these web sites and you should check the applicable privacy policies of such web sites you visit to determine how they handle any information they collect from you.
+
   * **Ad Buyers  
-**The ads delivered as a result of our Technology are served by third parties that may use their own cookies and/or other data collection tools. In addition, the ads themselves may also contain links to other websites with their own cookies and/or other data collection tools.
+**
+
+The ads delivered as a result of our Technology are served by third parties that may use their own cookies and/or other data collection tools. In addition, the ads themselves may also contain links to other websites with their own cookies and/or other data collection tools.
+
+  
+
   * **Third Party Data Providers  
-**Third party data providers are companies that collect information about your behaviors through relationships with many of the web sites you visit. For example, many of them collect Non-PII about the content areas or pages of the web sites that you visit (e.g., "sports section" or "technology section"). We partner with many of these third parties to provide their data to our customers in aggregate and anonymous form. For example, if one of our customers learns that 25% of their audience is interested in sports, this helps them sell advertising more effectively.
+**
+
+Third party data providers are companies that collect information about your behaviors through relationships with many of the web sites you visit. For example, many of them collect Non-PII about the content areas or pages of the web sites that you visit (e.g., "sports section" or "technology section"). We partner with many of these third parties to provide their data to our customers in aggregate and anonymous form. For example, if one of our customers learns that 25% of their audience is interested in sports, this helps them sell advertising more effectively.
+
 
 
 
@@ -99,4 +110,4 @@ Finally, we may transfer information, including any PII collected via our Site, 
 We may amend this privacy policy from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in the way that we use the PII collected through our Site, we will post a clear and conspicuous notice of those changes on our Site and in this privacy policy.
 
 **CONTACT INFORMATION**  
-For questions or concerns relating to privacy, please send us an email at [[privacy@admeld.com](mailto:privacy@admeld.com)](mailto:privacy@admeld.com). Alternatively, you may contact us at: Privacy Officer, AdMeld, Inc., 230 Park Avenue South, Suite 1201, New York, NY 10003.
+For questions or concerns relating to privacy, please send us an email at [[privacy@admeld.com](mailto:privacy@admeld.com)](mailto:privacy@admeld.com). Alternatively, you may contact us at: Privacy Officer, AdMeld, Inc., One Madison Avenue, 4th Floor, New York, NY 10010.
