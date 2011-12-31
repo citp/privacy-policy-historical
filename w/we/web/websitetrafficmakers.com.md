@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the websitetrafficmakers.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824054034id_/http%3A//www.websitetrafficmakers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetrafficmakers.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204158id_/http%3A//websitetrafficmakers.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# WebsiteTrafficMakers.com - Privacy Policy
 
-**THE COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION**
+**PRIVACY POLICY
+
+THE COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION
+
+**
 
 www.WebsiteTrafficMakers.com collects personally identifiable information when required to facilitate a business transaction involving one or more of our products or services, when supplied as an inquiry to such products or services, or when required for employment purposes. Of which, only the personally identifiable information that you voluntarily provide will be collected. In some instances, www.WebsiteTrafficMakers.com may collect personally identifiable information from a third party or entity that has your permission to share your personal information. www.WebsiteTrafficMakers.com reserves the right to refuse to provide such products or services should the product or service depend on personally identifiable information in which you are unwilling to provide. Personally identifiable information can be defined as your name, shipping and/or mailing address, project street address, telephone number, email address, and\or credit or debit card account numbers.
 
 **ORDER FULFILLMENT PRACTICES**
 
-When ordering products or services via www.websitetrafficmakers.com you may be asked to provide pertinent financial information, such as your credit card number, expiration date, money order, wire transfer or check information, in addition to your contact information. This information is used for billing purposes and may be stored for recursive processing for services that are billed on a reoccurring basis. To initiate the billing process we must share your personal and financial information with the merchant bank for authorization and approval. Should any attempt to bill you fail, we will then in turn use your supplied contact information to contact you for resolution.
+When ordering products or services via websitetrafficmakers.com you may be asked to provide pertinent financial information, such as your credit card number, expiration date, money order, wire transfer or check information, in addition to your contact information. This information is used for billing purposes and may be stored for recursive processing for services that are billed on a reoccurring basis. To initiate the billing process we must share your personal and financial information with the merchant bank for authorization and approval. Should any attempt to bill you fail, we will then in turn use your supplied contact information to contact you for resolution.
 
 **THE SHARING OF YOUR PERSONALLY IDENTIFIABLE INFORMATION**
 
@@ -16,7 +20,7 @@ Under no circumstances does www.WebsiteTrafficMakers.com sell or lease any of yo
 
 **COOKIES FROM www.WebsiteTrafficMakers.com**
 
-Various portions of www.websitetrafficmakers.com utilize cookies. Cookies are client-side text files that store bits of information about a visitor. This information can range from personal preferences to login session data. Cookies can only be read by the same web server that originally authored the cookie. www.WebsiteTrafficMakers.com utilizes cookies for tracking purchases, visitor navigation, authentication, and for analytical purposes. If your web browser is not cookie enabled then you may not be able to fully benefit from our products or services, as some of which are dependent on cookies. www.WebsiteTrafficMakers.com reserves the right to refuse to provide any products or services that are dependent on cookies to visitors who use a web browser that does not permit cookies.
+Various portions of websitetrafficmakers.com utilize cookies. Cookies are client-side text files that store bits of information about a visitor. This information can range from personal preferences to login session data. Cookies can only be read by the same web server that originally authored the cookie. www.WebsiteTrafficMakers.com utilizes cookies for tracking purchases, visitor navigation, authentication, and for analytical purposes. If your web browser is not cookie enabled then you may not be able to fully benefit from our products or services, as some of which are dependent on cookies. www.WebsiteTrafficMakers.com reserves the right to refuse to provide any products or services that are dependent on cookies to visitors who use a web browser that does not permit cookies.
 
 **OUR SECURTY PRACTICES**
 
