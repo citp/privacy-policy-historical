@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018222631id_/http%3A//www.tjformal.com/c5309/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjformal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113651id_/http%3A//www.tjformal.com/c5309/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy of TJ Formal Prom and Bridal
+# Privacy Policy TJ Formal Joplin, MO Prom Dresses and Bridal Gowns
 
 This site may contain links to other sites. TJ Formal is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below. Your information is never shared withother companies.
 
@@ -28,8 +28,8 @@ Contacting the Website
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 TJ Formal  
-1609 E. 20th St.  
-Joplin, MO 64804  
+508 N. Range Line Rd., Suite A  
+Joplin, Missouri 64801  
 1-417-623-4333  
 1-877-769-1336  
 [Email Us](mailto:contact_inquiry@tjformal.com)
