@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the strategyinformer.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606192617id_/http%3A//www.strategyinformer.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategyinformer.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231225013id_/http%3A//www.strategyinformer.com/policy.html) for the most accurate reproduction.*
 
 # Strategy Informer: Privacy Policy
-
-## Policy
 
 **Description**  
 Strategy Informer recognizes the importance of protecting the privacy of all information provided by users of strategyinformer.com. We created the following policy guidelines with a fundamental respect for our users' right to privacy.
