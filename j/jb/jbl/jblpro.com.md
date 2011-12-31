@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jblpro.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123221946id_/http%3A//www.jbl.com/EN-US/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jblpro.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215529id_/http%3A//www.jbl.com/EN-US/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # JBL - Privacy Policy
 
 Who We Are:
 
-This web site is operated by or on behalf of Harman Consumer, Inc. (“referred to as “Harman”, “we”, “our” and “us”). Harman’s registered address is: 
+This web site is operated by or on behalf of Harman International Industries, Inc. (“referred to as “Harman”, “we”, “our” and “us”). Harman’s registered address is: 
 
-Harman Consumer, Inc.  
+Harman International Industries, Inc.  
 400 Atlantic Street  
 Suite 1500  
 Stamford, CT 06901 U.S.A. 
