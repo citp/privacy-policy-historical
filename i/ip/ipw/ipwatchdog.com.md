@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624201346id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipwatchdog.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204743id_/http%3A//www.ipwatchdog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IPWatchdog.com | Patents & Patent Law
 
 ## Privacy Policy
 
   
-|  [ ](http://www.refer-a-buddy.com/)  
+| [ ](http://www.refer-a-buddy.com/)  
 ---|---  
   
   1. This statement explains how information learned about you from your visit to IPWatchdog.com and the IPWatchdog.com Network of Sites is handled. The information received depends on what you do when you visit IPWatchdog.com or one of the other sites that make up the IPWatchdog.com Network. In this privacy policy the use of “IPWatchdog.com” is intended to mean the IPWatchdog.com Network of Sites.  It is not intended to and does not create any claim against IPWatchdog, Inc. by any visitors to the site and is merely presented so that you can better understand how we handle information given to us.
