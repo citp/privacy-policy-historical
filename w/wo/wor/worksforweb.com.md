@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worksforweb.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504012656id_/http%3A//www.worksforweb.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksforweb.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015138id_/http%3A//www.worksforweb.com/company/privacy-policy) for the most accurate reproduction.*
 
-# WorksForWeb - Privacy Policy
+# Privacy Policy - WorksForWeb Classified Software
 
 ### What information do we collect?
 
