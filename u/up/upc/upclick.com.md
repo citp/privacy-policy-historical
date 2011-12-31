@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upclick.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823140000id_/http%3A//upclick.com/corporate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upclick.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100238id_/http%3A//upclick.com/corporate/privacypolicy.html) for the most accurate reproduction.*
 
 # UpClick - Custom eCommerce Solutions
 
 ## Copyright Infringement Policy
 
-Online privacy is constantly evolving and Upclick.com plans to take all reasonable efforts to maintain up to date and effective online privacy standards and practices. We have linked every page of our website ("Website") to this page for your convenience and you may also [ contact us](https://web.archive.org/web/20100823140000id_/http%3A//upclick.com/corporate/contactus.html) with any questions or concerns that you may have.
+Online privacy is constantly evolving and Upclick.com plans to take all reasonable efforts to maintain up to date and effective online privacy standards and practices. We have linked every page of our website ("Website") to this page for your convenience and you may also [ contact us](https://web.archive.org/web/20111231100238id_/http%3A//upclick.com/corporate/contactus.html) with any questions or concerns that you may have.
 
 Upclick.com is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. In order to provide our services, Upclick.com collects and uses your Personal Information provided during your purchase. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home, credit card information, and Website passwords. This policy explains how we intend to treat your Personal Information. 
 
@@ -42,7 +42,7 @@ In addition, Upclick.com protects your Personal Information off-line. All your i
 ###  ACCESS/ACCURACY
 
 **Access**  
-You may inquire about your Personal Information being held by Upclick.com by [contacting us](https://web.archive.org/web/20100823140000id_/http%3A//upclick.com/corporate/contactus.html).  Within a week, Upclick.com shall provide you with a copy of the Personal Information that it keeps about you. Upclick.com charges a $25 processing fee for the request. Prior to completing your request, Upclick.com will require that you provide us with proof of your identity. Upclick.com reserves the right to refuse any request for information, though it will communicate the reason for its decision. 
+You may inquire about your Personal Information being held by Upclick.com by [contacting us](https://web.archive.org/web/20111231100238id_/http%3A//upclick.com/corporate/contactus.html).  Within a week, Upclick.com shall provide you with a copy of the Personal Information that it keeps about you. Upclick.com charges a $25 processing fee for the request. Prior to completing your request, Upclick.com will require that you provide us with proof of your identity. Upclick.com reserves the right to refuse any request for information, though it will communicate the reason for its decision. 
 
 **Accuracy**  
 To the extent that you do provide us with Personal Information, Upclick.com wishes to maintain accurate Personal Information. Where we collect Personal Information from you on our Website, our goal is to provide a means of contacting us should you need to update or correct that Personal Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information by contacting and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
@@ -71,4 +71,4 @@ This privacy policy is effective immediately.
 **COMMITMENT**  
 We are committed to privacy and are actively involved in and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and Upclick.com’s Website is constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20100823140000id_/http%3A//upclick.com/corporate/contactus.html).
+If you have any comments or questions regarding our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20111231100238id_/http%3A//upclick.com/corporate/contactus.html).
