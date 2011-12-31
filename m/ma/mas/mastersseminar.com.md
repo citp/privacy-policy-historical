@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastersseminar.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512024935id_/http%3A//www.ross-goldberg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastersseminar.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204432id_/http%3A//www.ross-goldberg.com/privacy.html) for the most accurate reproduction.*
 
 # Immortal Marketing Privacy Policy
 
