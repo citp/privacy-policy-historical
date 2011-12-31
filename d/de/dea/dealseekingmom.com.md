@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610082830id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231151114id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
