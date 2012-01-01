@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007134931id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101063521id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Voice of Pakistan | Privacy Policy
 
