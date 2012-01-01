@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201204812id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101132319id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sweet Cider Music - Privacy Policy
 
@@ -23,3 +23,5 @@ The template is being taken from www.freewebsitetemplates.com as per free downlo
 [ **Video Production Companies**](http://www.beholderproductions.com/):Beholder Production is a video production company. Some of the excellent video services that it offers are script writing and story boards, HD video production and video editing and post production.
 
 [Online Casino](http://www.online-poker-texas-hold-em.net/online-casino)
+
+[casino online](http://onlinecasino-1.de/)
