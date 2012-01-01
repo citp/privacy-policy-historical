@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219182636id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101130844id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
-# Tickifieds - Free Event Ticket Classified Ads
+# Tickifieds - Buy & Sell Tickets to Concerts, Theatre and Sports
 
-**The ad has been added to your favorites.**  
+**Welcome to Tickifieds - Free Concert, MLB, MLS, NBA, NHL, NFL, NASCAR and NCAA Ticket Classifieds!**  
 
 
 Tickifieds is committed to safeguarding your online privacy. The following policy outlines how your personal information will be treated as you use our website.
