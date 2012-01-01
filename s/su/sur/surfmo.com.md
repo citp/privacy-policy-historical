@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfmo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150149id_/http%3A//surfmo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfmo.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101223339id_/http%3A//surfmo.com/privacy.php) for the most accurate reproduction.*
 
 # Free Web Proxy | Anonymous Proxy | Unblock Facebook - SurfMO
 
