@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upspring.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118225907id_/http%3A//www.upspring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upspring.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101110906id_/http%3A//www.upspring.com/privacy) for the most accurate reproduction.*
 
 # Upspring - Privacy Policy
 
