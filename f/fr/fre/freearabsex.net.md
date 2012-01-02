@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freearabsex.net privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103061935id_/http%3A//freearabsex.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearabsex.net privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103002754id_/http%3A//www.freearabsex.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
