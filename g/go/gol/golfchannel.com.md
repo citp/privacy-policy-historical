@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205212id_/http%3A//www.golfchannel.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfchannel.com privacy policy that was archived on 2012-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120102115457id_/http%3A//www.golfchannel.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Golf Channel
 
