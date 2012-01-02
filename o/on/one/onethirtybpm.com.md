@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onethirtybpm.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102141057id_/http%3A//onethirtybpm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onethirtybpm.com privacy policy that was archived on 2012-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120102013743id_/http%3A//onethirtybpm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Thirty BPM
 
