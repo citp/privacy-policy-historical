@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlusonline.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102042650id_/http%3A//www.atlusonline.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlusonline.com privacy policy that was archived on 2012-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120102015051id_/http%3A//www.atlusonline.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlus Online - Play for Free Online MMORPGs, Fantasy Steampunk Game To Play Online, Streaming Anime, Oekaki Wall
 
