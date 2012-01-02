@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingocafe.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203030034id_/http%3A//www.bingocafe.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingocafe.co.uk privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103002509id_/http%3A//www.bingocafe.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bingo Cafe UK
 
