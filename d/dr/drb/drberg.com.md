@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drberg.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208221253id_/http%3A//www.drberg.com/terms/pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drberg.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103094800id_/http%3A//drberg.com/terms/pol) for the most accurate reproduction.*
 
 # Fast Ways to Lose Weight By Dr Eric Berg
 
