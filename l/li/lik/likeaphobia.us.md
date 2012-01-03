@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likeaphobia.us privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007202655id_/http%3A//likeaphobia.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeaphobia.us privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103111259id_/http%3A//likeaphobia.us/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Funny Pictures
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at likeaphobia@hotmail.com.
 
