@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seeknomore.blogspot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007124826id_/http%3A//seeknomore.blogspot.com/2009/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeknomore.blogspot.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103102217id_/http%3A//seeknomore.blogspot.com/2009/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Seek No More: Privacy Policy
 
 ##  [Privacy Policy](http://seeknomore.blogspot.com/2009/04/privacy-policy.html)
 
-Posted by Kirhat | Wednesday, March 11, 2009 | [Privacy](http://seeknomore.blogspot.com/search/label/Privacy) | [ 0 comments »](http://seeknomore.blogspot.com/2009/04/privacy-policy.html#comments)
+Posted by Kirhat | Wednesday, March 11, 2009 | [Privacy](http://seeknomore.blogspot.com/search/label/Privacy) | [ 0 comments »](http://seeknomore.blogspot.com/2009/04/privacy-policy.html#comment-form)
 
 [](http://2.bp.blogspot.com/_Ci_cb2_xSlw/SduALm3qO4I/AAAAAAAADr8/nILTu7bPFMI/s1600-h/privacy_policy.JPG)
 
