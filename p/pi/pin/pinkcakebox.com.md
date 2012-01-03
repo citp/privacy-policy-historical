@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006235446id_/http%3A//www.pinkcakebox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103180244id_/http%3A//www.pinkcakebox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
