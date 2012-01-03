@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blixtech.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007191801id_/http%3A//blixtech.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blixtech.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103120541id_/http%3A//blixtech.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Blixtech.com
 
-|  [](http://www.facebook.com/blixtechcom#!/blixtechcom?sk=app_4949752878)  
+|  [](http://digg.com/blixtech)  
 ---|---  
   
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@blixtech.com or give us a call at (+353) 873 203 619 
