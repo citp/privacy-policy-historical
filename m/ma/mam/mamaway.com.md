@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214110126id_/http%3A//www.mamaway.com/ec99/Rgcj10/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103101747id_/http%3A//www.mamaway.com/ec99/Rgcj10/Privacy.asp) for the most accurate reproduction.*
 
 # www.mamaway.com
 
