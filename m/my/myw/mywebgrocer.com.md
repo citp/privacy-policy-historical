@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006230216id_/http%3A//mywebgrocer.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebgrocer.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103094550id_/http%3A//mywebgrocer.com/about/privacy-policy) for the most accurate reproduction.*
 
 # MyWebGrocer - Privacy Policy
 
