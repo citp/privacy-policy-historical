@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230033058id_/http%3A//rxwiki.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxwiki.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103114701id_/http%3A//www.rxwiki.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
