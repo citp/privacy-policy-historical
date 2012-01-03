@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuffnang.com.my privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229151424id_/http%3A//www.nuffnang.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.my privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103152517id_/http%3A//www.nuffnang.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Malaysia | Asia Pacific’s First Blog Advertising Community » Privacy Policy
 
