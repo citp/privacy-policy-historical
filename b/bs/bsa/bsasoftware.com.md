@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007224243id_/http%3A//www.bsasoftware.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsasoftware.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103104658id_/http%3A//www.bsasoftware.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BS&A Software Home
 
