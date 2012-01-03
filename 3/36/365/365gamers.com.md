@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365gamers.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007051215id_/http%3A//www.365gamers.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365gamers.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103111221id_/http%3A//www.365gamers.com/page/2.html) for the most accurate reproduction.*
 
 # Free Online Car Games and Racing Games at 365gamers.com - Privacy Policy
 
