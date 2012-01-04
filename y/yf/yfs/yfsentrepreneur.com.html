@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the yfsentrepreneur.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007012535id_/http%3A//yfsentrepreneur.com/about-2/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yfsentrepreneur.com privacy policy that was archived on 2012-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120104132511id_/http%3A//yfsentrepreneur.com/about-2/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
 <title>Privacy ‹ YFS Magazine</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -21,7 +21,6 @@
 <link rel="stylesheet" href="http://yfsentrepreneur.com/wp-content/plugins/oiopub-direct/images/style/output.css" type="text/css">
 <link rel="stylesheet" id="farbtastic-css" href="http://yfsentrepreneur.com/wp-admin/css/farbtastic.css?ver=1.3u" type="text/css" media="all">
 <script type="text/javascript" src="http://yfsentrepreneur.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://yfsentrepreneur.com/wp-content/plugins/business-directory//main.js?ver=3.2.1"></script>
 <script type="text/javascript" src="http://yfsentrepreneur.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://yfsentrepreneur.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://yfsentrepreneur.com/wp-includes/wlwmanifest.xml"> 
@@ -30,87 +29,15 @@
 <link rel="next" title="Editorial" href="http://yfsentrepreneur.com/editorial-mission/">
 <meta name="generator" content="WordPress 3.2.1">
 <link rel="canonical" href="http://yfsentrepreneur.com/about-2/privacy/">
-<script type="text/javascript" src="http://yfsentrepreneur.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-		<script>
-			function bizdir_add_listing(name,email,cName,description,keywords,website,cEmail,phone) { //Add Form Ajax Call
-				//Deactivate submit button and display processing message
-				document.getElementById('bizdir_submit').disabled = true;
-				var submit_message = document.getElementById('bizdir_submit_message');
-				submit_message.className = "bizdir_message";
-				submit_message.innerHTML = "Submitting Form, Please Wait...";
-				//Clear inputs with Auto Text
-				bizdir_clearAllAutoFill();
-				//Build SACK Call
-				var mysack = new sack("http://yfsentrepreneur.com/wp-content/plugins/business-directory/requests.php");
-				mysack.execute = 1;
-				mysack.method = 'POST';
-				mysack.setVar("action","AddListing");
-				mysack.setVar("category_id", document.getElementById("bizdir_category_id").value);
-				mysack.setVar("name",document.getElementById("bizdir_name").value);
-				mysack.setVar("email",document.getElementById("bizdir_email").value);
-				mysack.setVar("cName",document.getElementById("bizdir_cName").value);
-				mysack.setVar("description",document.getElementById("bizdir_description").value);
-				mysack.setVar("keywords",document.getElementById("bizdir_keywords").value);
-				mysack.setVar("website",document.getElementById("bizdir_website").value);
-				mysack.setVar("cEmail",document.getElementById("bizdir_cEmail").value);
-				mysack.setVar("phone",document.getElementById("bizdir_phone").value);
-				mysack.setVar("street1",document.getElementById("bizdir_street1").value);
-				mysack.setVar("street2",document.getElementById("bizdir_street2").value);
-				mysack.setVar("city",document.getElementById("bizdir_city").value);
-				mysack.setVar("state",document.getElementById("bizdir_state").value);
-				mysack.setVar("zip",document.getElementById("bizdir_zip").value);
-				mysack.setVar("country",document.getElementById("bizdir_country").value);
-				mysack.onError = function() { alert('An ajax error occured while adding your listing. Please reload the page and try again.') };
-				mysack.runAJAX();//excecute
-				return true;
-			}
-			
-			function bizdir_search_listings() { //Search Ajax Call
-				var search_term = document.getElementById('bizdir_search_term');
-				if(search_term.value == "" || search_term.value == null)
-					return;
-				//Deactivate submit button and display processing message
-				document.getElementById('bizdir_search').disabled = true;
-				var submit_message = document.getElementById('bizdir_messages');
-				submit_message.className = "bizdir_message";
-				submit_message.innerHTML = "Searching Listings, Please Wait...";
-				//Build SACK Call
-				var mysack = new sack("http://yfsentrepreneur.com/wp-content/plugins/business-directory/requests.php");
-				mysack.execute = 1;
-				mysack.method = 'POST';
-				mysack.setVar("action","SearchListings");
-				mysack.setVar("searchTerms",search_term.value);
-				mysack.onError = function() { alert('An ajax error occured while searching. Please reload the page and try again.') };
-				mysack.runAJAX();//excecute
-				return true;
-			}
-			
-			function bizdir_change_listings_page(offset) { //Jump to the appropriate page in the directory Ajax Call
-				//Build SACK Call
-				var mysack = new sack("http://yfsentrepreneur.com/wp-content/plugins/business-directory/requests.php");
-				mysack.execute = 1;
-				mysack.method = 'POST';
-				mysack.setVar("action","ChangePage");
-				mysack.setVar("offset",offset);
-				mysack.onError = function() { alert('An ajax error occured. Please reload the page and try again.') };
-				mysack.runAJAX();//excecute
-				return true;
-			}
-
-            function bizdir_sort_categories(category) { //Jump to the appropriate page in the directory Ajax Call
-				//Build SACK Call
-                var category = category.value;
-                var mysack = new sack("http://yfsentrepreneur.com/wp-content/plugins/business-directory/requests.php");
-				mysack.execute = 1;
-				mysack.method = 'POST';
-				mysack.setVar("action","SearchListings");
-                mysack.setVar('category',category);
-				mysack.onError = function() { alert('An ajax error occured. Please reload the page and try again.') };
-				mysack.runAJAX();//excecute
-				return true;
-			}
-		</script>
-	<script type="text/javascript">
+<link rel="stylesheet" type="text/css" href="http://yfsentrepreneur.com/wp-content/plugins/most-shared-posts/most-shared-posts.css"><meta property="og:type" content="article">
+<meta property="og:title" content="Privacy">
+<meta property="og:url" content="http://yfsentrepreneur.com/about-2/privacy/">
+<meta property="og:description" content="YFS Magazine is committed to protecting the privacy of its users. The following outlines our privacy and data protection policy. Third party partners of YFS Magazine and other websites you may access via YFS Magazine have different privacy policies and are not subject to this privacy policy. We recommend that you read the privacy statement of each such website to find out how they protect your personal information. Collection and Use of User Details When you register at YFS Magazine or subscribe to any of our email newsletters, we may collect personal details about you. Personal information such as your name, address and email address is collected via YFS Magazine’s registration forms. When you visit the site, we also collect web site usage information and information about your computer and internet connection, including your computer’s IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at [...]">
+<meta property="og:image" content="http://yfsentrepreneur.com/wp-content/uploads/2011/10/approved-02b.png">
+<link rel="image_src" href="http://yfsentrepreneur.com/wp-content/uploads/2011/10/approved-02b.png">
+<meta property="og:site_name" content="YFS Magazine">
+<meta property="fb:app_id" content="192349777457290">
+<script type="text/javascript">
 <!--
 /*****************************************************************
 ***   COPY PROTECTED BY CHETANGOLE.COM/BLOG/WP-COPYPROTECT    ****
@@ -199,7 +126,7 @@ target.style.cursor = "default"
 						effect:"fade",
 						prev:"",next:"",
 						duration:1000,
-						delay:7000,
+						delay:8000,
 						outWidth:960,outHeight:330,width:960,height:330,
 						caption:false,
 						controls:true,
@@ -210,7 +137,7 @@ target.style.cursor = "default"
 				});
 			</script>
 		
-<script defer="" src="http://www.apture.com/js/apture.js?siteToken=XVucUvi"></script></head>
+</head>
 
 
 <body class="page page-id-3685 page-child parent-pageid-1480 page-template-default" style="cursor: default;">
@@ -239,17 +166,19 @@ target.style.cursor = "default"
 	<li class="page_item page-item-5547"><a href="http://yfsentrepreneur.com/about-2/premium-small-business-directory/" title="Join YFS Magazine’s New It List">Join YFS Magazine’s New It List</a></li>
 </ul>
 </li>
+<li class="page_item page-item-6346"><a href="http://yfsentrepreneur.com/advertise/" title="Advertise">Advertise</a></li>
 <li class="page_item page-item-88"><a href="http://yfsentrepreneur.com/editorial-mission/" title="Editorial">Editorial</a>
 <ul class="children">
-	<li class="page_item page-item-3121"><a href="http://yfsentrepreneur.com/editorial-mission/yfs-magazine-feature-submission/" title="YFS Magazine Feature Submission">YFS Magazine Feature Submission</a></li>
+	<li class="page_item page-item-3121"><a href="http://yfsentrepreneur.com/editorial-mission/yfs-magazine-feature-submission/" title="YFS Magazine Feature Story Submission">YFS Magazine Feature Story Submission</a></li>
 	<li class="page_item page-item-2932"><a href="http://yfsentrepreneur.com/editorial-mission/yfs-international-submission/" title="YFS Magazine Feature Submission: International">YFS Magazine Feature Submission: International</a></li>
+	<li class="page_item page-item-6520"><a href="http://yfsentrepreneur.com/editorial-mission/make-headlines-exclusive-feature-story-opportunity/" title="Make Headlines: Exclusive Feature Story Opportunity">Make Headlines: Exclusive Feature Story Opportunity</a></li>
 	<li class="page_item page-item-5701"><a href="http://yfsentrepreneur.com/editorial-mission/what-can-yfsmagazine-do-for-you-tell-us/" title="What Can We Do for You?">What Can We Do for You?</a></li>
 	<li class="page_item page-item-4612"><a href="http://yfsentrepreneur.com/editorial-mission/yfs-magazine-giveaways/" title="YFS Magazine Giveaways">YFS Magazine Giveaways</a></li>
 </ul>
 </li>
 <li class="page_item page-item-444"><a href="http://yfsentrepreneur.com/contribute/" title="Contribute">Contribute</a></li>
 <li class="page_item page-item-90"><a href="http://yfsentrepreneur.com/contact-us/" title="Contact">Contact</a></li>
-<li class="page_item page-item-3133"><a href="http://yfsentrepreneur.com/3133-2/" title="Subscribe">Subscribe</a></li>
+<li class="page_item page-item-7315"><a href="http://yfsentrepreneur.com/subscribe/" title="Subscribe">Subscribe</a></li>
                         </ul>
                     </div>
                     <!-- End main nav -->
@@ -341,10 +270,10 @@ target.style.cursor = "default"
                 <!-- -->
                 	
 			<div id="wowslider-container1">
-				<div class="ws_images"><a href="http://yfsentrepreneur.com/2011/10/06/4-tips-to-increase-sales-efficiency-and-make-customers-happy/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Adding-Value-Feature.jpg" alt="4 Tips to Increase Sales, Efficiency and Make Customers Happy" title="4 Tips to Increase Sales, Efficiency and Make Customers Happy" id="wows0"></a><a href="http://yfsentrepreneur.com/2011/10/05/50-entrepreneurs-brands-and-business-leaders-pay-tribute-to-steve-jobs/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Steve-Jobs.jpg" alt="50 Entrepreneurs, Brands and Business Leaders Pay Tribute to Steve Jobs" title="50 Entrepreneurs, Brands and Business Leaders Pay Tribute to Steve Jobs" id="wows1"></a><a href="http://yfsentrepreneur.com/2011/10/05/confessions-of-a-real-estate-mogul-how-i-built-an-empire-and-kept-it-from-sinking/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/RER-Feature.jpg" alt="Confessions of a Real Estate Mogul: How I Built an Empire and Kept it from Sinking" title="Confessions of a Real Estate Mogul: How I Built an Empire and Kept it from Sinking" id="wows2"></a><a href="http://yfsentrepreneur.com/2011/10/04/10-examples-of-businesses-behaving-badly-on-facebook/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Bad-Business-Behavior-on-Facebook-Feature.jpg" alt="10 Examples of Businesses Behaving Badly on Facebook" title="10 Examples of Businesses Behaving Badly on Facebook" id="wows3"></a><a href="http://yfsentrepreneur.com/2011/10/03/simply-business-or-always-personal/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Simply-Business-Feature.jpg" alt="Simply Business or Always Personal?" title="Simply Business or Always Personal?" id="wows4"></a>
+				<div class="ws_images"><a href="http://yfsentrepreneur.com/2012/01/04/kiip-ceo-brian-wong-transforms-in-game-mobile-advertising/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Kiip-CEO-Brian-Wong-Transforms-Mobile-Gaming-Rewards-Feature.jpg" alt="Kiip CEO, Brian Wong Transforms In-Game Mobile Advertising" title="Kiip CEO, Brian Wong Transforms In-Game Mobile Advertising" id="wows0"></a><a href="http://www.facebook.com/YFSMagazine" target="_blank"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Daily-Business-Tips-on-Facebook.jpg" alt="YFS Magazine Exclusive: Daily Business Tips on Facebook" title="YFS Magazine Exclusive: Daily Business Tips on Facebook" id="wows1"></a><a href="http://yfsentrepreneur.com/2012/01/03/im-ready-to-hire-employees-how-do-i-setup-payroll/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Small-Business-Payroll-Services-Feature.jpg" alt="I'm Ready to Hire Employees: How Do I Setup Payroll?" title="I'm Ready to Hire Employees: How Do I Setup Payroll?" id="wows2"></a><a href="http://yfsentrepreneur.com/2012/01/02/we-resolve-entrepreneurs-share-new-years-resolutions/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/New-Years-Resolutions-for-Entrepreneurs-Feature.jpg" alt="We Resolve: Entrepreneurs Share New Year's Resolutions" title="We Resolve: Entrepreneurs Share New Year's Resolutions" id="wows3"></a><a href="http://yfsentrepreneur.com/2012/01/01/happy-new-year-from-yfs-magazine/" target="_parent"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Happy-New-Year-from-YFS-Magazine-Feature.jpg" alt="Happy New Year: 5 Tips to Grow your Business in 2012" title="Happy New Year: 5 Tips to Grow your Business in 2012" id="wows4"></a>
 				</div>
             	<div class="ws_bullets">
-					<div><a href="#wows0" title="4 Tips to Increase Sales, Efficiency and Make Customers Happy"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Adding-Value-Feature-240x90.jpg" alt="4 Tips to Increase Sales, Efficiency and Make Customers Happy" id="wows0"></a><a href="#wows1" title="50 Entrepreneurs, Brands and Business Leaders Pay Tribute to Steve Jobs"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Steve-Jobs-240x90.jpg" alt="50 Entrepreneurs, Brands and Business Leaders Pay Tribute to Steve Jobs" id="wows1"></a><a href="#wows2" title="Confessions of a Real Estate Mogul: How I Built an Empire and Kept it from Sinking"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/RER-Feature-240x90.jpg" alt="Confessions of a Real Estate Mogul: How I Built an Empire and Kept it from Sinking" id="wows2"></a><a href="#wows3" title="10 Examples of Businesses Behaving Badly on Facebook"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Bad-Business-Behavior-on-Facebook-Feature-240x90.jpg" alt="10 Examples of Businesses Behaving Badly on Facebook" id="wows3"></a><a href="#wows4" title="Simply Business or Always Personal?"><img src="http://yfsentrepreneur.com/wp-content/uploads/2011/10/Simply-Business-Feature-240x90.jpg" alt="Simply Business or Always Personal?" id="wows4"></a>
+					<div><a href="#wows0" title="Kiip CEO, Brian Wong Transforms In-Game Mobile Advertising"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Kiip-CEO-Brian-Wong-Transforms-Mobile-Gaming-Rewards-Feature-240x90.jpg" alt="Kiip CEO, Brian Wong Transforms In-Game Mobile Advertising" id="wows0"></a><a href="#wows1" title="YFS Magazine Exclusive: Daily Business Tips on Facebook"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Daily-Business-Tips-on-Facebook-240x90.jpg" alt="YFS Magazine Exclusive: Daily Business Tips on Facebook" id="wows1"></a><a href="#wows2" title="I'm Ready to Hire Employees: How Do I Setup Payroll?"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Small-Business-Payroll-Services-Feature-240x90.jpg" alt="I'm Ready to Hire Employees: How Do I Setup Payroll?" id="wows2"></a><a href="#wows3" title="We Resolve: Entrepreneurs Share New Year's Resolutions"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/New-Years-Resolutions-for-Entrepreneurs-Feature-240x90.jpg" alt="We Resolve: Entrepreneurs Share New Year's Resolutions" id="wows3"></a><a href="#wows4" title="Happy New Year: 5 Tips to Grow your Business in 2012"><img src="http://yfsentrepreneur.com/wp-content/uploads/2012/01/Happy-New-Year-from-YFS-Magazine-Feature-240x90.jpg" alt="Happy New Year: 5 Tips to Grow your Business in 2012" id="wows4"></a>
 				</div>
 			</div>
 		</div>
@@ -468,25 +397,19 @@ Due to changes in legislation and best practice or enhancements to functionality
   <a href="http://yfsentrepreneur.com/category/stylish-gadgets/">Stylish Gadgets</a></div>
 		</li>
 <li id="text-59" class="widget widget_text"><h2 class="widgettitle">Stay Connected</h2>
-			<div class="textwidget"><a href="http://yfsentrepreneur.com/about-2/press-2/">Press</a><br>
-<a href="http://twitter.com/yfsmagazine" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);">Twitter</a><br>
-<a href="http://www.facebook.com/yfsmagazine" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);">Facebook</a><br>
+			<div class="textwidget"><a href="http://gplus.to/yfsmagazine" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://gplus.to']);" target="blank">Google+</a><br>
+<a href="http://twitter.com/yfsmagazine" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com']);" target="blank">Twitter</a><br>
+<a href="http://www.facebook.com/yfsmagazine" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com']);" target="blank">Facebook</a><br>
 <a href="http://yfsentrepreneur.com/feed/">Subscribe via RSS</a><br>
-<a href="mailto:info@yfsentrepreneur.com">Share News and Tips</a></div>
+<a href="mailto:info@yfsentrepreneur.com" target="blank">Share News and Tips</a></div>
 		</li>
             </ul>
 
             <br class="clear">
             <div id="copyright">
-                © 2011 YFS Magazine: Young, Fabulous &amp; Self-Employed. All rights reserved. <br>
-<!-- Site Meter -->
-<script type="text/javascript" src="http://s32.sitemeter.com/js/counter.js?site=s32enicole">
-</script>
-<noscript>
-<a href="http://s32.sitemeter.com/stats.asp?site=s32enicole" target="_top">
-<img src="http://s32.sitemeter.com/meter.asp?site=s32enicole" alt="Site Meter" border="0"/></a>
-</noscript>
-<!-- Copyright (c)2009 Site Meter -->
+                © 2012 YFS Magazine: Young, Fabulous &amp; Self-Employed ®. All rights reserved. <br>
+
+
 
             </div>
 
@@ -498,9 +421,6 @@ Due to changes in legislation and best practice or enhancements to functionality
 
 <script type="text/javascript">document.write(unescape("%3Cscript src='http://api.pluspanda.com/v1/testimonials/widget.js?apikey=5d8b1ff348b6482b' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://api.pluspanda.com/v1/testimonials/widget.js?apikey=5d8b1ff348b6482b" type="text/javascript"></script>
 
-<script id="aptureScript">
-(function (){var a=document.createElement("script");a.defer="true";a.src="http://www.apture.com/js/apture.js?siteToken=XVucUvi";document.getElementsByTagName("head")[0].appendChild(a);})();
-</script>
 
 
 <!-- START Quantcast By WP-Plugin: Quantcast-Quantifier http://wordpress.org/extend/plugins/quantcast-quantifier/ -->
@@ -530,6 +450,18 @@ qacct:"p-48W7xfVKm7U1k"
 <!-- End Quantcast tag -->
 <!-- END Quantcast-Quantifier --><script type="text/javascript">
 disableSelection(document.body)
+</script>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({appId: '192349777457290', status: true, cookie: true, xfbml: true, oauth: true });
+      };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
 </script>
 
 
