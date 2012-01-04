@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wessexarch.co.uk privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626004331id_/http%3A//www.wessexarch.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wessexarch.co.uk privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104223845id_/http%3A//www.wessexarch.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wessex Archaeology
 
