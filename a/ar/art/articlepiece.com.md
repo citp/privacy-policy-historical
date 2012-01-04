@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlepiece.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109140744id_/http%3A//www.articlepiece.com/page/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepiece.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104202357id_/http%3A//www.articlepiece.com/page/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Articles
 
@@ -35,10 +35,10 @@ We may provide aggregate information about our customers, sales, Web site traffi
 **What About Legally Compelled Disclosure of Information?  **  
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-**Other Web Sites Linked from ArticleSetup.com  **  
+**Other Web Sites Linked from Articlepiece.com  **  
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-Please remember that when you use a link to go from ArticleSetup.com to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+Please remember that when you use a link to go from Articlepiece.com to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
 **Your Consent  **  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it
