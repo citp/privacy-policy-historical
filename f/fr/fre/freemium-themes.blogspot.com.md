@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemium-themes.blogspot.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006223702id_/http%3A//freemium-themes.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemium-themes.blogspot.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104102356id_/http%3A//freemium-themes.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Premium WordPress Themes
 
