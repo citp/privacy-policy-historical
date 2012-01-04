@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy2getporn.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006210801id_/http%3A//easy2getporn.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy2getporn.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104134931id_/http%3A//easy2getporn.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
