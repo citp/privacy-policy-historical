@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jerseysleague.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105091241id_/http%3A//www.jerseysleague.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseysleague.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104214843id_/http%3A//www.jerseysleague.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : jerseysleauge.com
 
