@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopbiglots.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104205443id_/http%3A//www.shopbiglots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopbiglots.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104025156id_/http%3A//www.shopbiglots.com/privacy-policy) for the most accurate reproduction.*
 
 # Big Lots Privacy Policy
 
