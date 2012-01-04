@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210191123id_/http%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellechic.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104103402id_/http%3A//www.bellechic.com/about/privacy) for the most accurate reproduction.*
 
 # BelleChic
 
