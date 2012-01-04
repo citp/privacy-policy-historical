@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaynodaysoff.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006235802id_/http%3A//www.everydaynodaysoff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaynodaysoff.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104135557id_/http%3A//www.everydaynodaysoff.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
