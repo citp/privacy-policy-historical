@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223044259id_/http%3A//www.alltheparties.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheparties.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105223519id_/http%3A//www.alltheparties.com/privacy.php) for the most accurate reproduction.*
 
 # :: AllTheParties
 
@@ -10,7 +10,7 @@ Samuel Obukwelu
 4 South Pinehurst Avenue #4F   
 New York NY 10033   
 US   
-347-558-4020   
+888-353-9333   
 [info@fcgmedia.com](mailto:info@fcgmedia.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
