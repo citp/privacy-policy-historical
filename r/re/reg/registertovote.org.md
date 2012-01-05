@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013081732id_/https%3A//registertovote.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105151605id_/https%3A//registertovote.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | RegistertoVote.org
 
@@ -84,7 +84,7 @@ By submitting a quote request, you authorize us to provide your information to i
 
 **Anti-Spam Policy**
 
-We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@registertovote.org ](https://web.archive.org/web/20111013081732id_/https%3A//registertovote.org/info@registertovote.org)and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
+We have crafted a strong, zero-tolerance anti-spam policy to protect you. If you feel you have been sent spam, please email us at [info@registertovote.org ](https://web.archive.org/web/20120105151605id_/https%3A//registertovote.org/info@registertovote.org)and we'll immediately take steps to solve the problem. We hold the privacy of all users in the highest regard, as well as the recipients of emails sent by our advertisers. 
 
 **The Federal CAN-SPAM Act**
 
