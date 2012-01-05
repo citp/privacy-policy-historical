@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205083635id_/http%3A//www.joomla-monster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105055115id_/http%3A//www.joomla-monster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Joomla-Monster.com Joomla Templates and Virtuemart themes
 
