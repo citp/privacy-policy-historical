@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allcontact.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007163535id_/http%3A//allcontact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcontact.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105022054id_/http%3A//allcontact.com/privacy) for the most accurate reproduction.*
 
 # allContact: Privacy Policy
 
-**PRIVACY POLICY**  
-**  
-(Last Revised: 02-APR-2011)**  
+**PRIVACY POLICY** **  
+(Last Revised: 28-NOV-2011)**
+
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.  
 **Information We Collect**  
 In order to serve our customers, we collect personally identifiable information, like names, addresses, phone numbers, email addresses, and sometimes credit card information when such information is voluntarily submitted by our visitors. We may use your personal information, transfer your personal information, and/or sell your personal information for any legal purpose, including, without limitation: (1) to deliver the products and/or services to you that you have requested; (2) to validate your compliance with the terms and conditions; (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the web site or product(s); and (5) to bring retail opportunities and promotional offers to you by email, direct mail, telemarketing, and/or online banner advertising. When your information is provided to third parties, these third parties may include providers of direct marketing services and applications. We or these third parties may supplement the information we collect online with outside records to enhance our ability to serve you, to tailor our content to you, and/or to offer you targeted advertising and other opportunities to purchase products and services that we believe may be of interest to you.  
@@ -24,8 +24,8 @@ All information collected from you is stored in a technically and physically sec
 **Spam**  
 If we determine that you are using allContact to elicit spam email, or we believe you do not in compliance with the CanSpamAct2003, we reserve the right to immediately terminate your account.  
 We may also pursue legal action against you to cover any costs incurred in relation to the disruption of service the spam may have impacted on allContact.  
-We investigate all spam incidents thoroughly before making any final decisions. If you believe you have received spam from an allContact user, please forward the email you received to us at allcontact.jv@gmail.com.  
+We investigate all spam incidents thoroughly before making any final decisions. If you believe you have received spam from an allContact user, please forward the email you received to us at staff@allcontact.com.  
 **Contacting Us**  
-If you need to contact us, you can email us at allcontact.jv@gmail.com.
+If you need to contact us, you can email us at staff@allcontact.com.
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
