@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the examresultstips.com privacy policy that was archived on 2011-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111001132617id_/http%3A//www.examresultstips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresultstips.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105041111id_/http%3A//www.examresultstips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Exam Results Tips
+# Privacy Policy « Exam Results Tips
 
 We respect your privacy and are committed to safeguarding your privacy while you are online at **[Exam Results Tips](http://www.examresultstips.com/)** ! We will not sell or rent your personal information to anyone. We recognize that privacy of your personal information is important.
 
