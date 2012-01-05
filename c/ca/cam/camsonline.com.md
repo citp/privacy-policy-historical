@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018155056id_/http%3A//camsonline.com/data_protection_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsonline.com privacy policy that was archived on 2012-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120105010753id_/http%3A//www.camsonline.com/data_protection_policy.html) for the most accurate reproduction.*
 
 # New Document
 
@@ -38,7 +38,7 @@ In order to meet the requirements of the principles, following process and contr
   * Take appropriate security measures to safeguard personal data.
 
 We have a responsible data security policy and implemented technology and policies with the objective of protecting your privacy from unauthorised access and improper use   
-We provide details of investors only based on consent from our clients to his appointed brokers, agents, bankers and similar representatives, and to our client in whose products he has invested and to any other intermediaries to fulfill business obligation.   
+We provide details of investors only based on consent from our clients to their appointed brokers, agents, bankers and similar representatives, and to our client in whose products he has invested and to any other intermediaries to fulfill business obligation.   
 We may be required from time to time to disclose your personal information to governmental or judicial bodies or agencies or our regulators based on their requirement.   
 We will permit only authorized employees who are trained in the proper handling of customer information, to have access to that information. Employees who violate our Privacy Promise will be subject to our normal disciplinary process. 
 
