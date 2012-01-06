@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222203319id_/http%3A//www.crownrelo.com/relo/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106171555id_/http%3A//www.crownrelo.com/relo/privacy.policy.html) for the most accurate reproduction.*
 
 # Crown Relocations Privacy Policy
 
