@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gotvape.com privacy policy that was archived on 2011-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111017182607id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotvape.com privacy policy that was archived on 2012-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120106140336id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -21,18 +21,11 @@
 //]]>
 </script>
 <![endif]-->
-<link href="http://www.gotvape.com/assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://www.gotvape.com/min/?f=assets/css/main.css,assets/css/global.css,fancybox/jquery.fancybox-1.3.4.css&amp;9999" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-        <link href="http://www.gotvape.com/assets/css/ie7.css" rel="stylesheet" type="text/css">
+        <link href="http://www.gotvape.com/min/?b=assets/css&f=ie7.css&9999" rel="stylesheet" type="text/css">
 <![endif]-->
-<script type="text/javascript" src="http://www.gotvape.com/js/general.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/jquery-1.4.4.min.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/jquery.jcarousellite.pack.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/jquery.mousewheel-3.0.4.pack.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/ajax.js"></script>
-<script type="text/javascript" src="http://www.gotvape.com/js/item-options.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.gotvape.com/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<script type="text/javascript" src="http://www.gotvape.com/min/?f=js/general.js,js/jquery-1.4.4.min.js,js/jquery.jcarousellite.pack.js,js/jquery.mousewheel-3.0.4.pack.js,js/jquery.fancybox-1.3.4.pack.js,js/ajax.js,js/item-options.js,js/global.js,images/flash/swfobject.js&amp;9999"></script>
 
 <script type="text/javascript" src="http://www.gotvape.com/js/swfobject.js"></script>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
@@ -65,53 +58,7 @@ _gaq.push(['_trackPageview']);
         </div>
     </noscript>
     <div class="page">
-        <script type="text/javascript">
-<!--
-$(document).ready(function() {
-	$('#tr_top_nav_vaporizerstore_div').hover(function () {
-		return;
-	},function () {
-		tr_toggle_top_nav('vaporizerstore', 'close');
-	});
-	$('#tr_top_nav_vaporizerstore_button').hover(function () {
-		tr_toggle_top_nav('vaporizerstore', 'open');
-	},function () {
-		return;
-	});
-	$('#tr_top_nav_vaporizervideo_div').hover(function () {
-		return;
-	},function () {
-		tr_toggle_top_nav('vaporizervideo', 'close');
-	});
-	$('#tr_top_nav_vaporizervideo_button').hover(function () {
-		tr_toggle_top_nav('vaporizervideo', 'open');
-	},function () {
-		return;
-	});
-	$('#tr_top_nav_vaporizerinfo_div').hover(function () {
-		return;
-	},function () {
-		tr_toggle_top_nav('vaporizerinfo', 'close');
-	});
-	$('#tr_top_nav_vaporizerinfo_button').hover(function () {
-		tr_toggle_top_nav('vaporizerinfo', 'open');
-	},function () {
-		return;
-	});
-	$('#tr_top_nav_gallery_div').hover(function () {
-		return;
-	},function () {
-		tr_toggle_top_nav('gallery', 'close');
-	});
-	$('#tr_top_nav_gallery_button').hover(function () {
-		tr_toggle_top_nav('gallery', 'open');
-	},function () {
-		return;
-	});
-});
-// -->
-</script>
-<!--sphider_noindex-->
+        <!--sphider_noindex-->
 <div id="gv_wraptop">
 <div id="gv_wrapbot">
 <div id="gv_container">
@@ -347,7 +294,9 @@ $(document).ready(function() {
             <span class="gv_search-txt">search</span>
             	<form method="get" id="gv_searchform" action="http://www.gotvape.com/catalogsearch/advanced/result/">
 				<fieldset class="gv_search">
-				<input type="text" name="name" onfocus="if(this.value=='Enter a product name here...')this.value=''" onblur="if(this.value=='')this.value='Enter a product name here...'" value="Enter a product name here..." class="gv_box">
+				<input type="text" name="name" autocomplete="off" onkeyup="tr_autocomplete(this.value, 'http://www.gotvape.com/ajax_suggest.php', 'tr_autocomplete_div')" onchange="tr_autocomplete(this.value, 'http://www.gotvape.com/catalogsearch/ajax/suggest/', 'tr_autocomplete_div')" onfocus="if(this.value=='Enter a product name here...')this.value=''" onblur="if(autocomplete_click!=='true')browser('tr_autocomplete_div').style.display='none';if(this.value=='')this.value='Enter a product name here...'" value="Enter a product name here..." class="gv_box">
+				<div id="tr_autocomplete_div" class="tr_autocomplete_style"></div>
+				<div id="tr_autocomplete_div_processing" style="display:none"></div>
 				<button class="btn" title="Submit Search" type="submit">Go</button>
 				</fieldset>
 
@@ -364,8 +313,7 @@ $(document).ready(function() {
                                                 <strong>Privacy Policy</strong>
                                 </div>
             </span>
-            <div class="gv_facebook-like-alt">
-				<iframe src="//www.facebook.com/plugins/like.php?app_id=255207181172051&amp;href=http%3A%2F%2Fwww.facebook.com%2FGotVape01&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+            <div class="gv_facebook-like-alt" id="tr_fblike_div">
 			</div>
             <!-- 
             <form name="Currency Selector" action="#" method="POST">
@@ -386,7 +334,12 @@ $(document).ready(function() {
      <div id="gv_border">
 <!--/sphider_noindex-->        <div class="main-container col2-left-layout">
 <div class="main">
-<div id="gv_vert-nav-left"><!-- begin cart -->
+<div id="gv_vert-nav-left">
+    <div class="gv_secure-links">
+    <span id="tr_mcafee_div">&nbsp;</span>
+    	<span id="tr_geotrust_div"> <img src="http://www.gotvape.com/assets/images/geo-trust-nav-alt.png"></span>
+	    </div>
+<!-- begin cart -->
                           <div class="gv_my-cart-header">
 
         <span class="gv_my-cart-side-img"><img src="http://www.gotvape.com/assets/images/my-cart-lrg.png"></span>
@@ -396,7 +349,7 @@ $(document).ready(function() {
          <div class="gv_my-cart-side">
         	<div class="gv_my-cart-price-display">
             <div class="gv_cart-subtotal">
-            <font color="#116392">                <a href="http://www.gotvape.com/checkout/cart/" style="color: #116392">1 item</a>            </font> - Subtotal: <strong><font color="#116392"><span class="price">$34.99</span></font></strong>
+            <font color="#116392">                <a href="http://www.gotvape.com/checkout/cart/" style="color: #116392">2 items</a>            </font> - Subtotal: <strong><font color="#116392"><span class="price">$34.98</span></font></strong>
 
             </div>
             </div>
@@ -406,12 +359,23 @@ $(document).ready(function() {
             <img src="http://www.gotvape.com/assets/images/related-divider.png">
             </div>
  			            <div class="gv_my-cart-thumb">
-            <a href="http://www.gotvape.com/wispr-vaporizer-mouthpiece-and-herb-chamber.html" title="WISPR Vaporizer Mouthpiece and Filling Chamber"><img src="//www.gotvape.com/images/images-new/wispr-vaporizer-mouthpiece-and-herb-chamber-side-mod.png"></a>
+            <a href="http://www.gotvape.com/iolite-vaporizer-mesh-screen-set-3-pk.html" title="iolite Vaporizer Mesh Screen Set 3 pk"><img src="//www.gotvape.com/images/images-new/iolite-vaporizer-mesh-screen-set-3-pk-side-mod.png"></a>
             </div>
         	
-            <div class="gv_product-title"><a href="http://www.gotvape.com/wispr-vaporizer-mouthpiece-and-herb-chamber.html">WISPR Vaporizer Mouthpiece and Filling Chamber</a></div>
+            <div class="gv_product-title"><a href="http://www.gotvape.com/iolite-vaporizer-mesh-screen-set-3-pk.html">iolite Vaporizer Mesh Screen Set 3 pk</a></div>
 			<div class="gv_related-info">
-            Our Price: <strong><font color="#c3000e"><span class="price">$34.99</span></font></strong><br>
+            Our Price: <strong><font color="#c3000e"><span class="price">$14.99</span></font></strong><br>
+            Quantity: 1            </div>
+                    	<div class="gv_my-cart-spacer">
+            <img src="http://www.gotvape.com/assets/images/related-divider.png">
+            </div>
+ 			            <div class="gv_my-cart-thumb">
+            <a href="http://www.gotvape.com/iolite-vaporizer-comfort-care-package.html" title="iolite Vaporizer Comfort Care Package"><img src="//www.gotvape.com/images/images-new/iolite-vaporizer-comfort-care-package-side-mod.png"></a>
+            </div>
+        	
+            <div class="gv_product-title"><a href="http://www.gotvape.com/iolite-vaporizer-comfort-care-package.html">iolite Vaporizer Comfort Care Package</a></div>
+			<div class="gv_related-info">
+            Our Price: <strong><font color="#c3000e"><span class="price">$19.99</span></font></strong><br>
             Quantity: 1            </div>
                                 	</div>
             
@@ -469,7 +433,9 @@ $(document).ready(function() {
         </div>
          <div class="gv_my-cart-side">
         	<div class="gv_replacement-parts-search-mod">
-            <input type="text" name="name" class="gv_replacement-parts-mod" onfocus="if(this.value=='Enter a part name here...')this.value=''" onblur="if(this.value=='')this.value='Enter a part name here...'" value="Enter a part name here...">
+            <input type="text" name="name" class="gv_replacement-parts-mod" autocomplete="off" onkeyup="tr_autocomplete(this.value, 'http://www.gotvape.com/ajax_suggest.php', 'tr_autocomplete_div_rep')" onchange="tr_autocomplete(this.value, 'http://www.gotvape.com/catalogsearch/ajax/suggest/', 'tr_autocomplete_div_rep')" onfocus="if(this.value=='Enter a part name here...')this.value=''" onblur="if(autocomplete_click!=='true')browser('tr_autocomplete_div_rep').style.display='none';if(this.value=='')this.value='Enter a part name here...'" value="Enter a part name here...">
+				<div id="tr_autocomplete_div_rep" class="tr_autocomplete_style_rep"></div>
+				<div id="tr_autocomplete_div_processing_rep" style="display:none"></div>
             </div>
             <div class="gv_replacement-search-button">
             <button type="submit" class="gv_replacement-search-mod-btn"></button>
@@ -505,7 +471,80 @@ $(document).ready(function() {
     </div>
 	<div id="gv_vert-footer"></div>
 <!--/sphider_noindex-->
-</div>
+<!-- begin compare -->
+         <div class="gv_compare-header">
+        <h2><a href="javascript:void(0)" onclick="tr_compare_overlay('http://www.gotvape.com/catalog/product_compare/index/?ajax=1');return false" title="Compare Products">COMPARE PRODUCTS</a></h2>
+        </div>
+         <div class="gv_my-cart-side">
+<div class="gv_my-cart-count">
+            			                There are <a href="javascript:void(0)" onclick="tr_compare_overlay('http://www.gotvape.com/catalog/product_compare/index/?ajax=1');return false" style="color: #116392">3 items</a> to be compared.                        </div>
+									        	<div class="gv_my-cart-spacer">
+            <img src="http://www.gotvape.com/assets/images/related-divider.png">
+            </div>
+            <div class="gv_my-cart-thumb">
+            <a href="http://www.gotvape.com/iolite-vaporizer.html" title="iolite Original Vaporizer"><img src="//www.gotvape.com/images/images-new/iolite-new-side-mod.png"></a>
+            </div>
+            <div class="gv_product-title"><a href="http://www.gotvape.com/iolite-vaporizer.html" title="iolite Original Vaporizer">iolite Original Vaporizer</a></div>
+            <div class="gv_related-info">
+			List Price: <s>$299.99</s><br>
+            <strong><font color="#c3000e">Our Price: $199.99</font></strong><br>
+            You Save: $100.00 (33%)         </div> 
+			<div class="gv_btn-area">
+            <div class="gv_related-compare">
+            <a href="http://www.gotvape.com/catalog/product_compare/remove/product/8/uenc/aHR0cDovL3d3dy5nb3R2YXBlLmNvbS9wcml2YWN5LXBvbGljeS5odG1s/" title="Remove this Item" onclick="return confirm('Are you sure you would like to remove this item from the products to compare?');"><img src="http://www.gotvape.com/assets/images/sml-remove.png"> Remove</a> 
+            </div>
+            <div class="gv_related-cart">
+                        <a href="http://www.gotvape.com/iolite-vaporizer.html?options=cart" onclick="tr_item_options(&quot;8&quot;);return false" title="Add to Cart"><img src="http://www.gotvape.com/assets/images/add-to-cart-btn.png"></a>
+                        </div>
+            </div>
+									        	<div class="gv_my-cart-spacer">
+            <img src="http://www.gotvape.com/assets/images/related-divider.png">
+            </div>
+            <div class="gv_my-cart-thumb">
+            <a href="http://www.gotvape.com/wispr-vaporizer-by-iolite.html" title="WISPR Vaporizer by IOLITE"><img src="//www.gotvape.com/images/images-new/wispr-vaporizer-by-iolite-side-mod.png"></a>
+            </div>
+            <div class="gv_product-title"><a href="http://www.gotvape.com/wispr-vaporizer-by-iolite.html" title="WISPR Vaporizer by IOLITE">WISPR Vaporizer by IOLITE</a></div>
+            <div class="gv_related-info">
+			List Price: <s>$299.99</s><br>
+            <strong><font color="#c3000e">Our Price: $269.99</font></strong><br>
+            You Save: $30.00 (10%)         </div> 
+			<div class="gv_btn-area">
+            <div class="gv_related-compare">
+            <a href="http://www.gotvape.com/catalog/product_compare/remove/product/150/uenc/aHR0cDovL3d3dy5nb3R2YXBlLmNvbS9wcml2YWN5LXBvbGljeS5odG1s/" title="Remove this Item" onclick="return confirm('Are you sure you would like to remove this item from the products to compare?');"><img src="http://www.gotvape.com/assets/images/sml-remove.png"> Remove</a> 
+            </div>
+            <div class="gv_related-cart">
+                        <a href="http://www.gotvape.com/wispr-vaporizer-by-iolite.html?options=cart" onclick="tr_item_options(&quot;150&quot;);return false" title="Add to Cart"><img src="http://www.gotvape.com/assets/images/add-to-cart-btn.png"></a>
+                        </div>
+            </div>
+									        	<div class="gv_my-cart-spacer">
+            <img src="http://www.gotvape.com/assets/images/related-divider.png">
+            </div>
+            <div class="gv_my-cart-thumb">
+            <a href="http://www.gotvape.com/iolite-vaporizer-optimizer.html" title="iolite Vaporizer Optimizer"><img src="//www.gotvape.com/images/images-new/iolite-vaporizer-optimizer-side-mod.png"></a>
+            </div>
+            <div class="gv_product-title"><a href="http://www.gotvape.com/iolite-vaporizer-optimizer.html" title="iolite Vaporizer Optimizer">iolite Vaporizer Optimizer</a></div>
+            <div class="gv_related-info">
+			List Price: <s>$29.99</s><br>
+            <strong><font color="#c3000e">Our Price: $19.99</font></strong><br>
+            You Save: $10.00 (33%)         </div> 
+			<div class="gv_btn-area">
+            <div class="gv_related-compare">
+            <a href="http://www.gotvape.com/catalog/product_compare/remove/product/294/uenc/aHR0cDovL3d3dy5nb3R2YXBlLmNvbS9wcml2YWN5LXBvbGljeS5odG1s/" title="Remove this Item" onclick="return confirm('Are you sure you would like to remove this item from the products to compare?');"><img src="http://www.gotvape.com/assets/images/sml-remove.png"> Remove</a> 
+            </div>
+            <div class="gv_related-cart">
+                        <a href="http://www.gotvape.com/checkout/cart/add/uenc/aHR0cDovL3d3dy5nb3R2YXBlLmNvbS9wcml2YWN5LXBvbGljeS5odG1s/product/294/" onclick="tr_item_options(&quot;294&quot;);return false" title="Add to Cart"><img src="http://www.gotvape.com/assets/images/add-to-cart-btn.png"></a>
+                        </div>
+            </div>
+						<div class="gv_related-spacer">
+            <img src="http://www.gotvape.com/assets/images/related-divider.png">
+            </div>
+            <div class="gv_compare-btn">
+            <a href="javascript:void(0)" onclick="tr_compare_overlay('http://www.gotvape.com/catalog/product_compare/index/?ajax=1');return false">Compare All</a>
+            </div>
+        </div>
+        <div class="gv_my-cart-footer"></div>    
+<img src="http://www.gotvape.com/assets/images/compare-btn.png" alt="Submit Button Roll" style="border: 0; width: 1px; height: 1px; visibility: hidden;">
+<!-- end compare --></div>
                  <div class="gv_content-right">
 <div class="gv_content-header">
 <div class="gv_content-txt-right"></div>
@@ -516,9 +555,9 @@ $(document).ready(function() {
 </div>
 <div class="gv_content-house">
 
-                                        <div class="std"><h2>GotVape.com Privacy Policy</h2>
+                                        <div class="std"><ul class="messages"><li class="success-msg"><ul><li>The product iolite Vaporizer Optimizer has been added to comparison list.</li><li>iolite Vaporizer Comfort Care Package was added to your shopping cart.</li></ul></li></ul><h2>GotVape.com Privacy Policy</h2>
 <p>We understand that you have <strong>confidential information</strong> that you want to protect and maintain as confidential. We want you to know that Got Vape? is committed to safeguarding your privacy online and that we strive to make our Web site as safe and secure as reasonably possible.</p>
-<p>In order to address our users most frequently asked questions we've organized our privacy policy statement in a Q&amp;A format. If you have any questions after reading this policy, please let us know. Send us an email at <a href="mailto: customer.service@gotvape.com">customer.serv...@GotVape.com</a>.</p>
+<p>In order to address our users most frequently asked questions we've organized our privacy policy statement in a Q&amp;A format. If you have any questions after reading this policy, please let us know.</p>
 <h2>What information does Got Vape? collect from me?</h2>
 <p>During registration we ask for your name, company name, address, zip/postal code, email address, phone, age. In addition to the information we obtain at registration, we may ask you for information at other times, such as when you make a purchase or register for a service on www.gotvape.com Web site, when you submit a listing for a Web site, or when you report a problem with one of our services or the site(s) of our strategic alliance companies.</p>
 <p>If you contact Got Vape? we may keep a record of that correspondence or communication. Information on how you communicated with us may also be recorded and can include your Internet address, the language you selected for viewing order forms or other documents, your browser type, the currency in which you viewed prices if such feature is available, your use of a secure or insecure Web page, the return email address shown in any email message from you, the return address on any envelope or facsimile number on any facsimile, or the telephone number from which you called.</p>
@@ -595,16 +634,12 @@ $(document).ready(function() {
             <h2>Site Partners</h2>
             
             <div class="gv_footer-top-links">
-            	<!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
-<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- end GeoTrust Smart Icon tag -->
+            	<span id="tr_geotrust_div_2"> <img src="http://www.gotvape.com/assets/images/geo-trust-nav-alt.png"></span>
 	            <a href="http://www.gotvape.com/bbb-pop-up.html" onclick="popup = window.open('http://www.gotvape.com/bbb-pop-up.html', 'PopupPage', 'height=610,width=337,scrollbars=yes,resizable=yes'); return false" target="_blank"><img src="http://www.gotvape.com/assets/images/bbb-icon.png"></a>
             
             <img src="http://www.gotvape.com/assets/images/credit-card-icons.png">
             <img src="http://www.gotvape.com/assets/images/encryption-icon.png">
-            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.gotvape.com">
-            <img width="94" height="54" border="0" style="margin-left: 5px;" src="//images.scanalert.com/meter/www.gotvape.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime.">
-            </a>
+            <span id="tr_mcafee_div_2">&nbsp;</span>
             </div>
             
             </div>
@@ -625,7 +660,7 @@ $(document).ready(function() {
             
             <div class="gv_footer-links-2">
             <ul>
-            <li><a href="http://www.gotvape.com/wholesale.html">Wholesale Vaporizers</a></li>
+            <li><a href="http://www.gotvape.com/wholesale-vaporizers.html">Wholesale Vaporizers</a></li>
             <li><a href="http://www.gotvape.com/customer/account/forgotpassword/">Forgot Your Password</a></li>
             <li><a href="http://www.gotvape.com/return-policy.html">Return Policy</a></li>
             <li><a href="http://www.gotvape.com/site-map.html">Site Map</a></li>
@@ -677,7 +712,47 @@ $(document).ready(function() {
     </div>
     </div>
     </div>
-<!--/sphider_noindex-->            </div>
+<!--/sphider_noindex-->
+<div id="tr_hidden_geotrust" style="display: none;">
+ <!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
+<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+<!-- end GeoTrust Smart Icon tag -->
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(window).load(function(){
+	try{
+		writeContent('tr_geotrust_div', browser('tr_hidden_geotrust').innerHTML);
+	} catch (err) {}
+	try{
+		writeContent('tr_geotrust_div_2', browser('tr_hidden_geotrust').innerHTML);
+	} catch (err) {}
+	writeContent('tr_hidden_geotrust', '');
+	try{
+		writeContent('tr_mcafee_div', ' <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.gotvape.com"><img width="94" height="54" border="0" style="margin-bottom: 0px;" src="https://images.scanalert.com/meter/www.gotvape.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." /></a>');
+	} catch (err) {}
+	try{
+		writeContent('tr_mcafee_div_2', ' <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.gotvape.com"><img width="94" height="54" border="0" style="margin-bottom: 0px;" src="https://images.scanalert.com/meter/www.gotvape.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." /></a>');
+	} catch (err) {}
+	try{
+		writeContent('tr_fblike_div', ' <iframe src="https://www.facebook.com/plugins/like.php?app_id=255207181172051&href=http%3A%2F%2Fwww.facebook.com%2FGotVape01&send=false&layout=button_count&width=100&show_faces=false&action=like&colorscheme=light&font&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe>');
+	} catch (err) {}
+	try{
+		writeContent('tr_fblike_home_1', ' <iframe src="https://www.facebook.com/plugins/like.php?app_id=255207181172051&amp;href=www.facebook.com%2Fgotvape01&amp;send=false&amp;layout=button_count&amp;width=82&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:82px; height:21px;" allowTransparency="true"></iframe>');
+	} catch (err) {}
+	try{
+		writeContent('tr_fblike_home_2', ' <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FGotVape01&amp;width=310&amp;colorscheme=light&amp;show_faces=true&amp;connections=5&amp;border_color=%23FFFFFF&amp;stream=true&amp;header=false&amp;height=481" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:481px;" allowTransparency="true"></iframe>');
+	} catch (err) {}
+	try{
+		if ($('#tr_hp_tab_blog_content_recent').length) {
+			$.get("http://www.gotvape.com/tr_blog_fetch.php", function(data){
+				$('#tr_hp_tab_blog_content_recent').html(data);
+				});
+		}
+	} catch (err) {}
+});
+//]]>
+</script>            </div>
 </div>
 
 
