@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115234516id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106110314id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
 
 # PRIVACY | APPS BUILDER
 
