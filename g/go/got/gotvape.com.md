@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017182607id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106140336id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  *     * The product iolite Vaporizer Optimizer has been added to comparison list.
+    * iolite Vaporizer Comfort Care Package was added to your shopping cart.
+
+
 
 ## GotVape.com Privacy Policy
 
 We understand that you have **confidential information** that you want to protect and maintain as confidential. We want you to know that Got Vape? is committed to safeguarding your privacy online and that we strive to make our Web site as safe and secure as reasonably possible.
 
-In order to address our users most frequently asked questions we've organized our privacy policy statement in a Q&A format. If you have any questions after reading this policy, please let us know. Send us an email at [customer.serv...@GotVape.com](mailto:%20customer.service@gotvape.com).
+In order to address our users most frequently asked questions we've organized our privacy policy statement in a Q&A format. If you have any questions after reading this policy, please let us know.
 
 ## What information does Got Vape? collect from me?
 
