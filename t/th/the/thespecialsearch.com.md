@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thespecialsearch.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205222134id_/http%3A//thespecialsearch.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thespecialsearch.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106161306id_/http%3A//thespecialsearch.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Thespecialsearch.com- Privacy Policy
 
