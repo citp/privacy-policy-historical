@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the central-musiq.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229062218id_/http%3A//www.central-musiq.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the central-musiq.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106123845id_/http%3A//www.central-musiq.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Central-Musiq.com
 
