@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219232809id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106080259id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Farm & Cottage Holidays
 
