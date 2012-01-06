@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoyaza.info privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207083649id_/http%3A//enjoyaza.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoyaza.info privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106235216id_/http%3A//enjoyaza.info/privacy-policy) for the most accurate reproduction.*
 
 # Kunci gitar alamat palsu - Chord alamat palsu - Chord gitar alamat palsu - Privacy Policy
 
@@ -25,4 +25,4 @@ If you have any questions regarding the privacy policy of EnjoyAza then you may 
 
 #### Terms:
 
-[chord lagu alamat palsu](http://enjoyaza.info/privacy-policy "chord lagu alamat palsu"),[kunci alamat palsu](http://enjoyaza.info/privacy-policy "kunci alamat palsu"),[chord dangdut](http://enjoyaza.info/privacy-policy "chord dangdut"),[cord lagu alamat palsu](http://enjoyaza.info/privacy-policy "cord lagu alamat palsu"),[chord perpisahan termanis](http://enjoyaza.info/privacy-policy "chord perpisahan termanis"),[chord dangdut alamat palsu](http://enjoyaza.info/privacy-policy "chord dangdut alamat palsu"),[cord lagu dangdut](http://enjoyaza.info/privacy-policy "cord lagu dangdut"),[facebook](http://enjoyaza.info/privacy-policy "facebook"),[chord lagu dangdut](http://enjoyaza.info/privacy-policy "chord lagu dangdut"),[lirik dan kunci alamat palsu](http://enjoyaza.info/privacy-policy "lirik dan kunci alamat palsu"), 
+[chord lagu alamat palsu](http://enjoyaza.info/privacy-policy "chord lagu alamat palsu"),[kunci alamat palsu](http://enjoyaza.info/privacy-policy "kunci alamat palsu"),[chord dangdut](http://enjoyaza.info/privacy-policy "chord dangdut"),[cord lagu alamat palsu](http://enjoyaza.info/privacy-policy "cord lagu alamat palsu"),[chord dangdut alamat palsu](http://enjoyaza.info/privacy-policy "chord dangdut alamat palsu"),[chord perpisahan termanis](http://enjoyaza.info/privacy-policy "chord perpisahan termanis"),[cord lagu dangdut](http://enjoyaza.info/privacy-policy "cord lagu dangdut"),[kunci lagu gugun blues shelter](http://enjoyaza.info/privacy-policy "kunci lagu gugun blues shelter"), 
