@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206070140id_/http%3A//modxchange.com/Footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106083416id_/http%3A//www.modxchange.com/Footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Footer
 
