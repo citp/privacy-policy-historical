@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the host.co.in privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229175939id_/http%3A//www.host.co.in/privacy-policy-hosting.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the host.co.in privacy policy that was archived on 2012-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120106202734id_/http%3A//www.host.co.in/privacy-policy-hosting.php) for the most accurate reproduction.*
 
 # Web Hosting Provider India - Hosting Privacy Policy
 
