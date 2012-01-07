@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the live-your-love.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119032819id_/http%3A//live-your-love.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-your-love.com privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107101808id_/http%3A//live-your-love.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Live Your Love
+# Privacy policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use live-your-love.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -42,7 +42,7 @@ If Live-your-love.com is sold, the information we have obtained from you through
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on the link and use our [Contact me](http://live-your-love.com/contact-me/) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on the link and use our [Contact me](http://onlineincomestar.com/contact-me/) page.
 
 ### Updates and Effective Date
 
