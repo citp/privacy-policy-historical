@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the butuhdoa.net privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105032135id_/http%3A//www.butuhdoa.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butuhdoa.net privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107200953id_/http%3A//www.butuhdoa.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ButuhDoa Blog | Japanese and Korean Media Downloads
+# Privacy Policy
+
+## [Privacy Policy](http://www.butuhdoa.net/privacy-policy "Permanent Link to Privacy Policy")
 
 **Your Privacy**  
 Your _privacy_ is important to us. To superior protect your privacy we wage this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice simple to find, we make it acquirable on our homepage and at each point where personally classifiable information might be requested.
@@ -23,8 +25,5 @@ The contents of this statement might be modified at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of  ButuhDoa Blog then you might contact us at butuhdoa at gmail dot com
 
-If you like this , dont forget to say thanks and click on G +1 
-
-Posted by butuh   @   27 April 2011 0 comments
-
-Sorry, comments are closed.
+If you like this , dont forget to say thanks and click on G +1    
+If you found Link Error please tell me @ [Here](http://www.butuhdoa.net/shoutbox) Or Email me 
