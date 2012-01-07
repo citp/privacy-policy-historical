@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myautoaccount.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217005213id_/http%3A//www.santanderconsumerusa.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myautoaccount.com privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107232459id_/http%3A//www.santanderconsumerusa.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Santander Consumer USA >> About > Privacy Policy
 
@@ -66,8 +66,8 @@ information about your creditworthiness | **Yes** | **Yes**
 | 
 
   * Call **888-222-4227** \- our menu will prompt you through your choice(s)
-  * Visit us online: [**www.SantanderConsumerUSA.com**](https://web.archive.org/web/20111217005213id_/http%3A//www.santanderconsumerusa.com/default.aspx) or
-  * [Click Here](https://web.archive.org/web/20111217005213id_/http%3A//www.santanderconsumerusa.com/Docs/SCUSA_Privacy_Policy_2010_v4.pdf) to download the Mail-In Form
+  * Visit us online: [**www.SantanderConsumerUSA.com**](https://web.archive.org/web/20120107232459id_/http%3A//www.santanderconsumerusa.com/default.aspx) or
+  * [Click Here](https://web.archive.org/web/20120107232459id_/http%3A//www.santanderconsumerusa.com/Docs/SCUSA_Privacy_Policy_2010_v4.pdf) to download the Mail-In Form
 
 
 
@@ -112,7 +112,7 @@ We collect your personal information, for example, when you...
 
 
 
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. For online banking, we or our service providers may use cookies, which are pieces of data that help web sites recognize return visitors and to personalize and enrich your online visits. For more details, please refer to our [Online Privacy Policy](https://web.archive.org/web/20111217005213id_/http%3A//www.santanderconsumerusa.com/about/OnlinePrivacy.aspx).  
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. For online banking, we or our service providers may use cookies, which are pieces of data that help web sites recognize return visitors and to personalize and enrich your online visits. For more details, please refer to our [Online Privacy Policy](https://web.archive.org/web/20120107232459id_/http%3A//www.santanderconsumerusa.com/about/OnlinePrivacy.aspx).  
   
 **Why can’t I limit all sharing?**
 
