@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201182856id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107104018id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 ## Security 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 ## Changes in this Privacy Policy 
 
@@ -78,5 +78,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions about security on our website, please feel free to contact Homes.org or by emailing [CustomerService@Homes.org](mailto:CustomerService@Homes.org).
 
 Star Nine Ventures, Inc.   
-1604 Nueces St.   
-Austin Texas, 78701 
+8834 N. Capital of TX Hwy  
+Suite #250  
+Austin, TX 78759  
+
