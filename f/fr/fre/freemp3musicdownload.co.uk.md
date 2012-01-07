@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemp3musicdownload.co.uk privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107162533id_/http%3A//www.freemp3musicdownload.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemp3musicdownload.co.uk privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107074742id_/http%3A//www.freemp3musicdownload.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free MP3 Music Download
 
