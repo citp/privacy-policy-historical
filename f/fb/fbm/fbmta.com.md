@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbmta.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107232553id_/http%3A//www.fbmta.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbmta.com privacy policy that was archived on 2012-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120108044620id_/http%3A//www.fbmta.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Browser
 
