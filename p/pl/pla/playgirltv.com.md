@@ -1,100 +1,39 @@
-> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2012-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120108033639id_/http%3A//www.playgirl.com/privacyPolicy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## TRANS DIGITAL MEDIA, LLC Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+TRANS DIGITAL MEDIA, LLC has created this privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices for this Web site (the "Web site"). By using or accessing this Web site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEB SITE.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Personal and Non-Personal Information
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+When using the Web site you may be asked to provide certain personally identifiable information about yourself ("Personal Information"). Personal Information can include your name, email address, physical address or telephone number. In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information").
 
-**Information Collection and Use**
+## Information Usage
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We do not share any Personal Information you submit through our Web site with any third party, unless it is necessary to comply with your request for a service or product, or to comply with applicable law. We may use Aggregate Information to improve and enhance your experience on the Web site and for our market research activities. For example, we may share Aggregate Information with other unaffiliated third parties, such as business partners and advertisers, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any Personal Information. We will never sell your Personal Information to any third party without your consent except in connection with the sale or merger of TRANS DIGITAL MEDIA, LLC or the division responsible for such services.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## Changes to policy; Opt-Out Process
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of our Web site following the posting of any changes to this policy means you accept such changes.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Cookies
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Many web sites use cookies for these purposes. We, and the advertisers that place advertisements on the Web site, may use cookies to customize your visit to the Web site and for other purposes to make your visit more convenient or to enable us to enhance our service. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our Web site, but it may interfere with some of its functionality. We do not use cookies to retrieve information from your computer for purposes that are unrelated to the Web site or your interaction with the Web site.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## Clickstream
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to the Web site. We may use clickstream data as a form of Aggregate Information to anonymously determine how much time visitors spend on each page of our Web site, how visitors navigate throughout the Web site and how we may tailor our web pages to better meet the needs of visitors. This information may be used to improve our Web site or to share with business partners or advertisers. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any Personal Information.
 
-**Security**
+## Other Web Sites
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Our Web site may contain links to, and advertisements from, other web sites not maintained by TRANS DIGITAL MEDIA, LLC. Other sites may also reference or link to our Web site. We encourage you to be aware when you leave our Web site and to read the privacy statements of each and every web site that you visit. We are not responsible for the privacy practices or the content of such other sites.
 
-**Updating Your Information**
+## Security
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+The security of your Personal Information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and TRANS DIGITAL MEDIA, LLC., and TRANS DIGITAL MEDIA, LLC. and you, will be free from unauthorized access by third parties such as hackers and your use of the Web site demonstrates your assumption of this risk. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your Personal Information.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## Contact
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+For questions or concerns relating to privacy, we can be contacted at: [INFO@TDMLLC.COM](mailto:INFO@TDMLLC.COM)
