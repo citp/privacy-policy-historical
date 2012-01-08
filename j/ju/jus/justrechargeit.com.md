@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrechargeit.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011062836id_/https%3A//www.justrechargeit.com/content/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrechargeit.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109004219id_/https%3A//www.justrechargeit.com/content/privacy_policy.aspx) for the most accurate reproduction.*
 
 # JustRechargeIt : Privacy Policy
 
