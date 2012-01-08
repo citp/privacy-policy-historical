@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boozedgfs.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108035930id_/http%3A//www.circledreams.com/privacy/BoozedGFs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boozedgfs.com privacy policy that was archived on 2012-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120108164442id_/http%3A//www.circledreams.com/privacy/BoozedGFs) for the most accurate reproduction.*
 
 # Privacy Policy - BoozedGFs
 
