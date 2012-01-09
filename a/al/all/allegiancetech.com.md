@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiancetech.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429173317id_/http%3A//www.allegiance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiancetech.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109155646id_/http%3A//www.allegiance.com/privacy.php) for the most accurate reproduction.*
 
 # Allegiance Company Information - Privacy Policy
 
@@ -23,7 +23,7 @@ If you have questions, concerns, or complaints contact an Allegiance Privacy Com
 
 Phone: 801-617-8000  
 Email: [privacycompliance@allegiance.com](mailto:privacycompliance@allegiance.com)  
-Mail: Allegiance, Inc., 10713 South Jordan Gateway, Ste. 120, South Jordan, UT 84095 
+Mail: Allegiance, Inc., 10235 South Jordan Gateway, 5th Floor, South Jordan, UT 84095, USA 
 
 ## Onward Transfer
 
@@ -52,8 +52,9 @@ If your personally identifiable information changes, or if you no longer desire 
 
 Support Department  
 Allegiance, Inc.  
-10713 South Jordan Gateway, Ste. 120  
+10235 South Jordan Gateway, 5th Floor  
 South Jordan, UT 84095  
+USA  
 1-801-617-8000 
 
 ## Security
