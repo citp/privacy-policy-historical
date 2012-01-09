@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012247id_/http%3A//www.everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109040218id_/http%3A//www.everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
 
 # One-Stop Search For Warehouse Sales, Clearance Sales, Sales Voucher & Hidden Promotion in Malaysia - Everyday.com.my
 
@@ -89,6 +89,29 @@ Your information is stored on our servers located in the United States. We treat
 **Third Parties**
 
 Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are bidders, buyers, or sellers on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since Everyday.com.my does not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. We encourage you to ask questions before you disclose your personal information to others. 
+
+**E-Mail And E-Mail Addresses**
+
+If you were to subscribe any promotional emails from [Everyday.com.my](http://www.everyday.com.my/), we will collect your e-mail address We may use and display your full name and email address when you send an email notification to a friend through [Everyday.com.my](http://www.everyday.com.my/) (such as in an invitation, or when sharing your content). Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message) or notifications from a social network or other website with whom you have registered to receive such notifications. We may use this e-mail address to contact you, for things such as notifications of limited edition shop sales and other related information. You may indicate your preference to stop receiving further promotional communications as further detailed below. 
+
+Besides sending promotional emails, Everyday.com.my will also send you  
+\- Application process, services, enquiries or feedback  
+\- Service surveys  
+\- Billings or payments  
+\- Public notices 
+
+**Your Choices Regarding Your Personal Information**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [support@everyday.com.my](mailto:support@everyday.com.my). 
+
+If you would like to contact us for further details, we are contactable at: 
+
+Intergrated Methods Sdn Bhd  
+Lot 55-6 The Boulevard,  
+Mid Valley City, Lingkaran Syed Putra  
+59200 Kuala Lumpur, Malaysia  
+Tel: 03 228 34599  
+support@everyday.com.my
 
 **General**
 
