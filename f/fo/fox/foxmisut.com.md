@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the foxmisut.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425020622id_/http%3A//www.foxmisut.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxmisut.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109040825id_/http%3A//www.foxmisut.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Mirror File Hosting - Foxmisut - Privacy & Policy
+
+**Google Advertising Cookies**  
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to the users based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by [foxmisut.com](http://www.foxmisut.com/) for measuring usage. 
@@ -22,4 +25,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Effective Date: December 1, 2008 
 
-**Feel free to[ **contact us**](https://web.archive.org/web/20100425020622id_/http%3A//www.foxmisut.com/contact-us.php) for any further information.**
+**Feel free to[ **contact us**](https://web.archive.org/web/20120109040825id_/http%3A//www.foxmisut.com/contact-us.php) for any further information.**
