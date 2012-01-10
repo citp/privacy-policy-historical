@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerboard.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213100014id_/http%3A//www.careerboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerboard.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110123112id_/http%3A//www.careerboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | the USA CareerBoard.com
 
@@ -29,9 +29,7 @@ CareerBoard reserves the right to retain information that you have requested be 
 
 If you use the "Job Cart" to reply to job listings then your emails will be sent with the relevant personal information to the advertisers via CareerBoard’s servers. 
 
-If you set up our Jobs Alerts Service then you will receive a list of jobs that match your specific criteria, which may include a short advertising message from one of our partners.   
-undefined  
-undefined
+If you set up our Jobs Alerts Service then you will receive a list of jobs that match your specific criteria, which may include a short advertising message from one of our partners. 
 
 Where you have applied by e-mail for a job advertised on our Site we may contact you periodically by email to keep you informed of the services we provide.
 
