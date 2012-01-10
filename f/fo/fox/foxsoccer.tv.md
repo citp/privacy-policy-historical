@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026060649id_/http%3A//www.foxsoccer.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110190335id_/http%3A//www.foxsoccer.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | FOX Soccer TV
 
