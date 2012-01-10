@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instablogs.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202010441id_/http%3A//www.instablogs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instablogs.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110061739id_/http%3A//www.instablogs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Instablogs - Privacy Policy
 
