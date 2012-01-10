@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport-tube.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012927id_/http%3A//sport-tube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport-tube.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110152235id_/http%3A//sport-tube.com/privacy-policy) for the most accurate reproduction.*
 
 # Sport Tube, sport videos, sport news, sport movies, football videos, basketball videos, sport best moments
 
