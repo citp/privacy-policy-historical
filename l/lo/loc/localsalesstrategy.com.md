@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsalesstrategy.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110110305id_/http%3A//www.localsalesstrategy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsalesstrategy.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110070526id_/http%3A//www.localsalesstrategy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Sales Strategy
 
