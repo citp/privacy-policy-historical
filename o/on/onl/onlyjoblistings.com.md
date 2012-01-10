@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyjoblistings.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127175721id_/http%3A//onlyjoblistings.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyjoblistings.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110052541id_/http%3A//www.onlyjoblistings.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
