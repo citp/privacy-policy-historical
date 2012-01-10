@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadnsell.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607231651id_/http%3A//uploadnsell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadnsell.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110191647id_/http%3A//uploadnsell.com/privacy.php) for the most accurate reproduction.*
 
 # Sell eBooks, Digital Products with Your Own Paypal - UPLOADnSELL.com
 
