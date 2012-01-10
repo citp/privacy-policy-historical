@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020023555id_/http%3A//tvinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvinsider.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110042105id_/http%3A//tvinsider.com/privacy) for the most accurate reproduction.*
 
-# TV Guide Magazine, LLC/TV Insider Privacy Policy
+# TV Guide Magazine, LLC / TV Insider Privacy Policy
 
-## Privacy Policy
-
-### Table of Contents
+## Table of Contents
 
   * Information We Collect
   * How Your Information Will Be Used
