@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228013642id_/http%3A//www.ratepoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratepoint.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110203506id_/http%3A//www.ratepoint.com/privacy) for the most accurate reproduction.*
 
 # Local Business Reviews and Online Reputation Management | RatePoint
 
