@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081618id_/http%3A//findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2012-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120110062427id_/http%3A//findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Find the Right School - Earn a Highly Respected Degree From Premier Schools
 
