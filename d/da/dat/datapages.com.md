@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datapages.com privacy policy that was archived on 2011-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110719152800id_/http%3A//datapages.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapages.com privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111014911id_/http%3A//www.datapages.com/privacy.aspx) for the most accurate reproduction.*
 
 # AAPG Datapages > Home
 
