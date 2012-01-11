@@ -1,50 +1,64 @@
-> *The following text is extracted and transformed from the neospire.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195413id_/http%3A//www.neospire.net/corporate-info/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neospire.net privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111050358id_/http%3A//www.neospire.net/corporate-info/legal.php) for the most accurate reproduction.*
 
 # Privacy Policy for NeoSpire Managed Hosting
 
 ## NeoSpire Privacy Policy
 
-This Privacy Policy governs the manner in which NeoSpire Corporation ("NeoSpire") collects, uses, maintains and discloses information collected from customers in connection with NeoSpire managed hosting services and other internet services. NeoSpire is committed to safeguarding the information its customers entrust to it in compliance with Safe Harbor provisions. NeoSpire reserves the right to change this Privacy Policy and other policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
-
-NeoSpire may collect personally identifiable information from customers in a variety of ways, including online and offline subscription and order forms, paper or telephone submissions and other instances where customers are invited to volunteer such information. Additionally, contact information may be collected during any correspondence relating to customer support, as well as in connection with products and services offered on NeoSpire sites. NeoSpire may collect such information as contact name, business name and type, address, phone number, email address, billing information including credit card number and expiration date as well as other information. We will only use your name, address, billing information/credit card information to process your order. The addresses are used for customer support, required notifications, product and policy updates and marketing releases. Under no circumstances will we use this information for anything else not described in this Privacy Policy. All users may at any time opt-out of our marketing by clicking the unsubscribe link located at the bottom of all marketing and membership notices.
-
-Whenever customers apply for our services or sign up for any other product or service through NeoSpire, they may be required to submit financial information such as a credit card number and billing address before we will process the application. NeoSpire will not sell, share or rent any financial information collected except as disclosed in this policy or as necessary to fulfill orders.
-
-NeoSpire uses your unique network address to help diagnose potential problems with your server and to administer our website.
-
-NeoSpire makes diligent efforts to maintain accurate information on our customers. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, NeoSpire has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect.
-
-NeoSpire has put stringent security procedures in place to protect information collected about our customers. We constantly monitor our systems, which are protected using industry-standard security measures. Secure Sockets Layer ("SSL") connections are used to communicate to our system to protect Customer financial information as well as encrypting vital information that customers input through NeoSpire's websites. However, NeoSpire cannot guarantee that the information submitted to, maintained on or transmitted from our systems will be completely secure.
-
-Customers may access all personal identifiable information that we collect and maintain by contacting their account manager or customer support 24/7. They can correct factual errors in personally identifiable information by sending us a request to our support department, support@neospire.net. To protect Customer privacy and security, NeoSpire reserves the right to take reasonable steps to verify Customer identity prior to granting access or processing changes or corrections.
-
-NeoSpire may contact customers regarding products and services offered by NeoSpire and its trusted affiliates, business partners and independent contractors. We may also use information collected through our Web site for research regarding the effectiveness of the website and related marketing, advertising and sales efforts. Information will only be made publicly available where mandated by governing agencies or as disclosed in the terms and conditions of our agreements with customers.
-
-Electronic communications may be sent by NeoSpire using customers' personal contact information to inform them of new products, important industry news or about general services and upgrades provided by NeoSpire. If customers do not wish to receive these industry notices, they can contact their account manager. However, in order to fulfill our service obligations, NeoSpire will continue to send emails regarding Customers' account administration or service interruptions for system maintenance.
-
-Information collected from customers may be disclosed to independent contractors and business partners who have agreed to hold this information in confidence, not use it for any purpose except to carry out the service they are providing for NeoSpire, and honor our privacy and security policies in the way this information is handled. NeoSpire may also disclose aggregate, anonymous data based on information collected from customers to actual or prospective investors and partners. Should a sale of NeoSpire's business ever occur, collected Customer information may be transferred along with the sale but the information will be treated in the same manner as this privacy policy.
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-Account and other personal information may be released when we are required to do so by law, court order, law enforcement authority or regulatory agency.
-
-We strongly recommend that Customers review the privacy statement and policies of any online service prior to submitting personal information. NeoSpire has no control over and is not responsible for the gathering practices of other websites, including those to which we may link and those which may link to us.
-
-By choosing to visit and interact with NeoSpire, Customers agree that their visit and any dispute regarding the protection of their privacy during such visit is subject to this Privacy Statement including, but not limited to, the provisions regarding limitations on damages and the application of the law of the state of Texas. Please note that if customers enter into other contractual agreements with NeoSpire, privacy terms and conditions of such other agreements may supplement or supersede this policy. Questions and concerns about privacy at NeoSpire should be directed to legal@neospire.com.
-
-Regardless of later updates or changes to our Privacy Policy, we will never use the information you submit under our current Privacy Policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
-
-Should questions concerning this Privacy Policy arise, please send an email to legal@neospire.com. Please specify "Privacy Policy" in the subject line of the e-mail.
-
-NeoSpire Inc.  
-Attention: Compliance Manager  
-1807 Ross Ave., Ste. 300  
-Dallas, TX 75201  
-[legal@neospire.com](mailto:legal@neospire.com)
-
-Effective Date: 01-24-05
+This Privacy Policy discusses how Hosting.com, Inc. (Hosting.com) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, individuals who contact us and visitors to our customers' websites (together, "Users"). Please review this Privacy Policy in conjunction with our Acceptable Use Policy (AUP) and your contract with us. The terms of this Privacy Policy are in addition to the terms of our AUP and our contract. We offer products and services that are provided by third parties (Third Party Products). These Third Party Products may collect and use information in ways that differ from those set out in this Privacy Policy. We have no responsibility for how these third parties treat your information, however, if we have access to their privacy policies, we will provide them to you on your request. We collect information from Users in many ways. The purpose of this Privacy Policy is to provide Users with an understanding of what types of information we collect, how we treat it, and choices they may have related to this information. We reserve the right to change our Privacy Policy at any time. To stay updated on our current Privacy Policy, please visit this page often. If you have a question about how a certain type of information is handled, please e-mail us at: support@hosting.com. Information that we collect Customer Record - When Users become customers they provide us with their address, email, phone number, and credit card. Users may also provide us with their fax number and company affiliation (together "Customer Record"). Inquiries - When Users contact us we may ask for information that allows us to contact them, validate the seriousness of their inquiry and request specific information related to the reason they have contacted us (User Inquiry Information). User Inquiry Information may be associated with other information, such as Cookies and information from Tracking Software. Surveys - Users may be offered the opportunity to respond to surveys, questionnaires and other requests for information (Survey Information). The types of data that Users provide to us is set out in the survey request. Statistical Information - All of our servers collect statistical information such as Users' IP addresses, dates Users visit, computers Users are using, and operating system, among other data (Statistical Information). Cookies - Our website uses cookies. These data files are read by our server to determine whether Users have visited our site before, how often, the length of time and which pages Users view. The equipment we use to provide Services to Users may also place cookies on their computers. Tracking Software - We may use software designed to track responses to our advertisements, other promotional activity as well as a Users' movement through our site (Tracking Software). Tracking Software includes software such as web beacons and software used by our advertising partners. How we use information that we collect. Subpoenas and Other Demands for Information - Hosting.com is required to comply with demands for information as required by State and Federal law. Examples of these demands include subpoenas, warrants, and civil discovery demands. Information covered by our Privacy Policy may be disclosed following such a request if we determine, in our sole discretion, that such a disclosure is necessary or required. We may also disclose this information if it is necessary or required to protect our interests, the interests of our customers, or in connection with the sale of our business. Customer Record - We use the Customer Record to identify Users personally. It is used throughout our business to provide services to Users. Information in your Customer Record will only be shared with third parties if it is necessary to provide Third Party products to you. However, information in the Customer Record related to payments, such as a Users' credit card number, is only used to ensure we receive payment for services rendered Customer Inquiries - We use User Inquiry Information to identify Users personally. It is used throughout our business to provide services to Users. User Inquiry Information is shared with third parties in the following circumstances: to identify and fix problems with services we provide when we are not capable of doing so ourselves. Survey Information - We use Survey Information to identify Users personally. We use it throughout our business to market new products and services to Users. Survey Information is not shared with third parties in ways that identify Users personally. To the extent we share Survey Information with third parties, it is done in aggregate. Statistical Information - We do not use Statistical Information to identify Users personally. We use Statistical Information to operate our hardware and software, diagnose problems and administer our website. We may use aggregate Statistical Information to modify the products and services we offer based on who is visiting our website, and what they are purchasing. Cookies - We may use Cookies to identify Users personally. We use the information provided by cookies to change the way our website looks to Users; to keep Users logged in to certain areas of our website; to ensure continued connection to the Equipment; and to collect demographic data about where Users go on our website and how they behave. Cookies used by our Equipment are used to track and log activities on the Equipment and our Network for security, network maintenance and other related activities. Information about Users collected by Cookies may be associated with information collected from tracking software, and, in response to a sales or support inquiry, may be associated with this additional information to identify a User personally. Tracking Software - Tracking Software does not initially identify Users personally. In general, we use the information provided by Tracking Software to determine the effectiveness of our marketing programs; improve the functionality of our website; and to collect demographic data about where Users go on our website and how they behave. Tracking Software may collect information that when combined with other information we have collected, will enable us to identify Users individually. Data Retention and Security We keep the information covered by our Privacy Policy indefinitely. Information collected by the technologies described in this Privacy Policy is protected by SSL 128 bit encryption technology during transmission. Information kept by us in our business is protected using industry standard security measures. Our employees are required to keep information covered by this Privacy Policy confidential - unless disclosure is authorized in this Privacy Policy or by Users. No means of communication or information transmission or storage is totally secure. Because of this we are not responsible for loss corruption or unauthorized acquisition and use of information covered by this Privacy Policy, or for any resulting damages, including unauthorized acquisition and use. 
 
 #### Email sales@neospire.net or call 1.888.774.2253
 
 [](https://web.archive.org/request-quote.php)[](https://server.iad.liveperson.net/hc/12856738/?cmd=file&file=visitorWantsToChat&site=12856738&byhref=1&imageUrl=https://server.iad.liveperson.nethttp://www.neospire.net/images/live_person/)   
 NeoSpire Product Specialists are always available via phone, email, or live chat. Contact us today to set up a tour of our Dallas data facility and learn how our truly proactive support sets us apart. 
+
+[ABOUT NEOSPIRE](https://web.archive.org/corporate-info/about-neospire.php)
+
+[MEET OUR MANAGEMENT TEAM](https://web.archive.org/corporate-info/management-team.php)
+
+[BOARD OF ADVISORS](https://web.archive.org/corporate-info/board-of-advisors.php)
+
+[OUR MISSION & VISION](https://web.archive.org/corporate-info/mission-vision.php)
+
+[NEOSPIRE TECHNOLOGY PARTNERS](https://web.archive.org/corporate-info/technology-partners.php)
+
+[PARTNER REFERRAL PROGRAM](https://web.archive.org/corporate-info/referral-partners.php)
+
+[NEOSPIRE PRIVACY POLICY](https://web.archive.org/corporate-info/legal.php)
+
+[ACCEPTABLE USES POLICY](https://web.archive.org/corporate-info/acceptable-uses.php)
+
+[REQUEST A QUOTE](https://web.archive.org/request-quote.php)
+
+[CONTACT US](https://web.archive.org/contact.php)
+
+[SITE MAP](https://web.archive.org/sitemap.php)
+
+[](https://web.archive.org/security-and-compliance/PCI-DSS.php)
+
+### SECURITY & COMPLIANCE
+
+#### PCI DSS HOSTING
+
+Utilize NeoSpire's expertise to be compliant & protected.
+
+[Learn More >](https://web.archive.org/security-and-compliance/PCI-DSS.php)
+
+[](https://web.archive.org/network-operations/virtual-tour.html)
+
+### DATA CENTER FACILITIES
+
+#### VIRTUAL TOUR
+
+State-of-the-art technology provides total security.
+
+[Start Your Tour >](https://web.archive.org/network-operations/virtual-tour.html)
+
+[](https://web.archive.org/network-operations/customer-support.php)
+
+### PROACTIVE SOLUTIONS
+
+#### 24/7 LIVE SUPPORT
+
+Our specialists solve problems before they happen.
+
+[Get ProActive >](https://web.archive.org/network-operations/customer-support.php)
