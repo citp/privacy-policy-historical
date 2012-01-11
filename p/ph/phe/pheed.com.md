@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pheed.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206051906id_/http%3A//www.pheed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheed.com privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111122119id_/http%3A//www.pheed.com/privacy) for the most accurate reproduction.*
 
 # Pheed - Privacy Policy
-
-| 
 
 Pheed Limited operates the Pheed website (the "Site") and related mobile applications and software (collectively with the Site, the "Service"). A premium service that enables people to subscribe to a particular ‘news feed’ and link to someone’s real life, in real time. Offering a selection of premium text, photo, voice note, audio content, video, link and other content (collectively, the “Content”). Pheed is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy ("Privacy Policy") to describe our information gathering and dissemination practices and our data protection practices for the Service. The terms "Pheed," "we," "us," and "our" refer to Pheed Limited and its subsidiaries. The terms "you," "your," and "yours" refer to the user/customer utilizing the Service. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/terms).
 
@@ -66,5 +64,3 @@ If you have any questions, comments, or concerns about this Privacy Policy, plea
 
   
 Last Updated August 2011
-
-| 
