@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movievaganza.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731071107id_/http%3A//www.movievaganza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movievaganza.com privacy policy that was archived on 2012-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120112075833id_/http%3A//www.movievaganza.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Movie Vaganza
+# Privacy Policy Page at Watch Movies Online, Movie2k
 
 **[Movie](http://www.movievaganza.com/ "Movie") Vaganza** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -16,7 +16,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) [links](http://www.movievaganza.com/links "links") may also be useful.
 
 ## Special Note About Google Advertising
 
