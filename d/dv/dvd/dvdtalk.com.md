@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217205316id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.dvdtalk.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdtalk.com privacy policy that was archived on 2012-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120112083325id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.dvdtalk.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
