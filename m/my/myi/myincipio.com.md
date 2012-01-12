@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myincipio.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219080733id_/http%3A//www.myincipio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myincipio.com privacy policy that was archived on 2012-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120112181530id_/http%3A//www.myincipio.com/privacy.asp) for the most accurate reproduction.*
 
 # Incipio Privacy Policy: iPhone Cases | iPad Cases | iPod Cases | BlackBerry Cases | MacBook Cases | Smartphone Cases | Zune Cases at Incipio
 
