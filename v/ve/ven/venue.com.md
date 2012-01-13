@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2011-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110904103118id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113143249id_/http%3A//www.venue.com/privacy_policy) for the most accurate reproduction.*
 
-# Venue.com: Privacy Policy
-
-**Our Privacy Policy**
+# Venue - Privacy Policy
 
 This privacy policy applies only to personal information collected via this Web site, and not to any other activities of Venue or its affiliates or companies whose products and services we sell. Personal information means information about you that is personally identifiable like your name, address, e-mail address, phone number, or credit card information, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Venue does not own or control, or to people that Venue does not employ or manage. 
-
-**Information Collection and Use**
 
 **Information**
 
@@ -14,7 +10,7 @@ When visiting any Web site, your browser sends information to the site's hosting
 
 **Cookies**
 
-We make use of a standard feature of browser software called a "cookie" to help us recognize you when you pay a repeat visit to Venue.com. Cookies let us personalize your shopping experience based on your preferences and help Venue.com to work better to serve you.   
+We make use of a standard feature of browser software called a "cookie" to help us recognize you when you pay a repeat visit to Venue.com. Cookies let us personalize your shopping experience based on your preferences and help Venue.com to work better to serve you.  
 Most browsers accept cookies. However, if you wish, you can usually set your browser to refuse cookies. If you set your browser to refuse cookies, you may not be able to submit an order online. Venue does not use cookies to gather any personal information. 
 
 **About Children**
@@ -33,15 +29,12 @@ Venue does not rent, sell, or share personal information about you with other pe
 
 VENUE  
 Attn: Privacy Policy  
-4607 Lakeview Canyon Rd  
-Suite 455  
+4607 Lakeview Canyon Rd Suite 455  
 Westlake Village, CA 91361
 
 • We may share information as necessary to respond to subpoenas, court orders, or legal processes, to establish or exercise our legal rights or defend against legal claims. 
 
-• We may share information when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Venue.com terms of use, or as otherwise required by law. 
-
-• COLLECTION AND USE OF BANK ACCOUNT INFORMATION FOR PURPOSES OF COLLECTING LOAN PAYMENTS: If we extend credit to a consumer, we will consider the bank account information provided by the consumer as eligible for us to process payments against. In addition, as part of our information collection process, we may detect additional bank accounts under the ownership of the consumer. We will consider these additional accounts to be part of the application process and eligible for payment retrieval. 
+•We may share information when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Venue.com terms of use, or as otherwise required by law. 
 
 • We may transfer information about you in connection with an acquisition of Venue or a merger with another company. In this event, Venue will notify you if information about you becomes subject to a different privacy policy. 
 
@@ -67,9 +60,5 @@ If you wish to correct, update or remove any personal information that you have 
 
 VENUE  
 Attn: Privacy Policy  
-4607 Lakeview Canyon Rd  
-Suite 455  
+4607 Lakeview Canyon Rd Suite 455  
 Westlake Village, CA 91361
-
-  
-
