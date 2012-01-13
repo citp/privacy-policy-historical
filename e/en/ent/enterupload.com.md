@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterupload.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201193805id_/http%3A//www.enterupload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterupload.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113031703id_/http%3A//www.enterupload.com/privacy.html) for the most accurate reproduction.*
 
 # Free File Hosting. File Upload. Share Files - Enterupload
 
