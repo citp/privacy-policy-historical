@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prontoex.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020175656id_/http%3A//www.prontoex.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prontoex.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113120159id_/http%3A//www.prontoex.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome to Pronto Express
 
@@ -11,7 +11,7 @@ Most shipments are delivered the same day.
 **More Online Services:**  
 Ship , Track & Pay Online.
 
-[](https://web.archive.org/web/20111020175656id_/http%3A//www.prontoex.com/delivery_special.php)
+[](https://web.archive.org/web/20120113120159id_/http%3A//www.prontoex.com/delivery_special.php)
 
 **Usage Tracking**  
 Pronto Express understands the importance of protecting the privacy of prontoex.com  users. The information collected is used to market and improve the services that we offer, to improve our web site content, and to contact you with updates to the web site or for other marketing purposes.
