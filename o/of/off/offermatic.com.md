@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offermatic.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123191217id_/http%3A//www.offermatic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offermatic.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113045154id_/http%3A//www.offermatic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Offermatic--Offers That Matter, Directly To You Card
 
@@ -7,7 +7,7 @@ Offermatic is committed to maintaining the security of any personal information 
 
 ## TRUSTe
 
-Offermatic is certified through the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. In order to obtain certification, Offermatic disclosed its information privacy practices to TRUSTe for its review to ensure compliance with TRUSTe’s requirements. If you contact us with a privacy-related concern as directed in this Policy and do not receive acknowledgment of your inquiry or if your inquiry is not satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Offermatic is certified through the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. In order to obtain certification, Offermatic disclosed its information privacy practices to TRUSTe for its review to ensure compliance with TRUSTe�s requirements. If you contact us with a privacy-related concern as directed in this Policy and do not receive acknowledgment of your inquiry or if your inquiry is not satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 ## Your Privacy is not for sale
 
@@ -83,7 +83,7 @@ We update this Privacy and Security Policy periodically. The date last revised a
 
 ## Contact us if you have any questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, [contact us](https://web.archive.org/web/20111123191217id_/http%3A//www.offermatic.com/about-us.html#contact). 
+If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, [contact us](https://web.archive.org/web/20120113045154id_/http%3A//www.offermatic.com/about-us.html#contact). 
 
 Offermatic Inc.   
 111 E. 5th Avenue, San Mateo, CA 94401  
