@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfrevenge.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827013539id_/http%3A//service.adultprovide.com/docs/privacy.htm%3Fsite%3Ddickdorm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfrevenge.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113132228id_/http%3A//service.adultprovide.com/docs/privacy.htm%3Fsite%3Ddickdorm) for the most accurate reproduction.*
 
 # RealityKings Privacy Policy
 
