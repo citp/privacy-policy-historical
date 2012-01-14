@@ -1,27 +1,89 @@
-<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2011-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117041236id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2012-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120114061541id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
-<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/main.css?ver=8753">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared-china.com/js/jquery-1.4.4.min.js?ver=11297"></script>
+
+<script type="text/javascript" src="http://static.4shared-china.com/js/plugins/jquery.form.js?ver=11297"></script>
+
+
+
+<script type="text/javascript" src="/js/header.js"></script>
+<script type="text/javascript" src="/js/account/AccountFacade.js?rnd=1"></script>
+  
+  <link rel="stylesheet" type="text/css" href="/css/ui/elements.css?ver=11297">
+  <!--[if lt IE 8]>
+  <script src="/js/IE7.js"></script>
+  <![endif]-->
+
+  <!--[if IE 9]>
+  <style type="text/css">
+   a.button-orange, .submit-blue, a.submit-blue, a.submit-blue:link, a.submit-blue:visited, .submit-light, a.submit-light {filter:none !important;}
+  </style>
+  <![endif]-->
+
+  <script src="/js/modernizr.custom.js?ver=11297"></script>
+
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/main.css?ver=11297">
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/common_n.css?ver=11297">
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/popup_n.css?ver=11297">
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/header.css?ver=11297">
+
+
+
+
+
 </head>
 <body>
 
 
 
 
+    
 
 
 
 
 
 
-<script type="text/javascript" src="http://static.4shared-china.com/js/jquery-1.4.4.min.js"></script>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#footer {width:800px;margin:0 auto}
+#footer .footer {background-image:none;}
+#footer .copy {background-image:none;}
+.footer .fcol {border-right:solid 1px #DEDEDE;border-left:solid 1px #FFFFFF}
+</style>
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://static.4shared.com/bundles/css/630963420/css/openid.css">
 
@@ -39,10 +101,23 @@
 
 
 
+
 <script src="http://static.4shared-china.com/js/json2.js" type="text/javascript"></script>
-<script src="http://static.4shared-china.com/js/plugins/jquery.caps.js" type="text/javascript"></script>
-<script src="http://static.4shared-china.com/js/plugins/jquery.openid.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://static.4shared.com/bundles/js/1972285700/bundles/js/global.js"></script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.4shared-china.com/js/plugins/jquery.caps.js?ver=11297"></script>
+
+<script type="text/javascript" src="http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=11297"></script>
+
+<script src="http://static.4shared-china.com/js/purchaseStats.js?ver=11297" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N705103755/bundles/js/global.js"></script>
 
 <script type="text/javascript" src="http://static.4shared.com/bundles/js/N984828520/js/Events.js"></script>
 
@@ -118,7 +193,8 @@
         login: login,
         password: password,
         remember: false,
-        doNotRedirect: 1
+        doNotRedirect: 1,
+        successUrl: unescape(paramsObj.returnTo)
     };
     document.body.style.cursor = 'wait';
     $.get('http://www.4shared-china.com/login?callback=?',
@@ -180,7 +256,7 @@
           authSaveParams(paramsObj);
           loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
         }else{
-          $('#authBoxDiv #signupErrorMsg').html(data.rejectReason).show();
+          $('#authBoxDiv #signupErrorMsg').html(data.error).show();
         }
       },
       "jsonp"
@@ -221,20 +297,20 @@
     }
     if(typeof dragObj == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared-china.com/js/dw_event.js?ver=8753')
-              .script('http://static.4shared-china.com/js/dw_viewport.js?ver=8753')
-              .script('http://static.4shared-china.com/js/dw_writedrag.js?ver=8753')
-              .script('http://static.4shared-china.com/js/dw_drag.js?ver=8753')
+              .script('http://static.4shared-china.com/js/dw_event.js?ver=11297')
+              .script('http://static.4shared-china.com/js/dw_viewport.js?ver=11297')
+              .script('http://static.4shared-china.com/js/dw_writedrag.js?ver=11297')
+              .script('http://static.4shared-china.com/js/dw_drag.js?ver=11297')
               .wait();
     }
     if(typeof $.openid == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=8753')
+              .script('http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=11297')
               .wait();
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
+              .script('http://static.4shared-china.com/js/login_fnc.js?ver=11297')
               .wait(function(){
                 loginFnc.msgEmail = 'your e-mail';
                 loginFnc.msgOpenIdAccount = 'your OpenID account';
@@ -333,7 +409,7 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=11297')
         .wait(function(){
           loginFnc.signOut(serverURL);
           if(serverURL != sn){
@@ -358,7 +434,7 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=11297')
         .wait(function(){
           loginFnc.goToAccount();
         });
@@ -369,6 +445,9 @@
   }
 
   function addCapsChecking() {
+    if($('body input[type=password]').length == 0){
+        return;
+    }
     $('input[type=password]').caps(function(caps) {
       var form = $(this).parents('form:first');
       // "this" is current element
@@ -407,6 +486,19 @@
   })
 </script>
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        if (!$('#authBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'authBoxDiv').appendTo($(document.body));
+        }
+        if (!$('#signUpBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'signUpBoxDiv').appendTo($(document.body));
+        }
+        if (!$('#loginBoxDiv').length) {
+            $('<div>').css({visibility: 'hidden'}).attr('id', 'loginBoxDiv').appendTo($(document.body));
+        }
+    });
+</script>
 
 
 <table cellpadding="0" cellspacing="0" class="head" align="center">
@@ -415,8 +507,7 @@
         <td width="150"><h1>Free file sharing</h1></td>
         
         <td align="center" valign="bottom">
-              
-      <a href="http://www.4shared-china.com/premium.jsp?ref=top"><img src="http://static.4shared-china.com/images/pr.gif" alt="Premium" onmouseover="this.src='http://static.4shared-china.com/images/pro.gif'" onmouseout="this.src='http://static.4shared-china.com/images/pr.gif'" height="69" width="175"></a></td>
+              </td>
         
         <td class="alignRight" style="font-weight:bold;">
           
@@ -439,25 +530,16 @@
     </tr>
 </tbody></table>
 
-<table cellpadding="0" cellspacing="0" class="contents" align="center">
-    <tbody><tr valign="top">
-        <td>
-            <div class="resheight">
-
+<div class="centered contents">
     <img src="http://static.4shared-china.com/images/spacer.gif" alt="" class="ctr">
     <img src="http://static.4shared-china.com/images/spacer.gif" alt="" class="ctl"><br clear="all">
-    <table cellpadding="0" cellspacing="0" width="801">
+    <table cellpadding="0" cellspacing="0" width="795">
         <tbody><tr>
             <td class="alignRight">
                 
+
                 
-
-
-
-
-<a href="http://www.4shared-china.com/premium.jsp?ref=header" class="greylink"><b>Premium</b></a> &nbsp;
-                
-
+                   <a href="javascript:reportAbuse();" class="greylink">Report abuse</a> &nbsp;
                 
 
 
@@ -572,7 +654,7 @@
 
         </tr>
     </tbody></table>
-              
+</div>
     <div id="loginBoxDiv" style="visibility:hidden;">
     </div>
     <div id="signUpBoxDiv" style="visibility:hidden;">
@@ -580,9 +662,21 @@
     <div id="authBoxDiv" style="visibility:hidden;">
     </div>
 
+<script type="text/javascript">
+    function reportAbuse() {
+        var windowname="abuse";
+        var url="/abuse.jsp?abuseType=1&link=" + " ";
+        OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=550,height=650,left=50,top=50');
+        OpenWindow.focus();
+    }
+</script>
+    
 
-          <div class="large green" style="padding-left:20px">4shared Privacy Policy</div>
-            <div style="padding-top:20px;margin-right:20px;margin-left:20px;text-align:justify;">
+
+      <div class="centered">
+          <br>
+          <div class="large green">4shared Privacy Policy</div>
+            <div style="padding-top:20px;text-align:justify;">
                 <br>
                 4shared is the official trademark of New IT Solutions LTD. Your use of www.4shared.com site is governed by 4shared
                 Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we
@@ -600,9 +694,19 @@
                 <br><br>
 
                 <b>Your Virtual Drive</b><br><br>
-                When you upload your files to the 4shared server, we will provide you with a unique URL to download your file. 4shared will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. 4shared has the right to review your file contents for violations of our Terms of Use. If 4shared determines your files are in violation of 4shared Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems.
+                When you upload your files to the 4shared server, we will provide you with a unique URL to download your
+                file. The 4shared will not provide this URL to any other person or entity, but will provide your file to
+                any web browser requesting your unique URL. 4shared has the right to review your file contents for
+                violations of our Terms of Use. If 4shared determines your files is in violation of 4shared Terms of Use
+                we will ban your account and will attempt to contact you. We reserve the right to cancel your account
+                and files from our systems.
                 <br><br>
-                4shared will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. 4shared will only have access to your files for purposes of troubleshooting. When 4shared receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. 4shared has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization.
+                4shared will not attempt to access your files at any time unless explicitly instructed to do so by you.
+                We do not own the contents of your virtual drive. 4shared will only have access to your files for
+                purposes of troubleshooting. When 4shared receives your files, we will store them in your virtual drive.
+                We will allow your files to be downloaded according to your security settings. 4shared has extensive
+                security measures in place to protect your files while stored on our servers and we will prosecute any
+                attempt to access this information without authorization.
                 <br><br>
 
                 <b>Web-Server Log and Cookies</b><br><br>
@@ -612,11 +716,21 @@
                 website. This information is collected in the form of the usual web server logs and cookies. 4shared
                 also collects this information to make the website viewable and useful for the majority of our clients.
                 <br><br>
-                Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps 4shared track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies.
+                Our website utilizes a non-persistent cookie to track your session with our web site. This is an
+                encrypted number generated when you visit any site that supports sessions. This is a session cookie. It
+                helps 4shared track your sessions and store persistent information to make your visit to our site
+                smoother. This cookie is saved permanently at your PC. This data does not contain any secure information
+                (just an encrypted string). Additionally, we set a cookie when you log in to make further logging to our
+                system a little easier. At no time are cookies used to track where you have been either before or after
+                your visit to our website. No other website can access any information about you from the cookies we may
+                store on your local computer. We do not share cookies, as well as any type of information, with any
+                other companies.
                 <br><br>
 
                 <b>Access to your information</b><br><br>
-                You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience.
+                You have the right to access, upload and download your files and access, correct your personal
+                information at any time. You may also grant access to your drive to other persons through folder sharing
+                or providing the download link to your audience.
                 <br><br>
                 If for some reason you cannot access your virtual drive on the 4shared or you want to change other
                 information you provided to us, please contact us at
@@ -632,19 +746,24 @@
                 of information, we have put into place physical, electronic and managerial procedures to safeguard the
                 information that we collect online. We use encryption when collecting or transferring data.
                 <br><br>
-                Automated and scheduled backups for premium users make the service considerably more reliable. Daily copying of the information will help you avoid any unpleasant consequences.
+                Automated and scheduled backups for premium users make reliability of the service much higher. Daily
+                copying of the information will let you avoid any unpleasant consequence.
                 <br><br>
-                On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access, monitored 24x7.
+                On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access
+                monitored 24x7.
                 <br><br>
 
                 <b>E-mail non-disclosure</b><br><br>
-                Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of 4shared.
+                Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are
+                kept on the server for granting access to the account. These addresses are yours, not the property of
+                4shared.
                 <br><br>
                 4shared Customer Support team may examine these lists as well as the account files for support and
                 troubleshooting purposes. They also may examine the files stored by the users in case of abuse
                 reporting.
                 <br><br>
-                4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted.
+                4shared will never use or sell these e-mail addresses and files to anyone; any attempt to access your
+                e-mail addresses without your authorization will be prosecuted.
                 <br><br>
                 We will only use your email to send the service and support letters. You may address the
                 <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support team</a>
@@ -652,7 +771,9 @@
                 <br><br>
 
                 <b>Anti SPAM Policy</b><br><br>
-                The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. 4shared and its users agree to never initiate any SPAM emailing.
+                The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed,
+                exchanged, bartered, distributed, or disclosed in any way.
+                4shared and its users agree to never initiate any SPAM emailing.
                 <br><br>
 
                 <b>Third Party Web Sites</b><br><br>
@@ -665,7 +786,8 @@
                 <br><br>
 
                 <b>The Feedback Form</b><br><br>
-                The Feedback Form is an online tool that allows you to report violations of 4shared Services privacy statements and specific privacy concerns pertaining to 4shared.com.
+                The Feedback Form is an online tool that allows you to report violations of 4shared Services privacy
+                statements, specific privacy concerns pertaining to 4shared.com.
                 <br><br>
                 To access feedback form use the Feedback link at the top right of the screen of our web service.
                 <br><br>
@@ -675,13 +797,14 @@
                 <a href="mailto:&lt;%=ServerFacade.getSupportEmail()%&gt;">support@4shared.com</a>.
             </div>
             <br><br>
+             </div>
+          
 
 
 
 
 
 
-</div>
 <div class="footer">
     <a href="http://www.4shared-china.com/premium.jsp?ref=footer">Premium</a>&nbsp; |&nbsp;
     <a href="http://www.4shared-china.com/enterprise/">Enterprise</a>&nbsp; |&nbsp;
@@ -710,12 +833,12 @@
     <a href="http://blog.4shared.com/" target="_blank">Blog</a>
 </div>
 <div class="copy">
-    Copyright <span title="dc330, rev=8753">©</span> 2005-2011 4shared.com 
+    Copyright <span title="dc329, rev=11297">©</span> 2005-2012 4shared.com 
 </div>
-<!-- www.currDcID=330 -->
-</td>
-</tr>
-</tbody></table>
+<!-- www.currDcID=329 -->
+
+
+
 
 
 <!-- Start of StatCounter Code -->
@@ -747,7 +870,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20111117041236id_/http%253A//www.4shared-china.com/privacy.jsp;0.2122644078966187" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
+"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20120114061541id_/http%253A//www.4shared-china.com/privacy.jsp;0.9210668961929713" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
