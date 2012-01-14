@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsecure.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218181041id_/http%3A//us.trendmicro.com/us/about/company/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsecure.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114060913id_/http%3A//us.trendmicro.com/us/about/company/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - Trend Micro USA
 
