@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123050339id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114055311id_/http%3A//www.platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
-# Platinum Server Management, Inc.
+# Platinum Server Management, Inc. - 24x7x365 cPanel Server Management
 
 _Platinum Server Management, Inc._ is dedicated to protecting your privacy and handling any personal information obtained from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
