@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msstudentlounge.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215024659id_/http%3A//www.msstudentlounge.com/channels/tabid/58/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msstudentlounge.com privacy policy that was archived on 2012-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120115175424id_/http%3A//www.msstudentlounge.com/channels/tabid/58/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Student Lounge
 
