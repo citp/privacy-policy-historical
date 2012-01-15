@@ -1,46 +1,54 @@
-> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129023431id_/http%3A//www.cloudmagic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2012-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120115080256id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | CloudMagic
+# CloudMagic - Privacy policy
 
-Webyog, Inc. is committed to protect your privacy. By CloudMagic application none of your emails, contacts, or passwords are sent to CloudMagic servers or any third parties. CloudMagic keeps your authentication details and mails in your hard-disk. It never exchanges Gmail's authentication details and its content with anyone else other than Gmail. From CloudMagic web site we collect two types of user information, General Statistical Information and Personal Identifying Information. We are providing you with this policy to inform you of how we use and, in limited circumstances, disclose such information 
+##### Introduction
 
-When you visit our web site we gather certain general information, such as number of hits on our web site and usage statistics with respect to our software products. This information is referred to throughout this policy as "General Statistical Information". We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our web site and software are used. The stored General Statistical Information does not contain any Personal Identifying Information about you or any of our other users 
+This policy describes what information we collect when you use our service and how we use this information collected. We are not in the business of loaning, renting or selling information to others. We only use the information collected to better the service offered to you. 
 
-In addition to collecting General Statistical Information, we may ask you to provide us with certain personal information, such as your name, street address and email address, to enable us to respond to your requests and needs. Information that can reasonably be used to identify you is referred to in this policy as "Personal Identifying Information" 
+##### Your privacy is important to us
 
-For example, if you choose a service or transaction that requires payment, such as making a purchase online or through other means such as a purchase order, we will request Personal Identifying Information necessary for payment, invoicing, and/or shipping 
+Webyog, Inc. is committed to protect your privacy. Through the CloudMagic website and mobile apps, we collect two types of user information : General Statistical Information and Personal Identifying Information. 
 
-In addition, when you purchase a software product, we will also ask for product registration information, which includes the name of the product acquired, as well as your name, street address, and e-mail address. This Personal Identifying Information is kept on file and updated from time to time to fulfill our continuing obligations to you, such as providing notices of new versions and giving support by e-mail 
+##### Collection, Use and Disclosure of General Statistical Information
 
-When you visit our web pages by clicking on a link in our software and choose to purchase a license, we gather certain Personal Identifying Information to facilitate your purchase and usage statistics to analyze, on a collective basis, how and the extent to which certain parts of the our software is used 
+When you visit our website we gather certain general information, such as number of hits on our website and usage statistics with respect to our software products. This information is referred to throughout this policy as "General Statistical Information". We use and store this data only on a collective basis, in summary form, rather than on an individual basis. This data helps us to determine how and the extent to which certain parts of our website and software are used. The stored General Statistical Information does not contain any Personal Identifying Information about you or any of our other users. 
 
-When you provide us Personal Identifying Information in an e-mail, fax or by telephone such as when you request technical and other types of support, we use the information to locate your records and provide you with answers to your questions 
+##### Collection and Use of Personal Identifying Information
 
-Also, when you submit information to us in the context of a technical support inquiry, including sending the error log files, sample data to reproduce the error, Personal Identifying Information may be attached to the information submitted 
+In addition to collecting General Statistical Information, we may ask you to provide us with certain personal information. Information that can reasonably be used to identify you is referred to in this policy as "Personal Identifying Information" 
 
-Please note that you should be aware that the transmitting of the error logs or sample data or other attachments may include confidential information which should be removed prior to the transmittal as we do not accept responsibility for the inadvertent subsequent disclosure of such confidential information. When you ask to be placed on one of our mailing lists, we will use your e-mail address to send you messages relevant to that list 
+  1. Account Info
 
-We may disclose your Personal Identifying Information to appropriate third parties to process transactions you initiate, including shipping products to you and invoicing for purchases made. Examples of such third parties are our order processing and fulfillment service providers and credit card processing companies. We may also disclose your Personal Identifying Information to third parties if we are required to do so by law, or if we believe that such action is necessary to: 
-
-  * Comply with legal processes such as a search warrant, subpoena, or court order;
-  * Protect our rights and property; or 
-  * Protect against misuse or unauthorized use of our web site and/or our software products
-
-
-
-We never loan, rent or sell your Personal Identifying Information to others 
-
-We may set and access cookies on your computer. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies in a limited way to track usage on our site. We gather information about site use by our visitors through cookie technology on an anonymous basis and analyze it at an aggregate level only. This enables us to continually improve our web site to meet the needs of our users 
-
-In addition, we may use temporary session cookies to track your progress through our order processing system, keeping track of information such as the contents of your shopping cart and address. These session cookies only exist for the duration of your browser session 
-
-The CloudMagic web site may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at www.cloudmagic.com. Please note that all on-line and telephone credit card orders for our software products may be processed by a third party 
-
-Our web site utilizes industry standard security technology to protect the security, integrity, and privacy of Personal Identifying Information from unauthorized third-party access. The Personal Identifying Information resides behind a firewall with access restricted to authorized Webyog employees and their agents 
-
-Webyog may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted 
-
-You may [contact us](mailto:feedback@cloudmagic.com) with your comments on Webyog's privacy policy 
-
+We ask for your email address when you sign up. This email address is used as your username for your CloudMagic account. 
   
 
+  2. Service Authentication and Data
+
+Services are added to CloudMagic through OAuth authentication. OAuth is a secure mechanism which gives us access to your data without letting us know your password. We then create an index of your data & the index is stored in our servers. When you search on CloudMagic, the search results are populated from this index. 
+  
+
+  3. Support Queries
+
+The support queries you write to us might contain personal information. We use this solely to help you resolve the issues reported and improve the product quality. 
+
+
+
+##### Disclosure of Personal Identifying Information
+
+We may disclose your Personal Identifying Information to third parties if we are required to do so by law, or if we believe that such action is necessary to comply with legal processes such as a search warrant, subpoena, or court order. 
+
+We never loan, rent or sell your Personal Identifying Information to others. 
+
+##### Third Party websites
+
+The CloudMagic website may contain links to third-party websites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own website at http://cloudmagic.com. 
+
+##### Changes to the Webyog Privacy Policy
+
+Webyog may amend this policy at any time by posting the amended terms on our website. All amended terms will be automatically effective without further notice, 30 days after they are first posted. If you have any comments on this Privacy Policy please email us at [feedback@cloudmagic.com](mailto:feedback@cloudmagic.com) or write to us at: 
+
+Webyog, Inc.  
+2900 Gordon Avenue, Suite 100-7P  
+Santa Clara, CA 95051  
+USA
