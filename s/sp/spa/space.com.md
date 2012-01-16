@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210004651id_/http%3A//www.space.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the space.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116161759id_/http%3A//www.space.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Learn More at Space.com. From Satellites to Stars, NASA information, Astronomy, the Sun and the Planets, we have your information here.
 
