@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialscanner.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423062223id_/http%3A//www.socialscanner.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialscanner.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116195922id_/http%3A//family.socialscanner.com/privacy_policy) for the most accurate reproduction.*
 
 # SocialScanner | Social Media Monitoring for the Rest of Us
 
@@ -52,7 +52,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.socialscanner.com/privacy_policy>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://family.socialscanner.com/privacy_policy>
 
 **Your Consent**
 
@@ -68,12 +68,15 @@ This policy was last modified on April 6, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[SocialScanner](http://www.socialscanner.com/)  
-163 West Hastings Street  
-Suite 200  
-Vancouver, BC, V6B 1H5, Canada
+[SocialScanner](http://family.socialscanner.com/)  
+128 West Hastings  
+Suite 210  
+Vancouver, BC V6B 1G8  
+Tel: 1-866-930-3592
 
-[contact@socialscanner.com](mailto:contact@socialscanner.com)  
-Tel: 1-888-747-6242  
-Tel: +1 (604) 637-6098  
-Fax: +1 (604) 608-5387
+55 Broad Street  
+13F  
+NY NY 10004  
+Tel: +1 (917) 720-3503
+
+[contact@socialscanner.com](mailto:contact@socialscanner.com)
