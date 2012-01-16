@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewire.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818122803id_/http%3A//thewire.com.48293.fb.dbbsrv.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewire.com privacy policy that was archived on 2012-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120116035154id_/http%3A//www.thewire.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
