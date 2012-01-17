@@ -1,75 +1,79 @@
-> *The following text is extracted and transformed from the cardmemberservices.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221161821id_/http%3A//www.cardmemberservices.com/ccpmapp/cms/shared/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardmemberservices.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117080011id_/http%3A//www.cardmemberservices.com/index.jsp%3Fpg_name%3Dccpmapp/cms/shared/page/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy
+# First USA Privacy Notice
 
-This Policy explains what we do to keep information about you private and secure. We want you to know how we manage that information to serve you and that you have choices about how it is shared. This Policy is provided to you by First USA. Please read this Policy carefully. 
+| 
 
-**Q. What information do you have about me?  
-****A**. To provide services and to help meet your needs, we collect information about you from various sources. 
+|   
+---  
+| FirstUSA Privacy Notice   
+---  
+[Printer friendly page](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/print-privacy-notice)  
+Rev. October 2011  
+  
+FACTS | WHAT DOES FIRST USA® DO WITH YOUR PERSONAL INFORMATION?  
+---|---  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+What? | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+* Social Security number and income
+* account balances and transaction history
+* credit history and payment history  
+How? | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons First USA® chooses to share; and whether you can limit this sharing.  
+  
+Reasons we can share your personal information | Does First USA® Share? | Can you limit  
+this sharing?  
+---|---|---  
+**For our everyday business purposes** – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes  | No   
+**For our marketing purposes** –  
+to offer our products and services to you | Yes  | No   
+**For joint marketing with other financial companies** | Yes | No   
+**For our affiliates' everyday business purposes** –  
+information about your transactions and experiences | No | We don't share   
+**For our affiliates' everyday business purposes** –  
+information about your creditworthiness | No | We don't share   
+**For non affiliates to market to you** | Yes  | Yes   
+  
+To limit our sharing | 
+* Call 1-800-869-9638 – our menu will prompt you through your choice(s) **or**  
 
-  * We get information from your requests for our products or services. One example is income on loan applications. 
-  * We get information about your transactions with us and with others. For example, we have your account balance information. 
-  * We get information, such as your credit history, from credit bureaus. 
+* Visit us [online](https://online.cardmemberservices.com/public/privacy/privacyfilter.aspx)
 
+**Please note:**  
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+Questions? | Call 1-800-869-9638  
+---|---  
+  
+**View Page 2**  
+  
+|  | 
 
-**Q. How do you safeguard information about me?  
-****A**. We take a number of steps to protect the privacy of information about you. Here are some examples: 
+|  [ ](http://www.cardmemberservices.com/ccp/index.jsp?pg_name=ccpmapp/cms/home/page/cardmemberservices_home "Home")  
+---  
+[ ](http://www.cardmemberservices.com/ccp/index.jsp?pg_name=ccpmapp/cms/explore/page/explore_cardmemberservices "Explore")  
+[ ](http://www.cardmemberservices.com/ccp/index.jsp?pg_name=ccpmapp/cms/shared/page/make_payment "Pay My Bill")  
+[ ](http://www.cardmemberservices.com/ccp/index.jsp?pg_name=ccpmapp/cms/special_offers/page/free_alerts "Free Alerts")  
+[ ](http://www.cardmemberservices.com/ccp/index.jsp?pg_name=ccpmapp/cms/shared/page/Security_Center "Learn About Identity Theft")  
+  
+|   
+---  
+  
+ [Identity Theft](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/identity_theft)  
+  
+ [Phishing](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/phishing)  
+  
+ [Fraudulent E-mails](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/fraud_e-mail)  
+  
+ [Example Messages](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/example_messages)  
+  
+ [Privacy Notice](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/privacy-notice)  
+  
+|   | 
 
-  * We keep information under physical, electronic and procedural controls that comply with or exceed governmental standards. 
-  * We authorize our employees, agents and contractors to get information about you only when they need it to do their work for us. 
-  * We require companies working for us to protect information. They agree to use it only to provide the services we ask them to perform for us. 
-
-
-
-**Q. Is information about me shared with service providers and financial companies outside of First USA?  
-**A. Yes, as permitted by law. We may share information about you with outside companies that work for us. These may include firms that assist in marketing our products. We may also share information about you with outside financial companies that have joint marketing agreements with us. These arrangements give you the opportunity to receive additional products or services.
-
-**Q. Is information about me shared with non-financial companies outside of First USA?  
-**A. Yes. We may share information about you with companies outside of First USA as permitted by law, including retailers, auto dealers, auto makers, direct marketers, membership clubs and publishers.
-
-**Q. Is information about me shared in any other ways?  
-**A. Yes. We may also share information about you in other ways, as required or permitted by law. Here are some examples of ways that we share information. 
-
-  * To protect against fraud.
-  * To respond to a subpoena.
-  * To service your account.
-  * To report to a credit bureau.
-  * With your consent. 
-
-**Q. What choices do I have about information sharing?  
-**A. You may tell us not to share information about you with non-financial companies outside of First USA. Even if you do tell us not to share, we may do so as required or permitted by law. Also, if you have authorized us to share information in connection with a particular product or service, we will continue to share information about you in connection with that product or service. For example, you might have a credit card with one of our airline, retail or university partners that offers rewards programs. 
-
-**Q. How do I tell you about my privacy choices?  
-**A. You may contact us by: 
-
-  * Calling us toll-free at 1-800-869-9638 or
-  * For hearing impaired assistance, dialing 7-1-1, then 
-
-1-800-869-9638 and wait for operator assistance, 
-
-  * Writing us at P.O. Box 260185, Baton Rouge, LA 70826-0185, or 
-  * Submitting them [online](https://online.cardmemberservices.com/colappmgr/colportal/prospect?_nfpb=true&_pageLabel=page_ecareprefs)
-
-
-
-You do not need to contact us unless you want to make one of the privacy choices listed above. If you are a current customer, you do not need to contact us unless you want to change a choice you previously indicated to us. 
-
-**Q. What about Joint Accounts?**  
-A. Each person may separately make privacy choices, and joint account holders may make privacy choices for each other **.** If only one joint account holder makes a privacy choice, information about the other joint account holder may be shared. 
-
-**Q. How do you tell me about your Policy?**   
-A. We send our Policy to you when you open a new account. We also send it to current customers yearly. We may change our Policy. We will send you a new policy if we broaden our information sharing practices about you.
-
-**Special Notice for Vermont Residents.**  
-In order to comply with Vermont law, we will automatically treat accounts with Vermont mailing addresses as if you have made the privacy choice listed above. In addition, if we disclose information about you to other financial institutions with which we have joint marketing agreements, we will only disclose your name, contact information and information about your transactions.
-
- **Special Notice for California Residents.**  
-In order to comply with California law, the following applies if your account has a California mailing address. 
-
-  * Even if you do not make privacy choice listed above, we will not share information that we have about you with non-financial companies outside of First USA, unless otherwise permitted by law.
-  * We will not share information about you within, or with financial companies outside, of First USA, unless we first provide you with further privacy choices or unless otherwise permitted by law. 
-
-
-
-**This Policy applies to current and former consumer customers. In addition, customers in certain states may also receive policies that apply to them. The privacy policies posted on our websites apply when you use those sites. Please contact us if you see any personal information on our website that you believe is incorrect. This policy is effective September 1, 2007.**
+[Cardmember Agreement](https://web.archive.org/online/cms_feed/document/COL00034.pdf) | [Privacy Notice](http://www.cardmemberservices.com/index.jsp?pg_name=ccpmapp/cms/shared/page/privacy-notice) | [Security](http://www.cardmemberservices.com/index.jsp?pg_name=ccpmapp/cms/shared/page/security) | [Terms of Use](http://www.cardmemberservices.com/index.jsp?pg_name=ccpmapp/cms/shared/page/terms_of_use) | [Accessibility](http://www.cardmemberservices.com/index.jsp?pg_name=ccpmapp/cms/explore/page/accessibility) | [Legal Agreements](https://web.archive.org/index.jsp?pg_name=ccpmapp/cms/shared/page/legal_agreements)   
+  
+---|---
