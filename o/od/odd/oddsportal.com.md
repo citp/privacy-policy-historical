@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddsportal.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120113055id_/http%3A//www.oddsportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsportal.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117213532id_/http%3A//www.oddsportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Odds Portal: Privacy Policy
 
@@ -29,5 +29,9 @@ A "cookie" is information stored on your computer by a web server and used to cu
 You consent to our collection and use of information and to the use of that information in accordance with the privacy policy set out above. If we change our privacy policy in any way, we will post these changes on this page. You should check these terms on frequent basis.
 
 **Provider Information**  
-OddsPortal.com is provided by: LiveSport s.r.o., Sokolovska 270/201, 190 00 Prague 9, Czech Republic.  
-Company is registered in the Commercial Register maintained by the Municipal Court in Prague, Section C., File No.: 113331.
+OddsPortal.com is provided by:
+
+LiveSport Media Ltd  
+CMS House First Floor, St. Peter’s Street  
+San Gwann SGN 2310, Malta  
+Company ID: C 54555
