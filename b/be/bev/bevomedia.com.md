@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219235024id_/http%3A//beta.bevomedia.com/PrivacyPolicyBevoMedia.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevomedia.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117041008id_/http%3A//beta.bevomedia.com/PrivacyPolicyBevoMedia.html) for the most accurate reproduction.*
 
 # Bevo Media Affiliate Portal - Your Affiliate Marketing Homebase
 
