@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianlii.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406100038id_/http%3A//www.asianlii.org/asianlii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianlii.org privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117075149id_/http%3A//www.asianlii.org/asianlii/privacy.html) for the most accurate reproduction.*
 
 # AsianLII - About AsianLII: Privacy Policy
 
