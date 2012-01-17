@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429091237id_/http%3A//uae.souq.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117065207id_/http%3A//kuwait.souq.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Buy and sell -great deals on online Marketplace| UAE Souq.com
+# Buy and sell -great deals on online Marketplace| Kuwait Souq.com
 
 4) We last amended our privacy policy on 4 November 2009 and we would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
 
