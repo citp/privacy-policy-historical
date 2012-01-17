@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wall-st.net privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095900id_/http%3A//wall-st.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wall-st.net privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117064830id_/http%3A//wall-st.net/privacy-policy) for the most accurate reproduction.*
 
 # Wall St » Privacy Policy
 
