@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218152631id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118002710id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
