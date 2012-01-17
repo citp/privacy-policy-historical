@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficvoodoo2-bonus.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521161043id_/http%3A//trafficvoodoo2-bonus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficvoodoo2-bonus.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117085254id_/http%3A//trafficvoodoo2-bonus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Traffic Voodoo 2.0 Bonus | No BS Traffic Voodoo Review
 
