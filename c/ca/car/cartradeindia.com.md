@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014145305id_/http%3A//www.cartradeindia.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartradeindia.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117104350id_/http%3A//www.cartradeindia.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CarTradeIndia.com
 
