@@ -1,81 +1,55 @@
-> *The following text is extracted and transformed from the chative.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064555id_/http%3A//www.chative.com/chat_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chative.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118152306id_/http%3A//www.webfreer.com/privacy.php) for the most accurate reproduction.*
 
-# Video Chat Privacy Policy |Chat Online Privacy Policy
+# Anti Blocking Knowledge Base
 
-1\. General
+Privacy Policy
 
-This privacy policy has been created in order to help you, our users,understand what information we collect about you and what we may do with the information.
+The Privacy Policy explains how we collect and use information when you use Web Freer browser. 
 
-By accessing the Service, you accept this Privacy Policy and you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. 
+Information we collect 
 
-Chative.com provides a way for adults to chat with each other online, and/or meet each other online. We, therefore, collect and, in some cases, may disclose information about you. By submitting your photograph and/or any personal information, you thereby consent to our right to make your information available to other users. If you do not wish to have your picture or information viewed by or disclosed to other users, do not use our Service.
+"Personal Identifiable Information" (PII), is information that can personally identifies you, such as your name, email address, you do not need to provide your PII in order to download or use Web Freer. 
 
-2\. Eligibility
+"Non Personal Identifiable Information" (non-PII) is information that can not identify you, non-PII is typically the information about your computer, hardware, software applications, your internet protocol address, and browser parameters such as cookies, session ID, etc. The non-PII is collected when you download and use Web Freer. One purpose of collecting these non-PII aggregate data is to detect and analyze the filering schemes of the local ISP. 
 
-Children are forbidden to use our Service. We require that minors (under the age of 18) not submit any personal information to us. We do not We do not knowingly collect any personal information from persons under the age of 18.
+The URL you type in the address bar, which is also a non-PII, will be collected aggregately to detect if it is blocked by your local ISP, and to be used to determine the routing mechanism of the Web Freer browser. 
 
-3\. Information We Collect
+Web Freer automatically checks for updates by checking into its update server, information such as installation ID, version ID, IP address, and user agent information, which are all non-PII will be parsed to determine if an update is necessary. 
 
-We collect both personally identifiable information ("PII") and non-personally identifiable information ("Non-PII"), We collect this information in a variety of ways through the features provided on our Sites, such as registration, when you communicate or interact with us, or when you purchase a product or service through our Site. Providing us with PII is your choice, and you can always choose not to provide certain information, but then you may not be able to receive some of the Site's services.
+By default, we collect usage statistics for detect potential blocks that are initiated by some ISP from time to time, these data are aggregate data from a group of users, and are non PII. 
 
-(a) Personally Identifiable Information
+Information Web Freer Sends to Websites 
 
-PII is data used to identify, contact or locate a person, including name, address, telephone number or email address.
+Like other browsers, Web Freer sends standard, non-PII information to the websites you visit. This may include the browser user agent ID, the type of computer, language preference, time zone, and your IP address etc. How to log your information and how to use them are subject to the respective website operators you visit. 
 
-(b) Non-Personally Identifiable Information
+Information Web Freer Sends to ISP 
 
-Non-PII is information that is anonymous or not linked to a particular person such as your IP address.
+There is no information that Web Freer will sends to your ISP. 
 
-(c) User Profiles
+Information stored on your computer 
 
-You agree that we may feature your public profile information, in, among other places, editorials and newsletters that we may periodically send out to our users. Your profile is available for view on our Site, by both registered users and anonymous visitors who view our Site. Your profile viewable on the site does not include any identifying information about you, except the photo(s) you choose to submit and the name you choose to enter.
+Web Freer stores information about your browsing history on yor own comuter, this includes: 
 
-(d) Your Profile Information
+\- Browsing history information, e.g. the URLs that you visited. 
 
-You can post information about yourself as part of your profile. Such postings are viewable by other users on our website, also, such information may appear on other websites. Also, whenever you voluntarily disclose personal information on publicly viewable web pages, that information will be publicly available and can be collected and used by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, therefore you should exercise caution with respect to posting your personal information.
+\- A index of most pages you visited 
 
-4\. Use of Your Information
+\- Cookies stored on your computer by websites you visited. 
 
-We collect and use your personal information for the following purposes:
+You can remove the information stored on your computer at any time. 
 
-(a) To provide you with a smooth customer experience, and deliver, bill for, and collect payment for products and services you request;   
-(b) To understand customer requirements and make information available regarding products and services offered by us and our business partners, dealers and related companies;   
-(c) To invite you to participate in special offers, contests, games or similar events;  
-(d) To manage, develop, and protect our business and operations;   
-(e) To enforce our legal rights, policies and protect the safety of property and people;  
-(f) To resolve disputes;  
-(g) To meet legal and regulatory requirements and comply with regulatory requests and relevant court orders which, in certain exceptional circumstances, require us to disclose personal information without your knowledge or consent;
+Information Collected by Apps, Extensions, Add-Ons 
 
-We retain personal information only as long as necessary to fulfill of these purposes, and we take reasonable measures to ensure that your personal information is accurate, complete and up-to-date for these purposes.   
+Your PII or non-PII can be collected by each Add-on or extension respectively, and sent to their server. How to use the information collected is subject to their privacy policy. You should be aware that Web Freer has no control on the privacy practice of its Add-ons, therefore you should be careful installing the extensions or add-ons by thoroughly reviewing their privacy policy beforehand. 
 
+Web Freer's Use of Information 
 
-5\. Share Information with Third Parties 
+Web Freer will use all the collected non-PII for the purpose of 1) improving the browser's performance; 2) improving the unblocking mechanism against any blockage imposed by each ISP respectively. 
 
-We not use or disclose personal information to third parties for purposes other than those for which it was collected, except with your consent, as required or permitted by law, or in connection with the purchase or sale of business units. In the event that we buy or sell a business unit, the personal information of chative.com users may be included as part of the transferred business assets. We reserve the right to include and disclose your personal information, collected as an asset, in any such transfer to a third party. 
+Changes to this Privacy Policy 
 
-6\. Security of Personal Information 
+We reserve the right to modify the provisions of this Privacy Policy if we deem necessary. We will inform you of these changes by posting the revised Privacy Statement on this website. You agree that the express acceptance by you or your continued use of the Web Freer browser after the notice period of thirty (30) days, shall constitute your acceptance of the revised Privacy Statement. 
 
-We use industry standard technology and security features and operation guidelines to protect the privacy of your personal information, using measures appropriate to the sensitivity of the information. Given that we offer products and services primarily over the Internet and the Internet has inherent security weaknesses, you should not expect, and we cannot give guarantee the security of your personal information.   
+Questions, Concerns and Complaints? Contact us. 
 
-
-7\. Your Rights
-
-You have the right to access and, where relevant, amend any of your personal information. Most of your personal information may be accessed and edited online at chative.com. 
-
-We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity. We will try to accommodate requests to delete personal information unless we determine that this information must be retained by law or for lawful business purposes. 
-
-8\. Changes to this Privacy Policy
-
-We reserve the right to modify the provisions of this Privacy Statement if we deem necessary. We will inform you of these changes by posting the revised Privacy Statement on this website. The revised Privacy Statement shall become effective within thirty (30) days after it has been posted on this website, unless you expressly accept the revised statement earlier. You agree that the express acceptance by you or your continued use of the service after the notice period of thirty (30) days, shall constitute your acceptance of the revised Privacy Statement. 
-
-9\. Canada's Personal Information Protection and Electronic Documents Act
-
-The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully comply with it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below.
-
-10\. Questions, Concerns and Complaints? Contact us.
-
-If you have any questions, concerns or complaints about our Privacy Policy or if you wish to access or obtain more information about your personal information held by us, please fill out the contact us form.
-
-2010, Chative.com  
-All rights reserved.  
-Last updated: November 25 2010
+If you have any questions, concerns or complaints about our Privacy Policy, you may contact us. 
