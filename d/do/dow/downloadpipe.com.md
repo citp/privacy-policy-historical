@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120616id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118221144id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # DownloadPipe.com Privacy Policy
 
@@ -27,3 +27,24 @@ Our site contains links to sites owned by other companies. We make no guarantees
 ## Customer Contact
 
 From time to time, DownloadPipe.Com makes available to current customers special deals and/or offers. In such a case, we will contact you by email. 
+
+WEEKLY GIVEAWAY
+
+_Ends midnight this Saturday_
+
+**5 copies of  
+_IObit's_ Malware Fighter!**  
+[](http://www.regnow.com/softsell/visitor.cgi?affiliate=24107&action=site&vendor=12915&ref=http%3A%2F%2Fwww.iobit.com%2Fmalware-fighter.html "The world's leading protection from spyware & malware-based on Cloud Computing technology")  
+[Sign Up](http://www.downloadpipe.com/newuser.html) for your free account or [Login](http://www.downloadpipe.com/login.html) to enter the draw! 
+
+FREEBIES
+
+**Need to clean your mouse or keyboard?** Try [Clean 'n' Go](http://www.datamystic.com/cleango-DP.exe).
+
+**Working with large video or images?** Need to clear the clipboard or monitor its size? Try [ClipSize](http://www.datamystic.com/clipsize-DP.exe). 
+
+Top Shareware
+
+Top Freeware
+
+New Software
