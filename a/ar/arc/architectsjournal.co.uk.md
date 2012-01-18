@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectsjournal.co.uk privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018094207id_/http%3A//www.architectsjournal.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectsjournal.co.uk privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118105954id_/http%3A//www.architectsjournal.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # 
 
