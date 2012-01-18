@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062724id_/http%3A//well.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.ca privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118073154id_/http%3A//well.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | Well.ca - Canada's online health, beauty, and skin care store Free Shipping
 
@@ -42,3 +42,5 @@ Privacy of Children Online
 Conclusion
     If you have any concerns about privacy at Well.ca Inc., please email info@Well.ca, and we'll try to resolve them.
     Our business changes constantly and our Privacy Statement may change also. Please check our websites frequently to view any recent changes. Unless stated otherwise, our current Privacy Statement applies to all information that we have about you. Once again, we care very much about protecting the privacy of our customers.
+
+[ ](http://well.ca/shippinginfo.html)
