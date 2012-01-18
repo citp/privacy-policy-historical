@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamster-soft.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211073545id_/http%3A//hamstersoft.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamster-soft.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118083657id_/http%3A//www.hamstersoft.com/en/privacy) for the most accurate reproduction.*
 
 # Free Software Download for Video editing, DVD burning or Zip
 
