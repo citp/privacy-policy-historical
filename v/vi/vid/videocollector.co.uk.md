@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716202857id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118221952id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VideoCollector.co.uk Privacy Policy
 
@@ -36,5 +36,5 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 <http://www.google.com/privacypolicy.html>
 
-Random item  [](http://www.videocollector.co.uk/scared-to-death/7250 "Scared to Death")| [](http://www.videocollector.co.uk/elvira-mistress-of-the-dark/13125 "Elvira, Mistress of the Dark")| [](http://www.videocollector.co.uk/inferno/6981 "Inferno")| [](http://www.videocollector.co.uk/dead-end-drive-in/13234 "Dead-End Drive In")  
+Random item  [](http://www.videocollector.co.uk/bustin-loose/14254 "Bustin' Loose")| [](http://www.videocollector.co.uk/tom--jerry-cartoon-festival/14133 "Tom & Jerry: Cartoon Festival")| [](http://www.videocollector.co.uk/underground-terror/13096 "Underground Terror")| [](http://www.videocollector.co.uk/rad/15523 "Rad")  
 ---|---|---|---
