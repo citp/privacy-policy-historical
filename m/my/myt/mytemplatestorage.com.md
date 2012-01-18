@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007235959id_/http%3A//www.mytemplatestorage.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemplatestorage.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118182214id_/http%3A//www.mytemplatestorage.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy|MyTemplateStorage
 
