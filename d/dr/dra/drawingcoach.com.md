@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawingcoach.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025020244id_/http%3A//www.drawingcoach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingcoach.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118201958id_/http%3A//www.drawingcoach.com/privacy.html) for the most accurate reproduction.*
 
 # DrawingCoach's Privacy Policy
 
