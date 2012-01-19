@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytreesoloads.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007081357id_/http%3A//moneytreesoloads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytreesoloads.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119115329id_/http%3A//www.moneytreesoloads.com/privacy.php) for the most accurate reproduction.*
 
 # MoneyTreeSoloAds Privacy Policy
 
