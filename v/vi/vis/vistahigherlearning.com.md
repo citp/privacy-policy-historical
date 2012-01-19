@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210073153id_/http%3A//www.vistahigherlearning.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119081828id_/http%3A//www.vistahigherlearning.com/content/privacypolicy) for the most accurate reproduction.*
 
-# Vista Higher Learning
+# Privacy Policy | Vista Higher Learning
 
 **_Privacy Policy_**
 
