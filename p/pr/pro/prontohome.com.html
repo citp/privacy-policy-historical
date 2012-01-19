@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prontohome.com privacy policy that was archived on 2011-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008022839id_/http%3A//www.prontohome.com/help/legal/policy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prontohome.com privacy policy that was archived on 2012-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120119041916id_/http%3A//www.prontohome.com/help/legal/policy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     
@@ -21,20 +21,22 @@
 
 
 
-    <link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/home/combined.ProntoV3_7_2_0.2011-09-14_19-30.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/home/combined.ProntoV3_7_5_2.2011-11-17_18-17.css" type="text/css" charset="utf-8">
 
-<link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/combined.ProntoV3_7_2_0.2011-09-14_19-30.css" type="text/css" charset="utf-8">
-
-
+<link rel="stylesheet" href="http://cache-www.pronto.com/css-local/main/pronto3/combined/combined.ProntoV3_7_5_2.2011-11-17_18-17.css" type="text/css" charset="utf-8">
 
 
 
-<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-1.6.ProntoV3_7_2_0.2011-09-14_19-30.js"></script>
-<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/combined/combined.ProntoV3_7_2_0.2011-09-14_19-30.js"></script>
+
+
+<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-1.6.ProntoV3_7_5_2.2011-11-17_18-17.js"></script>
+<script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/combined/combined.ProntoV3_7_5_2.2011-11-17_18-17.js"></script>
 
 
 
-    <script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-ui-1.8.custom.min.ProntoV3_7_2_0.2011-09-14_19-30.js"></script>
+    <script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/jquery-ui-1.8.custom.min.ProntoV3_7_5_2.2011-11-17_18-17.js"></script>
+    <script type="text/javascript" src="http://cache-www.pronto.com/js/main/pronto3/common_NC/accordion.ProntoV3_7_5_2.2011-11-17_18-17.js"></script>
+
 
 
 
@@ -100,10 +102,17 @@
     
 
     
+    
+    
 
 	<script type="text/javascript">//<![CDATA[
         var contextId = "home";
 		  thisPageURL = "http%3A%2F%2Fwww.prontohome.com%2Fhelp%2Flegal%2Fpolicy.do";
+        var loginURL =  "/account/loginForm.do";
+        var signupURL =  "/account/signUpForm.do";
+        var micrositeId = "pronto_home";
+        var loggedIn = "";
+        var registered = "";
 		//]]></script>
 
     <script type="text/javascript">
@@ -220,7 +229,7 @@
 		
 
 
-<div id="fullPageContainer" class="about  ">
+<div id="fullPageContainer" class="about ">
     
 
 
@@ -229,7 +238,11 @@
         
         
         
+        
     
+
+
+
 
 
 
@@ -243,7 +256,10 @@
         
         
         
+        
     
+
+
 
 
 
@@ -282,6 +298,7 @@
 		</div>
 
         
+            
 
 
 
@@ -296,6 +313,7 @@
 
 
 
+        
 
 		
         
@@ -306,24 +324,37 @@
 
 
 
-
 <div class="loginRegister clearfix" id="loginLogout">
     <div class="loginOptions js_login" style="display:block;">
         
                                                   
-        <a href="/account/signUpForm.do" onclick="lightboxifyLink('/account/signUpForm.do',false,format1);return false;" id="hdr_logout"><span>Sign Up</span></a>&nbsp;|&nbsp; <a href="/account/loginForm.do" onclick="lightboxifyLink('/account/loginForm.do',false,format1);return false;" id="hdr_logout"><span>Login</span></a>
+        <a href="/account/signUpForm.do" onclick="lightboxifyLink('/account/signUpForm.do',true,format1,true);return false;" id="hdr_logout"><span>Sign Up</span></a>&nbsp;|&nbsp; <a href="/account/loginForm.do" onclick="lightboxifyLink('/account/loginForm.do',true,format1,true);return false;" id="hdr_logout"><span>Login</span></a>
     </div>
     <div class="logoutOptions js_logout" style="display:none;">
         
-            <a href="/account/editSettingsFormInit.do" id="hdr_logout"><span>Account</span></a>&nbsp;|&nbsp; <a href="javascript:document.logoutForm.submit();" id="hdr_logout"><span>Logout</span></a>          
-            <form name="logoutForm" method="post" action="/account/logout.do" id="logoutForm" target="propogate_logout">
+            <a href="/account/editSettingsFormInit.do" id="hdr_logout"><span>Account</span></a>&nbsp;|&nbsp; <a href="#" id="hdr_logout" onclick="$('#logoutForm').submit(); return false;"><span>Logout</span></a>
+            <form name="logoutForm" method="post" action="/account/logout.do" id="logoutForm">
                 
                 <input type="hidden" name="micrositeId" value="pronto_home">
             </form>
-            <iframe name="propogate_logout" width="0" height="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>   
 
     </div>
 </div>
+
+
+
+
+<script type="text/javascript">
+    $("#logoutForm").ajaxForm(function(data){
+        $("#temp").html(data);
+        try{FB.logout();}catch(e){}
+        if("" == "true")
+            setTimeout("parent.location='/'", 750);
+        else
+              setTimeout("location.reload();",750);
+    });
+</script>
+
 
     
 		<div class="siteNav">
@@ -521,6 +552,9 @@
                     
                 
 
+                <!-- BILAL - here's the link to replicate on microsites -->
+                
+
 				
 				
 				
@@ -564,6 +598,39 @@
 
 <div class="contentContainer layoutContainer" id="layoutContainer">
     <div class="contentContent layoutContent" id="contentContainer">
+
+
+    
+    
+
+
+
+
+
+<ul class="breadcrumbs">
+    
+    
+        <li class="firstChild"><a href="/">Home</a></li>
+        
+                
+                
+                    
+                        <li><a href="/help/about/ourCompany.do" rel="nofollow">About</a></li>
+                    
+                    
+                
+            
+        
+            <li>Privacy Policy</li>
+        
+    
+</ul>
+
+
+
+
+
+
 
     <h1>About Us</h1>
     
@@ -838,6 +905,8 @@
     </ul>
     
 
+
+
 <div class="footerContainer layoutContainer clearfix">
 	<div class="footerContent layoutContent clearfix">
 		<div class="footerBar clearfix">
@@ -913,6 +982,7 @@
             <li><a href="http://megadeal.jp" rel="nofollow">MegaDeal.jp</a></li>
             <li><a href="http://dealecke.de" rel="nofollow">Dealecke.de</a></li>
             <li><a href="http://superprix.com" rel="nofollow">Superprix.com</a></li>
+            <li><a href="http://dealhop.co.uk/" rel="nofollow">DealHop.co.uk</a></li>
         </ul>
         <ul>
             <li>&nbsp;</li>
@@ -927,8 +997,9 @@
     <ul>
         <li><a href="https://www.writersnetwork.com/" rel="nofollow">The Writers Network</a></li>
         <li><a href="http://www.homeandgardenideas.com/">Home and Garden Ideas</a></li>
-        <li><a href="http://www.beautyandstyle.com/">Beauty and Style</a></li>
+        <li><a href="http://www.beautyandstyle.com/">Beauty &amp; Style</a></li>
         <li><a href="http://www.moneyandbusiness.com/">Money &amp; Business</a></li>
+        <li><a href="http://www.dogift.com/" rel="nofollow">doGift</a></li>
 
     </ul>
 </div>
@@ -1078,13 +1149,14 @@
 
 <div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script type="text/javascript">
-    <!--
     window.fbAsyncInit = function() {
-        FB.init({appId: '108627415844276', status: true, cookie: true, xfbml: true});
-        FB.Event.subscribe('edge.create', function(href, widget) {
-    		// tracking code
-            $.get("/facebookLike.do", { productId: prontoMerchantProductId});
-  		});
+        FB.init({appId: '123333851049345', status: true, cookie: true, xfbml: true});
+//        REL-13139 seems like this call is causing the like button to be unstyled on click
+//        FB.Event.subscribe('edge.create', function(href, widget) {
+//    		// tracking code
+//            $.get("/facebookLike.do", { productId: prontoMerchantProductId});
+//  		});
+        
     };
     (function() {
         var e = document.createElement('script');
@@ -1093,8 +1165,21 @@
         e.async = true;
         document.getElementById('fb-root').appendChild(e);
     }());
-    //-->
+
 </script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{"parsetags": "explicit"}
+
+    gapi.plusone.go("plus_one")
+</script>
+
+
+
+
+
+
+
     
 
 
