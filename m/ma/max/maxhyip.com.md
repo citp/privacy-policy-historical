@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227122613id_/http%3A//www.maxhyip.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhyip.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119175914id_/http%3A//maxhyip.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Statement for MaxHYIP Monitor
 
