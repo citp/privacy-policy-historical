@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007053148id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119034001id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
 
 # What is your Privacy Policy? - Freemans Help
 
-  * [Help](https://web.archive.org/web/20111007053148id_/http%3A//www.freemans.com/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20111007053148id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
+  * [Help](https://web.archive.org/web/20120119034001id_/http%3A//www.freemans.com/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20120119034001id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
 
 
 
