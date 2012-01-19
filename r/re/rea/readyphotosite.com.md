@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyphotosite.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013103716id_/http%3A//www.readyphotosite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyphotosite.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119041952id_/http%3A//www.readyphotosite.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ready Photo Site Flash Photography Websites
 
@@ -61,4 +61,4 @@ Please be advised, however, that no data transmission over the Internet can be c
 
 We reserve to ourselves the right to amend the terms of this privacy policy at any time. The date of the recent amendment will be posted at the top of the Privacy Policy page. If there are any changes in this section of Policy Privacy or the section on the Use of Your Personal Information, we will notify you by either sending you an email, posting a notice on Policy Privacy page or on our home page. We encourage you to check our Policy Privacy page for updates each time you visit our websites. 
 
-**[](https://web.archive.org/web/20111013103716id_/http%3A//www.readyphotosite.com/contacts.php)**
+**[](https://web.archive.org/web/20120119041952id_/http%3A//www.readyphotosite.com/contacts.php)**
