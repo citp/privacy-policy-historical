@@ -1,34 +1,16 @@
-> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316093735id_/http%3A//www.slotocash.com/slotocash-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotocash.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120071539id_/http%3A//www.slotocash.com/privacy-statement.php) for the most accurate reproduction.*
 
-# Sloto'Cash Casino - Privacy Policy
+# Online slots - Play free slot games - Sloto'Cash Casino
 
-[](https://web.archive.org/)
+## Privacy Statement of Slotocash
 
-  
-[](http://slotocash.com/get/d/14299)
+Sloto'Cash Casino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Statement. Please take the time to read this policy and familiarize yourself with its contents.
 
-**24/7 Customer Support** ****
+You should read this notice in conjunction with the Terms of Use for this website.
 
-(Toll Free)  
-US/Canada  
-Tel: 1 877 879 8814  
-UK Tel: 08-08-234-4332
+This website www.slotocash.com (the "Site") is operated by, and information collected from this Site is collected by, Sloto'Cash., a registered business name of Deckmedia N.V, a company incorporated and based in Curacao ("Sloto'Cash", "us" or "we").
 
-International:  
-Tel: +5999-433-8873  
-[support@slotocash.com ](mailto:support@slotocash.com)
-
-|   | 
-
-[](http://slotocash.com/get/d/14299)
-
-Sloto'Cash Casino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Statement. Please take the time to read this policy and familiarize yourself with its contents. 
-
-You should read this notice in conjunction with the [Terms of Use](https://web.archive.org/web/20110316093735id_/http%3A//www.slotocash.com/terms-conditions-of-slotocash-online-casino.html) for this website. 
-
-This website [www.slotocash.com](https://web.archive.org/) (the “Site”) is operated by, and information collected from this Site is collected by, Sloto'Cash., a registered business name of Deckmedia N.V, a company incorporated and based in Curacao (“Sloto'Cash ”, “us” or “we”). 
-
-## Acceptance of Privacy Policy
+### Acceptance of Privacy Policy
 
 If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and Sloto'Cash Casino will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site, after we either personally notify you or generally post changes on the Site, will constitute your acceptance of those changes. 
 
@@ -38,15 +20,15 @@ We collect personal information when you use our online gambling services, make 
 
 ### How Your Information is Processed ("Purposes")
 
-If you choose to provide us with personal information, your personal information will be processed for the following Purposes: to allow us to provide you with online gambling services; to process any of your requests for information; to provide customer support services; to market our services or products; to improve the content of our website; to notify you about updates to our website, software and/or services; and to support any of the intended purposes stated at the time at which your information was collected, and subject to any preferences indicated by you. 
+If you choose to provide us with personal information, your personal information will be processed for the following Purposes: to allow us to provide you with online gambling services; to process any of your requests for information; to provide customer support services; to market our services or products; to improve the content of our website; to notify you about updates to our website, software and/or services; and to support any of the intended purposes stated at the time at which your information was collected, and subject to any preferences indicated by you.
 
 ### To Whom Your Information is Disclosed ("Recipients") 
 
 All customer data will be treated confidential and will not be sold to others, however your information may, for the Purposes, be disclosed for processing to the following Recipients: any other companies within Deckmedia N.V. and their employees; any third party service providers who use your personal information to provide services to us; or any auditors or contractors or other advisers auditing any of Deckmedia N.V. business processes, potential purchasers or investors in any company within Deckmedia N.V.. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights. 
 
-We ensure that your information will not be disclosed to government institutions or authorities except if required by law. 
+We ensure that your information will not be disclosed to government institutions or authorities except if required by law.
 
-### Email Choice/Opt-out... 
+### Email Choice / Opt-out
 
 You will receive our email newsletters, account updates, special offers and new game announcements, sent to you by Sloto'Cash Support.
 
@@ -58,11 +40,11 @@ A cookie is a file containing electronic information which stored on a user's ha
 
 An IP address is a number that uniquely identifies your computer on the internet. Sloto'Cash may collect IP addresses for the purposes of system administration, security, troubleshooting, and compiling aggregate information (such as how many visitors logged on to the Site). When you visit a particular web page on the Site, our servers may log your IP address. 
 
-We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device. 
+We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.
 
 ### Advertising System
 
-The Sloto'Cash Casino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does not record any e-mail addresses, so you will not receive any spam mail. 
+The Sloto'Cash Casino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does not record any e-mail addresses, so you will not receive any spam mail.
 
 ### No Absolute Safeguards
 
@@ -78,11 +60,11 @@ If you are concerned with the accuracy of the personal information provided by y
 
 ### Retention 
 
-Your personal information will not be stored for any longer period than is necessary for the purposes for which it was collected. 
+Your personal information will not be stored for any longer period than is necessary for the purposes for which it was collected.
 
 ### Limits of Confidentiality
 
-For legal reasons, Sloto'Cash Casino may be required under certain circumstances to disclose your personal information. Reasons for this may include : 1) to protect and defend our rights or property ; 2) to comply with any legal process served on us . In addition, we reserve the right to disclose your personal information, including player identification, name, physical address, billing address, e-mail and/or phone number, to third parties as we believe necessary or appropriate in connection with any investigation of fraud, intellectual property infringement, piracy or any other unlawful or prohibited activity that might expose us to legal liability . 
+For legal reasons, Sloto'Cash Casino may be required under certain circumstances to disclose your personal information. Reasons for this may include : 1) to protect and defend our rights or property ; 2) to comply with any legal process served on us . In addition, we reserve the right to disclose your personal information, including player identification, name, physical address, billing address, e-mail and/or phone number, to third parties as we believe necessary or appropriate in connection with any investigation of fraud, intellectual property infringement, piracy or any other unlawful or prohibited activity that might expose us to legal liability .
 
 **Information about us  
 **Sloto'Cash is part of Deckmedia N. V.   
@@ -92,5 +74,3 @@ Brionplein 4, Curaçao, Netherlands Antilles.
 **Sloto'Cash Casino may occasionally make changes to the above Privacy Statement. Any such changes will be posted on this page and it is the sole responsibility of the player to visit this page on a regular basis in order to stay informed of the changes that may occur.**
 
 If you have any comments or questions regarding security or privacy relating to Sloto'Cash casino and affiliated partners please contact: [support@slotocash.com](mailto:support@slotocash.com)
-
-|  
