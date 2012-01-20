@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dticloud.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004025558id_/http%3A//dticloud.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dticloud.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120213421id_/http%3A//dticloud.com/Company/Privacy) for the most accurate reproduction.*
 
 # DTI Privacy Policy
 
