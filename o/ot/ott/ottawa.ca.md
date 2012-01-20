@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ottawa.ca privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224333id_/http%3A//ottawa.ca/privacy_en.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ottawa.ca privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120231810id_/http%3A//www.ottawa.ca/privacy_en.shtml) for the most accurate reproduction.*
 
 # City of Ottawa - Privacy Statement
 
