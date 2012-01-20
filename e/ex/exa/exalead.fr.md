@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119172401id_/http%3A//www.exalead.com/software/services/knowledgebase/websearchengine/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.fr privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120195528id_/http%3A//www.exalead.com/software/services/knowledgebase/websearchengine/privacypolicy) for the most accurate reproduction.*
 
 # Exalead Privacy policy
 
