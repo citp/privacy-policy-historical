@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027062523id_/http%3A//www.crochetville.org/forum/showthread.php%3Ft%3D44783) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120193710id_/http%3A//www.crochetville.org/forum/showthread.php%3Ft%3D44783) for the most accurate reproduction.*
 
 # Privacy Policy - Crochetville
 
