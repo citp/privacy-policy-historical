@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleasecentre.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163922id_/http%3A//www.pressreleasecentre.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasecentre.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120010130id_/http%3A//www.pressreleasecentre.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Press Release Distribution Service
 
