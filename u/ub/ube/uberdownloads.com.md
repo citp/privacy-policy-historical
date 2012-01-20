@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228160522id_/http%3A//uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberdownloads.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120092407id_/http%3A//uberdownloads.com/company.php%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Uberdownloads - Freeware and shareware downloads
 
@@ -24,4 +24,4 @@ We allow other companies that are presenting advertisements on Uberdownloads sit
 
 Uberdownloads web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
-If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20111228160522id_/http%3A//uberdownloads.com/contactus.php).
+If you have any questions or concerns, please contact us via [contact form](https://web.archive.org/web/20120120092407id_/http%3A//uberdownloads.com/contactus.php).
