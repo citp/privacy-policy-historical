@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesnexus.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203214052id_/http%3A//www.tesnexus.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesnexus.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120044018id_/http%3A//www.tesnexus.com/content/privacy.php) for the most accurate reproduction.*
 
 # The Elder Scrolls Nexus - Mods and community
 
