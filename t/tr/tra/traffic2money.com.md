@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the traffic2money.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021724id_/http%3A//mgrcentral.com/privacy.aspx%3Fuserid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffic2money.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120232402id_/http%3A//traffic2money.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free website traffic - manual surf traffic exchange-get traffic
 
-his is a free content site. We do not require any information from you (not even a user name or password) unless you become a member. You do not need to become a member to view most of the site or to access most of the articles or links at MgrCentral.com
+**THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR Traffic2money.com**
 
-A number of areas are restricted to members and for access to these we do collect information and this information is stored in our database. 
+**Information Collection and Use of Information**  
+In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.
 
-If you delete your account at MgrCentral.com your details are completely erased.
+**Security**  
+This website takes every precaution to protect our users personal information. When a user submits sensitive information via our site, the information is protected both online and off-line. Only the administrator of this site can access personal information of the users. 
 
-We will never sell or provide any information you provide us to any third party, unless under requirement of a court order. You do need to be aware that we are an Australian company and via Australia's special relationship with the United States and the European Union (and the owner's respect for the United States of America and the European Union) we will honour any court imposed request by either an Australian Court, a United States Court or a European Union Court to turn over any information held.
+**Correction/Updating Personal Information**  
+If a user's personally identifiable information changes, we provide a way to correct that user's personal data provided to us. This can be done within the member area.
 
-If you submit an article or link to become a partner site and supply your name and email address this information will only be used to notify you when your submission is processed, and is not stored in any database or mailing list.
+**Right to Cancel**  
+Our users can cancel membership and be removed from all newsletters and databases. To do this a link is provided at the end of system generated email messages from Traffic2money.com, click the link and you will be taken to a web page where you may choose to be removed from just newsletters or the entire database.
 
-If anything comes to your attention which could potentially be a violation of this policy, please notify us immediately so that we can investigate it and try to correct it. 
+**Site and Service Updates**  
+We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.
+
+**Notification of Changes**  
+If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
