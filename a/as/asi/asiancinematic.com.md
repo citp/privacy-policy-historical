@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiancinematic.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606152806id_/http%3A//www.asiancinematic.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancinematic.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120182939id_/http%3A//www.asiancinematic.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Asian Cinematic
+# Privacy Policy - Asian Cinematic | Home for Japanese drama and movies, Korean, Chinese, Hong Kong and more with English subtitles download
 
 Privacy Policy
 
