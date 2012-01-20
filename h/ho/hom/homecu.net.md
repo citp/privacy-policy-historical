@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homecu.net privacy policy that was archived on 2007-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070307040310id_/http%3A//homecu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecu.net privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120015105id_/http%3A//www.homecu.com/privacy.html) for the most accurate reproduction.*
 
 # HomeCU
 
