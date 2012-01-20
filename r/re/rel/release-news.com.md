@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027012205id_/http%3A//www.release-news.com/index.php/component/content/article/221.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120224411id_/http%3A//www.release-news.com/index.php/component/content/article/221.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY**  
-Welcome to Release-News.com ** **
+Welcome to Release-News.com **Â  **
 
   
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by release-news.com (collectively, "Services") ("Authorized Customers").
@@ -16,10 +16,10 @@ or demographic information not connected to an identified individual.
 We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
 **How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.  [](http://www.weblawgenerator.com/)
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. Â [](http://www.weblawgenerator.com/)
 
 **With whom may the information may be shared?**  
- We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+Â We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
 **How is Personally Identifiable Information stored?**  
 Personally Identifiable Information collected by release-news is securely stored and is not accessible to third parties or employees of release-news except for use as indicated above. 
