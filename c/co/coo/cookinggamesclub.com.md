@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinggamesclub.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007001600id_/http%3A//www.cookinggamesclub.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinggamesclub.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120153314id_/http%3A//www.cookinggamesclub.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
