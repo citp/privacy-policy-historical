@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009111003id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120190808id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Engineers Edge
 
@@ -31,6 +31,6 @@ Goggle is utilized to deliver targeted advertisements on Engineers Edge. Google 
 
 Contact Us
 
-If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20111009111003id_/http%3A//www.engineersedge.com/webmaster.htm)
+If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20120120190808id_/http%3A//www.engineersedge.com/webmaster.htm)
 
 © Copyright by Engineers Edge, All rights reserved 
