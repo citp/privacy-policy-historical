@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filequicktax.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219142603id_/http%3A//filequicktax.com/include/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filequicktax.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120165331id_/http%3A//filequicktax.com/include/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FileQuickTax.com
 
