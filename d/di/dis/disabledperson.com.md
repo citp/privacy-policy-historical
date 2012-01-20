@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disabledperson.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628171733id_/http%3A//www.disabledperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disabledperson.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120082042id_/https%3A//www.disabledperson.com/privacy) for the most accurate reproduction.*
 
 # DisABLED Person: Privacy Policy
 
