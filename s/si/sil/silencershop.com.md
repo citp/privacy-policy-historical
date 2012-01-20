@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219210148id_/http%3A//www.silencershop.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silencershop.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120070620id_/http%3A//www.silencershop.com/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silencer Shop
 
@@ -20,17 +20,17 @@ Our privacy policy is simple:
 
 ## Articles
 
-[12/12/2011](http://www.silencershop.com/texas-gun-trust-lawyers)
+[01/17/2012](http://www.silencershop.com/thoughts-silencerco-saker)
 
-Texas Gun Trust Lawyers
+Thoughts on SilencerCo Saker
 
-[Read More](http://www.silencershop.com/texas-gun-trust-lawyers)
+[Read More](http://www.silencershop.com/thoughts-silencerco-saker)
 
-[12/02/2011](http://www.silencershop.com/food-stamps-nfa-tax-stamps)
+[01/16/2012](http://www.silencershop.com/shot)
 
-Food Stamps vs NFA Tax Stamps
+Off to SHOT!
 
-[Read More](http://www.silencershop.com/food-stamps-nfa-tax-stamps)
+[Read More](http://www.silencershop.com/shot)
 
 [More Articles](http://www.silencershop.com/blog)
 
