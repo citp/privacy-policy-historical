@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothertrip.com privacy policy that was archived on 2011-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110702004244id_/http%3A//www.mothertrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothertrip.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120141220id_/http%3A//www.mothertrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mother Trip - Nature Pictures, Travel Destinations and Photos
 
