@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208212909id_/http%3A//computernetworkingnotes.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121003051id_/http%3A//computernetworkingnotes.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
