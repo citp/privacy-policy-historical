@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegadgetmachine.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225021219id_/http%3A//www.thegadgetmachine.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetmachine.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120113805id_/http%3A//www.thegadgetmachine.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gadget Machine
 
