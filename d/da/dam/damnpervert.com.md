@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010232911id_/http%3A//damnpervert.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120111721id_/http%3A//damnpervert.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DamnPervert.com v2.5
+# Privacy Policy - DamnPervert.com
 
 This document details important information regarding the use and disclosure of User Data collected on DamnPervert.com. The security of your Data is very important to DamnPervert.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
