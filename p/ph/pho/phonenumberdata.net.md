@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221223921id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberdata.net privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122003655id_/http%3A//www.phonenumberdata.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
