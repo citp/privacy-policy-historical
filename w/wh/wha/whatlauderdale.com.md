@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatlauderdale.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113091153id_/http%3A//www.whatlauderdale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatlauderdale.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121051115id_/http%3A//www.whatlauderdale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | What Lauderdale
 
