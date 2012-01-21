@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollybaby.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108215506id_/http%3A//www.hollybaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollybaby.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121072124id_/http%3A//www.hollybaby.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,9 +16,7 @@ General Information Collected: When visiting our site, some general information 
 
 The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements. 
 
-**_Third Party Service Providers: ___** _ ___
-
- _ _
+**_Third Party Service Providers:_ __**
 
 Agents and affiliates of PMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by PMC. Features on the Web Site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.
 
@@ -57,5 +55,3 @@ Los Angeles, CA 90301
 Law Enforcement inquiries can be directed to LegalCompliance@pmc.com.
 
 All spam, UCE and general abuse issues should be directed to: abuse@pmc.com.
-
-__
