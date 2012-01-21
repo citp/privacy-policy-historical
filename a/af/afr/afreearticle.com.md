@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afreearticle.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427043125id_/http%3A//www.articlespromoter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreearticle.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121010224id_/http%3A//www.afreearticle.com/privacy.php) for the most accurate reproduction.*
 
-# Articles Promoter Article Directory | Privacy Statement
+# A Free Article Directory | Privacy Statement
 
 Articles Promoter strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
