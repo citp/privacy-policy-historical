@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201125715id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121090313id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -23,10 +23,10 @@ We recommend that all users enable cookies in their internet browsers in order t
 
 You must be logged in to post messages. 
 
-Total Members:| 29388  
+Total Members:| 35790  
 ---|---  
-Online Members:| 73  
-Total Paid:| $60,994.12  
-Pending:| $9.76  
-Offers:| 565  
-Offers Value:| $ 294.19 & 37.25 points 
+Online Members:| 37  
+Total Paid:| $65,542.34  
+Pending:| $21.87  
+Offers:| 545  
+Offers Value:| $ 530.59 & 446.56 points 
