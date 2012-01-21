@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtoshopforfree.net privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223003605id_/http%3A//www.howtoshopforfree.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtoshopforfree.net privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121083123id_/http%3A//www.howtoshopforfree.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | How to Shop For Free with Kathy Spencer
 
