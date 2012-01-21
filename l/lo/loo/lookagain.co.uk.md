@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2012-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
 
 # What is your privacy policy? - LookAgain Help
 
-  * [Help](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20101012003724id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
+  * [Help](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20120121195002id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
 
 
 
@@ -28,6 +28,8 @@ We may share your details to third parties whose offers we think might interest 
 **We randomly monitor calls made to our Customer Services for training. 
 
 
+
+We may also pass information about you to agents, service providers and employees to carry out services. In the course of providing such services, we may transfer your personal information outside the European Economic Area. We will employ appropriate security measures to protect your personal information where this is the case.
 
 This information will not be used for any other purpose. If you do not want us to use your information for third party marketing purposes, please write to us at:  
 Look Again  
