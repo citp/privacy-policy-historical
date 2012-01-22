@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superplr.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121032345id_/http%3A//superplr.com/index.php%3Fact%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superplr.com privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122084127id_/http%3A//www.superplr.com/index.php%3Fact%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
 
 # SuperPLR.com
 
