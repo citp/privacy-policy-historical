@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetyourfriends.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806150052id_/http%3A//www.meetyourfriends.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetyourfriends.com privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122013409id_/http%3A//www.meetyourfriends.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Read Privacy Policy for safe online personals and chatting
 
