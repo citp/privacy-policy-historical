@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028070811id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louisvillemojo.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123083108id_/http%3A//www.louisvillemojo.com/privacy.cfm) for the most accurate reproduction.*
 
 # Louisville Dating: Local singles in Louisville - Kentucky Personals
 
