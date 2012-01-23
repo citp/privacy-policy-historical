@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewebdegrees.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184123id_/http%3A//www.ewebdegrees.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebdegrees.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123045456id_/http%3A//www.ewebdegrees.com/privacy.htm) for the most accurate reproduction.*
 
 # Email List Privacy Policy
 
