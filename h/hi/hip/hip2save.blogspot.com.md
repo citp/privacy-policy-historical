@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hip2save.blogspot.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106182658id_/http%3A//hip2save.blogspot.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hip2save.blogspot.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123052355id_/http%3A//hip2save.blogspot.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
 
 # It's Hip to Save!
 
