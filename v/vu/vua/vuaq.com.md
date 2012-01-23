@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuaq.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123190054id_/http%3A//www.vuaq.com/%3Fpage_id%3D1414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuaq.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123050550id_/http%3A//www.vuaq.com/%3Fpage_id%3D1414) for the most accurate reproduction.*
 
 # Education Online » Privacy Policy
 
