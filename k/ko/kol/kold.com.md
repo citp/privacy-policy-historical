@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kold.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183610id_/http%3A//www.kold.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kold.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123122330id_/http%3A//www.kold.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Tucson News Now
 
 **This Website's Privacy Policy**
 
