@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroautoinsure.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092433id_/http%3A//www.euroautoinsure.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroautoinsure.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123083740id_/http%3A//www.euroautoinsure.com/prp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
