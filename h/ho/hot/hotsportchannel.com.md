@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotsportchannel.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123200621id_/http%3A//www.hotsportchannel.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsportchannel.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123200737id_/http%3A//www.hotsportchannel.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Man Utd vs Benfica Live Stream: Privacy Policy
+# Barcelona vs Real Madrid 3-1 Highlights: Privacy Policy
 
 ###  [Privacy Policy](http://www.hotsportchannel.com/p/privacy-policy.html)
 
