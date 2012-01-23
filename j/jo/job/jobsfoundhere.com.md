@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jobsfoundhere.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923053741id_/http%3A//jobsfoundhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsfoundhere.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123110909id_/http%3A//jobsfoundhere.com/privacy.html) for the most accurate reproduction.*
 
-# 
-
-**PRIVACY POLICY**  
-**JobsFoundHere.com, LLC, and each of its related web sites ("JobsFoundHere.com") Privacy Policy**  
-Last updated October 11,  2009.
+# Privacy Policy | JobsFoundHere.com
 
 This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website.  JobsFoundHere.com provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
 
@@ -50,7 +46,7 @@ THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE I
 The following paragraphs in Section 2 describe how JobsFoundHere.com currently uses Individual Information, but JobsFoundHere.com may change or broaden its use at any time. As noted, JobsFoundHere.com may update this policy from time to time. JobsFoundHere.com may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
 **2.2 Email.**  
-JobsFoundHere.com uses Individual Information to provide promotional offers by email to individuals. JobsFoundHere.com may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all JobsFoundHere.com 's email lists, a person must send an email to [unsubscribe@JobsFoundHere.com](mailto:unsubscribe@JobsFoundHere.com).  
+JobsFoundHere.com uses Individual Information to provide promotional offers by email to individuals. JobsFoundHere.com may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.  
 **2.2(a) Content of Email Messages.**  
 In certain commercial email messages sent by JobsFoundHere.com, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to JobsFoundHere.com. The "Subject:" line of JobsFoundHere.com email messages will usually contain a line provided from the advertiser to JobsFoundHere.com .  
 **2.2(b) Solicited Email.**  
@@ -88,7 +84,7 @@ JobsFoundHere.com may disclose Individual Information to respond to subpoenas, c
 JobsFoundHere.com may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
 **3.5 Access.**  
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [legal@JobsFoundHere.com](mailto:legal@JobsFoundHere.com). JobsFoundHere.com may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
+Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting JobsFoundHere.com. JobsFoundHere.com may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
 
 **4\. Privacy Practices of Third Parties.**  
 **4.1 Advertiser cookies and web beacons.**  
@@ -100,25 +96,10 @@ The Website and email messages sometimes contain hypertext links to the web site
 **4.3 Affiliated Companies.**  
 JobsFoundHere.com may disclose, transfer, and sell Individual Information to entities affiliated with JobsFoundHere.com in JobsFoundHere.com's discretion.  Should JobsFoundHere.com be subject to an acquisition, merger, sale or other change of control or business entity status, JobsFoundHere.com reserves the right to transfer or assign the Information collected from the Website.  
 
-**5.          Individuals Outside of the United States.      **  
+**5.   Individuals Outside of the United States.      **  
 Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by JobsFoundHere.com in the United States.  By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States. 
 
-**6\. Unsubscribe Procedures.**  
-**6,1** If you wish to discontinue receiving email messages from JobsFoundHere.com, you have several options:
-
-  1. **Unsubscribe from one email list.    **To unsubscribe from a particular list, either (1) send an email to _[unsubscribe@JobsFoundHere.com](mailto:unsubscribe@JobsFoundHere.com)_ or (2) follow the instructions in each promotional email message sent by JobsFoundHere.com . 
-  2. **Unsubscribe from all of JobsFoundHere.com 's email lists.**  
-We reserve the right to add Individual Information to multiple lists maintained by JobsFoundHere.com. To globally unsubscribe from all of JobsFoundHere.com's lists, send an email to [unsubscribe@JobsFoundHere.com](mailto:unsubscribe@JobsFoundHere.com). 
-
-
-    1. **Unsubscribe from a particular SMS messaging campaign.**
-
-
-
 To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP", "END", or "QUIT" to the SMS message received by the individual.  In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.    
-**For more information about protecting your privacy, you may wish to visit: _www.ftc.gov_.  If you have questions about this policy, please contact us at [legal@JobsFoundHere.com](mailto:legal@JobsFoundHere.com).**
+**For more information about protecting your privacy, you may wish to visit: _www.ftc.gov_.  If you have questions about this policy, please contact JobsFoundHere.com.**
 
 **California User Consumer Rights.**   In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov).
-
-  
-© 2009 JobsFoundHere.com, LLC.  All rights reserved.
