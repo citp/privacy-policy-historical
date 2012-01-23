@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gloinvest.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183112id_/http%3A//www.gloinvest.net/privacy.asp%3Fref%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloinvest.net privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123045000id_/http%3A//www.gloinvest.net/privacy.asp%3Fref%3D2) for the most accurate reproduction.*
 
 # GloInvest.Net
 
