@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easybitsmedia.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222042138id_/http%3A//www.easybitsmedia.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybitsmedia.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123151307id_/http%3A//www.easybitsmedia.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | EasyBits Media
 
