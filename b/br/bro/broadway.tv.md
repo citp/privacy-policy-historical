@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.tv privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019103839id_/http%3A//www.broadway.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.tv privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123060134id_/http%3A//www.broadway.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Broadway Tv
 
