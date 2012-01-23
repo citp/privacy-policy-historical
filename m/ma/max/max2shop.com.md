@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the max2shop.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the max2shop.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - max2shop.com
 
 Customer Service
 
-  * [Why Buy from Us?](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/why.html)
-  * [FAQ](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/faq.html)
-  * [Contact Us](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/contact_us.php)
-  * [Disclaimer](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/disclaimer.html)
-  * [Privacy Policy](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/privacy.html)
-  * [Shipping Information](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/shipping.html)
-  * [Returns & Exchange](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/re.html)
-  * [Warranty](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/warranty.html)
-  * [Payment Methods](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/payment.html)
-  * [Order Confirmation](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/confirmation.html)
-  * [Order Tracking](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/tracking.html)
+  * [Why Buy from Us?](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/why.html)
+  * [FAQ](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/faq.html)
+  * [Contact Us](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/contact_us.php)
+  * [Disclaimer](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/disclaimer.html)
+  * [Privacy Policy](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/privacy.html)
+  * [Shipping Information](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/shipping.html)
+  * [Returns & Exchange](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/re.html)
+  * [Warranty](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/warranty.html)
+  * [Payment Methods](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/payment.html)
+  * [Order Confirmation](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/confirmation.html)
+  * [Order Tracking](https://web.archive.org/web/20120123033321id_/http%3A//www.max2shop.com/tracking.html)
 
 | 
 
