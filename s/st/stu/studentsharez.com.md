@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentsharez.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092202id_/http%3A//www.studentsharez.com/thread-1279184.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsharez.com privacy policy that was archived on 2012-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120123025406id_/http%3A//www.studentsharez.com/thread-1279184.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,6 +61,6 @@ Contact
 For any questions or inquiries about our privacy policy, you can contact us at privacy(at)studentsharez.com
 
 *Cookie  
-A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by studentsharez.com sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent.
+A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by studentsharez.com sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. 
 
 **
