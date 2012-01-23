@@ -1,0 +1,286 @@
+<!--The following is the downloaded HTML source of the gvadirectory.com privacy policy that was archived on 2012-01-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120123102613id_/http%3A//www.gvadirectory.com/gvadirectory_privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Vancouver Canada Business directory, Vancouver BC Directory,British Columbia business directory, Vancouver business listings marketing&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Sandestiny/style/main.css">
+<meta name="keywords" content="Vancouver directory,Vancouver BC Canada white pages,British Columbia Directory,Greater Vancouver business directory,directory of Vancouver,Vancouver yellow pages,Vancouver business search.">
+<meta name="description" content="Vancouver Directory British Columbia Directory and Vancouver yellow and white pages for listing British Columbia BC business.">
+<meta name="author" content="Vancouver and British Columbia Web Directory">
+<meta name="copyright" content="Copyright (c) 2008 by Vancouver Web Directory. All rights reserved!">
+<meta name="generator" content="PHP Link Directory 3.4.0">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.gvadirectory.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div></div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Sandestiny/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get">
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</form>
+</div>
+</div>
+<div class="hMenuContainer"><div class="center"><div class="hMenu"><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><a href="/contact.php" title="Contact directory owner">Contact</a><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Vancouver Online Web directory.Vancouver British Columbia BC Canada Directory. Vancouver BC best Internet Directory</a> » Privacy Policy</div><div class="center1"><div class="leftContainer">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">CATEGORIES</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<ul class="boxPopCats">
+<li>
+<a href="/arts_humanities/" title="Arts &amp; Humanities">Arts &amp; Humanities</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/blogs/" title="Blogs">Blogs</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/business_and_economy/" title="Business &amp; Economy">Business &amp; Economy</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/computers_and_internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/education/" title="Education">Education</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/entertainment/" title="Entertainment">Entertainment</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/news_and_media/" title="News &amp; Media">News &amp; Media</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/recreation_and_sports/" title="Recreation &amp; Sports">Recreation &amp; Sports</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/science_and_technology/" title="Science and Technology">Science and Technology</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+<div style="clear: both;"></div>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+<div style="clear: both;"></div>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">STATISTICS</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 173</li>
+<li><strong>Pending Links:</strong> 10739</li>
+<li><strong>Todays Links:</strong> 82</li>
+<li><strong>Pending Articles:</strong> 343</li>
+<li><strong>Total Articles:</strong> 3</li>
+<li><strong>Total Categories:</strong> 13</li>
+<li><strong>Sub Categories:</strong> 687</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;"> maintains appropriate safeguards to ensure the security, integrity               and privacy of personally identifiable information submitted  to  our             sites, and periodically reviews and updates its  security  measures in             light of current technologies.  Unfortunately,  no data transmission             over the Internet can  be guaranteed to  be totally secure. Although we strives to protect your  personal  information, we can not             ensure or warranty the  security of  any information you may transmit             to us. This is  done so at  your own risk. Once we do receive your              transmission,  however, we make our best effort to ensure its              security on  our systems.</span></p>
+<p><strong><span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;">Cookies</span></strong></p>
+<p><span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;">Cookies                 are data that a Web site transfers to an individual's     hard-drive for             record-keeping purposes. Cookies, which are    an industry  standard             used by most Web sites, including    those operated by us,  can             facilitate a user's ongoing    access to and use of a site.  They allow             us to track usage    patterns and to compile data that can help  us             improve our    content and target advertising. Our Cookies are  no              programs   that can cause damage to a user's systems or files.  If               you  do not want information collected through the use of   Cookies,               there is a simple procedure in most browsers that  allows you   to  deny             or accept the Cookie feature. But you  should note  that   Cookies may             be necessary to provide you  with features  such  as adding  your             personal  favourites.Google, as a  third-party  vendor, uses  cookies to serve ads  on </span>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;">.  Google's  use of the  DART cookie enables  it to serve ads to our users  based on  their visit  to our sites and  other sites on the Internet.  Users may  opt out of the  use of the DART  cookie by visiting the </span>http://www.google.com/privacy/privacy-policy.html</p>
+<p><strong><span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;">Links             to Third Party and Co-Branded Sites</span></strong></p>
+<p>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;"> has established many links directly to sites operated by third                parties. These sites are not operated or maintained by </span>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;">.             These sites may collect personal    information from you. You should             check the applicable    privacy policy's of the third party site's in             case you enter    these sites.<br></span></p>
+<p>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;"> chooses its advertisers and business partners carefully. However,  www.</span>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;"> is not responsible for the content or  practices of Web               sites operated by third parties that are  linked to our site.   These             links are meant for the user's  convenience only.  Links  to third             party sites do not  constitute sponsorship,   endorsement or approval             by </span>gvadirectory.com<span style="font-family: Arial,Helvetica,sans-serif; color: #000000; font-size: x-small;"> of the  content, policies or  practices of such  third             party sites.  Once you enter a third  party site by  such a link, you              should check the applicable  privacy  policy of the third party site.</span></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<center>
+</center>
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">ARTICLES</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/vancouver-islands-30.htm" title="VANCOUVER ISLANDS">
+VANCOUVER ISLANDS
+</a>
+<br>
+Vancouver attraction, Vancouver pacific, Vancouver events, Vancouver downtown, , Vancouver Island BC, Vancouver market, Vancouver Theater, Vancouver family, greater Vancouver
+<br><br>
+</div>
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/vancouver-tourism-29.htm" title="VANCOUVER TOURISM">
+VANCOUVER TOURISM
+</a>
+<br>
+Vancouver Canada, Vancouver city, Travel Vancouver, Victoria Vancouver, Vancouver map, Vancouver hotel deals, Cheap Vancouver hotels, Vancouver sightseeing, Vancouver employment
+<br><br>
+</div>
+<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/articles/vancouver-business-and-economy-27.htm" title="Vancouver business and Economy">
+Vancouver business and Economy
+</a>
+<br>
+Vancouver British Columbia business, Economy , Tourism and other industries.
+<br><br>
+</div>
+</div>
+<div class="boxBottom"></div>
+</div>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><a href="http://www.gvadirectory.com" title="Vancouver business directory">Vancouver Directory</a>&nbsp;&nbsp;<a href="http://www.gvadirectory.com/gvadirectory_privacypolicy.html" rel="nofollow">Privacy Policy</a></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2526042-16");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
