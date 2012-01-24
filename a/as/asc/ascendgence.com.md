@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219205809id_/http%3A//ascendgence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124210748id_/http%3A//ascendgence.com/privacy) for the most accurate reproduction.*
 
 # Ascendgence Privacy, Information and Security Policy - Ascendgence
 
