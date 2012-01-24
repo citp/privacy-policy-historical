@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116015645id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124233111id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Patsnap
 
