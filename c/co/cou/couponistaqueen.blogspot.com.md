@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponistaqueen.blogspot.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022113730id_/http%3A//couponistaqueen.blogspot.com/p/privacy-policy-disclosures.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponistaqueen.blogspot.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124082113id_/http%3A//couponistaqueen.blogspot.com/p/privacy-policy-disclosures.html) for the most accurate reproduction.*
 
 # Couponista Queen: Privacy Policy and Disclosures
 
