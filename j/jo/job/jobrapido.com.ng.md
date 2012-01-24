@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the jobrapido.com.ng privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125040651id_/http%3A//www.jobrapido.com.ng/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com.ng privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124162334id_/http%3A//www.jobrapido.com.ng/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy
 
-This page describes the ways in which the personal data of users of the website www.jobrapido.com.ng (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it.   
+This page describes the ways in which the personal data of users of the website ng.jobrapido.com (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it. 
+
 1\. Data Holder  
 The party responsible for handling the personal data of the Site users is Jobrapido S.r.l. (referred to below as “Jobrapido”). If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:  
 Jobrapido s.r.l., Via Paleocapa 7, 20121 Milano, Italia  
