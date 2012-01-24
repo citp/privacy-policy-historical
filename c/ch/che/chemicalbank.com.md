@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008015123id_/http%3A//www.chemicalbankmi.com/cb/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemicalbank.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124191743id_/http%3A//chemicalbankmi.com/cb/privacy_statement.htm) for the most accurate reproduction.*
 
 # Chemical Bank - Privacy Statement
 
 Chemical Financial Corporation and its subsidiaries, divisions and affiliates understand that protecting the privacy of your personal and account information is critical. Whether you are a current customer or just visiting our Website, we safeguard the information you provide us at our Websites. The controls and practices we use to collect and protect this information specific to the Internet are described below. 
 
-[Click here](https://web.archive.org/web/20111008015123id_/http%3A//www.chemicalbankmi.com/securitycenter/default.asp?navPage=privacypolicy.htm) to review a copy of our **Privacy Policy** , which describes how we safeguard, maintain, and use information we obtain about our customers in the normal course of our business. These practices also apply to the information we obtain online about our Website visitors. 
+[Click here](https://web.archive.org/web/20120124191743id_/http%3A//chemicalbankmi.com/securitycenter/default.asp?navPage=privacypolicy.htm) to review a copy of our **Privacy Policy** , which describes how we safeguard, maintain, and use information we obtain about our customers in the normal course of our business. These practices also apply to the information we obtain online about our Website visitors. 
 
 #### Protecting Online Applications
 
