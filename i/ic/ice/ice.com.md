@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105081150id_/http%3A//www.ice.com/common/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124184719id_/http%3A//www.ice.com/common/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Ice.com Privacy Policy - Committed to Protect Your Privacy Online
+# Ice Privacy Policy - Committed to Protect Your Privacy Online
 
-### Last updated: 09/10/08 
+### Last updated: 11/07/11 
 
 This privacy statement discloses the privacy practices for Ice.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
-If you believe that Ice.com is not abiding by our posted privacy policy, please contact us at 1-800-539-3580 or e-mail us at [ _info@ice.com_ ](mailto:info@ice.com) . 
+If you believe that Ice.com is not abiding by our posted privacy policy, please contact us at 1-800-539-3580 or e-mail us at [_privacy@ice.com_](mailto:privacy@ice.com). 
 
 ### Information Collection and Use
 
@@ -62,7 +62,7 @@ Ice.com takes every precaution to protect our users' information. When users sub
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs)best encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear.  In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. 
 
-If you have any questions about the security at our website, send us an e-mail at [ _info@ice.com_ ](mailto:info@ice.com) for more info. 
+If you have any questions about the security at our website, send us an e-mail at [_privacy@ice.com_](mailto:privacy@ice.com) for more info. 
 
 ### Supplementation of Information
 
@@ -76,9 +76,56 @@ Established members will occasionally receive information on products, services,
 
 If a user's personally identifiable information changes (such as your zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication. 
 
-### Choice/Opt-Out
+### Email Policy
 
-Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our e-mail. 
+We respect your privacy and comply with the federal CAN-SPAM Act of 2003 and the Canadian Fighting Internet and Wireless Spam Bill C-28. 
+
+We do not share, sell, rent, swap or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact us at [_privacy@ice.com_](mailto:privacy@ice.com).
+
+Account and Service-Related Email: 
+
+Ice reserves the right to send you emails relating to your account status. This includes order confirmations, notices of credit-card problems, other transactional emails and notifications about major changes to the Ice.com services.
+
+Promotional Email: 
+
+Ice.com may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either:
+
+* • Following the "unsubscribe" instructions located near the bottom of each email, or
+  
+
+* • Contacting us at unsubscribe@ice.com requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
+  
+
+* • Calling our toll-free number at 1-800-539-3580 on weekdays, between 8 AM and 6 PM (EST).
+
+Survey Email: 
+
+Ice may send you an email inviting you to participate in user surveys, asking for feedback on existing or prospective Ice.com products and services, as well as information to better understand our users. User surveys greatly help us to improve Ice.com services, and any information obtained in such surveys will not be shared with third parties, except in aggregate form.
+
+HTML Email: 
+
+When you sign up to receive emails from us, you can select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not you have viewed the email. This process does not leave any information on your computer, nor does it collect information from your computer. Ice.com may share this data with others in aggregate form only.
+
+Emails from You:
+
+If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
+
+If, at any time, you prefer not to receive promotional emails, traditional mail or telephone solicitations originated by Ice and its third party affiliates, you can choose not to receive messages in the future by either:
+
+Following the "unsubscribe" instructions located near the bottom of each email, or
+
+* •Mail to: 
+
+Ice.com  
+1083 State Route 9  
+Champlain, NY   
+12919  
+
+
+* • Contacting us at [_unsubscribe@ice.com_](mailto:unsubscribe@ice.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
+  
+
+* • Calling our toll-free number at 1-800-539-3580 on weekdays, between 8 AM and 6 PM (EST).
 
 ### Changes to This Policy
 
