@@ -1,41 +1,28 @@
-<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2011-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2012-01-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120125004629id_/http%3A//otixo.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Otixo: Privacy Policy</title>
-	<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
+	
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/960.css">
 	<link rel="stylesheet" href="css/otixo_website.css">
+
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>	
-	
-	<!-- Videobox scripts -->
-	<!--	<link rel="stylesheet" href="css/videobox.css" type="text/css" media="screen" />
-	<script type="text/javascript" src="js/mootools.js"></script>
-	<script type="text/javascript" src="js/swfobject.js"></script>
-	<script type="text/javascript" src="js/videobox.js"></script> -->
-	<!-- / Videobox scripts -->
-
-    <!-- NyroModal Popup -->
-	<!-- <link rel="stylesheet" href="css/nyroModal.css" type="text/css" media="screen" />
-	<script type="text/javascript" src="js/jquery.nyroModal.custom.js"></script> -->
-    <!-- / NyroModal Popup -->
 
 	<!-- FancyBox -->
 	<link rel="stylesheet" type="text/css" href="./fancybox/jquery.fancybox-1.3.4.css" media="screen">	
 	<script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 	<!-- / FancyBox -->
-
-	<script type="text/javascript" src="./js/jquerymailto.js"></script>
 	
-	<!-- PrettyPhoto -->
-	<!-- <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
-	<script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script> -->
-	<!-- / PrettyPhoto -->
-
+	<!-- SimpleTip -->
+	<script type="text/javascript" src="./js/jquery.simpletip.js"></script>
+	<!-- / SimpleTip -->
+	
 	<!-- Google Analytics script -->
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
@@ -51,7 +38,27 @@
 	<!-- / Google Analytics script -->
 
 	<script type="text/javascript" charset="utf-8">
+
 		$(document).ready(function(){
+
+			$("#video").click(function() {
+                 $.fancybox({
+					'autoDimensions'		: false,
+					'centerOnScroll'		: true,
+					'overlayColor'			: '#fff',
+					'overlayOpacity'		: 0.4,
+					'padding'				: 30,
+					'autoScale'				: false,
+					'transitionIn'			: 'fade',
+					'transitionOut'			: 'fade',
+					'width'					: 640,
+					'height'				: 388,
+					'href'					: this.href = this.href.replace(new RegExp("watch\\?v=", "i"), 'v/') + '&autoplay=1',
+					'type'					: 'swf',
+					'swf' 					: {'allowfullscreen':'true', 'wmode':'transparent'}
+                  });
+                 return false;
+            }); 	
 
 			$(".showcontacts").fancybox({
 				'autoDimensions'		: false,
@@ -66,10 +73,21 @@
 				'width'					: 400,
 				'height'				: 240
 			});
-			
-			$('.email').mailto();
 
+			$('.personal .balloon').simpletip({
+				content: "<p>\"Bandwidth Usage\" is the amount of network traffic or data transfer that you use while interacting with your files and folders Otixo.</p>",
+				fixed: true,
+				position : [-5, -5]
+			});
+
+			$('.business .balloon').simpletip({
+				content: "<p>\"Bandwidth Usage\" is the amount of network traffic or data transfer that you use while interacting with your files and folders Otixo.</p><p>\"Unlimited\" usage is subject to our <a href=\"../license.html\" target=\"_blank\">Terms and Conditions</a> policy.</p>",
+				fixed: true,
+				position : [-5, -5]
+			});			
+			
 		});
+		
 	</script>
 	
 	<script type="text/javascript" charset="utf-8">
@@ -89,24 +107,29 @@
 		
 		var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 	</script>	
+
 	
 	</head>
-<body class="licence">
+<body class="licence" id="privacy">
+
 <div class="container_12">
-	<a href="index.html"><div class="grid_3 logo"></div></a>
+	<a class="grid_3" href="index.html"><div class="grid_3 alpha omega logo"></div></a>
 	<!-- end .grid_3 -->
 	<div class="grid_9 topmenu">
 		<a href="index.html">Home</a>
 		<a href="product.html">Product</a>
-<!--		<a href="pricing.html">Pricing</a> -->		
-		<a href="#contact" class="showcontacts">Contact Us</a>
+		<a href="kudos.html">Kudos</a>
 		<a href="http://blog.otixo.com">Blog</a>
+		<a href="pricing.html">Pricing</a>		
 		<a href="http://app.otixo.com/login.jsp#register" class="grn">Register</a>
-		<a href="http://app.otixo.com/login.jsp" class="grn">Login</a>		
+		<a href="http://app.otixo.com/login.jsp" class="grn">Login</a>
 	</div>
 	<!-- end .grid_9 -->
 	<div class="clear"></div>
 </div>
+<!-- end .container_12 -->
+<div class="clear"></div>
+
 
 <div class="container_12">
 	<div class="grid_12 space"></div>
@@ -120,345 +143,213 @@
 	<!-- end .grid_12 -->
 	<div class="clear"></div>
 	<div class="grid_12" style="text-align: center">
-		<h3>Last Updated: April 11, 2011</h3>	</div>
+		<h3>&nbsp;</h3>	
+	</div>
+	<!-- end .grid_11 -->
+	<div class="clear"></div>
+	<div class="grid_12 space"></div>	
 	<!-- end .grid_11 -->
 	<div class="clear"></div>
 	<div class="grid_12 space"></div>
 	<!-- end .grid_12 -->
 	<div class="clear"></div>
 	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->	<div class="clear"></div>
-	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-	<div class="grid_12 include-container">
-		<p class="product emboss">Otixo,
-		Inc. (“Otixo,” “we,” “our” or
-		“us”) is committed to respecting the privacy and security
-		of your personal information. The following U.S. online privacy
-		policy (“Privacy Policy”) describes the information we
-		collect and how we use it. By using this website, you consent to our
-		Privacy Policy.</p>
-		<p class="product emboss">We
-		may periodically update this Privacy Policy to reflect material
-		changes in how we collect, use, share or store your personal
-		information.  We encourage you to refer to this Privacy Policy on an
-		ongoing basis so that you understand our current Privacy Policy.  You
-		consent to any changes we make to this Privacy Policy if you continue
-		to use the Otixo service after receiving a notice of the change or
-		upon our posting of the new Privacy Policy on this website. 
-		</p>
-	</div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-</div>
-
-<div class="container_12 container-white include-container">
-	<div class="grid_12 space"></div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-	<div class="grid_10 prefix_1 suffix_1">
-		<p><b>COLLECTING INFORMATION</b></p>
-		<p>Like
-		many websites, we gather information about how visitors use our
-		website. In general, you can visit many of our web pages without
-		telling us who you are or revealing any personal information about
-		yourself. We may track your visit for trends and statistics, but you
-		will remain anonymous unless you tell us who you are. Once you choose
-		to give us your personal information, you are not anonymous to us.
-		For more information, see the “Navigation” section of
-		this Privacy Policy below.</p>
-		<p>We
-		request information from you (which may include your name, address,
-		telephone number, email address, age, gender and, when necessary,
-		credit card information) when you:</p>
-		<ul>
-			<li><p>Register
-			or set up an account</p></li>
-			<li><p>Purchase</p></li>
-			<li><p>Request
-			to receive communications</p></li>
-			<li><p>Participate
-			in a promotion or other website feature</p></li>
-			<li><p>Participate
-			in online discussions</p></li>
-			<li><p align="JUSTIFY" style="line-height: 100%">Modify
-			your account or profile</p></li>
-		</ul>
-		<p>In
-		order to better understand your preferences and better serve you, we
-		may combine information you give us online with other information
-		from Otixo sources, transactions and communications. We may also
-		combine that information with data that is publicly available and
-		data that we receive from other reputable sources.  All data combined
-		and stored with online data is protected by this Privacy Policy. 
-		</p>
-		<p>To
-		provide you with certain social features, we may collect information
-		about your contacts or friends from third party websites that provide
-		access to this information, such as Facebook, LinkedIn, Twitter, or
-		email services.  We respect and follow the privacy policies of those
-		third party services with regard to the data we collect from them.</p>
-		<p>&nbsp;</p>
-		<p><b>USING
-		INFORMATION</b></p>
-		<p>We
-		may use the information we collect to:</p>
-		<ul>
-			<li><p>Customize
-			and/or personalize your communications and shopping experience</p></li>
-			<li><p>Better
-			respond to your customer service inquiries</p></li>
-			<li><p>Communicate
-			with you about your purchase, account information, or customer
-			service needs</p></li>
-			<li><p>Communicate
-			with you about our products and events, and for other promotional
-			purposes</p></li>
-			<li><p>Display
-			targeted advertising, announcements, sponsorships or other messages</p>
-			</li><li><p>Improve
-			our business</p></li>
-			<li><p>Administer
-			competitions, contests, promotions, surveys or other website
-			features</p></li>
-		</ul>
-		<p>We
-		will not use your personal information to advertise or communicate
-		promotional offers, directly or indirectly, using direct mail
-		marketing or telemarketing, unless you give us permission to do so.</p>
-		<p>We
-		may extend any of our rights under this Privacy Policy to third
-		parties performing services on our behalf.</p>
-		<p>		</p><p>&nbsp;</p><p></p>
-		<p><b>SHARING
-		INFORMATION</b></p>
-		<p>We
-		may enable other users of our site and third parties to view or
-		receive information from your profile, subject to your permission to
-		share this information.  These third-parties may include social
-		networking providers such as Facebook, Linked-In, Twitter and
-		MySpace, as well as individual subscribers to these third-party
-		services.  With your permission, we may publish or distribute
-		selected information about you, such as your recommendations,
-		interests and other data of possible interest to other users of our
-		site and third parties.</p>
-		<p>For
-		the purpose of operating our business, we may transfer information
-		between Otixo and our preferred service providers who use that
-		information only to conduct Otixo business. For example, they may
-		handle our credit card processing, shipping, data management, email
-		distribution, market research, information analysis, and promotions
-		management.  We provide our preferred service providers with the
-		information they need to perform their services and work with them to
-		respect and protect your information. 
-		</p>
-		<p>From
-		time to time we might establish a business relationship with
-		carefully selected persons or companies whom we believe trustworthy.
-		In such cases we might share and cross-reference information,
-		including personally identifiable information about you that will
-		enable such persons or entities to contact you regarding products and
-		services that may be of interest to you. If you prefer that we do not
-		share any information with these companies, please contact us
-		(info@otixo.com) to update your privacy settings.</p>
-		<p>We
-		may provide your information to our wholly-owned companies and
-		affiliates, which may be outside the United States.  We may also sell
-		or transfer your personal information to third parties in connection
-		with any merger, acquisition, reorganization, change in capital
-		structure or sale of all or substantially all of the assets of Otixo.</p>
-		<p>We
-		may provide information to other companies for purposes such as
-		reporting and marketing.  We may sell or transfer non-individualized
-		information to third parties, including summary or aggregated
-		anonymous information about all or sub-groups of users of our site.</p>
-		<p>On
-		rare occasions, we may disclose specific information upon
-		governmental request, in response to a court order, when required by
-		law, to enforce our website policies, or to protect our or others'
-		rights, property, or safety. We may also share information with
-		companies assisting in fraud protection or investigation. We do not
-		provide information to these agencies or companies for marketing or
-		commercial purposes.</p>
-		<p>&nbsp;</p>
-		<p><b>PROTECTING
-		YOUR INFORMATION</b></p>
-		<p><a name="_GoBack"></a>
-		We use a variety of security measures, including
-		sophisticated encryption and authentication tools to maintain the
-		safety of your personal information. Your personal information is
-		contained behind secure networks and is only accessible to a limited
-		number of persons who have special access rights to such systems, and
-		are required to keep the information confidential. When you place
-		orders or access your personal information, we offer the use of a
-		secure server. All credit card information you supply is transmitted
-		via Secure Socket Layer (SSL) technology and then encrypted into our
-		databases to be accessed only as stated above. We will use the
-		information for purposes of processing and completing only those
-		transactions you approve, and the information will be disclosed to
-		third parties only as necessary to complete a specific transaction. 
-		Regardless of these efforts, no data transmission over the Internet
-		can be guaranteed to be 100% secure.</p>
-		<p><a name="SDU_10"></a>
-		Our site may contain hypertext links to the websites of
-		one or more third parties. We are not responsible for the privacy
-		practices or the content of these other websites.</p>
-		<p>Advertising
-		agencies, advertising networks, and other companies who may place
-		advertisements on our site may use their own cookies, pixel tags, web
-		beacons, web bugs and other technology to collect information about
-		you.  We do not control these companies' use of such technology and
-		we have no responsibility for the use of such technology by these
-		companies to gather information about you.</p>
-		<p>&nbsp;</p>
-		<p><b>NAVIGATION</b></p>
-		<p>Like
-		other interactive websites, we collect information about your use of
-		our site and our services using cookies, log files, and techniques
-		used to track who is reading a web page or e-mail, when, and from
-		what computer, such as web bugs, web beacons or pixel tags.    
-		</p>
-		<p>A
-		cookie is a small removable data file that is stored by your web
-		browser on your computer. Cookies allow you to place an order on our
-		website and allow us to enhance and personalize your online browsing
-		and shopping experience.</p>
-		<p>For
-		example, we use cookies to:</p>
-		<ul>
-			<li><p>Recognize
-			you when you return to our website</p></li>
-			<li><p>Analyze
-			visitor behavior</p></li>
-		</ul>
-		<p><br>
-		</p>
-		<p>You
-		can choose to have your computer warn you each time a cookie is being
-		sent or you can choose to turn off all cookies. You do this through
-		your browser settings. Each browser is a little different, so look at
-		your browser Help menu to learn the correct way to modify your cookie
-		settings. 
-		</p>
-		<p>Pixel
-		tags, also known as web beacons or web bugs, are tiny graphic images
-		(referred to here as “<b>GI</b>”)
-		that are unobtrusively placed on a website or in an e-mail. When the
-		HTML code for the GI points to a site to retrieve the image, it
-		simultaneously passes information to the our servers, such as the IP
-		address of the computer that retrieved the image, the time and
-		duration the GI was viewed, the type of browser that retrieved the
-		image, and previously set cookie values.  
-		</p>
-		<p>We
-		use GI to help us analyze your online behavior. We may use GI to
-		collect information about your visit, including the pages you view,
-		the links you click and other actions taken in connection with our
-		sites and services. We also collect certain standard information that
-		your browser sends to every website you visit, such as your IP
-		address, browser type and language, access times and referring web
-		site addresses.  We also use GI to allow us to send you email in a
-		format you can read and to let us know when you have opened an email
-		message from us.</p>
-		<p>We
-		also work with other companies who use tracking technologies to serve
-		ads on our behalf across the Internet. These companies may collect
-		non-personally identifiable information about your visits to our
-		website and your interaction with our communications, including
-		advertising. If you would like to opt-out of allowing third party
-		companies to collect non-personally identifiable information about
-		you during your visits to our site, please contact us
-		(info@otixo.com) to update your privacy settings.</p>
-		<p>&nbsp;</p>
-		<p><b>HOW
-		TO REVIEW, MODIFY OR DELETE YOUR INFORMATION</b></p>
-		<p>We
-		want to communicate with you only if you want to hear from us. If you
-		prefer not to receive information from us or would like to update or
-		change your personal information or preferences, follow the
-		instructions below to review, modify or delete your personal
-		information.</p>
-		<p>To
-		modify the information you have provided during registration, please
-		login and update your personal settings.</p>
-		<p>To
-		unsubscribe from an email, please follow the instructions in any
-		email you receive. 
-		</p>
-		<p>If
-		you request your registration information be deleted or if you
-		unsubscribe from communications, we may maintain information about
-		sales transactions or service inquiries for future service and record
-		keeping purposes.</p>
-		<p>&nbsp;</p>
-		<p><b>QUESTIONS
-		AND FEEDBACK </b>
-		</p>
-		<p>We
-		welcome your questions, comments, and concerns about privacy.  Please
-		<a href="#contact" class="showcontacts">contact</a> us by mail or <a href="info(at)otixo.com" class="email">email</a> at: 
-		</p>
-		<div style="PADDING-LEFT: 40px;">
-			<p>
-				<b>Otixo, Inc.</b><br>
-				Attn: Privacy Policy<br>
-				4450 Arapahoe Ave.<br>
-				Suite 100<br>
-				Boulder, CO 80304<br>
-				<a href="info(at)otixo.com" class="email">info(at)otixo.com</a>
-			</p>
-		</div>
-		<p>&nbsp;</p>
-		<p><b>COMPLAINTS</b></p>
-		<p>If
-		you have a data privacy complaint, please <a href="#contact" class="showcontacts">contact</a> us by mail or <a href="info(at)otixo.com" class="email">email</a>
-		at:</p>
-		<div style="PADDING-LEFT: 40px;">
-			<p>
-				<b>Otixo, Inc.</b><br>
-				Attn: Privacy Policy<br>
-				4450 Arapahoe Ave.<br>
-				Suite 100<br>
-				Boulder, CO 80304<br>
-				<a href="info(at)otixo.com" class="email">info(at)otixo.com</a>
-			</p>
-		</div>
-	</div>
-	<!-- end .grid_12 -->
-	<div class="clear"></div>
-	<div class="grid_12 space"></div>
 	<!-- end .grid_12 -->
 	<div class="clear"></div>
 </div>
 <!-- end .container_12 -->
 
+<div class="container_12 include-container">
+	<div class="grid_12">
+
+		<h3>Last Updated: January 15, 2012</h3>
+
+		<p class="emboss">Otixo, Inc. (“Otixo,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</p>
+
+		<p class="emboss">We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy.  You consent to any changes we make to this Privacy Policy if you continue to use the Otixo service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.</p>
+
+	</div>
+	<!-- end .grid_12 -->
+	<div class="clear"></div>		
+</div>
+<!-- end .container_12 -->
+<div class="clear"></div>		
+
+<div class="container_12 include-container container-white">
+	<div class="grid_10 prefix_1 suffix_1">
+
+		<h2>COLLECTING INFORMATION</h2>
+
+		<p>Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see the “Navigation” section of this Privacy Policy below.</p>
+
+		<p>We request information from you (which may include your name, address, telephone number, email address, age, gender and, when necessary, credit card information) when you:</p>
+
+		<ul>
+			<li>Register or set up an account</li>
+			<li>Purchase</li>
+			<li>Request to receive communications or forms (including order forms)</li>
+			<li>Provide feedback</li>
+			<li>Enter into a dialog on the Site</li>
+			<li>Participate in a promotion or other website feature</li>
+			<li>Participate in online discussions or utilize bulletin boards and message boards</li>
+			<li>Contact us</li>
+			<li>Take surveys</li>
+			<li>Utilize chat rooms, instant messaging or forums (including news groups)</li>
+			<li>Modify your account or profile</li>
+		</ul>
+
+		<p>We may also collect non-identifying information like your internet protocol (“IP”) address, browser type and access times through a log of all traffic on our web site.  In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Otixo sources, transactions and communications. We may also combine that information with data that is publicly available and data that we receive from other reputable sources.  All data combined and stored with online data is protected by this Privacy Policy.</p>
+
+		<p>To provide you with certain social features, we may collect information about your contacts or friends from third party websites that provide access to this information, such as Facebook, LinkedIn, Twitter, or email services.  We respect and follow the privacy policies of those third party services with regard to the data we collect from them.</p>
+		 
+		<h2>USING INFORMATION</h2>
+
+		<p>We may use the information we collect to:</p>
+
+		<ul>
+			<li>Check for appropriate usage of the Services as defined in our Terms of Service</li>
+			<li>Customize and/or personalize your communications experience</li>
+			<li>Better respond to your customer service and support inquiries</li>
+			<li>Communicate with you about your purchase, account information, or customer service needs</li>
+			<li>Communicate with you about our products and events, and for other promotional purposes</li>
+			<li>Display targeted advertising, announcements, sponsorships or other messages</li>
+			<li>Notify of new features, answer questions from contact or feedback pages</li>
+			<li>Improve collaboration among users</li>
+			<li>Improve our business and internal operations</li>
+			<li>Administer competitions, contests, promotions, surveys or other website features</li>
+			<li>Improve our software and content</li>
+			<li>Customize the content and/or layout of the web page for each individual visitor</li>
+			<li>Notify you about updates to the Site or the App</li>
+			<li>Contact you for marketing purposes</li>
+			<li>In order to help us rank the importance of future items to build into the Services</li>
+		</ul>
+
+		<p>We will not use your personal information to advertise or communicate promotional offers, directly or indirectly, using direct mail marketing or telemarketing, unless you give us permission to do so.  We allow personally identifiable information to be combined with previously collected non-identifiable information with the consumer's prior affirmative consent (“opt-in”).  We do not create personally identifiable profile information unless consumers are notified and given an opportunity to opt out at the time and place that the personally identifiable information is collected.  We will collect personally identifiable profile information only from web site operators with which we have contractual relationships. We will provide reasonable access to profile information that is personally identifiable or is associated with personally identifiable information.</p>
+
+		<p>We may extend any of our rights under this Privacy Policy to third parties performing services on our behalf.</p>
+		 
+		<h2>SHARING INFORMATION</h2>
+
+		<p>We may enable other users of our site and third parties to view or receive information from your profile, subject to your permission to share this information.  These third-parties may include social networking providers such as Facebook, Linked-In, Twitter and MySpace, as well as individual subscribers to these third-party services.  With your permission, we may publish or distribute selected information about you, such as your recommendations, interests and other data of possible interest to other users of our site and third parties.</p>
+
+		<p>For the purpose of operating our business, we may transfer information between Otixo and our preferred service providers who use that information only to conduct Otixo business. For example, they may handle our credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management.  We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.</p>
+
+		<p>From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please contact us (info@otixo.com) to update your privacy settings.</p>
+
+		<p>We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States.  We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Otixo.</p>
+
+		<p>We may provide information to other companies for purposes such as reporting and marketing.  We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.</p>
+
+		<p>On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.</p>
+		 
+		<h2>PROTECTING YOUR INFORMATION</h2>
+
+		<p>We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information.  Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.  Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server.  Credit card numbers allow a user to subscribe to (and thus pay for) our business service. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above.  We will use the information for purposes of processing and completing only those transactions you approve, and the information will be disclosed to third parties only as necessary to complete a specific transaction. This data is protected and stored on our behalf by third party service providers (such as Recurly and PayPal).  When you subscribe to the Service credit card data will be immediately encrypted, used once in a single authorization process and securely stored by the third party service provider.  We and our App are never able to access, see or display more than the card type, the last 4 digits of the credit card number, the name of the holder and the expiration date. Our App does not store or logging numbers.  The service providers do not save the CVV codes.  Credit card numbers are used by Recurly to initiate secure payments through the specific payment gateway at PayPal on a single occasion or a regular basis. PayPal charges the credit card and deposits money to our account. All processes adhere to PCI-DSS Level 1.</p>
+
+		<p>Our site may contain hypertext links to the websites of one or more third parties. We are not responsible for the privacy practices or the content of these other websites.</p>
+
+		<p>Advertising agencies, advertising networks, and other companies who may place advertisements on our site may use their own cookies, pixel tags, web beacons, web bugs and other technology to collect information about you.  We do not control these companies' use of such technology and we have no responsibility for the use of such technology by these companies to gather information about you.</p>
+		 
+		<h2>NAVIGATION</h2>
+
+		<p>Like other interactive websites, we collect information about your use of our site and our services using cookies, log files, and techniques used to track who is reading a web page or e-mail, when, and from what computer, such as web bugs, web beacons or pixel tags.</p>
+
+		<p>A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience.</p>
+
+		<p>For example, we use cookies to:</p>
+
+		<ul>
+			<li>Keep track of shopping cart/record session information</li>
+			<li>Recognize you when you return to our website</li>
+			<li>Keep track of click stream data (record user-specific information on what pages users access or visit)</li>
+			<li>Personalize the Site</li>
+			<li>So that the App will function properly</li>
+			<li>Analyze visitor behavior</li>
+		</ul>
+
+		<p>The marketing page and the application start page are tracking information with pixel images on behalf of Google Analytics.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.</p>
+
+		<p>Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as “GI”) that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to the our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values. </p>
+
+		<p>We use GI to help us analyze your online behavior. We may use GI to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses.  We also use GI to allow us to send you email in a format you can read and to let us know when you have opened an email message from us.</p>
+
+		<p>We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of allowing third party companies to collect non-personally identifiable information about you during your visits to our site, please contact us (info@otixo.com) to update your privacy settings.</p>
+		 
+		<h2>HOW TO REVIEW, MODIFY OR DELETE YOUR INFORMATION</h2>
+
+		<p>We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.</p>
+
+		<p>To modify the information you have provided during registration, please login and update your personal settings.</p>
+
+		<p>To unsubscribe from an email, please follow the instructions in any email you receive.</p>
+
+		<p>If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.</p>
+		 
+		<h2>QUESTIONS AND FEEDBACK </h2>
+
+		<p>We welcome your questions, comments, and concerns about privacy. Please <a href="#contact" class="showcontacts">contact</a> us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
+
+		<p style="margin-left: 40px;">
+			<strong>Otixo, Inc.</strong><br>
+			Attn: Privacy Policy<br>
+			4450 Arapahoe Ave.<br>
+			Suite 100<br>
+			Boulder, CO 80304<br>
+			<a href="mailto:info@otixo.com">info@otixo.com </a>
+		</p>
+
+		<h2>COMPLAINTS</h2>
+
+		<p>If you have a data privacy complaint, please <a href="#contact" class="showcontacts">contact</a> us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
+
+		<p style="margin-left: 40px;">
+			<strong>Otixo, Inc.</strong><br>
+			Attn: Privacy Policy<br>
+			4450 Arapahoe Ave.<br>
+			Suite 100<br>
+			Boulder, CO 80304<br>
+			<a href="mailto:info@otixo.com">info@otixo.com </a>
+		</p>
+
+		<p>Otixo's Independent Recourse Mechanism</p>
+
+		<p>Otixo has also established an independent recourse mechanism available to European residents with unresolved data privacy complaints.  If you are a European resident and are not satisfied with the decisions rendered by Otixo's internal complaint mechanism, you may raise any such unresolved complaints with the following organization before proceeding to independent recourse mechanisms:</p>
+
+		<h2>TERMS OF USE</h2>
+
+		<p>Please also visit our <a href="http://otixo.com/licence.html">Terms of Use Agreement</a> that explains other terms governing the use of our website.</p>
+
+	</div>
+	<!-- end .grid_10 -->
+	<div class="clear"></div>		
+</div>
+<!-- end .container_12 -->
+<div class="clear"></div>		
+
+
 <div class="container_12 footer">
-	<!-- <div class="grid_4">
-		<button class="vote">Vote for your favourite Services!</button>
-	</div> -->
-	<!-- end .grid_4 -->
 	<div class="grid_8 alignmiddle">
-		<a class="current" href="#">Home</a>
-		<a href="product.html">Product</a>
-<!--		<a href="pricing.html">Pricing</a>		-->
+		<a href="http://otixo.assistly.com/">Support</a>	
 		<a class="showcontacts" href="#contact">Contact Us</a>
-		<a href="http://blog.otixo.com">Blog</a>
-		<a href="licence.html">Terms and conditions</a>
+		<a href="licence.html">Terms and Conditions</a>
 		<a href="privacy.html">Privacy</a>
-		<a href="http://www.facebook.com/otixo" class="facebook"></a>
-		<a href="http://www.twitter.com/otixo" class="twitter"></a>
+		<a href="http://www.facebook.com/otixo" target="_blank" class="facebook"></a>
+		<a href="http://www.twitter.com/otixo" target="_blank" class="twitter"></a>
 	</div>
 	<!-- end .grid_8 -->
 	<div class="grid_4 alignmiddle">
-		<p>Copyright © 2011, Otixo, Inc. All Rights Reserved.</p>
+		<p>Copyright © 2012, Otixo, Inc. All Rights Reserved.</p>
 	</div>
-	<!-- end .grid_4 -->	<div class="clear"></div>
+	<!-- end .grid_4 -->
+	<div class="clear"></div>
 </div>
 <!-- end .container_12 -->
+<div class="clear"></div>
 
 <div class="container_12 copyright"></div>
 <!-- end .container_12 -->
+<div class="clear"></div>
+
 
 <div style="display:none">
 	<div id="contact">
