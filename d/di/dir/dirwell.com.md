@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125090505id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125004608id_/http%3A//www.dirwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Directory Well - Web Directory- Privacy Policy
 
