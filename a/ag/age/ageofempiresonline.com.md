@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageofempiresonline.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229191504id_/http%3A//www.ageofempiresonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageofempiresonline.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125200300id_/http%3A//ageofempiresonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Age of Empires Online
 
