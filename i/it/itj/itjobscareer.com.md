@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itjobscareer.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130192913id_/http%3A//www.itjobscareer.com/2006/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobscareer.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125175053id_/http%3A//www.itjobscareer.com/2006/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - IT Job Openings in India at ITJobsCareer.com
+# Privacy Policy - ITJobsCareer.com
 
 Privacy Policy for www.itjobscareer.com 
 
