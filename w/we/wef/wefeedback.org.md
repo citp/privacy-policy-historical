@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefeedback.org privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223120019id_/http%3A//wefeedback.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefeedback.org privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125035322id_/http%3A//wefeedback.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wefeedback
 
