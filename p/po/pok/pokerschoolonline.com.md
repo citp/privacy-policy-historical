@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211459id_/http%3A//www.pokerschoolonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125115612id_/http%3A//www.pokerschoolonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Poker School Online: Learn Poker Strategy, Odds and Tells
 
