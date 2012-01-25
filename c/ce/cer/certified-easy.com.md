@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certified-easy.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228024845id_/http%3A//www.certified-easy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certified-easy.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125080425id_/http%3A//www.certified-easy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Certified-easy.com.com Privacy policy
 
