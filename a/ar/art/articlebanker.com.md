@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebanker.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019015843id_/http%3A//www.articlebanker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebanker.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125205235id_/http%3A//www.articlebanker.com/privacy.php) for the most accurate reproduction.*
 
 # Free Online Articles Directory- Unique Self Publishing Articles-Article Directory | Privacy Statement
 
