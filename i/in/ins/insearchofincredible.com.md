@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214082920id_/http%3A//www.insearchofincredible.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insearchofincredible.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125192710id_/http%3A//www.insearchofincredible.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | In search of incredible
 
