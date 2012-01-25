@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125003135id_/http%3A//www.zsassociates.com/Home/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsassociates.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125112247id_/http%3A//www.zsassociates.com/Home/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # ZS Associates: Privacy Policy
 
