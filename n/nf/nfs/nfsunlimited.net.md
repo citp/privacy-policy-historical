@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219004252id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125063848id_/http%3A//nfsunlimited.net/privacy) for the most accurate reproduction.*
 
 # NFSUnlimited.net - Need for Speed The Run, Hot Pursuit, World, SHIFT and more - Privacy Policy
 
