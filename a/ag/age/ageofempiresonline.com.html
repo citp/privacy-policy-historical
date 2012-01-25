@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ageofempiresonline.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229191504id_/http%3A//www.ageofempiresonline.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ageofempiresonline.com privacy policy that was archived on 2012-01-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120125200300id_/http%3A//ageofempiresonline.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
 <!-- Facebook/Open Graph meta data -->
@@ -30,7 +30,7 @@
     <!--[if IE 7]>
         <link href="/styles/ie7.css" rel="stylesheet" type="text/css" />
     <![endif]-->
-
+   
     
 	
 	<title> Privacy | Age of Empires Online</title>
@@ -87,7 +87,7 @@
         <div id="NavigationMenu" class="topNav hideSkiplink">
             <ul class="level1 nav-left">
     
-        <li id="topNav_0" class="li-lev1">
+        <li id="topNav_0" class="li-lev1 current">
             <a href="/" class="level1" title="Home">Home</a>
  
                 
@@ -128,7 +128,7 @@
 									<a class="level3" href="/celts">Celtic Civilization</a>
 								</li>
                             
-                                <li>
+                                <li class="last">
 									<a class="level3" href="/persians">Persian Civilization</a>
 								</li>
                             
@@ -152,7 +152,7 @@
                         
                         </li>
                     
-                        <li class="">
+                        <li class="last">
                         
                         <a class="level2" href="/about">
                         About<span></span></a>
@@ -187,7 +187,7 @@
                         
                         </li>
                     
-                        <li class="">
+                        <li class="last">
                         
                         <a class="level2" href="/announcements">
                         Announcements<span></span></a>
@@ -231,7 +231,7 @@
                         
                         </li>
                     
-                        <li class="">
+                        <li class="last">
                         
                         <a class="level2" href="/franchise">
                         Age Franchise<span></span></a>
@@ -267,7 +267,7 @@
                         
                         </li>
                     
-                        <li class="">
+                        <li class="last">
                         
                         <a class="level2" href="/videoblog">
                         Video Blog<span></span></a>
@@ -445,9 +445,13 @@
      <!-- HTML5 Compatibility --> 
 	<script type="text/javascript" src="/scripts/html5.js"></script> 
 	    
-	
-	<script src="/scripts/global.js" type="text/javascript"></script>
-
+	<!-- Set the language cookie -->
+	<script src="/scripts/global.js?v1" type="text/javascript"></script>
+    <script type="text/javascript">
+	    //set domain name for the cookie
+	    aoeo.domainName = ".ageofempiresonline.com";
+        aoeo.setLanguageCookie();
+    </script>
     <!--[if lte IE 6]>
 		<script type="text/javascript">
 			var pathToShim = 'http://www.ageofempiresonline.com/Scripts/x.gif';
@@ -459,26 +463,9 @@
     <script type="text/javascript">
         $(document).ready(function () {
             // Formatting for nav
-            if ($('#NavigationMenu ul.level2') != null) {
-                $('#NavigationMenu ul.level2').each(function () {
-                    $('li:last', $(this)).addClass('last');
-
-                    $(this).hover(function () {
-                        $(this).parent().addClass('child-hovered');
-                    },
-				function () {
-				    $(this).parent().removeClass('child-hovered');
-				});
-                });
-            }
-            $('.topNav .has-submenu').hover(
-				function () { $(this).addClass('has-submenu-hover'); },
-				function () { $(this).removeClass('has-submenu-hover'); }
-			);
-
+            
             SetDropcapLetters();
         });
-
     </script>
 
 
