@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012342id_/http%3A//events.com.37636.fb.dbbsrv.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2012-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120125015521id_/http%3A//events.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
