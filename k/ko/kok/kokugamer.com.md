@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216121305id_/http%3A//kokugamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126030801id_/http%3A//kokugamer.com/%3Fpage_id%3D9429) for the most accurate reproduction.*
 
-# Koku Gamer » Privacy Policy
+# Koku Gamer — Privacy Policy
+
+* * *
 
 What information do we collect?
 
@@ -62,9 +64,9 @@ Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Childrens Online Privacy Protection Act Compliance
+Children’s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 Online Privacy Policy Only
 
@@ -82,9 +84,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.kokugamer.com  
-26 Mumford Place A#1  
-Longmont, Colorado 80501  
-United States  
 admin@kokugamer.com  
 Privacy Policy Created by Free Privacy Policy
