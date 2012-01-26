@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
 
 # Let Get More Twitter Followers | Get More Followers on Twitter | How to Get More Twitter Followers
 
-##  [ ](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/clearsessions.php)  
+##  [ ](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/clearsessions.php)  
 New, Let Get More Followers.
 
 ****
 
-**[Home](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20111124073842id_/http%3A//letgetmorefollowers.info/removeout.php) **
+**[Home](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20120126074624id_/http%3A//letgetmorefollowers.info/removeout.php) **
 
 * * *
 
@@ -15,63 +15,63 @@ New, Let Get More Followers.
   
 ---  
   
-[ ](http://twitter.com/_memyselfi_)
+[ ](http://twitter.com/arulskatepunk)
 
 | 
 
-[ ](http://twitter.com/donnawardd)
+[ ](http://twitter.com/_thepremadonna)
 
 | 
 
-[ ](http://twitter.com/tanisami1)
+[ ](http://twitter.com/r_lestaluhu)
 
 | 
 
-[ ](http://twitter.com/irenehallam)
+[ ](http://twitter.com/amandahardman1)
 
 | 
 
-[ ](http://twitter.com/sellyg_jb)
+[ ](http://twitter.com/manjjri)
 
 | 
 
-[ ](http://twitter.com/britaholics)
+[ ](http://twitter.com/iiinez)
 
 | 
 
-[ ](http://twitter.com/areuserioustho)
+[ ](http://twitter.com/franklarimer)
 
 | 
 
-[ ](http://twitter.com/kathleenkees)
+[ ](http://twitter.com/is_that_gage)
 
 | 
 
-[ ](http://twitter.com/notnotthanita)
+[ ](http://twitter.com/rosemaryknutsen)
 
 | 
 
-[ ](http://twitter.com/ego_famosos)
+[ ](http://twitter.com/rikaara)
 
 | 
 
-[ ](http://twitter.com/yallsomehoes_)
+[ ](http://twitter.com/rakonall)
 
 | 
 
-[ ](http://twitter.com/reindaanjani)
+[ ](http://twitter.com/ichaica_ichaa)
 
 | 
 
-[ ](http://twitter.com/valerieweberr)
+[ ](http://twitter.com/evilrizky)
 
 | 
 
-[ ](http://twitter.com/judygomezz)
+[ ](http://twitter.com/asyraf_yakuza)
 
 | 
 
-[ ](http://twitter.com/angelgreysb)  
+[ ](http://twitter.com/jeremy_tianta)  
   
 **Privacy Policy**
 
