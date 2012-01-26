@@ -1,269 +1,250 @@
-> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016080810id_/http%3A//homerun.com/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126224130id_/http%3A//homerun.com/legal/Deem-Offers-Inc-HomeRun-Privacy-Statement-Nov_4_2011.pdf) for the most accurate reproduction.*
 
-# HOMERUN PRIVACY POLICY
+# 
 
-HOMERUN	  PRIVACY	  POLICY	  
-Last	  updated	  January	  12,	  2010	  
-	  	  
-Welcome	  to	  HomeRun!	  HomeRun	  is	  a	  service	  provider	  operated	  by	  Demand	  Chain,	  Inc.,	  that	  connects	  
-its	  members	  to	  deals	  offered	  by	  local	  merchants	  for	  a	  variety	  of	  goods	  and	  services.	  	  
-	  
-This	  Privacy	  Policy	  discloses	  the	  privacy	  practices	  for	  the	  HomeRun	  website	  (the	  “Site”).	  HomeRun	  (“us”	  
-“we”	  or	  “our”),	  is	  committed	  to	  protecting	  your	  privacy	  online.	  Please	  read	  the	  following	  to	  learn	  what	  
-information	  we	  collect	  from	  you	  (“you”)	  and	  how	  we	  use	  that	  information.	  If	  you	  have	  any	  questions	  
-about	  our	  privacy	  policy,	  please	  email	  us	  at:	  support@homerun.com.	  	  
-	  
-Please	  read	  this	  privacy	  policy	  carefully.	  This	  Privacy	  Policy	  applies	  to	  all	  users	  of	  the	  HomeRun	  Site.	  By	  
-using	  HomeRun’s	  services	  and	  the	  HomeRun	  website	  (including	  any	  content	  posted	  on	  the	  Site),	  you	  
-(“you”)	  signify	  your	  acceptance	  of	  HomeRun’s	  Terms	  of	  Service,	  including	  this	  Privacy	  Policy.	  If	  you	  do	  
-not	  agree	  to	  the	  Terms	  of	  Service,	  you	  must	  discontinue	  using	  the	  Site.	  	  
-	  
-1. Changes	  to	  Privacy	  Policy.	  
-HomeRun	  may,	  in	  its	  sole	  discretion,	  modify	  or	  revise	  this	  Privacy	  Policy	  at	  any	  time	  by	  posting	  the	  
-amended	  terms	  on	  this	  Site	  at:	  http://homerun.com/legal/privacy.pdf.	  HomeRun	  additionally	  will	  notify	  
-you	  via	  the	  email	  address	  you	  have	  associated	  with	  your	  account,	  so	  you	  must	  ensure	  that	  HomeRun’s	  
-email	  is	  not	  filtered	  from	  your	  Inbox	  by	  your	  ISP	  or	  email	  software.	  You	  agree	  that	  your	  use	  of	  the	  
-HomeRun	  	  Site,	  after	  he	  date	  on	  	  which	  the	  Privacy	  Policy	  is	  changed,	  will	  constitute	  your	  acceptance	  of	  
-the	  updated	  Privacy	  Policy,	  and	  that	  you	  agree	  to	  be	  bound	  by	  such	  modifications	  or	  revisions.	  	  
-2. Information	  We	  Collect.	  
-a.	  Personally	  Identifiable	  Information.	  
-Personally	  Identifiable	  Information	  is	  information	  that	  identifies	  a	  specific	  user.	  When	  you	  engage	  in	  
-certain	  activities	  on	  the	  Site,	  such	  as	  creating	  an	  account	  or	  registering	  with	  us,	  we	  may	  ask	  you	  to	  
-provide	  certain	  personal	  information	  about	  yourself,	  including	  but	  not	  limited	  to,	  your	  first	  and	  last	  
-name,	  mailing	  address	  (including	  zip	  code),	  email	  address,	  telephone	  number,	  date	  of	  birth	  and	  gender.	  
-When	  you	  place	  an	  order	  for	  a	  HomeRun	  deal	  voucher,	  we	  may	  also	  ask	  you	  to	  provide	  us	  with	  your	  
-credit	  card	  number,	  expiration	  date	  and	  authentication	  codes	  or	  related	  information.	  Depending	  on	  the	  
-activity,	  some	  of	  the	  information	  we	  ask	  you	  to	  provide	  is	  identified	  as	  mandatory	  and	  some	  is	  identified	  
-as	  voluntary.	  If	  you	  do	  not	  provide	  the	  mandatory	  information	  for	  a	  particular	  activity	  that	  requires	  it,	  
-you	  will	  not	  be	  permitted	  to	  engage	  in	  that	  activity.	  	  
-	  
-b.	  Non-­‐Personally	  Identifiable	  Information.	  
-Non-­‐Personally	  Identifiable	  Information	  is	  information	  that	  does	  not	  identify	  a	  specific	  user.	  This	  type	  of	  
-information	  may	  include	  things	  like	  the	  Uniform	  Resource	  Locator	  (“URL”)	  of	  the	  website	  you	  visited	  
-before	  coming	  to	  our	  Site,	  the	  URL	  of	  the	  website	  you	  visit	  after	  leaving	  our	  Site,	  the	  type	  of	  browser	  
-you	  are	  using	  and	  your	  Internet	  Protocol	  (“IP”)	  address.	  We,	  and/or	  our	  authorized	  Third	  Party	  Service	  
-Providers	  and	  Advertisers,	  may	  automatically	  collect	  this	  information	  when	  you	  visit	  our	  Site	  through	  
-the	  use	  of	  electronic	  tools	  like	  Cookies	  and	  Web	  beacons	  or	  Pixel	  tags.	  	  
-	  
-c.	  Information	  Explicitly	  Granted	  by	  Social	  Network	  Platforms.	  
-If	  you	  access	  HomeRun’s	  services	  on	  a	  “social	  network	  platform”	  (including	  but	  not	  limited	  to	  Facebook),	  
-we	  will	  access	  and	  store	  the	  information	  explicitly	  allowed	  by	  the	  social	  network	  platform	  by	  their	  Terms	  
-of	  Service,	  once	  you	  explicitly	  allow	  us	  to	  do	  so,	  through	  an	  interface	  provided	  by	  the	  social	  network	  
+                                                                                                                                             Effective	  Date:	  November	  4,	  2011	  
+                                                                                Privacy	  Statement	  
+We	  at	  Deem	  Offers,	  Inc.	  (aka	  “HomeRun”)	  respect	  your	  privacy	  concerns.	  The	  goal	  of	  this	  Privacy	  Statement	  is	  to	  enable	  
+you	  to	  make	  informed	  choices	  regarding	  disclosing	  your	  personal	  information	  to	  us.	  The	  Privacy	  Statement	  explains:	  
+      •       What	  information	  we	  collect	  from	  and	  about	  you	  when	  you	  visit	  HomeRun.com,	  use	  our	  applications	  or	  interact	  
+              with	  us	  through	  social	  media	  
+      •       How	  we	  use	  and	  share	  the	  information	  we	  collect	  
+      •       How	  you	  can	  access	  and	  correct	  the	  information	  we	  maintain	  about	  you	  
+      •       The	  choices	  we	  offer	  you	  in	  how	  we	  use	  and	  disclose	  the	  information,	  and	  how	  to	  exercise	  those	  choices	  
+      •       How	  we	  safeguard	  the	  information	  
+      •       How	  you	  can	  ask	  questions	  about	  our	  privacy	  practices	  and	  seek	  resolution	  of	  your	  concerns	  regarding	  our	  
+              handling	  of	  your	  personal	  information	  
+Click	  on	  one	  of	  the	  links	  below	  to	  jump	  directly	  to	  the	  listed	  section:	  
+             •   Information	  We	  Collect	                                                  •      Access	  and	  Correction	  
+             •   How	  We	  Use	  the	  Information	  We	  Collect	                       •      Links	  to	  Other	  Websites	  
+             •   Online	  Advertising	                                                         •      Social	  Networks	  
+             •   Information	  We	  Share	                                                    •      Data	  Transfers	  
+             •   Your	  Choices	                                                               •      How	  We	  Protect	  Personal	  Information	  
+                 o Email	  Marketing	                                                          •      Children's	  Privacy	  
+                 o Web	  Analytics	                                                            •      Updates	  to	  this	  Privacy	  Statement	  
+                 o Targeted	  Advertising	                                                     •      How	  to	  Contact	  Us	  
+                 o Mobile	  Device	  Location	  
+                 o Cookies	  
+                 o California	  Residents	  
+Information	  We	  Collect	  
+We	  may	  obtain	  personal	  information	  about	  consumers	  from	  various	  sources,	  such	  as:	  
+      •       HomeRun.com,	  and	  HomeRun	  social	  media	  applications	  and	  mobile	  applications	  
+      •       Social	  networks	  through	  which	  consumers	  may	  access	  HomeRun.com	  or	  interact	  with	  us	  
+      •       Surveys,	  contests,	  sweepstakes	  and	  other	  promotions	  
+      •       Our	  affiliated	  companies,	  service	  providers,	  business	  and	  marketing	  partners,	  and	  other	  third	  parties	  
+The	  types	  of	  personal	  information	  we	  may	  obtain	  include:	  
+      •       Your	  contact	  information	  (such	  as	  name,	  postal	  and	  email	  address	  and	  phone	  number)	  
+      •       Contact	  information	  of	  individuals	  whom	  you	  would	  like	  us	  to	  contact,	  who	  referred	  you	  to	  us	  or	  whom	  you	  
+              have	  referred	  to	  us	  
+      •       Contact	  information	  about	  individuals	  for	  whom	  you	  have	  purchased	  vouchers	  as	  gifts	  or	  who	  have	  bought	  
+              vouchers	  as	  gifts	  for	  you	  	  
+      •       Information	  provided	  to	  us	  by	  social	  networks	  or	  other	  sites	  through	  which	  you	  may	  interact	  with	  us	  	  
+      •       Usernames	  and	  passwords	  for	  the	  account	  you	  may	  establish	  on	  HomeRun.com	  
+      •       Payment	  details	  (including	  payment	  card	  number	  and	  billing	  address)	  
+      •       Demographic	  information	  (such	  as	  date	  of	  birth	  and	  gender)	  
+      •       Shopping	  behavior	  and	  preferences,	  and	  a	  record	  of	  your	  purchases	  and	  other	  transactions	  on	  HomeRun.com	  
 
 
-platform.	  As	  we	  do	  not	  have	  control	  over	  the	  user	  interface	  provided	  by	  social	  network	  platforms,	  we	  do	  
-not	  take	  any	  responsibility	  for	  any	  changes	  or	  problems	  with	  the	  interface	  or	  exchange	  of	  information	  
-provided	  by	  any	  of	  these	  social	  network	  platforms.	  	  
-	  
-3. How	  We	  Use	  Your	  Information.	  
-We	  use	  Personally	  Identifiable	  Information	  to	  provide	  products	  and	  services	  to	  you,	  administer	  
-sweepstakes	  and	  contests,	  enhance	  the	  operation	  of	  the	  Site,	  improve	  our	  marketing	  and	  promotional	  
-efforts,	  analyze	  Site	  use,	  improve	  our	  product	  and	  service	  offerings,	  and	  to	  tailor	  your	  experience	  with	  
-third	  parties.	  If	  you	  use	  our	  Site	  to	  send	  information	  to	  another	  person,	  we	  may	  store	  your	  personal	  
-information,	  and	  the	  personal	  information	  of	  any	  recipient.	  We	  may	  use	  that	  other	  person’s	  contact	  
-information	  to	  allow	  him	  or	  her	  to	  access	  the	  information	  you	  requested	  we	  send.	  We	  may	  also	  use	  
-Personally	  Identifiable	  Information	  to	  troubleshoot,	  resolve	  disputes,	  accomplish	  administrative	  tasks,	  
-authenticate	  payment	  methods,	  contact	  you,	  enforce	  our	  agreements	  with	  you,	  including	  our	  Site	  Terms	  
-of	  Service	  and	  this	  Privacy	  Policy,	  comply	  with	  applicable	  law,	  and	  cooperate	  with	  law	  enforcement	  
-activities.	  	  
-	  
-We	  use	  Non-­‐Personally	  Identifiable	  Information	  to	  troubleshoot,	  administer	  the	  Site,	  analyze	  trends,	  
-gather	  demographic	  information,	  comply	  with	  applicable	  law,	  and	  cooperate	  with	  law	  enforcement	  
-activities.	  We	  may	  also	  share	  this	  information	  with	  our	  authorized	  Third	  Party	  Service	  Providers	  and	  
-Advertisers	  to	  measure	  the	  overall	  effectiveness	  of	  our	  online	  advertising,	  content,	  and	  programming.	  
-	  
-4. Sharing	  of	  Information.	  
-a. Personally	  Identifiable	  Information.	  
-We	  will	  not	  share	  your	  Personally	  Identifiable	  Information	  with	  other	  parties	  except	  as	  provided	  below:	  
-Upon	  purchase	  of	  an	  offer	  that	  is	  provided	  by	  a	  Third	  Party	  Partner,	  we	  may	  present	  you	  with	  the	  option	  
-of	  sharing	  some	  or	  all	  of	  your	  Personally	  Identifiable	  Information	  with	  that	  specific	  Partner.	  Such	  a	  
-situation	  could	  arise	  if,	  in	  process	  of	  purchasing	  an	  offer	  from	  them,	  the	  user	  desires	  to	  receive	  further	  
-communication	  from	  that	  Partner	  directly	  as	  a	  supplement	  to	  the	  communication	  through	  HomeRun.	  
-We	  will	  not	  share	  any	  Personally	  Identifiable	  Information	  to	  any	  Third	  Party	  Partner	  without	  your	  explicit	  
-opt-­‐in	  consent	  at	  the	  time	  of	  purchase	  of	  each	  such	  specific	  offer.	  	  
-	  
-We	  may	  share	  your	  Personally	  Identifiable	  Information	  and	  your	  purchasing	  preferences	  with	  Merchants	  
-who,	  as	  part	  of	  the	  offer,	  request	  information	  on	  HomeRun	  customers	  who	  purchased	  the	  offer.	  Sharing	  
-this	  Information	  will	  allow	  a	  Merchant	  to	  fulfill	  their	  obligations	  with	  respect	  to	  the	  voucher,	  and	  to	  
-communicate	  with	  you	  should	  they	  choose	  to	  do	  so.	  However,	  we	  will	  only	  share	  Personally	  Identifiable	  
-information	  with	  a	  Merchant	  if	  you	  place	  an	  order	  for	  a	  HomeRun	  deal	  voucher,	  and	  then	  only	  to	  the	  
-Merchant	  offering	  that	  deal.	  	  We	  inform	  Merchants	  that	  they	  are	  only	  permitted	  to	  communicate	  with	  
-you	  for	  the	  purposes	  of	  the	  specific	  promotion	  with	  HomeRun.	  We	  do	  not	  have	  any	  responsibility	  for	  the	  
-actions	  of	  the	  Merchant,	  and	  the	  actions	  of	  the	  Merchant	  are	  not	  in	  our	  control.	  We	  may	  share	  your	  
-information	  with	  Authorized	  Third	  Party	  Service	  Providers.	  We	  provide	  some	  of	  our	  services	  and	  
-products	  through	  third	  parties.	  These”	  Third	  Party	  Service	  Providers”	  perform	  functions	  on	  our	  behalf,	  
-like	  sending	  out	  and	  distributing	  our	  administrative	  and	  promotional	  emails.	  We	  may	  share	  your	  
-Personally	  Identifiable	  	  Information	  with	  such	  Service	  	  Providers	  to	  fulfill	  orders,	  deliver	  packages,	  send	  
-postal	  or	  	  email,	  administer	  contests	  or	  sweepstakes,	  remove	  repetitive	  information	  on	  customer	  lists,	  
-analyze	  data,	  provide	  marketing	  assistance,	  provide	  search	  results	  and	  links,	  process	  credit	  card	  
-payments,	  operate	  the	  Site,	  troubleshoot,	  and	  provide	  customer	  service.	  We	  encourage	  Merchants	  and	  
-Third	  Party	  Service	  Providers	  to	  adopt	  and	  post	  privacy	  policies.	  However,	  the	  use	  of	  your	  Personally	  
+In	  addition,	  when	  you	  visit	  HomeRun.com	  or	  use	  HomeRun	  applications,	  we	  may	  collect	  certain	  information	  by	  
+automated	  means,	  such	  as	  cookies	  and	  web	  beacons.	  A	  "cookie"	  is	  a	  text	  file	  that	  websites	  send	  to	  a	  visitor's	  computer	  
+or	  other	  Internet-­‐connected	  device	  to	  uniquely	  identify	  the	  visitor's	  browser	  or	  to	  store	  information	  or	  settings	  in	  the	  
+browser.	  A	  "web	  beacon,"	  also	  known	  as	  an	  Internet	  tag,	  pixel	  tag	  or	  clear	  GIF,	  is	  used	  to	  transmit	  information	  back	  to	  a	  
+web	  server.	  We	  also	  may	  use	  third-­‐party	  website	  analytics	  tools	  (such	  as	  Google	  Analytics)	  that	  collect	  information	  
+about	  visitor	  traffic	  on	  our	  sites.	  The	  information	  we	  may	  collect	  by	  automated	  means	  includes:	  
+       •    Information	  about	  the	  devices	  our	  visitors	  use	  to	  access	  the	  Internet	  (such	  as	  the	  IP	  address	  and	  the	  type	  of	  the	  
+            device,	  its	  operating	  system	  type	  and	  web	  browser)	  
+       •    URLs	  that	  refer	  visitors	  to	  HomeRun.com,	  including	  whether	  you	  visited	  the	  website	  directly	  or	  were	  referred	  
+            from	  another	  website	  or	  link	  
+       •    URLs	  of	  the	  sites	  you	  visit	  after	  leaving	  HomeRun.com	  
+       •    Dates,	  times	  and	  duration	  of	  visits	  to	  our	  site	  (including	  whether	  you	  are	  a	  repeat	  or	  first	  time	  visitor)	  
+       •    Information	  on	  actions	  taken	  on	  our	  site	  (such	  as	  page	  views	  and	  site	  navigation	  patterns,	  the	  pages,	  links,	  
+            banners,	  icons	  and	  other	  parts	  of	  the	  website	  on	  which	  you	  click	  or	  which	  you	  access	  during	  your	  visit)	  
+       •    Search	  terms	  that	  visitors	  use	  to	  reach	  HomeRun.com	  	  
+       •    Location	  information,	  such	  as	  the	  real-­‐time	  geographic	  location	  of	  the	  device	  on	  which	  you	  install	  a	  HomeRun	  
+            mobile	  application	  
+How	  We	  Use	  the	  Information	  We	  Collect	  
+We	  may	  use	  the	  information	  we	  obtain	  about	  you	  to:	  
+       •    Register	  you	  on	  HomeRun.com	  and	  manage	  and	  maintain	  your	  account	  
+       •    Provide	  products	  or	  services	  you	  request	  
+       •    Communicate	  with	  you	  about	  products,	  services	  and	  promotions	  available	  locally,	  based	  on	  the	  geographic	  
+            location	  transmitted	  by	  your	  mobile	  device	  
+       •    Maintain	  a	  record	  of	  your	  purchases	  and	  other	  transactions	  on	  HomeRun.com	  
+       •    Respond	  to	  your	  questions	  and	  comments	  and	  provide	  customer	  support	  
+       •    Understand	  your	  needs	  and	  interests	  and	  tailor	  our	  products	  and	  services	  to	  suit	  your	  personal	  interests	  	  
+       •    Communicate	  with	  you	  through	  email,	  websites,	  applications	  and	  social	  media	  about	  our	  products,	  services,	  
+            offers,	  events	  and	  promotions,	  and	  offer	  you	  products	  and	  services	  we	  believe	  may	  be	  of	  interest	  to	  you	  	  
+       •    Enable	  you	  to	  communicate	  with	  us	  through	  our	  blogs,	  social	  networks	  and	  other	  interactive	  media	  
+       •    Manage	  your	  participation	  in	  our	  events,	  sweepstakes	  and	  other	  promotions	  
+       •    Operate,	  evaluate	  and	  improve	  our	  business	  and	  the	  products	  and	  services	  we	  offer	  
+       •    Analyze	  and	  enhance	  our	  marketing	  communications	  and	  strategies	  (including	  by	  identifying	  when	  emails	  sent	  
+            to	  you	  have	  been	  received	  and	  read)	  
+       •    Analyze	  trends	  and	  statistics	  regarding	  visitors'	  use	  of	  and	  transactions	  conducted	  on	  HomeRun.com	  or	  
+            HomeRun	  mobile	  applications	  and	  social	  media	  assets	  
+       •    Protect	  against	  and	  prevent	  fraud,	  unauthorized	  transactions,	  claims	  and	  other	  liabilities,	  and	  manage	  risk	  
+            exposure,	  including	  by	  identifying	  potential	  hackers	  and	  other	  unauthorized	  users	  
+       •    Enforce	  our	  website	  Terms	  of	  Use	  
+       •    Comply	  with	  applicable	  legal	  requirements	  and	  industry	  standards	  and	  our	  policies	  
+We	  may	  combine	  the	  information	  we	  collect	  with	  publicly	  available	  information	  and	  information	  we	  receive	  from	  our	  
+parent,	  affiliate	  or	  subsidiary	  companies,	  business	  or	  marketing	  partners,	  and	  other	  third	  parties.	  We	  may	  use	  that	  
+combined	  information	  to	  enhance	  and	  personalize	  your	  shopping	  experience	  with	  us,	  to	  communicate	  with	  you	  about	  
+products,	  services	  and	  events	  that	  may	  be	  of	  interest	  to	  you,	  for	  promotional	  purposes,	  and	  for	  other	  purposes	  
+described	  in	  this	  Privacy	  Statement.	  
+We	  also	  may	  use	  the	  information	  we	  obtain	  about	  you	  in	  other	  ways	  for	  which	  we	  provide	  specific	  notice	  at	  the	  time	  of	  
+collection.	  
 
 
-Identifiable	  Information	  by	  such	  parties	  is	  controlled	  by	  those	  parties,	  and	  thus	  not	  subject	  to	  our	  
-control.	  	  
-	  
-b. Non-­‐Personally	  Identifiable	  Information.	  
-We	  may	  disclose	  or	  share	  Non-­‐Personally	  Identifiable	  Information	  with	  Partners,	  Affiliates	  and	  
-Advertisers.	  For	  example,	  we	  may	  share	  aggregated	  demographic	  information	  (which	  does	  not	  include	  
-any	  Personally	  Identifiable	  Information)	  with	  “Third	  Party	  Advertisers”	  or	  “Third	  Party	  Advertising	  
-Companies”	  and	  other	  parties	  as	  provided	  below:	  
-	  
-We	  may	  use	  Third	  Party	  Advertising	  Companies	  to	  serve	  ads	  when	  you	  visit	  our	  Site.	  These	  companies	  
-may	  use	  Non-­‐Personally	  Identifiable	  Information	  about	  your	  visits	  to	  this	  and	  other	  websites	  in	  order	  to	  
-provide	  advertisements	  about	  goods	  and	  services	  that	  may	  be	  of	  interest	  to	  you.	  We	  also	  use	  Third	  
-Party	  Service	  Providers	  to	  track	  and	  analyze	  Non-­‐Personally	  Identifiable	  usage	  and	  volume	  statistical	  
-information	  from	  our	  users	  to	  administer	  our	  Site	  and	  constantly	  improve	  its	  quality.	  We	  may	  also	  
-publish	  this	  information	  for	  promotional	  purposes	  or	  as	  a	  representative	  audience	  for	  advertisers.	  
-Please	  note	  that	  this	  is	  not	  Personally	  Identifiable	  Information,	  only	  general	  summaries	  of	  the	  activities	  
-of	  our	  users.	  Such	  data	  is	  collected	  on	  our	  behalf,	  and	  is	  owned	  and	  used	  by	  us.	  	  
-	  
-c.	  Other	  Circumstances.	  
-We	  may	  also	  share	  your	  Personally	  Identifiable	  or	  Non-­‐Personally	  Identifiable	  information	  under	  certain	  
-circumstances	  without	  your	  consent,	  including:	  	  
-       • To	  enforce	  our	  Terms	  of	  Service;	  
-       • To	  comply	  with	  legal	  requirements	  including	  but	  not	  limited	  to	  court	  order	  or	  subpoena	  or	  to	  
-              prevent	  or	  investigate	  suspected	  fraud,	  violations	  of	  our	  Terms	  of	  Service,	  or	  activity	  that	  
-              appears	  to	  us	  to	  be	  illegal	  or	  may	  expose	  us	  to	  	  legal	  liability	  we	  may,	  without	  your	  consent,	  
-              access	  	  and	  disclose	  your	  information,	  any	  	  communications	  sent	  or	  received	  by	  you,	  and	  	  any	  
-              other	  information	  that	  we	  may	  have	  about	  you	  or	  your	  account;	  	  
-       • In	  situations	  that	  we	  believe	  involve	  potential	  threats	  to	  	  the	  physical	  safety	  of	  any	  person	  or	  
-              property,	  if	  we	  believe	  that	  your	  information	  in	  any	  way	  relates	  to	  that	  threat;	  	  	  
-       • In	  the	  event	  that	  HomeRun	  sells	  substantially	  all	  of	  its	  assets	  or	  a	  line	  of	  business,	  or	  is	  acquired	  
-              or	  merged	  with	  another	  company,	  personally	  identifiable	  information	  of	  our	  Members	  may	  be	  
-              one	  of	  the	  assets	  sold	  or	  merged	  in	  connection	  with	  that	  transaction.	  HomeRun	  will	  notify	  users	  
-              of	  the	  Site	  of	  such	  a	  change	  in	  ownership	  or	  transfer	  of	  assets	  by	  posting	  a	  	  notice	  on	  the	  Site	  
-              and	  emailing	  to	  the	  address	  you	  have	  provided	  us;	  	  
-       • To	  provide	  information	  to	  trusted	  businesses	  or	  persons	  for	  the	  sole	  purpose	  of	  processing	  
-              personally	  identifying	  information;	  and	  	  
-       • With	  trusted	  third	  parties	  that	  provide	  services	  on	  our	  behalf	  or	  with	  whom	  we	  have	  
-              collaborated	  to	  offer	  a	  particular	  service.	  We	  reserve	  the	  right	  to	  add,	  remove	  or	  change	  our	  
-              business	  partners	  from	  time	  to	  time.	  	  
-              	  
-              	  
-5. Updating	  and	  Correcting	  Information.	  
-We	  believe	  that	  you	  should	  have	  the	  ability	  to	  access	  and	  edit	  the	  Personally	  Identifiable	  Information	  
-you	  provide	  us.	  You	  may	  change	  any	  of	  your	  Personally	  Identifiable	  Information	  by	  logging	  into	  your	  
-account	  profile,	  or	  by	  sending	  us	  an	  email	  at:	  support@homerun.com.	  Please	  indicate	  your	  name,	  
-address	  and	  email	  address,	  and	  what	  information	  you	  would	  like	  to	  update	  when	  you	  contact	  us.	  
-	  
+Online	  Advertising	  
+We	  may	  collect	  information	  about	  your	  online	  activities	  on	  HomeRun.com	  to	  provide	  advertising	  about	  products	  and	  
+services	  tailored	  to	  your	  individual	  interests.	  	  You	  may	  see	  certain	  ads	  on	  this	  and	  other	  sites	  because	  we	  participate	  in	  
+advertising	  networks.	  Information	  we	  collect	  by	  automated	  means	  may	  be	  shared	  with	  advertisers	  to	  measure	  the	  
+overall	  effectiveness	  of	  our	  content	  and	  to	  improve	  our	  business	  and	  the	  products	  and	  services	  we	  offer.	  Third	  party	  
+advertising	  companies	  allow	  us	  to	  target	  our	  advertising	  to	  users	  through	  demographic,	  behavioral	  and	  contextual	  
+means.	  These	  third	  party	  advertising	  companies	  track	  your	  online	  activities	  over	  time	  by	  collecting	  information	  through	  
+automated	  means,	  including	  through	  the	  use	  of	  cookies,	  web	  server	  logs,	  web	  beacons	  and	  other	  methods.	  Advertising	  
+companies	  use	  this	  information	  to	  show	  you	  advertisements	  for	  our	  and	  our	  business	  partners’	  products	  and	  services	  
+that	  are	  tailored	  to	  your	  individual	  interests.	  The	  information	  third	  party	  advertising	  companies	  collect	  includes	  
+information	  about	  your	  visits	  to	  our	  sites	  and	  other	  websites	  tracked	  by	  these	  third	  parties,	  such	  as	  the	  pages	  or	  
+advertisements	  you	  have	  viewed,	  and	  the	  actions	  you	  take	  on	  those	  sites.	  This	  process	  also	  helps	  us	  track	  the	  
+effectiveness	  of	  our	  marketing	  efforts.	  To	  opt	  out	  of	  receiving	  marketing	  communications	  through	  the	  advertising	  
+networks	  of	  our	  ad	  network	  vendors,	  please	  follow	  the	  instructions	  in	  the	  “Your	  Choices”	  section	  below..	  	  
+Information	  We	  Share	  
+We	  do	  not	  sell	  or	  otherwise	  disclose	  personal	  information	  about	  you	  except	  as	  described	  in	  this	  Privacy	  Statement.	  
+               Business-­‐Related	  Disclosures	  
+We	  may	  share	  the	  information	  we	  collect	  with:	  
+        •      Our	  parent,	  affiliate	  and	  subsidiary	  companies	  
+        •      Merchants	  whose	  offers	  you	  purchase	  through	  HomeRun	  
+        •      Business	  and	  marketing	  partners,	  including	  ad	  network	  vendors	  
+        •      Service	  providers	  who	  perform	  services	  on	  our	  behalf	  	  
+        •      Other	  third	  parties,	  with	  your	  specific	  consent	  
+We	  share	  the	  information	  only	  for	  the	  purposes	  described	  in	  this	  Privacy	  Statement,	  including	  to	  communicate	  with	  you	  
+about	  products,	  services,	  offers,	  events	  and	  promotions	  that	  we	  believe	  may	  be	  of	  interest	  to	  you.	  Our	  service	  providers	  
+are	  not	  authorized	  by	  us	  to	  use	  or	  disclose	  the	  information	  we	  share	  with	  them	  except	  as	  necessary	  to	  perform	  services	  
+on	  our	  behalf	  or	  comply	  with	  legal	  requirements.	  	  	  
+               Required	  Disclosures	  
+In	  certain	  circumstances,	  we	  also	  may	  disclose	  information	  about	  you	  without	  obtaining	  your	  consent	  or	  offering	  you	  an	  
+opportunity	  to	  opt	  out.	  We	  may	  do	  so	  (i)	  if	  we	  are	  required	  to	  do	  so	  or	  believe	  to	  be	  required	  to	  do	  so	  by	  law,	  regulation	  
+or	  legal	  process	  (such	  as	  a	  court	  order),	  (ii)	  in	  response	  to	  a	  request	  by	  law	  enforcement	  authorities,	  or	  (iii)	  when	  we	  
+believe	  disclosure	  is	  necessary	  or	  appropriate	  to	  prevent	  or	  defend	  against	  misuse	  of	  HomeRun	  services,	  violation	  of	  our	  
+intellectual	  property	  rights,	  breach	  of	  any	  of	  your	  or	  our	  business	  customers'	  obligations	  to	  merchants,	  physical	  harm	  or	  
+financial	  loss,	  or	  in	  connection	  with	  an	  investigation	  of	  suspected	  or	  actual	  illegal	  activity.	  
+We	  also	  reserve	  the	  right	  to	  transfer	  personal	  information	  we	  have	  about	  you	  in	  the	  event	  we	  sell,	  merge	  or	  transfer	  all	  
+or	  a	  portion	  of	  our	  business	  or	  assets.	  Should	  such	  a	  sale,	  merger	  or	  transfer	  occur,	  we	  will	  use	  reasonable	  efforts	  to	  
+direct	  the	  transferee	  to	  use	  personal	  information	  you	  have	  provided	  to	  us	  in	  a	  manner	  that	  is	  consistent	  with	  our	  Privacy	  
+Statement.	  Following	  such	  a	  sale,	  merger	  or	  transfer,	  you	  should	  contact	  the	  entity	  to	  which	  we	  transferred	  your	  
+personal	  information	  with	  any	  inquiries	  concerning	  the	  processing	  of	  that	  information.	  	  
+Your	  Choices	  
 
 
-You	  agree	  to	  maintain	  accurate	  contact	  information	  and	  to	  promptly	  update	  your	  Personally	  Identifiable	  
-Information	  if	  it	  changes.	  You	  may	  ask	  to	  have	  the	  information	  on	  your	  account	  deleted	  or	  removed;	  
-however,	  because	  we	  keep	  track	  of	  past	  transactions,	  you	  cannot	  delete	  information	  associated	  with	  
-past	  transactions	  on	  the	  Site.	  In	  addition,	  in	  may	  be	  impossible	  for	  us	  to	  completely	  delete	  all	  of	  your	  
-information	  because	  we	  periodically	  backup	  information.	  	  
-	  
-6. User	  Choices	  on	  Collection	  and	  Use	  of	  Information.	  	  
-You	  can	  always	  choose	  not	  to	  provide	  information,	  although	  it	  may	  be	  required	  to	  engage	  in	  a	  certain	  
-activity	  on	  the	  Site.	  As	  a	  condition	  of	  purchase	  of	  our	  products	  and	  services,	  we	  will	  send	  you	  
-Administrative	  and	  Promotional	  emails.	  We	  will	  send	  you	  information	  regarding	  your	  account	  activity	  
-and	  purchases	  as	  well	  as	  updates	  about	  our	  products	  and	  promotional	  offers.	  	  
-	  
-You	  cannot	  opt-­‐out	  of	  Administrative	  Emails.	  “Administrative	  Emails”	  relate	  to	  a	  User’s	  activity	  on	  the	  
-Website,	  and	  include	  emails	  regarding	  a	  particular	  User’s	  account,	  requests	  or	  inquiries,	  purchases	  of	  
-products	  and	  services,	  and	  notifications	  regarding	  our	  Terms	  and	  policies.	  	  
-	  
-You	  do	  have	  the	  choice	  to	  opt-­‐out	  of	  receiving	  Promotional	  Emails.	  Promotional	  Emails	  advertise	  our	  
-products	  and	  services,	  including	  exclusive	  sales	  and	  other	  offers,	  and/or	  the	  products	  and	  services	  of	  our	  
-Advertisers	  and	  Affiliates.	  If	  you	  do	  not	  want	  to	  receive	  Promotional	  Emails	  from	  us,	  you	  may	  elect	  to	  
-opt-­‐out	  of	  receiving	  Promotional	  Emails	  at	  any	  time	  after	  registering	  by	  e-­‐mailing	  us	  at	  
-support@homerun.com,	  by	  writing	  to	  us	  at	  the	  address	  contained	  herein,	  or	  by	  hitting	  the	  
-“unsubscribe”	  button	  at	  the	  bottom	  of	  any	  of	  our	  e-­‐mails.	  When	  contacting	  us,	  please	  indicate	  your	  
-name,	  address,	  email	  address,	  and	  what	  Promotional	  Emails	  you	  do	  not	  want	  to	  receive.	  
-	  
-7. Security.	  
-We	  take	  security	  seriously	  and	  take	  numerous	  precautions	  to	  protect	  the	  security	  of	  Personally	  
-Identifiable	  Information.	  You	  can	  access	  your	  Personally	  Identifiable	  Information	  on	  our	  Site	  through	  a	  
-password	  and	  your	  email	  address.	  We	  recommend	  that	  you	  do	  not	  share	  your	  password	  with	  anyone.	  In	  
-addition,	  your	  Personally	  Identifiable	  Information	  resides	  on	  a	  secure	  server	  that	  only	  selected	  
-personnel	  and	  contractors	  have	  access	  to.	  We	  encrypt	  certain	  sensitive	  information	  using	  Secure	  Socket	  
-Layer	  (SSL)	  technology	  to	  ensure	  that	  your	  Personally	  Identifiable	  Information	  is	  safe	  as	  it	  is	  transmitted	  
-to	  us.	  
-	  
-Unfortunately,	  no	  data	  transmission	  over	  the	  Internet	  or	  any	  wireless	  network	  can	  be	  guaranteed	  to	  be	  
-100%	  secure.	  As	  a	  result,	  while	  we	  employ	  commercially	  reasonable	  security	  measures	  to	  protect	  data	  
-and	  seek	  to	  partner	  with	  companies	  that	  do	  the	  same,	  we	  cannot	  guarantee	  the	  security	  of	  any	  
-information	  transmitted	  to	  	  	  or	  from	  the	  Site,	  and	  are	  not	  responsible	  for	  the	  actions	  of	  any	  third	  parties	  
-that	  may	  receive	  any	  such	  information.	  	  
-	  
-8.	  	  Data	  Tracking.	  
-a.	  Cookies.	  
-To	  facilitate	  and	  customize	  your	  experience	  with	  the	  Site,	  we	  store	  cookies	  on	  your	  computer.	  A	  cookie	  
-is	  a	  small	  text	  file	  that	  is	  stored	  on	  a	  user’s	  computer	  for	  record-­‐keeping	  purposes	  which	  contains	  
-information	  about	  that	  user.	  We	  use	  cookies	  to	  save	  you	  time	  while	  using	  the	  Site,	  remind	  us	  who	  you	  
-are,	  and	  track	  and	  target	  user	  interests	  in	  order	  to	  provide	  a	  customized	  experience.	  Cookies	  also	  allow	  
-us	  to	  collect	  Non-­‐Personally	  Identifiable	  Information	  from	  you,	  like	  which	  pages	  you	  visited	  and	  what	  
-links	  you	  clicked	  on.	  Use	  of	  this	  information	  helps	  us	  to	  create	  a	  more	  user-­‐friendly	  experience	  for	  all	  
-visitors.	  In	  addition,	  we	  may	  use	  Third	  Party	  Advertising	  Companies	  to	  display	  advertisements	  on	  our	  
+We	  offer	  you	  certain	  choices	  about	  what	  information	  we	  collect	  from	  you,	  how	  we	  use	  and	  disclose	  the	  information,	  and	  
+how	  we	  communicate	  with	  you.	  Here	  are	  the	  choices	  we	  offer.	  
+               HomeRun	  Merchants	  
+HomeRun’s	  business	  model	  requires	  us	  to	  share	  information	  about	  you	  with	  various	  merchants	  whose	  vouchers	  you	  
+may	  purchase	  on	  HomeRun.com.	  These	  merchants	  are	  not	  our	  service	  providers	  or	  agents.	  	  We	  inform	  merchants	  that	  
+they	  may	  use	  information	  about	  you	  only	  in	  connection	  with	  the	  merchant’s	  offer	  you	  purchase	  through	  HomeRun,	  
+unless	  you	  consent	  to	  other	  uses	  of	  your	  information.	  Please	  note,	  however,	  that	  merchants	  may	  process	  the	  personal	  
+information	  we	  provide	  to	  them	  in	  accordance	  with	  their	  own	  privacy	  practices	  and	  privacy	  notices,	  and	  we	  are	  not	  
+responsible	  for	  merchants’	  privacy	  practices.	  You	  may	  choose	  not	  to	  provide	  your	  personal	  information	  to	  HomeRun	  or	  
+our	  merchants	  by	  refraining	  from	  visiting	  our	  site	  or	  using	  our	  products	  or	  services.	  To	  deactivate	  your	  account,	  you	  may	  
+email	  us	  at	  support@homerun.com.	  
+               Marketing	  Emails	  
+You	  may	  choose	  not	  to	  receive	  marketing	  email	  communications	  from	  us	  by	  clicking	  on	  the	  unsubscribe	  link	  in	  the	  
+marketing	  emails	  or	  by	  adjusting	  your	  email	  preferences	  using	  the	  online	  account	  you	  may	  establish	  on	  HomeRun.com.	  	  
+               Web	  Analytics	  
+You	  may	  opt	  out	  of	  the	  aggregation	  and	  analysis	  of	  data	  collected	  about	  you	  on	  our	  sites	  by	  our	  web	  analytics	  vendors	  as	  
+follows:	  
+•      To	  opt	  out	  of	  aggregation	  and	  analysis	  of	  data	  collected	  by	  Google	  Analytics,	  please	  click:	  
+       http://tools.google.com/dlpage/gaoptout?hl=en	  	  
+•      To	  opt	  out	  of	  aggregation	  and	  analysis	  of	  data	  collected	  by	  Omniture,	  please	  click:	  
+       http://www.omniture.com/en/privacy/product#optout	  
+               Targeted	  Advertising	  
+To	  opt	  out	  of	  receiving	  marketing	  communications	  through	  the	  advertising	  networks	  of	  our	  ad	  network	  vendors,	  please	  
+click:	  http://www.networkadvertising.org/managing/opt_out.asp,	  then	  click	  “Select	  all”	  on	  the	  linked	  site	  and	  push	  the	  
+“Submit”	  button.	  Please	  note	  that	  this	  opt-­‐out	  may	  not	  be	  effective	  for	  our	  ad	  network	  vendors	  that	  are	  not	  members	  of	  
+the	  Network	  Advertising	  Initiative.	  If	  you	  continue	  to	  receive	  targeted	  advertising	  from	  us	  after	  opting	  out,	  please	  email	  
+support@homerun.com	  so	  that	  we	  may	  help	  you	  adjust	  your	  preferences.	  
+               Mobile	  Device	  Location	  
+You	  may	  be	  able	  to	  adjust	  the	  settings	  on	  your	  mobile	  device	  to	  limit	  the	  device’s	  transmission	  of	  real-­‐time	  geographic	  
+location	  information.	  	  Please	  follow	  the	  device	  manufacturer’s	  instructions	  to	  adjust	  the	  appropriate	  settings.	  
+               Cookies	  
+Most	  browsers	  (including	  mobile	  browsers)	  will	  tell	  you	  how	  to	  stop	  accepting	  new	  cookies,	  how	  to	  be	  notified	  when	  
+you	  receive	  a	  new	  cookie,	  and	  how	  to	  disable	  existing	  cookies.	  Please	  note,	  however,	  that	  without	  cookies	  you	  may	  not	  
+be	  able	  to	  take	  full	  advantage	  of	  all	  of	  HomeRun.com	  features.	  In	  addition,	  disabling	  cookies	  may	  cancel	  opt-­‐outs	  that	  
+rely	  on	  cookies,	  such	  as	  web	  analytics	  or	  targeted	  advertising	  opt-­‐outs.	  	  	  
+               Your	  California	  Privacy	  Rights	  
 
 
-Site.	  As	  part	  of	  their	  service,	  they	  may	  place	  separate	  cookies	  on	  your	  computer.	  We	  have	  no	  access	  to	  
-or	  control	  over	  these	  cookies.	  This	  Privacy	  Policy	  covers	  the	  use	  of	  cookies	  by	  our	  Site	  only	  and	  does	  not	  
-cover	  the	  use	  of	  cookies	  by	  any	  Advertiser.	  Most	  browsers	  automatically	  accept	  cookies,	  but	  you	  may	  be	  
-able	  to	  modify	  your	  browser	  settings	  to	  decline	  cookies.	  If	  you	  decline	  or	  delete	  these	  cookies,	  some	  
-parts	  of	  the	  Site	  may	  not	  work	  properly.	  	  
-	  
-b.	  Other	  Tracking	  Devices.	  
-We	  may	  use	  other	  industry	  standard	  technologies	  like	  pixel	  tags	  and	  web	  beacons	  to	  track	  your	  use	  of	  
-our	  Site	  pages	  and	  promotions,	  or	  we	  may	  allow	  our	  Third	  Party	  Service	  Providers	  to	  use	  these	  devices	  
-on	  our	  behalf.	  Pixel	  tags	  and	  web	  beacons	  are	  tiny	  graphic	  images	  placed	  on	  certain	  pages	  on	  our	  Site,	  
-or	  in	  our	  emails	  that	  allow	  us	  to	  determine	  whether	  you	  have	  performed	  a	  specific	  action.	  When	  you	  
-access	  these	  pages	  or	  open	  or	  click	  an	  email,	  pixel	  tags	  and	  web	  beacons	  generate	  a	  Non-­‐-­‐Personally	  
-Identifiable	  notice	  of	  that	  action.	  Pixel	  tags	  allow	  us	  to	  measure	  and	  improve	  our	  understanding	  of	  
-visitor	  traffic	  and	  behavior	  on	  our	  Site,	  as	  well	  as	  give	  us	  a	  way	  to	  measure	  our	  promotions	  and	  
-performance.	  We	  may	  also	  utilize	  pixel	  tags	  and	  web	  beacons	  provided	  by	  our	  Affiliates	  and/or	  
-Marketing	  Partners	  for	  the	  same	  purposes.	  	  
-	  
-9. Privacy	  Policies	  of	  Third	  Party	  Websites.	  
-This	  Privacy	  Policy	  only	  addresses	  the	  use	  and	  disclosure	  of	  information	  we	  collect	  from	  you.	  Other	  
-websites	  that	  may	  be	  accessible	  through	  this	  Site	  have	  their	  own	  privacy	  policies	  and	  data	  collection,	  
-use	  and	  disclosure	  practices.	  If	  you	  link	  to	  any	  such	  website,	  we	  urge	  you	  review	  the	  website’s	  privacy	  
-policy.	  We	  are	  not	  responsible	  for	  the	  policies	  or	  practices	  of	  third	  parties.	  
-	  
-10. Communications	  to	  or	  from	  Our	  Site.	  
-WE	  MAKE	  NO	  GUARANTEE	  OF	  CONFIDENTIALITY	  OR	  PRIVACY	  OF	  ANY	  COMMUNICATION	  OR	  
-INFORMATION	  TRANSMITTED	  TO	  OR	  FROM	  THE	  SITE.	  You	  acknowledge	  that	  any	  content	  you	  post	  on	  
-the	  Site	  is	  a	  public	  and	  not	  private	  communication.	  Others	  may	  read	  and	  view	  your	  communications	  
-without	  your	  knowledge.	  	  
-	  
-We	  do	  not	  control	  or	  endorse	  the	  content,	  messages	  or	  information	  posted	  by	  third	  party	  users.	  We	  will	  
-not	  be	  liable	  for	  the	  privacy	  of	  any	  of	  your	  or	  any	  other	  third	  party	  postings	  to	  the	  Site	  and	  specifically	  
-disclaim	  any	  liability	  resulting	  from	  such	  postings	  and	  communications,	  including	  any	  objectionable	  
-content.	  
-	  
-	  
-	  
-11. Miscellaneous	  Privacy	  Issues.	  	  
-a. Children.	  
-Minors	  under	  the	  age	  of	  18	  may	  not	  use	  the	  Site.	  We	  do	  not	  collect	  or	  maintain	  information	  from	  
-anyone	  known	  to	  be	  under	  the	  age	  of	  18,	  and	  no	  part	  of	  the	  Site	  is	  designed	  to	  attract	  anyone	  under	  the	  
-age	  of	  18.	  HomeRun	  does	  not	  sell	  products	  for	  purchase	  by	  children.	  In	  certain	  instances,	  we	  sell	  
-children's	  products	  for	  purchase	  by	  adults.	  
-	  
-b.	  Public	  Site.	  
-We	  may	  provide	  areas	  on	  our	  Site	  where	  you	  can	  publicly	  post	  information	  about	  yourself,	  can	  
-communicate	  with	  others,	  or	  can	  review	  products	  or	  services,	  and	  submit	  media	  content.	  This	  
-information	  may	  be	  accessible	  by	  other	  consumers	  and	  companies	  and	  may	  appear	  on	  other	  websites	  or	  
-web	  searches,	  and	  therefore	  this	  information	  could	  be	  read,	  collected,	  and	  used	  by	  others.	  For	  example,	  
-
-
-if	  you	  post	  your	  email	  address	  along	  with	  a	  public	  restaurant	  review,	  you	  may	  receive	  unsolicited	  
-messages.	  We	  have	  no	  control	  over	  who	  reads	  your	  postings	  or	  what	  other	  users	  or	  internet	  businesses	  
-may	  do	  with	  the	  information	  you	  voluntarily	  post,	  so	  please	  use	  caution	  when	  posting	  any	  personal	  
+If	  you	  are	  a	  California	  resident,	  you	  may	  request	  that	  we	  provide	  to	  you	  (i)	  a	  list	  of	  the	  categories	  of	  personal	  
+information	  about	  you	  that	  HomeRun	  has	  disclosed	  to	  third	  parties	  for	  the	  third	  parties'	  direct	  marketing	  purposes	  
+during	  the	  calendar	  year	  preceding	  your	  request,	  (ii)	  the	  names	  and	  addresses	  of	  such	  third	  parties,	  and	  (iii)	  if	  the	  nature	  
+of	  the	  third	  parties'	  business	  cannot	  reasonably	  be	  determined	  from	  their	  names,	  examples	  of	  the	  products	  or	  services	  
+marketed,	  if	  known	  to	  us,	  that	  are	  sufficient	  to	  give	  you	  a	  reasonable	  indication	  of	  the	  nature	  of	  the	  third	  parties'	  
+business.	  To	  submit	  your	  request,	  please	  email	  support@homerun.com.	  
+               Disclosures	  to	  Third	  Parties	  
+Subject	  to	  applicable	  law	  in	  the	  country	  where	  you	  are	  located,	  you	  may	  have	  the	  right	  to	  direct	  us	  not	  to	  share	  your	  
+personal	  information	  with	  third	  parties,	  except	  (i)	  with	  service	  providers	  we	  have	  retained	  to	  perform	  services	  on	  our	  
+behalf	  or	  (ii)	  as	  indicated	  in	  the	  "Required	  Disclosures"	  section	  of	  this	  Privacy	  Statement.	  To	  submit	  your	  request,	  please	  
+email	  support@homerun.com.	  In	  some	  circumstances,	  withdrawing	  your	  consent	  to	  HomeRun’s	  use	  or	  disclosure	  of	  
+your	  personal	  information	  will	  mean	  that	  you	  cannot	  take	  advantage	  of	  HomeRun	  products	  or	  services.	  	  
+To	  update	  your	  privacy	  preferences,	  ask	  us	  to	  remove	  your	  information	  from	  our	  mailing	  lists	  or	  submit	  a	  request,	  please	  
+contact	  us	  as	  specified	  below.	  
+Access	  and	  Correction	  
+You	  may	  obtain	  a	  copy	  of	  certain	  personal	  information	  we	  maintain	  about	  you	  or	  update	  or	  correct	  inaccuracies	  in	  that	  
+information	  by	  logging	  into	  your	  HomeRun.com	  account.	  	  
+Links	  to	  Other	  Websites	  
+HomeRun.com	  may	  provide	  links	  to	  third-­‐party	  websites	  for	  your	  convenience	  and	  information.	  If	  you	  access	  those	  links,	  
+you	  will	  leave	  HomeRun.com.	  HomeRun	  does	  not	  control	  those	  sites	  or	  their	  privacy	  practices,	  which	  may	  differ	  from	  
+HomeRun’s	  practices.	  We	  do	  not	  endorse	  or	  make	  any	  representations	  about	  third-­‐party	  websites.	  The	  personal	  
+information	  you	  choose	  to	  provide	  to	  or	  that	  is	  collected	  by	  these	  third-­‐party	  websites	  is	  not	  covered	  by	  this	  Privacy	  
+Statement.	  We	  encourage	  you	  to	  review	  the	  privacy	  policy	  of	  any	  company	  before	  submitting	  your	  personal	  
 information.	  
-	  
-12. Contacting	  Us.	  
-Whether	  you’re	  a	  new	  or	  loyal	  customer,	  restaurant	  owner,	  marketer,	  publisher,	  media	  member	  or	  job	  
-seeker	  we’d	  like	  to	  stay	  connected	  and	  want	  to	  hear	  from	  you!	  	  
-	  
-Corporate	  Address:	  
-Demand	  Chain,	  Inc.	  
-(d/b/a	  HomeRun)	  
-130	  Battery	  St.	  Ste.	  300	  
-San	  Francisco,	  California	  94111	  
-	  
-For	  Customers	  
-Customer	  Service	  Inquiries	  |support@homerun.com	  
-	  
+Social	  Networks	  
+We	  may	  provide	  social	  media	  features	  on	  HomeRun.com	  that	  enable	  you	  to	  share	  information	  on	  HomeRun.com	  with	  
+your	  social	  networks	  and	  to	  interact	  with	  HomeRun	  on	  various	  social	  media	  sites.	  Your	  use	  of	  these	  features	  may	  result	  
+in	  the	  collection	  or	  sharing	  of	  information	  about	  you.	  We	  encourage	  you	  to	  review	  the	  privacy	  policies	  and	  settings	  on	  
+the	  social	  media	  sites	  with	  which	  you	  interact	  to	  help	  you	  understand	  those	  sites'	  privacy	  practices.	  
+If	  you	  access	  HomeRun	  through	  social	  media	  platforms	  (such	  as	  Facebook),	  we	  may	  access	  and	  store	  information	  
+through	  an	  interface	  provided	  by	  the	  platform.	  We	  collect	  this	  information	  in	  accordance	  with	  social	  networks’	  terms	  of	  
+use	  or	  terms	  of	  service.	  	  	  
+Social	  networks	  operate	  independently	  from	  HomeRun,	  and	  we	  are	  not	  responsible	  for	  social	  networks’	  interfaces	  or	  
+privacy	  or	  security	  practices.	  If	  you	  have	  questions	  about	  the	  security	  and	  privacy	  settings	  of	  social	  networks	  you	  use,	  
+please	  refer	  to	  their	  privacy	  notices	  or	  policies.	  
+Public	  Sites	  
+We	  may	  provide	  areas	  on	  our	  sites	  where	  you	  can	  publicly	  post	  information	  about	  yourself,	  can	  communicate	  with	  
+others,	  can	  review	  products	  or	  services,	  can	  share	  purchase	  histories,	  and	  submit	  media	  content.	  This	  information	  may	  
+be	  accessible	  by	  other	  consumers	  and	  companies	  and	  may	  appear	  on	  other	  websites	  or	  web	  searches,	  and	  therefore	  this	  
+information	  could	  be	  read,	  collected	  and	  used	  by	  others.	  For	  example,	  if	  you	  post	  your	  email	  address	  along	  with	  a	  
+
+
+merchant	  review,	  you	  may	  receive	  unsolicited	  messages.	  Or	  if	  you	  purchase	  an	  offer	  for	  a	  service,	  you	  may	  receive	  
+comments	  or	  questions	  about	  your	  experience.	  We	  have	  no	  control	  over	  who	  reads	  your	  postings	  or	  what	  other	  users	  or	  
+businesses	  may	  do	  with	  the	  information	  you	  voluntarily	  post.	  
+Data	  Transfers	  
+HomeRun.com	  is	  a	  U.S.	  website	  governed	  by	  applicable	  U.S.	  law.	  When	  you	  provide	  personal	  information	  on	  
+HomeRun.com,	  we	  may	  process	  the	  information	  outside	  of	  the	  country	  in	  which	  you	  are	  located,	  including	  in	  the	  U.S.	  
+How	  We	  Protect	  Personal	  Information	  
+We	  use	  commercially	  reasonable	  efforts	  to	  safeguard	  the	  confidentiality	  of	  your	  personal	  information,	  including	  the	  use	  
+of	  encryption,	  firewalls	  and	  Secure	  Socket	  Layers.	  To	  help	  safeguard	  personal	  information	  against	  loss	  and	  unauthorized	  
+access,	  we	  employ	  many	  different	  security	  techniques,	  including,	  for	  example,	  regulating	  the	  physical	  and	  virtual	  access	  
+to	  our	  databases,	  servers,	  back-­‐ups,	  encryption	  keys	  or	  other	  network	  and	  security-­‐related	  infrastructure	  components.	  
+In	  addition,	  we	  encrypt	  certain	  information,	  such	  as	  password	  and	  credit	  card	  numbers,	  in	  storage.	  	  
+Please	  note	  that	  no	  electronic	  transmission	  of	  information	  can	  be	  entirely	  secure.	  We	  cannot	  guarantee	  that	  the	  security	  
+measures	  we	  have	  in	  place	  to	  safeguard	  personal	  information	  will	  never	  be	  defeated	  or	  fail,	  or	  that	  those	  measures	  will	  
+always	  be	  sufficient	  or	  effective.	  We	  make	  no	  guarantee	  of	  confidentially	  or	  privacy	  of	  any	  communication	  or	  
+information	  transmitted	  to	  or	  from	  HomeRun.com.	  	  	  
+Children's	  Privacy	  
+HomeRun	  does	  not	  knowingly	  collect	  information	  from	  children	  under	  the	  age	  of	  13	  and	  does	  not	  target	  its	  websites	  to	  
+children	  under	  13.	  If	  we	  learn	  that	  a	  user	  is	  under	  13	  years	  of	  age,	  we	  will	  promptly	  delete	  any	  personal	  information	  that	  
+the	  individual	  has	  provided	  to	  us.	  We	  encourage	  parents	  and	  guardians	  to	  take	  an	  active	  role	  in	  their	  children's	  online	  
+activities	  and	  interests.	  
+Updates	  to	  this	  Privacy	  Statement	  
+This	  Privacy	  Statement	  may	  be	  updated	  periodically	  and	  without	  prior	  notice	  to	  you	  to	  reflect	  changes	  in	  our	  personal	  
+information	  practices.	  We	  will	  post	  a	  notice	  on	  our	  websites	  to	  notify	  you	  of	  any	  significant	  changes	  to	  our	  Privacy	  
+Statement	  and	  indicate	  at	  the	  top	  of	  the	  notice	  when	  it	  was	  most	  recently	  updated.	  
+How	  to	  Contact	  Us	  
+If	  you	  have	  any	  questions	  or	  comments	  about	  this	  Privacy	  Statement,	  or	  if	  you	  would	  like	  us	  to	  update	  the	  information	  
+we	  have	  about	  you	  or	  your	  preferences,	  please	  contact	  us	  by	  email	  at	  support@homerun.com.	  You	  also	  may	  write	  to	  us	  
+at:	  
+Deem	  Offers,	  Inc.	  
+Attn:	  Privacy	  Rights	  
+1051	  E.	  Hillsdale	  Blvd.,	  Sixth	  Floor	  	  
+Foster	  City,	  CA	  94404	  
