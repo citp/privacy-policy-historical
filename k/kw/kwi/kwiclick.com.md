@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwiclick.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118060900id_/http%3A//www.kwiclick.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwiclick.com privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126083728id_/http%3A//www.kwiclick.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KwiClick
 
