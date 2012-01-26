@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastdigital.co.uk privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115133105id_/http%3A//www.coastdigital.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastdigital.co.uk privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126063228id_/http%3A//www.coastdigital.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Coast Digital
 
