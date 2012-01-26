@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011205901id_/http%3A//www.travelocity.ca/info/info_window/0%2C%2CTCYCA%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126112358id_/http%3A//www.travelocity.ca/info/info_window/0%2C%2CTCYCA%257CPRIVACY_WINDOW%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy | Travelocity.ca
 
