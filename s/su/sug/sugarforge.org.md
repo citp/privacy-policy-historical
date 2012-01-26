@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010115623id_/http%3A//www.sugarcrm.com/crm/TRUSTe/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2012-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120126080543id_/http%3A//www.sugarcrm.com/crm/TRUSTe/privacy.html) for the most accurate reproduction.*
 
 # SugarCRM Inc. Privacy Policy | Open Source Business & Social CRM - SugarCRM
 
@@ -54,7 +54,7 @@ SugarCRM employs procedural and technological measures that are reasonably desig
 
 **Updating Your Information**
 
-SugarCRM provides user with the ability to review and update user contact information that user provides to SugarCRM by accessing and modifying this information in user’s account or by submitting a request to SugarCRM at [webmaster@sugarcrm.com](https://web.archive.org/web/20111010115623id_/http%3A//www.sugarcrm.com/crm/TRUSTe/webmaster@sugarcrm.com). We will respond to requests for access to update or delete your account information within 30 days. 
+SugarCRM provides user with the ability to review and update user contact information that user provides to SugarCRM by accessing and modifying this information in user’s account or by submitting a request to SugarCRM at [webmaster@sugarcrm.com](https://web.archive.org/web/20120126080543id_/http%3A//www.sugarcrm.com/crm/TRUSTe/webmaster@sugarcrm.com). We will respond to requests for access to update or delete your account information within 30 days. 
 
 If you choose not to receive SugarCRM sent emails or newsletters, you can opt-out or unsubscribe by emailing [news@sugarcrm.com](mailto:news@sugarcrm.com), by following the opt-out instructions in the email or newsletter, or by sending mail to SugarCRM Inc., 10050 N. Wolfe Rd. SW2-130, Cupertino CA 95014, USA or call +1 408.454.6900. 
 
