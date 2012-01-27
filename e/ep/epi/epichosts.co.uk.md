@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006165158id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epichosts.co.uk privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127230440id_/http%3A//www.epichosts.co.uk/legal.htm) for the most accurate reproduction.*
 
 # Epic Hosts - Terrum's Cheap Hosting :: Get ANYTHING hosted NOW! Games, Websites, Radio Stations, and many more!
 
@@ -51,14 +51,28 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 
 This policy was last modified on 15/04/2011
 
-Here is some information and Terms and Conditions you need to know before getting a server. The servers by Terrum are trustable and lag-less. The servers are hosted in United Kingdom in London. Please be aware that all servers are hackable and can easily be destroyed if you take no care in them. The FTPs are protected by CrossFTP and are highly unhackable. I am not responsible for any damage caused to the server or the files you upload. Any files infringing the law will be deleted immediately. Servers are usually only hacked if you annoy the hacker, But if your server got hacked for no apparent reason, Please contact me and give me their IP so I can ban them from accessing my IP, I use a ultimate firewall program to stop IPs from accessing my computer without permission. This host is fully genuine. We accept a 7 day full refund if you are not satisfied but only if you haven't had a trial. This is a non-commercial business and i'm not trying to make money from this, I just want to share servers and try out some servers that people make. But because of bills and stuff, I can't host them free anymore. This service is fully legal, Anything uploaded which infringing the law is not my responsibility. Please report to me if anything is found on the site what is illegal and further action will be taken immediately. That is the end of the Terms and Conditions for now. Thanks for reading and hope you understand it.
+This project is relatively a non-profit service. All monies received go to the funding of the hardware, staff & bills. The service is ran by [ Ben Gough / Terrum](http://www.terrum.co.uk/) and no intention is genuine to anyone who wishes to impersonate or a takeover our service. The servers are hosted in United Kingdom, Kent.
 
-We have full right to close or suspend the server anytime if we think what you are doing with it is against our policy. This is a non-copyrighted service and for personal use only.
+Our security system is hardware-based with a DDos protection feature. However we are not responible for any damage to your server, or services. We do not provide free backups for any service, any critical data should be downloaded from the FTP and backed up on your own system.
 
-Payments are controlled and serviced by PayPal. You do not need a PayPal account to purchase a server. You will need a PayPal account to subscribe (automatically pay monthly). Payments will be notified as donations. The reason for that is so people don't have to sign up to PayPal to buy a server from me, If I use a buy button instead of a donate button, It says you must have a PayPal account.
+The FTP is served by FileZilla Server, highly secure and very lightweight. For best use, please use the [ FileZilla Client](http://www.filezilla.net/) to connect to our FTP. Any files infringing the law will be deleted immediately and reported to your ISP if necessary.
 
-As stated on every page in the footer, All content belongs to their rightful owners. I am not stealing anything; This site is non-commercial and is not selling any multimedia of the website. The only thing sold is private cheap hosting provided by Terrum himself.
+This genuine host accepts a 7 day full refund, money back guaranteed, within reason. If you are not satisfied we may ask how we can improve our services for future purposes or to convince you of our true service that you may not have experienced, in case one has misunderstood or gotten frustrated.
 
-This is not a subscription or a contract service. You can only get a refund if your service was paid for 7 days before you claim a refund. If you claim a refund after 7 days of paying, you will not get approved.
+This is a non-commercial business without profiteering intention. I created this hosting site want to share servers and try out some servers that people make and understand the business way, and how customers act. But because of bills and relative invoices, I can't host them for free.
 
-E-mail: [ privacy@epichosts.co.uk](mailto:privacy@epichosts.co.uk)
+This service is fully legal, however unregistered, As per written on [direct.gov.uk](http://direct.gov.uk/)'s site, I can prove I have no income of over £20k as a private business owner.
+
+Anything uploaded which infringing the law is not my responsibility. Please report anything to me that you claim as illegal, or infringing your rights. If anything is found on the site what is confirmed to be breaking the UK law, further action will be taken immediately \- Please do not take matters into your own hands, or claims, before talking to us. 
+
+We reserve the full right to close or suspend your service at anytime if we think any act within is against our policy. This is a non-copyrighted service and for personal use only. We also reserve the full right to modify, remove and therefore state any changes to these terms throughout the use of this site.
+
+Services purchased that require manual installation, such as Pre-installation plans or Repacks, they cannot be refunded due to the work already being done. You will only be liable to the refund of the host within. Please contact us to verify if you are applicable.
+
+Once requesting a cancellation after 7 days of purchasing a host with us, no refund will be given as per the 7 day money back guarantee term. If a service was requested a temporary shutdown for any reason, the cycle will still continue within reason.
+
+Payments are controlled and serviced by PayPal. You do not need a PayPal account to purchase a service, however all payments received are held as funds until complete satisfaction from the customer is approved. We will never demand a payment for the next cycle, as this is a non-subscription service.
+
+All content belongs to their rightful owners. Content shown on any page of Epichosts is not intended to steal, impersonate or profit. Any multimedia found on the site is for non-commercial use and is not re-sold.
+
+This is not a subscription or a contract service. The ability to claim a refund will be completely under the administration's conclusion and can only be approved within reason through 7 days from the purchase date.
