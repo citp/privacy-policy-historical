@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106010125id_/http%3A//www.discoverbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127224713id_/http%3A//www.discoverbank.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Discover Bank
 
-Rev. 10/10
+  * [Discover Bank Home](http://www.discoverbank.com/ "Discover Bank Home")
+  * [Online Savings](http://www.discoverbank.com/online-savings-account.html "Online Savings")
+  * [Money Market](http://www.discoverbank.com/money-market.html "Money Market Accounts")
+  * [CD](http://www.discoverbank.com/cd.html "CD Accounts")
+  * [IRA CD](http://www.discoverbank.com/ira-cd.html "IRA CD Accounts")
+  * [Compare Banks](http://www.discoverbank.com/compare-banks-online-savings.html "Compare Banks")
+  * [Calculators](http://www.discoverbank.com/calculators.html "Calculators")
+  * [Tips & Advice](http://www.discoverbank.com/tips-and-advice/ "Tips & Advice")
+  * [About Us](http://www.discoverbank.com/about-us.html "About Us")
+
+
+
+## Discover Bank Privacy Policy
+
+or call 1-800-347-7000
+
+Rev. 10/11
 
 Facts| 
 
@@ -164,6 +180,8 @@ A formal agreement between nonaffiliated financial companies that together marke
 Other important information  
 ---  
   
- **Vermont Residents —** Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties or companies in our corporate family unless you call us at 1-866-402-1048 and authorize us to do so.
+ **Vermont Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at **1-866-402-1048** and authorize us to do so.
 
- **California Residents —** Your state law requires financial institutions to obtain your consent prior to sharing information about you with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third parties while you are a resident of California.
+ **California Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
+
+ **Nevada Residents —** You may call **1-866-402-1048** to be placed on our Do Not Call List. For more information, mail Discover Bank, PO Box 30416, Salt Lake City, UT 84130. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "BCPINFO@ag.state.nv.us"). This notice is provided pursuant to state law.
