@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azshare.info privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009235338id_/http%3A//www.azshare.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azshare.info privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128000556id_/http%3A//www.azshare.info/privacy.html) for the most accurate reproduction.*
 
 # AZShare.info - Your Privacy
 
