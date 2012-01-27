@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getbettergradesnow.com privacy policy that was archived on 2011-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110830005809id_/http%3A//www.getbettergradesnow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbettergradesnow.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127032642id_/http%3A//www.getbettergradesnow.com/privacy.php) for the most accurate reproduction.*
 
 # How To Study Smarter - Get Better Grades In School Or College
 
