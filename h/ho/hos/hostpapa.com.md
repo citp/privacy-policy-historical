@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215092526id_/http%3A//www.hostpapa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127020204id_/http%3A//www.hostpapa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Green Web Hosting from HostPapa, America’s Web Hosting Provider.
 
 ## Statement of Privacy Policy
 
-We at [HostPapa.com](http://www.hostpapa.com/home/) ("HostPapa") are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our site visitors.
+We at [HostPapa.com](https://web.archive.org/web/20120127020204id_/http%3A//www.hostpapa.com/home/) ("HostPapa") are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our site visitors.
 
 #### Type of Information Collected
 
