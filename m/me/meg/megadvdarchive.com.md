@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megadvdarchive.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127011653id_/http%3A//megadvdarchive.com/html.php%3FHtml_showFile%3Dpage_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megadvdarchive.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127095003id_/http%3A//megadvdarchive.com/html.php%3FHtml_showFile%3Dpage_privacy) for the most accurate reproduction.*
 
 # MegaDVDArchive | Bonus Sites
 
@@ -34,7 +34,7 @@ All emails and newsletters from this site allow you to opt out of further mailin
 
 If you no longer wish to receive email from us you can unsubscribe at any time using the following ways:
 
-  * Online, by visiting our [unsubscribe page](https://web.archive.org/web/20111127011653id_/http%3A//megadvdarchive.com/html.php?Html_showFile=page_unsubscribe&app_state=ad8641402e530b09&nats=NjcuNi44LjE1LjAuMC4wLjAuMA "unsubscribe page").
+  * Online, by visiting our [unsubscribe page](https://web.archive.org/web/20120127095003id_/http%3A//megadvdarchive.com/html.php?Html_showFile=page_unsubscribe&app_state=69027757a96229cf&nats=NjcuNi44LjE1LjAuMC4wLjAuMA "unsubscribe page").
   * Email us your unsubscribe request to [postmaster@megadvdarchive.com](mailto:postmaster@megadvdarchive.com)
   * Or call us at (646) 926-7357
 
