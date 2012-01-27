@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalkiss.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214153052id_/http%3A//www.totalkiss.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalkiss.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127222631id_/http%3A//www.totalkiss.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KISS
 
