@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultartnetwork.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultartnetwork.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Adult Art Network - Privacy Policy Statement
 
@@ -7,7 +7,7 @@ Privacy Policy Statement
   
 
 
-Operators of the website (referred to herein as “Service” or “website”) can be reached via our [contact form](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/contact.php).
+Operators of the website (referred to herein as “Service” or “website”) can be reached via our [contact form](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/contact.php).
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscribers and members of our network of paysites. These include adultartnetwork.com, comixxxarchive.com, adultcomicsworld.com, adultcartoonzone.com, mangahq.com, hentaisexclub.com, 3dsexclub.com, hentaixxxtreme.com, toongayclub.com, digitalcomix.com, hentaidivx.com & cghotties.com and all other sites at which an hyperlink to this Policy appears and which are owned/controlled by the Service.
 
@@ -49,7 +49,7 @@ All subscribers should consider any information provided to or collected by the 
 _**There may be occasions when a subscriber will be presented with special offers from the operators of the website which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers") which also might contain sexually oriented material. By joining our website(s) and/or providing your emaill, you are giving your consent and agree to receive Offers from us, with the understanding that you can opt-out of these emails at any time by following the provided "Opt-Out" Revocation procedure.
 
 **_"Opt-Out" Revocation Procedure  
-_** To opt-out of receiving marketing or other promotional communications from us, we provide you with the following options: you may (1) follow the "Unsubscribe" instructions contained in the communication from us; you may (2) visit our [mailing list section](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/mailing.php) to enter your email address, select Unsubscribe option and click Submit; or (3) write to us at the following address with your request: P.O. Box 27740 Las Vegas, NV 89126-7740
+_** To opt-out of receiving marketing or other promotional communications from us, we provide you with the following options: you may (1) follow the "Unsubscribe" instructions contained in the communication from us; you may (2) visit our [mailing list section](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/mailing.php) to enter your email address, select Unsubscribe option and click Submit; or (3) write to us at the following address with your request: P.O. Box 27740 Las Vegas, NV 89126-7740
 
 **_Protection of Children's Privacy_**  
 We strongly support parental controls on the Internet. Our websites are not intended to be viewed by minors and self labled to support major blocking servies. If you are a parent and want to block any of our websites, please consider using one of those **free** solutions: [RTA](http://rtalabel.org/) \- [ICRA](http://www.fosi.org/icra/) \- [Safesurf](http://www.safesurf.com/) ** _Links_**  
@@ -59,13 +59,13 @@ Please also note that the owners of this website are not responsible for the con
 _**In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our website.
 
 **_How to cancel your subscription  
-_**You can cancel your subscription online by visiting the [Cancel Membership](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/cancel.php) section of the website.
+_**You can cancel your subscription online by visiting the [Cancel Membership](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/cancel.php) section of the website.
 
 **_How can you access the information we have collected from you?  
-_**Visitors who wish to access or change the information they provided to our website, should [send a message](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/contact.php) to us.
+_**Visitors who wish to access or change the information they provided to our website, should [send a message](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/contact.php) to us.
 
 **_How can you contact the website operator?  
-_**Visitors who have any questions about this Privacy Policy, the practices of this website, or their interactions with this Service, should contact us via our [contact form](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/contact.php).
+_**Visitors who have any questions about this Privacy Policy, the practices of this website, or their interactions with this Service, should contact us via our [contact form](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/contact.php).
 
  _ **Changes to this privacy policy  
 **_
@@ -73,6 +73,6 @@ _**Visitors who have any questions about this Privacy Policy, the practices of t
 There may be times when we need to change the terms of this Privacy Policy. You agree that we are under no duty to send you notice of such changes. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often.
 
 **_Acceptance of privacy terms & conditions  
-_**By visiting this website, you are agreeing to the practices described in this Privacy Policy. By visiting this website, you also accept, without limitation or qualification, all [terms and conditions](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/terms.php) concerning the use of this website. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party websites accessible through our website (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those websites. We are not responsible for the policies, content, and practices of other companies.
+_**By visiting this website, you are agreeing to the practices described in this Privacy Policy. By visiting this website, you also accept, without limitation or qualification, all [terms and conditions](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/terms.php) concerning the use of this website. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party websites accessible through our website (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those websites. We are not responsible for the policies, content, and practices of other companies.
 
-Date of issuance of this release: November 08, 2009. We can be reached by our [contact form](https://web.archive.org/web/20111008094802id_/http%3A//websites.adultartnetwork.com/contact.php) for any questions.
+Date of issuance of this release: November 08, 2009. We can be reached by our [contact form](https://web.archive.org/web/20120127232125id_/http%3A//websites.adultartnetwork.com/contact.php) for any questions.
