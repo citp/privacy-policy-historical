@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurumastermind.com privacy policy that was archived on 2011-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110703023023id_/http%3A//www.gurumastermind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurumastermind.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128001217id_/http%3A//www.gurumastermind.com/privacy) for the most accurate reproduction.*
 
 # Guru MasterMind Privacy Policy
 
