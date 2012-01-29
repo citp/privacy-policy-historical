@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barelylegalgold.com privacy policy that was archived on 2011-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110915152120id_/http%3A//barelylegalgold.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barelylegalgold.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129232244id_/http%3A//www.barelylegalgold.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
