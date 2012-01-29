@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2011-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106030133id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2012-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120129021929id_/http%3A//vitalmx.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="http://assets.vitalmedianet.com/images/_mx/favicon.ico" rel="shortcut icon"> 
 
@@ -27,9 +27,12 @@
 <script src="http://assets.vitalmedianet.com/javascripts/jquery.vital.min.js?1295639349" type="text/javascript"></script>
 
 <script type="text/javascript" charset="utf-8">
-var isDST = true;
+var isDST = false;
 $j = jQuery.noConflict();
 </script>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script src="http://assets.vitalmedianet.com/javascripts/111221_vital.apps.min.js" type="text/javascript"></script>
 
 
 <script type="text/javascript" charset="utf-8">
@@ -42,21 +45,22 @@ var wallpaper_ads = {
 	},
 	def: 'none'
 }
+vitalPage.initBgAd();
 </script>
 
 
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1320423502" type="text/javascript"></script>
-<!-- CSS -->
-<link href="http://assets.vitalmedianet.com/stylesheets/main.min.css?1313454037" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets.vitalmedianet.com/stylesheets/120111_main.min.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css?1295894077" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-<!-- // CSS --> 
-
-
-<link href="http://assets.vitalmedianet.com/stylesheets/mx.css?1310604510" media="screen" rel="stylesheet" type="text/css">
 
 
 
+<link href="http://assets.vitalmedianet.com/stylesheets/120110_mx.css" media="screen" rel="stylesheet" type="text/css">
+
+
+
+
+
+<link href="https://plus.google.com/111552323323003011912" rel="publisher">
 
 <meta property="fb:app_id" content="124914807538785">
 <meta property="og:site_name" content="Vital MX"> 
@@ -133,10 +137,7 @@ var addthis_config = {
 
 </head>
 
-<body id="privacy_policy">
-<script type="text/javascript">
-vitalPage.initBgAd();
-</script>
+<body id="privacy_policy" class="small_scrn">
 <!-- Facebook SDK -->
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div> 
 <script> 
@@ -156,6 +157,12 @@ vitalPage.initBgAd();
   }());
 </script>
 <!-- end Facebook SDK -->
+
+<script type="text/javascript">
+if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPhone/i)) {
+	document.getElementsByTagName('body')[0].className = 'small_scrn';
+}
+</script>
 
 <div id="fixed_top">
   <!-- header -->
@@ -231,6 +238,8 @@ vitalPage.initBgAd();
         
         <li><a href="/dealerexpo2011">Dealer Expo 2011</a></li>
         
+        <li><a href="/videos/main?scope=feature">Feature Videos</a></li>
+        
         <li><a href="/videos/new">Add Videos</a></li>
         
         <div class="clearfix"></div>
@@ -289,13 +298,17 @@ vitalPage.mainNavInit();
     <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdRight"></div> 
   </div> 
 </div> 
+<!-- // Background ad -->
+
+
+<div id="container">
+<!-- Background ad -->
 <script type="text/javascript">
 vitalPage.showBgAd();
 $j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
 </script> 
 <!-- // Background ad -->
 
-<div id="container">
   <div id="user_menu">
     <div class="search_form">
   <form method="get" action="/search" id="googleSearchForm"> 
@@ -335,8 +348,8 @@ vitalPage.messageBarInit();
   <div class="content">
     
     
-  	<div class="main w_normal">
-  	  
+    
+  	<div class="content_inner">
   	  
 
 <div id="main-content" class="privacy_policy">
