@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247worldnews.net privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142334id_/http%3A//www.247worldnews.net%3Fpage_id%3D32765) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247worldnews.net privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129042414id_/http%3A//www.247worldnews.net%3Fpage_id%3D32765) for the most accurate reproduction.*
 
 # – Privacy | 24/7 World News Network
 
