@@ -1,136 +1,199 @@
-<!--The following is the downloaded HTML source of the videoelephant.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228203610id_/http%3A//videoelephant.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the videoelephant.com privacy policy that was archived on 2012-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120129225546id_/http%3A//www.videoelephant.com/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-	
-	<title>Privacy Policy - videoelephant.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy - videoelephant.com</title>
 	
 	<meta name="keywords" content="Privacy Policy"> 
 	<meta name="description" content="Privacy Policy"> 
 	<meta name="robots" content="index,follow">
 	<meta name="author" content=""> 
 	
-	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//css/styles.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	
+	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//css/_styles.css">
 	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//css/form.css">
 	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//css/fancybox.css">
-	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//js/jquery/tipsy/css/tipsy.css">
+	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//js/jquery/tooltip/jquery.tooltip.css">
+	<link rel="stylesheet" type="text/css" href="http://www.videoelephant.com/data//css/jquery.wysiwyg.css">
 	
- 
-    
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var checkItemsType = false;</script>
+	<script type="text/javascript">
+	var checkItemsType = false;
+	var data_server = 'http://www.videoelephant.com/data/';
+	</script>
 	
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.cookie.js"></script>
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.jqtransform.js"></script>
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.fancybox.js"></script>
-	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/tipsy/jquery.tipsy.js"></script>
+	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.tipTip.min.js"></script>
+	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/jquery.wysiwyg.js"></script>
+	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery/tooltip/jquery.tooltip.js"></script>
 	<script type="text/javascript" src="http://www.videoelephant.com/data//js/front.js"></script>
-	<script type="text/javascript" src="http://www.videoelephant.com/data//js/jquery.panda-uploader-1.0.1.min.js"></script>
-<!--[if IE]>
-<link rel="stylesheet" href="http://www.videoelephant.com/data//css/ie.css" type="text/css" />
-
-<![endif]-->
-
-	<!-- Google Analytics Code -->
+	<script type="text/javascript" src="http://www.videoelephant.com/data//js/cufon-yui.js"></script>
+	<script type="text/javascript" src="http://www.videoelephant.com/data//js/bebas-neue.fonts.js"></script>
+	
 	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-26271482-1']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+		Cufon.replace('h1, h2, h3, h4, h5, .welcome-text h1, .welcome-text h1 p');
 	</script>
+	
+	<script type="text/javascript">
+		var theImages = new Array();
 
+		//Random-loading images
+		theImages[0] = '/data/images/cataloguead.jpg' // Download Catalogue
+		theImages[1] = '/data/images/cataloguead2.jpg' // Download Catalogue	
+		
+		var j = 0;
+		var p = theImages.length;
+		var preBuffer = new Array();
+		
+		for (i = 0; i < p; i++){
+			preBuffer[i] = new Image();
+			preBuffer[i].src = theImages[i];
+		}
+
+		var whichImage = Math.round(Math.random()*(p-1));
+
+		function showImage(){
+			if(whichImage==0){
+				document.write('<img src="'+theImages[whichImage]+'" border=0 width=206 height=243>');
+			}
+			else if(whichImage==1){
+				document.write('<img src="'+theImages[whichImage]+'" border=0 width=206 height=243>');
+			}
+		}
+	</script>
+	<script type="text/javascript">
+		var theImages2 = new Array();
+			
+		theImages2[0] = '/data/images/natpe_2012_banner.jpg' // Content Markets
+		theImages2[1] = '/data/images/discopbannerad.jpg' // Content Markets
+		theImages2[2] = '/data/images/wcmbannerad.jpg' // Content Markets
+			
+		var j = 0;
+		var c = theImages2.length;
+		var preBuffer = new Array();
+			
+		for (i = 0; i < c; i++){
+		preBuffer[i] = new Image();
+		preBuffer[i].src = theImages2[i];
+		}
+		
+		var whichImage2 = Math.round(Math.random()*(c-1));
+		
+		function showImage2(){
+		if(whichImage2==0){
+			document.write('<img src="'+theImages2[whichImage2]+'" border=0 width=206 height=243>');
+		}
+		else if(whichImage2==1){
+			document.write('<img src="'+theImages2[whichImage2]+'" border=0 width=206 height=243>');
+		}
+		else if(whichImage2==2){
+			document.write('<img src="'+theImages2[whichImage2]+'" border=0 width=206 height=243>');
+		}
+		}	
+		</script>
+
+	
 </head>
-<body>
 
-  <div id="header">
-		<div class="content_holder">
-		
-			<a href="/" title=""><img src="http://www.videoelephant.com/data//images/logo.png" alt="" title="" id="logo"></a>
-			
-			<div id="breadcrumb"><a href="/" title="">Home</a> \ <a href="/pages/privacy_policy.html" title="">Privacy Policy</a></div>
-			
-			<div id="user">
-									<form method="post" action="/users/login/">
+<body>
+    <div class="top-line">
+
+
+        <div class="wrap">
+        				<a href="/" title="" class="left"><img src="http://www.videoelephant.com/data//uploads/logo/829c70f2c277b9356aac4bd5b8a3cc41.png" alt="" title=""></a>
+						<div id="breadcrumb"><a href="/" title="">Home</a> \ <a href="/pages/privacy_policy.html" title="">Privacy Policy</a></div>
+        
+							
+            <a class="big-btn signin right" href="javascript:void(0);">Sign in</a>
+            <a class="big-btn create-account right" href="/users/registration/">Create account <span class="right-line"></span></a>
+            <div class="login-box"> 
+            <form method="post" action="/users/login/">
 						<input type="submit" name="login" value="yes" style="display: none;">
-						<input type="hidden" name="login" value="yes">						
-						<input type="text" name="username" value="Username" onfocus="this.value='';">
-						<input type="password" name="password" value="Password" onfocus="this.value='';">
-						<a href="javascript: void(0);" onclick="$(this).parent().submit();" title="" class="btn-small sprite"><ins class="sprite">Login</ins></a>
-						<a href="/users/registration/" title="" class="btn-small sprite"><ins class="sprite">Registration</ins></a>
+						<input type="hidden" name="login" value="yes">	
+						Username <br>					
+						<input type="text" name="username"><br>
+						Password <br>
+						<input type="password" name="password"><br>
+						Forgot
+						<a href="/users/lost_username/">Username</a>
+						/
+						<a href="/users/reset_password/">Password</a>
+						
+						<br>
+						<br>
+						<a href="javascript: void(0);" onclick="$(this).parent().submit();" title="" class="blue-btn">Login</a>
 					</form>
-							</div>
-			
-			<div class="clear"></div>
-		
-		</div>
-  </div> <!-- end of header -->
-  
-  <div id="menu">
+            </div>
+                    </div><!--wrap-->
+
+    </div><!--top-line -->
+   
+	<div class="clr"></div>
+        
+    <div id="menu">
 		<div class="content_holder">
 			
 			<ul id="menu_links">
-				<li>
-					<a href="javascript: void(0);" title="" class="cat-button"><em>Categories</em> <span class="sprite"></span></a>
-					<ul>
-	          <li class="first"><a href="/categories/all">All Videos</a></li>
-	          	          	            		<li><a href="/categories/540/Bundles-Packages.html">Bundles/Packages</a></li>
-            	            		<li><a href="/categories/356/Celebrity.html">Celebrity</a></li>
-            	            		<li><a href="/categories/545/Comedy.html">Comedy</a></li>
-            	            		<li><a href="/categories/362/Documentaries.html">Documentaries</a></li>
-            	            		<li><a href="/categories/378/Fashion.html">Fashion</a></li>
-            	            		<li><a href="/categories/397/Food-&amp;-Drink.html">Food &amp; Drink</a></li>
-            	            		<li><a href="/categories/418/Health.html">Health</a></li>
-            	            		<li><a href="/categories/426/Home-&amp;-Garden.html">Home &amp; Garden</a></li>
-            	            		<li><a href="/categories/583/How-To-.html">How To </a></li>
-            	            		<li><a href="/categories/585/Movies-.html">Movies </a></li>
-            	            		<li><a href="/categories/459/Music.html">Music</a></li>
-            	            		<li><a href="/categories/469/Natural-World.html">Natural World</a></li>
-            	            		<li><a href="/categories/529/News.html">News</a></li>
-            	            		<li><a href="/categories/476/Science.html">Science</a></li>
-            	            		<li><a href="/categories/491/Sports.html">Sports</a></li>
-            	            		<li><a href="/categories/504/Technology.html">Technology</a></li>
-            	            		<li><a href="/categories/550/TV-Series-.html">TV Series </a></li>
-            	            		<li><a href="/categories/342/Travel.html">Travel</a></li>
-            	            		<li><a href="/categories/521/Webisodes-&amp;-Vloggers.html">Webisodes &amp; Vloggers</a></li>
-            	            	          <li class="gray last"><a href="/categories/">(More categories)</a></li>
-					</ul>
-				</li>
-                	        		<li><a href="/pages/buyers.html"><em>Buyers</em> </a>
-        		        		</li>
-        		
-        		        		<li><a href="/categories/"><em>Videos</em> <span class="sprite"></span></a>
-	            <ul>
-	              <li class="first"><a href="/categories/">Browse Categories</a></li>
-	              <li><a href="/items/top_sellers/">Popular Files</a></li>
-	              <li><a href="/items/feature/">Featured Files</a></li>
-	              <li><a href="/collections/">Public collection</a></li>
-	              <li class="last"><a href="/users/top/">Top Producers</a></li>
-               </ul>
-		        </li>		        		
-        		        	        		<li><a href="/pages/Producers.html"><em>Producers</em> </a>
-        		        		</li>
-        		
-        		        	        		<li><a href="/pages/about_us2.html"><em>About</em> <span class="sprite"></span></a>
-        			            <ul>
-	            	            	<li class="first"><a href="/pages/about_us3.html">About Us</a></li>
-	            	            	<li><a href="/pages/faq3.html">FAQ's</a></li>
-	            	            	<li class="last"><a href="/pages/contact.html">Contact Us</a></li>
-	            	            </ul>
-        		        		</li>
-        		
-        		        	        			</ul>
-			
-			<form class="sprite_vert" method="get" action="/search/">
-				<input type="text" name="term" value="Video Search..." onfocus="this.value='';" class="inp" autocomplete="off">
+			<li>
+				<a href="/categories/" title="" class="cat-button"><em>Categories</em> <span class="sprite"></span></a>
+				<ul>
+				  <li class="first"><a href="/categories/all">All Videos</a></li>
+																		<li><a href="/categories/540/Bundles-Packages.html">Bundles/Packages</a></li>
+													<li><a href="/categories/356/Celebrity.html">Celebrity</a></li>
+													<li><a href="/categories/545/Comedy.html">Comedy</a></li>
+													<li><a href="/categories/362/Documentaries.html">Documentaries</a></li>
+													<li><a href="/categories/378/Fashion.html">Fashion</a></li>
+													<li><a href="/categories/397/Food-&amp;-Drink.html">Food &amp; Drink</a></li>
+													<li><a href="/categories/418/Health.html">Health</a></li>
+													<li><a href="/categories/583/How-To-.html">How To </a></li>
+													<li><a href="/categories/585/Movies-.html">Movies </a></li>
+													<li><a href="/categories/459/Music.html">Music</a></li>
+													<li><a href="/categories/469/Natural-World.html">Natural World</a></li>
+													<li><a href="/categories/529/News.html">News</a></li>
+													<li><a href="/categories/476/Science.html">Science</a></li>
+													<li><a href="/categories/491/Sports.html">Sports</a></li>
+													<li><a href="/categories/550/TV-Series-.html">TV Series </a></li>
+													<li><a href="/categories/342/Travel.html">Travel</a></li>
+													<li><a href="/categories/521/Webisodes-&amp;-Vloggers.html">Webisodes &amp; Vloggers</a></li>
+															  <li class="gray last"><a href="/categories/">(More categories)</a></li>
+				</ul>
+			</li>
+
+													<li>
+						<a href="/pages/about_us2.html">About</a>
+														<ul>
+																	<li><a href="/pages/about_us3.html">About Us</a></li>
+																	<li><a href="/pages/contact.html">Contact Us</a></li>
+															</ul>
+											</li>
+									<li>
+						<a href="/pages/buyers.html">Buyers</a>
+														<ul>
+																	<li><a href="/pages/how_it_works.html">How It Works</a></li>
+																	<li><a href="/pages/buyers_rights.html">Buyers Rights</a></li>
+															</ul>
+											</li>
+									<li>
+						<a href="/pages/Producers.html">Producers</a>
+												</li>
+									<li>
+						<a href="/pages/help.html">Help</a>
+														<ul>
+																	<li><a href="/pages/privacy_policy.html">Privacy Policy</a></li>
+																	<li><a href="/pages/Frequently Asked Questions.html">FAQs</a></li>
+															</ul>
+											</li>
+										        
+            </ul>
+      
+		<form class="sprite_vert" method="get" action="/search/">
+				<input type="text" name="term" value="Start Searching..." onfocus="this.value='';" class="inp" autocomplete="off">
 				<button type="submit" name="sb" class="sprite"></button>
 				<div class="clear"></div>
 				
@@ -145,7 +208,6 @@
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[378]" value="1" checked="checked" disabled="disabled"> Fashion</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[397]" value="1" checked="checked" disabled="disabled"> Food &amp; Drink</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[418]" value="1" checked="checked" disabled="disabled"> Health</label>
-            	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[426]" value="1" checked="checked" disabled="disabled"> Home &amp; Garden</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[583]" value="1" checked="checked" disabled="disabled"> How To </label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[585]" value="1" checked="checked" disabled="disabled"> Movies </label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[459]" value="1" checked="checked" disabled="disabled"> Music</label>
@@ -153,7 +215,6 @@
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[529]" value="1" checked="checked" disabled="disabled"> News</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[476]" value="1" checked="checked" disabled="disabled"> Science</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[491]" value="1" checked="checked" disabled="disabled"> Sports</label>
-            	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[504]" value="1" checked="checked" disabled="disabled"> Technology</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[550]" value="1" checked="checked" disabled="disabled"> TV Series </label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[342]" value="1" checked="checked" disabled="disabled"> Travel</label>
             	            		<label>&nbsp;&nbsp;&nbsp;<input class="allcats" type="checkbox" name="categories[521]" value="1" checked="checked" disabled="disabled"> Webisodes &amp; Vloggers</label>
@@ -168,16 +229,20 @@
 				</div> <!-- end of search-box -->
 				
 			</form>
-			
-		</div>
-	</div> <!-- end of menu -->
-  
-  <div class="content_holder border-bottom-white">
-  
+        </div>
+	</div>
+    <div class="clr"></div>
+	<div class="contentwrap">
+
+
+  <div class="wrap">
+ 
   	
       	
-		
-	<div class="single">
+		<div class="wrap">
+    <div class="listing-holder left pagepr">
+    <h2 class="title">Privacy Policy</h2>
+    <div class="clr"></div>
 		<p>
 	<strong>Privacy Policy</strong></p>
 <p>
@@ -216,9 +281,13 @@
 	If you wish to terminate your account with VideoElephant, please <a href="http://www.videoelephant.com/contacts/"><strong><u>contact us</u></strong></a>.</p>
 
 		<div class="clear"></div>  	
-	</div>		
-	</div> <!-- end of content_holder -->
+	</div>
+</div>		
+	</div> <!-- end of wrap -->
+	</div>
 	
+	<div class="clr"></div>
+	 
 	<div id="pre-footer">
 		<div class="content_holder">
 			
@@ -226,22 +295,21 @@
 				<a href="/" title=""><img src="http://www.videoelephant.com/data//images/logo.png" alt="" title="" id="flogo"></a>
 			</div> <!-- end of f-box -->
 			
-			<div class="f-box f-box-no-members">
-				<h4>Videoelephant Members</h4>
-				<h1>1215</h1>
+			<div class="f-box f-box-no-members" style="display: none">
+				<h4>Marketplace Members</h4>
+				<div class="counts">1235</div>
 			</div> <!-- end of f-box -->
 			
-			<div class="f-box f-box-no-items">
-				<h4>Total Videoelephant Items</h4>
-				<h1>11498</h1>
+			<div class="f-box f-box-no-items" style="display: none">
+				<h4>Total Marketplace Items</h4>
+				<div class="counts">11523</div>
 			</div> <!-- end of f-box -->
 			
 			<div class="clear"></div>
 			
 		</div>
 	</div> <!-- end of pre-footer -->
-	
-	<div id="footer">
+ 	<div id="footer">
 		<div class="content_holder">
 			
 			<div class="f-box w260">
@@ -259,8 +327,6 @@
   					<br>
         	        		<a href="/categories/418/Health.html" class="footer-list">Health</a>
   					<br>
-        	        		<a href="/categories/426/Home-&amp;-Garden.html" class="footer-list">Home &amp; Garden</a>
-  					<br>
         	        		<a href="/categories/583/How-To-.html" class="footer-list">How To </a>
   					<br>
         	        		<a href="/categories/585/Movies-.html" class="footer-list">Movies </a>
@@ -274,8 +340,6 @@
         	        		<a href="/categories/476/Science.html" class="footer-list">Science</a>
   					<br>
         	        		<a href="/categories/491/Sports.html" class="footer-list">Sports</a>
-  					<br>
-        	        		<a href="/categories/504/Technology.html" class="footer-list">Technology</a>
   					<br>
         	        		<a href="/categories/550/TV-Series-.html" class="footer-list">TV Series </a>
   					<br>
@@ -319,7 +383,7 @@
 			<div class="clear"></div>
 			
 			<div id="copyrights">
-				Copyright © 2011 videoelephant.com &nbsp;|&nbsp; <a href="/pages/terms" title="">Terms Of Use</a> &nbsp;|&nbsp; <a href="/pages/privacy_policy" title="">Privacy Policy</a>
+				COPYRIGHT © 2012 videoelephant.com &nbsp;|&nbsp; <a href="/pages/terms" title="">TERMS OF USAGE</a> &nbsp;|&nbsp; <a href="/pages/privacy_policy" title="">Privacy Policy</a>
 				&nbsp;&nbsp;
 				
 			</div>
@@ -328,21 +392,37 @@
 	
     </div> <!-- end of footer -->
 	
+<script type="text/javascript"> 
+		
 
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=6852033; 
-var sc_invisible=1; 
-var sc_security="ebd34599"; 
-</script>
+	$(document).ready(function() {
+		 var position = '';
+		    $(".signin").click(function(e) {          
+			  e.preventDefault();
+			  if(!$(this).hasClass('active')) {
+			   position = $(".signin").css('position');
+			         $(".login-box").toggle();
+			   $(".signin").toggleClass("active");
+			   $(".signin").css({'z-index':9999, 'position':'relative'});
+			  }
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="customizable counter"
-href="http://statcounter.com/free_hit_counter.html"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6852033/0/ebd34599/1/"
-alt="customizable counter" ></a></div></noscript>
-<!-- End of StatCounter Code -->
+			  return false;
+		    });
+		 
+		 $(".login-box").mouseup(function() {
+		  return false;
+		 });
+		 $(document).mouseup(function(e) {
+		  if($(e.target).parent("a.signin").length==0) {
+		   $(".signin").removeClass("active");
+		   $(".login-box").hide();
+		   $(this).css('z-index','').css('position',position);
+		  }
+		 });   
+		 
+		});
+	
+	</script>
 
 
 </body></html>
