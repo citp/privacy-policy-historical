@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006151045id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129175314id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Cam.com ~ Privacy
 
