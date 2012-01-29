@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227020423id_/http%3A//svpply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svpply.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129184820id_/https%3A//svpply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Svpply
 
