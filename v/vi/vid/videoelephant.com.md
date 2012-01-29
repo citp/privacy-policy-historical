@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the videoelephant.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228203610id_/http%3A//videoelephant.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoelephant.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129225546id_/http%3A//www.videoelephant.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - videoelephant.com
+
+## Privacy Policy
 
 **Privacy Policy**
 
