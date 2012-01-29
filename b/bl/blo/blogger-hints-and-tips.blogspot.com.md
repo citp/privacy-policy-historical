@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008104746id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2012-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120129181004id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger-Hints-and-Tips
 
@@ -30,3 +30,7 @@ The DoubleClick DART cookie is used by Google in ads on publisher websites displ
 **For more information:**
 
 Queries about this policy should be sent to:  bloggerhintsandtips@gmail.com
+
+**HTML link code:**
+
+**BB (forum) link code:**
