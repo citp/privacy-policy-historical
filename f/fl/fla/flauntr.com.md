@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418001147id_/http%3A//www.flauntr.com/flauntr/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flauntr.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130215745id_/http%3A//www.flauntr.com/flauntr/privacy.jsp) for the most accurate reproduction.*
 
 # flauntR
+
+Die englischsprachige Version dieses Dokuments ist die rechtlich allein bindende Version. In Kürze werden wir Ihnen zu Ihrer Information eine deutsche Übersetzung dieses Dokuments zur Verfügung stellen.
 
 flauntR ("flauntR Inc.") is committed to protecting your privacy and recognizes that your privacy is important. The following privacy policy discloses our information-gathering and dissemination practices from our website and our flauntR service. By using our website or our flauntR service, you agree to be bound by the terms of this policy.
 
