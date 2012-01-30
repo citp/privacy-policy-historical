@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janesville.k12.wi.us privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229123213id_/http%3A//www.janesville.k12.wi.us/Home/tabid/124/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janesville.k12.wi.us privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130080533id_/http%3A//www.janesville.k12.wi.us/Home/tabid/124/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Janesville School District: Home Janesville Wisconsin
 
