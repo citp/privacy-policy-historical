@@ -1,21 +1,37 @@
-> *The following text is extracted and transformed from the desktoparchitect.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207005300id_/http%3A//desktoparchitect.com/index.htm%3Fpgname%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktoparchitect.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130030945id_/http%3A//www.desktoparchitect.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Desktop Architect
+# Privacy Policy
 
-Any and all information collected at this site will be kept strictly confidential and will not be soled, reused, rented, loaned, or otherwise disclosed. Any information given to this site will be held with the utmost care, and will not be used in ways that you have not consented to. If you have questions about this policy, please don't hesitate to contact me. 
+* **Overview**
 
-**Resale or disclosure of information to third parties:**
+Thank you for visiting www.desktoparchitect.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-> This site does not sell, rent, loan, trade, or lease any personal information collected, including e-mail lists. 
+* **What Type of Information We Collect**
 
-**Browser information collected on the website:**
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-> This site analyzes its website logs to constantly improve the value of the site. The site logs **are not personally identifiable** , and no attempt is made to link them with the individuals that actually browse the site. 
+The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
-**Use of cookies:**
+In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-> Cookies are used on this site to store advertising information. 
+* **Uses**
 
-**Privacy of the email list:**
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-> This site maintains an email list to keep members informed about new and information pertaining to our products. This site does not sell, rent, loan, trade, or lease the email addresses on our list to anyone. In addition the list is configured to only allow authorized members to post information. 
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
