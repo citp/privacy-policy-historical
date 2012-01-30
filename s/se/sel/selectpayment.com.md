@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221053250id_/http%3A//www.profitstars.com/Default.aspx%3FP%3D4a1efecc-b48f-4088-b527-0ba4646d4b84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectpayment.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130152401id_/http%3A//www.profitstars.com/Default.aspx%3FP%3D4a1efecc-b48f-4088-b527-0ba4646d4b84) for the most accurate reproduction.*
 
 # Profitstars.com
 
