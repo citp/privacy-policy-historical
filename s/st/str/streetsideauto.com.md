@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225233934id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetsideauto.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130052425id_/http%3A//www.streetsideauto.com/privacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Auto Parts, Car Parts, Truck Accessories, Truck Parts and Car Accessories at Streetsideauto.com
 
