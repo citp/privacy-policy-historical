@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227071426id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2012-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120130201432id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // ground(ctrl)
 
