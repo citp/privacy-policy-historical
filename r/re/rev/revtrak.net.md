@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202063128id_/http%3A//www.revtrak.com/company/security/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131153207id_/http%3A//www.revtrak.com/company/security/our-privacy-policy) for the most accurate reproduction.*
 
 # RevTrak - Privacy Policy | Online Processing Security | K12 School & City Payment Solutions
 
