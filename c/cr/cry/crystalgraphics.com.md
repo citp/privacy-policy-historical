@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008131105id_/http%3A//privacy-policy.truste.com/verified-policy/www.crystalgraphics.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalgraphics.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131024010id_/http%3A//privacy-policy.truste.com/verified-policy/www.crystalgraphics.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.crystalgraphics.com
 
