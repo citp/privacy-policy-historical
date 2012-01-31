@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dingorue.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209190440id_/http%3A//www.dingorue.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dingorue.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131170548id_/http%3A//www.dingorue.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
