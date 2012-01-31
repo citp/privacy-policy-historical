@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202014416id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplelettersworld.com privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131124700id_/http%3A//www.samplelettersworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SampleLettersWorld.com - Privacy Policy
+
+##  Privacy Policy 
 
 SampleLettersWorld.com takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -125,10 +127,3 @@ SampleLettersWorld.com does not send spam or sell email addresses. SampleLetters
 SampleLettersWorld.com is TRUSTe-certified. This certification applies to all English-language sites under the SampleLettersWorld.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact TRUSTe, an independent privacy organization. TRUSTe serves as a liaison with SampleLettersWorld.com to resolve your concern.
 
 #### If you have questions or suggestions, please complete a feedback form or you can contact us at:
-
-[](http://www.addthis.com/bookmark.php)
-
-| 
-
-  
-
