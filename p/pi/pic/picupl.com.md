@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picupl.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005201749id_/http%3A//picupl.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picupl.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201200452id_/http%3A//picupl.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PicUpl.com - Free Picture Image Hosting Upload » More Information » Privacy Policy
 
