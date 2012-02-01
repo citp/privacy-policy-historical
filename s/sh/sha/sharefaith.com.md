@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227043850id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201192721id_/http%3A//www.faithclipart.com/fca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
