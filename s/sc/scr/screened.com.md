@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308021908id_/https%3A//auth.whiskeymedia.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201093314id_/https%3A//auth.whiskeymedia.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
 
 # Whiskey Media
+
+##  Whiskey Media Privacy Policy 
 
 This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at privacy@whiskeymedia.com or send us a note to:
 
@@ -10,7 +12,7 @@ Attn: Mike Tatum
 San Francisco, CA 94111  
 
 
-## What We Collect and How We Use It
+### What We Collect and How We Use It
 
 ### User Account Data
 
@@ -26,15 +28,15 @@ If you are logged in when you post content on the site, the content will be iden
 
 ### Community Features
 
-#### User Profiles
+### User Profiles
 
 Once you have a user account, you may voluntarily provide other information to enhance your profile, including a photo or image, your name, city, date of birth, gender and political views. This information will be disclosed publicly on the site under your profile. You are not required to provide this information. We offer users the opportunity to provide this profile information in order to enhance the richness of our online community. We may use the information you provide us in your profile to customize your experience by showing you content relevant to your areas of interest or location.
 
-#### Your Posts
+### Your Posts
 
 It goes without saying that any personally identifiable information that you submit on any blog, discussion thread or elsewhere on the site can be read, collected, or used by other user of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to the website.
 
-#### Private Messaging
+### Private Messaging
 
 If you want to contact another Whiskey Media registered user, you may send a private message (PM) through the site. You will be identified to that user only by your user name, and we will not disclose your email address to that member or theirs to you.
 
@@ -58,19 +60,19 @@ We use third-party advertising companies to serve ads when you visit our site. W
 
 If we offer a contest or sweepstakes, we may ask for additional information such as name, address, and phone number in order to provide the winner with their prize. We would not use that information for any other purpose unless we receive consent at the time you provide the information.
 
-## Our Newsletters
+### Our Newsletters
 
 If you sign up to receive our newsletter, we will use your email address to send you newsletters.
 
-## Special Rules for Children
+### Special Rules for Children
 
 Children under the age of 13 are not eligible to become registered users. If you are under 18, we also ask that you not include any personal information in your user profile (such as your name, city or date of birth) or in your posts on the site.
 
-## Paid Memberships
+### Paid Memberships
 
 Whiskey Media offers paid memberships to our sites for users that pay us a yearly or monthly subscription. We will collect credit card and billing information when purchasing a membership to our sites. A billing address collected during the purchase of a subscription may be used to send confirmation information and other marketing materials. A shipping address is required in order to receive your T-shirt. We use a third party vendor to process the data and they are contractually required to protect the privacy and security of the data. We do not store any of the credit card information in our database.
 
-## Information Sharing
+### Information Sharing
 
 ### Third Parties
 
@@ -80,11 +82,11 @@ We will never provide your personally identifiable information to any third part
 
 We may hire third-parties to help us provide our services to you. These services may include technical services, customer support, email message deployment, data processing and other services. It may be necessary for us to provide these third parties with some of you personal information in order for them to fulfill their services. For example, we use a third party to send our e-mail newsletters, so if you sign up for a newsletter, we will provide them your email address and your first and last name as necessary to provide you with the newsletter. These third parties do no retain, share or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information to providing services to us.
 
-## Links to Other Sites
+### Links to Other Sites
 
 This web site contains links to other sites that are not owned or controlled by us, including links in advertisements. Please be aware that we are not responsible for the privacy practices of these sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site to which you provide information.
 
-## Investigating Potential Abuse
+### Investigating Potential Abuse
 
 We may use any information provided to us by a user, including personally identifiable information, along with any data gathered from our web logs and from third parties to conduct investigations, and we may disclose this information to third parties, including law enforcement officials, investigators, or private parties seeking to protect and enforce their rights; if
 
@@ -94,18 +96,18 @@ We may use any information provided to us by a user, including personally identi
 
 
 
-## Business Transfer
+### Business Transfer
 
 If we sell all or a portion of our business, we may transfer some or all of your information as a part of the sale.
 
-## Accessing and Changing Your Account Information
+### Accessing and Changing Your Account Information
 
 You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Whiskey Media account, send an email to support@whiskeymedia.com using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
 
-## Security
+### Security
 
 In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Whiskey Media account has been compromised, please email us at support@whiskeymedia.com.
 
-## Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 If we make a material change in the way we use the personal data of our users, we will modify our privacy policy and will describe the changes under "Changes to the Privacy Policy". Your use of the website after any published change signifies your consent to the application of the revised policy to all information contributed before or after the date of those changes.
