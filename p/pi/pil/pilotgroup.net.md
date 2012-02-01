@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224133id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201060036id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
 
 # Pilot Group - Privacy and Security
 
@@ -12,6 +12,11 @@ Our policies are created to maximize your enjoyment and benefit. Pilot Group Ltd
 Pilot Group LTD collects personally identifiable information from our users at several different points on our Web site. If a customer chooses to provide personally identifiable information to Pilot Group Ltd by making a purchase, faxing information, requesting additional information through email or telephone, or communicating directly with Pilot Group Ltd, this information remains secure and will not be used for anything other than the purpose for which it was obtained.
 
 We do not share, rent, sell or otherwise distribute customer information with other persons, companies, affiliates or organizations.
+
+ _Products and Services_  
+All products we develop and services we render can be found and purchased on our sites and on some other authorized resources. However there have been cases of unauthorized use of our trademark by third parties in order to distribute their own products or services of similar or even completely different nature.
+
+We ask you to be vigilant against such swindlers so as not to get scammed. If you come across a suspicious resource where products and/or services are offered on our behalf, please contact our [Support Team](http://www.pilotgroup.net/support/) to verify reliability of such resource before making any purchase.
 
  _Orders_  
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. To process an order made on our site, we require information such as your name, billing address, phone number, email address, shipping address and credit card information. This information is relayed to us via our shopping cart service and at our payment gateway billing page.
