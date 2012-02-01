@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231165341id_/http%3A//www.national.com/en/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201011252id_/http%3A//www.national.com/en/corporate/privacy.html) for the most accurate reproduction.*
 
 # National Semiconductor Web Site Private/Security Statement
 
