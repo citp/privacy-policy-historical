@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findacaller.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213113531id_/http%3A//findacaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacaller.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201143148id_/http%3A//findacaller.com/privacy.php) for the most accurate reproduction.*
 
 # findacal - Privacy Policy
 
@@ -8,7 +8,7 @@ Our postal address is
 **8970 Alanada Dr  
 Caledonia, MI, 49316**
 
-We can be reached via e-mail using [this webpage](https://web.archive.org/web/20111213113531id_/http%3A//findacaller.com/contact.php).
+We can be reached via e-mail using [this webpage](https://web.archive.org/web/20120201143148id_/http%3A//findacaller.com/contact.php).
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
