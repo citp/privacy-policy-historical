@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importgenius.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060226id_/http%3A//privacy-policy.truste.com/verified-policy/www.importgenius.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importgenius.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201134611id_/http%3A//privacy-policy.truste.com/verified-policy/www.importgenius.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.importgenius.com
 
