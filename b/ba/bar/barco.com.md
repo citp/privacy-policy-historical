@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230060101id_/http%3A//www.barco.com/en/AboutBarco/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201053456id_/http%3A//www.barco.com/en/AboutBarco/privacy.aspx) for the most accurate reproduction.*
 
 # Barco | About Barco | Privacy policy
 
