@@ -1,0 +1,468 @@
+<!--The following is the downloaded HTML source of the speexx.com privacy policy that was archived on 2012-02-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120201193830id_/http%3A//www.speexx.com/en/company/privacy-policy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head> 
+<title>Privacy Policy</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="../stylesheets/basic.css">
+<link rel="stylesheet" type="text/css" href="../stylesheets/navigation.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+ 
+<script type="text/javascript" src="../navigationmenu_dropdown.js"></script>
+<script type="text/javascript" src="../navmenu-config.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19176325-7']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body> 
+<div id="wrap"><!-- #BeginLibraryItem "/Library/MenuTop.lbi" --><script type="text/javascript" src="http://www.speexx.com/scripts/country-select.js?v20110909"></script>
+<table width="980" border="0" cellpadding="0" cellspacing="0" style="position: absolute; padding-right: 16px; padding-top: 5px; z-index: 14;">
+  <tbody><tr>
+    <td valign="top" align="right">
+  	  <table border="0" cellpadding="0" cellspacing="0" style="margin-left: auto;">
+    	 	<tbody><tr>
+     				<td valign="top" style="cursor:pointer; padding-right: 4px;"><img src="../images/icons/world-map-icon.png" vspace="3" hspace="0" border="0" align="right" onclick="showCountrySelect();"></td>
+				     <td valign="top" style="white-space: nowrap; padding-right: 16px;"><a class="topmenu" style="cursor:pointer;" onclick="showCountrySelect();">Choose your country</a></td>
+     				<td align="right" valign="top" style="white-space: nowrap; padding-right: 16px;"><a class="topmenu" href="../index.htm">Home</a></td>
+     				<td align="right" valign="top" style="white-space: nowrap; padding-right: 16px;"><a class="topmenu" href="../resources/request-free-trial-form.htm">Free Trial</a></td>
+     				<td align="right" valign="top" style="white-space: nowrap;"><a class="topmenu" href="global-offices.htm">Contact</a></td>
+			</tr>
+		</tbody></table>
+	  </td> 
+	 </tr>
+</tbody></table>
+<div id="countrySelect" style="position: absolute; margin-left: 30px; margin-top: 40px; width: 880px; background: none; z-index: 15; display: none;">
+    <div style="height: 46px; background: #000000;">
+        <div style="position: absolute; float: left; margin-left: 30px; margin-top: 14px;"><a href="http://www.speexx.com/en"><img src="../images/speexx.png" width="112" height="24" alt="speexx" border="0"></a></div>
+        <div style="cursor: pointer; position: absolute; margin-left: 854px; margin-top: 14px;" onclick="hideCountrySelect();">
+        <script type="text/javascript">
+            document.write('<img src="'+imagesPath+'/icons/close_grey.png" />');
+        </script>
+        </div>
+    </div>
+    <div style="background: #000000; filter: alpha(opacity=90); opacity: 0.90; overflow: auto; padding-left: 16px;">
+    <script type="text/javascript">
+        var entriespercol = 6;
+        var i = 0;
+        for (var country in countries) {
+            if (i % entriespercol == 0) {
+                document.writeln("<div style=\"float: left; padding: 16px; padding-right: 0px; width: 186px; color: #ffffff;\">");
+            }
+            var flagImage = '';
+            if (countries[country].flag) { flagImage = 'url(\''+imagesPath+'/flags/'+countries[country].flag+'\')'; }
+            document.write("<div style=\"padding-left: 26px; padding-top: 12px; background-image: "+flagImage+"; background-repeat: no-repeat; background-position: 0 12px; cursor: pointer; text-align: left;\"");
+            //document.write("<div style=\"padding-top: 12px;\"");
+            document.write(" onclick=\"setCountry('"+country+"');hideCountrySelect();\">");
+            if (countries[country].altName != '') {
+                document.write("<a class=\"topmenu\" style=\"font-size: 12px; color: #ffffff;\">"+country+" | "+countries[country].altName+"</a>");
+            } else {
+                document.write("<a class=\"topmenu\" style=\"font-size: 12px; color: #ffffff;\">"+country+"</a>");
+            }
+            document.writeln("</div>");
+            i++;
+            if (i % entriespercol == 0) { document.writeln("</div>"); }
+        }
+    </script>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var selectedCountry = getCountry();
+    if ((selectedCountry == '')&&(showCountry)) { selectedCountry = showCountry; }
+    var countryPhone = '';
+    var countryEmail = '';
+    if (countries[selectedCountry]) {
+        if (countries[selectedCountry].phone) { countryPhone = countries[selectedCountry].phone; }
+        if (countries[selectedCountry].email) { countryEmail = countries[selectedCountry].email; }
+    }
+    if ((countryPhone != '')||(countryEmail != '')) {
+        if (countries[selectedCountry].flag) {
+            document.writeln('<div style="position: absolute; margin-left: 821px; margin-top: 51px; z-index: 13; float: right; white-space: nowrap; padding-left: 24px; background-image: url(\''+imagesPath+'/flags/'+countries[selectedCountry].flag+'\'); background-repeat: no-repeat;">');
+        } else {
+            document.write('<div style="position: absolute; margin-left: 821px; margin-top: 51px; z-index: 13; float: right; white-space: nowrap;">');
+        }
+        if (countryPhone != '') {
+            document.writeln('<div style="color:#fff;">' + countryPhone + '</div>');
+        } else if (countryEmail != '') {
+            document.writeln('<div style="color:#fff;">' + countryEmail + '</div>');
+        }
+        document.writeln("</div>");
+    }
+</script><!-- #EndLibraryItem --><table class="header" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td width="980" height="298" align="left" valign="top" background="../images/header/company.png">
+      <script type="text/javascript">insert_navHtml("../");</script><div class="navigationBackground"></div>
+<div id="Logo" style="position: absolute; top: 47px; margin-left: 30px; z-index: 13;"><a href="http://www.speexx.com/en/"><img src="../images/speexx.png" width="112" height="24" alt="speexx" border="0"></a></div>
+<!-- Navigation-Background-Layer -->
+<div id="navigation_bg" class="navigation" style="position: absolute;">
+    <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+<td valign="top" align="left">
+    <div id="bg_dropdown_layer_1" class="dropdown" style="opacity: 0.9; filter: alpha(style=0, opacity=90);" onmouseout="hideDropdownLayer(0, 'dropdown_layer_1');" onmouseover="showDropdownLayer(0, 'dropdown_layer_1');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../online-language-training/blended-learning.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Why Blended Learning?</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products.htm" class="dropdownEntry">Our Product Overview</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-basic.htm" class="dropdownEntry">Speexx Basic - Self-paced Training </a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-coach.htm" class="dropdownEntry">Speexx Coach - 24/7 Personal Tutor</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-live.htm" class="dropdownEntry">Speexx Live - Live Online</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-phone.htm" class="dropdownEntry">Speexx Phone - One-on-One</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-class.htm" class="dropdownEntry">Speexx Class - Face-to-Face</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_1');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_1');" class="navmenu">Online Language Training</a>
+</td>
+<td valign="top" align="left">
+    <div id="bg_dropdown_layer_2" class="dropdown" style="opacity: 0.9; filter: alpha(style=0, opacity=90);" onmouseout="hideDropdownLayer(0, 'dropdown_layer_2');" onmouseover="showDropdownLayer(0, 'dropdown_layer_2');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../innovation/language-learning-technology.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Technology</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/global-standard-in-online-language-learning.htm" class="dropdownEntry">One Global Standard</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/leading-method-in-online-language-learning.htm" class="dropdownEntry">The Leading Method</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/scorm-aicc-compliance.htm" class="dropdownEntry">SCORM/AICC Standard</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_2');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_2');" class="navmenu">Innovation</a>
+</td>
+<td valign="top" align="left">
+    <div id="bg_dropdown_layer_3" class="dropdown" style="opacity: 0.9; filter: alpha(style=0, opacity=90);" onmouseout="hideDropdownLayer(0, 'dropdown_layer_3');" onmouseover="showDropdownLayer(0, 'dropdown_layer_3');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../results/corporate-language-training-benefits-overview.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Top 10 Key Benefits</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/online-language-training-business-results.htm" class="dropdownEntry">Business Results</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/software-satisfaction-awards-results.htm" class="dropdownEntry">Global Services</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/corporate-language-training-clients.htm" class="dropdownEntry">Clients and References</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/corporate-language-training-testimonials.htm" class="dropdownEntry">Testimonials</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_3');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_3');" class="navmenu">Results</a>
+</td>
+<td valign="top" align="left">
+    <div id="bg_dropdown_layer_4" class="dropdown" style="opacity: 0.9; filter: alpha(style=0, opacity=90);" onmouseout="hideDropdownLayer(0, 'dropdown_layer_4');" onmouseover="showDropdownLayer(0, 'dropdown_layer_4');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../resources/corporate-language-training-brochures.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Brochures</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-case-studies.htm" class="dropdownEntry">Customer Spotlight</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-online-magazine.htm" class="dropdownEntry">Online Magazine Resource</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-podcast.htm" class="dropdownEntry">Business Podcast</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/events.htm" class="dropdownEntry">Events and Seminars</a></td></tr>
+            </tbody></table></td>
+            <td style="padding:0px 0px 0px 16px;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../resources/next-steps.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Next Steps</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/newsletter-form.htm" class="dropdownEntry">News Updates</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/language-training-demo-video-center.htm" class="dropdownEntry">Video Tours</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/schedule-live-demo-form.htm" class="dropdownEntry">Schedule Live Demo</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_4');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_4');" class="navmenu">Resources</a>
+</td>
+<td valign="top" align="left">
+    <div id="bg_dropdown_layer_5" class="dropdown" style="opacity: 0.9; filter: alpha(style=0, opacity=90);" onmouseout="hideDropdownLayer(0, 'dropdown_layer_5');" onmouseover="showDropdownLayer(0, 'dropdown_layer_5');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../company/about-dp.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">About dp</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/executive-team.htm" class="dropdownEntry">Management Team</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/jobs.htm" class="dropdownEntry">Employment</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/channel-partner-application-form.htm" class="dropdownEntry">Channel Partner Information</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../news/news.htm" class="dropdownEntry">News</a></td></tr>
+            </tbody></table></td>
+            <td style="padding:0px 0px 0px 16px;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../company/going-green.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Going Green</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/awards.htm" class="dropdownEntry">Awards and Recognition</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/contact.htm" class="dropdownEntry">Contact Us</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_5');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_5');" class="navmenu">Company</a>
+</td>
+            </tr>
+    </tbody></table>
+</div>
+<!-- Navigation-Foreground-Layer -->
+<div id="navigation" class="navigation" style="position: absolute; opacity: 0.5; filter: alpha(style=0, opacity=50);">
+    <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+<td valign="top" align="left">
+    <div id="dropdown_layer_1" class="dropdown" style="visibility: hidden;" onmouseout="hideDropdownLayer(0, 'dropdown_layer_1');" onmouseover="showDropdownLayer(0, 'dropdown_layer_1');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../online-language-training/blended-learning.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Why Blended Learning?</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products.htm" class="dropdownEntry">Our Product Overview</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-basic.htm" class="dropdownEntry">Speexx Basic - Self-paced Training </a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-coach.htm" class="dropdownEntry">Speexx Coach - 24/7 Personal Tutor</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-live.htm" class="dropdownEntry">Speexx Live - Live Online</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-phone.htm" class="dropdownEntry">Speexx Phone - One-on-One</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../online-language-training/our-products-speexx-class.htm" class="dropdownEntry">Speexx Class - Face-to-Face</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_1');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_1');" class="navmenu">Online Language Training</a>
+</td>
+<td valign="top" align="left">
+    <div id="dropdown_layer_2" class="dropdown" style="visibility: hidden;" onmouseout="hideDropdownLayer(0, 'dropdown_layer_2');" onmouseover="showDropdownLayer(0, 'dropdown_layer_2');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../innovation/language-learning-technology.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Technology</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/global-standard-in-online-language-learning.htm" class="dropdownEntry">One Global Standard</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/leading-method-in-online-language-learning.htm" class="dropdownEntry">The Leading Method</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../innovation/scorm-aicc-compliance.htm" class="dropdownEntry">SCORM/AICC Standard</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_2');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_2');" class="navmenu">Innovation</a>
+</td>
+<td valign="top" align="left">
+    <div id="dropdown_layer_3" class="dropdown" style="visibility: hidden;" onmouseout="hideDropdownLayer(0, 'dropdown_layer_3');" onmouseover="showDropdownLayer(0, 'dropdown_layer_3');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../results/corporate-language-training-benefits-overview.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Top 10 Key Benefits</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/online-language-training-business-results.htm" class="dropdownEntry">Business Results</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/software-satisfaction-awards-results.htm" class="dropdownEntry">Global Services</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/corporate-language-training-clients.htm" class="dropdownEntry">Clients and References</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../results/corporate-language-training-testimonials.htm" class="dropdownEntry">Testimonials</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_3');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_3');" class="navmenu">Results</a>
+</td>
+<td valign="top" align="left">
+    <div id="dropdown_layer_4" class="dropdown" style="visibility: hidden;" onmouseout="hideDropdownLayer(0, 'dropdown_layer_4');" onmouseover="showDropdownLayer(0, 'dropdown_layer_4');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../resources/corporate-language-training-brochures.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Brochures</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-case-studies.htm" class="dropdownEntry">Customer Spotlight</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-online-magazine.htm" class="dropdownEntry">Online Magazine Resource</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/corporate-language-training-podcast.htm" class="dropdownEntry">Business Podcast</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/events.htm" class="dropdownEntry">Events and Seminars</a></td></tr>
+            </tbody></table></td>
+            <td style="padding:0px 0px 0px 16px;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../resources/next-steps.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Next Steps</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/newsletter-form.htm" class="dropdownEntry">News Updates</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/language-training-demo-video-center.htm" class="dropdownEntry">Video Tours</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/schedule-live-demo-form.htm" class="dropdownEntry">Schedule Live Demo</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_4');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_4');" class="navmenu">Resources</a>
+</td>
+<td valign="top" align="left">
+    <div id="dropdown_layer_5" class="dropdown" style="visibility: hidden;" onmouseout="hideDropdownLayer(0, 'dropdown_layer_5');" onmouseover="showDropdownLayer(0, 'dropdown_layer_5');">
+        <table class="navigationTable" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr>
+            <td style="padding:0px;;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../company/about-dp.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">About dp</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/executive-team.htm" class="dropdownEntry">Management Team</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/jobs.htm" class="dropdownEntry">Employment</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/channel-partner-application-form.htm" class="dropdownEntry">Channel Partner Information</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../news/news.htm" class="dropdownEntry">News</a></td></tr>
+            </tbody></table></td>
+            <td style="padding:0px 0px 0px 16px;" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="left" valign="top"><a href="../company/going-green.htm" class="dropdownEntry" style="font-size:12px; font-weight:normal; display:block; margin-bottom:2px;">Going Green</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/awards.htm" class="dropdownEntry">Awards and Recognition</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../company/contact.htm" class="dropdownEntry">Contact Us</a></td></tr>
+                <tr><td align="left" valign="top"><a href="../resources/request-free-trial-form.htm" class="dropdownEntry">14-Day Free Trial</a></td></tr>
+            </tbody></table></td>
+        </tr>
+        </tbody></table>
+    </div>
+    <a onmouseover="showDropdownLayer(0, 'dropdown_layer_5');" onmouseout="hideDropdownLayer(0, 'dropdown_layer_5');" class="navmenu">Company</a>
+</td>
+            </tr>
+    </tbody></table>
+</div>
+<img src="../images/header/header_privacy-policy.png" width="980" height="298" hspace="0" vspace="0" align="top">
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="980">
+  <tbody><tr>
+    <td style="vertical-align:top" width="648">
+      <!-- linke Spalte -->
+      <table border="0" cellspacing="0" cellpadding="0" class="content">
+      <tbody><tr>
+                <td><font class="teaser">
+Your use of this website indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy Statement.</font> 
+<br>
+<h2>What information about you do we collect?</h2> 
+When you visit our website, you may provide us with two types of information: <br>
+<br>
+(1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and <br>
+<br>(2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our website's content or services. 
+<br><br>
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about digital publishing AG, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+<br><br>
+Portions of this website use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+<br>
+You can deactivate Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on. Please click <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">here</a> for more information.
+<br>
+This website uses Google Analytics with the advanced "_anonymizeIp()" extension, thus your IP address is abbreviated before being sent to Google so as to prevent the data from being tracked back to you. 
+
+<h2>Non-personally identifiable information we collect</h2>
+Cookies/web server logs: Similar to other commercial websites, our website utilizes standard technology called "cookies" and web server logs to collect information about how our website is used. Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a website. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and just after our website. This information is collected on an aggregate basis. None of this information is associated with you as an individual.<br>
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+<h2>How do we use the information we collect?</h2>
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an e-mail through our "Contact" link.
+We use non-identifying information collected on our website in the aggregate to better understand your use of the website and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our website or to analyze the programs and services that we offer.<br>
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
+We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this website or the public. In those instances, the information is provided only for that limited purpose.<br>
+We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
+<h2>How do you access and/or modify your information or choices?</h2>
+If you visit our website and volunteer personally identifiable information, you may modify, update or delete such information at any time by clicking on the "Contact" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our website.
+<h2>Privacy protections for children using the internet</h2>
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our website from those we actually know are under the age of 13, nor is any part of our website targeted to attract anyone under 13. We request that all visitors to our website who are under 13 do not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.
+<h2>Data security</h2>
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+<h2>Consent to transfer</h2>
+This website is operated in the Federal Republic of Germany. If you are located outside of the Federal Republic of Germany, please be aware that any information you provide to us will be transferred to the Federal Republic of Germany. By using our website, participating in any of our services and/or providing us with your information, you consent to this transfer.
+<h2>Links</h2>
+This website contains links to third party sites as well as to other sites owned and/or operated by digital publishing AG. Please be aware that digital publishing is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other digital publishing sites may differ significantly from the privacy policy of this website. Therefore, we encourage our users to read the privacy statement of each and every website that collects personally identifiable information. This Privacy Statement applies solely to information collected by this website. </td>
+        </tr>
+      </tbody></table>          
+          
+    </td>
+           
+  
+   
+        <!-- rechte Spalte -->
+        <td valign="top" width="316">
+        <!-- rechte Spalte Objekte --><!-- #BeginLibraryItem "/Library/Get.More.Info.Buttons.lbi" --><table class="info-box" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	  <td class="content-text-box" style="padding-left:16px"><br>
+      <font class="box-teaser">What can we do for you today?</font>
+      <form style="margin: 0px; margin-top: 8px;" action="../resources/schedule-live-demo-form.htm">
+        <input class="button-large" type="submit" value="Schedule Online Demo">
+						</form>
+      <form style="margin: 0px;" action="../resources/language-training-demo-video-center.htm">
+        <input class="button-large" type="submit" value="Take a Video Tour">
+						</form>
+      <form style="margin: 0px; margin-bottom: 16px;" action="../resources/request-free-trial-form.htm">
+        <input class="button-large" type="submit" value="Get a 14-Day Free Trial">
+						</form> 
+   </td>
+  </tr>
+</tbody></table>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/fairs-tradeshows.lbi" --><table class="info-box" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr><td class="content-text-box"><a href="../resources/events.htm"><img src="../images/boxes/meet-us.jpg" hspace="0" vspace="0" border="0" align="left" style="padding-right:16px"></a><br>
+      <a href="../resources/events.htm"><font class="box-teaser">Looking forward to seeing you!</font></a><br>
+      <br>
+      All around the globe at one of more than 120 webinars and learning events.
+	  <a href="../resources/events.htm"><img src="../images/icons/pfeil.gif" hspace="0" vspace="0" border="0"></a>
+	  </td>
+  </tr>
+</tbody></table> <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/testimonial_Lufthansa.lbi" --><table class="info-box" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td class="content-text-box"><img src="../images/boxes/Lufthansa.jpg" hspace="0" vspace="0" border="0" align="left" style="padding-right:16px"><br>
+          	<br>"The feedback from our staff is extremely positive."<br><br>
+			<i> Kathrin Kinzer, Lufthansa School of Business </i>
+		</td>
+     </tr>
+</tbody></table><!-- #EndLibraryItem --></td>
+  </tr>
+</tbody></table>
+<!-- #BeginLibraryItem "/Library/Menu_Bottom_Sitemap.lbi" --><table class="bottom-line" border="0" cellspacing="0" cellpadding="0" width="980">
+  <tbody><tr> 
+    <td width="30"></td>
+    <td style="padding-top:10px" ;="" width="190px" align="left" valign="top" class="bodenmenu"><b> Online Language Training</b><br>
+      <a class="bodenmenu" href="../online-language-training/blended-learning.htm">Why Blended Learning?</a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products.htm">Our Product Overview</a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products-speexx-basic.htm">Speexx Basic - Self-paced Training  </a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products-speexx-coach.htm">Speexx Coach - 24/7 Personal Tutor</a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products-speexx-live.htm">Speexx Live - Live Online</a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products-speexx-phone.htm">Speexx Phone - One-on-One  </a><br>
+      <a class="bodenmenu" href="../online-language-training/our-products-speexx-class.htm">Speexx Class - Face-to-Face</a>
+    </td>
+    <td style="padding-top:10px" ;="" width="190px" align="left" valign="top" class="bodenmenu"><b>Innovation in Learning</b><br>
+      <a class="bodenmenu" href="../innovation/language-learning-technology.htm">Learning Technology</a><br>
+      <a class="bodenmenu" href="../innovation/global-standard-in-online-language-learning.htm">One Global Standard  </a><br>
+      <a class="bodenmenu" href="../innovation/leading-method-in-online-language-learning.htm">The Leading Method CEFR</a><br>
+      <a class="bodenmenu" href="../innovation/scorm-aicc-compliance.htm">SCORM/AICC Compliance</a>  
+    </td>
+    <td style="padding-top:10px" ;="" width="190px" align="left" valign="top" class="bodenmenu"><b>Business Results</b><br>
+      <a class="bodenmenu" href="../results/corporate-language-training-benefits-overview.htm">Top 10 Key Benefits</a><br>
+      <a class="bodenmenu" href="../results/online-language-training-business-results.htm">Results</a><br>
+      <a class="bodenmenu" href="../results/software-satisfaction-awards-results.htm">Software Satisfaction Guaranteed</a><br>
+      <a class="bodenmenu" href="../results/corporate-language-training-clients.htm">Clients &amp; References</a><br>
+      <a class="bodenmenu" href="../results/corporate-language-training-testimonials.htm">Testimonials</a><br>
+    </td>
+    <td style="padding-top:10px" ;="" width="190px" align="left" valign="top" class="bodenmenu"><b>Resources</b><br>
+      <a class="bodenmenu" href="../resources/corporate-language-training-brochures.htm">Brochures and Fact Sheets</a><br>
+      <a class="bodenmenu" href="../resources/corporate-language-training-case-studies.htm">Customer Spotlight </a><br>
+      <a class="bodenmenu" href="../resources/events.htm">Events and Seminars</a><br>
+      <a class="bodenmenu" href="../resources/corporate-language-training-online-magazine.htm">Online Magazines</a><br>
+      <a class="bodenmenu" href="../resources/corporate-language-training-podcast.htm">Business Podcast</a><br>
+      <a class="bodenmenu" href="../resources/language-training-demo-video-center.htm">Take Video Tour</a><br>
+      <a class="bodenmenu" href="../resources/events.htm">Free! Power Up your <br> HR English</a><br>
+      <br><b>Next Steps</b><br>
+      <a class="bodenmenu" href="../resources/schedule-live-demo-form.htm">Schedule Online Demo </a><br>
+      <a class="bodenmenu" href="../resources/request-free-trial-form.htm">14-Day Free Trial </a><br>
+      <a class="bodenmenu" href="../resources/language-training-demo-video-center.htm">Take Video Tour </a> <br>
+      <a class="bodenmenu" href="Channel-Partner-Application-form.htm">Channel Partner Info  </a>
+    </td>
+    <td style="padding-top:10px" ;="" width="190px" align="left" valign="top" class="bodenmenu"><b>About Us</b><br>
+      <a class="bodenmenu" href="about-dp.htm">About the Company </a><br>
+						<a class="bodenmenu" href="dp-behind-the-scenes.htm">Behind the Scenes </a><br>
+      <a class="bodenmenu" href="Awards.htm">Awards and Recognition </a><br>
+      <a class="bodenmenu" href="contact.htm">Contact Us</a><br>
+      <a class="bodenmenu" href="../news/news.htm">News</a><br>
+						<a class="bodenmenu" href="going-green.htm">Going Green</a><br>
+      <a class="bodenmenu" href="disclaimer.htm">Disclaimer</a><br>
+      <a class="bodenmenu" href="privacy-policy.htm">Privacy Policy</a><br>
+      <a class="bodenmenu" href="jobs.htm">Employment</a>
+     <br><br>
+     © 2011 digital publishing AG. <br>
+     All Rights Reserved.
+     <br><br>   
+      <a href="http://www.facebook.com/pages/Speexx/141672709262631" target="_blank"><img src="../images/icons/facebook.png" width="24" height="24" border="0"></a> 
+						<a href="http://www.linkedin.com/companies/109940" target="_blank"><img src="../images/icons/linkedin.png" width="24" height="24" border="0"></a>
+						<a href="http://twitter.com/speexx" target="_blank"><img src="../images/icons/twitter.png" width="24" height="24" border="0"></a>  <g:plusone></g:plusone> 
+	</td>
+  </tr>
+</tbody></table><!-- #EndLibraryItem --></div>
+
+
+
+
+</body></html>
