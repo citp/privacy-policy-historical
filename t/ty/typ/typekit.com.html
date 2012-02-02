@@ -1,44 +1,20 @@
-<!--The following is the downloaded HTML source of the typekit.com privacy policy that was archived on 2011-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015083750id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the typekit.com privacy policy that was archived on 2012-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120202020556id_/https%3A//typekit.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Privacy Policy | Typekit</title>
-    <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="/5MJY4OtvDSW6lkL2RNb2nDI4zi6R2DnUyvF2XcIPIM=">
+    <meta content="authenticity_token" name="csrf-param">
+<meta content="G91QNy8SMTV8rZ5zfLiVHV8WA8NDPy04nCWGVgkdO74=" name="csrf-token">
     <meta name="keywords" content="font, fonts, free fonts, typekit, type kit, font kit, web fonts, webfonts, font type, online fonts, free online font, internet fonts, free internet fonts, script font, text font, bold font, best fonts, cool font, free cool fonts, beautiful font, free beautiful fonts, sans fonts, serif fonts, free text font, real fonts, font library, fonts for free, font-face">
 
-    <link href="/stylesheets/bundle-typekit.css?28a10966" media="screen" rel="stylesheet" type="text/css">
-    <script src="/javascripts/bundle-typekit.js?28a10966" type="text/javascript"></script>
+    <link href="/stylesheets/bundle-typekit.css?38700c5c" media="screen" rel="stylesheet" type="text/css">
+    <script src="/javascripts/bundle-typekit.js?38700c5c" type="text/javascript"></script>
+    
     
     
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
   <body class="static-pages static-pages-show">
-    <ul class="persistent-notifications">
-  <li id="adobe-announcement" class="persistent-notification-item dismissable" style="display: none">
-    <span class="content">Big news! Typekit has been acquired by Adobe. <a href="http://blog.typekit.com/2011/10/03/adobe-acquires-typekit">Read more</a>.</span>
-  </li>
-</ul>
-<script type="text/javascript">
-//<![CDATA[
-  (function() {
-    if (!$.cookie('tk_adobe_announcement_dismissed')) {
-      var $announcement = $('#adobe-announcement').show();
-
-      var $dismiss = $('<a>').attr('href', '#dismiss').addClass('dismiss-link').html('&times;');
-      $announcement.find('.content').append($dismiss);
-
-      $dismiss.click(function(e) {
-        e.preventDefault();
-        $announcement.slideUp();
-        $.cookie('tk_adobe_announcement_dismissed', 'true', { expires: 60 });
-      });
-    }
-  })();
-//]]>
-</script>
-
-
     
 
     <div id="header-wrapper">
@@ -56,7 +32,7 @@
     <a href="/login" class="login-dropdown-button" data-bind="click: function() { open(!open()) }">Sign in</a>
   </div>
   <div class="login-dropdown-form">
-    <form action="https://typekit.com/login" method="POST" accept-charset="utf-8" class="prevent-double-submit-form"><input type="hidden" name="_method" value="PUT"><input type="hidden" name="authenticity_token" value="/5MJY4OtvDSW6lkL2RNb2nDI4zi6R2DnUyvF2XcIPIM=">
+    <form action="https://typekit.com/login" method="POST" accept-charset="utf-8" class="prevent-double-submit-form"><input type="hidden" name="_method" value="PUT"><input type="hidden" name="authenticity_token" value="G91QNy8SMTV8rZ5zfLiVHV8WA8NDPy04nCWGVgkdO74=">
       <div class="email">
         <label for="email">Email address</label>
         <input type="text" name="email" value="" id="email" data-bind="focusWhen: open">
@@ -84,14 +60,17 @@
       <div id="navigation" class="clearfix">
     <ul class="navigation-options">
         <li>
-          <a href="/tour" class="navigation-button">Feature Tour</a>
+          <a href="/tour" class="navigation-button">Tour</a>
         </li>
         <li>
           <a href="/plans" class="navigation-button">Pricing</a>
         </li>
       <li>
-        <a href="/libraries/full" class="navigation-button">Browse Fonts</a>
+        <a href="/fonts" class="navigation-button">Browse Fonts</a>
       </li>
+        <li>
+          <a href="/lists" class="navigation-button">Browse Lists</a>
+        </li>
       <li>
         <a href="/foundries" class="navigation-button">Foundries</a>
       </li>
@@ -108,13 +87,12 @@
         <a href="/help" class="navigation-button">Help</a>
       </li>
     </ul>
-      <script id="search-form-result-row-template" type="text/html"><li data-bind="css: { selected: viewModel.selectedResult() && viewModel.selectedResult().id == id },
+        <script id="search-form-result-row-template" type="text/html"><li data-bind="css: { selected: viewModel.selectedResult() && viewModel.selectedResult().slug == slug },
                attr: { title: name },
-               event: { mouseover: function() { viewModel.selectRowBy('id', id) } },
-               click: function() { viewModel.chooseSelectedRow() },
-               text: name"></li>
+               event: { mouseover: function() { viewModel.selectRowBy('slug', slug) } },
+               click: function() { viewModel.chooseSelectedRow() }, text: name"></li>
 </script>
-  <form accept-charset="UTF-8" action="/search" class="search-form" data-apply-bindings="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+  <form accept-charset="UTF-8" action="/fonts" class="search-form autocomplete" data-ac-endpoint="/fonts/d.json" data-apply-bindings="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
     <p>
   <input type="text" name="q" class="search-form-field" placeholder="Find fonts" autocomplete="off" data-bind="value: query, valueUpdate: 'afterkeydown',
                css: { loading: isLoading },
@@ -132,6 +110,8 @@
         <div class="sections sections-770-170 clearfix">
           <div class="section first">
       <div id="main-content">
+
+        
 
 
         <h1 class="heading heading-1">Privacy Policy</h1>
@@ -188,7 +168,7 @@
     </p>
     <div class="footer-copyright-and-links">
       <p class="footer-copyright">
-        Copyright © 2011 Adobe Systems Incorporated. All rights reserved.
+        Copyright © 2012 Adobe Systems Incorporated. All rights reserved.
       </p>
       <ul class="footer-links">
           <li>
