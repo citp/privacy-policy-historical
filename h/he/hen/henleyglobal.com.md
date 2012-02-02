@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henleyglobal.com privacy policy that was archived on 2011-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110701014558id_/https%3A//www.henleyglobal.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henleyglobal.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202171023id_/https%3A//www.henleyglobal.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Henley & Partners - Privacy Statement
 
@@ -8,4 +8,4 @@ We have structured our web site so that you can visit us on the Internet without
 
 We use your information to better understand your needs and provide you with better service. Specifically, we use your information to communicate back to you, to work on your case if you have chosen to retain us, and to update you on our range of services we offer. 
 
-If you have any questions regarding our privacy policy, or if you would like to send us your comments, please [contact us today](http://www.henleyglobal.com/about/contact-forms/ "Opens internal link in current window").
+If you have any questions regarding our privacy policy, or if you would like to send us your comments, please [contact us today](https://www.henleyglobal.com/about/contact-forms/ "Opens internal link in current window").
