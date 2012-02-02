@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedida.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018144452id_/http%3A//www.bedida.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedida.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202040901id_/http%3A//www.bedida.com/privacy.php) for the most accurate reproduction.*
 
 # The Place to Sell Buy Bid Handmade Products
 
