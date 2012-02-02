@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virtapay.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020110009id_/http%3A//www.virtapay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtapay.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202090701id_/http%3A//www.virtapay.com/privacy.php) for the most accurate reproduction.*
 
 # VirtaPay
 
 [](http://www.virtapay.com/)
 
-[](https://www.facebook.com/dialog/oauth?client_id=126835840732495&redirect_uri=https%3A%2F%2Fwww.virtapay.com%2F&state=5602e3bbd28e59e750490934edf5b2bc&scope=email)
+[](https://www.facebook.com/dialog/oauth?client_id=126835840732495&redirect_uri=https%3A%2F%2Fwww.virtapay.com%2F&state=cd7c4145d90af152e75e6efce84dd2b9&scope=email)
 
 Privacy Policy 
 
