@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015083750id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202020556id_/https%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Typekit
 
