@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casting.xxx privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010154454id_/http%3A//casting.xxx/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casting.xxx privacy policy that was archived on 2012-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120202100123id_/http%3A//www.casting.xxx/policy.html) for the most accurate reproduction.*
 
-# Casting XXX
+# Casting.XXX
 
 #### Applicable to Casting.xxx Services 
 
@@ -56,6 +56,6 @@ No Absolute Safeguards. Although we will use reasonable efforts to safeguard th
 
 Acceptance of Privacy Policy
 
- If you use the Casting.xxx.com website, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as   described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Casting.xxx.com website. We reserve the right to modify this Privacy Policy at any time. Your continued use of Casting.xxx.com after we either personally   notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy,   please email us at support@Casting.xxx.
+ If you use the Casting.xxx website, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as   described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Casting.xxx website. We reserve the right to modify this Privacy Policy at any time. Your continued use of Casting.xxx after we either personally   notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy,   please email us at support@ruseful.com.
 
 Effective: January __ 2011
