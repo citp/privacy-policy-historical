@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaguarusa.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118031452id_/http%3A//www.jaguar.com/us/en/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarusa.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203210338id_/http%3A//www.jaguarusa.com/privacy) for the most accurate reproduction.*
 
-# Jaguar USA - JAGUARUSA.COM PRIVACY POLICY
+# Privacy Policy
 
 Information regarding Privacy Practices of Jaguar Land Rover North America, LLC (hereafter referred to as "Jaguar NA," "we" or "us") 
 
@@ -49,7 +49,7 @@ We may collect IP addresses and/or click-stream data. An IP address is a number 
 
 ## LINKS TO OTHER SITES
 
-This Website may provide links to third party websites not controlled by Jaguar NA, such as those belonging to Jaguar NA dealers, third party vehicle purchase sites, or third party product review sites. It is recommended that you check the specific privacy statements of those websites before providing any personally identifiable information.  We are not responsible for the policies and practices of other entities, and any information you submit to those entities’ or their websites is subject to their privacy policies.
+This Website may provide links to third party websites not controlled by Jaguar NA, such as those belonging to Jaguar NA dealers, third party vehicle purchase sites, or third party product review sites. It is recommended that you check the specific privacy statements of those websites before providing any personally identifiable information.  We are not responsible for the policies and practices of other entities, and any information you submit to those entities' or their websites is subject to their privacy policies.
 
 ## OUR POLICY REGARDING CHILDREN
 
