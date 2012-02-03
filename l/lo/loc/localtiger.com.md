@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230032830id_/http%3A//localtiger.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localtiger.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203035320id_/http%3A//localtiger.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: Local Information, Tourism & City Guides - localtiger.com
 
-This site (including the URLs localtiger.com, localtiger.co.uk, localtiger.de and localtiger.ru) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to:
+This site (including the URLs localtiger.com, localtiger.co.uk, localtiger.co.za, localtiger.co.nz, localtiger.de and localtiger.ru) is the responsibility of LRR Technologies (Hyderabad) Private Limited. We want you to:
 
   1. feel comfortable using our web sites
   2. feel secure submitting information to us
