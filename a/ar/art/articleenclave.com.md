@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the articleenclave.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612162314id_/http%3A//www.articleenclave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleenclave.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203053851id_/http%3A//www.articleenclave.com/privacy-policy) for the most accurate reproduction.*
 
-# ArticleEnclave » Privacy Policy
-
-### [Privacy Policy](http://www.articleenclave.com/privacy-policy/ "Permanent Link to Privacy Policy")
+# Privacy Policy · ArticleEnclave
 
 ArticleEnclave.com is an article directory website where visitors register and contribute content. We are not responsible for the content posted by visitors. We randomly check all articles and will delete them if the content is inappropriate for users.
 
@@ -10,7 +8,7 @@ ArticleEnclave.com may from time to time collect name, e-mail address and/or det
 
 If you contribute content, such as discussion comments, to the site, your contribution may be publicly displayed including personally identifiable information such as your website URL. Your e-mail will not be displayed anywhere.
 
-ArticleEnclave.com links to independently run websites outside of the ArticleEnclave.com domain. We take no responsibility for the privacy practices or content of such web sites. 
+ArticleEnclave.com links to independently run websites outside of the ArticleEnclave.com domain. We take no responsibility for the privacy practices or content of such web sites.
 
 ArticleEnclave.com is suitable for all ages, but we not knowingly collect personal information from children under 13 years of age.
 
@@ -20,4 +18,4 @@ ArticleEnclave.com would use the e-mail address given by the user while commenti
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time an update will be posted oo this website. If you are concerned about how your information is used, you should check back at our web site periodically.
 
-If you feel that ArticleEnclave.com is not following its stated information policy, you may contact us using our email id – articleenclaveATgmailDOTcom
+If you feel that ArticleEnclave.com is not following its stated information policy, you may contact us using our email id â€“ articleenclaveATgmailDOTcom
