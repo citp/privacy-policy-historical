@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fadbus.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117064928id_/http%3A//www.fadbus.com/Help/helpDetail-45.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadbus.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203203846id_/http%3A//www.fadbus.com/Help/helpDetail-45.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale Electronics on FadBus.com
 
@@ -7,11 +7,6 @@
 **HongKong Company**  
 Company Name:FadBus  Limited  
 Company Address:Room 1701(105) 17/F Henan Bldg 90 Faffe Rd Wanchai HK
-
-**Mainland China Company**  
-Company Name:FadBus Network Technologies Co.,Ltd.   
-Company Address:GuangDongSheng  ShenZhenShi  FutianQu  CaiTianLu  CaiFuDaSha   
-                               HongFuGe  A  Zuo 21L 518000
 
 We put much value on the privacy of our customers and promise to do our best to keep your information safe. Here is the Privacy Policy of FadBus.com, which may explain the following questions.  
 1\. What information do we collect from you?  
