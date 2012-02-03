@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204235513id_/http%3A//www.cybergrants.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203233655id_/http%3A//www.cybergrants.com/privacy.shtml) for the most accurate reproduction.*
 
 # CyberGrants, Inc - The Home For Online Grantmaking
 
@@ -8,9 +8,9 @@
 
 As an application service provider, CyberGrants, Inc. (CyberGrants) is highly committed to protecting the privacy of your information. We have developed this Privacy Statement in support of our commitment to safeguarding your personal information.
 
-In accordance with our commitment to protect personal privacy, CyberGrants adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission.
+In accordance with our commitment to protect personal privacy, CyberGrants adheres to the principles of the Safe Harbor Frameworks as developed by the U.S. Department of Commerce in consultation with the European Commission and the Information Commissioner of Switzerland.
 
-The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
+The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy frameworks. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
 
 ## Global Privacy Fundamentals
 
@@ -79,7 +79,7 @@ Questions regarding this Privacy Statement or the information practices of the C
 
 [ ](http://www.etrust.org/cert/389797.html)
 
-Revised and posted as of November 17, 2010    
+Revised and posted as of December 14, 2011    
 |    
 [](https://www.cybergrants.com/)
 
