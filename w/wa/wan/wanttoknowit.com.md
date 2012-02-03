@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wanttoknowit.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065248id_/http%3A//wanttoknowit.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanttoknowit.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203062804id_/http%3A//wanttoknowit.com/about) for the most accurate reproduction.*
 
 # Privacy Policy | Want to Know it? Answers to life's questions
 
