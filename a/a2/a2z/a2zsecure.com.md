@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zsecure.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004051857id_/http%3A//a2zsecure.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zsecure.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203095845id_/http%3A//www.a2zsecure.com/privacy-policy.html) for the most accurate reproduction.*
 
 # A2Zsecure.com - Privacy Policy
 
