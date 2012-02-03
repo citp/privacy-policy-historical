@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227052726id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmusic.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203115517id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MakeMusic, Inc. - Notation Software and Interactive Practice Tools for Musicians
 
