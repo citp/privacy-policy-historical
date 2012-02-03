@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2011getaway.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928113758id_/http%3A//2011getaway.com/Engines/Inc/Privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2011getaway.com privacy policy that was archived on 2012-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120203151352id_/http%3A//2011getaway.com/Engines/Inc/Privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Caribbean Cruise line
 
@@ -30,10 +30,10 @@ As necessary to respond to your inquiry, and make a record of it. In the email s
   You may "opt out" at any time.   
 You may notify CRC at any time that you no longer wish to receive Marketing opportunities. You may do so by writing to CRC at   
 Caribbean Cruise Line  
-531 SE 5th Court, Pompano Beach, FL 33060  
+Port of Palm Beach, 301 Broadway STE 101B Riviera Beach, FL 33404  
 Attention: Marketing Dept. Email Removal 
 
-Or you may telephone CRC at 1-???-???-???? , or email Remove@Caribbeancl.com with a request to " remove." 
+Or you may telephone CRC at 1-800-221-8200 , or email Remove@Caribbeancl.com with a request to " remove." 
 
   We limit third party access to personally identifiable information.   
 We don't share any personally identifiable information you give us with anyone outside of CRC other than: 
