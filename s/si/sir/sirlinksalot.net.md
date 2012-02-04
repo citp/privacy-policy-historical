@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205001145id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirlinksalot.net privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204064527id_/http%3A//www.sirlinksalot.net/privacy.html) for the most accurate reproduction.*
 
 # SirLinksalot.net Privacy Policy
 
