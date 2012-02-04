@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blundstone.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008115751id_/http%3A//www.blundstone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blundstone.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204123629id_/http%3A//www.blundstone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
