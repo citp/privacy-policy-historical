@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226213153id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204204501id_/http%3A//www.mandy.com/1/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Refund Policy and Contact details - mandy.com / Lighthouse Internet
 
