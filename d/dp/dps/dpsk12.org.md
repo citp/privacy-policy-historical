@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpsk12.org privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928030804id_/http%3A//www.dpsk12.org/docs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpsk12.org privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204115618id_/http%3A//www.dpsk12.org/docs/privacy.shtml) for the most accurate reproduction.*
 
 # Denver Public Schools
 
