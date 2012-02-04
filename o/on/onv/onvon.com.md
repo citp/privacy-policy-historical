@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onvon.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116142301id_/http%3A//www.onvon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onvon.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204173909id_/http%3A//www.onvon.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy of China wholesale - onvon.com
 
