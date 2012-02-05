@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025213id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205193350id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
@@ -92,4 +92,4 @@ Bridge Base Online
 10550 Hope Mills Drive   
 Las Vegas, NV 89135 
 
-© 1996-2011 All rights reserved 
+© 1996-2012 All rights reserved 
