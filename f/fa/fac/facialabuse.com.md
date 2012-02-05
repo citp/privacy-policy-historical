@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420012654id_/http%3A//support.adultdoorway.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205151608id_/http%3A//support.adultdoorway.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Customer Support Center - Privacy Statement
 
@@ -30,6 +30,6 @@ DME Media ltd. collects account registration information on its web site. This i
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Have a question? [Contact Support](https://web.archive.org/web/20110420012654id_/http%3A//support.adultdoorway.com/contact-support.php?id=10)!
+Have a question? [Contact Support](https://web.archive.org/web/20120205151608id_/http%3A//support.adultdoorway.com/contact-support.php?id=10)!
 
-Have something to say? Then please leave some [feedback](https://web.archive.org/web/20110420012654id_/http%3A//support.adultdoorway.com/feedback.php?id=10)!
+Have something to say? Then please leave some [feedback](https://web.archive.org/web/20120205151608id_/http%3A//support.adultdoorway.com/feedback.php?id=10)!
