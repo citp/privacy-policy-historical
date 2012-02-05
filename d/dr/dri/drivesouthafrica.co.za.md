@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206143756id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205050851id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drive South Africa
 
