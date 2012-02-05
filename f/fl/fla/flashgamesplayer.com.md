@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227201419id_/http%3A//www.flashgamesplayer.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamesplayer.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205154551id_/http%3A//www.flashgamesplayer.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Policy - Flash Games Player
 
