@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119195708id_/http%3A//support.vonage.ca/doc/en_ca/399.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205120645id_/http%3A//support.vonage.ca/doc/en_ca/399.xml) for the most accurate reproduction.*
 
 # Vonage Canada Support - Privacy Policy
 
