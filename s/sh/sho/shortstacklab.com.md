@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902031037id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205185815id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
 
-# ShortStack Facebook Page Creator | Privacy Policy
+# Facebook app privacy policy
 
 **Privacy Policy**
 
