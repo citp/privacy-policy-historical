@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012183637id_/http%3A//www.eharmony.com/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206000506id_/http%3A//www.eharmony.com/privacy/statement) for the most accurate reproduction.*
 
-# eHarmony #1 Trusted Relationship Site Move Beyond "Traditional" Online Dating
+# eHarmony Privacy Policy - #1 Trusted Relationship Site
 
   
 
