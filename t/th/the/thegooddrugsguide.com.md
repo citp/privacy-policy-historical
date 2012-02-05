@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegooddrugsguide.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008061824id_/http%3A//www.thegooddrugsguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegooddrugsguide.com privacy policy that was archived on 2012-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120205214710id_/http%3A//www.thegooddrugsguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
