@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229214735id_/http%3A//twtapps.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206191930id_/http%3A//twtapps.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Twtapps :: privacy policy
 
@@ -12,7 +12,7 @@ The information we collect is used to improve the content of our websites and th
 
 **Twtapps** DOES NOT share with or sell any of its visitors' information to other organizations, except to provide products or services they have requested, when it has their permission or under the following circumstances:
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Use](https://web.archive.org/web/20111229214735id_/http%3A//twtapps.com/terms-of-use.php), or as otherwise required by law. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Use](https://web.archive.org/web/20120206191930id_/http%3A//twtapps.com/terms-of-use.php), or as otherwise required by law. 
   * We transfer information about you if **Twtapps** is acquired by or merged with another company. In this event, we will notify our users before any information is transferred and/or becomes subject to a different privacy policy. 
 
 
@@ -33,7 +33,7 @@ Although **Twtapps** owns the data storage, databases and all rights to our serv
 
 Disclosure 
 
-**Twtapps** may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when our customer's actions violate the [Terms of Use](https://web.archive.org/web/20111229214735id_/http%3A//twtapps.com/terms-of-use.php). 
+**Twtapps** may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when our customer's actions violate the [Terms of Use](https://web.archive.org/web/20120206191930id_/http%3A//twtapps.com/terms-of-use.php). 
 
 Changes
 
