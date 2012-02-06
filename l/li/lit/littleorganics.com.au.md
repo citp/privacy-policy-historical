@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleorganics.com.au privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207103429id_/http%3A//www.littleorganics.com.au/privacyinfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleorganics.com.au privacy policy that was archived on 2012-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120206010615id_/http%3A//www.littleorganics.com.au/privacyinfo.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
