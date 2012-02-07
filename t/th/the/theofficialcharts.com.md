@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208143130id_/http%3A//www.theofficialcharts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theofficialcharts.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207065852id_/http%3A//www.theofficialcharts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -147,4 +147,4 @@ Riverside Building, County Hall
 London, SE1 7JA
 
   
-This Privacy Policy was last updated on 1st December 2009.
+This Privacy Policy was last updated on 1st January 2012.
