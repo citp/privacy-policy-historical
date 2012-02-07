@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102012958id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207215900id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy - belk.com - Belk.com
 
@@ -21,27 +21,27 @@ This Policy will give you a better understanding of the following:
 
 
 
-### What personally identifiable information does belk.com collect?
+**What personally identifiable information does belk.com collect?**
 
-Belk collects personal information that you provide when using the belk.com website. This personal information is gathered when you register on belk.com, make a purchase on belk.com, create a wedding registry on belk.com, or register with one of our other services such as Belk mobile or a Belk social media application (i.e. Facebook) or a Belk software application (i.e., a widget). 
+Belk collects personal information that you provide when using the belk.com website. This personal information is gathered when you register on belk.com, make a purchase on belk.com, create a wedding registry on belk.com, or register with one of our other services such as Belk mobile or a Belk social media application (i.e. Facebook) or a Belk software application (i.e., a widget).
 
-When you register on belk.com, you provide us with your email address and a unique password. 
+When you register on belk.com, you provide us with your email address and a unique password.
 
-When you make a purchase on belk.com, we collect your name, address, phone number, email address and other personal information necessary to fulfill, track and bill your order. In order to bill you for your purchase we also collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient. 
+When you make a purchase on belk.com, we collect your name, address, phone number, email address and other personal information necessary to fulfill, track and bill your order. In order to bill you for your purchase we also collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient.
 
-When you register and checkout, we save your shipping and billing address information. You may elect to have us save your credit card information to expedite future purchases. If you so elect, we save your card type, credit card number, expiration date, and name on the card. You may checkout as a guest if you don’t want us to save your shipping, billing or credit card information. 
+When you register and checkout, we save your shipping and billing address information. You may elect to have us save your credit card information to expedite future purchases. If you so elect, we save your card type, credit card number, expiration date, and name on the card. You may checkout as a guest if you don’t want us to save your shipping, billing or credit card information.
 
-You may change saved shipping, billing, or credit card information at any time. Simply go to the My Account page, login with your email address and password, follow the appropriate links and edit or delete whatever personal information you wish. 
+You may change saved shipping, billing, or credit card information at any time. Simply go to the My Account page, login with your email address and password, follow the appropriate links and edit or delete whatever personal information you wish.
 
-We also collect personal information when you become a registrant of our wedding registry. When you sign up for a wedding registry with belk.com, only one account is needed for you and your future spouse. If you already have a belk.com account, you can add the wedding registry to your current account. However, if you do not have an account, you can register for one by providing an email address and a password. 
+We also collect personal information when you become a registrant of our wedding registry. When you sign up for a wedding registry with belk.com, only one account is needed for you and your future spouse. If you already have a belk.com account, you can add the wedding registry to your current account. However, if you do not have an account, you can register for one by providing an email address and a password.
 
-The following information is collected and required from the bride or groom to complete the registry process: name, address (able to use up to 3 shipping addresses), phone number, email address, a local Belk store(s) your guests may shop, your special event(s) details and any email addresses of the guests/family members with whom you wish to share your registry. When you register with Belk you are given the option to “share your registry” with your family and guests. After you provide the email addresses of family members/guests, only one email will be sent out pertaining to your wedding registry. This email will come directly from the bride’s or groom’s own email account, not Belk’s. Your family/guests have the option of receiving future emails about your registry, if they so choose. Again, anyone who receives this email from the bride or groom has the option of unsubscribing to any email about her or his registry. Under no circumstance will Belk send any store promotional events or sales to your family/guests email accounts, unless they specifically stated they wish to receive them. 
+The following information is collected and required from the bride or groom to complete the registry process: name, address (able to use up to 3 shipping addresses), phone number, email address, a local Belk store(s) your guests may shop, your special event(s) details and any email addresses of the guests/family members with whom you wish to share your registry. When you register with Belk you are given the option to “share your registry” with your family and guests. After you provide the email addresses of family members/guests, only one email will be sent out pertaining to your wedding registry. This email will come directly from the bride’s or groom’s own email account, not Belk’s. Your family/guests have the option of receiving future emails about your registry, if they so choose. Again, anyone who receives this email from the bride or groom has the option of unsubscribing to any email about her or his registry. Under no circumstance will Belk send any store promotional events or sales to your family/guests email accounts, unless they specifically stated they wish to receive them.
 
-You can update your Belk wedding registry at any time. Simply login to your account with the email address and password you created when you registered with Belk. 
+You can update your Belk wedding registry at any time. Simply login to your account with the email address and password you created when you registered with Belk.
 
 There are a few other instances when belk.com may collect other personal information from you. Occasionally we conduct contests on belk.com. If you choose to participate in an online contest, we may request personal information from you that will permit us to administer the contest and notify the winner(s). If you contact our Customer Service department, we may store your email address or phone number in order to respond to your questions or requests for assistance. Belk.com reserves the right to keep a record of any communication between you and Belk. 
 
-### How will my personal information be used?
+**How will my personal information be used?**
 
 Information collected on belk.com or one of our other services such as Belk mobile or a Belk social media application (i.e. Facebook), may be used in the following ways: 
 
@@ -58,7 +58,7 @@ Information collected on belk.com or one of our other services such as Belk mobi
 
 
 
-### Is my personal information shared with third parties?
+**Is my personal information shared with third parties?**
 
 When you visit belk.com or visit one of our other services or a Belk social media application (i.e. Facebook) and submit personal information, you are sharing that information with belk.com and the Belk-owned and controlled family of companies. We may provide your personal information to our agents, representatives and service providers for limited purposes, including but not limited to, billing customer orders, fulfilling customer orders; communicating to customers; providing customer service; administering opt-in contests or sweepstakes; offering targeted marketing communications to users that opted-in to receive such communications; providing a personalized shopping experience; and preventing online fraud. In addition, we may share your information with GE Money Bank, the issuer of the Belk Rewards Card to allow them to provide you with information and offers relating to the Belk Rewards Card program. Except as stated herein, we do not sell, trade, rent or give out your personal information to third parties for their marketing purposes. 
 
@@ -68,7 +68,7 @@ If you make a transaction on belk.com with your Belk Rewards Card, the informati
 
 Finally, we may be required to disclose your personal information to third parties if necessary to comply with applicable laws, subpoenas or court orders. 
 
-### How you control the collection, usage and distribution of any personal information you provide to belk.com
+**How you control the collection, usage and distribution of any personal information you provide to belk.com**
 
 As customers ourselves, Belk understands and values the importance of giving you, the customer, complete control over the collection, usage and distribution of your personal information. 
 
@@ -80,7 +80,7 @@ If you originally signed up to receive email mail, but you have decided you no l
 
 You may update, correct or delete your personal information at any time by logging into your belk.com account and saving any changes you make. At Belk, we encourage you to keep any information you provide to us as current as possible, so we can ensure we are serving your needs to the best of our ability. 
 
-### How we protect the security of your personal information
+**How we protect the security of your personal information**
 
 The security of your personal information is very important to Belk. Belk.com uses Secure Sockets Layer (SSL), the industry standard for Internet Commerce transaction security, to encrypt your credit card and personal information as it travels over the Internet to our secure servers. SSL technology encrypts, or encodes, your credit card and personal information, preventing an unauthorized party from accessing and viewing it. When you enter a secure portion of belk.com, such as “Checkout” or “My Account”, your web browser should display a URL address with an "https" prefix and an image of a closed lock or a solid key should appear in the bottom bar of your browser window. In addition, we employ an outside third party company to periodically test the security of our servers and ensure that all credit card and personal information is properly safeguarded. As a result, you can shop with confidence on belk.com. 
 
@@ -96,7 +96,7 @@ American Express—1-800-528-4800
 
 Finally, your personal information is protected by the password you created when you signed up for an account at belk.com. You may change this password anytime by accessing the My Account section of belk.com. Please keep this password confidential. No representative of belk.com, including our Customer Service representatives, will ever ask you for your password. 
 
-### Cookies and other computer information
+**Cookies and other computer information**
 
 When you visit belk.com, or visit one of our other services such as Belk mobile or a Belk social media application (i.e. Facebook), small text files known as "cookies" will be stored on your computer's hard drive. The purpose of these cookies is to identify you when you visit belk.com, so that we can enhance and customize your online shopping experience. 
 
@@ -106,11 +106,13 @@ Cookies also collect certain technical information from your computer. This tech
 
 We also contract with third parties to provide us with survey data and web analytics data such as tracking the navigation activity of browsers and buyers on our site. We also use third parties for tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. All these third parties may use cookies and Web beacons (1 x 1 pixels), and may receive anonymous information about your browsing and buying activity on our site. None of your personally identifiable information (such as your name, address, email address, credit card number, etc.) will be received by or shared with these third parties. If you do not want your non-personal information used by these third parties, you can change the settings of your browser to reject cookies. Again, each browser is different, so check your browser’s "Help" menu to learn how to update your cookie preferences. 
 
-### How can I decide what promotional email communications I will receive?
+The Network Advertising Initiative also provides consumers with a tool for examining your computer, to identify which companies have placed an advertising cookie file on your computer. By following some simple directions, you can then choose to opt out of any online advertising that you do not wish to receive. Visit the [NAI Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) webpage for more details. 
+
+**How can I decide what promotional email communications I will receive?**
 
 Belk.com may from time to time send you promotional emails about Belk products, services or contests that we hope will be of interest to you. At any time, you can choose to discontinue receiving such promotional email by accessing **Email Notifications** under **My Account** and unsubscribing. In addition, each promotional email we send contains an unsubscribe link allowing you to discontinue future emails from us. Please allow us a reasonable period of time in order to satisfy your request, as some promotional emails may already be in process. 
 
-### Privacy Protection of Children
+**Privacy Protection of Children**
 
 At Belk, we want to make sure that everyone in your family is protected. Belk acknowledges and abides by all website requirements in accordance with The Children’s Online Privacy Protection Act that has been in effect since April 21, 2000. We do not knowingly collect information from children under the age of 13 at any time. Belk.com is a website for a general audience, not geared towards children. The only instance where we would collect information from a child under the age of 13 is if the child’s parent or guardian was given notice and the option to provide their personal information. For more information about this act, please visit the Federal Trade Commission’s website: 
 
@@ -118,11 +120,11 @@ At Belk, we want to make sure that everyone in your family is protected. Belk ac
 
 If this act changes in anyway, we will revise the Privacy Policy of belk.com to comply with all requirements of the Children’s Online Privacy Protection Act. 
 
-### Linking to Third Party Web Sites
+**Linking to Third Party Web Sites**
 
-Belk.com may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on belk.com When you provide information at one of the linked to third party sites, you are subject to that site's privacy policy. We encourage you to read that website's privacy policy before submitting any information if you have concerns about how information may be collected or used. 
+Belk.com may provide links to certain third party websites. This Privacy Policy applies only to activities conducted and personal information collected on belk.com. When you provide information at one of the linked to third party sites, you are subject to that site's privacy policy. We encourage you to read that website's privacy policy before submitting any information if you have concerns about how information may be collected or used. 
 
-### Notice to California Residents - Your California Privacy Rights
+**Notice to California Residents - Your California Privacy Rights**
 
 As a resident of California, under California law, you have the right to ask Belk, Inc. for a notice describing what personal information Belk, Inc. and belk.com may share with Belk-owned and controlled family of companies only for our direct marketing purposes. In this notice, we will outline exactly what categories of your personal information we may share, with whom and their contact information for your reference. Please send a written request to the following address: 
 
@@ -134,14 +136,14 @@ Charlotte, NC 28217
 
 Please specify that you would like a copy of “Your Belk California Privacy Rights Notice.” Please allow 30 days for a response. Once you receive this document, you have the option to inform Belk that you no longer wish to have your personal information disclosed. If requested, Belk, Inc. will make this change for you at no cost. 
 
-### Privacy Policy Questions or Comments?
+**Privacy Policy Questions or Comments?**
 
 For any questions regarding this Privacy Policy, please visit: [**Contact Us**](https://web.archive.org/AST/Misc/Belk_Stores/Customer_Service/Contact_Us.jsp) and select **Privacy Policy** from the drop down menu, then fill out the email form. Your questions/comments are very important to us. An acknowledgement of your email request will be sent within 1 business day. Please allow 3-5 business days for us to process your inquiry completely. 
 
 For further assistance, please call **Customer Service** at **1-866-235-5443** between 9am - 9pm (EST) Sunday - Saturday. Please note: We are closed (Eastern Time) December 24 from 6:00pm until 12:01am on December 26. 
 
-### Changes to the belk.com Privacy Policy
+**Changes to the belk.com Privacy Policy**
 
-This Privacy Policy was last updated on September 10, 2008. Please check our Privacy Policy periodically for changes. We reserve the right to change, modify or amend this policy at any time. 
+This Privacy Policy was last updated on March 14, 2011. Please check our Privacy Policy periodically for changes. We reserve the right to change, modify or amend this policy at any time. 
 
-Updated 03/31/10
+Updated 03/14/11
