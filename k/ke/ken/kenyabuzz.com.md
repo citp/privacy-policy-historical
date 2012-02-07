@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenyabuzz.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209230346id_/http%3A//www.kenyabuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyabuzz.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207133451id_/http%3A//www.kenyabuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # KenyaBUZZ - Privacy Policy
 
