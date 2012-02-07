@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozillalabs.com privacy policy that was archived on 2011-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110811014548id_/http%3A//www.mozilla.com/en-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozillalabs.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207202458id_/http%3A//www.mozilla.com/en-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Mozilla Privacy Policy
 
@@ -71,7 +71,7 @@ Mozilla uses the information provided by cookies and clear gifs to develop a bet
 
 ### Opt-out Procedures
 
-If you do not want to allow your session visitation information on the Mozilla websites to be aggregated and analyzed by Mozilla (or its third-party analytics providers) you may utilize the following [opt-out mechanisms listed here](https://web.archive.org/web/20110811014548id_/http%3A//www.mozilla.com/en-US/opt-out.html). Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
+If you do not want to allow your session visitation information on the Mozilla websites to be aggregated and analyzed by Mozilla (or its third-party analytics providers) you may utilize the following [opt-out mechanisms listed here](https://web.archive.org/web/20120208010651id_/http://www.mozilla.org/en-US/opt-out.html). Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from Mozilla, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
 
 ### Mozilla Ads
 
