@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyscoot.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104172054id_/http%3A//www.flyscoot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyscoot.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208183500id_/http%3A//www.flyscoot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Scoot™
 
@@ -8,9 +8,9 @@ Privacy policy | Scoot™
 
 
 
-This Privacy Policy applies to the ScootTM website, www.flyscoot.com, and explains how we protect the privacy of any personal information you provide to us during the course of your online experience.
+This Privacy Policy applies to the Scoot™ website, www.FlyScoot.com, and explains how we protect the privacy of any personal information you provide to us during the course of your online experience.
 
-Your privacy is important to ScootTM. Which is why we have developed a Privacy Policy that covers how we handle the information you may provide us with when you visit our website.
+Your privacy is important to Scoot™. Which is why we have developed a Privacy Policy that covers how we handle the information you may provide us with when you visit our website.
 
 This Privacy Policy is divided into two parts: 
 
@@ -73,7 +73,7 @@ We may amend this Privacy Policy if and when the business or legal requirements 
 
 If you have comments or questions about this Privacy Policy statement, please contact us in writing at the address below referencing 'Privacy Policy':
 
-New Aviation Ptd. Ltd  
+Scoot Pte Ltd  
 Changi Airport Post Office  
 PO Box 89  
 Singapore 918143
