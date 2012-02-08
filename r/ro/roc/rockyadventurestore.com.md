@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockyadventurestore.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918142406id_/http%3A//www.rockyadventurestore.com/index.php%3Fukey%3Dauxpage_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockyadventurestore.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208042341id_/http%3A//rockyadventurestore.com/index.php%3Fukey%3Dauxpage_3) for the most accurate reproduction.*
 
 # Privacy Policy ― Rocky Adventure Store 2011. All rights reserved.
 
