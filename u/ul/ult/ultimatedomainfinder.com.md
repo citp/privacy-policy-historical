@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedomainfinder.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009102001id_/http%3A//ultimatedomainfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedomainfinder.com privacy policy that was archived on 2012-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120208062125id_/http%3A//ultimatedomainfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Number 1 Free Domain Finder Online
 
