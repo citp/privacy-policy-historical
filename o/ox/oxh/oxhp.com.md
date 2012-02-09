@@ -1,123 +1,122 @@
-> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxhp.com privacy policy that was archived on 2012-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120209150417id_/https%3A//www.oxhp.com/main/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Home > Privacy Statement
+# Home > Privacy Policy
 
 | 
 
-## Notice to Oxford Health Plans Members Regarding Oxford's Privacy Practices
-
-  * [Español](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_spanish.html) \- Spanish  
-
-  * [中文](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_chinese.html) \- Chinese 
-  * [한국어로된](https://web.archive.org/web/20070708145040id_/https%3A//www.oxhp.com/main/privacy_korean.html) \- Korean 
-
-
-
-**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN ACCESS THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
-
-Oxford Health Plans, Inc. ("Oxford") is committed to maintaining the privacy and confidentiality of your protected health information (PHI). PHI is information about you that is used or disclosed by Oxford to administer your insurance coverage and to pay for the medical treatment you receive. It includes demographic information, such as your name, address, telephone number and Social Security number, and any medical information obtained from you or from providers who submit claims to Oxford related to your medical care. We are required by applicable federal and state laws to maintain the privacy of your PHI. This document serves as the required Notice of Oxford's privacy practices, our legal duties, and your rights concerning your PHI. Oxford is required to abide by the terms of this Notice unless and until it is amended. This Notice takes effect April 14, 2003, and will remain in effect until such time that it is amended or replaced. 
-
-Oxford reserves the right to change our privacy practices and the terms of this Notice at any time, provided that applicable law permits such changes. We reserve the right to make the changes in our privacy practices and the new terms of our Notice effective for all PHI that we maintain, including information we created or received prior to any such changes. When Oxford makes a significant change in our privacy practices, we will revise this Notice and send the revised Notice to our health plan subscribers. 
-
-For additional copies of this Notice, please call our Customer Service Department at the toll-free number on your Oxford ID card, or visit our web site at www.oxfordhealth.com. 
-
-**Q.** _ **How does Oxford use or disclose your PHI?**_  
-**A.** Oxford may use or disclose your PHI, without your consent or authorization, under the following circumstances: 
-
-  * _Treatment_ : We may disclose your PHI to a healthcare provider who requests it in order to provide you with necessary medical treatment, such as emergency care, X-rays or lab work. A provider might be a doctor, a hospital, a home healthcare agency, etc 
-  * _Payment_ : We may use or disclose your PHI to pay claims submitted by a healthcare provider for treatment provided to you. For example, we may ask a hospital emergency department for details about the treatment you received so that we can accurately pay the hospital for your care. 
-  * _Healthcare Operations_ : We may use or disclose your PHI to manage our business. Examples include using it to determine appropriate premiums, to conduct quality improvement activities, to contact you regarding benefits or services that might be of interest to you, and to provide you with preventative health advisories. 
-  * _Plan Sponsor_ : We may disclose limited PHI to your health plan sponsor, benefits administrator, or group health plan in order to perform plan administrative functions such as activities related to billing and renewals. 
-  * _Underwriting_ : We may receive your PHI for underwriting, premium rating or other activities relating to the creation, renewal or replacement of a contract of health insurance or health benefits. Once an Oxford Member, use and disclosure of your PHI is governed by this Notice. 
-  * _Marketing_ : We may use your PHI to contact you with information about health-related benefits and services, treatment alternatives, or appointment reminders. 
-  * _Research_ ; Death; Organ Donation: In limited circumstances, we may use or disclose your PHI for research purposes or to a coroner, medical examiner, funeral director or an organ procurement center. 
-  * _Required by Law_ : We may use or disclose your PHI when we are required to do so by law. For example, upon request, we would disclose PHI to the U.S. Department of Health and Human Services so that this agency can verify Oxford compliance with federal privacy laws. 
-  * _Health Oversight Activities_ : We may disclose your PHI to health oversight organizations and agencies as part of accreditation surveys, investigations related to our eligibility for government programs, regulatory audits, and for licensure and disciplinary actions. 
-  * _Workers' Compensation_ : We may disclose your PHI to comply with laws relating to workers' compensation or other similar programs that provide benefits for work-related injuries or illnesses. 
-  * _Public Health and Safety_ : We may disclose your PHI to the extent necessary to avert an imminent threat to your safety or the health or safety of others. We may disclose your PHI to appropriate authorities if we have reasonable belief that you might be a victim of abuse, neglect, domestic violence, or other crimes. 
-  * _Judicial and Administrative_ : We may disclose your PHI in response to a court or administrative order, subpoena, discovery request, or other lawful process. 
-  * _Sale of Business_ : We may disclose PHI upon sale of all or part of Oxford's business to another party. 
-  * _Law Enforcement_ : We may disclose limited information to law enforcement officials concerning the PHI of a suspect, fugitive, material witness, crime victim or missing person. Under certain circumstances, we may disclose the PHI of an inmate or other person in lawful custody of a law enforcement official or correctional institution. 
-  * _Military and National Security_ : Under certain circumstances, we may disclose the PHI of armed forces personnel to military authorities. We may disclose PHI to authorized federal officials when required for national security or intelligence activities. 
-  * _To Family and Friends_ : If, in the event of a medical emergency, you are unable to provide any required authorization, we may disclose PHI to a family member, friend or other person to the extent necessary to ensure appropriate medical treatment or to facilitate payment for that treatment. 
-
-
-
-**Q.** _**Does Oxford ever need an authorization to use or disclose your PHI?**_  
-**A.** Yes. Except for the purposes described above, Oxford cannot use or disclose your PHI without a signed authorization from you. If you provide such an authorization to Oxford, you may revoke it at any time. Your revocation will not affect any use or disclosure of PHI made while the authorization was in place.
-
-**Q.** _ **Can you inspect or receive copies of any PHI in Oxford's possession?**_  
-**A.** Yes. You have the right to inspect or receive copies of your PHI with certain exceptions. You must make a request to Oxford in writing. Oxford reserves the right to charge a reasonable fee for the cost of producing and mailing the PHI. Request forms are available on the Oxford web site or by calling the number listed at the end of this Notice. 
-
-**Q.** _ **Can you find out if Oxford disclosed your PHI to a third party?  
-**_**A.** Yes. You have the right to receive an accounting of all occasions when Oxford disclosed your PHI for any purpose other than treatment, payment, healthcare operations and certain other instances. Beginning with disclosures made on or after April 14, 2003, we will maintain a record of disclosures for six (6) years. A request for an accounting must be submitted to Oxford in writing. We reserve the right to charge you a reasonable fee for the cost of producing and mailing the information if you request this accounting more than once in a 12-month period. Please note, that Connecticut and New Jersey members will automatically get an abridged accounting whenever they make a request to inspect or receive copies of their PHI. 
-
-**Q.** _ **Can you restrict the use or disclosure of your PHI by Oxford?  
-**_**A.** Yes. You have the right to request that Oxford place additional restrictions on the use or disclosure of your PHI. We are not required by law to agree to these restrictions. However, if we do agree to the restrictions, we will abide by them except in the event of an emergency.
-
-**Q.** _ **Can you request that Oxford use alternate means to confidentially communicate with you about your PHI or communicate with you at an alternate location?  
-**_**A.** Yes. You must inform Oxford, in writing, that confidential communication by alternate means or to an alternate location is required to avoid potential harm to yourself or others. We must accommodate your request if it is reasonable, specifies the alternate communication means or location, and does not interfere with the collection of premiums, the payment of claims, or the administration of your health insurance coverage.
-
-**Q.** _ **Do you have the right to request that Oxford correct, amend, or delete your PHI?**_  
-**A.** Yes. You must make your request in writing, and it must explain why the PHI should be corrected, amended, or deleted. Oxford may deny your request if we did not create the PHI in question or for certain other reasons. If we deny your request, we will provide you with a written explanation. You may respond with a statement of disagreement to be added to the information you sought to change. If we accept your request to correct, amend, or delete the PHI, we will make reasonable efforts to inform others of the changes and to include the changes in any future disclosures of that information.
-
-**_Complaints_ **
-
-To express concern about a decision Oxford made about access to your PHI, to report a concern that we violated your privacy rights, or to express a complaint about any aspect of Oxford's privacy practices, please contact the HIPAA Member Rights Unit at the address below. You may also submit a written complaint to the Secretary of the U.S. Department of Health and Human Services at the following address:  
-
+**Privacy**
 
   
-      Office of the Secretary  
-      Department of Health and Human Services  
-      200 Independence Avenue, S.W.  
-      Washington, D.C. 20201
+**HIPAA Notice of Privacy Practice:** To read more about our privacy practices regarding health and medical information under Health Insurance Portability and Accountability Act ("HIPAA"), please [click here](https://web.archive.org/main/Notice_of_Privacy_Practices.pdf). ****
 
-      Telephone: 877-696-6775
+**Social Security Number Protection Policy:** Protecting personal information is important to UnitedHealthcare and its affiliates, including Oxford. It is the policy of UnitedHealthcare and its current and future affiliates to protect the confidentiality of Social Security numbers ("SSNs") that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs. ****
 
-Oxford supports your right to protect the privacy of your PHI and will not retaliate against you for filing a complaint with any government regulatory body or with us.
+**Website Privacy Policy**
 
-If you received this Notice on our web site or by electronic mail (e-mail), you are entitled to receive a written copy of the Notice as well. To request a written copy of the Notice, please call our Customer Service Department at the toll-free number on your Oxford ID card, or call 800-444-6222. You can also contact us by mail at:
-
-      HIPAA Member Rights Unit   
-      Oxford Health Plans  
-      48 Monroe Turnpike  
-      Trumbull, CT 06611
-
-All written communications related to this Notice and your rights under HIPAA should be mailed to the HIPAA Member Rights Unit at the address above. 
-
-** Privacy Notice Concerning Financial Information  **
-
-At Oxford Health Plans, Inc. ("Oxford"), protecting the privacy of the personal information we have about our customers and members is of paramount importance and we take this responsibility very seriously. This information must be and is maintained in a manner that protects the privacy rights of those individuals. This notice describes our policy regarding the confidentiality and disclosure of customer and member personal **financial** information that Oxford collects in the course of conducting its business. Our policy applies to both current and former customers and members.
-
-**The Information Oxford Collects**
-
-We collect non-public, personal financial information about you from the following sources:
-
-  * Information we receive from you on applications or other forms (such as name, address, social security number and date of birth.) 
-  * Information about your transactions with us, our affiliates (companies controlled or owned by Oxford), or others; and 
-  * Information we receive from consumer reporting agencies concerning large group customers. 
+**Introduction**  
 
 
-
-**The Information Oxford Discloses**
-
-We do not disclose any non-public, personal financial information about our current and former customers and members to anyone except as permitted by law. For example, we may disclose information to affiliates and other third parties to service or process an insurance transaction; or provide information to insurance regulators or law enforcement authorities upon request. 
-
-* **Oxford Security Practices** We emphasize the importance of confidentiality through employee training, the implementation of procedures designed to protect the security of our records, and our privacy policy. We restrict access to the personal financial information of our customers and members to those employees who need to know that information to perform their job responsibilities. We maintain physical, electronic, and procedural safeguards that comply with federal and state regulations to guard your non-public, personal financial information.  
+We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages.   
 
 
-**This notice is being provided on behalf of the following Oxford affiliates:**
-
-     Oxford Health Plans, Inc.  
-     Oxford Health Plans (CT), Inc.  
-     Oxford Health Plans (NJ), Inc.  
-     Oxford Health Plans (NY), Inc.  
-     Oxford Health Insurance, Inc.  
-     Investors Guaranty Life Insurance Company  
-     MedSpan Health Options, Inc.
-
-  * [Privacy Notice Concerning Financial Information](https://web.archive.org/main/privacy_fin.html)  
-
-  * [Web Site Security](https://web.archive.org/main/website_security.html)
+This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as "we" or "our" and "Company" refer to UnitedHealthcare and its current and future affiliate entities.   
 
 
+This site is intended for a United States audience.  If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+
+**Cookies and non-personal information**
+
+"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
+
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
+
+  * Tracking resources and data accessed on the site. 
+  * Recording general site statistics and activity. 
+  * Assisting users experiencing website problems. 
+  * Enabling certain functions and tools on this website. 
+  * Tracking paths of visitors to this site and within this site. 
+
+
+
+We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information. 
+
+**With whom is non-personal information shared?**
+
+Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
+
+**Personal information provided by you**
+
+"Personal information" means information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include information protected under HIPAA, which is protected as described in the section "Health and Medical and Information" above. 
+
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information**.   
+
+
+We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.  
+
+
+We may use personal information for a number of purposes such as:
+
+  * To respond to an e-mail or particular request from you. 
+  * To personalize the website for you. 
+  * To process an application as requested by you. 
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses. 
+  * To comply with applicable laws, regulations, and legal process. 
+  * To protect someone's health, safety, or welfare. 
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use. 
+  * To keep a record of our transactions and communications. 
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law. 
+
+
+
+You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. 
+
+**With whom is personal information shared?**
+
+We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.
+
+We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.
+
+We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications. 
+
+However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse. 
+
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction. 
+
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
+
+If you submit information or a posting to a chat room, bulletin board, or similar "chat" related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
+
+**Reviewing my information**
+
+This website may permit you to view your visitor profile and related personal information. If this function is available, we will include a link on this website with a heading such as "My Profile" or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
+
+**Website and information security**
+
+We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and on-line communications, however, we can not guaranty that any information transmitted on-line will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
+
+**Our online communication practices**
+
+General e-mail communications  
+Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics.   
+
+
+Other online communications  
+The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
+
+**Contact us**
+
+To contact us regarding this Website Privacy Policy and our related privacy practices, please contact us at:   
+
+
+United Healthcare  
+Customer Service – Privacy Unit  
+P.O. Box 740815  
+Atlanta, GA 30374-0815
+
+**Effective date**
+
+The Effective Date of this Privacy Policy is July 15, 2011.
+
+**Changes to this Website Privacy Policy**
+
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
