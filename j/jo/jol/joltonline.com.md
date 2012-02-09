@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joltonline.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231052450id_/http%3A//joltonline.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joltonline.com privacy policy that was archived on 2012-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120209160023id_/http%3A//joltonline.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy | Jolt Online Gaming
 
