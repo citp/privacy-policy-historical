@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930093256id_/http%3A//www.mivu.org/PrivacyPolicy/tabid/178/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivu.org privacy policy that was archived on 2012-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120209184445id_/http%3A//www.mivu.org/PrivacyPolicy/tabid/178/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
