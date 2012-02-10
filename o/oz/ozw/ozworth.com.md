@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozworth.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211174553id_/http%3A//www.ozworth.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozworth.com privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210080431id_/http%3A//www.ozworth.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
