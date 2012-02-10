@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013143id_/http%3A//www.extensis.com/en/about/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extensis.com privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210064111id_/http%3A//www.extensis.com/en/about/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Extensis - Privacy Policy
 
-[Home > ](https://web.archive.org/en/home.jsp)[About > ](https://web.archive.org/en/about)Privacy Policy   
+[Home > ](https://web.archive.org/en/home.jsp;jsessionid=U5PLQUUMS4MJJLAQAAUARSQ)[About > ](https://web.archive.org/en/about;jsessionid=U5PLQUUMS4MJJLAQAAUARSQ)Privacy Policy   
   
 ## Extensis and your privacy
 
