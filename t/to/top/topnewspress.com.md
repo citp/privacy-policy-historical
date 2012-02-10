@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnewspress.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222045411id_/http%3A//www.topnewspress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnewspress.com privacy policy that was archived on 2012-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120210160804id_/http%3A//www.topnewspress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top new stories, latest breaking news from around the world
 
@@ -26,4 +26,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions about the privacy policy of [TopNewsPress.com](https://web.archive.org/web/20111222045411id_/http%3A//) then you may contact us at [http://www.topnewspress.com/contact-us/](https://web.archive.org/web/20111222045411id_/http%3A//contact-us/)
+If you have any questions about the privacy policy of [TopNewsPress.com](https://web.archive.org/web/20120210160804id_/http://www.topnewspress.com/) then you may contact us at [http://www.topnewspress.com/contact-us/](https://web.archive.org/web/20120210160804id_/http://www.topnewspress.com/contact-us/)
