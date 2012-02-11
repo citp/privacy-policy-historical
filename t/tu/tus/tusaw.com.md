@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tusaw.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007100032id_/http%3A//tusaw.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusaw.com privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211031638id_/http%3A//tusaw.com/privacy_policy) for the most accurate reproduction.*
 
 # » Privacy Policy | tusaw.com
 
