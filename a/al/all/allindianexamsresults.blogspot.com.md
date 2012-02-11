@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004020326id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211023445id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | All Indian Exams Results
+# All Indian Exams Results: Privacy Policy
 
 ## Subscribe to Get Free SMS alert for Latest Exam Results
 
