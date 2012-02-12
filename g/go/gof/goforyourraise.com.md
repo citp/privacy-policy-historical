@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827015723id_/http%3A//www.goforyourraise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goforyourraise.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212020645id_/http%3A//www.goforyourraise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go for Your Raise!
 
-### Business privacy policy – sample template
+### Privacy policy
 
 This privacy policy sets out how goforyourraise.com uses and protects any information that you give goforyourraise.com when you use this website.
 
 goforyourraise.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[business name] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2010.
+goforyourraise.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2010.
 
 ### What we collect
 
