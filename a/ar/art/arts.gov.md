@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arts.gov privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015134643id_/http%3A//arts.gov/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.gov privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212131008id_/http%3A//www.arts.gov/about/Privacy.html) for the most accurate reproduction.*
 
 # NEA Web Site Privacy Policy
 
