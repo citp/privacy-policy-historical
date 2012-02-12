@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentadrone.tv privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214023328id_/http%3A//www.rentadrone.tv/news-drones/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentadrone.tv privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212121323id_/http%3A//www.rentadrone.tv/news-drones/privacy-policy) for the most accurate reproduction.*
 
-# Live News Streams & Chat » Privacy Policy
+# Live News Streaming Political Chatrooms » Privacy Policy
 
 **What information do we collect?**
 
