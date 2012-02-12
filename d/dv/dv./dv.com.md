@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212175341id_/http%3A//www.dv.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dv.com privacy policy that was archived on 2012-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120212081634id_/http%3A//www.dv.com/privacynotice) for the most accurate reproduction.*
 
 # DV - Privacy Notice
 
