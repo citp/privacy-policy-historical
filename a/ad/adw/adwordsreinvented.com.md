@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwordsreinvented.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214201134id_/http%3A//www.adwordsreinvented.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwordsreinvented.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214003629id_/http%3A//www.adwordsreinvented.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We invite you to contact us if you have questions about this policy. 
 
 You may contact us by filling out this form:
 
-[Contact Us](https://web.archive.org/web/20111214201134id_/http%3A//www.adwordsreinvented.com/contactus.html)
+[Contact Us](https://web.archive.org/web/20120214003629id_/http%3A//www.adwordsreinvented.com/contactus.html)
 
 Site Visits:
 
@@ -30,4 +30,4 @@ When a contest/sweepstakes/survey is run on this site you may be asked to supply
 
 Any data collected will be used by ourselves and our agents. Adwords Reinvented hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](https://web.archive.org/web/20111214201134id_/http%3A//www.adwordsreinvented.com/contactus.html).
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](https://web.archive.org/web/20120214003629id_/http%3A//www.adwordsreinvented.com/contactus.html).
