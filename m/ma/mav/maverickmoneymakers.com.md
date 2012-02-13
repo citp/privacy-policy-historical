@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102164520id_/http%3A//www.maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214005955id_/http%3A//www.maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Maverick Money Makers� | Privacy Policy
 
