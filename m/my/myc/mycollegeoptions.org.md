@@ -1,64 +1,64 @@
-> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006220215id_/http%3A//www.mycollegeoptions.org/Content/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2012-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120213065208id_/https%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy MyCollegeOptions.org
+# My College Options - PrivacyPolicy
 
-Dear Student: The most important benefit of participating in this voluntary survey and research project is the information you and your family will receive from colleges and universities. In some cases, you and your family may also receive information about educational products & services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps from non-profit organizations, companies offering educational products & services, and government agencies. NRCCUA does not share your information with commercial marketers offering to sell you non-education-related products and services. 
+Dear Student: The most important benefit of participating in this voluntary survey and research project is the information you and your family will receive from colleges and universities. In some cases, you and your family may also receive information about educational products & services such as student loans and financial aid, college admissions and tutorial services, extra-curricular enrichment and recognition programs, career, employment and military opportunities, and camps from non-profit organizations, companies offering educational products & services, and government agencies. NRCCUA does not share your information with commercial marketers offering to sell you non-education-related products and services.
 
-NRCCUA protects the privacy of student email addresses. We require all messages sent to the student from our database, whether on behalf of NRCCUA or its members and approved organizations, meet the established guidelines of permission-based email messaging. We do not distribute this data without provisions that allow the student to opt out. A student may choose to opt out of NRCCUA at any time by sending an email to [mrc@nrccua.org](mailto:mrc@nrccua.org) indicating the desire to be removed from future emails or mailings, or both. 
+NRCCUA protects the privacy of student email addresses. We require all messages sent to the student from our database, whether on behalf of NRCCUA or its members and approved organizations, meet the established guidelines of permission-based email messaging. We do not distribute this data without provisions that allow the student to opt out. A student may choose to opt out of NRCCUA at any time by sending an email to [mrc@nrccua.org](mailto:mrc@nrccua.org) indicating the desire to be removed from future emails or mailings, or both.
 
 **Commitment to Student Privacy**  
-For over 35 years, the National Research Center for College & University Admissions has built educational bridges between college-bound high school students and colleges and universities. Our mission is to create a brighter future for America’s youth, with integrity through a unique process that captures and shares their educational and career aspirations…one dream at a time. 
+For over 35 years, the National Research Center for College & University Admissions has built educational bridges between college-bound high school students and colleges and universities. Our mission is to create a brighter future for America’s youth, with integrity through a unique process that captures and shares their educational and career aspirations…one dream at a time.
 
-NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a college education or career path that is tailored to their interests. Through NRCCUA’s Post-Secondary Planning Survey®, nearly 5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students. 
+NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a college education or career path that is tailored to their interests. Through NRCCUA’s Post-Secondary Planning Survey®, nearly 5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.
 
 **Privacy Protection**  
-As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law. 
+As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.
 
-In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to operate in compliance with both the FTC and AG agreements. 
+In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to operate in compliance with both the FTC and AG agreements.
 
 **Principles for Educational Products and Services**  
-The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law. 
+The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.
 
-The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school students to learn about and prepare for post-secondary opportunities. 
+The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school students to learn about and prepare for post-secondary opportunities.
 
-Other education-related non-profit and for-profit organizations may use the student information to provide information about: 
+Other education-related non-profit and for-profit organizations may use the student information to provide information about:
 
-  1. financial planning, student loans, and scholarships 
-  2. enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences 
-  3. curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products 
-  4. academic assistance, remedial help, and preparation for college-entrance examinations 
-  5. recognition for high levels of performance 
-  6. participation in community service 
-  7. learning about civic responsibilities 
+  1. financial planning, student loans, and scholarships
+  2. enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences
+  3. curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products
+  4. academic assistance, remedial help, and preparation for college-entrance examinations
+  5. recognition for high levels of performance
+  6. participation in community service
+  7. learning about civic responsibilities
   8. employment, career options and the military
 
 
 
-NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students. 
+NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students.
 
 Advisory Council Members
 
 Mr. Reggie Felton  
 Director, Federal Relations  
-National School Boards Association  |   |  Delia Pompa  
+National School Boards Association |   | Delia Pompa  
 Director of Education  
-National Council of La Raza   
+National Council of La Raza  
 ---|---|---  
 Mr. Dallas Martin   
 President  
-National Association of Student Financial Aid Administrators  |   |  Jill Cook   
+National Association of Student Financial Aid Administrators |   | Jill Cook   
 Director of Programs  
-American School Counselor Association   
+American School Counselor Association  
 Dr. John A. Martin  
 President  
-Roberts Wesleyan College  |   |  Harley Frankel  
+Roberts Wesleyan College |   | Harley Frankel  
 Director  
-College Match   
+College Match  
 Ms. Joyce Smith   
 Executive Director  
-National Association for College Admission Counseling  |   |  Dr. Nicole Francis-Williams  
+National Association for College Admission Counseling |   | Dr. Nicole Francis-Williams  
 President & CEO  
-Visionary Policy Institute, LLC   
+Visionary Policy Institute, LLC  
   
 **Information Collected Through Our Website**
 
@@ -66,9 +66,9 @@ Our web server automatically recognizes your domain name, but not your email add
 
 Like most websites, we use "cookies" to enhance your online experience. Cookies are pieces of data that are temporarily placed on your computer's hard drive to help a website identify you. These cookies are not used to collect any personal information, but rather to separate each visitor from the other.
 
-For visitors to our websites who are presented with a questionnaire, we may place a cookie on your hard drive to identify whether you have completed or declined to complete that particular questionnaire. This cookie is not designed to collect personal information about you. Rather it is designed to make your return visits more pleasant by preventing the same survey from being offered to you again. 
+For visitors to our websites who are presented with a questionnaire, we may place a cookie on your hard drive to identify whether you have completed or declined to complete that particular questionnaire. This cookie is not designed to collect personal information about you. Rather it is designed to make your return visits more pleasant by preventing the same survey from being offered to you again.
 
-We do not intend to collect nonpublic personal information from children under 13 years of age. If we learn that we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to delete the data from our system. 
+We do not intend to collect nonpublic personal information from children under 13 years of age. If we learn that we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to delete the data from our system.
 
 From time to time, you may access our sites through a co-branded page of one of our marketing partners. We will try to show clearly, by placing our marketing partner's name or logo in a prominent place or otherwise, whether a page is co-branded. If you provide your information on a co-branded page, your registration information may be shared with our marketing partner. It is important to remember that, if you link to a third-party site from any of our websites, that party's privacy policy and its terms and conditions of use apply to you. We encourage you to learn about each third party's privacy policy before giving personal information to them.
 
@@ -78,7 +78,7 @@ In our information technology systems environment, The National Research Center 
 
 Contact Us
 
-If you have any questions or comments about this policy, please email The National Research Center for College & University Admissions at [studentprivacy@nrccua.org](mailto:studentprivacy@nrccua.org) or contact us at 816-525-2201 or write to: 
+If you have any questions or comments about this policy, please email The National Research Center for College & University Admissions at [studentprivacy@nrccua.org](mailto:studentprivacy@nrccua.org) or contact us at 816-525-2201 or write to:
 
 My College Options
 
