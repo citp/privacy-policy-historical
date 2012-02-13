@@ -1,97 +1,328 @@
-<!--The following is the downloaded HTML source of the mycollegeoptions.org privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006220215id_/http%3A//www.mycollegeoptions.org/Content/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycollegeoptions.org privacy policy that was archived on 2012-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120213065208id_/https%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Privacy Policy MyCollegeOptions.org
-</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+	My College Options - PrivacyPolicy
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+<meta http-equiv="pragma" content="no-cache"> 
+<meta http-equiv="content-style-type" content="text/css"> 
+<meta http-equiv="content-script-type" content="text/javascript"> 
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=CorporateSite"> 
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=Header">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=mco-login">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=footer">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=validationPopupMessages">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=ProfileLeftNavigation">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=ResourceCenterWidget">
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=Poll">
+ <script type="text/javascript" src="/Core/CMSScripts/jQuery/jquery.min.js"></script>
+  <script type="text/javascript" src="/Core/CMSScripts/DisplayNewsVideo.js"></script>
+  <script type="text/javascript" src="/Core/CMSScripts/InteractBannerAd/InteractOffer.js"></script>
+ <script type="text/javascript" src="/Core/CMSScripts/jQuery/jquery.simplemodal.js"></script>
+<script type="text/javascript" language="javascript">
 
-    <script type="text/javascript" src="/Resources/js/ClientValidation.js"></script>
+$(document).ready(function() {
 
-    <script type="text/javascript" src="/Resources/js/SurveyScripts.js"></script>
+ $(document).click(function(e) {
+            $('#divPopupSignInErrorMsgNavigation').fadeOut(1000);
+        });
 
-    <script type="text/javascript" src="/images/Maps/Interactive/swfobject.js"></script>
 
-    <script type="text/javascript" src="/Resources/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+  //code for ntpt event tracking
+    //colleges interested
+    $(".headerSubMenu2CMSListMenuLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Interested") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeInterestedList');
+        }
+    });
 
-    <script type="text/javascript" src="/ajaxTabs/ajaxtabs.js"></script>
+    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Interested") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeInterestedList');
+        }
+    });
+
+    //colleges matched
+    $(".headerSubMenu2CMSListMenuLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Colleges Matched") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeMatchList');
+        }
+    });
+
+    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Colleges Matched") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeMatchList');
+        }
+    });
+
+    //favorite colleges
+    $(".headerSubMenu2CMSListMenuLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Favorite Colleges") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeFavoriteList');
+        }
+    });
+
+    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Favorite Colleges") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewCollegeFavoriteList');
+        }
+    });
+
+    //scholarships matched
+    $(".headerSubMenu2CMSListMenuLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Scholarships Matched") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewScholarshipMatchList');
+        }
+    });
+
+    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Scholarships Matched") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewScholarshipMatchList');
+        }
+    });
+
+    //Edit/View Profile
+    $(".headerSubMenu2CMSListMenuLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLink').text() == "Edit/View Profile") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewUserProfile');
+
+        }
+    });
+    $(".headerSubMenu2CMSListMenuHighlightedLI").click(function() {
+        if ($(this).find('.headerSubMenu2CMSListMenuLinkHighlighted').text() == "Edit/View Profile") {
+            ntptAddPair('ClickSourceLocation', 'TopNav');
+            ntptEventTag('ev=ViewUserProfile');
+        }
+    });
+
+
+    //end of code for ntpt event tracking
+  //code to dispaly the 1st and 2nd level of menu
+    //because when we click on the 1st level "highlight" class is not apply to other level, so we need to display allUL's 
+    $(".headerMainMenuCMSListMenuHighlightedLI").find(".headerSubMenu1CMSListMenuUL").css('display', 'block');
+
+    $(".headerSubMenu1CMSListMenuLI").mouseover(function() {
+        closeSecondLevel();
+        $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
+    });
     
-    <script type="text/javascript" src="/Resources/js/jQuery/jquery.js"></script>
-    
-    <script type="text/javascript" src="/Resources/js/Header.js"></script>
+    $(".headerSubMenu1CMSListMenuHighlightedLI").mouseover(function() {
+        closeSecondLevel();
+        $(this).find('ul.headerSubMenu2CMSListMenuUL').css('display', 'block');
+    });
 
-    <link rel="stylesheet" type="text/css" href="/App_Themes/Standard/Main.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/MasterPageStudent.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/ZeroHourThreatGame.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/StudentCommonStyle.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/NewCommon.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/Layout.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/Module.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/DropDown.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/Default.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/modules_profile_1.1.css"><link rel="stylesheet" type="text/css" href="/ajaxTabs/StudentLanding_Redesign.css"><link rel="stylesheet" type="text/css" href="/ajaxTabs/ajaxtabs.css"><link rel="stylesheet" type="text/css" href="/App_Themes/Standard/Header.css">
-</head>
-<body id="ctl00_MasterBody">
-    <form name="aspnetForm" method="post" action="/Content/About/PrivacyPolicy.aspx" id="aspnetForm">
+
+    wireUpLoginClick();
+    wireUpCancelLoginClick();
+
+
+});
+
+function closeSecondLevel() {
+
+    $('ul.headerSubMenu2CMSListMenuUL').css('display', 'none');
+
+}
+function wireUpLoginClick() {
+
+    $('.head-loginout').click(function() {
+
+        $("#head-loginout-box").fadeIn(500);
+    });
+}
+function wireUpCancelLoginClick() {
+
+    $('.hover-button').click(function() {
+
+        $("#head-loginout-box").hide();
+    });
+}
+</script>
+<script language="javascript" type="text/javascript">
+
+    $(document).ready(function() {
+
+        $("#divCloseButton").click(function() {
+            $(".popupContainer").hide();
+            $(".popupBackground").hide();
+        });
+	//Interact offer tracking JS funcion
+	InteractOffer.InitializeTrackingTools();
+    });
+
+    function CollegeProfessionalPopup() {
+        var maskHeight = $(document).height();
+        var maskWidth = $(window).width();
+        $(".popupBackground").css({ 'width': maskWidth, 'height': maskHeight, 'opacity': '0.5' });
+        $(".popupBackground").fadeIn("slow");
+
+
+        var winH = $(window).height();
+        var winW = $(window).width();
+
+        //Set the popup window to center  
+        $('.popupContainer').css('top', winH / 2 - $('.popupContainer').height() / 2);
+        $('.popupContainer').css('left', winW / 2 - $('.popupContainer').width() / 2);
+
+        $(".popupContainer").fadeIn(10);
+    }
+
+
+
+</script>
+<link type="text/css" rel="stylesheet" href="/Core/CMSPages/GetCSS.aspx?stylesheetname=McoTwoColumnWithLeftNav"> 
+<link rel="shortcut icon" href="/Core/favicon.ico">
+<link rel="icon" href="/Core/favicon.ico"><link href="../../../App_Themes/CorporateSite/Dialogs.css" type="text/css" rel="stylesheet"><link href="../../../App_Themes/CorporateSite/ECommerce.css" type="text/css" rel="stylesheet"></head>
+<body class="LTR ENUS">
+    <form method="post" action="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTg5NjUwNjMzD2QWAmYPZBYEAgEPZBYcAgEPFQchL1Jlc291cmNlcy9qcy9DbGllbnRWYWxpZGF0aW9uLmpzHi9SZXNvdXJjZXMvanMvU3VydmV5U2NyaXB0cy5qcyUvaW1hZ2VzL01hcHMvSW50ZXJhY3RpdmUvc3dmb2JqZWN0LmpzFS9SZXNvdXJjZXMvanMvbWJveC5qcxUvYWpheFRhYnMvYWpheHRhYnMuanMeL1Jlc291cmNlcy9qcy9qUXVlcnkvanF1ZXJ5LmpzFy9SZXNvdXJjZXMvanMvSGVhZGVyLmpzZAICDxYCHgRocmVmBR0vQXBwX1RoZW1lcy9TdGFuZGFyZC9NYWluLmNzc2QCAw8WAh8ABSovQXBwX1RoZW1lcy9TdGFuZGFyZC9NYXN0ZXJQYWdlU3R1ZGVudC5jc3NkAgQPFgIfAAUrL0FwcF9UaGVtZXMvU3RhbmRhcmQvWmVyb0hvdXJUaHJlYXRHYW1lLmNzc2QCBQ8WAh8ABSsvQXBwX1RoZW1lcy9TdGFuZGFyZC9TdHVkZW50Q29tbW9uU3R5bGUuY3NzZAIGDxYCHwAFIi9BcHBfVGhlbWVzL1N0YW5kYXJkL05ld0NvbW1vbi5jc3NkAgcPFgIfAAUfL0FwcF9UaGVtZXMvU3RhbmRhcmQvTGF5b3V0LmNzc2QCCA8WAh8ABR8vQXBwX1RoZW1lcy9TdGFuZGFyZC9Nb2R1bGUuY3NzZAIJDxYCHwAFIS9BcHBfVGhlbWVzL1N0YW5kYXJkL0Ryb3BEb3duLmNzc2QCCg8WAh8ABSAvQXBwX1RoZW1lcy9TdGFuZGFyZC9EZWZhdWx0LmNzc2QCCw8WAh8ABSwvQXBwX1RoZW1lcy9TdGFuZGFyZC9tb2R1bGVzX3Byb2ZpbGVfMS4xLmNzc2QCDA8WAh8ABSUvYWpheFRhYnMvU3R1ZGVudExhbmRpbmdfUmVkZXNpZ24uY3NzZAINDxYCHwAFFi9hamF4VGFicy9hamF4dGFicy5jc3NkAg4PFgIfAAUfL0FwcF9UaGVtZXMvU3RhbmRhcmQvSGVhZGVyLmNzc2QCAw9kFgICARBkZBYIAgEPZBYCAgIPZBYEAgEPD2QWAh4Kb25rZXlwcmVzcwVfcmV0dXJuIGNsaWNrQnV0dG9uT25FbnRlcktleVByZXNzKGV2ZW50LCdjdGwwMF9IZWFkZXJTZWN0aW9uMV9DdXN0b21TZWFyY2hDb250cm9sX2hsbmtTZWFyY2gnKTtkAgMPDxYEHghJbWFnZVVybAUkL2ltYWdlcy9CdXR0b25zL2J0blNlYXJjaEJsdWVib3guZ2lmHgtOYXZpZ2F0ZVVybAWBAkphdmFTY3JpcHQ6c2VhcmNoKCdjdGwwMF9IZWFkZXJTZWN0aW9uMV9DdXN0b21TZWFyY2hDb250cm9sX3EnLCdjdGwwMF9IZWFkZXJTZWN0aW9uMV9DdXN0b21TZWFyY2hDb250cm9sX2N4JywnY3RsMDBfSGVhZGVyU2VjdGlvbjFfQ3VzdG9tU2VhcmNoQ29udHJvbF9jb2YnLCcvQ29udGVudC9TZWFyY2hSZXN1bHRzLmFzcHgnLCdodHRwOi8vd3d3Lm15Y29sbGVnZW9wdGlvbnMub3JnOjgwL0NvbnRlbnQvQWJvdXQvUHJpdmFjeVBvbGljeS5hc3B4Jyk7ZGQCAw8PFgIeB1Zpc2libGVnZGQCBg9kFgJmDxYCHgtfIUl0ZW1Db3VudAIFFgoCAQ9kFgJmDw8WBB8DBUh+L0FydGljbGVzLzQvNDQvQ29sbGVnZS1BZG1pc3Npb25zLTEwMS9Ib3ctQ29sbGVnZS1BZG1pc3Npb25zLVdvcmtzLmFzcHgeBFRleHQFLUhvdyBEb2VzIHRoZSBDb2xsZWdlIEFkbWlzc2lvbnMgUHJvY2VzcyBXb3JrP2RkAgIPZBYCZg8PFgQfAwU1fi9BcnRpY2xlcy8yLzE1L1RoZS1TQVQvQ29sbGVnZS1FbnRyYW5jZS1UZXN0aW5nLmFzcHgfBgUaVW5kZXJzdGFuZGluZyB0aGUgU0FUIFRlc3RkZAIDD2QWAmYPDxYEHwMFPH4vQXJ0aWNsZXMvMi8xNi9UZXN0LVByZXAtVGlwcy9Db2xsZWdlLUVudHJhbmNlLVRlc3RpbmcuYXNweB8GBS1HZXQgVGltZSBvbiBZb3VyIFNpZGU6IFNBVC9BQ1QgVGVzdCBQcmVwIFRpcHNkZAIED2QWAmYPDxYEHwMFPX4vQXJ0aWNsZXMvNi83L0FkbWlzc2lvbnMtZ2xvc3NhcnktQy9BZG1pc3Npb25zLUdsb3NzYXJ5LmFzcHgfBgUqQ29sbGVnZSBBZG1pc3Npb25zIFRlcm1zIGFuZCBEZWZpbml0aW9ucyBDZGQCBQ9kFgJmDw8WBB8DBVV+L0FydGljbGVzLzQvNjQvQ2hvb3NpbmctYS1NYWpvci0tLVN1cnByaXNpbmctRmFjdHMvSG93LUNvbGxlZ2UtQWRtaXNzaW9ucy1Xb3Jrcy5hc3B4HwYFJ1N1cnByaXNpbmcgRmFjdHMgQWJvdXQgQ2hvb3NpbmcgYSBNYWpvcmRkAgkPZBYQAgMPDxYEHwMFIG1haWx0bzpzdHVkZW50cHJpdmFjeUBucmNjdWEub3JnHwYFGXN0dWRlbnRwcml2YWN5QG5yY2N1YS5vcmdkZAIFDw8WAh8GBQw4MTYtNTI1LTIyMDFkZAIHDw8WAh8GBQZOUkNDVUFkZAIJDw8WAh8GBRkzNjUxIE5FIFJhbHBoIFBvd2VsbCBSb2FkZGQCCw8PFgIfBgUMTGVlJ3MgU3VtbWl0ZGQCDQ8PFgIfBgUCTU9kZAIPDw8WAh8GBQU2NDA2NGRkAhEPDxYCHwYFDDgxNi01MjUtMjIwMWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBSljdGwwMCRIZWFkZXJTZWN0aW9uMSRMb2dpblN0YXR1c1RvcCRjdGwwMQUpY3RsMDAkSGVhZGVyU2VjdGlvbjEkTG9naW5TdGF0dXNUb3AkY3RsMDMFIWN0bDAwJEhlYWRlclNlY3Rpb24xJGJ0blNpZ25JblRvcKGUKIzj86S+jfLfE0iyd/muoepG">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWBgIBD2QWAmYPZBYCAgEPZBYEAgEPD2QWBh4Gb25ibHVyBRdXYXRlck1hcmsodGhpcywgZXZlbnQpOx4Hb25mb2N1cwUXV2F0ZXJNYXJrKHRoaXMsIGV2ZW50KTseCm9ua2V5cHJlc3MFZ3JldHVybiBjbGlja0J1dHRvbk9uRW50ZXJLZXlQcmVzcyhldmVudCwncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2hsbmtTZWFyY2gnKTtkAgMPDxYEHghJbWFnZVVybAVEL0NvcmUvQXBwX1RoZW1lcy9XZWJQcm9qZWN0L21lZGlhL0ltYWdlcy9CdXR0b25zL2ljbl9zZWFyY2hTbWFsbC5naWYeC05hdmlnYXRlVXJsBdgCSmF2YVNjcmlwdDpzZWFyY2goJ3BsY19sdF9ab25lU2VhcmNoQm94X3VzZXJjb250cm9sX3VzZXJDb250cm9sRWxlbV9xJywncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2N4JywncGxjX2x0X1pvbmVTZWFyY2hCb3hfdXNlcmNvbnRyb2xfdXNlckNvbnRyb2xFbGVtX2NvZicsJy9Db250ZW50L1NlYXJjaFJlc3VsdHMuYXNweCcsJ2h0dHBzOi8vd3d3Lm15Y29sbGVnZW9wdGlvbnMub3JnOjQ0My9Db3JlL0NNU1BhZ2VzL1BvcnRhbFRlbXBsYXRlLmFzcHg/YWxpYXNwYXRoPSUyZlNpdGVDb250ZW50JTJmU3R1ZGVudHMlMmZBYm91dCUyZlByaXZhY3lQb2xpY3knKTtkZAICD2QWAmYPZBYEAgMPZBYCZg9kFgJmD2QWAgIBD2QWAgIFDxAPFgIeBFRleHRlZGRkZAIFD2QWAgIDDw9kFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIDD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPZBYCZg9kFgJmDxYGHhJUcmFuc2Zvcm1hdGlvbk5hbWUFJUNNUy5NZW51SXRlbS5SZXNvdXJjZUNlbnRlcldpZGdldExpc3QeFkhpZGVDb250cm9sRm9yWmVyb1Jvd3NoHgxaZXJvUm93c1RleHRlFgpmD2QWAmYPZBYCZg8VAmsvQ29yZS9TaXRlQ29udGVudC9TdHVkZW50cy9BZHZpY2UvQ29sbGVnZS1SZXNvdXJjZS1DZW50ZXIvR2V0dGluZy1Jbi1Uby1Db2xsZWdlL1JldGFraW5nLXRoZS1TQVRzLUFDVHMuYXNweBZSZXRha2luZyB0aGUgU0FUcy9BQ1RzZAIBD2QWAmYPZBYCZg8VAogBL0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0NvbGxlZ2UtU2VhcmNoLWFuZC1TZWxlY3Rpb24vSGlzdG9yaWNhbGx5LUJsYWNrLUNvbGxlZ2VzLWFuZC1Vbml2ZXJzaXRpZXMuYXNweCxIaXN0b3JpY2FsbHkgQmxhY2sgQ29sbGVnZXMgYW5kIFVuaXZlcnNpdGllc2QCAg9kFgJmD2QWAmYPFQJ8L0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0NvbGxlZ2UtU2VhcmNoLWFuZC1TZWxlY3Rpb24vTmFycm93aW5nLURvd24tWW91ci1Db2xsZWdlLUxpc3QuYXNweCBOYXJyb3dpbmcgRG93biBZb3VyIENvbGxlZ2UgTGlzdGQCAw9kFgJmD2QWAmYPFQJpL0NvcmUvU2l0ZUNvbnRlbnQvU3R1ZGVudHMvQWR2aWNlL0NvbGxlZ2UtUmVzb3VyY2UtQ2VudGVyL0FwcGx5aW5nLXRvLUNvbGxlZ2UvRWFybHktQWRtaXNzaW9ucy1QbGFucy5hc3B4FkVhcmx5IEFkbWlzc2lvbnMgUGxhbnNkAgQPZBYCZg9kFgJmDxUCZy9Db3JlL1NpdGVDb250ZW50L1N0dWRlbnRzL0FkdmljZS9Db2xsZWdlLVJlc291cmNlLUNlbnRlci9BcHBseWluZy10by1Db2xsZWdlL0FjY2VwdGVkLS0tTm93LVdoYXQtLmFzcHgUQWNjZXB0ZWQgLSBOb3cgV2hhdD9kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTJwbGMkbHQkem9uZUxvZ2luJE1DT0xvZ29uRm9ybSRMb2dpbjEkY2hrUmVtZW1iZXJNZQUycGxjJGx0JHpvbmVMb2dpbiRNQ09Mb2dvbkZvcm0kTG9naW4xJGJ0bkltYWdlTG9nb25mUplVJaMca/l1+uvfw9qvMMWruQ==">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Core/WebResource.axd?d=_xqoAC_y7luLaqnRFtp75Q2&amp;t=634359628026297296" type="text/javascript"></script>
 
 <!-- BEGIN: Unica Page Tag -->
         <!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
-        <script language="JavaScript" src="https://pagetag.mycollegeoptions.org/ntpagetag.js"></script>
+        <script language="JavaScript" src="https://pagetag.mycollegeoptions.org/ntpagetag.js" type="text/javascript"></script>
         <noscript>
-        <img src="https://pagetag.mycollegeoptions.org/ntpagetag.gif" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+        <img src="https://pagetag.mycollegeoptions.org/ntpagetag.gif" height="1" width="1" border="0" hspace="0" vspace="0" alt="" />
         </noscript>
-        <!-- END: Unica Page Tag -->
-<script src="/ScriptResource.axd?d=yKxM2c5NMtKctHTIHwO2XMnIYEZ_tuqA9qFeaEiM1wakSC-bvGj6_X-Zq7xLTh-h-vsQqd19ImJzzUfVPoKECKreufvE4IQjLI4bZbc01MU1&amp;t=ffffffffdab5b1c1" type="text/javascript"></script>
+        <!-- END: Unica Page Tag --><div><input type="hidden" name="lng" id="lng" value="en-US">
+</div>
+<script src="/Core/ScriptResource.axd?d=yKxM2c5NMtKctHTIHwO2XDKR5r3alIJEZjgUbeJgPECJ_J-AJwFHNtm2y5Ji0TIIvzU8uEvW_hFAebZCs7n_ZB41SDh5r_ng6r5_kyvvX8g1&amp;t=16ab2387" type="text/javascript"></script>
+<script src="/Core/ScriptResource.axd?d=yKxM2c5NMtKctHTIHwO2XDKR5r3alIJEZjgUbeJgPECJ_J-AJwFHNtm2y5Ji0TIIIxZ5QPGaGlGg67xyiL57dood7YKXE1es8AEAC30b5do1&amp;t=16ab2387" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLbkbzxAgK74OjFCgLev/EKAoyR7fkMArL7mroLAuGa5p4MApae470KQbMGvflqyX79m9rOXby4qjmes7Q=">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
-    
-    <div id="divPage">
-        <!--<div class="main">-->
-            <!-- Page Starts -->
-            <!-- Header Section Starts -->
-            
-<link href="/App_Themes/Standard/ValidationPopupMessage.css" rel="stylesheet" type="text/css">
+    <div id="manPortal">
 
-<script type="text/javascript" language="javascript">
-    //the pageLoad function is replaced with $(document).ready because the multiple pageLoad functions 
-    //in the content pages are not working.
-    $(document).ready(function() {
-        $(document).click(function(e) {
-            $('#divPopupSignInErrorMsgNavigation').fadeOut(1000);
-        });
-    });
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90, '');
+//]]>
 </script>
 
-<div class="headerContainer">
-    <div class="headerLogoLinkAndLoginContainer">
-        <div id="ctl00_HeaderSection1_pnlLoginHeader">
-	
-            
-            <div class="headerTopBarLogin">
-                <div class="clsPopupSignInNavigationPosition">
-                    <div id="divPopupSignInErrorMsgNavigation" class="clsPopupSignInNavigation">
-                        <img src="/images/Background/Tooltip/brdTooltipTopWhite.gif">
-                        <div class="clsPopupSignInErrorMsg">
-                            <strong>
-                                <span id="ctl00_HeaderSection1_lblLoginErrMsg"></span></strong></div>
-                        <img src="/images/Background/Tooltip/brdTooltipWhiteBottom.gif">
-                    </div>
-                </div>
-                <div id="signIn" class="headerLoginControlsSignIn">
-                    <input type="image" name="ctl00$HeaderSection1$btnSignInTop" id="ctl00_HeaderSection1_btnSignInTop" tabindex="9" src="../../images/Buttons/btnNavigationSignIn.gif" alt="Sign In" align="absmiddle" style="height:16px;width:57px;border-width:0px;">
-                </div>
-                <div class="headerLoginControls">
-                    <input name="ctl00$HeaderSection1$txtPasswordTop" type="password" id="ctl00_HeaderSection1_txtPasswordTop" tabindex="8" class="headerLoginControlsTextbox">
-                </div>
-                <div class="headerLoginControls">
-                    <input name="ctl00$HeaderSection1$txtUserIdTop" type="text" id="ctl00_HeaderSection1_txtUserIdTop" tabindex="7" class="headerLoginControlsTextbox">
-                </div>
-            </div>
-            
-</div>
-        <a id="ctl00_HeaderSection1_lnkHeaderHome" href="../../Home.aspx">
-        <div class="headerLogoImageHyperlink">
-        </div>
-        </a>
+     
+<div class="main">
+<div class="user-nav">
+    <div class="user-alert">
+        <a style="color: rgb(255, 255, 255); margin: 0;" href="/home">My College Options®</a>
     </div>
-    <div class="headerMenuAndSearchContainer">
-        <div class="headerSearchBox">
-            
+    <div class="user-login">
+    </div>
+    <!-- /user-nav-->
+</div>
+<div class="site-nav">
+    <div id="menu">
+     
+	<ul class="headerMainMenuCMSListMenuUL" id="menuElem">
+		<li class="headerMainMenuCMSListMenuHighlightedLI"><a href="/Home?IsDefaultMenuItem=true" class="headerMainMenuCMSListMenuLinkHighlighted" title="Students">Students</a>
+		<ul class="headerSubMenu1CMSListMenuUL">
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="My Home">My Home</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=interested" class="headerSubMenu2CMSListMenuLink" title="Colleges Interested">Colleges Interested</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=matched" class="headerSubMenu2CMSListMenuLink" title="College Matches">College Matches</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=favorite" class="headerSubMenu2CMSListMenuLink" title="Favorite Colleges">Favorite Colleges</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/MyHome?tab=scholarships" class="headerSubMenu2CMSListMenuLink" title="Scholarship Matches">Scholarship Matches</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/college-search/us.aspx?HighlightMatchPattern=college-search|search-results-colleges|search-results-advanced|college-profile" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/high-school-search/us.aspx?HighlightMatchPattern=high-school-search|high-School-profile" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/scholarship-advanced-search.aspx?HighlightMatchPattern=scholarship-search|scholarship-advanced|scholarshipsearch" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx" class="headerSubMenu2CMSListMenuLink" title="Resource Center">Resource Center</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep">ACT/SAT Test Prep</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Tools/MajorsSearch.aspx" class="headerSubMenu2CMSListMenuLink" title="Major &amp; Career Research">Major &amp; Career Research</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMatchPattern=SimpleTuition" class="headerSubMenu2CMSListMenuLink" title="Student Loan Search">Student Loan Search</a></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="headerMainMenuCMSListMenuLI"><a href="/Content/ForParents/ParentsHome.aspx" class="headerMainMenuCMSListMenuLink" title="Parents">Parents</a>
+		<ul class="headerSubMenu1CMSListMenuUL">
+			<li class="headerSubMenu1CMSListMenuLI"><a href="/Content/ForParents/ParentsHome.aspx" class="headerSubMenu1CMSListMenuLink" title="Home">Home</a></li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/college-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/high-school-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/scholarship-advanced-search.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/CollegeResources/CollegeResources.aspx?HighlightMenuItem=False" class="headerSubMenu2CMSListMenuLink" title="College Resources">College Resources</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/BlogEngine/Default.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Fat Envelope">Fat Envelope</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep (Zero Hour Threat Game)">ACT/SAT Test Prep (Zero Hour Threat Game)</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/Research/Major/Research.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Research Majors/Careers">Research Majors/Careers</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Student Loans">Student Loans</a></li>
+			</ul>
+			</li>
+			<li class="headerSubMenu1CMSListMenuLI"><span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="About">About</span>
+			<ul class="headerSubMenu2CMSListMenuUL">
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/About/Index.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="About Us">About Us</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/SiteResources/NewsAndPressRelease.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Press Releases">Press Releases</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/ForStudents/ReferAFriend.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Tell A Friend">Tell A Friend</a></li>
+				<li class="headerSubMenu2CMSListMenuLI"><a href="/Content/SiteResources/ContestWinners.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Winners Circle">Winners Circle</a></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="headerMainMenuCMSListMenuLI"><a href="https://educators.mycollegeoptions.org?HighlightMenuItem=false" class="headerMainMenuCMSListMenuLink" title="Counselors | Educators">Counselors | Educators</a>
+		<ul class="headerSubMenu1CMSListMenuUL">
+			<li class="headerSubMenu1CMSListMenuLI"><a href="/Core/SiteContent/CounselorsAndEducators/College-Planning-Tour.aspx" class="headerSubMenu1CMSListMenuLink" title="College Planning Tour">College Planning Tour</a></li>
+		</ul>
+		</li>
+	</ul>
+
+
+    </div>
+    <div id="search_box_main">
+     
 
 <script language="javascript" type="text/javascript">
     function search(q, cx, cof, url, OriginalUrlString)
@@ -122,929 +353,347 @@
              .replace(/\'/g, '%27');
     }
 
+    //Function to tie a button click event of a specific button to the enter key press on a particular textbox
+    function clickButtonOnEnterKeyPress(event, buttonToClick) {
+        //See if the key pressed is the enter key (event.which is DOM style, event.keyCode is IE style)
+        if ((event.which && event.which == 13) || (event.keyCode && event.keyCode == 13)) {
+            theButton = document.getElementById(buttonToClick);
+            if (theButton != null) {
+                if (theButton.href != null)
+                    window.location.href = theButton.href;
+                else
+                    theButton.click();
+
+                if (event && event.preventDefault)
+                    event.preventDefault(); // DOM style
+                return false; // IE style
+            }
+            else {
+                return true;
+            }
+        }
+        else {
+            return true;
+        }
+    }
+    var defaultText = "Search The Site";
+
+    function WaterMark(txt, evt) {
+
+        if (txt.value.length == 0 && evt.type == "blur") {
+
+            txt.value = defaultText;
+
+        }
+
+        if (txt.value == defaultText && evt.type == "focus") {
+
+            txt.style.color = "black";
+
+            txt.value = "";
+
+        }
+
+    }
+
 </script>
 
-<input name="ctl00$HeaderSection1$CustomSearchControl$q" type="text" maxlength="512" id="ctl00_HeaderSection1_CustomSearchControl_q" class="s" onkeypress="return clickButtonOnEnterKeyPress(event,'ctl00_HeaderSection1_CustomSearchControl_hlnkSearch');">
-<a id="ctl00_HeaderSection1_CustomSearchControl_hlnkSearch" class="go" imagealign="AbsMiddle" href="JavaScript:search('ctl00_HeaderSection1_CustomSearchControl_q','ctl00_HeaderSection1_CustomSearchControl_cx','ctl00_HeaderSection1_CustomSearchControl_cof','/Content/SearchResults.aspx','http://www.mycollegeoptions.org:80/Content/About/PrivacyPolicy.aspx');" style="display:inline-block;height:17px;width:20px;"><img src="/images/Buttons/btnSearchBluebox.gif" style="border-width:0px;"></a>
-<input type="hidden" name="ctl00$HeaderSection1$CustomSearchControl$cx" id="ctl00_HeaderSection1_CustomSearchControl_cx" value="005161944183285838012:nve0vu6x5gk">
-<input type="hidden" name="ctl00$HeaderSection1$CustomSearchControl$cof" id="ctl00_HeaderSection1_CustomSearchControl_cof" value="FORID:11">
+<input name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$q" type="text" value="Search The Site" maxlength="512" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_q" class="s" onblur="WaterMark(this, event);" onfocus="WaterMark(this, event);" onkeypress="return clickButtonOnEnterKeyPress(event,'plc_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch');">
+<a id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_hlnkSearch" class="go" imagealign="AbsMiddle" href="JavaScript:search('plc_lt_ZoneSearchBox_usercontrol_userControlElem_q','plc_lt_ZoneSearchBox_usercontrol_userControlElem_cx','plc_lt_ZoneSearchBox_usercontrol_userControlElem_cof','/Content/SearchResults.aspx','https://www.mycollegeoptions.org:443/Core/CMSPages/PortalTemplate.aspx?aliaspath=%2fSiteContent%2fStudents%2fAbout%2fPrivacyPolicy');" style="display:inline-block;height:17px;width:20px;"><img src="/Core/App_Themes/WebProject/media/Images/Buttons/icn_searchSmall.gif" alt="" style="border-width:0px;"></a>
+<input type="hidden" name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$cx" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_cx" value="005161944183285838012:nve0vu6x5gk">
+<input type="hidden" name="plc$lt$ZoneSearchBox$usercontrol$userControlElem$cof" id="plc_lt_ZoneSearchBox_usercontrol_userControlElem_cof" value="FORID:11">
 
-        </div>
-        <ul class="headerMainMenuCMSListMenuUL" id="menuElem">
-  <li class="headerMainMenuCMSListMenuHighlightedLI">
-    <a href="/Home?IsDefaultMenuItem=true" class="headerMainMenuCMSListMenuLinkHighlighted" title="Students">Students</a>
-    <ul class="headerSubMenu1CMSListMenuUL">
-      <li class="headerSubMenu1CMSListMenuLI">
-        <a href="/Home" class="headerSubMenu1CMSListMenuLink" title="Home">Home</a>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="My Options">My Options</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/EnhancedStudentProfile?HighlightMatchPattern=/ForStudents/StudentProfile/|CollegeFeed|StudentSavedFeed|EnhancedStudentProfile" class="headerSubMenu2CMSListMenuLink" title="Edit/View Profile">Edit/View Profile</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/MyHome?tab=interested" class="headerSubMenu2CMSListMenuLink" title="Colleges Interested">Colleges Interested</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/MyHome?tab=matched" class="headerSubMenu2CMSListMenuLink" title="Colleges Matched">Colleges Matched</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/MyHome?tab=favorite" class="headerSubMenu2CMSListMenuLink" title="Favorite Colleges">Favorite Colleges</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/MyHome?tab=scholarships" class="headerSubMenu2CMSListMenuLink" title="Scholarships Matched">Scholarships Matched</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/CollegeFeed" class="headerSubMenu2CMSListMenuLink" title="News Updates">News Updates</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/college-search/us.aspx?HighlightMatchPattern=college-search|search-results-colleges|search-results-advanced|college-profile" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/high-school-search/us.aspx?HighlightMatchPattern=high-school-search|high-School-profile" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/scholarship-advanced-search.aspx?HighlightMatchPattern=scholarship-search|scholarship-advanced|scholarshipsearch" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx" class="headerSubMenu2CMSListMenuLink" title="Resource Center">Resource Center</a>
-            <ul class="CMSListMenuUL">
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College.aspx" class="CMSListMenuLink" title="Applying to College">Applying to College</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/College-Admissions-101.aspx" class="CMSListMenuLink" title="College Admissions 101">College Admissions 101</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Early-Admissions-Plans.aspx" class="CMSListMenuLink" title="Early Admissions Plans">Early Admissions Plans</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Getting-Wait-Listed.aspx" class="CMSListMenuLink" title="Getting Wait-Listed">Getting Wait-Listed</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Letters-of-Recommendation.aspx" class="CMSListMenuLink" title="Letters of Recommendation">Letters of Recommendation</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Organizing-your-College-Applications.aspx" class="CMSListMenuLink" title="Organizing your College Applications">Organizing your College Applications</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/The-College-Application.aspx" class="CMSListMenuLink" title="The College Application">The College Application</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/The-College-Essay.aspx" class="CMSListMenuLink" title="The College Essay">The College Essay</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/What-You-Need-to-Know-About-College-Admission-Dead.aspx" class="CMSListMenuLink" title="Admissions Plans and Deadlines">Admissions Plans and Deadlines</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/College-Admissions-Decisions.aspx" class="CMSListMenuLink" title="College Admissions Decisions">College Admissions Decisions</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Career---Major-Planning.aspx" class="CMSListMenuLink" title="Career &amp; Major Planning">Career &amp; Major Planning</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Career---Major-Planning/What-Should-I-Do--Three-steps-to-choosing-a-career.aspx" class="CMSListMenuLink" title="What Should I Do? Three steps to choosing a career">What Should I Do? Three steps to choosing a career</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides.aspx" class="CMSListMenuLink" title="College Admissions Guides">College Admissions Guides</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman.aspx" class="CMSListMenuLink" title="High School Freshman">High School Freshman</a>
-                    <ul class="CMSListMenuUL">
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/January-To-Do-List.aspx" class="CMSListMenuLink" title="January">January</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/February-To-Do-List.aspx" class="CMSListMenuLink" title="February">February</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/March-To-Do-List.aspx" class="CMSListMenuLink" title="March">March</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/April-To-Do-List.aspx" class="CMSListMenuLink" title="April">April</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/May-To-Do-List.aspx" class="CMSListMenuLink" title="May">May</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/June-To-Do-List.aspx" class="CMSListMenuLink" title="June">June</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/July-To-Do-List.aspx" class="CMSListMenuLink" title="July">July</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/August-To-Do-List.aspx" class="CMSListMenuLink" title="August">August</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/September-To-Do-List.aspx" class="CMSListMenuLink" title="September">September</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/October-To-Do-List.aspx" class="CMSListMenuLink" title="October">October</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/November-To-Do-List.aspx" class="CMSListMenuLink" title="November">November</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Freshman/December-To-Do-List.aspx" class="CMSListMenuLink" title="December">December</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore.aspx" class="CMSListMenuLink" title="High School Sophomore">High School Sophomore</a>
-                    <ul class="CMSListMenuUL">
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/January-To-Do-List.aspx" class="CMSListMenuLink" title="January">January</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/February-To-Do-List.aspx" class="CMSListMenuLink" title="February">February</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/March-To-Do-List.aspx" class="CMSListMenuLink" title="March">March</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/April-To-Do-List.aspx" class="CMSListMenuLink" title="April">April</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/May-To-Do-List.aspx" class="CMSListMenuLink" title="May">May</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/June-To-Do-List.aspx" class="CMSListMenuLink" title="June">June</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/July-To-Do-List.aspx" class="CMSListMenuLink" title="July">July</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/August-To-Do-List.aspx" class="CMSListMenuLink" title="August">August</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/September-To-Do-List.aspx" class="CMSListMenuLink" title="September">September</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/October-To-Do-List.aspx" class="CMSListMenuLink" title="October">October</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/November-To-Do-List.aspx" class="CMSListMenuLink" title="November">November</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Sophomore/December-To-Do-List.aspx" class="CMSListMenuLink" title="December">December</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior.aspx" class="CMSListMenuLink" title="High School Junior">High School Junior</a>
-                    <ul class="CMSListMenuUL">
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/January-To-Do-List.aspx" class="CMSListMenuLink" title="January">January</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/February-To-Do-List.aspx" class="CMSListMenuLink" title="February">February</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/March-To-Do-List.aspx" class="CMSListMenuLink" title="March">March</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/April-To-Do-List.aspx" class="CMSListMenuLink" title="April">April</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/May-To-Do-List.aspx" class="CMSListMenuLink" title="May">May</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/June-To-Do-List.aspx" class="CMSListMenuLink" title="June">June</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/July-To-Do-List.aspx" class="CMSListMenuLink" title="July">July</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/August-To-Do-List.aspx" class="CMSListMenuLink" title="August">August</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/September-To-Do-List.aspx" class="CMSListMenuLink" title="September">September</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/October-To-Do-List.aspx" class="CMSListMenuLink" title="October">October</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/November-To-Do-List.aspx" class="CMSListMenuLink" title="November">November</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Junior/December-To-Do-List.aspx" class="CMSListMenuLink" title="December">December</a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior.aspx" class="CMSListMenuLink" title="High School Senior">High School Senior</a>
-                    <ul class="CMSListMenuUL">
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/January-To-Do-List.aspx" class="CMSListMenuLink" title="January">January</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/February-To-Do-List.aspx" class="CMSListMenuLink" title="February">February</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/March-To-Do-List.aspx" class="CMSListMenuLink" title="March">March</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/April-To-Do-List.aspx" class="CMSListMenuLink" title="April">April</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/May-To-Do-List.aspx" class="CMSListMenuLink" title="May">May</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/June-To-Do-List.aspx" class="CMSListMenuLink" title="June">June</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/July-To-Do-List.aspx" class="CMSListMenuLink" title="July">July</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/August-To-Do-List.aspx" class="CMSListMenuLink" title="August">August</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/September-To-Do-List.aspx" class="CMSListMenuLink" title="September">September</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/October-To-Do-List.aspx" class="CMSListMenuLink" title="October">October</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/November-To-Do-List.aspx" class="CMSListMenuLink" title="November">November</a>
-                      </li>
-                      <li class="CMSListMenuLI">
-                        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Admissions-Guides/High-School-Senior/December-To-Do-List.aspx" class="CMSListMenuLink" title="December">December</a>
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection.aspx" class="CMSListMenuLink" title="College Search and Selection">College Search and Selection</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Beginning-Your-College-Search-Process.aspx" class="CMSListMenuLink" title="Beginning Your College Search Process">Beginning Your College Search Process</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Choosing-a-College.aspx" class="CMSListMenuLink" title="Choosing a College">Choosing a College</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/College-Recruiting.aspx" class="CMSListMenuLink" title="College Recruiting">College Recruiting</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/College-Recruitment-Mail.aspx" class="CMSListMenuLink" title="College Recruitment Mail">College Recruitment Mail</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/College-Selection---Essential-Steps-to-Take.aspx" class="CMSListMenuLink" title="College Selection - Essential Steps to Take">College Selection - Essential Steps to Take</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Family-College-Visits.aspx" class="CMSListMenuLink" title="Family College Visits">Family College Visits</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Maximize-Your-Campus-Visit.aspx" class="CMSListMenuLink" title="Maximize Your Campus Visit">Maximize Your Campus Visit</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Meeting-with-College-Admissions-Representatives.aspx" class="CMSListMenuLink" title="Meeting with College Admissions Representatives">Meeting with College Admissions Representatives</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Online-Education.aspx" class="CMSListMenuLink" title="Online Education">Online Education</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Options-after-High-School.aspx" class="CMSListMenuLink" title="Options after High School">Options after High School</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Rankings-and-College-Selection.aspx" class="CMSListMenuLink" title="Rankings and College Selection">Rankings and College Selection</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Researching-Colleges.aspx" class="CMSListMenuLink" title="Researching Colleges">Researching Colleges</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Should-I-Go-to-College-Fairs-and-Other-College-Inf.aspx" class="CMSListMenuLink" title="Should I Go to College Fairs and Other College Information Programs?">Should I Go to College Fairs and Other College Information Programs?</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Test-Article.aspx" class="CMSListMenuLink" title="Test Article">Test Article</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/When-to-Get-Started-with-College-Search.aspx" class="CMSListMenuLink" title="When to Get Started with College Search">When to Get Started with College Search</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Who-Goes-to-College-and-Where-.aspx" class="CMSListMenuLink" title="Who Goes to College and Where?">Who Goes to College and Where?</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College.aspx" class="CMSListMenuLink" title="Getting In To College">Getting In To College</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/9th-Grade-Self-Discovery.aspx" class="CMSListMenuLink" title="9th Grade Self Discovery">9th Grade Self Discovery</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/The-ACT.aspx" class="CMSListMenuLink" title="ACT">ACT</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Choosing-High-School-Classes.aspx" class="CMSListMenuLink" title="Choosing High School Classes">Choosing High School Classes</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/College-Essay-Writing-Tips.aspx" class="CMSListMenuLink" title="College Essay Writing Tips">College Essay Writing Tips</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Extracurricular-Activities.aspx" class="CMSListMenuLink" title="Extracurricular Activities">Extracurricular Activities</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/I-am-Taking-Harder-Classes-This-Year---What-if-My-.aspx" class="CMSListMenuLink" title="I am Taking Harder Classes This Year.  What if My Grades Go Down?">I am Taking Harder Classes This Year.  What if My Grades Go Down?</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Making-the-Most-of-High-School.aspx" class="CMSListMenuLink" title="Making the Most of High School">Making the Most of High School</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/SAT.aspx" class="CMSListMenuLink" title="SAT">SAT</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Summer-Activities.aspx" class="CMSListMenuLink" title="Summer Activities">Summer Activities</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/The-PLAN-and-PSAT.aspx" class="CMSListMenuLink" title="The PLAN and PSAT">The PLAN and PSAT</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Test-Prep-Advice.aspx" class="CMSListMenuLink" title="Test Prep Advice">Test Prep Advice</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Tips-for-Getting-In.aspx" class="CMSListMenuLink" title="Tips for Getting In">Tips for Getting In</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Tips-for-Navigating-the-College-Admissions-Maze.aspx" class="CMSListMenuLink" title="Tips for Navigating the College Admissions Maze">Tips for Navigating the College Admissions Maze</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College.aspx" class="CMSListMenuLink" title="Paying for College">Paying for College</a>
-                <ul class="CMSListMenuUL">
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/529-College-Savings-Plans.aspx" class="CMSListMenuLink" title="529 College Savings Plans">529 College Savings Plans</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Army-National-Guard.aspx" class="CMSListMenuLink" title="Army National Guard">Army National Guard</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Beyond-Merit-Scholarships.aspx" class="CMSListMenuLink" title="Beyond Merit Scholarships">Beyond Merit Scholarships</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/College-Scholarships-and-Grants.aspx" class="CMSListMenuLink" title="College Scholarships and Grants">College Scholarships and Grants</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Evaluating-Financial-Aid-Offers.aspx" class="CMSListMenuLink" title="Evaluating Financial Aid Offers">Evaluating Financial Aid Offers</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Financial-Aid-Deadlines.aspx" class="CMSListMenuLink" title="Financial Aid Deadlines">Financial Aid Deadlines</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Merit-Scholarships.aspx" class="CMSListMenuLink" title="Merit Scholarships">Merit Scholarships</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Other-College-Savings-Options.aspx" class="CMSListMenuLink" title="Other College Savings Options">Other College Savings Options</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Private-Student-Loan-Advice.aspx" class="CMSListMenuLink" title="Private Student Loan Advice">Private Student Loan Advice</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Student-Loans.aspx" class="CMSListMenuLink" title="Student Loans">Student Loans</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/The-Financial-Aid-Process.aspx" class="CMSListMenuLink" title="The Financial Aid Process">The Financial Aid Process</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Tips-on-Paying-for-College.aspx" class="CMSListMenuLink" title="Tips on Paying for College">Tips on Paying for College</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/Types-of-Financial-Aid-Available.aspx" class="CMSListMenuLink" title="Types of Financial Aid Available">Types of Financial Aid Available</a>
-                  </li>
-                  <li class="CMSListMenuLI">
-                    <a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Paying-for-College/UGMA-UTMA.aspx" class="CMSListMenuLink" title="UGMA/UTMA">UGMA/UTMA</a>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Core/SiteContent/Students/Advice/Fat-envelope.aspx" class="headerSubMenu2CMSListMenuLink" title="Fat Envelope">Fat Envelope</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep (Zero Hour Threat Game)">ACT/SAT Test Prep (Zero Hour Threat Game)</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/Research/Major/Research.aspx?HighlightMatchPattern=Research/Major" class="headerSubMenu2CMSListMenuLink" title="Research Majors/Careers">Research Majors/Careers</a>
-            <ul class="CMSListMenuUL">
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Art-Education.aspx" class="CMSListMenuLink" title="Art Education">Art Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Deaf-Education.aspx" class="CMSListMenuLink" title="Deaf Education">Deaf Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Education.aspx" class="CMSListMenuLink" title="Education">Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Music-Education.aspx" class="CMSListMenuLink" title="Music Education">Music Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Physical-Education.aspx" class="CMSListMenuLink" title="Physical Education">Physical Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/Special-Education.aspx" class="CMSListMenuLink" title="Special Education">Special Education</a>
-              </li>
-              <li class="CMSListMenuLI">
-                <a href="/Core/SiteContent/Students/Tools/ResearchMajors-Careers/test.aspx" class="CMSListMenuLink" title="test">test</a>
-              </li>
-            </ul>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMatchPattern=SimpleTuition" class="headerSubMenu2CMSListMenuLink" title="Student Loans">Student Loans</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="About">About</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/About/Index.aspx" class="headerSubMenu2CMSListMenuLink" title="About Us">About Us</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/SiteResources/NewsAndPressRelease.aspx" class="headerSubMenu2CMSListMenuLink" title="Press Releases">Press Releases</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/ForStudents/ReferAFriend.aspx" class="headerSubMenu2CMSListMenuLink" title="Tell A Friend">Tell A Friend</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/SiteResources/ContestWinners.aspx" class="headerSubMenu2CMSListMenuLink" title="Winners Circle">Winners Circle</a>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li class="headerMainMenuCMSListMenuLI">
-    <a href="/Content/ForParents/ParentsHome.aspx" class="headerMainMenuCMSListMenuLink" title="Parents">Parents</a>
-    <ul class="headerSubMenu1CMSListMenuUL">
-      <li class="headerSubMenu1CMSListMenuLI">
-        <a href="/Content/ForParents/ParentsHome.aspx" class="headerSubMenu1CMSListMenuLink" title="Home">Home</a>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Search">Search</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/college-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Colleges">Colleges</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/high-school-search/us.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="High Schools">High Schools</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/scholarship-advanced-search.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Scholarships">Scholarships</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Advice">Advice</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/CollegeResources/CollegeResources.aspx?HighlightMenuItem=False" class="headerSubMenu2CMSListMenuLink" title="College Resources">College Resources</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/BlogEngine/Default.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Fat Envelope">Fat Envelope</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Core/SiteContent/Students/Advice/PrepTalkHome.aspx" class="headerSubMenu2CMSListMenuLink" title="Prep Talk">Prep Talk</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="Tools">Tools</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/ForStudents/ZeroHourThreat/ZeroHourThreatGame.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="ACT/SAT Test Prep (Zero Hour Threat Game)">ACT/SAT Test Prep (Zero Hour Threat Game)</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/Research/Major/Research.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Research Majors/Careers">Research Majors/Careers</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/SimpleTuition/StudentLoanSearch.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Student Loans">Student Loans</a>
-          </li>
-        </ul>
-      </li>
-      <li class="headerSubMenu1CMSListMenuLI">
-        <span class="headerSubMenu1CMSListMenuLink" onclick="return false;" title="About">About</span>
-        <ul class="headerSubMenu2CMSListMenuUL">
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/About/Index.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="About Us">About Us</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/SiteResources/NewsAndPressRelease.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Press Releases">Press Releases</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/ForStudents/ReferAFriend.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Tell A Friend">Tell A Friend</a>
-          </li>
-          <li class="headerSubMenu2CMSListMenuLI">
-            <a href="/Content/SiteResources/ContestWinners.aspx?HighlightMenuItem=false" class="headerSubMenu2CMSListMenuLink" title="Winners Circle">Winners Circle</a>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li class="headerMainMenuCMSListMenuLI">
-    <a href="https://educators.mycollegeoptions.org?HighlightMenuItem=false" class="headerMainMenuCMSListMenuLink" title="Counselors | Educators">Counselors | Educators</a>
-    <ul class="headerSubMenu1CMSListMenuUL">
-      <li class="headerSubMenu1CMSListMenuLI">
-        <a href="/Core/SiteContent/CounselorsAndEducators/College-Planning-Tour.aspx" class="headerSubMenu1CMSListMenuLink" title="College Planning Tour">College Planning Tour</a>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-        <div class="headerSubMenuLayout">
-        </div>
-        <div class="headerThirdSubMenuLayout">
-        </div>
+        <!-- /search_box -->
     </div>
 </div>
-<div style="clear: both">
-</div>
 
-            <!-- Header Section Ends -->
-            <div id="divLeftContainer">
-                <div style="display: block; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px; text-align:left">
-                    <div class="moduleProfilePhoto">
-                        
-                        <div id="ctl00_pnlProfileLoggedOut">
+<!-- Not logged in defaults to "Login" text link -->
+
+<div id="plc_lt_zoneLogin_MCOLogonForm_pnlLoginUser">
 	
-                            <img id="ctl00_imgProfileLoggedOut" src="../../images/Picture/ProfilePicture/picDefaultUserProfile.jpg" alt="Please login now to access the My Options Box.  If you don't already have an account with us, click on the Free Registration link" style="border-width:0px;">
+    <div class="user-login-name">
+        <a class="head-loginout" href="javascript:void(0);" title="Log In to your account">Log
+            In</a> | <a href="/Content/ForStudents/StudentLounge/LoungePreview.aspx" title="Register for My College Options®">Register</a></div>
+    <div id="member">
+        <div id="head-loginout-box" style="bottom: -239px;">
+            <div class="top">
+            </div>
+            <div class="btm">
+                <table id="plc_lt_zoneLogin_MCOLogonForm_Login1" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+		<tbody><tr>
+			<td>
+                        <div id="plc_lt_zoneLogin_MCOLogonForm_Login1_pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'plc_lt_zoneLogin_MCOLogonForm_Login1_btnImageLogon')">
+				
+                            <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tbody>
+                                    <tr>
+                                        <th>
+                                            <label for="head-user-name">
+                                                <label for="plc_lt_zoneLogin_MCOLogonForm_Login1_UserName" id="plc_lt_zoneLogin_MCOLogonForm_Login1_lblUserName">Email/Username:</label>
+                                                <span class="help">(the email address or username you used to sign up)</span></label>
+                                        </th>
+                                        <td>
+                                            <input name="plc$lt$zoneLogin$MCOLogonForm$Login1$UserName" type="text" maxlength="100" id="plc_lt_zoneLogin_MCOLogonForm_Login1_UserName" tabindex="4" class="headerLoginControlsTextbox">
+                                            <br>
+                                            <div class="login-alert" id="headerSignInErrorMsg">
+                                                <h3>
+                                                    Login Error:</h3>
+                                                Unable to login. Please verify your username and password.</div>
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top">
+                                        <th>
+                                            <label for="head-user-password">
+                                                <label for="plc_lt_zoneLogin_MCOLogonForm_Login1_Password" id="plc_lt_zoneLogin_MCOLogonForm_Login1_lblPassword">Password:</label></label>
+                                        </th>
+                                        <td>
+                                            <input name="plc$lt$zoneLogin$MCOLogonForm$Login1$Password" type="password" maxlength="110" id="plc_lt_zoneLogin_MCOLogonForm_Login1_Password" tabindex="5" class="headerLoginControlsTextbox">
+                                            <span class="help"><a href="/Content/ForStudents/ForgotPassword.aspx" tabindex="6">Forgot your login info?</a></span>
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top">
+                                        <th>
+                                            <label for="head-user-remember">
+                                                Remember: <span class="help">(remember you on this computer)</span></label>
+                                        </th>
+                                        <td>
+                                            <span class="ie-auto"><input id="plc_lt_zoneLogin_MCOLogonForm_Login1_chkRememberMe" type="checkbox" name="plc$lt$zoneLogin$MCOLogonForm$Login1$chkRememberMe" tabindex="7"></span>
+                                        </td>
+                                    </tr>
+                                    <tr class="pad-top">
+                                        <th>
+                                            &nbsp;
+                                        </th>
+                                        <td>
+                                            <input type="image" name="plc$lt$zoneLogin$MCOLogonForm$Login1$btnImageLogon" id="plc_lt_zoneLogin_MCOLogonForm_Login1_btnImageLogon" tabindex="8" src="../../../App_Themes/WebProject/media/images/Buttons/btn_login.gif" align="absmiddle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;plc$lt$zoneLogin$MCOLogonForm$Login1$btnImageLogon&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" style="height:18px;width:65px;border-width:0px;vertical-align: bottom;">
+                                            <img src="/Core/App_Themes/WebProject/media/images/Buttons/btn_cancel.gif" id="head-user-cancel" class="hover-button" tabindex="9">
+                                        </td>
+                                    </tr>
+                                    <tr visible="false">
+                                        <td>
+                                        </td>
+                                        <td align="left">
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr visible="false">
+                                        <td colspan="2" style="color: red">
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         
+			</div>
+                    </td>
+		</tr>
+	</tbody></table>
+            </div>
+        </div>
+    </div>
+
 </div>
-                    </div>
-                    <!-- /Profile Photo -->
-                
-                    
-
-                    <div class="modulePopLt">
-                        <div class="title">
-                           <a href="/CollegeResources/CollegeResources.aspx">
-                                <span style="color: #15598b">My College Options® 
-                                <br>
-                                Resource Center</span> </a></div>
-                        <div class="moduleStatus">
-                            The My College Options® Resource Center provides up to date news and information for students and
-                            parents.</div>
-                        <img src="../../images/Others/Widgets/MyRecentDocument.png" alt="MyRecentDocument" width="128" height="128" border="0" style="margin-left: 20px; margin-bottom: 10px;">
-                        
-        <ul id="HomeResourceSectionLinks">
-    
-        <li>
-            <img src="/images/Icon/icnRTArrow.gif" alt="rtArrow" align="middle" border="0">
-            <div class="listMargin">
-                <a id="ctl00_UCResourceslinks_repeaterResourceSection_ctl01_hlnkItem" href="../../Articles/4/44/College-Admissions-101/How-College-Admissions-Works.aspx">How Does the College Admissions Process Work?</a>
-            </div>
-        </li>
-    
-        <li>
-            <img src="/images/Icon/icnRTArrow.gif" alt="rtArrow" align="middle" border="0">
-            <div class="listMargin">
-                <a id="ctl00_UCResourceslinks_repeaterResourceSection_ctl02_hlnkItem" href="../../Articles/2/15/The-SAT/College-Entrance-Testing.aspx">Understanding the SAT Test</a>
-            </div>
-        </li>
-    
-        <li>
-            <img src="/images/Icon/icnRTArrow.gif" alt="rtArrow" align="middle" border="0">
-            <div class="listMargin">
-                <a id="ctl00_UCResourceslinks_repeaterResourceSection_ctl03_hlnkItem" href="../../Articles/2/16/Test-Prep-Tips/College-Entrance-Testing.aspx">Get Time on Your Side: SAT/ACT Test Prep Tips</a>
-            </div>
-        </li>
-    
-        <li>
-            <img src="/images/Icon/icnRTArrow.gif" alt="rtArrow" align="middle" border="0">
-            <div class="listMargin">
-                <a id="ctl00_UCResourceslinks_repeaterResourceSection_ctl04_hlnkItem" href="../../Articles/6/7/Admissions-glossary-C/Admissions-Glossary.aspx">College Admissions Terms and Definitions C</a>
-            </div>
-        </li>
-    
-        <li>
-            <img src="/images/Icon/icnRTArrow.gif" alt="rtArrow" align="middle" border="0">
-            <div class="listMargin">
-                <a id="ctl00_UCResourceslinks_repeaterResourceSection_ctl05_hlnkItem" href="../../Articles/4/64/Choosing-a-Major---Surprising-Facts/How-College-Admissions-Works.aspx">Surprising Facts About Choosing a Major</a>
-            </div>
-        </li>
-    
-        </ul>
-    
-
-                    </div>
-                
-                    <div class="resetCol">
-                    </div>
-                
-                    
-                    
-                </div>
-            </div>
-            <!-- middle section starts -->
-            <div id="divRightContainer">
-                
-    <!-- Page Title Starts -->
-    <div id="divSectionHeading1">Privacy Policy Statement</div>
-    <!-- Page Title Ends -->
-    <div id="divTwoColumnContentMargin"> <!-- TwoColumnContentMargin Starts -->
-        <p>
-            Dear Student:  The most important benefit of participating in this voluntary survey and research 
-            project is the information you and your family will receive from colleges and universities. In some 
-            cases, you and your family may also receive information about educational products &amp; services such 
-            as student loans and financial aid, college admissions and tutorial services, extra-curricular 
-            enrichment and recognition programs, career, employment and military opportunities, and camps from 
-            non-profit organizations, companies offering educational products &amp; services, and government agencies. 
-            NRCCUA does not share your information with commercial marketers offering to sell you 
-            non-education-related products and services.
-
-        </p>
-        <p class="distance">
-        
-            NRCCUA protects the privacy of student email addresses.  We require all messages sent to the
-            student from our database, whether on behalf of NRCCUA or its members and approved organizations,
-            meet the established guidelines of permission-based email messaging.  We do not distribute this data 
-            without provisions that allow the student to opt out.  A student may choose to opt out of NRCCUA at
-            any time by sending an email to <a href="mailto:mrc@nrccua.org">mrc@nrccua.org</a> indicating the desire
-            to be removed from future emails or mailings, or both.
-        </p>
-        <p class="distance">
-            <strong>Commitment to Student Privacy</strong><br>
-            For over 35 years, the National Research Center for College &amp; University Admissions has built educational bridges between 
-            college-bound high school students and colleges and universities. Our mission is to create a brighter future for America’s 
-            youth, with integrity through a unique process that captures and shares their educational and career aspirations…one dream at a time.
-        </p>
-        <p class="distance">
-            NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a 
-            college education or career path that is tailored to their interests. Through NRCCUA’s <span id="ctl00_ContentPlaceholderMainContent_lblPlanningSurvey2">Post-Secondary Planning Survey®</span>, nearly 
-            5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then 
-            shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational 
-            organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students. 
-        </p>
-        <p class="distance">
-            <strong>Privacy Protection</strong><br>
-            As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption 
-            of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of 
-            education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and 
-            dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from 
-            students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law. 
-        </p>
-        <p class="distance">
-            In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations 
-            that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into 
-            NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to 
-            mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to 
-            operate in compliance with both the FTC and AG agreements. 
-        </p>
-        <p class="distance">
-            <strong>Principles for Educational Products and Services</strong><br>
-            The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in 
-            determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary 
-            Education Act (ESEA), and other applicable law. 
-        </p>
-        <p class="distance">
-            The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school 
-            students to learn about and prepare for post-secondary opportunities. 
-        </p>
-        
-        <p class="distance">
-            Other education-related non-profit and for-profit organizations may use the student information to provide information about:
-        </p>
-        <ol class="BulletedList">
-            <li>financial planning, student loans, and scholarships </li>
-            <li>enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences </li>
-            <li>curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products </li>
-            <li>academic assistance, remedial help, and preparation for college-entrance examinations </li>
-            <li>recognition for high levels of performance </li>
-            <li>participation in community service </li>
-            <li>learning about civic responsibilities </li>
-            <li>employment, career options and the military</li>
-        </ol>
-        <p class="distance">
-            NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students. 
-        </p>
-        
-        <p class="distance" style="font-weight:bold; font-style:italic; text-decoration:underline;">Advisory Council Members</p>
-        
-            <table cellpadding="2" cellspacing="2" border="1">
-                <tbody><tr>
-                    <td style="width:45%">
-                        Mr. Reggie Felton<br>
-                        Director, Federal Relations<br>
-                        National School Boards Association
-                    </td>
-                    <td style="width:10%">&nbsp;
-                    </td>
-                    <td style="width:45%">
-                        Delia Pompa<br>
-                        Director of Education<br>
-                        National Council of La Raza
-                    </td>
-                </tr>
-                <tr>
-                    <td style="width:45%">
-                        Mr. Dallas Martin <br>
-                        President<br>
-                        National Association of Student Financial Aid Administrators
-                    </td>
-                    <td style="width:10%">&nbsp;
-                    </td>
-                    <td style="width:45%">
-                        Jill Cook <br>
-                        Director of Programs<br>
-                        American School Counselor Association
-                    </td>
-                </tr>
-                <tr>
-                    <td style="width:45%">
-                        Dr. John A. Martin<br>
-                        President<br>
-                        Roberts Wesleyan College
-                    </td>
-                    <td style="width:10%">&nbsp;
-                    </td>
-                    <td style="width:45%">
-                        Harley Frankel<br>
-                        Director<br>
-                        College Match
-                    </td>
-                </tr>
-                <tr>
-                    <td style="width:45%">
-                        Ms. Joyce Smith <br>
-                        Executive Director<br>
-                        National Association for College Admission Counseling
-                    </td>
-                    <td style="width:10%">&nbsp;
-                    </td>
-                    <td style="width:45%">
-                        Dr. Nicole Francis-Williams<br>
-                        President &amp; CEO<br>
-                        Visionary Policy Institute, LLC
-                    </td>
-                </tr>
-            </tbody></table>
-        
-        <p class="distance">
-            <strong>Information Collected Through Our Website</strong>
-        </p>
-        <p class="distance">
-            Our web server automatically recognizes your domain name, but not your email address.
-            We do not collect nonpublic personal information from visitors to our sites unless
-            it is expressly provided to us. The information we do collect from our websites
-            (such as domain name, number of hits, pages visited and length of user session)
-            may be combined to analyze how our websites are used. This information is then
-            used to improve the usefulness of the sites.</p>
-        <p class="distance">
-            Like most websites, we use "cookies" to enhance your online experience. Cookies
-            are pieces of data that are temporarily placed on your computer's hard drive to help
-            a website identify you. These cookies are not used to collect any personal information, 
-            but rather to separate each visitor from the other.</p>
-        <p class="distance">
-            For visitors to our websites who are presented with a questionnaire, we may place a cookie on 
-            your hard drive to identify whether you have completed or declined to complete that particular questionnaire. 
-            This cookie is not designed to collect personal information about you. Rather it is designed to make your return 
-            visits more pleasant by preventing the same survey from being offered to you again.
-        </p>
-        <p class="distance">
-            We do not intend to collect nonpublic personal information from children under 13 years of age. If we learn that 
-            we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to 
-            delete the data from our system.
-        </p>
-        <p class="distance">
-            From time to time, you may access our sites through a co-branded page of one of
-            our marketing partners. We will try to show clearly, by placing our marketing partner's
-            name or logo in a prominent place or otherwise, whether a page is co-branded. If
-            you provide your information on a co-branded page, your registration information
-            may be shared with our marketing partner. It is important to remember that, if you
-            link to a third-party site from any of our websites, that party's privacy policy
-            and its terms and conditions of use apply to you. We encourage you to learn about
-            each third party's privacy policy before giving personal information to them.</p>
-        <p class="distance">
-            If you give us nonpublic personal information, unless prohibited by law, you may
-            request that the nonpublic personal information be removed from our system by contacting
-            us at the address indicated at the end of this policy. If you register information
-            on our websites, you also have the right, upon reasonable notice, to view that
-            information and correct it if necessary.</p>
-        <p class="distance">
-            In our information technology systems environment, The National Research Center for College &amp; University Admissions safeguards your information
-            according to industry established security standards. We also routinely test our
-            systems to ensure a high level of security.</p>
-        
-        <p class="title1">Contact Us</p>
-        <p class="distance">If you have any questions or comments about this policy, please email The National Research Center for College &amp; University Admissions at 
-            <a id="ctl00_ContentPlaceholderMainContent_hlnkPrivacyEmail" href="mailto:studentprivacy@nrccua.org">studentprivacy@nrccua.org</a> or contact us at 
-            <span id="ctl00_ContentPlaceholderMainContent_lblMainPhone">816-525-2201</span>
-            or write to:
-        </p>
-        <p class="distance">My College Options</p>
-        <p>c/o <span id="ctl00_ContentPlaceholderMainContent_lblCompanyName">NRCCUA</span></p>
-        <p><span id="ctl00_ContentPlaceholderMainContent_lblAddressStreet">3651 NE Ralph Powell Road</span></p>
-        <p><span id="ctl00_ContentPlaceholderMainContent_lblAddressCity">Lee's Summit</span>, 
-            <span id="ctl00_ContentPlaceholderMainContent_lblAddressState">MO</span> 
-            <span id="ctl00_ContentPlaceholderMainContent_lblAddressZipCode">64064</span></p>
-        <p><span id="ctl00_ContentPlaceholderMainContent_lblPhoneMain">816-525-2201</span></p> 
-        
-    </div> <!-- TwoColumnContentMargin Ends -->
-
-            </div>
-            <!--Code Commented For Removng extra space after ChalkBoard image-->
-            <!--<div id="divFooterSpace">
-        </div>-->
-            <div class="divClearBothLounge">
-                &nbsp;</div>
-            <!--End of Commented Code for extra space-->
-            <!-- middle section ends -->
-            <!-- Footer Starts -->
-            
-<link href="/App_Themes/Standard/footer.css" rel="stylesheet" type="text/css">
 
 
+<input type="hidden" name="plc$lt$zoneLogin$MCOLogonForm$hdnPasswDisplayed" id="plc_lt_zoneLogin_MCOLogonForm_hdnPasswDisplayed">
+
+<div>
+	
+ 
+<div class="ProfileLeftNavigationLeftCol">
+
+<link href="/Core/App_Themes/WebProject/ProfileLeftNavigation.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var tabValue = '';
+        switch (tabValue) {
+            case "interested":
+                $("#DivLhsIntrested").removeClass("ProfileLeftNavigationCollegeTabLT ProfileLeftNavigationCollegeTabLT_on").addClass("ProfileLeftNavigationCollegeTabLT_on");
+                break;
+            case "matched":
+                $("#DivLhsMatched").removeClass("ProfileLeftNavigationCollegeTabLT ProfileLeftNavigationCollegeTabLT_on").addClass("ProfileLeftNavigationCollegeTabLT_on");
+                break;
+            case "favorite":
+                $("#DivLhsFavorite").removeClass("ProfileLeftNavigationCollegeTabLT ProfileLeftNavigationCollegeTabLT_on").addClass("ProfileLeftNavigationCollegeTabLT_on");
+                break;
+            default:
+
+        }
+    }); 
+</script>
+<div style="display: block; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+    
+    <a href="https://www.mycollegeoptions.org/SignUp">
+        <img id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneLeft_usercontrol_userControlElem_imgProfileLoggedOut" src="../../../App_Themes/WebProject/media/Images/Picture/ProfilePicture/picDefaultUserProfile.jpg" alt="Please login now to access the My Options Box.  If you don't already have an account with us, click on the Free Registration link" style="border-width:0px;"></a>
+    
 <script language="javascript" type="text/javascript">
-
-    $(document).ready(function() {
-
-        $("#divCloseButton").click(function() {
-            $(".popupContainer").hide();
-            $(".popupBackground").hide();
+    $(document).ready(function () {
+        $('.resourceArticle').click(function () {
+            ntptAddPair('content', $(this).attr("href"));
+            ntptEventTag('ev=resourceclick');
         });
     });
-
-    function CollegeProfessionalPopup() {
-        var maskHeight = $(document).height();
-        var maskWidth = $(window).width();
-        $(".popupBackground").css({ 'width': maskWidth, 'height': maskHeight, 'opacity': '0.5' });
-        $(".popupBackground").fadeIn("slow");
-
-
-        var winH = $(window).height();
-        var winW = $(window).width();
-
-        //Set the popup window to center  
-        $('.popupContainer').css('top', winH / 2 - $('.popupContainer').height() / 2);
-        $('.popupContainer').css('left', winW / 2 - $('.popupContainer').width() / 2);
-
-        $(".popupContainer").fadeIn(10);
-    }
 </script>
+<div class="ResourceCenterWidgetLt" style="border-right:none 0 #e4e4e4;">
+    <div class="title">
+        <a href="/Core/SiteContent/Students/Advice/College-Resource-Center.aspx"><span style="color: #15598b">
+            My College Options®
+            <br>
+            Resource Center</span></a></div>
+    <div class="status">
+        The My College Options® Resource Center provides up to date news and information
+        for students and parents.</div>
+    <img src="/Core/App_Themes/WebProject/media/Images/Backgrounds/resourceCenter.png" alt="MyRecentDocument" width="128" height="128" border="0" style="margin-left: 20px;
+        margin-bottom: 0px; margin-top: 10px;">
+    <div style="border:1px none #E4E4E4; margin-top:0;"><ul id="HomeResourceSectionLinks">
+<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Getting-In-To-College/Retaking-the-SATs-ACTs.aspx" class="resourceArticle">Retaking the SATs/ACTs</a></li>
+<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Historically-Black-Colleges-and-Universities.aspx" class="resourceArticle">Historically Black Colleges and Universities</a></li>
+<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/College-Search-and-Selection/Narrowing-Down-Your-College-List.aspx" class="resourceArticle">Narrowing Down Your College List</a></li>
+<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Early-Admissions-Plans.aspx" class="resourceArticle">Early Admissions Plans</a></li>
+<li class="listMargin"><a href="/Core/SiteContent/Students/Advice/College-Resource-Center/Applying-to-College/Accepted---Now-What-.aspx" class="resourceArticle">Accepted - Now What?</a></li>
+</ul></div>
+        
+</div>
 
-<div class="reset">
+    
 </div>
+
+</div>
+<div id="divRightContainer">
+<!-- Page Title Starts -->
+<div id="divSectionHeading1">Privacy Policy Statement</div>
+<!-- Page Title Ends -->
+<div id="divTwoColumnContentMargin"><!-- TwoColumnContentMargin Starts -->
+<p>Dear Student:  The most important benefit of participating in this voluntary survey and research              project is the information you and your family will receive from colleges and universities. In some              cases, you and your family may also receive information about educational products &amp; services such              as student loans and financial aid, college admissions and tutorial services, extra-curricular              enrichment and recognition programs, career, employment and military opportunities, and camps from              non-profit organizations, companies offering educational products &amp; services, and government agencies.              NRCCUA does not share your information with commercial marketers offering to sell you              non-education-related products and services.</p>
+<p class="distance">NRCCUA protects the privacy of student email addresses.  We require all messages sent to the             student from our database, whether on behalf of NRCCUA or its members and approved organizations,             meet the established guidelines of permission-based email messaging.  We do not distribute this data              without provisions that allow the student to opt out.  A student may choose to opt out of NRCCUA at             any time by sending an email to <a href="mailto:mrc@nrccua.org">mrc@nrccua.org</a> indicating the desire             to be removed from future emails or mailings, or both.</p>
+<p class="distance"><strong>Commitment to Student Privacy</strong><br>
+For over 35 years, the National Research Center for College &amp; University Admissions has built educational bridges between              college-bound high school students and colleges and universities. Our mission is to create a brighter future for America’s              youth, with integrity through a unique process that captures and shares their educational and career aspirations…one dream at a time.</p>
+<p class="distance">NRCCUA is a non-profit organization devoted to helping students receive the information needed to assist them in selecting a              college education or career path that is tailored to their interests. Through NRCCUA’s <span>Post-Secondary Planning Survey®</span>, nearly              5.5 million current high school students have an opportunity to identify their college and career preferences. This information is then              shared with 2,000 colleges and universities. In addition, students benefit from information about financial aid and other educational              organizations. Currently, 55,000 educators at 22,000 high schools have administered the survey to their students.</p>
+<p class="distance"><strong>Privacy Protection</strong><br>
+As a holder of student information, we recognize our responsibility to protect student privacy. We have worked to promote adoption              of standards within the educational community, and to inform the public about privacy issues. Working with our advisory council of              education leaders, NRCCUA developed principles (see below) to protect student privacy that guide NRCCUA’s data collection and              dissemination efforts. These principles are designed to assist NRCCUA in determining appropriate uses of information collected from              students for educational purposes consistent with The Elementary and Secondary Education Act (ESEA), and other applicable law.</p>
+<p class="distance">In 2001, the Chairman of the Federal Trade Commission announced his agency’s interest in reviewing the privacy practices of organizations              that collect personal information in offline or paper procedures. In 2002, the FTC and a group of state Attorney’s General inquired into              NRCCUA’s student privacy practices, focusing on disclosure issues. These inquiries and the resulting review of NRCCUA’s practices led to              mutually agreeable disclosure guidelines for NRCCUA to follow. NRCCUA was very pleased with the outcome of this process and continues to              operate in compliance with both the FTC and AG agreements.</p>
+<p class="distance"><strong>Principles for Educational Products and Services</strong><br>
+The following principles, created with the assistance of our voluntary Advisory Council, are designed to provide guidance to NRCCUA in              determining appropriate uses of information collected from students for educational purposes consistent with The Elementary and Secondary              Education Act (ESEA), and other applicable law.</p>
+<p class="distance">The primary mission of NRCCUA is to provide data from annual student surveys to colleges and universities in order to enable high school              students to learn about and prepare for post-secondary opportunities.</p>
+<p class="distance">Other education-related non-profit and for-profit organizations may use the student information to provide information about:</p>
+<ol class="BulletedListPrivacy">
+    <li>financial planning, student loans, and scholarships</li>
+    <li>enrichment opportunities such as travel programs, camps, extra-curricular activities and conferences</li>
+    <li>curriculum materials, books, Internet based educational programs, educational magazines and low-cost literary products</li>
+    <li>academic assistance, remedial help, and preparation for college-entrance examinations</li>
+    <li>recognition for high levels of performance</li>
+    <li>participation in community service</li>
+    <li>learning about civic responsibilities</li>
+    <li>employment, career options and the military</li>
+</ol>
+<p class="distance">NRCCUA also uses student data for research purposes to have a greater understanding of the nation’s high school and college-bound students.</p>
+<p style="font-weight: bold; font-style: italic; text-decoration: underline;" class="distance">Advisory Council Members</p>
+<table cellspacing="2" cellpadding="2" border="1">
+    <tbody>
+        <tr>
+            <td style="width: 45%;">Mr. Reggie Felton<br>
+            Director, Federal Relations<br>
+            National School Boards Association</td>
+            <td style="width: 10%;">&nbsp;</td>
+            <td style="width: 45%;">Delia Pompa<br>
+            Director of Education<br>
+            National Council of La Raza</td>
+        </tr>
+        <tr>
+            <td style="width: 45%;">Mr. Dallas Martin <br>
+            President<br>
+            National Association of Student Financial Aid Administrators</td>
+            <td style="width: 10%;">&nbsp;</td>
+            <td style="width: 45%;">Jill Cook <br>
+            Director of Programs<br>
+            American School Counselor Association</td>
+        </tr>
+        <tr>
+            <td style="width: 45%;">Dr. John A. Martin<br>
+            President<br>
+            Roberts Wesleyan College</td>
+            <td style="width: 10%;">&nbsp;</td>
+            <td style="width: 45%;">Harley Frankel<br>
+            Director<br>
+            College Match</td>
+        </tr>
+        <tr>
+            <td style="width: 45%;">Ms. Joyce Smith <br>
+            Executive Director<br>
+            National Association for College Admission Counseling</td>
+            <td style="width: 10%;">&nbsp;</td>
+            <td style="width: 45%;">Dr. Nicole Francis-Williams<br>
+            President &amp; CEO<br>
+            Visionary Policy Institute, LLC</td>
+        </tr>
+    </tbody>
+</table>
+<p class="distance"><strong>Information Collected Through Our Website</strong></p>
+<p class="distance">Our web server automatically recognizes your domain name, but not your email address.             We do not collect nonpublic personal information from visitors to our sites unless             it is expressly provided to us. The information we do collect from our websites             (such as domain name, number of hits, pages visited and length of user session)             may be combined to analyze how our websites are used. This information is then             used to improve the usefulness of the sites.</p>
+<p class="distance">Like most websites, we use "cookies" to enhance your online experience. Cookies             are pieces of data that are temporarily placed on your computer's hard drive to help             a website identify you. These cookies are not used to collect any personal information,              but rather to separate each visitor from the other.</p>
+<p class="distance">For visitors to our websites who are presented with a questionnaire, we may place a cookie on              your hard drive to identify whether you have completed or declined to complete that particular questionnaire.              This cookie is not designed to collect personal information about you. Rather it is designed to make your return              visits more pleasant by preventing the same survey from being offered to you again.</p>
+<p class="distance">We do not intend to collect nonpublic personal information from children under 13 years of age. If we learn that              we have collected this information from a child under the age of 13, we will promptly take all reasonable steps to              delete the data from our system.</p>
+<p class="distance">From time to time, you may access our sites through a co-branded page of one of             our marketing partners. We will try to show clearly, by placing our marketing partner's             name or logo in a prominent place or otherwise, whether a page is co-branded. If             you provide your information on a co-branded page, your registration information             may be shared with our marketing partner. It is important to remember that, if you             link to a third-party site from any of our websites, that party's privacy policy             and its terms and conditions of use apply to you. We encourage you to learn about             each third party's privacy policy before giving personal information to them.</p>
+<p class="distance">If you give us nonpublic personal information, unless prohibited by law, you may             request that the nonpublic personal information be removed from our system by contacting             us at the address indicated at the end of this policy. If you register information             on our websites, you also have the right, upon reasonable notice, to view that             information and correct it if necessary.</p>
+<p class="distance">In our information technology systems environment, The National Research Center for College &amp; University Admissions safeguards your information             according to industry established security standards. We also routinely test our             systems to ensure a high level of security.</p>
+<p class="title1">Contact Us</p>
+<p class="distance">If you have any questions or comments about this policy, please email The National Research Center for College &amp; University Admissions at              <a href="mailto:studentprivacy@nrccua.org">studentprivacy@nrccua.org</a> or contact us at              <span>816-525-2201</span>             or write to:</p>
+<p class="distance">My College Options</p>
+<p>c/o <span>NRCCUA</span></p>
+<p><span>3651 NE Ralph Powell Road</span></p>
+<p><span>Lee's Summit</span>,              <span>MO</span>              <span>64064</span></p>
+<p><span>816-525-2201</span></p>
+</div>
+<!-- TwoColumnContentMargin Ends -->
+</div>
+
+</div>
+<br style="clear:both;">
 <!-- footer -->
-<div class="footerLogo">
-</div>
-<div class="moduleFooterHCS">
-    <a href="/SiteMap.aspx">Site Map</a> | <a href="/Content/About/Index.aspx">
-        About</a> | <a href="/Content/About/FAQ.aspx">FAQ</a> |
-    <a href="/Content/About/Help.aspx">Help</a> | <a href="/Content/About/ContactUs.aspx">
-        Contact Us</a> | <a href="/Content/SiteResources/LinkToUs.aspx">
-            Link To Us</a> | <a href="/Content/SiteResources/ListOfPartners.aspx">
+<div class="Footer">
+<input type="hidden" name="plc$lt$cx" id="plc_lt_cx" value="005161944183285838012:nve0vu6x5gk">
+<input type="hidden" name="plc$lt$cof" id="plc_lt_cof" value="FORID:11">
+
+    <a href="http://twitter.com/collegeoptions" target="_blank" title="Follow us on Twitter">
+        <img src="/Core/App_Themes/WebProject/media/Images/Icon/twitter.png" width="16" height="16" vspace="5">
+    </a>
+    <a href="http://www.facebook.com/mycollegeoptions" target="_blank" title="Like us on Facebook">
+        <img src="/Core/App_Themes/WebProject/media/Images/Icon/facebook.png" width="16" height="16" hspace="3" vspace="5">
+    </a>
+    <br>	
+<a href="/Core/SiteContent/Students/About/SiteMap.aspx">Site Map</a> | <a href="/Core/SiteContent/Students/About/AboutUs.aspx">
+        About</a> | <a href="/Core/SiteContent/Students/About/FAQ.aspx">FAQ</a> |
+    <a href="/Content/About/Help.aspx">Help</a> | <a href="/Core/SiteContent/Students/About/ContactUs.aspx">
+        Contact Us</a> | <a href="/Core/SiteContent/Students/About/LinkToUs.aspx">
+            Link To Us</a> | <a href="/Core/SiteContent/Students/About/Partners.aspx">
                 Partners</a>
     <br>
     <a href="/Home.aspx">
-        Home</a> | <a href="/MyHome">
-            Students</a> | <a href="/Content/ForParents/ParentsHome.aspx">For
-                Parents</a> | <a href="https://educators.mycollegeoptions.org/">
+        Home</a> | <a href="/Content/ForParents/ParentsHome.aspx">For
+                Parents</a> | <a href="/Content/ForHighSchools/MembersBenefit.aspx">
                     Counselors | Educators</a> |
     <!-- / JAVASCRIPT FUNCTION ADDED BY HEADER CONTROL -->
     <a href="" onclick="Javascript:CollegeProfessionalPopup(); return false;">College Admissions</a>
-    | <a href="http://www.nrccua.org/" target="_blank">NRCCUA</a> | <a href="/BlogEngine/default.aspx">
-        Fat Envelope</a> | <a href="/BlogEngine/Category/PrepTalk.aspx">
-            Prep Talk</a> | <a href="/Content/About/PrivacyPolicy.aspx" class="standardLink">Privacy Statement</a>
+    | <a href="http://www.nrccua.org/" target="_blank">NRCCUA</a> | <a href="/Core/SiteContent/Students/Advice/PrepTalkHome/PrepTalkBlog.aspx">
+            Prep Talk</a> | <a href="/Core/SiteContent/Students/About/PrivacyPolicy.aspx" class="standardLink">Privacy Statement</a>
     <br>
+    <span class="FooterLegal">
     This site is protected by copyright and trademark laws under U.S. and International
-    law. All rights reserved. ©2011 My College Options® &nbsp; <a href="/Content/About/Copyright.aspx">
+    law. All rights reserved. ©2012 My College Options® &nbsp; 
+    </span>
+    <a href="/Core/SiteContent/Students/About/Copyright.aspx">
         Copyright</a>
     <br>
     <div class="reset">
     </div>
 </div>
-<!-- / footer -->
 <!--College popup-->
-<div class="popupBackground">
-</div>
+
 <div id="divPopUp" class="popupContainer">
     <div id="divCloseButton" class="popupClose">
-        <img src="/images/Buttons/btnPopupClose.gif" alt="Close">
+        <img src="/Core/App_Themes/WebProject/media/Images/Buttons/btnPopupClose.gif" alt="Close">
     </div>
     <div class="reset">
     </div>
@@ -1079,30 +728,22 @@
 </div>
 <!-- / College Popup -->
 
-            
-            <!-- Footer Ends -->
-            <!-- End of Main Div--->
-        <!--</div>-->
-    </div>
-    <!--Empty MBox for Test&Target tracking-->
-    <div class="mboxDefault" style="visibility: visible; display: block;">
-    </div>
-
-    <script type="text/javascript" language="JavaScript1.2">mboxCreate('Student_masterpage_empty');</script><div id="mboxMarker-default-Student_masterpage_empty-0" style="visibility:hidden;display:none"></div><script src="https://mbox9e.offermatica.com/m2/nrccua/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582554970341-124277&amp;mboxPage=1582554977628-669171&amp;mboxCount=1&amp;mbox=Student_masterpage_empty&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111006220215id_%2Fhttp%253A%2F%2Fwww.mycollegeoptions.org%2FContent%2FAbout%2FPrivacyPolicy.aspx&amp;mboxReferrer=&amp;mboxVersion=34" language="JavaScript"></script>
-
-    <!--Global Empty MBox for Test&Target tracking-->
-    <div class="mboxDefault" style="visibility: visible; display: block;">
-    </div>
-
-    <script type="text/javascript" language="JavaScript1.2">mboxCreate('Global_masterpage_empty');</script><div id="mboxMarker-default-Global_masterpage_empty-0" style="visibility:hidden;display:none"></div><script src="https://mbox9e.offermatica.com/m2/nrccua/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1582554970341-124277&amp;mboxPage=1582554977628-669171&amp;mboxCount=2&amp;mbox=Global_masterpage_empty&amp;mboxId=0&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111006220215id_%2Fhttp%253A%2F%2Fwww.mycollegeoptions.org%2FContent%2FAbout%2FPrivacyPolicy.aspx&amp;mboxReferrer=&amp;mboxVersion=34" language="JavaScript"></script>
-
-    <!-- page ends -->
-    <!--</div>-->
+</div>
+<div class="popupBackground">
+</div>
+<div class="videoBackground">
+</div>
+    
     
 <!-- response complete - no errors -->
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 //]]>
 </script>
 </form>
