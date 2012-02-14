@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417135613id_/http%3A//www.fropki.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropki.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214145909id_/http%3A//www.fropki.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fropki.com
 
@@ -17,7 +17,7 @@ Fropki.com ("Fropki", "we" or "our") has created this privacy policy in order to
 
 **What information do we collect?**
 
-During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information ("Personal Data") from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.fropki.com/tos.html) posted on the Site.
+During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information ("Personal Data") from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.fropki.com/terms.php) posted on the Site.
 
 In addition, we collect certain information, which cannot be used to personally identify any user, and which may be provided to third parties. Such non-personal data ordinarily includes aggregate, summary, or other usage data, and may include, by way of example, statistics regarding total users, information regarding types of Internet browsers used by users, and widget usage patterns. We also collect non-personal data about each users IP address to help diagnose problems with our server, and to administer our Site.
 
@@ -37,7 +37,7 @@ In general, we will not disclose your personal information to third parties exce
 
 We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user's previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. "sports enthusiast"). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the "sports enthusiast" interest category. 
 
-Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/). In addition, Google allows third party advertisers to serve ads on the Google Display Network. Using a tool created by the [Network Advertising Initiative](http://www.networkadvertising.org/), you can [opt out](http://www.networkadvertising.org/managing/opt_out.asp) of several third party ad servers and networks cookies simultaneously.
 
 The Opt-out Tool is cookie-based. In order for the Tool to work on your computer, your browser must be set to accept third party cookies. If you buy a new computer, change web browsers or delete this cookie, you will need to perform the opt-out task again.
 
@@ -67,7 +67,7 @@ By using Fropki, you signify your acceptance of this Privacy Statement. If you a
 
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us in any of the methods given below: 
 
-  * [Click here](https://web.archive.org/web/20100417135613id_/http%3A//www.fropki.com/contact.php) to fill in the Contact Us form or 
+  * [Click here](https://web.archive.org/web/20120214145909id_/http%3A//www.fropki.com/contact.php) to fill in the Contact Us form or 
   * Mail us at the following address:   
        'Fropki.com',   
        'SHIVA Computers',   
