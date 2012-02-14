@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavorpill.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625031750id_/http%3A//flavorpill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavorpill.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214211959id_/http%3A//flavorpill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Flavorpill
 
