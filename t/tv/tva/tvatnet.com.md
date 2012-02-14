@@ -1,25 +1,37 @@
-> *The following text is extracted and transformed from the tvatnet.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114204927id_/http%3A//tvatnet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvatnet.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214160143id_/http%3A//www.tvatnet.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Tv At Net - Watch Old Aired TV Shows Online For Free !! No need to register,No Zango,No survey
+# Privacy Policy
 
-The privacy of our visitors to **TvAtNet.com** is important to us.
+* **Overview**
 
-At **TvAtNet.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **TvAtNet.com** , and how we safeguard your information. We never sell your personal information to third parties.
+Thank you for visiting tvatnet.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-* * *
+* **What Type of Information We Collect**
 
-### Log Files
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
-* * *
+In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-### Cookies and Web Beacons
+* **Uses**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-We also use third party advertisements on **TvAtNet.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-**We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<http://www.networkadvertising.org/managing/opt_out.asp>**
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
