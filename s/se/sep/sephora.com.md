@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sephora.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208025428id_/http%3A//www.sephora.com/includes/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sephora.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214195128id_/http%3A//www.sephora.com/includes/privacy_policy.jhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ Topics covered in this policy:
 
 This Privacy Policy covers any personal information that Sephora obtains from you when you use services or features on the sites we own and control, including www.sephora.com and www.ttbeauty.com (the "Sites"). We may add additional Sites from time to time as we expand our beauty offerings and this policy will govern those new Sites when added. You may be accessing our Sites from a computer or mobile phone device (through an iPhone application, for example) and this policy governs your use of our Sites regardless of the means of access. We also like to interact with you on third party sites where we post content or invite your feedback, such as www.facebook.com/sephora, www.twitter.com/sephora, http://blog.sephora.com and www.youtube.com/sephora editor ("Third Party Sites"). This policy does not cover the privacy practices of those Third Party Sites, or of companies that Sephora does not own or control, or the actions of people that Sephora does not employ or manage. You should check the privacy policies of those third parties when providing personally identifiable information through Third Party Sites. Our terms of use for the Sites give you more information about how we can interact with you via Third Party Sites. 
 
-Our Privacy Policy may change in the future. We invite you to check back periodically to see if we have made any changes. If we make any material changes, we will post a notice on our home page and will obtain your consent if the material changes affect the way we use the personally identifiable information we have already collected from you. By using the Sites, you agree to the terms of our Privacy Policy. If you do not like the terms of our Privacy Policy, you should not use our Sites. For more information about the terms of use for this site, please visit our [legal page](https://web.archive.org/includes/legal_notice.jhtml;jsessionid=4CCG1KAI3JEEGCV0KQLRPIQ). 
+Our Privacy Policy may change in the future. We invite you to check back periodically to see if we have made any changes. If we make any material changes, we will post a notice on our home page and will obtain your consent if the material changes affect the way we use the personally identifiable information we have already collected from you. By using the Sites, you agree to the terms of our Privacy Policy. If you do not like the terms of our Privacy Policy, you should not use our Sites. For more information about the terms of use for this site, please visit our [legal page](https://web.archive.org/includes/legal_notice.jhtml). 
 
 **What Personal Information is Collected**  
 Depending on how you use Sephora, we may ask you to share personal information with us. _Whether you choose to give Sephora information is completely up to you, but keep in mind that if you withhold information, you may not be able to use some of our services._
@@ -108,7 +108,7 @@ If you would like to opt out of advertisers' cookies that track anonymous inform
 If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact Sephora directly at: 
 
 www.sephora.com or  
-[Sephora USA, Inc.](https://web.archive.org/customer_service/csr_controller.jhtml;jsessionid=4CCG1KAI3JEEGCV0KQLRPIQ?csrSection=contact&csrSub=contactCs)  
+[Sephora USA, Inc.](https://web.archive.org/customer_service/csr_controller.jhtml?csrSection=contact&csrSub=contactCs)  
 Privacy  
 525 Market Street, 11th Floor  
 San Francisco, CA 94105 
