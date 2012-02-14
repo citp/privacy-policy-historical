@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the grubwithus.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211142537id_/http%3A//www.grubwithus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubwithus.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214195440id_/http%3A//www.grubwithus.com/privacy) for the most accurate reproduction.*
 
-# Meet new people in chicago over food -- Grubwithus
-
-[Terms](https://web.archive.org/terms) | Privacy Policy | [Copyright and IP Policy](https://web.archive.org/ippolicy)
-
-  
-
-
-## Grubwithus Privacy Policy
+# Meet new people in san-francisco over food -- Grubwithus
 
 **Effective August 12, 2011**
 
-GrubWithUs Inc. (“GWU”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.grubwithus.com and www.grubwith.me (collectively, the “Site”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our GrubWithUs Terms of Use, accessible at http://www.grubwithus.com/terms. 
+Grubwithus Inc. (“GWU”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.grubwithus.com and www.grubwith.me (collectively, the “Site”). This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our GrubWithUs Terms of Use, accessible at http://www.grubwithus.com/terms. 
 
 As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
