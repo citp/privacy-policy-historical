@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityscapeglobal.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527223347id_/http%3A//www.iirme.com/Content-Pages1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityscapeglobal.com privacy policy that was archived on 2012-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120214032628id_/http%3A//www.iirme.com/Content-Pages1/Privacy-Policy) for the most accurate reproduction.*
 
-# IIR ME - Privacy Policy
+# Conferences, Training, Managed Events, Exhibitions in Dubai - Privacy Policy
 
 This website is operated by IIR Holdings Limited, part of the Informa Group
 
