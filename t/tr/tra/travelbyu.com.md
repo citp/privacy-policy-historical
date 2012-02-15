@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelbyu.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223013314id_/http%3A//www.travelbyu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbyu.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215235557id_/http%3A//www.travelbyu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TravelByU.com
 
