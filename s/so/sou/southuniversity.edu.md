@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2011-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110816185347id_/http%3A//www.southuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215063801id_/http%3A//www.southuniversity.edu/privacy-policy.aspx) for the most accurate reproduction.*
 
-# South University - Privacy Policy
+# Privacy Policy - South University
 
-This policy was last updated on February 4, 2011.
+## South University Privacy Policy
+
+This policy was last updated on August 6, 2011  
+
 
 South University is committed to protecting any personal information that you may provide to us. We want you to understand what kinds of information we gather from you, how this information is used and protected, and how you can control its use. This statement discloses the privacy practices of South University’s Web site. By using South University’s Web site, the user agrees, without limitation or qualification, to be bound by this Privacy Policy. Any changes in our Privacy Policy will be communicated in this page, so please check back from time to time. This policy applies to the online collection of information at this Web site only.
 
@@ -52,7 +55,7 @@ South University recognizes that you may be concerned about the security of your
 If you use this site, you are responsible for maintaining the confidentiality of your access information and password and for restricting access to your computer. You also agree to accept responsibility for all activities that occur under your password. We are the owner of data you supply to us.
 
 **Information-sharing Disclosure Request – California**   
-If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom South University or any of its affiliates has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at: EDMC c/o South University, 210 Sixth Avenue, 33rd Floor, Pittsburgh, PA 15222. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at [csprivacy@edmc.edu](mailto:csprivacy@edmc.edu) or by telephone at (toll-free) 1.888.624.0300. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt. 
+If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom South University or any of its affiliates has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at: EDMC c/o South University, 210 Sixth Avenue, 33rd Floor, Pittsburgh, PA 15222. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at [csprivacy@edmc.edu](mailto:csprivacy@edmc.edu) or by telephone at (toll-free) 1.888.624.0300. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt.
 
 **Our Privacy Policy and Outside Links**   
 Our Privacy Policy only applies to the various South University’s .edu Web sites including South University’s main site. Our Web sites contain links to sites outside our control. Please be aware that these sites may collect information about you and operate according to their own privacy practices which may differ from our Privacy Policy. Remember to consult that Web site’s own Privacy Policy, as once you are outside any Art Institutes.edu Web sites, any information you submit is no longer within our control.
@@ -66,8 +69,5 @@ Pittsburgh, PA 15222
 Fax: 1.412.995.7295  
 Email: [csprivacy@edmc.edu](mailto:csprivacy@edmc.edu)
 
-This policy was last updated on February 4, 2011.   
-  
-[](https://web.archive.org/admissions/RequestInformation.aspx)   
-Request Information About South University  
+This policy was last updated on August 6, 2011  
 
