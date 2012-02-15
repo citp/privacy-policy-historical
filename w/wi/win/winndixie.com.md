@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212723id_/http%3A//www.winndixie.com/Privacy/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215012958id_/http%3A//www.winndixie.com/Privacy/Privacy.asp) for the most accurate reproduction.*
 
 # Winn-Dixie Stores, Inc. | Only the freshest products are available in your neighborhood store | Grocery Store Coupons Weekly Specials gift cards - online pharmacy - organic & natural products
 
