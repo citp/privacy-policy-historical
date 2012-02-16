@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203035942id_/https%3A//www.metrocu.org/home/fiFiles/static/documents/6-10_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2012-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120216132639id_/https%3A//www.metrocu.org/home/fiFiles/static/documents/6-10_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
