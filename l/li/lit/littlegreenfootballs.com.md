@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123004416id_/http%3A//littlegreenfootballs.com/weblog/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlegreenfootballs.com privacy policy that was archived on 2012-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120217193901id_/http%3A//littlegreenfootballs.com/weblog/Privacy.html) for the most accurate reproduction.*
 
 # 
 
