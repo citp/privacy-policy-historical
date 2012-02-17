@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2011-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110926013601id_/http%3A//theaffiliateacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaffiliateacademy.com privacy policy that was archived on 2012-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120217113120id_/http%3A//theaffiliateacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Affiliate Academy
 
@@ -24,3 +24,7 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of The Affiliate Academy then you may contact us at admin@theaffiliateacademy.com 
 
 Last updated Mon, 01 Nov 2010 22:44
+
+[Internet Marketing - For Beginners](http://www.amazon.com/Internet-Marketing-For-Beginners-ebook/dp/B006VXOZA6?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B006VXOZA6)Ever wanted to earn money online as an internet marketer? This detailed book clearly guides you through the processes needed to be making £500+ every single day. Countless people have had success stories using the techniques shown in this book. What are you waiting for? Get earning online!
+
+[BlueprintCashPro - Affiliate Marketing (Website Improvement)](http://www.amazon.com/BlueprintCashPro-Affiliate-Marketing-Improvement-ebook/dp/B006X0UASS?SubscriptionId=1RY4ZZJ4VZ8TH3DPH202&tag=livingtrustse-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B006X0UASS)BlueprintCashPro is the ultimate affiliate marketing system for vendors selling their own products. It is a complete outline or blueprint of affiliate marketing tools that completely lays out a concise marketing plan for any affiliate.
