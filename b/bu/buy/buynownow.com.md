@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buynownow.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220074941id_/http%3A//www.buynownow.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buynownow.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218223334id_/http%3A//www.buynownow.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D11) for the most accurate reproduction.*
 
 # Privacy Policy
 
