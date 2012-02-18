@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the spearmypussy.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228143707id_/http%3A//spearmypussy.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spearmypussy.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218224912id_/http%3A//www.spearmypussy.com/privacy_policy.php) for the most accurate reproduction.*
 
-# SPEAR MY PUSSY - Privacy Policy
+# Privacy Policy
 
-Replace or add your information in RED, where applicable: 
+* **Overview**
 
-Our Commitment To Privacy   
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Thank you for visiting spearmypussy.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-The Information We Collect: email address. We do not collect any other customer information. Please see our payment processor's Privacy Policy concerning collected information.
+* **What Type of Information We Collect**
 
-This notice applies to all information collected or submitted on SpearMyPussy website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:  
-Email address.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-The Way We Use Information: 
+The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
 
-We use email database to keep our members informed about their subscription only.
+In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-Our Commitment To Data Security   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+* **Uses**
 
-How You Can Access Or Correct Your Information:   
-You can access all your personally identifiable information that we collect online and maintain by personal request. We use this procedure to better safeguard your information.   
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-How To Contact Us:   
-Should you have other questions or concerns about these privacy policies, please call us send us an email at   
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
   
-**All models appearing on this site are 18 years of age or older and are intended to be portrayed as such.  
-© Copyright 2008, SpearMyPussy.com and its owner. All rights reserved. All images are strictly copyrighted. **
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
