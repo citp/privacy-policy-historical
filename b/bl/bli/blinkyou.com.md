@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkyou.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128012854id_/http%3A//www.blinkyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkyou.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218030445id_/http%3A//www.blinkyou.com/privacy.php) for the most accurate reproduction.*
 
 # BlinkYou.com Privacy Policy
 
