@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227084658id_/http%3A//www.dexoneadvertising.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218073830id_/http%3A//www.dexoneadvertising.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Local Marketing Solutions | Small Business Advertising
 
