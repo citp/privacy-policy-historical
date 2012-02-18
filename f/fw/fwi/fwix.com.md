@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007143326id_/http%3A//fwix.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219002149id_/http%3A//www.fwix.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fwix
 
-Last Revised: August 7, 2010 
+Date of Last Revision: August 7, 2010 
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Fwix, Inc. (“Fwix”, “we” or “us”) with respect to your use of the Web site located at www.fwix.com (the “Site”) and the services offered on or through the Site (the "Fwix Service") so you can make an informed decision about using the Site and the Fwix Service. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. 
 
