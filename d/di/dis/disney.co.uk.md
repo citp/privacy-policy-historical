@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214154318id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.co.uk privacy policy that was archived on 2012-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120218161007id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.*
 
 # Disney Registration
 
