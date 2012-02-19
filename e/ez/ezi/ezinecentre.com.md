@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinecentre.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212213315id_/http%3A//ezinecentre.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinecentre.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219025746id_/http%3A//ezinecentre.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -38,4 +38,4 @@ Changes to this Privacy Statement
 
 
 
-If you have any questions regarding the privacy policy of Your Business Service then you may contact us admin@articlesdynasty.com
+If you have any questions regarding the privacy policy of Your Business Service then you may contact us info@ezinecentre.com
