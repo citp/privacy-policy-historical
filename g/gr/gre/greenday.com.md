@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenday.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220044521id_/http%3A//greenday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenday.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219012755id_/http%3A//www.greenday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Greenday.com
 
