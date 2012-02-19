@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loola.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063330id_/http%3A//loola.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loola.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219071541id_/http%3A//loola.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Loola.com
 
