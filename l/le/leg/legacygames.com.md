@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacygames.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130001246id_/http%3A//www.legacygames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacygames.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219212537id_/http%3A//www.legacygames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legacy Games
 
