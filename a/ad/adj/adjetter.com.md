@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206035423id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220171249id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Adjetter | Privacy Policy
 
@@ -53,7 +53,7 @@ To prevent unauthorized access, disclosure or improper use of your information, 
 If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
 
 **Adjetter Media Network Pvt Ltd,**   
-2nd Floor, Tech Park   
-PESIT Campus, 100 Ft Ring Road,   
-BanaShankari 3rd Stage,   
-Bangalore - 560085, India.
+267, 2nd floor    
+Amar Jyoti layout (Next to Embassy Golf Links)   
+Koramangala Inner ring road,   
+Domlur, Bangalore - 560071, India.
