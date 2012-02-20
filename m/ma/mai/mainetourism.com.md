@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112142847id_/http%3A//www.mainetourism.com/content/4067/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainetourism.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220130225id_/http%3A//www.mainetourism.com/content/4067/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maine Tourism Association
 
@@ -18,8 +18,8 @@ Your privacy is very important to us. If you elect to fill out the forms on our 
 
 ## Latest Maine Memories
 
+[Moosehead Lake & Family fun](http://memoir.mainetourism.com/memoir/Moosehead-Lake-Family-fun/4f075ee4-4c50-4911-8934-2b2bad2de791)  
+One of my best memories of Maine, happened just this past summer. Since my husband and I work all summer at our business, Northeast Guide Service, it's tough to get away with friends and family...
+
 [Outdoor Heritage Museum](http://memoir.mainetourism.com/memoir/Outdoor-Heritage-Museum/4e0b4800-3e60-4743-bdbe-1d97ad2de791)  
 As part of the familiarization trip the staff had a fascinating visit to the new Outdoor Heritage Museum in Oquossoc at the corner of Routes 4 and 17 just outside of Rangeley.This museum heralds...
-
-[Skye Theatre Performing Arts Center](http://memoir.mainetourism.com/memoir/Skye-Theatre-Performing-Arts-Center/4def9690-c8f8-4e58-8424-0661ad2de791)  
-My co-workers and I toured the awesome Skye Theatre Performing Arts Center and enjoyed an outstanding Celtic performance from The Press Gang! It is so well designed and such an incredible stage! ...
