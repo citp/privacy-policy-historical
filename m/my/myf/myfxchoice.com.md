@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myfxchoice.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215023431id_/http%3A//myfxchoice.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfxchoice.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220034508id_/http%3A//myfxchoice.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://web.archive.org/) > Privacy Policy 
+[Home](https://web.archive.org/index.php?page_id=1) > Privacy Policy 
 
 FX Choice Limitedwould like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with. Please note that this policy only applies to our  website [www.myfxchoice.com]().
 
