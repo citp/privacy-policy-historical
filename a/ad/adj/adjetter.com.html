@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adjetter.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206035423id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adjetter.com privacy policy that was archived on 2012-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120220171249id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Adjetter | Privacy Policy</title>
@@ -32,217 +32,9 @@
 <script type="text/javascript" src="/static/js/jquery.simplemodal.js"></script>
 <link rel="stylesheet" type="text/css" href="/static/css/ui-lightness/jquery-ui-1.8.14.custom.css">
 <script type="text/javascript" src="/static/js/jquery-ui-1.8.14.custom.min.js"></script>
-<title>Adjetter | Technology enabled media planning and buying
-platform</title>
-<script type="text/javascript">
-jQuery(function($) {
-	
-	$("#carousel1").rcarousel({
-		visible:1,
-		step:1,
-		width:860,
-		height:300,
-		speed:1000,
-		auto: {
-	        enabled: true,
-	        interval: 3000,
-	        direction: "prev"									
-		},
-		navigation:{next:"#ui-rcarousel1-next",prev:"#ui-rcarousel1-prev"}
-	});
-});
-</script>
-<script type="text/javascript">
-var jQ = jQuery.noConflict();
-jQ(document).ready(function() {
-        
-        //options( 1 - ON , 0 - OFF)
-        var auto_slide = 1;
-            var hover_pause = 1;
-        var key_slide = 1;
-        
-        //speed of auto slide(
-        var auto_slide_seconds = 2000;
-        /* IMPORTANT: i know the variable is called ...seconds but it's 
-        in milliseconds ( multiplied with 1000) '*/
-        
-        /*move he last list item before the first item. The purpose of this is 
-        if the user clicks to slide left he will be able to see the last item.*/
-        jQ('#carousel_ul li:first').before(jQ('#carousel_ul li:last')); 
-        
-        //check if auto sliding is enabled
-        if(auto_slide == 1){
-            /*set the interval (loop) to call function slide with option 'right' 
-            and set the interval time to the variable we declared previously */
-            var timer = setInterval('slide("right")', auto_slide_seconds); 
-            
-            /*and change the value of our hidden field that hold info about
-            the interval, setting it to the number of milliseconds we declared previously*/
-            jQ('#hidden_auto_slide_seconds').val(auto_slide_seconds);
-        }
-  
-        //check if hover pause is enabled
-        if(hover_pause == 1){
-            //when hovered over the list 
-            jQ('#carousel_ul').hover(function(){
-                //stop the interval
-                clearInterval(timer)
-            },function(){
-                //and when mouseout start it again
-                timer = setInterval('slide("right")', auto_slide_seconds); 
-            });
-  
-        }
-  
-        //check if key sliding is enabled
-        if(key_slide == 1){
-            
-            //binding keypress function
-            jQ(document).bind('keypress', function(e) {
-                //keyCode for left arrow is 37 and for right it's 39 '
-                if(e.keyCode==37){
-                        //initialize the slide to left function
-                        slide('left');
-                }else if(e.keyCode==39){
-                        //initialize the slide to right function
-                        slide('right');
-                }
-            });
-
-        }
-        
-        
-  });
-
-//FUNCTIONS BELLOW
-
-//slide function  
-function slide(where){
-    
-            //get the item width
-            var item_width = jQ('#carousel_ul li').outerWidth() + 10;
-            
-            /* using a if statement and the where variable check 
-            we will check where the user wants to slide (left or right)*/
-            if(where == 'left'){
-                //...calculating the new left indent of the unordered list (ul) for left sliding
-                var left_indent = parseInt(jQ('#carousel_ul').css('left')) + item_width;
-            }else{
-                //...calculating the new left indent of the unordered list (ul) for right sliding
-                var left_indent = parseInt(jQ('#carousel_ul').css('left')) - item_width;
-            
-            }
-            
-            
-            //make the sliding effect using jQuery's animate function... '
-            jQ('#carousel_ul:not(:animated)').animate({'left' : left_indent},500,function(){    
-                
-                /* when the animation finishes use the if statement again, and make an ilussion
-                of infinity by changing place of last or first item*/
-                if(where == 'left'){
-                    //...and if it slided to left we put the last item before the first item
-                    jQ('#carousel_ul li:first').before(jQ('#carousel_ul li:last'));
-                }else{
-                    //...and if it slided to right we put the first item after the last item
-                    jQ('#carousel_ul li:last').after(jQ('#carousel_ul li:first')); 
-                }
-                
-                //...and then just get back the default left indent
-                jQ('#carousel_ul').css({'left' : '-210px'});
-            });             
-}
-  
-</script>
-
-<style type="text/css">
-#carousel_inner {
-	float:left; /* important for inline positioning */
-	width:915px; /* important (this width = width of list item(including margin) * items shown */ 
-	overflow: hidden;  /* important (hide the items outside the div) */
-	/* non-important styling bellow */
-	margin-left: 15px;
-	margin-right: 15px;
-}
-
-#carousel_ul {
-	position:relative;
-	left:-210px; /* important (this should be negative number of list items width(including margin) */
-	list-style-type: none; /* removing the default styling for unordered list items */
-	margin: 0px;
-	padding: 0px;
-	width:9999px; /* important */
-	/* non-important styling bellow */
-	padding-bottom:10px;
-}
-
-#carousel_ul li{
-	float: left; /* important for inline positioning of the list items */                                    
-	width:auto;  /* fixed width, important */
-	/* just styling bellow*/
-	padding:0px;
-	height:75px;
-
-	margin-top:20px;
-	margin-bottom:0px; 
-	margin-left:0px; 
-	margin-right:25px;
-}
-
-#carousel_ul li img {
-	.margin-bottom:-4px; /* IE is making a 4px gap bellow an image inside of an anchor (<a href...>) so this is to fix that*/
-	/* styling */
-	cursor:pointer;
-	cursor: hand; 
-	border:0px; 
-}
-#left_scroll, #right_scroll{
-	float:left; 
-	height:30px; 
-	width:15px;
-	margin-top: 40px; 
-}
-#left_scroll img, #right_scroll img{
-	border:0; /* remove the default border of linked image */
-	/*styling*/
-	cursor: pointer;
-	cursor: hand;
-
-}
-<!---->
-#carousel {
-	width: 978px;
-	position: relative;
-	margin-left:10px;
-	padding-top:10px;
-}
-#carousel1 {
-	width: 978px;
-	position: relative;
-	margin-left:10px;
-	padding-top:20px;
-}
-#carousel img {
-	border: 0;
-}
-#ui-rcarousel-next, #ui-rcarousel-prev {
-	display: block;
-	position: absolute;
-}
-#ui-rcarousel1-next, #ui-rcarousel1-prev {
-	display: block;
-	position: absolute;
-}
-
-#ui-rcarousel-next {
-	top: 45px;
-	right: 0;
-}
-
-#ui-rcarousel-prev {
-	top: 45px;
-	left: 0;
-}
-</style>
+<title>
+	Adjetter | Technology enabled media planning and buying platform
+</title>
 </head>
 <body>
 	<div class="header">
@@ -255,7 +47,7 @@ function slide(where){
 	                    	Login
 	                    </div>
 	                    <div style="float:left; margin-left:30px; padding-top:3px;">
-	                    	I am a
+	                    	I am a &nbsp;
 	                    </div>
 	                    <div style="float:left; margin-left:2px; padding-top:5px;">
 	                    	<select name="type" style="border: -1px solid #FFFFFF; height:20px; width:120px;">
@@ -265,25 +57,25 @@ function slide(where){
 	                        </select>
 	                    </div>
 	                    <div style="float:left; margin-left:30px; padding-top:4px;">    	
-	                    	User Name
+	                    	User Name &nbsp;
 	                    </div>
 	                    <div style="float:left; margin-left:2px; padding-top:4px;">    	
 	                    	<input type="text" style="width:120px;" name="username" onkeypress="return enterKeyValidate(event)">
 	                    </div>
-	                    <div style="float:left; margin-left:12px; padding-top:4px;">    	
-	                    	Password
+	                    <div style="float:left; margin-left:14px; padding-top:4px;">    	
+	                    	Password &nbsp;
 	                    </div>
 	                    <div style="float:left; margin-left:2px; padding-top:4px;">    	
 	                    	<input type="password" style="width:120px;" name="password" onkeypress="return enterKeyValidate(event)">
 	                    </div>
-	                    <div style="float:left; margin-left:3px; padding-top:2px;">    	
+	                    <div style="float:left; margin-left:14px; padding-top:2px;">    	
 	                    	<a href="#" onclick="document.loginform.submit();"><img src="/static/images/adj_home/login_button2.png"></a>
 	                    </div>
-	                    <div style="float:left; margin-left:20px; padding-top:3px; font-size:12px;">    	
-	                    	<a href="#">Forgot your Password?</a>
+	                    <div style="float:left; margin-left:15px; padding-top:3px; font-size:12px;">    	
+	                    	<a style="color: white;" href="/login/password-recovery-assistance.html">Forgot Password?</a>
 	                    </div>
-	                    <div style="float:left; margin-left:20px; padding-top:3px; font-size:12px;">    	
-	                    	<a href="/home/new-user-regn.html">New User?</a>
+	                    <div style="float:left; margin-left:12px; padding-top:3px; font-size:12px;">    	
+	                    	<a style="color: white;" href="/home/new-user-regn.html">New User?</a>
 	                    </div>
 	                    <script type="text/javascript">
 	                    function enterKeyValidate(e) {
@@ -338,10 +130,8 @@ function slide(where){
        		</div>
       </div>
  	</div>
-<div class="content">
-    	<div class="clouds">
-        	
-         </div>
+<div class="content" style="height: auto;">
+    	 <div class="clouds"></div>
          <div class="grey">
          	<div id="doc">
                 <div class="net_new" style="height: auto;">
@@ -383,13 +173,22 @@ function slide(where){
 						<p align="justify">To prevent unauthorized access, disclosure or improper use of your information, and to maintain data accuracy, we've established reasonable physical, electronic and managerial safeguards to protect the information we collect. Although we take reasonable steps to safeguard and prevent unauthorized access to your personally identifiable information, we can't be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.</p>
 						<br><p align="justify"><b>How should I contact Adjetter Media Network about my personally identifiable information?</b></p>
 						<p align="justify">If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:</p>
-						<br><span><b>Adjetter Media Network Pvt Ltd,</b></span>
+						<!-- br><span><b>Adjetter Media Network Pvt Ltd,</b></span>
 						<br><span>2nd Floor, Tech Park</span>
 						<br><span>PESIT Campus, 100 Ft Ring Road,</span>
 						<br><span>BanaShankari 3rd Stage,</span>
-						<br><span>Bangalore - 560085, India.</span>
+						<br><span>Bangalore - 560085, India.</span-->
+						
+						<br><span><b>Adjetter Media Network Pvt Ltd,</b></span>
+						<br><span>267, 2nd floor </span>
+						<br><span>Amar Jyoti layout (Next to Embassy Golf Links)</span>
+						<br><span>Koramangala Inner ring road,</span>
+						<br><span>Domlur, Bangalore - 560071, India.</span>
 					</div>
                   	
+ 
+
+
                     		
                 	</div>
                 	<div style="height: auto; width: 960px; margin-left: 20px; margin-bottom: 20px; text-align: justify;">
