@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the adultspace.com privacy policy that was archived on 2011-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111220214731id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adultspace.com privacy policy that was archived on 2012-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120220092744id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Adultspace.com | A Stimulating Social Network For the Adult Community - Special Edition</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en">
@@ -13,6 +13,12 @@
 <meta name="document-rights" content="Copywritten Work">
 <meta name="robots" content="index,follow">
 <meta name="robots" content="noodp">
+<meta property="og:title" content="Adultspace.com | A Stimulating Social Network For the Adult Community - Special Edition">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://cdn.adultspace.com/images/header/logo.png">
+<meta property="og:site_name" content="Adultspace">
+<meta property="og:description" content="A Stimulating Social Network For the Adult Community.">
+<meta property="fb:app_id" content="298841013497454">
 <meta name="verify-v1" content="h1YW+TB1IRIF8PDj65TKUF9B4RTIQtkveUc+aeIc630=">
 <link rel="icon" type="image/png" href="http://files.adultspace.com/favicon.png">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://files.adultspace.com/favicon.ico">
@@ -23,7 +29,7 @@
 <link href="http://cdn.adultspace.com/css/default/as.css" type="text/css" rel="stylesheet">
 <link href="http://cdn.adultspace.com/css/default/dockas.css" type="text/css" rel="stylesheet">
 <!--[if lte IE 7]><link href="http://cdn.adultspace.com/css/default/dock_ie.css" type="text/css" rel="stylesheet" /><![endif]-->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.adultspace.com/js/forms.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.adultspace.com/js/forms.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
 
@@ -42,16 +48,15 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
-</script>
-<script type="text/javascript">
-  function recordOutboundLink(link, category, action) {
-    _gat._getTrackerByName()._trackEvent(category, action);
-    setTimeout('document.location = "' + link.href + '"', 100);
-  }
+function recordOutboundLink(link, category, action) {
+	_gat._getTrackerByName()._trackEvent(category, action);
+	setTimeout('document.location = "' + link.href + '"', 100);
+}
 </script>
 <!--Google Analytics-->
 </head>
-<body onload="setbody(); return false;go_ads();" class="christmas">
+<body onload="setbody(); return false;go_ads();">
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <div id="wrapper">
 <div id="wrapbody">
 <!-- start body -->
@@ -62,17 +67,23 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<div id="b728x90" class="b728x90"></div>
 	<div id="headerbar">
 		<div class="fbwrap">
-			<div id="fb-root"></div>
 			<script type="text/javascript">
-			(function(d, s, id) {
-				  var js, fjs = d.getElementsByTagName(s)[0];
-				  if (d.getElementById(id)) {return;}
-				  js = d.createElement(s); js.id = id;
-				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-				  fjs.parentNode.insertBefore(js, fjs);
-				}(document, 'script', 'facebook-jssdk'));
+				window.fbAsyncInit = function() {
+					FB.init({appId: '298841013497454', status: true, cookie: true, xfbml: true});
+					FB.Event.subscribe('edge.create', function(href, widget) {
+						_gaq.push(['_trackSocial', 'Facebook', 'Like', '', '']);
+					});
+					FB.Event.subscribe('edge.remove', function(href, widget) {
+						_gaq.push(['_trackSocial', 'Facebook', 'UnLike', '', '']);
+					});
+				};
+				(function() {
+					var e = document.createElement('script'); e.async = true;
+					e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+					document.getElementById('fb-root').appendChild(e);
+				}());
 			</script>
-			<div class="fb-like" data-href="http://facebook.com/adultspacefanpage" data-send="false" data-layout="button_count" data-show-faces="false"></div>
+			<fb:like href="http://www.adultspace.com" layout="button_count"></fb:like>
 		</div>
 		<g:plusone href="http://www.adultspace.com" size="medium"></g:plusone>
 		<ul>
@@ -106,7 +117,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			<li><a href="http://www.adultspace.com/contest_pictures.html">my entries</a></li>
 			<li><a href="http://www.adultspace.com/contest_enter.html">enter contest</a></li>
 			<li><a href="http://www.adultspace.com/contest_rules.html">contest rules</a></li>
-			<li><a href="http://www.adultspace.com/contest_prizes.html">prizes</a></li>
 			<li><a href="http://www.adultspace.com/contest_winners.html">past winners</a></li>
 			<li><a href="http://www.adultspace.com/top_users.html"><em><span class="newband"></span>top users</em></a></li>
 			<li><a href="http://www.adultspace.com/rate.html">rate</a></li>
@@ -389,7 +399,7 @@ text-decoration:none;text-underline:none"><span style="mso-list:Ignore">G.<span 
 				<ul>
 					<li><a href="http://www.adultspace.com/sitemap.xml">Sitemap</a></li>
 					<li><a href="http://www.adultspace.com/faq.html">FAQ</a></li>
-					<li><a href="http://www.adultspace.com/about_us.html">About us</a></li>
+					<li><a href="http://www.adultspace.com/static/about_us.html">About us</a></li>
 					<li><a href="http://www.adultspace.com/3d_sex_game.html">Adultspace Virtual</a></li>
 					<li><a href="http://www.adultspace.com/help.html">Help</a></li>
 				</ul>
@@ -397,17 +407,16 @@ text-decoration:none;text-underline:none"><span style="mso-list:Ignore">G.<span 
 			<div class="footerlist1">
 				<h3>Terms</h3>
 				<ul>
-					<li><a href="http://www.adultspace.com/terms_and_conditions.html">Terms of Use</a></li>
-					<li><a href="http://www.adultspace.com/privacy_policy.html">Privacy Policy</a></li>
-					<li><a href="http://www.adultspace.com/compliance.html">2257</a></li>
-					<li><a href="http://www.adultspace.com/dmca.html">DMCA</a></li>
-					<!-- <li><a href="http://www.adultspace.com/site_refund_policy.html">Refund Policy</a></li> -->
+					<li><a href="http://www.adultspace.com/static/terms_and_conditions.html">Terms of Use</a></li>
+					<li><a href="http://www.adultspace.com/static/privacy_policy.html">Privacy Policy</a></li>
+					<li><a href="http://www.adultspace.com/static/compliance.html">2257</a></li>
+					<li><a href="http://www.adultspace.com/static/dmca.html">DMCA</a></li>
 				</ul>
 			</div>
 			<div class="footerlist1">
 				<h3>Advertise</h3>
 				<ul>
-					<li><a href="http://www.adultspace.com/advertise_with_us.html">Advertise with Us</a></li>
+					<li><a href="http://www.adultspace.com/static/advertise_with_us.html">Advertise with Us</a></li>
 					<li><a href="http://www.adultspace.com/promote_us.html">Promote Us</a></li>
 					<li><a href="http://www.adultspace.com/invite.html">Invite</a></li>
 				</ul>
