@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freemoviezdl.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007212444id_/http%3A//freemoviezdl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoviezdl.com privacy policy that was archived on 2012-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120221211449id_/http%3A//linkzfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Online Stream Movies TV Anime Series WWE Download Free
+# Privacy Policy | Watch Movies Online Stream Movie Download Free
 
-At [freemoviezdl.com](http://freemoviezdl.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://freemoviezdl.com/FMDL/this_article/2408/2) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [freemoviezdl.com](http://freemoviezdl.com/) and how it is used.
+At [freemoviezdl.com](http://freemoviezdl.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://en.wikipedia.org/wiki/Privacy_policy) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [freemoviezdl.com](http://freemoviezdl.com/) and how it is used.
 
  **Log Files**  
 Like many other Web sites, [freemoviezdl.com](http://freemoviezdl.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -14,7 +14,7 @@ Like many other Web sites, [freemoviezdl.com](http://freemoviezdl.com/) makes us
 
   * Google, as a third party vendor, uses cookies to serve ads on [freemoviezdl.com](http://freemoviezdl.com/).
   * Google's use of the DART cookie enables it to serve ads to users based on their visit to [freemoviezdl.com](http://freemoviezdl.com/) and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](http://freemoviezdl.com/FMDL/http_www_google_com_privacy_ads_html/2408/8).
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
 
 
 
