@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014024622id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.gamerevolution.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2012-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120221110457id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.gamerevolution.com) for the most accurate reproduction.*
 
 # Privacy Policy | CraveOnline
 
