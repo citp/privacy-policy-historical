@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the genxgame.com privacy policy that was archived on 2011-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111222170957id_/http%3A//www.genxgame.com/front/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genxgame.com privacy policy that was archived on 2012-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120221122107id_/http%3A//www.genxgame.com/front/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy - genxgame</title>
@@ -47,7 +47,9 @@
 <style type="text/css">
 	.fullscreen {background:#000 none repeat scroll 0 0;display:none;height:100%;left:0;filter:alpha(opacity=30);opacity: 0.3;top:0;width:100%;z-index:3000;display:none;position:fixed;}
 	#data-id{ z-index:2000; text-align:center;}#pls-wait-text{ font-size:18px; color:#000; font-weight:bolder;}
-	#pls-wait-text{ color:#fff;}
+	#pls-wait-text{ color:#666;}
+	.login-error-msg{display:none;}
+	#ok-close{font-size:10px; font-weight:bold; text-decoration:none; color:#F00; float:right; position:relative; margin-right:3px; margin-top:-15px; }	
 </style>
 <div id="header-clones">
     <div id="header-content-clones">
@@ -60,7 +62,7 @@
             <li><a href="http://www.genxgame.com/signup?sf=home_flow&amp;start=1" class="menu-signup-clones"></a></li>
         </ul>
         <div id="header-login-clones">
-            <form name="login" action="http://members.genxgame.com/login" method="post" onkeydown="if(event.keyCode == 13){loadPage(); return document.login.submit();}">
+            <form name="login" action="http://members.genxgame.com/login" method="post" onkeydown="if(event.keyCode == 13){loadPage();document.login.submit();}">
                 <div id="header-fill-clones">
                    <input type="text" name="username" value="Your Email" class="fill-form" onclick="clickclear(this, 'Your Email', 'text')" onblur="clickrecall(this,'Your Email')" style="background: transparent url(http://www.genxgame.com/images/bk-fill.jpg) top left no-repeat; border:0; width:100px; height:18px; padding-right:5px; padding-left:4px; color:#d9d9d9; font-size:11px; margin-bottom:3px;"><br>
                     <input type="text" name="fakepassword" id="fakepassword" class="fill-form" value="Password" onfocus="pwdFocus();" style="background: transparent url(http://www.genxgame.com/images/bk-fill.jpg) top left no-repeat; border:0; width:100px; height:18px; padding-right:5px; padding-left:4px; color:#d9d9d9; font-size:11px; margin-bottom:3px;">    
@@ -68,10 +70,11 @@
                     <input type="hidden" name="login_form" value="1">
                 </div>
                 <div id="header-all-btn-clones">
-                	<a href="" onclick="javascript:loadPage();document.login.submit(); return false;"><img src="http://www.genxgame.com/images/img-overlay.gif" alt="Login" class="header-button-login-clones"></a>
-                    <a href="http://www.genxgame.com/signup?sf=home_flow&amp;start=1" target="_self"><img src="http://www.genxgame.com/images/img-overlay.gif" alt="Login" class="header-button-signup-clones"></a>
+                	<a href="" onclick="loadPage();document.login.submit(); return false;"><img src="http://www.genxgame.com/images/img-overlay.gif" alt="Login" class="header-button-login-clones"></a>
+                    <a href="http://www.genxgame.com/signup?sf=home_flow&amp;start=1" target="_self" onclick="loadPage();"><img src="http://www.genxgame.com/images/img-overlay.gif" alt="Login" class="header-button-signup-clones"></a>
                 </div>
             </form>
+             <span class="login-error-msg shadow radius">Please enter your Email/Password! <br><a href="#" onclick="$('.login-error-msg').fadeOut();" id="ok-close"><img src="images/remove_icon.png"></a></span>
         </div><!-- end #header-login -->
         
         <div id="dropmenu-games-clones">
@@ -100,7 +103,7 @@
 <script type="text/javascript">
 jQuery.fn.center = function () {
     this.css("position","absolute");
-	this.css("top", "50px");
+	this.css("top", "350px");
 	this.css("left", "950px");
     //this.css("top", (($(window).height() - this.outerHeight()) / 2) + $(window).scrollTop() + "px");
     //this.css("left", (($(window).width() - this.outerWidth()) / 2) + $(window).scrollLeft() +30 + "px");
@@ -122,6 +125,21 @@ function loadPage(){
 			$('#data-id').center();
 			divShow=true;
 		  }	
+}
+function frmLogin()
+{
+	var usernameVal = document.login.username.value;
+	var passwordVal = document.login.password.value; 	
+	if (usernameVal== "Your Email" || usernameVal == "" || passwordVal == "Password" || passwordVal == "")
+	{
+	$('.login-error-msg').css({'display': 'block', 'position': 'absolute', 'top': '10px', 'left':'-100px', 'width': '230px','padding':'5px 5px 5px 20px','margin':'10px','z-index':'100','color':'#AAA', 'background':'#fff','font': '12px', 'text-align':'left'});
+	}		
+	else
+	{				
+		loadPage();
+		document.login.submit(); 
+	}
+	
 }
 
 </script>
