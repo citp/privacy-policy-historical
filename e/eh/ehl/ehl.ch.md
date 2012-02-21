@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehl.ch privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222031112id_/http%3A//www.ehl.ch/eng/content/view/full/5093) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehl.ch privacy policy that was archived on 2012-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120221012115id_/http%3A//www.ehl.ch/eng/content/view/full/5093) for the most accurate reproduction.*
 
 # Privacy policy / Home - Lausanne Hotel School
 
