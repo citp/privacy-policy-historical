@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mosaichub.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219225252id_/http%3A//www.mosaichub.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mosaichub.com privacy policy that was archived on 2012-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120222022007id_/http%3A//www.mosaichub.com/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	<meta name="title" content="Privacy Policy - mosaicHUB - Business Resources, Discussions, Forums, and more">
@@ -9,134 +9,35 @@
 	<meta http-equiv="Content-Language" content="en-us">
     <title>Privacy Policy - mosaicHUB - Business Resources, Discussions, Forums, and more</title>
 	<link rel="stylesheet" href="/site_media/css/reset.css" type="text/css" media="all">
-	<link rel="stylesheet" href="/site_media/css/base.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/site_media/css/uniform.default.css" type="text/css" media="all">
-    <link rel="stylesheet" href="/site_media/js/jquery-star-rating/jquery.rating.css" media="all">
-    <link rel="stylesheet" href="/site_media/css/jquery.jcrop.css" media="all">
+	<link rel="stylesheet" href="/site_media/css/base_new.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/site_media/css/external/uniform.default.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/site_media/css/external/jquery.jcrop.css" media="all">
 	<!--[if IE]>
 		<link rel="stylesheet" href="/site_media/css/ie.css" type="text/css" media="all" />
 	<![endif]-->
 	
-	<script type="text/javascript" async="" src="https://widget.uservoice.com/5jYeWFR3bEee1MdFyaiR9Q.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/site_media/js/jquery-1.4.4.js"></script>
-	<script type="text/javascript" src="/site_media/js/jquery.simplemodal-1.4.1.js"></script>
-    <script type="text/javascript" src="/site_media/js/jquery.uniform.min.js"></script>
-    <script type="text/javascript" src="/site_media/js/jquery-star-rating/jquery.rating.js"></script>
-    <script type="text/javascript" src="/site_media/js/jquery.placeholder.1.1.js"></script>
-    <script type="text/javascript" src="/site_media/js/jquery.jcrop.min.js"></script>
-    <!--<script type="text/javascript" src="/site_media/js/util_date.js"></script> -->
-	
+	<script type="text/javascript" async="" src="https://widget.uservoice.com/5jYeWFR3bEee1MdFyaiR9Q.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/site_media/js/external/jquery-1.4.4.js"></script>
+	<script type="text/javascript" src="/site_media/js/external/jquery.simplemodal-1.4.1.js"></script>
+    <script type="text/javascript" src="/site_media/js/external/jquery.simpletip-1.3.1.pack.js"></script>
+    <script type="text/javascript" src="/site_media/js/external/jquery.uniform.min.js"></script>
+    <script type="text/javascript" src="/site_media/js/external/jquery.placeholder.1.1.js"></script>
+    <script type="text/javascript" src="/site_media/js/external/jquery.jcrop.min.js"></script>
+    <script type="text/javascript" src="/site_media/js/external/jqcloud-0.2.8.min.js"></script>
 	<script type="text/javascript" src="/site_media/js/base.js"></script>
+    <script type="text/javascript" src="/site_media/js/ready.js"></script>
 	
                 
 	<script type="text/javascript">
-		
-
 		$(document).ready(function() {
-            $("select, input:file").uniform();
-            $.Placeholder.init();
-            
-            // Page Height Hack
-            function updateHeight() {
-                var win_height = $(window).height();
-                var body_height = $("body").innerHeight();
-                if (win_height > body_height) {
-                    $(".centerwrap_frame").css({"margin-left":"-15px"});
-                } else {
-                    $(".centerwrap_frame").css({"margin-left":"0px"});
-                }
-            }
-            updateHeight();
-            $(window).resize(updateHeight);
 
 			
+    $("#wl_legal_privacy").addClass("wl_selected");
+
             
-            // User Voice Feedback Button Hacks
-            function doUserVoiceHacks() {
-                if ($("#uvTabLabel img").length > 0) {
-                    $("#uvTab").css({"background-color":"#0A75E2"});
-                    //$("#uvTabLabel img").attr("src","http://widget.uservoice.com/images/widget/feedback-tab.png?t=feedback&c=9FA7AF&r=90");
-                }
-                else {
-                    setTimeout(doUserVoiceHacks, 25);
-                }
-            }
-            setTimeout(doUserVoiceHacks, 25);
-            
-                function showJoinDialog(message) {
-                    if (message) {
-                        $("div.mj_message_content p").html(message);
-                        $("div.mj_message_content").show();
-                    }
-                    else {
-                        $("div.mj_message_content").hide();
-                    }
-                    $(".empty_modal_centerwrap").html($("#join_modal_template").html());
-                    $(".empty_modal_container").modal();
-                    
-                    $(".join_login_link").click(function(e) {
-                        $.modal.close();
-                        setTimeout(function() {
-                            $("#header_login_link").trigger("click");
-                        }, 500);
-                    });
-                }
-                $(".save_item").click(function(e) {
-                    showJoinDialog("To save resources, follow questions, and a lot more, join in seconds below.");
-                });
-                
-                $(".like_item").click(function(e) {
-                    showJoinDialog("To vote on questions, answers, resources, and a lot more, join in seconds below.");
-                });
-                
-                $(".dislike_item").click(function(e) {
-                    showJoinDialog("To vote on questions, answers, resources, and a lot more, join in seconds below.");
-                });
-                
-                $(".review_item").click(function(e) {
-                    showJoinDialog("To leave reviews and a lot more, join in seconds below.");
-                });
-                
-                $("#anon_nav_my_workspace").click(function(e) {
-                    showJoinDialog("To view your own personal Workspace, join in seconds below.");
-                });
-                
-                $("#id_user_contact_form").attr("action","javascript:void(0)");
-                $("#id_user_contact_form #id_cform_submit").click(function(e) {
-                    showJoinDialog("To contact this user and a lot more, join in seconds below.");
-                });
-                $("#id_user_contact_form #id_contact_message").focus(function(e) {
-                    showJoinDialog("To contact this user and a lot more, join in seconds below.");
-                });
-                
-                $("#header_join_link, #home_join_link").click(function(e) {
-                    showJoinDialog("");
-                });
-                
-                $("#header_login_link").click(function(e) {
-                    $(".empty_modal_centerwrap").html($("#login_modal_template").html());
-                    $(".empty_modal_container").modal();
-                });
-                
-                
-                
-            
-            $(".info_bubble").click(function(e) {
-                var container_id = "."+$(this).find("span").attr('class')+"_container";
-                $(".empty_modal_centerwrap").html($(container_id).html());
-                $(".empty_modal_container").modal();
-                var new_height = $(".empty_modal_centerwrap div.info_modal_container div").outerHeight() + 48 + "px";
-                $("#simplemodal-container").css({"height":new_height});
-            });
-            
-            $("#current_activity_box h4").click(function(e) {
-                var div_id = $(this).attr('id').replace('_link','');
-                if (!$(this).hasClass("cab_current")) {
-                    $("#current_activity_box div").slideUp(500);
-                    $("#current_activity_box h4").removeClass("cab_current");
-                    $("#"+div_id).slideDown(500);
-                    $(this).addClass("cab_current");
-                }
-            });
+            var user_logged_in = false;
+            var login_form_errors = false;
+            var join_form_errors = false;
+            mosaic.ready.baseReady(user_logged_in, login_form_errors, join_form_errors);
 		});
 	</script>
         <script type="text/javascript">
@@ -150,90 +51,130 @@
               var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
-
-	<style type="text/css">
-		
-	</style>
 </head>
-<body id="info_legal" class="">
-    <noscript><p id="no_javascript_alert">Enabling JavaScript is highly recommended. Certain features may not work as expected without it.</p></noscript>
+<body id="default_body">
+    <noscript><p id="no_javascript_alert" class="pv_12 al_c t_14 t_bold t_white bg_black">Enabling JavaScript is highly recommended. Certain features may not work as expected without it.</p></noscript>
     
     
-    <div id="anon_header_frame" class="centerwrap_frame">
+    
+    
+    <div class="centerwrap_frame">
         <div class="centerwrap_container">
-            <a id="main_logo_link" href="/"><img alt="mosaicHUB Logo" src="/site_media/image/mosaichub_logo.png" id="main_logo"></a>
-                <div id="header_login_info">
-                    <span id="header_join_link" class="input_submit_small_green rounded_corners_small mt_1">&nbsp;JOIN&nbsp;</span>
-                    <span id="header_login_link" class="input_submit_small_grey_extra rounded_corners_small mt_1">LOGIN</span>
+            <div class="frame_50 pt_24 pb_12">
+                    <a id="main_logo_link" href="/"><img alt="mosaicHUB Logo" src="/site_media/image/mosaichub_logo_small.png" width="140" height="43"></a>
+            </div>
+                <div class="frame_50">
+                    <p class="fl_r t_wgrey m_6"><span id="header_join_link" class="t_green pv_3 pl_6 pr_3 t_bold">JOIN</span> | <span id="header_login_link" class="t_blue_link pv_3 pl_3 pr_6 t_bold">LOGIN</span></p>
                     <div class="cl_r"></div>
                 </div>
-            <div class="cl_b"></div>
+            <div class="cl_l"></div>
         </div>
     </div>
+
 
     <div id="main_content_frame">
         <div id="main_content_container" class="centerwrap_frame">
             <div class="centerwrap_container">
                 
-
-                
-    <form id="global_search_form" action="/search" method="get">
-        <input type="submit" value="" class="input_submit_search rounded_corners_tiny fl_r">
-        <input type="text" name="q" value="" class="text_input_search rounded_corners_tiny fl_r" id="id_q_global" placeholder="Search mosaicHUB">
-    </form>
-        <ul id="main_nav" class="anon_main_nav">
-            <li id="anon_nav_my_workspace"><span>WORKSPACE</span></li>
-            <li id="anon_nav_open_forum"><a href="/open_forum">OPEN FORUM</a></li>
-            <li id="anon_nav_resource_center"><a href="/resource_center">RESOURCE CENTER</a></li>
-            <li id="anon_nav_partner_search"><a href="/partner/search">PARTNER SEARCH</a></li>
+    <div id="main_nav_frame" class="bg_blue_dark rc_small pr_6 box_shadow_right_bottom_dark">
+        <ul id="main_nav">
+            <li id="nav_hubspace" class="rc_small_left">
+                    <span id="nav_hubspace_link" class="rc_small_left">HubSpace</span>
+            </li>
+            <li id="nav_community"><a href="/community/search">Community</a></li>
+            <li id="nav_open_forum"><a href="/open_forum">Open Forum</a></li>
+            <li id="nav_resource_center"><a href="/resource_center">Resource Center</a></li>
         </ul>
-    <div class="cl_b"></div>
+        <!--
+        <form action="/search" method="get">
+            <input type="text" name="q" value="" class="ti_search_big rc_tiny fl_r" placeholder="Search mosaicHUB" />
+        </form>
+        -->
+        <div class="cl_l"></div>
+    </div>
 
                 
-    <div id="main_subnav"></div>
+    <div style="padding-top:1px;"></div> <!-- for whatever reason, this fixes firefox spacing -->
 
-                <div id="nav_extra_info">
-                    
-    <h1 class="page_name t_h1">mosaicHUB Privacy Policy</h1>
-    <div id="ws_extra_bar"></div>
+                
 
-                </div>
-                <div id="main_content" class="">
+
+                <div id="main_content">
                     
-    <h3><span class="l_note">Updated: September 22, 2011</span></h3>
     
-    <p>mosaicHUB, Inc. ("Company", "us" or "we") respects the privacy of the visitors to its Web site, www.mosaichub.com ("Site") and makes all commercially reasonable efforts to protect it.  This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of “Personal Information,” “Automatically Gathered Information" and "Anonymous Information" (each defined below) you submit to us or which we gather when you visit our Site. This Privacy Policy is hereby incorporated in our <a href="/info/terms_of_use">Terms of Use</a> Agreement, and by visiting the Site you accept the terms of this Privacy Policy.  This Privacy Policy applies to ALL users, including those just visiting this Site ("Users").</p>
-    <p>"Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing.  "Automatically Gathered Information" is information we collect as you visit our site.  See "Automatically Gathered Information" below for more information.  "Anonymous Information" means information that is not associated with or linked to your Personal Information.  See "Anonymous Information" below for more information.</p>
-    <p><span class="l_important l_section">Consent</span><span class="l_important">.      By visiting the Site, you agree to the terms of this Privacy Policy, and you expressly consent to the processing of your Personal Information according to this Privacy Policy by us or by third parties with whom we have a relationship.  Your Personal Information may be processed by mosaicHUB in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.  In addition, in the event you contact mosaicHUB via telephone, you understand, acknowledge and agree that such phone questions may be recorded.</span></p>
-    <p><span class="l_section">Notification of Changes</span>.      We may update this Privacy Policy from time to time as our Site and services change and expand.  If we make changes to this Privacy Policy, we will post notice that this Privacy Policy has changed under this Privacy Policy section of the Site.  Unless otherwise provided, the revised terms will take effect when they are posted.  Once any changes that we make to this Privacy Policy become effective, your continued use of the Site after such time will signify your acceptance of the new terms.</p>
-    <p><span class="l_important">A.  INFORMATION WE GATHER</span></p>
-    <p>1. <span class="l_section">Registration</span>.      If you register with the Site, we collect and store Personal Information that specifically identifies you or the account you set up with mosaicHUB (your "Account").  At this time, the most information you would be required to submit is your first name, last name, password, street address, city, state, zip/postal code, country, phone number, email address and valid financial account (i.e. credit card) information.  Other information requested on our Registration page is optional.  We may, in the future, include other optional requests for information from you to help us tailor the Site for you and deliver personalized information to you.  We may supplement Personal Information you provide us with additional information purchased from third parties for marketing purposes.  </p>
-    <p>2. <span class="l_section">Password</span>.  Use of portions of the Site requires you to establish a user name and password.  You agree that you will be responsible for maintaining your password as confidential and for any activity that occurs on your Account as a result of you sharing your password with another or failing to protect it.  mosaicHUB is not responsible for any loss or damage arising from your failure to maintain the confidentiality of your password.</p>
-    <p>3. <span class="l_section">Online Surveys and Contests</span>.      Occasionally, mosaicHUB may conduct User surveys to collect information about our Users' preferences.  These surveys are optional, and if you choose to respond, your responses will be kept anonymous.  These surveys may be conducted by and processed through third parties. Similarly, we may offer contests to qualifying Users in which we ask for contact and demographic information such as name, email address and mailing address.  Except with respect to any survey partners, none of the survey results are shared with third parties in a personally identifiable form.  The demographic information thon mosaicHUB collects in the registration process and through surveys may be used to help us improve our Site and services to meet the needs and preferences of our Users.  This may include targeting advertising to you about our Site and services.  Information we gather through a contest may also be disclosed to third parties as necessary for prize fulfillment and other aspects of any contest or similar offering.</p>
-    <p>4. <span class="l_section">Cookies; Automatically Gathered Information</span>.      mosaicHUB automatically collects browser type and browser software version to tailor the presentation of the Site and the services to the User's platform and to maintain a record of the User's activity on the Site.  mosaicHUB uses cookies to enable Users to specify unique preferences and to track User trends and patterns.  Users always have the option of disabling cookies via their browser preferences.  If you disable cookies on your browser, please note that some parts of our Site may not function as effectively or may be considerably slower.  As an automatic process, our Web server software records a log file of IP addresses that access the Site.  We also collect IP address information but do not ordinarily link IP addresses to Users' Personal Information.  However, we can and will use IP addresses to identify a User when we, in our sole discretion, determine that it is necessary to enforce compliance with our <a href="/info/terms_of_use">Terms of Use</a>, Privacy Policy, or to protect our service, Site, customers, partners, or others.</p>
-    <p>5. <span class="l_section">Email Feature and Referral Program</span>.       mosaicHUB lets you easily connect your Profile to colleagues/friends/affiliates via email.  mosaicHUB also offers the ability to send colleagues/friends/affiliates emails to mosaicHUB.  If you choose to use either feature, we will use your email address to copy you on the message or to send on the email your behalf, and you hereby grant permission for such use.</p>
-    <p>6. <span class="l_section">Public Information</span>.      As part of a registration, you may set up a Profile describing yourself and your business.  This profile will be publicly available as a default.  You will have the ability to hide Personal Information under your Profile Settings.  Once you choose to hide your profile, it may take some time for the search engines (e.g., Google, Yahoo, MSN, etc) to cycle out their cached search results, which may temporarily contain your Personal Information.  mosaicHUB does not have direct control over the timeliness of this process.  mosaicHUB will not have any obligation under this Privacy Policy with respect to information in your Profile or information you voluntarily provide to other Users via the Site.</p>
-    <p><span class="l_important">B.  HOW WE USE AND DISCLOSE INFORMATION</span></p>
-    <p>1. <span class="l_section">Registration Information</span>.      We use Personal Information for our own internal purposes, including contacting you via email to inform you about updates to our services and providing you with information relating to e-commerce transactions that you conduct on the Site.  We reserve the right to disclose your information as required by law.  We do not rent or sell our individual Users' Personal Information to third parties.  We do, however, provide you with the opportunity to receive newsletters via email.  If you decide to opt in to receive newsletters, you may opt out of receiving these newsletters at any time.  We also reserve the right to transfer your Personal Information as part of a transfer of all or part of mosaicHUB's assets to a buyer, as described in "Acquisition," below.</p>
-    <p>2. <span class="l_section">Open Forum</span>.      This area of the Site is for the benefit of Users.  It is a public discussion and communication forum whereby content (best practices, suggestions, etc.) is generated by the mosaicHUB Community.  By your participation to this area of the Site, you acknowledge that the information posted will reside in the public domain and will be publicly available.  From time to time, mosaicHUB Staff may examine this content or other user behavior to confirm that the terms of service are not being breached and mosaicHUB may remove any content that is inappropriate in mosaicHUB's sole discretion.  We strongly recommend that you refrain from posting in Personal Information in this forum, and you may not post the Personal Information of any other person on the forum.  See our <a href="/info/terms_of_use">Terms of Use</a> for more information.</p>
-    <p>3. <span class="l_section">The Rating and Review System</span>.      The Partner Rating and Review system represents a central repository for ratings and reviews of Partners by their customers.  When you submit a review or a counter-review on the Site, your mosaicHUB Profile information will be made available as part of the review posting.  Your Personal Information will NOT be made available or public as part of the Partner Review Program, as you have the option to hide your profile under a unique mosaicHUB user name.</p>
-    <p>4. <span class="l_section">The Partner Database</span>.      The Partner Database provides a listing by sortable category/fields of participating Partners.  The Partner’s Profile Page will be made available in the Database, unless the Partner chooses to unregister from the Site.</p>
-    <p>5. <span class="l_section">Advertising</span>.      We may send you email communications including information that we think may be of interest to you.  You may opt out of receiving these email communications either when you register to become a Community Member or via the Preferences section of your Account settings.  We do not send any of your Personal Information to our advertisers.  You may see a cookie from a third-party banner server.  This cookie comes from the third-party banner server, not mosaicHUB.  Again, we do not pass along any Personal Information to this party.  We use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies please contact us.  In addition, Google, as a third party vendor, uses cookies to serve ads on the Site.  Google's use of the DART cookie enables it to serve ads based on the users visit to the Site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a> on Google's website.</p>
-    <p>6. <span class="l_section">Co-Branded or Partnered Services</span>.      mosaicHUB may enter into co-branding or partnering relationships with third-party Web sites and companies to provide products and services to our Users or to such third parties' users.  mosaicHUB may share your Personal Information, including user name and password, with certain co-branded third-party service or product providers as required to provide a specific product or service that you request from a co-branded page or co-branded site.  However, these third-party partners may not use this Personal Information for any reason other than to provide the service or product that the User has explicitly signed up for.</p>
-    <p>If you join mosaicHUB through a co-branded or partnered site (e.g. on a co-branded Registration page), it is mosaicHUB's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personal Information you provide on the co-branded Site may also be received by the co-brand partner that operates the co-branded site and could be stored and used by the co-brand partner according to its privacy policy.  Please take the time to review these third-party privacy policies. mosaicHUB is not liable to you for any use of your Personal Information by a co-brand partner.</p>
-    <p>7. <span class="l_section">Contractors</span>.      To the extent necessary to provide you with the services on the Site, we may provide your Personal Information to third party contractors who work on behalf of or with mosaicHUB, including third-party bill service providers, to provide you with such services, to help us communicate with you or to maintain the Site.  However, these contractors do not have any independent right to share your Personal Information.</p>
-    <p>8. <span class="l_section">Legal Requests</span>.      mosaicHUB cooperates with all law enforcement and regulatory body inquiries, as well as other third parties to enforce laws and regulations, such as: intellectual property rights, fraud, theft, harassment and other rights.  We can (and you authorize us to) disclose any information about you if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws, regulations or to respond to subpoenas, warrants served on us or legal or regulatory proceedings; (b) protect or defend the rights or property of mosaicHUB or third parties; or (c) assist in any investigation.</p>
-    <p>9. <span class="l_section">Affiliates</span>.      Although we currently do not have a parent company, any subsidiaries, joint ventures or other companies under a common control (collectively, "Affiliates"), we may in the future.  We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.</p>
-    <p>10. <span class="l_section">Acquisition</span>.      If our company or our assets related to the Site are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.  This Privacy Policy inures to the benefit of successors and assigns of mosaicHUB.</p>
-    <p>11. <span class="l_section">Anonymous Information</span>.      We may create Anonymous Information records from Personal Information by excluding information (such as names) that makes the information personally identifiable to you.  We may use this Anonymous Information to analyze inquiry, request and usage patterns so that we may enhance services and the Site.  We reserve the right to use and disclose Anonymous Information to third parties in our discretion.  "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.</p>
-    <p>12. <span class="l_section">Comments Submitted by Users</span>.      mosaicHUB constantly seeks to improve the quality of the services we provide and the User experience on the Site.  We value your input and encourage you to help us expand and make improvements to the Site by providing us with any thoughts or comments you might have regarding our services or the operation of the Site.  You can submit any comments you have to us by emailing Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>.  All ideas, suggestions comments and proposals you send to mosaicHUB (collectively, "Submissions") are non-confidential and shall become the sole property of mosaicHUB.  mosaicHUB shall own all rights therein, including all intellectual property rights.  mosaicHUB shall be entitled to use and/or disseminate the Submissions in any manner and for any purpose whatsoever, commercial or otherwise, without compensation or credit to you.  We will not identify you as the source of a suggestion or comment without your consent.</p>
-    <p>13. <span class="l_section">Security</span>.      mosaicHUB is committed to protecting the security of your Personal Information and takes reasonable precautions to protect it.  However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk.  Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems.</p>
-    <p>If mosaicHUB learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the email address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.  To request written notice of any security breach in writing, please send an email with your request and mailing address to mosaicHUB or via postal mail to the address in the Contact Us section of this Site.</p>
-    <p>14. <span class="l_section">This Site Contains Links to Other Web Sites</span>.      mosaicHUB is not responsible for the privacy practices or the content of any other Web Sites to which the Site links or which link to the Site.  When you click on a link you may be taken to a location on the Internet that is not part of the mosaicHUB Site.  To check what Internet location you are on, note the URL at the top and/or bottom of your browser.  We encourage you to read the posted privacy statement of that Web site whenever interacting with any Web site.</p>
-    <p>15. <span class="l_section">Regarding Children</span>. The mosaicHUB Site is designed and intended for use by adults.  We do not intentionally gather Personal Information about Users who are under the age of 18.</p>
-    <p>16. <span class="l_section">Terminating your Membership/Account</span>.  We save your Personal Information until your membership with us is terminated and you unsubscribe to email notifications.  To terminate your membership, contact Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>.  If you terminate your membership, your Personal/Profile Information cannot be recovered.  You may continue to receive email communications for a short period of time until we have updated all of our databases.  After termination of your membership, your Personal Information may remain on our archived database and records.  Notwithstanding the above, we will maintain information on Users who have been removed for violating our Membership Agreement, and we will maintain email addresses in our unsubscribe lists.</p>
-    <p>17. <span class="l_section">Correcting/Updating your Information and Opting Out</span>.      This Site gives you options for changing and modifying information previously provided through the My Account section.  This Site provides Users the opportunity to opt out of receiving promotional email communications from mosaicHUB through the My Account section.  However, you may not opt out of receiving administrative communications from mosaicHUB regarding the services or the Site, except by terminating your membership.  In addition, you may not opt out of mosaicHUB sending you legal notices related to the services or the Site.</p>
-    <p>18. <span class="l_section">Contacting Us</span>.      If you have any questions about this Privacy Policy or the practices of this Site, you may contact Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>. </p>
+    <div class="fl_l">
+        <table class="frame_table frame_table_base">
+            <tbody><tr><td class="frame_filter"></td><td class="frame_main"></td></tr>
+            <tr>
+                <td colspan="2" class="pr_12">
+                    
+                </td>
+            </tr>
+            
+    <tr>
+        <td class="frame_filter">
+            <div class="frame_filter_pad">
+                
+    
+    <ul class="wrap_list">
+        <li><a id="wl_legal_privacy" href="/info/privacy_policy">Privacy Policy</a></li>
+        <li><a id="wl_legal_terms" href="/info/terms_of_use">Terms of Use</a></li>
+    </ul>
+
+
+            </div>
+        </td>
+        <td class="frame_main">
+            
+    <div class="legal_container">
+        <h3><span class="l_note">Updated: September 22, 2011</span></h3>
+        
+        <p>mosaicHUB, Inc. ("Company", "us" or "we") respects the privacy of the visitors to its Web site, www.mosaichub.com ("Site") and makes all commercially reasonable efforts to protect it.  This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of “Personal Information,” “Automatically Gathered Information" and "Anonymous Information" (each defined below) you submit to us or which we gather when you visit our Site. This Privacy Policy is hereby incorporated in our <a href="/info/terms_of_use">Terms of Use</a> Agreement, and by visiting the Site you accept the terms of this Privacy Policy.  This Privacy Policy applies to ALL users, including those just visiting this Site ("Users").</p>
+        <p>"Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing.  "Automatically Gathered Information" is information we collect as you visit our site.  See "Automatically Gathered Information" below for more information.  "Anonymous Information" means information that is not associated with or linked to your Personal Information.  See "Anonymous Information" below for more information.</p>
+        <p><span class="l_important l_section">Consent</span><span class="l_important">.          By visiting the Site, you agree to the terms of this Privacy Policy, and you expressly consent to the processing of your Personal Information according to this Privacy Policy by us or by third parties with whom we have a relationship.  Your Personal Information may be processed by mosaicHUB in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.  In addition, in the event you contact mosaicHUB via telephone, you understand, acknowledge and agree that such phone questions may be recorded.</span></p>
+        <p><span class="l_section">Notification of Changes</span>.          We may update this Privacy Policy from time to time as our Site and services change and expand.  If we make changes to this Privacy Policy, we will post notice that this Privacy Policy has changed under this Privacy Policy section of the Site.  Unless otherwise provided, the revised terms will take effect when they are posted.  Once any changes that we make to this Privacy Policy become effective, your continued use of the Site after such time will signify your acceptance of the new terms.</p>
+        <p><span class="l_important">A.  INFORMATION WE GATHER</span></p>
+        <p>1. <span class="l_section">Registration</span>.          If you register with the Site, we collect and store Personal Information that specifically identifies you or the account you set up with mosaicHUB (your "Account").  At this time, the most information you would be required to submit is your first name, last name, password, street address, city, state, zip/postal code, country, phone number, email address and valid financial account (i.e. credit card) information.  Other information requested on our Registration page is optional.  We may, in the future, include other optional requests for information from you to help us tailor the Site for you and deliver personalized information to you.  We may supplement Personal Information you provide us with additional information purchased from third parties for marketing purposes.  </p>
+        <p>2. <span class="l_section">Password</span>.  Use of portions of the Site requires you to establish a user name and password.  You agree that you will be responsible for maintaining your password as confidential and for any activity that occurs on your Account as a result of you sharing your password with another or failing to protect it.  mosaicHUB is not responsible for any loss or damage arising from your failure to maintain the confidentiality of your password.</p>
+        <p>3. <span class="l_section">Online Surveys and Contests</span>.          Occasionally, mosaicHUB may conduct User surveys to collect information about our Users' preferences.  These surveys are optional, and if you choose to respond, your responses will be kept anonymous.  These surveys may be conducted by and processed through third parties. Similarly, we may offer contests to qualifying Users in which we ask for contact and demographic information such as name, email address and mailing address.  Except with respect to any survey partners, none of the survey results are shared with third parties in a personally identifiable form.  The demographic information thon mosaicHUB collects in the registration process and through surveys may be used to help us improve our Site and services to meet the needs and preferences of our Users.  This may include targeting advertising to you about our Site and services.  Information we gather through a contest may also be disclosed to third parties as necessary for prize fulfillment and other aspects of any contest or similar offering.</p>
+        <p>4. <span class="l_section">Cookies; Automatically Gathered Information</span>.          mosaicHUB automatically collects browser type and browser software version to tailor the presentation of the Site and the services to the User's platform and to maintain a record of the User's activity on the Site.  mosaicHUB uses cookies to enable Users to specify unique preferences and to track User trends and patterns.  Users always have the option of disabling cookies via their browser preferences.  If you disable cookies on your browser, please note that some parts of our Site may not function as effectively or may be considerably slower.  As an automatic process, our Web server software records a log file of IP addresses that access the Site.  We also collect IP address information but do not ordinarily link IP addresses to Users' Personal Information.  However, we can and will use IP addresses to identify a User when we, in our sole discretion, determine that it is necessary to enforce compliance with our <a href="/info/terms_of_use">Terms of Use</a>, Privacy Policy, or to protect our service, Site, customers, partners, or others.</p>
+        <p>5. <span class="l_section">Email Feature and Referral Program</span>.           mosaicHUB lets you easily connect your Profile to colleagues/friends/affiliates via email.  mosaicHUB also offers the ability to send colleagues/friends/affiliates emails to mosaicHUB.  If you choose to use either feature, we will use your email address to copy you on the message or to send on the email your behalf, and you hereby grant permission for such use.</p>
+        <p>6. <span class="l_section">Public Information</span>.          As part of a registration, you may set up a Profile describing yourself and your business.  This profile will be publicly available as a default.  You will have the ability to hide Personal Information under your Profile Settings.  Once you choose to hide your profile, it may take some time for the search engines (e.g., Google, Yahoo, MSN, etc) to cycle out their cached search results, which may temporarily contain your Personal Information.  mosaicHUB does not have direct control over the timeliness of this process.  mosaicHUB will not have any obligation under this Privacy Policy with respect to information in your Profile or information you voluntarily provide to other Users via the Site.</p>
+        <p><span class="l_important">B.  HOW WE USE AND DISCLOSE INFORMATION</span></p>
+        <p>1. <span class="l_section">Registration Information</span>.          We use Personal Information for our own internal purposes, including contacting you via email to inform you about updates to our services and providing you with information relating to e-commerce transactions that you conduct on the Site.  We reserve the right to disclose your information as required by law.  We do not rent or sell our individual Users' Personal Information to third parties.  We do, however, provide you with the opportunity to receive newsletters via email.  If you decide to opt in to receive newsletters, you may opt out of receiving these newsletters at any time.  We also reserve the right to transfer your Personal Information as part of a transfer of all or part of mosaicHUB's assets to a buyer, as described in "Acquisition," below.</p>
+        <p>2. <span class="l_section">Open Forum</span>.          This area of the Site is for the benefit of Users.  It is a public discussion and communication forum whereby content (best practices, suggestions, etc.) is generated by the mosaicHUB Community.  By your participation to this area of the Site, you acknowledge that the information posted will reside in the public domain and will be publicly available.  From time to time, mosaicHUB Staff may examine this content or other user behavior to confirm that the terms of service are not being breached and mosaicHUB may remove any content that is inappropriate in mosaicHUB's sole discretion.  We strongly recommend that you refrain from posting in Personal Information in this forum, and you may not post the Personal Information of any other person on the forum.  See our <a href="/info/terms_of_use">Terms of Use</a> for more information.</p>
+        <p>3. <span class="l_section">The Rating and Review System</span>.          The Partner Rating and Review system represents a central repository for ratings and reviews of Partners by their customers.  When you submit a review or a counter-review on the Site, your mosaicHUB Profile information will be made available as part of the review posting.  Your Personal Information will NOT be made available or public as part of the Partner Review Program, as you have the option to hide your profile under a unique mosaicHUB user name.</p>
+        <p>4. <span class="l_section">The Partner Database</span>.          The Partner Database provides a listing by sortable category/fields of participating Partners.  The Partner’s Profile Page will be made available in the Database, unless the Partner chooses to unregister from the Site.</p>
+        <p>5. <span class="l_section">Advertising</span>.          We may send you email communications including information that we think may be of interest to you.  You may opt out of receiving these email communications either when you register to become a Community Member or via the Preferences section of your Account settings.  We do not send any of your Personal Information to our advertisers.  You may see a cookie from a third-party banner server.  This cookie comes from the third-party banner server, not mosaicHUB.  Again, we do not pass along any Personal Information to this party.  We use third-party advertising companies to serve ads when you visit our Site.  These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies please contact us.  In addition, Google, as a third party vendor, uses cookies to serve ads on the Site.  Google's use of the DART cookie enables it to serve ads based on the users visit to the Site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a> on Google's website.</p>
+        <p>6. <span class="l_section">Co-Branded or Partnered Services</span>.          mosaicHUB may enter into co-branding or partnering relationships with third-party Web sites and companies to provide products and services to our Users or to such third parties' users.  mosaicHUB may share your Personal Information, including user name and password, with certain co-branded third-party service or product providers as required to provide a specific product or service that you request from a co-branded page or co-branded site.  However, these third-party partners may not use this Personal Information for any reason other than to provide the service or product that the User has explicitly signed up for.</p>
+        <p>If you join mosaicHUB through a co-branded or partnered site (e.g. on a co-branded Registration page), it is mosaicHUB's general policy not to share anything other than summarized or aggregated data with the partner; however, any Personal Information you provide on the co-branded Site may also be received by the co-brand partner that operates the co-branded site and could be stored and used by the co-brand partner according to its privacy policy.  Please take the time to review these third-party privacy policies. mosaicHUB is not liable to you for any use of your Personal Information by a co-brand partner.</p>
+        <p>7. <span class="l_section">Contractors</span>.          To the extent necessary to provide you with the services on the Site, we may provide your Personal Information to third party contractors who work on behalf of or with mosaicHUB, including third-party bill service providers, to provide you with such services, to help us communicate with you or to maintain the Site.  However, these contractors do not have any independent right to share your Personal Information.</p>
+        <p>8. <span class="l_section">Legal Requests</span>.          mosaicHUB cooperates with all law enforcement and regulatory body inquiries, as well as other third parties to enforce laws and regulations, such as: intellectual property rights, fraud, theft, harassment and other rights.  We can (and you authorize us to) disclose any information about you if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws, regulations or to respond to subpoenas, warrants served on us or legal or regulatory proceedings; (b) protect or defend the rights or property of mosaicHUB or third parties; or (c) assist in any investigation.</p>
+        <p>9. <span class="l_section">Affiliates</span>.          Although we currently do not have a parent company, any subsidiaries, joint ventures or other companies under a common control (collectively, "Affiliates"), we may in the future.  We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.</p>
+        <p>10. <span class="l_section">Acquisition</span>.          If our company or our assets related to the Site are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.  This Privacy Policy inures to the benefit of successors and assigns of mosaicHUB.</p>
+        <p>11. <span class="l_section">Anonymous Information</span>.          We may create Anonymous Information records from Personal Information by excluding information (such as names) that makes the information personally identifiable to you.  We may use this Anonymous Information to analyze inquiry, request and usage patterns so that we may enhance services and the Site.  We reserve the right to use and disclose Anonymous Information to third parties in our discretion.  "Anonymous Information" means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.</p>
+        <p>12. <span class="l_section">Comments Submitted by Users</span>.          mosaicHUB constantly seeks to improve the quality of the services we provide and the User experience on the Site.  We value your input and encourage you to help us expand and make improvements to the Site by providing us with any thoughts or comments you might have regarding our services or the operation of the Site.  You can submit any comments you have to us by emailing Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>.  All ideas, suggestions comments and proposals you send to mosaicHUB (collectively, "Submissions") are non-confidential and shall become the sole property of mosaicHUB.  mosaicHUB shall own all rights therein, including all intellectual property rights.  mosaicHUB shall be entitled to use and/or disseminate the Submissions in any manner and for any purpose whatsoever, commercial or otherwise, without compensation or credit to you.  We will not identify you as the source of a suggestion or comment without your consent.</p>
+        <p>13. <span class="l_section">Security</span>.          mosaicHUB is committed to protecting the security of your Personal Information and takes reasonable precautions to protect it.  However, Internet data transmissions, whether wired or wireless, cannot be guaranteed to be 100% secure and as a result we cannot ensure the security of information you transmit to us; accordingly, you acknowledge that you do so at your own risk.  Once we receive your data transmission, we make all commercially reasonable efforts to ensure its security on our systems.</p>
+        <p>If mosaicHUB learns of a security system breach we may attempt to notify you and provide information on protective steps, if available, through the email address that you supplied during registration or posting a notice on our web site. Depending on where you live, you may have a legal right to receive such notices in writing.  To request written notice of any security breach in writing, please send an email with your request and mailing address to mosaicHUB or via postal mail to the address in the Contact Us section of this Site.</p>
+        <p>14. <span class="l_section">This Site Contains Links to Other Web Sites</span>.          mosaicHUB is not responsible for the privacy practices or the content of any other Web Sites to which the Site links or which link to the Site.  When you click on a link you may be taken to a location on the Internet that is not part of the mosaicHUB Site.  To check what Internet location you are on, note the URL at the top and/or bottom of your browser.  We encourage you to read the posted privacy statement of that Web site whenever interacting with any Web site.</p>
+        <p>15. <span class="l_section">Regarding Children</span>. The mosaicHUB Site is designed and intended for use by adults.  We do not intentionally gather Personal Information about Users who are under the age of 18.</p>
+        <p>16. <span class="l_section">Terminating your Membership/Account</span>.  We save your Personal Information until your membership with us is terminated and you unsubscribe to email notifications.  To terminate your membership, contact Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>.  If you terminate your membership, your Personal/Profile Information cannot be recovered.  You may continue to receive email communications for a short period of time until we have updated all of our databases.  After termination of your membership, your Personal Information may remain on our archived database and records.  Notwithstanding the above, we will maintain information on Users who have been removed for violating our Membership Agreement, and we will maintain email addresses in our unsubscribe lists.</p>
+        <p>17. <span class="l_section">Correcting/Updating your Information and Opting Out</span>.          This Site gives you options for changing and modifying information previously provided through the My Account section.  This Site provides Users the opportunity to opt out of receiving promotional email communications from mosaicHUB through the My Account section.  However, you may not opt out of receiving administrative communications from mosaicHUB regarding the services or the Site, except by terminating your membership.  In addition, you may not opt out of mosaicHUB sending you legal notices related to the services or the Site.</p>
+        <p>18. <span class="l_section">Contacting Us</span>.          If you have any questions about this Privacy Policy or the practices of this Site, you may contact Customer Service at <a href="mailto:support@mosaichub.com">support@mosaichub.com</a>. </p>
+    </div>
+
+        </td>
+    </tr>
+
+        </tbody></table>
+    </div>
+    <div class="frame_extra frame_extra_base">
+        <div class="frame_extra_pad">
+            
+        </div>
+    </div>
+    <div class="cl_l"></div>
+    
 
                 </div>
             </div>
@@ -242,17 +183,22 @@
     
     <div class="centerwrap_frame">
         <div class="centerwrap_container">
+            <div class="hr_gwhite_1 mt_24"></div>
             <table id="footer_table">
                 <tbody><tr>
-                    <td class="ft_copy_col">© <a href="/">2011 MOSAICHUB, INC.</a></td>
-                    <td class="ft_links_col">
+                    <td class="ft_copy_col w_33">© <a href="/">2011 MOSAICHUB, INC.</a></td>
+                    <td class="ft_links_col al_c">
                         <a href="/info/about">About</a>
                         <span>|</span> <a href="http://mosaicHUB.wordpress.com/" target="_blank">Blog</a>
                         <span>|</span> <a href="/info/about/contact_us">Contact</a>
                         <span>|</span> <a href="/info/terms_of_use">Terms</a>
                         <span>|</span> <a href="/info/privacy_policy">Privacy</a>
-                    </td><td class="ft_follow_col">
-                        <span class="hli_follow">Follow Us:</span><a target="_blank" id="follow_twitter" href="http://twitter.com/mosaichub"></a><a target="_blank" id="follow_facebook" href="http://www.facebook.com/pages/mosaichub/105340226202471"></a>
+                    </td>
+                    <td class="ft_follow_col w_33 al_r">
+                        <a target="_blank" id="follow_plus" href="https://plus.google.com/109010442923895149883/posts"></a>
+                        <a target="_blank" id="follow_linkedin" href="http://www.linkedin.com/company/2343024"></a>
+                        <a target="_blank" id="follow_twitter" href="http://twitter.com/mosaichub"></a>
+                        <a target="_blank" id="follow_facebook" href="http://www.facebook.com/pages/mosaichub/105340226202471"></a>
                     </td>
                 </tr>
             </tbody></table>
@@ -265,102 +211,98 @@
 		<div class="empty_modal_centerwrap">
 		</div>
 	</div>
-        <div id="login_modal_template" style="display:none;">
-            <div class="login_modal_container">
-                
-                <form name="login_form" id="id_login_form" method="post" action="">
-                    <table id="login_table">
-                        <tbody><tr>
-                            <td class="lt_label_col">Email:</td>
-                            <td class="lt_input_col"><input id="id_login_email" type="text" class="text_input_small_wgrey rounded_corners_tiny" name="login_email"> </td>
-                        </tr>
-                        <tr>
-                            <td class="lt_label_col">Password:</td>
-                            <td class="lt_input_col"><input autocomplete="off" id="id_login_password" type="password" class="text_input_small_wgrey rounded_corners_tiny" name="login_password"> </td>
-                        </tr>
-                        <tr>
-                            <td class="lt_label_col"></td>
-                            <td class="lt_input_col t_small"><input type="checkbox" name="login_persist" id="id_login_persist"> <label for="id_login_persist" class="t_weak">Keep me logged in</label></td>
-                        </tr>
-                        <tr>
-                            <td class="lt_label_col t_tiny"><a href="/user/forgot_password">Forgot Your Password?</a></td>
-                            <td class="lt_submit_col">
-                                <input type="hidden" name="login_redirect_url" id="id_login_redirect_url">
-                                <input type="submit" name="login_submit" class="input_submit_small_green rounded_corners_small" value="LOGIN">
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </form>
+        
+        <div id="login_modal_template" class="d_hide">
+            <div class="account_modal_container">
+                <div class="ph_24 pb_12">
+                    <p class="t_green t_16 mb_12">Login to mosaicHUB</p>
+                    
+                    <form name="login_form" id="id_login_form" method="post" action="">
+                        <table id="login_table" class="modal_form_table">
+                            <tbody><tr>
+                                <td class="mt_label"><label for="id_login_email">Email:</label></td>
+                                <td class="mt_input"><input id="id_login_email" type="text" class="ti_wgrey rc_tiny" name="login_email"> </td>
+                            </tr>
+                            <tr>
+                                <td class="mt_label"><label for="id_login_password">Password:</label></td>
+                                <td class="mt_input"><input autocomplete="off" id="id_login_password" type="password" class="ti_wgrey rc_tiny" name="login_password"> </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="al_r t_14">
+                                    <input type="checkbox" name="login_persist" id="id_login_persist"> <label for="id_login_persist">Keep me logged in</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <p class="fl_l"><a href="/account/forgot_password" class="t_10">Forgot Your Password?</a></p>
+                                    <p class="fl_r"><input type="submit" name="login_submit" class="sub_small_green rc_small" value="Login"></p>
+                                    <div class="cl_b"></div>
+                                    <input type="hidden" name="login_redirect_url" id="id_login_redirect_url">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </form>
+                </div>
+                <div class="rc_small_bottom pv_12 al_c bg_blue_dark"><span class="t_wgrey">Don't have an account?</span> <span class="login_join_link white_js_link ml_6">Join Now</span></div>
             </div>
         </div>
-        <div id="join_modal_template" style="display:none">
-            <div class="join_modal_container">
-                <div class="mj_message_content rounded_corners_small"><p class="t_bold t_black al_c"></p></div>
-                <div class="frame_50">
-                    <div class="container_fat jmc_upsell">
-                        <h4 class="rounded_corners_small bg_green_light t_white t_big3 al_c">Service Providers</h4>
-                        <p class="m_big1 t_big1 al_c">Attract new business opportunities.</p>
-                        <ul class="check_list">
-                            <li>Appear in Partner Search</li>
-                            <li>Drive traffic to your website</li>
-                            <li>Showcase your expertise</li>
-                            <li>Broaden your visibility</li>
-                        </ul>
-                        <p class="check_message t_bold t_big1"><a href="/partner/join">Check out our Partner Plans<br>
-                        or start now for FREE &gt;&gt;</a></p>
-                    </div>
+        <div id="join_modal_template" class="d_hide">
+            <div class="account_modal_container">
+                <div class="ph_24 pb_12">
+                    <p class="t_green t_16 mb_12">Join the mosaicHUB Community</p>
+                    <div class="mj_message_content rc_small mb_12"><p class="t_faded t_bold">Join in seconds. Completely free. No email verification required.</p></div>
+                    
+                    <form name="home_join_form" id="id_home_join_form" action="" method="post">
+                        <table id="home_join_table" class="modal_form_table">
+                            <tbody><tr>
+                                <td class="mt_label">
+                                    <label for="id_join_first_name">First Name:</label>
+                                </td>
+                                <td class="mt_input">
+                                    <input id="id_join_first_name" type="text" class="ti_wgrey rc_tiny" name="join_first_name" maxlength="50"> 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mt_label">
+                                    <label for="id_join_last_name">Last Name:</label>
+                                </td>
+                                <td class="mt_input">
+                                    <input id="id_join_last_name" type="text" class="ti_wgrey rc_tiny" name="join_last_name" maxlength="50"> 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mt_label">
+                                    <label for="id_join_email">Email:</label>
+                                </td>
+                                <td class="mt_input">
+                                    <input autocomplete="off" id="id_join_email" type="text" class="ti_wgrey rc_tiny" name="join_email"> 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mt_label">
+                                    <label for="id_join_password">Password:</label>
+                                </td>
+                                <td class="mt_input">
+                                    <input autocomplete="off" name="join_password" maxlength="50" type="password" class="ti_wgrey rc_tiny" id="id_join_password"> 
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="al_r t_11">
+                                    <input id="id_join_terms_of_use" type="checkbox" class="check_input1" name="join_terms_of_use"> <label for="id_join_terms_of_use">I have read and agree to the <a href="/info/terms_of_use" target="_blank">Terms of Use</a> and <a href="/info/privacy_policy" target="_blank">Privacy Policy</a></label>
+                                    
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="mt_label"></td>
+                                <td class="al_r">
+                                    <input type="hidden" name="join_redirect_url" id="id_join_redirect_url">
+                                    <input type="submit" class="sub_small_green rc_small" name="member_join_submit" id="id_join_submit" value="Join Now">
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </form>
                 </div>
-                <div class="frame_50">
-                    <div class="container_fat">
-                        <h4 class="rounded_corners_small bg_blue_light t_white t_big3 al_c">Entrepreneurs</h4>
-                        <p class="m_big1 t_big1 al_c">Launching or running a business?</p>
-                        
-                        <form name="home_join_form" id="id_home_join_form" action="" method="post">
-                            <table id="home_join_table">
-                                <tbody><tr>
-                                    <td class="hjt_label_col">
-                                        <label for="id_join_first_name">First Name:</label>
-                                    </td>
-                                    <td class="hjt_input_col">
-                                        <input id="id_join_first_name" type="text" class="text_input_small_wgrey rounded_corners_tiny" name="join_first_name" maxlength="50"> 
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="hjt_label_col">
-                                        <label for="id_join_email">Email:</label>
-                                    </td>
-                                    <td class="hjt_input_col">
-                                        <input autocomplete="off" id="id_join_email" type="text" class="text_input_small_wgrey rounded_corners_tiny" name="join_email"> 
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="hjt_label_col">
-                                        <label for="id_join_password">Password:</label>
-                                    </td>
-                                    <td class="hjt_input_col">
-                                        <input autocomplete="off" name="join_password" maxlength="50" type="password" class="text_input_small_wgrey rounded_corners_tiny" id="id_join_password"> 
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="t_weak t_blind" colspan="2">
-                                        <input id="id_join_terms_of_use" type="checkbox" class="checkbox_input1" name="join_terms_of_use"> <label for="id_prox_terms_of_use">I have read and agree to the <a href="/info/terms_of_use" target="_blank">Terms of Use</a> and <a href="/info/privacy_policy" target="_blank">Privacy Policy</a></label>
-                                        
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="hjt_label_col"></td>
-                                    <td class="hjt_submit_col">
-                                        <input type="hidden" name="join_redirect_url" id="id_join_redirect_url">
-                                        <input type="submit" class="input_submit_small_green rounded_corners_small" name="member_join_submit" id="id_join_submit" value="Join for Free!">
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </form>
-                    </div>
-                </div>
-                <div class="cl_l"></div>
-                
-                <div id="modal_join_login" class="rounded_corners_small_bottom">Already have an account? <span class="join_login_link">Login</span></div>
+                <div class="rc_small_bottom pv_12 al_c bg_blue_dark"><span class="t_wgrey">Already have an account?</span> <span class="join_login_link white_js_link ml_6">Login</span></div>
             </div>
         </div>
     <script type="text/javascript">
