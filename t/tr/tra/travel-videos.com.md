@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-videos.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217153351id_/http%3A//travel-videos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-videos.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222213910id_/http%3A//travel-videos.com/privacy-policy) for the most accurate reproduction.*
 
 # Tube travel videos, amateur trip videos, travelling movies, europe tripping at Travel-Videos.com
 
