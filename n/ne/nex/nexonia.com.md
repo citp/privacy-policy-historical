@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212031927id_/http%3A//www.nexonia.com/en/component/content/article/74.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexonia.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222035746id_/http%3A//www.nexonia.com/en/component/content/article/74.html) for the most accurate reproduction.*
 
 # Nexonia expense reports, timesheets, customer service - Privacy Policy
 
-Your privacy is very important to us. It affects all aspects of our business from how we communicate with you to how we handle your personal information. The following policy is our commitment to your privacy. If you have any questions about our privacy commitment, you can contact us by email at [help@nexonia.com](mailto:help@nexonia.com) .
+Your privacy is very important to us. It affects all aspects of our business from how we communicate with you to how we handle your personal information. The following policy is our commitment to your privacy. If you have any questions about our privacy commitment, you can contact us by email at [help@nexonia.com](mailto:help@nexonia.com).
 
 **Scope**
 
