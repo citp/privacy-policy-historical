@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectthehuman.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221093328id_/http%3A//www.protectthehuman.com/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectthehuman.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222035620id_/http%3A//www.protectthehuman.com/articles/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Articles | Protect The Human
 
