@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funfastgame.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123846id_/http%3A//www.funfastgame.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funfastgame.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222184018id_/http%3A//www.funfastgame.com/privacy.php) for the most accurate reproduction.*
 
 # Free Online Games - Cool Games - Funny Games at FunFastGame.com
 
