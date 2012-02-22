@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-cash1234-system.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217083309id_/http%3A//www.the-cash1234-system.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-cash1234-system.com privacy policy that was archived on 2012-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120222222927id_/http%3A//www.the-cash1234-system.com/privacy.php) for the most accurate reproduction.*
 
 # The Cash1234 System - Make $4000/Week Online
 
@@ -98,7 +98,7 @@ _Contacting Us_
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[Click here to contact us](https://web.archive.org/web/20111217083309id_/http%3A//www.the-cash1234-system.com/contact.php)
+[Click here to contact us](https://web.archive.org/web/20120222222927id_/http%3A//www.the-cash1234-system.com/contact.php)
 
 _Privacy Policy Customer Pledge_
 
