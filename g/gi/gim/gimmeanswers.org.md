@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimmeanswers.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224151944id_/http%3A//gimmeanswers.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmeanswers.org privacy policy that was archived on 2012-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120223220212id_/http%3A//www.gimmeanswers.org/privacy.php) for the most accurate reproduction.*
 
 # GimmeAnswers - Privacy
 
@@ -55,7 +55,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to or emailing us](https://web.archive.org/web/20111224151944id_/http%3A//gimmeanswers.org/contact.php)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to or emailing us](https://web.archive.org/web/20120223220212id_/http%3A//www.gimmeanswers.org/contact.php)
 
 
 
@@ -64,5 +64,13 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+#### Choice
+
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting TL Media Consulting s.r.l. web sites. 
+
+We use third-party advertisers to display advertisements and collect information on TL Media Consulting s.r.l. websites. These companies may use tracking technologies, such as cookies or web beacons, to collect information about your visits to TL Media Consulting s.r.l. web sites and other sites. This information allows them to deliver targeted advertisements on TL Media Consulting s.r.l. web sites, other websites and other forms of media. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies at <http://www.networkadvertising.org/managing/opt_out.asp#>. 
 
 For any futher informations, please don't esitate to [contact us](https://web.archive.org/contact.php)
