@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211070933id_/http%3A//www.singaporewritersfestival.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2012-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120223010044id_/http%3A//singaporewritersfestival.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D50) for the most accurate reproduction.*
 
 # SWF 2011: Privacy Policy
 
