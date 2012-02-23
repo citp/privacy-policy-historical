@@ -1,29 +1,64 @@
-> *The following text is extracted and transformed from the startmyebiz.com privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827170601id_/http%3A//www.startmyebiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmyebiz.com privacy policy that was archived on 2012-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120223144912id_/http%3A//www.startmyebiz.com/privacy-policy) for the most accurate reproduction.*
 
-# StartMyEbiz.com Privacy Policy Notice
+# Privacy Policy
 
-This Privacy Policy Notice governs the use of the web page at and its associated services, web pages, domains and sub-domains, which are owned and operated by Stuart Stirling © ("Owner"). Wherever this Notice refers to "users" it means "you", while "we" or "our" refer to Stuart Stirling © and "Web Site" for the web site in which the page belongs. 
+This privacy policy sets out how StartMyEbiz.com uses and protects any information that you give StartMyEbiz.com when you use this website.
 
-This web site collects certain information relative to users who visit the site. This Web site categorizes this information into the 2 following Categories and the privacy level and what we do with the information that we collect on you depends upon the category in which you fall. 
+StartMyEbiz.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We do not make any attempt to obtain information that personally identifies our users who visit our web site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties. 
+StartMyEbiz.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 16, 2011.
 
-What information we collect: 
+**What we collect**
 
-Category I – Information on users who visit our site to read or download information on our pages. From these users, we collect and store only the following information:
+We may collect the following information:
 
-1\. The domain name through which you gained access to our Web site;  
-2\. The precise time and date that you entered our web site.  
-3\. The URL of the web page through which you kinked to our web site.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Category II – Users who send us e-mail containing personal information or identifies you, sign our guest book, or request email publications. Any information that we collect in this way is used only for purposes of responding to you and addressing the issues that you may have raised. 
 
-Any information that we collect is collected as part of our business practices in order to identify demographic information relative to users who access our site, assessing the number and type of user accessing various sections of our site, helping us determine what content and business concepts are working for us and/or are of interest to our visitors, determining technical design features and specifications and helping us assess systems performance. We also use such information in statistical form to assist us in business and marketing strategies and programs. We utilize software programs to create summary statistics which we utilize for the above purposes. 
 
-As a security measure for ourselves and our users, we utilize certain software programs to monitor traffic to our site and within our network. This software also enables us to identify unauthorized upload attempts, access to our system, and other attempts to cause damage to our systems. 
+**What we do with the information we gather**
 
-Provision about Childrens 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We do not collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. We encourage parents to go online with their kids. [Click here](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) to check out the FTC's site for more tips on protecting children's privacy online. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Back to Main Page - [Click Here](http://www.startmyebiz.com/index.html)
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at stuart AT startmyebiz DOT com
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 300-3 Ozeki, Nihonmatsu-shi, Fukushima-ken, Japan 964-0077 .
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
