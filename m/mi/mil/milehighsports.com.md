@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milehighsports.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119124528id_/http%3A//www.milehighsports.com/%3Fpage_id%3D2028) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milehighsports.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224223815id_/http%3A//www.milehighsports.com/%3Fpage_id%3D2028) for the most accurate reproduction.*
 
 # Mile High Sports
 
