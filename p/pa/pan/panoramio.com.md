@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramio.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701093831id_/http%3A//www.panoramio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramio.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224175325id_/http%3A//www.panoramio.com/privacy) for the most accurate reproduction.*
 
 # Panoramio - Privacy Notice
 
@@ -20,7 +20,7 @@ Google stores, maintains and processes your photos and account information in or
     * Users may be able to see your photos through searches on Panoramio, Google, and through third party services that access publicly available information on the web. 
     * Users may comment on your photos; these comments can be seen by anyone who visits your photos homepage
     * We do not sell, rent or otherwise share your personal information with any third parties except in the limited circumstances described in the [Google Privacy Policy](http://www.google.com/privacypolicy.html), such as when we believe we are required to do so by law. 
-    * Google may review the content of a photos homepage if a user complaint is received , or if we have reason to believe that the account is used in violation of the [Panoramio Terms of Service](http://www.panoramio.com/terms).
+    * Google may review the content of a photos homepage if a user complaint is received , or if we have reason to believe that the account is used in violation of the [Panoramio Terms of Service](https://web.archive.org/terms).
   4. **Your choices**
     * You may change your username, and other Account information and settings by clicking the "Settings" link in the top right hand corner of a Panoramio webpage after you sign-in.
     * You may also change your preferences for sharing, and licensing your photos by clicking the "Settings" link. If you choose "All rights reserved" no one can make copies or use your photos without your explicit permission. If you choose "Some rights reserved" you keep the copyright to your photos, but you allow some uses of your photos without your explicit permission.
@@ -28,7 +28,7 @@ Google stores, maintains and processes your photos and account information in or
 
 Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the [Department of Commerce's web site](http://www.export.gov/safeharbor/).
 
-Further information about Panoramio is available [here](http://www.panoramio.com/help/).
+Further information about Panoramio is available [here](https://web.archive.org/help/).
 
 For more information about our privacy practices, go to the [full privacy policy](http://www.google.com/privacypolicy.html). If you have additional questions, please contact us any time. Or write to us at:
 
