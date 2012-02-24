@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102021556id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brint.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224091032id_/http%3A//www.brint.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Global RISK Management Network, LLC
 
