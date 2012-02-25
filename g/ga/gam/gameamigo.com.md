@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameamigo.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201020245id_/http%3A//www.gameamigo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameamigo.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225210802id_/http%3A//www.gameamigo.com/privacy.php) for the most accurate reproduction.*
 
 # GAME AMIGO
 
