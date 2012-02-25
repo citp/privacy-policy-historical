@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226110758id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225083743id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.*
 
 # Our Privacy Code | BMO Financial Group
 
@@ -136,7 +136,7 @@ BMO Financial Group fully respects your privacy preferences. Simply contact the 
 
 #### Direct Marketing
 
-Direct Marketing is our communication with you by mail, telemarketing or email, using the contact information you have provided, to inform you about products and services that we think may be of interest and value to you. This does not include information on or enclosed with your written or electronic statements, posted at or on-screen at automated banking machines, posted online at [www.bmo.com](https://www.bmo.com/ "www.bmo.com \(opens a new window\)") or electronic bulletin boards, or conveyed to you in person.
+Direct Marketing is our communication with you by mail, telemarketing or email, using the contact information you have provided, to inform you about products and services that we think may be of interest and value to you. This does not include information on or enclosed with your written or electronic statements, posted at or on-screen at ATMs, posted online at [www.bmo.com](https://www.bmo.com/ "www.bmo.com \(opens a new window\)") or electronic bulletin boards, or conveyed to you in person.
 
 #### Encryption
 
@@ -150,7 +150,7 @@ Personal Information is information about an identifiable individual. It include
 
 PIN is the personal identification number that allows you to access your accounts. This number is known only to you. Our employees do not have access to your PIN and will not ask you to reveal it.
 
-This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us - in our branch or office, at an automated banking machine, online, or by telephone. Reference throughout this Code to "we" "our" and "us" means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO Nesbitt Burns Ltée/Ltd., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., BMO Asset Management Inc. and Guardian Group of Funds Ltd.
+This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us - in our branch or office, at an ATM, online, or by telephone. Reference throughout this Code to "we" "our" and "us" means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO Nesbitt Burns Ltée/Ltd., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., BMO Asset Management Inc. and Guardian Group of Funds Ltd.
 
 BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the personal information you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.
 
