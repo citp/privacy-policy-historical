@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konecranes.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028155201id_/http%3A//www.konecranes.com/portal/eng/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konecranes.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225062828id_/http%3A//www.konecranes.com/portal/eng/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Konecranes
 
