@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riversideparkhotel.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220225159id_/http%3A//www.riversideparkhotel.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riversideparkhotel.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225153159id_/http%3A//www.riversideparkhotel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hotel Deals Enniscorthy, Wexford Hotel Deals, the Riverside Park hotel & Leisure Club Enniscorthy Co Wexford Ireland
 
