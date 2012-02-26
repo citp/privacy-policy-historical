@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadsea2u.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227161841id_/http%3A//www.deadsea2u.com/privacy-policy-cosmetics-store) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadsea2u.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226112249id_/http%3A//www.deadsea2u.com/privacy-policy-cosmetics-store) for the most accurate reproduction.*
 
 # Privacy Policy of our online, discount - cosmetics store - Dead Sea 2U`
 
