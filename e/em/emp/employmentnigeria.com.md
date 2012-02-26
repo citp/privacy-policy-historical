@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentnigeria.com privacy policy that was archived on 2011-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110913111317id_/http%3A//employmentnigeria.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentnigeria.com privacy policy that was archived on 2012-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120226095511id_/http%3A//employmentnigeria.com/terms.php) for the most accurate reproduction.*
 
 # Employment Nigeria
 
