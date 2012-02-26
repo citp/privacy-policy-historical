@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freezoka.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214213id_/http%3A//www.freezoka.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezoka.net privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227002913id_/http%3A//freezoka.net/privacy.php) for the most accurate reproduction.*
 
 # Web Hosting Privacy Policy :: freezoka
 
@@ -96,4 +96,4 @@ We are serious about offering a no-ads experience to our free hosting users. Thi
 
 ### Free Hosting Forums
 
-We are especially proud of our "users helping users" [forum](https://web.archive.org/web/20111231214213id_/http%3A//www.freezoka.net/forum/), where you can get immediate help with your Website. This applies whether you are a free or paid hosting customer. Our free hosting forum is a good resource or supplement to our own 24/7 ticket support service.
+We are especially proud of our "users helping users" [forum](https://web.archive.org/web/20120227002913id_/http%3A//freezoka.net/forum/), where you can get immediate help with your Website. This applies whether you are a free or paid hosting customer. Our free hosting forum is a good resource or supplement to our own 24/7 ticket support service.
