@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the seopositiveltd.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205075801id_/http%3A//www.seopositiveltd.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopositiveltd.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227160200id_/http%3A//www.seopositiveltd.com/privacy-policy) for the most accurate reproduction.*
 
-# SEO Positive's Privacy Policy
+# SEO Positive Privacy Policy
 
-* * *
+SEO Positive Limited (“we”) are committed to protecting and preserving the privacy of our visitors when visiting our website www.seopositiveltd.com (“our website”) or communicating electronically with us.
 
-At [SEO Positive](http://www.seopositiveltd.co.uk/) we are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by our solicitors. This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit this site. Our Privacy Policy should be read in conjunction with our terms of website use. We do occasionally update this Policy so please do return and review this Policy from time to time.
+This Privacy Policy contains an explanation of what happens to personal data that you choose to provide to us, or that we collect from you whilst you visit our website www.seopositiveltd.com (“our website”). Our Privacy Policy should be read in conjunction with our [terms of website use](http://www.seopositiveltd.com/company/downloads/).
 
-* * *
+We do occasionally update this Policy so please do return and review this Policy from time to time.
 
-**Information We Collect**  
-In running and operating this website we may collect and process certain data and information relating to you and your use of this site. This data and information is detailed below:
+-
 
-  * Details of visits to our website and the pages and resources that are accessed, including, but not limited to, traffic data, location data and other communication data that may assist us in understanding how visitors use this website.
-  * Information that visitors provide to us as a result of filling in forms on our website, such as when a visitor registers for information or makes a purchase.
-  * Information provided to us when our visitors communicate with us electronically for any reason.
+**Information We Collect**
 
+In running and operating our website we may collect and process certain data and information relating to you and your use of our website. This data and information is detailed below:
 
+i. Details of visits to our website and the pages and resources that are accessed, including, but not limited to, traffic data, location data and other communication data that may assist us in understanding how visitors use our website.
 
-* * *
+ii. Information that visitors provide to us as a result of filling in forms on our website, such as when a visitor registers for information or makes a purchase.
 
-**Use of Cookies**  
-Cookies are sometimes used to improve the website experience of a visitor to a website. We may sometimes use cookies on this website to record aggregate statistical information about the visitors to our site and the use that our visitors make of the website. When collected this information is used by us to improve our website and further enhance the visitor experience and, may be shared with advertisers. Please note that no personally identifiable information is recorded.
+iii. Information provided to us when our visitors communicate with us, electronically or otherwise, for any reason.
 
-We may also use the cookies to gather information about your general internet use to further assist us in developing or website. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive and then stored there and transferred to us where appropriate to help us to improve our website and the service that we provide to you.
+-
 
-All computers have the ability to decline cookies. You can easily decline or remove cookies from your computer using the settings within the Internet Options section in your computer control panel.
+**Use of Cookies**
 
-Our advertisers may also use cookies on their website. We have no control over this and you should review the privacy policy of any advertiser that you visit as a result of an advert or link on this website. Use of Your Information  
-The information we collect is used for our own use in developing our website and also occasionally by advertisers on this site. In addition, we may use the information for the following purposes:
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
 
-  * To provide you with information relating to our website, products or our services that you request from us.
-  * To provide you with information on other products that we feel may be of interest to you.
-  * To meet our contractual obligations to you.
-  * To notify you about any changes to our website, including improvements, and service or product changes that may affect our website.
+-
 
+**Use of Your Information**
 
+The information we collect is used for our own use in developing our website and also occasionally by advertisers on our website. In addition, we may use the information for the following purposes:
+
+i. To provide you with information relating to our website, products or our services that you request from us.
+
+ii. To provide you with information on other products that we feel may be of interest to you.
+
+iii. To meet our contractual obligations to you.
+
+iv. To notify you about any changes to our website, including improvements, and service or product changes that may affect our website.
 
 If you are an existing customer, we may contact you with information about goods and services similar to those that you have expressed an interest in previously via our website.
 
@@ -42,51 +46,63 @@ Finally, we may use your data, or allow carefully selected third parties to use 
 
 If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and, only by those means you provided consent for.
 
-If you do not want us to use your data for our or third parties use then you will always have the option to object to such use.
+If you do not want us to use your data in this way or pass your details on to third parties for marketing purposes then you will always have the option to object to such use.
 
-* * *
+-
 
-**Storing Your Personal Data**  
+**Storing Your Personal Data**
+
 Information that we collect may on occasion be transferred and stored outside of the European Union for the purpose of supplying our goods or services to you. By submitting your personal data, you agree to this transfer, storing or processing. We will always take all reasonable precautions to make sure that your data remains secure and is handled in accordance with this Privacy Policy.
 
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
+Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our website will be encrypted to ensure its safety.
 
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our website, you are responsible for keeping this password confidential.
 
-* * *
+-
 
-**Disclosing Your Information**  
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
+**Disclosing Your Information**
+
+Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our ultimate holding company and its other subsidiaries (if any), as defined in section 1159 of the UK Companies Act 2006.
 
 We may also disclose your personal information to third parties:
 
-  * Where we sell any or all of our business and/or our assets to a third party.
-  * Where we are legally required to disclose your information.
-  * To assist fraud reduction and minimise credit risks.
+i. Where we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
+ii. Where we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply (which can be found on our website or obtained from us on request).
 
+iii. To protect the rights, property, or safety of SEO Positive Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-* * *
+-
 
-**Third Party Links**  
-You mind find [links](http://www.seopositiveltd.co.uk/link-building.php) to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+**Third Party Links**
 
-* * *
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-**Access to Information**  
+-
+
+**Access to Information**
+
 The Data Protection Act 1998 gives all individuals the right to access personal information that is held about them. You can request a copy of any information that we hold about you. Please note that any request for this information may be subject to payment of £10 which covers our administrative costs. Please contact us if you wish to make such a request.
 
-* * *
+-
 
-**Contacting Us**  
+**Changes to our Privacy Policy**
+
+Any changes we make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+-
+
+**Contacting Us**
+
 If you have any questions or queries relating to this Privacy Policy then please contact us on:
 
-**Tel:** 0800 088 6000  
-**Email:** [info@seopositiveltd.co.uk](mailto:matt@seopositiveltd.co.uk)
+**Tel:** 0800 088 6000
 
-**Address:** SEO Positive Ltd  
+**Email:** info@seopositive.co.uk
+
+**Address**  
+SEO Positive Ltd  
 Milstrete House  
 29 New Street  
 Chelmsford  
-Essex  
 CM1 1NT
