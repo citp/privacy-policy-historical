@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decawave.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207063334id_/http%3A//www.decawave.com/60.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decawave.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227063017id_/http%3A//www.decawave.com/60.html) for the most accurate reproduction.*
 
 # | Privacy Policy | Decawave
 
