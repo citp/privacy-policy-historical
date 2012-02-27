@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008120054id_/http%3A//www.metblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metblogs.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227122251id_/http%3A//www.metblogs.com/privacy) for the most accurate reproduction.*
 
 # Metblogs: » Privacy Policy
 
