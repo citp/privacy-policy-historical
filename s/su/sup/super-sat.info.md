@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-sat.info privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226114053id_/http%3A//super-sat.info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-sat.info privacy policy that was archived on 2012-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120228152902id_/http%3A//super-sat.info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
