@@ -1,0 +1,220 @@
+<!--The following is the downloaded HTML source of the appgecet.org privacy policy that was archived on 2012-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120228061247id_/http%3A//www.appgecet.org/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>PGECET-2012</title>
+ <link href="styles/eamcet.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="styles/defaultstylesheet.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href=" styles/newsscroll.css">
+    <script src=" scripts/jcarousellite_1.0.1c4.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+	$(".newsticker-jcarousellite").jCarouselLite({
+		vertical: true,
+		hoverPause:true,
+		visible: 2,
+		auto:10,
+		speed:10,
+	});
+});
+</script>
+<script type="text/javascript">
+	  $(function() {
+	  
+		//cache the ticker
+		var ticker = $("#ticker");
+		  
+		//wrap dt:dd pairs in divs
+		ticker.children().filter("dt").each(function() {
+		  
+		  var dt = $(this),
+		    container = $("<div>");
+		  
+		  dt.next().appendTo(container);
+		  dt.prependTo(container);
+		  
+		  container.appendTo(ticker);
+		});
+				
+		//hide the scrollbar
+		ticker.css("overflow", "hidden");
+		
+		//animator function
+		function animator(currentItem) {
+		    
+		  //work out new anim duration
+		  var distance = currentItem.height();
+			duration = (distance + parseInt(currentItem.css("marginTop"))) / 0.025;
+
+		  //animate the first child of the ticker
+		  currentItem.animate({ marginTop: -distance }, duration, "linear", function() {
+		    
+			//move current item to the bottom
+			currentItem.appendTo(currentItem.parent()).css("marginTop", 10);
+
+			//recurse
+			animator(currentItem.parent().children(":first"));
+		  }); 
+		};
+		
+		//start the ticker
+		animator(ticker.children(":first"));
+				
+		//set mouseenter
+		ticker.mouseenter(function() {
+		  
+		  //stop current animation
+		  ticker.children().stop();
+		  
+		});
+		
+		//set mouseleave
+		ticker.mouseleave(function() {
+		          
+          //resume animation
+		  animator(ticker.children(":first"));
+		  
+		});
+	  });
+    </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-20336755-1']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #FF0000}
+-->
+</style>
+</head>
+
+<body>
+<div class="headbg">
+    <div id="eamcet-header1"> <img src="images/header.jpg" width="930" height="107"></div>
+    </div>
+    
+    <div class="menuwraper">
+    <div class="menu">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="#">ABOUT US</a></li>
+        <li><a href="#">COURSES</a></li>
+        <li><a href="#">ELIGIBILITY</a></li>
+        <li><a href="#">USER GUIDE</a></li>
+        <li><a href="#">APPLY ONLINE</a></li>
+        <li><a href="#">RESULTS</a></li>
+        <li><a href="contact.html">CONTACT US</a></li>
+      </ul>
+    </div>
+ </div>  
+<div id="main-tag">
+  <div id="content-wrapper">
+    <div style="width:920px;" id="content-wraper">
+      <h1>Privacy Policy</h1>
+      <p>We value the trust you place in us. That's why we insist upon the  highest standards for secure transactions and applicant information privacy.  Please read the following statement to learn about our information gathering  and dissemination practices. </p>
+					
+					<p class="style1">Note: Our privacy policy is subject to change at any time without  notice. To make sure you are aware of any changes,<strong>please review this policy  periodically.</strong></p>
+					<p><strong>1. PAYMENT SECURITY</strong></p>
+					<p>Our site has stringent security measures in place to protect the  loss, misuse, and alteration of the information under our control. Whenever you  change or access your account information, we offer the use of a secure server.  Once your information is in our possession we adhere to strict security  guidelines, protecting it against unauthorized access.</p>
+					<p><strong>PGECET 2012</strong> website ensures that every transaction that takes between you and our PGECET  website through online is in a safe and secure environment. This can be  achieved, as PGECET 2012 website is protected by Secured Socket Layer (SSL)  technology.</p>
+					<p><strong>2. COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION</strong></p>
+	  <p>We collect personally identifiable information (Email Id., Name, Contact  number, etc.) from you when you apply for the PGECET 2012 examination. Any one  can browse some sections of our site without being an applicant for PGECET  2012. Certain activities (such as applying for the PGECET 2012 Examination,  Application Status, Complaint Status, etc) do require Registration. We do use  your contact information to send you information.</p>
+	  <p><strong>3. USE OF DEMOGRAPHIC AND PROFILE DATA</strong></p>
+	  <p>We use Personal Information for smooth conduct of PGECET. We use  your personal information to check your eligibility to appear for the PGECET  2012 examination as per G.O.’s issued by AP state government from time to time.  We use your personal information to resolve disputes, troubleshoot problems,  help promote a safe service, collect fees owed, detect and protect us against  error, fraud and other criminal activity, enforce our terms and conditions, and  as otherwise described to you at the time of collection.</p>
+	  <p>In our efforts to continually improve our product and service offerings,  we collect and analyze demographic and profile data about our users' activity  on our website. We identify and use your IP address to help diagnose problems  with our server, and to administer our website. Your IP address is also used to  help identify you and to gather broad demographic information.</p>
+	  <p><strong>4. COOKIES</strong></p>
+	  <p>A "cookie" is a small piece of information stored by a Web  server on a Web browser so it can be later read back from that browser. Cookies  are useful for enabling the browser to remember information specific to a given  user. PGECET 2012 places both permanent and temporary cookies in your  computer's hard drive. PGECET 2012 cookies do not contain any of your  Personally Identifiable Information.</p>
+	  <p><strong>5. SHARING OF PERSONAL INFORMATION</strong></p>
+	  <p>We may share personal information with our other education  department and other related department entities and affiliates to help detect  and prevent identity theft, fraud and other potentially illegal acts, correlate  related or multiple accounts to prevent abuse of our services.</p>
+	  <p>We may disclose personal  information, if required to do so by law or in the good faith belief that such  disclosure is reasonably necessary to respond to court orders, or other legal  process. We may disclose personal information to law enforcement offices, third  party rights owners, or others in the good faith belief that such disclosure is  reasonably necessary to enforce our Terms or Privacy Policy, respond to claims  that an advertisement, posting or other content violates the rights of a third  party or protect the rights, property or personal safety of our users or the  general public </p>
+	  <p><strong>6. PROHIBITION AGAINST UNLAWFUL USE</strong></p>
+	  <p>As a condition for the use of the PGECET Website, the User warrants that  they will not use the Website for any purpose that is unlawful or illegal under  any law for the time being in force within or outside India or prohibited by  this Agreement. In addition, the PGECET Website shall not be used in any  manner, which could damage, disable, overburden or impair it or interfere with  any other party's use of the Website. The User shall refrain from obtaining or  attempting to obtain any materials or information through any means not  intentionally made available or provided for or through the Website..</p>
+	  <p><strong>7. LINKS TO OTHER SITES</strong></p>
+	  <p>Our site links to other websites that may collect Personally  Identifiable Information about you. PGECET 2012 COMMITTEE is not responsible  for the privacy practices or the content of those linked websites.</p>
+	  <p><strong>8. USE OF COMMUNICATION SERVICES</strong></p>
+	  <p>centers, and/or other message (hereinafter collectively referred to as  "Communication Services"). The User agrees and undertakes to use the  Communication Services only to post, send and receive messages and material  that are proper and related to the PGECET. By way of example, and not as a  limitation, the User agrees and undertakes that when using a Communication  Service, the User will not: </p>
+	  <table border="1" cellpadding="0" width="100%">
+        <tbody><tr>
+          <td width="96%" valign="top"><p>defame, abuse, harass, stalk, threaten or otherwise violate    the legal rights of others </p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>upload files that    contain software or other material protected by intellectual property laws    unless the User owns or controls the rights thereto or have received all    necessary consents </p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>upload or distribute    files that contain viruses, corrupted files, or any other similar software or    programs that may damage the operation of the PGECET Website or another's    computer,</p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>conduct or forward    surveys, contests, pyramid schemes or chain letters;</p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>download any file posted by another user of a Communication    Service that the User know, or reasonably should know, cannot be legally    distributed in such manner;</p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>falsify or delete any author attributions, legal or other    proper notices or proprietary designations or labels of the origin or source    of software or other material contained in a file that is uploaded;</p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>violate any code of conduct or other guidelines, which may be    applicable for or to any particular Communication Service;</p></td>
+        </tr>
+        <tr>
+          <td valign="top"><p>violate any    applicable laws or regulations for the time being in force in or outside    India; and</p></td>
+        </tr>
+        <tr>
+          <td><p>violate any of the terms and conditions of this Agreement or    any other terms and conditions for the use of the Website contained elsewhere    herein</p></td>
+        </tr>
+      </tbody></table>
+	  <p><strong>PGECET</strong> reserves the right at  all times to disclose any information as is necessary to satisfy or comply with  any applicable law, regulation, legal process or governmental request, or to  edit, refuse to post or to remove any information or materials, in whole or in  part, in PGECET sole discretion</p>
+	  <p><strong>PGECET</strong> does not control or endorse the content, messages or information found  in any communication service and, therefore, PGECET specifically disclaims any  liability or responsibility whatsoever with regard to the communication  services and any actions resulting from the user's participation in any  communication service</p>
+	  <p>Materials uploaded to a Communication Service may be subject to posted  limitations on usage, reproduction and/or dissemination. User is responsible  for keeping himself updated of and adhering to such limitations if they  download the materials</p>
+	  <p><strong>9. TERMINATION/ACCESS RESTRICTION</strong></p>
+	  <p>PGECET reserves the right, in its sole discretion, to terminate the  access to the website and the related services or any portion thereof at any  time, without notice.</p>
+	  <p><strong>10. QUESTIONS?</strong></p>
+	  <p>Questions regarding this statement should be directed to the following  address: <a href="http://www.apeamcet.org/Content/privacy.html">convenerpgecet2012@appgecet.org</a></p>
+	  <p>&nbsp;</p>
+    </div> 
+    <div style="clear:both"></div>
+  </div>
+
+
+  
+</div>
+<div id="bottom">
+       
+	   
+	   <div class="copyright"> © Copyright PGECET-2012. All Rights Reserved.</div>
+	   
+	   <div class="footer_menu">
+                    <ul>
+                        <li><a href="privacy.html" style="border-right: none">Privacy Policy</a></li>
+                        <li><a href="terms.html">Terms &amp; Conditions</a></li>
+						<li><a href="Disclaimer.html">Disclaimer</a></li>
+                        <li><a href="refund.html">Refund &amp; Cancellation Policy</a></li>
+                        
+						
+				
+         </ul>
+                </div>
+	   
+    </div>
+
+
+
+</body></html>
