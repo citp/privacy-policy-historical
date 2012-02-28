@@ -1,675 +1,1555 @@
-<!--The following is the downloaded HTML source of the catholichealth.net privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204044049id_/http%3A//www.catholichealth.net/body.cfm%3Fid%3D39479) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catholichealth.net privacy policy that was archived on 2012-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120228140836id_/http%3A//www.catholichealth.net/website-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Website Privacy Policy</title>
+
+	<title>Website Privacy Policy Denver, Colorado (CO) - Catholic Health Initiatives</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
-	<style type="text/css">
-		@import url(default.css);
+	<meta name="modulename" content="Web Pages"> 
+	<link rel="canonical" href="http://www.catholichealth.net/website-privacy-policy">
+
+		<link type="text/css" rel="stylesheet" href="template.css" media="screen" title="Default">
+		<link type="text/css" rel="stylesheet" href="default.css" media="screen" title="Default">
+	
+<!-- Teaser Styles -->
+<style>
+	table.teaser           {margin:10px 20px;}
+	a.teaser               {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#7c7c7c!important; padding:5px 0px;}
+	a.teaser:hover         {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#ed8912!important; padding:5px 0px;}
+	a.teaser:visited       {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#7c7c7c!important; padding:5px 0px;}
+	a.teaser:visited:hover {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#ed8912!important; padding:5px 0px;}
+	th.teaser              {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#7c7c7c!important; padding:5px 0px;}
+	td.teaser              {font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; font-size:11px; text-align:left; font-weight:normal; color:#ed8912!important; padding:5px 0px;}
+</style>
+
+
+	<style type="text/css">		
+		td.search 
+		{
+			background-color: transparent;
+
+		background-image: URL(images/clear.gif);
+
+		font-family: verdana,arial;
+
+		font-weight: 700;
+
+		color: 000000;
+
+
+		}	
+		table.search
+		{
+			padding: 0px;border-collapse:collapse;;
+
+		border-width: 0px;
+
+
+		}
+			
 	</style>
-	
-	
-				
-<script type="text/javascript">
-//<!--
-var ns4 = (document.layers);
-var ie  = (document.all);
-var ie4 = (ie && !document.getElementById);
-var ie5 = (ie && document.getElementById);
-var ns6 = (!ie && document.getElementById);
-
-var aryMoused = new Array();
-var aryLayerMoused = new Array();
-var aryMoImages = new Array();
-var imageList = new Array();
-var runMouseOvers = true;
-var TimerID = null;
-var iLimit = 25;
-var itmp = 0;
-
-var nbTime = 100;
-var nbTimes = 2;
-var nbThisLoc = 325;
-var aryLayerNames = new Array();
-var aryNavBarLayerInfo = new Array();
-var aryNavBarLayers = new Array();
-
-var registeredObjects = new Array();
-var viz = "hide";
-
-function MOImage() {
-	var arg = MOImage.arguments;
-	this.ptrImage = BillzNavBarMM_findObj(arg[0]);
-	this.imageMO = new Image();
-	this.imageMO.src = arg[1];
-	this.HTMLname = arg[0];
-	this.Moused = false;
-	this.OriginalSrc = '';
-	return true;
-}
-
-function BillzImagePreload() {
-	// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
-	var arg = BillzImagePreload.arguments;
-	nbImagePreload(arg[0], arg[1], arg[2]);
-}
-
-function nbImagePreload(img_name, mo_img_src, rollover_key_img_name) {
-	var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
-	imageList[imageList.length] = imageKey;
-	if (!(aryMoImages[imageKey])) aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
-}
-
-function BillzMouseover() {
-	var arg = null;
-	if (runMouseOvers) {		
-		arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
-		nbMouseover(arg[0], arg[1], arg[2]);
-	}
-	return true;
-}
-// args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
-function nbMouseover(img_name, orig_src, img_key) {
-	var imageKey = null;
-	var o = null;
-	if (runMouseOvers) 
-	{				
-		imageKey = (img_key.length > 0) ? img_key : img_name;
-		if (!(aryMoImages[imageKey].ptrImage)) aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);		
-		if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
-			aryMoImages[imageKey].OriginalSrc = orig_src;
-			aryMoImages[imageKey].Moused = true;
-			o.src = aryMoImages[imageKey].imageMO.src;
-		}
-	}
-	return true;
-}
-
-function navbarMouseover(bar,linkId,row){
-	var ListElement = document.getElementById('Link1_' + bar);
-	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
-	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
-	var theClass = ' hover';	
-	if(ListElement){
-		ListElement.className = ListElement.className + theClass;
-	}
-	if(ItemElement){
-		ItemElement.className = ItemElement.className + theClass;
-	}
-	if(LinkElement){
-		LinkElement.className = LinkElement.className + theClass;
-	}
-}
-function navbarMouseout(bar,linkId,row){
-	var ListElement = document.getElementById('Link1_' + bar + '_' + row);
-	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
-	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
-	var theClass = ' hover';	
-	if(ListElement){
-		ListElement.className = ListElement.className.replace(theClass,"");		
-	}
-	if(ItemElement){
-		ItemElement.className = ItemElement.className.replace(theClass,"");
-	}
-	if(LinkElement){
-		LinkElement.className = LinkElement.className.replace(theClass,"");
-	}
-}
-
-var NavBarTempOnload = null;
-if (window.onload && window.onload != null) NavBarTempOnload = window.onload;
-
-function FullyLoaded() {
-	if (NavBarTempOnload != null) NavBarTempOnload();
-	runMouseOvers = true;
-	return true;
-}
-
-function BillzMouseOutTimer() {
-	return nbMouseOutTimer();
-}
-
-function nbMouseOutTimer() {
-	if (TimerID) clearTimeout(TimerID);
-	TimerID = setTimeout("nbLayerRestore()",5000);
-	return true;
-}
-
-function RestoreAll() {
-	nbMouseoverRestore();
-	nbLayerRestore();
-	return true;
-}
-
-function BillzMouseoverRestore() {
-	return nbMouseoverRestore();
-}
-
-function nbMouseoverRestore() {
-	var i = 0;
-	var o = null;
-	if (runMouseOvers) {
-		for (i = 0; i < imageList.length; i++) {
-			if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
-				o.src = aryMoImages[imageList[i]].OriginalSrc;
-				aryMoImages[imageList[i]].Moused = false;
-			}
-		}
-	}
-	return true;
-}
-
-function BillzLayerRestore() {
-	return nbLayerRestore();
-}
-
-function nbLayerRestore() {
-	var i = 0;
-	for (i = 0; i < aryLayerNames.length; i++) {
-		if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) BillzNavBarRestoreLayers(aryLayerNames[i]);	
-	}
-	return true;
-}
-
-function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
-	var pushIt = true;
-	var i = 0;
-	for (i = 0; i < aryArray.length && pushIt; i++) {
-		pushIt = (varNewElement != aryArray[i]);
-	}
-	if (pushIt) BillzArrayPush(aryArray, varNewElement);
-	return pushIt;
-}
-
-function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
-	aryArray[aryArray.length] = varNewElement;
-	return true;
-}
-function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
-	var varItemToPop = null;
-	if (aryArray[aryArray.length - 1]) {
-		varItemToPop = aryArray[aryArray.length - 1];
-		aryArray[aryArray.length] = null;
-	}
-	return varItemToPop;
-}
-
-function getDivRef(id) {
-	var divref;
-	if(ns4) divref = document.layers[id];
-	else if(ie4) divref = document.all[id];
-	else if(ie5 || ns6) divref = document.getElementById(id);	
-	return divref;
-}
-
-//v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
-function NavBarSwapRollover(swapimage,defaultimage,imageID) {
-	if(imageID.length > 0 && document.getElementById(imageID))
-	{
-		if(swapimage.length > 0) 
-			document.getElementById(imageID).src = "images/" + swapimage;
-		else
-			document.getElementById(imageID).src = "images/" + defaultimage;		
-	}
-}
-function BillzNavBarMM_findObj(n, d) {
-	var p,i,x;
-	if (ns6) x = document.getElementById(n);
-	else {		
-		if (registeredObjects[n]) return registeredObjects[n];
-		if (!(d)) d = document;
-		try {
-			p = n.indexOf("?");
-		}
-		catch(e) {
-			p = 0;
-		}
-		if (p > 0 && parent.frames.length) {
-			d = parent.frames[n.substring(p+1)].document;
-			n = n.substring(0,p);
-		}
-		if (!(x = d[n]) && d.all) x = d.all[n];	
-		for (i = 0; !x && i < d.forms.length; i++) {
-			x = d.forms[i][n];
-		}
-		for (i=0; !x && d.layers && i < d.layers.length; i++) {
-			if (d.layers[i].id.indexOf("external_") == -1) x = BillzNavBarMM_findObj(n, d.layers[i].document);	
-		}
-		registeredObjects[n] = x;
-	}				
-	return x;
-}
-
-function BillzArrayContains() {
-	var arg = BillzArrayContains.arguments;
-	var foundit = false;
-	var i = 0;
-	for (i = 0; i < arg[0].length && !foundit; i++) {
-		foundit = (arg[1] == arg[0][i]);
-	}
-	return foundit;
-}
-
-function NavBarRegisterLayer() {
-	var arg = NavBarRegisterLayer.arguments;
-	var n = arg[0];
-	var d = arg[1];
-	var mo = false;
-	var o = null;
-	if (arg[2] && arg[2] == 'MOutLayer') mo = true;
-	else mo = false;
-	
-	if (!(BillzArrayContains(aryLayerNames, n))) {
-		if (o = BillzNavBarMM_findObj(n)) {
-			aryNavBarLayers[n] = o;
-			BillzArrayPushUnique(aryLayerNames, n);
-			aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
-		}
-	}
-	return true;
-}
-
-function BillzNavBarMM_showHideLayers() {
-	//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
-	var i = 0;
-	var x = "";
-	var obj = null;
-	var v = null;
-	var p = null;
-	var args = BillzNavBarMM_showHideLayers.arguments;
-	
-	if (args[args.length - 1] != "menu") nbMouseOutTimer();
-	for (i = 0; i < (args.length - 2); i += 3) {
-		if (!aryNavBarLayers[args[i]]) {
-			x = (args[i + 2] == 'show') ? 'hide' : 'show';
-			NavBarRegisterLayer(args[i], x);
-		}
-		if ((obj = aryNavBarLayers[args[i]]) != null) {
-			v = args[i + 2];
-			aryNavBarLayerInfo[args[i]].isDefault = false;
-			if (args[args.length - 1] == "restore") v = (v == 'show') ? 'hide' : 'show';
+		
+<script src="dynamicfiles/DHTML_Navbar1_landing9C3A829487231EDFFEF93A1536ED49F1.JS" type="text/javascript"></script>
+<script src="dynamicfiles/SlidingTable_Navbar1_landing85B69779B8080297DA1FE7E9D813E6BA.JS" type="text/javascript"></script>
+				<style type="text/css">
+					tr.teaser {vertical-align: top}
+					th.teaser {text-align: left}
+					table.teaser {}
+				</style>
 			
-			if (obj.style) obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-			else obj.visibility = v;
-		}
-	}
-	return true;
-}
+<link rel="stylesheet" type="text/css" href="dynamicfiles/TAB_Navbar1_landing91A07D2501616CABE341A4593B1764EB.CSS">
+<script src="dynamicfiles/TAB_Navbar1_landing345E7B0DDEFFB671D67D84AA9632D7E8.JS" type="text/javascript"></script>
+<script src="dynamicfiles/NavBar1_landingA3C1DBB6BFACEDB1DB2955E5CAADCBF5.JS" type="text/javascript"></script></head>
 
-function BillzNavBarRestoreLayers() {
-	var i = 0;
-	var x = "";
-	var obj = null;
-	var v = null;
-	var p = null;
-	var args = BillzNavBarRestoreLayers.arguments;
-	for (i = 0; i < (args.length); i++) {
-		if (obj = aryNavBarLayers[args[i]]) {
-			v = aryNavBarLayerInfo[args[i]].defaultVisibility;
-			if (obj.style) {
-				obj = obj.style;
-				v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
-			}
-			obj.visibility = v;
-			if (!aryNavBarLayerInfo[args[i]].MOutLayer) aryNavBarLayerInfo[args[i]].isDefault = true;			
-		}
-	}
-	return true;
-}
-
-function NavBarLayer() {
-	var arg = NavBarLayer.arguments;
-	this.defaultVisibility = arg[1];
-	this.isDefault = true;
-	this.MOutLayer = arg[2];
-	return true;
-}
-
-function BillzNavMove() {
-	return nbNavMove();
-}
-
-function nbNavMove() {
-	var thisl = null;
-	var otherl = null;
-	if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) {
-		if (thisl.style) {
-			thisl = thisl.style;
-			viz = "hidden";
-		} 
-		thisl.top = nbThisLoc -= 3;
-		if (nbThisLoc < -750) {
-			nbThisLoc = 325;
-			nbTimes--;
-		}
-	}
-	if (nbTimes <= 0) {
-		otherl = BillzNavBarMM_findObj("BillzLayer");
-		otherl.visibility = viz;
-	} else {
-		setTimeout("nbNavMove()", nbTime);
-	}	
-	return true;
-}
-
-function NavBar_openadmin() {
-	window.open('admin/','SiteAdmin','height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
-	return true;
-}
-
-window.onload = FullyLoaded;
-//-->
-</script>
-						
-<script type="text/javascript">
-//<!--
-				
-nbImagePreload('btn_celebrating_1_1','images/btn_celebrating_on.gif', '');
-nbImagePreload('btn_building_1_2','images/btn_building_on.gif', '');
-nbImagePreload('btn_creating_1_3','images/btn_creating_on.gif', '');
-nbImagePreload('btn_providing_1_4','images/btn_providing_on.gif', '');
-
-//-->
-</script>
-<script type="text/javascript">
-//<!--
-function NavBar_setCookie(cookievalue,navVersion,linkID) 
-{	
-	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
-	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
-	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
-	document.cookie = cookieClear.toUpperCase() + "=false";
-	if(cookievalue.length > 0)
-		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
-	if(navVersion.length > 0)	
-		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);		
-}
-function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
-{
-	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
-	if(cookievalue.length > 0)
-		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
-}
-function NavBar_setPLinkIDCookie(linkID,navVersion)
-{	
-	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
-}
-function NavBar_deleteCookie() 
-{
-	// first we'll split this cookie up into name/value pairs
-	// note: document.cookie only returns name=value, not the other components
-	var check_name = "SLIDINGTABLE_NAVBAR";	
-	var a_all_cookies = document.cookie.split( ';' );
-	var a_temp_cookie = '';
-	var cookie_name = '';
-	var cookie_value = '';
-	var b_cookie_found = false; // set boolean t/f default f	
-
-	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
-	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
-	for (i = 0; i < a_all_cookies.length; i++)
-	{		
-		a_temp_cookie = a_all_cookies[i].split( '=' );			
-		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-		
-		//expire all cookies for every slidingTable_navbar intances.			
-		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
-			document.cookie = cookie_name.toUpperCase() + "=";			 	
-	}	
-}
-		
-//-->
-</script>
-			
-				
-<script type="text/javascript">
-//<!--
-				
-nbImagePreload('navleft_who_2_1','images/navleft_who_on.gif', '');
-nbImagePreload('navleft_where_2_2','images/navleft_where_on.gif', '');
-nbImagePreload('navleft_advocacy_2_3','images/navleft_advocacy_on.gif', '');
-nbImagePreload('navleft_RandD_2_4','images/navleft_RandD_on.gif', '');
-nbImagePreload('navleft_strategic_2_5','images/navleft_strategic_on.gif', '');
-nbImagePreload('Navleft_careers_2_6','images/Navleft_careers_on.gif', '');
-nbImagePreload('navleft_physician_2_7','images/navleft_physician_on.gif', '');
-nbImagePreload('navleft_financial_2_8','images/navleft_financial_on.gif', '');
-nbImagePreload('navleft_initiatives_2_9','images/navleft_initiatives_on.gif', '');
-nbImagePreload('nav_left_presscenter_2_10','images/nav_left_presscenter_on.gif', '');
-
-//-->
-</script>
-<script type="text/javascript">
-//<!--
-function NavBar_setCookie(cookievalue,navVersion,linkID) 
-{	
-	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
-	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
-	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
-	document.cookie = cookieClear.toUpperCase() + "=false";
-	if(cookievalue.length > 0)
-		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
-	if(navVersion.length > 0)	
-		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);		
-}
-function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
-{
-	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
-	if(cookievalue.length > 0)
-		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
-}
-function NavBar_setPLinkIDCookie(linkID,navVersion)
-{	
-	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
-}
-function NavBar_deleteCookie() 
-{
-	// first we'll split this cookie up into name/value pairs
-	// note: document.cookie only returns name=value, not the other components
-	var check_name = "SLIDINGTABLE_NAVBAR";	
-	var a_all_cookies = document.cookie.split( ';' );
-	var a_temp_cookie = '';
-	var cookie_name = '';
-	var cookie_value = '';
-	var b_cookie_found = false; // set boolean t/f default f	
-
-	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
-	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
-	for (i = 0; i < a_all_cookies.length; i++)
-	{		
-		a_temp_cookie = a_all_cookies[i].split( '=' );			
-		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-		
-		//expire all cookies for every slidingTable_navbar intances.			
-		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
-			document.cookie = cookie_name.toUpperCase() + "=";			 	
-	}	
-}
-		
-//-->
-</script>
-			
-				
-<script type="text/javascript">
-//<!--
-function NavBar_setCookie(cookievalue,navVersion,linkID) 
-{	
-	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
-	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
-	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
-	document.cookie = cookieClear.toUpperCase() + "=false";
-	if(cookievalue.length > 0)
-		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
-	if(navVersion.length > 0)	
-		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);		
-}
-function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
-{
-	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
-	if(cookievalue.length > 0)
-		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
-}
-function NavBar_setPLinkIDCookie(linkID,navVersion)
-{	
-	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
-}
-function NavBar_deleteCookie() 
-{
-	// first we'll split this cookie up into name/value pairs
-	// note: document.cookie only returns name=value, not the other components
-	var check_name = "SLIDINGTABLE_NAVBAR";	
-	var a_all_cookies = document.cookie.split( ';' );
-	var a_temp_cookie = '';
-	var cookie_name = '';
-	var cookie_value = '';
-	var b_cookie_found = false; // set boolean t/f default f	
-
-	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
-	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
-	for (i = 0; i < a_all_cookies.length; i++)
-	{		
-		a_temp_cookie = a_all_cookies[i].split( '=' );			
-		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-		
-		//expire all cookies for every slidingTable_navbar intances.			
-		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
-			document.cookie = cookie_name.toUpperCase() + "=";			 	
-	}	
-}
-		
-//-->
-</script>
-			
-<script src="dynamicfiles/NavBar4_body669D644C018707589DBA06B465D667BD.JS" type="text/javascript"></script>
-				
-<script type="text/javascript">
-//<!--
-function NavBar_setCookie(cookievalue,navVersion,linkID) 
-{	
-	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
-	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
-	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
-	document.cookie = cookieClear.toUpperCase() + "=false";
-	if(cookievalue.length > 0)
-		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
-	if(navVersion.length > 0)	
-		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);		
-}
-function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
-{
-	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
-	if(cookievalue.length > 0)
-		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
-	if(linkID.length > 0)
-		NavBar_setPLinkIDCookie(linkID,navVersion);	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
-}
-function NavBar_setPLinkIDCookie(linkID,navVersion)
-{	
-	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
-	if(navVersion.length > 0)	
-		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
-}
-function NavBar_deleteCookie() 
-{
-	// first we'll split this cookie up into name/value pairs
-	// note: document.cookie only returns name=value, not the other components
-	var check_name = "SLIDINGTABLE_NAVBAR";	
-	var a_all_cookies = document.cookie.split( ';' );
-	var a_temp_cookie = '';
-	var cookie_name = '';
-	var cookie_value = '';
-	var b_cookie_found = false; // set boolean t/f default f	
-
-	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
-	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
-	for (i = 0; i < a_all_cookies.length; i++)
-	{		
-		a_temp_cookie = a_all_cookies[i].split( '=' );			
-		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-		
-		//expire all cookies for every slidingTable_navbar intances.			
-		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
-			document.cookie = cookie_name.toUpperCase() + "=";			 	
-	}	
-}
-		
-//-->
-</script>
-			<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script></head>
+<body style="background-image:url(images/header_bkg2.jpg); background-repeat: repeat-x; background-position: top center; background-color:#d2d0c6;">
 
  
 
 
-<body bgcolor="#DAD9D9" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/navleft_home_on.gif')">
 
-<table bgcolor="#FFFFFF" width="980" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr> 
-      <td width="100%" valign="top" bgcolor="ffffff"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td width="100%" valign="top">
+	
+		
+	
+
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-image:url(images/browser_bkg.jpg); background-repeat: no-repeat; background-position: top center;">
+	<tbody><tr>
+		<td>
+			<table width="980" border="0" cellpadding="0" cellspacing="0" align="center" class="content">
+				<tbody><tr>
+					<td width="100%" valign="top">
+						<!--	Header	-->
+						<table border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td><a href="default.cfm" border="0"><img src="images/logo_clear.gif" alt="Catholic Health Initiatives"></a></td>
+								<td style="width:350px;"></td>
+								<td valign="top" style="width:311px;">
+									<table border="0" cellpadding="0" cellspacing="0" align="right">
+										<tbody><tr>
+											<td width="100%" valign="top" colspan="2" id="tools">
+												<table border="0" cellpadding="0" cellspacing="0">
+													<tbody><tr>
+														<td width="0%" valign="top" align="right">
+															
+			<table class="tools">
+				<tbody><tr class="tools">
+					<td class="tools" style="white-space:nowrap;"><a href="blank.cfm?print=yes&amp;id=39538&amp;iirf_redirect=1" target="_blank" rel="nofollow"><img src="images/icon_print.png" border="0" style="vertical-align:middle;" alt="Print"></a><a class="metadetail" href="blank.cfm?id=39538&amp;iirf_redirect=1&amp;displayheader=No&amp;action=templateEmailFriend&amp;originalAction=None" target="_blank" rel="nofollow"><img src="images/icon_email.png" border="0" style="vertical-align:middle;" alt="Email"></a></td>
+				</tr>
+			</tbody></table>
+		
+														</td>
+														<td width="0%" valign="top" id="contactus">
+															<a href="landing.cfm?id=37887"><img src="images/button_contactus_clear.gif" alt="Contact Us"></a>	
+														</td>
+													</tr>	
+												</tbody></table>
+											</td>
+										</tr>
+										<tr>
+											<td id="search" height="41">
+												<div id="search_container">
+													
+	<script language="javascript" type="text/javascript"> 
+	//<!--	
+	letterCharExp = /([a-z0-9\.%"]|[a-z\.%"])$/i;
+	letterExp = /([a-z0-9])/i;
+	var sm_reEmpty = /^\s*$/;
+	var sm_reLeading = /^(\s+)/i;
+	var sm_reEnding = /(\s+)$/i;	
+	var sm_reInteger = /^\d+$/;
+	var sm_reComma = /(,)/g;	
+	function sm_Trim(s) {
+		var mystr = s;
+		var myArr = sm_reEmpty.exec(mystr);
+		if (myArr != null) {
+			return "";
+		}
+		var myArr = sm_reLeading.exec(mystr);
+		if (myArr != null) {
+			if (RegExp.rightContext) {
+				mystr = RegExp.rightContext;
+			} else {
+				mystr = mystr.substring(RegExp.$1.length, mystr.length);
+			}
+		}
+		myArr = sm_reEnding.exec(mystr);
+		if (myArr != null) {
+			if (RegExp.leftContext) {
+				mystr = RegExp.leftContext;
+			} else {
+				mystr = mystr.substring(0, (mystr.length - RegExp.$1.length));
+			}
+		}
+		return mystr;
+	}
+	function hasValidLetterChar(str) {
+		return letterCharExp.test(str)
+	}	
+	function hasLetter(str){
+		return str.search(letterExp)
+	}	
+	function checkform(form,element,required) {		
+		var strAlertMsg = "";	
+		var strTest = "";
+		var bRequired = required;
+		var bolHasValidChar = false;
+		var strSearchText = form[element].value;	
+		strSearchText = sm_Trim(strSearchText);
+		if(strSearchText.length == 0){
+			if(bRequired){				
+				strAlertMsg += "* " + form[element+"_required"].value + "\n";					
+			}
+		}else{		
+			if(hasLetter(strSearchText) > -1)
+				bolHasValidChar = hasValidLetterChar(strSearchText);
+			if (!bolHasValidChar) { 
+				strAlertMsg += "* " + "Invalid search; your search query contained invalid values." + "\n";				
+				form[element].focus(); 					 
+			} else {							
+				strTest = modify_search(strSearchText); 	
+				strTest = sm_Trim(strTest);					
+				if(!strTest.length) { 					
+					strAlertMsg += "* " + "Invalid search; your search query contained ignored words. \n Try changing some of the words in your search query." + "\n";	
+					form[element].focus(); 					
+				} else {
+					form[element].value = strTest; 							
+				}				
+			}
+		}	
+		if(strAlertMsg.length){
+			alert(strAlertMsg);	
+			return false;		
+		}
+		return true;
+	}		
+	function remove_noise(phrase) { 	
+		//dimensionalizing variables 	 
+		array_phrase = new Array(); 
+		array_pruned = new Array(); 	
+		var noisearray = new Array ("about","after","all","also","am","an","and","another","any","are","as","at","be","$","because","been","before","being","between","both","but","by","came","can","come","could","did","do","each","for","from","get","got","has","had","he","have","her","here","him","himself","his","how","if","in","into","is","it","like","make","many","me","might","more","most","much","must","my","never","now","of","on","only","or","other","our","out","over","said","same","see","should","since","some","still","such","take","than","that","the","their","them","then","there","these","they","this","those","through","to","too","under","up","very","was","way","we","well","were","what","where","which","while","who","with","would","you","your","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"); 	
+		var array_pruned_length = 0; 
+		var counter = 0; 
+		var counter1 = 0; 
+		var counter2 = 0; 	
+		var length = 0; 
+		var noise_array_counter = 0; 
+		var search_phrase = ""; 
+		var phrase1 = ""; 
+		var temp_string = "";
+		var arrSearchPhrases = "";
+		var strSearchPhrases = "";
+		phrase1 = phrase;	
+		
+		//spliting the search phrase into an array 
+		array_pruned = phrase.split(" ");
+		array_pruned_length = array_pruned.length;		
+		for(counter=0;counter < array_pruned_length;counter++) {		
+			noisearrayElement = array_pruned[counter].toLowerCase();	 
+			counter2 = 0;
+			counter1 = 0;		
+			for (counter1=0;counter1 < noisearray.length;counter1++) {						
+				if(noisearrayElement == noisearray[counter1]) {							
+					search_phrase = array_pruned[counter];
+					search_phrase_mid_position = " " + array_pruned[counter] + " ";					
+					search_phrase_first_position = array_pruned[counter] + " ";		
+					search_phrase_last_position = " " + array_pruned[counter];				
+					counter2 = phrase.indexOf(search_phrase,0); 
+					counter3 = phrase.indexOf(search_phrase_mid_position,0);
+					counter4 = phrase.indexOf(search_phrase_first_position,0);
+					counter5 = phrase.indexOf(search_phrase_last_position,0);				
+					if(counter2 >= 0 || counter3 >= 0 || counter4 >= 0 || counter5 >= 0){	
+						if(counter2 >= 0){					
+							temp_string = new RegExp(search_phrase);								
+						}
+						if(counter3 >= 0 || counter5 >= 0){
+							temp_string = new RegExp(search_phrase_last_position);	
+						}
+						if(counter4 >= 0){
+							temp_string = new RegExp(search_phrase_first_position);	
+						}						
+						phrase = phrase.replace(temp_string,"");										
+					}					
+				} 
+			} 
+		}	
+		return phrase;	
+	} 	
+	function modify_search(phrase){						
+		strphrase = phrase.replace(sm_reComma," ");				
+		var modifiedPhrase = "";
+		var strSearchPhrases = "";
+		var strSQOriginalPhrase = "";				
+		var searchPhraseRegExp = /['"][^'"]*['"]/g;
+		searchTest = searchPhraseRegExp.test(strphrase);		
+		if(searchTest){
+			arrSearchPhrases = strphrase.match(searchPhraseRegExp);	
+			var i = 0;
+			for(i=0;i < arrSearchPhrases.length;i++){		
+				array_SearchPhrase = new Array(); 
+				removeQuotes = /['"]/g;	
+				strOriginalPhrase = arrSearchPhrases[i];
+				searchPhraseValue = arrSearchPhrases[i];				
+				searchPhraseValue = searchPhraseValue.replace(removeQuotes,"");					
+				//Split search phrase		
+				array_SearchPhrase = searchPhraseValue.split(" ");		
+				var s = 0;
+				var strModifiedSearchPhrase = "";
+				for(s=0;s < array_SearchPhrase.length;s++){
+					strSearchPhrase = remove_noise(array_SearchPhrase[s]);					
+					if(strSearchPhrase.length > 0){
+						if(strModifiedSearchPhrase.length > 0){
+							strModifiedSearchPhrase += " " + strSearchPhrase;
+						}else{
+							strModifiedSearchPhrase += strSearchPhrase;
+						}
+					}
+				}				
+				RegExpSearchPhrase = new RegExp(strOriginalPhrase);
+				strphrase = strphrase.replace(RegExpSearchPhrase,"");	
+				if(strModifiedSearchPhrase.length){
+					searchPhraseValue = '"' + searchPhraseValue + '"';					
+					strSearchPhrases += " " + searchPhraseValue;											
+				}
+			}
+		}	
+		if(strphrase.length){			
+			strphrase = remove_noise(strphrase);
+			strphrase = sm_Trim(strphrase);
+		}
+		modifiedPhrase = strphrase + strSearchPhrases;
+		return modifiedPhrase;
+	}		
+	//--> 
+	</script>
+
+			<form action="body.cfm?id=37888" method="POST" id="frmSiteSearchTeaser" name="frmSiteSearchTeaser" onsubmit="return checkform(this,'keywords',true);">		
+				<input type="hidden" name="action" value="list">	
+				<input type="hidden" name="search_areas_id" value="">	
+				<input type="hidden" name="includewhat" value="">	
+				<input type="Hidden" name="keywords_required" value="You must enter at least one keyword.">
+				<input type="hidden" name="bolMobileSearch" value="0">
+				<table cellspacing="0" align="right" class="search">
+					<tbody><tr>							
+						
+						<td class="search input text"><input type="text" name="keywords" value="" onfocus="if(this.value=='') this.value='';" onclick="if(this.value=='') this.value='';" onblur="if(this.value=='') this.value='';" style="width:180px;margin-top:2px;padding:0px;border-width:0px;font-color:#474747;font-size:12px;"></td>					
+						
+							<td class="search input image"><input type="image" src="images/search_button.png" style="border:0;width:25;height:24;"></td>
+						
+					</tr>
+				</tbody></table>
+			</form>
+			<script type="text/javascript">
+				function frmSiteSearchTeaser_onsubmit(frm){
+					if(frmSiteSearchTeaser.keywords.value=='') frmSiteSearchTeaser.keywords.value='';
+					return checkform(frm,'keywords',true);
+				}
+				frmSiteSearchTeaser.onsubmit=new Function("return frmSiteSearchTeaser_onsubmit(this);");
+			</script>
+		
+														<script type="text/javascript"> 
+															var searchkeywordfield = document.frmSiteSearchTeaser.keywords; 
+															if(searchkeywordfield) 
+															{ 
+															searchkeywordfield.value = "Search"; 
+															if (searchkeywordfield.addEventListener) 
+															searchkeywordfield.addEventListener("click",clearSearchKeywords,false); 
+															else if (searchkeywordfield.attachEvent) 
+															searchkeywordfield.attachEvent("onclick",clearSearchKeywords); 
+															else 
+															searchkeywordfield.addAttribute() 
+															} 
+															function clearSearchKeywords() 
+															{ 
+															if(searchkeywordfield) 
+															searchkeywordfield.value = ""; 
+															} 
+														</script>
+												</div>
+											</td>
+											<td><a href="body.cfm?id=37888"><img src="images/search_advanced.gif" alt="Advanced Search" border="0"></a></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" valign="top">
+						<!--	top nav	-->
+						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="0%" valign="top" id="home"><a href="default.cfm"><img src="images/topnav-home_clear.gif" alt="Catholic Health Initiatives homepage"></a></td>
+								<td width="100%" valign="top" id="navigationTop" onmouseout="DHTMLRestoreAll();">
+									
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td valign="top">
+		<div id="lryParentmain37510" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr37510','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('37510');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow37510" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink37510"><a href="find-a-job" target="" class="clMain1">Find a Career</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr37510" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow37510_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37510_1"><a href="https://chi.taleo.net/careersection/chin_all/moresearch.ftl?lang=en&amp;radiusType=M&amp;radius=1&amp;organization=200000003" target="_blank" class="clSubb1">Search Open Positions</a></td>
+					</tr>
+					<tr id="cRow37510_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37510_2"><a href="facility-websites" target="" class="clSubb1">Facility Websites</a></td>
+					</tr>
+					<tr id="cRow37510_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37510_3"><a href="why-join-chi" target="" class="clSubb1">Why Join CHI</a></td>
+					</tr>
+					<tr id="cRow37510_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37510_4"><a href="faq" target="" class="clSubb1">FAQ</a></td>
+					</tr>
+					<tr id="cRow37510_5" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37510_5"><a href="body.cfm?id=39460" target="" class="clSubb1">Physician Opportunities</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr37510" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr37510" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:75;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain39460" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr39460','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('39460');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow39460" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink39460"><a href="physician-jobs" target="" class="clMain1">Physician Opportunities</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr39460" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow39460_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39460_1"><a href="https://chi.taleo.net/careersection/physician_external/moresearch.ftl?lang=en&amp;jobfield=200000048&amp;radiusType=K&amp;radius=1" target="_blank" class="clSubb1">Search Open Positions</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr39460" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr39460" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:15;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain39524" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr39524','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('39524');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow39524" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink39524"><a href="locations" target="" class="clMain1">Locations</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr39524" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow39524_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39524_1"><a href="http://www.chiannualreport.net/pdf/locations.pdf" target="_blank" class="clSubb1">Complete Listing of Locations</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr39524" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr39524" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:15;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain37893" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr37893','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('37893');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow37893" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink37893"><a href="exceptional-person-centered-care" target="" class="clMain1">Exceptional Person-Centered Care</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr37893" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow37893_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_1"><a href="OneCare" target="" class="clSubb1">OneCare</a></td>
+					</tr>
+					<tr id="cRow37893_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_2"><a href="safetyfirst" target="" class="clSubb1">SafetyFirst</a></td>
+					</tr>
+					<tr id="cRow37893_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_3"><a href="national-service-lines" target="" class="clSubb1">National Service Lines</a></td>
+					</tr>
+					<tr id="cRow37893_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_4"><a href="evidence-based-best-practices" target="" class="clSubb1">Evidence-based Practices</a></td>
+					</tr>
+					<tr id="cRow37893_5" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_5"><a href="telemedicine" target="" class="clSubb1">Telemedicine</a></td>
+					</tr>
+					<tr id="cRow37893_6" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_6"><a href="center-for-health-care-innovation" target="" class="clSubb1">Center for Health Care Innovation</a></td>
+					</tr>
+					<tr id="cRow37893_7" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_7"><a href="clinical-trials" target="" class="clSubb1">Clinical Trials</a></td>
+					</tr>
+					<tr id="cRow37893_8" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink37893_8"><a href="center-for-translational-research" target="" class="clSubb1">Center for Translational Research</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr37893" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr37893" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:120;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain39535" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr39535','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('39535');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow39535" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink39535"><a href="living-our-mission" target="" class="clMain1">Living Our Mission</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr39535" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow39535_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39535_1"><a href="advocacy" target="" class="clSubb1">Advocacy</a></td>
+					</tr>
+					<tr id="cRow39535_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39535_2"><a href="chi-foundation" target="" class="clSubb1">CHI Foundation</a></td>
+					</tr>
+					<tr id="cRow39535_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39535_3"><a href="mission-and-ministry-fund" target="" class="clSubb1">Mission and Ministry Fund</a></td>
+					</tr>
+					<tr id="cRow39535_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39535_4"><a href="direct-community-investment-program" target="" class="clSubb1">Direct Community Investment Program</a></td>
+					</tr>
+					<tr id="cRow39535_5" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39535_5"><a href="community-benefit" target="" class="clSubb1">Community Benefit</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr39535" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr39535" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:75;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain39376" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr39376','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('39376');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow39376" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink39376"><a href="media" target="" class="clMain1">Media</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr39376" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow39376_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39376_1"><a href="search-chi-news" target="" class="clSubb1">Search CHI News</a></td>
+					</tr>
+					<tr id="cRow39376_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39376_2"><a href="news-releases" target="" class="clSubb1">News Releases</a></td>
+					</tr>
+					<tr id="cRow39376_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39376_3"><a href="media-kit" target="" class="clSubb1">Media Kit</a></td>
+					</tr>
+					<tr id="cRow39376_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink39376_4"><a href="publications" target="" class="clSubb1">Publications</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr39376" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr39376" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:60;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+		<td valign="top" style=""><span class="between"></span></td>
+		<td valign="top">
+		<div id="lryParentmain36917" class="Parentmain1" onmouseover="DHTMLRestoreAll();DHTMLNavBarMM_showHideLayers('lyr36917','','show','menu');" onmouseout="DHTML_swapImgRestore();" onclick="DHTMLNavBar_configureCookie('36917');">
+			<table border="0" class="ParentNav1" width="100%" cellpadding="0" cellspacing="0">
+				<tbody><tr id="pRow36917" style="vertical-align: top; background-color: transparent;">
+					<td valign="top" style="" id="pLink36917"><a href="about-us" target="" class="clMain1">About Us</a></td>
+				</tr>
+			</tbody></table>
+			<div id="lyr36917" class="clLeft1" onmouseout="DHTMLRestoreAll();">
+				<table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
+					<tbody><tr id="cRow36917_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_1"><a href="mission-and-vision" target="" class="clSubb1">Mission and Vision</a></td>
+					</tr>
+					<tr id="cRow36917_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_2"><a href="core-values" target="" class="clSubb1">Core Values</a></td>
+					</tr>
+					<tr id="cRow36917_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_3"><a href="strategic-vision" target="" class="clSubb1">Strategic Plan</a></td>
+					</tr>
+					<tr id="cRow36917_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_4"><a href="landing.cfm?id=38501" target="" class="clSubb1">National Leadership</a></td>
+					</tr>
+					<tr id="cRow36917_5" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_5"><a href="serving-with-heart" target="" class="clSubb1">Serving with Heart</a></td>
+					</tr>
+					<tr id="cRow36917_6" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_6"><a href="sponsorship" target="" class="clSubb1">Sponsorship</a></td>
+					</tr>
+					<tr id="cRow36917_7" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_7"><a href="body.cfm?id=38796" target="" class="clSubb1">Sacred Stories</a></td>
+					</tr>
+					<tr id="cRow36917_8" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_8"><a href="chi-history" target="" class="clSubb1">CHI History</a></td>
+					</tr>
+					<tr id="cRow36917_9" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_9"><a href="corporate-responsibility" target="" class="clSubb1">Corporate Responsibility</a></td>
+					</tr>
+					<tr id="cRow36917_10" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_10"><a href="financial-information" target="" class="clSubb1">Financial Information</a></td>
+					</tr>
+					<tr id="cRow36917_11" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink36917_11"><a href="for-vendors-suppliers" target="" class="clSubb1">For Vendors &amp; Suppliers</a></td>
+					</tr>
+				</tbody></table>
+				<!--[if lte IE 6.5]>
+				<div id="endTablelyr36917" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr36917" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:165;z-index:-1;filter:mask();"></iframe>
+				<![endif]-->
+			</div>
+		</div>
+		</td>
+	</tr>
+</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<!-- Top Banner / Contact Us -->
+					<td width="100%" valign="top">
+						<table width="100%" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td valign="top" width="0%">
+ 
+
+
+		<a href="#" onclick="SM21_BannerClick(); return false;" onmouseover="return SM21_BannerWindowStatus();" onmouseout="window.status='';SM21_MO=false;"><img src="images/banner_default.jpg" name="Default" width="980" height="150" border="0" alt="Catholic Health Initiatives. A spirit of innovation, a legacy of care." title="Catholic Health Initiatives. A spirit of innovation, a legacy of care."></a>
+		<script language="JavaScript" type="text/javascript"><!--
+	SM21_MO=false;
+	SM21_Timer = null;
+	SM21_ThisBanner = 0;
+	SM21_BannerItems = new Array();
+
+
+
+	
+	
+	
+		
+	
+	
+	
+	
+	SM21_BannerItems[0] = new Array();
+	SM21_BannerItems[0][0]=new Image();
+	SM21_BannerItems[0][0].src='images/banner_default.jpg';
+	SM21_BannerItems[0][0].alt='Catholic Health Initiatives. A spirit of innovation, a legacy of care.';
+	SM21_BannerItems[0][0].title='Catholic Health Initiatives. A spirit of innovation, a legacy of care.';
+	SM21_BannerItems[0][1]='http://';
+	SM21_BannerItems[0][2]='';
+	
+	
+
+
+	function SM21_BannerClick(){SM21_BannerWindowStatus();
+		if (SM21_BannerItems[SM21_ThisBanner][2]=="parent._blank."){
+			window.open(SM21_BannerItems[SM21_ThisBanner][1]);
+		}else{
+			eval(SM21_BannerItems[SM21_ThisBanner][2] + "location.href=SM21_BannerItems[SM21_ThisBanner][1]");
+		}
+	}
+	function SM21_BannerWindowStatus(){SM21_MO=true;window.status=SM21_BannerItems[SM21_ThisBanner][1]; return true}
+
+
+
+	function SM21_SwapBanner(){
+		iNum=SM21_ThisBanner+1;
+		if(iNum >= SM21_BannerItems.length) iNum=0;
+		document.Default.src=SM21_BannerItems[iNum][0].src; 
+		document.Default.alt=SM21_BannerItems[iNum][0].alt;
+		document.Default.title=SM21_BannerItems[iNum][0].title;
+		SM21_ThisBanner=iNum;
+		SM21_Timer=setTimeout('SM21_SwapBanner()',6000);
+		if(SM21_MO){SM21_BannerWindowStatus();} else {window.status='';}
+	}
+		
+	document.Default.alt=SM21_BannerItems[0][0].alt;
+	document.Default.title=SM21_BannerItems[0][0].title;
+	SM21_Timer=setTimeout('SM21_SwapBanner()',6000);
+//-->
+</script>
+
+</td>
+								
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<!-- Main Content -->
+					<td width="100%" valign="top">
+						<table width="980" border="0" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td valign="top" width="100%" id="breadcrumb1">
+									
+<style type="text/css">
+table.breadcrumb1 {width:100%;border-collapse:collapse;padding:0;}
+td.breadcrumb1 {margin:0;padding:0;}
+span.breadcrumb1 {}A.breadcrumb1:link {text-decoration: none;}
+A.breadcrumb1:visited {text-decoration: none;}
+A.breadcrumb1:active {text-decoration: none;}
+A.breadcrumb1:hover {text-decoration: none;}
+</style>
+
+	<table class="breadcrumb1">
+		<tbody><tr>
+			<td class="breadcrumb1">
+<span class="breadcrumb1"><a href="default.cfm" class="breadcrumb1"><span>Home</span></a></span><span class="">&nbsp;&nbsp;<img src="images/arrow-breadcrumb.jpg" alt="">&nbsp;</span><span class="breadcrumb1"><a href="footer" class="breadcrumb1" target=""><span>Footer</span></a></span><span class="">&nbsp;&nbsp;<img src="images/arrow-breadcrumb.jpg" alt="">&nbsp;</span><span class="breadcrumb1"><span>Website Privacy Policy</span></span>
+			</td>
+		</tr>
+	</tbody></table> 
+
+								</td>
+							</tr>
+							<tr>
+								<td id="content_top"><img src="images/bkg-content-top.jpg"></td>
+							</tr>
+							<tr>
+								<td width="100%" valign="top" id="content_mid">
+									
+									<table width="100%" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td width="0%" valign="top" id="leftContainer">
+												<table width="100%" border="0" cellpadding="0" cellspacing="0">
+													<tbody><tr>
+														<td width="100%" valign="top">
+															<div id="navtitlecontainer">Website Privacy Policy</div>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" valign="top" id="navigationLeft" onmouseout="DHTMLRestoreAll();">
+															
+<table class="mainCont1" cellspacing="0" onclick="JavaScript: document.cookie='SLIDINGTBL_NAVBAR_VERSION=1';">
+	<tbody><tr class="clTop1" id="pLinkTR_39538_1">
+		<td class="clTop1" id="pLinkTD_39538_1" onclick="slidingTbl_SetCookie1('39538^39538');"><a href="website-privacy-policy" class="clMain1">Website Privacy Policy</a></td>
+	</tr>
+	<tr class="pHTMLbetween1" id="pBetweenTR_39538_1">
+		<td class="pHTMLbetween1" id="pBetweenTD_39538_1"><img src="images/leftnav_between.gif" alt=""></td>
+	</tr>
+	<tr class="clTop1" id="pLinkTR_37887_1">
+		<td class="clTop1" id="pLinkTD_37887_1" onclick="slidingTbl_SetCookie1('37887^37887');"><a href="contact-us" class="clMain1">Contact Us</a></td>
+	</tr>
+	<tr class="pHTMLbetween1" id="pBetweenTR_37887_1">
+		<td class="pHTMLbetween1" id="pBetweenTD_37887_1"><img src="images/leftnav_between.gif" alt=""></td>
+	</tr>
+	<tr class="clTop1" id="pLinkTR_37586_1">
+		<td class="clTop1" id="pLinkTD_37586_1" onclick="slidingTbl_SetCookie1('37586^37586');"><a href="terms-and-conditions" class="clMain1">Terms and Conditions</a></td>
+	</tr>
+</tbody></table>
+														</td>
+													</tr>
+													<tr>
+														<td width="100%" valign="top" style="padding-bottom:15px;"><img src="images/leftnav_bottom.gif" alt="" border="0"></td>
+													</tr>
+												</tbody></table>
+											</td>
+											<td width="100%" valign="top" height="400">
+ 
+
+
+	
+ 
+
+
+
+
+
+
+
+
+	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+
+	
+	
+		<div id="pagetitlecontainer">
+			<h1 class="title">Website Privacy Policy</h1>
+		</div>
+	
+
+
+
+
+	
+	<h3><b>Privacy Policy</b></h3>
+<p class="MsoNormal">Last Updated: September 1, 2011</p>
+<p class="MsoNormal">This Privacy Policy governs the manner in which Catholic Health Initiatives (“<b>CHI</b>”) collects, uses, maintains and discloses information collected from users (each, a “<b>User</b>”) of its websites, including www.catholichealthinitiatives.org or home.catholichealth.net (collectively, the “<b>Site</b>”).&nbsp; CHI reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page.&nbsp; Such changes apply prospectively.&nbsp; Please check this Privacy Policy periodically for changes.&nbsp; The Last Updated date at the top of the page accurately reflects the most recent update to the Privacy Policy.&nbsp; The continued use of the Site following the posting of changes to these terms constitutes an acceptance of those changes.</p>
+<p><strong>Privacy</strong></p>
+<p class="MsoNormal">CHI is committed to safeguarding the information Users entrust to CHI and believes every User should know how CHI utilizes the information collected from Users.&nbsp; The Site is not directed at children less than 13 years of age.</p>
+<p><strong>The Information We Collect</strong></p>
+<p class="MsoBodyText2">CHI may collect personally identifiable information from Users in a variety of ways.&nbsp; Personally identifiable information may include (i)&nbsp;contact data (such as a User’s name, mailing and email addresses); (ii)&nbsp;financial data (such as a User’s account or credit card number); and (iii)&nbsp;demographic data (such as a User’s zip code, age and income).&nbsp; If you communicate with CHI by email or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected by CHI.&nbsp; CHI may also collect information about how Users use our Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains from which Users originate. We may use “<b>cookies</b>” to track how Users use our Site.&nbsp; A cookie is a piece of software that a Web server can store on the User’s computer and use to identify the User should they visit the Site again.&nbsp; While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Site.&nbsp; CHI may also collect information about how Users use the Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains and Internet Protocol (“<b>IP</b>”) addresses from which Users originate.&nbsp; While not all of the information that CHI collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide CHI through the Site or otherwise.&nbsp; Additionally, certain information regarding your computer systems, network locations, IP address and software may be communicated to CHI in certain circumstances by the digital rights management systems associated with certain content that you download or access via the Site in order to prevent unauthorized use or distribution of the associated content.&nbsp; Non-personally identifiable information collected by CHI (such as patterns of utilization) is exclusively owned by CHI and may be used as it sees fit in accordance with applicable law.</p>
+<p class="MsoNormal"><b>How We Use Information</b></p>
+<p class="MsoBodyText2">CHI may use personally identifiable information collected through our Site to contact Users regarding products and services offered by CHI and its trusted affiliates, independent contractors and business partners and otherwise to enhance Users’ experience with CHI and such affiliates, independent contractors and business partners.&nbsp; CHI may also use information collected through the Site for research regarding the effectiveness of the Site and the marketing, advertising and sales efforts of CHI, its trusted affiliates, independent contractors and business partners.</p>
+<p class="MsoNormal"><b>Disclosure of Information</b></p>
+<p class="MsoNormal">CHI may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above.&nbsp; We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners.&nbsp; We may disclose information if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order or another valid legal process.&nbsp; We may disclose information in special circumstances we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Site policies or to protect the safety and security of our users, our Site, and the general public.&nbsp; Finally, we may transfer information collected from Users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business.</p>
+<p class="MsoNormal"><b>Security of Information</b></p>
+<p class="MsoNormal">Information about Users that is maintained on our systems is protected using industry standard security measures.&nbsp; In order to secure your personal information, access to your data is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Site.&nbsp; However, no security measures are perfect or impenetrable, and CHI cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure.&nbsp; &nbsp;&nbsp;</p>
+<p><strong>Correcting/Updating Personal Information</strong></p>
+<p class="MsoNormal">If a User’s personally identifiable information changes (such as your zip code), or if a User no longer desires to receive non-account specific information from us, we will endeavor to provide a way to correct, update or remove that User’s personal data provided to us.&nbsp; Please email us at news@catholichealth.net if you would like your information updated or removed from our systems.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+											<td width="0%" valign="top" id="rightContainer">
+												<table width="100%" border="0" cellpadding="0" cellspacing="0">
+													
+													<tbody><tr>
+														
+														<td width="100%" valign="top" id="tab2Container">																
+															<table width="100%" border="0" cellpadding="0" cellspacing="0">
+																<tbody><tr>
+																	<td valign="top" class="tab2Background">																	
+																		<div class="TAB_1_NavContainer" style="height:auto;display:table;margin:0;padding:0;border-collapse:collapse;width:226px;">
+	<ul class="TAB_1_TabContainer" style="padding:0px;margin:0px;list-style-type:none;display:table;width:226px;">
+		<li class="TAB_1_NavTab_selected" id="tabID_1_1" style="width:auto;" onmouseover="javascript: renderContent_1('1',1,'tabImg_1_1');"><img src="images/tab2_news_on.gif" alt="News &amp; Updates" name="tabImg_1_1"></li>
+		<li class="TAB_1_NavTab" id="tabID_1_2" style="width: autopx;" onmouseover="javascript: renderContent_1('2',3,'tabImg_1_2');"><img src="images/tab2_joinus.gif" alt="Social Media" name="tabImg_1_2"></li>
+	</ul>
+	<div class="TAB_1_NavContentContainer" id="NavContentContainer_1" style="overflow:auto;height:300px;clear:both;width:226px;">
+		<div class="TAB_1_NavContent" style="width:207px;overflow:visible;" id="NavContent_1_1">
+		<table class="teaser">
+	<tbody><tr class="teaser">
+		<th class="teaser"><a href="body.cfm?id=37543&amp;action=detail&amp;ref=894" class="teaser">Required CRP Training for FY2012 Now Available</a></th>
+	</tr>
+	<tr class="teaser">
+		<th class="teaser"><a href="body.cfm?id=37543&amp;action=detail&amp;ref=893" class="teaser">Louisville Team Performs Hand Transplant on Eighth Patient</a></th>
+	</tr>
+	<tr class="teaser">
+		<th class="teaser"><a href="body.cfm?id=37543&amp;action=detail&amp;ref=892" class="teaser">Celebrating Black History Month</a></th>
+	</tr>
+</tbody></table><div class="readmore"><a href="body.cfm?ID=39279"><img src="images/button_searchmorenews.gif" border="0" alt="Search More Catholic Health Initiatives News"></a></div>
+		</div>
+		<div class="TAB_1_NavContent" style="width:207px;overflow:visible;display:none;" id="NavContent_1_2">
+		<div id="SocialMedia">Want to stay up-to-date on CHI news? Follow us!
+<br>
+		<a href="http://www.YouTube.com/WatchCHI" target="_blank"><img src="images/modSocialMedia//icon_youtube.jpg" alt="YouTube" style="border:0;height:30px;margin:5px;"></a><br>
+	
+		<a href="https://www.facebook.com/pages/Catholic-Health-Initiatives/195883567158182" target="_blank"><img src="images/modSocialMedia//icon_facebook.jpg" alt="facebook" style="border:0;height:30px;margin:5px;"></a><br>
+	
+		<a href="http://twitter.com/#/CHI_Updates" target="_blank"><img src="images/modSocialMedia//icon_twitter.jpg" alt="twitter" style="border:0;height:30px;margin:5px;"></a><br>
+	
+		<a href="http://www.linkedin.com/company/162914?trk=tyah" target="_blank"><img src="images/modSocialMedia//icon_linkedin.jpg" alt="LinkedIn" style="border:0;height:30px;margin:5px;"></a><br>
+	</div>
+		</div>
+	</div>
+</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td valign="top"><img src="images/tab2_bottom.gif" alt=""></td>
+																</tr>
+															</tbody></table>		
+														</td>
+													</tr>				
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td id="content_bottom" class="paddingBelow"><img src="images/bkg-content-bottom.jpg"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="100%" valign="top" align="center">
+						<table width="980" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td width="0%" valign="top" align="left">
+ 
+
+
+
+</td>	
+								<td width="100%" valign="top" align="center">
+ 
+
+
+
+</td>
+								<td width="0%" valign="top" align="right">
+ 
+
+
+
+</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<!--	footer	-->
+			<table width="100%" cellpadding="0" cellspacing="0" id="footerContainer">
+				<tbody><tr>
+					<td width="100%" valign="top" align="center">
+						<table width="980" cellpadding="0" cellspacing="0" id="contentFooter">
+							<tbody><tr>
+								<td width="100%" valign="top" align="center">
+		
+		
+		
+
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+															
+		
+			
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+															
+		
+			
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+				
+				
+
+				
+				
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+															
+		
+			
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+				
+			
+		
+		
+
+		
+		
+		
+
+		
+		<table border="0">
+<tbody>
+<tr valign="top">
+<td align="left" style="text-align: left;"><a href="body.cfm?id=37510" class="footerTitle">Careers with CHI</a></td>
+<td valign="top" style="text-align: left;"><a href="body.cfm?id=37893" class="footerTitle">Exceptional Person-Centered Care</a></td>
+<td valign="top" style="text-align: left;"><a href="body.cfm?id=39376" class="footerTitle">Media</a></td>
+<td valign="top" style="text-align: left;"><a href="body.cfm?id=39535" class="footerTitle">Living Our Mission</a></td>
+<td valign="top" style="text-align: left;"><a href="body.cfm?id=36917" class="footerTitle">About CHI</a></td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><a href="body.cfm?id=39091">Search Open Positions</a></li>
+<li><a href="body.cfm?id=39460">Physician Opportunities</a></li>
+<li><a href="body.cfm?id=39481">Benefits</a></li>
+<li><a href="body.cfm?id=39484">Why Join CHI</a></li>
+<li><a href="body.cfm?id=39477">Frequently Asked Questions</a></li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td valign="top">
+<ul>
+<li><a href="body.cfm?id=39469">OneCare</a></li>
+<li><a href="body.cfm?id=39526">SafetyFirst</a></li>
+<li><a href="body.cfm?id=39525">National Service Lines</a></li>
+<li><a href="body.cfm?id=39491">Evidence-Based Practices</a></li>
+<li><a href="body.cfm?id=39490">Telemedicine</a></li>
+<li><a href="body.cfm?id=39397">Clinical Trials</a></li>
+<li><a href="body.cfm?id=39399">Center for Health Care Innovation</a></li>
+<li><a href="body.cfm?id=39398">Center for Translational Research</a></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><a href="body.cfm?id=39279">News</a></li>
+<li><a href="body.cfm?id=39495">Media Kit</a></li>
+<li><a href="body.cfm?id=39529">News Releases</a></li>
+<li><a href="body.cfm?id=39493">Publications</a></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><a href="body.cfm?id=37895">Advocacy</a></li>
+<li><a href="body.cfm?id=39547">CHI Foundation</a></li>
+<li><a href="body.cfm?id=37922">Mission and Ministry Fund</a></li>
+<li><a href="body.cfm?id=37516">Direct Community Investment Programs</a></li>
+</ul>
+</td>
+<td valign="top">
+<ul>
+<li><a href="body.cfm?id=39524">Locations</a></li>
+<li><a href="body.cfm?id=37548">Mission and Values</a></li>
+<li><a href="body.cfm?id=38612">CHI History</a></li>
+<li><a href="body.cfm?id=38501">National Leadership</a></li>
+<li><a href="body.cfm?id=38500">Strategic Plan</a></li>
+<li><a href="body.cfm?id=37630">Sponsorship</a></li>
+<li><a href="body.cfm?id=37580">Financial Information</a></li>
+<li><a href="body.cfm?id=39517">For Vendors &amp; Suppliers</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<table cellpadding="0" cellspacing="0" id="footerContainer2">
+				<tbody><tr>
+					<td>
+						<table cellpadding="0" cellspacing="0" id="contentFooter2" align="center">
+							<tbody><tr>
+								<td style="width:690px;">
+									<table cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td>
+												
 			
 <!-- Begin NavBar Bar #1 Content Output... -->
 
 			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37548" onmouseover="RestoreAll();nbMouseover('btn_celebrating_1_1','images/btn_celebrating.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37548','');" class=""><img src="images/btn_celebrating.gif" border="0" alt="Celebrating Our Mission and Values" id="btn_celebrating_1_1" name="btn_celebrating_1_1"></a></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37891" onmouseover="RestoreAll();nbMouseover('btn_building_1_2','images/btn_building.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37891','');" class=""><img src="images/btn_building.gif" border="0" alt="Building Healthy Communities" id="btn_building_1_2" name="btn_building_1_2"></a></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37892" onmouseover="RestoreAll();nbMouseover('btn_creating_1_3','images/btn_creating.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37892','');" class=""><img src="images/btn_creating.gif" border="0" alt="Creating Work Communities of Choice" id="btn_creating_1_3" name="btn_creating_1_3"></a></td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37893" onmouseover="RestoreAll();nbMouseover('btn_providing_1_4','images/btn_providing.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37893','');" class=""><img src="images/btn_providing.gif" border="0" alt="Providing Quality Care" id="btn_providing_1_4" name="btn_providing_1_4"></a></td>
+	<tbody><tr class="globalnav">
+		<td class="globalnav" valign="top" align="left" title=""><a href="website-privacy-policy" onclick="NavBar_setPLinkIDCookie('39538','');" class="globalnav">Website Privacy Policy</a></td>
+		<td class="globalnav" valign="top" align="left" title="">&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;</td>
+		<td class="globalnav" valign="top" align="left" title=""><a href="contact-us" onclick="NavBar_setPLinkIDCookie('37887','');" class="globalnav">Contact Us</a></td>
+		<td class="globalnav" valign="top" align="left" title="">&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;</td>
+		<td class="globalnav" valign="top" align="left" title=""><a href="terms-and-conditions" onclick="NavBar_setPLinkIDCookie('37586','');" class="globalnav">Terms and Conditions</a></td>
 	</tr>
 
 </tbody></table>		
@@ -677,272 +1557,588 @@ function MM_swapImage() { //v3.0
 			
 <!-- End NavBar Output -->
 		
-</td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-    <tr> 
-      <td valign="top" style="background-image:url(images/2008/leftnavtile_body.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td width="0%" valign="top" style="background-image:url(images/2008/leftnavtile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="0%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td width="0%" valign="top"><img src="images/body_photo_chapel.jpg"></td>
-                      </tr>
-                    </tbody></table></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        
-                      <td width="0%" valign="top"><br><a href="default.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/navleft_home_on.gif',1)"><img src="images/navleft_home.gif" alt="To Homepage" name="Image6" width="209" height="24" border="0"></a><br><img src="images/2008/leftnavtile.gif"><br>
-                        
-			
-<!-- Begin NavBar Bar #2 Content Output... -->
-
-			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-	<tbody><tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=36917" onmouseover="RestoreAll();nbMouseover('navleft_who_2_1','images/navleft_who.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('36917','');" class=""><img src="images/navleft_who.gif" border="0" alt="Who We Are" id="navleft_who_2_1" name="navleft_who_2_1"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=36926" onmouseover="RestoreAll();nbMouseover('navleft_where_2_2','images/navleft_where.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('36926','');" class=""><img src="images/navleft_where.gif" border="0" alt="Where We Are" id="navleft_where_2_2" name="navleft_where_2_2"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37895" onmouseover="RestoreAll();nbMouseover('navleft_advocacy_2_3','images/navleft_advocacy.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37895','');" class=""><img src="images/navleft_advocacy.gif" border="0" alt="Advocacy" id="navleft_advocacy_2_3" name="navleft_advocacy_2_3"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39436" onmouseover="RestoreAll();nbMouseover('navleft_RandD_2_4','images/navleft_RandD.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39436','');" class=""><img src="images/navleft_RandD.gif" border="0" alt="CHI Institute for Research and Innovation" id="navleft_RandD_2_4" name="navleft_RandD_2_4"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=38500" onmouseover="RestoreAll();nbMouseover('navleft_strategic_2_5','images/navleft_strategic.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('38500','');" class=""><img src="images/navleft_strategic.gif" border="0" alt="Strategic Vision" id="navleft_strategic_2_5" name="navleft_strategic_2_5"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37510" onmouseover="RestoreAll();nbMouseover('Navleft_careers_2_6','images/Navleft_careers.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37510','');" class=""><img src="images/Navleft_careers.gif" border="0" alt="Overview of Career Opportunities" id="Navleft_careers_2_6" name="Navleft_careers_2_6"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39460" onmouseover="RestoreAll();nbMouseover('navleft_physician_2_7','images/navleft_physician.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39460','');" class=""><img src="images/navleft_physician.gif" border="0" alt="Physician Opportunities" id="navleft_physician_2_7" name="navleft_physician_2_7"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="blank.cfm?id=37580" onmouseover="RestoreAll();nbMouseover('navleft_financial_2_8','images/navleft_financial.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37580','');" class=""><img src="images/navleft_financial.gif" border="0" alt="Financial Information" id="navleft_financial_2_8" name="navleft_financial_2_8"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37784" onmouseover="RestoreAll();nbMouseover('navleft_initiatives_2_9','images/navleft_initiatives.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37784','');" class=""><img src="images/navleft_initiatives.gif" border="0" alt="Initiatives Newsletter" id="navleft_initiatives_2_9" name="navleft_initiatives_2_9"></a></td>
-	</tr>
-	<tr>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39376" onmouseover="RestoreAll();nbMouseover('nav_left_presscenter_2_10','images/nav_left_presscenter.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39376','');" class=""><img src="images/nav_left_presscenter.gif" border="0" alt="Media Center" id="nav_left_presscenter_2_10" name="nav_left_presscenter_2_10"></a></td>
-	</tr>
-</tbody></table>		
-				
-			
-<!-- End NavBar Output -->
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<address><div class="address">© 2012 Catholic Health Initiatives&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;198 Inverness Drive West, Englewood, CO 80112&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;(303) 298-9100</div><br></address>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td align="right" style="width:240px; text-align:right; vertical-align:middle; white-space:nowrap;">
 		
-</td>
-                      </tr>
-					  <tr> 
-					    <td width="0%" valign="top"><br><br>
-					      
-
-
-	<style name="text/css" class="search">		
-		td.search {background-color: ; background-image: URL(images/clear.gif); font-family: verdana,arial; font-weight: 700; font-size: 12px; font-color: 000000;}
-				
-	</style>
-
-		<table border="0" cellpadding="0" cellspacing="0" background="" align="center" class="search">		
-		<form action="body.cfm?id=37888" method="POST"></form>		
-		<input type="hidden" name="action" value="list">	
-		<input type="hidden" name="search_areas_id" value="">	
-		<input type="hidden" name="includewhat" value="">
-		<input type="hidden" name="keywords_required" value="You must enter a keyword to search.<br>To search for a specific phrase enclose that phrase in quotes.<br>To search for documents containing all of your keywords simply enter the words.<br><br><a href='javascript:history.back()'>Back</a>">	
-			<tbody><tr class="search">							
-				
-					<td class="search">&nbsp;&nbsp;</td>
-				
-				
-					<td class="search"><input type="text" name="keywords" size="20" value="Search Intranet"></td>
-							
-				
-					<td class="search"><input type="IMAGE" src="images/Go.gif" border="0" width="26" height="19" style=" border: 0px;"></td>
-				
-			</tr>
 		
-		</tbody></table>
-	 
-<br></td>
-                     </tr>
-					 <tr>
-					    <td width="0%" valign="top" style="padding: 0px 0px 0px 31px;">
-					      
-			
-<!-- Begin NavBar Bar #3 Content Output... -->
-
-			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a></td>
-	</tr>
-
-</tbody></table><table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-</table>		
-				
-			
-<!-- End NavBar Output -->
 		
 
-					    </td>
-					 </tr>
-                    </tbody></table></td>
-                </tr>
-              </tbody></table></td>
-            <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                      <tbody><tr> 
-                        <td width="100%" valign="top" style="background-image:url(images/2008/body_header_tile.gif); background-repeat: repeat-x; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr> 
-                              <td width="100%" valign="top" bgcolor="86adba"><div style="padding-left: 15px; padding-top: 35px;"><span class="title">Website Privacy Policy</span></div><br><br></td>
-                            </tr>
-                          </tbody></table></td>
-                        <td width="0%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr> 
-                              <td width="0%" valign="top" bgcolor="86adba"><img src="images/2008/logo_body.gif" alt="CHI Homepage" border="0"></td>
-                            </tr>
-                          </tbody></table></td>
-                      </tr>
-                    </tbody></table></td>
-                </tr>
-				 <tr> 
-                  <td width="100%" height="52" valign="top" bgcolor="EFEFEC"><table width="100%" border="0" cellpadding="10" cellspacing="0">
-                      <tbody><tr> 
-                        <td width="100%" valign="top">
-													
-													
-													
-													
-														
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
 															
+		
+			
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
 															
-														
-													
-													
-													
+		
 			
-<!-- Begin NavBar Bar #4 Content Output... -->
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
 
-			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-	<tbody><tr>
-		<td class="" valign="top" align="left"><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=37887" onclick="NavBar_setPLinkIDCookie('37887','');" class="">Contact Us</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=39432" onclick="NavBar_setPLinkIDCookie('39432','');" class="">Corporate Responsibility</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=37586" onclick="NavBar_setPLinkIDCookie('37586','');" class="">Terms and Conditions</a></td>
-	</tr>
+		
+		
+		
+			
+			
+		
+		
+		
 
-</tbody></table>		
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+		
+		
+
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+				
+				
+
+				
+				
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
 				
 			
-<!-- End NavBar Output -->
+		
+		
+		
+		
 		
 
-													
-												</td>
-                      </tr>
-                    </tbody></table></td>
-                </tr>
-                <tr> 
-                  <td width="100%" height="426" valign="top"><table width="100%" border="0" cellpadding="10" cellspacing="0">
-                      <tbody><tr> 
-                        <td width="100%" height="426" valign="top"><br>
+		
+		
+		
+		
+		
+		
 
 		
-	
 		
-	
 		
-	
 		
-	
+				
 		
-	
 		
-	
 		
-	
+				
 		
-	
-		
-	 
-
-
-
-
-
-
-
-
-<font face="verdana" size="2" color="#333333">
-
-<h3><b>Privacy Policy</b></h3><p>
-</p><p class="MsoNormal"><b>Last Updated: September 1, 2011</b><i></i></p><p>
-</p><p class="MsoNormal">&nbsp;</p><p>
-</p><p class="MsoNormal">This Privacy Policy governs the manner in which Catholic Health Initiatives (“<b>CHI</b>”) collects, uses, maintains and discloses information collected from users (each, a “<b>User</b>”) of its websites, including www.catholichealthinitiatives.org or home.catholichealth.net (collectively, the “<b>Site</b>”).&nbsp; CHI reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page.&nbsp; Such changes apply prospectively.&nbsp; Please check this Privacy Policy periodically for changes.&nbsp; The Last Updated date at the top of the page accurately reflects the most recent update to the Privacy Policy.&nbsp; The continued use of the Site following the posting of changes to these terms constitutes an acceptance of those changes.</p><p>
-</p><h1>Privacy</h1><p>
-</p><p class="MsoNormal">CHI is committed to safeguarding the information Users entrust to CHI and believes every User should know how CHI utilizes the information collected from Users.&nbsp; The Site is not directed at children less than 13 years of age.</p><p>
-</p><h1>The Information We Collect</h1><p>
-</p><p class="MsoBodyText2">CHI may collect personally identifiable information from Users in a variety of ways.&nbsp; Personally identifiable information may include (i)&nbsp;contact data (such as a User’s name, mailing and email addresses); (ii)&nbsp;financial data (such as a User’s account or credit card number); and (iii)&nbsp;demographic data (such as a User’s zip code, age and income).&nbsp; If you communicate with CHI by email or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected by CHI.&nbsp; CHI may also collect information about how Users use our Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains from which Users originate. We may use “<b>cookies</b>” to track how Users use our Site.&nbsp; A cookie is a piece of software that a Web server can store on the User’s computer and use to identify the User should they visit the Site again.&nbsp; While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Site.&nbsp; CHI may also collect information about how Users use the Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains and Internet Protocol (“<b>IP</b>”) addresses from which Users originate.&nbsp; While not all of the information that CHI collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide CHI through the Site or otherwise.&nbsp; Additionally, certain information regarding your computer systems, network locations, IP address and software may be communicated to CHI in certain circumstances by the digital rights management systems associated with certain content that you download or access via the Site in order to prevent unauthorized use or distribution of the associated content.&nbsp; Non-personally identifiable information collected by CHI (such as patterns of utilization) is exclusively owned by CHI and may be used as it sees fit in accordance with applicable law.</p><p>
-</p><p class="MsoNormal"><b>How We Use Information</b></p><p>
-</p><p class="MsoBodyText2">CHI may use personally identifiable information collected through our Site to contact Users regarding products and services offered by CHI and its trusted affiliates, independent contractors and business partners and otherwise to enhance Users’ experience with CHI and such affiliates, independent contractors and business partners.&nbsp; CHI may also use information collected through the Site for research regarding the effectiveness of the Site and the marketing, advertising and sales efforts of CHI, its trusted affiliates, independent contractors and business partners.</p><p>
-</p><p class="MsoNormal"><b>Disclosure of Information</b></p><p>
-</p><p class="MsoNormal">CHI may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above.&nbsp; We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners.&nbsp; We may disclose information if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order or another valid legal process.&nbsp; We may disclose information in special circumstances we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Site policies or to protect the safety and security of our users, our Site, and the general public.&nbsp; Finally, we may transfer information collected from Users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business.</p><p>
-</p><p class="MsoNormal"><b>Security of Information</b></p><p>
-</p><p class="MsoNormal">Information about Users that is maintained on our systems is protected using industry standard security measures.&nbsp; In order to secure your personal information, access to your data is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Site.&nbsp; However, no security measures are perfect or impenetrable, and CHI cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure.&nbsp; &nbsp;&nbsp;</p><p>
-</p><h1>Correcting/Updating Personal Information</h1><p>
-</p><p class="MsoNormal">If a User’s personally identifiable information changes (such as your zip code), or if a User no longer desires to receive non-account specific information from us, we will endeavor to provide a way to correct, update or remove that User’s personal data provided to us.&nbsp; Please email us at news@catholichealth.net if you would like your information updated or removed from our systems.</p>
-
-</font>
-
-
-
-
-
-
-
-
-
-
-
-</td>
-                      </tr>
-                    </tbody></table></td>
-                </tr>
-              </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-     <tr> 
-    <td bgcolor="#DAD9D9" height="35" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td width="100%" height="35" valign="top" align="center" style="padding: 6px 0px 0px 0px;">
 			
-<!-- Begin NavBar Bar #5 Content Output... -->
+		
 
-			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
-	<tbody><tr class="">
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a></td>
-		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37887" onclick="NavBar_setPLinkIDCookie('37887','');" class="">Contact Us</a></td>
-		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39432" onclick="NavBar_setPLinkIDCookie('39432','');" class="">Corporate Responsibility</a></td>
-		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
-		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37586" onclick="NavBar_setPLinkIDCookie('37586','');" class="">Terms and Conditions</a></td>
-	</tr>
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
 
-</tbody></table>		
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
 				
 			
-<!-- End NavBar Output -->
 		
-</td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  </tbody></table>
-  
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+															
+		
+			
+			
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+				
+			
+		
+		
+
+		
+		
+		
+
+		
+		<table border="0" cellpadding="5">
+<tbody>
+<tr>
+<td>Connect With Us&nbsp;</td>
+<td><a target="_blank" href="http://www.youtube.com/WatchCHI"><img border="0" src="images/icon_youtube.gif" id="thisIcon" class="sm6generalwizard"></a></td>
+<td><a target="_blank" href="https://www.facebook.com/pages/Catholic-Health-Initiatives/195883567158182"><img border="0" src="images/icon_facebook.gif" id="thisIcon" class="sm6generalwizard"></a></td>
+<td><a target="_blank" href="http://www.twitter.com/CHI_Updates"><img border="0" src="images/icon_twitter.gif" id="thisIcon" class="sm6generalwizard"></a></td>
+<td><a target="_blank" href="http://www.linkedin.com/company/162914?trk=tyah"><img border="0" src="images/icon_linkedin.gif" id="thisIcon" class="sm6generalwizard"></a></td>
+</tr>
+</tbody>
+</table></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
  
+
+
+
+	
+		
+	
+
+
+
+
+
+
+
+ 
+
+
+
+	
+		
+	
+
+
+
+
+
+
+
+
 </body></html>
