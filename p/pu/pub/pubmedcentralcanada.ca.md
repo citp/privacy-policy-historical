@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubmedcentralcanada.ca privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009120159id_/http%3A//pubmedcentralcanada.ca/ppmc-localhtml/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmedcentralcanada.ca privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229062728id_/http%3A//pubmedcentralcanada.ca/ppmc-localhtml/privacy.shtml) for the most accurate reproduction.*
 
 # PubMed Central Canada
 
