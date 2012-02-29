@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101020517id_/http%3A//voxy.com/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301004557id_/http%3A//voxy.com/privacy/en) for the most accurate reproduction.*
 
-# VOXY :: Aprende inglés en la escuela de la vida
+# VOXY :: Learn a language from life
 
 Last Updated: July 11, 2011
 
