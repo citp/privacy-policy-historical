@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117065626id_/http%3A//www.mybsn.com.my/bsn_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229191831id_/http%3A//www.mybsn.com.my/bsn_privacy_policy.html) for the most accurate reproduction.*
 
 # myBSN : Privacy Policy
 
-[Home](https://web.archive.org/web/20111117065626id_/http%3A//www.mybsn.com.my/index.html) > **Privacy Policy**
+[Home](https://web.archive.org/web/20120229191831id_/http%3A//www.mybsn.com.my/index.html) > **Privacy Policy**
 
 Bank Simpanan Nasional is dedicated to ensure that MyBSN Internet Banking services are safe and secure for our valued customers. We understand that the privacy of our customers is our top priority, as well as your trust and confidence in us. This Privacy Policy is designed to explain some of the Privacy principles that we abide by, in providing a responsible and reliable platform for our online banking services. 
 
