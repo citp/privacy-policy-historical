@@ -1,0 +1,507 @@
+<!--The following is the downloaded HTML source of the mapmundi.com privacy policy that was archived on 2012-02-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120229192210id_/http%3A//www.mapmundi.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Mapmundi Internet Web Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/templates/Gri/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+<!--[if IE]>
+<link rel="stylesheet" href="/templates/Gri/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/templates/Gri/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+<meta name="verifyownership" content="249fa4878190567d63b545d87e6da2b9">
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+       document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.mapmundi.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div id="wrapperall">
+<div class="log_reg">
+<a href="/login.php" title="Login" onclick="return showLogin();">Login</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/profile.php?mode=register" title="Register">Register</a>	
+</div>	
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="wrapper">
+<script type="text/javascript">
+var view1 = 0;
+var view2 = 0;
+</script><div class="content-top"></div><div id="content"><div class="header"><div class="dirname"><h1><a href="/" title="Mapmundi Internet Web Directory"> Mapmundi Internet Web Directory</a></h1></div><div class="search"><div id="searchin"><form action="/index.php" method="get"><span class="search"><span class="search_cnt"><table><tbody><tr><td><span class="cauta"><input name="search" type="text" size="18" alt="}" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"></span></td><td><span class="searchin"><button type="submit" title="Search">GO</button></span></td><td><div style="margin:0px 0px 0px 10px;"> <a rel="nofollow" href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4">Advanced<br>Search</a></div></td></tr></tbody></table></span></span></form></div></div></div> <!-- Header --><div id="meniu" class="fix"><ul class="fix menu"><li class="navfirst"><a class="home" href="/" title="Mapmundi Internet Web Directory">Mapmundi Internet Web Directory</a></li><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li class="ultim"><a href="/contact.php" title="Contact directory owner">Contact</a></li></ul><div style="width:66px;float:right;"><a class="rss" href="/rss.php?c= " title="RSS Feed"> </a><a class="twitter" href="http://twitter.com/nixservers" title="NixServers">NixServers</a> <!-- // Change this link with your twitter account. Eg: http://twitter.com/john  --></div></div><div id="sideleft" "="">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Free Link Directories</span></h3>
+<div class="box_pad2">			 
+<ul class="boxPopCats">
+<li><a href="http://www.jam2007.com" target="_blank">Jam 2007 Directory</a></li>
+<li><a href="http://www.exhibitier.com" target="_blank">Exhibitier Directory</a></li>
+<li><a href="http://www.criticaltexts.com" target="_blank">Critical Texts Directory</a></li>
+<li><a href="http://www.1stwebz.com" target="_blank">1stWebz Directory</a></li>
+<li><a href="http://www.atxutegi.com" target="_blank">Atxutegi Directory</a></li>
+<li><a href="http://www.williamsburgwarriors.org/" target="_blank">Warriors Directory</a></li>
+<li><a href="http://www.beernbikes.com/" target="_blank">Beer N' Bikes Directory</a></li>
+<li><a href="http://www.httprevealer.com/" target="_blank">Revealer Directory</a></li>
+<li><a href="http://www.thefrizzle.com/" target="_blank">The Frizzle Directory</a></li>
+<li><a href="http://www.PRESTIGEPREMIUM.COM/" target="_blank">The Prestige Premium Directory</a></li>
+<li><a href="http://www.LANDSTRIKE.COM/" target="_blank">Land Strike Directory</a></li>
+<li><a href="http://www.MASSIVEO.COM/" target="_blank">Massiveo Directory</a></li>
+<li><a href="http://www.SUCAFFE.COM/" target="_blank">Sucaffe Directory</a></li>
+<li><a href="http://www.IDEIASEARTE.COM/" target="_blank">Ideiasearte Directory</a></li>
+<li><a href="http://www.FIREWATCHINGMEDIA.COM/" target="_blank">Firewatch Media Directory</a></li>
+<li><a href="http://www.REGGIELB.COM/" target="_blank">Reggielb Directory</a></li>
+<li><a href="http://www.QUIKFLIGHT.COM/" target="_blank">Quik Flight Directory</a></li>
+<li><a href="http://www.TWISTEDMW.COM/" target="_blank">Twistedmw Directory</a></li>
+<li><a href="http://www.INVISIBLEMASS.COM/" target="_blank">Invisible Mass Directory</a></li>
+<li><a href="http://www.HUSOFT.COM/" target="_blank">Husoft Directory</a></li>
+<li><a href="http://www.hableweb.com/" target="_blank">Hableweb Directory</a></li>
+<li><a href="http://www.anacapasurf.com/" target="_blank">Anacapasurf Directory</a></li>
+<li><a href="http://www.caravanedeville.com/" target="_blank">Caravanedeville Directory</a></li>
+<li><a href="http://www.mapmundi.com/" target="_blank">Mapmundi Directory</a></li>
+<li><a href="http://www.ogdenscore.com/" target="_blank">Ogdenscore Directory</a></li>
+<li><a href="http://www.visensa.com/" target="_blank">Visensa Directory</a></li>
+<li><a href="http://www.ostabika.com/" target="_blank">Ostabika Directory</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+<div style="text-align:center"><a href="http://www.vmoptions.com"><img src="./images/vmo100.png"></a></div><br>
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="16">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Latest featured links</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li><a href="./submit.php">Click Here to Add Your Link</a></li>
+<li><a href="http://www.axecoupons.com/">axe coupons</a></li>
+<li><a href="http://www.vaselinecoupons.com/">vaseline coupons</a></li>
+<li><a href="http://www.brakecoupons.net/">brake coupons</a></li>
+<li><a href="http://www.ketchupcoupon.com/">ketchup coupon</a></li>
+<li><a href="http://www.spaghettisaucecoupons.com/">spaghetti sauce coupons</a></li>
+<li><a href="http://www.tervis-tumbler-coupons.net/">tervis tumbler coupons</a></li>
+<li><a href="http://www.tombstonepizzacoupons.net">tombstone pizza coupons</a></li>
+<li><a href="http://www.stoneyrivercoupons.com">stoney river coupons</a></li>
+<li><a href="http://www.spaghettiwarehousecoupons.net">spaghetti warehouse coupons</a></li>
+<li><a href="http://www.searsautomotivecoupons.com">sears automotive coupons</a></li>
+<li><a href="http://www.roomstogocoupons.net">rooms to go coupons</a></li>
+<li><a href="http://www.polooutletcoupons.com">polo outlet coupons</a></li>
+<li><a href="http://www.jcpenneysaloncoupons.com">jcpenney salon coupons</a></li>
+<li><a href="http://www.honda-service-coupons.com">honda service coupons</a></li>
+<li><a href="http://www.cartersoutletcoupons.com">carters outlet coupons</a></li>
+<li><a href="http://www.sargentocoupons.net">sargento coupons</a></li>
+<li><a href="http://www.petsupermarketcoupons.net">pet supermarket coupons</a></li>
+<li><a href="http://www.clorox-coupons.net">clorox coupons</a></li>
+<li><a href="http://www.clorox-wipes-coupons.com">clorox wipes coupons</a></li>
+<li><a href="http://www.garden-ridge-coupons.com">garden ridge coupons</a></li>
+<li><a href="http://www.unilevercoupons.net">unilever coupons</a></li>
+<li><a href="http://www.americangirldollcoupons.net">american girl doll coupons</a></li>
+<li><a href="http://www.oscar-mayer-coupons.net">oscar mayer coupons</a></li>
+<li><a href="http://www.frozenfoodcoupons.org/">frozen food coupons</a></li>
+<li><a href="http://www.frozendinnercoupons.net/">frozen dinner coupons</a></li>
+<li><a href="http://www.smart-ones-coupons.com/">smart ones coupons</a></li>
+<li><a href="http://www.burtsbeescoupons.net/">burts bees coupons</a></li>
+<li><a href="http://www.vyvansecoupon.net/">vyvanse coupon</a></li>
+<li><a href="http://www.john-frieda-coupons.com/">john frieda coupons</a></li>
+<li><a href="http://www.ringling-brothers-circus-coupons.com/">ringling brothers circus coupons</a></li>
+<li><a href="http://www.canon-printer-support.com/">canon printer support</a></li>
+<li><a href="http://www.ikeamurphybed.net/">ikea murphy bed</a></li>
+<li><a href="http://www.concerta-coupon.com/">concerta coupon</a></li>
+<li><a href="http://www.spring-valley-vitamins.com/">spring valley vitamins</a></li>
+<li><a href="http://www.moissanitevsdiamond.org/">moissanite vs diamond</a></li>
+<li><a href="http://www.shanesribshackcoupons.com/">shanes rib shack coupons</a></li>
+<li><a href="http://www.zaxbyscoupons.org/">zaxbys coupons</a></li>
+<li>
+<a href="                                                /detail/meeting-rooms-brisbane-18662/" title="Read more about: Meeting Rooms Brisbane">Meeting Rooms Brisbane</a>
+</li>
+<li>
+<a href="                                                /detail/vibration-testing-18627/" title="Read more about: vibration testing">vibration testing</a>
+</li>
+<li>
+<a href="                                                /detail/wood-baseball-bats-18516/" title="Read more about: Wood Baseball Bats">Wood Baseball Bats</a>
+</li>
+<li><a href="http://axebodywashcoupons.net">axe body wash coupons</a></li>	
+<li><a href="http://tropicanaorangejuicecoupons.com">tropicana orange juice coupons</a></li>	
+<li><a href="http://keurigkcupscoupons.com">keurig k cups coupons</a></li>	
+<li><a href="http://kcupscoupons.net">k cups coupons</a></li>	
+<li><a href="http://kcup-coupons.com">k cup coupons</a></li>	
+<li><a href="http://bahama-breeze-coupons.com">bahama breeze coupons</a></li>	
+<li><a href="http://camelcigarettecoupons.org">camel cigarette coupons</a></li>	
+<li><a href="http://cachecoupons.net">cache coupons</a></li>	
+<li><a href="http://buckle-coupons.net">buckle coupons</a></li>	
+<li><a href="http://souper-salad-coupons.net">souper salad coupons</a></li>	
+<li><a href="http://dialsoapcoupon.com">dial soap coupon</a></li>	
+<li><a href="http:/aeriecoupons.net">aerie coupons</a></li>	
+<li><a href="http://aerieprintablecoupons.com">aerie printable coupons</a></li>	
+<li><a href="http://arizonateacoupons.com">arizona tea coupons</a></li>	
+<li><a href="http://goldpeakteacoupons.com">gold peak tea coupons</a></li>	
+<li><a href="http://lipton-tea-coupons.com">lipton tea coupons</a></li>	
+<li><a href="http://revolve-clothing-coupon.com">revolve clothing coupon</a></li>	
+<li><a href="http://thermacare-coupon.com">thermacare coupon</a></li>	
+<li><a href="http://redboxcouponcodes.com">redbox coupon codes</a></li>
+<li><a href="http://kindle-fire-coupon.com">kindle fire coupon</a></li>
+<li><a href="http://skullcandycoupons.com">skullcandy coupons</a></li>
+<li><a href="http://bosecoupons.net">bose coupons</a></li>
+<li><a href="http://kraft-cheese-coupons.net">kraft cheese coupons</a></li>
+<li><a href="http://otterboxcoupons.net">otterbox coupons</a></li>
+<li><a href="http://caribou-coffee-coupons.com">caribou coffee coupons</a></li>
+<li><a href="http://earthsbestcoupons.com">earths best coupons</a></li>
+<li><a href="http://clif-bar-coupons.com">clif bar coupons</a></li>
+<li><a href="http://aunt-jemima-coupons.net">aunt jemima coupons</a></li>
+<li><a href="http://organic-valley-coupons.com">organic valley coupons</a></li>
+<li><a href="http://kraft-mayo-coupon.com">kraft mayo coupon</a></li>
+<li><a href="http://sonicare-toothbrush-coupon.com">sonicare toothbrush coupon</a></li>
+<li><a href="http://monsterenergydrinkcoupons.com">monster energy drink coupons</a></li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="22">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Pages</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<br>
+</ul>
+</div>
+<div style="display:none;">
+Sponsored by <a href="http://www.nixservers.com" title="Dedicated server Europe">Dedicated server hosting</a>  | Copywrite <a href="http://www.hostzilla.ro" title="Web Hosting, Gazduire web">Web Hosting, Gazduire web</a>
+</div>
+<div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li><div style="width: 336px; height: 280px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-0866423173009688";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_type = "text";
+
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span></span></h3>
+<div class="box_pad2">   
+<h3><span>Featured Links</span></h3>
+<div id="articles">
+<br><table>
+</table><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.servcorp.com.au/meeting-rooms/brisbane-meetings"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18662" href="http://www.servcorp.com.au/meeting-rooms/brisbane-meetings" title="Meeting Rooms Brisbane"><span id="edittitle_18662" class="link">Meeting Rooms Brisbane</span></a><!--<span  id="edittitle_18662" class="link">Meeting Rooms Brisbane  </span>--><br><p id="description18662"><span id="editdescrip_18662">Servcorp offers Brisbane meeting rooms and boardroom rental for businesses on a casual, short or long term basis</span> <br>-&nbsp;<a class="readMore" href="/detail/meeting-rooms-brisbane-18662/" title="Read more about: Meeting Rooms Brisbane">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.fluke.com/Fluke/inen/products/categoryvibration"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18627" href="http://www.fluke.com/Fluke/inen/products/categoryvibration" title="vibration testing"><span id="edittitle_18627" class="link">vibration testing</span></a><!--<span  id="edittitle_18627" class="link">vibration testing  </span>--><br><p id="description18627"><span id="editdescrip_18627">Fluke 810 Vibration Tester is the most advanced troubleshooting tool for maintenance engineers that helps them to troubleshoot mechanical problems.</span> <br>-&nbsp;<a class="readMore" href="/detail/vibration-testing-18627/" title="Read more about: vibration testing">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.eastonbaseball.com/the-equipment/baseball-bats/wood.html"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18516" href="http://www.eastonbaseball.com/the-equipment/baseball-bats/wood.html" title="Wood Baseball Bats"><span id="edittitle_18516" class="link">Wood Baseball Bats</span></a><!--<span  id="edittitle_18516" class="link">Wood Baseball Bats  </span>--><br><p id="description18516"><span id="editdescrip_18516">Easton Wood bats are crafted with professional grade Maple or Northern White Ash. Maple bats are identical in quality to the Easton bats used by over 100 Major Leaguers.</span> <br>-&nbsp;<a class="readMore" href="/detail/wood-baseball-bats-18516/" title="Read more about: Wood Baseball Bats">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>            
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div></center></li></ul><div class="path"><a href="/" id="firstPath">Mapmundi Internet Web Directory</a><span>Privacy Policy</span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Your Privacy</strong><br>Your privacy is important to us. To    better protect your privacy we provide this notice explaining our   online  information practices and the choices you can make about the way   your  information is collected and used. To make this notice easy to   find, we  make it available on our homepage and at every point where   personally  identifiable information may be requested.</p>
+<p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google,    as a third party advertisement vendor, uses cookies to serve ads on    this site. The use of DART cookies by Google enables them to serve    adverts to visitors that are based on their visits to this website as    well as other sites on the internet.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and   content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to   Google’s own privacy policies.</p>
+<p>Other Third Party ad servers or ad networks may also use cookies to    track users activities on this website to measure advertisement    effectiveness and other reasons that will be provided in their own    privacy policies, our Web Directory has no access or control over   these  cookies that may be used by third party advertisers.</p>
+<p><strong>Collection of Personal Information</strong><br>When  visitingour&nbsp; Web Directory, the IP address used to access the site will be    logged along with the dates and times of access. This information is    purely used to analyze trends, administer the site, track users movement    and gather broad demographic information for internal use. Most    importantly, any recorded IP addresses are not linked to personally    identifiable information.</p>
+<p><strong>Links to third party Websites</strong><br>We have included    links on this site for your use and reference. We are not responsible    for the privacy policies on these websites. You should be aware that the    privacy policies of these sites may differ from our own.</p>
+<p><strong>Changes to this Privacy Statement</strong><br>The contents of   this statement may be altered at any time, at our discretion.</p>
+<p>If you have any questions regarding the privacy policy of our Web Directory then you may contact us by using the contact us page on our site.</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div> <div id="sideright">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="19">
+<div style="width: 120px; height: 600px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-0866423173009688";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_type = "text";
+
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div></div>
+<div class="content-bottom">
+</div>
+</div>
+</div> </div> </div> </div> </div><div id="footer"><div id="footercontent"></div></div></div><!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.nichetrafficanalytics.com/analytics/" : "http://www.nichetrafficanalytics.com/analytics/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://www.nichetrafficanalytics.com/analytics/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 132);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://www.nichetrafficanalytics.com/analytics/piwik.php?idsite=132" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code --></body></html>
