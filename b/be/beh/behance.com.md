@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behance.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228145456id_/http%3A//www.behance.com/Legal/Privacy%3Futm_source%3Dbehancedotcom%26utm_medium%3Dfooter%26utm_campaign%3Dbehance_footer_references) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behance.com privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229211928id_/http%3A//www.behance.com/Legal/Privacy%3Futm_source%3Dbehancedotcom%26utm_medium%3Dfooter%26utm_campaign%3Dbehance_footer_references) for the most accurate reproduction.*
 
 # Behance | Legal
 
