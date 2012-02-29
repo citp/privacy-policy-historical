@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011121617id_/http%3A//www.eguide.com.sg/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguide.com.sg privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229145137id_/http%3A//www.eguide.com.sg/Privacy.aspx) for the most accurate reproduction.*
 
 # eGuide Business Directory - Terms & Conditions
 
