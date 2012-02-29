@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschoolnet.com privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002003627id_/http%3A//www.uschoolnet.com/portal/%3Fm%3Dour%26oid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschoolnet.com privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229105546id_/http%3A//www.uschoolnet.com/portal/%3Fm%3Dour%26oid%3Dprivacy) for the most accurate reproduction.*
 
 # uSchoolnet - Free class website for teachers
 
