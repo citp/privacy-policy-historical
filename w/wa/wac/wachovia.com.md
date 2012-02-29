@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102234431id_/https%3A//www.wachovia.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229193653id_/https%3A//www.wachovia.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Wachovia Security Plus(SM) Customer Center - Privacy and Security Practices
 
