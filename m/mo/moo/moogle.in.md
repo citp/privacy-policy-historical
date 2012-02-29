@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moogle.in privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221101854id_/http%3A//www.grotal.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moogle.in privacy policy that was archived on 2012-02-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120229231104id_/http%3A//www.grotal.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,8 @@ If you are no longer an account holder and you would like to delete your Persona
 ## Information Sharing
 
 We do not rent, sell, or give away your information to anyone. To some extent, information has to be passed on to the law authorities, for fraud detection, and for the safety of our site, employees, management, users, members and other affiliates associated with us.
+
+**Note:**  Third party ad networks that are serving ads on grotal.com may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving. 
 
 ## Contacting Grotal.com
 
