@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213235101id_/http%3A//www.automotto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotto.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301072156id_/http%3A//www.automotto.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Automotto : Automotto - Daily updates on autos, cars, bikes, motorcycles, trucks and vehicles
+
+Instamedia - Privacy Policy 
 
 Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").
 
