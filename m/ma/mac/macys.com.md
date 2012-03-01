@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831173047id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301181713id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
 # Customer Service - Getting Started - Safe Shopping - Privacy Policy - Macy's
 
-This policy was last updated on August 19, 2008.
+This policy was last updated on September 28, 2010.
 
 This website is operated by macys.com, and this privacy policy applies to this website only. To view the separate privacy policy that applies to your Macy's credit card and to read more information about our credit services, please [click here.](https://www.macys.com/service/credit/privacy_dnsbank.jsp "click here.")
 
@@ -21,7 +21,6 @@ We collect various types of information depending upon how you use our site.
   * When you enter a sweepstakes or contest online, we usually collect your name, address (or ZIP Code), email address and phone number. We also may ask you for additional information, such as your age, interests or product preferences.
   * When you submit a question to customer service, we need your email address to respond, and you also may provide us with additional information to help us answer your question.
   * We may receive some information about you from other sources and may add it to your account information. For example, we might get your updated address from a shipper or information on your preferences from another website conducting a promotion or event with us.
-  * We may acquire customer lists from other parties so that we may invite new people to visit macys.com. Our policy is to acquire only lists of people who have indicated that they are willing to receive email offers. Also, each time we send an email offer, we provide people with the opportunity to opt out of receiving future email offers.
   * When you apply for a Macy's credit card, you will be asked to provide your name, address, email address, phone number and other information needed to assess your creditworthiness and verify your identity, such as social security number and employer. This information is required to process your application. The personal information you provide is transmitted through a secure server using SSL encryption. If you’d like, [apply for a Macy's credit card](https://www.macys.com/service/credit/applynow/creditapp.ognc "apply for a Macy's credit card") and review the separate privacy policy that applies to your Macy's credit card account.
   * We may acquire customer lists from other parties so that we may invite new people to visit macys.com. Our policy is to acquire only lists of people who have indicated that they are willing to receive email offers. Also, each time we send an email offer, we provide people with the opportunity to opt out of receiving future email offers.
 
@@ -36,6 +35,8 @@ Cookies can be used by a website to recognize you. But that does not necessarily
 
 We also use cookies to look at how groups, rather than individuals, use our website. In our physical stores, we can observe which aisles and departments are most heavily trafficked and determine what displays or sales are the most successful. Then, we can identify ways to improve the customer experience. On the web, cookies help us develop a similar understanding so that we can continue to improve the arrangement, product offerings, and merchandise placement you see at macys.com.
 
+If you would like to opt out of receiving any Cookies from Macys.com, please use the help function in your web browser to restrict Macys.com Cookies. Lastly, if your existing cookie expires or you clear your cookies for any reason, you will need to follow the above steps again to opt out of any new cookies.
+
   
 We work with a third party company, Coremetrics, to assist us in better understanding how people use our site. macys.com will place cookies on your computer to collect information. The information that is collected through cookies tells us things like which search engine referred you, how you navigated around our site, what you purchased and what traffic is driven by banner ads and emails. 
 
@@ -46,6 +47,9 @@ Coremetrics may only use your personal information to perform services for us. I
 As a visitor to macys.com, you may choose to opt-out of Coremetrics' analysis of your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience that the analysis allows us to provide, but maintain your anonymity. Learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics on this site and to exercise your opt-out choices.
 
 Please note that Coremetrics collects data on our site using first-party data collection. As a result, blocking cookies from third-party domains will not block these first-party macys.com cookies. You need to follow the opt-out process specified (see paragraph above) in order to opt-out of Coremetrics data collection.
+
+  
+If you would like to opt out of targeted advertising that occurs on our third party advertising publishers (per section 5 above), please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Please note that this will opt you out of targeted ads from Macys.com and any other participating advertisers. If you opt out, you will continue to receive online advertising from Macys.com; however, these ads may not be as relevant to you. 
 
   
 We may use your information in a number of ways, including the following: 
@@ -61,7 +65,7 @@ We may use your information in a number of ways, including the following:
 The information gathered may be shared with the Macy's, Inc.' family of companies, which include Macy's and Bloomingdale's. We also share the information with third parties, including responsible companies with which we have a relationship. For example: 
 
   * When you make a purchase, we may share information about you and your transaction with other companies for the purpose of processing your transaction, including fraud prevention, vendor direct shipping and credit card authorization.
-  * WeddingChannel (www.weddingchannel.com) operates the website where you can access the Macy's bridal registry (the "Macy's Wedding & Gift Registry") or register for your own wedding. When you use that website, Macy's Wedding & Gift Registry, macys.com and WeddingChannel receive your information. Please note that WeddingChannel is a separate company; it is not part of the Macy's, Inc. family.
+  * Your full registry list and information will be available on our website. In addition, your name(s), location and event date will also be listed on WeddingChannel.com and GiftRegistry360.com so that your friends and family can more easily find your registry. If you have any questions, please call WeddingChannel.com Customer Service at 877-335-5252 or email them at customerservice@weddingchannel.com. Also, please note that your registry may come up as a result if you or your co-registrant's name is searched on a search engine such as Google.
   * Some of our vendors may work closely with us to create a vendor shop within the macys.com site or to ship your order directly to you. In certain instances, we may share certain information about you with that vendor (e.g., if you decide to buy their products).
   * You also may make a purchase from macys.com through a link from another website or search engine and may use their express checkout tool to do so. When you do, please be aware that both macys.com and that website or search engine will receive your information.
   * In some cases, macys.com may enter into a co-branding relationship with another website that offers you products or services that supplement macys.com's assortment (e.g., flowers). In those cases, you may link from macys.com to another site to purchase the item. In that case, both macys.com and the other website may receive your information.
@@ -84,6 +88,7 @@ Finally, macys.com may share your personal information with unrelated outside co
   
 We provide you with a number of choices regarding our handling of your personal information. 
 
+  
 If you wish to change your email preferences, please [sign in to your Account](https://www.macys.com/signin/index.ognc "sign in to your Account") and go to the My Profile section and specify either:
 
   * "Please do not send me email" or
@@ -141,4 +146,32 @@ If this policy changes, macys.com will revise this portion of its privacy policy
   
 Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Macy's and Macys.com share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Macy's Customer Service, P.O. Box 8067, Mason, OH 45040. In your request, please specify that you want a "Your Macy's California Privacy Rights Notice." Please allow 30 days for a response. 
 
-Thank you for shopping with macys.com. If you have any questions or comments about this policy, please [email us](http://www1.macys.com/service/contactus/index.jsp "email us") or call our Privacy Hotline at 1-888-529-2254.
+  
+To sell and fulfill online purchases that customers choose to ship internationally, macys.com partners with FiftyOne, Inc. (“FiftyOne”). FiftyOne will carefully process your personal information, with at least the same level of privacy protection set forth in the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce. FiftyOne also agrees not to sell, transfer, or otherwise use your information other than for executing international shipping orders. 
+
+When you identify your macys.com order as being shipped internationally, you will be redirected to a checkout page hosted by FiftyOne. On the checkout page you will be required to submit personal information to FiftyOne to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from macys.com.
+
+FiftyOne will notify macys.com of the approval of your order, and macys.com will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne’s terms and conditions to which you must agree in order to receive the product(s) you ordered.
+
+Once you have agreed that FiftyOne may share your data collected from their page with macys.com, that data is protected by this Privacy Policy and you consent to the transfer and storage of that information on our servers located in the United States. 
+
+We adhere to the Safe Harbor Privacy Principles. We have certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with these principles and we perform periodic self-assessments to verify ongoing compliance.
+
+Macys.com is committed to resolving any customer concerns regarding their privacy. If a customer feels that their privacy may have been violated, based on the Safe Harbor Principles, macys.com will attempt to directly resolve the complaint. Any complaints that are still unresolved after these direct efforts, will be settled by arbitration administered by the International Centre for Dispute Resolution in accordance with its applicable commercial rules.
+
+International Centre for Dispute Resolution   
+A Division of the American Arbitration Association   
+1101 Laurel Oak Road, Suite 100   
+Voorhees, NJ 08043   
+Phone: 856-435-6401   
+Email box: [casefiling@adr.org](mailto:casefiling@adr.org)
+
+Customers shipping internationally who wish to contact macys.com to 
+
+  * inquire about or update their personal information
+  * make a complaint about the collection or use of their personal information
+  * comment on or ask questions regarding this privacy policy
+
+
+
+please email us at [privacy@macys.com](http://www1.macys.com/service/contactus/index.jsp "privacy@macys.com").
