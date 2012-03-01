@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solotrannies.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116011648id_/http%3A//solotrannies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solotrannies.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301055940id_/http%3A//solotrannies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
