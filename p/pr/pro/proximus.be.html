@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proximus.be privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154933id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proximus.be privacy policy that was archived on 2012-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120301202830id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -134,39 +134,8 @@
       <!-- SNIPPET snPSE -->
       
       
-      <!-- tracker Static-->
+      <!-- tracker Static and Applicatif-->
       <script type="text/javascript" src="../content/PAW/customer/Site/miscellaneous/tracker"></script>
-      
-      
-      <!-- tracker Application mapping-->
-      
-      <!--script type="text/javascript"-->
-      
-      <!--
-	var NTPT_PGEXTRA = (typeof(NTPT_PGEXTRA)=='undefined') ? '' : NTPT_PGEXTRA;
-	function tag(parameters){
-		var NTPT_PGEXTRA = (typeof(NTPT_PGEXTRA)=='undefined') ? '' : NTPT_PGEXTRA;
-		try{
-			var parray = [];
-				if(!parameters || parameters==''){
-		      		return(false);
-				}
-			var bparms = parameters.split(':');
-			var lang = bparms[1] || 'NA';
-			var site = bparms[3] || 'PX';
-			site = site.toUpperCase();
-			var ucn= bparms[bparms.length-2] || 'NA';
-			var pn = ucn;
-			parray.push('lang='+lang);
-			parray.push('ucn='+ucn);
-			parray.push('pn='+ pn);
-			parray.push('site='+ site);
-			NTPT_PGEXTRA = NTPT_PGEXTRA+parray.join('&');
-		}catch(e){}
-	}
--->
-      
-      <!--/script-->
       
       
       <!-- tracker Common to Application & Static pages -->
@@ -174,8 +143,11 @@
       
       
       <!-- tracker Application cookies-->
+      <script type="text/javascript" src="../../scripts/tracker_app.js"></script>
       
-      <!--script type="text/javascript" src="../../scripts/tracker_app.js"/-->
+      
+      <!-- Cookies -->
+      <script type="text/javascript" src="../../scripts/paw.js?v=3.0"></script>
       	
       
       <!-- login (see login button in snPUB) -->
@@ -299,15 +271,15 @@
                   
                   
                   <div class="snGeneralNavigation">
-                     	<a href="http://support.en.proximus.be/app/contact_phone" title="" class="tpContact">Contact</a>
+                     	<a href="http://support.en.belgacom.be/app/contact?rid=B_CBUSUPMULBBAcommunication_right_EN" title="" class="tpContact">Contact</a>
                      	<a href="../Sitemap/index.html" title="" class="tpSitemap">Sitemap</a>
                      	
                      <ul>
                         		
-                        <li id="LanguageNl" class="First"> <a href="#" title="" class="nl" onclick="document.location.href=document.location.href.replace('/'+document.location.href.split('/')[3]+'/','/'+this.className+'/');">NL</a> 
+                        <li id="LanguageNl" class="First"> <a href="#" title="" class="nl" onclick="EMA.Globals.Cookies.set({name:EMA.Redirects.language, value:'nl'});document.location.href=document.location.href.replace('/'+document.location.href.split('/')[3]+'/','/'+this.className+'/');">NL</a> 
                         </li>
                         		
-                        <li id="LanguageFr"> <a href="#" title="" class="fr" onclick="document.location.href=document.location.href.replace('/'+document.location.href.split('/')[3]+'/','/'+this.className+'/');">FR</a> 
+                        <li id="LanguageFr"> <a href="#" title="" class="fr" onclick="EMA.Globals.Cookies.set({name:EMA.Redirects.language, value:'fr'});document.location.href=document.location.href.replace('/'+document.location.href.split('/')[3]+'/','/'+this.className+'/');">FR</a> 
                         </li>
                         		
                         <li id="LanguageEn" class="Last On"> <span> EN </span> 
@@ -405,7 +377,7 @@
                            												
                            										<a href="../Introduction/Mobile.html" class="syTopcategoryLink Off"><span class="contents">Telephony</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../ShakerPrice/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Introduction/Postpaid.html"><span class="contents">Subscriptions</span></a><a class="syTlcChild" href="../Introduction/Prepaid.html"><span class="contents">Reload cards</span></a><a class="syTlcChild" href="../Introduction/Roaming.html"><span class="contents">International offer</span></a><a class="syTlcChild" href="../Introduction/Options.html"><span class="contents">Services and options</span></a></div>
+                              												<a class="syTlcChild" href="../ShakerPrice/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Introduction/Postpaid.html"><span class="contents">Mobile phone subscriptions</span></a><a class="syTlcChild" href="../Introduction/Prepaid.html"><span class="contents">Reload cards</span></a><a class="syTlcChild" href="../Introduction/Roaming.html"><span class="contents">International offer</span></a><a class="syTlcChild" href="../Introduction/Options.html"><span class="contents">Services and options</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
@@ -414,7 +386,7 @@
                            												
                            										<a href="../Introduction/Internet.html" class="syTopcategoryLink Off"><span class="contents">Internet</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../ShakerPrice_Internet/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Surf_Mobile/index.html"><span class="contents">Internet on mobile phone</span></a><a class="syTlcChild" href="../Surf_Laptop/index.html"><span class="contents">Internet on laptop</span></a><a class="syTlcChild" href="../Surf_Tablet/index.html"><span class="contents">Internet on tablet PC</span></a><a class="syTlcChild" href="../Surf_Ipad/index.html"><span class="contents">Internet on iPad</span></a><a class="syTlcChild" href="../Introduction/Mobile_Internet_Abroad.html"><span class="contents">Internet rates abroad</span></a></div>
+                              												<a class="syTlcChild" href="../Surf_Mobile/index.html"><span class="contents">Internet on mobile phone</span></a><a class="syTlcChild" href="../Surf_Laptop/index.html"><span class="contents">Internet on laptop</span></a><a class="syTlcChild" href="../Surf_Ipad/index.html"><span class="contents">Internet on tablet or iPad</span></a><a class="syTlcChild" href="../Introduction/Mobile_Internet_Abroad.html"><span class="contents">Internet rates abroad</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
@@ -423,7 +395,7 @@
                            												
                            										<a href="../Introduction/Devices.html" class="syTopcategoryLink Off"><span class="contents">Mobiles and PCs</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../Gsm_V3/index.html"><span class="contents">Mobile phone catalogue</span></a><a class="syTlcChild" href="../Device_Of_The_Month/index.html"><span class="contents">Smartphone of the month</span></a><a class="syTlcChild" href="../Tablet/index.html"><span class="contents">Tablet PC</span></a><a class="syTlcChild" href="../Wifi_Router/index.html"><span class="contents">Vodafone Mobile Wi-Fi R201 router</span></a></div>
+                              												<a class="syTlcChild" href="../Gsm_V3/index.html"><span class="contents">Mobile phone catalogue</span></a><a class="syTlcChild" href="../Galaxy_Tab_4/index.html"><span class="contents">Samsung Galaxy Tab 10.1</span></a><a class="syTlcChild" href="../Tablet/index.html"><span class="contents">Samsung Galaxy Tab 7.0 Plus</span></a><a class="syTlcChild" href="../Device_Of_The_Month/index.html"><span class="contents">Smartphone of the month</span></a><a class="syTlcChild" href="../Huawei_Tablet/index.html"><span class="contents">Huawei Mediapad</span></a><a class="syTlcChild" href="../Blackberry_Playbook/index.html"><span class="contents">Blackberry Playbook</span></a><a class="syTlcChild" href="../Wifi_Router/index.html"><span class="contents">Vodafone Mobile Wi-Fi R201 router</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
@@ -445,7 +417,7 @@
                            												
                            												
                            												
-                           										<a href="http://support.en.proximus.be/app/home/index.html" class="syTopcategoryLink Off"><span class="contents">Help</span></a></td>
+                           										<a href="http://support.en.belgacom.be/app/home/c/1284" class="syTopcategoryLink Off"><span class="contents">Help</span></a></td>
                      </tr>
                   </tbody></table>
                </div>
@@ -758,30 +730,7 @@
                         
                      </form>
                      
-                     <div id="EMA_LoginForm"><h2 class="eService"><a href="https://secure.proximus.be/myproximus/?lan=en">Access to e-Services</a></h2>
-<form action="https://secure.proximus.be/LOG/login?laf=customer&amp;lan=en&amp;fromurl=hub" method="post" id="EMA_FrmLogin" name="EMA_FrmLogin" onsubmit="submit_form()">
-<fieldset>
-	<div>
-		<label for="txtmsisdn">Mobile number</label>
-		<input class="loginForm" type="text" id="msisdn" name="msisdn" onclick="this.value = ''; " value="Mobile number">
-	</div>
-	<div>
-		<label for="txtpassword">Password:</label>
-		<input class="loginForm" type="password" id="password" name="password" onfocus="this.value = ''; " value="000000000" onkeypress="return submitenter(this,event)"> <a href="javascript:document.EMA_FrmLogin.submit()" class="btn_submit"><span>ok</span></a>	</div>
-	<div>
-		<ul>
-			<li><a href="https://secure.proximus.be/LOG/forgot?laf=customer&amp;lan=en">Forgot your password?</a></li>
-			<li><a href="https://secure.proximus.be/LOG/forgot?laf=customer&amp;lan=en">Your account is locked?</a></li>
-			<li><a href="http://customer.proximus.be/en/Login/LOG_Eservices_Register.html">Register</a></li>
-		</ul>
-	</div>
-	<div>
-	<input type="hidden" name="hfldDefaultKey">
-	<input type="hidden" name="login" value="login">
-	</div>
-</fieldset>
-</form>
-</div>
+                     <div id="EMA_LoginForm"> </div>
                      
                   </div>
                   	<script type="text/javascript"> 
@@ -862,7 +811,7 @@
                </p>
                	
                <address>
-                  		All rights reserved, Proximus 2011. <a title="" href="http://customer.proximus.be/en/Legal/LGL_Legal_Warnings.html">Legal warnings</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Privacy_Policy.html">Privacy Policy</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Company_Data.html">Company Data</a> <br>
+                  		All rights reserved, Proximus 2012. <a title="" href="http://customer.proximus.be/en/Legal/LGL_Legal_Warnings.html">Legal warnings</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Privacy_Policy.html">Privacy Policy</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Company_Data.html">Company Data</a> <br>
                   		This site was created and is managed in accordance with Belgian law.<br>
                   		Boulevard du Roi Albert II, 27 - B-1030 Brussels.
                   	
