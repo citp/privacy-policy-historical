@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fusedfilm.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231094806id_/http%3A//fusedfilm.com/meet-the-fused-film-bloggers/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fusedfilm.com privacy policy that was archived on 2012-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120301091223id_/http%3A//fusedfilm.com/meet-the-fused-film-bloggers/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 <link rel="shortcut icon" href="http://www.fusedfilm.com/wp-content/themes/FF1/favicon.ico"> 
@@ -20,7 +20,7 @@
 <meta name="keywords" content="FusedFilm.com">
 <meta name="robots" content="index,follow,noodp,noydir">
 <link rel="canonical" href="http://www.fusedfilm.com/aboutus/privacy-statement/">
-<link rel="stylesheet" id="WP_Tumblr_Style-css" href="http://www.fusedfilm.com/wp-content/plugins/wp-tumblr-embeder/style.css?ver=3.3" type="text/css" media="all">
+<link rel="stylesheet" id="WP_Tumblr_Style-css" href="http://www.fusedfilm.com/wp-content/plugins/wp-tumblr-embeder/style.css?ver=3.3.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="http://www.fusedfilm.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
 <link rel="stylesheet" id="wp-stats-css" href="http://www.fusedfilm.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.fusedfilm.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
@@ -30,9 +30,9 @@
 <script type="text/javascript" src="http://www.fusedfilm.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fusedfilm.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fusedfilm.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Advertising Opportunities" href="http://www.fusedfilm.com/advertising-opportunities/">
+<link rel="prev" title="About Us" href="http://www.fusedfilm.com/aboutus/">
 <link rel="next" title="Editor’s Blog" href="http://www.fusedfilm.com/editors-blog/">
-<meta name="generator" content="WordPress 3.3">
+<meta name="generator" content="WordPress 3.3.1">
 
 	<!--Facebook Like Button OpenGraph Settings Start-->
 	<meta property="og:site_name" content="FusedFilm.com">
@@ -140,7 +140,7 @@ font-weight:bold;
 <script type="text/javascript">
 <!--start wp_likes
 /* 
- *author:Aakash Bapna(http://aakash.me)
+ *author:Aakash Bapna(http://www.aakash.org)
  */
 
 if(typeof jQuery=="undefined"){
@@ -205,14 +205,15 @@ if(typeof jQuery=="undefined"){
 	}
 	wp_likes.like=function(post_id){
 		wp_likes.log("like click for post- "+post_id);
-		jQuery("#wp_likes_post-"+post_id+" a.like").fadeTo("slow",.2);
+		jQuery("#wp_likes_post-"+post_id+" a.like").fadeTo(500,.2);
 		this.makeCall(post_id,function(response){
 			var postDom=jQuery(document.getElementById("wp_likes_post-"+post_id));
 			postDom.children("span.text").html(response.likeText);
 			var thumbImg=postDom.children("a.like").children("img");
 			postDom.children("a.like").attr('title',"").removeAttr('href').text("").addClass("liked").removeClass("like");
 			thumbImg.appendTo(postDom.children("a.liked").eq(0));
-			postDom.children("a.liked").fadeTo("slow",.80);
+			postDom.children("a.liked").fadeTo("500",.80);
+			postDom.find(".like").hide("fast");
 			postDom.children("div.unlike").show("fast")	
 	
 		},false);
@@ -220,14 +221,14 @@ if(typeof jQuery=="undefined"){
 	}
     wp_likes.unlike=function(post_id){
 	wp_likes.log("unlike click for post- "+post_id);
-	jQuery("#wp_likes_post-"+post_id+" a.liked").fadeTo("slow",.2);
+	jQuery("#wp_likes_post-"+post_id+" a.liked").fadeTo(500,.2);
 	this.makeCall(post_id,function(response){
 		
 		var postDom=jQuery(document.getElementById("wp_likes_post-"+post_id));
 		postDom.children("span.text").html(response.likeText);
-		postDom.children("a.liked").attr("href","javascript:wp_likes.like("+post_id+")").addClass("like").removeClass("liked").fadeTo("slow",.95);
+		postDom.children("a.liked").attr("href","javascript:wp_likes.like("+post_id+")").addClass("like").removeClass("liked").fadeTo("500",1);
 		postDom.children("div.unlike").hide("fast")
-			
+		postDom.find(".like").show("fast");	
 	},true)
 	
 	
@@ -362,19 +363,19 @@ jQuery(document).ready(function($) {
 			
 			
 							
-			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2011/12/prometheus-poster.jpg&amp;w=811&amp;zc=1" alt="Mike’s 10 Most Anticipated Films of 2012" link="http://www.fusedfilm.com/2011/12/mikes-10-most-anticipated-films-of-2012/">
+			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2012/02/bernie-movieposter.jpg&amp;w=811&amp;zc=1" alt="First Trailer for Linklater’s Dark Comedy BERNIE" link="http://www.fusedfilm.com/2012/02/first-trailer-for-linklaters-dark-comedy-bernie/">
 			  
 							
-			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2011/12/missionimpossible-ghostprotocol.jpg&amp;w=811&amp;zc=1" alt="Mike’s Top 10 Movies of 2011" link="http://www.fusedfilm.com/2011/12/mikes-top-10-movies-of-2011/">
+			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2012/02/NeighborhoodWatch-movieposter.jpg&amp;w=811&amp;zc=1" alt="Watch This Teaser Trailer for Akiva Schaffer’s NEIGHBORHOOD WATCH" link="http://www.fusedfilm.com/2012/02/watch-this-teaser-trailer-for-akiva-schaffers-neighborhood-watch/">
 			  
 							
-			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2011/12/sucker-punch.jpg&amp;w=811&amp;zc=1" alt="Mike’s 10 Worst Movies of 2011" link="http://www.fusedfilm.com/2011/12/worst-10-movies-of-2011/">
+			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2012/02/emmawatson-blingring.jpg&amp;w=811&amp;zc=1" alt="Emma Watson Now a Part of Sofia Coppola’s THE BLING RING" link="http://www.fusedfilm.com/2012/02/emma-watson-now-a-part-of-sofia-coppolas-the-bling-ring/">
 			  
 							
-			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2011/12/hugh-jackman-les-miserables.jpg&amp;w=811&amp;zc=1" alt="Tom Hooper Wants to Shoot ‘Les Miserables’ with Live Singing" link="http://www.fusedfilm.com/2011/12/tom-hooper-wants-to-shoot-les-miserables-with-live-singing/">
+			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2012/02/frankenweenie-movie-poster1.jpg&amp;w=811&amp;zc=1" alt="New Frankenweenie Image + Trailer Hits Tomorrow" link="http://www.fusedfilm.com/2012/02/new-frankenweenie-image-trailer-hits-tomorrow/">
 			  
 							
-			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2011/12/hathaway-catwoman.jpg&amp;w=811&amp;zc=1" alt="Anne Hathaway Teases ‘The Dark Knight Rises’ Plot and Details Catwoman Suit" link="http://www.fusedfilm.com/2011/12/anne-hathaway-teases-the-dark-knight-rises-plot-and-details-catwoman-suit/">
+			<img src="http://www.fusedfilm.com/wp-content/themes/FF1/scripts/timthumb.php?src=http://www.fusedfilm.com/wp-content/uploads/2012/02/piranha3dd-movieposter.jpg&amp;w=811&amp;zc=1" alt="<em>Piranha 3DD</em> Trailer: So Disgustingly Bad Its Probably Good" link="http://www.fusedfilm.com/2012/02/piranha-3dd-trailer-so-digustinly-bad-its-probably-good/">
 			  
 					</div>
 		<div id="topTitle">
@@ -388,8 +389,7 @@ jQuery(document).ready(function($) {
 				<li><a title="Like Us on Facebook" href="http://www.facebook.com/pages/THE-FUSED-FILM-BLOG/8457301593?ref=s&amp;nctrct=1239155011102" target="_blank"><img src="http://www.fusedfilm.com/wp-content/themes/FF1/images/social-facebook.png" alt="Like Us on Facebook"></a></li>
 			</ul>
 			<ul id="nav">
-				<li class="page_item page-item-6819"><a href="http://www.fusedfilm.com/advertising-opportunities/">Advertising Opportunities</a></li>
-<li class="page_item page-item-14249"><a href="http://www.fusedfilm.com/editors-blog/">Editor’s Blog</a></li>
+				<li class="page_item page-item-14249"><a href="http://www.fusedfilm.com/editors-blog/">Editor’s Blog</a></li>
 <li class="page_item page-item-142 current_page_ancestor current_page_parent"><a href="http://www.fusedfilm.com/aboutus/">About Us</a>
 <ul class="children">
 	<li class="page_item page-item-6888 current_page_item"><a href="http://www.fusedfilm.com/aboutus/privacy-statement/">Privacy Statement</a></li>
@@ -398,243 +398,42 @@ jQuery(document).ready(function($) {
 				<li><a target="_blank" href=""></a></li>			</ul>
 			<ul id="subnav">
 					<li class="cat-item cat-item-9163"><a href="http://www.fusedfilm.com/category/columns/" title="FusedFilm.com delivers some great opinions in our column section. Some our columns the Pitch and Fax of Life are our most popular. Check all our opinions our here. ">Columns</a>
-<ul class="children">
-	<li class="cat-item cat-item-9210"><a href="http://www.fusedfilm.com/category/columns/afaxoflife/" title="Bi-weekly column from Ken Smithart where culture, middle america and the cinema meet. Ken takes the high ground with intelligent commentary on today's cinema culture. ">A Fax of Life</a>
-</li>
-	<li class="cat-item cat-item-10768"><a href="http://www.fusedfilm.com/category/columns/cinema-bluff/" title="Karen Divorty's unique look on the world of cinema. ">Cinema Bluff</a>
-</li>
-	<li class="cat-item cat-item-10889"><a href="http://www.fusedfilm.com/category/columns/cinemarc/" title="FusedFilm.com's, Marc Vibbert, writes about his new experience watching some Hollywood's most treasured films widening his range of movies seen. Check out all his thoughts here at CineMarc. ">CineMarc</a>
-</li>
-	<li class="cat-item cat-item-2840"><a href="http://www.fusedfilm.com/category/columns/geekgasm/" title="This is the feature where we go ranting and raving (good or bad) on a major topic of the week, month or whatever. Its the gasm that counts and we geeked it up. ">Geekgasm</a>
-</li>
-	<li class="cat-item cat-item-10162"><a href="http://www.fusedfilm.com/category/columns/mouse-house/" title="If you are a Disney lover then this column is for you. From the mind of the master Disney fan, Brett Nachman, Mouse House, is where you go for the latest opinions, buzz, editorials on all things Walt Disney. From theme parks to Toy Story, from Pirates to Snow White, its all covered here. Get your Disney fix in the Mouse House. ">Mouse House</a>
-</li>
-	<li class="cat-item cat-item-10226"><a href="http://www.fusedfilm.com/category/columns/the-bugle-marvel/" title="The Bugle is where all the Marvel movie talk happens, this column will edge out all the interesting talk, opinions and non-news buzz surrounding Marvel Studios and film projects. Oh yeah its loosely named after The Daily Bugle, the classic newspaper from the comics. ">The Bugle</a>
-</li>
-	<li class="cat-item cat-item-10869"><a href="http://www.fusedfilm.com/category/columns/the-chic-geek-columns/" title="Geekdom is not just a mindset and interest it has become its own culture and lifestyle complete even with its own fashion sense. The Chic Geek is here to capture Geek fashion as it unfolds around the culture but also in the movies and tv shows we love. ">The Chic Geek</a>
-</li>
-	<li class="cat-item cat-item-8633"><a href="http://www.fusedfilm.com/category/columns/the-pitch/" title="Weekly column from Kevin Coll, where he thinks like an Executive and gives Hollywood some ideas for movies. Never his own of course but he certainly loves talking about remakes, books to film and much more in this series. ">The Pitch</a>
-</li>
-	<li class="cat-item cat-item-10218"><a href="http://www.fusedfilm.com/category/columns/the-dc-report/" title="The Planet is a column dedicated to the world of the DC Universe. A way to discuss the interesting tidbits of the comics to film. We will discuss anything from Green Lantern, Superman and Batman to the more obscure films like Vertigo projects, Wildstorm and others.">The Planet</a>
-</li>
-	<li class="cat-item cat-item-6849"><a href="http://www.fusedfilm.com/category/columns/unhinged/" title="Fused Film UNHINGED is a distinctive feature that spotlights off-beat, mentally blown material that veers off from our everyday content.  Our writers specialize in everything from Grindhouse films to New French Extremism to old school slasher flicks to Asian crime cinema, B Movies, and the avant garde.  They read Charles Bukowski and Mary Gaitskill instead of Stephanie Meyer.  And they spend their nights watching the flicks that scared them out of their footie pajamas as kids.  UNHINGED is about rolling with the those on the outside, the counterculture, and whatever defies the norms set by everyday cinema, culture, and life. Get more UNHINGED on Twitter @UnhingedFF.">UNHINGED</a>
-</li>
-</ul>
 </li>
 	<li class="cat-item cat-item-639"><a href="http://www.fusedfilm.com/category/features/" title="All the interested feature related articles on FusedFilm.com such as Net Crawl, Video of the Week and much, much more. These are nice breaks from the news. ">Features</a>
 <ul class="children">
-	<li class="cat-item cat-item-2181"><a href="http://www.fusedfilm.com/category/features/box-office/" title="This feature revolves around the business, finance and marketing aspects of Hollywood. Ranging from a film's success or failure in the box office we also discuss trends, advertising and the more sophisticated side of Hollywood in this feature. ">Box Office</a>
-</li>
-	<li class="cat-item cat-item-10775"><a href="http://www.fusedfilm.com/category/features/cinema-books/" title="View all posts filed under Cinema Books">Cinema Books</a>
-</li>
 	<li class="cat-item cat-item-679"><a href="http://www.fusedfilm.com/category/features/fused-freebies/" title="View all posts filed under Contests">Contests</a>
-</li>
-	<li class="cat-item cat-item-8591"><a href="http://www.fusedfilm.com/category/features/net-crawl/" title="interesting things we find while crawling the web or the net whichever you prefer. ">Net Crawl</a>
-	<ul class="children">
-	<li class="cat-item cat-item-566"><a href="http://www.fusedfilm.com/category/features/net-crawl/votw/" title="(VOTW) - Video of the Week is one of our top features, where we post videos from around the web that just amuse, confuse, or mystify. Centering on the geek world, these videos range from Funny or Die to just a great mash-up from Youtube. Please send a submission to us at - kcoll@fusedfilm.com  ">Video of the Week</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-11578"><a href="http://www.fusedfilm.com/category/features/overrated-movies/" title="View all posts filed under Overrated Movies">Overrated Movies</a>
-</li>
-	<li class="cat-item cat-item-11427"><a href="http://www.fusedfilm.com/category/features/short-films-features/" title="We love short films! sometimes they are just interesting, weird and make no sense while other times they are the beginning of something awesome. A great way to find the new director or the hottest new thing.">Shorts Worth Watching</a>
-</li>
-	<li class="cat-item cat-item-2884"><a href="http://www.fusedfilm.com/category/features/top-10/" title="View all posts filed under Top 10">Top 10</a>
-</li>
-	<li class="cat-item cat-item-11596"><a href="http://www.fusedfilm.com/category/features/trailerbomb/" title="View all posts filed under Trailerbomb">Trailerbomb</a>
 </li>
 </ul>
 </li>
 	<li class="cat-item cat-item-388"><a href="http://www.fusedfilm.com/category/news/" title="If you love movie news then this is where it is at. All the latest movie news and commentary can be found here on some of the biggest and most talked about films. Movies like The Dark Knight Rises, The Avengers, The Man of Steel, The Amazing Spider-man, Star Trek 2, Iron Man 3 and whole lot more. ">Fused Movies</a>
 <ul class="children">
-	<li class="cat-item cat-item-2529"><a href="http://www.fusedfilm.com/category/news/below-the-fold/" title="like a Page 2 column on other sites, Below the Fold, features the articles we can't get full posts out, just like in the old days when you didn't make past the fold on a newspaper. The good stuff was always above the fold whereas the not so interesting stuff was below the fold. ">Below the Fold</a>
-</li>
-	<li class="cat-item cat-item-825"><a href="http://www.fusedfilm.com/category/news/dvd-news/" title="Want to know when you movie hits DVD? the latest TV series to get released in Blu-ray? This is where all the news about DVDs go. Check them out now! ">DVD News</a>
-	<ul class="children">
-	<li class="cat-item cat-item-939"><a href="http://www.fusedfilm.com/category/news/dvd-news/blu-ray-report/" title="View all posts filed under Blu-Ray Report">Blu-Ray Report</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-10417"><a href="http://www.fusedfilm.com/category/news/fused-film-la/" title="All the news surrounding interesting film going opportunities and experiences in the epicenter of film, Los Angeles. This also includes the surrounding areas too like Newport Beach, Beverly Hills, etc. Using the guides of our LA reporters there is always something unique happening in the world of film, where the world of film comes to life - LA. ">Fused Film LA</a>
-</li>
-	<li class="cat-item cat-item-10967"><a href="http://www.fusedfilm.com/category/news/fused-memphis/" title="FusedFilm.com is headquartered in Memphis, a southern town not know for its movies but more for its blues music, there is still some interesting things to write about here that film fans may enjoy. ">Fused Memphis</a>
-</li>
 	<li class="cat-item cat-item-58"><a href="http://www.fusedfilm.com/category/news/movie-news/" title="Movie news for movie lovers. This is where you can get all the latest buzz, topics and updates on your favorite movie projects as they are being developed. Want to know who is getting casted in what we have that too. We have even broken links to some the most talked about projects in the news arena, like Superman, The Dark Knight Rises, Spider-man Reboot, etc. ">Movie News</a>
-	<ul class="children">
-	<li class="cat-item cat-item-5017"><a href="http://www.fusedfilm.com/category/news/movie-news/avatar-movie-news-news/" title="all the latest updates and news pertaining to James Cameron's Avatar 2, sequel to the box office juggernaut, Avatar. ">Avatar 2</a>
-</li>
-	<li class="cat-item cat-item-5311"><a href="http://www.fusedfilm.com/category/news/movie-news/bond-23/" title="All the latest news on the 23rd film in the long running Bond franchise. This time Sam Mendes is directing with Daniel Craig set to return as the British superspy continuing his search for the organization behind Vesper's death and the attempted killing of &quot;M&quot;. ">Bond 23</a>
-</li>
-	<li class="cat-item cat-item-1430"><a href="http://www.fusedfilm.com/category/news/movie-news/chronicles-of-narnia/" title="All the Chronicles of Narnia news and updates can be found here. The next installment of the franchise post, Dawn Treader will be Magician's Nephew. ">Chronicles of Narnia</a>
-</li>
-	<li class="cat-item cat-item-1727"><a href="http://www.fusedfilm.com/category/news/movie-news/green-lantern-movie-news/" title="Find all the latest updates and information surrounding the June 17, 2011 release of Green Lantern, starring Ryan Reynolds as Hal Jordan. In a universe as vast as it is mysterious, a small but powerful force has existed for centuries. Protectors of peace and justice, they are called the Green Lantern Corps. Hal is a gifted and cocky test pilot, but the Green Lanterns have little respect for humans, who have never harnessed the infinite powers of the ring before. But Hal is clearly the missing piece to the puzzle, and along with his determination and willpower, he has one thing no member of the Corps has ever had: humanity. With the encouragement of fellow pilot and childhood sweetheart Carol Ferris (Blake Lively), if Hal can quickly master his new powers and find the courage to overcome his fears, he may prove to be not only the key to defeating Parallax…he will become the greatest Green Lantern of all.
-">Green Lantern</a>
-</li>
-	<li class="cat-item cat-item-6326"><a href="http://www.fusedfilm.com/category/news/movie-news/halo/" title="All the Halo movie news, updates and buzz can be found here. Halo, is the popular video game series from Microsoft and Bungie games surrounding Master Chief and the Brood of aliens in a futuristic Earth. ">Halo</a>
-</li>
-	<li class="cat-item cat-item-2854"><a href="http://www.fusedfilm.com/category/news/movie-news/indiana-jones-movie-news/" title="Indiana Jones franchise and sequel information can be found here. Indy 5 news, buzz is available as well. EVeryone's favorite archeologist with the hat and whip, created by George Lucas and starring Harrison Ford. ">Indiana Jones</a>
-</li>
-	<li class="cat-item cat-item-1775"><a href="http://www.fusedfilm.com/category/news/movie-news/iron-man-2-movie-news/" title="All previous Iron Man film information can be found here as well as the latest updates on Iron Man 3. Iron Man 3 will be distributed by Disney, directed by Shane Black starring Robert Downey Jr. as Tony Stark. ">Iron Man 3</a>
-</li>
-	<li class="cat-item cat-item-2921"><a href="http://www.fusedfilm.com/category/news/movie-news/justice-league/" title="DC Entertainment has plans for a Justice League film, this is where you will find all the latest news and updates on it. Right here! ">Justice League</a>
-</li>
-	<li class="cat-item cat-item-5329"><a href="http://www.fusedfilm.com/category/news/movie-news/mission-impossible-iv/" title="The fourth installment in the franchise from Paramount, this latest one is directed by Brad Bird, produced by JJ Abrams. Starring Tom Cruise, Jeremy Renner, Simon Pegg and Josh Holloway, this new vision may bring us a whole new Mission Impossible set of films for the future. ">Mission Impossible: Ghost Protocol</a>
-</li>
-	<li class="cat-item cat-item-11349"><a href="http://www.fusedfilm.com/category/news/movie-news/pixars-brave/" title="View all posts filed under Pixar's Brave">Pixar's Brave</a>
-</li>
-	<li class="cat-item cat-item-2958"><a href="http://www.fusedfilm.com/category/news/movie-news/prince-of-persia-movie-news-news/" title="The latest video game turned film, Disney's Prince of Persia franchise buzz, news can be found here. Past articles on Sands of Time and future films will be located here as well. ">Prince of Persia</a>
-</li>
-	<li class="cat-item cat-item-4771"><a href="http://www.fusedfilm.com/category/news/movie-news/star-trek-2/" title="All the news for the follow-up to JJ Abrams re-vision of Star Trek (2009). The sequel will be released Summer 2012 and will star Chris Pine, Simon Pegg, Zoe Saldana, Anton Yelchin, Zachary Quinto, John Cho and Karl Urban  ">Star Trek 2</a>
-</li>
-	<li class="cat-item cat-item-9348"><a href="http://www.fusedfilm.com/category/news/movie-news/super-8-movie-news-news/" title="All the news surrounding JJ Abrams' summer blockbuster for 2011, Super 8, an ode to Steven Spielberg's Amblin adventure films of the 70s and 80s. Revolving around children in a small town, they capture something terrifying on their Super 8 camera, creating an adventure of a lifetime. ">Super 8</a>
-</li>
-	<li class="cat-item cat-item-74"><a href="http://www.fusedfilm.com/category/news/movie-news/superman/" title="View all posts filed under Superman">Superman</a>
-</li>
-	<li class="cat-item cat-item-4201"><a href="http://www.fusedfilm.com/category/news/movie-news/teenage-mutant-ninja-turtles-movie-news-news/" title="All the latest movie news and updates surround the live action reboot of the classic Teenage Mutant Ninja Turtles franchise can be found here. ">Teenage Mutant Ninja Turtles</a>
-</li>
-	<li class="cat-item cat-item-1432"><a href="http://www.fusedfilm.com/category/news/movie-news/terminator-movie-news/" title="The news and updates surrounding anything related to the Terminator franchise. Will it be rebooted? will Arnold return? will we ever see another film? ">Terminator Franchise</a>
-</li>
-	<li class="cat-item cat-item-4928"><a href="http://www.fusedfilm.com/category/news/movie-news/spider-man-reboot-movie-news-news/" title="This the 2012 film, rebooting Spider-man for Sony Pictures. Starring Andrew Garfield and Emma Stone, the Amazing Spider-man is being directed by Marc Webb from a script by James Vanderbilt. It will be released Summer 2012. The films plans to re-explore the origins of Spider-man for a new generation, focusing more on him in high school. ">The Amazing Spider-man</a>
-</li>
-	<li class="cat-item cat-item-1783"><a href="http://www.fusedfilm.com/category/news/movie-news/the-avengers-movie-news/" title="The news and updates surrounding character in The Avengers film, the build-up Marvel movie that will bring together Thor, Captain America, Iron Man, The Hulk as well as newcomers AntMan, Hawkeye and The Wasp. ">The Avengers</a>
-</li>
-	<li class="cat-item cat-item-1579"><a href="http://www.fusedfilm.com/category/news/movie-news/batman-3-movie-news-news/" title="All the latest updates and news on Christopher Nolan's third Batman film, The Dark Knight Rises, starring Christian Bale as Bruce Wayne/Batman, Tom Hardy as Bane, Anne Hathaway as Selina Kyle/Catwoman. Based on a story from Chris Nolan, David Goyer and Jonathan Nolan the screenplay is being written by Jonathan Nolan. The film will be released July 2012 by Warner Brothers. ">The Dark Knight Rises</a>
-</li>
-	<li class="cat-item cat-item-1440"><a href="http://www.fusedfilm.com/category/news/movie-news/the-hobbit-movie-news/" title="Latest updates and news surrounding Peter Jackson's return to Middle Earth with The Hobbit. ">The Hobbit</a>
-</li>
-	<li class="cat-item cat-item-10524"><a href="http://www.fusedfilm.com/category/news/movie-news/top-gun-2-movie-news/" title="Top Gun 2 is in development at Paramount, instantly making it a buzz worthy topic category. Find all the latest news and updates surrounding the project. ">Top Gun 2</a>
-</li>
-	<li class="cat-item cat-item-3227"><a href="http://www.fusedfilm.com/category/news/movie-news/transformers-3-movie-news-news/" title="The follow-up film to Transformers Revenge of the Fallen, this the third film in the franchise. Directed by Michael Bay and starring Shia Lebeouf, we find a pinnacle point in the war between Autobots and Decepticons. The US is in a space race with Russia again and there is secret that leads back to the Moon. Get ready for the return of Optimus Prime as he leads us through the fight against Megatron and new baddie Shockwave as well as the rest of the Decepticons.">Transformers: Dark of the Moon</a>
-</li>
-	<li class="cat-item cat-item-6107"><a href="http://www.fusedfilm.com/category/news/movie-news/tron-legacy/" title="All of the news surrounding the follow-up to Tron Legacy and Tron can be found here. Also past articles on Tron and Tron Legacy are available as well. Tron 3 plans to explore Quorra in the real world, further adventures of Sam FLynn and the emergence of Ed Dillinger Jr. possibly even Ed Dillinger himself. Could this mean a return of Master Control? perhaps. ">Tron 3</a>
-</li>
-	<li class="cat-item cat-item-1438"><a href="http://www.fusedfilm.com/category/news/movie-news/x-men-movie-news/" title="All the news surrounding X-Men movies can be found right here. X-Men 4, X-Men Origins, Wolverine, First Class, New Mutants are all discussed in these posts. ">X-Men Films</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-6597"><a href="http://www.fusedfilm.com/category/news/movieviral-news/" title="Provided by our partners, MovieViral.com, this is the have for all the cool viral news and stuff happening on the web. Make sure you check out Movieviral.com for all the latest info on the viral campaigns in Hollywood. ">MovieViral News</a>
-</li>
-	<li class="cat-item cat-item-8590"><a href="http://www.fusedfilm.com/category/news/poster-news/" title="Who doesn't love movie posters? This is where you can find information on all the one sheets, movie posters and related digital assets released on your favorite upcoming films. ">Posters</a>
-</li>
-	<li class="cat-item cat-item-8305"><a href="http://www.fusedfilm.com/category/news/the-casting-couch/" title="Who is being casted in what? Find out where your favorite stars and talent are going next with the Casting Couch!">The Casting Couch</a>
-</li>
-	<li class="cat-item cat-item-7205"><a href="http://www.fusedfilm.com/category/news/twitter-news/" title="View all posts filed under Twitter Report">Twitter Report</a>
 </li>
 </ul>
 </li>
 	<li class="cat-item cat-item-7914"><a href="http://www.fusedfilm.com/category/fused-tv/" title="All of the Television News, Reviews and Features from the small screen fall under our Fused TV section. Check out all our interesting opinions on all the world of television. ">Fused TV</a>
 <ul class="children">
-	<li class="cat-item cat-item-7915"><a href="http://www.fusedfilm.com/category/fused-tv/tv-features/" title="Check out Fused TV Features like the our Season Top 10s and much more. ">TV Features</a>
-	<ul class="children">
-	<li class="cat-item cat-item-10736"><a href="http://www.fusedfilm.com/category/fused-tv/tv-features/realitycheck/" title="I review, discussion and look at some of hottest reality programs on television">Reality Check</a>
-</li>
-	<li class="cat-item cat-item-7916"><a href="http://www.fusedfilm.com/category/fused-tv/tv-features/season-top-10s/" title="View all posts filed under Season Top 10s">Season Top 10s</a>
-</li>
-	<li class="cat-item cat-item-10739"><a href="http://www.fusedfilm.com/category/fused-tv/tv-features/the-show/" title="Favorite shows we wish still were on TV now. A monthly feature where we look back at these classic series. ">The Show Must Go On</a>
-</li>
-	<li class="cat-item cat-item-10737"><a href="http://www.fusedfilm.com/category/fused-tv/tv-features/tonight/" title="Your Guide for what is on TV tonight. and a little advice as to what we think you should watch. ">What's On Tonight</a>
-</li>
-	</ul>
-</li>
 	<li class="cat-item cat-item-621"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/" title="All the TV News you can get on hot shows like Lost, Smallville, Heroes, Chuck, Glee and much more! Find it all here in our extensive TV News section. ">TV News</a>
-	<ul class="children">
-	<li class="cat-item cat-item-8829"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/burn-notice-tv-reviews-fused-tv/" title="all your Burn Notice related news and information on the USA series. ">Burn Notice</a>
-</li>
-	<li class="cat-item cat-item-8860"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/chuck-tv-reviews-fused-tv/" title="All your Chuck Bartowski news on the hit NBC spy/nerd series. ">Chuck</a>
-</li>
-	<li class="cat-item cat-item-7905"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/community/" title="View all posts filed under Community">Community</a>
-</li>
-	<li class="cat-item cat-item-10676"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/dexter/" title="View all posts filed under Dexter">Dexter</a>
-</li>
-	<li class="cat-item cat-item-1479"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/lost-tv-shows/" title="View all posts filed under LOST">LOST</a>
-</li>
-	<li class="cat-item cat-item-10553"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/once-upon-a-time/" title="View all posts filed under Once Upon A Time">Once Upon A Time</a>
-</li>
-	<li class="cat-item cat-item-8803"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/renewals/" title="View all posts filed under Renewals">Renewals</a>
-</li>
-	<li class="cat-item cat-item-1697"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/stargate-universe/" title="View all posts filed under Stargate Universe">Stargate Universe</a>
-</li>
-	<li class="cat-item cat-item-10576"><a href="http://www.fusedfilm.com/category/fused-tv/tv-shows/tron-uprising/" title="View all posts filed under Tron Uprising">Tron Uprising</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-1209"><a href="http://www.fusedfilm.com/category/fused-tv/tv-on-dvd/" title="View all posts filed under TV on DVD">TV on DVD</a>
 </li>
 	<li class="cat-item cat-item-620"><a href="http://www.fusedfilm.com/category/fused-tv/tv-reviews/" title="All the TV reviews covering pilot episodes, series premieres, special TV events and all the other buzz review worthy from the small screen. ">TV Review</a>
-	<ul class="children">
-	<li class="cat-item cat-item-10738"><a href="http://www.fusedfilm.com/category/fused-tv/tv-reviews/discuss/" title="all the open discussions on your favorite shows.">Discussions</a>
-</li>
-	</ul>
 </li>
 </ul>
 </li>
 	<li class="cat-item cat-item-895"><a href="http://www.fusedfilm.com/category/interviews/" title="All the great conversations we have with celebrities, directors, writers and more are in this section. Currently we have reviewed the likes of Robert Siegel to Clifton Colling Jr. If you are interested in getting an interview from us please email: kcoll@fusedfilm.com ">Interviews</a>
 </li>
 	<li class="cat-item cat-item-32"><a href="http://www.fusedfilm.com/category/fused-film-podcast/" title="This is where you can find all the information on Fused Film’s weekly podcasts from the Entertainment Overload Radio network. Shows include Fused Reviews, The Film Bomb, and FusedTV. You can also check out back episodes of The Mixercast and Superhero Complex here.">Podcasts</a>
-<ul class="children">
-	<li class="cat-item cat-item-7103"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/" title="Entertainment Overload Radio is the official podcast network for FusedFilm.com encompassing great podcast shows like The Film Bomb, FusedTV and others. Find a great variety of shows and genres to cover and overload your inner film and entertainment fan. ">Entertainment Overload Radio</a>
-	<ul class="children">
-	<li class="cat-item cat-item-11073"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/animation-fascination/" title="New to Entertainment Overload Radio, the official podcast network of FusedFilm.com, this podcast is dedicated to the world of animation and the films, news, and buzz surrounding that form of films. ">Animation Fascination</a>
-</li>
-	<li class="cat-item cat-item-11072"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/fused-reviews/" title="Get detailed analysis and reviews of the latest movies in Hollywood in this new podcast from FusedFilm.com's Entertainment Overload Radio, home of the Film Bomb, Fused TV and Animation Fascination. ">Fused Reviews</a>
-</li>
-	<li class="cat-item cat-item-10557"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/film-bomb-podcast/" title="Welcome to the Film Bomb podcast, where the core of FusedFilm.com is explored, the movies. All the film reviews, movie news and other movie related topics you can think of are on this podcast. Its an overload that causes a Film Bomb. Hosted by Justin Vactor, Kevin Coll, William Goodman and the occasional guest. ">The Film Bomb Podcast</a>
-</li>
-	<li class="cat-item cat-item-10558"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/fused-tv-podcast/" title="You got a movie podcast but you can't be FusedFilm.com without a TV podcast to cover all the musings of the small screen world. FusedFilm.com presents Fused TV from Entertainment Overload Radio, the official podcast network for the site. Featuring Screenrant.com's Anthony Ocasio along with FusedFilm's own Kevin Coll, this podcast gets down and gritty with all the small screen news and other TV musings. Listen each week. ">The Fused TV Podcast</a>
-</li>
-	<li class="cat-item cat-item-7098"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/the-mixercast/" title="Welcome to EO Radio’s return of The Mixercast podcast, where FusedFilm.com opens up the mics with an hour of free talk on any entertainment related subject. Smart, intelligent and enamoring hosts Kevin Coll and Karen Divorty have too much to talk about and never shut up. As always, Entertainment Overload Radio is the official podcast network for FusedFilm.com, where you can hear the latest in all forms of film, TV, Entertainment talk, check out our other shows like The Film Bomb, TV Overload, Superhero Complex, Sci-Fi Meltdown and others. Get interactive with us each week by tweeting us your comments on our show episodes. We will read them on the next episode of the show and respond to you. You can also leave comments on our Facebook page as well both links are in the show notes.">The MixerCast</a>
-</li>
-	<li class="cat-item cat-item-10556"><a href="http://www.fusedfilm.com/category/fused-film-podcast/entertainment-overload-fused-film-podcast/super-hero-complex-podcast/" title="The Superhero Complex Cast is a new podcast part of Entertainment Radio, the official podcast network from FusedFilm.com. Hosted by Kevin Coll and Justin Vactor and the occasional Corey Anderson, this podcast is dedicated to the musing and collection of superhero films that have hit, will hit, etc. Marvel, DC, Original concepts this is comic to screen podcast you should be listening too for best commentary on everything superhero. Get a complex of super proportions on the Superhero Complex Cast from FusedFilm.com">The Superhero Complex Cast</a>
-</li>
-	</ul>
-</li>
-</ul>
 </li>
 	<li class="cat-item cat-item-803"><a href="http://www.fusedfilm.com/category/reviews/" title="View all posts filed under Reviews">Reviews</a>
 <ul class="children">
-	<li class="cat-item cat-item-3913"><a href="http://www.fusedfilm.com/category/reviews/video-review/" title="Afterthoughts is the video review series from FusedFilm.com where we video blog about various movies right after seeing them in the theater. All the afterthoughts you have for a movie is captured here. ">Afterthoughts</a>
-</li>
-	<li class="cat-item cat-item-6299"><a href="http://www.fusedfilm.com/category/reviews/blu-ray-reviews/" title="View all posts filed under Blu-ray Reviews">Blu-ray Reviews</a>
-	<ul class="children">
-	<li class="cat-item cat-item-619"><a href="http://www.fusedfilm.com/category/reviews/blu-ray-reviews/fused-dvd-reviews/" title="View all posts filed under DVD Reviews">DVD Reviews</a>
-</li>
-	</ul>
+	<li class="cat-item cat-item-619"><a href="http://www.fusedfilm.com/category/reviews/fused-dvd-reviews/" title="View all posts filed under DVD Reviews">DVD Reviews</a>
 </li>
 	<li class="cat-item cat-item-33"><a href="http://www.fusedfilm.com/category/reviews/fused-film-review/" title="View all posts filed under Movie Reviews">Movie Reviews</a>
-</li>
-	<li class="cat-item cat-item-7348"><a href="http://www.fusedfilm.com/category/reviews/script-reviews/" title="View all posts filed under Script Reviews">Script Reviews</a>
 </li>
 </ul>
 </li>
 	<li class="cat-item cat-item-8589"><a href="http://www.fusedfilm.com/category/coverage/" title="All the events we attend like Comic-Con, Sundance, Toronto Film Festival and much more. Find all our coverage and news from these great events. ">Special Coverage</a>
 <ul class="children">
 	<li class="cat-item cat-item-11153"><a href="http://www.fusedfilm.com/category/coverage/all-san-diego-comic-con-coverage/" title="All current and past coverage from SDCC, the world's largest geekfest in San Diego every July. ">All San Diego Comic Con Coverage</a>
-	<ul class="children">
-	<li class="cat-item cat-item-9717"><a href="http://www.fusedfilm.com/category/coverage/all-san-diego-comic-con-coverage/2010-san-diego-comic-con/" title="All 2010 coverage from San Diego Comic Con">2010 San Diego Comic-Con</a>
-</li>
-	<li class="cat-item cat-item-11316"><a href="http://www.fusedfilm.com/category/coverage/all-san-diego-comic-con-coverage/2011-san-diego-comic-con/" title="View all posts filed under 2011 San Diego Comic-Con">2011 San Diego Comic-Con</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-11154"><a href="http://www.fusedfilm.com/category/coverage/all-toronto-film-festival-coverage/" title="All current and past coverage from the Toronto Film Festival ">All Toronto Film Festival Coverage</a>
-	<ul class="children">
-	<li class="cat-item cat-item-10328"><a href="http://www.fusedfilm.com/category/coverage/all-toronto-film-festival-coverage/2010-toronto-film-festival/" title="Karen Divorty's 2010 Toronto Film Festival Coverage, exclusive for FusedFilm.com, she compiles all the latest buzz and reviews coming from the festival. ">2010 TIFF Report</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-11191"><a href="http://www.fusedfilm.com/category/coverage/hot-docs-2011/" title="View all posts filed under Hot Docs 2011">Hot Docs 2011</a>
-</li>
-	<li class="cat-item cat-item-11155"><a href="http://www.fusedfilm.com/category/coverage/regional-film-festivals/" title="Film Festivals Always Emerge Across the Country and world we occasionally cover them. Find all the present and past festivals we have covered right here. ">Regional Film Festivals</a>
-	<ul class="children">
-	<li class="cat-item cat-item-9734"><a href="http://www.fusedfilm.com/category/coverage/regional-film-festivals/2010-los-angeles-film-festival-coverage/" title="View all posts filed under 2010 Los Angeles Film Festival">2010 Los Angeles Film Festival</a>
-</li>
-	<li class="cat-item cat-item-9250"><a href="http://www.fusedfilm.com/category/coverage/regional-film-festivals/2010-nashville-film-festival/" title="View all posts filed under 2010 Nashville Film Festival">2010 Nashville Film Festival</a>
-</li>
-	</ul>
-</li>
-	<li class="cat-item cat-item-11144"><a href="http://www.fusedfilm.com/category/coverage/summer-movie-previews/" title="View all posts filed under Summer Movie Previews">Summer Movie Previews</a>
-</li>
-	<li class="cat-item cat-item-11826"><a href="http://www.fusedfilm.com/category/coverage/tiff-2011/" title="View all posts filed under Tiff 2011">Tiff 2011</a>
 </li>
 </ul>
 </li>
@@ -665,9 +464,7 @@ jQuery(document).ready(function($) {
 <li><a href="http://www.playtime-magazine.com/press/">Playtime Magazine</a></li>
 <li><a href="http://www.scene-stealers.com/">Scene-Stealers</a></li>
 <li><a href="http://www.screenrant.com">ScreenRant</a></li>
-<li><a href="http://sloblogs.thetribunenews.com/shelikestowatch/">She Likes to Watch (w/the fabulous Sarah Linn!)</a></li>
 <li><a href="http://soundtrackgeek.com/">SoundTrack Geek</a></li>
-<li><a href="http://www.stalepopcorn.co.uk">Stale Popcorn!</a></li>
 <li><a href="http://www.filmarcade.net">The Film Arcade</a></li>
 <li><a href="http://thefilmstage.com/">The Film Stage</a></li>
 <li><a href="http://www.guardian.co.uk/">The Guardian</a></li>
@@ -695,7 +492,7 @@ jQuery(document).ready(function($) {
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
 (function(){var u="dmd.ind.fusedfilm/ros/1/atf/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=6136823680601586?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=6343518196188016?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=atf;tile=1;dcopt=ist;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript>
 <!-- End IndieClick Ad Tag -->
 
 				
@@ -729,7 +526,7 @@ document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=' + ord + '?" type="text/javascript"><\/script>');
 (function(){var u="dmd.ind.fusedfilm/ros/2/atf/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=6136823680601586?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=6343518196188016?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=atf;tile=2;dcopt=ist;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript>
 <!-- End IndieClick Ad Tag -->
 					
 							</div>
@@ -783,19 +580,19 @@ new TWTR.Widget({
 if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
 document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
 (function(){var u="dmd.ind.fusedfilm/ros/3/btf/160x600/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=6136823680601586?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=6343518196188016?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.ind.fusedfilm/;loc=btf;tile=3;dcopt=ist;sz=160x600;ord=123456789?" width="160" height="600" border="0" alt=""></a></noscript>
 <!-- End IndieClick Ad Tag -->
  </li>
 <li id="wp-likes" class="widget wp_likes_sidebar"><h2 class="widgettitle">Top Liked Posts</h2>
-<div class="wp_likes_widget"><ul><li><a href="http://www.fusedfilm.com/2010/12/stargate-universe-cancelled-season-2-will-end-franchise-run-on-network/"><em>Stargate Universe</em> Cancelled! Season 2 Will End Franchise Run on Network</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 56"><span>56</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 252"><span>252</span></div></li><li><a href="http://www.fusedfilm.com/2009/04/cool-50-old-school-pin-ups-with-modern-day-actresses-and-models/500full-kate-mara/">Kate Mara Really Hot</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 24"><span>24</span></div></li><li><a href="http://www.fusedfilm.com/2010/12/dexter-season-5-finale-what-lies-ahead-for-season-6/">'Dexter' Season 5 Finale &amp; What Lies Ahead For Season 6</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 17"><span>17</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 22"><span>22</span></div></li><li><a href="http://www.fusedfilm.com/2010/09/tv-review-smallville-season-10-premiere-lazarus/">TV Review: <em>Smallville</em> Season 10 Premiere "Lazarus"</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 15"><span>15</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 10"><span>10</span></div></li><li><a href="http://www.fusedfilm.com/2010/10/browse-our-hi-rez-image-gallery-for-the-walking-dead-over-80-photos/">Browse Our Hi-Rez Image Gallery for <em>The Walking Dead</em> Over 80 Photos!</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 13"><span>13</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 10"><span>10</span></div></li></ul></div>Powered by <a href="http://wordpress.org/extend/plugins/wp-likes/" target="_blank">WP Likes</a></li>
+<div class="wp_likes_widget"><ul><li><a href="http://www.fusedfilm.com/2010/12/stargate-universe-cancelled-season-2-will-end-franchise-run-on-network/"><em>Stargate Universe</em> Cancelled! Season 2 Will End Franchise Run on Network</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 57"><span>57</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 253"><span>253</span></div></li><li><a href="http://www.fusedfilm.com/2009/04/cool-50-old-school-pin-ups-with-modern-day-actresses-and-models/500full-kate-mara/">Kate Mara Really Hot</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 24"><span>24</span></div></li><li><a href="http://www.fusedfilm.com/2010/12/dexter-season-5-finale-what-lies-ahead-for-season-6/">'Dexter' Season 5 Finale &amp; What Lies Ahead For Season 6</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 17"><span>17</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 22"><span>22</span></div></li><li><a href="http://www.fusedfilm.com/2010/09/tv-review-smallville-season-10-premiere-lazarus/">TV Review: <em>Smallville</em> Season 10 Premiere "Lazarus"</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 15"><span>15</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 10"><span>10</span></div></li><li><a href="http://www.fusedfilm.com/2010/10/browse-our-hi-rez-image-gallery-for-the-walking-dead-over-80-photos/">Browse Our Hi-Rez Image Gallery for <em>The Walking Dead</em> Over 80 Photos!</a><div><img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/like.gif" alt="" title="liked by 14"><span>14</span>&nbsp;&nbsp;<img src="http://www.fusedfilm.com/wp-content/plugins/wp-likes/images/comments.png" alt="" title="commented by 10"><span>10</span></div></li></ul></div>Powered by <a href="http://wordpress.org/extend/plugins/wp-likes/" target="_blank">WP Likes</a></li>
 <li id="text-481803755" class="widget widget_text"><h2 class="widgettitle">Special Features</h2>
-			<div class="textwidget"><a class="feature shorts" href="/category/features/short-films-features/"><img class="aligncenter size-full wp-image-16206" title="Shorts Worth Watching" src="/wp-content/themes/FF1/images/specials-shortsworthwatching.png" alt="" width="280"></a>
+			<div class="textwidget"><a class="feature shorts" href="/category/features/"><img class="aligncenter size-full wp-image-16206" title="Shorts Worth Watching" src="/wp-content/themes/FF1/images/specials-shortsworthwatching.png" alt="" width="280"></a>
 
 <a class="feature trailerwatch" href="/category/fused-film-trailer-of-the-week/"><img class="aligncenter size-full wp-image-16206" title="Trailer Watch" src="/wp-content/themes/FF1/images/specials-trailerwatch.png" alt="" width="280"></a>
 
-<a class="feature showmustgoon" href="/category/the-show-must-go-on/"><img class="aligncenter size-full wp-image-16206" title="The Show Must Go On" src="/wp-content/themes/FF1/images/specials-showmustgoon.png" alt="" width="280"></a>
+<a class="feature showmustgoon" href="/category/features/"><img class="aligncenter size-full wp-image-16206" title="The Show Must Go On" src="/wp-content/themes/FF1/images/specials-showmustgoon.png" alt="" width="280"></a>
 
-<a class="feature castingcouch" href="/category/news/the-casting-couch/"><img class="size-full wp-image-14858 alignnone" title="Casting Couch" src="/wp-content/themes/FF1/images/specials-castingcouch.png" alt="" width="280"></a></div>
+<a class="feature castingcouch" href="/category/movie-news"><img class="size-full wp-image-14858 alignnone" title="Casting Couch" src="/wp-content/themes/FF1/images/specials-castingcouch.png" alt="" width="280"></a></div>
 		</li>
 <li id="text-481803756" class="widget widget_text"><h2 class="widgettitle">About This Blog</h2>
 			<div class="textwidget"><a style="cursor: pointer;" href="http://www.fusedfilm.com/wp-content/uploads/2008/05/Fused-Film-Avatar-1.png"><img class="alignleft size-medium wp-image-9587" title="fused_film_avatar-11" src="http://www.fusedfilm.com/wp-content/uploads/2008/05/Fused-Film-Avatar-1-200x200.png" alt="" height="71" width="71"></a>
@@ -881,6 +678,6 @@ var pollsL10n = {"ajax_url":"http:\/\/www.fusedfilm.com\/wp-content\/plugins\/wp
 	<!-- End Quantcast tag -->
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-<!-- Dynamic page generated in 0.601 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2011-12-31 01:33:11 -->
+<!-- Dynamic page generated in 0.549 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2012-03-01 00:17:47 -->
 <!-- super cache --></body></html>
