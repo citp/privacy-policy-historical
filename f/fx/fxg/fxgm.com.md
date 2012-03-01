@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxgm.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525025355id_/http%3A//www.fxgm.com//PDF/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxgm.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301121433id_/http%3A//www.fxgm.eu//PDF/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
