@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5ny.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140057id_/http%3A//www.myfoxny.com/dpp/About_Us/Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5ny.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301202356id_/http%3A//www.myfoxny.com/dpp/About_Us/Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
