@@ -1,29 +1,78 @@
-> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509042748id_/http%3A//www.wrdsb.on.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrdsb.ca privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301082638id_/http%3A//www.wrdsb.ca/privacy) for the most accurate reproduction.*
 
-# Waterloo Region District School Board - Welcome to Kindergarten
+# WRDSB - Privacy | Waterloo Region District School Board
 
-**Privacy Policy Statement**
+  * Privacy Policy for Waterloo Region District School Board Websites 
+  * Use of Personal Information
 
-This Privacy Policy applies to our online practices only. 
 
-The following policy applies to the **wrdsb.on.ca** site. 
 
-The WRDSB is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors (e.g., parents, teachers, and students) with an overview of the measures we have taken to provide a safe environment for everyone. 
+### 
 
-**Use of IP Addresses**  
-We collect IP addresses to obtain aggregate information on the use of **wrdsb.on.ca**. An IP address is a number assigned to your computer by a Web server when you're on the Web. When you are on our site, we have a back-end server that logs your computer's IP address. We only use the information we find out from tracking IP addresses in the aggregate, such as how many users entered a specific area of our site, and not to track a specific IP address to identify an individual user. However, we may use such information to identify a user if we feel that there are or may be safety and/or security issues or to comply with legal requirements. 
+* * *
 
-**Security**  
-WRDSB ensures that all personally and non-personally identifiable information that it receives via the internet is secure against unauthorized access. This information is kept in a safe and secure system isolated from direct connection to the internet. This means that no eyes but ours will ever see the information that our visitors send to us, unless we indicate otherwise. 
+Privacy Policy Statement
 
-**Why are we so safe?**  
-**wrdsb.on.ca** uses secure server software over a Secure Socket Layer (SSL) line to protect your credit card information. It encrypts all of your personal and credit card information so that this information cannot be read as it travels to our ordering system, and once it is received, it is stored in a location not accessible via the Internet. 
+We are committed to providing our visitors with a website that respects their privacy. This page summarizes the privacy policy and practices of the Waterloo Region District School Board websites.
 
-**Links to other sites**  
-Visitors will find links from **wrdsb.on.ca** to independently owned, controlled and/or managed World Wide Web or Internet sites whose content we have found or possible interest to our visitors. In many cases, but not always, the links represent cooperative projects or mutual links established with the organizations connected with these sites. While we initially visit these sites to which we directly link, please note that we do not monitor or control the content that appears on these sites and such content may be constantly changing. We recommend that children check with their parents or teachers before clicking off to any new sites, and we encourage all end users of **wrdsb.on.ca** to read the privacy policies of all linked sites before navigating through them. 
+**How We Manage Your Personal Information**  
 
-Please note that we may revise our policy as the content on our sites continues to change. 
+We do not automatically gather any personal information from you, such as your name, phone number, e-mail or address. This information is only obtained if you supply it voluntarily, usually through contacting us via e-mail, subscribing to our newsfeeds or registering in a secure portion of the site.
 
-We hope that you enjoy exploring our sites. 
+If you choose to provide us with personal information—as in an e-mail or by filling out a form with your personal information and submitting it through our website—we use that information to respond to your message and to help us get you the information or service you have requested. We treat e-mails the same way we treat letters sent to the Waterloo Region District School Board. We only share the information you give us with another school board department if your inquiry relates to that department. Moreover, we do not create individual profiles with the information you provide nor do we give it to any private organizations. The Waterloo Region District School Board does not collect information for commercial marketing. Further, we keep the information only for the length of time necessary to fulfill the purpose for which it was collected, or one year, whichever is shorter.
 
-**wrdsb.on.ca** is owned and operated by the Waterloo Region District School Board., 51 Ardelt Ave Kitchener Ontario N2C 2R5. We can be reached by phone at 1-519-570-0003. If you have any questions about our privacy policy or practices, or you wish to amend, update, or verify information on file, or to notify us that you want your information deleted from our files, contact us at this address. 
+Any personal information you do provide is managed according to the _Municipal Freedom of Information and Protection of Privacy Act_ and/or the _Education Act_. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected and that you have a right of access to the information.
+
+**What We Record Automatically**  
+
+When you access a Waterloo Region District School Board website, our servers automatically record information that your browser routinely sends whenever you visit a website. These “server logs” may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and/or one or more Cookies (a “Cookie” is a small file stored on your computer that contains a unique personal identification code) that may uniquely identify your browser. The Waterloo Region District School Board may use this information to monitor network traffic, for statistical purposes or to identify unauthorized access attempts.
+
+**We Will Not Attempt to Identify You Personally**  
+
+We will not identify specific users or their browsing activities, except as required by Ontario or Canadian law or if we are compelled to produce this information for a legal proceeding. However, our website does use Cookies to speed navigation, keep track of information, and provide you with custom-tailored content. We also use Cookies to remember information you gave us so you don’t have to re-enter it each time you visit the website. Most browsers are initially set to accept Cookies. If you prefer, you can set your browser to refuse Cookies.
+
+**We Cannot Guarantee the Content of Other Sites**  
+
+Our websites may contain links to other sites. We are not responsible for the content and the privacy practices of other websites and encourage you to examine each site’s privacy policy and make your own decisions regarding the accuracy, reliability and correctness of material and information found.
+
+**How to Contact Us For More Information About This Policy**  
+
+If at any time you have questions about our privacy policy, please contact the Freedom of Information, Privacy and Records Information Management Officer:
+
+**By e-mail:** [lorie_hough@wrdsb.on.ca](mailto:lorie_hough@wrdsb.on.ca)  
+ **By telephone** : (519) 570-0003, ext. 4409  
+ **By mail:** 51 Ardelt Avenue, Kitchener, Ontario   N2C 2R5  
+ **By fax:** (519) 742-1364
+
+* * *
+
+### **Use of Personal Information**
+
+The Waterloo Region District School Board has developed several areas of focus to assist with defining school board direction. Some of those areas of focus include:
+
+  * safe and secure learning environments
+  * health and wellness of students and staff
+  * caring and supportive school cultures and communities
+  * communications with students, parents, community members and staff
+  * quality information for planning, decision-making, and accountability
+  * operational effectiveness and efficiency.
+
+
+
+
+To that end, the Waterloo Region District School Board believes in the following principles relating to the use of personal information:
+
+  * the Board has an obligation to protect and appropriately use the personal information over which it has care and control;
+  * all staff need to be trained in the protection of confidential information;
+  * our policies need to be clear and well-defined so individuals can have confidence that the Board is using their information in an appropriate manner;
+  * the accuracy of data is important to the integrity and on-going confidence in our systems;
+  * information is not used, disclosed, retained or discarded in a way that contravenes existing provincial or federal law;
+  * if an error is made regarding the use of personal information the appropriate corrective action is taken and staff are given the opportunity to learn from the experience;
+  * the proper tools and infrastructure be created and maintained that facilitates the protection of personal information;
+  * as part of our ongoing commitment, a strong culture of privacy awareness is developed and embedded in our organizational culture.
+
+
+
+Questions regarding the use of personal information by the Waterloo Region District School Board should be directed to the Freedom of Information, Privacy and Records Information Management Officer at (519) 570-0003, ext. 4409.
+
+Updated January 2012.
