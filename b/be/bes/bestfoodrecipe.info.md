@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfoodrecipe.info privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210225018id_/http%3A//bestfoodrecipe.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfoodrecipe.info privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301230444id_/http%3A//bestfoodrecipe.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Food Recipe
 
