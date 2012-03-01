@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportpost.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113151523id_/http%3A//www.sportpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportpost.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301205037id_/http%3A//www.sportpost.com/privacy) for the most accurate reproduction.*
 
 # Sportpost
 
