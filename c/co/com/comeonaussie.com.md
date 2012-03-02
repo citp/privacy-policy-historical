@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/privacy.html) for the most accurate reproduction.*
 
 # Come On Aussie Internet - Privacy Statement
 
@@ -9,17 +9,17 @@ Internet Services
 
 • [Domain Names](http://domains.comeonaussie.net.au/)
 
-• [Web Hosting](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/web_hosting.html)
+• [Web Hosting](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/web_hosting.html)
 
 • [Web Design](http://www.ozsmallbiz.net/hosting/special1.html)
 
-• [Web Site Promotion](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/web_site_promotion.html)
+• [Web Site Promotion](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/web_site_promotion.html)
 
-• [Support](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/support.html)
+• [Support](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/support.html)
 
-• [Contact](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/contact.html)
+• [Contact](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/contact.html)
 
-• [Privacy](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/privacy.html)
+• [Privacy](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/privacy.html)
 
 |  **Explore A Little Part of _OUR_ Web**  
 ---  
@@ -50,7 +50,7 @@ If you subscribe to any of our services which require submission of your email a
 
 All our email subscriptions go through a **double opt-in process** which confirms you are the actual person requesting the provision of the service. We record all the details including the date/time and IP address associated with that subscription in the event of any complaints.
 
-If you no longer require your subscription, please **use the unsubscribe link included at the bottom of every email** sent to remove yourself from that list, or simply reply to the email requesting you be unsubscribed. Alternatively send your request to us using the address provided on our [contact page](https://web.archive.org/web/20111101155842id_/http%3A//www.comeonaussie.net/contact.html)
+If you no longer require your subscription, please **use the unsubscribe link included at the bottom of every email** sent to remove yourself from that list, or simply reply to the email requesting you be unsubscribed. Alternatively send your request to us using the address provided on our [contact page](https://web.archive.org/web/20120302065047id_/http%3A//www.comeonaussie.net/contact.html)
 
 **Cookies and Web Beacons**
 
