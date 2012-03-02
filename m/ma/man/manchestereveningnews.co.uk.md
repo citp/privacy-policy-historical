@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010358id_/http%3A//menmedia.co.uk/manchestereveningnews/about_us/s/1241122_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchestereveningnews.co.uk privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302071543id_/http%3A//menmedia.co.uk/manchestereveningnews/about_us/s/1241122_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manchester Evening News - menmedia.co.uk
 
