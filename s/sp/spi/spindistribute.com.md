@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spindistribute.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015173851id_/http%3A//www.spindistribute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spindistribute.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303004900id_/http%3A//www.spindistribute.com/privacy-policy) for the most accurate reproduction.*
 
 # Spin Distribute - Privacy Policy - Professional Article Distribution System
 
