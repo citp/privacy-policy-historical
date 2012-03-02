@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalvibe.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208160117id_/http%3A//www.medicalvibe.com/V2/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalvibe.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302072836id_/http%3A//www.medicalvibe.com/V2/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
