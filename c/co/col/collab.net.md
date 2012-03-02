@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000059id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collab.net privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302064745id_/http%3A//www.open.collab.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - CollabNet
 
