@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the newsp1.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125030201id_/http%3A//www.newsp1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsp1.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302234902id_/http%3A//newsp1.kbm.wpcdn.arcostream.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | News P1
+# Privacy | News Page 1
 
-## Privacy
-
-News P1 takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+News Page 1 takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
 **Routine Information Collection**
 
@@ -12,7 +10,7 @@ All web servers track basic information about their visitors. This information i
 
 **Cookies and Web Beacons**
 
-Where necessary, News P1 uses cookies to store information about a visitors preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, News Page 1 uses cookies to store information about a visitors preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
