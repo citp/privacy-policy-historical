@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoaccelerator.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227123808id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoaccelerator.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302132620id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
 
 # SPEEDbit Privacy Policy
 
