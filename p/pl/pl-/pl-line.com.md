@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pl-line.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222113123id_/http%3A//pl-line.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pl-line.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302225721id_/http%3A//pl-line.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy , PL-LINE
 
