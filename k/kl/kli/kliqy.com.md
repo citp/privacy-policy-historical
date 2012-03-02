@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kliqy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101080101id_/http%3A//kliqy.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kliqy.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302031427id_/http%3A//www.kliqy.com/help/privacy) for the most accurate reproduction.*
 
-# Kliqy
+# Kliqy - Privacy Policy
 
 ## Privacy Statement
 
