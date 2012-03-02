@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202113823id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationsrewards.net privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302055621id_/http%3A//www.creationsrewards.net/privacy.asp) for the most accurate reproduction.*
 
 # CreationsRewards.Net - Get cash and gift cards FREE for taking surveys, shopping online, completing offers, plus more!
 
