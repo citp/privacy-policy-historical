@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152808id_/http%3A//www.postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postyouradvert.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302063515id_/http%3A//postyouradvert.com/OtherFiles/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # PostYourAdvert.Com - free classified! free advertising! free ad! free classified ad! free online classified! free online advertising! free online ad! free online classified ad! free internet classified! free internet advertising! free internet ad! free internet classified ad!
 
@@ -6,7 +6,7 @@ This policy tells you about how we use and protect your personal information
 
 ### Scope
 
-This Privacy Policy describes how we handle your personal information for our services on the PostYourAdvert websites. It applies generally to the PostYourAdvert.com website and other related websites where this policy appears in the footer of the page. Some PostYourAdvert-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website.
+This Privacy Policy describes how we handle your personal information for our services on the PostYourAdvert websites. It applies generally to the salesbuddie.com website and other related websites where this policy appears in the footer of the page. Some PostYourAdvert-branded websites or websites we operate may be governed by separate privacy policies. The policy that applies on any of our domains or subdomains is always the policy that appears in the footer of each website.
 
 Our subsidiaries’ and joint ventures’ privacy practices are similar to those described in this Privacy Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global PostYourAdvert trading community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users. 
 
@@ -74,7 +74,7 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 Your User ID is displayed throughout PostYourAdvert and is therefore available to the public. All of your activity on our sites is traceable to your User ID. Other people can see your purchases, items that you have purchased in the past, items for sale, storefronts, feedback, ratings and associated comments, and so on. Notices are sent to other community members regarding suspicious activity and policy violations on our sites and refer to User IDs and specific items. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your PostYourAdvert activities. 
 
-### Using Information from PostYourAdvert.com 
+### Using Information from salesbuddie.com 
 
 PostYourAdvert enables you to share personal and financial information to complete transactions. We encourage you to disclose your privacy practices and respect the privacy of other users. We cannot guarantee the privacy or security of your information and therefore we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information to facilitate your transactions. When users are involved in a transaction, they may have access to each other's name, User ID, email address and other contact and shipping information. In all cases, you must give other users a chance to remove themselves from your database and a chance to review what information you have collected about them.
 
@@ -112,7 +112,7 @@ Your password is the key to your account. Use unique numbers, letters and specia
 
 ### Accessing, Reviewing and Changing Your Personal Information 
 
-You can see, review and change most of your personal information by signing on to PostYourAdvert. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ PostYourAdvert User Agreement](https://web.archive.org/web/20111101152808id_/http%3A//www.postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
+You can see, review and change most of your personal information by signing on to PostYourAdvert. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [ PostYourAdvert User Agreement](https://web.archive.org/web/20120302063515id_/http%3A//postyouradvert.com/OtherFiles/UserAgreement.htm), and take other actions otherwise permitted by law.
 
 ### Security 
 
@@ -120,7 +120,7 @@ Your information is stored on our servers. We treat data as an asset that must b
 
 ### Third Parties
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are purchasers, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. PostYourAdvert.com does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are purchasers, buyers or sellers on our sites or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. salesbuddie.com does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
 
 ### General 
 
