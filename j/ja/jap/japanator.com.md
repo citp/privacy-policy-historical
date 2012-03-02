@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanator.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012704id_/http%3A//www.japanator.com/elephant/post.phtml%3Fpk%3D10439) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanator.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302063152id_/http%3A//www.japanator.com/elephant/post.phtml%3Fpk%3D10439) for the most accurate reproduction.*
 
 # About Japanator | Japanator.com: anime news, original features, and weird stories from Japan, updated daily!
 
