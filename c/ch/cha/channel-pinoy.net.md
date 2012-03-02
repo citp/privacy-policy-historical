@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel-pinoy.net privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016153818id_/http%3A//www.channel-pinoy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel-pinoy.net privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302190415id_/http%3A//www.filipino-channel.net/privacy-policy) for the most accurate reproduction.*
 
 # Pinoy Channel TV - Privacy Policy
 
