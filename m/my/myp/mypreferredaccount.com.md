@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypreferredaccount.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028112722id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypreferredaccount.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303101335id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
 
 # Bill Me Later
 
