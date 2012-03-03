@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geartaker.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225210515id_/http%3A//www.geartaker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geartaker.com privacy policy that was archived on 2012-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120303191941id_/http%3A//www.geartaker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
                 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -9,6 +9,7 @@
                 <meta name="keywords" content="Geartaker, Geartaker.com, China Wholesale Electronics Accessories, China Wholesale Products Store, Computer accessories, Networking, Electronic, Video Games, Cell Phone Accessories, Apple Accessories, LED Flashlights, Toys, Watches, Home, Tablet PCs">
                                 <link type="image/x-icon" rel="shortcut icon" href="/images/favicon.ico">
                 <link href="/css/all.css" rel="stylesheet" type="text/css">
+                <link href="/css/fb.css" rel="stylesheet" type="text/css">
                 <meta name="google-site-verification" content="5hnsF699DJOkvQqjo-nQnBeJhV6NJ-E0q2GyPeR32rM">
                 <meta name="google-site-verification" content="6z-GIfEJEfXGfbaVY_SxcwZWNekjUyBKtDijd2d4fb8">
                 <meta property="fb:page_id" content="167735126591349">
@@ -16,6 +17,18 @@
                 <script type="text/javascript" src="/js/soChange.js"></script>
                 <script type="text/javascript" src="/js/jscroll.js"></script>
                 <script type="text/javascript" src="/js/global.js"></script>
+                <!-- GA E-Commerce Script -->
+                <script type="text/javascript">
+                    var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-19793925-1']);
+                    _gaq.push(['_trackPageview']);
+                    
+                    (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+                </script>
         </head>
         <body>
                 <div id="wrapper">
@@ -48,15 +61,23 @@
                                 <div class="quickMenu">
                                         <script type="text/javascript">
                                                 $(document).ready(function(){
-                                                        $.post('/customer/ajax_login',{},
-                                                        function(user){
+                                                        var page = document.URL;
+                                                        $.post('/customer/ajax_login',{
+                                                                page: page
+                                                        },
+                                                        function(re){
                                                                 var userDiv;
-                                                                if(user == null){
-                                                                        userDiv = '<a href="/customer/register" rel="nofollow" class="declare">Register</a> or <a href="/customer/login" rel="nofollow" class="declare">sign in</a>&nbsp;|&nbsp;<a href="/helpcenter" rel="nofollow">Help</a>&nbsp;|&nbsp;';
-                                                                }
-                                                                else
+                                                                if(re.flag == 'fblogin')
                                                                 {
-                                                                        userDiv = 'Welcome, '+user.firstname+' '+user.lastname+'! | <a href="/customer/summary" rel="nofollow">My Account</a>&nbsp;|&nbsp;<a href="/helpcenter" rel="nofollow">Help</a>&nbsp;|&nbsp;<a class="declare" href="/customer/logout" rel="nofollow">Sign Out</a>&nbsp;|&nbsp;';
+                                                                        userDiv = '<a href="/customer/register" rel="nofollow" class="declare">Register</a> or <a href="/customer/login" rel="nofollow" class="declare">sign in</a>&nbsp;&nbsp;<a class="fb_button fb_button_small" href="'+re.value+'"><span class="fb_button_text">Log In</span></a>&nbsp;|&nbsp;<a href="/helpcenter" rel="nofollow">Help</a>';  
+                                                                }
+                                                                if(re.flag == 'default')
+                                                                {
+                                                                        userDiv = '<a href="/customer/register" rel="nofollow" class="declare">Register</a> or <a href="/customer/login" rel="nofollow" class="declare">sign in</a>&nbsp;|&nbsp;<a href="/helpcenter" rel="nofollow">Help</a>'; 
+                                                                }
+                                                                if(re.flag == 'user')
+                                                                {
+                                                                        userDiv = 'Welcome, '+re.value.firstname+' '+re.value.lastname+'! | <a href="/customer/summary" rel="nofollow">My Account</a>&nbsp;|&nbsp;<a href="/helpcenter" rel="nofollow">Help</a>&nbsp;|&nbsp;<a class="declare" href="/customer/logout" rel="nofollow">Sign Out</a>&nbsp;|&nbsp;';
                                                                 }
                                                                 $('#loginUser').html(userDiv);
                                                         },
@@ -65,19 +86,12 @@
                                         </script>
                                         <div id="loginUser"></div>
                                 </div>
-                                <div class="sns">
-                                        <a target="_blank" href="https://www.facebook.com/geartakershopping" class="fb" rel="nofollow">fackbook</a>
-                                        <a target="_blank" href="https://twitter.com/Geartaker" class="tw" rel="nofollow">twitter</a>
-                                        <a target="_blank" href="https://www.youtube.com/user/YourGearTaker?feature=mhum" class="ytb" rel="nofollow">you tube</a>
-                                        <!-- AddThis Button BEGIN -->
-                                        <a class="addthis_button" href="https://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d75933576bb2b4d"><img src="https://s7.addthis.com/static/btn/sm-share-en.gif" width="70" height="16" alt="Bookmark and Share" style="border:0"></a>
-                                        <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-                                        <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d75933576bb2b4d"></script>
-                                        <!-- AddThis Button END -->
-                                </div>
+                                <div style="position: absolute; top:15px; right: 160px;">
+                                                                                        <b>China Wholesale</b> Online Shop Store
+                                                                        </div>
                                 <div class="nav">
                                         <ul>
-                                                <li class="first"><a href="/" class="home"><img src="/images/home.gif" alt="Home"></a></li>
+                                                <li class="first"><a href="/" rel="nofollow" class="home"><img src="/images/home.gif" alt="Home"></a></li>
                                                 <li><a href="javascript:return false;">All Products</a><div class="secondNav hide">
         <dl>
         <dt><a href="http://www.geartaker.com/computers-networking">Computers&amp;Networking</a></dt>
@@ -118,7 +132,7 @@
         <dt><a href="http://www.geartaker.com/video-games">Video Games</a></dt>
                                 <dd><a href="http://www.geartaker.com/ndsi-ndsl" title="NDSI &amp; NDSL">NDSI &amp; NDSL</a></dd>
                                     <dd><a href="http://www.geartaker.com/wii" title="Wii">Wii</a></dd>
-                                    <dd><a href="http://www.geartaker.com/psp-go" title="PSP Go">PSP Go</a></dd>
+                                    <dd><a href="http://www.geartaker.com/ps-vita-psp-go" title="PS Vita/PSP GO">PS Vita/PSP GO</a></dd>
                                     <dd><a href="http://www.geartaker.com/psp-3000-2000" title="PSP 3000/2000">PSP 3000/2000</a></dd>
                                     <dd><a href="http://www.geartaker.com/play-station-3" title="Play Station 3">Play Station 3</a></dd>
                                     <dd><a href="http://www.geartaker.com/play-station-2" title="Play Station 2">Play Station 2</a></dd>
@@ -178,8 +192,8 @@
                                                 <li><a href="/top-sellers" rel="nofollow">Top Sellers</a></li>
                                                 <li><a href="/new-arrivals" rel="nofollow">New Arrivals</a></li>
                                                 <li><a href="/dropshipping" rel="nofollow">Dropshipping</a></li>
-                                                <li><a href="/affiliate" rel="nofollow">Affiliate</a></li>
-                                                <li><a href="/forum">Forums</a></li>
+                                                <li><a href="/site/wholesales" rel="nofollow">Wholesales</a></li>
+                                                <li><a href="/forum" rel="nofollow">Forums</a></li>
                                                 <li class="last"><a href="/contact-us" rel="nofollow">Contact Us</a></li>
                                         </ul>
                                 </div>
@@ -235,9 +249,21 @@
                                         </div>
                                 </div>
                                 <!--<div id="feedback"><a href="#" class="feed">&nbsp;</a></div>-->
-                                <!-- BEGIN ProvideSupport.com Text Chat Link Code -->
-                                <div id="cibjv9" style="z-index:100;position:absolute"></div><div id="scbjv9" style="display:inline"></div><div id="sdbjv9" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/geartaker/safe-textlink.js?ps_h=bjv9&amp;ps_t=1580499967698&amp;online-link-html=%3Cdiv%20id%3D%22feedback%22%3E%3Cspan%20class%3D%22feed%22%3E%3C/span%3E%3C/div%3E&amp;offline-link-html=%3Cdiv%20id%3D%22feedbackoff%22%3E%3Cspan%20class%3D%22feed%22%3E%3C/span%3E%3C/div%3E"></script></div><script type="text/javascript">var sebjv9=document.createElement("script");sebjv9.type="text/javascript";var sebjv9s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/geartaker/safe-textlink.js?ps_h=bjv9&ps_t="+new Date().getTime()+"&online-link-html=%3Cdiv%20id%3D%22feedback%22%3E%3Cspan%20class%3D%22feed%22%3E%3C/span%3E%3C/div%3E&offline-link-html=%3Cdiv%20id%3D%22feedbackoff%22%3E%3Cspan%20class%3D%22feed%22%3E%3C/span%3E%3C/div%3E";setTimeout("sebjv9.src=sebjv9s;document.getElementById('sdbjv9').appendChild(sebjv9)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=geartaker">Live Help</a></div></noscript>
-                                <!-- END ProvideSupport.com Text Chat Link Code -->
+                                <div id="feedback">
+                                        <span class="feed">
+                                                <ul>
+                                                        <li class="feedback_top"></li>
+                                                        <li class="feedback_mid">
+                                                                <!-- BEGIN ProvideSupport.com Text Chat Link Code -->
+                                                                <div id="ciIUVO" style="z-index:100;position:absolute"></div><div id="scIUVO" style="display:inline"></div><div id="sdIUVO" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/geartaker/safe-textlink.js?ps_h=IUVO&amp;ps_t=1580499973175&amp;online-link-html=%3Cstrong%20class%3D%22online%22%3E%3C/strong%3E&amp;offline-link-html=%3Cstrong%20class%3D%22offline%22%3E%3C/strong%3E"></script></div><script type="text/javascript">var seIUVO=document.createElement("script");seIUVO.type="text/javascript";var seIUVOs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/geartaker/safe-textlink.js?ps_h=IUVO&ps_t="+new Date().getTime()+"&online-link-html=%3Cstrong%20class%3D%22online%22%3E%3C/strong%3E&offline-link-html=%3Cstrong%20class%3D%22offline%22%3E%3C/strong%3E";setTimeout("seIUVO.src=seIUVOs;document.getElementById('sdIUVO').appendChild(seIUVO)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=geartaker">Live Help</a></div></noscript>
+                                                                <!-- END ProvideSupport.com Text Chat Link Code -->
+                                                        </li>
+                                                        <li class="feedback_bot">
+                                                                <a href="http://ticket.geartaker.com/?site=www.geartaker.com" rel="nofollow" target="_blank" style="display: block; width: 100%; height: 100%; background: none;"></a>
+                                                        </li>
+                                                </ul>
+                                        </span>
+                                </div>
                                 <div id="backup" class="hide"><a href="#" class="back">&nbsp;</a></div>
                         </div>
 <div id="container">
@@ -457,22 +483,26 @@ In the unlikely event that you should experience any difficulties whilst using t
                 <li><a href="/terms" rel="nofollow">Terms &amp; Conditions </a></li>
                 <li><a href="/about-us" rel="nofollow">About Us</a></li>
                 <li><a href="/contact-us" rel="nofollow">Contact Us</a></li>
-                <li><a href="/blog" rel="nofollow" target="_blank">Our Blog</a></li>
+                <!--<li><a href="/blog"  rel="nofollow" target="_blank">Our Blog</a></li>-->
                 <li><a href="/links" rel="nofollow" target="_blank">Links</a></li>
+                <li><a href="/sitemap" target="_blank">Sitemap</a></li>
+<!--                <li><a href="/reviews" target="_blank">Product Reviews</a></li>-->
             </ul>
         </div>
     </div>
+    <div><b>China Wholesale Online Store</b><br>Geartaker.com offer <a href="/" rel="nofollow"><b>China wholesale</b></a>, China wholesale electronics, China wholesale products with worldwide free shipping. Geartaker.com is a professional and reliable online shopping store, we try every possible channel to find high-qualified products in electronics, video games accessories, toys and more others at lower china wholesale prices. We’ll strive our best efforts to process your every single purchase; each step is strictly authorized with special person. We feel 100% happy to work with our online partners. 
+Contact and discover whatever help you need. </div>
     <div class="copyRight">
         <div class="cards">
             <table border="0" cellpadding="1" cellspacing="1" style="display:inline;padding: 6px 0;"><tbody><tr><td align="center"><script src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=x4irdziUhJra4gUB1c2daqnRpDGMPV&amp;style=normal&amp;size=105x54&amp;language=en"></script><noscript><a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=x4irdziUhJra4gUB1c2daqnRpDGMPV&style=normal&size=105x54&language=en" target="hATW"><img src="https://sealserver.trustkeeper.net/compliance/seal.php?code=x4irdziUhJra4gUB1c2daqnRpDGMPV&style=normal&size=105x54&language=en" border="0" alt="Trusted Commerce"/></a></noscript></td></tr></tbody></table>
             <span style="float: left;padding: 10px 4px;"><!-- START SCANALERT CODE -->
 <a target="_blank" name="mcafee" href="https://www.mcafeesecure.com/RatingVerify?ref=www.geartaker.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.geartaker.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- END SCANALERT CODE --></span><img src="/images/p-line.gif" alt="">
-<!--<img src="/images/card04.gif" alt="" /><img src="/images/card03.gif" alt="" />--><img src="/images/card02.jpg" alt=""><img src="/images/gccheckout.jpg" alt="">
+<!--<img src="/images/card04.gif" alt="" /><img src="/images/card03.gif" alt="" />--><img src="/images/card02.jpg" alt=""><!--<img src="/images/gccheckout.jpg" alt="" />-->
 <!-- Begin Official PayPal Seal --><!--<a href="https://www.paypal.com/us/verified/pal=gt201101%40yahoo%2ecom" target="_blank"><img src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" width="70" height="70" alt="Official PayPal Seal"></A>--><!-- End Official PayPal Seal -->
 <!--<img src="https://www.paypal.com/en_US/i/bnr/bnr_wePrefer_150x40.gif" style="margin:10px 0 0 5px;" border="0" alt="Additional Options" />--></div>
         <div class="bottomLogo"><a href="/"><img src="/images/bottomlogo.gif" alt="Geartaker.com"></a></div>
-        <div class="allRights">Copyright © 2011 Geartaker.com. <br> All Rights Reserved.</div>
+        <div class="allRights">Copyright © 2012 Geartaker.com. <br> All Rights Reserved.</div>
     </div>
 </div>
 <div id="filter" class="filter"></div>
@@ -516,20 +546,6 @@ if(referrer && !referrer.startsWith('http://' + domain) && !referrer.startsWith(
 
 </script>
 </div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19793925-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 <!-- statking.net-->
 <script language="javascript">
  var _PCSHost = (("https:" == document.location.protocol) ? "https://www." : "http://www.");
@@ -548,15 +564,15 @@ if(referrer && !referrer.startsWith('http://' + domain) && !referrer.startsWith(
 </script>
 <!-- Piwik --> 
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://69.164.209.100/0/" : "http://69.164.209.100/0/");
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.geartaker.com/piwik/" : "http://www.geartaker.com/piwik/");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://69.164.209.100/0/piwik.js" type="text/javascript"></script><script type="text/javascript">
+</script><script src="https://www.geartaker.com/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
 try {
 var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
 piwikTracker.trackPageView();
 piwikTracker.enableLinkTracking();
 } catch( err ) {}
-</script><noscript><p><img src="http://69.164.209.100/0/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</script><noscript><p><img src="https://www.geartaker.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
 <!-- End Piwik Tracking Code -->
 
 
