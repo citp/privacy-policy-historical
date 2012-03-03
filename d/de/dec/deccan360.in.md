@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deccan360.in privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145229id_/http%3A//www.deccan360.in/Footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccan360.in privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303080416id_/http%3A//deccan360.in/Footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Footer
 
-Deccan 360 is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Web site “[www.deccan360.in](https://web.archive.org/web/20111102145229id_/http%3A//www.deccan360.in/index.html)” .
+Deccan 360 is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Web site “[www.deccan360.in](https://web.archive.org/web/20120303080416id_/http%3A//deccan360.in/index.html)” .
 
 In general, You can visit this site without telling Us who You are or revealing any information about Yourself. Our web servers collect the domain names, not the e-mail addresses of visitors.
 
