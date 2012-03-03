@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217044833id_/http%3A//www.skyword.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303104759id_/http%3A//www.skyword.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
