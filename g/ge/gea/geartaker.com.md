@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geartaker.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225210515id_/http%3A//www.geartaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geartaker.com privacy policy that was archived on 2012-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120303191941id_/http%3A//www.geartaker.com/privacy) for the most accurate reproduction.*
 
 # Security & Privacy - Geartaker.com
 
