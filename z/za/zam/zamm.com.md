@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125083501id_/http%3A//www.zamm.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304174857id_/http%3A//www.zamm.com/company/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Zamm.com | My Movies
 
-This On-Line Privacy Policy includes details about the type of information we may collect as a result of your use of this website and the potential scope of our use of such collected information. You acknowledge and agree that ZAMM.com and/or its affiliated companies may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. 
+This On-Line Privacy Policy includes details about the type of information we may collect as a result of your use of this website and the potential scope of our use of such collected information. You acknowledge and agree that ZAMM.com and/or its affiliated companies may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Information We Collect
 
