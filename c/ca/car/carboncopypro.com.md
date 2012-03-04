@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120133910id_/http%3A//www.proelite.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304224233id_/http%3A//www.proelite.co/privacy-policy) for the most accurate reproduction.*
 
-# PRO Elite » Privacy Policy
+# PRO U
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
