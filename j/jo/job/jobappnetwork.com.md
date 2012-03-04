@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018235949id_/http%3A//jobappnetwork.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobappnetwork.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304123854id_/http%3A//www.jobappnetwork.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Automated Hourly and Salaried Hiring Solution – JobApp Network
 
