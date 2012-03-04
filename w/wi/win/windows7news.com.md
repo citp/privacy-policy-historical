@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105004214id_/http%3A//www.windows7news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304212143id_/http%3A//www.windows7news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,6 @@ We use third-party advertising companies to serve ads when you visit our website
 Windows 7 News is suitable for all ages, but not knowingly collect personal information from children under 13 years old.
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website.
+
+  
+
