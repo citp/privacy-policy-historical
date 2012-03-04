@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612150754id_/http%3A//menufy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304140549id_/http%3A//menufy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | menufy
+# Privacy Policy | Menufy
 
 ### What information do we collect?
 
@@ -49,7 +49,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 ### Children’s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### Online Privacy Policy Only
 
