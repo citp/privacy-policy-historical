@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112354id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304175319id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Work.com
 
@@ -76,4 +76,4 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us at [customerservice@business.com](mailto:customerservice@business.com) if you have any questions about the Company's Privacy Policy or the information practices of the Site.
 
-© 2011 Business.com, Inc.
+© 2012 Business.com, Inc.
