@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diggstars.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102210940id_/http%3A//www.diggstars.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diggstars.com privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304123144id_/http%3A//www.diggstars.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # DiggStars Terms and Conditions
 
