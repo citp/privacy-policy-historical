@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cafe18.in privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104020514id_/http%3A//cafe18.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafe18.in privacy policy that was archived on 2012-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120304144540id_/http%3A//cafe18.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollywood Gossip – Hollywood and Bollywood Masala
+# Privacy Policy
 
 You can find  the latest Changes in Our [Privacy Policy Here. Click here to read our Latest privacy policy.](http://iluvdesi.com/topic1889.html)
 
@@ -25,7 +25,7 @@ A copy of this is pasted Bellow. We strongly recommend you to visit above link t
 > In details
 > 
 >   1. What does iLuvDesi Privacy Policy Covers?  
->  All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in iLuvDesi-Forums discussion you must complete a registration form. As part of registration form, we require your email address. 
+>  All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in iLuvDesi-Forums discussion you must complete a registration form. As part of registration form, we require your email address.
 > 
 > Profile Information  
 >  iLuvDesi allow other users to browse your full name, IM URL, and few other details within your member profile should you provide this optional information.
