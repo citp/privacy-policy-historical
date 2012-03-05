@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084412id_/http%3A//www.auctionexport.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305014117id_/http%3A//www.auctionexport.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,7 +7,7 @@
 
 ### PRIVACY POLICY
 
-AuctionExport.com recognizes the importance of protecting the privacy of all information provided by users of our website. We created the following policy guidelines with a fundamental respect for our users' right to privacy. By using [www.auctionexport.com](https://web.archive.org/web/20111202084412id_/http%3A//www.auctionexport.com/www.auctionexport.com) , please carefully read that you are agreeing to all the terms and conditions of our privacy policy. 
+AuctionExport.com recognizes the importance of protecting the privacy of all information provided by users of our website. We created the following policy guidelines with a fundamental respect for our users' right to privacy. By using [www.auctionexport.com](https://web.archive.org/web/20120305014117id_/http%3A//www.auctionexport.com/www.auctionexport.com) , please carefully read that you are agreeing to all the terms and conditions of our privacy policy. 
 
 **Collection of Information**   
 Our website AuctionExport.com will request that you provide personal information, such as a residential address, an email address and a phone number information when you registering to create an account with us. Auction Export collects information about users during registration, vehicle purchasing and rarely anywhere else. Our policy is to only collect personal information that you knowingly and specifically provide to us. As you browse the site, Auction Export collects information about your visit, not about you personally. Via web server logs and browser cookie files, we monitor statistics such as: 
