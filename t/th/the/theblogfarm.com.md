@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011204858id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfarm.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305091500id_/http%3A//www.theblogfarm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « The Blog Farm – A Growing Blog Community
+# Privacy Policy | The Blog Farm - A Growing Blog Community
 
 _What information does theblogfarm.com collect?_  theblogfarm.com collects the ip and browser information from you when you register to post or comment on our site. When registering, you will also be asked to enter your name and e-mail address which is kept for security purpose.
 
@@ -12,8 +12,8 @@ _Third party links:_  Occasionally, at our discretion theblogfarm.com may inclu
 
 _Online Privacy Policy Only:_  This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-_Terms and Conditions:_  Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at: [Privacy Policy](https://web.archive.org/privacy-policy/)
+_Terms and Conditions:_  Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at: [Privacy Policy](http://www.theblogfarm.com/privacy-policy/)
 
-_Your Consent:_  By using our site you consent to our [online privacy policy](https://web.archive.org/privacy-policy/).
+_Your Consent:_  By using our site you consent to our [online privacy policy](http://www.theblogfarm.com/privacy-policy/).
 
 _Changes to our Privacy Policy:  _If theblogfarm.com decides to change privacy policy, theblogfarm.com will post those changes on this page.
