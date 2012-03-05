@@ -1,56 +1,176 @@
-> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219125326id_/http%3A//www.postrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305155246id_/http%3A//www.google.com/intl/en/privacy) for the most accurate reproduction.*
 
-# PostRank
+# Privacy Policy – Policies & Principles
 
-## Privacy Policy
+Last modified: March 1, 2012 ([view archived versions](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/archive/)) 
 
-PostRank Inc. ("PostRank" or "we" or "us") is committed to protecting the privacy of the personally identifiable information ("Personal Information" further described below) that we collect from you. This privacy policy ("Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and anonymous information ("Anonymous Information" further described below) you submit to us.
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-PostRank may collect Personal Information on certain areas of the site when you register, request information or a response, sign up for events, apply for jobs, and participate in user posting areas, such as bulletin boards, discussion forums, and surveys. The information collected may include, without limitation, your access ID/password, company, and contact information such as name, mailing address, e-mail address, and phone/ fax numbers.
+Our Privacy Policy explains: 
 
-Through use of our website, software, services, etc. (hereafter collectively referred to as the "Site") or by submitting any information to us, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy and PostRank's Terms of Service located at http://www.PostRank.com/terms.html.
-
-### Personal Information
-
-PostRank uses your Personal Information to for the following purposes: to fulfill your requests for information, to respond to comments you post on the Site, to improve our community and Site and to better tailor the features, performance and support of the Site and to offer you additional information, opportunities and functionality. PostRank may also use Personal Information to measure and assess interest in specific items posted on our Site and provided by our service. The e-mail addresses provided at registration allow PostRank to send e-mails to you if the need arises. If you do not wish to receive emails or other communications from us, please let us know. PostRank may use Personal Information collected from cookies and IP addresses as described below. PostRank may also provide your Personal Information to any of its affiliates worldwide for such purposes, however, we will NOT collect information or obtain consent through deceptive means.
-
-We may create Anonymous Information records (which do not permit the identification of individual persons) from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze usage patterns so that we may enhance our Site and services. We reserve the right to use and disclose Anonymous Information to third parties in our discretion. 
-
-If we delete your account at your request, we will delete all Personal Information from the account, but we retain the right to maintain non-personally identifiable information about the account (e.g. date created, date terminated, feeds, etc.). Also, if we terminate your account as allowed under the Terms of Service, we may choose to maintain all data collected from your use of the Site, including Personal Information.
-
-### Cookies and IP Addresses
-
-We will limit the amount and the type of Personal Information we collect however, we may use cookies to identify you and your interests and to track usage of the site. Cookies are small pieces of information stored on your computer that help us know which browser you are using and where you have been on the Site and on websites to which you may link in order to use some of our features. Cookies also let us know whether you have registered with us and otherwise enable us to relate your current usage of the Site to prior usage of this or other sites of PostRank or its affiliates. By accepting our cookie, you will be conveniently permitted access to certain pages of the Site without having to log in each time you visit. A user who refuses cookies from the Site may not be able to access certain areas of the Site. PostRank also logs IP addresses, or the location of computers on the Internet, to help diagnose problems and to administer our Site.
-
-### Third Party Disclosure
-
-PostRank will not intentionally disclose (and will take commercially reasonable steps to prevent the accidental disclosure of) your Personal Info to third parties (i.e., persons or entities that are not affiliates of PostRank), whether for such third parties' marketing purposes or otherwise, subject to the following exceptions:
-
-  * PostRank may disclose your Personal Information to third parties as required or permitted by the laws, rules, and regulations of any nation, state, or other applicable jurisdiction;
-  * PostRank may disclose your Personal Information to third parties who deliver information from us to you for the purpose of performing such delivery;
-  * PostRank may disclose your Personal Information if, in connection with submitting the information, you consent to such disclosure;
-  * PostRank may disclose your Personal Information in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information you have posted on the Site or otherwise provided to PostRank. If PostRank and/or any of its affiliates merges with or sells substantially all of its assets or a majority of its equity to a third party, information collected by PostRank or such affiliates on their websites may be disclosed to and owned by the merged entity or third party.
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-### Additional Links
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
 
-We may provide links to third-party websites as a service to our users. In addition, some of the content appearing to be on this Site is in fact supplied by third parties, for example, in instances of framing of third-party websites or incorporation through framesets of content supplied by third-party servers. We cannot control and are not responsible for the information collection and privacy practices of such third-party websites, which may differ from those of this Site.
+### Information we collect
 
-### Security Disclaimer
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
 
-PostRank has implemented generally accepted standards of technology and operational security in order to protect Personal Information from loss, misuse, alteration, or destruction. Only authorized PostRank personnel are provided access to Personal Information, and these employees are required to treat this information as confidential. Despite these precautions, PostRank cannot guarantee that unauthorized persons will not obtain access to your Personal Information.
+We collect information in two ways: 
 
-### Transborder Hosting and Information Transfer
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-Personal Information collected on the Site may be transferred from time to time to PostRank locations and hosting facilities located throughout the world. The Site may be viewed and hosted anywhere in the world, including countries (such as the United States) that may not have laws regulating the use and transfer of personally-identifiable data. By using the Site and submitting such information on it, you voluntarily consent to such transborder transfer and hosting of such information.
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
-### Contact Us
+    * **Device information**
 
-We understand privacy is an important issue. If you have any questions or concerns about our Privacy Policy, please contact us at [info@PostRank.com](mailto:info@PostRank.com "Contact PostRank").
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
 
-### Privacy Policy Updates
+    * **Log information**
 
-As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the Terms of Service.
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
-**_This document was last revised January 22, 2010._**
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
+
+When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
+
+    * **Unique application numbers**
+
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+
+    * **Local storage**
+
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
+
+    * **Cookies and anonymous identifiers**
+
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
+
+
+
+
+### How we use information we collect
+
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
+
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
+
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+
+### Transparency and choice
+
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+
+### Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+
+### Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+### Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+### Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+### Application
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+### Enforcement
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20120305155248id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+### Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+### Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+
+
