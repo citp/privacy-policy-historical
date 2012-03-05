@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the funnycargames.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305160413id_/http%3A//www.funnycargames.com/dashboard/home/privacypolicy) for the most accurate reproduction.*
+
+# Funny Car Games
+
+### Website Visitors
+
+Like most website operators, Funny Car Games collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Funny Car Games’s purpose in collecting non-personally identifying information is to better understand how Funny Car Games’s visitors use its website. From time to time, Funny Car Games may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Funny Car Games also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Funny Car Games does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+
+### Gathering of Personally-Identifying Information
+
+Certain visitors to Funny Car Games's websites choose to interact with Funny Car Games in ways that require Funny Car Games to gather personally-identifying information. The amount and type of information that Funny Car Games gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a forum at [funnycargames.com](http://www.funnycargames.com/) to provide a username and email address. Those who engage in transactions with Funny Car Games are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Funny Car Games collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Funny Car Games. Funny Car Games does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. Funny Car Games does not keep a copy of any credit card information once a transaction is complete.
+
+### Aggregated Statistics
+
+Funny Car Games may collect statistics about the behavior of visitors to its websites. For instance, Funny Car Games may monitor the most popular forums on the funnycargames.com site. Funny Car Games may display this information publicly or provide it to others. However, Funny Car Games does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+Funny Car Games discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Funny Car Games's behalf or to provide services available at Funny Car Games's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Funny Car Games's websites, you consent to the transfer of such information to them. Funny Car Games will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Funny Car Games discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Funny Car Games believes in good faith that disclosure is reasonably necessary to protect the property or rights of Funny Car Games, third parties or the public at large. If you are a registered user of an Funny Car Games website and have supplied your email address, Funny Car Games may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Funny Car Games and our products. We primarily use our various product forums to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Funny Car Games takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Funny Car Games uses cookies to help Funny Car Games identify and track visitors, their usage of Funny Car Games website, and their website access preferences. Funny Car Games visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Funny Car Games's websites, with the drawback that certain features of Funny Car Games's websites may not function properly without the aid of cookies.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Funny Car Games and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Funny Car Games may change its Privacy Policy from time to time, and in Funny Car Games's sole discretion. Funny Car Games encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a funnycargames.com account, you should also check your forum's dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
