@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006220427id_/http%3A//waggeneredstrom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waggeneredstrom.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305223935id_/http%3A//www.waggeneredstrom.com/privacy) for the most accurate reproduction.*
 
 # Waggener Edstrom Worldwide
 
@@ -77,11 +77,11 @@ We reserve the right change this Privacy Policy from time to time. If this Priva
 Please contact us with any comments, questions, or suggestions you might have regarding the information practices described in this Privacy Policy. 
 
 You may contact us at:  
-3 Centerpointe Drive, STE 300  
+3 Centerpointe Drive, STE 500  
 Lake Oswego, OR 97035  
 [Privacy@WaggenerEdstrom.com](mailto:Privacy@WaggenerEdstrom.com)  
 1.800.938.8136
 
-Questions, comments, or access requests regarding EU Personal Information also can be directed to the Waggener Edstrom Safe Harbor Privacy Contact at 3 Centerpointe Drive, STE 300, Lake Oswego, OR 97035; telephone 503.443.7000; e-mail- [Privacy@WaggenerEdstrom.com](mailto:Privacy@WaggenerEdstrom.com); or fax 503.443.7989. If you are located in the European Union, and cannot resolve the issue directly with Waggener Edstrom, you may contact the local data protection authority for further information. 
+Questions, comments, or access requests regarding EU Personal Information also can be directed to the Waggener Edstrom Safe Harbor Privacy Contact at 3 Centerpointe Drive, STE 500, Lake Oswego, OR 97035; telephone 503.443.7000; e-mail- [Privacy@WaggenerEdstrom.com](mailto:Privacy@WaggenerEdstrom.com); or fax 503.443.7989. If you are located in the European Union, and cannot resolve the issue directly with Waggener Edstrom, you may contact the local data protection authority for further information. 
 
 Please include your name, address, and/or e-mail address when you contact us. In your correspondence, please indicate with as much detail as possible the location on this Site or otherwise where you provided your Personal Information. 
