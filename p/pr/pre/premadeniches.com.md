@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premadeniches.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126102826id_/http%3A//www.premadeniches.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premadeniches.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305085021id_/http%3A//www.premadeniches.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Premadeniches.com
+# Privacy Policy
 
 This privacy policy explains you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
@@ -25,5 +25,5 @@ We do not share your personally identifiable information to any third party for 
 **Changes to this Policy**  
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
-[**Contact Us**](http://www.premadeniches.com/contact/)  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us via our [feedback form](http://www.premadeniches.com/contact/). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+[**Contact Us**](https://web.archive.org/web/20120305085021id_/http://www.premadeniches.com/contact/)  
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us via our [feedback form](https://web.archive.org/web/20120305085021id_/http://www.premadeniches.com/contact/). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
