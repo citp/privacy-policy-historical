@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mallcom.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030731id_/http%3A//www.mallcom.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallcom.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305220312id_/http%3A//www.mallcom.com/privacy.shtml) for the most accurate reproduction.*
 
 # MALLcom :: 2257
 
