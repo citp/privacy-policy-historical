@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood.ac privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210224255id_/http%3A//www.bollywood.ac/termsofuse-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.ac privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305032240id_/http%3A//www.bollywood.ac/termsofuse-and-privacy.html) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy
 
