@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016184203id_/https%3A//www.patelco.org/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305011823id_/https%3A//www.patelco.org/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Patelco
 
@@ -68,7 +68,7 @@ VII. Our right to change this policy:**
 This policy is effective December 1, 2002. We can change this policy by notifying you in writing. If a new policy will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy goes into effect, and we will disclose means by which you can opt out of disclosure of nonpublic personal information.
 
 **VIII. Opting Out:**  
-If you do not want us to give information about you to third parties who are selling their own products or services, and not to exchange information other than transactions and experiences between Patelco Credit Union and the CUSO, you can opt out at any time by calling 415.442.6200, or by completing the "[Opt-Out](https://web.archive.org/pdf/PCU_optout.pdf)" form* and returning it in person to any [branch ](https://web.archive.org/locations/locations.aspx) or mailing it to us at the address provided on the form. You can also [opt out online](https://pc24.patelco.org/hb/default.asp?N=Privacy) by logging in and clicking on the "Opt Out" button located at the bottom of the page. Once we receive your request, we have a reasonable amount of time to stop the disclosures. 
+If you do not want us to give information about you to third parties who are selling their own products or services, and not to exchange information other than transactions and experiences between Patelco Credit Union and the CUSO, you can opt out at any time by calling 800.358.8228, or by completing the "[Opt-Out](https://web.archive.org/pdf/PCU_optout.pdf)" form* and returning it in person to any [branch ](https://web.archive.org/locations/locations.aspx) or mailing it to us at the address provided on the form. You can also [opt out online](https://pc24.patelco.org/hb/default.asp?N=Privacy) by logging in and clicking on the "Opt Out" button located at the bottom of the page. Once we receive your request, we have a reasonable amount of time to stop the disclosures. 
 
 NOTE: You cannot opt out of the disclosure as described in Section V. 
 
