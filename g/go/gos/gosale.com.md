@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosale.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018194434id_/http%3A//www.gosale.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosale.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306035914id_/http%3A//www.gosale.com/help/privacy.php) for the most accurate reproduction.*
 
 # GoSale.com Privacy Policy
 
