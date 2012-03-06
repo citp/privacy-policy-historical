@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2011-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110831120845id_/http%3A//www.gsbank.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306103806id_/http%3A//gsbank.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
