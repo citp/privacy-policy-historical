@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004231719id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306025134id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Dog Supplies | Dog Beds, Dog Toys | Dog Products | FetchDog
 
