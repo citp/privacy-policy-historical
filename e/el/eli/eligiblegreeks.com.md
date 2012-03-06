@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106020358id_/http%3A//www.eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306172039id_/http%3A//www.eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
 
 # EligibleGreeks.com - Safe Online Dating Site for Greek Men and Women
 
