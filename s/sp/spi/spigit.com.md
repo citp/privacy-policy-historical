@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108123825id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306095827id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Spigit
 
@@ -16,7 +16,7 @@
 
 We may collect information through your use of our Website and in off-line communications, in online forms, during sales interactions, or at other events. Information collected can be:
 
-  * Contact, and payment information, user preferences, event and conference participation information
+  * [Contact](http://www.spigit.com/contact "Contact"), and payment information, user preferences, event and conference participation information
   * Information about your use of the website gathered through cookies, web beacons, and IP Address and other technology.
   * Cookies are identifiers that can be sent from a Web site via your browser to be placed on your computer. You may elect not to accept cookies by changing the designated settings on your Web browser. However, not utilizing cookies may prevent you from using certain functions, or having access to certain Web site areas. 
   * Our Web server recognizes a visitor’s domain name, browser type, operating system, referring domains, entry page, exit page, average time on the Web site and general demographic information. 
