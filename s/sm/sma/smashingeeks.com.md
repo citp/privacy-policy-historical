@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smashingeeks.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229211427id_/http%3A//www.smashingeeks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingeeks.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306080642id_/http%3A//www.smashingeeks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - SmashinGeeks
+
+Privacy Policy
 
 The privacy for our visitors and readers to **SmashinGeeks.com** is very important to us. At **SmashinGeeks.com** ,we recognize that privacy of your personal and additional information(s) is important. Below is the information on what types of personal information we receive and collect when you use visit or read at **SmashinGeeks.com** , and how we defend the info we recieve when you visit **SmashinGeeks.com**. We never share or sell your personal information to third parties.
 
@@ -19,3 +21,7 @@ We do use cookies to store information, such as your personal preferences when y
 #### Advertisement policy
 
 We use third party advertising company to serve advertisements. Some of them like Google Adsense uses the **DART cookie** to serve advertisement based on user interest and previous interaction. Though user can also of DART cookie settings by visiting the [Google Adsense Advertisement Privacy Policy.](http://www.google.com/privacy_ads.html)
+
+### Keywords:
+
+third-party advertising company to serve advertisements
