@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116170432id_/http%3A//fuckgoogle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckgoogle.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307005523id_/http%3A//fuckgoogle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
