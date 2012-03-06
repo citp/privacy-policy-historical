@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power-level.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201191159id_/http%3A//power-level.net/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power-level.net privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306233120id_/http%3A//www.power-level.net/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
