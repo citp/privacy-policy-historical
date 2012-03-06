@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219061401id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306035343id_/http%3A//reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft | Privacy Policy
 
