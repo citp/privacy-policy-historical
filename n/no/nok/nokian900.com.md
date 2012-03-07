@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokian900.com privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930065242id_/http%3A//www.nokian900.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokian900.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307104622id_/http%3A//www.nokian900.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nokia N900 Internet Tablet
 
