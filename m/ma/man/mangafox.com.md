@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangafox.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028232923id_/http%3A//www.mangafox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangafox.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307173220id_/http%3A//www.mangafox.com/privacy.php) for the most accurate reproduction.*
 
 # Manga Fox: Privary Policy
 
@@ -24,7 +24,7 @@ At MangaFox we make reasonable efforts to protect personal information such as p
 
 **Third Parties**
 
-Third Party websites may collect information from users of MangaFox, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Google, Nedstat, and Webalizer.
+Third Party websites may collect information from users of MangaFox, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Website Policy Changes**
 
