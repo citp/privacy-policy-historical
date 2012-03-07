@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417183931id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornflakez.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307042622id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pornflakez
 
