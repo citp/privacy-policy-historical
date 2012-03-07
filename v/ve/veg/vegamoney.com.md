@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vegamoney.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212213323id_/http%3A//vegamoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegamoney.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307030026id_/http%3A//vegamoney.com/privacy-policy) for the most accurate reproduction.*
 
 # RupeePower: Get Cheapest Loan Rates and Insurance Quotes in India
 
 Date Last Revised:  Monday, 18 April 2011
 
-RupeePower.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users. This Privacy & Security Policy explains how we protect personal information provided through our websites such as [www.rupeepower.com](http://www.vegamoney.com/) & our other co-branded sites (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your name, address, phone number or email address.
+RupeePower.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users. This Privacy & Security Policy explains how we protect personal information provided through our websites such as [www.rupeepower.com](http://vegamoney.com/) & our other co-branded sites (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your name, address, phone number or email address.
 
 RupeePower.com applies high privacy and security standards to protect your personal information. We regularly re-evaluate our policies and adapt them as necessary to deal with new challenges.
 
