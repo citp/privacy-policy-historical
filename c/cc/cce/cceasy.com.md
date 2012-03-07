@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cceasy.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227091504id_/http%3A//cceasy.com/CC_PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cceasy.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307015826id_/http%3A//www.cceasy.com/CC_PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # cceasy : Privacy Policy
 
@@ -36,7 +36,7 @@ You may decline cookies, but by doing so, you may not be able to use certain fea
 
 We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4) to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's [Terms of Use](https://web.archive.org/web/20111227091504id_/http%3A//cceasy.com/CC_TermsOfUse.cfm) for you to post any content that requests personally identifiable information.
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's [Terms of Use](https://web.archive.org/web/20120307015826id_/http%3A//www.cceasy.com/CC_TermsOfUse.cfm) for you to post any content that requests personally identifiable information.
 
 **Can I Change My Information?**
 
