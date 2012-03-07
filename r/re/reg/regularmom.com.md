@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regularmom.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102231242id_/http%3A//www.regularmom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regularmom.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307185113id_/http%3A//www.regularmom.com/privacy) for the most accurate reproduction.*
 
-# » Privacy Policy | Regular Mom
+# Privacy Policy | Regular Mom
 
 RegularMom is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in RegularMom’ [[Website Terms of Use](https://web.archive.org/website_terms)], which is incorporated herein by reference). RegularMom created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
