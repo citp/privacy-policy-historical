@@ -1,0 +1,380 @@
+<!--The following is the downloaded HTML source of the freescale.net privacy policy that was archived on 2012-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120307094352id_/http%3A//www.freescale.com/files/abstract/help_page/PRIVACYPRACTICES.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Privacy Practices - Freescale Semiconductor</title>
+<script type="text/javascript" src="/files/abstract/misc/COLLATERALTEMPLATE.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+	var pageTitle="Privacy Practices - Freescale Semiconductor";
+	writeHeader();
+// ]]>
+</script>
+
+<title>Privacy Practices - Freescale Semiconductor</title>
+<link rel="stylesheet" href="/shared/stylesheets/toplevel.css" type="text/css">
+<script language="JavaScript1.2" src="/files/abstract/misc/GLOBALHEADER_TOP_ARRAYS.js" type="text/javascript"></script>
+<script language="JavaScript" src="/parametric_search/javascript/part_number_search.js"></script>
+
+</head>
+<body marginheight="0" marginwidth="0">
+<script>
+function noStar(inputStr) {
+	for (i = 0; i < inputStr.length; i++) {
+		// Check that current character is number.
+		var c = inputStr.charAt(i);
+		if ( c =="*" ) { return false; 
+		}
+	}
+	return true;
+}
+function validateSearchForm(a, url) {
+if (a == 1) { 
+	var input = document.header1.qt2.value; 
+	var alertDisplay=''; 
+	if (input.length < 3) {
+		alertDisplay+='Input must be at least 3 characters long.';
+	}
+	if(!noStar(input)){
+		alertDisplay+='';
+		alertDisplay+='An asterisk is not allowed in the input.'; 
+	}
+	if(alertDisplay!=''){
+		alert(alertDisplay);
+		document.header1.qt2.focus();
+		document.header1.qt2.select();
+		return false;
+	}
+	if(document.header1.qt2.value == 'Contains') {
+		document.header1.PART_NUMBER.value = '';
+		document.header2.PART_NUMBER.value = '';
+	} else {
+		document.header1.PART_NUMBER.value = document.header1.qt2.value;
+		document.header2.PART_NUMBER.value = document.header1.qt2.value;
+	}
+} 
+if (a == 2) { 
+	if(document.header2.qt.value == 'Search') { 
+		document.header2.qt.value =''; 
+	} 
+} 
+return true; 
+} 
+function submit(a,url) {
+if (a==1) {
+	if(document.header.qt.value == 'Search') {
+		document.header.qt.value ='';
+	}
+	document.header.action =url;
+}
+if (a==2) {
+		var input = document.header.qt2.value;
+		var alertDisplay='';
+		if (input.length < 3) {
+			alertDisplay+='Input must be at least 3 characters long.';
+		}
+		if(!noStar(input)){
+			alertDisplay+='';
+			alertDisplay+='An asterisk is not allowed in the input.'; 
+		}
+		if(alertDisplay!=''){
+			alert(alertDisplay);
+			document.header.qt2.focus();
+			document.header.qt2.select();
+			return;
+		}
+	if(document.header.qt2.value == 'Contains') {
+		document.header.PART_NUMBER.value = '';
+	} else {
+		document.header.PART_NUMBER.value = document.header.qt2.value;
+	}
+	document.header.action = url;
+}
+document.header.method = "POST";
+document.header.submit();
+}
+</script>
+<!-- END GLOBAL PRODUCT AND APPLICATION DROP DOWN NAVS -->
+<script language="JavaScript" src="/shared/js/HM_header.js"></script>
+<script language="JavaScript" src="/shoppingcart/scripts/Shoppingcart.js"></script>
+<!-- BEGIN FREESCALE MASTHEAD -->
+<table cellpadding="0" cellspacing="0" border="0" width="750">
+<tbody><tr>
+	<td valign="top" style="width: 150px;"><div style="position: relative;"><div style="position: absolute; top:0px; left:0px;">
+	<a href="/"><img src="/shared/images/logo_angle.gif" alt="Freescale Semiconductor" border="0"></a></div>
+	<div style="position: absolute; top:55px; left:697px;"><img src="/shared/images/header_rangle_new.gif" border="0"></div>
+	</div>&nbsp;</td>
+	<td rowspan="4"><div class="Spacer-10px-wide">&nbsp;</div></td>
+	<td align="right" colspan="2">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td style="width: 140px;" class="header">&nbsp;</td>
+		<td style="width: 130px; height: 8px; text-align: right;" class="header">
+	</td>
+	<td style="width: 100px; height: 64px; text-align: right;" class="header">
+		<div align="right" class="headerText" style="position: relative; top: 8px;"><a href="/webapp/crcl.ccr_register.framework">Register</a>&nbsp;<a href="/webapp/crcl.ccr_register.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>
+		<div align="right" class="headerText" style="position: relative; top: 13px;"><a href="/webapp/ruhp.login.framework">Login</a>&nbsp;<a href="/webapp/ruhp.login.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>
+		<div align="right" class="headerText" style="position: relative; top: 18px;"><a href="/webapp/dtdirect.show_cart.framework">Basket</a>&nbsp;<a href="/webapp/dtdirect.show_cart.framework"><img src="/shared/images/button_blue.gif" border="0" style="position: relative; top: 1px;"></a></div>		</td>
+		<td><div class="Spacer-5px">&nbsp;</div></td>
+		<td class="header" style="width: 295px; text-align: left;" valign="top">
+		<form method="POST" name="header1" action="/webapp/search.part_number_search_query.framework" onsubmit="return validateSearchForm('1','/webapp/search.part_number_search_query.framework');" <div="" style="position: relative;">
+			<div align="right" class="headerText" style="position: absolute; top: 7px; left: 15px; text-align: right; width: 80px;"><a href="/webapp/search.nav_part_number_search.framework">Part Number</a>&nbsp;&nbsp;</div>
+			<div align="right" class="headerText" style="position: absolute; top: 5px; left: 96px;"><input type="text" class="headerInput" name="qt2" id="qt2" value="Contains" onfocus="this.value=''">&nbsp;</div>
+			<div align="right" class="headerText" style="position: absolute; top: 8px; left: 230px;"><input type="image" border="0" name="Go" src="/shared/images/button_blue.gif" alt="Go"></div>
+		
+  			<input type="HIDDEN" name="PART_NUMBER" value="">
+	  		<input type="HIDDEN" name="SEARCH_OPERATOR" value="Contains">
+		</form>
+		<form method="POST" name="header2" action="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html" onsubmit="return validateSearchForm('2','http://search.freescale.com/query.html');" <div="" style="position: relative;">
+			<div align="right" class="headerText" style="position: absolute; top: 32px; left: 15px; text-align: right; width: 80px;"><a href="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html">Keyword</a>&nbsp;&nbsp;</div>
+			<div align="right" class="headerText" style="position: absolute; top: 30px; left: 96px;"><input type="text" class="headerInput" name="qt" id="qt" value="Search" onfocus="this.value=''">&nbsp;</div>
+			<div align="right" class="headerText" style="position: absolute; top: 33px; left: 230px;"><input type="image" border="0" name="Go" src="/shared/images/button_blue.gif" alt="Go"></div>
+			<div align="right" class="headerText" style="position: absolute; top: 50px; left: 96px; text-align: left; font-size: 9px;"><a href="https://web.archive.org/web/20050206225801/http://search.freescale.com/query.html?ql=a">Advanced</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/webapp/search.nav_parametric_search.framework">Parametric</a></div>
+		
+  		   <input type="HIDDEN" name="PART_NUMBER" value="">
+	  	   <input type="HIDDEN" name="SEARCH_OPERATOR" value="Contains">
+		</form>
+		</td>
+		<td class="header" valign="bottom" style="padding: 0px; vertical-align: bottom;"></td>
+	</tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="3"><div class="Spacer-5px">&nbsp;</div></td>
+</tr>
+<tr>
+	<td class="gNavBg">&nbsp;&nbsp;&nbsp;<a href="/">&nbsp;Home </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/webapp/sps/site/homepage.jsp?nodeId=0M10Xv6c0C">Contact Us</a></td>
+	<td class="gNavBg">
+	<div class="gNav">
+	<a href="/webapp/sps/library/prod_lib.jsp" onmouseover="showPopUp('HM_Menu12',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu12'); selectsVisibility('visible')">Products </a>
+	<a href="/webapp/sps/site/homepage.jsp?nodeId=02" onmouseover="showPopUp('HM_Menu13',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu13'); selectsVisibility('visible')">Applications</a>
+	<a href="/webapp/sps/site/homepage.jsp?nodeId=0ST" onmouseover="showPopUp('HM_Menu14',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu14'); selectsVisibility('visible')">Technologies</a>
+	<a href="/webapp/sps/site/homepage.jsp?nodeId=05" onmouseover="showPopUp('HM_Menu15',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu15'); selectsVisibility('visible')">Support</a>
+	<a href="/webapp/sps/site/homepage.jsp?nodeId=01098400786959705928692" onmouseover="showPopUp('HM_Menu16',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu16'); selectsVisibility('visible')">Where to Buy </a>
+	<a href="/webapp/sps/site/homepage.jsp?nodeId=06" onmouseover="showPopUp('HM_Menu17',event), selectsVisibility('hidden')" onmouseout="hidePopUp('HM_Menu17'); selectsVisibility('visible')">About Freescale</a>
+	</div>
+	</td>
+	<td class="gNavBg" align="right" style="padding: 0px;"></td>
+</tr>
+<tr>
+	<td colspan="3"><div class="Spacer-5px">&nbsp;</div></td>
+</tr>
+</tbody></table>
+<!-- END FREESCALE MASTHEAD --> 
+
+
+<div id="pgctwrp"><!-- beg page content wrap -->
+	<a name="top"></a>
+	<div id="mncnt" class="iframe"><!-- beg main iframe container -->
+		<div id="bc"><!-- beg breadcrumb -->
+			<ul>
+				<li><a href="/">Freescale</a></li>
+				<li>Privacy Practices</li>
+			</ul>
+		</div><!-- end breadcrumb -->
+		<!-- beg pg title -->
+		<div class="hrw"><hr></div>
+			<h1>Privacy Practices</h1><!-- page title, should match what is in header -->
+		<div class="hrw"><hr></div>
+		<!-- end pg title -->
+		<div class="padMe5"></div>
+		<div class="lc"><!-- beg lt col -->
+			<div class="ccl">
+				<p style="margin-top: 5px;">Freescale recognizes privacy and security as being a concern for most individuals accessing the Internet. Whether you're buying one of our quality products, or just browsing our site, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information.</p>
+				<p><strong>This statement discloses the privacy guidelines for Freescale's Web site. Information submitted solely in a business capacity is not covered by these guidelines.</strong></p>
+				<p>By using our Web site, you consent to the collection and use of your information by Freescale as set forth in the policy currently in effect. If we decide to change our policy, such changes will be posted here on the Web site, so please check back periodically to ensure you have the most current policy.</p>
+				<p><strong>The Freescale Semiconductor Web Site Terms of Use are available at the footer and <a href="/files/abstract/help_page/TERMSOFUSE.html">here</a>.</strong></p>
+				<p>You may find additional information about your personalized Freescale Web experience at <a href="/files/abstract/help_page/PRIVACYPRACTICES.html">My Personalized Freescale.com</a></p>
+			</div>
+			<div class="ccr">
+				<ul class="boxes">
+					<li><a href="#pi">What personally identifiable information does Freescale collect?</a></li>
+					<li><a href="#cookies">Freescale's use of cookies</a></li>
+					<li><a href="#who">Who is collecting the information?</a></li>
+					<li><a href="#how">How is the information used?</a></li>
+					<li><a href="#share">With whom does Freescale share this information?</a></li>
+					<li><a href="#choice">What choices are available to users regarding collection, use and distribution of the information?</a></li>
+					<li><a href="#protect">What security measures does Freescale use to protect information from loss, misuse or alteration?</a></li>
+					<li><a href="#change">How you can correct or change the information Freescale has collected?</a></li>
+					<li><a href="#child">Issues involving your child's privacy</a></li>
+				</ul>
+			</div>
+			<div class="bkflt"></div>
+			<div class="pdtn"></div>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="pi"></a><h2>What personally identifiable information does Freescale collect?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">When you register on the Web site or place an order or request information, Freescale may collect some of the following personally identifiable information: name, title, company, address, e-mail address and phone numbers. In some cases, such as employment applications, Freescale may collect additional information from you, which may include your Social Security number, driver's license number, and date of birth. We do not require this information to obtain access to public information on our Web site, but we may require it if you wish to place an order, receive personalized newsletters and information or set up an account for software downloads or secure applications.</p>
+			<p>In addition to ordering and registration, we may ask you for and collect personal information at other times, including, for example, when you enter a sweepstakes or contest or participate in a promotion or marketing campaign sponsored by Freescale or one of its business partners; when you want to find out about services offered in your area; when you complete surveys or other questionnaires; or when you send an e-mail to Freescale. Wherever Freescale collects personal information, we try to include a link to this Privacy Policy on that page.</p>
+			<p>Our Web server logs collect the domain names of visitors to our Web site. This information is aggregated to measure items such as: the number of visits, average time spent on the Freescale Web site, pages viewed, and purchases made. We use this information to measure the use of our site, to improve the content of our site, and improve individual user's experiences on our site.</p>
+			<p>Freescale may use third parties, such as WebTrends On Demand and Google, to track our Web site. If you wish to learn more about such third parties, please contact Freescale via the links below.</p>
+			
+			
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="cookies"></a><h2>Freescale's use of cookies</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">When you visit our site, our server attaches a small text file to your hard drive - a cookie. Your unique cookie tells us that it's you whenever you re-enter our site, so we can recall where you've previously been on our site, and what, if anything, you have in your shopping cart. Cookies help us deliver a better Web site experience to our users.</p>
+			<p>Generally, we use cookies to:</p>
+			<ol>
+				<li>Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized experience.</li>
+				<li>Determine the effectiveness of our e-commerce relationships. Freescale's e-commerce partners and affiliate programs use cookies to identify the sites from which a user enters our site. Users linking to the site from one of our e-commerce partner or affiliate sites are given a unique cookie. This cookie identifies from which site the user linked to Freescale. This information is used to determine the effectiveness of our relationships and to administrate our affiliate programs. This information may also be used to help target advertisements based on users' interests and behavior.</li>
+				<li>Assist Freescale in tracking what items are in your shopping cart.</li>
+				<li>Track your progress and number of entries in some of our promotions, sweepstakes and contests.</li>
+				<li>Measure traffic patterns, and which areas of the Freescale site you have visited as well as your visiting patterns. This information collected via cookie is sometimes called "clickstream." We use this information to understand how our users navigate our site and to determine common traffic patterns, including where our users originate. We also use this information to make site navigation and product recommendations, and to help redesign our site in order to make your experience on our site more efficient and enjoyable. We may use this information to better personalize the content, banner ads and promotions that you and other users will see. This helps Freescale deliver the content you want in order for you to make better purchasing decisions.
+        <br>For some activities, Freescale and/or our third party affiliates track user clickstreams. For more information about these third parties or to opt out of the clickstream program, please see http://www.coremetrics.com/company/privacy.html#optout or http://www.google.com/privacy_ads.html.</li>
+			</ol>
+			<p>To improve the Web site usability, Freescale also tracks user behavior. To opt out of Freescale tracking program, please use the "Change My History" settings (you will need to first login to access your account settings).</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="who"></a><h2>Who is collecting the information?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">When you are on a Freescale site and are asked for personal information, you are sharing that information with Freescale, its subsidiaries and related companies. Freescale may also contract with third-party companies to perform services for Freescale on its Web site that require these companies to collect personal information (e.g., hosting a Web site sweepstakes, promotion or survey, or selling software downloads). The Freescale Web site may also contain various links to third-party Web sites. These sites may provide additional information, goods, services and/or promotions. These sites are owned and operated independently of Freescale, and have their own separate privacy and data collection practices. Any information you provide to these Web sites will be governed under the terms of their Privacy Policy, if any. Freescale has no responsibility or liability whatsoever for the independent actions or policies of these independent sites, and is not responsible for the content or privacy practices of such sites.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="how"></a><h2>How is my information used?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">Freescale's primary goal in collecting personal information is to facilitate development support functions such as service requests, restricted-access software downloads, and secure application activities. This information may also be used to provide you and others with a customized experience on our site, which includes interactive communications and other services.</p>
+			<p>The Freescale site may also contain optional surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. We use the information you provide to help us design and build better products, to customize your shopping experience, and to provide advice and purchase recommendations. Taking part in any of these segments is always optional.</p>
+			<p>Finally, Freescale does research on our users' demographics, interests and behavior based on the information provided to us by users when they make a purchase, during a promotion, from surveys and from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis so as to prevent identification of personal information relating to any one individual. Freescale may share this aggregated data with other users during their visits to our site and with our business partners.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="share"></a><h2>With whom does Freescale share this information?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">Except as outlined in this policy or on our Web site, Freescale never provides your personal information to third parties without your consent. Freescale shares the information you provide with Freescale subsidiaries and related companies.</p>
+			<p>Freescale may also share your personal information with third-party business partners so that they may provide services to Freescale that are consistent with the terms of this Privacy Policy and this Web site (e.g., database management, sending targeted e-mails, software sales, and conducting sweepstakes and other promotions on behalf of Freescale). Freescale takes great pride in utilizing only reputable business partners. Freescale may also, on occasion, provide personally identifiable information to third-party businesses as part of a specific product, service or promotion.</p>
+			<p>Freescale's Web site may also utilize third-party vendors to provide products and services directly to Freescale consumers. Such relationships are designated with a "Provided by Company" legend or logo, or other similarly worded designation. If you desire to purchase a product or service from such third party, your personal information will be collected by the third-party company, and shared with Freescale. You may review the privacy practices of the third party either by clicking the link on the bottom of the page, or by clicking on the "Provided by Company" logo, which will take you to their Web site. Additionally, when you purchase or download software applications from Freescale or a third party, your personal information is shared with the software developer/licensor in order to register you as a licensed software user, and to permit them to provide you any required support. Although these software developers are encouraged to develop appropriate privacy policies, Freescale cannot be responsible for the privacy practices of such companies. If you are concerned about the Privacy Policy of a certain developer or software company, you may contact them directly or visit their individual Web sites.</p>
+			<p>Freescale shares Web site usage information about visitors to our Web site who have received a targeted promotional campaign with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please visit <a href="http://www.privacychoices.org/" target="_blank">http://www.privacychoices.org/</a>. To opt out of the targeting program, please visit <a href="http://www.privacychoices.org/optout.htm" target="_blank">http://www.privacychoices.org/optout.htm</a>.</p>
+			<p>Freescale may also disclose personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this site's Terms of Use or may be violating Freescale's or others' rights or causing injury to or interference with Freescale's or others' property. Freescale may also disclose or access personal information when we believe in good faith that the law requires it.</p>
+			<p>Freescale may also disclose aggregated user statistics in order to describe our Web site to prospective business partners, advertisers, and other third parties, and for other lawful purposes.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="choice"></a><h2>What choices are available to users regarding collection, use and distribution of the information?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">Freescale or its business partners may, from time to time, send you e-mail or direct mail or contact you by other means regarding products and services. If you do not want to be contacted or receive such information, simply tell us when you give us your personal information, or follow the directions contained in your personal profile to remove your name from our mailing list.</p>
+			<p>On certain types of Freescale promotions, we will ask for your e-mail address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related e-mail. Occasionally these promotion-related e-mail messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests.</p>
+			<p>If you want to be removed from our mailing list, select "Update Your Interests and Subscription Information" in Your Account after logging in. Follow the instructions to opt-out of receiving email.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="protect"></a><h2>What security measures does Freescale use to protect information from loss, misuse or alteration?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">When you place an order or provide personal information, your transactions are encrypted for security. Encryption scrambles the information in your purchase, including your credit card number, so this information can only be viewed by Freescale or its authorized third party agent, Reg.Net.</p>
+			<p>Freescale uses Secure Sockets Layer (SSL) encryption technology, the highest level of security on the Internet. The SSL protocol provides server authentication, data integrity and privacy on the Web. This security measure helps ensure that no impostors, eavesdroppers or vandals get your personal information. SSL not only encrypts your personal and financial information transmitted, including credit card information, but also verifies the identity of the server and that the original message arrives safely at its destination.</p>
+			<p>However, no data transmission over the Internet can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Freescale cannot ensure or warrant the security of any information you transmit to us or from our Web site, and therefore you use our site at your own risk. Once we receive your transmission, we use our best effort to ensure its security on our systems.</p>
+			<p>As a global company, Freescale has international sites and users all over the world. When you give Freescale personal information, that information may be sent electronically to servers outside of the country where you originally entered the information. In addition, that information may be used, stored and processed outside of the country where you entered that information. Whenever Freescale handles personal information, regardless of where this occurs, it takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use and this Privacy Policy.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="change"></a><h2>How you can correct or change the information Freescale has collected?</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">If you would like to review, correct or change any personal information you have provided, or remove your name from our mailing list, after you have logged in, you can update and correct your information under "Account Settings" or you can submit a service request via the Technical Helpline on our Contact Us page.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<a name="child"></a><h2>Issues involving your child's privacy:</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">This site is intended for use by persons over the age of 13. Freescale does not seek to collect information about children under the age of 13. No information should be submitted to or posted on this Web site by users under 13 years of age. If a child under the age of 13 submits personal information to this Web site, we delete the information as soon as we discover it and do not use it for any other purpose. Freescale encourages guardians to take an active role in their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet.</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<h2>Additional Information:</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">Notices to you may be made via either e-mail or regular mail. Freescale may also provide notices of changes to the Terms of Use or other matters by displaying notices or links to notices to you generally on the Site.</p> 
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<!-- Begin Header-->
+			<div class="hrw"><hr></div>
+				<h2>Disclaimer of Warranty:</h2>
+			<div class="hrw"><hr></div>
+			<!-- End Header -->
+			<div class="padMe5"></div>
+			<p class="intro">Questions regarding this policy should be directed to <a href="mailto:webmaster@freescale.com">webmaster@freescale.com</a>. You may also contact us by U.S. mail at:</p>
+			<div class="vcard">
+				<dl class="adr">
+					<dd><a class="fn org url" href="http://www.freescale.com/">Freescale Semiconductor Inc.</a></dd>
+					<dd class="fn">Freescale.com Privacy Administrator</dd>
+					<dd class="street-address">6501 William Cannon Drive West</dd>
+					<dd><span class="locality">Austin</span>, <span class="region">Texas</span> <span class="postal-code">78735</span></dd>
+					<dd class="country-name">U.S.A.</dd>
+				</dl>
+			</div>
+			<p>Date of Policy: March 14, 2009</p>
+			<p><a href="#top" class="returnTop">Return to Top</a></p>
+			<div class="bkflt"></div><!-- break the float -->
+			<div class="pdtn"></div><!-- add 10px pad -->
+		</div><!-- end lt col -->
+		<div class="rc"><!-- beg rt col -->
+			<div class="iu"><!-- beg info unit -->
+				<h1>Regarding Our Privacy Policy</h1>
+				<p><strong>This statement discloses the privacy guidelines for Freescale Semiconductor's Web site. Information submitted solely in a business capacity is not covered by these guidelines.</strong></p>
+			</div><!-- end info unit -->
+			<div class="iu"><!-- beg info unit -->
+				<h1>Technical Support</h1>
+				<ul>
+					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=054670#online_self-help">Online self-help support</a></li>
+					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=054670#online_assisted">Online assisted support</a></li>
+					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=054670#phone-assisted">Phone-assisted support</a></li>
+				</ul>
+			</div><!-- end info unit -->
+			<div class="iu"><!-- beg info unit -->
+				<h1>Other Resources</h1>
+				<ul>
+					<li><a href="/webapp/sps/site/overview.jsp?nodeId=010984007869597059286928187">Buy Direct</a></li>
+					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=0661054829">Freescale Alliance Program</a></li>
+					<li><a href="/webapp/sps/site/homepage.jsp?nodeId=06258A">University Programs</a></li>
+				</ul>
+			</div><!-- end info unit -->
+		</div><!-- end rt col -->
+		<div class="bkflt"></div><!-- break the float -->
+		<div class="pdtn"></div><div class="pdtn"></div><!-- 20px pad to make up for pad subtracted from #pgctwrp -->
+	</div><!-- end main-content iframe -->
+</div><!-- end page-content wrap -->
+<script type="text/javascript">
+// <![CDATA[
+writeFooter();
+// ]]>
+</script><!-- BEG GLOBAL FOOTER -->
+<!-- WebTrends NetIQ Javascript -->
+<script src="/files/abstract/misc/SDC_SMARTSOURCE_TAG.js" language="javascript" type="text/javascript"></script>
+<noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="https://web.archive.org/web/20050206225801/http://statse.webtrendslive.com/dcsna6bpqoifwzzkbkpmprmyf_5x3f/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
+<!-- End WebTrends NetIQ Javascript -->
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td colspan="2"><div class="Spacer-5px">&nbsp;</div></td>
+  </tr>
+  <tr>
+    <td width="577" height="40" class="footerBlue"><div class="footer"><a href="/" class="white_footer">www.freescale.com</a> | <a href="/webapp/sps/site/sitemap.jsp?nodeId=0" class="white_footer">Site Map</a> | <a href="/files/abstract/help_page/TERMSOFUSE.html" class="white_footer">Terms of Use</a> | <a href="/files/abstract/help_page/PRIVACYPRACTICES.html" class="white_footer">Privacy Practices</a> | <br>
+    © Freescale Semiconductor, Inc. 2004-2005. All Rights Reserved</div></td>
+    <td height="40"><img src="/shared/images/footer_wedge.gif" width="68" height="40"></td>
+  </tr>
+</tbody></table>
+<script language="JavaScript1.2" src="/shared/js/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/shared/js/HM_ScriptDOM.js" type="text/javascript"></script>
+<!-- END GLOBAL FOOTER -->
+
+<div id="HM_Menu12" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 220px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 246px;"><div style="position: absolute; top: 0px; width: 220px; height: 246px;"><div id="HM_Item12_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 0px;">32-Bit Embedded Processors</div><div id="HM_Item12_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 19px;">Analog</div><div id="HM_Item12_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 38px;">Application-Specific Standard Products</div><div id="HM_Item12_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 57px;">Digital Signal Processors</div><div id="HM_Item12_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 76px;">Memory</div><div id="HM_Item12_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 95px;">Microcontrollers</div><div id="HM_Item12_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 114px;">Network and Communication Processors</div><div id="HM_Item12_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 133px;">RF and IF</div><div id="HM_Item12_9" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 152px;">SemiCustom</div><div id="HM_Item12_10" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 171px;">Sensors</div><div id="HM_Item12_11" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 190px;">Timing, Interconnect, Access and Datapath</div><div id="HM_Item12_12" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 214px; top: 209px;">Wireless Communications</div><div id="HM_Item12_13" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 214px; top: 228px;">Archives</div></div></div><div id="HM_Menu13" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 113px;"><div style="position: absolute; top: 0px; width: 175px; height: 113px;"><div id="HM_Item13_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Automotive</div><div id="HM_Item13_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Consumer Electronics</div><div id="HM_Item13_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">Industrial Control</div><div id="HM_Item13_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Motor Control</div><div id="HM_Item13_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Networking</div><div id="HM_Item13_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 95px;">Wireless</div></div></div><div id="HM_Menu14" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 132px;"><div style="position: absolute; top: 0px; width: 175px; height: 132px;"><div id="HM_Item14_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Documentation</div><div id="HM_Item14_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Design Tools</div><div id="HM_Item14_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">FAQs</div><div id="HM_Item14_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Reference Designs</div><div id="HM_Item14_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Technical Support</div><div id="HM_Item14_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 95px;">Training</div><div id="HM_Item14_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 114px;">3rd Party Support</div></div></div><div id="HM_Menu15" style="position: absolute; visibility: hidden; left: -500px; top: -2000px; width: 175px; border-width: 0px; border-color: rgb(255, 255, 255); border-style: solid; overflow: hidden; cursor: default; height: 151px;"><div style="position: absolute; top: 0px; width: 175px; height: 151px;"><div id="HM_Item15_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 0px;">Freescale Worldwide</div><div id="HM_Item15_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 19px;">Company Information</div><div id="HM_Item15_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 38px;">Careers</div><div id="HM_Item15_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 57px;">Commitment to the Environment</div><div id="HM_Item15_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 76px;">Community Involvement</div><div id="HM_Item15_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 95px;">Investor Relations</div><div id="HM_Item15_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; border-bottom: 1px solid rgb(255, 255, 255); left: 0px; width: 169px; top: 114px;">Media Center</div><div id="HM_Item15_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(194, 214, 235); color: rgb(0, 0, 0); padding: 3px; font: 8pt Arial, sans-serif; left: 0px; width: 169px; top: 133px;">University Program</div></div></div></body></html>
