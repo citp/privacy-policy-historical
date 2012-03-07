@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pornflakez.com privacy policy that was archived on 2011-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110417183931id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pornflakez.com privacy policy that was archived on 2012-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120307042622id_/http%3A//www.pornflakez.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy - Pornflakez</title>
@@ -27,7 +27,183 @@
     <script type="text/javascript" src="/templates/frontend/orange/js/jquery.livequery.pack.js"></script>
     <script type="text/javascript" src="/templates/frontend/orange/js/jquery.rotator-0.2.js"></script>
     <script type="text/javascript" src="/templates/frontend/orange/js/jquery.avs-0.2.js"></script>
-    <script type="text/javascript" src="/templates/frontend/orange/js/jscroller2-1.5.js"></script></head>
+    <script type="text/javascript" src="/templates/frontend/orange/js/jscroller2-1.5.js"></script>
+<script>
+var puShown = false;
+var PopWidth = 1370;
+var PopHeight = 800;
+var PopFocus = 0;
+var _Top = null;
+
+function GetWindowHeight() {
+var myHeight = 0;
+if( typeof( _Top.window.innerHeight ) == 'number' ) {
+myHeight = _Top.window.innerHeight;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientHeight ) {
+myHeight = _Top.document.documentElement.clientHeight;
+} else if( _Top.document.body && _Top.document.body.clientHeight ) {
+myHeight = _Top.document.body.clientHeight;
+}
+return myHeight;
+}
+
+function GetWindowWidth() {
+var myWidth = 0;
+if( typeof( _Top.window.innerWidth ) == 'number' ) {
+myWidth = _Top.window.innerWidth;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientWidth ) {
+myWidth = _Top.document.documentElement.clientWidth;
+} else if( _Top.document.body && _Top.document.body.clientWidth ) {
+myWidth = _Top.document.body.clientWidth;
+}
+return myWidth;
+}
+
+function GetWindowTop() {
+return (_Top.window.screenTop != undefined) ? _Top.window.screenTop : _Top.window.screenY;
+}
+
+function GetWindowLeft() {
+return (_Top.window.screenLeft != undefined) ? _Top.window.screenLeft : _Top.window.screenX;
+}
+
+function doOpen(url)
+{
+var popURL = "about:blank"
+var popID = "ad_" + Math.floor(89999999*Math.random()+10000000);
+var pxLeft = 0;
+var pxTop = 0;
+pxLeft = (GetWindowLeft() + (GetWindowWidth() / 2) - (PopWidth / 2));
+pxTop = (GetWindowTop() + (GetWindowHeight() / 2) - (PopHeight / 2));
+
+if ( puShown == true )
+{
+return true;
+}
+
+var PopWin=_Top.window.open(popURL,popID,'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,top=' + pxTop + ',left=' + pxLeft + ',width=' + PopWidth + ',height=' + PopHeight);
+
+if (PopWin)
+{
+puShown = true;
+
+if (PopFocus == 0)
+{
+PopWin.blur();
+
+if (navigator.userAgent.toLowerCase().indexOf("applewebkit") > -1)
+{
+_Top.window.blur();
+_Top.window.focus();
+}
+}
+
+PopWin.Init = function(e) {
+
+with (e) {
+
+Params = e.Params;
+Main = function(){
+
+if (typeof window.mozPaintCount != "undefined") {
+var x = window.open("about:blank");
+x.close();
+
+}
+
+var popURL = Params.PopURL;
+
+try { opener.window.focus(); }
+catch (err) { }
+
+window.location = popURL;
+}
+
+Main();
+}
+};
+
+PopWin.Params = {
+PopURL: url
+}
+
+PopWin.Init(PopWin);
+}
+
+return PopWin;
+}
+
+function setCookie(name, value, time)
+{
+var expires = new Date();
+
+expires.setTime( expires.getTime() + time );
+
+document.cookie = name + '=' + value + '; path=/;' + '; expires=' + expires.toGMTString() ;
+}
+
+function getCookie(name) {
+var cookies = document.cookie.toString().split('; ');
+var cookie, c_name, c_value;
+
+for (var n=0; n<cookies.length; n++) {
+cookie  = cookies[n].split('=');
+c_name  = cookie[0];
+c_value = cookie[1];
+
+if ( c_name == name ) {
+return c_value;
+}
+}
+
+return null;
+}
+
+function initPu()
+{
+
+_Top = self;
+
+if (top != self)
+{
+try
+{
+if (top.document.location.toString())
+_Top = top;
+}
+catch(err) { }
+}
+
+if ( document.attachEvent )
+{
+document.attachEvent( 'onclick', checkTarget );
+}
+else if ( document.addEventListener )
+{
+document.addEventListener( 'click', checkTarget, false );
+}
+}
+
+function checkTarget(e)
+{
+if ( !getCookie('popundr') ) {
+var e = e || window.event;
+var win = doOpen('http://arrangementfinders.com/?utm_source=popunder&utm_medium=pornflakez&utm_term=pornflakez&utm_campaign=popunder&utm_content=pornflakez');
+//var win = doOpen('http://track.justhookup.com/?hash=49464ffb');
+
+setCookie('popundr', 1, 24*60*60*1000);
+}
+}
+
+initPu();
+</script>
+
+
+
+
+
+
+</head>
 <body>
 <div id="container">
     <div id="header">
@@ -49,8 +225,8 @@
             </div>
 			<div id="slidetabsmenu">
 			<ul>
-            <li><a href="http://www.ashleymadison.com/promo/profile/housewives/A13534+pornflakez"><span>Married?</span></a></li>
-            <li><a href="http://arrangementseekers.com/?landing=index_escorts&amp;referrer=152&amp;campaign=pornflakez"><span>$Arrangement$</span></a></li>
+            <li><a href="http://www.ashleyrndison.com/A13534+pornflakez"><span>Married?</span></a></li>
+            <li><a href="http://arrangementfinders.com/?utm_source=pornflakez&amp;utm_medium=adult&amp;utm_term=pfsinglemoms&amp;utm_campaign=pornflakez&amp;utm_content=pfsinglemoms"><span>Single Mom$</span></a></li>
        <!--     <li><a href="http://www.premiumhdv.com/?cGlkPTIzOCZzaWQ9MSZjYXQ9MTQmcHJnPTcmdG91cj02NA=="><span>Premium</span></a></li>-->
               
                 <li><a href="/community"><span>Community</span></a></li>
@@ -83,58 +259,86 @@
                 </div>
                 <div id="scroller_container" style="position: relative; overflow: hidden;">
                     <div class="jscroller2_left" style="font-size: 13px; line-height: 15px; white-space: nowrap; margin: 0px; position: absolute; left: -4px; top: 0px; height: 15px;">
-                                            <a class="submenulink" href="/search?search_query=young&amp;search_type=videos">young</a>
-                                            <a class="submenulink" href="/search?search_query=teen&amp;search_type=videos">teen</a>
-                                            <a class="submenulink" href="/search?search_query=masturbation&amp;search_type=videos">masturbation</a>
-                                            <a class="submenulink" href="/search?search_query=fingering&amp;search_type=videos">fingering</a>
-                                            <a class="submenulink" href="/search?search_query=thin&amp;search_type=videos">thin</a>
-                                            <a class="submenulink" href="/search?search_query=tits&amp;search_type=videos">tits</a>
-                                            <a class="submenulink" href="/search?search_query=pussy&amp;search_type=videos">pussy</a>
-                                            <a class="submenulink" href="/search?search_query=Massage&amp;search_type=videos">Massage</a>
-                                            <a class="submenulink" href="/search?search_query=Sleeping&amp;search_type=videos">Sleeping</a>
-                                            <a class="submenulink" href="/search?search_query=Voyeur&amp;search_type=videos">Voyeur</a>
-                                            <a class="submenulink" href="/search?search_query=Bizarre&amp;search_type=videos">Bizarre</a>
-                                            <a class="submenulink" href="/search?search_query=Fetish&amp;search_type=videos">Fetish</a>
-                                            <a class="submenulink" href="/search?search_query=Teen&amp;search_type=videos">Teen</a>
-                                            <a class="submenulink" href="/search?search_query=Blowjob&amp;search_type=videos">Blowjob</a>
-                                            <a class="submenulink" href="/search?search_query=MILF&amp;search_type=videos">MILF</a>
-                                            <a class="submenulink" href="/search?search_query=Babe&amp;search_type=videos">Babe</a>
-                                            <a class="submenulink" href="/search?search_query=Amateur&amp;search_type=videos">Amateur</a>
-                                            <a class="submenulink" href="/search?search_query=Pussy&amp;search_type=videos">Pussy</a>
-                                            <a class="submenulink" href="/search?search_query=Reality&amp;search_type=videos">Reality</a>
-                                            <a class="submenulink" href="/search?search_query=Sexy&amp;search_type=videos">Sexy</a>
-                                            <a class="submenulink" href="/search?search_query=Hardcore&amp;search_type=videos">Hardcore</a>
-                                            <a class="submenulink" href="/search?search_query=Straight&amp;search_type=videos">Straight</a>
-                                            <a class="submenulink" href="/search?search_query=blonde&amp;search_type=videos">blonde</a>
-                                            <a class="submenulink" href="/search?search_query=Cumshot&amp;search_type=videos">Cumshot</a>
-                                            <a class="submenulink" href="/search?search_query=Facial&amp;search_type=videos">Facial</a>
-                                            <a class="submenulink" href="/search?search_query=College&amp;search_type=videos">College</a>
-                                            <a class="submenulink" href="/search?search_query=college&amp;search_type=videos">college</a>
-                                            <a class="submenulink" href="/search?search_query=cumshot&amp;search_type=videos">cumshot</a>
-                                            <a class="submenulink" href="/search?search_query=Bdsm&amp;search_type=videos">Bdsm</a>
-                                            <a class="submenulink" href="/search?search_query=Bondage&amp;search_type=videos">Bondage</a>
-                                            <a class="submenulink" href="/search?search_query=Domination&amp;search_type=videos">Domination</a>
-                                            <a class="submenulink" href="/search?search_query=Party&amp;search_type=videos">Party</a>
-                                            <a class="submenulink" href="/search?search_query=Orgy&amp;search_type=videos">Orgy</a>
-                                            <a class="submenulink" href="/search?search_query=Group&amp;search_type=videos">Group</a>
-                                            <a class="submenulink" href="/search?search_query=Blonde&amp;search_type=videos">Blonde</a>
-                                            <a class="submenulink" href="/search?search_query=brunette&amp;search_type=videos">brunette</a>
-                                            <a class="submenulink" href="/search?search_query=party&amp;search_type=videos">party</a>
-                                            <a class="submenulink" href="/search?search_query=amateur&amp;search_type=videos">amateur</a>
+                                            <a class="submenulink" href="/search?search_query=bukkake&amp;search_type=videos">bukkake</a>
+                                            <a class="submenulink" href="/search?search_query=cumshots&amp;search_type=videos">cumshots</a>
                                             <a class="submenulink" href="/search?search_query=creampie&amp;search_type=videos">creampie</a>
-                                            <a class="submenulink" href="/search?search_query=YoungOld&amp;search_type=videos">YoungOld</a>
-                                            <a class="submenulink" href="/search?search_query=Mature&amp;search_type=videos">Mature</a>
-                                            <a class="submenulink" href="/search?search_query=Anal&amp;search_type=videos">Anal</a>
-                                            <a class="submenulink" href="/search?search_query=Extreme&amp;search_type=videos">Extreme</a>
-                                            <a class="submenulink" href="/search?search_query=extreme&amp;search_type=videos">extreme</a>
+                                            <a class="submenulink" href="/search?search_query=sperm&amp;search_type=videos">sperm</a>
+                                            <a class="submenulink" href="/search?search_query=gaysex&amp;search_type=videos">gaysex</a>
                                             <a class="submenulink" href="/search?search_query=anal&amp;search_type=videos">anal</a>
-                                            <a class="submenulink" href="/search?search_query=Ebony&amp;search_type=videos">Ebony</a>
-                                            <a class="submenulink" href="/search?search_query=Booty&amp;search_type=videos">Booty</a>
-                                            <a class="submenulink" href="/search?search_query=ebony&amp;search_type=videos">ebony</a>
+                                            <a class="submenulink" href="/search?search_query=bareback&amp;search_type=videos">bareback</a>
+                                            <a class="submenulink" href="/search?search_query=hardcore&amp;search_type=videos">hardcore</a>
+                                            <a class="submenulink" href="/search?search_query=studs&amp;search_type=videos">studs</a>
+                                            <a class="submenulink" href="/search?search_query=bottom&amp;search_type=videos">bottom</a>
+                                            <a class="submenulink" href="/search?search_query=dildo&amp;search_type=videos">dildo</a>
+                                            <a class="submenulink" href="/search?search_query=toys&amp;search_type=videos">toys</a>
+                                            <a class="submenulink" href="/search?search_query=masturbation&amp;search_type=videos">masturbation</a>
+                                            <a class="submenulink" href="/search?search_query=orgasm&amp;search_type=videos">orgasm</a>
+                                            <a class="submenulink" href="/search?search_query=webcam&amp;search_type=videos">webcam</a>
+                                            <a class="submenulink" href="/search?search_query=blonde&amp;search_type=videos">blonde</a>
+                                            <a class="submenulink" href="/search?search_query=blond&amp;search_type=videos">blond</a>
+                                            <a class="submenulink" href="/search?search_query=tits&amp;search_type=videos">tits</a>
+                                            <a class="submenulink" href="/search?search_query=boobs&amp;search_type=videos">boobs</a>
+                                            <a class="submenulink" href="/search?search_query=jugs&amp;search_type=videos">jugs</a>
+                                            <a class="submenulink" href="/search?search_query=pussy&amp;search_type=videos">pussy</a>
+                                            <a class="submenulink" href="/search?search_query=squirt&amp;search_type=videos">squirt</a>
+                                            <a class="submenulink" href="/search?search_query=babes&amp;search_type=videos">babes</a>
+                                            <a class="submenulink" href="/search?search_query=camshow&amp;search_type=videos">camshow</a>
+                                            <a class="submenulink" href="/search?search_query=striptease&amp;search_type=videos">striptease</a>
+                                            <a class="submenulink" href="/search?search_query=homemade&amp;search_type=videos">homemade</a>
+                                            <a class="submenulink" href="/search?search_query=vibrator&amp;search_type=videos">vibrator</a>
+                                            <a class="submenulink" href="/search?search_query=climax&amp;search_type=videos">climax</a>
+                                            <a class="submenulink" href="/search?search_query=rawpapi&amp;search_type=videos">rawpapi</a>
+                                            <a class="submenulink" href="/search?search_query=latin&amp;search_type=videos">latin</a>
+                                            <a class="submenulink" href="/search?search_query=latino&amp;search_type=videos">latino</a>
+                                            <a class="submenulink" href="/search?search_query=ethnic&amp;search_type=videos">ethnic</a>
+                                            <a class="submenulink" href="/search?search_query=gaymen&amp;search_type=videos">gaymen</a>
+                                            <a class="submenulink" href="/search?search_query=sexy&amp;search_type=videos">sexy</a>
+                                            <a class="submenulink" href="/search?search_query=analingus&amp;search_type=videos">analingus</a>
+                                            <a class="submenulink" href="/search?search_query=assboy&amp;search_type=videos">assboy</a>
+                                            <a class="submenulink" href="/search?search_query=boys&amp;search_type=videos">boys</a>
+                                            <a class="submenulink" href="/search?search_query=cocks&amp;search_type=videos">cocks</a>
+                                            <a class="submenulink" href="/search?search_query=gaygangsta&amp;search_type=videos">gaygangsta</a>
+                                            <a class="submenulink" href="/search?search_query=black&amp;search_type=videos">black</a>
+                                            <a class="submenulink" href="/search?search_query=analsex&amp;search_type=videos">analsex</a>
+                                            <a class="submenulink" href="/search?search_query=stud&amp;search_type=videos">stud</a>
+                                            <a class="submenulink" href="/search?search_query=dark&amp;search_type=videos">dark</a>
+                                            <a class="submenulink" href="/search?search_query=hunk&amp;search_type=videos">hunk</a>
+                                            <a class="submenulink" href="/search?search_query=cock&amp;search_type=videos">cock</a>
+                                            <a class="submenulink" href="/search?search_query=uncut&amp;search_type=videos">uncut</a>
+                                            <a class="submenulink" href="/search?search_query=doggie&amp;search_type=videos">doggie</a>
+                                            <a class="submenulink" href="/search?search_query=style&amp;search_type=videos">style</a>
                                             <a class="submenulink" href="/search?search_query=blowjob&amp;search_type=videos">blowjob</a>
-                                            <a class="submenulink" href="/search?search_query=http&amp;search_type=videos">http</a>
-                                            <a class="submenulink" href="/search?search_query=xlteeze&amp;search_type=videos">xlteeze</a>
-                                            <a class="submenulink" href="/search?search_query=news1&amp;search_type=videos">news1</a>
+                                            <a class="submenulink" href="/search?search_query=cumshot&amp;search_type=videos">cumshot</a>
+                                            <a class="submenulink" href="/search?search_query=dripping&amp;search_type=videos">dripping</a>
+                                            <a class="submenulink" href="/search?search_query=spunk&amp;search_type=videos">spunk</a>
+                                            <a class="submenulink" href="/search?search_query=gushing&amp;search_type=videos">gushing</a>
+                                            <a class="submenulink" href="/search?search_query=internal&amp;search_type=videos">internal</a>
+                                            <a class="submenulink" href="/search?search_query=cocksucker&amp;search_type=videos">cocksucker</a>
+                                            <a class="submenulink" href="/search?search_query=suck&amp;search_type=videos">suck</a>
+                                            <a class="submenulink" href="/search?search_query=facefuck&amp;search_type=videos">facefuck</a>
+                                            <a class="submenulink" href="/search?search_query=amateur&amp;search_type=videos">amateur</a>
+                                            <a class="submenulink" href="/search?search_query=teen&amp;search_type=videos">teen</a>
+                                            <a class="submenulink" href="/search?search_query=masturbate&amp;search_type=videos">masturbate</a>
+                                            <a class="submenulink" href="/search?search_query=assfuck&amp;search_type=videos">assfuck</a>
+                                            <a class="submenulink" href="/search?search_query=dudes&amp;search_type=videos">dudes</a>
+                                            <a class="submenulink" href="/search?search_query=male&amp;search_type=videos">male</a>
+                                            <a class="submenulink" href="/search?search_query=Very&amp;search_type=videos">Very</a>
+                                            <a class="submenulink" href="/search?search_query=Russian&amp;search_type=videos">Russian</a>
+                                            <a class="submenulink" href="/search?search_query=Blonde&amp;search_type=videos">Blonde</a>
+                                            <a class="submenulink" href="/search?search_query=babe&amp;search_type=videos">babe</a>
+                                            <a class="submenulink" href="/search?search_query=pleasuring&amp;search_type=videos">pleasuring</a>
+                                            <a class="submenulink" href="/search?search_query=herself&amp;search_type=videos">herself</a>
+                                            <a class="submenulink" href="/search?search_query=front&amp;search_type=videos">front</a>
+                                            <a class="submenulink" href="/search?search_query=with&amp;search_type=videos">with</a>
+                                            <a class="submenulink" href="/search?search_query=fingers&amp;search_type=videos">fingers</a>
+                                            <a class="submenulink" href="/search?search_query=moaning&amp;search_type=videos">moaning</a>
+                                            <a class="submenulink" href="/search?search_query=reaches&amp;search_type=videos">reaches</a>
+                                            <a class="submenulink" href="/search?search_query=riding&amp;search_type=videos">riding</a>
+                                            <a class="submenulink" href="/search?search_query=Teen&amp;search_type=videos">Teen</a>
+                                            <a class="submenulink" href="/search?search_query=Ukranian&amp;search_type=videos">Ukranian</a>
+                                            <a class="submenulink" href="/search?search_query=horny&amp;search_type=videos">horny</a>
+                                            <a class="submenulink" href="/search?search_query=cams&amp;search_type=videos">cams</a>
+                                            <a class="submenulink" href="/search?search_query=slim&amp;search_type=videos">slim</a>
                                         </div>
                 </div>
                 <div class="clear"></div>
@@ -149,8 +353,7 @@
             <div class="box" id="advanced_search_container"></div>
         </div>
     </div>
-                  <!-- end of header -->
-<div id="content">
+                  <!-- end of header --><div id="content">
     <div class="box span-100">
          <div class="btitle"><h2>PRIVACY</h2></div>
 	 <div class="bcontent">
@@ -206,7 +409,7 @@ You are entitled to access and correct your Data by doing so directly on the web
         <a href="/static/_2257" rel="nofollow">2257</a> ·                          
         <a href="/static/webmasters" rel="nofollow">Webmasters</a> · 
         <a href="/static/advertise" rel="nofollow">Advertise</a> ·<br>
-	<span class="smallest grey">Rendered in 12.7982, using 3,21 MB memory!</span> 
+	<span class="smallest grey">Rendered in 0.1279, using 3,22 MB memory!</span> 
    
   
     </div>    
