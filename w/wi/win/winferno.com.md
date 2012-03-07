@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221090158id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307164138id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
 
 # Winferno Software's Privacy Policy
 
