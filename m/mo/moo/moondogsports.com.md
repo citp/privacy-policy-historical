@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moondogsports.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008041601id_/http%3A//moondogsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moondogsports.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307060036id_/http%3A//moondogsports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoonDog Sports
 
