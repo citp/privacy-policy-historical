@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020033438id_/http%3A//www.bigmiketrading.com/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307071705id_/http%3A//www.bigmiketrading.com/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Big Mike Trading Forum
 
@@ -20,4 +20,4 @@ Email addresses you entered while registering on the Forum are used to provide y
 
 The password which you use to login to the Forum account is salted and then encrypted before being saved in our database. It's NEVER stored in a plaintext format. This way even we can't see what your password is. And that's why in case you forget your login password, we can't retrieve it for you; we are only able to change it to something else.
 
-By using this site, you are agreeing to the [disclaimers and terms of use](https://web.archive.org/web/20111020033438id_/http%3A//www.bigmiketrading.com/misc.php?do=page&template=disclaimer) as well as our [privacy policy](https://web.archive.org/web/20111020033438id_/http%3A//www.bigmiketrading.com/misc.php?do=page&template=privacy).
+By using this site, you are agreeing to the [disclaimers and terms of use](https://web.archive.org/web/20120307071705id_/http%3A//www.bigmiketrading.com/misc.php?do=page&template=disclaimer) as well as our [privacy policy](https://web.archive.org/web/20120307071705id_/http%3A//www.bigmiketrading.com/misc.php?do=page&template=privacy).
