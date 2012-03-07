@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155246id_/http%3A//www.gflogin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackteenrevenge.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307024308id_/http%3A//gflogin.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
