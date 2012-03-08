@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapex.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # HP Deals, Computer Coupons and Bargains - GotApex? - Privacy Policy
 
@@ -76,17 +76,17 @@ Coupon codes and discounts to top online stores
   
 | Quick Lists  
 ---  
-[List All Stores (One Page)](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantlistall/)  
-[List All Stores (Multiple Pages)](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantlist/1/)  
-[List All Coupons (Multiple Pages)](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-Z.htm)  
-[Expiring Coupons](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/expiring/1/)  
+[List All Stores (One Page)](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantlistall/)  
+[List All Stores (Multiple Pages)](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantlist/1/)  
+[List All Coupons (Multiple Pages)](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-Z.htm)  
+[Expiring Coupons](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/expiring/1/)  
 Stores By Range  
-[Stores 0-9](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-9.htm)  
-[Stores A-F](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/A-F.htm)  
-[Stores G-L](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/G-L.htm)  
-[Stores M-R](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/M-R.htm)  
-[Stores S-Z](https://web.archive.org/web/20111228155130id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/S-Z.htm)  
+[Stores 0-9](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/0-9.htm)  
+[Stores A-F](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/A-F.htm)  
+[Stores G-L](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/G-L.htm)  
+[Stores M-R](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/M-R.htm)  
+[Stores S-Z](https://web.archive.org/web/20120308141400id_/http%3A//www.gotapex.com/coupons/merchantgroup/1/S-Z.htm)  
   
 Advertisement [ ](http://www.dpbolvw.net/click-268435-10383042?sid=1000&afsrc=1) Advertisement [ ](http://www.anrdoezrs.net/click-268435-10463175?sid=1000&afsrc=1)  
   
-All times are GMT -7. The time now is 08:51 AM.
+All times are GMT -7. The time now is 07:14 AM.
