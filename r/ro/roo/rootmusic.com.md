@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229073024id_/http%3A//www.rootmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308091332id_/http%3A//www.rootmusic.com/privacy) for the most accurate reproduction.*
 
 # RootMusic - BandPages on Facebook! | Privacy Statement
 
