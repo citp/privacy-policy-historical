@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tin-nsdl.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104051545id_/https%3A//www.tin-nsdl.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tin-nsdl.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308084808id_/https%3A//www.tin-nsdl.com/privacy-policy.php) for the most accurate reproduction.*
 
 # TIN
 
