@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porned.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007075719id_/http%3A//porned.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porned.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308155048id_/http%3A//porned.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Porned.com - FREE High quality full length Porn!
 
