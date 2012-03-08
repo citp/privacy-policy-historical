@@ -1,81 +1,108 @@
-> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006090142id_/http%3A//www.flowtown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2012-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120308035939id_/http%3A//demandforce.com/privacy.php) for the most accurate reproduction.*
 
-# Flowtown Privacy Policy
+# Creating consumer demand for small business|Demandforce
 
-Flowtown, Inc. (“Flowtown“) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.Flowtown.com website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by Flowtown in connection therewith (collectively, the “Website“), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+### Privacy policy 
 
-## WHAT DOES THIS PRIVACY POLICY COVER?
+Demandforce is a leading provider of automatic email-based customer relationship management solutions for automotive repair facilities and dental practices. Leveraging the industry's best email acquisition and management technology, Demandforce's on-demand solution automates customer communications through strategically timed and targeted emails that increases customer satisfaction and loyalty. Demandforce partners with repair facilities and dental practices to expand relationships with customers and build more profitable businesses.
 
-This Privacy Policy covers Flowtown’s treatment of personally identifiable information ("Personal Information") that Flowtown gathers when you access the Website and when you use Flowtown’s services. This policy does not apply to the practices of companies that Flowtown does not own or control, or to individuals that Flowtown does not employ or manage.
+Demandforce is committed to protecting your privacy rights. This page is a summary of Demandforce's Privacy policy. It is not intended to modify or amend our full privacy policy, which Demandforce encourages you to review.
 
-## WHAT PERSONAL INFORMATION DOES FLOWTOWN COLLECT?
+Demandforce's business is built on establishing trust with both our subscribers and their consumers. That trust is essential to our success. In order to establish trust with our subscribers and their consumers as well as visitors to our corporate website, we intend to communicate openly and directly with each and every Demandforce user whenever possible.
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:
+We treat our users' information as if it were our own personal information.
 
-### Personal Information You Provide to Us:
+Demandforce does not sell, share or rent our users' personally identifiable information unless required by law.
 
-We may receive and store any information you enter on our website or provide to us in any other way. For example, when you register for the Website we ask for information such as your name and email address. Flowtown uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. In addition, we collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations).
+Demandforce does not send any e-mail or other communications without user permission.
 
-### Contact Lists
+Demandforce does not send spam.
 
-To fully utilize the Website, you must import email contact lists (e.g. for your potential customers, etc). Your contact lists are stored on a secure Flowtown server. We do not steal your list, contact your list, market to your list, sell your list, or share it with any other party, unless required to by law or regulation. Your contact list is kept confidential. Only authorized personnel have access (for customer service and abuse-monitoring purposes) to view system accounts and campaigns. We do not hold your lists hostage. They are your property.
+Once Demandforce has established trust with our users, we will protect that trust. We stand committed to its protection by being vigilant and constantly improving our service.
 
-### Cookies
+#### Demandforce is committed to your privacy
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use Website. We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to the Website after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+Demandforce is committed to your right to privacy. As a visitor to our website, a Demandforce subscriber or a customer of a Demandforce subscriber ("consumer"), you have the right to control how you or your customers' personal information is used. We provide this Privacy policy so that anyone visiting or using our website is aware of our information gathering and dissemination practices.
 
-## DATA STORAGE
+#### Summary
 
-We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Website. Although we own the code, databases, and all rights to the Website, you retain all rights to your data.
+The Demandforce Privacy policy affects three groups of users: visitors to our corporate website, Demandforce subscribers and the customers of Demandforce subscribers or consumers. This is a summary of how our privacy policy affects each group of users. For more information, please read the full privacy policy.
 
-## WILL FLOWTOWN SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+##### Consumers
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+As a customer of a Demandforce subscriber, you are receiving valuable and timely communication, including reminders and "Thank You" notes from a company you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please e-mail [privacy@Demandforce.com](mailto:privacy@Demandforce.com). You acknowledge that if you transmit personal health information you waive any right to the privacy of such information.
 
-_Affiliated Businesses We Do Not Control:_ We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Flowtown may provide services jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
+##### Demandforce subscribers
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Flowtown’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Demandforce asks new subscribers to provide their name, business name, address, phone and fax numbers and e-mail address as well as a credit card or bank account number. This information is used for customer service and recurring monthly billing purposes only. In order to use Demandforce's service, we upload consumers' personally identifiable information into our secure servers. The collection of our subscribers' information and consumer information is done solely to provide our services to subscribers in accordance with our Subscriber Agreement and Terms of Use. Demandforce will never sell, share or rent the information collected with any third parties unless required by law.
 
-_Promotional Offers:_ We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to opt-out@flowtown.com
+##### Corporate website visitors
 
-_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Flowtown, or substantially all of its assets were acquired, or in the unlikely event that Flowtown goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Flowtown may continue to use your Personal Information as set forth in this policy.
+Demandforce collects personal information based on requests from visitors to receive further information about our services. Demandforce will never sell, share or rent that information to third parties. If you have questions or concerns regarding this statement, you should contact Demandforce's privacy officer by e-mail at [privacy@Demandforce.com](mailto:privacy@Demandforce.com).
 
-_Protection of Flowtown and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Flowtown, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+#### How Demandforce collects personally identifiable information
 
-_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+Demandforce collects personal information from users at several different points within our website and hosted product. This enables Demandforce to provide users with better information about our services. Providing your information to Demandforce ensures that a visit to our site or hosted service is simple, convenient and productive. Demandforce will NEVER sell, share or rent your information to others in ways that differ from what is disclosed in this statement.
 
-## CONDITIONS OF USE
+##### Corporate website
 
-If you decide to visit the Flowtown websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+On the corporate website, Demandforce collects information about prospective subscribers and other visitors based on their request to receive further information about our services. A visitor to our site will be asked to provide contact information such as name, business name, address, phone and fax numbers and e-mail address. We use this information only to contact the visitor about the services for which they have requested further information.
 
-## THIRD PARTY WEBSITES; APPLICATIONS
+##### Hosted product
 
-Flowtown services may permit you to link to other websites on the Internet, and other websites may contain links to the Websites. These other websites are not under Flowtown control, and such links do not constitute an endorsement by Flowtown of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the Flowtown websites are not covered by this Privacy Policy, and Flowtown is not responsible for the privacy or security practices or the content of such websites.
+Demandforce asks new subscribers to provide their name, business name, address, phone and fax numbers and e-mail address. We call this "Subscriber Information". As a new subscriber, you will also be asked to provide payment information such as a credit card or bank account number, which is used for monthly billing purposes only. As part of Demandforce's service deployment process, we securely upload your customers' personally identifiable information (we call this "Consumer Information") into our secure servers. This process is performed so Demandforce can provide our services to consumers on your behalf. The collection of Subscriber Information and Consumer Information is done solely to provide our services to you in accordance with your Subscriber Agreement and Terms of Use.
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE?
+##### Log files
 
-Your Flowtown account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+As is true of most websites, Demandforce gathers certain information automatically and stores it in log files. This information includes internet protocol (IP) addresses, browser types, page views, referring URL and a date/time stamp.
 
-Flowtown endeavors to protect user information to ensure that user account information is kept private, however, Flowtown cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+##### Cookies
 
-## WHAT CHOICES DO I HAVE?
+A cookie is a small text file containing a unique identification number that is transferred from a web server to the end user's hard disk, enabling the serving party to track the website activities of the user. Demandforce uses cookies to help personalize your experience with our website and to ensure that no unauthorized users can access our subscribers' web pages within our service. We do not issue any cookies which enable third parties to track the activities of end users.
 
-You may request deletion of your Flowtown account by sending an e-mail to help@flowtown.com. Please note that some information may remain in our records after deletion of your account.
+#### How Demandforce protects personally identifiable information
 
-## SIMPLE AND QUICK OPT-OUT
+##### Your personally identifiable information
 
-You can opt out of the Flowtown database at any time. Simply [click here](http://optout.flowtown.com/) and you will be permanently removed from our database.
+Demandforce will not sell, share or rent personally identifiable information, except as may be required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process.
 
-## CHANGES TO THIS PRIVACY POLICY
+##### Consumer information
 
-Flowtown may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+Demandforce will not use Consumer Information for the purposes of directly marketing to, or otherwise communicating directly with those consumers about Demandforce or any third party products or services.
 
-## QUESTIONS OR CONCERNS
+#### How Demandforce may use the information we collect
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at help@flowtown.com. We will make every effort to resolve your concerns.
+Demandforce does collect and aggregate broad demographic information that we may use in different ways:
 
-Effective Date: January 1, 2010
+  * Demandforce may sell or share with our partners and advertisers aggregated demographic information compiled from Subscriber Information and/or Consumer Information. This information will not link aggregate user data with personally identifiable information or otherwise make it available.
+  * Demandforce may use this information to analyze trends, to administer the site, to track user's movements around the site and to gather demographic information about our user base as a whole. This information may also be used for the purpose of monitoring and tracking use of our hosted site in order to improve product delivery to our subscribers.
 
-Flowtown Inc.  
-2601 Mission St. Suite 602  
-San Francisco, CA 94110
+
+
+#### Choice and Opt-Out
+
+Demandforce always provides the ability for users of our website and hosted product to opt-out of having personally identifiable information used as part of our service offering. All e-mails Demandforce sends out on behalf of our subscribers to provide an immediate opt-out mechanism. In addition, any visitor to our site, subscriber to our service or consumer may e-mail us at [privacy@Demandforce.com](mailto:privacy@Demandforce.com) to opt-out of receiving any further correspondence from us.
+
+#### The CAN SPAM act of 2003
+
+The e-mails Demandforce sends on behalf of our subscribers do not constitute spam. Demandforce is in full compliance with the CAN SPAM Act of 2003. 
+
+#### Links to other sites
+
+This website contains links to other sites. Please be aware that Demandforce is not responsible for the privacy practices of other websites. When you leave our site, we encourage you to read the privacy statements of each and every website that you visit to review their use of personally identifiable information. This privacy statement applies solely to information collected at Demandforce's website and its hosted service.
+
+#### Updating personally identifiable information
+
+Subscribers to our service may update their personal information or their customers' personal information at will by logging into their home page on our hosted product site. Our software is configured to synchronize Consumer Information on a regular basis with the related subscriber's consumer database, so any updates, changes or opt-out requests communicated directly to our subscribers by their consumers will be automatically uploaded into our site, keeping our site up-to-date with current and correct Consumer Information.
+
+#### Security
+
+Demandforce takes the highest precautions to protect our subscribers' information. When you submit sensitive information via the corporate website or our hosted product, your information is protected both online and offline using standard security best practices such as firewalls, encryption and intrusion detection. Full backups are performed every week on the entire file system and incremental backups are done daily. Finally, all hosted servers are kept physically secure in world-class data centers.
+
+#### Changes to this privacy policy
+
+Demandforce will update this policy from time to time. A "last revised" date will always be included at the top of the statement. To keep up-to-date with Demandforce's privacy policy, please check this page periodically.
+
+#### Contact information
+
+If you have any questions about this privacy policy or if you feel that Demandforce is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [privacy@Demandforce.com](mailto:privacy@Demandforce.com) or mail us at 22 Fourth Street, 12th Floor, San Francisco, CA 94104.
