@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksurge.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226114647id_/http%3A//www.booksurge.com/info/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksurge.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309021421id_/http%3A//www.booksurge.com/info/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | BookSurge, part of the Amazon group of companies
 
