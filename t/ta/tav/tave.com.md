@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tave.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108221955id_/http%3A//www.tave.com/%3Faction%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tave.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309071757id_/http%3A//www.tave.com/%3Faction%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Photography studio management software by Táve
 
