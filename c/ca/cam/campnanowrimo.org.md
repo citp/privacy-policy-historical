@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campnanowrimo.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100125id_/http%3A//www.campnanowrimo.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campnanowrimo.org privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309143805id_/http%3A//campnanowrimo.org/pages/privacy) for the most accurate reproduction.*
 
 # Camp NaNoWriMo
 
