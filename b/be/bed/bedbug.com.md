@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedbug.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124224233id_/http%3A//www.bedbug.com/Page-Privacy_9.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbug.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309150749id_/http%3A//www.bedbug.com/Page-Privacy_9.aspx) for the most accurate reproduction.*
 
 # Find bed bug products safely at Bedbug.com
 
