@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207155141id_/http%3A//www.red.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309120110id_/http%3A//www.red.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
