@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125954id_/https%3A//www.sharespost.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharespost.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309012204id_/https%3A//www.sharespost.com/pages/privacy) for the most accurate reproduction.*
 
 # SharesPost - The Private Capital Markets Solution
 
@@ -46,7 +46,7 @@ If your Zip Code is requested by us, we only use your Zip Code to improve your e
 
 ## 3\. Changes to your Registration Information
 
-If your registration information changes during your subscription to SharesPost, you may update the email address and Zip code by emailing us at [security@SharesPost](mailto:security@SharesPost) and providing us with your new information.
+If your registration information changes during your subscription to SharesPost, you may update the email address and Zip code by emailing us at [compliance@sharespost.com](mailto:compliance@sharespost.com) and providing us with your new information.
 
 ## 4\. Registration Information and Third Parties
 
@@ -134,9 +134,9 @@ You must log out each time you have finished accessing your SharesPost account.
 
 Authentication is the process you go through on SharesPost to access secure areas of our Website. This process takes place when you log into your account, the two key components of which are your Login ID and Password.
 
-With regards to passwords, we maintain strict rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at [security@SharesPost](mailto:security@SharesPost) to request a change. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy or SharesPost’s Terms of Use.
+With regards to passwords, we maintain strict rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at [compliance@sharespost.com](mailto:compliance@sharespost.com) to request a change. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy Policy or SharesPost’s Terms of Use.
 
-If you have a security related concern, please contact us at [security@SharesPost](mailto:security@SharesPost). We will work closely with you to ensure a rapid and personal response to your concerns.
+If you have a security related concern, please contact us at [compliance@sharespost.com](mailto:compliance@sharespost.com). We will work closely with you to ensure a rapid and personal response to your concerns.
 
 ## 16\. We will notify you of any changes in this Privacy Policy
 
@@ -150,11 +150,11 @@ If you are a former User (whether Visitor and/or Member), we treat your informat
 
 ## 18\. Contact us if you have any questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Privacy Policy, send an e-mail to [security@SharesPost](mailto:security@SharesPost).
+If you have questions, comments, concerns or feedback regarding this Privacy Policy, send an e-mail to [compliance@sharespost.com](mailto:compliance@sharespost.com).
 
 **SharesPost, Inc.**   
-1250 Bayhill Drive, Suite 380   
+1150 Bayhill Drive, Suite 300   
 San Bruno, CA 94066 
 
 Phone: 800-279-7754   
-Fax: 650-873-8135 
+Fax: 650-492-6871 
