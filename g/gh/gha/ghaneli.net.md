@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghaneli.net privacy policy that was archived on 2011-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110915011000id_/http%3A//ghaneli.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghaneli.net privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309224833id_/http%3A//ghaneli.be/privacy) for the most accurate reproduction.*
 
 # Ghaneli Privacy Policy
 
