@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygrande.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114507id_/http%3A//mygrande.com/sanmarcos/index.php%3Fservice_area%3Dsanmarcos%26rdpage%3DPS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrande.com privacy policy that was archived on 2012-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120309015703id_/http%3A//www.mygrande.com/sanmarcos/index.php%3Fservice_area%3Dsanmarcos%26rdpage%3DPS) for the most accurate reproduction.*
 
 # Grande Communications | Privacy
 
