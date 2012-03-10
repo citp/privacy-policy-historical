@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafisnews.org privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221233530id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafisnews.org privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311005617id_/http%3A//www.usafis.org/privacy.asp) for the most accurate reproduction.*
 
 # Usafis Green Card Lottery Application Service Online | Privacy Policy
 
