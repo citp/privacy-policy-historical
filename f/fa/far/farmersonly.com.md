@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009183605id_/http%3A//www.farmersonly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310132827id_/http%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Online Dating Singles Service and Free Personals | FarmersOnly.com
+# FarmersOnly.com - Privacy Policy
 
 The last update to our Privacy Policy was posted on July 9, 2011. This Privacy Policy governs the privacy terms of our website, [www.FarmersOnly.com](http://www.farmersonly.com/) (Website), as well as the Service we provide through it.
 
