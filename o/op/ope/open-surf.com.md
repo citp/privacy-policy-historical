@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open-surf.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117202655id_/http%3A//open-surf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open-surf.com privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310232218id_/http%3A//www.open-surf.com/privacy.php) for the most accurate reproduction.*
 
 # Free Proxy | Anonymous Web Proxy | Anonymous Proxy | Unblock Facebook & MySpace
 
