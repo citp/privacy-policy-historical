@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217075009id_/http%3A//www.digital-target.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digital-target.org privacy policy that was archived on 2012-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120310192551id_/http%3A//www.digital-target.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Traget Best For Tech Reviews And Satellite Upload Center
+# Privacy Policy - Digital Traget | Digital Traget
 
 **Your privacy is critically important to us. At Digital Target we have a few fundamental principles:.**
 
@@ -33,5 +33,3 @@ We use third-party advertising companies to serve ads when you visit our website
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Digital Target may change its Privacy Policy from time to time, and at Digital Target’s sole discretion. Digital Target encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-Rating: 0.0/ **10** (0 votes cast)
