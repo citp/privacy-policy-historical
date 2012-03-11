@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flurl.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111071042id_/http%3A//www.flurl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flurl.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311142322id_/http%3A//flurl.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Flurl.com
 
