@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222050932id_/http%3A//www.goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311042648id_/http%3A//www.goldenhelix.com/Company/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -47,4 +47,4 @@ We do not sell, rent or lease your personal information to others. Golden Helix 
 
 ## Contact Us 
 
-Golden Helix welcomes your suggestions that we may use to make our web site easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20111222050932id_/http%3A//www.goldenhelix.com/Company/contact.html)
+Golden Helix welcomes your suggestions that we may use to make our web site easier to use or make the contents more relevant to our customers. If you have any questions or comments about the information presented, please [**contact us**.](https://web.archive.org/web/20120311042648id_/http%3A//www.goldenhelix.com/Company/contact.html)
