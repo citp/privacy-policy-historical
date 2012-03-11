@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2011-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110820092622id_/https%3A//www.globalinformationnetwork.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312003539id_/https%3A//www.globalinformationnetwork.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Global Information Network
 
@@ -53,5 +53,3 @@ If, at any time after visiting the site, you change your mind about receiving in
 If you have any questions about this Policy, or if you would like additional information, please do not hesitate to contact us. 
 
 Last Updated: June 11, 2009 
-
-We are an informational organization. We are a "member sharing with other members" private association. We do not provide financial planning, tax, legal, investment, or medical advice. Consultation with independent expert advisors is strongly recommended. We are not a business opportunity. 
