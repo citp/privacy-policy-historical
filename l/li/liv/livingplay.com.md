@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingplay.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202144518id_/http%3A//www.livingplay.com/ClientPrivacyPolicy.lp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingplay.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311194149id_/http%3A//livingplay.com/ClientPrivacyPolicy.lp) for the most accurate reproduction.*
 
 # LivingPlay™ - Fresh FREE Games. | LivingPlay Client Privacy Policy
 
@@ -20,7 +20,7 @@ We collect two kinds of information through the Site. The first kind is informat
 
 If you do not want your information to [continue](http://livingplay.com/ClientPrivacyPolicy.lp) to be collected and used as provided in this Policy, you should not access or use the Site again. 
 
-Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the LivingPlay software (the "Software") on their computers or other computing device. The Software allows us to provide a Premium User with a limited amount of in-text and pop-up/under advertisements based on the web content viewed by that Premium User. No PII is collected through the Software. 
+Premium Game players ("Premium User(s)") have access to the Premium Games at no charge in exchange for their agreement to install the LivingPlay software (the "Software") on their computers or other computing device. The Software allows us to provide a Premium User with a limited amount of in-text, pop-up/under and transitional advertisements based on the web content viewed by that Premium User. No PII is collected through the Software. 
 
 **Collection of Personally Identifiable Information**
 
@@ -59,7 +59,7 @@ In addition, if we go through a business transition, such as a merger, acquisiti
 
 As with many websites, when you visit LivingPlay, LivingPlay automatically gathers certain NPII based on your computer information and stores it in log files. This type of technical and statistical information is used to customize your experience at LivingPlay, to help us improve the quality of LivingPlay and to make your visits to LivingPlay easy, convenient and fun. LivingPlay also collects your IP address to help diagnose problems with the Site server and for Site administration purposes. 
 
-In addition to the general collection of NPII by the Site, the Software downloaded by Premium Users tracks URLs, HTML, web pages and/or search queries on the web pages visited in order to deliver ads in the form of in-text and pop-up/under advertisements which appear when online generally. An average of four ads per day will be shown based on the web content viewed. If at any time, a Premium User no longer wants the Software to collect NPII or to deliver customized advertising, s/he may deactivate the Software which will uninstall the Software and its associated monitoring technologies. The directions for uninstalling the Software are set forth below in the section entitled "Deactivate Software." 
+In addition to the general collection of NPII by the Site, the Software downloaded by Premium Users tracks URLs, HTML, web pages and/or search queries on the web pages visited in order to deliver ads in the form of in-text, pop-up/under and transitional advertisements which appear when online generally. An average of four ads per day will be shown based on the web content viewed. If at any time, a Premium User no longer wants the Software to collect NPII or to deliver customized advertising, s/he may deactivate the Software which will uninstall the Software and its associated monitoring technologies. The directions for uninstalling the Software are set forth below in the section entitled "Deactivate Software." 
 
 **Cookies**
 
