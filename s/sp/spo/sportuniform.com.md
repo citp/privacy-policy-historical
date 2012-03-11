@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportuniform.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103144809id_/http%3A//www.sportuniform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportuniform.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311214326id_/http%3A//www.sportuniform.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SportUniform.com
 
