@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906172855id_/http%3A//scalemates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scalemates.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311043040id_/http%3A//www.scalemates.com/privacy.php) for the most accurate reproduction.*
 
 # Scalemates - Scale Modeling Community
 
