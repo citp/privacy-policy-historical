@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the techzene.org privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206172159id_/http%3A//www.techzene.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzene.org privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311155451id_/http%3A//www.techzene.org/privacy) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
-
-Posted by Radha Krishna on 11 July 2011 0 Comment
 
 Privacy Policy for <http://www.techzene.org/>
 
@@ -32,6 +30,8 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 The items or Posts available in the site are intended for SAMPLING purposes only. As of yet, they have not been licensed for reproduction in any way, and the user accepts the risk of violating these copyrights when streaming or downloading. The availability of articles and sound recordings on this page are found on the net. The intent of the creators of this page reflects nothing more than a great interest in the promotion of Technology. Thus, they are hereby levied of any liability, legal or otherwise, with respect to the use of these recordings by parties visiting this site.We the blog owners are not responsible for any misuse of the content over here.Any Disclaimer may Contact “ **techzene[at]in.com** ”.The Content will be removed as soon as possible.If You Don’t agree,Please Exit Now.
 
-Posted by Radha Krishna   @   11 July 2011 0 Comment
+#### Get Free Email Alerts
 
-Comments are closed. 
+Stay Updated with Latest Technology. Get Free Email Newsletter Updates..
+
+And, Next Confirm Your Email Subcription
