@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the stoneberry.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509063612id_/http%3A//www.stoneberry.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneberry.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311214805id_/http%3A//www.stoneberry.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
 
     
     
-      
-        
     
-        
-        | 
+    
             
     
     
@@ -138,18 +135,6 @@
       
     
     **Property Rights** - The entire site as a whole is protected by copyright and trade dress laws. All rights, ownership and interest in are owned by Stoneberry and its parent companies. All identified trademarks appearing at the site are trademarks of Stoneberry and its parent company and all affiliated trademarks of other companies are used with permission. Excepting trademarks and brand names of third parties for merchandise depicted on the Site, or as otherwise noted, all images, materials, designs, photographs, illustrations, icons, videos and other materials that are part of this Site are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by Stoneberry and its parent company. Our Site as a whole, and its contents, are intended solely for personal, non-commercial use by Site users. It is permissible to download or copy contents and other materials subject to downloaded capability displayed on the Site for personal use only. No right, title or interest in any downloaded images or materials or software is transferred to you as a result of any personal copying or downloading. As a Site user, you may not reproduce (except for personal use as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or otherwise utilize in any way, in whole or in part, any of the Contents, the Site, or any related software without the express written permission of Stoneberry.
-    
-    
-    
-    
-    
-        
-    ---|---  
-    
-    
-    
-    
-    
     
     
     
