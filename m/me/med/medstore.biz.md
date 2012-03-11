@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medstore.biz privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423210921id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medstore.biz privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312004116id_/http%3A//www.medstore.biz/privacy-policy) for the most accurate reproduction.*
 
 # MedStore: prescription online pharmacy privacy policy
 
@@ -55,4 +55,4 @@ Our Web stores may contain links to and from other sites operated and maintaine
 By using our Web site (including through our customer service line), you consent to the collection, use, and disclosure of information in accordance with the terms of this privacy policy. We reserve the right to modify or amend this policy at any time. If we ever change our privacy policy, we will post any changes on this page or send you an email so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Unless we clearly state otherwise, the changes to our privacy policy will affect only the information we collect after the effective date of the change.
 
 **Your Comments**  
-We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us a message by [clicking here](https://web.archive.org/contact-us/).
+We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us a message by [clicking here](https://web.archive.org/contact-us/).
