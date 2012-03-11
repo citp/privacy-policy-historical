@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icgirls.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205192313id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgirls.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311203042id_/http%3A//www.icgirls.com/exec/privacy.jsp) for the most accurate reproduction.*
 
-# Live Girls - IC Girls - Sexy Live Girls On Webcam
+# Live Girls - IC Girls - Sexy Live Webcam Girls
 
 SNR Productions, Inc. will never sell/give/rent your information to any other party. You can rest assured no SPAM will come from submitting your information through us. You may receive a promotional email from us from time to time where you will have the option to cancel/unsubscribe from them. Please continue reading for more detailed information on our policy. 
 
