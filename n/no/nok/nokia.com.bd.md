@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.bd privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127113409id_/http%3A//www.nokia.com.bd/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.bd privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312055247id_/http%3A//www.nokia.com.bd/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Nokia Bangladesh - Privacy Policy - Privacy - About Nokia
 
@@ -27,7 +27,7 @@ We may provide additional privacy information in connection with our products an
 
 Third party services installed on your device may allow access to information available on your device. Our products or services may contain links to other companies’ websites and services that have privacy policies of their own. We recommend that you read the privacy policies of such third party services. Nokia is not responsible for the privacy practices or contents of any such third party services.
 
- **By using this website and/or by submitting personal data to Nokia, you agree to the processing of your personal data as explained in this Policy. If you do not agree with this Policy, please do not use this website or provide Nokia with your personal data.**
+**By using this website and/or by submitting personal data to Nokia, you agree to the processing of your personal data as explained in this Policy. If you do not agree with this Policy, please do not use this website or provide Nokia with your personal data.**
 
 ####  What Data Do We Collect? 
 
