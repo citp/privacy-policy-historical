@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the myinkedspace.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126000000id_/http%3A//myinkedspace.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myinkedspace.com privacy policy that was archived on 2012-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120312234828id_/http%3A//www.myinkedspace.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><title>
 	Privacy Policy
-</title>
-    
+</title><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="robots" content="noodp,noydir"><meta name="Googlebot" content="NOARCHIVE">
+
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.myinkedspace.com/scripts/jquery-1.5.2.min.js" type="text/javascript"></script>
     <script src="http://cdn.myinkedspace.com/scripts/jquery.lazyload.mini.js" type="text/javascript"></script>
     <script src="http://cdn.myinkedspace.com/scripts/markitup/jquery.markitup.js" type="text/javascript"></script>
@@ -14,12 +14,12 @@
     <script src="http://cdn.myinkedspace.com/scripts/jquery.hoverIntent.minified.js" type="text/javascript" charset="utf-8"></script>
     <script src="http://cdn.myinkedspace.com/scripts/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
     <script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>   
-    <script type="text/javascript">var switchTo5x = true;</script>   
-    <script src="http://w.sharethis.com/button/buttons.js" type="text/javascript"></script>
+    <script src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=myinkedspace" type="text/javascript"></script>
     <script src="http://cdn.myinkedspace.com/scripts/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
     <script src="http://cdn.myinkedspace.com/scripts/blink.js" type="text/javascript"></script>
+    <script src="http://cdn.myinkedspace.com/scripts/Gritter/js/jquery.gritter.min.js" type="text/javascript"></script>
 
-    <link rel="stylesheet" href="http://cdn.myinkedspace.com/scripts/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen"><link href="http://cdn.myinkedspace.com/scripts/Pine/jquery.pnotify.default.icons.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/Pine/jquery.pnotify.default.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/markitup/skins/simple/style.css" rel="stylesheet" type="text/css"><link href="http://cdn.myinkedspace.com/scripts/markitup/sets/bbcode/style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://cdn.myinkedspace.com/scripts/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen"><link href="http://cdn.myinkedspace.com/scripts/Pine/jquery.pnotify.default.icons.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/Pine/jquery.pnotify.default.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/markitup/skins/simple/style.css" rel="stylesheet" type="text/css"><link href="http://cdn.myinkedspace.com/scripts/markitup/sets/bbcode/style.css" rel="stylesheet" type="text/css"><link href="http://cdn.myinkedspace.com/scripts/Gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css">
  
  
     <style type="text/css">
@@ -36,10 +36,6 @@
         var inviteDisplayed = false;
         var isAuthenticated = false;
         
-        // Share
-        stLight.options({ publisher: 'ce7710ab-68ed-4399-9b91-74da82d9c4bd' });
-
-
         $(window).unload(function () { allowUpdate = false; });
 
         $(document).ready(function () {
@@ -50,7 +46,7 @@
                 setTimeout("checkInvites()", 5000);
                 self.setInterval("updatenotifications();", 60000);
                 self.setInterval("checkInvites();", 45000);
-                jQuery.fx.interval = 90;
+                jQuery.fx.interval = 30;
                 $(".blink").blink(300);
                 $("a#zoom").fancybox({ titlePosition: 'over' });
             }
@@ -119,12 +115,7 @@
                             else {
                                 document.title = "MyInkedSpace";
                             }
-                            $.pnotify({
-                                pnotify_title: 'Just Happened',
-                                pnotify_text: livetext,
-                                pnotify_notice_icon: '',
-                                pnotify_history: false
-                            });
+                            $('#alerts').html(livetext);
                         }
                         else {
                             document.title = "MyInkedSpace";
@@ -136,23 +127,7 @@
                         doReturnRequest(rootUrl + "?t=shouts", function (shoutText) {
                             if ($.trim(shoutText) != "") {
                                 if (desktop == true) {
-                                    if (shoutText == "I just sent you a message!") {
-                                        $.pnotify({
-                                            pnotify_title: 'Shout',
-                                            pnotify_text: shoutText,
-                                            pnotify_notice_icon: '',
-                                            pnotify_history: false
-                                        });
-                                    }
-                                    else {
-                                        $.pnotify({
-                                            pnotify_title: 'Shout',
-                                            pnotify_text: shoutText,
-                                            pnotify_notice_icon: '',
-                                            pnotify_hide: false,
-                                            pnotify_history: false
-                                        });
-                                    }
+                                    $('#alerts').html(shoutText);
                                 }
                                 else {
                                     //alert(shoutText);
@@ -184,13 +159,13 @@
 
         </script>
     
-<link href="App_Themes/FBDesktop/Extra.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/Default.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/jquery-ui-1.8.14.1.custom.css" type="text/css" rel="stylesheet"></head>
+<link href="App_Themes/FBDesktop/Extra.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/Default.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/jquery-ui-1.8.14.1.custom.css" type="text/css" rel="stylesheet"><link href="http://cdn.myinkedspace.com/scripts/Notifications/dark/css/jquery_notification.css" type="text/css" rel="stylesheet"><script src="http://cdn.myinkedspace.com/scripts/Notifications/dark/js/jquery_notification_v.1.js" type="text/javascript"></script></head>
 <body class="bodies">
     <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk5Njc3MjI4MA9kFgJmD2QWAgIDDxYCHgZhY3Rpb24FDS9Qcml2YWN5LmFzcHgWCgIDDw8WAh4HVmlzaWJsZWhkZAIHDxYCHwFnZAIRD2QWCAICDxYEHgRocmVmBS1odHRwOi8vd3d3Lm15aW5rZWRzcGFjZS5jb20vUHJvZmlsZS5hc3B4P3A9NjMeCWlubmVyaHRtbAUiSW5rZWQ8YnIvPk15SW5rZWRTcGFjZSAtIFZJUCBFbGl0ZWQCBA8WBB4GdGFyZ2V0BQZfYmxhbmsfAgVFL0NsaWNrLmFzcHg/cD05MjMmdj1odHRwJTNhJTJmJTJmd3d3LmtyYWNrc29jaWFsLmNvbSUyZiUzZnJlZiUzZElOS0VEZAIGDw8WAh4EVGV4dAUsTWlzcyB0aGUgZWRnZT8gSXQncyBtb3ZlZCB0byBLcmFja1NvY2lhbC5jb21kZAIIDxYCHwMFGn4gRXh0ZXJuYWwgU2l0ZSAoTWF0dXJlKSB+ZAIVD2QWAgIBD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIFFgpmD2QWAgIBDxYCHwIFFS9Qcm9maWxlLmFzcHg/cD0yMDA3MRYCZg8WBh4Dc3JjBVVodHRwOi8vbXlpbmtlZHNwYWNlcGhvdG9zLnMzLmFtYXpvbmF3cy5jb20vaW1hZ2VzL3Byb2ZpbGUvMjAwL3RodW1iXzIwMDcxLmpwZz8zODE2NzQxHgVzdHlsZQUwbWF4LWhlaWdodDo0OHB4O21heC13aWR0aDo0OHB4O21hcmdpbi1yaWdodDoycHg7HgV0aXRsZQUPTWFya2VkQmVhdXR5ISEhZAIBD2QWAgIBDxYCHwIFFS9Qcm9maWxlLmFzcHg/cD0zMTEwNRYCZg8WBh8HBVRodHRwOi8vbXlpbmtlZHNwYWNlcGhvdG9zLnMzLmFtYXpvbmF3cy5jb20vaW1hZ2VzL3Byb2ZpbGUvMzExL3RodW1iXzMxMTA1LmdpZj82OTk5MDcfCAUwbWF4LWhlaWdodDo0OHB4O21heC13aWR0aDo0OHB4O21hcmdpbi1yaWdodDoycHg7HwkFDioqQ0hFUlJZQk9NQioqZAICD2QWAgIBDxYCHwIFFS9Qcm9maWxlLmFzcHg/cD0zNzM2NBYCZg8WBh8HBVVodHRwOi8vbXlpbmtlZHNwYWNlcGhvdG9zLnMzLmFtYXpvbmF3cy5jb20vaW1hZ2VzL3Byb2ZpbGUvMzczL3RodW1iXzM3MzY0LmpwZz8xNDIzNTgzHwgFMG1heC1oZWlnaHQ6NDhweDttYXgtd2lkdGg6NDhweDttYXJnaW4tcmlnaHQ6MnB4Ox8JBQdTS0VMVEVSZAIDD2QWAgIBDxYCHwIFFS9Qcm9maWxlLmFzcHg/cD0xMjg2NRYCZg8WBh8HBVVodHRwOi8vbXlpbmtlZHNwYWNlcGhvdG9zLnMzLmFtYXpvbmF3cy5jb20vaW1hZ2VzL3Byb2ZpbGUvMTI4L3RodW1iXzEyODY1LmpwZz85NTgzMTQ1HwgFMG1heC1oZWlnaHQ6NDhweDttYXgtd2lkdGg6NDhweDttYXJnaW4tcmlnaHQ6MnB4Ox8JBRBTaWx2ZXJUZWFyUnVzdGVkZAIED2QWAgIBDxYCHwIFEi9Qcm9maWxlLmFzcHg/cD02MxYCZg8WBh8HBU5odHRwOi8vbXlpbmtlZHNwYWNlcGhvdG9zLnMzLmFtYXpvbmF3cy5jb20vaW1hZ2VzL3Byb2ZpbGUvdGh1bWJfNjMuanBnPzQ3ODg1OTYfCAUwbWF4LWhlaWdodDo0OHB4O21heC13aWR0aDo0OHB4O21hcmdpbi1yaWdodDoycHg7HwkFBUlua2VkZAIXDw8WAh8BZ2QWCAICDxYEHwIFLWh0dHA6Ly93d3cubXlpbmtlZHNwYWNlLmNvbS9Qcm9maWxlLmFzcHg/cD02Mx8DBSJJbmtlZDxici8+TXlJbmtlZFNwYWNlIC0gVklQIEVsaXRlZAIEDxYEHwQFBl9ibGFuax8CBUUvQ2xpY2suYXNweD9wPTkyMyZ2PWh0dHAlM2ElMmYlMmZ3d3cua3JhY2tzb2NpYWwuY29tJTJmJTNmcmVmJTNkSU5LRURkAgYPDxYCHwUFLE1pc3MgdGhlIGVkZ2U/IEl0J3MgbW92ZWQgdG8gS3JhY2tTb2NpYWwuY29tZGQCCA8WAh8DBRp+IEV4dGVybmFsIFNpdGUgKE1hdHVyZSkgfmRk0sJjBafzAzcB2xbD9+bLz55gkRA=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk5Njc3MjI4MA9kFgJmD2QWAgIDDxYCHgZhY3Rpb24FDS9Qcml2YWN5LmFzcHgWCgIDDw8WAh4HVmlzaWJsZWhkZAIHDxYCHwFnZAIJDw8WAh8BaGRkAhUPDxYCHwFoZGQCGw9kFgICAQ8PFgIfAWhkZGSNIcEwPoB7JKSF0+CFp2SgaQuwBQ==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKU94S8AQL1sPekBMvcKhM/ZnkANKf0CmESdqzekI3V">
         <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <div id="alerts"></div>
 	    <div id="maincpwrapper" align="center">
 		    <div id="pagewrapper" style="width:1024px;" align="left">
                 
@@ -198,10 +173,10 @@
                     <div id="ctl00_header">
                         <div style="float:left;">
 						    <a href="/">
-							    <img src="http://cdn.myinkedspace.com/images/logo.png" alt="MyInkedSpace-Social-Network">
+							    <img src="http://cdn.myinkedspace.com/images/logo.png" alt="MyInkedSpace-Social-Network" style="max-height:64px;">
 						    </a>
                         </div>
-                        <div style="float:right;padding-top:30px;padding-right:0px;width:650px;" align="left">
+                        <div style="float:right;padding-top:5px;padding-right:0px;width:700px;" align="left">
                             <div style="float:left;padding-right:0px;width:300px;" align="left">
                                 <ul id="noticebar" class="pageitem" style="margin:2px 0px 2px 0px;display:none;">
                                     <li class="textbox">                
@@ -209,42 +184,33 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div style="float:right;padding-right:0px;width:340px;" align="left">
-                                <span id="ctl00_Blinged">
-                                    <ul class="pageitem" style="height:48px;text-align:left;border:solid 1px #060606;background-color:transparent;">
-                                        <li class="store" style="border:0px;">
-                                            <a href="/Click.aspx?p=957&amp;v=http%3a%2f%2fwww.myinkedspace.com%2fViewPoll.aspx%3fp%3d1599" id="ctl00_UserLink" class="noeffect" style="background-color:#080808;">
-                                                <span id="ctl00_ImageSpan" class="image" style="float:left;width:52px;">
-                                                    <img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/399/thumb_39932.jpg?8895261" id="ctl00_ShrinkImage" style="max-height:48px;">
-                                                </span>                       
-                                                <span class="desc" style="font-size:10px;margin-top:0px;margin-left:55px;max-width:65%;color:#a2d2ff;">
-                                                    <span id="ctl00_AdType">Click Here - Poll</span>
-                                                </span>
-                                                <span class="desc" style="font-size:12px;margin-top:0px;margin-left:55px;max-width:65%;text-align:left;font-weight:normal;line-height:16px;">
-                                                    <div style="float:left;width:100%;">
-                                                        <b><span id="ctl00_CustomMessage" class="blingred">Who would you choose</span></b>
-                                                    </div>
-                                                    <div style="float:left;width:100%;margin-top:-2px;">
-                                                        <span id="ctl00_CustomMessage2" style="font-size:11px;" class="blingorange">Visit My Profile</span>
-                                                    </div>
-                                                </span>
-                                                <span class="arrow" style="top: 17px !important;"></span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </span>
+                            <div style="float:right;padding-right:0px;width:380px;padding-top:4px;padding-bottom:4px;" align="left">
+                                <a href="http://www.myinkedspace.com/OwnedBling.aspx#cash"><img src="http://cdn.myinkedspace.com/images/ads/internal/hor-big-ad-owned.jpg" style="max-width:99%;" alt="Ad"></a>
                             </div>
                         </div>
                     </div>
                     <div class="clrfix"></div>
                    
                     
-                    <div id="ctl00_NotLoggedInContainer" style="float:left;width:100%;padding-bottom:8px;background-color:#4A0000;color:White;padding-top:5px;padding-bottom:5px;margin-top:-8px;margin-bottom:8px;">
-                        <center><a href="/Login.aspx"><u>Login</u></a>, <a href="/FacebookLogin.aspx"><u>Login using Facebook</u></a>, or <a href="/CreateProfile.aspx"><u>Join Us Now!</u></a></center>
+                    <div id="ctl00_NotLoggedInContainer" style="float:left;width:100%;text-align:center;padding-top:4px;padding-bottom:4px;" class="featured-member">
+                        <h1 style="color:white;margin:0px;">Meet tattooed girls and guys right now!</h1>
+                        MyInkedSpace makes meeting new tattooed girls and guys fun and easy.
+                        <br><br>
+                        <center>
+                            <a href="/Login.aspx" class="blackbtn">Login</a> <a href="/CreateProfile.aspx" class="bluebtn">Sign Up Now</a>
+                        </center>
                     </div>
 
                     <!-- Content -->        
                     <div style="float:left;width:100%;" id="wrp4_inner">
+                        <div style="float:left;width:100%;" class="content-border">
+                            <div style="float:left;width:610px;">
+                                
+                            </div>
+                            <div style="float:right;padding-top:8px;">
+                                
+                            </div>
+                        </div>
                         <div style="float:left;width:188px;padding-top:4px;padding-left:2px;">
                             
                             
@@ -257,58 +223,9 @@
 
                             
 
-<div class="moduletable">
-	<div style="float:left;width:100%;margin: 4px 0;">
-        <ul class="pageitem">
-            <li class="textbox">
-		        <center>
-                    <a href="http://www.myinkedspace.com/Profile.aspx?p=63" id="ctl00_SideAdvert1_ViewProfile" class="noeffect">Inked<br>MyInkedSpace - VIP Elite</a>
-                    <br>
-                    <a href="/Click.aspx?p=923&amp;v=http%3a%2f%2fwww.kracksocial.com%2f%3fref%3dINKED" id="ctl00_SideAdvert1_ViewImage" class="noeffect" target="_blank">
-                        <img id="ctl00_SideAdvert1_ImageSpan" class="profile-avatar" src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/63.jpg?4788596" border="0" style="max-width:98%;">
-                    </a>
-                    <br>
-                    <span id="ctl00_SideAdvert1_MarkText">Miss the edge? It's moved to KrackSocial.com</span>
-                    <br>
-                    <span id="ctl00_SideAdvert1_VisitText" class="bling">~ External Site (Mature) ~</span>
-                </center>
-            </li>
-        </ul>
-    </div>
-</div>
-
-
-
                             
                         </div>
                         <div id="ctl00_ContentBodyContainer" class="clearfix contentbody">
-                            <div style="float:left;width:100%;margin-bottom:6px;">
-                                
-<div style="float:left;width:100%;" class="content-border">
-    <div style="float:left;width:100%;">
-        <center>
-            <div>
-            
-                       <a href="/Profile.aspx?p=20071" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl00_GoProfile"><img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/200/thumb_20071.jpg?3816741" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl00_Thumb" style="max-height:48px;max-width:48px;margin-right:2px;" class="profile-avatar" title="MarkedBeauty!!!"></a>
-                
-                       <a href="/Profile.aspx?p=31105" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl01_GoProfile"><img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/311/thumb_31105.gif?699907" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl01_Thumb" style="max-height:48px;max-width:48px;margin-right:2px;" class="profile-avatar" title="**CHERRYBOMB**"></a>
-                
-                       <a href="/Profile.aspx?p=37364" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl02_GoProfile"><img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/373/thumb_37364.jpg?1423583" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl02_Thumb" style="max-height:48px;max-width:48px;margin-right:2px;" class="profile-avatar" title="SKELTER"></a>
-                
-                       <a href="/Profile.aspx?p=12865" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl03_GoProfile"><img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/128/thumb_12865.jpg?9583145" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl03_Thumb" style="max-height:48px;max-width:48px;margin-right:2px;" class="profile-avatar" title="SilverTearRusted"></a>
-                
-                       <a href="/Profile.aspx?p=63" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl04_GoProfile"><img src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/thumb_63.jpg?4788596" id="ctl00_ThumbAdst1_PeopleThumbnails_ctl04_Thumb" style="max-height:48px;max-width:48px;margin-right:2px;" class="profile-avatar" title="Inked"></a>
-                
-            </div>
-        </center>
-    </div>
-    <div style="float:left;width:100%;padding-bottom:4px;font-size:11px;">
-        <center>
-            <a href="/Blings.aspx?#thumb">Put Yourself Here!</a>
-        </center>
-    </div>
-</div>
-                            </div>
                             <div style="float:left;width:100%;">
                                 
 
@@ -483,30 +400,8 @@
 
                             </div>
                         </div>
-                        <div style="float:left;width:245px;margin-left:3px;padding-top:4px;">
+                        <div id="ctl00_RightSideBar" style="float:left;width:245px;margin-left:3px;padding-top:4px;">
                             
-
-<div class="moduletable">
-	<div style="float:left;width:100%;margin: 4px 0;">
-        <ul class="pageitem">
-            <li class="textbox">
-		        <center>
-                    <a href="http://www.myinkedspace.com/Profile.aspx?p=63" id="ctl00_SideAdvertisement_ViewProfile" class="noeffect">Inked<br>MyInkedSpace - VIP Elite</a>
-                    <br>
-                    <a href="/Click.aspx?p=923&amp;v=http%3a%2f%2fwww.kracksocial.com%2f%3fref%3dINKED" id="ctl00_SideAdvertisement_ViewImage" class="noeffect" target="_blank">
-                        <img id="ctl00_SideAdvertisement_ImageSpan" class="profile-avatar" src="http://myinkedspacephotos.s3.amazonaws.com/images/profile/63.jpg?4788596" border="0" style="max-width:98%;">
-                    </a>
-                    <br>
-                    <span id="ctl00_SideAdvertisement_MarkText">Miss the edge? It's moved to KrackSocial.com</span>
-                    <br>
-                    <span id="ctl00_SideAdvertisement_VisitText" class="bling">~ External Site (Mature) ~</span>
-                </center>
-            </li>
-        </ul>
-    </div>
-</div>
-
-
                             
                             
                             
@@ -525,53 +420,36 @@
                     <div style="float:left;width:100%;background-color:#0D0D0D;border-top:solid 1px #000;margin-top:30px;height:100%;">
                     <div id="wrp6" class="graybg">
 					    <div id="footer_wrapper">
-                            <div id="ctl00_LoggedInFooter" style="float:left;padding-right:20px;padding-top:5px;font-size:11px;padding-bottom:20px;">
-                                <div style="float:left;width:100%;text-align:left;">
-                                    &nbsp;&nbsp;<div class="fb-like" data-href="http://www.myinkedspace.com/" data-send="true" data-width="370" data-show-faces="false" data-colorscheme="dark" data-font="arial"></div>
-                                </div>
+                            
+
+                            <div id="ctl00_NotLoggedInFooter" style="float:left;width:100%;padding-right:20px;padding-top:5px;margin-top:0px;font-size:11px;padding-bottom:20px;">
                                 <div style="float:left;width:100%;">
-                                    <div style="float:left;width:370px;color:#525252;text-align:left;">
-                                        &nbsp;&nbsp;Copyright ©2010-2011 MyInkedSpace LLC.All Rights Reserved.
-                                        <br>
-                                        &nbsp;&nbsp;Processing is done through Myinkedspace Limited (877-374-2455).
-                                    </div>
-                                    <div style="float:right;width:600px;text-align:right;">
-                                        <a href="/People.aspx">Meet People</a> |
-                                        <a href="/Blings.aspx"><span class="bling">Bling! Bling!</span></a> | 
-                                        <a href="/GalleryView.aspx">Pictures</a> |
-                                        <a href="/ChatRooms.aspx">Chat Rooms</a> |
-                                        <a href="/Moderators.aspx">Moderators</a> |
-                                        <a href="/Terms.aspx">Terms of Service</a> |
-                                        <a href="/Privacy.aspx">Privacy</a> |
-                                        <a href="/ExternalAds.aspx">Advertise</a> |
-                                        <a href="/Help.aspx">Help</a>
-                                        <br>
-                                        Best Viewed With:
-                                        <a href="http://www.google.com/chrome/">Google Chrome</a>, 
-                                        <a href="http://www.apple.com/Safari">Apple Safari</a>, 
-                                        <a href="http://www.mozilla.com/">Firefox 5</a>,
-                                        <a href="http://www.microsoft.com/ie">Internet Explorer 9</a>
-                                    </div>  
-                                </div>
-                                <div style="float:left;width:100%;color:#525252;">
-                                    <div style="float:left;width:370px;text-align:left;">
-                                        <div style="float:left;width:100%;">
-                                            &nbsp;
-                                            <a id="ctl00_ToggleTheSiteColors" href="javascript:__doPostBack('ctl00$ToggleTheSiteColors','')">Go Light (Theme)</a> -
-                                            <a href="http://www.zocialized.com/">Zocialized (Social Network)</a> Safe for everyone
+                                    <div style="float:left;width:100%;text-align:left;">
+                                        &nbsp;&nbsp;<g:plusone size="small"></g:plusone> 
+                                        <div class="fb-like" layout="button_count" data-width="90" data-show-faces="false" data-colorscheme="dark" data-font="arial"></div>
+                                        <!-- AddThis Button BEGIN -->
+                                        <div class="addthis_toolbox addthis_default_style" style="display:inline-block;">
+                                        <a class="addthis_counter addthis_pill_style"></a>
                                         </div>
+                                        <!-- AddThis Button END -->
+                                    </div>
+                                    <div style="float:left;width:100%;color:#525252;text-align:center;">
+                                        MyInkedSpace ©2012
+                                        <br>
+                                        <a href="/Terms.aspx">Terms</a> - 
+                                        <a href="/Privacy.aspx">Privacy</a> -
+                                        <a href="/DMCA.aspx">DMCA</a> -
+                                        <a href="/About.aspx">About / Media</a>
                                     </div>
                                 </div>
                             </div>
-
-                            
 	                    </div>
 					</div>
                     </div>
 			</div>
             <script type="text/javascript">
                 window.fbAsyncInit = function () {
-                    FB.init({ appId: '112600168773068', status: true, cookie: true, xfbml: true });
+                    FB.init({ appId: '112600168773068', status: true, cookie: true, xfbml: true, oauth: true });
 
                     var url = window.location.pathname;
                     var filename = url.substring(url.lastIndexOf('/') + 1);
