@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pringlescotland.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014201949id_/http%3A//www.pringlescotland.com/about-privacy/collection/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pringlescotland.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312160046id_/http%3A//www.pringlescotland.com/about-privacy/collection/fcp-content) for the most accurate reproduction.*
 
 # Pringle of Scotland - Content
 
