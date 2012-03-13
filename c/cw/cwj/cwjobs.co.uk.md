@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209015719id_/http%3A//www.cwjobs.co.uk/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313142423id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # CWJobs.co.uk
 
@@ -8,7 +8,7 @@ You can remove any of the information that CWJobs.co.uk stores about you, at any
 
 _Privacy policy update (19 September 2011)_
 
-**Registration details**   
+ **Registration details**   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
 
 **Profile and CV information**   
