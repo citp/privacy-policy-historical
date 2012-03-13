@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tadpoles.com privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202140006id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tadpoles.com privacy policy that was archived on 2012-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120313113420id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr" class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
@@ -8,15 +8,17 @@
 
 <link rel="canonical" href="/">
 <meta name="keywords" content="free, iphone, android, daycare forms, child care forms, childcare forms, mobile application, attendance sheets, childcare management, social networking, child, day care, daycare, photo, milestones, special events, tadpoles, tadpoles pro, tadpoles app, free daycare software, childcare management, attendance software, infant and toddler daily reports, infant daily logs, preschool, preschool software, home daycare, daycare spreadsheets, iphone apps for daycare,procare">
-<meta name="copyright" content="Copyright 2011 FrogSquared LLC">
+<meta name="copyright" content="Copyright 2012 FrogSquared LLC">
 <meta name="description" content="Tadpoles is the free daycare, preschool, and childcare management software for the iPhone and iPad.  Using an iPhone or iPad, childcare, preschool and daycare providers are able to take attendance and securely share photos, videos, and status updates about their children.  Our goal is to involve parents in childhood early education.  Tadpoles Pro, our free daycare software allows teachers and providers to get started quickly.">
 <meta name="abstract" content="Tadpoles utilizes mobile technology to provide real-time visibility and improve communication within a trusted environment.  Reduce paper forms and provide photos and videos of your children to parents on their iPhone or iPad.">
 <meta name="revisit-after" content="1 day">
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-<title>Tadpoles, Connecting Parents with Childcare, Preschool and Daycare Providers</title>
+
+<title>Privacy</title>
+
 <link type="text/css" rel="stylesheet" media="all" href="/css/style.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="/js/ga.js"></script>
-<script type="text/javascript" src="/js/dropdown.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="/css/menubar2.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/dropdown.js"></script>
 <link type="text/css" href="/css/jquery-ui-1.8.13.custom.css" rel="Stylesheet">	
 <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.8.12.custom.min.js"></script>
@@ -29,45 +31,84 @@ $( ".accordion" ).accordion({event:'click',collapsible:true,active:false});
 });
 
 </script>
+<script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-19847545-1"]);
+    _gaq.push(["_trackPageview"]);
+    (function() {
+        var ga = document.createElement("script");
+        ga.type = "text/javascript";
+        ga.async = true;
+        ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+    var executeAndRedirect = function(gaq_args, url) {
+        _gaq.push(gaq_args);
+        _gaq.push(function() {
+            document.location = url;
+        });
+
+        return false;
+    };
+
+    var trackParentDownload = function() {
+        _gaq.push(['_trackEvent', 'Download', 'ParentApp']);
+    };
+
+    var trackProviderDownload = function() {
+        _gaq.push(['_trackEvent', 'Download', 'ProviderApp']);
+    };
+
+    var trackLoginLink = function() {
+        _gaq.push(['_trackEvent', 'Login', 'ClickLoginLink']);
+    }
+
+    var trackAndRedirectLoginLink = function() {
+        // Very important that you return to prevent the link from executing before we can track it!
+        return executeAndRedirect(trackLoginLink, 'http://parents.tadpoles.com/');
+    };
+    //--><!]]>
+</script>
 
 
 <meta name="msvalidate.01" content="D74CFA19FD81AFB9142F4C5461E25B1C">
 <meta name="google-site-verification" content="mG_-urXLpZQ6VnMjTeocdBhuTIIF_OOjV2BIqZOscuE">
 </head>
 <body>
-<div id="wrapper">
-  <div id="header">
-  	
-		 
-	
-		
-    <div class="clearboth"> </div>
-	
+<div class="clearboth"> </div>
 
-	<div id="tad">
-		<a href="/" title="Tadpoles Home"><img src="/images/tadpoles_icon.png" height="60" width="60" style="margin-left:448px;"></a>
+	<div id="tadContainer" style="position: absolute; top: 12px; margin-left: auto; margin-right: auto; width: 100%; text-align:center">
+    <div id="tadImage" style="width : 960px; margin-left: auto; margin-right: auto;">
+        <a href="/" title="Tadpoles Home"><img src="/images/tadpoles_icon.png" height="60" width="60"></a>
+    </div>
 	</div>
     <div id="menubar" class="bar">
         <ul id="menubar li">
 			
 			<li class="menu-111"><a href="/providers" title="providers">providers</a></li>
+			<li class="menu-113"><a href="/products" title="products">products</a></li>
+			<li class="menu-113"><a href="http://blog.frogsquared.com" title="news">news</a></li>
+			<!--<li><a href="/tad">friends</a></li>-->
+			<li class="menu-center-icon"><a href="/">&nbsp;</a></li>
+			
 			<li class="menu-112"><a href="/parents" title="parents">parents</a></li>
-			<li class="menu-120"><a href="/">&nbsp;</a></li>
-			<!--<li class="menu-113"><a href="/products" title="products">products</a></li>-->
-			<li class="menu-121"><a href="/philosophy" title="about Tadpoles">about</a>
-				<ul>
-					<li><a href="/contact">contact</a></li>
-					<li><a href="http://blog.frogsquared.com">tad's blog</a></li>
-					<li><a href="/tad">tad's friends</a></li>
-					<li class="licurve"><a class="licurve" href="/privacy">tad's privacy</a></li>
-				</ul>
-			</li>
-			<li class="menu-164 last"><a href="http://my.tadpol.es/" title="Log In Link">log in</a></li>
+			<li><a href="/contact">contact</a></li>
+			<!--	
+			<li class="licurve"><a class="licurve" href="/privacy">privacy</a></li>-->
+			<li class="menu-164 last"><a href="http://parents.tadpoles.com/" onclick="return trackAndRedirectLoginLink();" title="Log In Link">log in</a></li>
 		</ul>                
 		<div class="clearboth"></div>
     </div>
 	
+<div id="wrapper">
+  <div id="header">
+  	
+		 
 	
+			
   </div> <!-- end header -->
   
 <div id="privacy_content_area">
@@ -96,7 +137,7 @@ $( ".accordion" ).accordion({event:'click',collapsible:true,active:false});
     15 S. 3rd St.<br>
     Philadelphia, Pennsylvania 19106<br>
     USA<br>
-    <a href="mailto:tadpoles@tadpoles.com">tadpoles@tadpoles.com</a><br>
+    <a href="mailto:talk.to.us@tadpoles.com">talk.to.us@tadpoles.com</a><br>
     1-267-719-FROG<br>
 	</div>
   </div>
@@ -104,8 +145,8 @@ $( ".accordion" ).accordion({event:'click',collapsible:true,active:false});
 
   <div id="footer">  <div class="block block-block" id="block-block-8">
     <div class="content">
-	<p><a href="/" title"home"="">Home</a> <a href="/products" title="Products">Products</a> <a href="/philosophy" title="Company Philosophy">Company Philosophy</a> <a href="/tad" title="Meet Tad">Meet Tad</a> <a href="/contact" title="Connect with Tadpoles">Connect</a> <a href="http://my.tadpol.es/" title="Log In Link">Log In</a> </p>
-	<p>©2011 Frogsquared, LLC</p>
+	<p><a href="/" title"home"="">Home</a> <a href="/providers" title="Providers">Providers</a> <a href="/parents" title="Parents">Parents</a> <a href="/privacy" title="Privacy">Privacy</a> <a href="/contact" title="Contact with Tadpoles">Contact</a> <a href="http://parents.tadpoles.com/" onclick="return trackAndRedirectLoginLink();" title="Log In Link">Log In</a> </p>
+	<p>©2012 Frogsquared, LLC</p>
 	<div id="tadpoles_music">
 		<p><a href="/tadpoles_music">Looking for Tadpoles music?</a></p>
 	</div>
@@ -113,11 +154,5 @@ $( ".accordion" ).accordion({event:'click',collapsible:true,active:false});
  </div>
  </div>
 </div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-19847545-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-
 
 </body></html>
