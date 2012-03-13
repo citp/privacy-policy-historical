@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003532id_/http%3A//www.cloud.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26layout%3Ditem%26id%3D79%26Itemid%3D122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313050457id_/http%3A//www.cloud.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26layout%3Ditem%26id%3D79%26Itemid%3D122) for the most accurate reproduction.*
 
 # Privacy Policy
 
