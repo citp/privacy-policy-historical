@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215075329id_/http%3A//www.d-a-l.com/kb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d-a-l.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313205329id_/http%3A//www.d-a-l.com/kb/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | D-A-L Computer Help
+# Privacy Policy | Techie7
 
-D-A-L.com is owned and operated by D24 MEDIA LTD
+Techie7.com (Fromerly D-A-L.com) is owned and operated by D24 MEDIA LTD
 
 D24 MEDIA is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.
 
