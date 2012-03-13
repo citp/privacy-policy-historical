@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midsecurity.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018110213id_/http%3A//www.midsecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsecurity.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313114752id_/http%3A//www.midsecurity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MidSecurity: Middle Level Security
+# Privacy Policy | MidSecurity
 
 In a common situation and condition, MidSecurity will never practice to disclose personal information to third parties. We may share personal information in two instances. Firstly, we may share personal information with our contractors and service providers in order to maintain, enhance, or add to the functionality of the MidSecurity web service. Secondly, we may share personal information with third parties such as the government or other entities when required to by law or as required by court order. MidSecurity respects the privacy and rights of its visitors. No effort is made to identify individuals without their rights, permissions, and knowledge.
 
