@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainblack.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204222427id_/http%3A//www.mountainblack.com/epages/253003.sf/en_IE/%3FObjectPath%3D/Shops/253003/Categories/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainblack.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313142002id_/http%3A//www.mountainblack.com/epages/253003.sf/en_IE/%3FObjectPath%3D/Shops/253003/Categories/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - MountainBlack.com
 
