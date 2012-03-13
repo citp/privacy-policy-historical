@@ -1,20 +1,33 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231142530id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313152654id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
-[](http://www.hoodamath.com/)
+[Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- a monthly FREE newsletter filled with math teaching information.
 
-Subscribe to [Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- filled with math teaching information
+[March 2012](http://www.homeschoolmath.net/newsletter/volume61-march-2012.htm): triangle problems, review of Hands-On Equations, World Math Day, and more
 
-[November 2010: Geometry games, integer freebies, Math Mammoth news, math teacher's error...](http://www.homeschoolmath.net/newsletter/volume47-november-2010.htm)   
+Subscribe below:
+
+  
 [Latest from my blog](http://homeschoolmath.blogspot.com/)  
 This is where you'll find the latest happenings, news, & ideas in math teaching 
 
 [Math teaching videos](http://www.youtube.com/user/mathmammoth/)  
 My videos at YouTube show you how to teach concepts.   
-[How to teach long division](http://www.youtube.com/watch?v=dj1p_U4jPL0)
+[Structured drill of multiplication tables](http://www.youtube.com/watch?v=4bpq3Mqbwv0)—much more effective than random drill! 
 
-Hover your mouse above to open a menu of various worksheets you can generate for free! Advice, reviews, and resources to help you choose a math curriculum! Games you can play online, interactive tutorials, fun math websites and more. Arranged by topic/level for ease of use. Learn how to TEACH concepts or about general concerns in math education. 
+  
+[Worksheets](http://www.homeschoolmath.net/worksheets/)  
+Various worksheets on TONS of math topics you can generate for free! 
+
+[Curriculum](http://www.homeschoolmath.net/curriculum_reviews)  
+Advice, reviews, and resources to help you choose a math curriculum! 
+
+[Online math games, tutorials, and activities](http://www.homeschoolmath.net/online/)  
+Games you can play online, interactive tutorials, fun math websites and more. Arranged by topic/level for ease of use. 
+
+[Articles](http://www.homeschoolmath.net/teaching/)  
+Learn how to TEACH concepts or about general concerns in math education. 
 
 [Reviews](http://www.homeschoolmath.net/reviews/)  
 In-depth reviews of math products 
@@ -26,8 +39,7 @@ A list of free message boards, math help websites, and online tutoring services.
 See some math products I recommend. 
 
 [Fun and games](http://www.homeschoolmath.net/online/math_games_fun.php)  
-I have two games on my site, plus links to many. 
-
+I have two games on my site, plus links to many.   
 [Game: Choose Math Operation](http://www.homeschoolmath.net/operation-game.php)  
 [Word guess game ](http://www.homeschoolmath.net/math-hangman/easy_hangman.php) (easy hangman)  
 [Word guess game ](http://www.homeschoolmath.net/math-hangman/index.php) (difficult)
@@ -56,13 +68,23 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20101231142530id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20120313152654id_/http%3A//www.homeschoolmath.net/question.php).
 
 ** | 
 
-[](http://www.ixl.com/)
+[](http://www.tutorbungalow.com/)
+
+[](http://hoodamath.com/games/)
 
 [](http://www.mathnook.com/)
 
+[](http://www.adaptedmind.com/)
+
   
 
+
+[](http://www.1shoppingcart.com/app/?Clk=4082494)
+
+**New!** Times Tales is now [on DVD](http://www.1shoppingcart.com/app/?Clk=4082494)!
+
+The fast, FUN, and easy way to learn multiplication. Learn the upper times tales in two sittings using mnemonic stories.
