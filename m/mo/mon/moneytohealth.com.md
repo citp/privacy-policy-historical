@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114020108id_/http%3A//www.moneytohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytohealth.com privacy policy that was archived on 2012-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120313011310id_/http%3A//www.moneytohealth.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - We Have What You Need - Money to Health
 
 ## Privacy Policy
 
@@ -68,4 +68,5 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-[](http://bit.ly/cNuZm7)
+  
+
