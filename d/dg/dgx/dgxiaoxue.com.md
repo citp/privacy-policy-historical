@@ -1,65 +1,100 @@
-> *The following text is extracted and transformed from the dgxiaoxue.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523074248id_/http%3A//domainnamesinternational.net/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dgxiaoxue.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# None
+# Legal Agreement
 
-In this document, Domain Names International is referred to as “DNI”.
+**Go Daddy Respects Your Privacy**
 
-DNI respects your privacy. We do not sell or rent your personal information to third parties for marketing purposes without your explicit consent. By law, domain name registration information must be made available through Whois, a publicly accessible database that lists the domain name registration information of each registrant. Since domain name registration information is available to the public through Whois, anyone can access it on other web resources that offer Whois. Therefore, the domain name registration information you provide us is, and must be, made available to the public. At times our customers may be included within searches of the Whois database; however, any "spam" received through the use of Whois does not originate from DNI.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The privacy policy of this statement applies to our services offered under the domain name DNI and to our subsidiaries or joint venture websites. We promise that we will not use your personal information in any way that is incompatible with this privacy policy. By visiting this website you agree to be bound by the terms and conditions of this privacy policy. This privacy policy is incorporated into and subject to the terms of the DNI Universal Terms of Service (“UTOS”) Agreement. Please do not use or access the DNI website if you do not agree to the UTOS or to this privacy policy.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-DNI does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, DNI conducts its business under the following privacy principles: 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Principle 1 - No Collection of Personal Information**
+**Information Collection and Use**
 
-DNI does not collect any personal information such as names, ages, phone numbers, addresses, or e-mail addresses from visitors to our website.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Since DNI does not collect any personal information from website visitors, we do not combine traffic analysis information with personal information such as name, age, phone number or mailing address.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-DNI does not collect individual profile information for visitors across multiple sites and does not aggregate information from any other sources about browsing patterns of individual visitors across multiple sites.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**Principle 4 - Collection of Non-Personally Identifiable Information**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-DNI collects anonymous visitor information including IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited, and time spent on the web site. DNI collects this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns for our website; (2) to administer our website and servers, (3) to allow for auditing of our services by third parties, and (4) to improve our services.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Principle 5 - Anonymous Use of Cookies**
+**Security**
 
-It is DNI's policy to use cookies only for more accurate anonymous traffic analysis such as tracking the time/date of the visit, the page viewed, the referrer, and transaction information for eCommerce pages. The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address. In addition, DNI does not link cookies to personal data such as name, age, phone number, e-mail address or mailing address. Because we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing us to monitor traffic on our site.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Principle 6 - No Individual Profiling**
+**Updating Your Information**
 
-DNI does not create individual profiles of visitors. Unlike other tracking services we do not have a database of individual profiles of each visitor. DNI collects data in aggregate form, and data is not recorded or stored about individual visitors.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Notices:**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
 **Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials when legally required to do so. This includes disclosing any information necessary or appropriate to enforce our Universal Terms of Service, or in response to subpoenas, claims and other legal process, to protect our own property and rights or the property and rights of any third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
 **Transfer of Data Abroad**
 
-If you are visiting any DNI website from a country other than the country in which our servers are located, any communication with us may result in the transfer of information across international borders.  By visiting any DNI website and communicating electronically with us, you consent to such transfers.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-DNI may amend this privacy policy at any time by posting the amendment terms to our website.
+**Changes in Our Practices**
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Durango Merchant Services, keeps this information encrypted and secure on your behalf.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Inquiries to DNI shall be made either by email, sent by first class mail to the physical address provided on the DNI Web site, or sent by first class mail to DNI's address at:
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Domain Names International, Inc.
+**Contacting Our Site**
 
-Legal Counsel
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-11605 Meridian Market View
+* * *
 
-Unit 124-134
-
-Falcon, CO 80831
-
-Revised: 4/12/2011
-
-Copyright © 2011 Domain Names International.  All Rights Reserved.
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
