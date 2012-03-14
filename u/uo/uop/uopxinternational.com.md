@@ -1,102 +1,100 @@
-> *The following text is extracted and transformed from the uopxinternational.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503122834id_/http%3A//www.uopxinternational.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uopxinternational.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Dragon Media Online, Inc.
+# Legal Agreement
 
-## Web Privacy Statement
+**Go Daddy Respects Your Privacy**
 
-Dragon Media Online ("DMO") and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. DMO reserves the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-DMO has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of DMO regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email. This policy does not apply to the practices of companies that DMO does not own or control, or to people that DMO does not employ. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-### Information Collected by DMO
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Non-Personally Identifiable Consumer Information
+**Information Collection and Use**
 
-DMO collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-### Information Collected Automatically
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-The types of information your browser or internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes:
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  * Your browser, e.g., Internet Explorer, Netscape Navigator.
-  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
-  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux
-  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as your leave.
-  * Your IP Address.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our web sites more useful. DMO may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-### Personally Identifiable Consumer Information
+**Security**
 
-You may choose whether or not to provide Personal Information to DMO. The notice we intend to provide where DMO collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of DMO's Web sites, but you may be unable to access certain options, offers, and services that involve our interaction with you. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-### How Collected Information is Used
+**Updating Your Information**
 
-The non-personally identifiable information that DMO collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-If you elect to provide DMO with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from DMO and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other DMO sales and marketing efforts. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-### Sharing Information with Third Parties
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-All personally identifiable information you provide is maintained in confidence by DMO. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below. 
+      iii.      You may call us at: (480) 505-8800
 
-Your non-personally identifiable data may be shared with third-party partners of DMO on an anonymous basis. 
+       iv.      You may fax us at: (480) 505-8844
 
-When you request information from DMO we may transfer that information within DMO or route your information to the designated party, across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on the program that you requested. 
+**Sending Emails**
 
-We may also disclose information to a third party who provides programs, products, information or services, which we believe that visitors or users may be interested in purchasing or receiving. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that DMO is very careful in selecting companies with whom it does business. 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-In addition to the above situations where your information may be shared with others, there is also the possibility that DMO, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Finally, DMO may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials. 
+**Compliance with Laws and Law Enforcement**
 
-### Security
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Wherever your personally identifiable information may be held within DMO or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while DMO will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure. 
+**Third Party Service Providers**
 
-### Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting DMO web sites. 
+**Supplementation of Information**
 
-### Personally Identifiable Consumer Information - Opting-Out
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-You may choose whether or not to provide personally identifiable information to DMO. If you choose to provide such information to DMO, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive DMO newsletters, surveys or promotional communications via email, you may opt-out by simply contacting us at [privacy@dmoglobal.com](mailto:privacy@dragonmediaonline.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action. 
+**Contests/Surveys**
 
-### Access/Accuracy
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-To the extent that you do provide us with personally identifiable information, DMO wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting DMO should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [privacy@dmoglobal.com](mailto:privacy@dragonmediaonline.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-### Children's Privacy
+**Tell-A-Friend**
 
-In compliance with the Children's Online Privacy Protection Act (COPPA), DMO is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-### Refer a Friend
+**What Happens to my Personal Information if I Opt Out?**
 
-Some of DMO's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a DMO site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. DMO stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Your friend may contact us at [privacy@dmoglobal.com](mailto:privacy@dragonmediaonline.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact. 
+**Transfer of Data Abroad**
 
-### Commitment
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-Protecting your privacy online is an evolving area, and DMO's web sites are constantly changing to meet these demands. 
+**Changes in Our Practices**
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy@dmoglobal.com](mailto:privacy@dragonmediaonline.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention. 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### Your Consent
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-By using this web site, you consent to the terms of our Online Privacy Policy and to DMO's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy. 
+**Contacting Our Site**
 
-### Contacting Us
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-For more information, or if you have questions or concerns regarding DMO's Privacy Policy, you may email us at:   
-Privacy  
-Dragon Media Online, Inc.  
-1901 Harrison Street Suite 1630  
-Oakland, CA 94612  
+* * *
 
-
-Thank you for visiting our web site. We hope you have a pleasant experience while you are here. 
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
