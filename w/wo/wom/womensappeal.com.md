@@ -1,158 +1,100 @@
-> *The following text is extracted and transformed from the womensappeal.com privacy policy that was archived on 2008-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080408142657id_/http%3A//www.womensappeal.com/site/1386188/page/868094) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womensappeal.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy of Women's Appeal Directory
+# Legal Agreement
 
-|    
+**Go Daddy Respects Your Privacy**
 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-[](http://click.linksynergy.com/fs-bin/click?id=H0rLLqqQZDw&offerid=55784.10000034&type=4&subid=0)
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-[](http://click.linksynergy.com/fs-bin/click?id=H0rLLqqQZDw&offerid=92704.10000428&type=4&subid=0)
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  
-  
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-|    
-** 1\.  **PRIVACY POLICY WOMEN'S APPEAL DIRECTORY**   
-2\.  **SECURE SITE**  
-3\.  **ORDER**  
-4\.  **COOKIES**  
-5\.  **LOG FILES**  
-6\.  **SHARING**  
-7\.  **LINKS**  
-8\.  **NEWSLETTER**  
-9\.  **SURVEYS & CONTESTS **  
-10\.  **TELL-A-FRIEND**  
-11\.  **SECURITY**  
-12\.  **OPT-OUT**  
-13\.  **NOTIFICATION OF CHANGES**  
-**  
-**1\. PRIVACY POLICY WOMEN'S APPEAL DIRECTORY**  
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-* * *
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-This Privacy Statement is effective for all users of WOMENSAPPEAL.COM ("WOMEN'S APPEAL DIRECTORY" or "our") and our related websites, including Customers, Affiliates and Newsletter Subscribers ("Users"). If you are not at least 18 years old you may not use the Site without adult supervision. You warrant that you are at least 18 years old or have obtained parental permission to use this Site. The purpose of this Privacy Statement is to provide you with WOMEN'S APPEAL DIRECTORY's information collection practices (including the information WOMEN'S APPEAL DIRECTORY collects, how it is collected, and the circumstances under which the information is disclosed), and to demonstrate WOMEN'S APPEAL DIRECTORY's firm commitment to privacy and adherence to the California Online Privacy Protection Act. The following discloses the privacy practices for our website: [www.womensappeal.com](http://www.womensappeal.com/)  
-**Return to Index.**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  
-**2\. SECURE SITE**  
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-* * *
+**Security**
 
-Our site uses an online secure order form. When a User's order is placed through our secure online server, or a User sends WOMEN'S APPEAL DIRECTORY an email, WOMEN'S APPEAL DIRECTORY collects confidential customer information. When a User sends an email (as distinguished from a secure order form, which is encrypted), it is not necessarily secure and is not encrypted. Information collected from affiliates and newsletter subscribers may not be encrypted or maintained on a secured site. All of the customer data WOMEN'S APPEAL DIRECTORY collects is protected against unauthorized access.   
-**Return to Index.**
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-  
-**3\. ORDER**  
+**Updating Your Information**
 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-* * *
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-WOMEN'S APPEAL DIRECTORY requests information from the User on an order form. The information that is collected to process the order may include contact information (name, shipping address, telephone number, fax number and/or email address) and financial information (credit card number, name on account, expiration date). This information is used for billing purposes and to fill customers' orders. This contact information is used to contact the User.   
-**Return to Index.**
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  
-**4\. COOKIES**  
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-* * *
+**Sending Emails**
 
-A cookie is a piece of data stored on the user's hard drive containing information about the User. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the User closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the User would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, WOMEN'S APPEAL DIRECTORY has no access to or control over business partners' cookies.   
-**Return to Index.**
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  
-**5\. LOG FILES**  
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
-* * *
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-WOMEN'S APPEAL DIRECTORY uses IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
-**Return to Index.**
+**Third Party Service Providers**
 
-  
-**6\. SHARING**  
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-* * *
+**Supplementation of Information**
 
-WOMEN'S APPEAL DIRECTORY may share aggregated demographic information with WOMEN'S APPEAL DIRECTORY's partners and advertisers. This is not linked to any personal information that can identify any individual person. WOMEN'S APPEAL DIRECTORY may use several credit card processing companies and banks to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. WOMEN'S APPEAL DIRECTORY may partner with another party to provide specific services. When the user signs up for these services, WOMEN'S APPEAL DIRECTORY may share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. WOMEN'S APPEAL DIRECTORY may release account information when WOMEN'S APPEAL DIRECTORY believes, in good faith, that such release is reasonably necessary to comply with law, prevent fraud, enforce or apply the terms of any of our user agreements or to otherwise protect the rights, property and safety of WOMEN'S APPEAL DIRECTORY, our customers or other third parties.   
-**Return to Index.**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  
-**7\. LINKS**  
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-* * *
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-This web site contains links to other sites. Please be aware that WOMEN'S APPEAL DIRECTORY is not responsible for the privacy practices of such other sites. WOMEN'S APPEAL DIRECTORY encourages its Users to be aware when they leave the WOMEN'S APPEAL DIRECTORY site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. This Site may include links to other Internet sites, both related and unrelated to the Site, which may be of interest to users. WOMEN'S APPEAL DIRECTORY may not have reviewed these sites and is not responsible for the content or availability of these sites. Descriptions of or references to products or publications not owned by WOMEN'S APPEAL DIRECTORY on this Site or any linked site do not imply any endorsement of such products or publications by WOMEN'S APPEAL DIRECTORY. WOMEN'S APPEAL DIRECTORY is not responsible for or liable for any damage, including damage caused by viruses, to your computer, computer system, or other property, during or on account of access or use of the Site or any sites to which the Site links.   
-**Return to Index.**
+**Tell-A-Friend**
 
-  
-**8\. NEWSLETTER**  
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
 * * *
 
-If a User wishes to subscribe to our newsletter, we ask for contact information such as name and email address.   
-**Return to Index.**
-
-  
-**9\. SURVEYS& CONTESTS **  
-
-
-* * *
-
-From time-to-time WOMEN'S APPEAL DIRECTORY requests information from Users via surveys or contests. Participation in these surveys or contests is completely voluntary and the User therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
-**Return to Index.**
-
-  
-**10\. TELL-A-FRIEND**  
-
-
-* * *
-
-If a User elects to use the WOMEN'S APPEAL DIRECTORY referral service for informing a friend about our site, WOMEN'S APPEAL DIRECTORY asks for the friend's name and email address. WOMEN'S APPEAL DIRECTORY will automatically send the friend a one-time email inviting them to visit the site. WOMEN'S APPEAL DIRECTORY stores this information for the sole purpose of sending this one-time email. The friend may contact WOMEN'S APPEAL DIRECTORY at [support@womensappeal.com](mailto:support@womensappeal.com) to request the removal of this information from their database.   
-**Return to Index.**
-
-  
-**11\. SECURITY**  
-
-
-* * *
-
-This web site takes every precaution to protect Users' information. When users submit sensitive information via the website, the information is protected both online and off-Line. When the WOMEN'S APPEAL DIRECTORY registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with encryption software. While WOMEN'S APPEAL DIRECTORY uses encryption to protect sensitive information online, WOMEN'S APPEAL DIRECTORY also uses its best efforts to protect user-information off-line. User information, not just the sensitive information mentioned above, is restricted in WOMEN'S APPEAL DIRECTORY offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. If you have any questions about the security at WOMEN'S APPEAL DIRECTORY, you can send an email to [support@womensappeal.com](mailto:support@womensappeal.com)  
-**Return to Index.**
-
-  
-**12\. OPT-OUT**  
-
-
-* * *
-
-WOMEN'S APPEAL DIRECTORY Users are given the opportunity to "opt-out" of having their information used for purposes not directly related to WOMEN'S APPEAL DIRECTORY's site at the point where WOMEN'S APPEAL DIRECTORY asks for information. For example, our order form has an opt-out mechanism so Users who do not wish to receive marketing material may keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@womensappeal.com](mailto:support@womensappeal.com)  
-**Return to Index.**
-
-  
-**13\. NOTIFICATION OF CHANGES**  
-
-
-* * *
-
-If WOMEN'S APPEAL DIRECTORY changes its privacy policy, we will post those changes on our Homepage so our Users are aware of the information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point WOMEN'S APPEAL DIRECTORY changes its privacy policy, WOMEN'S APPEAL DIRECTORY will notify users by way an update of this Policy.   
-**Return to Index.**
-
-  
-  
-| 
-
-[](http://click.linksynergy.com/fs-bin/click?id=H0rLLqqQZDw&offerid=134921.10000004&type=4&subid=0)
-
-[](http://click.linksynergy.com/fs-bin/click?id=H0rLLqqQZDw&offerid=57302.10000001&type=4&subid=0)
-
-  
-  
-  
----|---|---
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
