@@ -1,61 +1,100 @@
-> *The following text is extracted and transformed from the finestmoney.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210010826id_/http%3A//www.finestmoney.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestmoney.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# FinestModels.com - Glamour Models Photos and Videos
+# Legal Agreement
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**Go Daddy Respects Your Privacy**
 
-The FINESTMODELS .COM web site (the "Site") is operated by Gayoso, Inc. (the "Company"). By using the site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site. It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
- **Changes To The Privacy Policy**  
-We reserve the right to change the terms of this Privacy Policy. Any changes will be posted on this page. We encourage you to check this page regularly. Your continued use of the Site following any changes to this Privacy Policy will constitute your acceptance of such changes. You agree that the information that we gather now will be subject to the Privacy Policy in effect at the time of use. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Information We Collect**  
-We may collect personal information that you voluntarily give to us such as name, postal address, telephone number, fax number, and email address. For example, we may collect personal information when you purchase merchandise, enter a sweepstakes, become a member, complete a survey or otherwise communicate with the Site. Personal information may also include information we gather about you on the Site such as your purchase history. If you place an order with us or use another feature of the Site that requires payment, we may collect your account or credit card number. We may also collect demographic information that you provide to us, such as your zip code or age. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We may collect non-personal information from you by “passive” means. We may collect your Web site browsing patterns or IP address to analyze the trends, help diagnose problems with our server, gather broad demographic information and administer the Site. We may also set and access cookies to collect information about how the Site is used, to customize the delivery of information, to control the display of advertisements, to record registration and personalized information, and to help us administer the Site. Some of our advertisers may occasionally set cookies as well. We do not have control over cookies placed by advertisers.
+**Information Collection and Use**
 
- **How We Use Your Information**  
-We may use your personal information for customer service, to provide you with the information, product or service that you requested, and to customize your experience on the Site. For example, if you make a purchase on the Site, we may use your e-mail address to send you a purchase confirmation notice and your mailing address to send your purchase. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner and award the prize. We may use third party contractors to help us operate our business and the Site or administer activities on our behalf and may share your personal information with these contractors for those limited purposes. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-Unless you tell us not to, we may also use your personal information to contact you with information we think you might be interested in. If you do not want to receive this information, you can email us anytime at 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-[remove@finestmodels.com](mailto:remove@finestmodels.com). To the extent required by the CAN SPAM Act, commercial email messages will also provide you with an opportunity to opt-out of receiving this information. Please note that changes to your preferences may not be effective immediately and will only be effective prospectively.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also share your personal information with other companies or persons who may offer you services and products of interest. If you do not wish to have your information shared in this way, please e-mail us anytime at 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-[remove@finestmodels.com](mailto:remove@finestmodels.com). Please note that changes to your preferences may not be effective immediately and will only be effective prospectively.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-If you place an order on the Site, we will use your financial information to bill you for products and services or otherwise process your transaction. By making a purchase on the Site, you consent to us providing your financial information to our service providers to process your transactions. These third parties may include credit card companies and banking institutions used to process the transaction.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We may use your demographic information to tailor the Site to you and for internal purposes. We use non-personal information for internal purposes and to help us interact with visitors to the Site. We may also share aggregate demographic information and non-personal information with advertisers so they can tailor their advertisements to the appropriate audience and to illustrate trends and patterns to third parties.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
- **Children**  
-We will not knowingly collect personally identifiable information from children under age 18.
+**Security**
 
- **Sale of Assets, Merger, Acquisition, Bankruptcy**  
-Information collected from you may be transferred to a third party as a result of a sale or acquisition, merger or bankruptcy involving Company. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Other Disclosures**  
-We may also disclose your information in response to court orders or subpoenas or if we determine that it is necessary to so to comply with applicable laws or to protect the interests or safety of Company or other visitors to the Site.
+**Updating Your Information**
 
- **Links**  
-The Site may contain links to other sites including, among others, those of advertisers, and other third parties whose trademarks may appear on the Site. We are not responsible for the privacy practices or the content of the sites to which we provide links. You should carefully review the privacy policies of any linked sites you access via the Site.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
- **Community Functions**  
-The Site may make available to its users chat rooms, forums, message boards, and/or other community functions. Remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information. You should use such community functions at your own risk. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-**Security**  
-Protecting your information is important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**Correct/Update Personal Information**  
-If you would like to review, update, change or delete information that we have collected from you, please send an email to 
+      iii.      You may call us at: (480) 505-8800
 
-[remove@finestmodels.com](mailto:remove@finestmodels.com) or write us to the address below. 
+       iv.      You may fax us at: (480) 505-8844
 
-**Contact Us**  
-Please contact us with any questions or comments regarding our privacy policy: 
+**Sending Emails**
 
-**  
-Effective Date**  
-This privacy policy is effective as of January 1, 2005.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
