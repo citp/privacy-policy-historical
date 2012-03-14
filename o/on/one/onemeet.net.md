@@ -1,82 +1,100 @@
-> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012204537id_/http%3A//www.onemeet.net/ext.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemeet.net privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Incontri Italia | Incontro | Chat | Singles
+# Legal Agreement
 
-**Information Privacy**
+**Go Daddy Respects Your Privacy**
 
-OneMeet Incorporated has the following Privacy Policy with respect to information gathered on Web pages hosted by OneMeet.net. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-OneMeet respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of its Web sites and Services.. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-The OneMeet Privacy Policy describes how we treat personal information when you use OneMeet's products and services, including information provided when you use OneMeet. In addition, the following describes our privacy practices that are specific to OneMeet.. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-By providing information to OneMeet S.P.A. through this site, you acknowledge and consent to the collection, use and disclosure of personally identifying information of the type and for the limited purposes described in this Policy.. 
+**Information Collection and Use**
 
-You expressly accept and give your consent that your personal data obtained in connection with your use of this site may be transferred, if permitted by applicable local legislation, across international borders to server locations supporting this site (including but not limited to transfers from those locations back to the country of your location) for operating and developing this site and OneMeet services, including transfers to OneMeet subcontractors or agents, as mentioned below, who perform tasks related to this site, or OneMeet. services, or for the purposes of storing the data in relevant databases.. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-In particular, the aim of personal data are the following: 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  * To provide the requested services; 
-  * To check out the quality of the offered services; 
-  * to provide to all bookkeeping and tax executions; 
-  * to satisfy market surveies and stats, marketing and preferences about products; 
-  * to go back on behalf to illicit eventual authors in case of detailed lists only demanded and of the competent authorities. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-In case Customer has lend appropriate consent: 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  * to provide the information and/or offering on products, services or initiatives offers or promoted from OneMeet society,affiliate and/or controlled joint-stock corporation and/or from, therefore as from partners it trades them and outsourcers, without that determines the cession of the personal data to subjects thirds party; 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Customer will be able to approach the own data anytime and to exercise the rights of which to the art. 7, D. lgs. 196/2003. 
+**Updating Your Information**
 
-OneMeet joint-stock corporation informs that, to the senses of the art. 7 of the D. lgs. 196/2003: 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-Customer has the right to obtain the personal confirmation of the existence or less than given that regards it, even if not still records to you, and their communication in intelligible shape. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Customer has the right to obtain the indication: 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  1. of the origin of the personal data; 
-  2. of the purposes modality of the treatment ; 
-  3. of the logic applied in case of treatment carried out with the aid of electronic instruments ; 
-  4. of the ends identified to you of the holder, the responsibles and the representative designated to the senses of article 5, codicil 2; 
-  5. of the subjects or the categories of subjects to which the personal data can be communicate to you or that they can come some to acquaintance in quality of representative designated in the territory of the State, of responsible or people in charge . 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
+**Sending Emails**
 
-Customer has the right to obtain: 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  1. the updating, the rectification that is, when it has interest to you, integration of the data ; 
-  2. the cancellation, the transformation in anonymous shape or the block of the data deal to you in law violation, those comprised of which are not necessary the conservation in relation to the scopes for which the data have been collected or subsequently deal to you ; 
-  3. the attestation that the operations of which to the points 1) and 2) they have been capacities to acquaintance, also as far as their content, of those people to which the data have been communicated to you or diffuse, except the case in which such implementation it is revealed impossible or it involved a means employment manifestly regarding the protected right . 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Customer has the right of to set himself against, in all or part: 
+**Third Party Service Providers**
 
-  1. for legitimate reasons to the treatment of the personal data that regard it, pertinent to the aime of the collection ; 
-  2. to the treatment of personal data that regard it to fine of shipment of advertising material or direct selling or for the fulfillment of communication or market researches . 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
+**Supplementation of Information**
 
-Customer, moreover, will have always directed approached via web the own data, like in possession of OneMeet, through the own codes of access ("Username " and "Password "). Customer in this way will be able to integrate to modify or to cancel the data, anytime and without intermediation, independently and under the own responsibility. Through the same interface the Customer will be able to manage the reception, the regularity and the content of the information supplied from OneMeet . 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-The acquired personal data from OneMeet joint-stock corporation could be communicate you to all the dependent, advisory collaborators to whichever title it of our Society, to all the social organs. The same data, moreover, could be communicate to you to controlled society or connected or affiliated to OneMeet joint-stock corporation that is the partners trades them of OneMeet joint-stock corporation (producers, suppliers, carriers, etc.) that is of the societies that carry out surveyings on the preferences of the customers, and that always in the respect of the purposes of the treatment already indicated . 
+**Contests/Surveys**
 
-Cancellation profile: 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-Users can delete own profile going to "My account" area and selecting "delete profile". In this way all data will be removed from our database.. 
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Directions for no receiving emails: 
+**Tell-A-Friend**
 
-You can disable your e-mail address entering the own personal data (nick and password) visiting my account area and selecting "enabled mail to receive messages". Updating page, this entry will be changed with "disabled email". . 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Registration Mail use: 
+**What Happens to my Personal Information if I Opt Out?**
 
-E-mail address has only required during the registration and it will be used from website and our affiliates for newsletters, promotional messages and the website updating. Senders of these messages and the corresponding e-mail addresses will be the following  
-Senders( Alias)  
-OneMeet , Staff OneMeet e OneMeet.Staff  
-E-mail addresses  
-noreply@takeasy.net , no-reply@takeasy.net , no-reply@onemeet.net , noreply@onemeet.net , onemeet@bounce.kiwari.com ),no_reply@onemeet.net. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
