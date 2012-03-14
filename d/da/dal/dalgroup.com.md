@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dalgroup.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203931id_/http%3A//www.dalgroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalgroup.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314223917id_/http%3A//www.dalgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # DAL Group Website Privacy Policy
 
-[](http://www.dalgroup.com/privacy-policy.pdf "PDF")[](http://www.dalgroup.com/privacy-policy.html?tmpl=component&print=1&page= "Print")[](http://www.dalgroup.com/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy5kYWxncm91cC5jb20vcHJpdmFjeS1wb2xpY3kuaHRtbA%3D%3D "E-mail")
+[](http://www.dalgroup.com/privacy-policy?format=pdf "PDF")[](http://www.dalgroup.com/privacy-policy?tmpl=component&print=1&page= "Print")
 
 DAL Group is committed to protecting your privacy. The Website Privacy Policy explains our information gathering and dissemination practices. If you have questions or concerns regarding this Privacy Policy, please contact DAL Group at the e-mail address provided at the end of this Privacy Policy.
 
