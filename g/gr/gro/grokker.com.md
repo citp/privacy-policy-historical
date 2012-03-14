@@ -1,74 +1,100 @@
-> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2009-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090712124630id_/http%3A//www.groxis.com/service/grokker/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Grokker's Privacy Promise
+# Legal Agreement
 
-Groxis knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting Groxis’ website, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+**Go Daddy Respects Your Privacy**
 
-What Does This Privacy Policy Cover?  
-This Privacy Policy covers Groxis’ treatment of personally identifiable information (“Personal Information”) that Groxis gathers when you access Groxis’ website. Also, this Policy covers Groxis’ treatment of any Personal Information that Groxis’ business partners share with Groxis. This policy does not apply to the practices of companies that Groxis does not own or control, or to individuals that Groxis does not employ or manage. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-What Personal Information Does Groxis Collect?  
-Personal Information You Provide to Us  
-We receive and store Personal Information you provide through our website or in any other way, which may include names, billing addresses, credit card information, and contact information. You can choose not to provide us with certain information, but this may prevent you from taking advantage of some features of our site. The Personal Information you provide is used for purposes such as responding to your requests for products and services and customizing the content you see. We may also use Personal Information you provide us to communicate with you about specials and new products and for other marketing purposes, but only if you have given us your permission to do so. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Personal Information Collected Automatically  
-We receive and store certain types of information from your browser whenever you interact with our website, including your IP address, Groxis cookie information (described below), and the page you requested. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Our website automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. Groxis only uses this data in aggregate form, and not in a manner that would identify you personally. This type of aggregate data tells us how often customers use parts of our website so that we can make improvements accordingly. We may provide such aggregate information to our partners about how our customers, collectively, use our site and their services so that they, too, may provide you with an optimal online experience. 
+**Information Collection and Use**
 
-Email Communications  
-We often receive a confirmation when you open an email from Groxis if your computer supports this type of program. Groxis uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-What About Cookies?  
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Groxis cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to identify you, your screen name or your email address. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you fully to take advantage of our websiteÃ¢â‚¬â„¢s features, some of which will not be available if cookies are declined. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Will Groxis Share Personal Information It Receives?  
-We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with the subsidiaries that are under control of Groxis and as described below. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Affiliated Businesses We Do Not Control  
-We are affiliated and work closely with a variety of businesses that may sell items to you through Groxis’ website or that may provide services, or sell products jointly with Groxis. When an affiliated business is associated with your transaction, we may share customer information that is related to such transactions with that affiliated business. 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Agents  
-We employ other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples include fulfilling orders, sending email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. Unless we tell you differently, Groxis’ agents do not have any right to use Personal Information we share with them beyond the scope of their assistance to Groxis. 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-Promotional Offers  
-If you have given us your permission, we may send offers to certain customers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. 
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-Business Transfers  
-Customer information is one of the business assets that may be transferred if Groxis elects to buy or sell assets. Moreover, if Groxis, or substantially all of its assets or business, were acquired, or in the unlikely event that Groxis goes out of business or enters bankruptcy, customer information would be one of the assets that could be transferred to a third party. You acknowledge that such transfers may occur, and that any successor to Groxis may continue to use your Personal Information as set forth in this policy. 
+**Security**
 
-Protection of Company and Others  
-We may release Personal Information when we believe in good faith that release is necessary to comply with the law or protect the rights, property, or safety of Groxis, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-With Your Consent  
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
+**Updating Your Information**
 
-Is Personal Information About Me Secure?  
-Your Groxis account Personal Information is protected by a password for your privacy and security. However, it is important that you protect against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We use industry-standard Secure Socket Layer (SSL) software to protect the security of your Personal Information during transmission. This software encrypts all of the information you input. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-What Personal Information Can I Access?  
-Groxis allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as our website changes. 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * Billing information   
+      iii.      You may call us at: (480) 505-8800
 
-  * Password information  
+       iv.      You may fax us at: (480) 505-8844
 
-  * Contact information 
+**Sending Emails**
 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-When you update information, we often maintain a copy of the unrevised information in our records. 
+**Compliance with Laws and Law Enforcement**
 
-You may request deletion of your Groxis account by sending an email to [support@groxis.com](mailto:support@groxis.com). Please note that some information may remain in our records after deletion of your account. Such information includes: 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  * Previous transactions 
+**Third Party Service Providers**
 
-Changes to This Privacy Policy  
-Groxis may amend this Privacy Policy from time to time. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes to this Privacy Policy, we will notify you by posting an announcement on our website. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Questions and Concerns  
-If you have any questions or concerns regarding privacy at Groxis’ site, please send us a detailed message to [support@groxis.com](mailto:support@groxis.com). We will make every effort to resolve your concerns. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
