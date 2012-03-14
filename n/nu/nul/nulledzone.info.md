@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nulledzone.info privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824024809id_/http%3A//www.nulledzone.info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulledzone.info privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314075725id_/http%3A//www.nulledzone.info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - NulledZone.info
 
