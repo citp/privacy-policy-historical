@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficmp.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112100724id_/http%3A//epicmarketplace.com/privacy.php%3Fid%3Dcorporate) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmp.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314041730id_/http%3A//www.epicmarketplace.com/privacy.php%3Fid%3Dcorporate) for the most accurate reproduction.*
 
 # Epic Marketplace - Privacy Policies.
 
