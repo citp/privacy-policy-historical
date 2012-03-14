@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012083929id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314153445id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
 **Internet Privacy Policy  
-**At Liberty Mutual we are dedicated to "Helping People Live Safer, More Secure Lives", our commitment to this message is carried through by "securing" your privacy on the web. Please read the following Internet Privacy Policy which explains how we at Liberty Mutual endeavor to build your trust and security through our web policies.
+**At Liberty Mutual Insurance we are dedicated to "Helping People Live Safer, More Secure Lives", our commitment to this message is carried through by "securing" your privacy on the web. Please read the following Internet Privacy Policy which explains how we at Liberty Mutual Insurance endeavor to build your trust and security through our web policies.
 
 This Internet Privacy Policy applies to your visit to our web site www.libertymutual.com and its affiliated sites. If you are an individual who has purchased an automobile, homeowners, or life insurance product from Liberty Mutual, or if you are a claimant under a disability policy, you or your employer have received or will be receiving in the mail a copy of Liberty Mutual's Privacy Disclosure Statement which contains important additional information about our privacy practices.
 
@@ -58,21 +58,25 @@ What is a cookie? Cookies are sets of information that our web server assigns to
 **About Pixel Tags and DoubleClick Spotlight tags**  
 We use pixels tags, or transparent GIF files, and DoubleClick Spotlight Tags to help manage our online advertising and promotions.  These tags collect anonymous (not personally identifiable) information about which advertisements and promotions bring users to our Web site.  The Spotlight Tags enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn how users respond to our online advertisements and promotions. With both cookie and tag technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of the Spotlight Tags, please go to <http://www.doubleclick.net/us/corporate/privacy/index.aspx>.
 
+**Behavioral Advertising Compliance Disclosure**  
+Liberty Mutual and/or our partners may use data collected on this site to customize ads to you on other web sites as you browse the Web. If you do not want your browsing behavior used for online behavioral advertising purposes, CLICK HERE to opt-out from Liberty Mutual and/or CLICK HERE to opt-out of our third party partners.
+
+**DAA Compliance Disclosure**  
+Liberty Mutual uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) (http://www.aboutads.info). As part of this service, Liberty Mutual’s online advertisements and Web sites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
+
   
 **Non Liberty Mutual Web Sites**    
 Liberty Mutual is not responsible for the privacy practices or the content of any other web sites on the Internet that may be linked to the Liberty Mutual web site. Please note that when you click on links to web sites outside of www.libertymutual.com, you are transferred to another web site that may not be under Liberty Mutual's control. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
 
-  
 **Sharing Information Gathered  
 **The Liberty Mutual web site is designed to give our customers, prospective customers, and visitors a confidential means of gathering information about our Company, services and products and for doing business with us over the Internet. Our site will only collect information that you voluntarily provide in order for us to service your request. If you have provided personal information on our web site in order to obtain a policy quote, administer your insurance policies, ask us a question, or register for a Liberty Mutual sponsored event, we may need to share that information with authorized third parties, if necessary to service your request. We do not sell any customer information to mailing list companies or telemarketing companies.
 
-  
 **Protecting Information Gathered and Security**  
-Personal information you have provided is limited to employees and agents of Liberty Mutual who need to know that information in order to service your request. Liberty Mutual maintains physical, electronic, and procedural safeguards that comply with applicable regulations to guard your personal information. Liberty Mutual retains the information collected for as long as required or permitted by law or regulation.
+Personal information you have provided is limited to employees and agents of Liberty Mutual who need to know that information in order to service your request. Liberty Mutual maintains physical, electronic, and procedural safeguards that comply with applicable regulations to guard your personal information. Liberty Mutual retains the information collected for as long as required or permitted by law or regulation. **  
+**
 
-  
 **Notification of Changes**  
-This Internet Privacy Policy may be modified from time to time. If we change our Internet Privacy Policy, we will post those changes on this web site www.libertymutual.com. You may wish to visit this page periodically to review the most recent Internet Privacy Policy.
+Liberty Mutual reserves the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting to this Web site. Under certain circumstances (for example, in connection with certain material changes, including changes to our Online Behavioral Advertising data collection use policies and practices), we may also elect to notify you of changes or updates to our Privacy Policy, or to request your consent for such changes, by additional means, such as posting a notice on the front of our Web site to sending you and e-mail.
 
   
 **This Internet Privacy Policy applies to the following Liberty Mutual Subsidiaries and Affiliates**  
