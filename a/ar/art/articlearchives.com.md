@@ -1,108 +1,100 @@
-> *The following text is extracted and transformed from the articlearchives.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070014id_/http%3A//www.articlearchives.com/computing/software-services-applications/37780-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlearchives.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal Agreement
 
-About ArticleArchives.com
+**Go Daddy Respects Your Privacy**
 
-**Posted 8/25/2008**
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-ArticleArchives.com, a member of the D&B family of companies, is an online media service that operates one of the most complete article resource sites on the Web. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us on ArticleArchives.com and to assist you in making informed decisions when using our Web site and services. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-If you have questions or concerns regarding this notice, you should first contact [Customer Service](http://www.allbusiness.com/2984617-1.html).  
+**Information Collection and Use**
 
-**What information Do We Collect?**
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-When you visit our Web site, you may provide us with two types of information: personal information that you knowingly choose to disclose that is collected on an individual basis; and Web site use information that is collected on an aggregate basis as you and others browse our Web site.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**1.      Personal Information You Choose to Provide**
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-**Registration Information**
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-You will provide us limited information about yourself when you register to be a member of ArticleArchives.  This data collection includes standard registration information, such as your e-mail address and the creation of your personal password for accessing the ArticleArchives Web site..
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-**E-mail Information**
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-If you choose to correspond with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**2.      Web site Use Information**
+**Security**
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see "What Are Cookies?" explanation below) and Web server logs (“log files”) to collect information about how our Web site is used.  Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent on our Web site, and the Web sites visited just before and just after our Web site.  We, our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear GIF’s" to determine which advertisements and promotions users have seen and how users responded to them.  Personally identifiable information is not stored in these cookies, web beacons or clear GIF’s.  We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate, for usage and volume purposes, to help us better understand the needs of our visitors.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**How Do We Use the Information You Provide to Us?**
+**Updating Your Information**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service, and making available other products and services to our customers and prospective customers.  We occasionally also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.  You have the opportunity to opt in or opt out of these specific types of communications in our [Member Center](http://www.articlearchives.com/1876585-1.html).  You have the opportunity to opt out any time you receive an e-mail from us by using the link provided at the bottom of the e-mail communication.  You may also notify us at any time if you do not wish to receive these offers by contacting us.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-**Communications from Our Site & Opt-out Options**
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-If you register with our Web site, you can expect to receive a welcome e-mail.  Once you have registered, you will receive any of the communications (newsletters, updates, alerts) that you have opted in to receive.  From time to time, we may need to send critical service updates from the Web site.  You may not opt out of receiving these critical service updates.  If you wish to change your preferences for receiving communications from our Web site, please visit our [Member Center](http://www.articlearchives.com/1876585-1.html) to change your preferences or [contact us](http://www.allbusiness.com/2984617-1.html). 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-**What Are Cookies?**
+      iii.      You may call us at: (480) 505-8800
 
-A cookie is a very small text document that often includes an anonymous unique identifier.  When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies.  Each Web site can send its own cookie to your browser if your browser's preferences allow it.  In order to protect your privacy, your browser only permits a Web site to access the cookies it has already sent to you and not the cookies sent to you by other sites.  Some of our business partners (e.g. advertisers) use cookies that originate from their Web sites.  We have no access to, or control over, these cookies.  For more information, see "Third Party Advertisers." 
+       iv.      You may fax us at: (480) 505-8844
 
-**How Do We Use the Information We Collect from Cookies?**
+**Sending Emails**
 
-As you browse our Web site, the site uses its cookies to differentiate you from other members.  In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or from having to log in more times than is necessary during the same session.  Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and to assess which parts of the site are most popular.  This helps us gather feedback in order to constantly improve our Web site and better serve our customers.  Cookies do not allow us to gather any personal information about you and we do not store any personal information that you provided to us in your cookies.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Sharing Information with Third Parties**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We do not share your personal information with any other third parties.  In the future, we may enter into alliances, partnerships and other business arrangements with third parties who will be given access to personal information (including your e-mail address) for the purpose of providing you information regarding products and services that we think will be of interest to you and that you have opted in to receive.  If you opt out of receiving such communications in our [Membership Center](http://www.allbusiness.com/3471024-1.html), we will honor your opt-out.
+**Compliance with Laws and Law Enforcement**
 
-**Service Providers**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-We use third parties to perform e-mail services on our Web site.  An e-mail service provider will provide our e-mail services.  We will share e-mail information, as necessary, with the third party to provide that service.
+**Third Party Service Providers**
 
-These third parties are prohibited from using your personally identifiable information for any other purpose, including their own marketing purposes.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-**Business Transitions**
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-As we develop our business, we may buy or sell assets or business offerings.  Customer, e-mail and visitor information is generally one of the transferred business assets in these types of transactions.  We may also transfer such information in the course of corporate divestitures, mergers or any dissolution.  You will be notified via e-mail of any such change in ownership or control of your personal information.
+**Supplementation of Information**
 
-**Third Party Advertisers**
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-The ads appearing on this Web site are delivered to users by Google and/or DoubleClick, our advertising partners.  We share aggregate Web site usage information about users with potential advertisers for the purpose of targeting our Internet advertisements on this site.
+**Contests/Surveys**
 
-DoubleClick uses cookies and clear GIF’s on this Web site, which allow it to recognize a user's cookie when a user visits the site.  The information that DoubleClick collects and shares through this technology is not personally identifiable.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-For more information about our third-party advertisers or to learn more about the choices available to you regarding this anonymous information, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Email-A-Friend**
+**Tell-A-Friend**
 
-If you choose to use the Email-A-Friend referral service to tell a friend about information you’ve found on our Web site by forwarding an article, we will ask you for your friend’s name, e-mail address and any comment you wish to make to your friend.  We will automatically send your friend a one-time e-mail by forwarding the article to your friend.  We do not store this information and it is used for the sole purpose of sending this one-time e-mail.  We will not use your friend’s e-mail for marketing purposes and/or share it with any other party.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**Notice of New Services and Changes**
+**What Happens to my Personal Information if I Opt Out?**
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.  You have the opportunity to opt in for these notifications at registration and you have the opportunity to notify us of your desire not to receive these offers by contacting us at a later date.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-**How Do We Secure Information Transmissions?**
+**Transfer of Data Abroad**
 
-The security of your personal information is important to us.  When you enter information on our registration forms, we encrypt that information using secure socket layer (SSL) 128-bit encryption technology.  Pages that utilize this technology will have URL’s that start with HTTPS instead of HTTP.  To learn more about SSL, [click here](http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html).
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  However, no method of transmission over the Internet and no method of electronic storage is 100% secure.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Changes in Our Practices**
 
-E-mail is not recognized as a secure medium of communication.  For this reason, we request that you do not send private or sensitive information to us by e-mail.  If you have any questions about security on our Web site, please [contact us](http://www.allbusiness.com/2984617-1.html). 
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**How Can You Access and Correct Your Information?**
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-You can view and update your registration information online on our [Member Center](http://www.articlearchives.com/1876585-1.html) page.  You may also request access to all of your personally identifiable information that we collect and maintain in our database by [contacting us](http://www.allbusiness.com/2984617-1.html).
+**Contacting Our Site**
 
-**Certain Disclosures**
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-We may disclose your personal information if required to do so by law or subpoena, or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or our Affiliated Parties (as defined in our Terms of Use Agreement); (b) protect and defend our rights and property, our site, the users of our site and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of our site, ourselves or third parties.
+* * *
 
-**What About Other Web sites Linked to Our Web site?**
-
-We are not responsible for the practices employed by Web sites linked to or from our Web site, nor are we responsible for the information or content contained therein.  Links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
-
-Please remember that, when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect.  Your activities and interaction on any other Web site, including Web sites that have a link on our Web site, is subject to that Web site's own rules and policies.  Please review those privacy rules and policies before proceeding.
-
-**Your Consent**
-
-By using our Web site, you consent to our collection and use of your personal information as described in this Privacy Policy.  If we make material changes to our privacy practices, we will post those changes on our Web site to keep you informed of what information we collect, how we use it and under what circumstances we may disclose it.
-
-ArticleArchives.com   
-650 Townsend Street   
-Suite 675   
-San Francisco, CA 94103
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
