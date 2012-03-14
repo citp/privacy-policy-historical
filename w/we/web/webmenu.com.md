@@ -1,43 +1,103 @@
-> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224124726id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmenu.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314152959id_/http%3A//www.webmenu.com/docs/privacy/index.html) for the most accurate reproduction.*
 
 # WebMenu: Docs > Privacy Policy
 
-|  **Privacy Policy**  
----  
-**[Terms and Conditions](https://web.archive.org/web/20051224124726id_/http%3A//www.webmenu.com/docs/terms/index.html)**  
- |  | 
+**PRIVACY**
 
-Our Privacy Policy:
+At WebMenu we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by WebMenu LLC. or its subsidiaries or affiliated companies collectively, WebMenu's "services." In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information. These notices can be found in the WebMenu Privacy Information. 
 
-As a responsible free access site, WebMenu, Inc.  always respects the privacy of all visitors. However, by using this site you are assumed to be fully agreed to the following terms & conditions:  
-  
----  
-  
-Background:  
-  
-When you register at WebMenu, Inc., we ask you for personal information. We use this information to process your orders and to communicate with you about the status of your orders. We also use your email address to send you messages about WebMenu, Inc. special offers, promotional announcements and consumer surveys. To look at our EULA [click here](https://web.archive.org/web/20051224124726id_/http%3A//www.webmenu.com/docs/privacy/memberserviceagreement.html).  
-  
-Collection and Use of Information:  
-When you first register at WebMenu, Inc. we ask for your email address and a password. When you place your first order for the WebMenu Service, we ask you for your full name, physical address, telephone number and credit card number so we can process your order. We use your telephone number only if there is an order-related issue, not for marketing purposes. You must certify that you are at least 18 years old. (People under 18 cannot obtain WebMenu's. services.) Our servers stores this information so that placing future orders will be quicker and easier. If you want to update your address or change credit cards, go to Your Account and make the appropriate changes. You must be signed in to access Your Account Info. We also track your order and billing history so you can access Your Account and immediately determine which orders you've places, how you paid for them and to what establishment they went to.   
-  
-**Promotion and Marketing:**  
-We do not allow commercial ad-banners (image based), pop-ups and similar elements in our sites. However, some services may generate image based product/item links as part of the served content. During the process of delivering such elements to you, WebMenu, Inc. **DOES NOT** collect any personally identifiable information about you such as name, address, phone number, or e-mail address.  WebMenu, Inc. and/or an authorized agency/advertiser may obtain some types of NON-PERSONALLY IDENTIFIABLE information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example) or the IP address assigned by your ISP. This information is used for the purpose of serving targeted or appropriate content and measuring effectiveness of the service ONLY. Any personal details submitted to WebMenu, Inc  are used for internal purposes ONLY. UNDER NO CIRCUMSTANCES any such information is made public or openly distributed or passed on to a third-party or used for bulk mailing.   
-  
-Viewing and Updating Your Information on WebMenu:  
-You can always access the personal information you have provided to WebMenu, Inc. by going to Your Account. You can make changes to this information to update your account anytime. You must be logged in to view any personal information.  
-  
-**Copyright/Patent Pending:**  
-WebMenu, Inc unique user-interface and design are fully owned properties of WebMenu, Inc . WebMenu, Inc. Retains two Federal Copyrights **(FEDERAL COPYRIGHT NUMBERS TXU1210197 SERVER SOURCE CODE & TXU1210196 IFRAME PLUG-IN SOURCE CODE)** and a Patent Pending for the same technology.   
-  
-Disclosure:  
-Except as described in this section, we will not sell, rent or disclose your personally identifying information to third parties without notifying you of our intent to share the information and giving you an opportunity to prevent your information from being shared. We occasionally use other companies, agents or contractors to perform services necessary to our operations. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, analyze customers' interaction with our site and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifying information. We will not be liable for any damages that may result from the misuse of your personal information by these companies. Any exceptions to this policy of sharing your name, address or email address with a partner company will be done only with your permission. WebMenu, Inc. also reserves the right to disclose information when required by law. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We do this so that we and our advertisers can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific users. Customers should check back for updates to this policy. WebMenu will obtain email consent from any user if the company is going to be using the information collected in a manner different from that stated when the user registered.   
-  
-Security and Access:  
-For transmitting your personal information to us, we use a VeriSign Secure Server (SSL), which encrypts all of your personal information. This encryption process ensures that the information you give us is protected against unauthorized access. You can access Your Account from every page on the site to update and correct your name, email address, password, postal address, credit cards, and mailing list preferences. Please note that you must be signed in to WebMenu to access this information. We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk.   
-  
-**Disclaimer:**  
-WebMenu, Inc metasearch and all other services are provided as-is and that accuracy, reliability and timeliness of served materials cannot always be guaranteed.  In no event shall WebMenu, Inc.  be responsible for any direct or indirect or incidental or punitive damages of any kind resulting from the use of the services provided. You agree to use the service solely at your own risk.  
-  
-Contact:  
-If you have questions concerning your account, please contact Customer Service at 800-605-3791. If you have questions concerning this privacy policy, please contact [privacy@webmenu.com](mailto:privacy@webmenu.com).   
+WebMenu adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is in the process of registering with the U.S. Department of Commerce's Safe Harbor Program.
 
+If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at 
+
+**WebMenu LLC.  
+PO BOX 349000 # 280  
+Kailua, Hawaii 96734  
+USA **
+
+I **nformation we collect and how we use it**
+
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as WebMenu Search. In order to provide our full range of services, we may collect the following types of information:
+
+**_Information you provide_** \- When you sign up for a WebMenu Account or other WebMenu service or promotion that requires registration, we ask you for personal information (such as your name, company name, email address, address, billing address, URL, phone number and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other WebMenu services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
+
+_**Cookies**_ \- When you visit WebMenu, we send one or more cookies - a small file containing a string of characters \- to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search. WebMenu also uses cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set one or more cookies in your browser when you visit a website, including WebMenu sites that use our advertising cookies, and view or click on an ad supported by WebMenu's advertising services. 
+
+_**Log information**_ \- When you access WebMenu services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+
+_**User communications**_ \- When you send email or other communications to WebMenu, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. _**Affiliated WebMenu Services on other sites**_ \- We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to WebMenu in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies. 
+
+_**Gadgets**_ \- WebMenu may make available third party applications through its services. The information collected by WebMenu when you enable a gadget or other application is processed under this Privacy Policy. Information collected by the application or gadget provider is governed by their privacy policies. 
+
+_**Location data**_ \- WebMenu may offers thired party location-enabled services, such as Maps for mobile. If you use those services, WebMenu may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID). Information collected by the applications or GPS is governed by the third privacy policies. 
+
+**_Links_** \- WebMenu may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. Read more information about links and redirected URLs. 
+
+_**Other sites**_ \- This Privacy Policy applies to WebMenu services only. We do not exercise control over the sites displayed as search results, sites that include WebMenu applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+
+WebMenu only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+
+* Providing our services, including the display of customized content and advertising;  
+* Auditing, research and analysis in order to maintain, protect and improve our services;  
+* Ensuring the technical functioning of our network;  
+* Protecting the rights or property of WebMenu or our users; and  
+* Developing new services. 
+
+You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services.
+
+WebMenu processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.  
+Choices for personal information
+
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some WebMenu features and services may not function properly if your cookies are disabled.
+
+WebMenu may use third party advertising cookies on partner sites and certain WebMenu services to help advertisers and publishers serve and manage ads across the web. You can view, edit, and manage your ads preferences associated with this cookie by accessing the Ads Preferences Manager. In addition, you may choose to opt out of the third psrty cookies at any time by using there opt-out cookie.
+
+You can decline to submit personal information to any of our services, in which case WebMenu may not be able to provide those services to you.  
+Information sharing
+
+WebMenu only shares personal information with other companies or individuals outside of WebMenu in the following limited circumstances:
+
+* We have your consent. We require opt-in consent for the sharing of any sensitive personal information.  
+* We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
+* We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of WebMenu, its users or the public as required or permitted by law. 
+
+If WebMenu becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+Please contact us at the address below for any additional questions about the management or use of personal data.  
+Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to WebMenu employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.  
+Data integrity
+
+WebMenu processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.  
+Accessing and updating personal information
+
+When you use WebMenu services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.  
+Enforcement
+
+WebMenu regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or WebMenu's treatment of personal information by contacting us through this web site or by writing to us at 
+
+**WebMenu LLC.  
+PO BOX 349000 # 280  
+Kailua, Hawaii 96734  
+USA **
+
+When we receive formal written complaints at this address, it is WebMenu's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between WebMenu and an individual.  
+Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at 
+
+**WebMenu LLC.  
+PO BOX 349000 # 280  
+Kailua, Hawaii 96734  
+USA **
