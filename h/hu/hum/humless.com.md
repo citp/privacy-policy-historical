@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021510id_/http%3A//www.humless.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314134410id_/http%3A//www.humless.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Portable Quiet Solar Backup Generator
 
