@@ -1,25 +1,100 @@
-> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506000500id_/http%3A//kikizo.biz/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levelskip.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Kikizo.biz - Privacy
+# Legal Agreement
 
-  
-Kikizo Network Privacy Policy We respect the privacy of our users. Click [here](http://kikizo.biz/legal.asp) for legal background details. On this page, you will find details on our privacy policy. 
+**Go Daddy Respects Your Privacy**
 
-**Standard User Data.** The standard data we collect about our users is not personally identifiable information. This means it is not information which identifies users as an individuals. By using any of Kikizo's services or reading its content, you agree that you understand the nature this data collection. Parts of Kikizo use cookies to better provide our services and information. On the Internet, a "cookie" is file that a website transfers to a user's computer for record-keeping purposes. This is a common feature of many websites on the Internet, and is employed by Kikizo to better serve to you our services and content. The file that is stored on your computer is small in size and does not identify you personally. When you log onto our websites, certain standard information is normally collected by our servers. This information may include, but is not limited to, the location or website from which you came; the time you spend on parts of Kikizo or its related sites; the operating system you use on your computer; the browser you use to view the site (for example Microsoft Internet Explorer); the amount of information you access from Kikizo; your geographical location (specific only to country and/or county/state/etc.); the ISP (Internet Service Provider) from which you are accessing the Internet and subsequently Kikizo; and your IP (Internet Protocol) address. Your IP address is a number designated by your Internet Service Provider that identifies the account you are using to access the Internet with your Internet Service Provider, and/or the Internet Service Provider you are using to access the Internet. This data collection is standard and common to most websites on the Internet. We do not collect or store this data for prolonged periods of time; it is standard to web traffic analysis software in order to calculate the number of unique users a website receives over a period of time (typically, one calendar month) for marketing and/or other purposes. An area of Kikizo exempt from this practise is the discussion forum, which may display your IP address as a means of tracking your use of the forums. Kikizo will not otherwise knowingly retain and/or disclose this standard data other than in aggregate forms, including, but not limited to, general demographic data, which Kikizo may use to improve its services. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Personal User Data.** The only ways in which Kikizo may receive personally identifiable information about you is if you knowingly and willingly provide the information through of our service areas, including, but not limited to, contests and email communication. In such areas, the information you disclose is done so by users knowingly and willingly. The personally identifiable information you disclose is optional, and is normally required so as to effectively enter you into a contest we may offer. We may, from time to time, collect data on our users. Users may provide personally identifiable information, knowingly and of their own accord. This information is provided at the user's discretion. This personally identifiable information will be destroyed after a period of one (1) year, or when it is no longer required, in accordance with the Data Protection Act 1998. Kikizo may share the aggregate results of the data it receives, with advertisers and partners to help them better understand our services and their opportunities, although we will not disclose personal data. 
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Protection.** No computer system is one hundred per cent protected, and although the means through which data is submitted to Kikizo are reasonably safe, we cannot guarantee that data will not unlawfully be retrieved by third parties. When data is submitted to Kikizo, it may come via a number of networks and/or machines, and although we use our best endeavours to make sure that the data is not intercepted, we cannot guarantee that this will be the case, unless indicated by a secure ("https") connection 'lock'symbol', which may still be subject to extreme rare security exploits. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Opting Out.** From time to time, Kikizo may offer its users the chance to receive information from Kikizo or thirdparties, in services including, but not limited to, news, contests and promotions. You will always have the choice to opt out from such opportunities. If you do not opt out, you will always have the choice to opt out from whichever service you may have subscribed to, either by emailing the third party service you subscribed to, or by emailing info@kikizo.com. We will never sell your email address or other personal details to third parties. 
+**Information Collection and Use**
 
-**Advice.** We recommend that you do not voluntarily disclose personal information in public areas of Kikizo, although we do not prevent you from doing this. Public areas of Kikizo include, but are not limited to, the Kikizo Forums. We advise that all users of this service, and other public services at Kikizo, use the service sensibly and with caution, as we cannot be held responsible for the results of the disclosure of any information that may occur in these areas. 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-**Children.** Although the main demographic of Kikizo does not encompass children below the age of thirteen (13), we welcome users of all ages to our content and services. If you are under the age of thirteen (13), we do, however, specifically request that you have the permission of your parents or legal guardian to view any content at Kikizo and to take part in any and all services we offer, as we cannot be held responsible for any information received or disclosed by our users. Kikizo Network is aimed at teenage and adult audiences and may contain language and themes that are inappropriate for young children. 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-**Notes to Parents.** We respect that you may wish to monitor the content and services your child uses on the Internet. If you wish for your child to be removed from any and/or all Kikizo services, please send an email specifically requesting your wish to info@kikizo.com. Please note, however, that while we will subsequently use our best endeavours to prevent your child from using our services, we cannot and will not be held responsible for access to our services your child may subsequently gain, as this is out of our control. 
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-Please bear in mind these policies. Kikizo reserves the right to change this information and its policies at any time. 
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+
+**Updating Your Information**
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+      iii.      You may call us at: (480) 505-8800
+
+       iv.      You may fax us at: (480) 505-8844
+
+**Sending Emails**
+
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
