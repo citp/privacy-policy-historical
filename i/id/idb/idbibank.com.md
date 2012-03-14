@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idbibank.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119000115id_/http%3A//idbibank.com/Privacy_policy%2520.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idbibank.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314022754id_/http%3A//www.idbibank.com/Privacy_policy%2520.asp) for the most accurate reproduction.*
 
 # :: IDBI Bank Ltd ::
 
@@ -46,7 +46,7 @@ The Bank’s website does not use Cookies.
 **Links to other websites**  
 The Bank’s website may contain links to other websites of interest. Please note that once the Visitor opts to link to other websites by leaving the Bank’s site, the Bank shall not be responsible for protection of further disclosure of information and this Privacy Policy/statement cease to be applicable for such disclosure of information. The Visitor may therefore, like to exercise caution and look at the privacy statement applicable to those websites. 
 
-The Bank's Policy on use of Hyperlink to/from other websites is attached here for your perusal. [HYPERLINK POLICY](https://web.archive.org/web/20111119000115id_/http%3A//idbibank.com/hyperlink_policy%20.asp)[.](https://web.archive.org/web/20111119000115id_/http%3A//idbibank.com/hyperlink_policy%20.asp)
+The Bank's Policy on use of Hyperlink to/from other websites is attached here for your perusal. [HYPERLINK POLICY](https://web.archive.org/web/20120314022754id_/http%3A//www.idbibank.com/hyperlink_policy%20.asp)[.](https://web.archive.org/web/20120314022754id_/http%3A//www.idbibank.com/hyperlink_policy%20.asp)
 
 **IMPORTANT:** The Bank reserves its right to amend the present Privacy Policy at any time and will place such amended Privacy Policy, if any, on its website. This Privacy Policy is neither intended to and nor does it create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on the Bank in respect of any other party or on behalf of any party. By accessing this website and any of its pages you are agreeing to the terms set out above. Thank you for choosing IDBI Bank Ltd.
 
