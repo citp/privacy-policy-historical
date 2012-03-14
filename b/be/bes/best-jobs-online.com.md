@@ -1,174 +1,81 @@
-> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927101627id_/http%3A//www.best-jobs-online.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315004944id_/http%3A//best-jobs-online.com/common/advertise/ob/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### DARK BLUE SEA - PRIVACY POLICY
+PRIVACY POLICY
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Last Update: 10/18/11
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+We are committed to advising you of the right to your privacy and strive to provide a safe and secure user experience.  This Privacy Policy sets forth the online data collection and usage policies and practices that apply to our website.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+By using out website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personally identifiable information [PII] and non-personally identifiable [Non-PII] information about you in the manner described in this policy.  Please read this Statement carefully as it affects your rights and liabilities under the law.  If you disagree or do not accept with the way we collect and process your PII or Non-PII, please do not use this website.
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+## Scope of this Policy
 
+This policy applies to this website and regulates the processing of PII provided by you and Non-PII collected by us during your visit to our Website. It describes what type of information we collect; how we use that information and to whom we can provide that information.  It also informs you of how to notify us to stop collecting and providing your information.  We are located in the United States and by registering on our website, you agree to be governed by the laws of the United States.
 
+Our website predominantly contains links to third party websites over which we have no control. As such, we are not responsible for the privacy policies or practices of third party websites when you choose to link to them from our website. We encourage you to review the privacy policies and terms of use of those third party websites to understand how they collect, use and share your information.
 
-#### ABOUT THIS PRIVACY POLICY
+## Information We Collect and Retain
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+We collect the following general types of information about you when you contact us regarding  our website:  
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+Personally identifiable information [PII]: is information that can be used to personally identify you.  We do not collect PII.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+Behavioral information: is information pertaining to how you use our website; the areas of our website that you visit; what ads or services you accessed; and information about your computer hardware and software including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet and other website you have been referred to us through. This information is necessary to analyze the use of resources, troubleshooting problems, preventing fraud, and improving our services and products.
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+Web technology information: is information we automatically collect from you when you open one of our emails or visit our Website.  This includes information collected from the use of cookies, web beacons or java script as discussed below.  
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+No Information Collected from Children:  We never knowingly collect any Personal Information about children under the age of 13\.  If we obtain actual knowledge that we have collected Personally Identifiable Information about a child under the age of 13, that information will be immediately deleted from our database.  Because we do not collect such information, we have no information regarding its use or disclose to third parties.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+## Use of Cookies, Web Beacons, and Java Script
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+Cookies: “Cookies” are a feature in your browser software.  If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of our Website. Cookies assist us in tracking which of our features appeal the most to you and what content or links you view or may have viewed on past visits.  When you visit our site again, cookies can enable us to customize our content according to your preferences.  We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your past viewing history or the email or site that directed you to our Website.  You can disable cookies, although the website may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set.  You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of our Website, you need to accept cookies.
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+Removing Cookies:  You have the ability to accept, decline or remove cookies at any time by modifying your browser settings. Please see http://cookiecentral.com. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on our website. The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.
 
-In order to do this, we share your personal information with our related companies.
+Web Beacons:  We also use electronic images known as web beacons (sometimes called single-pixel gifs, clear gifs or action tags) that allow us to collect certain information about your visit to these Web pages (including the number of users who have visited those pages).  This measures and improves the effectiveness of advertisements and delivery of services. Web beacons are not used to access your PII; they are a technique used to compile aggregated statistics about website usage.  Web beacons collect only a limited set of information including a cookie number, time and date of page view and a description of the page on which the Web beacon resides. This information may be shared with one or more third parties so that they can understand the types of visitors to our website; how those visitors use our website; and the effectiveness of advertisements. We may also use web beacons in email messages sent to individuals listed in our database.
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+Disabling Web Beacons:  Because web beacons are the same as any other content request, you cannot opt out or refuse them.  However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
 
-#### HOW WE COLLECT INFORMATION
+JavaScript:  We may also use JavaScript within certain advertisements. JavaScript is a computer language that enhances the functionality of our website, particularly with respect to pictures.  We do not collect any PII through JavaScript but use it to analyze and improve our website’s functions.
 
-**Personal Information provided to us**
+Disabling JavaScript:  You may deactivate JavaScript via your browser settings or activate it the same way.  If you disable JavaScript you will not be able to use some of the functions of our website.
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+IP Addresses:  Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by web servers and collect information about a user's traffic patterns.  While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the web. Your IP address can reveal what geographic area you are connecting from and which ISP you are using. We automatically track certain information based upon your actions on our website.  We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from and which URL you next go to after visiting our website, your computer browser information in addition to your IP address.
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+Computer Profiles:   We may also collect and accumulate other anonymous data which will help us understand and analyze the experience of our visitors. For instance, we may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with PII, we are able to use such visitor data to identify you.
 
-**Website activity, cookies and related technology**
+## How We Use the Information Collected
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+Providing Services:  We use the information we gather on our Website for the purposes of providing the services or advertisement you have requested.  This may include passing your information on to a third party who we have a contract to provide such services.  Although our contractual arrangement limits how such third party can use your information, we do not control the privacy practices of this third party.  If you have any questions or wish to remove your information from the third party’s database, you will need to contact that party directly.  
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+Improving our Website:  We also use the information we gather on our Website to respond to any inquires you make; operate and improve our Website, improve and create a positive user experience on our website; and deliver the services you requested from our Website. Our services include the display of personalized products, content, and advertising relating to your experience and interests. The information we gather on our Website may be shared with other companies under common ownership with ours throughout the world or our Advertisers.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+## Disclosure of Information to Others
 
-**IP Addresses**
+We disclose to third parties throughout the world your combined the information we collect, as set forth below:
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+Service Delivery and Vendors:  We share your information with third parties who help us in the delivery the services you have requested. We disclose your information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance and provide customer service. These companies and individuals may not share that information with any other third party or use that data for any other purpose.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+Anonymous information:  We may also share aggregated anonymous information about you and other persons using our website with third parties so that they can understand the kinds of visitors to our website and how those visitors use our website.  This includes behavioral information.
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+Legal Process:  We disclose information if legally required to do so, at our discretion or pursuant to a request from a governmental entity, or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+Acquisition or Merger:  We may disclose and transfer information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court.
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+## Third Party Use of Your Information
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+## Third parties also collect and use information about you on our Site in the following way:
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+## Advertiser cookies and web beacons: Advertising agencies, advertising networks, and other companies who place advertisements on our website and on the internet generally may use their own cookies, web beacons, and other technology to collect information about you. We do not control the collection techniques of such third parties and have no responsibility for the use of such technology to gather information about you.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+## Hyperlinks:  Our website and email messages contain hypertext links to the websites of third parties.  We are not responsible for the privacy practices or the content of such other websites.  Such links are provided for your convenience and reference only.  We do not operate or control  any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the third parties website, its contents, or its sponsoring organization.
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Security
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+## We endeavor to safeguard and protect your information. The servers in which we store your are kept in a secure physical environment. We have security measures in place to protect against the loss, misuse, and alteration of information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including names and addresses as they are transmitted over the Internet. Please be advised that, although we take commercially reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through this site is at your own risk. However, access to your information is strictly limited, and not accessible to the public.
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+## Changes to Privacy Statement
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
-
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
-
-#### EPP SHARING ARRANGEMENTS
-
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
-
-#### PROTECTING KIDS PRIVACY
-
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
-
-**Notice to Kids**
-
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
-
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
-
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
-
-**Notice to Parents**
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
-
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+We reserve the right to make material changes to the substance of this Privacy Statement.  We will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
