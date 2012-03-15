@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physorg.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220173907id_/http%3A//www.physorg.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physorg.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315170607id_/http%3A//www.physorg.com/help/privacy) for the most accurate reproduction.*
 
 # PhysOrg.com : FAQ | Contact Us | Suggest a story idea
 
