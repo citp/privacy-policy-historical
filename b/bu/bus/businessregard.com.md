@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessregard.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111191737id_/http%3A//www.businessregard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessregard.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315113423id_/http%3A//www.businessregard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Business News, Stock Market & Financial Advice
 
