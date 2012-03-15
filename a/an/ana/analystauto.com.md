@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystauto.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007095858id_/http%3A//www.analystauto.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystauto.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315233550id_/http%3A//www.analystauto.com/prp.html) for the most accurate reproduction.*
 
 # analystauto.com Privacy Policy
 
