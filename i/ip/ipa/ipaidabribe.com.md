@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaidabribe.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208192556id_/http%3A//ipaidabribe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaidabribe.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315074001id_/http%3A//ipaidabribe.com/privacy-policy) for the most accurate reproduction.*
 
 # I Paid a Bribe: Privacy Policy | I PAID A BRIBE
 
