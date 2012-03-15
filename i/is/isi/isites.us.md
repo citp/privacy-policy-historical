@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the isites.us privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426061947id_/http%3A//isites.us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isites.us privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315205045id_/http%3A//genwi.com/legal/privacy) for the most accurate reproduction.*
 
-# iSites – Program Policies, Privacy, Terms of Use
+# GENWI – Program Policies, Privacy, Terms of Use
 
 This Privacy Policy is effective as of and was last updated on January 15, 2010.
 
   1. ### General.
 
-This privacy policy (this "Privacy Policy") is designed to inform you about the type of information that Genwi Corporation ("we," "us," or "our") may gather or collect from you in connection with your use of this site (this "Site"). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
+This privacy policy (this "Privacy Policy") is designed to inform you about the type of information that GENWI, Inc ("we," "us," or "our") may gather or collect from you in connection with your use of this site (this "Site"). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
