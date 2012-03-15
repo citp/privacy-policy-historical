@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktodaynews.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101031449id_/http%3A//uktodaynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktodaynews.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315040914id_/http%3A//uktodaynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTODAYNEWS.COM
 
