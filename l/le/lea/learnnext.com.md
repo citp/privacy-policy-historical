@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227101402id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnnext.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315033400id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.*
 
 # CBSE TuTorial's Online, CBSE Maths, CBSE Science -Class X, Class IX, Class VIII , Class VII, Class VI
 
@@ -43,13 +43,13 @@ We will send you information about our various products and services, or other p
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-Use of cookies makes web surfing easier by performing certain functions such as saving your Passwords, your personal preferences regarding your use of the particular Web site and to make sure you don’t see the same ad repeatedly. Many consider the use of cookies to be an industry standard. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly. You may note additionally that if you visit [LearnNext](http://www.learnnext.com/) Web site where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use cookies. We do not control use of these cookies and disclaim responsibility for information collected through them.
+Use of cookies makes web surfing easier by performing certain functions such as saving your Passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly. You may note additionally that if you visit [LearnNext](http://www.learnnext.com/) Web site where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use cookies. We do not control use of these cookies and disclaim responsibility for information collected through them.
 
 ##### How Do We Secure Information Transmissions?
 
 Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. This Site does not, however, provide facilities for the secure transmission of information across the Internet. You should be aware that there are inherent risks associated with the transmissions of Personal Information via the Internet.
 
-If you do not wish to use the Internet to transmit personal information you can mail or phone us, Details are provided under ‘How to Contact us’.
+If you do not wish to use the Internet to transmit personal information you can mail or phone us, Details are provided under 'How to Contact us'.
 
 ##### How Can You Access and Correct Your Information?
 
@@ -71,7 +71,7 @@ We do not knowingly collect personal information from children below the age of 
 
 ##### Spamming
 
-Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is expressly prohibited. A user shall not use another site’s mail server to relay mail without the express permission of the site.
+Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is expressly prohibited. A user shall not use another site's mail server to relay mail without the express permission of the site.
 
 It is contrary to [Next Education](http://www.nexteducation.in/) policy for customers to use our servers to effect or participate in any of the following activities:
 
@@ -97,9 +97,11 @@ If you would like to contact us for any reason regarding our privacy practices, 
 **Address**  
 **LearnNext**   
 C/o **[Next Education India Private Limited ](http://www.nexteducation.in/)**  
-Plot # 89, Road # 2,   
-Banjara Hills, Hyderabad,  
-Andhra Pradesh-500 034  
+Sri Nilaya Cyber Spazio,  
+8-2-269/A/2/1-6, 1st floor, East Wing,  
+Road # 2, Beside Annapurna Studios  
+Banjara Hills,  
+Hyderabad - 500033.  
 
 
 ##### Revisions to this policy:
