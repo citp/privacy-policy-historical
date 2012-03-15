@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073936id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchmania.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315124147id_/http%3A//www.scratchmania.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # ScratchMania.com - Privacy and Security policy
 
