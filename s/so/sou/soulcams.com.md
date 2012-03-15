@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulcams.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014194746id_/http%3A//www.soulcams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulcams.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315130922id_/http%3A//www.soulcams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. WildOrchidz.com - Adult Video Chat, Webcam Girls, Live Sex, Sex Webcams, XXX Chat
 
