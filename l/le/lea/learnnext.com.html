@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227101402id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2012-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120315033400id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/script/jquery-1.6.min.js" type="text/javascript">
+ <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/script/jquery-1.6.min.js" type="text/javascript">
         </script>
         <script src="/media/script/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8">
         </script>
         <script src="/media/script/jquery.validationEngine.js" type="text/javascript" charset="utf-8">
         </script>	
+        <script src="/media/script/common.js" type="text/javascript" charset="utf-8">
+        </script>
 	<meta name="verify-v1" content="xCz9i30peA8Y2K0OBCNzp1tCjTFWwNmPsamR+jBJy48=">
 	
 	<meta name="y_key" content="ec387154430ffb19"><meta name="y_key" content="ec387154430ffb19">
@@ -20,71 +22,6 @@
 <!-- Google Analytics Code Starts Here -->
 <!-- Please don't delete this code -->
 
-<script>
-		// Added to store the tracker information - Navin
-	function readCookie(cookieName) {
-			 var theCookie=""+document.cookie;
-			 var ind=theCookie.indexOf(cookieName);
-			 if (ind==-1 || cookieName=="") return ""; 
-			 	var ind1=theCookie.indexOf(';',ind);
-			 if (ind1==-1) ind1=theCookie.length;
-			 	var  cookieVal = unescape(theCookie.substring(ind+cookieName.length+1,ind1));
-			 	if(cookieVal.indexOf("\"") != -1){
-			 		cookieVal = cookieVal.substring(1,cookieVal.length-1)
-			 	}
-			 	return cookieVal;
-		}
-	
-	function addTrackerImpressionElementToForm(formName, cookieValue){	
-		//alert("formName "+ formName)
-		if(document.forms[formName]){
-			trackerImpressionElement = document.createElement("input");
-			trackerImpressionElement.setAttribute("type", "hidden");
-			trackerImpressionElement.setAttribute("name", "user.trackerImpression");
-			trackerImpressionElement.setAttribute("id", "user.trackerImpression");
-			trackerImpressionElement.setAttribute("value", cookieValue);
-			document.forms[formName].appendChild(trackerImpressionElement);
-		}
-	}
-	function addSearchKeywordElementToForm(formName, cookieValue){
-		if(document.forms[formName]){
-			searchKeywordElement = document.createElement("input");
-			searchKeywordElement.setAttribute("type", "hidden");
-			searchKeywordElement.setAttribute("name", "user.searchKeyword");
-			searchKeywordElement.setAttribute("id", "user.searchKeyword");
-			searchKeywordElement.setAttribute("value", cookieValue);
-			document.forms[formName].appendChild(searchKeywordElement);
-		}
-	}
-		var cookieValue = "";
-		$(document).ready(function(){
-			var form1 = document.getElementById("register_user_register");
-			//enableBoardAndClassDiv(document.register_user_register.registerAs);
-			/*
-			if(form1.elements['hearAbout'].value != "0"){
-				validateHearAbout(form1.elements['hearAbout'],'no')
-			}
-			*/
-			// Added to store the tracker information - Navin
-			if(readCookie("LNEXT_TRACKER_ID") != null && readCookie("LNEXT_TRACKER_ID") != ""){
-				//alert("cookie  " +readCookie("LNEXT_TRACKER_ID"));
-				cookieValue = "web-tracker," +readCookie("LNEXT_TRACKER_ID");
-				addTrackerImpressionElementToForm("register_user_register", cookieValue);
-				var searchCookieValue = readCookie("LNEXT_SEARCH_KEYWORD");
-				//alert(" searchCookieValue " +searchCookieValue);
-				addSearchKeywordElementToForm("register_user_register", searchCookieValue);				
-			}	
-		});
-		
-		// Added to store the tracker information - Navin	
-		function setFlashTracker(trackerId){
-			if(trackerId != null){
-				//alert("FLASH SHARED OBJECT " + trackerId);
-				sharedObject = "flash-tracker," +trackerId;
-				addTrackerImpressionElementToForm("register_user_register", sharedObject);
-			}
-		}			
-	</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5850685-3']);
@@ -133,65 +70,7 @@ color:blue;cursor:pointer;
 <link href="/media/style/master.css?3.0=" rel="stylesheet" type="text/css" media="all">
 <link href="/media/style/rightlogin.css" rel="stylesheet" type="text/css" media="all">
 <link rel="shortcut icon" href="/media/images/icons/fav.ico" type="image/x-icon">
-<script>
-	function loadUnit() {
-		if (document.getElementById('boardsList').value.length != 0
-				&& document.getElementById('studyClass').value.length != 0)
-			document.forms['subscribableUnitsForm'].submit();
-		else {
-			document.getElementById('errormessage').innerHTML = "Please choose the package by selecting the Board and the Class from the drop-downs and then click on 'Submit'.";
-		}
-	}
-	function adjustList() {
-		var boardList = document.getElementById('boardsList');
-		var studyClasses = document.getElementById('studyClass');
-		var board = document.getElementById('boardsList').value;
-		var studyClass = document.getElementById('studyClass').value;
 
-		var i = 0;
-		if (studyClass == 6 || studyClass == 7) {
-			for (i = 0; i < boardList.options.length; i++) {
-				if (boardList.options[i].value != 2
-						&& boardList.options[i].value != 7
-						&& boardList.options[i].value != 19
-						&& boardList.options[i].value != 20
-						&& boardList.options[i].value != 21
-						&& boardList.options[i].value != 22
-						&& boardList.options[i].value != 23
-						&& boardList.options[i].value != 24
-						&& boardList.options[i].value != 25
-						&& boardList.options[i].value != 26
-						&& boardList.options[i].value != 28
-						&& boardList.options[i].value != 29
-						&& boardList.options[i].value != 33
-						&& boardList.options[i].value != "") {
-					boardList.options[i].style.cssText = 'display: none';
-
-				}
-			}
-		} else {
-			for (i = 0; i < boardList.options.length; i++) {
-				boardList.options[i].style.cssText = 'display: ""';
-			}
-		}
-
-		if (board != 2 && board != 7 && board != 19 && board != 20
-				&& board != 21 && board != 22 && board != 23 && board != 24
-				&& board != 25 && board != 26 && board != 28 && board != 29
-				&& board != 33 && board != "") {
-			for (i = 0; i < studyClasses.options.length; i++) {
-				if (studyClasses.options[i].value == 6
-						|| studyClasses.options[i].value == 7) {
-					studyClasses.options[i].style.cssText = 'display: none';
-				}
-			}
-		} else {
-			for (i = 0; i < studyClasses.options.length; i++) {
-				studyClasses.options[i].style.cssText = 'display: ""';
-			}
-		}
-	}
-</script>
 <!--<script type="text/javascript">
 var callFromShowHide = false;
 			
@@ -245,6 +124,10 @@ var callFromShowHide = false;
 
 
 
+
+
+
+
 <div id="headerB">
 
 <div id="headerleftB">
@@ -253,7 +136,25 @@ var callFromShowHide = false;
 <div id="headerrightB">
 <div id="headerrighttopB">
 <div id="topB">
-<div id="toplinksB"> 
+<div id="toplinksB">
+
+
+<g:plusone xmlns:g="http://base.google.com/ns/1.0" size="small" href="http://www.learnnext.com"></g:plusone> 
+
+
+<!-- Place this render call where appropriate --> 
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script> 
+
+ 
+
+
+
 	<a href="/user/login_user_input.htm">Login</a>&nbsp;| <a href="/user/register_user_input.htm">Sign Up</a>
 </div>
 </div>
@@ -266,7 +167,7 @@ var callFromShowHide = false;
 	<li id="nav-home"><a href="/">Home</a></li>
 	<li id="nav-what"><a href="/user/whatisLearnNext.htm">What is LearnNext?</a></li>
 	<li id="nav-free"><a href="/user/whatFree.htm">Free Trial</a></li>
-	<li id="nav-library"><a href="/user/CBSE-Syllabus-Papers.htm">Library</a></li>
+	<li id="nav-library"><a href="/Library.htm">Library</a></li>
 	<li id="nav-subscribe"> 
 		<a href="/user/buy.htm">Buy</a>
 	</li>
@@ -328,13 +229,13 @@ With respect to network advertising companies (companies that manage and provide
                <p>We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only <a href="http://www.nexteducation.in">Next Education</a> (or agents or contractors working on behalf of <a href="http://www.nexteducation.in">Next Education</a> and under confidentiality agreements) will send you these direct mailings.</p>
                <h5>Cookies</h5>
                <p>A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. </p>
-		       <p>Use of cookies makes web surfing easier by performing certain functions such as saving your Passwords, your personal preferences regarding your use of the particular Web site and to make sure you don’t see the same ad repeatedly. Many consider the use of cookies to be an industry standard. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly. You may note additionally that if you visit <a href="http://www.learnnext.com">LearnNext</a> Web site where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use cookies. We do not control use of these cookies and disclaim responsibility for information collected through them.</p>
+		       <p>Use of cookies makes web surfing easier by performing certain functions such as saving your Passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly. You may note additionally that if you visit <a href="http://www.learnnext.com">LearnNext</a> Web site where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use cookies. We do not control use of these cookies and disclaim responsibility for information collected through them.</p>
 			</div>
             <div class="twoCols">
                 <h5>How Do We Secure Information Transmissions?</h5>
                 <p>Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. This Site does not, however, provide facilities for the secure transmission of information across the Internet. You should be aware that there are inherent risks associated with the transmissions of Personal Information via the Internet.</p>
 
-				<p>If you do not wish to use the Internet to transmit personal information you can mail or phone us, Details are provided under ‘How to Contact us’.</p>
+				<p>If you do not wish to use the Internet to transmit personal information you can mail or phone us, Details are provided under 'How to Contact us'.</p>
                 <h5>How Can You Access and Correct Your Information?</h5>
                 <p>Email is not recognized as a secure medium of communication. You may request access to all your personally identifiable information that we collect online and maintain in our database by calling <a href="http://www.nexteducation.in">LearnNext.</a></p>
                 <h5>Certain Disclosures</h5>
@@ -348,7 +249,7 @@ With respect to network advertising companies (companies that manage and provide
                 <h5>Children's Privacy</h5>
                 <p>We do not knowingly collect personal information from children below the age of 15. If we learn that we have personal information on a child below the age of 15, we will delete that information from our systems. Even for personal information of children of the age of 15 years and above, the personal information is collected only for the purpose of their educational requirement and service needs as provided by this Web site.</p>
                 <h5>Spamming</h5>
-                <p>Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is expressly prohibited. A user shall not use another site’s mail server to relay mail without the express permission of the site.</p>
+                <p>Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is expressly prohibited. A user shall not use another site's mail server to relay mail without the express permission of the site.</p>
 
 				<p>It is contrary to <a href="http://www.nexteducation.in">Next Education</a> policy for customers to use our servers to effect or participate in any of the following activities:</p>
                 <ul class="privSt">
@@ -364,18 +265,17 @@ With respect to network advertising companies (companies that manage and provide
                 <h5>How to contact us</h5>
 				<p>If you would like to contact us for any reason regarding our privacy practices, Please contact us at :</p>
                 
-               <!-- <p><b><a href="http://www.nexteducation.in">Next Education India Private Limited,</a></b><br />
-                Plot # 89, Road # 2, Banjara Hills,<br />
-                Hyderabad, Andhra Pradesh, INDIA.<br /></p> --> 
+               
                 <p style="font-size: 12px;"><b style="color: #ff7d00; font-size: 14px;"> 
 Address</b><br>
  
 <b>LearnNext</b> <br>
 C/o<b> <a href="http://www.nexteducation.in">Next Education India Private Limited </a></b><br>
-  
-Plot # 89, Road # 2, <br>
-Banjara Hills, Hyderabad,<br>
-Andhra Pradesh-500 034<br>
+Sri Nilaya Cyber Spazio,<br>
+8-2-269/A/2/1-6, 1st floor, East Wing,<br>
+Road # 2, Beside Annapurna Studios<br>
+Banjara Hills,<br>
+Hyderabad - 500033.<br>
 </p>
                 
                 <h5>Revisions to this policy:</h5>
