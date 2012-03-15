@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritytoob.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093440id_/http%3A//celebritytoob.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritytoob.com privacy policy that was archived on 2012-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120315024227id_/http%3A//celebritytoob.com/privacy.html) for the most accurate reproduction.*
 
 # Celebritytoob.com Privacy Policy
 
