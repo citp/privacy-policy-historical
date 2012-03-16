@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218121243id_/http%3A//www.getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316140028id_/http%3A//www.getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
 
 # InStyler® Privacy Policy
 
