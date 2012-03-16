@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-about-air-purifiers.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225200610id_/http%3A//www.all-about-air-purifiers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-about-air-purifiers.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316102541id_/http%3A//www.all-about-air-purifiers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
