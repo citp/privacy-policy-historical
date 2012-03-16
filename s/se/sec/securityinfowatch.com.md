@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securityinfowatch.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102055257id_/http%3A//www.securityinfowatch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityinfowatch.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317000436id_/http%3A//www.securityinfowatch.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - SecurityInfoWatch
 
 Cygnus Business Media, Inc. recognizes the importance of protecting the privacy of information provided to us by those who use our products and services. This policy describes how personally identifiable and anonymous information about our publication subscribers, online media product users and event registrants may be collected and shared.
 
