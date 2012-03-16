@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105104625id_/http%3A//later.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316065458id_/http%3A//www.later.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
