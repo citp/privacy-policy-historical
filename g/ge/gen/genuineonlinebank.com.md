@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227024204id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2012-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120316044027id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
 
 # GOB | Genuine Online Bank
 
@@ -34,7 +34,7 @@ By making your deposit with Genuine Online Bank , you declare that you have read
 ---  
 Username: |   
 Password: |   
-|  |  | [(forget?)](https://web.archive.org/web/20111227024204id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
+|  |  | [(forget?)](https://web.archive.org/web/20120316044027id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
 ---|---  
   
 
