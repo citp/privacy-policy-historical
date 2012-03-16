@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skyebankng.com privacy policy that was archived on 2011-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124131834id_/http%3A//www.skyebankng.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skyebankng.com privacy policy that was archived on 2012-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120316231212id_/http%3A//www.skyebankng.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D9) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Skye Bank Plc - Privacy Policy</title>
@@ -8,19 +8,97 @@
 <script type="text/javascript" src="/templates/skyebank/js/jquery.prettyPhoto.js"></script>
 
 
-   
+<script type="text/javascript">
 
 
-  <base href="http://skyebankng.com/privacy-policy.html">
+var min=8;
+var max=18;
+function increaseFontSize() {
+ 
+   var p = document.getElementsByTagName('*');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=max) {
+ 
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+}
+function decreaseFontSize() {
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+ 
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+ 
+         var s = 12;
+      }
+      if(s!=min) {
+ 
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+ 
+   }
+}
+
+
+</script>
+
+
+        
+        <script type="text/javascript">
+function loancal()
+{
+myWindow=window.open('http://ourdemoserver.com/loan-calculator/','','width=374,height=280');
+myWindow.focus();
+}
+</script>
+
+
+<script type="text/javascript">
+function mortcal()
+{
+myWindow=window.open('http://ourdemoserver.com/mortgage-calculator/','','width=374,height=280');
+myWindow.focus();
+}
+</script>
+
+
+<script type="text/javascript">
+function livechat2()
+{
+myWindow=window.open('http://ourdemoserver.com/live-chat/client.php','','width=640,height=480');
+myWindow.focus();
+}
+</script>
+
+
+
+
+
+
+
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="security">
   <meta name="title" content="Privacy Policy">
   <meta name="author" content="Administrator">
-  <meta name="description" content="">
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system">
   <meta name="generator" content="Skye Bank Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/skyebank/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/components/com_jlivechat/assets/css/jlivechat.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/light/rokajaxsearch-theme.css" type="text/css">
   <style type="text/css">
@@ -33,10 +111,33 @@
   </style>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/components/com_jlivechat/js/lazyload-min.js"></script>
+  <script type="text/javascript" src="/components/com_jlivechat/js/jlivechat.js"></script>
+  <script type="text/javascript" src="/components/com_jlivechat/js/chat_iframe.js"></script>
+  <script type="text/javascript" src="/components/com_jlivechat/js/remote.js"></script>
+  <script type="text/javascript" src="/index.php?option=com_jlivechat&amp;view=popup&amp;task=check_proactive"></script>
+  <script type="text/javascript" src="/index.php?option=com_jlivechat&amp;view=popup&amp;task=check_autopopup"></script>
   <script type="text/javascript" src="/modules/mod_gtranslate/jquery.js"></script>
   <script type="text/javascript" src="/modules/mod_gtranslate/jquery-translate.js"></script>
   <script type="text/javascript" src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js"></script>
   <script type="text/javascript">
+JLiveChatIFramePopup.popupUri='/index.php?option=com_jlivechat&view=popup&tmpl=component&popup_mode=iframe';
+JLiveChatIFramePopup.websiteRoot='';
+JLiveChatIFramePopup.hostedUri=null;
+ProactiveChatChecker.hostedModeUri = null;
+
+ProactiveChatChecker.comUri = '/index.php?option=com_jlivechat&view=popup&tmpl=component';
+
+ProactiveChatChecker.websiteRoot = '';
+
+ProactiveChatChecker.keepChecking = true;
+
+AutoPopupChecker.hostedModeUri = null;
+
+AutoPopupChecker.comUri = '/index.php?option=com_jlivechat&view=popup&tmpl=component';
+
+AutoPopupChecker.websiteRoot = '';
+
 window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 				window.rokajaxsearch = new RokAjaxSearch({
 					'results': ' Results',
@@ -53,9 +154,9 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 					'advsearch': ' Advanced search',
 					'page': ' Page',
 					'page_of': ' of',
-					'searchlink': 'http://skyebankng.com/index.php?option=com_search&amp;view=search&amp;tmpl=component',
-					'advsearchlink': 'http://skyebankng.com/index.php?option=com_search&amp;view=search',
-					'uribase': 'http://skyebankng.com/',
+					'searchlink': 'http://www.skyebankng.com/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.skyebankng.com/index.php?option=com_search&amp;view=search',
+					'uribase': 'http://www.skyebankng.com/',
 					'limit': '10',
 					'perpage': '3',
 					'ordering': 'newest',
@@ -77,9 +178,17 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
 <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
 <link rel="stylesheet" href="/templates/skyebank/css/editor.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="/templates/skyebank/css/skyecareertemplate.css">
+<link rel="stylesheet" type="text/css" href="/templates/skyebank/css/businessbankingCss.css">
+<link rel="stylesheet" type="text/css" href="/templates/skyebank/css/biznezskyecard.css">
+<link rel="stylesheet" type="text/css" href="/templates/skyebank/css/skyecard.css">
 <link rel="stylesheet" type="text/css" href="/templates/skyebank/css/template.css">
 <link rel="stylesheet" type="text/css" href="/templates/skyebank/css/special.css">
 <link rel="stylesheet" type="text/css" href="/templates/skyebank/css/menu.css">
+
+
+<link rel="stylesheet" type="text/css" href="/templates/skyebank/css/paymentchannelsStyle.css">
+	 
 <link rel="stylesheet" type="text/css" href="/templates/skyebank/css/joomla_classes.css">
 <!--[if IE]>
 <link rel="stylesheet" href="/templates/skyebank/css/ie_template.css" type="text/css" />
@@ -94,7 +203,6 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 var dsLVPURLMainPage = "http://ww6.skyebankng.com";
 </script>
 <link rel="stylesheet" href="/modules/mod_jw_srfr/tmpl/default/css/style.css" type="text/css">
-
 <script type="text/javascript" src="/templates/skyebank/js/initpage.js"></script>
 <script type="text/javascript" src="/templates/skyebank/js/iehover.js"></script>
 <script type="text/javascript" src="/templates/skyebank/js/lastviewed.js"></script>
@@ -104,9 +212,7 @@ var dsLVPURLMainPage = "http://ww6.skyebankng.com";
 <script type="text/javascript" src="/templates/skyebank/js/jquery.validate.js"></script>
 <script type="text/javascript" src="/templates/skyebank/js/jquery.betterTooltip.js"></script>
 <script type="text/javascript" src="/templates/skyebank/js/ajaxfileupload.js"></script>
-
-
-
+<script type="text/javascript" src="http://skyebankng.com/modules/mod_fhw_fontadjust/js/mod_fhw-fontadjust-pt_nc.js"></script>
  
 
 <script type="text/javascript">
@@ -118,7 +224,7 @@ function loadBanner(){
 	var title2 = parmArray2[1];
 	
 	 if (title2.indexOf('Search') != -1){	
-	 	document.getElementById("Banner").innerHTML = "<img src='images/banners/award.jpg' width='960px' height='176px' alt='' />";
+	 	document.getElementById("Banner").innerHTML = "<img src='images/banners/leftimg.jpg' width='960px' height='176px' alt='' />";
      }
 }
 
@@ -130,22 +236,15 @@ function loadBanner(){
 <link rel="stylesheet" href="/templates/skyebank/js/boxy/stylesheets/boxy.css" type="text/css">
 <link rel="stylesheet" href="/templates/skyebank/css/calendar.css" type="text/css">
 <link rel="stylesheet" href="/templates/skyebank/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
-
-
 <!-- calendar stylesheet -->
-  <link rel="stylesheet" type="text/css" media="all" href="/templates/skyebank/css/calendar-win2k-cold-1.css" title="win2k-cold-1">
-
-  <!-- main calendar program -->
-  <script type="text/javascript" src="/templates/skyebank/js/calendar.js"></script>
-
-  <!-- language for the calendar -->
-  <script type="text/javascript" src="/templates/skyebank/js/calendar-en.js"></script>
-
-  <!-- the following script defines the Calendar.setup helper function, which makes
+<link rel="stylesheet" type="text/css" media="all" href="/templates/skyebank/css/calendar-win2k-cold-1.css" title="win2k-cold-1">
+<!-- main calendar program -->
+<script type="text/javascript" src="/templates/skyebank/js/calendar.js"></script>
+<!-- language for the calendar -->
+<script type="text/javascript" src="/templates/skyebank/js/calendar-en.js"></script>
+<!-- the following script defines the Calendar.setup helper function, which makes
        adding a calendar a matter of 1 or 2 lines of code. -->
-  <script type="text/javascript" src="/templates/skyebank/js/calendar-setup.js"></script>
-
-
+<script type="text/javascript" src="/templates/skyebank/js/calendar-setup.js"></script>
 <script type="text/javascript">
 function ilogin() {
 window.open('https://elogin.skyebankng.com/',null,'left=150,top=20,height=600, width=800,scrollbars=yes,status= Yes, resizable= Yes, scrollbars=Yes, toolbar=no,location=no,menubar=yes');
@@ -173,13 +272,11 @@ function MM_jumpMenu2(targ,selObj,restore){ //v3.0
 }
 
 </script>
-
 </head>
 <body class="post-body">
-
 <div id="Super">
-	<div id="Header">
-	 <a href="/index.php" class="left"><img src="/templates/skyebank/images/logo.jpg" width="219" height="103" id="Logo" alt="Skye Bank"></a>
+  <!--<div id="Header">
+	 <a href="/index.php" class="left"><img src="/templates/skyebank/images/logo.jpg" width="219" height="103" id="Logo" alt="Skye Bank" /></a>
 	 <div id="HeaderRight" class="right">
 	 	 <div id="ControlPanel" class="right">
 		 	<div id="InternetBanking">
@@ -188,26 +285,27 @@ function MM_jumpMenu2(targ,selObj,restore){ //v3.0
 		 		<ul><li><a href="javascript:ilogin();" class="nopadleft">Sign in</a></li>
 		 		<li><a href="https://elogin.skyebankng.com/downloads/SkyePlusApplicationForm.pdf" target="_blank">Register</a></li>
 		 		<li><a href="javascript:idemo();" class="noborder nopadright">Demo</a></li></ul>
-		 		<div class="visaLink"><img class="left" src="/templates/skyebank/images/visa.jpg" style="margin-right:5px; margin-top:-2px;"><a href="javascript:vlogin();"> Card Web Access</a>
+		 		<div class="visaLink"><img class="left" src="/templates/skyebank/images/visa.jpg" style="margin-right:5px; margin-top:-2px;" /><a href="javascript:vlogin();"> Card Web Access</a>
 		 		</div>
 		 		</div>
 		 	</div>
 		 	<div id="HeaderMenu">
-		 		<ul class="menusec"><li class="parent item4"><a href="/about-skye.html"><span>About Skye</span></a></li><li class="item5"><a href="/careers.html"><span>Careers</span></a></li><li class="item6"><a href="/contact-skye.html"><span>Contact Skye</span></a></li></ul>
+		 		<ul class="menusec"><li class="parent item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=4"><span>About Skye</span></a></li><li class="item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=5"><span>Careers</span></a></li><li class="item6"><a href="/index.php?option=com_content&amp;view=article&amp;id=11&amp;Itemid=6"><span>Contact Skye</span></a></li></ul>
 		 	</div>
 		 </div>
 		 <div id="Search" class="right">
-			<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://skyebankng.com/" method="get">
+			<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.skyebankng.com/" method="get">
 <div class="rokajaxsearch_search">
 	<div class="roksearch-wrapper">
-		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="Search our site" onblur="if(this.value=='') this.value='Search our site';" onfocus="if(this.value=='Search our site') this.value='';">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="Search our site"  onblur="if(this.value=='') this.value='Search our site';" onfocus="if(this.value=='Search our site') this.value='';" />
 	</div>
-	<input type="hidden" name="searchphrase" value="all">
-	<input type="hidden" name="limit" value="20">
-	<input type="hidden" name="ordering" value="newest">
-	<input type="hidden" name="view" value="search">
-	<input type="hidden" name="Itemid" value="99999999">
-	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="searchphrase" value="all"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
+    <input value="Search" style="position: absolute;right: 10px; top: 3px;" src="http://skyebankng.com/modules/mod_rokajaxsearch/themes/light/search_btn.png" type="image">
 
 	
 	<div id="roksearch_results"></div>
@@ -219,9 +317,52 @@ function MM_jumpMenu2(targ,selObj,restore){ //v3.0
 	 </div>
 	</div>
 	<div id="NavBar">
-		<ul class="menumain"><li class="parent item1"><a href="http://skyebankng.com/"><span>Individual Banking</span></a><ul><li class="parent item12"><a href="/individual-banking/retail-banking.html"><span>Retail Banking</span></a><ul><li class="parent item67"><a href="/individual-banking/retail-banking/savings-accounts.html"><span>Savings Accounts</span></a><ul><li class="item66"><a href="/individual-banking/retail-banking/savings-accounts/childrens-banking.html"><span>Childrens Banking</span></a></li><li class="item72"><a href="/individual-banking/retail-banking/savings-accounts/skye-wise.html"><span>Skye Wise</span></a></li><li class="item73"><a href="/individual-banking/retail-banking/savings-accounts/skye-treasure.html"><span>Skye Treasure</span></a></li><li class="item74"><a href="/individual-banking/retail-banking/savings-accounts/standard-savings.html"><span>Standard Savings</span></a></li></ul></li><li class="parent item68"><a href="/individual-banking/retail-banking/current-accounts.html"><span>Current Accounts</span></a><ul><li class="item75"><a href="/individual-banking/retail-banking/current-accounts/skye-select.html"><span>Skye Select</span></a></li><li class="item76"><a href="/individual-banking/retail-banking/current-accounts/enterprise-select.html"><span>Enterprise Select</span></a></li><li class="item126"><a href="/individual-banking/retail-banking/current-accounts/standard-individual-current.html"><span>Standard Individual Current</span></a></li><li class="item127"><a href="/individual-banking/retail-banking/current-accounts/standard-corporate-current.html"><span>Standard Corporate Current</span></a></li></ul></li><li class="parent item237"><a href="/individual-banking/retail-banking/retail-loans-and-advances.html"><span>Retail loans and advances</span></a><ul><li class="item252"><a href="/individual-banking/retail-banking/retail-loans-and-advances/loan-applications.html"><span>Loan Applications</span></a></li></ul></li><li class="parent item69"><a href="/individual-banking/retail-banking/workplace-banking.html"><span>Workplace Banking</span></a><ul><li class="item77"><a href="/individual-banking/retail-banking/workplace-banking/investment-club.html"><span>Investment Club</span></a></li><li class="item250"><a href="/individual-banking/retail-banking/workplace-banking/workplace-banking-contacts.html"><span>Workplace Banking Contacts</span></a></li><li class="item251"><a href="https://epayroll.skyebankng.com/" target="_blank"><span>e-Payroll Administration</span></a></li></ul></li><li class="parent item70"><a href="/individual-banking/retail-banking/debit-and-credit-cards.html"><span>Debit and credit cards</span></a><ul><li class="item130"><a href="/individual-banking/retail-banking/debit-and-credit-cards/skye-visa-card.html"><span>Skye Visa Card</span></a></li><li class="item131"><a href="/individual-banking/retail-banking/debit-and-credit-cards/skyecard-credits.html"><span>SkyeCard Credits</span></a></li></ul></li><li class="item266"><a href="/individual-banking/retail-banking/skye-mobile.html"><span>Skye Mobile</span></a></li></ul></li><li class="parent item14"><a href="/individual-banking/mortgages.html"><span>Mortgages</span></a><ul><li class="item78"><a href="/individual-banking/mortgages/skye-mortgages.html" target="_blank"><span>Skye Mortgages</span></a></li></ul></li><li class="parent item16"><a href="/individual-banking/money-transfer.html"><span>Money Transfer</span></a><ul><li class="item83"><a href="/individual-banking/money-transfer/western-union.html"><span>Western Union</span></a></li><li class="item84"><a href="/individual-banking/money-transfer/skye-global.html"><span>Skye Global</span></a></li><li class="item85"><a href="/individual-banking/money-transfer/international-trade-and-transfers.html"><span>International trade and transfers</span></a></li><li class="item167"><a href="/individual-banking/money-transfer/skye-flitcash.html"><span>Skye FlitCash</span></a></li><li class="item168"><a href="/individual-banking/money-transfer/autopay.html"><span>AutoPay</span></a></li></ul></li><li class="item15"><a href="/individual-banking/investor-relations.html"><span>Investor Relations</span></a></li></ul></li><li class="parent item2"><a href="/business-banking.html"><span>Business Banking</span></a><ul><li class="parent item18"><a href="/business-banking/corporate-banking.html"><span>Corporate Banking</span></a><ul><li class="parent item87"><a href="/business-banking/corporate-banking/project-finance.html"><span>Project Finance</span></a><ul><li class="item129"><a href="/business-banking/corporate-banking/project-finance/international-trade-services.html"><span>International trade services</span></a></li><li class="item268"><a href="/business-banking/corporate-banking/project-finance/properties-for-sale.html"><span>Properties for Sale</span></a></li></ul></li><li class="item128"><a href="/business-banking/corporate-banking/financial-advisory.html"><span>Financial Advisory</span></a></li></ul></li><li class="parent item20"><a href="/business-banking/commercial-banking.html"><span>Commercial Banking</span></a><ul><li class="item89"><a href="/business-banking/commercial-banking/financial-advisory.html"><span>Financial Advisory</span></a></li></ul></li><li class="parent item17"><a href="/business-banking/investment-banking.html"><span>Investment Banking</span></a><ul><li class="item88"><a href="/business-banking/investment-banking/international-trade-services.html"><span>International trade services</span></a></li></ul></li><li class="item19"><a href="/business-banking/investor-relations.html"><span>Investor Relations</span></a></li></ul></li><li class="parent item3"><a href="/institutional-a-public-sector-banking.html"><span>Institutional &amp; Public Sector Banking</span></a><ul><li class="item21"><a href="/institutional-a-public-sector-banking/international-funding.html"><span>International Funding</span></a></li><li class="item233"><a href="/institutional-a-public-sector-banking/investor-relations.html"><span>Investor Relations</span></a></li></ul></li><li class="item265"><a href="/404.html"><span>404</span></a></li></ul>
+		<ul class="menumain"><li class="parent item1"><a href="http://www.skyebankng.com/"><span>Individual Banking</span></a><ul><li class="item289"><a href="http://skyebankng.com"><span>Home</span></a></li><li class="parent item16"><a href="/index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=16"><span>Money Transfer</span></a><ul><li class="item83"><a href="/index.php?option=com_content&amp;view=article&amp;id=39&amp;Itemid=83"><span>Western Union</span></a></li><li class="item84"><a href="/index.php?option=com_content&amp;view=article&amp;id=40&amp;Itemid=84"><span>Skye Global</span></a></li><li class="item85"><a href="/index.php?option=com_content&amp;view=article&amp;id=41&amp;Itemid=85"><span>International trade and transfers</span></a></li><li class="item167"><a href="/index.php?option=com_content&amp;view=article&amp;id=222&amp;Itemid=167"><span>Skye FlitCash</span></a></li><li class="item168"><a href="/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=168"><span>AutoPay</span></a></li></ul></li><li class="parent item14"><a href="/index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=14"><span>Mortgages</span></a><ul><li class="item78"><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=78" target="_blank"><span>Skye Mortgages</span></a></li></ul></li><li class="item316"><a href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=316"><span>Retail Banking</span></a></li></ul></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=2"><span>Business Banking</span></a><ul><li class="item282"><a href="/index.php?option=com_content&amp;view=article&amp;id=302&amp;Itemid=282"><span>Business Loans</span></a></li><li class="item283"><a href="/index.php?option=com_content&amp;view=article&amp;id=303&amp;Itemid=283"><span>International Trade</span></a></li><li class="item284"><a href="/index.php?option=com_content&amp;view=article&amp;id=304&amp;Itemid=284"><span>Project Finance and Investment Banking</span></a></li><li class="item285"><a href="/index.php?option=com_content&amp;view=article&amp;id=324&amp;Itemid=285"><span>Business Support</span></a></li></ul></li><li class="parent item286"><a href="/index.php?option=com_content&amp;view=article&amp;id=352&amp;Itemid=286"><span>Products and Services</span></a><ul><li class="item291"><a href="/index.php?option=com_content&amp;view=article&amp;id=356&amp;Itemid=291"><span>Products</span></a></li></ul></li><li class="parent item288"><a href="/index.php?option=com_content&amp;view=article&amp;id=353&amp;Itemid=288"><span>E-Business</span></a><ul><li class="item292"><a href="/index.php?option=com_content&amp;view=article&amp;id=357&amp;Itemid=292"><span>Cards</span></a></li><li class="item293"><a href="/index.php?option=com_content&amp;view=article&amp;id=358&amp;Itemid=293"><span>Payment Channels</span></a></li><li class="item294"><a href="/index.php?option=com_content&amp;view=article&amp;id=359&amp;Itemid=294"><span>Business Solutions</span></a></li><li class="item295"><a href="/index.php?option=com_content&amp;view=article&amp;id=360&amp;Itemid=295"><span>Support</span></a></li></ul></li><li class="item15"><a href="/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=15"><span>Investor Relations</span></a></li></ul>
 	</div>
-	 
+	-->
+  <div id="Header"> <a href="/index.php" class="left"><img src="/templates/skyebank/images/logo.png" width="155" height="74" id="Logo" alt="Skye Bank"></a>
+    <div id="HeaderRight" class="right">
+      <ul>
+        <li class="web">
+          <h3><a href="javascript:vlogin();">Web Access</a></h3>
+        </li>
+        <li class="internet">
+          <h3><a href="#">Internet Banking</a></h3>
+          <ul class="subInternetNav" style="display: none;">
+          	<li> <a href="javascript:ilogin();">Sign In </a> </li>
+            <li> <a href="http://skyebankng.com/component/content/article/55-e-business/383-skye-plus-.html"> Register </a></li> 
+            <li class="noborder"> <a href="javascript:idemo();"> Demo</a></li></ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div id="NavBar" class="left" style="border: none;"><div style="margin: 0px 0px -10px;"><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 6px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 4px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 3px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 2px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 1px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px 1px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none solid; border-color: rgb(0, 0, 0); border-width: 0px;"></div></div>
+    <ul class="menumain"><li class="parent item1 active"><a href="http://www.skyebankng.com/"><span>Individual Banking</span></a><ul><li class="item289"><a href="http://skyebankng.com"><span>Home</span></a></li><li class="parent item16"><a href="/index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=16"><span>Money Transfer</span></a><ul><li class="item83"><a href="/index.php?option=com_content&amp;view=article&amp;id=39&amp;Itemid=83"><span>Western Union</span></a></li><li class="item84"><a href="/index.php?option=com_content&amp;view=article&amp;id=40&amp;Itemid=84"><span>Skye Global</span></a></li><li class="item85"><a href="/index.php?option=com_content&amp;view=article&amp;id=41&amp;Itemid=85"><span>International trade and transfers</span></a></li><li class="item167"><a href="/index.php?option=com_content&amp;view=article&amp;id=222&amp;Itemid=167"><span>Skye FlitCash</span></a></li><li class="item168"><a href="/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=168" class="noborder"><span>AutoPay</span></a></li></ul></li><li class="parent item14"><a href="/index.php?option=com_content&amp;view=article&amp;id=6&amp;Itemid=14"><span>Mortgages</span></a><ul><li class="item78"><a href="/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=78" target="_blank" class="noborder"><span>Skye Mortgages</span></a></li></ul></li><li class="item316"><a href="/index.php?option=com_content&amp;view=article&amp;id=4&amp;Itemid=316" class="noborder"><span>Retail Banking</span></a></li></ul></li><li class="parent item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=2"><span>Business Banking</span></a><ul><li class="item282"><a href="/index.php?option=com_content&amp;view=article&amp;id=302&amp;Itemid=282"><span>Business Loans</span></a></li><li class="item283"><a href="/index.php?option=com_content&amp;view=article&amp;id=303&amp;Itemid=283"><span>International Trade</span></a></li><li class="item284"><a href="/index.php?option=com_content&amp;view=article&amp;id=304&amp;Itemid=284"><span>Project Finance and Investment Banking</span></a></li><li class="item285"><a href="/index.php?option=com_content&amp;view=article&amp;id=324&amp;Itemid=285" class="noborder"><span>Business Support</span></a></li></ul></li><li class="parent item286"><a href="/index.php?option=com_content&amp;view=article&amp;id=352&amp;Itemid=286"><span>Products and Services</span></a><ul><li class="item291"><a href="/index.php?option=com_content&amp;view=article&amp;id=356&amp;Itemid=291" class="noborder"><span>Products</span></a></li></ul></li><li class="parent item288"><a href="/index.php?option=com_content&amp;view=article&amp;id=353&amp;Itemid=288"><span>E-Business</span></a><ul><li class="item292"><a href="/index.php?option=com_content&amp;view=article&amp;id=357&amp;Itemid=292"><span>Cards</span></a></li><li class="item293"><a href="/index.php?option=com_content&amp;view=article&amp;id=358&amp;Itemid=293"><span>Payment Channels</span></a></li><li class="item294"><a href="/index.php?option=com_content&amp;view=article&amp;id=359&amp;Itemid=294"><span>Business Solutions</span></a></li><li class="item295"><a href="/index.php?option=com_content&amp;view=article&amp;id=360&amp;Itemid=295" class="noborder"><span>Support</span></a></li></ul></li><li class="item15"><a href="/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=15"><span>Investor Relations</span></a></li></ul>
+  <div style="position: absolute; margin: 0px; padding: 0px; left: 0px; bottom: 0px; width: 100%;"><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div><div style="overflow: hidden; height: 1px; background-color: transparent; border-style: none; border-color: rgb(0, 0, 0); border-width: 0px;"></div></div></div>
+  <div id="SecMenu" class="right">
+    <ul class="menusec"><li class="parent item4"><a href="/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=4" class="nopadleft"><span>About Skye</span></a></li><li class="item5"><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=5"><span>Careers</span></a></li><li class="item6 noborder nopadright"><a href="/index.php?option=com_content&amp;view=article&amp;id=11&amp;Itemid=6" class="noborder nopadright"><span>Contact Skye</span></a></li></ul>
+  </div>
+  <div id="Search" class="right">
+    <form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.skyebankng.com/" method="get">
+<div class="rokajaxsearch_search">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value="Search our site" onblur="if(this.value=='') this.value='Search our site';" onfocus="if(this.value=='Search our site') this.value='';">
+	</div>
+	<input type="hidden" name="searchphrase" value="all">
+	<input type="hidden" name="limit" value="20">
+	<input type="hidden" name="ordering" value="newest">
+	<input type="hidden" name="view" value="search">
+	<input type="hidden" name="Itemid" value="99999999">
+	<input type="hidden" name="option" value="com_search">
+    <input value="Search" style="position: absolute;right: 10px; top: 3px;" src="http://skyebankng.com/modules/mod_rokajaxsearch/themes/light/search_btn.png" type="image">
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>
+  </div>
+  
 <script type="text/javascript">
 (function($){
 	$.randomImage = {
@@ -268,18 +409,10 @@ var title = jQuery.trim(parmArray[1]);
 	if($panel.size() > 0){
 		//alert($panel.attr("src"));
 		jQuery('.inneradvert').attr('src',$panel.attr("src"));
-	}else if(title == "Skye Branch Network" || title == "Branch Network" || title == "ATM Locator" || title == "Feedback" || title == "Priority Banking Locations"
-	|| title == "Saturday Banking Locations" || title == "Skye Branch Network and ATMs"){
+	}else if(title == "Skye Branch Network" || title == "ATM Locator" || title == "Feedback" || title == "Priority Banking Locations"
+	|| title == "Saturday Banking Locations"){
 		jQuery("#InnerAdvert").hide();
 		jQuery("#DisplayPaneContent").css("width","700px");
-		
-		jQuery('a').each(function(index){
-			if(jQuery(this).text() == "View"){
-				//alert(jQuery(this).text());
-				//jQuery(this).attr('title',jQuery(this).text());
-				//jQuery(this).addClass("boxy");
-			};
-		});
 	}else{
 		jQuery('.inneradvert').randomImage();	
 	}
@@ -292,14 +425,14 @@ var title = jQuery.trim(parmArray[1]);
  <div id="InnerTopStrip">
 				<div id="BreadCrumb" class="left">
 					<!--<span class="title">You are here: </span>--><span class="breadcrumbs pathway">
-<a href="http://skyebankng.com/" class="pathway">Home</a> » Privacy Policy</span>
+<a href="http://www.skyebankng.com/" class="pathway">Home</a> » Privacy Policy</span>
 
 				</div>
 				<div id="SharePriceBarInner" class="right">
 					<div id="SharePriceInner" class="left">
 						<span>Share Price:</span>
-<span class="text">N4.67 ($0.00)</span>
-<!--<span class="text">as at 18-Nov-2011</span>-->
+<span class="text">N3.53 ()</span>
+<!--<span class="text">as at 25-Jan-2012</span>-->
 <img src="/templates/skyebank/images/down_inner.jpg" width="16" height="17" alt="">
 
 					</div>
@@ -314,7 +447,7 @@ var title = jQuery.trim(parmArray[1]);
 		maxSize = 14;
 		minSize = 6;
 		//-->
-		</script><script type="text/javascript" src="http://skyebankng.com/modules/mod_fhw_fontadjust/js/mod_fhw-fontadjust-pt_nc.js"></script>
+		</script><script type="text/javascript" src="http://www.skyebankng.com/modules/mod_fhw_fontadjust/js/mod_fhw-fontadjust-pt_nc.js"></script>
 
 
 
@@ -329,20 +462,20 @@ var title = jQuery.trim(parmArray[1]);
             <span class="PreTextpageFont">Text Sizer</span><br>           
 			<span class="incFont">
                 
-					<a href="http://skyebankng.com/index.php" title="Increase Font Size" onclick="changeFontSize(1); return false;" class="larger">
-						<img src="http://skyebankng.com/images/plus_inner.jpg" width="17" height="13" border="0" alt="Increase Font Size">
+					<a href="http://www.skyebankng.com/index.php" title="Increase Font Size" onclick="changeFontSize(1); return false;" class="larger">
+						<img src="http://www.skyebankng.com/images/plus_inner.jpg" width="17" height="13" border="0" alt="Increase Font Size">
 					</a>
 								</span>
             <span class="resetFont">
                 
-					<a href="http://skyebankng.com/index.php" title="Reset Font Size" onclick="revertStyles(); return false;" class="reset">
-						<img src="http://skyebankng.com/images/-1" width="17" height="13" border="0" alt="Reset Font Size">
+					<a href="http://www.skyebankng.com/index.php" title="Reset Font Size" onclick="revertStyles(); return false;" class="reset">
+						<img src="http://www.skyebankng.com/images/-1" width="17" height="13" border="0" alt="Reset Font Size">
 					</a>
 								</span>
             <span class="decFont">
                 
-					<a href="http://skyebankng.com/index.php" title="Decrease Font Size" onclick="changeFontSize(-1); return false;" class="smaller">
-						<img src="http://skyebankng.com/images/minus_inner.jpg" width="17" height="13" border="0" alt="Decrease Font Size">
+					<a href="http://www.skyebankng.com/index.php" title="Decrease Font Size" onclick="changeFontSize(-1); return false;" class="smaller">
+						<img src="http://www.skyebankng.com/images/minus_inner.jpg" width="17" height="13" border="0" alt="Decrease Font Size">
 					</a>
 								</span>
             
@@ -367,21 +500,21 @@ var title = jQuery.trim(parmArray[1]);
 <div id="DisplayPane">
 		<div id="DisplayPaneLeft" class="left">
 				    <div id="InnerAdvert" class="left">
-		    	<img src="/images/stories/innerbanners/yes.jpg" class="inneradvert" alt="yes.jpg">
+		    	<img src="/images/stories/innerbanners/private_banking.jpg" class="inneradvert" alt="private_banking.jpg">
 		    </div>
-		    <div id="DisplayPaneContent">
+			<div id="DisplayPaneContent">
 				<table class="contentpaneopen">
 <tbody><tr>
 		<td class="contentheading" width="100%">
 					Privacy Policy			</td>
-						<td align="right" width="100%" class="buttonheading" id="pdfJoomla">
-		<a href="/privacy-policy.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"></a>		</td>
+						<td align="right" width="100%" class="buttonheading" id="pdfJoomla" style="display: none;">
+		<a href="/index.php?view=article&amp;catid=29%3Asecurity&amp;id=14%3Aprivacy-policy&amp;format=pdf&amp;option=com_content&amp;Itemid=9" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"></a>		</td>
 		
-				<td align="right" width="100%" class="buttonheading" id="printJoomla">
-		<a href="/privacy-policy.html?tmpl=component&amp;print=1&amp;page=" title="print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="print"></a>		</td>
+				<td align="right" width="100%" class="buttonheading" id="printJoomla" style="display: none;">
+		<a href="/index.php?view=article&amp;catid=29%3Asecurity&amp;id=14%3Aprivacy-policy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=9" title="print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="print"></a>		</td>
 		
-				<td align="right" width="100%" class="buttonheading" id="emailJoomla">
-		<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovL3NreWViYW5rbmcuY29tL3ByaXZhY3ktcG9saWN5Lmh0bWw%3D" title="email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="email"></a>		</td>
+				<td align="right" width="100%" class="buttonheading" id="emailJoomla" style="display: none;">
+		<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5za3llYmFua25nLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xNDpwcml2YWN5LXBvbGljeSZjYXRpZD0yOTpzZWN1cml0eSZJdGVtaWQ9OQ==" title="email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="email"></a>		</td>
 					</tr>
 </tbody></table>
 
@@ -393,28 +526,28 @@ var title = jQuery.trim(parmArray[1]);
 <td valign="top">
 <p>Privacy Policy</p>
 <p><strong>Skye Bank Website Principles</strong></p>
-<p>Skye Bank is committed to keeping all information you provide in the process of contacting us private and confidential. This policy relates to all information provided on <a href="http://www.skyebankng.com/">www.skyebankng.com</a> and these include all subsidiaries listed on the Skye bank website.</p>
+<p>Skye Bank is committed to keeping all information you provide in the process of contacting us private and confidential. This policy relates to all information provided on&nbsp;<a href="http://www.skyebankng.com/">www.skyebankng.com</a> and these include all subsidiaries listed on the Skye bank website.</p>
 <p>Please find below our privacy criteria and how we manage the information provided to us.</p>
 <p><strong>Customers</strong></p>
 <p>As a customer of Skye bank, you would have opened your account with us with a form which states our privacy and confidentiality agreement under the terms and condition agreement section.&nbsp; Please refer to individual or corporate mandate signed on your account opening forms.</p>
 <p><strong>Online services</strong></p>
-<p><strong>1. Information we collect</strong><br> At the point of registration for the use of our secure services such as online banking, you will be required to provide some personal information essentially for &nbsp;security, identification and verification purposes.</p>
+<p><strong>1. Information we collect</strong><br>At the point of registration for the use of our secure services such as online banking, you will be required to provide some personal information essentially for &nbsp;security, identification and verification purposes.</p>
 <p>When completing any online forms, we will tell you how your information will be used in relation to the product or service you are applying for, within the form and in any associated terms and conditions.</p>
 <p>Where you provide information about others (eg. for joint accounts or if you are "recommending a friend") you must ensure that you have their consent or are otherwise entitled to provide this information to us.</p>
-<p><strong>2. How we use your information</strong><br> From your contact details provided to us, We will inform you by letter, telephone, text (or similar) messages, email or other electronic methods about our products and services) that may be of interest to you. You may at anytime discontinue receipt of such marketing communications from us by writing to us or sending us an email with your full name, address and account details, to our Customer Experience Unit, 3 Akin Adesola Street Victoria Island Lagos or send an email to 
+<p><strong>2. How we use your information</strong><br>From your contact details provided to us, We will inform you by letter, telephone, text (or similar) messages, email or other electronic methods about our products and services) that may be of interest to you. You may at anytime discontinue receipt of such marketing communications from us by writing to us or sending us an email with your full name, address and account details, to our Customer Experience Unit, 3 Akin Adesola Street Victoria Island Lagos or send an email to 
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = 'm&#97;&#105;lt&#111;:';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy84752 = 'c&#101;m' + '&#64;';
- addy84752 = addy84752 + 'sky&#101;b&#97;nkng' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy84752 + suffix + '\'' + attribs + '>' );
- document.write( addy84752 );
+ var addy23870 = 'c&#101;m' + '&#64;';
+ addy23870 = addy23870 + 'sky&#101;b&#97;nkng' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy23870 + suffix + '\'' + attribs + '>' );
+ document.write( addy23870 );
  document.write( '<\/a>' );
  //-->
- </script><a href="mailto:cem@skyebankng.com">cem@skyebankng.com</a> <script language="JavaScript" type="text/javascript">
+ </script><a href="mailto:cem@skyebankng.com">cem@skyebankng.com</a><script language="JavaScript" type="text/javascript">
  <!--
  document.write( '<span style=\'display: none;\'>' );
  //-->
@@ -427,28 +560,28 @@ var title = jQuery.trim(parmArray[1]);
  </script></span>.</p>
 <p>Kindly note that we may also use your information for research and statistical analysis purposes with the aim of improving our services. However we will ensure that we will not disclose your personal details in the course of our research and statistical analysis.</p>
 <p>There may be need to transfer your details to an agent or service provider located in another country and in such event, we would use our best endeavor to ensure that they observe the same level of protection of such detail as we are required to and use your details strictly in accordance with our instructions. The information provided by you will be &nbsp;retained in our data store for as long as the relevant Nigerian laws permit and we would use same only as required for business purposes.</p>
-<p><strong>3.&nbsp; Security</strong><br> For more information on our policy for online data storage and protection, please refer to our <a href="/security-tips/online-banking-protection.html">security online page</a> . This page also provides a guideline on how you can protect your own information online.</p>
+<p><strong>3.&nbsp; Security</strong><br>For more information on our policy for online data storage and protection, please refer to our&nbsp;<a href="/security-tips/online-banking-protection.html">security online page</a> . This page also provides a guideline on how you can protect your own information online.</p>
 <p><strong>Skye Bank Privacy Principles</strong></p>
 <p>Skye Bank is committed to safeguarding the privacy of your information. By 'your information' we mean any information about you that you or third parties provide to us.</p>
 <ul>
-<li>We      will only collect&nbsp;and use your information where we have lawful      grounds and legitimate business reasons to do so </li>
-<li>We      will be transparent in our dealings with you especially as it relates to      your information. If we have collected your information for a particular      purpose we will not use it for anything else unless you have been informed      and, where relevant, your permission obtained </li>
-<li>We      will not ask for more information than we need for the purposes for which      we are collecting it. </li>
-<li>We      will update our records when you inform us that your details have changed </li>
-<li>We      will continue to review and assess the quality of our information. Please      send us a mail at 
+<li>We will only collect&nbsp;and use your information where we have lawful grounds and legitimate business reasons to do so</li>
+<li>We will be transparent in our dealings with you especially as it relates to your information. If we have collected your information for a particular purpose we will not use it for anything else unless you have been informed and, where relevant, your permission obtained</li>
+<li>We will not ask for more information than we need for the purposes for which we are collecting it.</li>
+<li>We will update our records when you inform us that your details have changed</li>
+<li>We will continue to review and assess the quality of our information. Please send us a mail at&nbsp;
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = 'm&#97;&#105;lt&#111;:';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy26604 = 'c&#111;nt&#101;ntm&#97;n&#97;g&#101;r' + '&#64;';
- addy26604 = addy26604 + 'sky&#101;b&#97;nkng' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy26604 + suffix + '\'' + attribs + '>' );
- document.write( addy26604 );
+ var addy39044 = 'c&#111;nt&#101;ntm&#97;n&#97;g&#101;r' + '&#64;';
+ addy39044 = addy39044 + 'sky&#101;b&#97;nkng' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy39044 + suffix + '\'' + attribs + '>' );
+ document.write( addy39044 );
  document.write( '<\/a>' );
  //-->
- </script><a href="mailto:contentmanager@skyebankng.com">contentmanager@skyebankng.com</a> <script language="JavaScript" type="text/javascript">
+ </script><a href="mailto:contentmanager@skyebankng.com">contentmanager@skyebankng.com</a><script language="JavaScript" type="text/javascript">
  <!--
  document.write( '<span style=\'display: none;\'>' );
  //-->
@@ -459,15 +592,13 @@ var title = jQuery.trim(parmArray[1]);
  document.write( 'span>' );
  //-->
  </script></span> if you are unsatisfied with the quality of our information online</li>
-<li>We      will implement and adhere to information retention policies applicable in      Nigeria relating to your information and will ensure that your information      is securely disposed of at the end of the appropriate retention period </li>
-<li>We      will observe the rights granted to you under the applicable privacy and      data protection laws of Nigeria and will ensure that queries relating to      privacy issues are promptly and transparently dealt with </li>
-<li>We      will ensure that we have put in place appropriate physical and      technological security measures to protect your information provided to us</li>
-<li>We      will ensure that when we outsource any of our processes in relation to      your information we would require the supplier to put in place &nbsp;appropriate security measures and comply      with these principles on privacy We will ensure that suitable safeguards      are in place before personal information is transferred to other countries,      where the need arises. </li>
+<li>We will implement and adhere to information retention policies applicable in Nigeria relating to your information and will ensure that your information is securely disposed of at the end of the appropriate retention period</li>
+<li>We will observe the rights granted to you under the applicable privacy and data protection laws of Nigeria and will ensure that queries relating to privacy issues are promptly and transparently dealt with</li>
+<li>We will ensure that we have put in place appropriate physical and technological security measures to protect your information provided to us</li>
+<li>We will ensure that when we outsource any of our processes in relation to your information we would require the supplier to put in place &nbsp;appropriate security measures and comply with these principles on privacy We will ensure that suitable safeguards are in place before personal information is transferred to other countries, where the need arises.</li>
 </ul>
 <p>You are not required to provide any personal information on the public areas of this website. However, you may choose to do so by completing the forms on various pages of the site. We will only use the information you provide to us on these pages in order to process the relevant form. Please note that we cannot guarantee the protection of such information and we will not be liable for the unauthorized or other use of your information provided in such public areas. Kindly refer to the privacy statement on the relevant form for a more detailed explanation of how your information will be used.</p>
 <p>If you are concerned about the use of your information that you supply to us, while on our website, please contact our Legal Department by writing to: The Head, Legal Services Department, Skye Bank Plc, Plot 12 Amodu Ojikutu Street, Victoria Island Lagos.</p>
-<hr width="33%" size="1">
-<p><a href="file:///C:/RightClick/SkyeBank/misc/policy%20online%20document.doc#_msoanchor_1">[o1]</a>Link to security online page</p>
 
 </td>
 </tr>
@@ -480,16 +611,14 @@ var title = jQuery.trim(parmArray[1]);
 				<h3>Where to go from here</h3>
 				
 			</div>
-						
-	   		</div>
-        		
-		<div id="DisplayPaneRight" class="right">
+				   		</div>
+				<div id="DisplayPaneRight" class="right" style="margin-left: -10px;">
 			<div id="PageCPanel">
 				<!---->
 				<ul>
-<li class="printPage"><img class="left" src="/images/M_images/printButton.png" border="0"><a href="#" title="Printer-friendly Version" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">Printer-friendly Version</a></li>
-<li class="emailPage"><img class="left" src="/images/M_images/emailButton.png" border="0"><a href="#" title="Send this to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;">Send this to a friend</a></li>
-<li class="pdfPage"><img class="left" src="/images/M_images/pdf_button.png" border="0"><a href="#" title="PDF Version" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">PDF Version</a></li>
+<li class="printPage"><img class="left" src="/images/M_images/printButton.png" border="0"><a href="/index.php?view=article&amp;catid=29%3Asecurity&amp;id=14%3Aprivacy-policy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=9" title="Printer-friendly Version" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">Printer-friendly Version</a></li>
+<li class="emailPage"><img class="left" src="/images/M_images/emailButton.png" border="0"><a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3d3dy5za3llYmFua25nLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xNDpwcml2YWN5LXBvbGljeSZjYXRpZD0yOTpzZWN1cml0eSZJdGVtaWQ9OQ==" title="Send this to a friend" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;">Send this to a friend</a></li>
+<li class="pdfPage"><img class="left" src="/images/M_images/pdf_button.png" border="0"><a href="/index.php?view=article&amp;catid=29%3Asecurity&amp;id=14%3Aprivacy-policy&amp;format=pdf&amp;option=com_content&amp;Itemid=9" title="PDF Version" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow">PDF Version</a></li>
 </ul>
 			</div>
 			<div id="RelatedPages">
@@ -497,31 +626,31 @@ var title = jQuery.trim(parmArray[1]);
 					<h3>Related Pages</h3>
 					<ul class="relateditems">
 <li>
-	<a href="/security-tips/online-banking-protection.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=184:online-banking-protection&amp;catid=29:security&amp;Itemid=149">
 				Online Banking Protection</a>
 </li>
 <li>
-	<a href="/privacy-policy/185-atm-user-guide.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=185%3Aatm-user-guide&amp;catid=29%3Asecurity&amp;Itemid=9">
 				ATM User Guide</a>
 </li>
 <li>
-	<a href="/security-tips/whistle-blower.html">
-				Whistle Blower</a>
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=174:blow-a-whistle&amp;catid=29:security&amp;Itemid=47">
+				Blow a Whistle</a>
 </li>
 <li>
-	<a href="/privacy-policy/175-security-online.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=175%3Asecurity-online&amp;catid=29%3Asecurity&amp;Itemid=9">
 				Security Online</a>
 </li>
 <li>
-	<a href="/security-tips/customer-alert.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=176:customer-alert&amp;catid=29:security&amp;Itemid=49">
 				Customer Alert</a>
 </li>
 <li>
-	<a href="/security-tips/atm-and-credit-protection.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=177:atm-and-credit-protection&amp;catid=29:security&amp;Itemid=50">
 				ATM and Credit Protection</a>
 </li>
 <li>
-	<a href="/privacy-policy/178-terms-a-conditions.html">
+	<a href="/index.php?option=com_content&amp;view=article&amp;id=178%3Aterms-a-conditions&amp;catid=29%3Asecurity&amp;Itemid=9">
 				Terms &amp; Conditions</a>
 </li>
 </ul>		</div>
@@ -529,7 +658,7 @@ var title = jQuery.trim(parmArray[1]);
 				<div id="LastViewed">
 					<script type="text/javascript">
 						displayRVP();
-					</script>
+					</script><div class="RVPBox"><h3>Last viewed pages</h3><ul><li><a href="https://web.archive.org/web/20120406203430id_/http://www.skyebankng.com/" target="_self" title="Individual Banking">Individual Banking</a></li></ul></div>
 				</div>
 						<div class="moduletable_innercontact">
 					<h3>How may we help you?</h3>
@@ -539,9 +668,8 @@ var title = jQuery.trim(parmArray[1]);
 	
 			</div>
 		</div>
-			
-</div>	<div id="Translator" class="right">
-				<div class="moduletable">
+		</div>  <div id="Translator" class="right">
+    		<div class="moduletable">
 					<h3>Select Language:</h3>
 					
     <script type="text/javascript">
@@ -559,45 +687,42 @@ var title = jQuery.trim(parmArray[1]);
 
 <a href="javascript:doTranslate('en|en')" title="English" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-0px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="English"></a> <a href="javascript:doTranslate('en|af')" title="Afrikaans" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-300px -500px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Afrikaans"></a> <a href="javascript:doTranslate('en|ar')" title="Arabic" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-100px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Arabic"></a> <a href="javascript:doTranslate('en|zh-CN')" title="Chinese (Simplified)" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-300px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Chinese (Simplified)"></a> <a href="javascript:doTranslate('en|nl')" title="Dutch" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-0px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Dutch"></a> <a href="javascript:doTranslate('en|fr')" title="French" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-200px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="French"></a> <a href="javascript:doTranslate('en|de')" title="German" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-300px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="German"></a> <a href="javascript:doTranslate('en|it')" title="Italian" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-600px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Italian"></a> <a href="javascript:doTranslate('en|ja')" title="Japanese" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-700px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Japanese"></a> <a href="javascript:doTranslate('en|ko')" title="Korean" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-0px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Korean"></a> <a href="javascript:doTranslate('en|pt')" title="Portuguese" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-300px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Portuguese"></a> <a href="javascript:doTranslate('en|ru')" title="Russian" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-500px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Russian"></a> <a href="javascript:doTranslate('en|es')" title="Spanish" class="flag" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-600px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" style="border:0;vertical-align:top;" alt="Spanish"></a> 		</div>
 	
-
-	</div>
-	<div id="Footer">
-		<div id="FooterTop" class="footerText" style="display:none">
-					<div class="moduletable">
+  </div>
+  <div id="Footer">
+    <div id="FooterTop" class="footerText" style="display:none">
+      		<div class="moduletable">
 					<p>Skye Bank Plc is historically one of the oldest banks in Nigeria and West Africa. It is a publicly quoted company with over 300,000 shareholders that have a shareholding structure that puts no more than 5% in the control of any one individual or company. The Skye and Skye Logos are registered trademark of The Skye Group. All contents and publications are rights reserved.</p>		</div>
 	
-		</div>
-		<div id="FooterBottom">
-			<div class="left footerText">
-					<div class="moduletable">
+    </div>
+    <div id="FooterBottom">
+      <div class="left footerText">
+        		<div class="moduletable">
 					<p><strong>Head Office:</strong> Skye Bank Plc.<br> 3, Akin Adesola Street, Victoria Island, Lagos.<br> <strong>Tel:</strong> + 234 1 2701600<br> <strong>Email:</strong> <a href="mailto:info@skyebankng.com">info@skyebankng.com</a></p>		</div>
 	
-			</div>
-			<div id="FooterMenu" class="right">
-				<ul class="menufooter"><li class="item7"><a href="/feedback.html"><span>Feedback</span></a></li><li id="current" class="active item9"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item248"><a href="/sitemap.html"><span>Sitemap</span></a></li></ul>
-		    </div>
-		</div>
-	</div>
-	
+      </div>
+      
+      <div id="FooterMenu" class="right">
+      
+      
+        <ul class="menufooter"><li class="item7"><a href="/index.php?option=com_content&amp;view=article&amp;id=9&amp;Itemid=7"><span>Feedback</span></a></li><li id="current" class="active item9"><a href="/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=9"><span>Privacy Policy</span></a></li><li class="item248"><a href="/index.php?option=com_xmap&amp;sitemap=1&amp;Itemid=248" class="noborder"><span>Sitemap</span></a></li></ul>
+        
+      </div>
+    </div>
+  </div>
 </div>
-<div id="MySkyePageInfo"><h3>What is 'My Preferred SkyeBank Homepage' Feature</h3>
+<div id="MySkyePageInfo">
+  <h3>What is 'My Preferred SkyeBank Homepage' Feature</h3>
 <p><strong>'My Preferred SkyeBank Homepage'</strong> feature is  meant to enhance your browsing experience as a Skye Bank website visitor. You can select either the Personal Banking, Business Banking or Institutional &amp; Government Banking mini-portal of the website as your default/preferred entry point to the website. On your next visit to our website, you will be automatically re-directed to your selected mini-portal.</p>
-<p>If you do not enjoy this  feature and want to turn it off, simply de-select (if already checked) the check box at the bottom of your selected mini-portal homepage. Turning this feature off will turn it off for  anyone who uses your Web browser. You can at anytime re-enable <strong>'My Preferred SkyeBank Homepage'</strong> feature for your browser by selecting the check box at the bottom of your preferred mini-portal homepage.</p></div>
-
-<div id="Preloader" style="display:none">
-<img src="/templates/skyebank/images/ng_map.jpg">
-<img src="/templates/skyebank/images/ng_map.jpg">
-<img src="/templates/skyebank/images/ng_map.jpg">
+<p>If you do not enjoy this  feature and want to turn it off, simply de-select (if already checked) the check box at the bottom of your selected mini-portal homepage. Turning this feature off will turn it off for  anyone who uses your Web browser. You can at anytime re-enable <strong>'My Preferred SkyeBank Homepage'</strong> feature for your browser by selecting the check box at the bottom of your preferred mini-portal homepage.</p>
 </div>
+<div id="Preloader" style="display:none"> <img src="/templates/skyebank/images/ng_map.jpg"> <img src="/templates/skyebank/images/ng_map.jpg"> <img src="/templates/skyebank/images/ng_map.jpg"> </div>
 
-
-
-<!--<script type="text/javascript" charset="utf-8">
+<script type="text/javascript" charset="utf-8">
   $(document).ready(function(){
     $("a[rel^='prettyPhoto']").prettyPhoto();
   });
 </script>
--->
+
 
 <script type="text/javascript">
 
@@ -612,7 +737,5 @@ var title = jQuery.trim(parmArray[1]);
   })();
 
 </script>
-
-
 
 </body></html>
