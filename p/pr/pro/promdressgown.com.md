@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promdressgown.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712131753id_/http%3A//www.promdressgown.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promdressgown.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317082413id_/http%3A//www.promdressgown.com/security.php) for the most accurate reproduction.*
 
 # prom dress,prom gown-security privacy
 
