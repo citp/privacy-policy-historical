@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicholidays.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220041037id_/http%3A//www.publicholidays.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicholidays.com.au privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317092430id_/http%3A//www.publicholidays.com.au/privacy) for the most accurate reproduction.*
 
 # Public Holidays | Public Holiday & Holidays
 
