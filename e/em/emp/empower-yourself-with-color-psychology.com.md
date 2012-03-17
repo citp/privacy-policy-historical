@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empower-yourself-with-color-psychology.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010852id_/http%3A//www.empower-yourself-with-color-psychology.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empower-yourself-with-color-psychology.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317151407id_/http%3A//www.empower-yourself-with-color-psychology.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
