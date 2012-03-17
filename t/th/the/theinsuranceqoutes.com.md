@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinsuranceqoutes.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216113955id_/http%3A//www.theinsuranceqoutes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsuranceqoutes.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317205755id_/http%3A//www.theinsuranceqoutes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheap Car Insurance
 
