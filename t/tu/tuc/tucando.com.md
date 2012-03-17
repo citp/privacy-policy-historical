@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tucando.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112120057id_/http%3A//www.tucando.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucando.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317040327id_/http%3A//www.tucando.com/privacy.php) for the most accurate reproduction.*
 
-# Tucando.com - the first free business network with new features, revolutionizing network and customer communication.
+# Tucando.com - Free Business Directory - Free Advertising.
 
 Online Privacy Policy
 
