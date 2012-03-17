@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203092134id_/http%3A//tractionplatform.com/Footer_right/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317182233id_/http%3A//www.tractionplatform.com/Footer_right/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Traction – Privacy Policy
 
