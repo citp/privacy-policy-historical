@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125081512id_/http%3A//www.courts.com.sg/en/eCourts/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2012-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120317152955id_/http%3A//www.courts.com.sg/en/eCourts/Policy/Privacy) for the most accurate reproduction.*
 
 # Courts Singapore Webstore - Great value, smart choices for your home
 
