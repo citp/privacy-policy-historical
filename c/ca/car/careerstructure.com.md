@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103113648id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318164705id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CareerStructure.com
 
