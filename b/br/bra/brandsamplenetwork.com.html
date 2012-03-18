@@ -1,0 +1,807 @@
+<!--The following is the downloaded HTML source of the brandsamplenetwork.com privacy policy that was archived on 2012-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120318213303id_/http%3A//www.brandsamplenetwork.com/%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Brand Sample Network - Privacy Policy</title>
+<meta http-equiv="Description" content="">
+<meta http-equiv="Keywords" content="">
+<!-- link rel="SHORTCUT ICON" href="favicon.ico" -->
+<style type="text/css" media="screen"> @import "css2/bsn.css"; </style>
+
+<style type="text/css">
+	.mentone_semi {
+			font-family: 'MentoneSemiBold';
+	}
+	
+	.mentone_headline {
+		font-size:40px;
+		
+	}
+	
+	.mentone_sub_head {
+		font-size:18px;
+		font-weight:bold;
+	}
+	
+	.mentone_text {
+		top:0px;
+		font-size:14px;
+		font-weight:normal;
+	}
+	
+</style>
+
+<script src="/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script language="JavasScript" type="text/javascript" src="/formclear.js"></script>
+<script language="JavaScript" type="text/javascript">
+var rp_param = gup('rp');
+var lp_param = gup('lp');
+//var email_param = gup('dl_email');
+//var check_param = gup('dl_check');
+var rp_param1 = gup('lp');
+var count = 0;
+var exit= 1;
+var Path= 1;
+var atempts= 0;
+var timber = 0;
+var formSubmitted=false;
+agt=navigator.userAgent.toLowerCase();
+isie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var ck_email = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+var ck_zip = /^[0-9]{5}$/;
+
+function Email_c(){
+//alert("a");
+document.getElementById('Email').value= '';
+}
+
+function Zip_c(){
+//alert("a");
+document.getElementById('Zipcode').value= '';
+}
+function reportErrors(errors){
+ var msg = "";
+ for (var i = 0; i<errors.length; i++) {
+ msg +=  errors[i] + "<br>" ;
+}
+document.getElementById("error").innerHTML = msg;
+Show(1);
+}
+
+function openWin()
+{
+var str1 = "";
+var str2 = "";
+var str3 = "";
+var str4 = "";
+if(str1 || str2 || str3 || str4 != ""){
+if(count == 0){
+count++;
+document.getElementById("exitPop").style.display="block";
+//myWin = window.open("http://www.couponsavingsnetwork.com","nCt", "left=0,width=400,height=54,status=no,toolbar=no,menubar=no,scrollbars=no");
+}
+}
+}
+function closeWin()
+{
+document.getElementById("exitPop").style.display="none";
+}
+
+function check_zip(type){
+         if(type == 1){
+                        jQuery.ajax({
+                                url: "rest.php",
+                                data: "Zip="+jQuery("#Zipcode1").val(),
+                                success: function(result){
+                                        jQuery("#rest").html(result);
+                                }
+                        });
+        }
+
+        if(type == 2){
+                        jQuery.ajax({
+                                url: "deals.php",
+	  	                data: "Zip="+jQuery("#Zipcode2").val(),
+                                success: function(result){
+                                        jQuery("#deal").html(result);
+                                }
+                        });
+
+        }
+
+
+}
+
+function PopUp(){
+var email = document.em_f.email_address.value;
+var str = "";
+if(str != ""){
+newPage(str.replace(/##email##/i,email));
+
+}
+}
+
+function ThankYou(){
+var email = document.getElementById('Email').value;
+var zip =  document.getElementById('Zipcode').value;
+var errors = [];
+
+if (!ck_email.test(email) && document.getElementById('Email').value != "") {errors[errors.length] = "*Invalid email address.";}
+if(document.getElementById('Email').value == ""){errors[errors.length] = "*Email address required.";}
+if(document.getElementById('Zipcode').value == ""){errors[errors.length] = "*Zip code required.";}
+//if (!ck_zip.test(zip) && document.getElementById('Zipcode').value != "") {errors[errors.length] = "*Invalid zip code.";}
+if (errors.length > 0) {
+  reportErrors(errors);
+  return false;
+ }
+
+document.getElementById("thank_y").style.display="block";
+document.getElementById("sign_up").style.display="none";
+return true;
+}
+
+function TY(){
+alert("erewer");
+//document.getElementById("thank_y").style.display="block";
+//document.getElementById("sign_up").style.display="none";
+}
+
+function InstnPages(){
+ exit=0;
+var errors = [];
+var email = document.getElementById('Email').value;
+if(email == ""){errors[errors.length] = "*Email address required.";}
+if (!ck_email.test(email) && email != "") {errors[errors.length] = "*Invalid email address.";}
+if (errors.length > 0) {
+  reportErrors(errors);
+  return false;
+ }
+
+
+ dl_email=document.getElementById('Email').value;
+ if(document.getElementById('Terms').checked){
+	dl_check="y";
+ }else{
+	dl_check="n";
+ }
+var str ="";
+ var val = navigator.userAgent.toLowerCase();
+                     if (navigator.appVersion.indexOf("Win")!=-1 && val.indexOf("firefox") > -1){
+	                       // window.location="http://www.brandsamplenetwork.com?page=ff_pc&dl_email="+dl_email+"&dl_check="+dl_check;
+			document.getElementById('ff_pc').style.display="block";		
+			document.getElementById('foot_area').style.display="none";
+			if(str != ""){
+			 window.setTimeout('window.location=""; ',10000);
+			}
+                     }else if (navigator.appVersion.indexOf("Mac")!=-1 && val.indexOf("firefox") > -1){
+                        //window.location="http://www.brandsamplenetwork.com?page=ff_mac&dl_email="+dl_email+"&dl_check="+dl_check;
+			document.getElementById('ff_mac').style.display="block";
+                        document.getElementById('foot_area').style.display="none";
+			if(str != ""){
+			 window.setTimeout('window.location=""; ',10000);
+			}
+                     }else if (navigator.appVersion.indexOf("Win")!=-1 && val.indexOf("msie") > -1){
+                        //window.location="http://www.brandsamplenetwork.com?page=ie_pc&dl_email="+dl_email+"&dl_check="+dl_check;
+			document.getElementById('ie_pc').style.display="block";
+                        document.getElementById('foot_area').style.display="none";
+			if(str != ""){
+			 window.setTimeout('window.location=""; ',10000);
+			}
+                     }else{
+                        //window.location="http://www.brandsamplenetwork.com?page=dl_instns&dl_email="+dl_email+"&dl_check="+dl_check;
+			document.getElementById('dl_instns').style.display="block";
+                        document.getElementById('foot_area').style.display="none";
+			if(str != ""){
+			 window.setTimeout('window.location=""; ',10000);
+			}
+                     }
+
+
+}
+
+function submitToShopAtHome(){
+
+	   
+                     var url = "";
+                     url+= "&email=" + escape(document.em_f.email_address.value);
+                     url+= "&optin=" + ((document.getElementById("Terms").checked)? "y":"n");
+                     window.location.href=url;
+		     return false;
+
+}
+
+function gup( name )
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function Showtab_H(){
+window.location="http://www.brandsamplenetwork.com";
+}
+function Showtab_S(){
+window.location="http://www.brandsamplenetwork.com/samples";
+}
+function Showtab_G(){
+window.location="http://www.brandsamplenetwork.com/grocery";
+}
+function Showtab_R(){
+window.location="http://www.brandsamplenetwork.com/restaurants";
+}
+function Showtab_D(){
+window.location="http://www.brandsamplenetwork.com/dailydeals";
+}
+
+function Show_CS(){
+//document.getElementById("cs").style.display="block";
+document.getElementById("cn").style.display="none";
+document.getElementById("cf").style.display="none";
+//document.getElementById('cs_con').style.display="block";
+document.getElementById("cn_con").style.display="none";
+document.getElementById('cf_con').style.display="none";
+//document.getElementById('cf_con').style.visibility="hidden";
+/*document.getElementById("cs").style.visibility="visible";
+document.getElementById("cn").style.visibility="hidden";
+document.getElementById("cf").style.visibility="hidden";
+document.getElementById('cs_con').style.visibility="visible";
+document.getElementById("cn_con").style.visibility="hidden";
+document.getElementById('cf_con').style.visibility="hidden";
+*/
+}
+function Show_CN(){
+//document.getElementById("cs").style.display="none";
+document.getElementById("cn").style.display="block";
+document.getElementById("cf").style.display="none";
+//document.getElementById('cs_con').style.display="none";
+document.getElementById("cn_con").style.display="block";
+document.getElementById('cf_con').style.display="none";
+//document.getElementById('cf_con').style.visibility="hidden";
+/*document.getElementById("cs").style.visibility="hidden";
+document.getElementById("cn").style.visibility="visible";
+document.getElementById("cf").style.visibility="hidden";
+document.getElementById('cs_con').style.visibility="hidden";
+document.getElementById("cn_con").style.visibility="visible";
+document.getElementById('cf_con').style.visibility="hidden";
+*/
+}
+function Show_CF(){
+//document.getElementById("cs").style.display="none";
+document.getElementById("cn").style.display="none";
+document.getElementById("cf").style.display="block";
+//document.getElementById('cs_con').style.display="none";
+document.getElementById("cn_con").style.display="none";
+document.getElementById('cf_con').style.display="block";
+//document.getElementById('cf_con').style.visibility="visible";
+/*document.getElementById("cs").style.visibility="hidden";
+document.getElementById("cn").style.visibility="hidden";
+document.getElementById("cf").style.visibility="visible";
+document.getElementById('cs_con').style.visibility="hidden";
+document.getElementById("cn_con").style.visibility="hidden";
+document.getElementById('cf_con').style.visibility="visible";
+*/
+}
+ function Hide_G(){
+document.getElementById('cf_con').style.display="none";
+}
+
+function hidediv(){
+document.getElementById("foot_area").style.display="none";
+}
+
+function newPage(page) {
+        if (timber == 0) {  
+                timber ++;
+ 
+                OpenWin = window.open(page,"Checkpop","toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=1150,height=700");
+                OpenWin.blur();
+                window.focus();
+        }
+}
+
+function SubmitPop(){
+if( formSubmitted == true )
+  {
+        return false;
+  }
+formSubmitted = true;
+
+var email = document.em_f.email_address.value;
+if (document.em_f.zip_code) {
+var zip = document.em_f.zip_code.value;
+}
+var str = "";
+if(str != ""){
+OpenWin = window.open(str.replace(/##email##/i,email).replace(/##zipcode##/i,zip),"Submitpop","toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=1150,height=700");
+OpenWin.blur();
+window.focus();
+
+}
+         //       OpenWin.blur();
+           //     window.focus();
+return true;
+}
+
+function Ad_Pop(){
+var email = '';
+var str = "";
+if(str != ""){
+OpenWin = window.open(str.replace(/##email##/i,email),"Adpop","toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=1150,height=700");
+//OpenWin.blur();
+//window.focus();
+}
+//                OpenWin.blur();
+//                window.focus();
+
+}
+
+function LPexit()
+{       if(exit == 1){
+	//	if(rp_param == 3){
+	
+	var email = document.em_f.email_address.value;
+	var str = "";
+//	alert(str);
+	if(str != ""){
+        OpenWin=window.open(str.replace(/##email##/i,email),"Lpop","toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=1150,height=780");
+	//}else{
+	//OpenWin=window.open("","PopUp","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable=0,width=1150,height=780");
+	//}
+	}
+        OpenWin.blur();
+        window.focus();
+	
+        }
+}
+function DPexit()
+{       if(exit == 1){
+          //      if(rp_param == 3){
+	
+	var email = document.em_f.email_address.value;
+	var str = "";
+	if(str != ""){
+        OpenWin=window.open(str.replace(/##email##/i,email),"Dpop","toolbar=0,location=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=1150,height=780");
+	}
+        //}else{
+        //OpenWin=window.open("","PopUp","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable=0,width=1150,height=780");
+        //}
+        OpenWin.blur();
+        window.focus();
+        
+	}
+}
+
+function isNumber(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}
+
+function check_this()
+{
+var email = document.getElementById('Email').value;
+//var zip =  document.getElementById('Zipcode').value;
+var errors = [];
+
+if (!ck_email.test(email) && document.getElementById('Email').value != "") {errors[errors.length] = "*Invalid email address.";}
+if(document.getElementById('Email').value == ""){errors[errors.length] = "*Email address required.";}
+if(jQuery('#Zipcode').length && !isNumber(jQuery('#Zipcode').val())){errors[errors.length] = "*Invalid Zip Code.";}
+if(jQuery('#privacy').length && !jQuery('#privacy').is(':checked')){errors[errors.length]="*Please agree to our privacy policy before continuing.";}
+//if(document.em_f.zip_code){
+//var zip =  document.getElementById('Zipcode').value;
+//if(document.getElementById('Zipcode').value == ""){errors[errors.length] = "*Zip code required.";}
+//if (!ck_zip.test(zip) && document.getElementById('Zipcode').value != "") {errors[errors.length] = "*Invalid zip code.";}
+//}
+if (document.em_f.terms){
+if(document.getElementById('Terms').checked == false){errors[errors.length] = "*Certify that you are a U.S. Resident of legal age.";}
+}
+
+
+if (errors.length > 0) {
+  reportErrors(errors);
+  return false;
+ }
+
+		  
+if(atempts < 3)
+{	
+	atempts+=1; 
+	if(rp_param == 2){
+	document.getElementById('processing_box2').style.display="block";
+	}else if(rp_param == '' && lp_param == ''){
+	 document.getElementById('processing_box3').style.display="block";
+	}else{
+	document.getElementById('processing_box').style.display="block";
+
+	}
+	base_url= '/hygieneajax.php?email_addr='+document.getElementById('Email').value;
+//		alert(base_url)
+	if (window.XMLHttpRequest)
+	{
+		req = new XMLHttpRequest();
+		req.onreadystatechange = get_results;
+		req.open("GET", base_url, true);
+		req.send(null);
+	}
+	else if (window.ActiveXObject)
+	{
+		req = new ActiveXObject("Microsoft.XMLHTTP");
+		if (req)
+		{
+			req.onreadystatechange = get_results;
+			req.open("GET", base_url, true);
+			req.send();
+		}
+	}
+}
+else
+{	var email = document.em_f.email_address.value;
+	var str = "";
+	window.open(str.replace(/##email##/i,email),'_self');
+}
+}
+
+function Hide(flag){
+document.getElementById("err_msg").style.display="none";
+}
+
+function Show(flag){
+document.getElementById("err_msg").style.display="block";
+}		
+
+function closeDiv(flag){
+document.getElementById("processing_box2").style.display="none";
+document.getElementById("processing_box").style.display="none";
+document.getElementById("processing_box3").style.display="none";
+if(flag == 1)
+{
+	document.getElementById("hy_p").value=1;
+//				alert(document.getElementById("em_f").name);
+	document.getElementById("em_f").submit();
+//	SubmitPop();
+}
+	
+}
+
+function get_results()
+{
+if (req.readyState==4)
+{
+	if (req.status == 200)
+	{
+		valid_or_not =  req.responseText;
+//			alert(valid_or_not)	
+		if(valid_or_not == 1)
+		{   
+			exit = 0;	
+			/*if(rp_param == 3){
+			 Path=1;
+			}*/			
+			var t= setTimeout("closeDiv(1)",4000);
+		
+			//document.getElementById("hy_p").value=1;
+			//document.getElementById('em_f').submit();
+			//window.location = 'http://affiliate.lfmtracker.com/rd/r.php?sid=2887&pub=170978&c1=&c2=path1|result&c3=';
+		}										
+		else 
+		{
+
+			var t= setTimeout("closeDiv(0)",4000);
+		//	alert(valid_or_not);
+			if(valid_or_not == 0)
+			{	Show(1);
+				document.getElementById("error").innerHTML='*Invalid email address. Please try again.';
+			}else if(valid_or_not == 2){
+                                                document.location = "/";
+                            }
+			else
+			{	Show(1);
+				document.getElementById("error").innerHTML='*Misspelled email address. Is this your correct address?';
+				document.getElementById("Email").value=valid_or_not;
+			}
+			//if(!isie)
+			//	e.preventDefault()
+			return false;
+
+		}
+			 
+									 
+	}
+	else
+	{
+
+		alert('Error Retrieving Data');
+	}
+}
+}
+					/*function enter_submission(e,poll_choice_code)
+					{
+					if(!e)
+							e = window.event
+						if(typeof(e.keyCode)=='number')
+							//DOM
+							key = e.keyCode
+						else if(typeof(e.which)=='number')
+							//NS 4 compatible
+							key = e.which
+						else if(typeof(e.charCode)=='number')
+							//also NS 6+, Mozilla 0.9+
+							key = e.charCode;
+
+						if(key==13 && 2!=17)
+						{
+							check_this(e);
+							if(!isie)
+								e.preventDefault();
+							return false;
+						}
+						else
+							return true;
+					}*/
+function enter_submission(e)
+{
+var key;
+
+if(window.event)
+  key = window.event.keyCode;     //IE
+else
+  key = e.which;     //firefox
+
+if(key == 13)
+  return false;
+else
+  return true;
+}
+
+function checkEnter(e, num){
+var characterCode
+    if(e && e.which){
+        e = e
+        characterCode = e.which
+     }
+    else {
+        e = event
+        characterCode = e.keyCode
+    }
+
+    if(characterCode == 13){
+        check_zip(num);
+        return false
+    }
+    else{
+        return true
+    }
+}
+
+function StrR(url){
+var email = document.em_f.email_address.value;
+var zip = document.em_f.zip_code.value;
+var str = url;
+
+var s= str.replace(/##email##/i, email).replace(/##zipcode##/i,zip);
+window.open(s,'_newtab');
+//alert(s);
+}
+
+					
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18557865-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+<body class="" onload="Hide(0)" onunload="">
+<form name="em_f" method="post" action="/confirm" id="em_f">
+ <div class="e_layer" style="display:none; position: fixed; z-index:7; background:url(images2/blk_trans_tile.png) repeat;" id="exitPop">
+          <div class="exit_unit_a">
+           <div class="exit_unit_a_header">
+                                <a href="javascript:closeWin()"><img src="images2/exit_pop_close.png" width="30" height="30"></a>
+
+<!--<button type="button"   onClick="closeWin()">Close</button>-->
+
+          </div>
+            <div class="exit_unit_a_bottom">
+
+
+                <div class="exit_unit_header">&nbsp;</div>
+                <div class="exit_unit_mid">
+
+                <!-- start first row -->
+                        <div class="exit_unit_coupon_row">
+                      <div class="exit_unit_coupon">
+                        <div class="exit_coupon_product_l"><a href="javascript:StrR('')"><img src="/advertiser_images/" width="84" height="84" border="0" alt=""></a></div>
+                          <div class="exit_coupon_product_r">
+                                <div class="ec_product"><a href="javascript:StrR('')"></a></div>
+
+                                <div class="ec_product_terms"></div>
+                                <div class="ec_prodcut_link"><a href="javascript:StrR('')"><img src="images2/exit_click_here_button.png" width="84" height="20" border="0" alt=""></a></div>
+                            </div>
+                        </div>
+                      <div class="exit_unit_coupon">
+                        <div class="exit_coupon_product_l"><a href="javascript:StrR('')"><img src="/advertiser_images/" width="84" height="84" border="0" alt=""></a></div>
+                            <div class="exit_coupon_product_r">
+                                <div class="ec_product"><a href="javascript:StrR('')"></a></div>
+
+                                <div class="ec_product_terms"></div>
+                                <div class="ec_prodcut_link"><a href="javascript:StrR('')"><img src="images2/exit_click_here_button.png" width="84" height="20" border="0" alt=""></a></div>
+                            </div>
+                      </div>
+                        </div>
+                <!-- end first row -->
+                <div style="clear:both;"></div>
+                <!-- start second row -->
+                        <div class="exit_unit_coupon_row">
+
+                      <div class="exit_unit_coupon">
+                        <div class="exit_coupon_product_l"><a href="javascript:StrR('')"><img src="/advertiser_images/" width="84" height="84" border="0" alt=""></a></div>
+                            <div class="exit_coupon_product_r">
+                                <div class="ec_product"><a href="javascript:StrR('')"></a></div>
+                                <div class="ec_product_terms"></div>
+                                <div class="ec_prodcut_link"><a href="javascript:StrR('')"><img src="images2/exit_click_here_button.png" width="84" height="20" border="0" alt=""></a></div>
+                            </div>
+                      </div>
+
+                      <div class="exit_unit_coupon">
+                        <div class="exit_coupon_product_l"><a href="javascript:StrR('')"><img src="/advertiser_images/" width="84" height="84" border="0" alt=""></a></div>
+                            <div class="exit_coupon_product_r">
+                                <div class="ec_product"><a href="javascript:StrR('')"></a></div>
+                                <div class="ec_product_terms"></div>
+                                <div class="ec_prodcut_link"><a href="javascript:StrR('')"><img src="images2/exit_click_here_button.png" width="84" height="20" border="0" alt=""></a></div>
+                            </div>
+                      </div>
+
+                        </div>
+
+                <!-- end first row -->
+</div>
+                <div class="exit_unit_bottom"></div>
+
+            </div>
+        </div>
+    </div>
+
+
+<div id="">
+	  <div id="header">&nbsp;</div><div style="top:252px; left: 63px; width:462px; height:auto; min-height:80px; display:none; border:2px solid #C00; position:absolute; z-index:3; background:#FFF; padding:2px 0px 5px 0px;" id="err_msg" class="error_msg">
+ <div class="error_msg_left">
+<span class="error_header">Please correct the following error(s):</span><br>
+    <span id="error"></span><br>
+	<button type="button" class="error_button" onclick="Hide(0)">Correct Now</button>
+</div>
+</div> 
+	
+	  <div id="processing_box" style="top:280px; left:190px; width:475px; height:180px; display:none; position:ABSOLUTE; z-index:100; border:0px;">
+	  <img src="images2/email_confirm_p2.gif" alt="email_confirm" width="729" height="240" border="0"></div>
+	  <div id="processing_box2" style="top:280px; left:190px; width:475px; height:180px; display:none; position:ABSOLUTE; z-index:100; border:0px;">
+	  <img src="images2/email_confirm_p2.gif" alt="information_confirm" width="729" height="240" border="0"></div>
+	  <div id="processing_box3" style="top:280px; left:190px; width:475px; height:180px; display:none; position:ABSOLUTE; z-index:100; border:0px;">
+          <img src="images2/information_confirm_p2.gif" alt="email_confirm" width="729" height="240" border="0"></div>
+
+	  <input type="hidden" name="hy_p" id="hy_p" value="0">
+
+
+	
+<div class="content_area">
+                <p class="bsn_sub_header bsn_b">Privacy Policy</p>
+		<p>
+	&nbsp;</p>
+<p>
+	<strong>Effective Date: June 1, 2011</strong></p>
+<p>
+	Thank you for visiting the BrandSampleNetwork website located at www.brandsamplenetwork.com(the "Site"). The Site is an Internet property of CouponValueNetwork, LLC, a State of Delaware limited liability company ("BrandSampleNetwork," "we" or "us"). This BrandSampleNetwork Website Privacy Policy ("Privacy Policy") covers what information we collect from you and how we use that information.</p>
+<p>
+	BrandSampleNetwork honors the privacy of its clients, members and visitors ("You", "Your") and created this privacy statement in order to demonstrate our firm commitment to privacy. We comply with all applicable federal and state laws concerning data privacy, as well as best practices and procedures and guidelines established by industry groups. We believe concern for everyone's privacy is a basis for sound business practices within direct marketing and other arenas. This statement is intended to apply to all clients, members and visitors of this web site.</p>
+<p>
+	By using and accessing the Site, you acknowledge you have read, understood and agree to be bound to all the terms and practices described in this Privacy Policy. If you do not agree to these terms, exit this page and do not use or access the Site.</p>
+<p>
+	<strong>WHAT INFORMATION IS COLLECTED?</strong></p>
+<p>
+	Generally, two (2) types of information are gathered. The first type of information is the Personally Identifiable Information ("Personal Information") provided when You enroll in one of Our Programs via the online registration forms on one of Our properties. This Personal Information may include, but is not limited to, Your name, mailing address, email address, date of birth, gender and telephone number.</p>
+<p>
+	In addition to the Personal Information You provide to Us, We will also collect certain information online and offline arising out of Your participation in the Program and use of the property including, but not limited to, the number and type of offers You have responded to and completed.</p>
+<p>
+	Any member who discloses Personal Information on Our property is entitled to either: (1) a list detailing the categories of Personal Information shared and the third parties to which such information was provided by such property; or (2) a mechanism by which You may opt-out of having Your Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by sending Your request, including Your full name, email address and postal address to: BrandSampleNetwork, 2119 Dewey Ave, Evanston, IL 60201. Please be advised that where You opt-out from permitting Your Personal Information to be shared with third-parties, You may still receive selected offers directly from Us, in accordance with the law.</p>
+<p>
+	<strong>HOW DO WE USE THE INFORMATION COLLECTED?</strong></p>
+<p>
+	We use Your email address to notify You of Program updates, special offers and promotions. We use Your Personal Information in connection with Your participation in the Program. For example, We request Your mailing address so that We may use this information to notify You via email, postal mail or telephone about new products or services and special promotions that We are offering, as well as to apprise You of Our Advertisers.</p>
+<p>
+	We distribute offers for the purchase of subscriptions and merchandise from Our advertisers, which include national retailers, online merchants, credit card companies and service providers. If You elect to purchase or apply for a subscription or merchandise through Us from one of Our advertisers, the order form may request information from You that may include contact information (such as name, address, telephone number and email address) as well as financial information (such as credit card number). Certain offers that appear on the property may require You to provide financial information to Us so that We can, in turn, provide it to the applicable sponsor associated with the offer You are interested in.</p>
+<p>
+	We reserve the right to release current or past user information and Personal Information: (a) in the event We believe the property and/or the program is/are being or has/have been used in violation of the Terms or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if We are sold or acquired. Moreover, You hereby consent to disclosure of any record or communication to third-parties where We determine disclosure to be appropriate, including sharing Your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time ("CAN-SPAM").</p>
+<p>
+	We may choose to provide aggregate non-personally identifiable demographic information about You to non-affiliated third-parties for statistical purposes only.</p>
+<p>
+	We may pre-select certain offers for You to view based on the demographic and geographic information You submitted while visiting the property. We may also deliver advertisements to You based on other socio-economic, psychographic, purchase behavior and lifestyle information We may obtain from third-parties. Additionally, We may pre-fill some or all of the Offers. data fields with the information You submitted while on the property. We may not show all of the pre-filled data fields to You.</p>
+<p>
+	<strong>MARKETING PARTNERS</strong></p>
+<p>
+	The Personal Information You submit to Us remains Your property, but by submitting that Personal Information to Us, You grant Us the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, We reserve the right to share the Personal Information we collect , excluding your email address, &nbsp;with carefully selected marketing partners who can offer You products and services that may be of interest to You. You agree to receive e-mail marketing from BrandSampleNetwork. Any email You receive will be from BrandSampleNetwork and may be sent by Our mailing partner, All Inbox, LLC</p>
+<p>
+	We do not control the practices of Our advertisers and third-party advertisers. If You wish to stop receiving future communications from Us, Our advertisers and/or third party advertisers, or if You wish to prevent the transfer and/or sale of Your Personal Information to third parties (subject to restrictions contained in applicable state and federal law), please see the Opt-Out/Unsubscribe section below.</p>
+<p>
+	In addition, You agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR Â§310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that Your telephone number may be listed on the Federal Trade Commission’s &nbsp;Do-Not-Call List, You agree to receive telemarketing from Us, Our advertisers, third party advertisers and marketers in accordance with the terms of the ATSR.</p>
+<p>
+	<strong>SERVICE PROVIDERS</strong></p>
+<p>
+	In order to provide the products or services You have requested, We may disclose the information We collect to selected reputable service providers, vendors and other third parties who perform services on Our behalf including, but not limited to, email service providers who provide Us with technology to deploy email; Advertisers and advertisers that sell the products or services for which You have qualified through the property; credit reporting agencies from which We obtain Your credit report(s); credit card processors; email communications management firms; call center providers and shipping companies We may utilize to ship products to You. Our advertisers and third-party service providers are contractually limited to using the information received from Us solely for the purposes of providing You with the services You requested.</p>
+<p>
+	<strong>WHAT IS THE UNSUBSCRIBE PROCESS?</strong></p>
+<p>
+	We use Your email address to notify You of program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from Us by clicking the "Unsubscribe" link in any future email You receive from Us. You may also click the "Unsubscribe" link at the bottom of this page.</p>
+<p>
+	Please note suppressed contact information will not be used for any purpose other than to ensure compliance with Your opt-out request, in response to inquiries by law enforcement and to comply with any other applicable state and/or federal laws regarding Your choices for commercial email marketing, such as CAN-SPAM.</p>
+<p>
+	<strong>WHAT ARE COOKIES AND HOW DO WE USE THEM?</strong></p>
+<p>
+	We use a feature of Your Internet browser called a "cookie" to assign a unique identification to Your computer. Cookies are files Your web browser places on Your computer\'s hard drive. Cookies can be used to help save and retrieve passwords used on the property and to save information on past activities and other preferences. Where cookies are used, You do not have to re-enter log-in information every time You visit the property. When You visit the property, Our servers read the cookie to help target and personalize offers to You. For example, the cookie can help ensure You do not see an offer You have already completed. Cookies also let Us know if We have repeat visitors. We also use cookies to identify which properties Our repeat visitors are coming from. We do not and cannot use cookies to retrieve Personal Information about You from Your computer unless such information was knowingly and willingly provided by You. We respect Your privacy and Our cookies are not linked to any Personal Information. We work with third-parties to serve ads on the property. These ads may contain cookies and/or action tags (also known as single pixel gifs) to measure advertising effectiveness and gather completely anonymous information. We have no access to or control over these cookies or action tags.</p>
+<p>
+	You are always free to decline these cookies if Your browser permits, however You may not be able to use certain features on the property and You may be asked to re-enter Your user ID and password more frequently during Your sessions on the property.</p>
+<p>
+	<strong>HOW DO WE PROTECT PERSONAL INFORMATION?</strong></p>
+<p>
+	We have security measures in place designed to protect the security of Your information. All collected information is stored in a technically and physically secure environment. In addition when You submit Your credit card information or other sensitive information, the 128-bit encrypted Secure Socket Layer ("SSL") connection scrambles or encrypts Your information before it is sent to Us over the Internet. This protects Your credit card information from being read while it is transferred. SSL is supported by Netscape 2.0+, Microsoft IE 3.0+ and most frame-enabled browsers. Depending on which browser You use, You will know You are in a secure area by "https" or a small key or padlock in the bottom right hand corner of Your browser indicating Your transaction is secure. Unfortunately, no security measures can ever be guaranteed to be 100% secure. As a result, while We strive to protect Your Personal Information and sensitive information, We cannot ensure or warrant the security of any information You transmit to Us, and You do so at Your own risk. Once We receive Your transmission, We make reasonable efforts to ensure its security on Our systems. Access to Personal Information is strictly limited, and not accessible to the public. All Personal Information is restricted in Our offices. Only employees that need the Personal Information to perform a specific job (for example, a customer service representative) are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all Personal Information. Employees not adhering to Our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, We shall notify You and any applicable regulatory agencies in the event We learn of an information security breach with respect to Your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.</p>
+<p>
+	<strong>DO THESE SAME PRIVACY POLICIES APPLY TO THIRD-PARTY WEBSITES THAT YOU ACCESS THROUGH OUR PROPERTY?</strong></p>
+<p>
+	No. The Privacy Policy appearing on the property relates only to Us. You will notice the property may contain links to other websites, such as websites operated by Our Advertisers. We cannot be responsible for, and shall have no liability in connection with, the privacy and security practices of other websites You may access through the property, even if links to those third party websites are displayed within a frame on Our property. You should always review a particular website's privacy and security policies when visiting that website and before revealing any Personal Information to that website.</p>
+<p>
+	<strong>PRIVACY POLICY CHANGES</strong></p>
+<p>
+	We reserve the right to change this Privacy Policy at any time in our sole and absolute discretion by posting a notice at the property explaining We are changing Our Privacy Policy. The user\'s continued participation in the Program and/or continued receipt of Our emails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy. We require You to check back with this page from time to time to review changes to Our Privacy Policy.</p>
+<p>
+	<strong>A SPECIAL NOTE REGARDING PEOPLE UNDER THE AGE OF EIGHTEEN (18)</strong></p>
+<p>
+	Consumers under the age of eighteen (18) are not permitted to submit any Personal Information on the property or otherwise to Us. Further, We will never knowingly collect or solicit any Personal Information from any individual under the age of eighteen (18). Our intention is to fully comply with the Children.s Online Privacy Protection Act ("COPPA"). We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If a parent or guardian has knowledge or is made aware of the fact that a child under the age of eighteen (18) has provided Us with Personal Information through the property or otherwise, Contact Us and We will delete the information about the child from Our database.</p>
+<p>
+	<strong>HOW TO CONTACT US</strong></p>
+<p>
+	If You have any questions about the practices of BrandSampleNetwork, You can contact Us by visiting the Contact Us section of one of Our properties, or via postal mail at BrandSampleNetwork, 2119 Dewey Ave, Evanston, IL 60201.</p>
+</div>
+
+
+
+	<!-- start footer -->
+<div id="foot_area" style="display:block;">
+	<div class="footer_content"> <a href="http://www.brandsamplenetwork.com/">Home</a> | <a href="http://www.brandsamplenetwork.com?page=unsub" target="_blank">Unsubscribe</a> | <a href="http://www.brandsamplenetwork.com?page=privacy" target="_blank">Privacy Policy</a> | <a href="http://www.brandsamplenetwork.com?page=terms" target="_blank">Terms and Conditions</a> | <a href="http://www.brandsamplenetwork.com?page=contact" target="_blank">Contact Us</a> | <a href="http://www.brandsamplenetwork.com?page=about" target="_blank">About Us</a><br>Copyright © 2011 Brand Sample Network, All Rights Reserved.</div>
+		</div> 
+</div> 
+
+</form>  
+<script src="//s.btstatic.com/tag.js">
+ { site: "8DD9SMZ" }
+</script>
+<noscript>
+<iframe src="//s.thebrighttag.com/iframe?c=8DD9SMZ" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+</iframe>
+</noscript><script type="text/javascript">
+var _sf_async_config={uid:11311,domain:"brandsamplenetwork.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
