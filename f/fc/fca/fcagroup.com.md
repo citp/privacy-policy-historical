@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcagroup.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411231009id_/http%3A//www.reppa.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcagroup.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318105553id_/http%3A//www.reppa.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Reppa Flags and Souvenirs
 
