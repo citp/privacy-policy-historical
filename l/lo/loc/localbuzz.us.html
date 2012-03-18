@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localbuzz.us privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102005847id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localbuzz.us privacy policy that was archived on 2012-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120318123436id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -55,24 +55,22 @@
 	<a class="logo" href="http://www.localbuzz.us/"><h1>Localbuzz - it's in your area</h1></a>
 	
 	<div class="searchbox">
-                <form action="http://www.localbuzz.us/search.html" method="get" name="srch-frm-top">
                     <div><input id="input-srch-for" name="keyword" type="text" class="srch-fld" value=""></div>
-                    <div><input name="" type="button" class="srch-bttn" value="" onclick="this.form.submit();"></div>
-                </form>
+                    <div><input name="" type="button" class="srch-bttn" value="" onclick="submit_search();"></div>
 	</div>
 	
 	<div class="weather">
 	    	    		<div class="day1">
 		    <!--Array
 (
-    [low] => 53
-    [high] => 72
-    [icon] => http://www.google.com//ig/images/weather/partly_cloudy.gif
-    [condition] => Partly Cloudy
+    [low] => 46
+    [high] => 59
+    [icon] => http://www.google.com//ig/images/weather/thunderstorm.gif
+    [condition] => Thunderstorm
 )
 1-->
-		    <img src="http://www.localbuzz.us/images/new-site/weather_icon/partly_cloudy.png" alt="Partly Cloudy" title="Partly Cloudy">		    
-		    <p class="degree"><span>72°F</span>53°F</p>
+		    <img src="http://www.localbuzz.us/images/new-site/weather_icon/thunderstorm.png" alt="Thunderstorm" title="Thunderstorm">		    
+		    <p class="degree"><span>59°F</span>46°F</p>
 		    <p class="location">Los Angeles, CA</p>
 		</div>
 	     	     	    	     	    	     	    	     	</div>
@@ -332,17 +330,31 @@
     </p>
 </div>
 </div>
-			<div id="change-location">
-            	<div>
-	            	<input type="text" size="30" value="LOS ANGELES, CA" id="input-string" onkeyup="lookup(this.value);">&nbsp;
-	            	<input id="save-btn" class="save-location-bttn" type="button" name="save" value=""><input id="cancel-btn" class="cancel-location-bttn" type="button" name="cancel" value="">
-            	</div>
-            	
-            	<div class="suggestions-box" id="suggestions" style="display: none;">
-					<div class="suggestion-list" id="auto-suggestions-list">&nbsp;</div>
-				</div>
-				<img id="ajax-loader" style="display:none;margin-top:10px;margin-left:60px;float:left;" src="http://www.localbuzz.us/images/ajax-loader.gif" alt="loading">
-        	</div>
+			
+        	
+        	<div class="overlay overlay-change-location">
+			    <div class="box">
+			    	<div class="header">
+			    		 <h3 class="left">Start typing to change your location</h3>
+					    <div class="right close">X</div>
+					    <div class="clear"></div>
+					</div>
+					
+					<div id="change-location">
+		            	<div>
+			            	<input type="text" size="30" value="LOS ANGELES, CA" id="input-string" onkeyup="lookup(this.value);">&nbsp;
+			            	<button id="save-btn" class="save-location-bttn button" type="button" name="save" value="">Save</button><button id="cancel-btn" class="cancel-location-bttn" type="button" name="cancel" value="">Cancel</button>
+		            	</div>
+		            	
+		            	<div class="suggestions-box" id="suggestions" style="display: none;">
+							<div class="suggestion-list" id="auto-suggestions-list">&nbsp;</div>
+						</div>
+						<img id="ajax-loader" style="display:none;margin-top:10px;margin-left:60px;float:left;" src="http://www.localbuzz.us/images/ajax-loader.gif" alt="loading">
+		        	</div>
+		        	
+			    </div>
+			</div>
+
 
  <script type="text/javascript">
      $("#input-srch-for").Watermark('Find Local Businesses');
@@ -361,9 +373,11 @@
 		
 	});
 	
-	var s_location_change_script = 'http://www.localbuzz.us/ajax/location_change.php';
+	
+	// change location script url
+	var s_location_change_script = '/ajax/location_change.php';
     
-    
+	// change location lookup
 	function lookup(input_string, target) {
 		
 		if(input_string.length == 0) {
@@ -392,7 +406,7 @@
 					} else {
 						$( '#suggestions' ).show();
 						$( '#auto-suggestions-list' ).html(data);
-						$( '#change-location' ).dialog("option" , 'height' , '270');
+						$( '#change-location' ).height('270');
 					}
 				}
 			});
@@ -400,40 +414,36 @@
 		}
 	} // lookup
 	
+	// change location - select location from resulted list
 	function fill(value) {
 		$( '#ajax-loader' ).hide();
 		$( '#ajax-loader-srch' ).hide();
 		$( '#input-string' ).val(value);
 		$( '#input-string-srch' ).val(value);
-		$( '#change-location' ).dialog("option" , 'height' , '120');
+		$( '#change-location' ).height('100%');
 		setTimeout("$('#suggestions').hide();", 200);
 		setTimeout("$('#suggestions-srch').hide();", 200);
 		return false;
 	}
+	// change location - show loader
 	function show_loader () {
 		$('#ajax-loader').show();
 	}
+	// change location - hide loader
 	function hide_loader () {
 		$('#ajax-loader').hide();
 	}
-	//open dialog, change location window
+	
+	// open dialog, change location window
 	$( "#change-loc-trigger" ).click(function() {
-		$( "#change-location" ).dialog({
-			height: 120,
-			width:480,
-			title:'Please begin typing, and select your location',
-			resizable:false,
-			draggable:false,
-			modal: true,
-			position: ['center',100],
-		});
+		$("div.overlay-change-location").show();
 	});
-	//cancel button
+	//change location - cancel button
 	$( "#cancel-btn" ).click(function() {
-		$( "#change-location" ).dialog('close');
+		$('div.overlay').hide();
 	});
 	
-	//save button
+	////change location - save button
 	$( "#save-btn" ).click(function() {
 		var location_value = $('#input-string').val();
 		$.post(s_location_change_script, {location: ""+location_value+"", save : 'true'}, function(data){
@@ -443,7 +453,37 @@
 		});
 	});
 	
-	</script>
+	$(".close").click(function() {
+		$('div.overlay').hide();
+	});
+	
+	/**
+	 * Submit search from website header
+	 */
+	function submit_search() {
+		
+		var s_keyword = $('#input-srch-for').val();
+		
+		if (s_keyword != "") {
+			
+			var s_keyword_clean = s_keyword.replace(/[^a-zA-Z0-9 -]/g, '');
+			s_keyword_clean = s_keyword_clean.replace(/[ -]+/g, '-');
+			s_keyword_clean = s_keyword_clean.replace(/^-|-$/g, '');
+			
+			document.location.href = '/' + s_keyword_clean;
+			
+			return false
+		}
+	}
+	// submit search on ENTER key hit
+	$('#input-srch-for').keypress(function(e){
+        if(e.which == 13){
+        	submit_search('');
+        }
+    }); 
+	 
+	
+</script>
 
 
 </body></html>
