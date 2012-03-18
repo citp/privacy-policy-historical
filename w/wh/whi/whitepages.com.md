@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019165938id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318162416id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
 
 # Free People Search | WhitePages
 
@@ -14,7 +14,7 @@ Our Privacy Policy does not apply to information published on our websites. If y
 
 ## WhitePages Privacy Policy
 
-**This policy is effective as of June 16, 2011.**
+**This policy is effective as of February 23, 2012.**
 
 Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [Terms of Service](https://web.archive.org/help/terms). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.
 
@@ -71,14 +71,13 @@ This is information about the searches you perform through our Services, includi
 **How we use it:**
 
   * We use Search Information to provide you with search results.
-  * We do not share or sell Search Information associated with you as an individual (exceptions noted under "When We Share Information with Third Parties.")
-  * We may share or sell aggregate Search Information that does not identify you personally (e.g. total number of searches for “coffee shops” in Seattle, Washington).
+  * We may share or sell your Search Information.
 
 
 
 ### 5\. General Information
 
-This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.
+This information includes things like your browser type, mobile device type, unique user ID, mobile carrier, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.
 
 We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.
 
@@ -90,13 +89,17 @@ We use cookies, web beacons and GPS information (for mobile devices) to collect 
 
 **How we use it:**
 
-We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device. Exceptions to the foregoing are noted under "When We Share Information with Third Parties."
+  * We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests.
+  * We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.
+  * We may share or sell General Information.
+
+
 
 ## How Third Parties Collect & Use Your Information & How to Opt-Out
 
-WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes. To stop information collection and targeted advertising from Audience Science and other third party companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites, mobile website and mobile applications. These third parties may collect and use Search Information or General Information to deliver more relevant advertising to you and for their own business purposes. Such use and collection is subject to the privacy policies of those third party companies, such as the privacy policy of AdMarvel located at <http://www.admarvel.com/AdMarvel_Privacy_Policy_2011.pdf>. To stop information collection and targeted advertising from Audience Science and other third party companies that provide online ads, [click here.](http://www.networkadvertising.org/managing/opt_out.asp) (At this time, there is no industry solution to opt-out of receiving mobile third party targeted ads. If you do not wish to share mobile-related information to provide targeted advertising, please refrain from using our mobile services.)
 
-Certain third parties may collect and use the more specific General Information, such as which web pages you viewed, in order to deliver interest-based advertising. WhitePages follows the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of such data) and requires such third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data will provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected for behavioral advertising purposes. To stop information collection regarding your past online activity and targeted interest-based advertising from third party companies, [click here](http://www.aboutads.info/)
+Certain third parties may collect and use Search Information and the more specific General Information, such as which web pages you viewed, in order to deliver interest-based advertising. WhitePages follows the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of such data) and requires such third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data will provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected for behavioral advertising purposes. To stop information collection regarding your past online activity and targeted interest-based advertising from third party companies, [click here](http://www.aboutads.info/)
 
 ### Advertising Forms, Surveys and Third Party Links
 
