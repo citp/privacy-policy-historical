@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolapps.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228124648id_/http%3A//lolapps.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolapps.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318013333id_/http%3A//www.lolapps.com/privacypolicy) for the most accurate reproduction.*
 
 # Lolapps - Privacy Policy
 
