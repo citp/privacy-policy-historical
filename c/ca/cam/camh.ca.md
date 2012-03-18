@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the camh.ca privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130062753id_/http%3A//www.camh.ca/Legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camh.ca privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318194637id_/http%3A//www.camh.ca/Legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy & confidentiality policy-CAMH
 
 | 
 
-You are here: [Home]()
+You are here: [Home](https://web.archive.org/index.html)
 
 CAMH places a high value on privacy, both in person and online.   Please visit CAMH’s [privacy pages](https://web.archive.org/About_CAMH/Privacy/index.html) to learn more about our commitment to protecting the personal information of our patients and clients.  These pages contain information about our [Privacy Office](https://web.archive.org/About_CAMH/Privacy/privacy_office.html), our [Privacy Notice](https://web.archive.org/About_CAMH/Privacy/CAMH_Privacy_Notice.pdf), and our [Privacy Policy](https://web.archive.org/About_CAMH/Privacy/CAMH%20%20Health%20Privacy%20Policy.pdf).
 
