@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118110829id_/http%3A//www.footasylum.com/Privacy-Policy-AFA_privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2012-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120319010754id_/http%3A//www.footasylum.com/Privacy-Policy-AFA_privacyPolicy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
@@ -35,7 +35,7 @@ Personal data submitted on this website will be used for the purposes specified 
   * to Send you commercial communications; 
   * to Deal with enquiries and complaints made by or about you relating to our service and website; 
   * to Provide third parties with statistical information about our website users; 
-  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” via the [contact us](https://www.footasylum.com/contact.asp) form; 
+  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” via the [contact us](https://www.footasylum.com/contact.asp?cid=GWN7FWXX0GU3FBTAB4WI39O5YYOTMJLC) form; 
   * to Send order confirmations and invoices to you.; 
   * for Internal Record Keeping; 
   * to improve our products and services; 
