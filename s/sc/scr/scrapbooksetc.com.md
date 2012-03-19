@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scrapbooksetc.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117094855id_/http%3A//www.scrapbooksetc.com/sbe/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbooksetc.com privacy policy that was archived on 2012-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120319054300id_/http%3A//www.scrapbooksetc.com/sbe/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dno) for the most accurate reproduction.*
 
 # 
+
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.scrapbooksetc.com/sbe/file.jsp?item=/privacy/policy&temp=no)
