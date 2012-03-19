@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the lhj.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/lhj/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhj.com privacy policy that was archived on 2012-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/lhj/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # 
 
 Untitled Document
 
-  * [Online Privacy Policy](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Online_Privacy_Policy)
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
+
+  * [Online Privacy Policy](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Online_Privacy_Policy)
   * [Offline Privacy Policy](http://www.lhj.com/lhj/file.jsp?item=/privacy/policy)
   * [Visitor Agreement](http://lhj.com/lhj/file.jsp?item=terms)
-  * [Your California Privacy Rights](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Your_California_Privacy_Policy)
-  * [Meredith Corporation “Shine the Light” Customer Notice](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#shinethelight)
+  * [Your California Privacy Rights](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Your_California_Privacy_Policy)
+  * [Meredith Corporation “Shine the Light” Customer Notice](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#shinethelight)
 
 
 
@@ -22,26 +24,26 @@ PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION AND U
 
 Please read this Online Privacy Policy carefully so that you understand our privacy practices regarding:
 
-  * [Children under 13 ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Children_Under_13)
-  * [Information we collect ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Information_We_Collect)
-  * [How your information will be used ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#How_your_information_will_be_used)
-  * [How to correct or update your information ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#How_to_correct_or_update_your_informati)
-  * [Newsletters and promotions ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Newsletters_and_promotions)
-  * [Security ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Security)
-  * [Miscellaneous](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Miscellaneous)
+  * [Children under 13 ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Children_Under_13)
+  * [Information we collect ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Information_We_Collect)
+  * [How your information will be used ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#How_your_information_will_be_used)
+  * [How to correct or update your information ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#How_to_correct_or_update_your_informati)
+  * [Newsletters and promotions ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Newsletters_and_promotions)
+  * [Security ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Security)
+  * [Miscellaneous](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Miscellaneous)
 
 
 
 If you have questions about this Online Privacy Policy, please contact us at [privacy@meredith.com](mailto:privacy@meredith.com).   
 
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### Children Under 13:
 
 Meredith cares about protecting the privacy of children. We won't knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. If you're under 13, please do not register with any of our sites or provide us with any personally identifying information (such as your name, your email address or your phone number). 
 
-[ Return to top](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[ Return to top](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### Information We Collect:
 
@@ -61,7 +63,7 @@ The information we gather on our sites falls into two categories: (1) informatio
 
 **Browser Level Information and IP Addresses.** When you use our sites, we may also collect information about your access time and your computer configuration, including the type of browser software you use, the operating system that you're running, the resolution of your computer monitor and your Internet Protocol ("IP") address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. Like the IP address, none of the other information described in this paragraph identifies you personally. We collect this information for purposes of aggregated reporting on site activity that we, and our advertisers, may use. For example, we may want to know how long the average user spends on our site, which pages or features get the most attention, and the like. The aggregated information helps to understand our audience and confirm the value of advertising on our websites.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### How Your Information Will Be Used:
 
@@ -79,13 +81,13 @@ Our primary goal in collecting information is to provide you with a customized e
 
 **Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.lhj.com/lhj/file.jsp?item=terms), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### How to Correct or Update Your Information:
 
 Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=LHJ&cds_page_id=83280) area. 
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### Newsletters and Promotions:
 
@@ -93,19 +95,19 @@ Meredith Corporation believes strongly in providing you with the ability to acce
 
 **Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.lhj.com/common/profile/member/optout/) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### Security:
 
 The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.lhj.com/lhj/file.jsp?item=terms) for more information related to posting materials on our sites, including our use of such materials.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ### Miscellaneous:
 
 The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -115,9 +117,9 @@ Under California Civil Code Section 1798.83 – also known as the “Shine the L
 
 The “Shine The Light” law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
 
-Meredith Corporation qualifies for this latter exception. As further explained in our [Online Privacy Policy](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Online_Privacy_Policy) and [Offline Privacy Policy](http://www.lhj.com/lhj/file.jsp?item=/privacy/policy), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties’ direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our “Shine The Light” Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
+Meredith Corporation qualifies for this latter exception. As further explained in our [Online Privacy Policy](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#Online_Privacy_Policy) and [Offline Privacy Policy](http://www.lhj.com/lhj/file.jsp?item=/privacy/policy), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties’ direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our “Shine The Light” Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
 
 ## MEREDITH CORPORATION "SHINE THE LIGHT" CUSTOMER NOTICE 
 
@@ -137,4 +139,4 @@ Many of the third-party offers promoted through our websites are brought to our 
 
 From time to time, we may offer co-sponsored sweepstakes, contests and other promotions with third-party advertisers and other partners. We may share your registration information with third-parties involved in a co-sponsored promotion, who will always be identified in the promotion materials (for example, in the official rules). If you do not want your registration information to be disclosed to these third-parties, please do not register for any of our co-sponsored promotions.
 
-[Return to top ](https://web.archive.org/web/20111204082403id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
+[Return to top ](https://web.archive.org/web/20120319055430id_/http%3A//www.lhj.com/IWTemp/pcontent1a/cache/default/main/lhjfiles/WORKAREA/EditorWA/lhj/files/legal/privacy.html#top)
