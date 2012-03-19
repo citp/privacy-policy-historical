@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lumberliquidators.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520223543id_/http%3A//www.lumberliquidators.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26WT.ad%3DGLOBAL_FOOTER_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumberliquidators.com privacy policy that was archived on 2012-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120319054349id_/http%3A//www.lumberliquidators.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26WT.ad%3DGLOBAL_FOOTER_Privacy) for the most accurate reproduction.*
 
-# Privacy & Security - Lumber Liquidators
+# Privacy & Security | Lumber Liquidators
 
 Effective February 5, 2009
 
