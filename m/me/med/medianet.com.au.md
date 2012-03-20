@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124083756id_/http%3A//medianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320064223id_/http%3A//medianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AAP Medianet Privacy Policy | Press Release Distribution AAP Medianet Australia
 
