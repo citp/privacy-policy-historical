@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwptheme.net privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211162808id_/http%3A//www.premiumwptheme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwptheme.net privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320120404id_/http%3A//www.premiumwptheme.net/privacy-policy) for the most accurate reproduction.*
 
 # PremiumWPTheme.net Privacy Policy
 
@@ -49,4 +49,4 @@ PWT may at any time, without notice to you and in its sole discretion, amend thi
 
 If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us directly](http://premiumwptheme.net/contact "Contact Us Directly").
 
-© [Free WordPress Themes](http://www.premiumwptheme.net/) from your friends at PWT | **The BEST Free Premium WordPress Themes of 2011 - 2012 ******
+© [Free WordPress Themes](http://www.premiumwptheme.net/) from your friends at PWT | **The BEST Free Premium WordPress Themes of 2012 ******
