@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214502id_/http%3A//www.dnainfo.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320183628id_/http%3A//www.dnainfo.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # ABOUT-US - PRIVACY - DNAinfo.com
 
