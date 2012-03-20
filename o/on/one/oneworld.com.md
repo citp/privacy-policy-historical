@@ -1,115 +1,95 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013070008id_/http%3A//www.oneworld.com/ow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320162036id_/http%3A//www.oneworld.com/general/privacy-policy) for the most accurate reproduction.*
 
-# oneworld - Privacy Policy
+# Privacy Policy - oneworld
 
-Your privacy is important to us. **one** world® pledges to be responsible when gathering your personal information and to protect your privacy. This Privacy Policy should answer your questions about the sources and kinds of information we collect, how we use it, when it may be shared with others, and how we safeguard its confidentiality and security. We also provide you with ways to correct the data you provide us and to limit our sharing of this data with third parties. **one** world reserves the right to modify or update this Privacy Policy at any time without prior notice. If we modify or update our Privacy Policy, we will post the revised policy here, and any modifications will apply to all information collected by **one** world, including previously collected information. 
+## Protecting your privacy
 
-.
+At oneworld®, we do everything possible to protect your privacy and personal details.   
+This Privacy Policy outlines the personal information we collect, how we use it, when it is shared with others and how we safeguard its confidentiality and security.
 
-**one** world is an alliance of ten international airlines - American Airlines, British Airways, Qantas, Cathay Pacific Airways, Iberia, Japan Airlines, LAN, Finnair, Royal Jordanian Airlines and Malév Hungarian Airlines. The alliance is based in Vancouver, Canada. As an alliance, **one** world and its members share information, including personal information. Therefore, as outlined in this Privacy Policy, we may share data about sites' visitors to third parties located both inside and outside Canada. 
+## Who we are
 
-.
+oneworld is an alliance of 12 International airlines, including American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, JAL Japan Airlines, LAN, Qantas, Royal Jordanian and S7 Airlines.
 
-In order to facilitate your travel, and manage our business, we may collect and maintain personal information about you. **one** world may collect customer information from many sources to understand and meet your needs. We may collect personal information about you from: 
+As an alliance, oneworld and its members share information, including personal details of our customers.
 
-  * You, when you voluntarily provide us with information; 
-  * Your browser, when you visit our websites and your browser interacts with us; 
-  * Our member airlines; 
-  * Other sources, in connection with providing your transportation needs and services. 
+## Collecting personal information
 
+oneworld collects personal information to help us better understand your travel needs and provide you with improved products and services. This information is collected from a variety of sources, including:
 
-
-The personal information we may collect about you through these various sources may include, but is not limited to: 
-
-  * Name, addresses and telephone numbers 
-  * E-mail addresses, fax numbers and pager numbers 
-  * Frequent Flyer account information 
-  * Information necessary to facilitate travel or other services on our member carriers 
-  * Nationality and country of residence 
-  * Transactional and online activity data pertaining to mileage activity with companies participating in the Frequent Flyer programme 
-  * Use of products and services such as self-service devices, flight status notification and online check-in 
-  * Personal information provided via survey, focus group or other marketing research efforts 
-  * Personal information provided to travel agents and/or customer-service representatives to facilitate travel or other services on our member carriers 
+  * When you voluntarily provide us with information
+  * When your internet browser visits our websites
+  * **one** world member airlines
+  * Third parties who provide other transportation services to you
 
 
 
-.
+The personal information we collect through these various sources may include, but is not limited to:
 
-In addition to obtaining your personal information, when you use our sites, we may collect tracking information such as your browser type, the type of operating system you use, the name of your Internet service provider, and pages visited on the sites. **one** world gets this information by using technologies, including cookies to increase the functionality and user-friendliness of our sites and to better tailor our sites to our visitors' needs. None of this tracking information identifies you personally; we collect it for reporting onsite activity in the aggregate. For example, we may want to know how long the average user spends on our sites or which pages or features get the most attention.
+  * Name, addresses and telephone numbers
+  * Email addresses, fax numbers and pager numbers
+  * Frequent flyer account information
+  * Travel information applicable to our member carriers
+  * Nationality and country of residence
+  * Frequent flyer transactional and online data associated with mileage activity
+  * Use of self-service devices, flight status notifications and online check-in
+  * Information provided via survey, focus group or other market research activity
+  * Information provided to travel agents and/or customer service representatives
 
-.
-
-  * Corporate information (unless it is also about any identifiable person) 
-  * Other websites accessed through a link from our websites. In this case the Privacy Policy of the owner of the linked website will apply. 
 
 
+## Aggregate information
 
-.
+When you visit our websites, we may use cookies, tags and associated technologies to collect non-personal information such as your browser type, your operating system, the name of your internet service provider and the web pages you visited.
 
-Our websites contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of those sites. We encourage you to read the privacy statements of each site that collects information from you. **one** world's Privacy Policy applies solely to information collected by **one** world.
+This information helps us improve the functionality and navigation of our sites and tailor them to suit your needs. For example, we can ascertain how long the average user spends on our sites or which pages attract the most attention. This aggregate information does not identify you personally and is not used for promotional purposes.
 
-.
+## Links
 
-If you are under 16 years of age, you should not provide any personally identifiable information (for example, your last name, home address or e-mail address) to **one** world without the knowledge and permission of your parent or guardian. If **one** world learns that you are under 16 years of age, **one** world will not maintain or use any personally identifiable information about you without the verifiable consent of your parent or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities on the sites without that verifiable consent. 
+oneworld websites contain links to other sites. Please note that oneworld's Privacy Policy applies solely to information collected by oneworld.
 
-**one** world believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. Parents are urged to spend time online with their children to become familiar with the types of content available on the **one** world websites and the Internet in general. Control tools are available from online services and software manufacturers to help create a safer environment for children.
+We are not responsible for the content or privacy practices of external sites, therefore we encourage you to read the privacy statements contained on each of these sites regarding the collection of your personal information. 
 
-.
+## Children under 16 years
 
-We use your personal information to facilitate our member carriers in providing travel related products and services to you.
+Children under the age of 16 should not provide personal information to oneworld without the knowledge and consent of their parent or guardian.
 
-.
+If oneworld learns that you are under 16 years of age, we will not maintain or use any personally identifiable information about you without the consent of your parent or guardian, except as allowed by law.
 
-We will not sell your name or other private profile information to third parties, and do not intend to do so in the future. We routinely share your information with our **one** world member airlines and their subsidiaries. From time to time, we may engage third parties to process information on our behalf and in doing so, we may share your personal information with these third parties; however, **one** world requires that these third parties comply with **one** world's Privacy Policy and principles when using and/or processing this information. We may share anonymous, non-personal aggregated information about all our users with third parties.
+## Who do we share your personal information with?
 
-If you indicate that you wish to receive promotional offers, **one** world may also send you promotional offers in connection with its promotional partners.
+Your personal information is shared with oneworld member airlines and their subsidiaries. Occasionally, we may share your personal information with third parties who have been engaged to process information on our behalf.
 
-.
+oneworld requires these third parties to comply with our Privacy Policy and principles when using this information. We may also share anonymous, non-personal aggregated information with third parties. oneworld does not sell your name or other personal information to third parties.
 
-**one** world uses cookies, tags, and other similar technologies as a means of collecting non-sensitive information on general websites usage so that we may improve your experience on our websites. 
+## Can I find out what personal information has been collected?
 
-These cookies are not designed to identify you personally and the information they gather is used only to guide improvements in navigation, enhance content and provide a means for us to ensure that our websites continue to meet sites users' needs. These cookies are not used for any promotional purposes. If you would like to browse the **one** world websites you may do so without accepting cookies.
+Yes, you can request the personal information we have collected from you, what it is being used for and to whom it has been disclosed at any time.
 
-.
+Please contact the oneworld Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
 
-At any time, you can find out what personal information we have, what it is being used for and to whom it has been disclosed. We will do our best to provide the required information to you within a reasonable time period and will provide an explanation if we are unable to meet your request.
+## How long does oneworld keep my personal information?
 
-.
+We keep your personal information only as long as we need it to provide you with our services and/or to meet legal requirements. When we no longer need the information, it is either destroyed or made anonymous.
 
-Simply contact the Privacy Officer at the address below and indicate which information is incorrect. We will correct inaccurate or incomplete information within a reasonable time and will notify you when we have done so. In the unlikely event we have given incorrect information to others, including our member carriers, we will ensure they are advised of the required corrections.
+## How does oneworld protect my personal information?
 
-.
+oneworld adopts secure procedures and technology to protect the confidentiality of your personal information. These measures are continually reviewed to ensure they meet the standards of our Privacy Policy.
 
-We only keep your personal information on file for as long as we need it to provide you with service and to meet legal requirements. When we no longer need the information, it is either destroyed or made anonymous.
+Furthermore, your personal information is only available to the **one** world employees who need to provide relevant services to you. These employees are obliged to conform to our Privacy Policy and maintain strict confidentiality at all times.
 
-.
+## What if I have any concerns or complaints regarding my privacy?
 
-We have implemented procedures and installed equipment to safeguard the security and confidentiality of your information. We continually review and improve these arrangements to ensure that we are doing all that is reasonably and technically feasible at this time to protect your information.
+If you have any questions, concerns or complaints about the way in which your personal information is collected or used by oneworld, please contact the oneworld Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
 
-Only those employees who need personal information to provide service have access to it. It is a condition of employment that all **one** world employees conform to our Privacy Policy and promise to observe the highest standards of confidentiality for each customer's personal information.
+## Marketing communication and promotions
 
-.
+oneworld and third parties acting on our behalf will only contact you with marketing communication and promotional offers if you have indicated that you would like to receive them.
 
-If you have any questions, concerns or complaints about the way in which your personal information is collected or used by **one** world please contact the Privacy Officer at:
+You can choose to opt out of future oneworld marketing communications by contacting the oneworld  Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
 
-Privacy Officer  
- **one** world Alliance  
- **one** world Management Company Limited  
-Suite 980 The Marine Building 355 Burrard Street  
-Vancouver BC V6C 2G8 Canada 
+## Round-the-world booking tool
 
-[privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
+Our round-the-world booking tool collects your personal information to provide access to the booking system and facilitate payment. In booking your travel via the round-the-world booking tool, you consent to the collection and storage of your personal information and the use of that information by oneworld and its member carriers to help provide services relevant to your trip.
 
-All inquiries or concerns relating to personal information will receive prompt attention and be acknowledged within five business days.
-
-.
-
-We only contact you regarding promotional opportunities if you indicate your desire to receive offers from **one** world. A third party may act on **one** world's behalf and conduct a promotion for **one** world or assist **one** world in managing its marketing database. If you have indicated that you wish to receive promotional offers from **one** world, you may opt out of receiving future **one** world e-mail, telephone and postal marketing communications by contacting **one** world at:
-
-Privacy Officer  
- **one** world Alliance  
- **one** world Management Company Limited  
-Suite 980 The Marine Building 355 Burrard Street  
-Vancouver BC V6C 2G8 Canada 
-
-If you have questions about removing your name from any of our subscription lists, you may contact **one** world at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com). Please allow five business days for any changes to take effect.
+**Please note:** oneworld reserves the right to modify or update this Privacy Policy at any time without prior notice. Revised policies will be posted here, and any modifications will apply to all information collected by oneworld, including previously collected information. This Privacy Policy does not apply to corporate information (unless it is about any identifiable person) or other websites accessed via a link from our websites.
