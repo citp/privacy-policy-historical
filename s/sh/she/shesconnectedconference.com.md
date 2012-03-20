@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shesconnectedconference.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020050702id_/http%3A//shesconnectedconference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesconnectedconference.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320184800id_/http%3A//shesconnectedconference.com/privacy-policy) for the most accurate reproduction.*
 
 # ShesConnected Conference 2011 | Privacy Policy
 
