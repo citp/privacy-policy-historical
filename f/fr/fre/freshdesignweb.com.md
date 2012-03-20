@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204133348id_/http%3A//www.freshdesignweb.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320034652id_/http%3A//www.freshdesignweb.com/privacy-2) for the most accurate reproduction.*
 
-# Privacy | Fresh Design Web
-
-## Privacy
+# Privacy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
