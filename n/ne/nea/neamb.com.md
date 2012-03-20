@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152913id_/http%3A//www.neamb.com/home/775.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320180804id_/http%3A//www.neamb.com/home/775.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NEA Member Benefits
 
 ## NEA Member Benefits Privacy Policy  
 
 
-Effective April 1, 2009
+**Effective:** April 1, 2009.  
+ **Last updated:** December 12, 2011.
 
 **I.  INTRODUCTION**  
 NEA Member Benefits (“NEA’s MBC”) values the trust and privacy of the NEA members and others. This Privacy Policy sets forth NEA’s MBC’s practices regarding:  (1) what personal information we collect about you—both online via the NEA’s MBC website and its suppliers websites and offline via traditional, hard copy forms and data exchanges from the National Education Association (“NEA”) and NEA’s MBC’s product suppliers;  (2) how we use that information;  (3) under what circumstances we disclose it;  (4) what choices are available to you regarding such information collection, and;  (5) what security we use to protect such information. This Privacy Policy also provides some additional information for users of the NEA’s MBC website.
@@ -18,7 +19,7 @@ NEA Member Benefits (“NEA’s MBC”) values the trust and privacy of the NEA 
 
 **B.** The term “you” means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA’s MBC product or service (e.g. a person who has participated in an NEA’s MBC program, a person has purchased a book from the NEA’s MBC Professional Library or a person who subscribes to an NEA’s MBC-produced electronic communication). 
 
-**C.**  The term “personal information” means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us.  This would include, but is not limited to, full name, postal address, phone number, e-mail address, social security number, member ID, financial information, and/or program participation information.
+**C.**  The term “personal information” means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us. This would include, but is not limited to, full name, postal address, phone number, e-mail address, social security number, member ID, financial information, and/or program participation information.
 
 **D.**  The term “NEA’s MBC website” means NEA’s MBC’s external website located at NEAMB.com and any future websites that we may develop. 
 
@@ -50,17 +51,17 @@ Additionally, we may share any of the personal information that we collect about
 
 **VI.  AVAILABLE CHOICES**
 
-Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. For information on how to contact us, please visit the NEA’s MBC website at [www.neamb.com](http://www.neamb.com/) and click on [Contact Us](https://web.archive.org/home/847.htm).
+Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. Please [contact us](https://web.archive.org/home/847.htm) to update your information.
 
-If you subscribe to any NEA’s MBC-produced electronic communication, you may opt out at any time by following the instructions at the bottom of all such communications. If you have any problems, please [Contact Us](https://web.archive.org/home/847.htm).
+If you subscribe to any NEA’s MBC-produced electronic communication, you may opt out at any time by following the instructions at the bottom of all such communications. If you have any problems, please [contact us](https://web.archive.org/home/847.htm).
 
 **VI.  CALIFORNIA PRIVACY INFORMATION  
 **  
-California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year.  NEA’s MBC will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA’s MBC product or service—whether residing in California or not. Simply submit a request to us at one of the following addresses:  [ask-us@neamb.com](mailto:ask-us@neamb.com) or NEA’s MBC Office of General Counsel, 900 Clopper Rd, Ste. 300, Gaithersburg, MD 20878-1356, and we will respond within 30 days of receiving your request.
+California residents have a right under state law to ask entities with whom they have an established business relationship to provide certain information regarding the sharing of personal information for direct marketing purposes during the past year. NEA’s MBC will honor such a request coming from any current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA’s MBC product or service—whether residing in California or not. Simply submit a request to us at one of the following addresses:  [ask-us@neamb.com](mailto:ask-us@neamb.com) or NEA’s MBC Office of the General Counsel, 900 Clopper Rd., Ste. 300, Gaithersburg, MD 20878-1356, and we will respond within 30 days of receiving your request.
 
 **VII.  INFORMATION SECURITY  **
 
-We maintain administrative, technical, and physical safeguards designed to: (1) provide security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, contact NEA’s MBC at [ask-us@neamb.com](mailto:ask-us@neamb.com) to request a copy of the NEA’s MBC Information Security Program.
+We maintain administrative, technical, and physical safeguards designed to: (1) provide security and confidentiality of your personal information; (2) protect against any anticipated threats or hazards to the security or integrity of such information; and (3) protect against unauthorized access to or use of such information. For more information on our information security, please [contact us](https://web.archive.org/home/847.htm) to request a copy of the NEA’s MBC Information Security Program.
 
 **VIII.  ADDITIONAL INFORMATION FOR USERS OF THE NEA’s MBC WEBSITE**
 
@@ -68,11 +69,11 @@ We maintain administrative, technical, and physical safeguards designed to: (1) 
 
 If you use the NEA’s MBC website, NEA’s MBC, you provide us with certain non-personal information in addition to any personal information that you may voluntarily provide. We gather this non-personal information in the aggregate and we share it in the same manner as described in Section V above. For example, if you browse the NEA’s MBC website or download information, our operating system automatically records the following non-personal information:
 
-1. The Internet domain for your Internet service (such as “xcompany.com” or “xcompany.net” if you use a private Internet access account, or “yourcollege.edu” if you connect from a college or university domain);
+1. The Internet domain for your Internet service (such as “acompany.com” or “acompany.net” if you use a private Internet access account, or “yourcollege.edu” if you connect from a college or university domain);
 
-2. The type of browser that you use (such as “America Online version 9.0” or “Microsoft Internet Explorer 7”);
+2. The type of browser that you are using (such as “Mozilla Firefox 8” or “Microsoft Internet Explorer 8”);
 
-3. The type of operating system that you use (such as Windows or Macintosh);
+3. The type of operating system that you are using (such as Windows, Macintosh, or a mobile device);
 
 4. The date and time that you visit the NEA’s MBC website and the web pages that you view;
 
@@ -92,11 +93,11 @@ This Privacy Policy applies only to the NEA’s MBC website. It does not cover 
 
 **IX.  EFFECTIVE DATE, AMENDMENTS, AND CONSENT TO THIS PRIVACY POLICY  **
 
-This Privacy Policy is effective April 1, 2009. We retain the right to amend or otherwise update this Privacy Policy at any time for any reason. By joining the NEA or using the NEA’s MBC website, you consent to the collection, use, and sharing of personal information as we have described herein.  If we amend or update our Privacy Policy, we will post the changes online at the NEA’s MBC website so that you are always aware of NEA’s MBC’s current practices. You may also contact us at [ask-us@neamb.com](mailto:ask-us@neamb.com) at any time to request an up-to-date hard copy version of the Privacy Policy.
+This Privacy Policy is effective April 1, 2009. We retain the right to amend or otherwise update this Privacy Policy at any time for any reason. By joining the NEA or using the NEA’s MBC website, you consent to the collection, use, and sharing of personal information as we have described herein. If we amend or update our Privacy Policy, we will post the changes online at the NEA’s MBC website so that you are always aware of NEA’s MBC’s current practices. You may also [contact us](https://web.archive.org/home/847.htm) at any time to request an up-to-date hard-copy version of the Privacy Policy.
 
 **X.  CONTACT US**
 
-If you have any questions regarding this Privacy Policy, you can contact NEA’s MBC at [ask-us@neamb.com](mailto:ask-us@neamb.com).
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/home/847.htm).
 
   
 
