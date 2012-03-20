@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrogames.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224615id_/http%3A//www.metrogames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrogames.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320093820id_/http%3A//www.metrogames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MetroGames
 
