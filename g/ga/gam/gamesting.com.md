@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesting.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210944id_/http%3A//www.gamesting.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesting.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320070901id_/http%3A//www.gamesting.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GameSting.com
 
@@ -37,3 +37,6 @@ If you have any questions regarding the privacy policy of gamesting.com then you
 Last updated , 10 January 2011 23:02 PCT 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+  
+
