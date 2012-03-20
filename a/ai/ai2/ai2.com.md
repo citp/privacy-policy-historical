@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ai2.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118030446id_/http%3A//www.ai2.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ai2.com privacy policy that was archived on 2012-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120320234345id_/http%3A//www.ai2.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Information
 
