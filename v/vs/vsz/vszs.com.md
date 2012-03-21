@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vszs.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208042542id_/http%3A//www.vszs.com/%3Fpage_id%3D2031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vszs.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321084808id_/http%3A//www.vszs.com/%3Fpage_id%3D2031) for the most accurate reproduction.*
 
 # International Financial News » privacy policy
 
