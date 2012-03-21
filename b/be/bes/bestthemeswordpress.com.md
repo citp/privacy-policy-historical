@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestthemeswordpress.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125044411id_/http%3A//bestthemeswordpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestthemeswordpress.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321233036id_/http%3A//bestthemeswordpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Themes 2012
 
