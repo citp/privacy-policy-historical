@@ -1,43 +1,75 @@
-> *The following text is extracted and transformed from the bdmetrics.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216135046id_/http%3A//www.threestage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdmetrics.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321023622id_/http%3A//app.authntk.com/privacy_policy) for the most accurate reproduction.*
 
-# Three Stage Media: Privacy Policy
+# Authntk
 
-Three Stage Media, Inc. (“Three Stage Media”), the owner of [www.virtualtotebag.com](http://www.virtualtotebag.com/), [www.myvtb.com](http://www.myvtb.com/), [www.eventsocial.com](http://www.eventsocial.com/) and [www.threestage.com](https://web.archive.org/web/20111216135046id_/http://), is concerned about your privacy and the confidentiality of the information you share with us. The purpose of this privacy statement is to disclose the privacy practice of Three Stage Media and this site (the “Site”). If you have any questions about this privacy statement, please contact us by email at [Privacy@ThreeStage.com](mailto:Privacy@ThreeStage.com).
+AUTHNTK, INC. PRIVACY POLICY
 
-### What personally identifiable information is collected on the Site?
+Scope of Policy
 
-A User is a person who uses the site. In the course of its registration process, Three Stage Media collects certain personally identifiable information. Personally identifiable information is information that can be traced back to a single User. A User who provides personally identifiable information in order to register for the site is a Registered User. A Registered Users may be a company or an individual, and may have access to all or portions of the site, including distinct and/or overlapping portions of the site depending on that Registered Users role. Name, company name, addresses, and email address are examples of personally identifiable information that is collected during the registration process.
+This privacy policy covers your use of Authntk, Inc.’s website and it’s embeddable video recorder/player (the “Authntk Services”).  This policy applies to online and offline collection, storage, processing and transfer of personal information.
 
-Certain additional information is also collected in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and the Site. This information includes a User’s originating domain, time of visit, connection speed, domain names, and internet service provider. This information is not personally identifiable information and there is no attempt to correlate such information to an individual User.
+We, meaning Authntk, Inc., endeavor to obtain personal information lawfully and by fair means, and comply with relevant global privacy and data protection laws and regulations. 
 
-### How is the information collected and maintained?
+The Information We May Collect
 
-Any personally identifiable information collected by Three Stage Media is provided directly by Users in the course of the registration process, updating such information, or in connection with a Three Stage Media client providing such User information to automatically register a User and create an account. Such information is password protected and Users alone control the content and accuracy of their personally identifiable information; however, Three Stage Media may retain in backup or inactive files the uncorrected or outdated form of data that is corrected or updated. Such data may be retained for several reasons, including technical constraints, dispute resolution purposes, troubleshooting and enforcement of agreements. Users have access to their individual information at all times and may update or correct it at any time. If Users believe that there are errors in their information that they cannot correct by accessing the Site, they can contact [Privacy@ThreeStage.com](mailto:privacy@threestage.com) for assistance.
+We collect certain personal information, including non-personally identifiable information (NPI) and personally identifiable information (PII), that is given to us by you, including your name, date of birth, and email address.  We do not knowingly collect PII from anyone under the age of 13.  
 
-### Will Three Stage Media use personally identifiable information to contact Users?
+How We Use Information
 
-From time-to-time, typically at the request of the event that the user is attending, Three Stage Media will send Registered Users site and service announcement updates by email.  Users may not un-subscribe from service announcements, which contain important information about the Site and service.
+We currently do not sell, rent, lease, share or transfer the personal information we collect except with regard to our Clients (as defined in the Terms and Conditions). We use PII where permitted by or required by law, for internal record keeping, to enforce our rights, protect our property, comply with legal or regulatory requirements or protect your safety.
 
-### Is the information shared and/or transferred?
+We may use cookies in connection with the Authntk Services.
 
-Personally identifiable information will be not transferred, bartered or sold to third parties. Notwithstanding the foregoing, Three Stage Media will divulge personally identifiable information to law enforcement agencies or other governmental agencies when required to do so or when Three Stage Media in good faith believes it is necessary in order to comply with legal obligations. In addition, in the event that Three Stage Media or substantially all of its assets are acquired or merged into another entity, personally identifiable information may be transferred to the successor in interest.
+Your Choices and Rights
 
-### Are “cookies” used by the Site?
+Upon request, we will make reasonable efforts to correct, change, or remove your personal information on a timely basis.  Please be aware that we may not be able to expunge all information from historical log records or when legally required to keep the information.   
+We will address promptly any complaints or disputes regarding your personal information or our privacy policy.  We will assist a user in achieving satisfaction with you if there are privacy issues or concerns. 
 
-Cookies are used by Three Stage Media to verify an individual User’s access to discrete areas of the Site. Such use of cookies is required for a User to access and use the Site. Upon a User’s login, a cookie is written to a User’s browser containing an encrypted version of the User’s user identification including authorized role. This information is sent to our Site during the course of the User’s navigation and use of the Site. Cookies or information contained in a cookie are not shared with any other website or third party.
+Children’s Privacy
 
-### Does the Site use “log files”?
+The Authntk Services are not intended for use by persons under 13 years of age.  We do not knowingly collect or maintain PII or NPI from persons under 13 years of age, and no part of the Authntk Services is directed to persons under 13.  If we learn that personal information of persons less than 13 years of age has been collected without verified parental consent, we will take reasonable and appropriate steps to delete this information. 
 
-When Users visit the Site, they automatically disclose certain information to our server, such as Internet Protocol (IP) addresses. We use IP addresses to analyze trends, administer the Site, track a user’s movement through the Site, and to gather broad demographic information for use on an aggregate basis. IP addresses and other similar information collected through log files are not associated with individual Users.
+Data Processing in the United States
 
-### What type of security is employed by the Site?
+Please be aware that personal information may be transferred to, and maintained on, servers or databases located outside your state, province, country or other jurisdiction where the privacy laws may not be deemed as protective as those in your location.  Please be advised that we process and store all information in the United States and your consent to this Privacy Policy represents your agreement and understanding to this processing.
 
-Three Stage Media Inc. knows data confidentiality and security are extremely important. We take many precautions to ensure your information is safe and secure. Use of the Site by Registered Users is password-protected. Only Registered Users and Three Stage Media personnel (solely on a need to know basis) have access to such information. Three Stage Media’s web sites use Thawte (a subsidy of Verisign) Secure Socket Layer (SSL) Certificates, an industry-standard encryption technology which encrypts all organization and participant data transmitted over the web. This highly advanced technology prevents unauthorized people from reading the data that you send over the web. Three Stage Media also encrypts passwords in the Three Stage Media password protected database.  All information collected from Registered Users by Three Stage Media is stored on servers hosted in a physically secure environment. Questions about the security of the Site should be directed to [Privacy@ThreeStage.com](mailto:privacy@threestage.com). Notwithstanding the foregoing, Users should keep in mind that this Site and the Three Stage Media services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security.
+Access to Your Data & Accuracy
 
-### Is the Site connected to other websites by “links”?
+Accurate data is important and necessary to provide the Authntk Services to you.  We take steps to ensure that the personal information we collect and process is accurate, complete, and current.  Nonetheless, we depend on you to update or correct their personal information.   
+You may access, change or delete your personal information at any time.  We will make reasonable efforts to correct, change, or remove your information on a timely basis.  Please be aware that we may not be able to expunge information 1) from historical log records or 2) when legally required to keep the information. 
 
-Three Stage Media may provide links to the websites of a limited number of third parties. Three Stage Media is not responsible for the content, reliability, security, or privacy practices of these websites. This Privacy Policy applies solely to this Site.
+Data Security
 
-### How are Users notified of changes in the Policy?
+We make efforts to implement commercially reasonable data security measures on our systems that are designed to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.  However, please be aware that no data transmissions over the Internet can be guaranteed to be secure.  As a result, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
 
-From time-to-time, Three Stage Media may update this Privacy Policy by posting a revised Policy on this web page. It is a User’s responsibility to periodically check back and review the Privacy Policy.
+Redress and Enforcement
+
+Authntk will make every attempt to ensure user satisfaction if there is ever an issue or concern with the Authntk Services.  You may contact us directly by one of the methods shown in the Contact Us section of this policy if you have a question or concern regarding the privacy or security of your personal information. We will contact you within 30 days with a resolution or answer to your question. 
+
+From time to time, we will review our information collection, use, and disclosure practices in order to ensure that we are complying with our privacy policy and applicable laws and regulations.  If you have any concerns about the privacy or security of your personal information, please contact us at [privacy@authntk.com](mailto:privacy@authntk.com)
+
+Changes to our Policy/Acceptance
+
+This privacy policy may be revised by Authntk in its sole discretion at any time.  We will request your permission if there is a substantive change in the way  your personally identifiable information may be used, shared or transferred.  Your continued use of the Authntk Services after the privacy policy has been revised and distributed will signify your acceptance of such revised terms for information provided by you.  We encourage you to review our privacy policy whenever you use the  Authntk Services to make sure you understand how your information will be collected and used. 
+
+Contact Us
+
+If you have any concerns with our privacy policy, practices or need further information, please contact us by one of the following methods: 
+
+Mail: Authntk, Inc.
+
+8840 Stanford Blvd.
+
+Suite 3150
+
+Columbia, MD 21045
+
+Telephone:  410-402-1028
+
+Email: [privacy@authntk.com](mailto:privacy@authntk.com)
+
+DEFINITIONS
+
+Personally Identifiable Information (PII) includes any data that can identify, contact, or locate a specific individual  – for example:  name, address, email address, and telephone number.Non-Personally Identifiable Information (NPI) includes data that does not by itself identify a specific individual. Aggregate data is generally NPI about individuals that is combined into a total and essentially anonymous. 
+
+Cookies are text files that are placed by a client server onto the browser of a visitor to a Web site.  These files are generally harmless to the visitor’s computer and can store navigation information as the visitor moves about a Web site.  Generally, cookies do not provide PII about the individual who is using the computer (only the computer used to access the Web through what is known as the IP address).  Cookies can perform many important and useful functions, such as helping website owners determine which sections of their sites are more appealing to their visitors and helping speed the Web experience by eliminating the need to enter user names and passwords constantly. 
