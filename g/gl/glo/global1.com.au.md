@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621235542id_/http%3A//global1.com.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D59%26Itemid%3D81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global1.com.au privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321012208id_/http%3A//www.global1.com.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D59%26Itemid%3D81) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 **PRIVACY ACT 1988**
 
   
-From December 21st 2001 amendments to the Privacy Act 1988 came into force to deal with the way that companies  handle your personal information. GLOBAL1 is covered by the Privacy Act and the 10 National Privacy Principles in the Act.
+From December 21st 2001 amendments to the Privacy Act 1988 came into force to deal with the way that companies handle your personal information. GLOBAL1 is covered by the Privacy Act and the 10 National Privacy Principles in the Act.
 
 In addition, GLOBAL1 has developed a Privacy Policy which ensures that all of our staff are aware of our privacy obligations, and respect the privacy of your personal information.
 
