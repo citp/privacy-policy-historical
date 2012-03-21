@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822034049id_/http%3A//www.energyaustralia.com.au/Common/About-EnergyAustralia/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyaustralia.com.au privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321175006id_/http%3A//www.energyaustralia.com.au/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - EnergyAustralia
 
-## Protection of your privacy 
+## Protection of your privacy
 
-This Policy Statement refers to all of the activities of the TRUenergy group of companies operating in Australia; on and from 1 March, this includes all EnergyAustralia electricity retail customers as well as new or renewing EnergyAustralia gas customers. 
+This Policy Statement refers to all of the activities of the TRUenergy group of companies operating in Australia; this includes all EnergyAustralia electricity and gas retail customers.
 
 This Policy Statement summarises how we deal with your personal information. We are committed to respecting your privacy and protecting your personal information in accordance with the Privacy Act 1988 (Cth) and the National Privacy Principles. "Personal information" is information about individuals, including name, address, telephone number, date of birth, financial circumstances, credit worthiness, credit history and the conduct of your account.
 
-## How do we collect your information?  
+## How do we collect your information?
 
+We collect personal information in a variety of ways, including from you directly (including when you interact with us in writing, electronically or via telephone), when you visit our website (including when you submit a quote or contact form), when you participate in our events or promotions, and from public sources of information. At all times the collection of this information is obtained by lawful means in a manner that respects your privacy and confidentiality.
 
-We collect personal information in a variety of ways, including from you directly (including when you interact with us in writing, electronically or via telephone), when you visit our website (including when you submit a quote or contact form), when you participate in our events or promotions, and from public sources of information. At all times the collection of this information is obtained by lawful means in a manner that respects your privacy and confidentiality. 
-
-## How do we use your information?   
-
+## How do we use your information?
 
 Your privacy is respected, and we do not sell, rent or trade your personal information. 
 
-We use your personal information for a variety of purposes to effectively conduct our business, including to: 
+We use your personal information for a variety of purposes to effectively conduct our business, including to:
 
   * supply products and services to you and to administer and manage those products and services (including billing and collecting debts);
-  * provide you with information about us and our products and services, including how your use of our products or services can be improved; 
-  * gain an understanding of your energy needs in order to provide you with better products and services and maintain our high levels of customer service; 
-  * conduct research and development; 
-  * conduct appropriate checks for credit-worthiness and for fraud; and 
+  * provide you with information about us and our products and services, including how your use of our products or services can be improved;
+  * gain an understanding of your energy needs in order to provide you with better products and services and maintain our high levels of customer service;
+  * conduct research and development;
+  * conduct appropriate checks for credit-worthiness and for fraud; and
   * comply with our legal obligations.
 
 
@@ -42,7 +40,7 @@ To help us carry out these activities, from time to time we disclose your person
 
 We will take reasonable steps to ensure that these third parties are bound by privacy and confidentiality obligations in relation to your personal information.
 
-We also use your personal information to provide you with information on products, services and offers that we believe may be relevant to you or that you would be interested in, even after you cease acquiring products or services from us. You can tell us if you do not want to receive such information by contacting us on **13 15 35** (electricity customers, and new and renewing gas customers from 1 March 2011 C under the EnergyAustralia brand) or **13 15 02** (customers under the TRUenergy brand).
+We also use your personal information to provide you with information on products, services and offers that we believe may be relevant to you or that you would be interested in, even after you cease acquiring products or services from us. You can tell us if you do not want to receive such information by contacting us on **13 15 35** (electricity and gas customers under the EnergyAustralia brand) or **13 15 02** (customers under the TRUenergy brand).
 
 ## How do we make sure the information we hold about you is current?  
 
