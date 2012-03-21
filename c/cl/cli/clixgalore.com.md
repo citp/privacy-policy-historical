@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixgalore.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214202450id_/http%3A//www.clixgalore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixgalore.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321174641id_/http%3A//www.clixgalore.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
