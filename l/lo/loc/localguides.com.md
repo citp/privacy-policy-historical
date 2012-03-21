@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006031435id_/http%3A//localguides.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localguides.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321232328id_/http%3A//www.localguides.com/privacy.html) for the most accurate reproduction.*
 
 # LocalGuides.com Privacy
 
@@ -32,6 +32,8 @@ We may request Personal Information for access to or use of certain services or 
 As you navigate our Website, certain information will also be collected passively by Local Guides or its service providers, including Internet Protocol addresses, search criteria, cookies and navigational data. This type of information is not Personal Information and will be used in the aggregate for the purposes of gathering data to improve our Website, and to improve the quality of your experience when interacting with our Website. This information will not be linked with any Personal Information.
 
 " **Cookies** " are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. Local Guides may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
+
+In some instances, we may use outside companies to display ads and collect information on our site. These ads may contain cookies for optimization purposes, and we do not have access to this information. These companies may use this information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on site, other Web sites and other forms of media about goods and services of interest to you. If you would like more information, or to learn about opting-out of such advertising technologies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ##  Our Business Partners
 
