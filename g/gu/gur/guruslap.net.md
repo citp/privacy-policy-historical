@@ -1,26 +1,43 @@
-> *The following text is extracted and transformed from the guruslap.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122193819id_/http%3A//guruslap.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruslap.net privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321223013id_/http%3A//guruslap.net/amazonkindlemania/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy | Killer Content Review | Killer Content Guide
+# Privacy Policy
 
-## Privacy
+(’I’ and ‘we’ refers to **guruslap.net** , owner of this website)
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+I am committed to keeping all your personal details safe and secure. My privacy policy strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+Collecting Your Personal Information
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+I am committed to protecting your privacy. I will only use the information that I collect about you lawfully (in accordance with the Data Protection Act 1998). I will not pass on your details to any third party and do not send out marketing e-mails to customers unless they have registered to receive such material, purchased from me, or downloaded one of my free or paid products.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, guruslap.net has no access or control over these cookies that may be used by third party advertisers.
+The type of information I ‘may’ collect about you includes:
 
-**Collection of Personal Information**  
-When visiting guruslap.net, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Your full name  
+Your e-mail address  
+Your postal address
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at [**Customer Support**](http://ebizac.com/support/?id=2974&desk=1144). If you find any inaccuracies we will delete or correct it promptly.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+How I Control Your Personal Information
 
-If you have any questions regarding our privacy policy then you may contact us at info@guruslap.net
+I will not use your personal information for any other reason other than to contact you. We do not sell, give away or rent your email address to any third party. If in the future I did for any reason wish to rent, sell or use your email address for any other purpose we will ask you for your permission first.
+
+How We Use Your Personal Information
+
+Your personal information is used for four main purposes and they are as follows:
+
+1\. To send out information, recommendations and resources to you.
+
+2\. To provide assistance to you after you have purchased products from me.
+
+3\. To help me create and deliver content most relevant to you.
+
+4\. To enlighten you about new products, services, tool, upgrades, special offers and information which I feel may be of use to you.
+
+I will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to:
+
+(a) Conform to the edicts of the law or comply with legal process served on **www.guruslap.net**
+
+(b) Protect and defend the rights or property of  **www.guruslap.net;**
+
+(c) Act in urgent circumstances to protect the personal safety of users of **www.guruslap.net.**
