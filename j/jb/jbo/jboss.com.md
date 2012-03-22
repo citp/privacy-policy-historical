@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jboss.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217155650id_/https%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jboss.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322085920id_/https%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # redhat.com | Privacy Statement
 
