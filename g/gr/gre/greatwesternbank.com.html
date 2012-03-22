@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greatwesternbank.com privacy policy that was archived on 2011-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111226101353id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatwesternbank.com privacy policy that was archived on 2012-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120323001733id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!-- Design & Programming Provided by Lawrence & Schiller (www.l-s.com) --><head>
 	<title>Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy</title>
@@ -21,11 +21,7 @@
 	<link rel="stylesheet" type="text/css" href="/classlibrary/com/googlemini/_styles/styles.css">
 
 	<script language="JavaScript" type="text/javascript" src="/_scripts/navigation.js"></script>
-
-			<script language="javascript" type="text/javascript" src="/ClassLibrary/com/LocationFinder/_scripts/locationfinder.js"></script>
-			<script language="javascript" type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAc6xRExZplEkZPhETYQ9JnBQ9u5boFq05_o3ZQiAeKyR3IkMv-RQ9kLjovwIw5vugm5WVRguqiiB2NA"></script>
-			<script language="javascript" type="text/javascript">$(document).ready(function(){ if (GBrowserIsCompatible()) { $("#frmLocationFinder").bind("submit", function(ev){ ev.preventDefault(); pageTracker._trackPageview("/locationfinder/"+$("#txtZip").val()+"/"+$("input[name=location]:checked").val()+"/"); showLocations($("#txtZip").val(),$("input[name=location]:checked").val()); }); } });</script>
-		<script type="text/javascript" src="/_ls/cfformprotect/js/cffp.js"></script></head>
+<script type="text/javascript" src="/_ls/cfformprotect/js/cffp.js"></script></head>
 
 <body>
 
@@ -63,26 +59,46 @@
 		<div id="viewdemos">
 			<a href="/onlinebankingdemos/" title="View All Demos"><img src="/_files/images/bt_viewalldemos.gif" alt="View all online banking demos button" class="hover" border="0"></a>
 		</div>
-
+		
 		<div id="cashmanagement">
 			<a href="https://cms.greatwesternbank.com/"><strong>Online Lockbox</strong></a> <img class="hover help" src="/_files/Images/bt_huh.gif" alt="A question mark." title="NOTE: This section is a lock-box service for business banking customers.">
 		</div>
 	</div>
 	
+	
+	
+	<script type="text/javascript" language="JavaScript">
+		$(document).ready(function() {
+			var href = "";
+			
+			$("#login .nopopup").click(function(event) {
+				var mainHTML = "";
+				href = $(this).attr("href");
+				
+				event.preventDefault();
+				
+				
+					mainHTML += "<h3>Alert</h3>";
+					mainHTML += "<p><p><strong>ATTENTION SAFARI USERS:</strong> We are currently experiencing issues with Online Banking and the new Safari 5.1.4 web browser release. Please use a different web browser to access Online Banking.</p>\r\n<p><strong>ALL OTHER USERS: </strong>Select the \'Continue\' link below to access Online Banking.</p></p>";
+					mainHTML += "<p><a href='#' url='" + href + "' class='continue'>Continue</a></p>";
+					
+					newWindow(mainHTML);
+				
+			});
+			
+			$(".continue").live("click", function() {
+				pageTracker._trackPageview("/OB/interiorlogin/");
+				window.location = href;
+			});
+		});
+	</script>
+	
 	<div id="login">
 		<h3><span>Account Access</span></h3>
-		
-
-		<a href="https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=GREATWESTERNBANKSD&amp;bn=fdb3d07539cf8bb0&amp;burlid=164cfe2f7de78c1f" onclick="gotoLogin();" class="nopopup" title="Log In"><img src="/_files/images/bt_login.gif" alt="Log In" class="hover" border="0"></a>
+		<a href="https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=GREATWESTERNBANKSD&amp;bn=fdb3d07539cf8bb0&amp;burlid=164cfe2f7de78c1f" onclick="return false;" class="nopopup" title="Log In"><img src="/_files/images/bt_login.gif" alt="Log In" class="hover" border="0"></a>
 	</div>
-	
+
 </div>
-<script type="text/javascript" language="JavaScript">
-	function gotoLogin() {
-		pageTracker._trackPageview("/OB/interiorlogin/");
-		return true;
-	}
-</script>
 
 <div id="navigation">
 <ul id="mainnavigation" class="horizontal">
@@ -240,10 +256,10 @@ $(document).ready(function(){
 
 		<div class="information">
 		<p>
-</p><table style="border-bottom: #000 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #000 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #000; border-right: #000 2px solid" width="150">
+            <td width="150" style="background-color: #000; border-right: #000 2px solid">
             <div style="line-height: normal; margin: 0px; color: #fff; font-size: 30pt; font-weight: bold">FACTS</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">
@@ -255,10 +271,10 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" width="150">
+            <td width="150" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">Why?</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
@@ -267,10 +283,10 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" width="150">
+            <td width="150" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">What?</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">The types of personal information we collect and share depend on the product or service you have with us. This information can include:<br>
@@ -282,10 +298,10 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" width="150">
+            <td width="150" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">How?</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Great Western Bank chooses to share; and whether you can limit this sharing.</td>
@@ -294,44 +310,49 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr align="center">
-            <td style="background-color: #ccc" align="left"><b>Reasons we can share your personal information</b></td>
+            <td align="left" style="background-color: #ccc"><b>Reasons we can share your personal information</b></td>
             <td style="background-color: #ccc"><b>Does Great Western Bank share?</b></td>
             <td style="background-color: #ccc"><b>Can you limit this sharing?</b></td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For our everyday business purposes—</b><br>
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>For our everyday business purposes—</b><br>
             such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Yes</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For our marketing purposes—</b><br>
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>For our marketing purposes—</b><br>
             to offer our products and services to you</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Yes</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For joint marketing with other financial companies</b></td>
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>For joint marketing with other financial companies</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">We don't share</td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For our affiliates’ everyday business purposes—</b><br>
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>For our affiliates’ everyday business purposes—</b><br>
             information about your transactions and experiences</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">We don't share</td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For our affiliates’ everyday business purposes—</b><br>
+            <td align="left" style="border-width: 2px; border-style: solid; border-color: rgb(204, 204, 204);"><b>For our affiliates’ everyday business purposes—</b><br>
             information about your creditworthiness</td>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">We don't share</td>
+            <td style="border-width: 2px; border-style: solid; border-color: rgb(204, 204, 204);">No</td>
+            <td style="border-width: 2px; border-style: solid; border-color: rgb(204, 204, 204);">We don't share</td>
         </tr>
         <tr align="center">
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" align="left"><b>For nonaffiliates to market to you</b></td>
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><strong>For our affiliates to market to you</strong></td>
+            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Yes</td>
+            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Yes</td>
+        </tr>
+        <tr align="center">
+            <td align="left" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>For nonaffiliates to market to you</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">No</td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">We don't share</td>
         </tr>
@@ -339,10 +360,10 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" width="150">
+            <td width="150" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">To limit our sharing</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">• &nbsp; Call 1.800.952.2043 - our menu will prompt you through your choices, or<br>
@@ -355,10 +376,10 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" width="150">
+            <td width="150" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">Questions?</div>
             </td>
             <td style="padding-bottom: 5px; padding-left: 5px; padding-right: 5px; padding-top: 5px">Call 1.800.952.2043 or <a href="/aboutus/contactus/">contact us</a>.</td>
@@ -367,34 +388,34 @@ $(document).ready(function(){
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" colspan="2">
+            <td colspan="2" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">Who we are</div>
             </td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>Who is providing this notice?</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>Who is providing this notice?</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Great Western Bank</td>
         </tr>
     </tbody>
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" colspan="2">
+            <td colspan="2" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">What we do</div>
             </td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>How does Great Western Bank protect my personal information?</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>How does Great Western Bank protect my personal information?</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>How does Great Western Bank collect my personal information?</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>How does Great Western Bank collect my personal information?</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">We collect your personal information, for example, when you:<br>
             • &nbsp; Open an Account or Deposit Money<br>
             • &nbsp; Pay Bills or Apply for a Loan<br>
@@ -402,7 +423,7 @@ $(document).ready(function(){
             We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>Why can’t I limit all sharing?</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>Why can’t I limit all sharing?</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Federal law gives you the right to limit only:<br>
             • &nbsp; Sharing your affiliates’ everyday business purposes— information about your creditworthiness<br>
             • &nbsp; Affiliates from using your information to market to you<br>
@@ -410,32 +431,32 @@ $(document).ready(function(){
             State laws and individual companies may give you additional rights to limit sharing.</td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>What happens when I limit sharing for an account I hold jointly with someone else?</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>What happens when I limit sharing for an account I hold jointly with someone else?</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Your choices will apply to everyone on the account.</td>
         </tr>
     </tbody>
 </table>
 <p></p>
 <p>
-</p><table style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid" border="0" cellspacing="0" cellpadding="0" width="100%">
+</p><table cellspacing="0" cellpadding="0" border="0" width="100%" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-collapse: collapse; border-top: #ccc 2px solid; border-right: #ccc 2px solid">
     <tbody>
         <tr>
-            <td style="background-color: #ccc" colspan="2">
+            <td colspan="2" style="background-color: #ccc">
             <div style="line-height: normal; margin: 0px; font-size: 20pt">Definitions</div>
             </td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>Affiliates</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>Affiliates</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Companies related by common ownership or control. They can be financial and nonfinancial companies.<br>
-            • &nbsp; Great Western Bank does not share with our affiliates.</td>
+            • &nbsp; Great Western Financial Services, Inc. as an affiliate of Great Western Bank.</td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>Nonaffiliates</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>Nonaffiliates</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">Companies not related by common ownership or control. They can be financial and nonfinancial companies.<br>
             • &nbsp; Great Western Bank does not share with nonaffiliates so they can market to you.</td>
         </tr>
         <tr>
-            <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid" width="250"><b>Joint Marketing</b></td>
+            <td width="250" style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid"><b>Joint Marketing</b></td>
             <td style="border-bottom: #ccc 2px solid; border-left: #ccc 2px solid; border-top: #ccc 2px solid; border-right: #ccc 2px solid">A formal agreement between nonaffiliated financial companies that together market financial products or services to you.<br>
             • &nbsp; Great Western Bank doesn’t jointly market.</td>
         </tr>
@@ -451,7 +472,7 @@ $(document).ready(function(){
 		<input type="Hidden" name="FormBuilderId" value="23">
 		<input type="Hidden" name="Page" value="1">
 		<input type="Hidden" name="r_Form_137" value="<b>Account Number:</b>"> <input type="Hidden" name="r_Form_138" value="<b>First Name:</b>"> <input type="Hidden" name="r_Form_143" value="<b>Last Name:</b>"> <input type="Hidden" name="r_Form_139" value="<b>Address:</b>"> <input type="Hidden" name="r_Form_140" value="<b>City:</b>"> <input type="Hidden" name="r_Form_141" value="<b>State:</b>"> <input type="Hidden" name="r_Form_142" value="<b>ZIP:</b>"> 
-		<span style="display:none">Leave this field empty <input id="fp79DCB01F-AC8B-1C81-4DA9DA52958F2993" type="text" name="formfield1234567894" value=""></span><table cellpadding="5" cellspacing="0" border="0" width="100%">
+		<span style="display:none">Leave this field empty <input id="fp3CEA5CFB-D83E-EBCC-B231E185879F32CE" type="text" name="formfield1234567894" value=""></span><table cellpadding="5" cellspacing="0" border="0" width="100%">
 		
 				<tbody><tr valign="top">
 					<td colspan="3" id="small"><hr>
@@ -554,12 +575,12 @@ $(document).ready(function(){
 				</tr>
 			
 	
-	<input id="fp79DCB01C-C340-D686-45D7BCF46ED618A4" type="hidden" name="formfield1234567891" class="cffp_mm" value="">
+	<input id="fp3CEA5CE7-CDA5-9058-68CF667127FD62E8" type="hidden" name="formfield1234567891" class="cffp_mm" value="">
 
 	
-	<input id="fp79DCB01D-B35C-8836-6D2D355B54D70840" type="hidden" name="formfield1234567892" class="cffp_kp" value="">
+	<input id="fp3CEA5CE8-959F-10BB-6F9BB282FD07D1D0" type="hidden" name="formfield1234567892" class="cffp_kp" value="">
 
-	<input id="fp79DCB01E-DA4A-1CDE-2727B430721A8FDE" type="hidden" name="formfield1234567893" value="39851432,19781559">
+	<input id="fp3CEA5CE9-D73F-7927-D571922D093798BB" type="hidden" name="formfield1234567893" value="39860528,19931939">
 
 	
 	
@@ -573,7 +594,7 @@ $(document).ready(function(){
 		</tbody></table>
 		</form>
 	<hr>
-<p><a target="_blank" href="/_files/files/GreatWesternBankPrivacyPolicy.pdf">Click here</a> to open a pdf version of Great Western Bank's Privacy Policy.</p>
+<p><a href="/_files/files/GWBPrivacyPolicy2012.pdf" target="_blank">Click here</a> to open a pdf version of Great Western Bank's Privacy Policy.</p>
 
 		</div>
 	
@@ -590,7 +611,7 @@ $(document).ready(function(){
 	<a href="hhttp://www.fdic.gov/regulations/laws/rules/2000-6000.html#fdic2000" target="_blank" class="notresponsible_nabagribusiness"><img src="/_files/images/EHL.gif" alt="Equal Housing Lender" title="Equal Housing Lender" class="alignright" border="0"></a>
 	<a href="http://www.fdic.gov/deposit" target="_blank" class="notresponsible_nabagribusiness"><img src="/_files/images/MemberFDIC.gif" title="Member FDIC" alt="Member FDIC" style="float: right;" border="0"></a>
 
-	<p>© 2011 Great Western Bank
+	<p>© 2012 Great Western Bank
 		<span>|</span> <a href="/aboutus/privacypolicy/" title="Privacy Policy">Privacy Policy</a>
 		<span>|</span> <a href="/aboutus/termsofuse/" title="Terms of Use">Terms of Use</a>
 		<span>|</span> <a href="/financialtools/faqs/" title="FAQs">FAQs</a>
