@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsorama.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103022551id_/http%3A//appsorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsorama.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322132144id_/http%3A//appsorama.com/privacy) for the most accurate reproduction.*
 
 # Apps-O-Rama - Privacy Policy
 
