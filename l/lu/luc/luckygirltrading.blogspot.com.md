@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the luckygirltrading.blogspot.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115040303id_/http%3A//luckygirltrading.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckygirltrading.blogspot.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322141652id_/http%3A//luckygirltrading.blogspot.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
 # Make Every Day Your Lucky Day: Privacy Policy
-
-## WAITING FOR A REPLY?
-
-If you left a comment on one of my 31 Days, 31 Deals posts and are waiting for my response, make sure you left a way for me to contact you! A link to your blog or your email address will make it possible for me to get in touch with you.  
-
-
-[ ](http://www.blogger.com/rearrange?blogID=2495240464765510463&widgetType=Text&widgetId=Text1&action=editWidget "Edit")
-
-###  [Privacy Policy](http://luckygirltrading.blogspot.com/2008/03/privacy-policy.html)
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site luckygirltrading.blogspot.com . The following discloses the information gathering and dissemination practices for this Web site.  
   
