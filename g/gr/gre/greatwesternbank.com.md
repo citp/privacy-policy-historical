@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226101353id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323001733id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy
 
@@ -39,6 +39,7 @@ to offer our products and services to you | Yes | No
 information about your transactions and experiences | No | We don't share  
 **For our affiliates’ everyday business purposes—**  
 information about your creditworthiness | No | We don't share  
+**For our affiliates to market to you** | Yes | Yes  
 **For nonaffiliates to market to you** | No | We don't share  
   
 To limit our sharing
@@ -75,7 +76,7 @@ Definitions
   
 ---  
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
-•   Great Western Bank does not share with our affiliates.  
+•   Great Western Financial Services, Inc. as an affiliate of Great Western Bank.  
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
 •   Great Western Bank does not share with nonaffiliates so they can market to you.  
 **Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
@@ -83,4 +84,4 @@ Definitions
   
 * * *
 
-[Click here](https://web.archive.org/_files/files/GreatWesternBankPrivacyPolicy.pdf) to open a pdf version of Great Western Bank's Privacy Policy.
+[Click here](https://web.archive.org/_files/files/GWBPrivacyPolicy2012.pdf) to open a pdf version of Great Western Bank's Privacy Policy.
