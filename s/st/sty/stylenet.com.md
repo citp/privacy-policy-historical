@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107163645id_/http%3A//stylenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylenet.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322060141id_/http%3A//stylenet.com/privacy.php) for the most accurate reproduction.*
 
 # StyleNet Customer Privacy and Billing Privacy
 
@@ -8,7 +8,7 @@
 Our mission is to make it easier, faster and more cost effective for Salon Owners to promote and grow their business utilizing technology and the Internet. It is also our mission to provide a service that is safe, secure, and worry free. Therefore, we regard our members‟ privacy and “No Contract Billing” as one of our most important values. 
 
 **Billing**  
-If at any time you decide to cancel your StyleNet subscription, simply call us at 615-465-8178 or [contact us online](https://web.archive.org/web/20111107163645id_/http%3A//stylenet.com/contactus.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet. 
+If at any time you decide to cancel your StyleNet subscription, simply call us at 615-465-8178 or [contact us online](https://web.archive.org/web/20120322060141id_/http%3A//stylenet.com/contactus.php) stating your desire to cancel. Upon notification, your subscription and web site will be terminated within 24 hours and there will be no additional charges by StyleNet. 
 
 **Privacy Policy**  
 We collect only information necessary in order to satisfactorily process and complete customer transactions. Customer payment transactions are processed through a highly secure server. All customer information is nonpublic and will NEVER be shared or forwarded in any way to anyone not involved strictly in the process of completing our customers' transaction.
