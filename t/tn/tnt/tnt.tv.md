@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130754id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322114708id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
 # TNT - We Know Drama
 
