@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520010104id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akonter.com privacy policy that was archived on 2012-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120322064656id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -18,9 +18,10 @@
 	<meta name="Robots" content="All">
 		
 	<link rel="stylesheet" type="text/css" href="/templates/akonter/css/style.css" media="screen">
-		<link rel="stylesheet" type="text/css" href="/templates/akonter/css/dropdown.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="/templates/akonter/css/dropdown-default.css" media="screen">
-	<!--[if lt IE 7]>
+        <style type="text/css">.twitter_logon{background:url(./modules/twitter/templates/images/sign_in.gif) top left no-repeat;width:120px;height:20px;float:right;margin:0 2px 0 5px}.twitter_logon:hover{background-position:0 -40px}.twitter_logon:active {background-position:0 -20px}.twitter_connect{background:url(./modules/twitter/templates/images/twitter_connect.gif) top left no-repeat;width:120px;height:20px;float:right;margin:0 2px 0 5px}.twitter_connect:hover{background-position:0 -40px}.twitter_connect:active {background-position:0 -20px}</style>
+
+
+		<!--[if lt IE 7]>
 	<script type="text/javascript" src="/templates/akonter/js/jquery/jquery.js"></script>
 	<script type="text/javascript" src="/templates/akonter/js/jquery/jquery.dropdown.js"></script>
 	<![endif]-->
@@ -28,9 +29,7 @@
 	
 				
 
-						
-			<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
-				
+					
 
 		
 		<title>Privacy Policy | akonter</title>
@@ -38,8 +37,49 @@
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.akonter.com/rss.php">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	
-				
-	</head>
+			                	
+
+
+
+<script type="JavaScript">
+function tweet_story(htmlid, linkid)
+{
+//	var emailtodisplay=document.getElementById('tweet-' + htmlid).style.display ? '' : 'none';
+//	document.getElementById('emailto-' + htmlid).style.display = emailtodisplay;
+
+	if (xmlhttp) {
+		url = $thisurl + "/modules/twitter/sendtweet.php";
+		mycontent = "htmlid=" + htmlid + ";linkid=" + linkid;
+		target2 = document.getElementById ('tweet-' + htmlid);
+		target2.innerHTML = "<img src='./modules/twitter/templates/images/tweet_sending.gif' width='110' height='20' style='border:0;padding:0;marign:0;' title='Sending Tweet...' alt='Sending Tweet...' />";	
+		
+		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+		
+		if (mnmxmlhttp) {
+			mnmxmlhttp[htmlid].open ("POST", url, true);
+			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+					   'application/x-www-form-urlencoded');
+
+			mnmxmlhttp[htmlid].send (mycontent);
+			errormatch = new RegExp ("^ERROR:");
+			target1 = document.getElementById ('tweet-' + htmlid);
+			mnmxmlhttp[htmlid].onreadystatechange = function () {
+				if (mnmxmlhttp[htmlid].readyState == 4) {
+					if (mnmxmlhttp[htmlid].responseText.match (errormatch)) {
+						target2 = document.getElementById ('tweet-' + htmlid);
+						target2.innerHTML = '+mnmxmlhttp[htmlid].responseText.substring (6, mnmxmlhttp[htmlid].responseText.length)+';
+					} else {
+						target2 = document.getElementById ('tweet-' + htmlid);
+						target2.innerHTML = mnmxmlhttp[htmlid].responseText;
+					}
+				}
+			}
+		}
+	}
+}
+</script>
+
+</head>
 <body dir="ltr">
 		
 		
@@ -51,7 +91,7 @@
 			<script type="text/javascript" language="JavaScript">
 			function checkForm() {
 			answer = true;
-			if (siw && siw.selectingSomething)
+			if (siw; siw.selectingSomething)
 				answer = false;
 			return answer;
 			}//
@@ -66,8 +106,10 @@
 		
 			<a href="/register/">Register</a>
 		&nbsp; | &nbsp;
-		<a href="/login.php?return=%2Fstatic%2Fprivacy-policy">Login</a>
-    	</div>
+		<a rel="nofollow" href="/login.php?return=%2Fstatic%2Fprivacy-policy%2F">Login</a>
+    	
+	<a title="Twitter Logon" onclick="window.location.href='/modules/twitter/tweet.php?mode=start'"><div class="twitter_logon"></div></a>
+</div>
 
 <div id="logo">
 	<a href="http://www.akonter.com">akonter</a><br>
@@ -93,11 +135,14 @@ var some_search='Search..';
 <!-- START NAVBAR -->
 <ul id="nav">
 		<li><a href="http://www.akonter.com/">akonter Bookmarks</a></li>
-	<li><img src="/templates/akonter/images/nav-sep.gif" alt=""></li>
-	<li><a href="/upcoming/">Recent Bookmarks</a></li>
-	<li><img src="/templates/akonter/images/nav-sep.gif" alt=""></li>
+	<li><img src="/templates/akonter/images/nav-sep.gif" alt="akonter Bookmarks"></li>
+	<li><a href="http://www.akonter.com/static/tools/">Tools</a></li>
+	<li><img src="/templates/akonter/images/nav-sep.gif" alt="Tools Add to your site"></li>
+	<li><a rel="nofollow" href="http://www.akonter.com/static/faq/">faq</a></li>
+	<li><img src="/templates/akonter/images/nav-sep.gif" alt="faq"></li>
+
 	<li><a href="/submit/">Submit a New Story</a></li>
-	<li><img src="/templates/akonter/images/nav-sep.gif" alt=""></li>
+	<li><img src="/templates/akonter/images/nav-sep.gif" alt="Submit a New Story"></li>
 		
 			</ul>
 
@@ -105,7 +150,10 @@ var some_search='Search..';
 
 <!-- START RSS -->
 <div class="rsslink">
-	</div>
+		<a href="http://www.akonter.com/rss/" target="_blank">
+			RSS <img src="/templates/akonter/images/rss.gif" alt="rss">
+		</a>
+</div>
 <!-- END RSS -->
 
 <!-- START BREADCRUMBS -->
@@ -139,488 +187,49 @@ var some_search='Search..';
 <p><a href="http://www.akonter.com/" title="http://www.akonter.com/">http://www.akonter.com/</a> has no access to or control over these cookies that are used by third-party advertisers.</p>
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.akonter.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 <p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.</p>
-      </div>
 
 							
 		</div>
 <!-- END LEFT COLUMN -->
 	
-	<!-- START MIDDLE COLUMN -->
-		<div id="midcol">
-			
-
-	
 	
 		
-	
-	 
- 
-
-<div class="headline">
-	<div class="sectiontitle"><a href="/login.php?return=%2Fstatic%2Fprivacy-policy">Login</a></div>
-</div>
-<div class="boxcontent">
-	<form action="/login.php?return=%2Fstatic%2Fprivacy-policy" method="post"> 
-		Username:<br><input type="text" name="username" class="login" value="" tabindex="40"><br>
-		Password:<br><input type="password" name="password" class="login" tabindex="41"><br>
-		<input type="hidden" name="processlogin" value="1">
-		<input type="hidden" name="return" value="">
-		Remember: <input type="checkbox" name="persistent" tabindex="42">
-		<input type="submit" value="Login" class="submit-s" tabindex="43">
-	</form>
-	</div>
- 
-
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.akonter.com">Top Today</a></div>
-</div>
-<div>
-	<ul class="sidebar-stories">
-		
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="CD DVD Recovery" title="CD DVD Recovery">
-<span class="sidebar-article"><a href="/story/cd-dvd-recovery/" class="switchurl">CD DVD Recovery</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Buy Cheap Laptop Battery a..." title="Buy Cheap Laptop Battery a...">
-<span class="sidebar-article"><a href="/story/buy-cheap-laptop-battery-and-acdc-adapter-for-laptop-users/" class="switchurl">Buy Cheap Laptop Battery a...</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Hard Drive Data Recovery" title="Hard Drive Data Recovery">
-<span class="sidebar-article"><a href="/story/hard-drive-data-recovery/" class="switchurl">Hard Drive Data Recovery</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Partition Recovery Softwar..." title="Partition Recovery Softwar...">
-<span class="sidebar-article"><a href="/story/partition-recovery-software/" class="switchurl">Partition Recovery Softwar...</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Photo Recovery Software" title="Photo Recovery Software">
-<span class="sidebar-article"><a href="/story/photo-recovery-software/" class="switchurl">Photo Recovery Software</a></span></li>
-
-	</ul>
-</div>
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="http://www.akonter.com">akonter Bookmarks</a></div>
-</div>
-<div>
-	<ul class="sidebar-stories">
-		
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="CD DVD Recovery" title="CD DVD Recovery">
-<span class="sidebar-article"><a href="/story/cd-dvd-recovery/" class="switchurl">CD DVD Recovery</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Wheelchair Ramps, Scoot..." title="Wheelchair Ramps, Scoot...">
-<span class="sidebar-article"><a href="/story/wheelchair-ramps-scooter-ramps/" class="switchurl">Wheelchair Ramps, Scoot...</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Facts About Recycling" title="Facts About Recycling">
-<span class="sidebar-article"><a href="/story/facts-about-recycling/" class="switchurl">Facts About Recycling</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Dental Implants" title="Dental Implants">
-<span class="sidebar-article"><a href="/story/dental-implants-1/" class="switchurl">Dental Implants</a></span></li>
-
-<li><img src="http://farm6.static.flickr.com/5026/5608721863_5794f23a03_m.jpg" alt="Masonic ring" title="Masonic ring">
-<span class="sidebar-article"><a href="/story/masonic-ring-1/" class="switchurl">Masonic ring</a></span></li>
-
-	</ul>
-</div>
-
- 
-
-
-<div class="headline">
-	<div class="sectiontitle"><a href="/tagcloud/">Top Tags</a></div>
-</div>
-
-
-<div class="tagformat">
-			
-		<span style="font-size: 9.76785714286pt">
-			<a href="/tag/acer/">acer</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/baby/">baby</a>
-		</span>
-		
-			
-		<span style="font-size: 19pt">
-			<a href="/tag/battery/">battery</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/beauty/">beauty</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/best/">best</a>
-		</span>
-		
-			
-		<span style="font-size: 9.375pt">
-			<a href="/tag/bookmarking/">bookmarking</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/budget/">budget</a>
-		</span>
-		
-			
-		<span style="font-size: 9.57142857143pt">
-			<a href="/tag/business/">business</a>
-		</span>
-		
-			
-		<span style="font-size: 13.1071428571pt">
-			<a href="/tag/buy/">buy</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/canon/">canon</a>
-		</span>
-		
-			
-		<span style="font-size: 10.5535714286pt">
-			<a href="/tag/car/">car</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/card/">card</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/cars/">cars</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/cheap/">cheap</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/credit/">credit</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/credit+card/">credit card</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/day/">day</a>
-		</span>
-		
-			
-		<span style="font-size: 11.3392857143pt">
-			<a href="/tag/dell/">dell</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/design/">design</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/development/">development</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/dresses/">dresses</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/dv6000/">dv6000</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/food/">food</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/foods/">foods</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/forex/">forex</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/furniture/">furniture</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/gifts/">gifts</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/high/">high</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/homes/">homes</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/hotels/">hotels</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/how+to/">how to</a>
-		</span>
-		
-			
-		<span style="font-size: 10.9464285714pt">
-			<a href="/tag/hp/">hp</a>
-		</span>
-		
-			
-		<span style="font-size: 10.75pt">
-			<a href="/tag/india/">india</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/inspiron/">inspiron</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/insurance/">insurance</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/jobs/">jobs</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/kitchen/">kitchen</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/laptop/">laptop</a>
-		</span>
-		
-			
-		<span style="font-size: 9.96428571429pt">
-			<a href="/tag/laptop+battery/">laptop battery</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/latitude/">latitude</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/make/">make</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/mobile/">mobile</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/mothers/">mothers</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/new/">new</a>
-		</span>
-		
-			
-		<span style="font-size: 10.1607142857pt">
-			<a href="/tag/news/">news</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/office/">office</a>
-		</span>
-		
-			
-		<span style="font-size: 10.5535714286pt">
-			<a href="/tag/online/">online</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/phone/">phone</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/photo/">photo</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/plc+training+in+chennai/">plc training in chennai</a>
-		</span>
-		
-			
-		<span style="font-size: 9.57142857143pt">
-			<a href="/tag/price/">price</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/real/">real</a>
-		</span>
-		
-			
-		<span style="font-size: 10.9464285714pt">
-			<a href="/tag/recruitment/">recruitment</a>
-		</span>
-		
-			
-		<span style="font-size: 9.76785714286pt">
-			<a href="/tag/sale/">sale</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/samsung/">samsung</a>
-		</span>
-		
-			
-		<span style="font-size: 9.375pt">
-			<a href="/tag/seo/">seo</a>
-		</span>
-		
-			
-		<span style="font-size: 8.78571428571pt">
-			<a href="/tag/services/">services</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/shop/">shop</a>
-		</span>
-		
-			
-		<span style="font-size: 15.2678571429pt">
-			<a href="/tag/shopping/">shopping</a>
-		</span>
-		
-			
-		<span style="font-size: 9.17857142857pt">
-			<a href="/tag/social/">social</a>
-		</span>
-		
-			
-		<span style="font-size: 9.96428571429pt">
-			<a href="/tag/solar+in+home/">solar in home</a>
-		</span>
-		
-			
-		<span style="font-size: 9.375pt">
-			<a href="/tag/sony/">sony</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/the+history+of+immacc/">the history of immacc</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/to/">to</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/trading/">trading</a>
-		</span>
-		
-			
-		<span style="font-size: 8.98214285714pt">
-			<a href="/tag/travel/">travel</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/vacancies/">vacancies</a>
-		</span>
-		
-			
-		<span style="font-size: 11.1428571429pt">
-			<a href="/tag/web/">web</a>
-		</span>
-		
-			
-		<span style="font-size: 9.76785714286pt">
-			<a href="/tag/wedding/">wedding</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/wholesale/">wholesale</a>
-		</span>
-		
-			
-		<span style="font-size: 8.58928571429pt">
-			<a href="/tag/world/">world</a>
-		</span>
-		
-			
-		<span style="font-size: 11.3392857143pt">
-			<a href="/tag/2011/">2011</a>
-		</span>
-		
-		</div> 
-		</div>
-<!-- END MIDDLE COLUMN -->
-		
-	<!-- START RIGHT COLUMN -->
+<!-- START RIGHT COLUMN -->
 		<div id="rightcol">
 			
 
-			                 	<!-- START ABOUT -->
+					                 	<!-- START ABOUT -->
 		
 
 <!-- START ABOUT -->
         	<div class="headline">
-            	<div class="sectiontitle"><a href="/page.php?page=about">What is akonter</a></div>
+            	<div class="sectiontitle"><a href="/static/about/">What is akonter</a></div>
             </div>
                         <div id="aboutcontent">
-                akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, news, story
+                akonter is a social bookmarking, bookmarks, your favorite lets you easily connect and share bookmark, save all your favorite websites, Shopping, news, story
                             </div>
 <!-- END ABOUT -->	<!-- END ABOUT -->
 <div class="headline">
 <div class="sectiontitle"><a href="http://www.akonter.com/static/tools/">Tools</a></div>
 	<a href="/submit/">
 	<img src="/templates/akonter/images/submit.gif.png" alt="Submit a New Story"></a>
-<script type="text/javascript" src="http://widgets.amung.us/map.js"></script><script type="text/javascript">WAU_map('kinw0hp98r5t', 0, 0, 'natural', 'star-blue')</script>
+<p></p>
+<a href="http://www.akonter.com/static/tools/">
+<img src="/templates/akonter/images/tools.gif.png" alt="Tools"></a>
+<p></p>
 </div>
 
-		<br>
-		</div>
-<!-- END RIGHT COLUMN -->
+	
+	<br>
+			
+
+	
+	
 		
+	
+				
+		</div>
+<!-- END RIGHT COLUMN -->	
 
 		
 	
@@ -628,17 +237,15 @@ var some_search='Search..';
 <!-- START FOOTER -->
 		<div id="footer">
 			        	<a href="http://www.akonter.com/">akonter Bookmarks</a>
-			| <a href="/upcoming/">Recent Bookmarks</a>
 			| <a href="/submit/">Submit a New Story</a>
-						| <a href="/advanced-search/">Advanced Search</a>
-        	| <a href="http://www.akonter.com/rssfeeds.php">RSS Feeds</a>
+						| <a rel="nofollow" href="/advanced-search/">Advanced Search</a>
         	        </div>
         <div id="subfooter">
-        	Copyright © 2011 <a href="/">akonter</a>
-        	| <a rel="nofollow" href="http://www.akonter.com/static/about/">About</a> | <a rel="nofollow" href="http://www.akonter.com/static/privacy-policy/">Privacy Policy</a> | <a rel="nofollow" href="http://www.akonter.com/static/contact-us/">Contact Us</a>
+        	Copyright © 2012 <a href="http://www.akonter.com/">akonter</a>
+        	| <a rel="nofollow" href="http://www.akonter.com/static/about/">About</a> | <a rel="nofollow" href="http://www.akonter.com/static/privacy-policy/">Privacy Policy</a> | <a rel="nofollow" href="http://www.akonter.com/static/terms/">Terms of Use</a> | <a rel="nofollow" href="http://www.akonter.com/static/contact-us/">Contact Us</a>
         </div>
 <!-- END FOOTER --> 
-	
+	</div>
 <!-- END CONTENT --> 
 	<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
 	
