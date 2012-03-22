@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201041345id_/http%3A//www.citysoftware.com.au/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322031146id_/http%3A//www.citysoftware.com.au/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # City Software | Online Computer Store - Buy Computers, Laptops, Software & Printers
 
