@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006141944id_/http%3A//www.anchor.com.au/about-us/terms-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322035504id_/https%3A//www.anchor.com.au/about-us/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Web hosting & Dedicated Hosting Servers at Anchor.com.au
 
