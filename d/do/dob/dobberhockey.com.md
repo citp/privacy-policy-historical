@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212122609id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobberhockey.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322102438id_/http%3A//www.dobberhockey.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2970%253Aprivacy-policy%26catid%3D7%253Aexamples%26Itemid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
