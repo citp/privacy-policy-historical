@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207034904id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322161801id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Orkin, Inc. understands you may have concerns about privacy while shopping on th
 
 ### What Information is Orkin, Inc. gathering about its visitors?
 
-Every computer connected to the Internet is provided with a domain name (e.g. earthlink.net) and an IP Address (e.g. 192.164.13.145). When a visitor requests a page from within the [ Orkin.com](http://signup.orkin.com/orkin/res/pc-FightTheBite-ph_cb.aspx?cm_mmc=Pr-_-Net-_-PRNWEB-_-_) Web site, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you.
+Every computer connected to the Internet is provided with a domain name (e.g. earthlink.net) and an IP Address (e.g. 192.164.13.145). When a visitor requests a page from within the Orkin.com Web site, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you.
 
 When you schedule an appointment on myorkin.com, we ask for your name, address, phone number, email address and other personal information necessary to fulfill your request.
 
