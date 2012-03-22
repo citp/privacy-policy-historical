@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230130507id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehomeinsurance.co.uk privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322114652id_/http%3A//www.ehomeinsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eHome Insurance - Privacy and Security
 
@@ -29,12 +29,12 @@ back to top
 
 ## 3\. Confidentiality
 
-We will endeavour to treat all your personal information as private and confidential. Other than under the terms of this privacy statement we will not disclose any of your information to anyone. We would like to bring your attention to our obligations to disclose information in the following exceptional cases permitted by law. These are: 
+We will endeavour to treat all your personal information as private and confidential. Other than under the terms of this privacy statement we will not disclose any of your information to anyone. We would like to bring your attention to our obligations to disclose information in the following exceptional cases permitted by law. These are:
 
-  * Where we are legally forced to 
-  * Where there is a duty to the public to disclose information 
-  * Where you have given permission to disclose information 
-  * Where we have to protect our interest 
+  * Where we are legally forced to
+  * Where there is a duty to the public to disclose information
+  * Where you have given permission to disclose information
+  * Where we have to protect our interest
 
 
 
@@ -56,7 +56,7 @@ back to top
 
 ## 6\. Access To Your Information
 
-You can write to us at any time to obtain details of the information we hold about you. Please write to: 
+You can write to us at any time to obtain details of the information we hold about you. Please write to:
     
     
       Data Protection Officer
