@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecaroline.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202095721id_/http%3A//www.divinecaroline.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecaroline.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323171929id_/http%3A//www.divinecaroline.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
