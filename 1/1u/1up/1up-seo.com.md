@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1up-seo.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231180857id_/http%3A//www.1up-seo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1up-seo.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323154449id_/http%3A//www.1up-seo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
