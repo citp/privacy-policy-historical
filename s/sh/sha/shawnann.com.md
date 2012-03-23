@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221032416id_/http%3A//shawnann.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawnann.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323181201id_/http%3A//shawnann.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shawn Ann's World
 
-October 21, 2010 @ 4:19pm | | [Leave a Comment](http://shawnann.com/about/privacy-policy/#respond) | 11 views 
+October 21, 2010 @ 4:19pm | | [Leave a Comment](http://shawnann.com/about/privacy-policy/#respond) | 264 views 
 
-**Shawn Ann's World, LLC** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**Shawn Ann’s World, LLC**  takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -12,9 +12,9 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Shawn Ann's World, LLC uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Shawn Ann’s World, LLC uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
 ## Controlling Your Privacy
 
@@ -22,8 +22,14 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy/ads/). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+
+## Other Advertising Notes
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to shawn@shawnann.com for further clarification.
+
+#####  Last Updated on January 27, 2012
