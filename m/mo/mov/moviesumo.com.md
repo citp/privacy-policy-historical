@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesumo.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225063612id_/http%3A//www.moviesumo.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesumo.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323011314id_/http%3A//www.moviesumo.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Watch Movies Online Free
 
@@ -29,11 +29,19 @@ MovieSumo reserves the right to change this Privacy Policy, and will post any re
 
 If you have questions or comments regarding this Privacy Policy, please email us at [privacy@MovieSumo.com](mailto:privacy@sidereel.com).
 
-  
-Last Updated: Wed Feb 25/2009MovieSumo is not responsible for any content linked to from our site. All trailers, info, files are hosted on external sites such as: rapidshare.com, megaupload.com, megashare(s), megavideo, zshare.net, dailymotion.com, myspace.com, ouou.com, stage6.com, tudou.com, veoh.com, youku.com, youtube.com, watch-movies.net, watch-movies-links) We do not host or upload any video, films, media files types such as: avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp. |   |  [](http://www.moviesumo.com/netflix.php?discount=true)
+[](http://www.moviesumo.com/download.php?movie=)
 
-_Live Stats  
-_Total Movies: 38181 _  
-_ Total Watched: 1545619  
+Last Updated: Fri Mar 23/2012
+
+ **[Watch 1 More Hit](http://www.moviesumo.com/1-More-Hit_1.html)** \- **[Watch 1 Night in China](http://www.moviesumo.com/1-Night-in-China_2.html)** \- **[Watch 1 Night in Paris](http://www.moviesumo.com/1-Night-in-Paris_3.html)** \- **[Watch 1:42:08: A Man and His Car](http://www.moviesumo.com/1:42:08:-A-Man-and-His-Car_4.html)** MovieSumo is not responsible for any content linked to from our site. All trailers, info, files are hosted on external sites such as: rapidshare.com, megaupload.com, megashare(s), megavideo, zshare.net, dailymotion.com, myspace.com, ouou.com, stage6.com, tudou.com, veoh.com, youku.com, youtube.com, watch-movies.net, watch-movies-links.net, alluc, alluc.org) We do not host or upload any video, films, media files types such as: avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp. |   |    
+Users Online: 36 
+
+Recently Reviewed:
+
+ _Live Stats  
+_Total Movies: 37051 _  
+_ Total Watched: 33103730
+
+[](http://www.moviesumo.com/nflix.php)  
   
 ---|---|---
