@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forwardon.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102162907id_/http%3A//www.forwardon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwardon.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323160236id_/http%3A//www.forwardon.com/privacy.php) for the most accurate reproduction.*
 
 # forwardOn: Privacy Policy
 
@@ -42,7 +42,7 @@ forwardOn reserves the right to change this privacy policy, and/or any part ther
 
 **Conditions of Use**
 
-If you decide to visit forwardOn website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20111102162907id_/http%3A//www.forwardon.com/terms.php). 
+If you decide to visit forwardOn website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20120323160236id_/http%3A//www.forwardon.com/terms.php). 
 
 **Questions**
 
