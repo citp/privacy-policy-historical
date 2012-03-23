@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123010459id_/http%3A//www.nyi.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323034542id_/http%3A//www.nyi.net/privacy.html) for the most accurate reproduction.*
 
 # Network and Company Policy
 
