@@ -1,0 +1,304 @@
+<!--The following is the downloaded HTML source of the admagnet.com privacy policy that was archived on 2012-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120323181719id_/http%3A//www.admagnet.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Ad Magnet | Largest Indian Online Ad Network</title>
+<link rel="stylesheet" href="Scripts/lightbox.css" type="text/css" media="screen">
+
+<!--
+<script src="facefiles/jquery-1.2.2.pack.js" type="text/javascript"></script>
+<link href="facefiles/facebox.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="facefiles/facebox.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+      $('a[rel*=facebox]').facebox() 
+    })
+</script>
+!-->
+<link href="admagnet-stylesheet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="Scripts/prototype.js?jsversion=9"></script>
+<script type="text/javascript">
+function checkNotEmpty(){
+var returnval=true;
+var message="Please enter the ";
+var roletype=document.getElementById("role");
+var username=document.getElementById("username").value;
+var password=document.getElementById("password").value;
+
+if(roletype.options[roletype.options.selectedIndex].value==""){
+	message="Please select the relevant Login type.";
+}else if(username==""){
+message+="username" ;
+	if(password==""){
+	message+=" and password" ;
+	}
+}else if(password==""){
+message+="password" ;
+}
+if (message!="Please enter the "){
+	document.getElementById("errorMessage").innerHTML=message;
+	returnval=false;
+}
+
+return returnval;
+}
+  function ajaxLogin() { 
+			if(!checkNotEmpty())
+				return false;
+            //Element.update('loginMessage', 'Sending request ...');
+            Element.show('errorMessage');
+            var opt = {
+
+                method: 'post',
+
+                postBody: Form.serialize($('loginForm')) + '&ajax=true',
+
+                onSuccess: function(response) {
+                    var msg = response.responseText;
+                    if ("error:" == msg.substr(0, 6)) {
+                        var fp = "<font color='red'>" + msg.substring(6, msg.length) + '</font>';
+                        Element.update('errorMessage', fp);
+                    } else if ("url:" == msg.substr(0, 4)) {
+                        location.href = msg.substring(4, msg.length);
+                    } else if ("message:" == msg.substr(0, 8)) {
+                        Element.update('errorMessage', msg.substring(8, msg.length));
+                    }
+                }
+            }
+	//alert("Please note: We are performing System maintenance for next 2 hours. Please check the reports after some time");
+            new Ajax.Request('/reports/j_acegi_security_check', opt);
+	 //return false;
+        }
+
+        function loginOnEnter(event) {
+            if ((event.which && event.which == 13) ||
+                (event.keyCode && event.keyCode == 13)) {
+                ajaxLogin();
+                return false;
+            } else {
+                return true;
+            }
+        }
+    </script>
+    <script type="text/javascript">
+function load()
+{ 
+if (document.cookie.indexOf('am_oo') != -1) { 
+document.getElementById('optin').style.display = 'block';
+document.getElementById('optout').style.display = 'none';
+}
+else if (document.cookie.indexOf('OAID') != -1) {  
+document.getElementById('optout').style.display = 'block';
+document.getElementById('optin').style.display = 'none';
+}
+else {  
+document.getElementById('optin').style.display = 'none';
+document.getElementById('optout').style.display = 'block';
+}
+}
+function openWindow(mylink, windowname,text)
+{  
+   if(text=='optout'){ 
+   document.getElementById('optout').style.display = 'none';
+   document.getElementById('optin').style.display = 'block';
+   }else{
+   document.getElementById('optin').style.display = 'none';
+   document.getElementById('optout').style.display = 'block';
+   }
+    if (! window.focus)return true;
+	var href;
+  if (typeof(mylink) == 'string')
+  	href=mylink;
+  else
+    href=mylink.href;
+  
+ // window.setTimeout(function() {newWindow.close()}, 3000);
+    var width = 400;
+    var height = 100;
+    var left = parseInt((screen.availWidth/2) - (width/2));
+    var top = parseInt((screen.availHeight/2) - (height/2));
+    var windowFeatures = "width=" + width + ",height=" + height + ",status,resizable,left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top;
+	var newWindow = window.open(href, windowname, windowFeatures);
+	 return false;
+}
+
+
+</script>
+</head>
+<!--<body onload="load();"> -->
+<body onload="load();"><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <kbd>x</kbd> to close</div></div></div>
+<div id="insidepage-container">
+<div id="container">
+<div id="header">
+<div id="logo"> <a href="index.html"><img src="images/admagnet-logo.jpg" alt="Largest Indian Online Ad Network" width="190" height="94" border="0"></a>
+</div>
+<div id="top-menu">
+  <div style="float:left; width:160px; height:15px;" class="top-text"></div>
+  <div id="login-button"> <a href="#login-container" rel="lightbox"> <img src="images/login-button.jpg" alt="exsisting user login" width="58" height="20" border="0"> </a> </div>
+  <div id="home-icon">
+    <div style="float:left; height:16px; width:18px; margin-left:7px; margin-top:2px;"> <a href="index.html"><img src="images/home-icon.jpg" alt="admagnet home page" width="18" height="16" border="0"></a> </div>
+    <div style="width:35px; float:left; margin-top:1px;" class="top-menu"> <a href="index.html" class="top-menu"> Home </a> </div>
+  </div>
+  <div id="sitemap-icon">
+    <div style="float:left; height:19; width:23px; margin-left:7px;"> <a href="site-map.html"><img src="images/site-map-icon.jpg" alt="sitemap" width="23" height="19" border="0"></a></div>
+    <div style="width:35px; float:left" class="top-menu"> <a href="site-map.html" class="top-menu"> sitemap </a></div>
+  </div>
+</div>
+<div id="menu">
+<div style="float:left; margin-left:50px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="advertisers.html" class="menu">Advertisers</a>
+</div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="publishers.html" class="menu">Publishers</a>
+</div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="about-us.html" class="menu">About us</a>
+</div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="careers.html" class="menu">Careers</a> 
+</div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="clients.html" class="menu">Clients</a>
+</div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="https://affiliates.admagnet.net/affiliate_signup.html" target="_blank" class="menu">Affiliates</a><a href="affiliates.html" class="menu"></a></div>
+<div style="float:left; margin-left:20px;">
+<div style="float:left; height:13px; width:13px; margin-top:13px;"><img src="images/menu-arrow.png" height="13" width="13"></div>
+<a href="contact-us.html" class="menu">Contact us </a>
+</div>
+</div>
+</div>
+<div id="matter-container">
+<div id="inside-matter-container"> 
+<div class="heading2" id="inside-page-heading">
+Privacy Policy
+</div>
+<div class="text2" style="float:left; width:913px;">
+  <div style="float:left; width:913px; margin-top:10px;">
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">  Digital Media Private Limited ("Ad-Magnet") is a   technology-enabled ad-network services Company whose clients and   customers include both online advertisers ("Advertisers") and Internet   content sites ("Publishers"). We deliver innovative products and   services designed to:
+    <ul>
+<li class="heading8">Enable Advertisers to better reach their target audiences; and</li>      
+<li class="heading8">Enable Publishers to support, grow and monetize their websites through the sale of advertisements.</li>
+</ul>
+(collectively referred to as the ‘Services’)<br>
+This Privacy Policy is as per the Indian Information Technology   Act, 2000 and the Information Technology (Reasonable security and   procedures and sensitive personal data or information) Rules, 2011   prescribed thereunder, (“Applicable Law”) that is intended to provide   consumers with clear and complete information about the consumer data   and information that we collect in connection with our Services and the   way that data and information is stored and used by our Company.    </div>
+    <div class="heading1-white" style="float:left; width:600px; margin-top:10PX;">Information We Collect&nbsp;</div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;"> Non-Personal Information Collected by our Services. We deliver   advertisements from hundreds of Advertisers across a large number of   Publisher websites, which are a part of our ad-network. When you visit   one of the Publisher websites in our network, our automated system may   collect "click stream data" related to your visit to the website. Click   stream data is anonymous and can include information such as your IP   address, Operating System details, Browser details, the date and time at which those pages were viewed and interaction with   content and advertisements on those Web pages. Technologies used to   collect this click stream data, include cookies and Web beacons.&nbsp;<br>
+      In order to improve performance, we augment our click stream data   with non-personally-identifiable behavioral and demographic data from   Publishers and other partners. This anonymous data may include such   things as zip code, age, gender and income range but shall not include   any kind of Sensitive Personal Data or Information (as defined under   Applicable Law), which the Publisher may collect on its website.&nbsp;<br>
+      We utilize the non-personal information, described above to better   customize the sort of advertisements you see. We also aggregate   anonymous cookie data in order to identify large audience segments that   assist advertisers in targeting their campaigns to the most relevant   Internet audience. We store the information collected in log files, and   log files are retained in our systems for a reasonable period of time.   Anonymous data stored in our log files, that associates the log data to a   particular computer include IP address and cookie ID. We purge the IP   address and irreversibly obfuscate the cookie ID from our log files as   soon as we believe this information is no longer required by us.
+     
+      </div>
+    <div class="text-login" style="float:left; width:600px; margin-top:10px;">Consumer Choice - Opting Out of Receiving Cookies&nbsp;</div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">We use technology which includes cookies and web beacons in the delivery of our Services. We believe that the use of these tools enables us to provide users with a more meaningful web experience. You may adjust your computer's web browser settings to refuse all cookies. However, please note that because cookies are widely used, disabling the use of cookies in your web browser may interfere with full use of various websites.
+      </div>
+      <div id="optout" style="display: block;">You may Opt out of receiving Ad Magnet cookies by
+       <a href="http://n.admagnet.net/panda/www/delivery/optout.php" onclick="return openWindow(this,'mypage','optout');"><img src="images/opt-out.gif" border="0"></a><br>
+       You can also Opt out of receiving cookies from Ad Magnet by 
+      <a href="http://n.admagnet.net/panda/www/delivery/optout.php" class="text5" onclick="return openWindow(this,'mypage','optout');"><u>clicking here</u> </a>
+       </div>
+       <div id="optin" style="display: none;">You may Opt in of receiving Ad Magnet cookies by
+       <a href="http://n.admagnet.net/panda/www/delivery/optin.php" onclick="return openWindow(this,'mypage','optin');"><img src="images/opt-in.gif" border="0"></a><br>
+       You can also Opt in of receiving cookies from Ad Magnet by 
+      <a href="http://n.admagnet.net/panda/www/delivery/optin.php" class="text5" onclick="return openWindow(this,'mypage','optin');"><u>clicking here</u> </a>
+       </div>
+     
+      <div style="float:left; width:913px; margin-top:10px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;"> Through this opt-out procedure, your computer will request an   "opt-out cookie" ID tag that will prevent your anonymous data from being   matched to your computer and thereby prevent us from using that data to   deliver targeted advertising or other content to your computer's   browser. Please note that this opt-out process will erase the cookie ID   associated with your computer but&nbsp;not&nbsp;the cookie itself - the cookie   itself&nbsp;must&nbsp;remain on your computer in order for us to recognize you as   an opt-out user. This means that if you use multiple computers or   multiple browsers you will need to opt out of receiving cookies on each   computer and for each browser. Also, if you change computers or delete   cookies from your computer you will need to repeat this opt-out process.<br>
+        <span class="text-login">Personal Information Collected by our Service </span>helps   marketers reach potential customers who are interested in receiving   information about their products or services. Personal Information means   “any information that relates to a natural person, which either   directly or indirectly, in combination with other information available   or likely to be available is capable of identifying a user) or sensitive   personal data or information”.  In response to a marketer's   advertisement, you may choose to provide personal data or information   such as your name, address, telephone number and/or email address.<br>
+We   will not merge any of this personal data or information with any   non-personally identifiable information collected by our systems and   will not use this personal data or information in any way that is not   authorized by the marketer for whom it is collected. In addition, we   keep this data in a separate database to preserve our guarantee that   advertisements are delivered only through the utilization of anonymous   consumer data.<br>
+<span class="text-login">Personal Information Collected Through Our Corporate Website</span>:   You may also provide us with personal data or information (such as your   name, email address, physical address or telephone number) when you   elect to contact us about this Privacy Policy or any other   customer-service related matter. We will only utilize such personal data   or information for the purpose of responding to your inquiry. However,   we do reserve the right to retain an archival record of all such   correspondence.<br>
+We reserve the right to disclose personal data or information you   have disclosed to us in response to any judicial process or court order   or to provide information to law enforcement agencies or in connection   with an investigation of matters related to public safety, as permitted   by Applicable Law. In addition, your non-personal information and your   personal data or information shall be shared, without obtaining prior   consent from you, with Government agencies mandated under the Applicable   Law to obtain information for the purpose of verification of identity,   or to prevention, detection, investigation including cyber incidents,   prosecution and punishment of offences. </div>
+ <div class="text-login" style="float:left; width:600px; margin-top:10px;">International Transfers of Information:</div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">Sensitive Personal data or information collected by us may be   transferred to any other country for processing/storing or providing you   with our Services. You acknowledge and agree that personal data or   information you provide to us may be transferred outside of the country   in which you reside. Providing such information will constitute your   consent to any such transfer.&nbsp;</div>
+       <div class="text-login" style="float:left; width:600px; margin-top:10px;">Information Security:</div>
+    <div style="float:left; width:913px; border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">We follow generally accepted industry standards to protect against   unauthorized access to, destruction or disclosure of data. This includes   undertaking necessary physical, electronic and management activities   required to protect data integrity, access and use. Any data that is   stored on our servers is treated as confidential and is not made   generally available to the public. Our servers are protected by   firewalls and are located in secure data facilities to further increase   security. Please keep in mind, however, that despite these reasonable   efforts to protect data on our servers no method of transmission over   the Internet is guaranteed to be secure. Therefore, while we strive to   protect your personal data or information at all times, we cannot   guarantee its absolute security and shall not be liable for any breach   of security by an outside party.</div>
+       <div class="text-login" style="float:left; width:600px; margin-top:10px;">Transfer of Information Upon Change of Control: </div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">In the event that another company acquires all or substantially all of   the assets of our business through a consolidation, merger, asset,   purchase or other transaction, we reserve the right to transfer all data   (including any personal data or information) that is in our possession   or under our control to such acquiring party.</div>
+       <div class="text-login" style="float:left; width:600px; margin-top:10px;">Changes to this Privacy Policy:</div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">We reserve the right to make changes to this Privacy Policy by posting   an updated version on this page. The date on which the current Privacy   Policy was posted will always be noted at the top of this page. Any   change we make to our Privacy Policy will be made in compliance with   Applicable Law.</div>
+     <div class="text-login" style="float:left; width:600px; margin-top:10px;">Correspondence:</div>
+    <div style="float:left; width:913px;border-bottom:#8c8c8c 1px dashed; padding-bottom:10px;">If you contact us, we may keep a record of that correspondence,   including your email address. This relates to your correspondence with   us only - we do not gather users' email addresses as part of our online   advertising business.&nbsp;</div>
+     <div class="text-login" style="float:left; width:600px; margin-top:10px;">Questions and Comments:</div>
+    <div style="float:left; width:913px; margin-bottom:20px;">Questions and comments regarding this Privacy Policy should be directed to&nbsp;&nbsp;or mailed to: <a href="mailto:policy@admagnet.com " class="text-login-red">policy@admagnet.com&nbsp;</a></div>
+  </div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+</div>
+<div id="footer">
+<div style="margin:0px auto; width:913px;">
+<div class="footer" id="copyright">
+© Copyright 2012 Ad Magnet
+</div>
+<div id="footer-social-menu">
+<div id="social-menu1">
+<a href="http://www.facebook.com/adnetwork" target="_blank">
+<img src="images/facebook-icon.png" width="22" height="22" border="0">
+</a>
+</div>
+<div id="social-menu2">
+<a href="https://twitter.com/#!/ad_magnet" target="_blank">
+<img src="images/twitter-icon.jpg" width="23" height="22" border="0">
+</a>
+</div>
+<div class="footer" id="footer-menu">
+<a href="terms.html" class="footer">Terms of Use</a> | <a href="privacy-policy.html" class="footer">Privacy Policy</a> | <a href="optout.html" class="footer">Optout</a></div>
+</div>
+</div>
+
+</div>
+<div id="login-container">
+<div id="login-matter">
+<form id="loginForm" method="post" onsubmit="ajaxLogin();return false;">
+<div style="color: red;align:center" id="errorMessage" class="top-text-link">&nbsp;</div>
+<div class="text4" style="float:left; width:100px;">
+Login As :
+</div>
+<div style="float:left; width:175px; margin-top:5px;">
+<select name="j_role" id="role" style="width:175px; height:21px; background-color:#e8e8e8; border:inset 1px;">
+  <option value="">- - - Select - - -</option>
+  <option value="admin">Admin</option>
+  <option value="advertiser">Advertiser</option>
+  <option value="agency">Agency</option>
+  <option value="publisher">Publisher</option>
+  <option value="sales">Sales</option>
+</select>
+</div>
+<div class="text4" style="float:left; width:100px; margin-top:5px;">
+Username :
+</div>
+<div style="float:left; width:175px; margin-top:5px;">
+<input name="j_username" type="text" id="username" style="width:175px; height:16px; background-color:#e8e8e8; border:inset 1px;">
+</div>
+<div class="text4" style="float:left; width:100px; margin-top:5px;">
+Password :</div>
+<div style="float:left; width:175px; margin-top:5px;">
+<input name="j_password" type="password" id="password" style="width:175px; height:16px; background-color:#e8e8e8; border:inset 1px;">
+</div>
+<div class="text4" style="float:left; width:83px; margin-top:20px; margin-left:38px;">
+<input name="" type="image" value="Submit" src="images/submit.png">
+
+</div>
+</form>
+
+
+</div>
+
+</div>
+
+
+
+<script type="text/javascript" src="Scripts/lightbox.js"></script>
+
+</body></html>
