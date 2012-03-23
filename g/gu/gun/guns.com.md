@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123012707id_/http%3A//www.guns.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2012-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120323033810id_/http%3A//www.guns.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Guns News and Guns Reviews at Guns.com
 
