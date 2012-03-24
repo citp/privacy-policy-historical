@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentum.co.za privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012247id_/http%3A//www.momentum.co.za/wps/portal/momentum/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM3Yz8jA08DCwNHVwMLQwMTY_2CbEdFABGHvxk%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentum.co.za privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324071000id_/http%3A//momentum.co.za/wps/portal/momentum/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM3Yz8jA08DCwNHVwMLQwMTY_2CbEdFABGHvxk%21) for the most accurate reproduction.*
 
 # Momentum Group - Privacy Policy
 
