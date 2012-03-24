@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217122412id_/http%3A//www.cati.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324163951id_/http%3A//www.cati.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # CATI Privacy Policy
-
-CATI Privacy Policy 
 
 Computer Aided Technology would like to thank you for visiting our website. We know many visitors have questions regarding the privacy of their interactions on our website. We hope this privacy policy statement will answer any questions you may have, but if it does not, please feel free to contact us at the email address or postal address shown below. 
 
