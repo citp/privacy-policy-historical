@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireballtech.com privacy policy that was archived on 2011-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110914071437id_/http%3A//www.fireballtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireballtech.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324030125id_/http%3A//www.fireballtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :FireBall Tech Information Technologies, LLC Tucson Computer Repair and Laptop Repair – 50 S. Houghton Rd Suite 150 Tucson AZ 85748 520-232-2377
 
