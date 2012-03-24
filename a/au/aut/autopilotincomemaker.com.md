@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopilotincomemaker.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014327id_/http%3A//www.autopilotincomemaker.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopilotincomemaker.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324044232id_/http%3A//www.autopilotincomemaker.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Autopilot Income Maker
 
