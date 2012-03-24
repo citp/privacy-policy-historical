@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015355id_/http%3A//www.shopatmajorbrands.com/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324185030id_/http%3A//www.shopatmajorbrands.com/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
 
-# || Online Shopping
+# About Us - Online Shopping in Delhi |Bangalore | Hyderabad | Mumbai
 
 What Information Do We Collect?
 
