@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelpanda.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114801id_/http%3A//steelpanda.com/content/terms-use-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelpanda.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324094129id_/http%3A//www.steelpanda.com/content/terms-use-privacy) for the most accurate reproduction.*
 
 # Terms of use & Privacy | SteelPanda
 
