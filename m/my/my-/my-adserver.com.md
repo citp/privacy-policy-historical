@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-adserver.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016223855id_/http%3A//www.hd-marketing.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-adserver.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324193707id_/http%3A//www.hd-marketing.com/privacypolicy.php) for the most accurate reproduction.*
 
 # HD Marketing | Targeted Traffic now !
 
@@ -74,7 +74,7 @@ We, however, may occasionally wish to communicate with our customers in order to
 
 As part of our service, our Customer Service Department routinely communicates with members by phone o r email to respond to questions or issues relating to their account, or to offer optimization services. We may also solicit some of our clients from time to time, either online or by email, to participate in client surveys. Participation in these surveys is voluntary, and the information collected provides HD Marketing Agency with valuable feedback on our services, which in turn, helps us to improve them.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by [**contacting us**](https://web.archive.org/web/20111016223855id_/http%3A//www.hd-marketing.com/contactus.php). We offer an opportunity to opt-out of certain communications from the members area, or you may contact us using the contact information listed below.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by [**contacting us**](https://web.archive.org/web/20120324193707id_/http%3A//www.hd-marketing.com/contactus.php). We offer an opportunity to opt-out of certain communications from the members area, or you may contact us using the contact information listed below.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -90,11 +90,11 @@ While we use SSL encryption to protect sensitive information online, protect all
 
 By using the HD-marketing.com Web site, you consent to the collection, storage, and dissemination of personal data as described above. We will post any changes to our privacy policy on this page so you can readily review the most current policy. HD-marketing.com reserves the right to e-mail you regarding changes to our privacy policy or any other matters HD-marketing.com considers necessary for the administration of the site.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page [or by [**Contacting Us**](https://web.archive.org/web/20111016223855id_/http%3A//www.hd-marketing.com/contactus.php)] or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page [or by [**Contacting Us**](https://web.archive.org/web/20120324193707id_/http%3A//www.hd-marketing.com/contactus.php)] or by contacting us by telephone or postal mail at the contact information listed below.
 
   7. How to Contact Us
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by sending us a message on our [**Contact Us**](https://web.archive.org/web/20111016223855id_/http%3A//www.hd-marketing.com/contactus.php) form or by using the following contact information:
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by sending us a message on our [**Contact Us**](https://web.archive.org/web/20120324193707id_/http%3A//www.hd-marketing.com/contactus.php) form or by using the following contact information:
 
 
 
