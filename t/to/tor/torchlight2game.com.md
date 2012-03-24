@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the torchlight2game.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184152id_/http%3A//www.torchlight2game.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torchlight2game.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324162826id_/http%3A//www.torchlight2game.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Torchlight II by Runic Games
+# Torchlight II | Privacy policy
 
 **RUNIC GAMES, INC. PRIVACY POLICY  
-_Last updated August 10, 2011_ **
+_Last updated August 24, 2011_ **
 
 Our Privacy Commitment 
 
@@ -36,6 +36,8 @@ The personal information you provide to us will allow us to fulfill your product
 
 We keep track of your interactions with us, including but not limited to your activity within the Runic Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Runic Features. We may also use your personal information to contact you when necessary. 
 
+We may we use your personal information with non-personal information that we have collected in a manner such that the end-product does not personally identify you or any other user of the Runic Features. We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or e-mail address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect in providing the Runic Features (the “Analytical Data”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties, provided that we do not sell, trade, or otherwise transfer from us any part of the Analytical Data that personally identifies any Runic Features users. 
+
 **Cookies**
 
 “Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in. 
@@ -52,13 +54,13 @@ _**Will we share your personal information with third parties?**_
 
 **Sharing of Information**
 
-We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. 
+We may use your personal information to provide analyses of our users in the aggregate (including Analytical Data subject to the terms of this Privacy Policy) to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers. 
 
 In addition, we will share the personal information we collect from you under the following circumstances: 
 
-  * Protection of rights. We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Use for the Runic Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Runic Features, or (iv) such action is appropriate to protect the rights, property or safety of Runic, its employees, users of the Runic Features or others.
-  * Asset transfers. If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Runic’s assets, user information, including personal information collected from you through your use of the Runic Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
-  * Service Providers. We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, have partnered with other companies to maintain or manage the Runic Features and our video games, fulfilling product orders and processing payments. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+  * Protection of Rights. We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Use for the Runic Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Runic Features, or (iv) such action is appropriate to protect the rights, property or safety of Runic, its employees, users of the Runic Features or others.
+  * Asset Transfers. If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Runic’s assets, user information, including personal information collected from you through your use of the Runic Features, could be included in the transferred assets. Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
+  * Service Providers. We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, have partnered with other companies to maintain or manage the Runic Features and our video games, fulfilling product orders and processing payments. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data, including but not limited to Analytical Data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
   * Publishing Partners. We may share your email address with our publishing partner, Perfect World Entertainment, Inc. and its affiliates (collectively, “ **Perfect World** ”) for the purpose of notifying you about our products and services, including, but not limited to, contests, promotions, or special events and offers related to the Runic Features that Perfect World provides. To the extent applicable, we require Perfect World to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
 
@@ -75,7 +77,7 @@ _**What choices do you have about the collection and use of your personal inform
 
 **Control of Your Information**
 
-You may update or delete your personal information or modify your account preferences for the Runic Features by accessing the “My Account” area of the Runic Features. Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. 
+You may update or delete your personal information or modify your account preferences for the Runic Features by accessing the account interface of the Site. Please note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities. 
 
 **Opting Out of Receiving Communications from Us**
 
@@ -115,7 +117,7 @@ This Privacy Policy may change from time to time and we will post all changes on
 
 _**Questions? Contact Us**_
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at contact@runicgames.com 
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at contact@runicgames.com. 
 
 **Terms of Use**
 
