@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfiliate.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007161312id_/http%3A//perfiliate.com/w3c/human.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfiliate.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324045114id_/http%3A//www.perfiliate.com/w3c/human.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
