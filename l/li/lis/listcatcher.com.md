@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listcatcher.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104035752id_/http%3A//www.listcatcher.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listcatcher.com privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325081507id_/http%3A//listcatcher.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # ListCatcher
 
