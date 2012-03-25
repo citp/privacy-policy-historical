@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125163141id_/http%3A//berlin.unlike.net/pages/2-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlike.net privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325213408id_/http%3A//berlin.unlike.net/pages/2-Privacy) for the most accurate reproduction.*
 
 # Privacy | Unlike City Guides
 
