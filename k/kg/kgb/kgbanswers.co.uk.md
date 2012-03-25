@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120944id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325190140id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
 
 # kgb answers – high-quality answers on the go
 
@@ -19,7 +19,7 @@ Cookies are small data text files and can be stored on your computer's hard driv
 
 #### HOW WE USE YOUR INFORMATION
 
-The Number (UK) Ltd uses the information we collect for the following general purposes: for updating business listing information, registration, including to facilitate your access to and use of our site; to communicate with you in general, including to provide information about kgbanswers.co.uk; to enable us to publish your reviews, ratings, and other content to the 542542 site; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services available from us or our partners that may be of interest to you; to otherwise customize your experience with 542542; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
+The Number (UK) Ltd uses the information we collect for the following general purposes: for updating business listing information, registration, including to facilitate your access to and use of our site; to communicate with you in general, including to provide information about kgbanswers.co.uk; to enable us to publish your reviews, ratings, and other content to the kgbanswers.co.uk site; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services available from us or our partners that may be of interest to you; to otherwise customize your experience with kgbanswers.co.uk; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
 
 #### DISCLOSURE AND VISITOR CHOICE
 
