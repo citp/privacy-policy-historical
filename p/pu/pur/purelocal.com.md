@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124090228id_/http%3A//purelocal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326202724id_/http%3A//purelocal.com/Privacy.aspx) for the most accurate reproduction.*
 
 # PureLocal.com
 
