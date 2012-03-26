@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.ie privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126075610id_/http%3A//www.next.ie/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.ie privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326212225id_/http%3A//next.ie/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -43,7 +43,7 @@ This website does not require the use of cookies. Technical details in connectio
 
 **Contact Us**
 
-If you have any questions relating to this policy or regarding the use by Next of personal data please contact us through our contact form stating the nature of your query. Our designated data protection manager will deal with the matter in confidence. You  can use our form here: [](https://web.archive.org/web/20111126075610id_/http%3A//www.next.ie/html/contact_us.html) or write to:
+If you have any questions relating to this policy or regarding the use by Next of personal data please contact us through our contact form stating the nature of your query. Our designated data protection manager will deal with the matter in confidence. You  can use our form here: [](https://web.archive.org/web/20120326212225id_/http%3A//next.ie/html/contact_us.html) or write to:
 
 Next Generation Technologies Ltd. -  Grangegodden, Rockfield Road - Kells - County Meath - Phone 0868883882
 
@@ -69,4 +69,4 @@ Small pieces of information, stored in simple text files, placed on your compute
 
 _Note: We’d like to advise that Next.ie is not affiliated with the UK fashion retailer Next Retail Ltd. (can be found at:[www.nextdirectory.ie](http://www.nextdirectory.ie/))_
 
-[Terms & Conditions](https://web.archive.org/web/20111126075610id_/http%3A//www.next.ie/html/terms___conditions.html) \- [Home](https://web.archive.org/web/20111126075610id_/http%3A//www.next.ie/index.html) (c) 2010 Next Generation Technologies
+[Terms & Conditions](https://web.archive.org/web/20120326212225id_/http%3A//next.ie/html/terms___conditions.html) \- [Home](https://web.archive.org/web/20120326212225id_/http%3A//next.ie/index.html) (c) 2010 Next Generation Technologies
