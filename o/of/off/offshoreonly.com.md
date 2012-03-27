@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshoreonly.com privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910155305id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.offshoreonly.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshoreonly.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327182142id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.offshoreonly.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
