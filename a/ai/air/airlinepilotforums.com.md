@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airlinepilotforums.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103524id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.airlinepilotcentral.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlinepilotforums.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327182203id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.airlinepilotcentral.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
