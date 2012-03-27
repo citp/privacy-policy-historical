@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekearth.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007004713id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtrekearth.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekearth.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327182211id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dtrekearth.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
