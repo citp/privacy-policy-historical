@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chineselovelinks.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126045617id_/http%3A//www.chineselovelinks.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chineselovelinks.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327102512id_/http%3A//www.chineselovelinks.com/Privacy.cfm) for the most accurate reproduction.*
 
 # ChineseLoveLinks.com | Privacy Policy
 
