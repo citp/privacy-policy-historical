@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the txtweb.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602191726id_/http%3A//www.txtweb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D600%26Itemid%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtweb.com privacy policy that was archived on 2012-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120327021812id_/http%3A//www.txtweb.com/privacy) for the most accurate reproduction.*
 
-# txtWeb | Privacy
+# txtWeb | Privacy - txtWeb
 
 ## txtWeb Privacy Statement
 
@@ -14,7 +14,7 @@ When you register with us we ask for information like your name and contact info
 
 Intuit works to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable law and federal standards. We use both internal and external resources to review our security procedures. Whenever we prompt you to transmit sensitive information, such as credit card information, we support the encryption of your information as it is transmitted to us. Our employees are trained and required to safeguard your information.
 
-If you are a developer, your account is password protected and we recommend that you do not share your password with anyone. Remember to sign out of your Web-based product and services and close your browser window when you have finished your work. This prevents others from accessing your account if you share a computer or use a computer in a public place, such as a library or Internet café. Users that you invite to access your SMS-based services will be required to provide their mobile phone number before they can access the services you provide.
+If you are a developer, your account is password protected and we recommend that you do not share your password with anyone. Remember to sign out of your Web-based product and services and close your browser window when you have finished your work. This prevents others from accessing your account if you share a computer or use a computer in a public place, such as a library or Internet cafe. Users that you invite to access your SMS-based services will be required to provide their mobile phone number before they can access the services you provide.
 
 We train and require our employees to safeguard your information. We also use physical, electronic and procedural safeguards to restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
@@ -81,13 +81,13 @@ We may use advertising networks to display ads in our products and services or a
 
 ### Your Choices:
 
-You may opt out of txtWeb SMS by sending “STOP” in a SMS message to 92433 42000.
+You may opt out of txtWeb SMS by sending "STOP" in a SMS message to 92433 42000 (INDIA) or 898932 (US or Canada).
 
 ### Closing Your Account
 
 If you are a developer, you may close your account at any time by contacting us on www.txtweb.com
 
-If you are an end user of a developer application, you may stop your service at any time by sending "STOP" in an SMS message to 92433 42000.
+If you are an end user of a developer application, you may stop your service at any time by sending "STOP" in an SMS message to 92433 42000 (INDIA) or 898932 (US or Canada).
 
 Contact us for any privacy concerns or questions at:
 
