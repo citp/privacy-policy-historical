@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rac.gov.in privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144531id_/http%3A//rac.gov.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.gov.in privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328013711id_/http%3A//rac.gov.in/privacy.php) for the most accurate reproduction.*
 
-# RAC, Home
+# Recruitment and Assessment Centre - Home
 
 > This privacy policy sets out how RAC uses and protects any information that you give RAC when you use this website. RAC is committed to ensuring that your privacy is protected. 
 > 
