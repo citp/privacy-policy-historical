@@ -1,26 +1,32 @@
-<!--The following is the downloaded HTML source of the opencartguru.com privacy policy that was archived on 2011-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127031655id_/http%3A//opencartguru.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opencartguru.com privacy policy that was archived on 2012-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120327163433id_/http%3A//opencartguru.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
 <base href="http://opencartguru.com/">
-<link href="http://image.opencartguru.com/data/redqbutton.png" rel="icon">
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/bigcart3/stylesheet/stylesheet.css">
+<link href="http://image.opencartguru.com/data/icon_university.gif" rel="icon">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/octheme4/stylesheet/stylesheet.css?v1.1">
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/badger/badger.css" media="screen">
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.9.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.9.custom.css">
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.4.css" media="screen">
 <script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/theme/octheme4/jquery/jquery.carouFredSel-4.3.3-packed.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/main-image-swap.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery.wiggle.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/badger/badger.js"></script>
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/bigcart3/stylesheet/ie7.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/octheme4/stylesheet/ie7.css" />
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/bigcart3/stylesheet/ie6.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
 <script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
 <script type="text/javascript">
 DD_belatedPNG.fix('#logo img');
@@ -136,35 +142,59 @@ $(document).ready(function(){
    	var matchedElementSize = $('.wiggle').size();
         interval = setInterval(function() {
         	$($('.wiggle').get(Math.floor(Math.random() * matchedElementSize))).wiggle('start', {limit: 5});
-                                                }, 1000);
+                                                }, 3000);
+});
+</script>
+<!-- END jQWiggle -->
+
+<!-- START Download Popup -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.download-info a').click(
+		function(){
+			alert("Things to note: \n\n  1. Remember to check back on occasion for new updates! \n\n  2. If you upgrade your cart in the future, you will need to come back here to get the latest mod update as well! \n\n  3. Please do not share or resell this software! \n\n Enjoy!");
+		}	
+	);
 });
 </script>
 <!-- END jQWiggle -->	            
 </head>
 <body>
+
 <div id="container">
 <div id="header">
     <div id="logo"><a href="http://opencartguru.com/index.php?route=common/home"><img src="http://image.opencartguru.com/data/opencartgurulogo.png" title="OpenCartGuru.com" alt="OpenCartGuru.com"></a></div>
-      <form action="http://opencartguru.com/index.php?route=common/home" method="post" enctype="multipart/form-data">
+        <form action="http://opencartguru.com/index.php?route=common/home" method="post" enctype="multipart/form-data">
     <div id="language">Language:
             &nbsp;<img src="image/flags/gb.png" alt="English" title="English" onclick="$('input[name=\'language_code\']').attr('value', 'en').submit(); $(this).parent().parent().submit();">
             <input type="hidden" name="language_code" value="">
       <input type="hidden" name="redirect" value="http://opencartguru.com/privacy">
     </div>
   </form>
-      <div id="cart">
+    
+  <div id="cart">
     <div class="heading">
       <h4>Shopping Cart</h4>
       <a><span id="cart_total">0 item(s) - $0.00</span></a></div>
     <div class="content"></div>
   </div>
-  <div id="search">
+    <div class="links"><a href="http://opencartguru.com/index.php?route=common/home">Home</a>			<a href="http://opencartguru.com/index.php?route=account/login">Login</a>
+			<a href="https://opencartguru.com/index.php?route=account/account">My Account</a><a href="http://opencartguru.com/index.php?route=checkout/cart">Shopping Cart</a><a href="https://opencartguru.com/index.php?route=checkout/checkout">Checkout</a></div>
+
+<div id="search">
     <div class="button-search"></div>
-        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
+        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000';">
       </div>
-  <div id="welcome">
-        Welcome visitor you can <a href="https://opencartguru.com/index.php?route=account/login">login</a> or <a href="https://opencartguru.com/index.php?route=account/register">create an account</a>.      </div>
-  <div class="links"><a href="http://opencartguru.com/index.php?route=common/home">Home</a><a href="http://opencartguru.com/index.php?route=account/wishlist" id="wishlist_total">Wish List (0)</a><a href="https://opencartguru.com/index.php?route=account/account">My Account</a><a href="http://opencartguru.com/index.php?route=checkout/cart">Shopping Cart</a><a href="https://opencartguru.com/index.php?route=checkout/checkout">Checkout</a></div>
+</div>
+<div class="margintop"></div>
+<div id="incontainer">
+<div id="menu">
+  <ul>
+    	    <li><a href="http://opencartguru.com/usage-license">Usage License</a></li>
+        <li><a href="http://opencartguru.com/easypay">Paypal EasyPay</a></li>
+        <li><a href="http://opencartguru.com/faq">FAQ</a></li>
+        <li><a href="http://opencartguru.com/quick">Quick Shopper</a></li>
+      </ul>
 </div>
 <div id="notification"></div>
 <div id="column-left">
@@ -203,57 +233,68 @@ $(document).ready(function(){
 </div>
     <div class="box">
   <div class="box-heading">Specials</div>
-  <div class="box-content">
+  <div class="box-content2">
   <table style="width: 100% font-family: " lucida="" grande",="" "lucida="" sans="" unicode",="" "helvetica",="" "arial",="" "verdana";"="">
             <tbody><tr>
 	  <td>
-                <a href="http://opencartguru.com/credit-europe"><img src="http://image.opencartguru.com/cache/data/credit-europe-bank-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Credit Europe (3D Hosting Pay) Integration (OpenCart)"></a>
+                <a href="http://opencartguru.com/option-based-tax"><img src="http://image.opencartguru.com/cache/data/option_based_tax_admin-120x120.png" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Option Based Taxes (OpenCart)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/credit-europe">Credit Europe (3D Hosting Pay) Integration (OpenCart)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  <span style="color: #ff0000; text-decoration:line-through;">$60.00</span> <span class="price-new">$50.00</span>
-          </span>
-                        <div class="rating"><img src="catalog/view/theme/default/image/stars-5.png" alt="Based on 1 reviews."></div>
-        </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/virtual-merchant"><img src="http://image.opencartguru.com/cache/data/virtual_merchant_logo-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="My Virtual Merchant / Elavon Integration (OpenCart)"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/virtual-merchant">My Virtual Merchant / Elavon Integration (OpenCart)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  <span style="color: #ff0000; text-decoration:line-through;">$45.00</span> <span class="price-new">$40.00</span>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/option-based-tax">Option Based Taxes (OpenCart)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$25.00</span> <span class="price-new">$20.00</span>
           </span>
                 </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/purchase_order"><img src="http://image.opencartguru.com/cache/purchase_order_catalog-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Purchase Order Payment Module (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/hkpost"><img src="http://image.opencartguru.com/cache/data/hkpostlogo-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Hong Kong Post (EMS) Integration (OpenCart)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/purchase_order">Purchase Order Payment Module (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  <span style="color: #ff0000; text-decoration:line-through;">$10.00</span> <span class="price-new">$5.00</span>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/hkpost">Hong Kong Post (EMS) Integration (OpenCart)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$50.00</span> <span class="price-new">$45.00</span>
           </span>
                 </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/secure-hosting"><img src="http://image.opencartguru.com/cache/data/securehostinglogo-38x38.gif" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="SecureHosting Payment Integration"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/secure-hosting">SecureHosting Payment Integration</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  <span style="color: #ff0000; text-decoration:line-through;">$65.00</span> <span class="price-new">$45.00</span>
-          </span>
-                </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/skipjack"><img src="http://image.opencartguru.com/cache/data/skipjack_1-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Skipjack Payment Integration (OC)"></a>
+                <a href="http://opencartguru.com/skipjack"><img src="http://image.opencartguru.com/cache/data/skipjack_1-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Skipjack Payment Integration (OC)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
         <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/skipjack">Skipjack Payment Integration (OC)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  <span style="color: #ff0000; text-decoration:line-through;">$65.00</span> <span class="price-new">$45.00</span>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$65.00</span> <span class="price-new">$50.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 1 reviews."></div>
+        </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/realex"><img src="http://image.opencartguru.com/cache/data/realex-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="RealEx Redirect Payment Integration"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/realex">RealEx Redirect Payment Integration</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$45.00</span> <span class="price-new">$40.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 1 reviews."></div>
+        </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/bundle_payson"><img src="http://image.opencartguru.com/cache/data/payson_combo-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Payson Bundle (AgentInstallation + Faktura/API) OpenCart"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/bundle_payson">Payson Bundle (AgentInstallation + Faktura/API) OpenCart</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$65.00</span> <span class="price-new">$60.00</span>
+          </span>
+                </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/ippay"><img src="http://image.opencartguru.com/cache/data/ippay_logo-120x120.png" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="IPPay Payment Integration (OpenCart)"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/ippay">IPPay Payment Integration (OpenCart)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$55.00</span> <span class="price-new">$45.00</span>
           </span>
                 </td></tr>
       </tbody></table>
@@ -265,112 +306,126 @@ $(document).ready(function(){
     <div class="box">
 
   <div class="box-heading">Express Checkout</div>
-  <div class="box-content">
+  <div class="box-content" style="text-align:center;">
 
 <a id="ppx" href="https://opencartguru.com/index.php?route=payment/paypal_express/SetExpressCheckout"><img src="catalog/view/theme/default/image/EC-button.gif" alt="Paypal Express"></a>
 
   </div>
 </div>    <div class="box">
   <div class="box-heading">Bestsellers</div>
-  <div class="box-content">
+  <div class="box-content2">
   <table style="width: 100% font-family: " lucida="" grande",="" "lucida="" sans="" unicode",="" "helvetica",="" "arial",="" "verdana";"="">
             <tbody><tr>
 	  <td>
-                <a href="http://opencartguru.com/login_sidebox"><img src="http://image.opencartguru.com/cache/loginsidebox-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Login Sidebox Module (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/cardsave_hosted"><img src="http://image.opencartguru.com/cache/cardsave-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Cardsave (Hosted) (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/login_sidebox">Login Sidebox Module (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $0.00          </span>
-                        <div class="rating"><img src="catalog/view/theme/default/image/stars-5.png" alt="Based on 1 reviews."></div>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/cardsave_hosted">Cardsave (Hosted) (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$35.00</span>
+          </span>
+                </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/restricted_cats"><img src="http://image.opencartguru.com/cache/SpraypaintRestrictedAccess-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Restrict By Customer Group (OpenCart Addon)"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/restricted_cats">Restrict By Customer Group (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$15.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 2 reviews."></div>
         </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/allprod"><img src="http://image.opencartguru.com/cache/catalog_allproducts-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="All Products w/Products per Page (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/opt_price_update"><img src="http://image.opencartguru.com/cache/optpriceupd-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Option Price Update (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/allprod">All Products w/Products per Page (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $0.00          </span>
-                </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/offline_credit_card"><img src="http://image.opencartguru.com/cache/credit_card_terminal_1-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Offline Credit Card (OpenCart Addon)"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/offline_credit_card">Offline Credit Card (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $15.00          </span>
-                        <div class="rating"><img src="catalog/view/theme/default/image/stars-5.png" alt="Based on 4 reviews."></div>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/opt_price_update">Option Price Update (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$10.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 3 reviews."></div>
         </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/theme_switcher"><img src="http://image.opencartguru.com/cache/themeswitcher-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Theme Switcher (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/aim_live_chat"><img src="http://image.opencartguru.com/cache/catalog_aimlivechat-120x120.JPG" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="AIM Live Chat Module (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/theme_switcher">Theme Switcher (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $0.00          </span>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/aim_live_chat">AIM Live Chat Module (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$7.00</span>
+          </span>
                 </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/cms"><img src="http://image.opencartguru.com/cache/admin_cms_articles_1-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Content Management System (CMS) (OpenCart Addon)"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/cms">Content Management System (CMS) (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $15.00          </span>
-                </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/rss_gbase"><img src="http://image.opencartguru.com/cache/rss-icon-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="RSS+GoogleBase Feed (OpenCart Addon)"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/rss_gbase">RSS+GoogleBase Feed (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $6.00          </span>
-                </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/newsletter"><img src="http://image.opencartguru.com/cache/data/newsletter_catalog-38x38.png" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Newsletter Module (OpenCart Addon)"></a>
-        </td>
-		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/newsletter">Newsletter Module (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $10.00          </span>
-                </td></tr>
-            <tr>
-	  <td>
-                <a href="http://opencartguru.com/zone_plus"><img src="http://image.opencartguru.com/cache/data/zoneplus_map-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Zone Plus Shipping (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/zone_plus"><img src="http://image.opencartguru.com/cache/data/zoneplus_map-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Zone Plus Shipping (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
         <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/zone_plus">Zone Plus Shipping (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $20.00          </span>
-                        <div class="rating"><img src="catalog/view/theme/default/image/stars-5.png" alt="Based on 1 reviews."></div>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$25.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 2 reviews."></div>
         </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/jcar_product"><img src="http://image.opencartguru.com/cache/catalog_jcarousel-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="jCarousel.Product (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/firstdata_api"><img src="http://image.opencartguru.com/cache/FD_3C  jpeg-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="FirstData Global Gateway / Linkpoint API (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/jcar_product">jCarousel.Product (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $5.00          </span>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/firstdata_api">FirstData Global Gateway / Linkpoint API (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$45.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 1 reviews."></div>
+        </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/fedex_wsdl"><img src="http://image.opencartguru.com/cache/data/fedex_logo-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="FedEx Live Rates (wsdl) (OpenCart)"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/fedex_wsdl">FedEx Live Rates (wsdl) (OpenCart)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$40.00</span>
+          </span>
                 </td></tr>
             <tr>
 	  <td>
-                <a href="http://opencartguru.com/shipping_by_product"><img src="http://image.opencartguru.com/cache/shipping_boxes-38x38.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Shipping By Product (OpenCart Addon)"></a>
+                <a href="http://opencartguru.com/can_post"><img src="http://image.opencartguru.com/cache/1801223-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Canada Post Live Rates (OpenCart Addon)"></a>
         </td>
 		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
-        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/shipping_by_product">Shipping By Product (OpenCart Addon)</a><br>
-        		<span style="font-weight: bold; color: #0066cc;">
-                  $20.00          </span>
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/can_post">Canada Post Live Rates (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$35.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 1 reviews."></div>
+        </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/authorize_net_aim"><img src="http://image.opencartguru.com/cache/authorize_net_242353510-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Authorize.net (AIM) (OpenCart Addon)"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/authorize_net_aim">Authorize.net (AIM) (OpenCart Addon)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$25.00</span>
+          </span>
+                        <div class="rating"><img src="catalog/view/theme/octheme4/image/stars_5.png" alt="Based on 2 reviews."></div>
+        </td></tr>
+            <tr>
+	  <td>
+                <a href="http://opencartguru.com/trans_central_xml"><img src="http://image.opencartguru.com/cache/data/transaction_central-120x120.jpg" width="50" height="50" style="border: 1px solid #DBDEE1;" alt="Transaction Central XML Payment Module (OpenCart)"></a>
+        </td>
+		<td style="width: 100%; border-bottom: 1px solid #DBDEE1;">
+        <a style="text-decoration: none; color: #111; font-weight: bold;" href="http://opencartguru.com/trans_central_xml">Transaction Central XML Payment Module (OpenCart)</a><br>
+        		<span style="font-weight: bold; color: rgb(238, 49, 36);">
+                  <span class="price-old">$45.00</span>
+          </span>
                 </td></tr>
       </tbody></table>
   </div>
 </div>
   </div>
+			
 <div id="content">  <div class="breadcrumb">
         <a href="http://opencartguru.com/index.php?route=common/home">Home</a>
          » <a href="http://opencartguru.com/privacy">Privacy Policy</a>
@@ -386,61 +441,107 @@ We will never share your personal and private information with anyone, and any p
     <div class="right"><a href="http://opencartguru.com/index.php?route=common/home" class="button"><span>Continue</span></a></div>
   </div>
   </div>
-<div id="footer">
-  <div class="column">
-    <h3>Information</h3>
-    <ul>
-	<li><a href="https://opencartguru.com/index.php?route=account/newsletter">Newsletter</a></li>
-            <li><a href="http://opencartguru.com/faq">FAQ</a></li>
-            <li><a href="http://opencartguru.com/index.php?route=information/information&amp;information_id=14">Gateway Affiliate Discounts</a></li>
-            <li><a href="http://opencartguru.com/easypay">Paypal EasyPay</a></li>
-            <li><a href="http://opencartguru.com/about_us">About Us</a></li>
-            <li><a href="http://opencartguru.com/usage-license">Usage License</a></li>
-            <li><a href="http://opencartguru.com/privacy">Privacy Policy</a></li>
-            <li><a href="http://opencartguru.com/terms-and-conditions">Terms &amp; Conditions</a></li>
-            <li><a href="http://opencartguru.com/update_fees">Updates &amp; Fees</a></li>
-            <li><a href="http://opencartguru.com/video_tutorials">Video Tutorials</a></li>
-            <li><a href="http://opencartguru.com/module_compare">My Modules vs Others</a></li>
-            <li><a href="http://opencartguru.com/auto-lang-inclusion">Automatic Language Inclusion</a></li>
-            <li><a href="http://opencartguru.com/returns">Return Policy</a></li>
-          </ul>
-  </div>
-  <div class="column">
-    <h3>Customer Service</h3>
-    <ul>
-      <li><a href="http://opencartguru.com/index.php?route=information/contact">Contact Us</a></li>
-      <li><a href="https://opencartguru.com/index.php?route=account/return/insert">Returns</a></li>
-      <li><a href="http://opencartguru.com/index.php?route=information/sitemap">Site Map</a></li>
-	  <li><a href="https://opencartguru.com/index.php?route=account/account">My Account</a></li>
-      <li><a href="https://opencartguru.com/index.php?route=account/order">Order History</a></li>
-    </ul>
-  </div>
-  <div class="column">
-    <h3>Extras</h3>
-    <ul>
-      <li><a href="https://opencartguru.com/index.php?route=product/manufacturer">Brands</a></li>
-      <li><a href="https://opencartguru.com/index.php?route=checkout/voucher">Gift Vouchers</a></li>
-      <li><a href="https://opencartguru.com/index.php?route=affiliate/account">Affiliates</a></li>
-      <li><a href="http://opencartguru.com/index.php?route=product/special">Specials</a></li>
-	  <li><a href="https://opencartguru.com/index.php?route=account/wishlist">Wish List</a></li>
-    </ul>
-  </div>
-  <div class="column" style="width: 40%;">
-   <h3>About Us</h3><span>
-	Qphoric|Domain is the home of Qphoria, the lovable skamp!
 
-	I have spent a lot of time learning and working with many 3rd Party APIs as well as the OpenCart codebase and infrastructure.&nbsp; Modesty aside, there are few that know more about OpenCart than me, and even fewer that have the experience working with outside APIs for all the integration modules that I make.
-
-	I am often available..</span>  </div>
+<div style="width: 100%; clear: both; height: 3px;"></div>
 </div>
-<!-- 
+<div class="margindown"></div>
+</div> 
+ <div id="container2">
+ <div class="margintop"></div>
+ <div id="footer">
+    <div class="column">
+      <h3>Information</h3>
+      <ul>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/index.php?route=information/information&amp;information_id=14">
+			Gateway Affiliate Discounts</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/about-me">
+			About Me</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/webinstaller">
+			OpenCartGuru WebInstaller</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/privacy">
+			Privacy Policy</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/terms-and-conditions">
+			Terms &amp; Conditions</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/update_fees">
+			Updates &amp; Fees</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/video_tutorials">
+			Video Tutorials</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/module_compare">
+			My Modules vs Others</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/usage-license">
+			Usage License</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/auto-lang-inclusion">
+			Automatic Language Inclusion</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/easypay">
+			Paypal EasyPay</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/faq">
+			FAQ</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/quick">
+			Quick Shopper</a></li>
+                <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/returns">
+			Return Policy</a></li>
+              </ul>
+    </div>
+    <div class="column">
+      <h3>Customer Service</h3>
+      <ul>
+        <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/index.php?route=information/contact">
+			Contact Us</a></li>
+        <li><a href="https://opencartguru.com/index.php?route=account/return/insert">Returns</a></li>
+        <li>
+			<a rel="fancybox-info" class="fancybox-info" href="http://opencartguru.com/index.php?route=information/sitemap">
+			Site Map</a></li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>Extras</h3>
+      <ul>
+        <li><a href="https://opencartguru.com/index.php?route=product/manufacturer">Brands</a></li>
+        <li><a href="https://opencartguru.com/index.php?route=checkout/voucher">Gift Vouchers</a></li>
+        <li><a href="https://opencartguru.com/index.php?route=affiliate/account">Affiliates</a></li>
+        <li><a href="http://opencartguru.com/index.php?route=product/special">Specials</a></li>
+      </ul>
+    </div>
+    <div class="column">
+      <h3>My Account</h3>
+      <ul>
+        <li><a href="https://opencartguru.com/index.php?route=account/order">Order History</a></li>
+        <li><a href="https://opencartguru.com/index.php?route=account/wishlist">Wish List</a></li>
+        <li><a href="https://opencartguru.com/index.php?route=account/newsletter">Newsletter</a></li>
+      </ul>
+    </div>
+	  <div id="powered">Powered By <a href="http://www.opencart.com">OpenCart</a><br> OpenCartGuru.com © 2012</div>
+  </div>
+  <!-- 
 OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donatation.
 Please donate via PayPal to donate@opencart.com
 //-->
-<div id="powered">Powered By <a href="http://www.opencart.com">OpenCart</a><br> OpenCartGuru.com © 2011</div>
-<!-- 
+
+  <!-- 
 OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donatation.
 Please donate via PayPal to donate@opencart.com
 //-->
+<div class="margindown"></div>
 </div>
-</body></html>
+
+
+<script type="text/javascript"><!--
+$('.fancybox-info').fancybox({autoDimensions: false, autoScale: false,width:600,height:'auto'});
+//--></script>
+			
+			</body></html>
