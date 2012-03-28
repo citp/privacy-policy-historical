@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegiantsofmarketing.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123113112id_/http%3A//thegiantsofmarketing.com/start-here/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegiantsofmarketing.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328052039id_/http%3A//thegiantsofmarketing.com/start-here/privacy-policy) for the most accurate reproduction.*
 
-# The Giants of Marketing | Privacy Policy
+# Privacy Policy | The Giants of Marketing
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
