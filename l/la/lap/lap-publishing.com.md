@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011132107id_/https%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328095740id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
-# LAP Publishing - Imprint and Privacy Policy
+# LAP Publishing | Imprint and Privacy Policy
 
 ## Imprint:
 
 LAP LAMBERT Academic Publishing GmbH & Co. KG  
-Dudweiler Landstr. 99  
-66123 Saarbrücken  
+Heinrich-Böcking-Straße 6-8  
+66121 Saarbrücken  
 Germany
 
 Phone: +49 681 3720-310  
@@ -14,17 +14,19 @@ Fax: +49 681 3720-3109
 Email: info[at]lap-publishing.com
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRA 10752  
-Identification Number (Verkehrsnummer): 12917
+Identification Number (Verkehrsnummer): 12917  
+VAT Reg No: DE 815049910
 
 Partner with unlimited liability/Persönlich haftende Gesellschafterin: VDM Management GmbH
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 18918
 
-Managing directors/Geschäftsführer: Thorsten Ohm (CEO), Dr. Wolfgang Philipp Müller, Esther von Krosigk, Christoph Schulligen
+Managing directors/Geschäftsführer: Thorsten Ohm (CEO), Dr. Wolfgang Philipp Müller, Esther von Krosigk
 
-Responsible in accordance with Art. 10 par. 3 MDStV (German Interstate Agreement on Media Services): Dr. Wolfgang Philipp Müller
+Responsible person for content: Dr. Wolfgang Philipp Müller
 
-Website created by: LAP LAMBERT Academic Publishing GmbH & Co. KG, Dudweiler Landstr. 99, 66123 Saarbrücken, Germany
+Website created by: LAP LAMBERT Academic Publishing GmbH & Co. KG, Heinrich-Böcking-Straße 6-8  
+66121 Saarbrücken, Germany
 
 ## Legal notice:
 
@@ -57,10 +59,12 @@ By integrating the plugin, Facebook receives the information that a correspondin
 
 To find out the purpose and extent of the collection of data, the further processing and usage of your data by Facebook as well as your rights and possible settings in this regard to protect your privacy please consider the privacy statement of Facebook.
 
-Rights of Revocation concerning books of our portfolio: Customers may return the goods without stating reasons within two weeks after receipt of said goods. In lieu of a return consignment, the contract may also be revoked in writing. However, if the Customer is responsible for the goods being damaged or destroyed or if he or she is otherwise responsible for the goods not being able to be returned, he or she shall reimburse the Publisher for the depreciation or the value of the received goods.
+## Revoking the Contract
 
-## Notification of revocation should be addressed to:
+The contract can be revoked in written form (e.g. letter, fax or e-mail) within 14 days without giving explanation or – if the item has been delivered before deadline – by returning the item. The revocation term starts with receiving this instruction in written form, however not before the delivery of the item to the recipient (not before returning the same items and not before receiving the first part of the items) and not before the fulfillment of our mandatory obligations according to article 246, paragraph 2 in junction with paragraph 1, section 1 and 2 of the preamble of German Civil Code, as well as our obligations according to paragraph 312g, section 1, sentence 1 of the German Civil Code in junction with Article 246 paragraph 3 of the preamble of the German Civil Code. In order to retain the terms of revoking the contract, the contract’s revocation or the received item(s) must be sent or returned in due time. The revocation should be sent to:
 
-LAP LAMBERT Academic Publishing GmbH & Co. KG, Dudweiler Landstr. 99, 66123 Saarbrücken, Germany, Fax: +49 681 3720-3109, E-Mail: info[at]lap-publishing.com.
+LAP LAMBERT Academic Publishing GmbH & Co. KG, Heinrich-Böcking-Straße 6-8, 66121 Saarbrücken, Germany, Fax: +49 681 3720-3109, E-Mail: info[at]lap-publishing.com.
 
-In the event of cancellation the payments or services that have been received by each party must be returned. Where the cancellation right is exercised the Customer is obliged to return the goods. The Customer does not have to bear the costs of returning the goods. The Customer must pay compensation for the deterioration that has arisen as a result of utilisation of the goods in accordance with the regulations. The Customer may inspect the goods cautiously and carefully.
+## Effects of revocation
+
+In the event of an effective revocation, the mutual services received must be returned and the potential benefits (e.g. interest) must be re-compensated. If you do not return the value of services (for example the prerogative of usage), return it only partially or return it in a worsened state, you must compensate the value of the item or the service. You must compensate the value of damaged articles, used services and gains only if the use and damages have occurred as a result of the usage of the item that exceeds the examination of the properties and functions. The “examination of the properties and functions” refers to the testing and evaluation of the respective item in person as it would be possible and common in a store. Items sent as packages are to be sent back at our own risk. You must pay the cost of returning the item if the item received is the same as the item ordered and if the price of the item to be returned does not exceed EUR 40 or if – in the case of a higher price – at the time the revocation is declared, you have not paid for the item or made a partial payment as agreed in the contract. Otherwise, the returning of the item is free of charge. If the article cannot be sent as a package, it will be collected from your location. If the item is damaged, it must be replaced or reimbursed within 30 days. Your deadline period begins when you send the revocation or return the item, and ours begins when we receive it.
