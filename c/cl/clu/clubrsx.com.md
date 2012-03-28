@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127043222id_/http%3A//www.clubrsx.com/cr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328043419id_/http%3A//www.clubrsx.com/cr/privacy.html) for the most accurate reproduction.*
 
 # Club RSX.com: Privacy Policy
 
 Club RSX Privacy Policy
 
-The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Club RSX can be reached by telephone at 1-866-CLUB-RSX (1-866-258-2779). 
+The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Club RSX can be reached by telephone at 719-282-9887. 
 
 Information we collect and how it's used
 
