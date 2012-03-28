@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strat-talk.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419192049id_/http%3A//www.strat-talk.com/wp-strat/%3Fpage_id%3D1788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strat-talk.com privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328031831id_/http%3A//www.strat-talk.com/wp-strat/%3Fpage_id%3D1788) for the most accurate reproduction.*
 
 # Fender Stratocaster Guitar Forum
 
@@ -35,4 +35,15 @@ To protect the security of your Personal Information, STRAT-TALK.COM limits acce
 If you have any questions about our Privacy Policy, or if you believe STRAT-TALK.COM has not adhered to these principles, please contact us at: [webmaster@strat-talk.com](mailto:webmaster@strat-talk.com)
 
 _© 2006 – 2011 STRAT-TALK.COM – All Rights Reserved_   
+
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Current%20as%20of%20Febuary%201%2C%202011%0D%0A%0D%0ABecause%20protecting%20your%20privacy%20is%20very%20important%20to%20STRAT-TALK.COM%2C%20we%20have%20established%20this%20Privacy%20Policy%2C%20which%20explains%20what%20information%20we%20collect%20from%20our%20visitors%2C%20how%20we%20use%20that%20information%2C%20and%20how%20you%20can%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&srcTitle=Strat-Talk.com+ "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Strat-Talk.com+&summary=Current%20as%20of%20Febuary%201%2C%202011%0D%0A%0D%0ABecause%20protecting%20your%20privacy%20is%20very%20important%20to%20STRAT-TALK.COM%2C%20we%20have%20established%20this%20Privacy%20Policy%2C%20which%20explains%20what%20information%20we%20collect%20from%20our%20visitors%2C%20how%20we%20use%20that%20information%2C%20and%20how%20you%20can%20 "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.strat-talk.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
 
