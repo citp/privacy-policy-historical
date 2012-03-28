@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226153250id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328114920id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NoNumber! | Joomla! Extensions Directory
 
@@ -37,3 +37,7 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 ### Policy Changes, Questions & Comments
 
 We'll post changes to this policy on this page. Questions about this policy should be emailed via [the contact form or my email address](http://www.nonumber.nl/contact).
+
+[](http://tracking.maxcdn.com/c/11281/3967/378)
+
+[](http://www.ostraining.com/idevaffiliate/idevaffiliate.php?id=125_2_1_6)
