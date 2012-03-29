@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130012714id_/http%3A//www.parexel.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329213238id_/http%3A//www.parexel.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # PAREXEL International :: Privacy policy
 
@@ -17,6 +17,10 @@ The information you provide to us will be available to PAREXEL, its subsidiaries
 PAREXEL reserves the right to disclose all information collected to the extent required by law or to respond to judicial process. PAREXEL may also provide any or all collected information to a third party in connection with the sale, assignment, or other transfer of the business of the particular website to which the information relates if such third party agrees to treat all such information substantially in accordance with this Privacy Policy.
 
 PAREXEL takes reasonable measures to maintain the confidentiality of your personal information regardless of the country where such information is stored or transferred to.
+
+## E.U.-U.S. and Swiss-U.S. Safe Harbor Certification
+
+PAREXEL International Corporation (PAREXEL) complies with the U.S.-EU and Swiss-U.S. Safe Harbor Frameworks in connection with the collection, use, and retention of personal information from European Union member countries and Switzerland to its affiliates in the United States. PAREXEL has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement, for personal data pertaining to clinical research participants, patients, human resources, customers and suppliers, in any format. You can learn more about the Safe Harbor principles and PAREXEL’s additional obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: www.export.gov/safeharbor/. You can also view PAREXEL's Safe Harbor certification information through that site. If you have questions about PAREXEL's Safe Harbor practices under the E.U.-U.S. or Swiss-U.S. frameworks, or believe that your information has been mismanaged, you can contact PAREXEL’S U.S. Privacy Officer by writing to us at:  PAREXEL International Corporation, 195 West Street, Waltham, MA 02451, or by using the Contact Us link on this website.
 
 ## Cookies and Other Web Tracking Techniques And How We Use Them
 
@@ -57,4 +61,4 @@ PAREXEL International Corporation
 Att: Webmaster  
 195 West Street  
 Waltham, MA 02451  
-This Privacy Policy was last updated on July 1, 2011.
+This Privacy Policy was last updated on January 24, 2012.
