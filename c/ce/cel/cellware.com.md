@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellware.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071510id_/http%3A//www.cellware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellware.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329040838id_/http%3A//www.cellware.com/privacy) for the most accurate reproduction.*
 
 # Cellware Privacy Policy | Cellware
 
@@ -16,7 +16,7 @@ Some of our business partners or advertisers use cookies on our site. We have no
 
 In order to ensure continuity of your service, if Cellware is ever sold or all or substantially all of the assets relating to Cellware are transferred to another entity, we will transfer the information you have provided to the acquiring entity. You will be notified by an email sent to the email address that you have provided to us.
 
-Choice/Opt-Out – Our site provides users the opportunity to opt-out of receiving communications from us. Should a user decide at any time that he/she no longer wishes to receive communications, this site gives users the following options for eliminating service or no longer receiving communications. To optout, please send an email to [support@cellware.com](https://web.archive.org/web/20111102071510id_/http%3A//www.cellware.com/support@cellware.com) stating that you wish to cancel your account.
+Choice/Opt-Out – Our site provides users the opportunity to opt-out of receiving communications from us. Should a user decide at any time that he/she no longer wishes to receive communications, this site gives users the following options for eliminating service or no longer receiving communications. To optout, please send an email to [support@cellware.com](https://web.archive.org/web/20120329040838id_/http%3A//www.cellware.com/support@cellware.com) stating that you wish to cancel your account.
 
 Legal Disclaimer – We recognize and welcome our obligation to comply with the law and this policy is subject to that obligation. We will, therefore, disclose personally identifiable information in response to a request from law enforcement officials or as otherwise required by law, or if we believe it is necessary to protect someone’s safety, or enforce our Terms Of Service.
 
