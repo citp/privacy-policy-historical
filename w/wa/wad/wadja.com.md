@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230030145id_/http%3A//www.wadja.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadja.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329233207id_/http%3A//www.wadja.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
