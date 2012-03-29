@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005060129id_/http%3A//www.neoperl.net/dms-static/73588f31-4f22-4aa1-8e6c-dff51759ff7c/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329094358id_/http%3A//www.neoperl.net/dms-static/73588f31-4f22-4aa1-8e6c-dff51759ff7c/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
