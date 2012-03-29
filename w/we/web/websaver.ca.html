@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121023936id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2012-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120329091956id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -45,18 +45,20 @@
 	user = false;
 	userLoggedInViaFacebook = false; 
 	window.fbAsyncInit = function() {
-		FB.init({appId: '122979641112640', status: true, cookie: true});
+		FB.init({appId: '122979641112640', status: true, cookie: true, oauth: true});
 		if (!user){ // User is not logged in PHP side
 			FB.getLoginStatus(function(response) {
-				if (response.session) {	
+				if (response.authResponse) {	
+					//alert('log user IN..');
 					// User is logged into Facebook, reload page so he will be logged into PHP side				
 					window.location.href = window.location.href;
 				} 
 			});
 		} else if ( user && userLoggedInViaFacebook ){
 			FB.getLoginStatus(function(response) {
-				if (!response.session) {
+				if (!response.authResponse) {
 					// User is logged in on PHP side, but not on Facebook. Log user out
+					//alert('log user OUT..');
 					logout();
 				}
 			});
@@ -74,19 +76,18 @@
 			defaultURL = URL;
 		}
 		FB.login(function(response) {
-			if (response.session) {
-				if (response.perms) {
-					window.location.href = defaultURL;
-					// user is logged in and granted some permissions.
-					// perms is a comma separated list of granted permissions
-				} 
-			} 
-		}, {perms:'email'});
+			if (response.authResponse) {
+				window.location.href = defaultURL;
+				
+				// user is logged in and granted some permissions.
+				// perms is a comma separated list of granted permissions
+			}
+		}, {scope:'email'});
 	}
 	
-	function logout(){
+	function logout(){		
 		FB.getLoginStatus(function(response) {
-			if (response.session) {
+			if (response.authResponse) {
 				FB.logout(function(response){
 					window.location.href = "/php/actions/logout-action.php?locale=en_ca";
 				});
@@ -211,7 +212,10 @@
 
 			<p>SECURITY: 
 			We take steps to make all information received from you online as secure as reasonably possible against unauthorized access and use.</p>
-
+			
+			<p>MAILING:
+			Please note while we make every effort to ensure address accuracy and fulfillment into the postal service, we are not responsible for lost, late, misdirected, or damaged mail.  </p>
+			
 			<p>ACCESS TO YOUR INFORMATION AND COMPLAINTS: 
 			We attempt to keep your files complete, up-to-date, and accurate. You can conveniently access and modify your personal information though your profile. For email or username changes please <a href="/en_ca/coupons/login.php">sign in</a>.</p>
 
@@ -227,7 +231,7 @@
 			webSaver.ca may update or modify this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address you provided us during registration or by placing a prominent notice on our site.</p>
 
 			<p>HOW TO CONTACT US:
-			 webSaver.ca is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by clicking on this <a href="mailto:contactus@websaver.ca">link</a> or send a letter to: </p>
+			 webSaver.ca is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by clicking on this <a href="/en_ca/contactus/">link</a> or send a letter to: </p>
 			
 			<p><img src="/images/websaver_logo.gif" alt="webSaver.ca"><br>
 			420 McGill Suite 400 <br>
@@ -237,8 +241,8 @@
 			<p>Date of Last Revision: January 14, 2010</p>                
 		</div>
 		 <div id="footer">
-<span id="rights">©2011 webSaver.ca. All Rights Reserved</span> <br>
-<a href="/fr_ca/privacypolicy.php">Français</a> | <a href="/en_ca/termsandconditions.php">Terms &amp; Conditions</a> | <a href="/en_ca/privacypolicy.php">Privacy Statement</a> | <a href="/en_ca/sitemap.php">Site Map</a> | <a href="/unsubscribe/">Unsubscribe</a> | <a href="/en_ca/newsletters/">Newsletters</a> | <a href="/en_ca/faq.php">FAQ</a> | <a href="/en_ca/winners.php">Contest Winners</a> | <a target="_blank" href="http://corporate.websaver.ca">Corporate Site</a>
+<span id="rights">©2012 webSaver.ca. All Rights Reserved</span> <br>
+<a href="/fr_ca/privacypolicy.php">Français</a> | <a href="/en_ca/termsandconditions.php">Terms &amp; Conditions</a> | <a href="/en_ca/privacypolicy.php">Privacy Statement</a> | <a href="/en_ca/sitemap.php">Site Map</a> | <a href="/unsubscribe/">Unsubscribe</a> | <a href="/en_ca/newsletters/">Newsletters</a> | <a href="/en_ca/faq.php">FAQ</a> | <a target="_blank" href="http://corporate.websaver.ca">Corporate Site</a>
 
 </div>
 
@@ -254,7 +258,8 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-10302159-31']);
   _gaq.push(['_trackPageview']);
-
+   _gaq.push(['b._setAccount', 'UA-26479204-1']);
+   _gaq.push(['b._trackPageview']); 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
