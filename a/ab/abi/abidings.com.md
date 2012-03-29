@@ -1,21 +1,35 @@
-> *The following text is extracted and transformed from the abidings.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154442id_/http%3A//www.abidings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abidings.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329122831id_/http%3A//www.abidings.com/privacy%2520policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-> Privacy Policy for http://www.abidings.com
-> 
-> The privacy of our visitors to http://www.abidings.com is important to us.
-> 
-> At http://www.abidings.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.abidings.com, and how we safeguard your information.  We never sell your personal information to third parties.
-> 
-> Log Files  
->  As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
-> 
-> Cookies and Web Beacons  
->  We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
-> 
-> We also use third party advertisements on http://www.abidings.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-> 
-> You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+**What information do we collect?**
 
-[Share](http://www.facebook.com/sharer.php?u=http://www.abidings.com/privacy-policy&t=Privacy%20Policy)
+We collect information from you when you place an order. 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+You can opt out at any time from all future communications with us. **  
+**
