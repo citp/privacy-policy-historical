@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygadgetnews.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129201536id_/http%3A//mygadgetnews.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygadgetnews.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330015735id_/http%3A//mygadgetnews.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy & Terms Of Use |
+# Privacy Policy & Terms Of Use | MyGadgetNews
 
 MyGadgetNews.com, is committed to protecting your privacy when you visit our Web site. You can access MyGadgetNews.com and browse our site without disclosing any personal information. MyGadgetNews.com DOES NOT collect personal information about individuals, such as names, mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which MyGadgetNews.com will use it.
 
