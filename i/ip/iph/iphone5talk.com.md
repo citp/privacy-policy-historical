@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphone5talk.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153113id_/http%3A//www.iphone5talk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphone5talk.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329101739id_/http%3A//www.iphone5talk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : iPhone 5 News
 
