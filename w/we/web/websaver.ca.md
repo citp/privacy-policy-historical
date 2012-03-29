@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121023936id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329091956id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.*
 
 # webSaver.ca - Privacy Policy
 
@@ -26,6 +26,8 @@ CHILDREN'S PRIVACY: We take care to protect children's privacy, and abide by nat
 
 SECURITY: We take steps to make all information received from you online as secure as reasonably possible against unauthorized access and use.
 
+MAILING: Please note while we make every effort to ensure address accuracy and fulfillment into the postal service, we are not responsible for lost, late, misdirected, or damaged mail. 
+
 ACCESS TO YOUR INFORMATION AND COMPLAINTS: We attempt to keep your files complete, up-to-date, and accurate. You can conveniently access and modify your personal information though your profile. For email or username changes please [sign in](https://web.archive.org/en_ca/coupons/login.php).
 
 We are committed to working with you to obtain a fair and rapid resolution of any complaints or disputes about privacy. Questions regarding our Privacy Statement should be directed to [webSaver.ca inquiries](mailto:inquiry@websaver.ca).
@@ -36,7 +38,7 @@ YOUR ACCEPTANCE OF OUR PRIVACY PRACTICE: By using this website or any other webS
 
 CHANGES TO THIS POLICY: webSaver.ca may update or modify this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address you provided us during registration or by placing a prominent notice on our site.
 
-HOW TO CONTACT US: webSaver.ca is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by clicking on this [link](mailto:contactus@websaver.ca) or send a letter to: 
+HOW TO CONTACT US: webSaver.ca is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by clicking on this [link](https://web.archive.org/en_ca/contactus/) or send a letter to: 
 
   
 420 McGill Suite 400   
