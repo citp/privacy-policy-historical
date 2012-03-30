@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127130142id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330204823id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
 
 # YOU Broadband & Cable India Limited: Leading High Speed Broadband Internet Service provider in India. Super Fast Connection.
 
-You Broadband  
+You Broadband
+
+| [](http://youbroadband.in/) |   
+---|---  
+  
 | Privacy  
 ---  
 What This Privacy Policy Covers  
