@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224145044id_/http%3A//www.myotcstore.com/store/pg/6-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americarx.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330081037id_/http%3A//www.myotcstore.com/store/pg/6-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
+
+[](https://web.archive.org/store/pg/11-faq.aspx)
+
+  
+
+
+| 
 
 **[Home](http://www.myotcstore.com/index.html) » Privacy Policy**
 
@@ -41,4 +50,6 @@ We welcome your feedback. If you have questions or comments about our privacy po
 
 Thank You for visiting this page and wish you Happy Shopping Experience. You can always reach us by using our Toll-Free Help.
 
-* If we ever change our privacy policy, we will post any changes on this page so that you are always aware of the information that we collect, and how we use it.
+* If we ever change our privacy policy, we will post any changes on this page so that you are always aware of the information that we collect, and how we use it.  
+  
+---|---
