@@ -1,0 +1,2781 @@
+<!--The following is the downloaded HTML source of the morth.nic.in privacy policy that was archived on 2012-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120330122452id_/http%3A//morth.nic.in/index1.asp%3Flang%3D1%26linkid%3D77%26lid%3D456) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en-gb" dir="ltr"><head><script type="text/javascript">
+var myval=escape(location.href);
+
+	
+	if(myval.toLowerCase().search("script")!="-1" || myval.search("script")!="-1")
+	{
+		location.href="message.asp?id=invalid"
+	}
+	
+		if(myval.toLowerCase().search("alert")!="-1" || myval.search("alert")!="-1")
+	{
+		location.href="message.asp?id=invalid"
+	}
+	
+</script>
+
+
+<script type="text/javascript">
+function RefAll()
+{
+	window.parent.location="main1.asp"
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+	function chkLat(link)
+	{
+		//alert(link)
+		var x
+		var ret=0
+		//x=link.split(".")
+		x=link
+		//if(x[1].indexOf("?")>=0)
+		if(x.indexOf("?")>=0)
+		{
+			//var x1=x[1].split("?")
+			var x1=x.split("?")
+			if(x1[1]=="")
+			{
+			 ret=1
+			}
+			else
+			{
+			 ret=0
+			}
+		}
+		else
+		{
+		ret =1
+		}
+		return ret
+	}
+	function chkLink(val,tokName)
+	{
+		//alert("hello")
+		var x
+		for(i=0;i<=document.links.length-1;i++)
+		{
+			//alert(document.links[i].href)
+			if(document.links[i].href=="")
+			{
+				//alert("hello")
+				document.links[i].href="#";
+			}
+			else
+			{
+				var lowerHref=document.links[i].href.toLowerCase();
+				if(lowerHref.indexOf("javascript:")>=0)
+				{
+					if(lowerHref.indexOf("javascript:showdeg")<0 && lowerHref.indexOf("javascript:show")<0 && lowerHref.indexOf("javascript:hide")<0)
+					{
+						var totLength=document.links[i].href.length;
+						var StLen=lowerHref.indexOf("javascript:");
+						var SttoLen=lowerHref.indexOf("('");
+						var EnFrLen=lowerHref.indexOf("')");
+
+						var FPart=document.links[i].href.substr(lowerHref.indexOf("javascript:"),(lowerHref.indexOf("('")+2));
+						var EPart=document.links[i].href.substr(lowerHref.indexOf("')"),document.links[i].href.length)
+						var MPart=document.links[i].href.substr((lowerHref.indexOf("('")+2),((lowerHref.indexOf("')")-(lowerHref.indexOf("('")+2))));
+						x=chkLat(MPart);
+						//alert(x)
+						if(x==1)
+						{
+							MPart=MPart+"?"+tokName+"="+val;
+						}
+						else
+						{
+							MPart=MPart+"&"+tokName+"="+val;
+						}
+						var totLink=FPart+MPart+EPart;
+						//alert(totLink)
+						document.links[i].href=totLink;
+					}
+				}
+				else
+				{
+					x=chkLat(document.links[i].href)
+					if(x==1)
+					{
+						document.links[i].href=document.links[i].href+"?"+tokName+"="+val;
+					}
+					else
+					{
+						document.links[i].href=document.links[i].href+"&"+tokName+"="+val;
+					}
+				}
+			}
+		}
+	}
+	function chkForm(val,tokName)
+	{
+	var x
+	for(i=0;i<document.forms.length;i++)
+	{
+
+		x=chkLat(document.forms[i].action)
+		if(x==1)
+		{
+			document.forms[i].action=document.forms[i].action+"?"+tokName+"="+val
+		}
+		else
+		{
+			document.forms[i].action=document.forms[i].action+"&"+tokName+"="+val
+		}
+	}
+
+}
+</script>
+
+
+
+
+
+
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+    <meta name="author" content="">
+	<meta name="description" content="Privacy Policy">
+	<meta name="keywords" content="Ministry, Road, Transport, Highway, MORTH">
+	<title>Privacy Policy - Ministry of Road Transport &amp; Highways, Government of India</title>
+<style type="text/css">
+body{
+     width: 100%;
+     background-image: url(images/bg.gif);
+	 background-repeat:repeat-x;
+	 height: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: auto;
+	 margin-top: auto;
+	
+}
+.photogallery
+{
+      width: 100%;
+	  height: auto;
+	  float:left;
+	  text-align:left;
+	  }
+.bg{
+     width: 97%;
+	background-color:#ffffff;
+	 margin-top: 1%;
+	
+ 	 }
+.top{
+     width: 100%;
+     height: auto;
+     float: left;
+     
+}
+     
+.emblem{
+     width:auto;
+     height: auto;
+     float: left;
+     margin-left: 1%;
+ }
+.banner{
+       width: 50%;
+       height: auto;
+       float: left;
+       text-align:left;
+}      
+.skip_bg{
+       width: 98%;
+       height: auto;
+	background-image: url(images/skip.gif);
+       
+       float: right;
+       text-align:right;
+       margin-right: 1%;
+       vertical-align:top;
+     }
+ 
+.text1{
+       font-size: 12px;
+       color: #000000;
+       font-family: verdana;
+       float: left;
+       font-weight: bold;
+       margin-left: 1%;
+      
+      }
+.linksubbul
+{
+    width:3%; 
+    float:left; 
+    height:20px; 
+    
+    margin-left:20px;
+	
+}      
+	  a.text1{
+       font-size: 12px;
+       color: #000000;
+       font-family: verdana;
+       float: left;
+       font-weight: bold;
+       
+      
+      }
+	 a.text1:hover{
+       font-size: 12px;
+       color:#d01818;
+       font-family: verdana;
+       float: left;
+       font-weight: bold;
+       margin-left: 1%;
+      
+      }
+.left{
+      width: 236px;
+      height: 153px;
+      border: 0px solid #6daad8;
+      float: left;
+	background-color:#ffffff;
+} 
+.url{
+      width: 99%;
+      background-image: url(images/url_bg.gif); 
+      background-repeat: repeat;
+      height: 17px;
+      float: left;
+      margin-left: 0.5%;
+      margin-top: 0.5%;
+}
+.mainbottom{
+       width: 100%;
+       height: 323px;
+       float: left;
+       
+       }
+.box1{
+       width: 33%;
+       height: 190px;
+       float: left;
+       background-color: #eff3f6;
+       margin-left: 2px;
+       margin-top: 0.5%;
+	   
+} 
+.box2{
+       width: 100%;
+       height:31px;
+       float: left;
+       background-color: #ffffff;
+       border: 1px solid #d2dbe2;
+       }
+.bullet{
+        width:10%;
+        height: auto;
+       float: left;
+        margin-top: 2%;
+        margin-left:2%;
+		 text-align:left;		
+        }
+.bulletright{
+        width:10%;
+        height: auto;
+        margin-top: 2%;
+        margin-left: 12%;
+		
+        }
+.bullet1{
+        width:5%;
+        height: auto;
+        float: left;
+        margin-top:6px; 
+        margin-left:8%;
+        }
+.toplinks{
+         width:85%;
+		 font-family:Verdana;
+		 font-size:12px;
+		 color: #727070;
+		 height: 20px;
+		 margin-top:2%;
+		 float:left;
+		 text-align:left;
+		 font-weight:bold;
+		 
+		 }
+		 
+a.toplinks1{
+         width:75%;
+		 font-family:Verdana;
+		 font-size:12px;
+	color:#000000;		 
+		 height: 20px;
+		 margin-top:2%;
+		  float:left;
+		  font-weight:bold;
+		  text-decoration:none;
+		 }
+a.toplinks1:hover{
+         width:75%;
+		 font-family:Verdana;
+		 font-size:12px;
+		 color: #d40d0d;
+		 height: 20px;
+		 margin-top:2%;
+		  float:left;
+		  font-weight:bold;
+		    text-decoration:none;
+		 }
+.sublink{
+        font-family:Verdana;
+		font-size:12px;
+		color: #000000;
+		font-weight: normal;
+		margin-top:1%;
+		width:80%;
+		text-align:left;
+		text-align:justify;
+		height:auto;
+		}
+		
+.linksublink
+{
+    width:90%; 
+    height:15px;
+    margin-bottom:10px;
+}		
+
+a.sublink1
+{
+        font-family:Verdana;
+		font-size:11px;
+		color: #000000;
+		font-weight: normal;
+		 text-decoration:none;
+		}
+		a.sublink1:hover{
+        font-family:Verdana;
+		font-size:11px;
+		color:#d01818;
+		font-weight: normal;
+	 text-decoration:none;
+	
+		
+		text-align:justify;
+		}
+.mainlinktext{
+        font-size: 19px;
+        font-family: verdana;
+        font-weight: bold;
+        color: #134988;
+        text-align: center;
+        float	: left;
+        margin-top: 1%;
+}
+a.mainlinktext1{
+font-size: 14px;
+    font-family: verdana;
+    font-weight: bold;
+color: #134988;
+        
+        text-align: center;
+        float: left;
+		text-decoration: none;
+        margin-top: 2%;
+}
+
+a.mainlinktext1:hover{
+        font-size: 14px;
+        font-family: verdana;
+        font-weight: bold;
+        color: #d01818;
+        text-align: center;
+        float	: left;
+        margin-top: 2%;
+		text-decoration:none;
+}
+
+.right{
+        width:100%;
+		height:100%;
+		float:left;
+		
+		}
+
+.leftlinks{
+        width:100%;
+		height:100%;
+		float:left;
+		
+		}
+.mainbottom1{
+         width: 97%;
+         margin-left: 0%;
+         border: 1px solid #d6dfe6;
+         float: left;
+         height: 117px;
+         margin-top: 1%;
+
+         }
+.mainlinktext
+{
+          width:65%;
+          color: #000000;
+          font-family: verdana;
+          font-size: 12px;
+          font-weight: normal;
+          margin-left: 1%;
+          margin-top: 1%;
+          float: left;
+          padding-bottom:5px;
+		 text-align:left;
+}
+.sublinktext{
+          width:65%;
+          color:#6397D0;
+          font-family: verdana;
+          font-size: 12px;
+          font-weight: normal;
+          margin-left: 1%;
+          margin-top: 1%;
+          float: left;
+          padding-bottom:5px;
+		 text-align:left;
+		/* border-bottom:1px solid;*/
+}
+.leftsublinktext{
+          width:88%;
+          color:#155ba9;
+          font-family: verdana;
+          font-size: 12px;
+          font-weight: normal;
+          margin-left: 1%;
+          margin-top: 1%;
+          float: left;
+          padding-bottom:5px;
+		 text-align:left;
+		/* border-bottom:1px solid;*/
+}
+         a.sublinktext1{
+         
+          text-align: justify;
+          color:#6397D0;
+          font-family: verdana;
+          font-size: 12px;
+          font-weight: normal;
+         text-decoration:none;
+          float: left;
+		 
+}
+          a.sublinktext1:hover{
+        
+          text-align: justify;
+          color: #d01818;
+          font-family: verdana;
+          font-size: 12px;
+          font-weight: normal;
+         text-decoration:none;
+          float: left;
+		 
+}
+.line{
+       width:1px;
+       height: 100%;
+       background-image: url(images/line.gif);
+       float: left;
+       margin-top: 2%;
+	   margin-left:2%;
+}
+.leftline{
+       width:1px;
+       height:720px;
+       background-image: url(images/line.gif);
+       float: right;
+       margin-top: 2%;
+	   margin-left:2%;
+}
+.leftlinehome{
+       width:1px;
+       height:500px;
+       background-image: url(images/line.gif);
+       float: right;
+       margin-top: 2%;
+	   margin-left:2%;
+}
+.footer
+{
+	clear: both;
+	text-align: center;
+	   background-color: #cfd9e0;
+	   	
+	border:1px solid #8ba1b0;
+	height: 31px;
+}
+.footertext{
+	   font-family: verdana;
+	   font-size:10px;
+	   font-weight: normal;
+	   
+	   float:left;
+	   
+	   text-align:center;
+	   margin-top: 2px;
+	   width:100%;
+	   }
+	   a.footertext1{
+	   font-family: Verdana;
+	   font-size: 10px;
+	   font-weight: normal;
+	    color:#000000;
+       text-align: center;
+       margin-left:5px;
+        
+	   }
+	   a.footertext1:hover{
+	  
+       font-family: Verdana;
+	   font-size: 10px;
+	   font-weight: normal;
+	   color: #d01818;
+       text-align: center;
+       margin-left:5px;
+        
+
+	   }
+.more{
+    width:100%;
+	text-align:right;
+	color:#830a0a;
+	font-family: verdana;
+    font-size: 12px;
+    font-weight: normal;
+}   
+a.more1{
+    width:100%;
+	text-align:right;
+	color:#830a0a;
+	font-family: verdana;
+    font-size: 12px;
+    font-weight: normal;
+	text-decoration:none;
+}  
+a.more1:hover{
+    width:100%;
+	text-align:right;
+	color:#d01818;
+	font-family: verdana;
+    font-size: 12px;
+    font-weight: normal;
+	text-decoration:none;
+} 
+BODY TD
+{
+    FONT-SIZE: 10pt;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+BODY A
+{
+    FONT-SIZE: 12px;
+
+	color:#191970;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+
+.upoverbar
+{
+    font-size: 12px;
+	color:#ffffff;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+	border: 1px solid #000000;
+}
+.upoverbar:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #d01818;
+    FONT-FAMILY: Verdana;
+	 TEXT-DECORATION: none;
+}
+
+BODY li.sublink
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Verdana;
+	TEXT-DECORATION: none;
+}
+
+:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #d01818;
+    FONT-FAMILY: Verdana; 
+	TEXT-DECORATION: none;
+}
+.up
+{
+     font-family: verdana;
+     font-size: 12px;
+     font-weight: bold;
+     color: #ffffff; 
+	
+	 text-align:left;
+	 TEXT-DECORATION: none;
+	color:#ffffff;
+}
+.up:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffd700;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+.skip
+{
+    font-size: 12px;
+    COLOR: #043288;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+.skip:hover
+{
+    font-size: 12px;
+    COLOR: #d01818;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;
+}
+
+.uplinks
+{
+    font-size: 12px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana; TEXT-DECORATION: none;;
+}
+.uplinks:hover
+{
+    font-size: 12px;
+    COLOR: #ffd700;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+.leftlinks:hover
+{
+    FONT-SIZE: 12px;
+    COLOR: #d01818;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+.leftlinks
+{
+    FONT-SIZE: 12px;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+.bottomlinks:hover
+{
+    FONT-SIZE: 12px;
+	color:#ffd700;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+.bottomlinks
+{
+    font-size: 12px;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+	color:#ffffff;
+}
+BODY DIV
+{
+    FONT-SIZE: 10pt;
+	color: #000000;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+
+BODY font
+{
+	
+}
+BODY SPAN
+{
+    FONT-SIZE: 10pt;
+	
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+BODY P
+{
+    FONT-SIZE: 10pt;
+    ;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+}
+body div.leftscript
+{
+    FONT-WEIGHT: bolder;
+    margin-left : 1px;
+    FONT-SIZE: 16pt;
+    border: 1px solid #d01818;
+	width:195px;
+    FONT-FAMILY: 'Times New Roman';
+    TEXT-DECORATION: none;
+	text-align: left;
+
+}
+body li.linkscript
+{
+    font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #002859;
+    float: left;
+	font-style: normal;
+    height: auto;
+    margin-top: 2px;
+}
+body li.linkscript a
+{
+    width:80%;
+	float: left;
+	margin-top: 5px;
+}
+BODY DIV.linkheader
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 14pt;
+	color:#00539b;
+    FONT-STYLE: italic;
+    FONT-FAMILY: verdana;
+    TEXT-DECORATION: none;
+	text-align: left;
+	}
+#header h1
+{
+margin: 0;
+}
+h1
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 14pt;
+    FONT-STYLE: italic;
+    FONT-FAMILY: verdana;
+    TEXT-DECORATION: none;
+    text-align: left;
+    margin-left: 6px;
+	color:#00539b;
+}
+#navigation
+{
+	float: left;
+	width: 948px;
+	text-align:center;
+	background-image: url(images/uplinks_bg.jpg);
+}
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+	text-align:center;
+}
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+	text-align:center;
+}
+#navigation li a
+{
+	display: block;
+	float: left;
+	text-align:center;
+	padding: 5px 10px;
+	color:#ffffff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+#navigation li a:hover
+{
+	background: #383;
+}
+#container
+{
+
+    border:15px solid blue;
+	margin: 0 auto;
+	width: 97%;
+	float:left;
+	text-align:LEFT;
+	background-color: #ffffff;
+}
+#pgcontent-container1
+{
+	float: left;
+	width: 100%;
+	background-image: url(images/pgmain_bg.jpg);
+}
+#content-container2
+{
+	float: left;
+	width: 948px;
+	height: 91%;
+}
+#section-navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+/*
+#section-navigation ul li
+{
+	margin: 0 0 1em;
+	padding: 0;
+	list-style-type: none;
+}
+*/
+BODY P
+{
+    FONT-SIZE: 10pt;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none;
+	
+}
+BODY LABEL
+{
+	
+}
+#cmscontent {
+    font-family: Verdana;
+	font-size: 11px;
+	;
+	font-weight: normal;
+	float: left;
+	width: 100%;
+    text-align:left;
+
+}
+.hindlink
+{
+    FONT-SIZE: 12pt;
+    FONT-WEIGHT: bolder;
+	color:#ffffff;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+BODY A.hindlink:hover
+{
+    FONT-SIZE: 12px;
+    FONT-WEIGHT: bolder;
+	COLOR: #d01818;
+    FONT-FAMILY: Verdana;
+    TEXT-DECORATION: none
+}
+.upmain{
+         width:100%;
+         height: auto;
+} 
+#urlbar
+{
+	
+	width: 100%;
+	padding-bottom:5px;
+	float:left;
+	background-image: url(images/urlpath_bg.jpg);
+}
+#content1
+{
+	margin-left:10px;
+	float: left;
+	
+	 width:75%;
+}
+#lastup
+{ 
+	float:right;
+	color:#6397D0;	
+}
+#section-navigation
+{
+	float: left;
+	width: 20%;
+	margin-bottom:20px;
+}
+#content-container1
+{
+	float: left;
+	width: 100%;
+	height: 55%;
+	background-image: url(images/main_bg.jpg);
+}
+#urlpathbar
+{ 
+	  width: 99%;
+      background-image: url(images/url_bg.gif); 
+      background-repeat: repeat;
+      height: 17px;
+      float: left;
+      margin-left: 0.5%;
+      margin-top: 0.5%;
+}
+#noprint 
+{display:none;
+visibility:hidden;
+}
+
+
+#marqueecontainer{
+position: relative;
+width: 100%; /*marquee width */
+height: 150px; /*marquee height */
+background-color: white;
+overflow: hidden;
+border: 1px solid #aaaaaa;
+padding: 2px;
+padding-left: 1px;
+}
+
+#marqueecontainer1{
+position: relative;
+width: 100%; /*marquee width */
+height: 150px; /*marquee height */
+background-color: white;
+overflow: hidden;
+border: 1px solid #aaaaaa;
+padding: 2px;
+padding-left: 1px;
+}
+
+.clear 
+{
+	clear:both
+}
+
+#gallery 
+    {
+	position:relative;
+	height:160px
+    }
+	#gallery a 
+	{
+		float:left;
+		position:absolute;
+	}
+	#gallery a img 
+	{
+		border:none;
+	}
+	
+	#gallery a.show 
+	{
+		z-index:500
+	}
+	#gallery .caption 
+	{
+		z-index:600; 
+		background-color:#000; 
+		color:#ffffff; 
+		height:30px; 
+		width:100%; 
+		position:relative;
+		bottom:0;
+	}
+
+	#gallery .caption .content {
+		margin:5px
+	}
+	
+	#gallery .caption .content h3 {
+		margin:0;
+		padding:0;
+		font-size:14px;
+		color:#ffffff;
+		text-align:center;
+	}
+
+.menu1LEFT{
+      background-color:#ffffff;
+      padding-left:5px;
+      padding-top:2px;
+      padding-bottom: 2px;
+      display:block;
+      text-decoration: none;
+      color: #000000;
+      height: auto;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:12px;
+       
+      border-bottom:dotted 1px #1D52B2;
+      text-align:left;
+}
+
+.imglev1LEFT{
+      background-color:#FFFFFF;
+      color: #000000;
+      height: auto;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:12px;
+      border-bottom:dotted 1px #1D52B2;
+}
+
+ .menu2LEFT{
+      background-color:#EBEBEB;
+      display: block;
+      height: auto;
+      padding-top: 2px;
+      padding-left: 15px;
+      color: #333333;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:10px;
+      
+      border-bottom:dotted 1px #1D52B2;
+      text-align:left;
+}
+
+.imglev2LEFT{
+      background-color:#EBEBEB;
+      display: block;
+      height: auto;
+      color: #333333;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:10px;
+      border-bottom:dotted 1px #1D52B2;
+}
+
+
+.menu3LEFT{
+      background-color: #E0DEDE;
+      display: block;
+      height: auto;
+      padding-top: 2px;
+      padding-left: 20px;
+      color: #333333;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:10px;
+      
+      border-bottom:dotted 1px #1D52B2;
+      text-align:left;
+}
+
+.imglev3LEFT{
+      background-color:#E0DEDE;
+      display: block;
+      height: auto;
+      color: #333333;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:10px;
+      border-bottom:dotted 1px #1D52B2;
+}
+.menu4LEFT{
+      background-color:#ffffff;
+      display: block;
+      height: auto;
+      padding-top: 2px;
+      padding-left: 30px;
+      color: #333333;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:10px;
+      
+      border-bottom:dotted 1px #1D52B2;
+      text-align:left;
+}
+
+
+
+
+
+/*** set the width and height to match your images **/
+
+#slideshow {
+    position:relative;
+    width: 237px;
+    width: 237px;
+    height:158px;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+
+.highlight { background-color: yellow };
+
+
+<style type="text/css" media="screen">html, body, BODY A, BODY A.up, BODY A.up:hover, BODY A.bottomlinks, BODY A.bottomlinks:hover, BODY A.leftlinks, BODY A.leftlinks:hover, BODY A.black, BODY A.black:hover, a, BODY A:hover, BODY TD, BODY A.hindlink, BODY A.hindlink:hover, font, span, body span, skipnavpanel, BODY P, P, td, th, BODY b, BODY DIV, BODY DIV.linkheader, div.sublinktext, div.text1, div.mainbottom1, div.mainbottom, sublinktext, a.mainlinktext1, a.mainlinktext1:hover, div.mainlinktext, a.toplinks1, toplinks1, div.toplinks, a.toplinks1:hover, a.footertext1, a.footertext1:hover, div.footer, P.MsoBodyText, li.MsoNormal, span, li, ul {font-size: ; }</style>
+		
+		<style type="text/css" media="screen"> BODY DIV.linkheader {font-size: 16pt;}</style>
+	
+	</head>
+
+<body style="background-attachment: fixed; font-size: 12px;">
+<center>
+<div class="bg" style="font-size: 12px;">
+	<div id="header" style="font-size: 12px;"><script language="javascript" type="text/javascript">
+var myval=escape(location.href);
+
+	
+	if(myval.toLowerCase().search("script")!="-1" || myval.search("script")!="-1")
+	{
+		location.href="index1.asp"
+	}
+	
+		if(myval.toLowerCase().search("alert")!="-1" || myval.search("alert")!="-1")
+	{
+		location.href="index2.asp"
+	}
+	
+</script>
+
+
+
+
+<div class="top" style="background-color: rgb(255, 255, 255); font-size: 12px;">
+	<div style="float: left; width: 55px; font-size: 12px;"><div class="emblem" style="font-size: 12px;"><img alt="" src="images/emblem.gif"></div></div>
+
+	<div style="float: left; font-size: 12px;"><div class="banner" style="font-size: 12px;"><img alt="Ministry of Road Transport &amp; Highways" src="images/banner1.gif"></div></div>
+
+	<div style="float: right; border: 0px solid green; font-size: 12px;">
+	    <div class="skip_bg" style="background-color: rgb(255, 255, 255); border: 0px solid red; font-size: 12px;"><script type="text/javascript">
+	function pressMe(val)
+	{
+	var curPage=location.href;
+		
+			if(curPage.indexOf("#maincont")>0)
+			{
+				var Arr=curPage.split("#maincont");
+				curPage=Arr[0]+Arr[1];
+			}
+		
+		
+	var nURL=""
+		if(val==1)
+		{
+			if(curPage.indexOf("?ct=2")>0)
+			{
+				var Arr=curPage.split("?ct=2");
+				curPage=Arr[0]+Arr[1];
+			}
+			else if(curPage.indexOf("&ct=2")>0)
+			{
+				var Arr=curPage.split("&ct=2");
+				curPage=Arr[0]+Arr[1];
+			}
+			
+			else if(curPage.indexOf("?ct=0")>0)
+			{
+				var mArr=curPage.split("?ct=0");
+				curPage=mArr[0]+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=0")>0)
+			{
+				var mArr=curPage.split("&ct=0");
+				curPage=mArr[0]+mArr[1];
+			}
+			
+			
+		
+			if(curPage.indexOf("?ct=1")>0)
+			{
+				var mArr=curPage.split("?ct=1");
+				nURL=mArr[0]+"?ct=1"+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=1")>0)
+			{
+				var mArr=curPage.split("&ct=1");
+				nURL=mArr[0]+"&ct=1"+mArr[1];
+			}
+			else
+			{
+				if(curPage.indexOf("?")>0)
+				{
+					nURL=curPage+"&ct=1";
+				}
+				else
+				{
+					nURL=curPage+"?ct=1";
+				}
+			}	
+				
+		}
+		if(val==0)
+		{
+			if(curPage.indexOf("?ct=1")>0)
+			{
+				var mArr=curPage.split("?ct=1");
+				curPage=mArr[0]+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=1")>0)
+			{
+				var mArr=curPage.split("&ct=1");
+				curPage=mArr[0]+mArr[1];
+			}
+				
+			else if(curPage.indexOf("?ct=2")>0)
+			{
+				var mArr=curPage.split("?ct=2");
+				curPage=mArr[0]+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=2")>0)
+			{
+				var mArr=curPage.split("&ct=2");
+				curPage=mArr[0]+mArr[1];
+			}
+			
+			if(curPage.indexOf("?ct=0")>0)
+			{
+				var mArr=curPage.split("?ct=1");
+				nURL=mArr[0]+"?ct=0"+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=0")>0)
+			{
+				var mArr=curPage.split("&ct=1");
+				nURL=mArr[0]+"&ct=0"+mArr[1];
+			}
+			else
+			{
+				if(curPage.indexOf("?")>0)
+				{
+					nURL=curPage+"&ct=0";
+				}
+				else
+				{
+					nURL=curPage+"?ct=0";
+				}
+			}	
+				
+		}
+		
+		
+		else if(val==2)
+		{
+			if(curPage.indexOf("?ct=1")>0)
+			{
+				var Arr=curPage.split("?ct=1");
+				curPage=Arr[0]+Arr[1];
+			}
+			else if(curPage.indexOf("&ct=1")>0)
+			{
+				var Arr=curPage.split("&ct=1");
+				curPage=Arr[0]+Arr[1];
+			}
+			
+			else if(curPage.indexOf("?ct=0")>0)
+			{
+				var mArr=curPage.split("?ct=0");
+				curPage=mArr[0]+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=0")>0)
+			{
+				var mArr=curPage.split("&ct=0");
+				curPage=mArr[0]+mArr[1];
+			}
+		
+			if(curPage.indexOf("?ct=2")>0)
+			{
+				var mArr=curPage.split("?ct=2");
+				nURL=mArr[0]+"?ct=2"+mArr[1];
+			}
+			else if(curPage.indexOf("&ct=2")>0)
+			{
+				var mArr=curPage.split("&ct=2");
+				nURL=mArr[0]+"&ct=2"+mArr[1];
+			}
+			else
+			{
+				if(curPage.indexOf("?")>0)
+				{
+					nURL=curPage+"&ct=2";
+				}
+				else
+				{
+					nURL=curPage+"?ct=2";
+				}
+			}
+		}
+		location.href=nURL;
+	}
+	
+	
+	function chkDiv()
+	{
+		document.getElementById("skipnav").focus();
+	}
+	
+</script>
+
+<script type="text/javascript">
+function Delete_Cookie( name) 
+{
+	if ( getCookie( name ) ) 
+	document.cookie = name + "=" +";expires=Thu, 01-Jan-2008 00:00:01 GMT";
+}
+
+
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+  {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function setCookie(c_name,value)
+{
+var c_value=escape(value); 
+document.cookie=c_name + "=" + c_value;
+}
+
+
+function setColor(colname)
+{
+	document.getElementById("csVal").value=colname;
+	document.colForm.action=location.href;
+	document.colForm.submit();
+	
+	
+}
+
+
+
+function setFont(p1,p2,def)
+{
+	if(def=="0")
+	{
+		var chkCook=getCookie("fontSize");
+		if(chkCook!=null && chkCook!="")
+		{
+			if(p2=="1")
+			{
+				if(Number(chkCook)<=5)
+				{
+					Delete_Cookie("fontSize");
+					setCookie("fontSize",(Number(chkCook)+Number(p2))); 
+				}	
+			}
+			else if (p2=="-1")
+			{
+				if(Number(chkCook)>=1)
+				{
+					Delete_Cookie("fontSize");
+					setCookie("fontSize",(Number(chkCook)+Number(p2))); 
+				}	
+			}			
+		}
+		else
+		{
+			setCookie("fontSize",p2);
+		}
+	}
+	else
+	{
+		Delete_Cookie("fontSize");
+		setCookie("fontSize","3");
+	}
+	
+ts('body',getCookie("fontSize"));
+}
+
+
+
+
+var tgs = new Array( 'h1','td','tr','font','a','span','p','div','table','tbody','o:p','SPAN');
+
+
+function chngeCol(cokVal)
+{
+	if(cokVal=="3")
+	{
+	var cTags;
+		for ( i = 0 ; i < tgs.length ; i++ ) 
+		{
+		cTags =document.getElementsByTagName( tgs[ i ] );
+			for ( j = 0 ; j < cTags.length ; j++ )
+			{
+				cTags[ j ].style.color="#ff40ff";
+				
+			}
+		}
+	} 
+	
+	if(cokVal=="1")
+	{
+	var cTags;
+		for ( i = 0 ; i < tgs.length ; i++ ) 
+		{
+		cTags =document.getElementsByTagName( tgs[ i ] );
+			for ( j = 0 ; j < cTags.length ; j++ )
+			{
+				cTags[ j ].style.color="#ffff00";
+				
+			}
+		}
+	} 
+	
+	
+	
+}
+//var szs = new Array( 'xx-small','x-small','small','medium','large','x-large','xx-large' );
+
+var szs = new Array( '9','10','11','12','13','14','15' );
+var startSz = 2;
+
+function ts( trgt,inc ) 
+{
+	if (!document.getElementById) return
+	var d = document,cEl = null,sz = startSz,i,j,cTags;
+
+	
+		
+		sz=Number(inc);
+	if ( !( cEl = d.getElementById( trgt ) ) ) cEl = d.getElementsByTagName( trgt )[ 0 ];
+
+	cEl.style.fontSize = szs[ sz ];
+
+
+	for ( i = 0 ; i < tgs.length ; i++ ) 
+	{
+		cTags = cEl.getElementsByTagName( tgs[ i ] );
+		if(tgs[ i ]=="h1" )
+		{
+			for ( j = 0 ; j < cTags.length ; j++ ) 
+			{
+			
+				cTags[ j ].style.fontSize = (Number(szs[ sz ])+2)+"px";
+			}
+		}
+		else
+		{
+			for ( j = 0 ; j < cTags.length ; j++ ) 
+			{
+				
+				cTags[ j ].style.fontSize = szs[ sz ]+"px";
+			}
+		}
+		
+	}
+}
+</script>
+<form name="colForm" action="" method="post">
+	<input type="hidden" id="csVal" name="contrastscheme" value="">
+</form>
+
+<div style="float: right; text-align: right; font-size: 12px;">
+	<div style="padding-top: 0px; text-align: right; height: auto; width: auto; float: right; font-size: 12px;">
+		<div style="float: left; text-align: left; margin-top: 4px; font-size: 12px;">&nbsp;&nbsp;<a class="skip" title="Skip to Navigation" href="#maincont" style="font-size: 12px;"><b>Skip Navigation </b></a></div>
+		<div style="float: left; font-size: 12px;">&nbsp;&nbsp;</div>
+		<div style="float: left; text-align: left; font-size: 12px;">&nbsp;<a title="Green Color Theme" href="javascript:setColor('2')" style="font-size: 12px;"><img alt="Green Color Theme" src="images/green_th.gif" style="border:0px; margin-top:4px;"></a></div>
+		<div style="float: left; text-align: left; font-size: 12px;">&nbsp;<a title="Brown Color Theme" href="javascript:setColor('4')" style="font-size: 12px;"><img alt="Brown Color Theme" src="images/Brown_th.gif" style="border:0px; margin-top:4px;"></a></div>
+		<div style="float: left; text-align: left; font-size: 12px;">&nbsp;<a title="Blue Color Theme" href="javascript:setColor('0')" style="font-size: 12px;"><img alt="Blue Color Theme" src="images/blue_th.gif" style="border:0px; margin-top:4px;"></a></div>
+		<div style="float: left; font-size: 12px;">&nbsp;&nbsp;</div>
+		<div style="vertical-align: middle; float: left; text-align: left; font-size: 12px;"><a href="javascript:setFont('body',-1,0)" style="font-size: 12px;"><img style="border:0px; margin-top:4px;" alt="Decrease Size" src="images/aminus.gif"></a></div>
+		<div style="float: left; font-size: 12px;">&nbsp;</div>
+		<div style="vertical-align: middle; float: left; text-align: left; font-size: 12px;"><a href="javascript:setFont('body',0,1)" style="font-size: 12px;"><img style="border:0px; margin-top:4px;" alt="Default Size" src="images/a.gif"></a></div>
+		<div style="float: left; font-size: 12px;">&nbsp;</div>
+		<div style="vertical-align: middle; float: left; text-align: left; font-size: 12px;"><a href="javascript:setFont('body',1,0)" style="font-size: 12px;"><img style="border:0px; margin-top:4px;" alt="Increase Size" src="images/aplus.gif"></a></div>
+		<div style="float: left; font-size: 12px;">&nbsp;</div>
+		
+		<div style="vertical-align: middle; float: left; text-align: left; font-size: 12px;"><a title="Click here for Hindi Version" href="index.asp?lang=2" style="font-size: 12px;"><img alt="Click here for Hindi Version" style="border:0px; margin-top:2px;" src="images/hindi.gif"></a></div>
+		
+	</div>
+	
+</div>
+</div>
+        <div style="margin-top: 3%; float: right; text-align: right; width: 305px; margin-right: 1%; clear: both; font-size: 12px;">
+
+            <a target="_parent" href="index.asp?lang=1" title="Home" style="font-size: 12px;"><img alt="Home" src="images/home_ic.gif" style="border:0px;"></a>&nbsp;<a target="_parent" href="index1.asp?lang=1&amp;linkid=3&amp;lid=53" title="Contact us" style="font-size: 12px;"><img alt="Contact Us" src="images/contactus_ic.gif" style="border:0px;"></a>&nbsp;<a href="feedback.asp?lang=1" title="Feedback" style="font-size: 12px;"><img alt="Feedback" src="images/feedback_ic.gif" style="border:0px;"></a>&nbsp;<a href="sitemap.asp?lang=1&amp;linkid=95&amp;lid=150" title="Sitemap" style="font-size: 12px;"><img alt="Sitemap" src="images/sitemap_ic.gif" style="border:0px;"></a>&nbsp;<a href="search.asp?lang=1" title="Search" style="font-size: 12px;"><img alt="Search" src="images/search_ic.gif" style="border:0px;"></a>
+	
+        </div>
+	</div>
+</div>
+<!--
+<div class="left">
+
+</div>
+-->
+
+<div class="left" style="font-size: 12px;">
+<script type="text/javascript" src="jquery-1.2.6.min.js"></script>
+
+<script type="text/javascript">
+
+
+
+function slideSwitch() {
+    var $active = $('#slideshow IMG.active');
+
+    if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
+
+    // use this to pull the images in the order they appear in the markup
+    var $next =  $active.next().length ? $active.next()
+        : $('#slideshow IMG:first');
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+    setInterval( "slideSwitch()", 5000 );
+});
+
+</script>
+
+
+
+
+
+<div id="slideshow" style="font-size: 12px;">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/Modimg24.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/25.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/26.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/27.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/28.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/29.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/30.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/31.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/32.gif">
+
+    <img alt="Safety Image" src="writereaddata/imagepg/33.gif">
+    
+</div> 
+
+
+</div>
+
+<div style="margin-left: 1px; float: left; width: auto; height: 153px; font-size: 12px;">
+
+<!-- THREE STEPS TO INSTALL FADING SLIDE SHOW:
+
+  1.  Copy the coding into the HEAD of your HTML document
+  2.  Add the onLoad event handler into the BODY tag
+  3.  Put the last coding into the BODY of your HTML document  -->
+
+<!-- STEP ONE: Paste this code into the HEAD of your HTML document  -->
+
+
+
+<script type="text/javascript">
+<!-- Original:  CodeLifter.com (support@codelifter.com) -->
+<!-- Web Site:  http://www.codelifter.com -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+// Set slideShowSpeed (milliseconds)
+var slideShowSpeed1 = 5000;
+// Duration of crossfade (seconds)
+var crossFadeDuration1 = 3;
+// Specify the image files
+//var Pic1 = new Array();
+// to add more images, just continue
+// the pattern, adding to the array below
+
+/*Pic1[2] = '3.jpg'
+Pic1[1] = '2.jpg'
+Pic1[0] = '1.jpg'*/
+
+
+var Pic1='writereaddata/imagepg/8.jpg';
+
+//pic1=split(hdArr,",")
+Pic1=Pic1.split("|$|");
+
+// do not edit anything below this line
+var t1;
+var j1 = 0;
+var p1 = Pic1.length;
+var preLoad1 = new Array();
+for (i = 0; i < p1; i++) {
+preLoad1[i] = new Image();
+preLoad1[i].src = Pic1[i];
+}
+function runSlideShow1() {
+if (document.all) {
+document.images.SlideShow1.style.filter="blendTrans(duration=2)";
+document.images.SlideShow1.style.filter="blendTrans(duration=crossFadeDuration1)";
+document.images.SlideShow1.filters.blendTrans.Apply();
+}
+document.images.SlideShow1.src = preLoad1[j1].src;
+if (document.all) {
+document.images.SlideShow1.filters.blendTrans.Play();
+}
+j1 = j1 + 1;
+if (j1 > (p1 - 1)) j1 = 0;
+t1 = setTimeout('runSlideShow1()', slideShowSpeed1);
+}
+//  End -->
+
+
+</script>
+
+
+
+
+
+
+<!-- STEP TWO: Insert the onLoad event handler into your BODY tag  -->
+
+
+
+<!-- STEP THREE: Copy this code into the BODY of your HTML document  -->
+
+    <div id="headVU" style="float: right; width: 500px; font-size: 12px;"><img src="https://web.archive.org/web/20120330122452id_/http%3A//morth.nic.in/writereaddata/imagepg/8.jpg" name="SlideShow1" style="height: 158px; width: 500px;" id="headVU1" title="Ministry of Road Transport &amp; Highways" alt="Ministry of Road Transport &amp; Highways"></div>
+
+<script type="text/javascript" language="javascript"> 
+width = screen.width; 
+height = screen.height; 
+if(Number(width)==800)
+{
+	document.getElementById("headVU").style.width="500";
+	document.getElementById("headVU1").style.width="500";
+}
+else if(Number(width)==1024)
+{
+	document.getElementById("headVU").style.width="710";
+	document.getElementById("headVU1").style.width="710";
+}
+else if(Number(width)==1280)
+{
+	document.getElementById("headVU").style.width="972";
+	document.getElementById("headVU1").style.width="972";
+}
+else if(Number(width)==1360)
+{
+	document.getElementById("headVU").style.width="1038";
+	document.getElementById("headVU1").style.width="1038";
+}
+else if(Number(width)==1366)
+{
+	document.getElementById("headVU").style.width="1038";
+	document.getElementById("headVU1").style.width="1038";
+}
+else if(Number(width)==1368)
+{
+	document.getElementById("headVU").style.width="1038";
+	document.getElementById("headVU1").style.width="1038";
+}
+else if(Number(width)==1600)
+{
+	document.getElementById("headVU").style.width="1280";
+	document.getElementById("headVU1").style.width="1280";
+}
+else if(Number(width)==1440)
+{
+	document.getElementById("headVU").style.width="1120";
+	document.getElementById("headVU1").style.width="1120";
+}
+
+
+runSlideShow1();
+</script>
+
+<!-- Script Size:  2.13 KB --></div>
+
+</div>
+	<div id="urlbar" style="font-size: 12px;"><div id="urlpathbar" style="font-size: 12px;">
+
+	<div style="float: left; font-size: 12px;" id="urlpathbarsub">
+		<font color="white" style="font-size: 12px;">
+
+	  <a class="up" href="index.asp?lang=1" style="font-size: 12px;">Home</a>
+
+		
+			<!--<img style="border:0px;" src="images/arrow_ic.png" /> <a title="Archives" class="uplinks" href="archmain.asp?lang=1">Archives</a>-->
+		
+		<!--<img style="border:0px;" src="images/arrow_ic.png" /> <a title="Archives" class="uplinks" href="archmain.asp?lang=1&EncHiddd=">Archives</a>	-->
+		
+<!--<img style="border:0px;" src="images/arrow_ic.png" /> <a  title="&#2309;&#2349;&#2367;&#2354;&#2375;&#2326;"  class="uplinks" href="archmain.asp?lang=1">&#2309;&#2349;&#2367;&#2354;&#2375;&#2326;</a>-->
+
+<!--<img style="border:0px;" src="images/arrow_ic.png" /> <a  title="&#2309;&#2349;&#2367;&#2354;&#2375;&#2326;"  class="uplinks" href="archmain.asp?lang=1&EncHiddd=">&#2309;&#2349;&#2367;&#2354;&#2375;&#2326;</a>-->
+
+
+
+		</font>
+	
+
+</div>
+	
+
+<div style="float: right; margin-left: 5%; font-size: 12px;" id="urlpathbarsub"><b><a class="up" href="Javascript:history.go(-1)" style="font-size: 12px;">Back</a>&nbsp;</b></div>
+</div>
+</div>
+	<div class="container" style="font-size: 12px;">
+		<div id="section-navigation" style="text-align: left; padding-bottom: 100px; overflow: auto; font-size: 12px;">
+
+<script type="text/JavaScript">
+<!--
+
+function showALLLeft()
+{
+		LTags = document.getElementsByTagName( "div" );
+		ImgTags = document.getElementsByTagName( "img" );
+			for ( j = 0 ; j < LTags.length ; j++ ) 
+			{
+				if(LTags[j].style.display=="none")
+				{
+					LTags[j].style.display="block";
+				}
+			}
+			for ( j = 0 ; j < ImgTags.length ; j++ ) 
+			{
+				var CurrImage= ImgTags[j].src;
+				CurrImage=CurrImage.split("/");
+				CurrImage.reverse();
+				if(CurrImage[0]=="expand.gif")
+				{
+					ImgTags[j].src="images/collapse.gif";
+					}
+			}
+			
+			document.getElementById("ExpAll").style.display="none";
+			document.getElementById("ColAll").style.display="block";
+		
+}
+
+
+function showALLLeft1()
+{
+		LTags = document.getElementsByTagName("div");
+		ImgTags = document.getElementsByTagName( "img" );
+			for ( j = 0 ; j < LTags.length ; j++ ) 
+			{
+				if(LTags[j].style.display=="block")
+				{
+					LTags[j].style.display="none";
+				}
+			}
+			for ( j = 0 ; j < ImgTags.length ; j++ ) 
+			{
+				var CurrImage= ImgTags[j].src;
+				CurrImage=CurrImage.split("/");
+				CurrImage.reverse();
+				if(CurrImage[0]=="collapse.gif")
+				{
+					ImgTags[j].src="images/expand.gif";
+					}
+			}
+			document.getElementById("ExpAll").style.display="block";
+			document.getElementById("ColAll").style.display="none";
+		
+}
+
+menu_status = new Array();
+
+function showHide(theid,idval){
+    if (document.getElementById) {
+    var switch_id = document.getElementById(theid);
+	if(document.getElementById(theid).style.display=="block")
+	{
+		document.getElementById(theid).style.display="none";
+		document.getElementById(idval.id).src="images/expand.gif";
+		}
+	else
+	{
+		document.getElementById(theid).style.display="block";
+		document.getElementById(idval.id).src="images/collapse.gif";
+	}	
+		
+		
+
+        /*if(menu_status[theid] != 'show') 
+        {
+           switch_id.className = 'show';
+           menu_status[theid] = 'show';
+        }
+        else
+        {
+           switch_id.className = 'hide';
+           menu_status[theid] = 'hide';
+        }*/
+    }
+}
+
+//-->
+</script>
+
+
+
+<div id="ExpAll" style="width: 100%; text-align: right; font-size: 12px;"><a title="Expand All" href="javascript:showALLLeft()" style="font-size: 12px;"><img src="images/expandall.jpg" style="border:0px;" alt="Expand All"></a></div>
+<div id="ColAll" style="width: 100%; text-align: right; display: none; font-size: 12px;"><a title="Collapse All" href="javascript:showALLLeft1()" style="font-size: 12px;"><img src="images/collapseall.png" style="border:0px;" alt="Collapse All"></a></div>
+<div style="width: 100%; font-size: 12px;" class="leftlinks">
+
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="About Us" href="index1.asp?lang=1&amp;linkid=10&amp;lid=144" style="font-size: 12px;">About Us&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev010" onclick="showHide('mymenuLev110',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev110" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Honourable Minister (Dr. C. P. Joshi)&nbsp;( 68KB, PDF)" href="showfile.asp?lid=801" style="font-size: 12px;">Honourable Minister (Dr. C. P. Joshi)&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Honourable Minister of State (Dr. Tushar A. Chaudhary)" href="showlink.asp?id=799" style="font-size: 12px;">Honourable Minister of State (Dr. Tushar A. Chaudhary)&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Honourable Minister of State (Shri Jitin Prasada)&nbsp;( 63KB, PDF)" href="showfile.asp?lid=802" style="font-size: 12px;">Honourable Minister of State (Shri Jitin Prasada)&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Administrative Setup&nbsp;( 148KB, HTM)" href="showfile.asp?lid=767" style="font-size: 12px;">Administrative Setup&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Telephone Directory&nbsp;( 111KB, PDF)" href="showfile.asp?lid=435" style="font-size: 12px;">Telephone Directory&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Citizens Charter&nbsp;( 141KB, PDF)" href="showfile.asp?lid=436" style="font-size: 12px;">Citizens Charter&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Center For Excellence/Experts in the Field" href="index2.asp?slid=146&amp;sublinkid=85&amp;lang=1" style="font-size: 12px;">Center For Excellence/Experts in the Field&nbsp;</a></div>
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Roads &amp; Highways" href="index1.asp?lang=1&amp;linkid=2&amp;lid=10" style="font-size: 12px;">Roads &amp; Highways&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev02" onclick="showHide('mymenuLev12',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev12" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report of Apex the Committee for implementation of Electronic Toll Collection (ETC)&nbsp;( 1439KB, PDF)" href="showfile.asp?lid=774" style="font-size: 12px;">Report of Apex the Committee for implementation of Electronic Toll Collection (ETC)&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="World Bank Policy Documents for NHIIP Phase-I Projects" href="index2.asp?slid=777&amp;sublinkid=442&amp;lang=1" style="font-size: 12px;">World Bank Policy Documents for NHIIP Phase-I Projects&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1442" onclick="showHide('mymenuLev2442',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2442" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="General Procurement Notice for First National Highways Inter-connectivity Improvement (Non-NHDP) Project (NHIIP-1)&nbsp;( 18KB, PDF)" href="showfile.asp?lid=782" style="font-size: 12px;">General Procurement Notice for First National Highways Inter-connectivity Improvement (Non-NHDP) Project (NHIIP-1)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Resettlement Policy Framework (RPF) for NHIIP Phase-I Projects" href="index3.asp?sslid=779&amp;subsublinkid=342&amp;lang=1" style="font-size: 12px;">Resettlement Policy Framework (RPF) for NHIIP Phase-I Projects&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Environmental Management Framework (EMF) for NHIIP Phase-I Projects" href="index3.asp?sslid=778&amp;subsublinkid=341&amp;lang=1" style="font-size: 12px;">Environmental Management Framework (EMF) for NHIIP Phase-I Projects&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Resolution regarding Specifications for RFID Tag and Transceiver for Electronic Toll Collection System dated 28th September, 2011&nbsp;( 4624KB, PDF)" href="showfile.asp?lid=749" style="font-size: 12px;">Resolution regarding Specifications for RFID Tag and Transceiver for Electronic Toll Collection System dated 28th September, 2011&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report of the Sundar Committee on amendment of Motor Vehicles Act 1988&nbsp;( 10686KB, PDF)" href="showfile.asp?lid=377" style="font-size: 12px;">Report of the Sundar Committee on amendment of Motor Vehicles Act 1988&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Feedback on PPP Documents" href="index2.asp?slid=613&amp;sublinkid=342&amp;lang=1" style="font-size: 12px;">Feedback on PPP Documents&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="An Overview &nbsp;( 89KB, PDF)" href="showfile.asp?lid=364" style="font-size: 12px;">An Overview &nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report of Experts Committee on Electronic Toll Collection System &nbsp;( 57372KB, PDF)" href="showfile.asp?lid=374" style="font-size: 12px;">Report of Experts Committee on Electronic Toll Collection System &nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Targets Physical and Financial for 201011&nbsp;( 171KB, PDF)" href="showfile.asp?lid=375" style="font-size: 12px;">Targets Physical and Financial for 201011&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="National Highways" href="index2.asp?slid=32&amp;sublinkid=12&amp;lang=1" style="font-size: 12px;">National Highways&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev112" onclick="showHide('mymenuLev212',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev212" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highways and their length &nbsp;( 159KB, PDF)" href="showfile.asp?lid=365" style="font-size: 12px;">National Highways and their length &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highways their lengths starting and terminal points&nbsp;( 66KB, PDF)" href="showfile.asp?lid=367" style="font-size: 12px;">National Highways their lengths starting and terminal points&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="State wise Length of National Highways&nbsp;( 167KB, PDF)" href="showfile.asp?lid=366" style="font-size: 12px;">State wise Length of National Highways&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="National Highways Summary" href="index3.asp?sslid=34&amp;subsublinkid=20&amp;lang=1" style="font-size: 12px;">National Highways Summary&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Density Distribution of National Highways Lengths&nbsp;( 62KB, PDF)" href="showfile.asp?lid=368" style="font-size: 12px;">Density Distribution of National Highways Lengths&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addition to NH system during different Plan periods&nbsp;( 92KB, DOC)" href="showfile.asp?lid=369" style="font-size: 12px;">Addition to NH system during different Plan periods&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Performance For Development of National Highways&nbsp;( 35KB, PDF)" href="showfile.asp?lid=370" style="font-size: 12px;">Performance For Development of National Highways&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="On Going National Highways Works" href="index2.asp?slid=16&amp;sublinkid=8&amp;lang=1" style="font-size: 12px;">On Going National Highways Works&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Major Improvement Projects" href="index2.asp?slid=11&amp;sublinkid=7&amp;lang=1" style="font-size: 12px;">Major Improvement Projects&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev17" onclick="showHide('mymenuLev27',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev27" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highway Projects Costing Rs 20 Crore and Above Non NHDP&nbsp;( 34KB, PDF)" href="showfile.asp?lid=373" style="font-size: 12px;">National Highway Projects Costing Rs 20 Crore and Above Non NHDP&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="National Highways Development Projects (NHDP)" href="index3.asp?sslid=12&amp;subsublinkid=3&amp;lang=1" style="font-size: 12px;">National Highways Development Projects (NHDP)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="World Bank Assisted Projects for 2 lanes&nbsp;( 58KB, PDF)" href="showfile.asp?lid=372" style="font-size: 12px;">World Bank Assisted Projects for 2 lanes&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Timeline for Road Infrastructure in North East&nbsp;( 200KB, PDF)" href="showfile.asp?lid=371" style="font-size: 12px;">Timeline for Road Infrastructure in North East&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Research Schemes" href="index2.asp?slid=28&amp;sublinkid=10&amp;lang=1" style="font-size: 12px;">Research Schemes&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev110" onclick="showHide('mymenuLev210',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev210" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Research Schemes (Roads)" href="index3.asp?sslid=29&amp;subsublinkid=17&amp;lang=1" style="font-size: 12px;">Research Schemes (Roads)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Research Schemes (Bridges)" href="index3.asp?sslid=30&amp;subsublinkid=18&amp;lang=1" style="font-size: 12px;">Research Schemes (Bridges)&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Public Private Participation (PPP)" href="index2.asp?slid=17&amp;sublinkid=9&amp;lang=1" style="font-size: 12px;">Public Private Participation (PPP)&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev19" onclick="showHide('mymenuLev29',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev29" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="NH Specific RFQ for State PWDs for 2-lane PPP Programme" href="index3.asp?sslid=26&amp;subsublinkid=15&amp;lang=1" style="font-size: 12px;">NH Specific RFQ for State PWDs for 2-lane PPP Programme&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Pre Scoring Results of Technical and Financial Evaluation for 2 laning projects (NHDP-IV)" href="index3.asp?sslid=27&amp;subsublinkid=16&amp;lang=1" style="font-size: 12px;">Pre Scoring Results of Technical and Financial Evaluation for 2 laning projects (NHDP-IV)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Programme for award of PPP projects for 2-laning of National Highways" href="index3.asp?sslid=25&amp;subsublinkid=14&amp;lang=1" style="font-size: 12px;">Programme for award of PPP projects for 2-laning of National Highways&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="National Highways Specific Model RFQ Document" href="index3.asp?sslid=24&amp;subsublinkid=13&amp;lang=1" style="font-size: 12px;">National Highways Specific Model RFQ Document&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Empanelment of Entrepreneurs" href="index3.asp?sslid=21&amp;subsublinkid=10&amp;lang=1" style="font-size: 12px;">Empanelment of Entrepreneurs&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Award of Civil Contracts Modified Procedure" href="index3.asp?sslid=20&amp;subsublinkid=9&amp;lang=1" style="font-size: 12px;">Award of Civil Contracts Modified Procedure&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Manual for Specifications and Standards for Six Laning of National Highways" href="index3.asp?sslid=23&amp;subsublinkid=12&amp;lang=1" style="font-size: 12px;">Manual for Specifications and Standards for Six Laning of National Highways&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Manual for Specifications and Standards for Four Laning of National Highways" href="index3.asp?sslid=22&amp;subsublinkid=11&amp;lang=1" style="font-size: 12px;">Manual for Specifications and Standards for Four Laning of National Highways&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Model Concession Agreement for BOT projects upto Rs.100 crores (MCA1)" href="index3.asp?sslid=18&amp;subsublinkid=7&amp;lang=1" style="font-size: 12px;">Model Concession Agreement for BOT projects upto Rs.100 crores (MCA1)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Model Concession Agreement for BOT projects Rs.100 crores and above (MCA2)" href="index3.asp?sslid=19&amp;subsublinkid=8&amp;lang=1" style="font-size: 12px;">Model Concession Agreement for BOT projects Rs.100 crores and above (MCA2)&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Revised strategy for implementation of the National Highways Development Project (NHDP) - Framework and Financing" href="index2.asp?slid=45&amp;sublinkid=18&amp;lang=1" style="font-size: 12px;">Revised strategy for implementation of the National Highways Development Project (NHDP) - Framework and Financing&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Project Report on Indian National Expressway Network" href="index2.asp?slid=44&amp;sublinkid=17&amp;lang=1" style="font-size: 12px;">Project Report on Indian National Expressway Network&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Joint Seminar on Introduction of Expressways Guidelines" href="index2.asp?slid=49&amp;sublinkid=22&amp;lang=1" style="font-size: 12px;">Joint Seminar on Introduction of Expressways Guidelines&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Invitation of Comments on Model EPC Agreement for Highways and Model RFP for EPC  and Maintenance of Highways" href="index2.asp?slid=47&amp;sublinkid=20&amp;lang=1" style="font-size: 12px;">Invitation of Comments on Model EPC Agreement for Highways and Model RFP for EPC  and Maintenance of Highways&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Empanelment for Expansion Joints for Bridges" href="index2.asp?slid=46&amp;sublinkid=19&amp;lang=1" style="font-size: 12px;">Empanelment for Expansion Joints for Bridges&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Empanelment for Bearings for Bridges" href="index2.asp?slid=51&amp;sublinkid=24&amp;lang=1" style="font-size: 12px;">Empanelment for Bearings for Bridges&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Empanelment of Consultants for Highway  and Bridge Projects" href="index2.asp?slid=41&amp;sublinkid=14&amp;lang=1" style="font-size: 12px;">Empanelment of Consultants for Highway  and Bridge Projects&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev114" onclick="showHide('mymenuLev214',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev214" class="hide"> <!--- lev 2 Div>-->
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Standardised Formats for Land Acquisition Notifications" href="index2.asp?slid=31&amp;sublinkid=11&amp;lang=1" style="font-size: 12px;">Standardised Formats for Land Acquisition Notifications&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Traffic Data" href="index2.asp?slid=40&amp;sublinkid=13&amp;lang=1" style="font-size: 12px;">Traffic Data&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Circulars/Notices on National Highways" href="index2.asp?slid=42&amp;sublinkid=15&amp;lang=1" style="font-size: 12px;">Circulars/Notices on National Highways&nbsp;</a></div>
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Road Transport" href="index1.asp?lang=1&amp;linkid=4&amp;lid=56" style="font-size: 12px;">Road Transport&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev04" onclick="showHide('mymenuLev14',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev14" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Report of the Working Group on Road Transport for formulation of Twelfth Five Year Plan (2012-2017)" href="index2.asp?slid=770&amp;sublinkid=431&amp;lang=1" style="font-size: 12px;">Report of the Working Group on Road Transport for formulation of Twelfth Five Year Plan (2012-2017)&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Inviting Suggestions for Review of Road Transport Corporation Act 1950&nbsp;( 62KB, PDF)" href="showfile.asp?lid=379" style="font-size: 12px;">Inviting Suggestions for Review of Road Transport Corporation Act 1950&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Inviting Suggestions for Automotive Industry Standards (AIS)" href="index2.asp?slid=67&amp;sublinkid=38&amp;lang=1" style="font-size: 12px;">Inviting Suggestions for Automotive Industry Standards (AIS)&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Review of Motor Vehicles Act.1988-Inviting Suggestions" href="index2.asp?slid=65&amp;sublinkid=36&amp;lang=1" style="font-size: 12px;">Review of Motor Vehicles Act.1988-Inviting Suggestions&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Type Approval Procedure TAP Documents" href="showlink.asp?id=382" style="font-size: 12px;">Type Approval Procedure TAP Documents&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report of the Sundar Committee on amendment of Motor Vehicles Act 1988&nbsp;( 10686KB, PDF)" href="showfile.asp?lid=377" style="font-size: 12px;">Report of the Sundar Committee on amendment of Motor Vehicles Act 1988&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Automotive Industry Standards AIS  ARAIs website" href="showlink.asp?id=381" style="font-size: 12px;">Automotive Industry Standards AIS  ARAIs website&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Road Transport Policy recommended by Thangaraj Committee&nbsp;( 335KB, PDF)" href="showfile.asp?lid=378" style="font-size: 12px;">National Road Transport Policy recommended by Thangaraj Committee&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Scheme for Strengthening Public Transport System" href="index2.asp?slid=71&amp;sublinkid=40&amp;lang=1" style="font-size: 12px;">Scheme for Strengthening Public Transport System&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Vehicular Emission Norms " href="index2.asp?slid=58&amp;sublinkid=29&amp;lang=1" style="font-size: 12px;">Vehicular Emission Norms &nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="High Security Registration Plates " href="index2.asp?slid=60&amp;sublinkid=31&amp;lang=1" style="font-size: 12px;">High Security Registration Plates &nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Smart Card Based Driving License and Registration Certificate" href="index2.asp?slid=59&amp;sublinkid=30&amp;lang=1" style="font-size: 12px;">Smart Card Based Driving License and Registration Certificate&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Motor Vehicle Legislations" href="index2.asp?slid=57&amp;sublinkid=28&amp;lang=1" style="font-size: 12px;">Motor Vehicle Legislations&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Frequently Asked Questions&nbsp;( 89KB, PDF)" href="showfile.asp?lid=380" style="font-size: 12px;">Frequently Asked Questions&nbsp;</a></div>
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Road Safety" href="index1.asp?lang=1&amp;linkid=5&amp;lid=74" style="font-size: 12px;">Road Safety&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev05" onclick="showHide('mymenuLev15',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev15" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Presentations of Working Groups on Road Safety" href="index2.asp?slid=781&amp;sublinkid=448&amp;lang=1" style="font-size: 12px;">Presentations of Working Groups on Road Safety&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Reports of Working Group on 4 E's of Road Safety" href="index2.asp?slid=771&amp;sublinkid=432&amp;lang=1" style="font-size: 12px;">Reports of Working Group on 4 E's of Road Safety&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Sundar Committee Report on Road Safety and Traffic Management" href="index2.asp?slid=81&amp;sublinkid=49&amp;lang=1" style="font-size: 12px;">Sundar Committee Report on Road Safety and Traffic Management&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Rescue of Accident Victims" href="index2.asp?slid=80&amp;sublinkid=48&amp;lang=1" style="font-size: 12px;">Rescue of Accident Victims&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Revised Guidelines for Setting up Training Institutes on Driving and Research&nbsp;( 381KB, PDF)" href="showfile.asp?lid=386" style="font-size: 12px;">Revised Guidelines for Setting up Training Institutes on Driving and Research&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Guidelines for Assistance in the shape of Cranes Ambulance under NHARSS&nbsp;( 65KB, PDF)" href="showfile.asp?lid=387" style="font-size: 12px;">Guidelines for Assistance in the shape of Cranes Ambulance under NHARSS&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Resolution for National Road Safety Council&nbsp;( 1645KB, PDF)" href="showfile.asp?lid=383" style="font-size: 12px;">Resolution for National Road Safety Council&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Guidelines for Scheme of National Awards on Road Safety &nbsp;( 107KB, PDF)" href="showfile.asp?lid=385" style="font-size: 12px;">Guidelines for Scheme of National Awards on Road Safety &nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Draft National Road Safety Policy as Recommended by Sundar Commitee&nbsp;( 4310KB, PDF)" href="showfile.asp?lid=388" style="font-size: 12px;">Draft National Road Safety Policy as Recommended by Sundar Commitee&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Observance of 22nd Road Safety Week&nbsp;( 128KB, PDF)" href="showfile.asp?lid=384" style="font-size: 12px;">Observance of 22nd Road Safety Week&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Road Safety Campaign " href="index2.asp?slid=79&amp;sublinkid=47&amp;lang=1" style="font-size: 12px;">Road Safety Campaign &nbsp;</a></div>
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="National Permit" href="index1.asp?lang=1&amp;linkid=109&amp;lid=763" style="font-size: 12px;">National Permit&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev0109" onclick="showHide('mymenuLev1109',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev1109" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Sanction &amp; Release Orders to States under National Permit System" href="index2.asp?slid=764&amp;sublinkid=428&amp;lang=1" style="font-size: 12px;">Sanction &amp; Release Orders to States under National Permit System&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1428" onclick="showHide('mymenuLev2428',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2428" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders to States under National Permit System for the months of February 2012&nbsp;( 1254KB, PDF)" href="showfile.asp?lid=804" style="font-size: 12px;">Sanction Orders to States under National Permit System for the months of February 2012&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders and Release Orders to States under National Permit System for the months of January 2012&nbsp;( 2476KB, PDF)" href="showfile.asp?lid=780" style="font-size: 12px;">Sanction Orders and Release Orders to States under National Permit System for the months of January 2012&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the months of November and December 2011&nbsp;( 233KB, PDF)" href="showfile.asp?lid=776" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the months of November and December 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction &amp; Release Orders to States under National Permit System for the month of October 2011&nbsp;( 2234KB, PDF)" href="showfile.asp?lid=769" style="font-size: 12px;">Sanction &amp; Release Orders to States under National Permit System for the month of October 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction &amp; Release Orders to States under National Permit System for the month of September 2011&nbsp;( 2443KB, PDF)" href="showfile.asp?lid=768" style="font-size: 12px;">Sanction &amp; Release Orders to States under National Permit System for the month of September 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of August, 2011&nbsp;( 2241KB, PDF)" href="showfile.asp?lid=789" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of August, 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of July, 2011&nbsp;( 2499KB, PDF)" href="showfile.asp?lid=791" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of July, 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of June, 2011&nbsp;( 3215KB, PDF)" href="showfile.asp?lid=792" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of June, 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of May, 2011&nbsp;( 2597KB, PDF)" href="showfile.asp?lid=794" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of May, 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of April 2011&nbsp;( 2608KB, PDF)" href="showfile.asp?lid=788" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of April 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the month of March, 2011&nbsp;( 281KB, PDF)" href="showfile.asp?lid=793" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the month of March, 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction and Release Orders to States under National Permit System for the months of January and Feburary 2011&nbsp;( 271KB, PDF)" href="showfile.asp?lid=790" style="font-size: 12px;">Sanction and Release Orders to States under National Permit System for the months of January and Feburary 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders to States under National Permit System for the period of Sept.-Nov. 2010&nbsp;( 765KB, PDF)" href="showfile.asp?lid=766" style="font-size: 12px;">Sanction Orders to States under National Permit System for the period of Sept.-Nov. 2010&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders to States under National Permit System for the period of July &amp; August, 2010&nbsp;( 849KB, PDF)" href="showfile.asp?lid=765" style="font-size: 12px;">Sanction Orders to States under National Permit System for the period of July &amp; August, 2010&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="List of Branches of SBIs Authorised to Collect Consolidated Fee on National Permit &nbsp;( 121KB, PDF)" href="showfile.asp?lid=430" style="font-size: 12px;">List of Branches of SBIs Authorised to Collect Consolidated Fee on National Permit &nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notifications / Circulars on National Permit" href="index2.asp?slid=70&amp;sublinkid=427&amp;lang=1" style="font-size: 12px;">Notifications / Circulars on National Permit&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1427" onclick="showHide('mymenuLev2427',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2427" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Notice regarding Revision of National Permit Fee w.e.f. 01.04.2012&nbsp;( 516KB, PDF)" href="showfile.asp?lid=805" style="font-size: 12px;">Notice regarding Revision of National Permit Fee w.e.f. 01.04.2012&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="National Highways (State / Number Wise)" href="index1.asp?lang=1&amp;linkid=97&amp;lid=604" style="font-size: 12px;">National Highways (State / Number Wise)&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev097" onclick="showHide('mymenuLev197',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev197" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" href="higwaymain.asp?lang=1" title="National Highways (Number Wise)" style="font-size: 12px;">National Highways (Number Wise)&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" href="statemain.asp?lang=1" title="National Highways (State Wise)" style="font-size: 12px;">National Highways (State Wise)&nbsp;</a></div>
+		
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="NHDP Maps" href="index1.asp?lang=1&amp;linkid=57&amp;lid=345" style="font-size: 12px;">NHDP Maps&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev057" onclick="showHide('mymenuLev157',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev157" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="NHDP Map" href="showlink.asp?id=390" style="font-size: 12px;">NHDP Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Golden Quadrilateral Map" href="showlink.asp?id=391" style="font-size: 12px;">Golden Quadrilateral Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="NH-2 Delhi - Kolkata Map" href="showlink.asp?id=392" style="font-size: 12px;">NH-2 Delhi - Kolkata Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="NH-4 Mumbai - Chennai Map" href="showlink.asp?id=393" style="font-size: 12px;">NH-4 Mumbai - Chennai Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="NH-5 Kolkata - Chennai Map" href="showlink.asp?id=394" style="font-size: 12px;">NH-5 Kolkata - Chennai Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="NH-8 Delhi - Mumbai Map" href="showlink.asp?id=395" style="font-size: 12px;">NH-8 Delhi - Mumbai Map&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="North South East West Map" href="showlink.asp?id=396" style="font-size: 12px;">North South East West Map&nbsp;</a></div>
+		
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Right to Information" href="index1.asp?lang=1&amp;linkid=43&amp;lid=259" style="font-size: 12px;">Right to Information&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev043" onclick="showHide('mymenuLev143',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev143" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report on the Implementation of RTI Act&nbsp;( 61KB, PDF)" href="showfile.asp?lid=404" style="font-size: 12px;">Report on the Implementation of RTI Act&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Public Information Officers and Appellate Authorities&nbsp;( 59KB, PDF)" href="showfile.asp?lid=397" style="font-size: 12px;">Public Information Officers and Appellate Authorities&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Right to Information Act 2005" href="index2.asp?slid=260&amp;sublinkid=129&amp;lang=1" style="font-size: 12px;">Right to Information Act 2005&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Office Orders" href="index2.asp?slid=262&amp;sublinkid=131&amp;lang=1" style="font-size: 12px;">Office Orders&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1131" onclick="showHide('mymenuLev2131',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2131" class="hide"> <!--- lev 2 Div>-->
+								
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Office Orders Regarding Fee Prescribed" href="index3.asp?sslid=643&amp;subsublinkid=258&amp;lang=1" style="font-size: 12px;">Office Orders Regarding Fee Prescribed&nbsp;</a><img alt="" width="10px" id="imgDivLev2258" onclick="showHide('mymenuLev3258',this)" style="float:right;" src="images\expand.gif"></div>
+				<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev3258" class="hide"> <!--- lev 3 Div>-->	
+					
+					<div style="width: 90%; float: left; font-size: 12px;" class="menu4LEFT"><a class="leftsublinktext" target="_blank" title="Right to Information Regulation of Fee and Cost Amendment Rules 2005 &nbsp;( 422KB, PDF)" href="showfile.asp?lid=655" style="font-size: 12px;">Right to Information Regulation of Fee and Cost Amendment Rules 2005 &nbsp;</a></div>
+					
+					<div style="width: 90%; float: left; font-size: 12px;" class="menu4LEFT"><a class="leftsublinktext" target="_blank" title="Notification RTI  Regulation of Fee and Cost from DOPT under sub section 2 of section 27 &nbsp;( 71KB, PDF)" href="showfile.asp?lid=656" style="font-size: 12px;">Notification RTI  Regulation of Fee and Cost from DOPT under sub section 2 of section 27 &nbsp;</a></div>
+				
+					<div style="width: 90%; float: left; font-size: 12px;" class="menu4LEFT"><a class="leftsublinktext" title="Fee Prescribed " href="index4.asp?ssslid=652&amp;subsubsublinkid=23&amp;lang=1" style="font-size: 12px;">Fee Prescribed &nbsp;</a></div>
+					
+					<div style="width: 90%; float: left; font-size: 12px;" class="menu4LEFT"><a class="leftsublinktext" target="_blank" title="Mode of Payment of Fee &nbsp;( 45KB, PDF)" href="showfile.asp?lid=647" style="font-size: 12px;">Mode of Payment of Fee &nbsp;</a></div>
+				
+				
+				</div> <!--- lev 3 Div>-->	
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Manuals under Section 4 of RTI Act" href="index2.asp?slid=263&amp;sublinkid=132&amp;lang=1" style="font-size: 12px;">Manuals under Section 4 of RTI Act&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1132" onclick="showHide('mymenuLev2132',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2132" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Manual of Organisational History and Functions" href="index3.asp?sslid=266&amp;subsublinkid=91&amp;lang=1" style="font-size: 12px;">Manual of Organisational History and Functions&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Manual of Administration Wing" href="index3.asp?sslid=264&amp;subsublinkid=89&amp;lang=1" style="font-size: 12px;">Manual of Administration Wing&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Manual of Roads Wing" href="index3.asp?sslid=265&amp;subsublinkid=90&amp;lang=1" style="font-size: 12px;">Manual of Roads Wing&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manual of Road Transport Wing&nbsp;( 264KB, PDF)" href="showfile.asp?lid=401" style="font-size: 12px;">Manual of Road Transport Wing&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manual of Finance Wing&nbsp;( 45KB, PDF)" href="showfile.asp?lid=402" style="font-size: 12px;">Manual of Finance Wing&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manual of Regional Offices Civil&nbsp;( 71KB, PDF)" href="showfile.asp?lid=399" style="font-size: 12px;">Manual of Regional Offices Civil&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manual of Regional Offices Mechanical&nbsp;( 48KB, PDF)" href="showfile.asp?lid=400" style="font-size: 12px;">Manual of Regional Offices Mechanical&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manual of Public Grievance Redressal Machinery&nbsp;( 83KB, PDF)" href="showfile.asp?lid=403" style="font-size: 12px;">Manual of Public Grievance Redressal Machinery&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Hindi Salahakar Samiti&nbsp;( 129KB, HTM)" href="showfile.asp?lid=803" style="font-size: 12px;">Hindi Salahakar Samiti&nbsp;</a></div>
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Acts /  Rules / Notifications" href="index1.asp?lang=1&amp;linkid=7&amp;lid=85" style="font-size: 12px;">Acts /  Rules / Notifications&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev07" onclick="showHide('mymenuLev17',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev17" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notifications regarding Automotive Industry Standards" href="index2.asp?slid=759&amp;sublinkid=424&amp;lang=1" style="font-size: 12px;">Notifications regarding Automotive Industry Standards&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1424" onclick="showHide('mymenuLev2424',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2424" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Notification No. S.O.2610(E) dated 22/11/2011&nbsp;( 2084KB, PDF)" href="showfile.asp?lid=760" style="font-size: 12px;">Notification No. S.O.2610(E) dated 22/11/2011&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Carriage by Road Rules 2011" href="index2.asp?slid=124&amp;sublinkid=66&amp;lang=1" style="font-size: 12px;">Carriage by Road Rules 2011&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Central Motor Vehicles Rules 1989" href="index2.asp?slid=99&amp;sublinkid=58&amp;lang=1" style="font-size: 12px;">Central Motor Vehicles Rules 1989&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev158" onclick="showHide('mymenuLev258',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev258" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="PRELIMINARY1989" href="index3.asp?sslid=100&amp;subsublinkid=35&amp;lang=1" style="font-size: 12px;">PRELIMINARY1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="LICENSING OF DRIVERS OF MOTOR VEHICLES 1989" href="index3.asp?sslid=101&amp;subsublinkid=36&amp;lang=1" style="font-size: 12px;">LICENSING OF DRIVERS OF MOTOR VEHICLES 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="REGISTRATION OF MOTOR VEHICLES 1989" href="index3.asp?sslid=102&amp;subsublinkid=37&amp;lang=1" style="font-size: 12px;">REGISTRATION OF MOTOR VEHICLES 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CONTROL OF TRANSPORT VEHICLES 1989" href="index3.asp?sslid=103&amp;subsublinkid=38&amp;lang=1" style="font-size: 12px;">CONTROL OF TRANSPORT VEHICLES 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CONSTRUCTION EQUIPMENT AND MAINTENANCE OF MOTOR VEHICLES 1989" href="index3.asp?sslid=104&amp;subsublinkid=39&amp;lang=1" style="font-size: 12px;">CONSTRUCTION EQUIPMENT AND MAINTENANCE OF MOTOR VEHICLES 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="RENT A CAB SCHEME 1989" href="index3.asp?sslid=105&amp;subsublinkid=40&amp;lang=1" style="font-size: 12px;">RENT A CAB SCHEME 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="RULES OF THE ROAD REGULATIONS 1989" href="index3.asp?sslid=106&amp;subsublinkid=41&amp;lang=1" style="font-size: 12px;">RULES OF THE ROAD REGULATIONS 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="SOLATIUM SCHEME 1989" href="index3.asp?sslid=107&amp;subsublinkid=42&amp;lang=1" style="font-size: 12px;">SOLATIUM SCHEME 1989&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="OVERALL DIMENSIONS OF MOTOR VEHICLES" href="index3.asp?sslid=108&amp;subsublinkid=43&amp;lang=1" style="font-size: 12px;">OVERALL DIMENSIONS OF MOTOR VEHICLES&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="THE MOTOR VEHICLES (ALL INDIA PERMIT FOR TOURIST TRANSPORT OPERATORS) RULES 1993" href="index3.asp?sslid=109&amp;subsublinkid=44&amp;lang=1" style="font-size: 12px;">THE MOTOR VEHICLES (ALL INDIA PERMIT FOR TOURIST TRANSPORT OPERATORS) RULES 1993&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="THE DRIVING LICENCE" href="index3.asp?sslid=110&amp;subsublinkid=45&amp;lang=1" style="font-size: 12px;">THE DRIVING LICENCE&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="RENT A MOTOR CYCLE SCHEME 1997" href="index3.asp?sslid=111&amp;subsublinkid=46&amp;lang=1" style="font-size: 12px;">RENT A MOTOR CYCLE SCHEME 1997&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="THE LIQUEFIED PETROLEUM GAS (REGULATION OF USE IN MOTOR VEHICLES) ORDER 2001" href="index3.asp?sslid=112&amp;subsublinkid=47&amp;lang=1" style="font-size: 12px;">THE LIQUEFIED PETROLEUM GAS (REGULATION OF USE IN MOTOR VEHICLES) ORDER 2001&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Motor Vechicles Act 1988" href="index2.asp?slid=95&amp;sublinkid=54&amp;lang=1" style="font-size: 12px;">Motor Vechicles Act 1988&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev154" onclick="showHide('mymenuLev254',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev254" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Introduction Motor Vechicles Act 1988&nbsp;( 1765KB, PDF)" href="showfile.asp?lid=672" style="font-size: 12px;">Introduction Motor Vechicles Act 1988&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="PRELIMINARY" href="index3.asp?sslid=130&amp;subsublinkid=311&amp;lang=1" style="font-size: 12px;">PRELIMINARY&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Licensing of Drivers of Motor Vehicles" href="index3.asp?sslid=131&amp;subsublinkid=310&amp;lang=1" style="font-size: 12px;">Licensing of Drivers of Motor Vehicles&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Licensing of Conductors of Stage Carriages" href="index3.asp?sslid=132&amp;subsublinkid=303&amp;lang=1" style="font-size: 12px;">Licensing of Conductors of Stage Carriages&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="REGISTRATION OF MOTOR VEHICLES" href="index3.asp?sslid=133&amp;subsublinkid=307&amp;lang=1" style="font-size: 12px;">REGISTRATION OF MOTOR VEHICLES&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CONTROL OF TRANSPORT VEHICLES " href="index3.asp?sslid=134&amp;subsublinkid=309&amp;lang=1" style="font-size: 12px;">CONTROL OF TRANSPORT VEHICLES &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="SPECIAL PROVISIONS RELATING TO STATE TRANSPORT UNDERTAKINGS" href="index3.asp?sslid=135&amp;subsublinkid=308&amp;lang=1" style="font-size: 12px;">SPECIAL PROVISIONS RELATING TO STATE TRANSPORT UNDERTAKINGS&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CONSTRUCTION EQUIPMENT AND MAINTENANCE OF MOTOR VEHICLES" href="index3.asp?sslid=136&amp;subsublinkid=312&amp;lang=1" style="font-size: 12px;">CONSTRUCTION EQUIPMENT AND MAINTENANCE OF MOTOR VEHICLES&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CONTROL OF TRAFFIC" href="index3.asp?sslid=137&amp;subsublinkid=299&amp;lang=1" style="font-size: 12px;">CONTROL OF TRAFFIC&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="MOTOR VEHICLES TEMPORARILY LEAVING OR VISITING INDIA" href="index3.asp?sslid=138&amp;subsublinkid=305&amp;lang=1" style="font-size: 12px;">MOTOR VEHICLES TEMPORARILY LEAVING OR VISITING INDIA&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="LIABILITY WITHOUT FAULT IN CERTAIN CASES " href="index3.asp?sslid=139&amp;subsublinkid=302&amp;lang=1" style="font-size: 12px;">LIABILITY WITHOUT FAULT IN CERTAIN CASES &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="INSURANCE OF MOTOR VEHICLES AGAINST THIRD PARTY RISKS " href="index3.asp?sslid=140&amp;subsublinkid=300&amp;lang=1" style="font-size: 12px;">INSURANCE OF MOTOR VEHICLES AGAINST THIRD PARTY RISKS &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CLAIMS TRIBUNALS" href="index3.asp?sslid=141&amp;subsublinkid=298&amp;lang=1" style="font-size: 12px;">CLAIMS TRIBUNALS&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="OFFENCES PENALTIES AND PROCEDURE" href="index3.asp?sslid=142&amp;subsublinkid=306&amp;lang=1" style="font-size: 12px;">OFFENCES PENALTIES AND PROCEDURE&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="MISCELLANEOUS" href="index3.asp?sslid=143&amp;subsublinkid=304&amp;lang=1" style="font-size: 12px;">MISCELLANEOUS&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Carriage by Road Act 2007" href="index2.asp?slid=125&amp;sublinkid=67&amp;lang=1" style="font-size: 12px;">Carriage by Road Act 2007&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="National Highways Fee (Determination of Rates and Collection) Rules" href="index2.asp?slid=120&amp;sublinkid=63&amp;lang=1" style="font-size: 12px;">National Highways Fee (Determination of Rates and Collection) Rules&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev163" onclick="showHide('mymenuLev263',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev263" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Fee (Determination of Rates and Collection) Amendment Rules, 2011 (Notification No. G.S.R. 15(E) dated 12/1/2011)&nbsp;( 2544KB, PDF)" href="showfile.asp?lid=746" style="font-size: 12px;">National Highways Fee (Determination of Rates and Collection) Amendment Rules, 2011 (Notification No. G.S.R. 15(E) dated 12/1/2011)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Fee (Determination of Rates and Collection) Amendment Rules, 2010 (Notification No. G.S.R. 950(E) dated 3/12/2010)&nbsp;( 2438KB, PDF)" href="showfile.asp?lid=747" style="font-size: 12px;">National Highways Fee (Determination of Rates and Collection) Amendment Rules, 2010 (Notification No. G.S.R. 950(E) dated 3/12/2010)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Fee (Determination of Rates and Collection) Rules, 2008  (Notification No. G.S.R. 838(E) dated 5/12/2008)&nbsp;( 4096KB, PDF)" href="showfile.asp?lid=748" style="font-size: 12px;">National Highways Fee (Determination of Rates and Collection) Rules, 2008  (Notification No. G.S.R. 838(E) dated 5/12/2008)&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Central Road Fund (State Roads) Rules 2007&nbsp;( 8370KB, PDF)" href="showfile.asp?lid=406" style="font-size: 12px;">Central Road Fund (State Roads) Rules 2007&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Control of National Highways (Land and Traffic) Act 2002" href="index2.asp?slid=121&amp;sublinkid=64&amp;lang=1" style="font-size: 12px;">Control of National Highways (Land and Traffic) Act 2002&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notifications under Motor Vehicle Legislation" href="index2.asp?slid=86&amp;sublinkid=52&amp;lang=1" style="font-size: 12px;">Notifications under Motor Vehicle Legislation&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev152" onclick="showHide('mymenuLev252',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev252" class="hide"> <!--- lev 2 Div>-->
+								
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2011" href="index3.asp?sslid=795&amp;subsublinkid=352&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2011&nbsp;</a><img alt="" width="10px" id="imgDivLev2352" onclick="showHide('mymenuLev3352',this)" style="float:right;" src="images\expand.gif"></div>
+				<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev3352" class="hide"> <!--- lev 3 Div>-->	
+					
+					<div style="width: 90%; float: left; font-size: 12px;" class="menu4LEFT"><a class="leftsublinktext" target="_blank" title="Notification No. S.O.1932(E) dated 19-08-2011&nbsp;( 212KB, PDF)" href="showfile.asp?lid=796" style="font-size: 12px;">Notification No. S.O.1932(E) dated 19-08-2011&nbsp;</a></div>
+				
+				
+				</div> <!--- lev 3 Div>-->	
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR  During Year 2010" href="index3.asp?sslid=93&amp;subsublinkid=34&amp;lang=1" style="font-size: 12px;">Notifications under CMVR  During Year 2010&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2007" href="index3.asp?sslid=92&amp;subsublinkid=33&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2007&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2006" href="index3.asp?sslid=91&amp;subsublinkid=32&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2006&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2005" href="index3.asp?sslid=90&amp;subsublinkid=31&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2005&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2004" href="index3.asp?sslid=89&amp;subsublinkid=30&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2004&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2003" href="index3.asp?sslid=88&amp;subsublinkid=29&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2003&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Notifications under CMVR During Year 2002" href="index3.asp?sslid=87&amp;subsublinkid=28&amp;lang=1" style="font-size: 12px;">Notifications under CMVR During Year 2002&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notifications  on National Highways" href="index2.asp?slid=113&amp;sublinkid=59&amp;lang=1" style="font-size: 12px;">Notifications  on National Highways&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev159" onclick="showHide('mymenuLev259',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev259" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="During Year 2011" href="index3.asp?sslid=116&amp;subsublinkid=50&amp;lang=1" style="font-size: 12px;">During Year 2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="During Year 2010" href="index3.asp?sslid=114&amp;subsublinkid=48&amp;lang=1" style="font-size: 12px;">During Year 2010&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="During Years 2004 to 2009" href="index3.asp?sslid=115&amp;subsublinkid=49&amp;lang=1" style="font-size: 12px;">During Years 2004 to 2009&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="National Highways Tribunal Rules" href="index2.asp?slid=94&amp;sublinkid=53&amp;lang=1" style="font-size: 12px;">National Highways Tribunal Rules&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Central Road Fund Act 2000&nbsp;( 15984KB, PDF)" href="showfile.asp?lid=407" style="font-size: 12px;">Central Road Fund Act 2000&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Act 1956&nbsp;( 39735KB, PDF)" href="showfile.asp?lid=410" style="font-size: 12px;">National Highways Act 1956&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Authority of India Act 1998&nbsp;( 175KB, PDF)" href="showfile.asp?lid=408" style="font-size: 12px;">National Highways Authority of India Act 1998&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Highways Rules 1957&nbsp;( 331KB, PDF)" href="showfile.asp?lid=409" style="font-size: 12px;">National Highways Rules 1957&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Road Transport Corporations Act 1950&nbsp;( 8780KB, PDF)" href="showfile.asp?lid=411" style="font-size: 12px;">Road Transport Corporations Act 1950&nbsp;</a></div>
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Government Accounting Data" href="index1.asp?lang=1&amp;linkid=8&amp;lid=126" style="font-size: 12px;">Government Accounting Data&nbsp;</a></div>	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Publications" href="index1.asp?lang=1&amp;linkid=51&amp;lid=281" style="font-size: 12px;">Publications&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev051" onclick="showHide('mymenuLev151',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev151" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Performance of State Road Transport Undertakings (SRTUs) for 2010-2011&nbsp;( 1369KB, PDF)" href="showfile.asp?lid=775" style="font-size: 12px;">Performance of State Road Transport Undertakings (SRTUs) for 2010-2011&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Annual Reports" href="index2.asp?slid=297&amp;sublinkid=139&amp;lang=1" style="font-size: 12px;">Annual Reports&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1139" onclick="showHide('mymenuLev2139',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2139" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Annual Report 2010-2011&nbsp;( 441KB, PDF)" href="showfile.asp?lid=414" style="font-size: 12px;">Annual Report 2010-2011&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Annual Report 2008-2009&nbsp;( 17350KB, PDF)" href="showfile.asp?lid=413" style="font-size: 12px;">Annual Report 2008-2009&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Annual Report 2007-2008&nbsp;( 1652KB, PDF)" href="showfile.asp?lid=412" style="font-size: 12px;">Annual Report 2007-2008&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Annual Report 2006-2007&nbsp;( 2415KB, PDF)" href="showfile.asp?lid=415" style="font-size: 12px;">Annual Report 2006-2007&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Annual Report 2005-2006" href="index3.asp?sslid=300&amp;subsublinkid=110&amp;lang=1" style="font-size: 12px;">Annual Report 2005-2006&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Annual Report 2004-2005&nbsp;( 1KB, PDF)" href="showfile.asp?lid=416" style="font-size: 12px;">Annual Report 2004-2005&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Annual Report 2003-2004 - Supplement " href="index3.asp?sslid=299&amp;subsublinkid=109&amp;lang=1" style="font-size: 12px;">Annual Report 2003-2004 - Supplement &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Annual Report 2003-2004" href="index3.asp?sslid=298&amp;subsublinkid=108&amp;lang=1" style="font-size: 12px;">Annual Report 2003-2004&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Basic Road Statistics of India" href="index2.asp?slid=314&amp;sublinkid=142&amp;lang=1" style="font-size: 12px;">Basic Road Statistics of India&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1142" onclick="showHide('mymenuLev2142',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2142" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Basic Road Statistics of India 2004-05 To 2007-08&nbsp;( 3447KB, PDF)" href="showfile.asp?lid=417" style="font-size: 12px;">Basic Road Statistics of India 2004-05 To 2007-08&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Road Accidents in India" href="index2.asp?slid=311&amp;sublinkid=141&amp;lang=1" style="font-size: 12px;">Road Accidents in India&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1141" onclick="showHide('mymenuLev2141',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2141" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Road Accidents in India 2010&nbsp;( 2899KB, PDF)" href="showfile.asp?lid=761" style="font-size: 12px;">Road Accidents in India 2010&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Road Accidents in India 2009&nbsp;( 5238KB, PDF)" href="showfile.asp?lid=419" style="font-size: 12px;">Road Accidents in India 2009&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Road Accidents in India 2008&nbsp;( 3447KB, PDF)" href="showfile.asp?lid=418" style="font-size: 12px;">Road Accidents in India 2008&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Road Transport Year Book" href="index2.asp?slid=291&amp;sublinkid=137&amp;lang=1" style="font-size: 12px;">Road Transport Year Book&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1137" onclick="showHide('mymenuLev2137',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2137" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Road Transport Year Book 2007-09&nbsp;( 2260KB, PDF)" href="showfile.asp?lid=420" style="font-size: 12px;">Road Transport Year Book 2007-09&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Road Transport Year Book 2006-07" href="index3.asp?sslid=292&amp;subsublinkid=104&amp;lang=1" style="font-size: 12px;">Road Transport Year Book 2006-07&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Results Framework Document (RFD)" href="index2.asp?slid=294&amp;sublinkid=138&amp;lang=1" style="font-size: 12px;">Results Framework Document (RFD)&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1138" onclick="showHide('mymenuLev2138',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2138" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="RFD for 2011-12&nbsp;( 55KB, PDF)" href="showfile.asp?lid=742" style="font-size: 12px;">RFD for 2011-12&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="RFD for 2010-11&nbsp;( 37KB, PDF)" href="showfile.asp?lid=422" style="font-size: 12px;">RFD for 2010-11&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="RFD for 2009-10" href="index3.asp?sslid=295&amp;subsublinkid=106&amp;lang=1" style="font-size: 12px;">RFD for 2009-10&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Outcome Budget" href="index2.asp?slid=287&amp;sublinkid=136&amp;lang=1" style="font-size: 12px;">Outcome Budget&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1136" onclick="showHide('mymenuLev2136',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2136" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Outcome Budget 2011-12&nbsp;( 610KB, PDF)" href="showfile.asp?lid=425" style="font-size: 12px;">Outcome Budget 2011-12&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Outcome Budget 2010-11&nbsp;( 1777KB, PDF)" href="showfile.asp?lid=424" style="font-size: 12px;">Outcome Budget 2010-11&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Outcome Budget 2009-10&nbsp;( 508KB, PDF)" href="showfile.asp?lid=423" style="font-size: 12px;">Outcome Budget 2009-10&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Detailed Demands for Grants" href="index2.asp?slid=282&amp;sublinkid=135&amp;lang=1" style="font-size: 12px;">Detailed Demands for Grants&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1135" onclick="showHide('mymenuLev2135',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2135" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Detailed Demands for Grants for 2011-12&nbsp;( 6031KB, PDF)" href="showfile.asp?lid=428" style="font-size: 12px;">Detailed Demands for Grants for 2011-12&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Detailed Demands for Grants for 2010-11&nbsp;( 4016KB, PDF)" href="showfile.asp?lid=427" style="font-size: 12px;">Detailed Demands for Grants for 2010-11&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Detailed Demands for Grants for 2009-10&nbsp;( 9436KB, PDF)" href="showfile.asp?lid=426" style="font-size: 12px;">Detailed Demands for Grants for 2009-10&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Detailed Demands for Grants for 2008-09" href="index3.asp?sslid=283&amp;subsublinkid=97&amp;lang=1" style="font-size: 12px;">Detailed Demands for Grants for 2008-09&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Path Bharti" href="index2.asp?slid=306&amp;sublinkid=140&amp;lang=1" style="font-size: 12px;">Path Bharti&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1140" onclick="showHide('mymenuLev2140',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2140" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Path Bharti Volume 4" href="index3.asp?sslid=310&amp;subsublinkid=119&amp;lang=1" style="font-size: 12px;">Path Bharti Volume 4&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Path Bharti Volume 3" href="index3.asp?sslid=309&amp;subsublinkid=118&amp;lang=1" style="font-size: 12px;">Path Bharti Volume 3&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Path Bharti Volume 2" href="index3.asp?sslid=308&amp;subsublinkid=117&amp;lang=1" style="font-size: 12px;">Path Bharti Volume 2&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Path Bharti Volume 1" href="index3.asp?sslid=307&amp;subsublinkid=116&amp;lang=1" style="font-size: 12px;">Path Bharti Volume 1&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Vacancy" href="index1.asp?lang=1&amp;linkid=69&amp;lid=158" style="font-size: 12px;">Vacancy&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev069" onclick="showHide('mymenuLev169',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev169" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Advertisement for the post of Chairman in the National Highways Authority of India (NHAI)&nbsp;( 12KB, PDF)" href="showfile.asp?lid=773" style="font-size: 12px;">Advertisement for the post of Chairman in the National Highways Authority of India (NHAI)&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Filling up the post of Staff Car Driver Ordinary Grade&nbsp;( 12KB, PDF)" href="showfile.asp?lid=443" style="font-size: 12px;">Filling up the post of Staff Car Driver Ordinary Grade&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Control of National Highways Land and Traffic Act 2002 Application for appointment as Presiding Officer of the National Highways Tribunal&nbsp;( 902KB, PDF)" href="showfile.asp?lid=442" style="font-size: 12px;">Control of National Highways Land and Traffic Act 2002 Application for appointment as Presiding Officer of the National Highways Tribunal&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Appointment to post of Maintenance and Meeting Officer MMO on deputation basis in MoRTH&nbsp;( 80KB, PDF)" href="showfile.asp?lid=444" style="font-size: 12px;">Appointment to post of Maintenance and Meeting Officer MMO on deputation basis in MoRTH&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Appointment to the post of Registrar in the National Highways Tribunals under the control of National Highways Land Traffic Act 2002 on deputation basis&nbsp;( 762KB, PDF)" href="showfile.asp?lid=445" style="font-size: 12px;">Appointment to the post of Registrar in the National Highways Tribunals under the control of National Highways Land Traffic Act 2002 on deputation basis&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Applications for the Post of Manager in the Departmental Canteen of the Ministry&nbsp;( 1449KB, PDF)" href="showfile.asp?lid=441" style="font-size: 12px;">Applications for the Post of Manager in the Departmental Canteen of the Ministry&nbsp;</a></div>
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" href="ipd.asp?lang=1" title="Immovable Property Returns" style="font-size: 12px;">Immovable Property Returns&nbsp;</a></div>
+	
+		
+
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" href="showlink.asp?id=280" title="Press Releases" target="_blank" style="font-size: 12px;">Press Releases&nbsp;</a></div>
+	
+
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Associated Offices" href="index1.asp?lang=1&amp;linkid=1&amp;lid=1" style="font-size: 12px;">Associated Offices&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev01" onclick="showHide('mymenuLev11',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev11" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="BRO" href="showlink.asp?id=429" style="font-size: 12px;">BRO&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="NHAI" href="index2.asp?slid=2&amp;sublinkid=1&amp;lang=1" style="font-size: 12px;">NHAI&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="IRCC" href="index2.asp?slid=5&amp;sublinkid=2&amp;lang=1" style="font-size: 12px;">IRCC&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="NITHE" href="index2.asp?slid=6&amp;sublinkid=3&amp;lang=1" style="font-size: 12px;">NITHE&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="IRC" href="index2.asp?slid=7&amp;sublinkid=4&amp;lang=1" style="font-size: 12px;">IRC&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="IABSE" href="index2.asp?slid=8&amp;sublinkid=5&amp;lang=1" style="font-size: 12px;">IABSE&nbsp;</a></div>
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Useful Links" href="index1.asp?lang=1&amp;linkid=67&amp;lid=151" style="font-size: 12px;">Useful Links&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev067" onclick="showHide('mymenuLev167',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev167" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Permit website" href="showlink.asp?id=389" style="font-size: 12px;">National Permit website&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Invest India" href="showlink.asp?id=612" style="font-size: 12px;">Invest India&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="PARIVAHAN SEWA Portal" href="showlink.asp?id=450" style="font-size: 12px;">PARIVAHAN SEWA Portal&nbsp;</a></div>
+		
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="National Policy on HIVAIDS&nbsp;( 326KB, PDF)" href="showfile.asp?lid=451" style="font-size: 12px;">National Policy on HIVAIDS&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Govt of India Web Sites" href="index2.asp?slid=453&amp;sublinkid=220&amp;lang=1" style="font-size: 12px;">Govt of India Web Sites&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1220" onclick="showHide('mymenuLev2220',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2220" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="National Portal of India" href="showlink.asp?id=455" style="font-size: 12px;">National Portal of India&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Directory of Indian Government Websites" href="showlink.asp?id=459" style="font-size: 12px;">Directory of Indian Government Websites&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Department of Official Language " href="showlink.asp?id=464" style="font-size: 12px;">Department of Official Language &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Lok Sabha Questions " href="showlink.asp?id=462" style="font-size: 12px;">Lok Sabha Questions &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Press Information Bureau PIB" href="showlink.asp?id=465" style="font-size: 12px;">Press Information Bureau PIB&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Rajya Sabha Questions " href="showlink.asp?id=463" style="font-size: 12px;">Rajya Sabha Questions &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Parliament of India" href="showlink.asp?id=460" style="font-size: 12px;">Parliament of India&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="India Code Information System INCODIS" href="showlink.asp?id=466" style="font-size: 12px;">India Code Information System INCODIS&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="State Road Transport Undertakings" href="index2.asp?slid=467&amp;sublinkid=222&amp;lang=1" style="font-size: 12px;">State Road Transport Undertakings&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1222" onclick="showHide('mymenuLev2222',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2222" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Association of State Road Transport Undertakings" href="showlink.asp?id=468" style="font-size: 12px;">Association of State Road Transport Undertakings&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Karnataka " href="showlink.asp?id=469" style="font-size: 12px;">Karnataka &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Kerala" href="showlink.asp?id=470" style="font-size: 12px;">Kerala&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Maharashtra" href="showlink.asp?id=471" style="font-size: 12px;">Maharashtra&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="State Road Transport Authorities" href="index2.asp?slid=475&amp;sublinkid=223&amp;lang=1" style="font-size: 12px;">State Road Transport Authorities&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1223" onclick="showHide('mymenuLev2223',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2223" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Andhra Pradesh" href="showlink.asp?id=476" style="font-size: 12px;">Andhra Pradesh&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Delhi" href="showlink.asp?id=477" style="font-size: 12px;">Delhi&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Karnataka " href="showlink.asp?id=469" style="font-size: 12px;">Karnataka &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Madhya Pradesh" href="showlink.asp?id=479" style="font-size: 12px;">Madhya Pradesh&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Manipur" href="showlink.asp?id=480" style="font-size: 12px;">Manipur&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Meghalaya" href="showlink.asp?id=481" style="font-size: 12px;">Meghalaya&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Mizoram" href="showlink.asp?id=482" style="font-size: 12px;">Mizoram&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Orissa" href="showlink.asp?id=483" style="font-size: 12px;">Orissa&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Pondicherry" href="showlink.asp?id=484" style="font-size: 12px;">Pondicherry&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Punjab" href="showlink.asp?id=485" style="font-size: 12px;">Punjab&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Tamil Nadu" href="showlink.asp?id=486" style="font-size: 12px;">Tamil Nadu&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Uttar Pradesh" href="showlink.asp?id=487" style="font-size: 12px;">Uttar Pradesh&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="State PWDs" href="index2.asp?slid=597&amp;sublinkid=330&amp;lang=1" style="font-size: 12px;">State PWDs&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1330" onclick="showHide('mymenuLev2330',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2330" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Chhattisgarh PWD" href="showlink.asp?id=598" style="font-size: 12px;">Chhattisgarh PWD&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Kerala PWD" href="showlink.asp?id=599" style="font-size: 12px;">Kerala PWD&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Maharashtra PWD" href="showlink.asp?id=601" style="font-size: 12px;">Maharashtra PWD&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Mizoram PWD" href="showlink.asp?id=600" style="font-size: 12px;">Mizoram PWD&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Central Institute of Road Transport" href="showlink.asp?id=673" style="font-size: 12px;">Central Institute of Road Transport&nbsp;</a></div>
+		
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="FAQs" href="index1.asp?lang=1&amp;linkid=95&amp;lid=150" style="font-size: 12px;">FAQs&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev095" onclick="showHide('mymenuLev195',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev195" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="HIGH SECURITY REGISTRATION PLATES (HSRP)" href="index2.asp?slid=610&amp;sublinkid=337&amp;lang=1" style="font-size: 12px;">HIGH SECURITY REGISTRATION PLATES (HSRP)&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="INTER STATE TRANSFER OF VEHICLE" href="index2.asp?slid=609&amp;sublinkid=338&amp;lang=1" style="font-size: 12px;">INTER STATE TRANSFER OF VEHICLE&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="INTERNATIONAL DRIVING PERMIT (IDP)" href="index2.asp?slid=608&amp;sublinkid=336&amp;lang=1" style="font-size: 12px;">INTERNATIONAL DRIVING PERMIT (IDP)&nbsp;</a></div>
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="What's New" href="index1.asp?lang=1&amp;linkid=68&amp;lid=159" style="font-size: 12px;">What's New&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev068" onclick="showHide('mymenuLev168',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev168" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Notice regarding Revision of National Permit Fee w.e.f. 01.04.2012&nbsp;( 516KB, PDF)" href="showfile.asp?lid=805" style="font-size: 12px;">Notice regarding Revision of National Permit Fee w.e.f. 01.04.2012&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders to States under National Permit System for the months of February 2012&nbsp;( 1254KB, PDF)" href="showfile.asp?lid=804" style="font-size: 12px;">Sanction Orders to States under National Permit System for the months of February 2012&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Presentations of Working Groups on Road Safety" href="index2.asp?slid=781&amp;sublinkid=449&amp;lang=1" style="font-size: 12px;">Presentations of Working Groups on Road Safety&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Sanction Orders and Release Orders to States under National Permit System for the months of January 2012&nbsp;( 2476KB, PDF)" href="showfile.asp?lid=780" style="font-size: 12px;">Sanction Orders and Release Orders to States under National Permit System for the months of January 2012&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Environmental Management Framework (EMF) for NHIIP Phase-I Projects" href="index2.asp?slid=778&amp;sublinkid=444&amp;lang=1" style="font-size: 12px;">Environmental Management Framework (EMF) for NHIIP Phase-I Projects&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Resettlement Policy Framework (RPF) for NHIIP Phase-I Projects" href="index2.asp?slid=779&amp;sublinkid=445&amp;lang=1" style="font-size: 12px;">Resettlement Policy Framework (RPF) for NHIIP Phase-I Projects&nbsp;</a></div>
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Resolution regarding Specifications for RFID Tag and Transceiver for Electronic Toll Collection System dated 28th September, 2011&nbsp;( 4624KB, PDF)" href="showfile.asp?lid=749" style="font-size: 12px;">Resolution regarding Specifications for RFID Tag and Transceiver for Electronic Toll Collection System dated 28th September, 2011&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Report of Apex the Committee for implementation of Electronic Toll Collection (ETC)&nbsp;( 1439KB, PDF)" href="showfile.asp?lid=774" style="font-size: 12px;">Report of Apex the Committee for implementation of Electronic Toll Collection (ETC)&nbsp;</a></div>
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" target="_blank" title="Advertisement for the post of Chairman in the National Highways Authority of India (NHAI)&nbsp;( 12KB, PDF)" href="showfile.asp?lid=773" style="font-size: 12px;">Advertisement for the post of Chairman in the National Highways Authority of India (NHAI)&nbsp;</a></div>
+		
+	</div>	<!--- lev 1 Div>-->	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Download" href="index1.asp?lang=1&amp;linkid=6&amp;lid=84" style="font-size: 12px;">Download&nbsp;</a></div>	
+		
+	<div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Notices" href="index1.asp?lang=1&amp;linkid=106&amp;lid=619" style="font-size: 12px;">Notices&nbsp;</a><img alt="Show Sublinks" width="10px" id="imgDivLev0106" onclick="showHide('mymenuLev1106',this)" style="float:right;" src="images\expand.gif"></div>
+	<div style="width: 95%; display: none; font-size: 12px;" id="mymenuLev1106" class="hide"> <!--- lev 1 Div>-->
+		
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notices Miscellaneous" href="index2.asp?slid=649&amp;sublinkid=374&amp;lang=1" style="font-size: 12px;">Notices Miscellaneous&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1374" onclick="showHide('mymenuLev2374',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2374" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Stoppage of grantinaid and blacklist Osmania Muslim Minority Education Society Produttur Cuddapah Andhra Pradesh an NGO" href="index3.asp?sslid=668&amp;subsublinkid=293&amp;lang=1" style="font-size: 12px;">Stoppage of grantinaid and blacklist Osmania Muslim Minority Education Society Produttur Cuddapah Andhra Pradesh an NGO&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Notification inviting new Research Proposals in Bridge Engineering from Research Organisations Private Agencies etc.&nbsp;( 127KB, PDF)" href="showfile.asp?lid=671" style="font-size: 12px;">Notification inviting new Research Proposals in Bridge Engineering from Research Organisations Private Agencies etc.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Notice for preapplication Conference under RFQ for Annuity projects of North Eastern Region&nbsp;( 21KB, PDF)" href="showfile.asp?lid=670" style="font-size: 12px;">Notice for preapplication Conference under RFQ for Annuity projects of North Eastern Region&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CORRIGENDUM for prequalification of contractors for the work of NH 31 (2)" href="index3.asp?sslid=665&amp;subsublinkid=290&amp;lang=1" style="font-size: 12px;">CORRIGENDUM for prequalification of contractors for the work of NH 31 (2)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CORRIGENDUM for prequalification of contractors for the work of NH 31 (1)" href="index3.asp?sslid=664&amp;subsublinkid=289&amp;lang=1" style="font-size: 12px;">CORRIGENDUM for prequalification of contractors for the work of NH 31 (1)&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CORRIGENDUM for Contractors Prequalification for stretches of NH 31 in West Bengal" href="index3.asp?sslid=666&amp;subsublinkid=288&amp;lang=1" style="font-size: 12px;">CORRIGENDUM for Contractors Prequalification for stretches of NH 31 in West Bengal&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="CORRIGENDUM FOR BIDS INVITED FOR CONTRACTORS PREQUALIFICATION FOR PROJECTS IN ASSAM AND ARUNACHAL PRADESH" href="index3.asp?sslid=669&amp;subsublinkid=287&amp;lang=1" style="font-size: 12px;">CORRIGENDUM FOR BIDS INVITED FOR CONTRACTORS PREQUALIFICATION FOR PROJECTS IN ASSAM AND ARUNACHAL PRADESH&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Corrigendum for auction of condemned Ambassador car DL2CM1202&nbsp;( 116KB, PDF)" href="showfile.asp?lid=667" style="font-size: 12px;">Corrigendum for auction of condemned Ambassador car DL2CM1202&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Inviting entries for Incentive Award Scheme for original book writing in Hindi" href="index3.asp?sslid=621&amp;subsublinkid=285&amp;lang=1" style="font-size: 12px;">Inviting entries for Incentive Award Scheme for original book writing in Hindi&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="CORRIGENDUM for Prequalification of Strengthening of existing pavement on stretch of NH 31 &nbsp;( 68KB, PDF)" href="showfile.asp?lid=648" style="font-size: 12px;">CORRIGENDUM for Prequalification of Strengthening of existing pavement on stretch of NH 31 &nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+		<div style="width: 90%; float: left; font-size: 12px;" class="menu2LEFT"><a class="leftsublinktext" title="Notices for PPP Projects" href="index2.asp?slid=650&amp;sublinkid=375&amp;lang=1" style="font-size: 12px;">Notices for PPP Projects&nbsp;</a><img alt="Expand" width="10px" id="imgDivLev1375" onclick="showHide('mymenuLev2375',this)" style="float:right;" src="images\expand.gif"></div>	
+		<div style="width: 97%; display: none; font-size: 12px;" id="mymenuLev2375" class="hide"> <!--- lev 2 Div>-->
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum and Authoritys Response to Queries for RFQ for the stretch Raebareilly to Allahabad Section of NH 24B in U.P.&nbsp;( 42KB, PDF)" href="showfile.asp?lid=663" style="font-size: 12px;">Addendum and Authoritys Response to Queries for RFQ for the stretch Raebareilly to Allahabad Section of NH 24B in U.P.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum and Authoritys Response to Queries for RFQ for the stretch Varanasi to Gorakhpur Section of NH 29 in U.P.&nbsp;( 40KB, PDF)" href="showfile.asp?lid=662" style="font-size: 12px;">Addendum and Authoritys Response to Queries for RFQ for the stretch Varanasi to Gorakhpur Section of NH 29 in U.P.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum and Authoritys Response to Queries for RFQ for the stretch Kanpur to Kabrai Section of NH 86 in U.P.&nbsp;( 41KB, PDF)" href="showfile.asp?lid=661" style="font-size: 12px;">Addendum and Authoritys Response to Queries for RFQ for the stretch Kanpur to Kabrai Section of NH 86 in U.P.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum and Authoritys Response to Queries for RFQ for the stretch Agra to Aligarh Section of NH 93 in U.P.&nbsp;( 28KB, PDF)" href="showfile.asp?lid=660" style="font-size: 12px;">Addendum and Authoritys Response to Queries for RFQ for the stretch Agra to Aligarh Section of NH 93 in U.P.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum and Authoritys Response to Queries for RFQ for the stretch Aligarh to Kanpur section of NH 91 in U.P.&nbsp;( 19KB, PDF)" href="showfile.asp?lid=659" style="font-size: 12px;">Addendum and Authoritys Response to Queries for RFQ for the stretch Aligarh to Kanpur section of NH 91 in U.P.&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum to RFQ for the Project Section from Kollam Kazhuthurutty on NH 208 in Kerala &nbsp;( 79KB, PDF)" href="showfile.asp?lid=658" style="font-size: 12px;">Addendum to RFQ for the Project Section from Kollam Kazhuthurutty on NH 208 in Kerala &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Addendum to RFQ for the Project Section from Kozhikode Muthanga on NH 212 in Kerala&nbsp;( 80KB, PDF)" href="showfile.asp?lid=657" style="font-size: 12px;">Addendum to RFQ for the Project Section from Kozhikode Muthanga on NH 212 in Kerala&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" title="Amendment extending Proposal Due Date of RFP for Appointment of Financial Consultants" href="index3.asp?sslid=654&amp;subsublinkid=259&amp;lang=1" style="font-size: 12px;">Amendment extending Proposal Due Date of RFP for Appointment of Financial Consultants&nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="Notice Annulling Selection Process For RFP For Appointment Of Technical Consultant For Preparation Of Feasibility Study &nbsp;( 23KB, PDF)" href="showfile.asp?lid=653" style="font-size: 12px;">Notice Annulling Selection Process For RFP For Appointment Of Technical Consultant For Preparation Of Feasibility Study &nbsp;</a></div>
+				
+				<div style="width: 90%; float: left; font-size: 12px;" class="menu3LEFT"><a class="leftsublinktext" target="_blank" title="NOTICE ANNULLING SELECTION PROCESS RFP for Financial Consultants&nbsp;( 57KB, PDF)" href="showfile.asp?lid=651" style="font-size: 12px;">NOTICE ANNULLING SELECTION PROCESS RFP for Financial Consultants&nbsp;</a></div>
+				
+		</div> 	<!--- lev 2 Div>-->		
+				
+	</div>	<!--- lev 1 Div>-->	
+		
+        <div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Tenders" href="tenders.asp?lang=1" style="font-size: 12px;">Tenders</a></div>
+        
+        <div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Photo Gallery" href="pgcat.asp?lang=1" style="font-size: 12px;">Photo Gallery</a></div>
+        
+        <div style="width: 90%; float: left; font-size: 12px;" class="menu1LEFT"><a class="leftsublinktext" title="Archives" href="archmain.asp?lang=1" style="font-size: 12px;">Archives</a></div>
+        
+        <br><br>
+</div>
+</div> 
+		<div id="content1" style="font-size: 12px;"><script language="javascript" src="jquery.js" type="text/javascript"></script>
+<script language="javascript" src="jquery.highlight-3.js" type="text/javascript"></script>
+<script language="Javascript">
+function opn()
+{
+    var x= "main1view.asp?lid=456&linkid=77"
+    var xx=screen.width-10
+    var yy=screen.height
+    var zz=yy-20
+    window.open(x, "mywin", "toolbar=no,menubar=no,directories=no,status=yes,titlebar=no,resizable=yes,scrollbars=yes");
+}
+</script>
+<div style="font-size: 12px;">
+
+
+	<div style="float: left; font-size: 12px;"><a target="_blank" href="printcont.asp?lid=456&amp;linkid=77" style="font-size: 12px;"><img alt="Print Version" border="0" src="images/print_ic.gif"></a></div>	
+	
+	
+	<div id="lastup" style="font-size: 12px;">Last Updated On: 23/08/2011</div>	
+	
+	<br>
+	<br>
+	<div class="linkheader" id="maincont" style="font-size: 12px;">Privacy Policy</div>
+    <div style="width: 100%; margin: 1% 1% 1% 0%; font-size: 12px;"><img src="images/line_bg1.gif" width="100%" height="1px"></div>
+
+		<div id="cmscontent" style="font-size: 12px;"><div id="cmscontent" style="font-size: 12px;">
+<p align="justify" style="font-size: 12px;"><font size="2" face="verdana" style="font-size: 12px;">As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information. The information received depends upon what you do when visiting the site. </font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" style="font-size: 12px;"><font face="verdana" style="font-size: 12px;"><strong>Site visit data:<br></strong>This website records your visit and logs the following information for statistical purposes - your server’s address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site.<br><br>We will not identify users or their browsing activities, except when where a law enforcement agency may exercise a warrant to inspect the service provider’s logs. </font></font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" style="font-size: 12px;"><font face="verdana" style="font-size: 12px;"><strong>Cookies:<br></strong>A cookie is a piece of information that an Internet web site sends to your browser when you access information at that site. This site does not use cookies. </font></font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" style="font-size: 12px;"><font face="verdana" style="font-size: 12px;"><strong>Email management </strong>- collection of Personal Information</font></font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" face="verdana" style="font-size: 12px;">Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" face="verdana" style="font-size: 12px;">If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it.</font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" face="verdana" style="font-size: 12px;">If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.</font></p>
+
+<p align="justify" style="font-size: 12px;"><font size="2" style="font-size: 12px;"><font face="verdana" style="font-size: 12px;"><strong>Note :</strong> The use of the term “Personal Information” in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</font></font></p>
+</div></div>
+		
+	<div style="width: 100%; float: left; font-size: 12px;">
+    <div style="text-align: left; width: 15%; float: left; font-size: 12px;">
+	
+<!--<a href="index2.asp?n=2&contid=&lid=&lang=1&slid=&sublinkid=">Next</font></a>
+-->
+
+</div>
+
+</div>
+
+<div style="text-align: right; width: 10%; float: right; font-size: 12px;">
+
+</div>
+</div>
+
+</div>
+</div>
+	</div>
+	<div id="footer" style="font-size: 12px;">
+<div class="footer" style="font-size: 12px;">
+
+	<div class="footertext" style="font-size: 12px;">
+
+	    <a title="Screen Reader Access" class="footertext1" href="index1.asp?lang=1&amp;&amp;linkid=101&amp;lid=607" style="font-size: 12px;">Screen Reader Access</a>&nbsp;|&nbsp;
+	    <a title="Disclaimer" class="footertext1" href="index1.asp?lang=1&amp;linkid=72&amp;lid=449" style="font-size: 12px;">Disclaimer</a>&nbsp;|&nbsp;
+		<a title="Accessibility Options" class="footertext1" href="access.asp?lang=1" style="font-size: 12px;">Accessibility Options</a>&nbsp;|&nbsp;
+		<a title="Copyright Policy" class="footertext1" href="index1.asp?lang=1&amp;linkid=73&amp;lid=452" style="font-size: 12px;">Copyright Policy</a>&nbsp;|&nbsp;
+		<a title="Hyper Linking Policy" class="footertext1" href="index1.asp?lang=1&amp;linkid=76&amp;lid=461" style="font-size: 12px;">Hyperlinking Policy</a>&nbsp;|&nbsp;
+		<a title="Terms &amp; Conditions" class="footertext1" href="index1.asp?lang=1&amp;linkid=75&amp;lid=454" style="font-size: 12px;">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+		<a title="Privacy Policy" class="footertext1" href="index1.asp?lang=1&amp;linkid=77&amp;lid=456" style="font-size: 12px;">Privacy Policy</a>&nbsp;|&nbsp;
+		<a title="Help" class="footertext1" href="index1.asp?lang=1&amp;linkid=74&amp;lid=457" style="font-size: 12px;">Help</a>
+		<p align="center" style="font-size: 12px;"><font face="verdana" style="font-size: 12px;"><span style="font-family: &quot;’Times New Roman’&quot;, ’serif’; font-size: 12px;"><span style="font-family: &quot;’Times New Roman’&quot;, ’serif’; font-size: 12px;"><span style="line-height: 115%; font-family: ’Calibri’, ’sans-serif’; font-size: 12px;" lang="EN-IN">Content on this website is published and managed by Ministry of Road Transport &amp; Highways.<br></span></span></span><span style="font-family: &quot;’Times New Roman’&quot;, ’serif’; font-size: 12px;"><span style="font-family: &quot;’Times New Roman’&quot;, ’serif’; font-size: 12px;"><span style="line-height: 115%; font-family: ’Calibri’, ’sans-serif’; font-size: 12px;" lang="EN-IN"><span style="line-height: 115%; font-family: ’Calibri’, ’sans-serif’; font-size: 12px;" lang="EN-IN">For any query regarding this website please contact the Web Information Manager.</span></span></span></span></font></p>
+	</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+
+var chkCook=getCookie("fontSize");
+var defSize="3"
+if(chkCook!=null && chkCook!="")
+{
+	defSize=chkCook;
+	setFont('body',defSize,0)
+} 
+else
+{
+	setFont('body',0,1)
+}
+
+var colChk=getCookie("contrastscheme");
+if(colChk!=null && colChk!="")
+{
+	chngeCol(colChk);
+}
+</script>
+
+</div>
+	
+
+</center>
+
+
+
+</body></html>
