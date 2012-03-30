@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkfree7.blogspot.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006114237id_/http%3A//talkfree7.blogspot.com/2008/05/talkfree7-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkfree7.blogspot.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330085958id_/http%3A//talkfree7.blogspot.in/2008/05/talkfree7-privacy-policy.html) for the most accurate reproduction.*
 
-# Talkfree7 Privacy Policy | Free Call, VOIP, Skype, Android, IOS, Apps, Cell Phone
+# Talkfree7 Privacy Policy
 
 The privacy of our esteemed visitors to www.talkfree7.blogspot.com is important to us. 
 
@@ -12,7 +12,7 @@ http://www.google.com/privacypolicy.html
 
  **Interest-Based Advertising across Google Adsense Ads:**
 
-Google Adsense serves ads as contextual and placement-targeted advertising on its publishers' sites and they may also serve Adsense contextual ads on Interest-Based Advertising across the Google Adsense on its publishers' sites/ blogs etc, and to achieve this Google may use / collect necessary data from the visitors of this blog,
+Google Adsense serves ads as contextual and placement-targeted advertising on its publishers' sites and they may also serve Adsense contextual ads on Interest-Based Advertising across the Google Adsense on its publishers' sites/ blogs etc, and to achieve this [Google may use ](http://www.google.co.in/intl/en/policies/privacy/)/ collect necessary data from the visitors of this blog,
 
 Visitation information from my blogs may be used to help create interest categories.
 
