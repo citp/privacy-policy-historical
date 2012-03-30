@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyprincessgames.info privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130095232id_/http%3A//www.disneyprincessgames.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyprincessgames.info privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330182055id_/http%3A//www.disneyprincessgames.info/privacy.html) for the most accurate reproduction.*
 
 # Disney Princess Games Disney Princess Dress Up Games
 
