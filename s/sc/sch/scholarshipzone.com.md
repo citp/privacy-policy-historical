@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402082059id_/http%3A//www.scholarshipzone.com/privacy.php%3Fc%3D379827791) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipzone.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330064717id_/http%3A//www.scholarshipzone.com/%3Fpage%3Dprivacy%26c%3D4f74928259e23) for the most accurate reproduction.*
 
-# Scholarship Zone - Contact scholarship zone to ask questions, send us traffic, or advertise on our site
+# Free Easy College Scholarship Application Privacy | ScholarshipZone
 
 #### Privacy & Security Policy:
 
-scholarshipzone.com (“the site”) respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+scholarshipzone.com ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-scholarshipzone.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@scholarshipzone.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+scholarshipzone.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@scholarshipzone.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).   
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.scholarshipzone.com/seal_s "TRUSTe online privacy certification")
 
 #### Information Collected:
 
-The site only collects information that is volunteered during the registration process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral’s name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
+The site only collects information that is volunteered during the registration process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms and surveys such as name, email address, personal financial or demographic information, telephone numbers and addresses. We may also collect third party personal information such as a referral's name. We only use this information for the purpose in which it was intended. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business.
 
 #### How We Use That Information:
 
@@ -29,17 +30,21 @@ scholarshipzone.com may occasionally license, share, or otherwise disclose data 
 
 Additionally, scholarshipzone.com may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of scholarshipzone.com and its family of websites; and (c) comply with the valid legal process.
 
-#### Customer Testimonials/Comments/Reviews
+#### Customer Testimonials/Comments/Reviews:
 
 We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review.
 
 #### Framing:
 
-On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party Web site and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy statement. All information collected on _their_ site is owned and controlled by that company’s privacy statement.
+On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party Web site and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy statement. All information collected on _their_ site is owned and controlled by that company's privacy statement.
 
 #### Links to Other Sites:
 
 If you click on a link to a third party site, [including on an advertisement], you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarshipzone.com. We encourage you to review the privacy statements of any other service provider from whom you request services.
+
+#### Web Beacons:
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 #### Widgets:
 
@@ -67,7 +72,7 @@ The information and services provided by us are not intended for children under 
 
 #### Anti-Spam Policy and Your Opt-Out Rights:
 
-scholarshipzone.com has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). scholarshipzone.com reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarshipzone.com promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global unsubscribe page: [scholarshipzone.com/unsubscribe.php](http://www.scholarshipzone.com/unsubscribe.php)
+scholarshipzone.com has a no tolerance spam policy and is committed to 100% permission based marketing. Spam is unsolicited email also known as junk mail or UCE (Unsolicited Commercial Email). scholarshipzone.com reserves the right to send its subscribers registration confirmations, scholarship drawing notifications and relevant newsletters. We send both promotional and service related emails. Please note you cannot opt-out of service related emails. However, if you have received a scholarshipzone.com promotional email in error, you may remove your information from our database by responding to any of our email communications with "remove" in the subject line. You may also opt-out on our global unsubscribe page: [Unsubscribe](https://web.archive.org/web/20120330064717id_/http%3A//www.scholarshipzone.com/%3Fpage%3Dprivacy%26c%3D4f74928259e23?page=unsubscribe)
 
 #### Help scholarshipzone.com Eliminate Spam
 
@@ -79,17 +84,21 @@ Under California law, site visitors who are residents of California may request 
 
 #### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update or change this information unless you resubmit it on the form again. Additionally, you can contact us as described below. 
+When you submit your personal information on a form, it is not possible to update, delete, or change this information unless you resubmit it on the form again. Additionally, you can contact us as described below. 
 
 #### Transfer, Sale, or Assign:
 
 At its sole discretion, scholarshipzone.com may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of scholarshipzone.com.
 
+#### Data Retention:
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [scholarshipzone.com](mailto:info@scholarshipzone.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 #### Change in Policy:
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site. 
 
-Effective July 13, 2010
+Effective July 15, 2011 
 
 ####  Contact Information
 
