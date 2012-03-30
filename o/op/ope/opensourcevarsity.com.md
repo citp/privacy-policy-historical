@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025142217id_/http%3A//www.opensourcevarsity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330070526id_/http%3A//www.opensourcevarsity.com/uncategorised/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - opensourcevarsity.com
 
@@ -100,7 +100,7 @@ Though every effort is made to preserve your privacy, OSV may need to disclose p
 
 ## CHANGES TO THIS PRIVACY POLICY 
 
-OSV may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
+Handcraft.co.in may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
 
 ## COMMENTS/QUESTIONS
 
