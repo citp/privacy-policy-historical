@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130095948id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330212329id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
 
 # Midwest Living
+
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.midwestliving.com/mwl/file.jsp?item=/privacy/policy)
