@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201103758id_/http%3A//www.broadcastnow.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331214212id_/http%3A//www.broadcastnow.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
 ## Our Commitment To Your Privacy
 
-Broadcast and Emap are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of Emap for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy "Who Else Will We Tell About You" section below. 
+Broadcast and EMAP are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to affiliates of EMAP for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy "Who Else Will We Tell About You" section below. 
 
-This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Emap in correspondence, by telephone or by other means not detailed in this Policy.
+This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to EMAP in correspondence, by telephone or by other means not detailed in this Policy.
 
 ## Why We Need To Collect Information From You
 
@@ -18,11 +18,11 @@ Subject to what we say below, we will not pass on your personal details to any t
 
 If you enter any competitions on this Web site it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving. 
 
-Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Broadcast or Emap acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Broadcast despite a change of ownership. 
+Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Broadcast or EMAP acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Broadcast despite a change of ownership. 
 
 We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you. 
 
-Finally, Emap is not responsible for all of the web sites that are referred to, or linked to, in this Web site. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this Policy.
+Finally, EMAP is not responsible for all of the web sites that are referred to, or linked to, in this Web site. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this Policy.
 
 ## Security and possibility of international transfer.
 
