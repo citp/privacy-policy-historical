@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaufort.k12.nc.us privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224042534id_/http%3A//www.beaufort.k12.nc.us/privacy.phtml%3Fsessionid%3Dc235cbb0bc782a439e5bb5fecb4ccc5e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaufort.k12.nc.us privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331050110id_/http%3A//www.beaufort.k12.nc.us/privacy.phtml) for the most accurate reproduction.*
 
 # Beaufort County Schools
 
