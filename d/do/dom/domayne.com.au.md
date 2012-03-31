@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domayne.com.au privacy policy that was archived on 2011-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110825165540id_/http%3A//www.domayneonline.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domayne.com.au privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331035900id_/http%3A//www.domayneonline.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Company :: Privacy Policy - | Domayne Online Store - Furniture, Bedding, Homewares and Electronics
 
