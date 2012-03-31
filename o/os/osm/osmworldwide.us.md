@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osmworldwide.us privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130195407id_/http%3A//www.osmworldwide.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osmworldwide.us privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331075043id_/http%3A//www.osmworldwide.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | OSM Worldwide | Your High Value Mail and Shipping Solution
 
