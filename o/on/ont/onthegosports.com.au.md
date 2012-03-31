@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231065756id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331185242id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OnTheGo - Love Life. Sporting Apparel | Merchandise | Custom | Value Products | OnTheGo
 
@@ -11,6 +11,8 @@
 [](http://www.facebook.com/OnTheGoHQ)
 
 [](http://www.twitter.com/OnTheGoLife)
+
+[ ](http://www.facebook.com/OnTheGoHQ)
 
 In this policy, “us”, “we”, or “our” means OnTheGo Advertising, operators of this website.
 
@@ -154,4 +156,4 @@ Please choose carefully.  We do not normally give refunds if you simply change 
 
 **14\. SECURITY POLICY  **
 
-When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20111231065756id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
+When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20120331185242id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
