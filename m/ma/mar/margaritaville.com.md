@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the margaritaville.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125082147id_/http%3A//www.margaritaville.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margaritaville.com privacy policy that was archived on 2012-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120331102241id_/http%3A//www.margaritaville.com/privacy.html) for the most accurate reproduction.*
 
 # Jimmy Buffett's Margaritaville :: Privacy Policy
 
