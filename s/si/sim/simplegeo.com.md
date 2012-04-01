@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplegeo.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009175751id_/https%3A//simplegeo.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplegeo.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401132409id_/https%3A//simplegeo.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # SimpleGeo · Privacy Policy
 
