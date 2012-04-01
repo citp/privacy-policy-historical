@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202102141id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401213201id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.*
 
-# Vaporizer | Vaporizers | Best Vaporizer | Portable Vaporizers | iolite
+# Vaporizer | Vaporizers | Best Vaporizer | Portable Vaporizers | VaporNation
 
 At VaporNation.com, your privacy is a **TOP** priority. We want our users to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
