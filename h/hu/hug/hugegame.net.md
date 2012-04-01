@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugegame.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202125804id_/http%3A//www.hugegame.net/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugegame.net privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401121225id_/http%3A//www.hugegame.net/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hugegame
 
