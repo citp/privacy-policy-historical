@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hugegame.net privacy policy that was archived on 2011-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202125804id_/http%3A//www.hugegame.net/front/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hugegame.net privacy policy that was archived on 2012-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120401121225id_/http%3A//www.hugegame.net/front/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy - hugegame</title>
@@ -32,6 +32,12 @@
 		});
 		
 	});
+	
+	function preloader()
+	{
+		ajax_loader_img=new Image();
+		ajax_loader_img.src="http://www.hugegame.net/images/loading51.gif";
+	}
 	</script>
 	
 </head>
@@ -40,7 +46,14 @@
 <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
 <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body onload="preloader();"> <!--<![endif]-->
+<style type="text/css">
+	.fullscreen {background:#000 none repeat scroll 0 0;display:none;height:100%;left:0;filter:alpha(opacity=30);opacity: 0.3;top:0;width:100%;z-index:3000;display:none;position:fixed;}
+	#data-id{ z-index:2000; text-align:center;}#pls-wait-text{ font-size:18px; color:#000; font-weight:bolder;}
+	#pls-wait-text{ color:#666;}
+	.login-error-msg{display:none;}
+	#ok-close{font-size:10px; font-weight:bold; text-decoration:none; color:#F00; float:right; position:relative; margin-right:3px; margin-top:-15px; }	
+</style>
 <div id="header-clones">
     <div id="header-content-clones">
         <a href="http://www.hugegame.net/" class="header-logo-clones"><img src="http://www.hugegame.net/images_site/logo-premium.png"></a>
@@ -48,21 +61,23 @@
             <li><a href="http://www.hugegame.net/" class="menu-home-clones"></a></li>
             <li><a href="http://www.hugegame.net/browse/index" class="menu-game-clones"></a></li>
             <li><a href="http://www.hugegame.net/signup?sf=home_flow&amp;start=1" class="menu-shop-clones"></a></li>
-            <li><a href="http://billing.hugegame.net/" class="menu-community-clones"></a></li>           
+            <li><a href="http://billing.hugegame.net/support/en" class="menu-community-clones"></a></li>           
             <li><a href="http://www.hugegame.net/signup?sf=home_flow&amp;start=1" class="menu-signup-clones"></a></li>
         </ul>
         <div id="header-login-clones">
-            <form name="login" action="http://members.hugegame.net/login" method="post" onkeydown="if(event.keyCode == 13){return document.login.submit();}">
+            <form name="login" action="http://members.hugegame.net/login" method="post" onkeydown="if(event.keyCode == 13){loadPage();document.login.submit();}">
                 <div id="header-fill-clones">
-                    <input type="text" name="username" value="Your Email" class="fill-form-clones" onclick="clickclear(this, 'Your Email', 'text')" onblur="clickrecall(this,'Your Email')"><br>
-                    <input type="text" name="password" value="Password" class="fill-form-clones" onclick="clickclear(this, 'Password', 'password');" onblur="clickrecall(this,'Password');"><br>
+                   <input type="text" name="username" value="Your Email" class="fill-form" onclick="clickclear(this, 'Your Email', 'text')" onblur="clickrecall(this,'Your Email')" style="background: transparent url(http://www.hugegame.net/images/bk-fill.jpg) top left no-repeat; border:0; width:100px; height:18px; padding-right:5px; padding-left:4px; color:#d9d9d9; font-size:11px; margin-bottom:3px;"><br>
+                    <input type="text" name="fakepassword" id="fakepassword" class="fill-form" value="Password" onfocus="pwdFocus();" style="background: transparent url(http://www.hugegame.net/images/bk-fill.jpg) top left no-repeat; border:0; width:100px; height:18px; padding-right:5px; padding-left:4px; color:#d9d9d9; font-size:11px; margin-bottom:3px;">    
+                    <input type="password" name="password" id="password" class="fill-form" onblur="pwdBlur()" style="display: none; background: transparent url(http://www.hugegame.net/images/bk-fill.jpg) top left no-repeat; border:0; width:100px; height:18px; padding-right:5px; padding-left:4px; color:#d9d9d9; font-size:11px; margin-bottom:3px;"><br>
                     <input type="hidden" name="login_form" value="1">
                 </div>
                 <div id="header-all-btn-clones">
-                	<a href="" onclick="javascript:document.login.submit(); return false;"><img src="http://www.hugegame.net/images/img-overlay.gif" alt="Login" class="header-button-login-clones"></a>
-                    <a href="http://www.hugegame.net/signup?sf=home_flow&amp;start=1" target="_self"><img src="http://www.hugegame.net/images/img-overlay.gif" alt="Login" class="header-button-signup-clones"></a>
+                	<a href="" onclick="loadPage();document.login.submit(); return false;"><img src="http://www.hugegame.net/images/img-overlay.gif" alt="Login" class="header-button-login-clones"></a>
+                    <a href="http://www.hugegame.net/signup?sf=home_flow&amp;start=1" target="_self" onclick="loadPage();"><img src="http://www.hugegame.net/images/img-overlay.gif" alt="Login" class="header-button-signup-clones"></a>
                 </div>
             </form>
+             <span class="login-error-msg shadow radius">Please enter your Email/Password! <br><a href="#" onclick="$('.login-error-msg').fadeOut();" id="ok-close"><img src="images/remove_icon.png"></a></span>
         </div><!-- end #header-login -->
         
         <div id="dropmenu-games-clones">
@@ -77,7 +92,7 @@
             </div>
             <ul id="dropmenu-list-clones">
                 <li style="border-top:none;" class="clone-header-all-games"><a href="http://www.hugegame.net/browse/index" style="border-top:none 0px; color:#9ae9f1;">All Games</a></li>
-                <li><a href="http://www.hugegame.net/browse/index?g=1">Action</a></li><li><a href="http://www.hugegame.net/browse/index?g=6">Adventure</a></li><li><a href="http://www.hugegame.net/browse/index?g=16">Arcade</a></li><li><a href="http://www.hugegame.net/browse/index?g=18">Card and Board</a></li><li><a href="http://www.hugegame.net/browse/index?g=17">Classics</a></li><li><a href="http://www.hugegame.net/browse/index?g=20">Family and Children</a></li><li><a href="http://www.hugegame.net/browse/index?g=2">Fantasy</a></li><li><a href="http://www.hugegame.net/browse/index?g=5">Fighting</a></li><li><a href="http://www.hugegame.net/browse/index?g=15">GamesFree.ca Games</a></li><li><a href="http://www.hugegame.net/browse/index?g=22">Hidden Object</a></li><li><a href="http://www.hugegame.net/browse/index?g=14">iPhone</a></li><li><a href="http://www.hugegame.net/browse/index?g=21">Learning</a></li><li><a href="http://www.hugegame.net/browse/index?g=10">Puzzle</a></li><li><a href="http://www.hugegame.net/browse/index?g=7">Racing</a></li><li><a href="http://www.hugegame.net/browse/index?g=12">RPG and MMO</a></li><li><a href="http://www.hugegame.net/browse/index?g=3">Sci-Fi</a></li><li><a href="http://www.hugegame.net/browse/index?g=8">Shooter</a></li><li><a href="http://www.hugegame.net/browse/index?g=19">Simulation</a></li><li><a href="http://www.hugegame.net/browse/index?g=11">Sports</a></li><li><a href="http://www.hugegame.net/browse/index?g=9">Strategy</a></li><li><a href="http://www.hugegame.net/browse/index?g=23">Time Management</a></li>            </ul>
+                <li><a href="http://www.hugegame.net/browse/index?g=1">Action</a></li><li><a href="http://www.hugegame.net/browse/index?g=6">Adventure</a></li><li><a href="http://www.hugegame.net/browse/index?g=16">Arcade</a></li><li><a href="http://www.hugegame.net/browse/index?g=18">Card and Board</a></li><li><a href="http://www.hugegame.net/browse/index?g=17">Classics</a></li><li><a href="http://www.hugegame.net/browse/index?g=20">Family and Children</a></li><li><a href="http://www.hugegame.net/browse/index?g=2">Fantasy</a></li><li><a href="http://www.hugegame.net/browse/index?g=5">Fighting</a></li><li><a href="http://www.hugegame.net/browse/index?g=15">GamesFree.ca Games</a></li><li><a href="http://www.hugegame.net/browse/index?g=22">Hidden Object</a></li><li><a href="http://www.hugegame.net/browse/index?g=21">Learning</a></li><li><a href="http://www.hugegame.net/browse/index?g=14">Mobile</a></li><li><a href="http://www.hugegame.net/browse/index?g=10">Puzzle</a></li><li><a href="http://www.hugegame.net/browse/index?g=7">Racing</a></li><li><a href="http://www.hugegame.net/browse/index?g=12">RPG and MMO</a></li><li><a href="http://www.hugegame.net/browse/index?g=3">Sci-Fi</a></li><li><a href="http://www.hugegame.net/browse/index?g=8">Shooter</a></li><li><a href="http://www.hugegame.net/browse/index?g=19">Simulation</a></li><li><a href="http://www.hugegame.net/browse/index?g=11">Sports</a></li><li><a href="http://www.hugegame.net/browse/index?g=9">Strategy</a></li><li><a href="http://www.hugegame.net/browse/index?g=23">Time Management</a></li>            </ul>
         </div><!-- end #dropmenu -->
         
         <div id="error-header-clones">
@@ -87,6 +102,50 @@
     </div><!-- end #header-content -->
     
 </div><!-- end #header -->
+
+<script type="text/javascript">
+jQuery.fn.center = function () {
+    this.css("position","absolute");
+	this.css("top", "350px");
+	this.css("left", "950px");
+    //this.css("top", (($(window).height() - this.outerHeight()) / 2) + $(window).scrollTop() + "px");
+    //this.css("left", (($(window).width() - this.outerWidth()) / 2) + $(window).scrollLeft() +30 + "px");
+    return this;
+}
+
+function loadPage(){
+	var divShow=false;
+	$('<div />').addClass('fullscreen').appendTo('body').show().click(function(){
+			 $('.fullscreen').fadeOut('slow').remove();
+			 $('#data-id').fadeOut('slow').remove();
+			 divShow = false;
+		  });	
+		  
+    if(divShow==false)
+		  {	
+		  	var text = "Please wait...";			
+		   	$('body').append("<div id='data-id'><span id='pls-wait-text'>"+text+"</span><br/><br /><br /><img src='http://www.hugegame.net/images/loading51.gif' style='margin-top:-17px;' alt='loading'></div>");			 	
+			$('#data-id').center();
+			divShow=true;
+		  }	
+}
+function frmLogin()
+{
+	var usernameVal = document.login.username.value;
+	var passwordVal = document.login.password.value; 	
+	if (usernameVal== "Your Email" || usernameVal == "" || passwordVal == "Password" || passwordVal == "")
+	{
+	$('.login-error-msg').css({'display': 'block', 'position': 'absolute', 'top': '10px', 'left':'-100px', 'width': '230px','padding':'5px 5px 5px 20px','margin':'10px','z-index':'100','color':'#AAA', 'background':'#fff','font': '12px', 'text-align':'left'});
+	}		
+	else
+	{				
+		loadPage();
+		document.login.submit(); 
+	}
+	
+}
+
+</script>
 
 <div id="ad"></div>
 <div id="container">
@@ -100,7 +159,7 @@
             <li><a href="https://www.hugegame.net/signup?sf=home_flow"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-latest"></a></li>
             <li><a href="http://www.hugegame.net/browse/index"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-gamelist"></a></li>
             <li><a href="https://www.hugegame.net/signup?sf=home_flow"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-news"></a></li>
-            <li><a href="http://billing.hugegame.net/"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-support"></a></li>
+            <li><a href="http://billing.hugegame.net/support/en"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-support"></a></li>
             <li><a href="https://www.hugegame.net/signup?sf=home_flow"><img src="http://www.hugegame.net/images/img-overlay.gif" class="menu-signup"></a></li>
         </ul>
     </div>
@@ -235,10 +294,13 @@
     	<a href="http://www.hugegame.net/front/about_us" target="_self">About Us</a> | 
         <a href="http://www.hugegame.net/front/terms" target="_self">Terms &amp; Conditions</a> | 
         <a href="http://www.hugegame.net/front/privacy" target="_self">Privacy Policy</a> | 
-        <a href="http://billing.hugegame.net/" target="_self">Support</a> | 
+        <a href="http://billing.hugegame.net/support/en" target="_self">Support</a> | 
         <a href="http://members.hugegame.net/" target="_self">Members Area</a><br><br>
-         © HugeGame<br><br>    	
+        <div style="text-align: center;"><strong class="ctry">Contact Address: </strong>KH Media LLC, 3422 Old Capital Trail, Suite 1514, Wilmington, DE 19808-6192, USA</div><br>         © HugeGame<br><br>    	
     </div>   
+    
+<!-- Fetchback Pixel -->
+<iframe src="https://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4159" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frame-border="0"></iframe>
 
 
 </div></div></div></div></body></html>
