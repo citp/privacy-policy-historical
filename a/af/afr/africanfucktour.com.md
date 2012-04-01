@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the africanfucktour.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009061624id_/http%3A//www.africanfucktour.com/cimages/legal/privacy.html%3Fsite%3Dafricanfucktour) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanfucktour.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401164453id_/http%3A//www.africanfucktour.com/cimages/legal/privacy.html%3Fsite%3Dafricanfucktour) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by FST 8 Inc.
-
-FST 8 Inc.  
-30150 Telegraph Rd  
-Suite 444  
-Bingham Farms  
-MI  
-United States  
-48025  
-
+This website (the "Site") is operated by: 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
 
@@ -58,6 +49,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 ## Terms and Conditions of Membership:
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20111009061624id_/http%3A//www.africanfucktour.com/cimages/legal/terms.html?site=africanfucktour) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20120401164453id_/http%3A//www.africanfucktour.com/cimages/legal/terms.html?site=africanfucktour) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
