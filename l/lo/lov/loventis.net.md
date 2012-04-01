@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loventis.net privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103095842id_/http%3A//www.loventis.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loventis.net privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401193334id_/http%3A//www.loventis.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Loventis Hotelsoftware
 
