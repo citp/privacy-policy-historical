@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vboxarticles.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152908id_/http%3A//vboxarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vboxarticles.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401165843id_/http%3A//vboxarticles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | vBox Articles Directory
+# vBox Articles Directory- Privacy Policy
 
 ## **  
 VboxArticles.com – Website Privacy Policy**
