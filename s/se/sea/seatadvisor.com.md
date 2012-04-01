@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127013011id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401054604id_/http%3A//www.seatadvisor.com/privacy.html) for the most accurate reproduction.*
 
 # SeatAdvisor, Inc. | Privacy Statement
 
@@ -85,3 +85,28 @@ Because SeatAdvisor Inc, is a private labeled software provider, Our clients pre
 To verify that this page is secure and that your credit card number and personal information is being transmitted with an SSL-encrypted page, you may right click on the checkout page and view information about the page (most browsers work this way). You will see that the page is using 'https' indicating an SSL-Encrypted page.
 
 Please feel free to [contact us](http://www.seatadvisor.com/contact/contact.html) directly with questions regarding check-out security.
+
+  
+[We self-certify compliance with](http://seatadvisor.com/images2/safeharborlogo.jpg)  
+[](http://www.export.gov/safeharbor)
+
+If you are visiting the SeatAdvisor website from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using our website, you consent to our collection and use of your data as described in this privacy policy. SeatAdvisor Inc. is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union and has self-certified compliance with the Safe Harbor Privacy Principles with respect to personal information transferred to us in the U.S. from European countries. 
+
+In compliance with the Safe Harbor Principles, SeatAdvisor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SeatAdvisor Inc. at: 
+
+SeatAdvisor Inc.  
+Internal Dispute Resolution Dept  
+Attn: Rory O’Donnell  
+555 West Beech Street  
+Suite 302  
+San Diego  
+CA 92101
+
+SeatAdvisor Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SeatAdvisor Inc you may contact the BBB EU SAFE HARBOR program at the address below:
+
+Council of Better Business Bureaus, Inc. BBB EU SAFE HARBOR  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)  
+
