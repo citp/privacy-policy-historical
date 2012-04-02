@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatcourses.com privacy policy that was archived on 2011-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110819010720id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatcourses.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402044500id_/http%3A//www.thegreatcourses.com/tgc/About%2520Us/privacy.aspx) for the most accurate reproduction.*
 
 # Personal Information and Privacy Policy
 
