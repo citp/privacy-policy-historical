@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alapbangla.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206015144id_/http%3A//www.alapbangla.com/Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alapbangla.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402091537id_/http%3A//alapbangla.com/Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ We receive and store any information you enter on our website or provide to us i
 
 ### E-mail Communications
 
-AlapBangla is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. AlapBangla may send out e-mails with AlapBangla-related news, products, offers, surveys or promotions. You may also receive notification e-mails from AlapBangla, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the [Email Preferences](http://www.alap.alapbangladesh.com/settings/email) section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+AlapBangla is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. AlapBangla may send out e-mails with AlapBangla-related news, products, offers, surveys or promotions. You may also receive notification e-mails from AlapBangla, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the [Email Preferences](http://www.alapbangla.com/settings/email) section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
 ### Cookies
 
@@ -41,9 +41,9 @@ Because AlapBangla enables people to discover and share information with one ano
 
   * AlapBangla Personnel: AlapBangla personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of AlapBangla business. 
   * Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if AlapBangla, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
-  * Protection of AlapBangla and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our [Terms of Use](http://www.alap.alapbangladesh.com/Terms.htm) and other policies; or to protect the rights, property, or safety of AlapBangla, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
-  * User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other AlapBangla users in your User Profile. The User Profile is the area on AlapBangla where we allow you to tell other AlapBangla users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the [Privacy Settings](http://www.alap.alapbangladesh.com/Policy.htm) section of your User Profile. 
-  * Member Directory: The e-mail address that you submit upon registration will be searchable by other AlapBangla users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through AlapBangla. You may opt-out of this feature by visiting the [Privacy Settings](http://www.alap.alapbangladesh.com/Policy.htm) section of your User Profile. 
+  * Protection of AlapBangla and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our [Terms of Use](http://www.alapbangla.com/Terms.htm) and other policies; or to protect the rights, property, or safety of AlapBangla, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other AlapBangla users in your User Profile. The User Profile is the area on AlapBangla where we allow you to tell other AlapBangla users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the [Privacy Settings](http://www.alapbangla.com/Policy.htm) section of your User Profile. 
+  * Member Directory: The e-mail address that you submit upon registration will be searchable by other AlapBangla users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through AlapBangla. You may opt-out of this feature by visiting the [Privacy Settings](http://www.alapbangla.com/Policy.htm) section of your User Profile. 
   * Social sharing of data: AlapBangla allows other users to browse stories that you have Dugg, submitted, blogged, or commented on. This information is made available via your User Profile, or within the permalink URL of the story on which you performed the action. AlapBangla may choose to post this data on other site features. 
   * Friends' Activity: Much like other online social networks, AlapBangla allows non-friends to browse your friends' activity ( AlapBangla.com/users/usersname/friends). 
   * API: AlapBangla will allow third parties access to all AlapBangla data this is already publicly available through the AlapBangla website. AlapBangla will keep private any passwords and blog settings. 
@@ -63,10 +63,10 @@ Because AlapBangla enables people to discover and share information with one ano
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links. 
   * By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records. 
-  * You may request deletion of your AlapBangla account by e-mailing us at [support@AlapBangla.com](http://www.alap.alapbangladesh.com/support@alapbangladesh.com). 
-  * If you do not wish to receive e-mail from us or other AlapBangla users, please visit the [Email Preferences](http://www.alap.alapbangladesh.com/settings/email) section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. 
+  * You may request deletion of your AlapBangla account by e-mailing us at [support@AlapBangla.com](http://www.alapbangla.com/support@alapbangla.com). 
+  * If you do not wish to receive e-mail from us or other AlapBangla users, please visit the [Email Preferences](http://www.alapbangla.com/settings/email) section of your User Profile and/or follow the instructions contained in the unwanted e-mail message. 
   * However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
-  * If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the [Privacy Settings](http://www.alap.alapbangladesh.com/settings) section of your User Profile to opt out of this feature. 
+  * If you do not wish to have people who know you by your email address find you via the Member Directory service, please visit the [Privacy Settings](http://www.alapbangla.com/settings) section of your User Profile to opt out of this feature. 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
 
@@ -81,7 +81,7 @@ AlapBangla may amend this Privacy Policy from time to time, at its sole discreti
 
 ### Conditions of Use
 
-If you decide to visit AlapBangla website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://www.alap.alapbangladesh.com/Terms.htm), including limitations on damages, arbitration of disputes, and application of California state law.
+If you decide to visit AlapBangla website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://www.alapbangla.com/Terms.htm), including limitations on damages, arbitration of disputes, and application of California state law.
 
 ### Effective Date of this Privacy Policy
 
