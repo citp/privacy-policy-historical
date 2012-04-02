@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216022655id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402050111id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Dnoadvert%26prg%3D1%26tour%3D1at20%26cmp%3Ddeleted%26ad_id%3Ddeleted%26pg%3D1) for the most accurate reproduction.*
 
 # Fling.com - World's Best Personals
 
