@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101210110id_/http%3A//blastoffnetwork.com/overlays/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402214957id_/http%3A//www.blastoffnetwork.com/overlays/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
