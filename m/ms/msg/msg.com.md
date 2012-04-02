@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msg.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223002750id_/http%3A//www.msg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msg.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402032331id_/http%3A//www.msg.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MSG.com
 
@@ -22,39 +22,39 @@ Please be careful and responsible whenever you are online. If you choose to post
 **COOKIES**  
 In addition to information that identifies you, we collect anonymous data about your use of the Website and Services through the use of Internet server logs and cookies, pixels, and Adobe Flash technologies. A web server log is a file where website activity is stored. A cookie is a small piece of information that a website places on your computer. We use cookies to track repeat visits to our Website and the Services. We may also use these automated technologies to collect and analyze other non-personal information related to the devices you use to access the Website and Services, such as IP address, browser types, browser language, and unique device identifier and other information about your mobile device(s). 
 
-Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., [http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies/)). You can also manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see [http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html](http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html/). Please note that by blocking any or all cookies you may not have access to certain features available through the Website or Services. 
+Please note that you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).   You can also manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.  Please note that by blocking any or all cookies you may not have access to certain features available through the Website or Services. 
 
-We use third parties to assist us in serving advertisements, tracking aggregate site usage statistics, and providing content sharing services to support the Website or Services. These third parties may also use cookies and similar technologies to collect similar non-personal information about your visits to the Website and/or use of the Services. We do not control these third-party technologies and their use is governed by those parties' privacy policies. For more information about third-party ad networks that use these technologies, and to opt-out of their collection of information, see [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp/)
+We use third parties to assist us in serving advertisements, tracking aggregate site usage statistics, and providing content sharing services to support the Website or Services.   These third parties may also use cookies and similar technologies to collect similar non-personal information about your visits to the Website and/or use of the Services.   We do not control these third-party technologies and their use is governed by those parties' privacy policies. For more information about third-party ad networks that use these technologies, and to opt-out of their collection of information, see [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp/)
 
  **HOW WE USE YOUR INFORMATION**
 
 The MSG Family may use your information for the following purposes: 
 
-1\. For the purposes for which you provided it; 
+• For the purposes for which you provided it; 
 
-2\. To send you information about your relationship or transactions with us; 
+• To send you information about your relationship or transactions with us; 
 
-3\. To send you alerts or other communications via SMS messages or other media or networks; 
+• To send you alerts or other communications via SMS messages or other media or networks; 
 
-4\. To notify you about new features of the Services, discounts, special events, or products, services, and special offers; 
+• To notify you about new features of the Services, discounts, special events, or products, services, and special offers; 
 
-5\. To administer sweepstakes and contests; 
+• To administer sweepstakes and contests; 
 
-6\. To process and respond to your inquiries; 
+• To process and respond to your inquiries; 
 
-7\. To contact you with information that we believe will be of interest to you; 
+• To contact you with information that we believe will be of interest to you; 
 
-8\. To attribute content that you make available through the Website or the Services; 
+• To attribute content that you make available through the Website or the Services; 
 
-9\. For internal research and reporting; 
+• For internal research and reporting; 
 
-10\. To improve the content and features of the Services or develop new Services; 
+• To improve the content and features of the Services or develop new Services; 
 
-11\. To allow us to personalize the content and advertising that you see on the Website or the Services; 
+• To allow us to personalize the content and advertising that you see on the Website or the Services; 
 
-12\. To enforce the legal terms that govern your use of the Website or the Services; and
+• To enforce the legal terms that govern your use of the Website or the Services; and
 
-13\. To administer and troubleshoot the Services. 
+• To administer and troubleshoot the Services. 
 
 We may send you commercial email on behalf of ourselves, other members of the MSG Family, and certain unaffiliated third parties that are not part of the MSG Family (e.g. sites that offer discounts for certain products, sells tickets, sells MSG merchandise, or advertises ticket promotions or provides fantasy games, subscription services, registration for camps and clinics, etc.) ("Partners"). You may opt-out of receiving such emails by using the opt-out mechanism included in each email. 
 
@@ -69,18 +69,18 @@ We have contracted with certain unaffiliated third parties that are not part of 
 
 We may provide access to information to select third parties to assist us in providing services or for other legitimate business purposes. For example, we may provide access to certain information to companies providing services to us, including billing, sales and marketing, market research, fulfillment, data storage, analysis and processing, and legal services. We may also provide access to third parties who assist us in providing targeted advertising. The frequency of such access depends on our business needs, and third parties who have such access may not use the information for any other purpose, including their own marketing. 
 
-You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of MSG, its agents and affiliates, its users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law. 
+You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of MSG, its agents and affiliates, its users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
 Finally, we also reserve the right to disclose and transfer all of your information, including your personal information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business. 
 
 **CONSENT TO TRANSFER**  
-This site is operated in the United States. If you are a resident of the European Union or other location outside the United States, please be advised that any information you provide through the Website or use of the Services will be transferred to the United States. By using this Website or Services, you consent to this transfer and to the use of the personal information as described herein. 
+This site is operated in the United States. If you are a resident of the European Union or other location outside the United States, please be advised that any information you provide through the Website or use of the Services will be transferred to the United States. In addition, we may transfer personal information to Singapore for certain processing operations. We have taken steps to ensure your personal information is appropriately protected and is processed only in accordance with this Policy. By using this Website or Services, you consent to this transfer and to the use of the personal information as described herein. 
 
 **OPTING OUT OF USE OF PERSONAL INFORMATION**  
-If you have provided personal information on the Website or through use of the Services and later decide that you would rather not have the MSG Family use such data for marketing purposes in accordance with Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from a MSG Family member and opting out of receiving information from any MSG Family member; (ii) by sending us an email at [msgfeedback@msg.com](https://web.archive.org/web/20111223002750id_/http%3A//www.msg.com/msgfeedback@msg.com/); or (iii) writing us at MSG Holdings, L.P., Two Pennsylvania Plaza, New York, New York, 10121. 
+If you have provided personal information on the Website or through use of the Services and later decide that you would rather not have the MSG Family use such data for marketing purposes in accordance with Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from a MSG Family member and opting out of receiving information from any MSG Family member; (ii) by sending us an email at msgfeedback@msg.com; or (iii) writing us at MSG Holdings, L.P., Two Pennsylvania Plaza, New York, New York, 10121. 
 
 **UPDATING YOUR INFORMATION**  
-To keep information that you provide via this website accurate, current and complete, visit your Website subscription page(s) or email [msgfeedback@msg.com](https://web.archive.org/web/20111223002750id_/http%3A//www.msg.com/msgfeedback@msg.com/) to update and/or correct any information previously provided. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration. 
+To keep information that you provide via this website accurate, current and complete, visit your Website subscription page(s) or email msgfeedback@msg.com to update and/or correct any information previously provided. If a member name and password were required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration. 
 
 **LINKS**  
 We may include links to third party websites on the Website or the Services. We are not responsible for the privacy practices or the content of such websites. Any information you provide via those sites is subject to the Privacy Policies on those websites and is not covered by this Privacy Policy. 
@@ -89,16 +89,16 @@ We may include links to third party websites on the Website or the Services. We 
 We have implemented commercially reasonable administrative, technical, and physical security measures to protect against the loss, misuse and alteration of your information. Despite our best efforts, however, no website or Internet transmission can be completely secure, and we cannot guarantee that these measures will prevent every unauthorized attempt to access, use, or disclose your information. 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
-Beginning January 1, 2005, California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [msgfeedback@msg.com](https://web.archive.org/web/20111223002750id_/http%3A//www.msg.com/msgfeedback@msg.com/) or write to us at MSG Holdings, L.P., 11 Pennsylvania Plaza, New York, New York 10001. 
+Beginning January 1, 2005, California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to msgfeedback@msg.com or write to us at MSG Holdings, L.P., 11 Pennsylvania Plaza, New York, New York 10001. 
 
 **INFORMATION FROM CHILDREN**  
 MSG does not seek to collect any personally identifiable information directly from children under the age of 13. If you are under 13, please do not submit any personally identifiable information to MSG. 
 
 **CONTACTING US ABOUT THIS POLICY**  
-Please do not hesitate to contact us with any questions, concerns, requests or comments by email at [msgfeedback@msg.com](https://web.archive.org/web/20111223002750id_/http%3A//www.msg.com/msgfeedback@msg.com/) or write us at: MSG Holdings, L.P., 11 Pennsylvania Plaza, New York, New York 10001. 
+Please do not hesitate to contact us with any questions, concerns, requests or comments by email at msgfeedback@msg.com or write us at: MSG Holdings, L.P., 11 Pennsylvania Plaza, New York, New York 10001. 
 
-Effective Date: October 25, 2011
+Effective Date: January 9, 2012
 
-© Copyright 1999-2011 MSG Holdings, L.P. 2 Pennsylvania Plaza, New York, NY 10121-0091. All rights reserved. Use of this site signifies your acceptance of this Privacy Policy. 
+© Copyright 1999-2012 MSG Holdings, L.P. 2 Pennsylvania Plaza, New York, NY 10121-0091. All rights reserved. Use of this site signifies your acceptance of this Privacy Policy. 
 
 **Thank you for visiting!**
