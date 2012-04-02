@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweepbee.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219033514id_/http%3A//www.tweepbee.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweepbee.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402185845id_/http%3A//tweepbee.com/privacy.aspx) for the most accurate reproduction.*
 
 # Expand Your Twitter Network While Protecting Your Privacy | Tweepbee
 
