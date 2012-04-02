@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005233508id_/http%3A//www.taleo.com/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taleo.com privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402033144id_/http%3A//www.taleo.com/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ This Website Privacy Statement notifies you of:
 
 
 
-If you have questions or concerns regarding this Web Site Privacy Statement, you should first contact [website-feedback@taleo.com](mailto:website-feedback@taleo.com "opens your email
+If you have questions or concerns regarding this Web Site Privacy Statement, you should first contact [newfeedback@taleo.com](mailto:newfeedback@taleo.com "opens your email
 program") by email. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through its [Watchdog Dispute Resolution Process](http://watchdog.truste.com/pvr.php?page=complaint&url= "opens new tab/window"). TRUSTe will then serve as a liaison with Taleo to resolve your concerns.
 
 Generally, you can visit Taleo on the Web without telling us who you are or revealing any personally identifiable information about yourself. We collect no such information about you when you visit our sites, unless you choose to provide that information to us.
@@ -98,7 +98,7 @@ If we decide to change this Web Site Privacy Statement, we will post the revised
 
 #### Unsubscribe or Modify Information
 
-We intend to protect the quality and integrity of your Personal Information. If your Personal Information changes (such as zip code, phone, email or postal address), and you wish to update or delete the Personal Information that we maintain about you, please email our Web Producer at [website-feedback@taleo.com](mailto:website-feedback@taleo.com?subject=Feedback%20from%20Website "opens your email program"). Also, if you wish to unsubscribe from any of our newsletters or other communications, you may also email us at [website-feedback@taleo.com](mailto:website-feedback@taleo.com?subject=Feedback%20from%20Website "opens your email program"). TRUSTe requires a response to an access request provided within 30 days of submitting the request.
+We intend to protect the quality and integrity of your Personal Information. If your Personal Information changes (such as zip code, phone, email or postal address), and you wish to update or delete the Personal Information that we maintain about you, please email our Web Producer at [newfeedback@taleo.com](mailto:newfeedback@taleo.com?subject=Feedback%20from%20Website "opens your email program"). Also, if you wish to unsubscribe from any of our newsletters or other communications, you may also email us at [newfeedback@taleo.com](mailto:newfeedback@taleo.com?subject=Feedback%20from%20Website "opens your email program"). TRUSTe requires a response to an access request provided within 30 days of submitting the request.
 
 #### Contact Information
 
@@ -134,7 +134,7 @@ Taleo may obtain various types of EU and Swiss Personal Data about employees and
 
 Taleo may use these types of EU and Swiss Personal Data for business purposes, including to deliver or provide products or services; to establish or maintain client and business relationships; to provide access to Internet-based and e-commerce activities; to perform accounting functions; and to conduct other activities as necessary or appropriate in connection with the servicing and development of the business relationship.
 
-Employees and agents of our clients, business partners, and suppliers may contact us if any of their EU and Swiss Personal Data changes, or if they would like to access and correct EU and Swiss Personal Data that we maintain about them. However, such persons might first wish to contact their local human resources representative (i.e. the human resources representative within our Clients), as that might be the most efficient means of addressing their issues. In any event, such persons can also contact us by sending an email to [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office "opens your email program"), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from Taleo, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [website-feedback@taleo.com](mailto:website-feedback@taleo.com?subject=Feedback%20from%20Website "opens your email program").
+Employees and agents of our clients, business partners, and suppliers may contact us if any of their EU and Swiss Personal Data changes, or if they would like to access and correct EU and Swiss Personal Data that we maintain about them. However, such persons might first wish to contact their local human resources representative (i.e. the human resources representative within our Clients), as that might be the most efficient means of addressing their issues. In any event, such persons can also contact us by sending an email to [Taleo Privacy Office](mailto:privacyofficer@taleo.com?subject=Taleo%20Privacy%20Office "opens your email program"), or by using the information at the end of this privacy statement. Also, to the extent that any of these individuals receive marketing communications from Taleo, and wish to unsubscribe or otherwise stop receiving such communications, they can contact us at [newfeedback@taleo.com](mailto:newfeedback@taleo.com?subject=Feedback%20from%20Website "opens your email program").
 
 #### Candidates for Employment with Clients
 
