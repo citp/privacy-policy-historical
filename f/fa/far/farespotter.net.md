@@ -1,61 +1,104 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209161324id_/http%3A//www.farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402093234id_/http%3A//www.farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
 
 # FareSpotter.net :: Privacy Policy
 
 ## Privacy Policy
 
-Last updated January 7, 2011
+Last updated December 16, 2011
 
-Fareloop Holding Co. (the “Company”) has created this privacy statement in order to demonstrate our commitment to your privacy. The following Privacy Policy discloses our information gathering and dissemination practices for FareSpotter.net (the “Site”). This Privacy Policy governs your use of the Site and any content, products or services made available from or through the Site, including any sub domains thereof. By visiting the Site and requesting information, products or services offered on or through the Site, you agree to abide by the terms of this Privacy Policy, as they may be amended from time to time. Our Privacy Policy may change from time to time and the Company reserves the right to change or modify our Privacy Policy at any time with or without notice by posting changes to the Site. Please check back frequently for updates as it is your sole responsibility to be aware of changes. 
+FareSpotter.net is committed to protecting the privacy of your information. We recognize that privacy is of the utmost importance, and operate our website (the "Site") with the goal of protecting your sensitive personal information in mind. As a user of the Site or the services provided at the Site (the "Services"), this Privacy Policy is intended to describe for you:
 
-### IP Addresses
+     • the information we collect about you,  
+     • how that information may be used,  
+     • with whom it may be shared,  
+     • how you may access the information you provide us, and  
+     • your choices about such uses and disclosures.
 
-The Company uses IP addresses to analyze trends, administer the Site, customize the Site to meet our users' needs, and help diagnose problems with our servers. The Company will not use your IP address to locate or identify any personal identifiable information about you. IP addresses are also used to gather broad demographic information and to prevent, investigate, and take actions in the case of suspected fraud or abuse.
+We encourage you to read this Privacy Policy carefully before using the Site or Services or transacting business with us. By using the Site, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please contact us via email or mail using the contact information provided below.
 
-### Web Tracking and Analytics
+### Information Collection
 
-The Company tracks and analyzes visitor activity through cookies, log files, and pixels, so that we may better understand how our users make use of the Site and the effectiveness of our marketing campaigns, and so that we may better tailor content to meet our users' needs. This data may include referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement and individual user click behavior. However, no personally identifiable information is used in connection with this analysis of visitor activity. 
+We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you. When you provide personal information through the Site, the information may be sent to our servers located in the United States and other countries around the world. 
 
-### Cookies
+_User Provided Information_
 
-A cookie is a small piece of data that a web server places on a user's computer. The Company employs the use of cookies to ensure, for example, that you do not see repetitions of the same ad, to estimate and report audience size and traffic, and to customize and personalize your experience at the Site. Any reporting of audience size and traffic is not linked to personally identifiable information.
+. We may collect and store any personal information that you enter into the Site or provide to us in some other manner. This includes identifying information (such as your name, address, e-mail address, and telephone number), and any other personal information you choose to provide while using the Site or the Services.
 
-Some Company advertisers use pixels to track the effectiveness of the promotions they run on the Site. Such pixels may lead to cookies being placed on your computer by these advertisers. The Company does not have control over these 3rd party cookies, and cannot access any personally identifiable information about you as a result of these cookies.
+ _Third Party List Information_
 
-Furthermore, the Site may, from time to time, use outside media companies to display advertisements on our site. These ads may contain cookies, which are collected and tracked by the outside media company. The Company has no access to or control over these cookies.
+. We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us.
 
-Most web browsers provide users the ability to limit the use of cookies by allowing users to adjust privacy settings. If a user has their cookies disabled, the Site will still be accessible, however some sections of the web site may not perform as well as they normally would with cookies enabled.
+ _Cookies, Web Beacons, and Other Information Collection Technology_
 
-### Emails and Unsubscribe Policy
+. We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes. 
 
-If you signed up for the Company's email newsletter, you were required to submit to us your email address and home airport. We will use this information to send you our newsletter, which may include offers or promotions from us or third parties. We will not sell or share your email address or home airport information with any third parties. To unsubscribe from our newsletter, please [click here](http://www.farespotter.net/unsubscribe.html).
+     • _Log Files_. Technical information from your browser is automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-In the future, in order to customize your experience with our email newsletters, we may receive a confirmation when you open email from us, if your computer supports such capabilities. Clicking on a link in our newsletters may also be tracked on a per user basis to allow us to present content, which closely matches your interests. Demographic and profile data (such as state, zip code, age, or gender) may be used to customize your experience at our site or in our email newsletters, showing you content and advertising that may best suit your needs. This information is shared with advertisers and other third parties on an aggregate basis only. Individual user click behavior is never shared with advertisers and partners.
+     • _Cookies_. A cookie is a piece of data stored on a user's computer that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of our Service and to customize your experience. Cookies allow us to automatically collect information about your browser or device activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while using the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found: <http://www.microsoft.com/info/cookies.htm>
 
-### Data Sharing
+     • _Web Beacons_. We, or our advertisers, may use standard Internet technology such as web beacons or clear gifs and other similar technologies, to gather aggregate information about your browser or device activity on the Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of the Site.
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+     • _Information collected by third-parties_. We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver customized advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties' cookies used on the Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative (NAI) and/or participants of the Digital Advertising Alliance (DAA), which offer a single location to opt out of ad customization from their respective participating companies at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>
 
-### Links to Other Sites
+_Sponsor or Link Websites_
 
-The Site contains links to other web sites. We are not responsible for the privacy practices or the content of such web sites. We encourage you to be aware when you leave our site and to read the privacy statements of every web site that collects personally identifiable information.
+. Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information to improve the quality of the Site, to keep track of advertising, and to customize your online experience. We are not responsible for the privacy practices of other websites.
 
-### Children Under 13 Years Old
+### Information Use and Sharing
 
-The Company does not knowingly collect, maintain or use personal information from the Site about children under age 13. Children under the age of 13 may not participate in any online activities on the Site. If a child whom we know to be under age 13 sends personal information to us online, we will only use that information to respond directly to that child, notify parents, or seek parental consent.
+PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY PURPOSE IN OUR SOLE DISCRETION. We may match any of the technical information we gather to any personally identifying information or other information we have obtained from or about you to improve the content of the Site and Services for you. Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following:
 
-### Security
+     • providing you with products or services, including the display of customized content, advertising, and services;  
+     • providing technical or customer support;  
+     • performing research and analysis to gauge use of or interest in products, services, or content offered on the Site, and to develop new services;  
+     • communicating with you by e-mail about products or services that may be of interest to you;  
+     • enforcing our terms and conditions, or otherwise managing our business; and  
+     • performing functions as otherwise described to you at the time of collection.
 
-The Company has security measures in place to protect user information under our control against loss, misuse, or alteration. Access to private and confidential data is limited to only those employees with a specific need to retrieve this information. Data is stored on multiple server systems and written to tapes. All server systems are located in a secure, limited access Class A facility complete with environmentally controlled conditions, raised floors, and dry sprinkler systems.
+ _Communications from the Site_
 
-### Advertising Partners
+. Unless you have opted out of these features where available, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service. 
 
-Advertising customers can contact advertising sales by filling out an online form. This form asks for name, company name, phone, fax, and e-mail. This is an optional feature to help the Company make contact with interested advertising customers, and as such the information cannot be automatically updated once submitted. This information will not be shared with any third parties in ways other than disclosed in this privacy statement.
+_Personal Information_
 
-### Legal Proceedings
+. Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
 
-Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+     • Service providers: We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with the Services we provide or your request for customer service on the Site. These service providers may include entities such as credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through the Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
 
-### Contact
+     • Business partners: When you express interest in promotions offered through the Site or our Services, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you
 
-If you have any questions or concerns over the Privacy Policy, please feel free to contact [privacy@farespotter.net](mailto:privacy@farespotter.net), or by mail to Fareloop, Attention: Privacy, 400 Continental Blvd, 6th Floor, El Segundo, CA 90245.
+     • Third parties for business reasons: In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
+
+     • Third parties for legal process: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Site terms of use or other agreements or policies.
+
+ _Aggregated and Non-Personal Information_
+
+. We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver customized advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed.
+
+Please note that our Privacy Policy does not cover any third party's use or handling of your information once it is shared. Rather, the privacy policies of the various third parties will govern. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+
+ _Links_
+
+. This Site contains links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if this Site frames the linked third party website. We encourage you to be aware of when you leave the Site and to review the privacy statements of each and every website that you visit that collects personally identifiable information. This Privacy Policy applies solely to information we collect.
+
+### Choice/Opt Out
+
+We give our users the opportunity to "opt-out" of having their information used for purposes not directly related to the Site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by contacting us via email or mail using the contact information provided below.
+
+Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly. 
+
+### Visitors Outside the United States
+
+This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+### Privacy Policy Changes
+
+This Privacy Policy may be updated from time to time to reflect changes in our practices and Services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post a notice of the changes on the Site and/or notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). Your continued use of the Site or Services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise. 
+
+### General Contact:
+
+FareSpotter.net  
+Attn: Privacy  
+515 S. Flower Street, Suite 4400  
+Los Angeles, California 90071  
+[privacy@FareSpotter.net](mailto:privacy@FareSpotter.net)
