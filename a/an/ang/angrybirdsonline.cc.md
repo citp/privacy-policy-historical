@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angrybirdsonline.cc privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204151540id_/http%3A//angrybirdsonline.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrybirdsonline.cc privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403190846id_/http%3A//angrybirdsonline.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
