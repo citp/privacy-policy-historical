@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001703id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403203454id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lifecasting, Mold Making, Molding Materials, and Casting Materials from EnvironMolds
 
