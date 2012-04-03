@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searsholdings.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203055059id_/http%3A//www.searsholdings.com/govern/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searsholdings.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403103217id_/http%3A//www.searsholdings.com/govern/privacy.htm) for the most accurate reproduction.*
 
 # Sears Holdings - Privacy Policy
 
