@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162302id_/http%3A//tdk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdk.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403110658id_/http%3A//www.tdk.com/privacy.php) for the most accurate reproduction.*
 
-# TDK - Privacy Statement
+# TDK - Website: Privacy Statement
 
 |   
-  
+---  
 |  |  | Website - Privacy Statement  
 ---  
 | TDK Corporation is committed to respecting and protecting your privacy. We've structured our Web sites so that, in general, you can visit TDK on the Web without identifying yourself or revealing any personal information. This Privacy Statement reflects the policies of http://www.tdk.com. We are committed to protecting the privacy of our customers and we use the information that we collect in order to facilitate the process or orders and to provide a more personalized shopping experience. Once you choose to provide us personally identifiable information (any information by which you can be identified), it will be used to support your customer relationship with TDK.   
@@ -21,7 +21,7 @@
 | Choice of contact methods  
 | From time to time, if given consent, we may use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. You will be provided with the opportunity to let us know if you do not wish to receive any unsolicited direct marketing materials from TDK. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact.  
 | Accuracy of information  
-| TDK strives to keep your personally identifiable information accurate. If you would like to update any of the information that was provided through product registration, please send us an email . You will be asked to provide both the old and the new information, which will then be updated in our records. Requests to remove false or inaccurate information can be submitted at any time.  
+| TDK strives to keep your personally identifiable information accurate. If you would like to update any of the information that was provided through product registration, please send us an [email](https://web.archive.org/web/20120403110658id_/http%3A//www.tdk.com/e_contact.php?type=3) . You will be asked to provide both the old and the new information, which will then be updated in our records. Requests to remove false or inaccurate information can be submitted at any time.  
 | Children's privacy   
 | TDK takes special care to protect the privacy needs of children under the age of 13, and encourages parents to be an active participant in their child's online activities and interests. We will not knowingly or intentionally collect personal information about children under the age of 13. If you are the parent or guardian of a child that you believe has disclosed personally identifiable information to us, please contact us so that we may delete the children's information. TDK cannot prohibit minors from visiting this site, and must rely on parents and guardians to decide which materials are appropriate for children to view and/or purchase. TDK sponsors an annual Japan Trail competition. Open to seventh and eighth grade students and their teachers, the competition is coordinated by local school officials and TDK representatives. Personal data is not collected online. For more information about the competition, please visit the [Japan Trail](http://www.tdk.com/japantrail/index.html) home page.  
 | Third Party Links  
@@ -36,6 +36,6 @@ TDK Corporation
 475 Half Day Road, Suite 300  
 Lincolnshire, IL 60069   
 Phone: 1-847-803-6100   
-or send us an Email.
+or send us an [Email](https://web.archive.org/web/20120403110658id_/http%3A//www.tdk.com/e_contact.php?type=3).
 
 Last Updated: June 21st 2010
