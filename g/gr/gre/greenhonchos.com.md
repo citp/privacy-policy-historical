@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greenhonchos.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126113538id_/http%3A//greenhonchos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhonchos.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403022541id_/http%3A//www.greenhonchos.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GreenHONCHOS:: Privacy Policy
-
-## Privacy Policy
 
 At GreenHONCHOS we take your privacy very seriously. We want you to feel secure when visiting our website and are committed to maintain your privacy when doing so.
 
