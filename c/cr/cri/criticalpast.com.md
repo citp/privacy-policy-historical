@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalpast.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221072557id_/http%3A//www.criticalpast.com/all/safety) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalpast.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403132443id_/http%3A//www.criticalpast.com/all/safety) for the most accurate reproduction.*
 
 # CriticalPast.com: Privacy Policy
 
@@ -72,7 +72,7 @@ Critical Past LLC sites may choose to operate message boards and/or forum areas 
 ######   
 Are you concerned about our use of personal information?
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you may request that we cease to use your information or you may file a complaint by contacting Critical Past LLC, 73 Greentree Drive, Suite 503 Dover, DE 19904 U.S.A.
+If, for any reason, you are concerned with the way that we may be using your personal information, you may request that we cease to use your information or you may file a complaint by contacting Critical Past LLC, 12100 Sunrise Valley Drive, Suite 230-36 Reston, Virginia 20191 U.S.A.
 
 ######   
 AGREEMENT WITH CRITICALPAST LLC POLICIES
