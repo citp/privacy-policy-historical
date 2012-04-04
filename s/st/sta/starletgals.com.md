@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109183835id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D18024) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starletgals.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404200906id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D18024) for the most accurate reproduction.*
 
-# Privacidade | Pornstar Vid - Video on Demand
+# Privacy | Pornstar Vid - Video on Demand
 
 **AEBN Privacy Policy**
 
