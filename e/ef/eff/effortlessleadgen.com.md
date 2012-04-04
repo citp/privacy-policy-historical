@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effortlessleadgen.com privacy policy that was archived on 2011-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110928072217id_/http%3A//www.effortlessleadgen.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effortlessleadgen.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404055207id_/http%3A//www.effortlessleadgen.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Effortless LeadGen
 
