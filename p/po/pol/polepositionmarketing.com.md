@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231210817id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2012-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120404073550id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
 
@@ -70,28 +70,37 @@ The information you submit to us is controlled by the privacy policy in effect a
 
 **Contact Information**
 
-You may [contact us](https://web.archive.org/web/20111231210817id_/http%3A//www.polepositionmarketing.com/contact-us.php) if you have questions about our privacy policy.  
+You may [contact us](https://web.archive.org/web/20120404073550id_/http%3A//www.polepositionmarketing.com/contact-us.php) if you have questions about our privacy policy.  
 
 
 **Resolving Privacy Policy Disputes**
 
-If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](https://web.archive.org/web/20111231210817id_/http%3A//www.polepositionmarketing.com/contact-us.php).
+If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](https://web.archive.org/web/20120404073550id_/http%3A//www.polepositionmarketing.com/contact-us.php).
 
 [](http://www.polepositionmarketing.com/contact-us.php)
 
+Join us for a   
+**Live Seminar!**  
+
+
+[**Search Ranking Crash Course**](http://ppmkg.com/SRCCrsvp)
+
+Jump in the driver’s seat with your website and learn how to boost your search engine rankings! Ideal for small business owners, marketing pros and corporate Web masters and developers.
+
+Friday, April 27  
+8:30am-3pm  
+Gateway Event & Conf Center  
+North Canton, OH 
+
+Early bird pricing available. [Click here for more details](http://searchrankingcc.eventbrite.com/) or [sign up today](http://searchrankingcc.eventbrite.com/)!
+
+[Click to tweet about our event](http://clicktotweet.com/3KVnT) using #SearchRankCC and get entered to win a free, full-day ticket every time you share!
+
   
-  
-
-
-[](http://www.polepositionmarketing.com/testimonials.php)
-
-After only 7 months with Pole Position Marketing and a very modest budget we almost tripled the number of hits on our website and have had just over a 100% increase in our sales.   
-_\-- Chris A., River Adventures_
-
-[Click here to  
-read more testimonials](http://www.polepositionmarketing.com/testimonials.php)
-
   
 
 
 [](http://www.bbb.org/canton/business-reviews/computers-networks/pole-position-marketing-inc-in-canton-oh-92001336/) [](http://www.cantonadfed.org/)
+
+[](http://www.polepositionmarketing.com/emp/)  
+Marketing Blog Headlines []() []() []() [more...](http://www.polepositionmarketing.com/emp/)
