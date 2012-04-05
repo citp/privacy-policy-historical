@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avidmaxoutfitters.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228082851id_/http%3A//avidmaxoutfitters.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidmaxoutfitters.com privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405173138id_/http%3A//avidmaxoutfitters.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : AvidMax.com
 
-[Home](https://web.archive.org/web/20111228082851id_/http%3A//avidmaxoutfitters.com/default.aspx) > Privacy Policy
+[Home](https://web.archive.org/web/20120405173138id_/http%3A//avidmaxoutfitters.com/default.aspx) > Privacy Policy
 
   
 
