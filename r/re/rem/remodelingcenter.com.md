@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the remodelingcenter.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122213140id_/http%3A//www.bhg.com/bhg/file.jsp%3Fitem%3Dlegal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remodelingcenter.com privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405160914id_/http%3A//www.bhg.com/bhg/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Better Homes & Gardens Online
+
+**Our Online Privacy Policy will be updated effective April 5, 2012. Click[here](http://www.meredith.com/privacy.html) to view the new policy.**
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.bhg.com/bhg/file.jsp?item=/privacy/policy)
