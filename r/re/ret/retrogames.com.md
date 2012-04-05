@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218195228id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrogames.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406000352id_/http%3A//www.ztnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
