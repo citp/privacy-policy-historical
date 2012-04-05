@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prnewsworld.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171312id_/http%3A//www.prnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewsworld.com privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405171303id_/http%3A//www.prnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PR News World
 
