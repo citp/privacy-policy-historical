@@ -1,17 +1,14 @@
-<!--The following is the downloaded HTML source of the sunwarrior.com privacy policy that was archived on 2011-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125030139id_/http%3A//www.sunwarrior.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunwarrior.com privacy policy that was archived on 2012-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120405154556id_/http%3A//www.sunwarrior.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.sunwarrior.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="protein powder supplements, best vegan protein, vegan
-protein, vegan supplements, best vegan protein supplements">
+  <meta name="keywords" content="protein powder supplements, best vegan protein, vegan protein, vegan supplements, best vegan protein supplements, vegetarian, foods, meals">
   <meta name="title" content="Privacy Policy">
   <meta name="author" content="Oliver">
-  <meta name="description" content="Sun Warrior, providing the best, vegan friendly, protein
-powder supplements. View our wide selection of vegan protein supplements now and see how
-they can work for you.">
+  <meta name="description" content="Providing the best vegan and vegetarian friendly protein powder supplements. View our wide selection of vegan plant-based products now to see how they will work for you.">
   <meta name="generator" content="MyDynamicWebsites.com">
   <title>Privacy Policy</title>
   <link href="/templates/suntribe-1col/favicon.ico" rel="shortcut icon" type="image/x-icon">
@@ -27,9 +24,10 @@ they can work for you.">
 	var jax_site_type = '1.5';
 /*]]>*/
 </script><script type="text/javascript" src="http://www.sunwarrior.com/plugins/system/pc_includes/ajax_1.2.js"></script>
+  <meta property="fb:app_id" content="381570548523968">
   <meta property="og:type" content="article">
   <meta property="og:url" content="http://www.sunwarrior.com/privacy-policy">
-  <meta property="og:site_name" content="Sunwarrior">
+  <meta property="og:site_name" content="Best Vegan Protein Powders - Buy Plant-Based Supplements | Sunwarrior">
   <script type="text/javascript" src="http://www.sunwarrior.com/modules/mod_swmenupro/DropDownMenuX_Packed.js"></script>
   <style type="text/css">
 <!--
@@ -180,6 +178,7 @@ border:0px solid #FFFFFF !important ;
 -->
 </style>
 
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script type="text/javascript" src="/js/DropDownMenuX_Packed.js"></script>
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
 <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
@@ -229,6 +228,33 @@ function logout()
 <script type="text/javascript">
 $(document).ready(function() {
 	$('#search_url').selectbox();
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+	$('input:radio[name=pstore]').click(function(){
+		if($('input:radio[name=pstore]:checked').val() == 'No'){
+			$('#online').css({'font-weight':'bold', 'color':'red'});
+		}else{
+			$('#online').css({'font-weight':'normal', 'color':'#686362'});
+		}
+	});
+	$('input:radio[name=wstore]').click(function(){
+		if($('input:radio[name=wstore]:checked').val() == 'No' && $('input:radio[name=pstore]:checked').val() == 'No'){
+			$('input[type=submit]').attr('disabled', 'disabled');
+			$('#dist').show("slow");
+		}else{
+			$('input[type=submit]').removeAttr('disabled');
+			$('#dist').hide("slow");
+		}
+	});
+	$('input:text[name=dist]').keypress(function(){
+		if($('input:text[name=dist]').val().length > 0){
+			$('input[type=submit]').removeAttr('disabled');
+		}else{
+			$('input[type=submit]').attr('disabled', 'disabled');
+		}
+	});
 });
 </script>
 </head>
@@ -325,16 +351,21 @@ $(document).ready(function() {
 <a href="javascript:void(0);" class="item1">Experts</a><div class="section"><a href="/experts/progressive-health-doctors" class="item2" style="">Progressive Health Doctors</a>
 <a href="/experts/world-authorities" class="item2" style="">World Authorities</a>
 <a href="/experts/rawfoodchefs" class="item2" style="">Raw Food Chefs</a>
-<a href="/experts/authors" class="item2" style="">Authors</a>
-<a href="/experts/athletes" class="item2" style="">Athletes</a>
+<a href="/experts/womensfitness" class="item2" style="">Women's Fitness</a>
+<a href="/experts/mensfitness" class="item2" style="">Men's Fitness</a>
 <a href="/experts/professional-trainers" class="item2" style="">Trainers</a>
-<a href="/experts/celebrities" class="item2" style="border-bottom:1px solid #666666;">Celebrities</a>
+<a href="/experts/athletes" class="item2" style="">Athletes</a>
+<a href="/experts/yoga" class="item2" style="">Yoga</a>
+<a href="/experts/mma" class="item2" style="">MMA</a>
+<a href="/experts/celebrities" class="item2" style="">Celebrities</a>
+<a href="/experts/authors" class="item2" style="border-bottom:1px solid #666666;">Authors</a>
 </div></td> 
 <td class="item11"> 
 <a href="/testimonials" class="item1">Testimonials</a><div class="section" style="border:0 !important;"></div> 
 </td> 
 <td class="item11"> 
 <a href="javascript:void(0);" class="item1">Free Shipping/Specials</a><div class="section"><a href="/specials/free-shipping" class="item2" style="">Free Shipping</a>
+<a href="/specials/autoship" class="item2" style="">AutoShip</a>
 <a href="/specials/valuepacks" class="item2" style="border-bottom:1px solid #666666;">Value Packs</a>
 </div></td> 
 <td class="item11"> 
@@ -438,15 +469,15 @@ In addition, access to users' information is restricted within our offices. Only
 <br>
 Sensitive information (such as a credit card account number) is protected by Secure Socket Layer encryption. While on a secure page, such as an order form, the lock icon at the bottom of a Web becomes locked, rather than open (or unlocked) as when the user is simply "surfing" the Web <br>
 <br>
-For questions about our privacy policy, send an email to <a target="_blank" href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy74733 = 'support' + '@';&#10; addy74733 = addy74733 + 'sunwarrior' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy74733 + '\'&gt;' );&#10; document.write( addy74733 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><u>
+For questions about our privacy policy, send an email to <a target="_blank" href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy47106 = 'support' + '@';&#10; addy47106 = addy47106 + 'sunwarrior' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy47106 + '\'&gt;' );&#10; document.write( addy47106 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><u>
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy96590 = 's&#117;pp&#111;rt' + '&#64;';
- addy96590 = addy96590 + 's&#117;nw&#97;rr&#105;&#111;r' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy96590 + '\'>' );
- document.write( addy96590 );
+ var addy2535 = 's&#117;pp&#111;rt' + '&#64;';
+ addy2535 = addy2535 + 's&#117;nw&#97;rr&#105;&#111;r' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy2535 + '\'>' );
+ document.write( addy2535 );
  document.write( '<\/a>' );
  //-->\n </script></u></a><u><a href="mailto:support@sunwarrior.com">support@sunwarrior.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -489,5 +520,6 @@ For questions about our privacy policy, send an email to <a target="_blank" href
 		<div class="clr"></div>
 	</div>    
 </div>
+
 
 </div></body></html>
