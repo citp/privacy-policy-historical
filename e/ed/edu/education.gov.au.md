@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213060438id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2012-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120405074828id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
