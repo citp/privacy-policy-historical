@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careertimes.com.hk privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102011322id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careertimes.com.hk privacy policy that was archived on 2012-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120406022259id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="pragma" content="no-cache">
@@ -22,21 +22,53 @@ document.write("<LINK REL=STYLESHEET HREF='/include/english_style_" + page + ".c
 <meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline ZH-HK v2.0&quot; l gen true for &quot;http://www.careertimes.com.hk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.careertimes.com.hk&quot; r (n 0 s 0 v 0 l 0))">
 <link rel="SHORTCUT ICON" type="image/x-icon" href="http://www.careertimes.com.hk/images/logo/favicon.ico">
 
+
+<script language="javascript" src="/js/common/cookies.js"></script>			
+<script language="javascript" src="/js/code/shortlist.js"></script>	
+<script language="javascript" src="/js/jquery/jquery.js"></script>
+<script language="javascript" src="/js/common/jquery.cookie.js"></script>
+<link href="articles2012_style.css" rel="stylesheet" type="text/css">
+
 <title>Privacy policy – CareerTimes.com.hk, CTgoodjobs.hk</title>
 <meta name="keywords" content="privacy policy, career times, careertimes, career times online, career time, ctgoodjobs, ctgoodjobs.hk, CT goodjobs, goodjobs, good jobs, 私隱">
 <meta name="description" content="CareerTimes.com.hk’s privacy policies provide guidance on the use of information and Career Times services. CareerTimes.com.hk隱私政策為Career Times使用者提供有關網站內容及服務的使用指引。">
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="">
-<link rel="stylesheet" type="text/css" href="/include/layer_0.css"><table width="992" border="0" cellpadding="0" cellspacing="0">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="" id="blue-menu-bar">
+<link rel="stylesheet" href="/js/jquery/themes/base/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="/js/fancybox_201112/jquery.fancybox-1.3.4-customized.css" media="screen"><link rel="stylesheet" type="text/css" href="/include/layer_0.css"><table width="992" border="0" cellpadding="0" cellspacing="0">
       
+
+
+
+<script src="/js/jquery/ui/jquery.ui.core.js"></script>
+<script src="/js/jquery/ui/jquery.ui.widget.js"></script>
+<script src="/js/jquery/ui/jquery.ui.mouse.js"></script>
+<script src="/js/jquery/ui/jquery.ui.draggable.js"></script>
+<script src="/js/jquery/ui/jquery.ui.droppable.js"></script>
+<script src="/js/jquery/ui/jquery.ui.sortable.js"></script>
+<script src="/js/jquery/ui/jquery.ui.position.js"></script>
+<script src="/js/jquery/ui/jquery.ui.autocomplete.js"></script>
+<script src="/js/jquery/ui/jquery.ui.autocomplete.html.js"></script>
+<script src="/js/jquery/ui/jquery.ui.mouse.js"></script>
+
+<script type="text/javascript" src="/js/fancybox_201112/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox_201112/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script src="/js/code/fancybox_api.js" type="text/javascript"></script>
+
+<script src="/revamp2012/js/jquery.dropdownPlain.js" language="javascript" type="text/javascript"></script>
 
 <script>
 document.body.background = '';
+document.body.setAttribute("id", "blue-menu-bar");
 
+function setIE6SelectBox(strName) {
+    var isIE5 = (navigator.appVersion.indexOf("MSIE 5") != -1) ? true : false;
+    var isIE6 = (navigator.appVersion.indexOf("MSIE 6") != -1) ? true : false;
+    var isOpera = (navigator.appVersion.indexOf("Opera") != -1) ? true : false;
+    if (isIE5 || isIE6 || isOpera)
+        document.getElementById(strName).innerHTML = "<IFRAME style=\"DISPLAY: block; Z-INDEX: -1; FILTER:mask(); ; LEFT: expression(((parseInt(this.parentNode.currentStyle.borderLeftWidth)||0)*-1)+'px'); ; WIDTH: expression(this.parentNode.offsetWidth+'px'); POSITION: absolute; ; TOP: expression(((parseInt(this.parentNode.currentStyle.borderTopWidth)||0)*-1)+'px'); ; HEIGHT: expression(this.parentNode.offsetHeight-15+'px')\" tabIndex=\"-1\" frameBorder=\"0\"></IFRAME>" + document.getElementById(strName).innerHTML;
+} 
 </script>
-
-
-<script language="javascript" src="/js/common/preload.js"></script>
 
 <script>
 // Start - JS for menu layer
@@ -48,197 +80,76 @@ var timerLayerOn = false;
 var timeLayercount = 0;
 
 function firstNavStartTime() {
-	if (timerOn == false) {
-		timerID=setTimeout( "hideAllNavTable()" , timecount);
-		timerOn = true;
-	}
-
+	return;
 }
-
 
 function firstNavStopTime() {
-	if (timerOn) {
-		clearTimeout(timerID);
-		timerID = null;
-		timerOn = false;
-	}
+	return;
 }
-
 
 function showNavTable(sDivID, bState) {
-	
-	if (sDivID != '')
-	{
-	
-		var oDiv = document.getElementById(sDivID);
-		
-		if (bState)
-		{
-			oDiv.style.display = "";
-			document.getElementById("firstNavTable").style.display = "none";
-		}
-		else
-		{
-			//oDiv.style.display = "none";
-			//document.getElementById("firstNavTable").style.display = "";
-		}			
-		
-	}
-	
+	return;
 }
-
-
 	
 function hideIframeLayer()
 {
-	var obj = document.getElementById('HelpFrame');
-			obj.frameborder = 0;
-			obj.style.position = 'absolute';
-			obj.style.top = 0;
-			obj.style.left = 0;
-			obj.style.display = 'none';
-	obj.style.display = 'none';
+	return;
 }
 	
-	
 function hideAllNavTable() {
-
-	var i = 1;
-	
-	document.getElementById("firstNavTable").style.display = "";
-	while (true)
-	{
-		if (document.getElementById("firstNavTable" + i) == null)
-			break;
-		else
-		{
-			document.getElementById("firstNavTable" + i).style.display = "none";
-		}
-		i++;
-	}
-	
-	//alert (document.getElementById("firstNavTable") == null);
+	return;
 }
 	
 function showDiv(sDivID, bState) {
 	return;
-	var oDiv = document.getElementById(sDivID);
-	/*@cc_on
-	@if (@_jscript_version >= 5)
-	try {
-		var oIframe = document.getElementById('HelpFrame');
-		oIframe.scrolling = 'no';
-	}
-	catch (e) {
-		var oIframe = document.createElement('iframe');
-		var oParent = oDiv.parentNode;
-		oIframe.id = 'HelpFrame';
-		oParent.appendChild(oIframe);
-	}
-	
-	@end @*/
-	if (bState) {
-		/*@cc_on
-		if(oIframe.style.display != "block")
-		{
-			oIframe.frameborder = 0;
-			oIframe.style.position = 'absolute';
-			oIframe.style.top = 0;
-			oIframe.style.left = 0;
-			oIframe.style.display = 'none';
-		}
-		@if (@_jscript_version >= 5)
-		oIframe.style.top = oDiv.style.top;
-		oIframe.style.left = oDiv.style.left;
-		oIframe.style.zIndex = oDiv.style.zIndex - 1;
-		oIframe.style.width = parseInt(oDiv.offsetWidth);
-		oIframe.style.height = parseInt(oDiv.offsetHeight);
-		oIframe.style.display = 'block';
-		if (timerLayerOn) {
-			clearTimeout(timerLayerID);
-			timerLayerID = null;
-			timerLayerOn = false;
-		}
-		@end @*/
-	}
-	else {
-		//alert ('L268, out');
-		/*@cc_on
-		@if (@_jscript_version >= 5)
-	   
-		if (timerLayerOn == false) {
-			timerLayerID=setTimeout( "hideIframeLayer()" , timeLayercount);
-			timerLayerOn = true;
-		}
-		@end @*/
-	}
 }	
 
 function startTime() {
-	if (timerOn == false) {
-		timerID=setTimeout( "hideAll()" , timecount);
-		timerOn = true;
-
-	}
-
+	return;
 }
-
 
 function stopTime() {
-	if (timerOn) {
-		clearTimeout(timerID);
-		timerID = null;
-		timerOn = false;
-	}
+	return;
 }
 
-// Turns the layers on and off
 function showLayer(layerName){
-	if (document.getElementById(layerName))
-		document.getElementById(layerName).style.visibility="visible";       		
+	return;
 }
 
 function hideLayer(layerName){
-	if (document.getElementById(layerName))
-		document.getElementById(layerName).style.visibility="hidden";
+	return;
 }
 
-
 function hideAll(){
-	hideLayer('layer_menu_1');
-	hideLayer('layer_menu_2');
-	hideLayer('layer_menu_3');
-	hideLayer('layer_div');
-	hideLayer('layer_div_search');
+	return;
 }
 // End - JS for menu layer
 </script>
 
 
 
-<tbody><tr>
-   	<td>
-    	<div style="position:relative; z-index:20">
-		<table border="0" cellpadding="0" cellspacing="0" width="100%" id="home_top">        	
-            <tbody><tr valign="top">
-                <td rowspan="2"><img src="/english/images/home/home_top_l.gif" width="14" height="98" border="0"></td>
-                <td>
-                	<table cellspacing="0" cellpadding="0" border="0" id="middle">	
-                    	<tbody><tr valign="top">
-                        	<td style="padding: 7px 0px 0px; width: 212px;">
-                            	 <a target="_top" href="/english/main.asp"><img border="0" src="/english/images/home/careertimes-ctgoodjobs-logo.gif" alt="CTgoodjobs.hk powered by Career Times Online Limited" title="CTgoodjobs.hk powered by Career Times Online Limited" width="256px" height="63px"></a>
-                            </td>
-                            <td style="padding: 12px 0px 0px 24px;">
-                            	
-<div id="myct_menu_box"><a href="/english/signup/my_login.asp" class="home_link08" title="Login" alt="Login">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/english/registration/default.asp" class="home_link08" alt="Register" title="Register">Register</a>
 
+
+
+<tbody><tr>
+	<td>
+<div id="top-menu-bkg">    
+<div id="header">
+<div style="display:none;"><a id="fancyboxObj" href="javascript:void(0);" title=""><span>FancyBox</span></a><div id="registerObj_div" style="display:none;"><a id="registerObj" href="javascript:void(0);" onclick="CallFancybox_Dimension('/english/registration/default.asp',750,850)"></a></div></div>
+<a href="/" target="_top" id="header-ct-logo"><img src="/revamp2012/images/header-ct-logo.gif" alt="CTgoodjobs.hk powered by Career Times Online Limited" title="CTgoodjobs.hk powered by Career Times Online Limited"></a>
+
+
+<div id="login-box-small">	
+	<div id="lhs"><a target="_top" alt="Login" title="Login" href="javascript:void(0);" onclick="CallFancybox_Dimension('/english/signup/my_login_min.asp?isparent=Y',800,650);">Login</a></div>
+    <div id="rhs"><a target="_top" alt="Register" title="Register" href="javascript:void(0);" onclick="CallFancybox_Dimension('/english/registration/default.asp?isparent=Y',750,850);">Register</a></div>
 </div>
 
 
-                            </td>
-                            <td align="right" style="padding: 7px 0px 0px; width: 468px;">
-                            	<!--<a target="_blank" href="#"><img height="60" border="0" width="468" src="/english/images/home/468x60_Banner_Sample.png"></a>-->
-                               <script type="text/javascript"><!--//<![CDATA[
+
+<div id="top-banner">
+<!--<a target="_blank" href="#"><img width="468" height="60" border="0" title="" alt="" src="http://adms2.hket.com/openxprod2/www/images/a65130cd912445339c13053ec021a1ff.gif"></a>-->
+
+<script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://adms2.hket.com/openxprod2/www/delivery/ajs.php':'http://adms2.hket.com/openxprod2/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
    if (!document.MAX_used) document.MAX_used = ',';
@@ -252,93 +163,69 @@ function hideAll(){
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adms2.hket.com/openxprod2/www/delivery/ajs.php?zoneid=144&amp;cb=38628376695&amp;charset=Big5&amp;loc=https%3A//web.archive.org/web/20111102011322id_/http%253A//www.careertimes.com.hk/english/terms/privacy.asp"></script><noscript><a href='http://adms2.hket.com/openxprod2/www/delivery/ck.php?n=ab0fd317&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adms2.hket.com/openxprod2/www/delivery/avw.php?zoneid=144&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab0fd317' border='0' alt='' /></a></noscript>
-                            </td>                        
-                        </tr>
-                    </tbody></table>
-                </td>
-                <td rowspan="2"><img src="/english/images/home/home_top_r.gif" width="14" height="98" border="0"></td>
-            </tr>
-            <tr valign="bottom">
-                <td style="padding: 0px 0px 1px;">
-                	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-                    	<tbody><tr valign="bottom">
-                        	<td>
-                                <div id="top_nav"><ul>
-                                <li><a href="/english/main.asp" target="_top" title="CTgoodjobs.hk" alt="CTgoodjobs.hk">Home</a></li>                
-                                <li><a href="/english/search/criteria.asp" target="_top" title="Find Jobs" alt="Find Jobs">Find Jobs</a></li>
-                                <li><a href="/english/my_careertimes/my_preference_reg_jobalert.asp" target="_top" alt="Job Alert" title="Job Alert">Job Alert</a></li>
-                                <li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_3', false);" onmouseover="hideAll(); showLayer('layer_menu_3'); stopTime(); showDiv('layer_menu_3', true);" href="#" alt="myCareerTimes" title="myCareerTimes">myCareerTimes</a></li>
-                                <li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_1', false);" onmouseover="hideAll(); showLayer('layer_menu_1'); stopTime(); showDiv('layer_menu_1', true);" href="/english/career-resources/career-resources.asp" alt="Career Info" title="Career Info">Career Info</a></li>
-                                
-                                <li><a href="/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main" target="_top" alt="Blog" title="Blog">Blog</a></li>
-								
-								<li><a href="/english/forum/default.asp" alt="Forum" title="Forum">Forum</a></li>
-								<li><a href="http://www.cthr.com.hk" target="_blank" title="HR Resources" alt="HR Resources">HR Resources</a></li>
-                                <!--<li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_2', false);" onmouseover="hideAll(); showLayer('layer_menu_2'); stopTime(); showDiv('layer_menu_2', true);" href="#">Blogs</a></li>-->
-                                </ul>
-                                </div>
-                                <div id="top_nav">
-                                	<ul><li class="li_right"><a class="a_right" target="_top" href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=navigation" alt="Employer" title="Employer">Employer</a></li></ul>
-                                </div>
-                            </td>
-                            <!--<td align="right" style="padding:0px 0px 3px 0px;"><img src="/english/images/home/logo_ct_s.gif" width="96" height="20" border="0"></td>-->
-                        </tr>
-                    </tbody></table>
-                    
-<!-- Start - menu layer -->
-<div onmouseout="showDiv('layer_menu_1', false);" onmouseover="showDiv('layer_menu_1', true);" style="position: absolute; left: 356px; top: 100px; width: 130px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px 5px 5px 5px; background-color:#0c6ebc;" id="layer_menu_1">
-	<table cellspacing="0" border="0" id="home_top_nav" width="100%">
-		<tbody><tr><td class="header-1st" onmouseout="startTime();" onmouseover="stopTime();">Market Info</td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/newsroom/salary/salary_update.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/newsroom/salary/salary_update.asp" alt="Salary Index" title="Salary Index">Salary Index</a></td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/hr_news/news_detail.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/hr_news/news_detail.asp" title="職場新聞" alt="職場新聞">職場新聞</a></td></tr>
-		<tr><td class="header" onmouseout="startTime();" onmouseover="stopTime();">Tips &amp; Advice</td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/centre/coverletters_cv.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/centre/coverletters_cv.asp" alt="Cover Letter &amp; CV" title="Cover Letter &amp; CV">Cover Letter &amp; CV</a></td></tr>
-
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/legal_puzzle.asp?category=Legal-Puzzle'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/article/legal_puzzle.asp?category=Legal-Puzzle" alt="Legal Cases" title="Legal Cases">Legal Cases</a></td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category=Gear-Up&amp;category_id=1081'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/article/show_article.asp?category=Gear-Up&amp;category_id=1081" alt="自我增值" title="自我增值">自我增值</a></td></tr>
-		<tr><td class="header" onmouseout="startTime();" onmouseover="stopTime();">Interviews</td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category=Career-Path&amp;category_id=1037'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" onmouseover="bgColor='#0b4d81';stopTime();" nowrap="">- <a target="_top" class="nav12px" href="/english/article/show_article.asp?category=Career-Path&amp;category_id=1037" alt="Career Path" title="Career Path">Career Path</a></td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/default.asp?category=Industry-Updates'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap="">- <a target="_top" class="nav12px" href="/english/article/default.asp?category=Industry-Updates" alt="Industry Updates" title="Industry Updates">Industry Updates</a></td></tr>
-		<tr><td class="header" onmouseout="startTime();" onmouseover="stopTime();">Resources</td></tr>
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/education/course.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/education/course.asp" alt="Education" title="Education">Education</a></td></tr>
-
-		<tr><td bgcolor="#0c6ebc" onclick="window.location.href='/english/newsroom/useful-links/useful-links.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();">- <a target="_top" class="nav12px" href="/english/newsroom/useful-links/useful-links.asp" alt="Useful Links" title="Useful Links">Useful Links</a></td></tr>
-	</tbody></table>
-
-</div>
-<div onmouseout="showDiv('layer_menu_2', false);" onmouseover="showDiv('layer_menu_2', true);" style="position: absolute; left: 545px; top: 100px; width: 60px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px 5px 5px 5px; background-color:#0c6ebc;" id="layer_menu_2">
-<table width="60" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td bgcolor="#0c6ebc" onclick="window.location.href='/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main" alt="趣誌辦館" title="趣誌辦館">趣誌辦館</a></td>
-</tr>
-</tbody></table>
-</div>
-<div onmouseout="showDiv('layer_menu_3', false);" onmouseover="showDiv('layer_menu_3', true);" style="position: absolute; left: 235px; top: 100px; width: 120px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px; background-color:#0c6ebc; background-repeat: repeat-x;" id="layer_menu_3">
-<table width="120" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/my_job.asp?top=preference&amp;c=DE'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/my_job.asp?top=preference&amp;c=DE" alt="myJobListings" title="myJobListings">myJobListings</a></td>
-</tr>
-<tr>
-<td bgcolor="#0c6ebc" onclick="window.location.href='/english/resume/my_resume.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/resume/my_resume.asp" alt="myResume" title="myResume">myResume</a></td>
-</tr>
-<tr>
-<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/search_saved.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/search_saved.asp" alt="mySearchCriteria" title="mySearchCriteria">mySearchCriteria</a></td>
-</tr>
-<tr>
-<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/setting_overview.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/setting_overview.asp" alt="mySettings" title="mySettings">mySettings</a></td>
-</tr>
-</tbody></table>
+//]]>--></script><script type="text/javascript" src="https://adms2.hket.com/openxprod2/www/delivery/ajs.php?zoneid=144&amp;cb=17581422868&amp;charset=Big5&amp;loc=https%3A//web.archive.org/web/20120406022259id_/http%253A//www.careertimes.com.hk/english/terms/privacy.asp"></script><noscript><a href='http://adms2.hket.com/openxprod2/www/delivery/ck.php?n=ab0fd317&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adms2.hket.com/openxprod2/www/delivery/avw.php?zoneid=144&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ab0fd317' border='0' alt='' /></a></noscript>
 </div>
 
-<!-- End - menu layer -->                    
-                    
-				</td>
-            </tr>    
-		</tbody></table>
-        </div>
-    </td>
-</tr>
+<!--IE6 CSS for Top Menu-->
+<!--[if IE 6]>
+<style type="text/css">
+#header #menu ul ul {
+    background-image:url('/revamp2012/images/header-pulldown-menu-bg.gif');
+}
+#header #menu ul ul div.btm {
+ background-image:url('/revamp2012/images/header-pulldown-menu-bg-btm.gif');
+}
+</style>
+<![endif]-->
+<div id="menu">
+	<ul>
+    <li><a href="/" alt="CTgoodjobs.hk powered by Career Times Online Limited" title="CTgoodjobs.hk powered by Career Times Online Limited" target="_top" id="home-icon"></a></li>
+    <li id="my-account-button"><a href="javascript:void(0);" alt="myAccount" title="myAccount" target="_top" class="lv0" onclick="CallFancybox_withLoginMain('/english/my_careertimes/setting_overview.asp');"><span class="highlighted">my</span>Account</a>
+    <ul id="my-account" style="visibility:hidden;">
+    <div id="my-account-div">
+    	<li><a href="javascript:void(0);" target="_top" alt="myJobListings" title="myJobListings" onclick="CallFancybox_withLoginMain('/english/my_careertimes/my_job.asp?top=preference&amp;c=DE');">myJobListings</a></li>
+    	<li><a href="javascript:void(0);" target="_top" alt="myResume" title="myResume" onclick="CallFancybox_withLoginMain('/english/resume/my_resume.asp');">myResume</a></li>
+    	<li><a href="javascript:void(0);" target="_top" alt="mySettings" title="mySettings" onclick="CallFancybox_withLoginMain('/english/my_careertimes/setting_overview.asp');">mySettings</a></li>
+    </div>
+    <div class="btm"></div> <!--added this for New Menu-->
+    </ul>
+    </li>
+    <li id="career-resources-button"><a href="/english/career-resources/career-resources.asp" target="_top" alt="Career Resources" title="Career Resources" class="lv0 last">Career Resources</a>
+    <ul id="career-resources" style="visibility:hidden;">
+    <div id="career-resources-div">
+        <li><span>Market Info</span></li>
+    	<li><a href="/english/newsroom/salary/salary_update.asp" target="_top" alt="Salary Index" title="Salary Index">Salary Index</a></li>
+    	<li><a href="/english/hr_news/news_detail.asp" target="_top" alt="職場新聞" title="職場新聞">職場新聞</a></li>
+        <li><span>Tips &amp; Advice</span></li>
+    	<li><a href="/tips/cv_doctor.asp" target="_blank" alt="搵工最強指南" title="搵工最強指南">搵工最強指南</a></li>
+    	<li><a href="/english/centre/coverletters_cv.asp" target="_top" alt="Cover Letter &amp; CV" title="Cover Letter &amp; CV">Cover Letter &amp; CV</a></li>
+    	<li><a href="/english/article/legal_puzzle.asp?category=Legal-Puzzle" target="_top" alt="Legal Cases" title="Legal Cases">Legal Cases</a></li>
+        <li><a href="/english/article/show_article.asp?category=Gear-Up&amp;category_id=1081" target="_top" alt="自我增值" title="自我增值">自我增值</a></li>
+        <li><span>Interviews</span></li>
+        <li><a href="/english/retail/job-tips.asp" target="_top" alt="零售最強搵工專輯" title="零售最強搵工專輯">零售最強搵工專輯</a></li>
+        <li><a href="/english/article/show_article.asp?category=Career-Path&amp;category_id=1037" target="_top" alt="Career Path" title="Career Path">Career Path</a></li>
+        <li><a href="/english/article/default.asp?category=Industry-Updates" target="_top" alt="Industry Updates" title="Industry Updates">Industry Updates</a></li>
+        <li><span>Resources</span></li>
+        <li><a href="/english/forum/default.asp" target="_top" alt="Forum" title="Forum">Forum</a></li>
+        <li><a href="/english/education/course.asp" target="_top" alt="Education" title="Education">Education</a></li>
+        <li><a href="/english/newsroom/useful-links/useful-links.asp" target="_top" alt="Useful Links" title="Useful Links">Useful Links</a></li>
+    </div>
+    <div class="btm"></div> <!--added this for New Menu-->
+    </ul>
+    </li>
+    </ul>
+</div><!--END of #menu-->
+<a id="employer-button" href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=navigation" target="_top" alt="EMPLOYER - Post your job here!!" title="EMPLOYER - Post your job here!!"><p class="big">EMPLOYER</p> <p class="small">Post your job here!!</p></a>
+
+
+</div><!--END of #header-->
+</div>
+	</td>
+</tr>    
+<script>
+	setIE6SelectBox("my-account-div");
+	setIE6SelectBox("career-resources-div");
+</script>
 
 
 <script>
@@ -357,9 +244,9 @@ function checkformForQuickSearch(obj)
 			obj.keywordForQuickSearch.focus();
 		}
 
-		if((obj.keywordForQuickSearch.value.substring(1,15) == "Keyword search") && (obj.job_area.value == ""))
+		if((obj.keywordForQuickSearch.value.substring(0,14) == "Keyword search") && (obj.job_area.value == ""))
 		{
-			alert ("Please enter keyword or select a function!");
+			alert ("Please enter keyword or select a job function!");
 			status = false;
 		}
 		
@@ -381,7 +268,7 @@ function checkformForQuickSearch(obj)
 //end task 1108
 		if(status == true)
 		{
-			if(obj.keywordForQuickSearch.value.substring(1,15) == "Keyword search")
+			if(obj.keywordForQuickSearch.value.substring(0,14) == "Keyword search")
 			{
 				obj.keywordForQuickSearch.value = "";
 			}
@@ -394,7 +281,7 @@ function checkformForQuickSearch(obj)
 function clearkeywordForQuickSearchbox(obj)
 {
 	obj.style.color = "black";
-	if(obj.value.substring(1,15) == "Keyword search")
+	if(obj.value.substring(0,14) == "Keyword search")
 	{
 		obj.value = "";
 	}
@@ -402,10 +289,10 @@ function clearkeywordForQuickSearchbox(obj)
 
 function checkkeywordForQuickSearchbox(obj)
 {
-	if(obj.value == "")
+	if((obj.value == "") || (obj.value.substring(0,14) == "Keyword search"))
 	{
 		obj.style.color = "gray";
-		obj.value = " Keyword search";
+		obj.value = "Keyword search";
 	}
 }
 
@@ -439,47 +326,33 @@ function change_section_nav(type)
 
 	
 <tr>
-   	<td>
+	<td>
+<script language="javascript" src="/js/code/cat_autocomplete.js"></script>
+<form name="quickSearch" action="/english/my_careertimes/my_job.asp?search=Y&amp;top=search" method="POST" onsubmit="return checkformForQuickSearch(document.quickSearch);" target="_top">
+<input type="hidden" name="quick_search" value="Y">
+<input type="hidden" name="top_search_block" value="Y">
+<div id="job-search-sub-main">
+<div id="job-search-sub">
+<div id="top"><div class="l"></div><div class="m"></div><div class="r"></div></div>
+<div id="middle"><div class="l"></div>
+<div id="m">
+<ul>
+<li id="job-search-sub-ipf">
+<input class="search ui-autocomplete-input" type="Text" id="keywordForQuickSearch" name="keywordForQuickSearch" value="Keyword search" maxlength="100" onfocus="clearkeywordForQuickSearchbox(this);" onblur="checkkeywordForQuickSearchbox(this);" style="color: gray;" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><script>checkkeywordForQuickSearchbox(document.getElementById('keywordForQuickSearch'));</script>
+</li>
+<li id="job-search-sub-opt01">
+<select name="fulltext" id="fulltext" style="font-family:arial;font-size:9pt;width:110px;">
 
-<table cellspacing="0" cellpadding="0" border="0" class="main_home">
-<tbody><tr valign="bottom">
-	<td style="padding: 9px 0px 0px 14px;">
-	<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-    	<td style="padding: 0px 5px 0px 0px;"><img height="26" border="0" width="131" name="channel_r" alt="Direct Employers" src="/english/images/home/btn_home_red02_on.gif"></td>
-<td style="padding: 0px 5px 0px 0px;"><a target="_top" onmouseout="channel_g.src='/english/images/home/btn_home_green02.gif';" onmouseover="channel_g.src='/english/images/home/btn_home_green02_on.gif';" href="javascript:change_section_nav('PC')"><img height="26" border="0" width="131" name="channel_g" alt="Recruitment Agencies" src="/english/images/home/btn_home_green02.gif"></a></td>
-<td style="padding: 0px 5px 0px 0px;"><a target="_top" onmouseout="channel_b.src='/english/images/home/btn_home_blue02.gif';" onmouseover="channel_b.src='/english/images/home/btn_home_blue02_on.gif';" href="javascript:change_section_nav('IA')"><img height="26" border="0" width="131" name="channel_b" alt="Insurance Agencies and Others" src="/english/images/home/btn_home_blue02.gif"></a></td>
+		<option value="T" selected="">Job title</option>	
+		<option value="N">Company name</option>		
+		<option value="Y">All text</option>
 
-	</tr>
-	</tbody></table>
-	</td>
-	<td align="right" style="padding: 9px 0px 2px 0px;">
-    
-	<table cellspacing="0" cellpadding="0" border="0" id="subpage_search">
-	<tbody>
-    <tr>
-    <td><table cellspacing="0" cellpadding="0" border="0">
-    <form name="quickSearch" action="/english/my_careertimes/my_job.asp?search=Y&amp;top=search" method="POST" onsubmit="return checkformForQuickSearch(document.quickSearch);" target="_top"></form>
-	<input type="hidden" name="quick_search" value="Y">
-    <input type="hidden" name="top_search_block" value="Y">
-    <tbody><tr>
-		<td style="padding: 0px 5px 0px 0px;" class="sub_search">
-				
-                    <input class="search" type="Text" id="keywordForQuickSearch" name="keywordForQuickSearch" value=" Keyword search" maxlength="100" onfocus="clearkeywordForQuickSearchbox(this);" onblur="checkkeywordForQuickSearchbox(this);">
-                
-        </td>
-		<td style="padding: 0px 3px 0px 0px; width: 60px;">
-        	<select name="fulltext" id="fulltext" style="font-family:arial;font-size:8pt;width:80px;">
-			
-                    <option value="T" selected="">Job title</option>	
-                    <option value="N">Company name</option>		
-                    <option value="Y">All text</option>
-            
-            </select>
-        </td>
-		<td style="padding: 0px 3px 0px 0px; width: 110px;">
-        	<select id="job_area" name="job_area" style="font-family:arial;font-size:8pt;width:150px;">
-			<option value="">-- Select a function --</option><option value="001">Accounting / Finance</option>
+</select>
+</li>
+<li id="job-search-sub-opt02">
+<select id="job_area" name="job_area" style="font-family:arial;font-size:9pt;width:215px;">
+<option value="">-- Select a job function --</option>
+<option value="001">Accounting / Finance</option>
 <option value="048">Administration</option>
 <option value="007">Banking &amp; Finance</option>
 <option value="004">Building / Construction</option>
@@ -515,26 +388,24 @@ function change_section_nav(type)
 <option value="040">Surveying</option>
 <option value="043">Travel / Tourism</option>
 
-            </select>
-        </td>
-		<td style="padding: 0px 8px 0px 0px;">
-			<a href="javascript:if (checkformForQuickSearch(document.quickSearch)) document.quickSearch.submit();" class="reg_btn" target="_top"><img src="/english/images/home/btn_sub_page_search.gif" width="46" height="20" border="0"></a></td>		
-		<td nowrap=""><a href="/english/search/criteria.asp">Advanced Search</a></td>
-	</tr>	    
-	
-    </tbody></table></td>
- </tr>
- </tbody></table>
-
+</select>
+</li>
+<li>
+<div id="job-search-btn">
+<a href="javascript:if (checkformForQuickSearch(document.quickSearch)) document.quickSearch.submit();" class="reg_btn" target="_top" title="SEARCH">SEARCH</a>
+</div>
+</li>
+<li id="job-search-sub-adv-sch">
+<a href="/english/search/criteria.asp" title="ADVANCED SEARCH" target="_top">ADVANCED SEARCH</a>
+</li>
+</ul>
+</div>
+<div class="r"></div></div>
+<div id="btm"><div class="l"></div><div class="m"></div><div class="r"></div></div>
+</div>
+</div>
+</form>
 	</td>
-</tr>
-<tr>
-	<td colspan="2" style="padding: 0px 0px 9px;"><img height="2" border="0" width="986" src="/english/images/home/sub_hor_line.gif"></td>
-</tr>
-</tbody>
-</table>
-
-    </td>
 </tr>
 
 </tbody></table>
@@ -542,16 +413,17 @@ function change_section_nav(type)
 <table width="992" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr valign="TOP">
 		<!-- 1st column -->
-		<td width="200" bgcolor="#CCCCCC">&nbsp;</td>
 		<!-- 2nd - 3rd column -->
 		<td>
-        <table border="0" cellspacing="0" cellpadding="0" width="792">
+        <table border="0" cellspacing="0" cellpadding="0" width="992">
 	    <tbody><tr> 
-	      <td height="25" colspan="4" bgcolor="#e0e0e0"><img src="/images/blank.gif" width="14" border="0" height="1" alt=""><a href="/english/main.asp" title="CTgoodjobs.hk">Home</a> &gt; Privacy Policy</td>
+	      <td colspan="4">
+          <div id="breadcrumb"><p><a href="/english/main.asp" title="CTgoodjobs.hk" target="_top">Home</a> &gt; Privacy Policy</p></div>
+          </td>
 	    </tr>
         <tr>
         	<td align="center"><br>
-		<table width="760" border="0" cellpadding="0" cellspacing="0" id="terms">
+		<table width="960" border="0" cellpadding="0" cellspacing="0" id="terms">
 		<tbody><tr> 
 			<td height="0"> 
 			<table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -725,15 +597,64 @@ function change_section_nav(type)
 <tbody><tr>
 	<td class="f8" valign="top" align="left">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" id="footer_ct">
-	<tbody><tr style="height: 15px; background-color: rgb(255, 255, 255);">
-        <td colspan="2"></td>
-    </tr>
+<div id="footer">
+	<div id="footer-nav">
+		<ul>
+		<li><a href="/english/aboutus/about.asp" target="_top" alt="About Us" title="About Us" class="first">About Us</a></li>
+		<li><a href="/english/site_map/default.asp" target="_top" alt="Site Map" title="Site Map">Site Map</a></li>
+		<li><a href="/english/terms/privacy.asp" target="_top" alt="Privacy Policy" title="Privacy Policy">Privacy Policy</a></li>
+		<li><a href="/english/terms/terms.asp" target="_top" alt="Terms &amp; Conditions" title="Terms &amp; Conditions" class="last">Terms &amp; Conditions</a></li>
+		</ul>
+	</div><!--END of #footer-nav-->
     
+    <p id="contact-info">The leading recruitment media in Hong Kong<br>
+    Enquiry: <span class="highlighted">(852) 2156 2666</span><br>
+    Email: <a href="mailto:info@careertimes.com.hk" class="highlighted">info@careertimes.com.hk</a>
+    </p><!--END of #contact-info-->
     
-<script language="javascript" src="/js/common/cookies.js"></script>		
-<script language="javascript" src="/js/jquery/jquery.js"></script>
+	<div id="mini-sitemap">
+		<div>
+        	<span class="title">JOBSEEKERS</span>
+        	<ul>
+        	<a href="/english/search/criteria.asp" target="_top" class="hl02" alt="Find Jobs" title="Find Jobs"><li>Find Jobs</li></a>
+        	<a href="javascript:void(0);" target="_top" class="hl02" alt="myAccount" title="myAccount" onclick="CallFancybox_withLoginMain('/english/my_careertimes/setting_overview.asp');"><li>myAccount</li></a>
+        	<a href="/english/my_careertimes/my_preference_reg_jobalert.asp" target="_top" class="hl02" alt="Job Alert" title="Job Alert"><li>Job Alert</li></a>
+        	<a href="/english/career-resources/career-resources.asp" target="_top" class="hl02" alt="Career Resources" title="Career Resources"><li>Career Resources</li></a>
+        	</ul>
+        </div>
+        <div>
+			<span class="title">EMPLOYERS</span>
+			<ul>
+			<a href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=footer" target="_top" class="hl02" alt="Post a Job" title="Post a Job"><li>Post a Job</li></a>
+			<a href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=footer" target="_top" class="hl02" alt="Search Candidates" title="Search Candidates"><li>Search Candidates</li></a>
+			<a href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=footer" target="_top" class="hl02" alt="Advertise with Us" title="Advertise with Us"><li>Advertise with Us</li></a>			
+			</ul>
+        </div>
+        <div>
+			<span class="title">GET IN TOUCH</span>
+			<ul id="get-in-touch">
+			<a href="javascript:void(0);" onclick="window.open('http://www.facebook.com/CareerTimes')" target="_top" alt="Like Us" title="Like Us"><img src="/english/images/home/footer_icon_facebook.gif" width="14" height="14"><li>Like Us</li></a>
+			<a href="javascript:void(0);" onclick="window.open('http://www.twitter.com/Career_Times')" target="_top" alt="Jobs on Twitter" title="Jobs on Twitter"><img src="/english/images/home/footer_icon_twitter.gif" width="14" height="14"><li>Jobs on Twitter</li></a>
+            <a href="/rss/rssindex.asp" target="_top" alt="Jobs via RSS" title="Jobs via RSS"><img src="/english/images/home/footer_icon_rss.gif" width="14" height="14"><li>Jobs via RSS</li></a>
+            <a href="javascript:void(0);" onclick="window.open('http://www.youtube.com/careertimes')" target="_top" alt="YouTube" title="YouTube"><img src="/english/images/home/footer_icon_youtube.gif" width="14" height="14"><li>YouTube</li></a>
+			</ul>
+        </div>
+	</div><!--END of #mini-sitemap-->
+
+    <span id="copyright">© Copyright 2012 Career Times Online Limited. All rights reserved.</span>
+    
+    <a href="/" id="footer-link-1" target="_top" title="CTgoodjobs.hk powered by Career Times Online Limited" alt="CTgoodjobs.hk powered by Career Times Online Limited"></a>
+    <a href="http://www.cthr.hk" id="footer-link-2" target="_blank" title="CTHR" alt="CTHR"></a>
+    <a href="/" id="footer-link-3" target="_top" title="CTgoodjobs.hk powered by Career Times Online Limited" alt="CTgoodjobs.hk powered by Career Times Online Limited"></a>
+
+</div>
+
 <script language="javascript">
+
+	var comp_type_categorys_Arr = new Array('DE','PC','IA','AL');
+	
+	var current_comp_type;
+
 	$(document).ready(function(event) {
 		$("a").mousedown(function(event){
 			if(event.which==3) //right click event
@@ -750,33 +671,19 @@ function change_section_nav(type)
 			}
 		}); 
 		
+		if ($("#shortlisted_JobCounter_DE").length > 0){ // if counter exists
+
+			PreSet_ShortListData();
+
+			shortlistedIconStarter();
+
+		}
+		
 	});
 		
 	window.onbeforeunload = function() {createCookie('c','DE',5/(24*60));}
-</script>					
-
-<tr>
-	
-    <td class="bar_l">    
-    
-        <a href="/english/aboutus/about.asp" target="_top" alt="About Us" title="About Us">About Us</a> &nbsp;|&nbsp; 
-        <a href="/english/my_careertimes/my_job.asp?top=comjob&amp;m_companyid=00024236&amp;c=DE" target="_top" alt="Careers with Us" title="Careers with Us">Careers with Us</a> &nbsp;|&nbsp; 
-        <a href="/english/faq/default.asp" target="_top" title="FAQ" alt="FAQ">FAQ</a> &nbsp;|&nbsp; 
-        <a href="/english/site_map/default.asp" target="_top" alt="Site Map" title="Site Map">Site Map</a> &nbsp;|&nbsp; 
-        <a href="/english/contactus/default.asp" target="_top" alt="Contact Us" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; 
-        <a href="/english/link-to-us/default.asp" target="_top" alt="Link to Us" title="Link to Us">Link to Us</a>
-    </td>
-    
-    <td class="bar_r" align="right">
-    	
-        <a href="/english/terms/privacy.asp" target="_top" alt="Privacy Policy" title="Privacy Policy">Privacy Policy</a> &nbsp;|&nbsp; 
-        <a href="/english/terms/terms.asp" target="_top" alt="Terms &amp; Conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a> &nbsp;|&nbsp; 
-        <a href="mailto:info@careertimes.com.hk" target="_top" alt="Feedback" title="Feedback">Feedback</a>
-    </td>
-</tr>  	 
-
-
-<script type="text/javascript">
+</script>
+<div id="current_comp_type" style="display:none;">DE</div><script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2864443-1']);
@@ -790,116 +697,8 @@ function change_section_nav(type)
 
 </script>
 
-<!--<SCRIPT LANGUAGE=JavaScript>init();</script>-->
-<!--hideAll();-->
-<script language="Javascript" src="/include/check_browser_main.js"></script>
-
-<script language="Javascript">
-	//if ((document.body.className == null) || (document.body.className == ""))
-		//document.body.className = "background01";
-	//else
-	//	document.body.className = document.body.className + "; " + "background01";
-	
-	// reset background images
-	
-</script>
-
-<tr>
-	<td colspan="2" style="padding:0px 10px;">
-    	
-        <div style="padding:10px 0px 0px 0px;" class="header">Jobseeker:</div>
-            	
-		<div style="padding:8px 0px 0px 0px;"><a href="/english/search/criteria.asp" target="_top" class="hl02" alt="Find Jobs" title="Find Jobs">Find Jobs</a></div>
-		<div style="padding:8px 0px 0px 0px;"><a href="/english/my_careertimes/my_preference_reg_jobalert.asp" target="_top" class="hl02" alt="Job Alert" title="Job Alert">Job Alert</a></div>
-		<div style="padding:8px 0px 0px 0px;"><font class="title">myCareerTimes:</font> <a href="/english/my_careertimes/my_job.asp?top=preference&amp;c=DE" target="_top" class="hl" alt="myJobListings" title="myJobListings">&nbsp;myJobListings&nbsp;</a> |  <a href="/english/resume/my_resume.asp" target="_top" class="hl" alt="myResume" title="myResume">&nbsp;myResume&nbsp;</a> |  <a href="/english/my_careertimes/search_saved.asp" target="_top" class="hl" alt="mySearchCriteria" title="mySearchCriteria">&nbsp;mySearchCriteria&nbsp;</a> |  <a href="/english/my_careertimes/setting_overview.asp" target="_top" class="hl" alt="mySettings" title="mySettings">&nbsp;mySettings&nbsp;</a></div>
-		<div style="padding:8px 0px 0px 0px;"><a href="/english/career-resources/career-resources.asp" target="_top" class="hl02" alt="Career Info" title="Career Info">Career Info</a>
-        <table border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr valign="top">
-        	<td>Market Info&nbsp;<br>Tips &amp; Advice&nbsp;<br>Interviews&nbsp;<br>Resources&nbsp;</td>
-            <td>
-
-            <div>:<a href="/english/newsroom/salary/salary_update.asp" target="_top" class="hl" alt="Salary Index" title="Salary Index">&nbsp;Salary Index&nbsp;</a> | <a href="/english/hr_news/news_detail.asp" target="_top" class="hl" alt="職場新聞" title="職場新聞">&nbsp;職場新聞&nbsp;</a></div>
-            <div>:<a href="/english/centre/coverletters_cv.asp" target="_top" class="hl" alt="Cover Letter &amp; CV" title="Cover Letter &amp; CV">&nbsp;Cover Letter &amp; CV&nbsp;</a> | <a href="/english/article/legal_puzzle.asp?category=Legal-Puzzle" target="_top" class="hl" alt="Legal Cases" title="Legal Cases">&nbsp;Legal Cases&nbsp;</a> | <a href="/english/article/show_article.asp?category=Gear-Up&amp;category_id=1081" target="_top" class="hl" alt="自我增值" title="自我增值">&nbsp;自我增值&nbsp;</a></div>
-
-            <div>:<a href="/english/article/show_article.asp?category=Career-Path&amp;category_id=1037" target="_top" class="hl" alt="Career Path" title="Career Path">&nbsp;Career Path&nbsp;</a> | <a href="/english/article/default.asp?category=Industry-Updates" target="_top" class="hl" alt="Industry Updates" title="Industry Updates">&nbsp;Industry Updates&nbsp;</a></div>
-            <div>:<a href="/english/education/course.asp" target="_top" class="hl" alt="Education" title="Education">&nbsp;Education&nbsp;</a> | <a href="/english/newsroom/useful-links/useful-links.asp" target="_top" class="hl" alt="Useful Links" title="Useful Links">&nbsp;Useful Links&nbsp;</a></div>
-            </td>
-        </tr>
-
-        </tbody></table>
-		</div>
-        <div style="padding:8px 0px 0px 0px;"><a href="/english/count/count_banner.asp?banner_name=blogs_in_footer&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main" target="_top" class="hl02" alt="Blog" title="Blog">Blog</a></div>
-		<div style="padding:8px 0px 0px 0px;"><a href="/english/forum/default.asp" target="_top" class="hl02" alt="Forum" title="Forum">Forum</a></div>
-		<div style="padding:8px 0px 0px 0px;"><a href="http://www.cthr.com.hk/" target="_blank" class="hl02" alt="HR Resource" title="HR Resource">HR Resources</a></div>
-        <div style="padding:10px 0px 0px 0px;">
-		
-        	
-            <font class="header">Employer:</font> 
-                         
-            <a href="/english/advertise_online.asp" target="_top" class="hl" alt="Advertise online" title="Advertise online">&nbsp;Advertise online&nbsp;</a> | <a href="/english/advertise_print.asp" target="_top" class="hl" alt="Advertise in print" title="Advertise in print">&nbsp;Advertise in print&nbsp;</a>
-        </div>
-		<div style="padding:20px 0px 10px 0px;">© Copyright 2011 Career Times Online Limited. All rights reserved.</div>
-    </td>
-</tr>
-
-<!--
-    <tr class="home_sitemap04">
-		<td class="btm_sitemap01" colspan="2">
-			<font color="#ffde00"><b><a href="/english/main.asp" style="color:#ffde00;text-decoration:none;">Jobseeker</a>:</b></font>&nbsp;<br>
-            <font color="#ffffff"><b>Articles:</b></font>&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1037" class=btm02>&nbsp;Career Path&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1038" class=btm02>&nbsp;Cream of the Crop&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1039" class=btm02>&nbsp;Embracing Change&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1041" class=btm02>&nbsp;From the Bookshelf</a> &nbsp;|&nbsp;
-
-			<a href="/english/article/show_article.asp?category_id=1081" class=btm02>&nbsp;Gear Up&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1042" class=btm02>&nbsp;HR Corner&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/default.asp" class=btm02>&nbsp;Industries&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/legal_puzzle.asp" class=btm02>&nbsp;Legal Puzzle&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1057" class=btm02>&nbsp;Money Moves&nbsp;</a> &nbsp;
-
-			<div class="btm_sitemap02d">
-			<a href="/english/article/show_article.asp?category_id=1052" class=btm02>&nbsp;MT Opportunities&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1058" class=btm02>&nbsp;On Campus&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/taxtips/tax_tips20090529.asp" class=btm02>&nbsp;Tax Tips&nbsp;</a> &nbsp;
-			</div>
-    		<div class="btm_sitemap_sp"></div>
-
-			<font color="#ffffff"><b>Trends & Salaries:</b></font>&nbsp; 
-			<a href="/english/newsroom/hiring/hiring.asp" class=btm02>&nbsp;Hiring Index&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/hr_news/news_detail.asp" class=btm02>&nbsp;職場新聞 (HR News Express)&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/hr_bulletin.asp" class=btm02>&nbsp;HR Bulletin&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/salary_update.asp" class=btm02>&nbsp;Salary Update&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/trends.asp" class=btm02>&nbsp;Trends & Projections&nbsp;</a> &nbsp;
-
-			<div class="btm_sitemap_sp"></div>
-			<font color="#ffffff"><b>Tips:</b></font>&nbsp; 
-			<a href="/english/centre/facebook/facebook.asp" class=btm02>&nbsp;Career Times on Facebook&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/coverletters_cv.asp" class=btm02>&nbsp;Cover Letters & CV&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/explore/default.asp" class=btm02>&nbsp;Explore These Professions&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/twitter/twitter.asp" class=btm02>&nbsp;Instant Twitter Updates&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/mobile.asp" class=btm02>&nbsp;Mobile Job Search&nbsp;</a> &nbsp;
-
-			<div class="btm_sitemap_sp"></div>
-            <font color="#ffffff"><b>Edu &amp; Seminar:</b></font>&nbsp; 
-            <a href="/english/education/course.asp" class=btm02>&nbsp;Education Course&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/seminar/main.asp" class=btm02>&nbsp;Seminar&nbsp;</a>
-            
-            <div class="btm_sitemap_sp"></div>
-			<a href="/english/count/count_banner.asp?banner_name=blogs_in_footer&href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs&from=main" class=btm02><b>趣誌辦館</b></a>&nbsp; 
-            
-            <div class="btm_sitemap_sp"></div>
-            <font color="#ffde00"><b><a href="/english/main_recruiter.asp" style="color:#ffde00;text-decoration:none;">Employer</a>:</b></font>&nbsp; 
-            <a href="/english/advertise_online.asp" class=btm02>&nbsp;Advertise online&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="http://www.ctplacement.com" class=btm02>&nbsp;Placement service&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/advertise_print.asp" class=btm02>&nbsp;Advertise in print&nbsp;</a>
-            
-        </td>
-    </tr>
-   -->
-    	
-</tbody></table></td>
+<script language="Javascript" src="/include/check_browser_main.js"></script></td>
 </tr>
 </tbody></table>
 
-</body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 999; top: 0px; left: 0px; display: none;"></ul></body></html>
