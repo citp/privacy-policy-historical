@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016125637id_/http%3A//www.smartcomputing.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcomputing.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406173811id_/http%3A//www.smartcomputing.com/info/privacy.aspx%3Fguid%3D) for the most accurate reproduction.*
 
 # Sandhills Publishing® Privacy Policy at SmartComputing.com
 
@@ -10,7 +10,6 @@ Sandhills Publishing understands the concerns people have about privacy and safe
   4. When people purchase issues or subscriptions at our site, it's important that the information they enter is secure. That's why we use SSL encryption and digital certificates to verify transactions.
   5. Sandhills Publishing uses a secure firewall to keep out unauthorized users and ensure the integrity of our systems. We are vigilant about protecting our site from unwanted intrusions.
   6. Sandhills Publishing does not sell, trade, or otherwise release any personal information on our site visitors or subscribers. We respect your desire for privacy and zealously protect any information you give us. Your information is safe with us!
-  7. We are participants in the BBBOnLine® Reliability Program. Our company has been in business since 1978, and we have always strived to provide the best customer service available.
 
 
 
