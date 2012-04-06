@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114080045id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406063633id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
 
 # Birst - On-Demand Business Intelligence that's easy and affordable - Birst Privacy Policy
 
