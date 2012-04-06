@@ -1,0 +1,166 @@
+<!--The following is the downloaded HTML source of the lordcraft.com privacy policy that was archived on 2012-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120406032637id_/http%3A//www.lordcraft.com/guide-PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>:: World of Lordcraft :: Free Browser Games ::</title>
+    <link href="/_css/css.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/_js/base.js" language="javascript"></script>
+    <script type="text/javascript" src="/_js/bigeye.js" language="javascript"></script>
+    <script type="text/javascript" language="javascript">
+         function lordcraft_newslist(page){ sendCommand("Lordcraft.NewsList","page="+page,"lordcraft_newslist_cb")}
+         function lordcraft_newslist_cb(s){ var ss=s.split(',');if(ss[0]='1'){ $("ul_list").innerHTML=ss[1];$("ul_count").innerHTML="<li onclick=\"javascript:lordcraft_newslist('"+new Number(ss[2]-1)+"')"+"\">上一页</li onclick=\"javascript:lordcraft_newslist('"+new Number(ss[2]+1)+"')"+"\"><li>下一页</li>";}}
+    </script>
+</head>
+<body><div class="open" id="lordcraft_support" style="width: 650px; height: 510px; position: absolute; display: none; z-index: 9999;"><div id="div_support_close" style="float:right;position:absolute;z-index:4;left:600px;"><img src="http://www.lordcraft.com/_images/btn_close.gif" alt="Close" onclick="hide_support();" style="cursor:pointer;"></div><div id="div_con"></div></div><div id="server_list_new" class="open" style="width: 460px; height: 350px; position: absolute; display: none; z-index: 9999;"><div class="open_top"><div class="open_close"><img src="/_images/btn_close.gif" alt="close" onclick="hide_server()" style=" cursor:pointer;"></div><div class="clear"></div><div style=" text-align:center;"><img src="/_images/server_world.png"></div></div><div class="ns">New world:</div><div id="server_new_list" class="server_list" style=" padding-bottom:30px; border-bottom:1px dashed #918164; height:42px;"><div class="clear"></div></div><div class="ns">Hot world:</div><div id="server_hot_list" class="server_list" style=" height:84px;"> <div class="clear"></div></div><div id="div_others" class="others"><img src="/_images/others.png" style="float:right; cursor:pointer;" alt="" onclick="change_server(1);"></div></div><div class="open" style="width: 340px; position: absolute; display: none; z-index: 9999;"><form id="form_pass" onsubmit="todo_pass();return false;"><div class="open_top"><div class="open_close"><img src="/_images/btn_close.gif" alt="close" style="cursor:pointer" onclick="hide_pass();"></div><div class="clear"></div><div style="text-align:center;"><img src="/_images/get_p.png"></div><div class="clear"></div></div><div class="get_p"><b>Email address:</b><br><input id="pass_email" class="srk" style="width:250px;" alt="Please input your email address here.(example: jobs@pple.com)" accept="Email"><br>We will send a mail to your mailbox;<br><div class="send"><img src="http://www.lordcraft.com/_images/send.png" style="cursor:pointer" onclick="todo_pass();"></div></div></form></div><div style="cursor: pointer; background-color: rgb(255, 255, 153); padding: 5px; border-style: solid; border-width: 1px; border-color: rgb(255, 51, 51); color: rgb(255, 51, 51); position: absolute; z-index: 9999; display: none;"></div><div class="notice_b" style="width: 350px; height: 100px; position: absolute; display: none; z-index: 9999;"><div class="notice_c"><h4 id="notify_title">Notice</h4><p id="notify_warning"></p><p id="notify_timeout"></p></div></div><div class="MASK" style="top: 0px; left: 0px; width: 0px; height: 0px; z-index: 9000; position: absolute; background-color: rgb(0, 0, 0); display: none;"></div>
+    <div class="world">
+        <div class="head">
+            <div class="menu">
+                <a class="li_one" onfocus="blur()" href="/default.aspx" onmousemove="this.className='menu_home'" onmouseout="this.className='li_one'"></a>
+                <a class="li_two" onfocus="blur()" onmousemove="this.className='menu_guide'" onmouseout="this.className='li_two'"></a>
+                <a class="li_three" onfocus="blur()" onmousemove="this.className='menu_account'" onmouseout="this.className='li_three'"></a>
+                <a class="menu_out_forum" onfocus="blur()" href="http://forum.lordcraft.com/" onmousemove="this.className='menu_forum'" onmouseout="this.className='menu_out_forum'"></a>
+                <a class="menu_out_support" onfocus="blur()" target="_blank" href="http://www.mmoslg.com/support.aspx" onmouseover="this.className='menu_support'" onmouseout="this.className='menu_out_support'"></a>
+            </div>
+            <div class="gt">
+                <a href="javascript:if(membership){ location='/world.aspx'} else { show_notify('Newbie', 'Sorry, please login first', '', 3);}" onfocus="blur()"></a>
+            </div>
+            <div class="ft">
+                <!--<a class="pt" onfocus="blur()" href="javascript:show_prize_serverlist()"></a>-->
+                <!--<a class="qt" onfocus="blur()" target="_blank" href="#"></a>-->
+            </div>
+        </div>
+        <div class="body">
+            <div class="body_head">
+              
+            </div>
+            <div class="body_body">
+
+<div class="body_ft">
+<div id="div_membership" class="div_membership">
+                         
+</div>
+<script type="text/javascript">
+// member
+function init_membership() { if ($("div_membership") != null) { /*$("div_membership").innerHTML = "<div style=\"padding:35px 0 35px 0;\"><img src=\"http://www.lordcraft.com/_images/loding_reg.gif\" width=\"150px\" style=\"width:150px;\" /><div>"; */ } sendCommand("Member.Init", "", "init_membership_cb"); }
+function init_membership_cb(s) { var ss = s.split(','); if (ss[0] == "1") { membership = true; if ($("div_membership") != null) { init_membership_cb_yes(s); } } else { membership = false; if ($("div_membership") != null) { init_membership_cb_no(); } } }
+function init_membership_cb_yes(s) {var ss = s.split(','); var _history = ""; if (ss[3] != "") { for (var i = 3; i < ss.length; i++) { _history += "<li><a target=\"_blank\" href=\"/world-" + ss[i].split('|')[0] + ".aspx\">" + ss[i].split('|')[1] + "</a></li>"; } } $("div_membership").className = "member_logined"; $("div_membership").innerHTML = "<div class=\"memeber_user\"><div class=\"member_welcome\">Welcome back!<br />" + ss[1] + "</div><div class=\"member_logout\"><a href=\"javascript:todo_signOut()" + "\"></a></div></div>" + (_history != "" ? ("<div class=\"member_history\"><span>History logined world:</span><ul>" + _history + "</ul></div>") : "") + "<div class=\"memeber_recommend\"><span>Recommend world:</span><a target=\"_blank\" href=\"/world-" + ss[2].split('|')[0] + ".aspx\">" + ss[2].split('|')[1] + "</a></div>";}
+function init_membership_cb_no() { $("div_membership").className = "ft_login"; if ($("div_membership") != null) { $("div_membership").innerHTML = "<form id=\"form_signIn\" onsubmit=\"todo_signIn('form_signIn');return false;\"><ul><li><input class=\"input_txt\" type=\"text\" id=\"signin_u\" accept=\"Email\" alt=\"Like 'apple@ms.com'\" tabindex=\"1\"  onfocus=\"this.className='input_txt_focus'\" onblur=\"this.className='input_txt'\"/></li><li><input class=\"input_txt\" type=\"password\" id=\"signin_p\" accept=\"Text,6,50\" alt=\"Please input your password.\"  tabindex=\"2\" onfocus=\"this.className='input_txt_focus'\" onblur=\"this.className='input_txt'\" /></li><li class=\"li_submit\"><input type=\"image\" onfocus=\"blur()\" src=\"http://www.lordcraft.com/_images/s.gif\" width=\"130px\" height=\"30px\" tabindex=\"3\" /></li><li><img src=\"http://www.lordcraft.com/_images/s.gif\" onclick=\"javascript:show_register()" + "\" /><img class=\"forget\" src=\"http://www.lordcraft.com/_images/s.gif\"  onclick=\"javascript:show_pass()" + "\" /></li></ul><a class=\"a_facebook\" href=\"javascript:todo_facebook_login();" + "\" onfocus=\"blur();\"><img src=\"http://www.lordcraft.com/_images/s.gif\" width=\"210\" height=\"24\" /></a></form>"; } }
+
+//member
+function member_is() { if ($("divMember") != null) { sendCommand("Member.Is", "", "member_is_cb") } }
+function member_is_cb_yes() { }
+function member_is_cb_no() { }
+
+//login
+function todo_signIn(formName) { if (check_form($(formName))) { this.show_notify("Login", "Please wait a moment...", "", 0); sendForm("Member.Login", $(formName), "todo_signIn_cb"); } }
+function todo_signIn_cb(s) { var ss = s.split(','); if (ss[0] == "1") { this.membership = true; this.init_membership_cb_yes(s); hide_notify("Login"); } else { show_notify("Login", "Incorrect Account or Password!", "", 3); $("signin_p").value = ""; $("signin_p").focus(); } }
+function todo_signOut() { sendCommand("Member.SignOut", "", "todo_signOut_cb"); this.membership = false; }
+function todo_signOut_cb(s) { init_membership(); }
+
+//Login
+function member_login(formName) { if (check_form($(formName))) { this.showWarning($("divMember"), "Please wait a moment..."); sendForm("Member.Login", $(formName), "memeber_login_cb"); } }
+function member_logout() { sendCommand("member.logout", "", "member_logout_cb"); }
+
+//login facebook
+function todo_facebook_login() { var url = location.href; if (url.indexOf(".lordcraft.com") < 0) { show_notify("The domain has already changed", "The domain has already changed", "", 0); location = "http://www.lordcraft.com/"; } else { todo_facebook_login_yes(); } }
+function todo_facebook_login_yes() {FB.login(function (response) { if (response.authResponse) { var data = ""; for (var o in response.authResponse) { data += (data == "" ? "" : "&") + o + "=" + response.authResponse[o]; }; FB.api('/me', function (response) { show_notify("Login", "Login to World of Lordcraft.", "Please wait a moment...", 0); this.sendCommand("Member.Facebook.Login", "email=" + response.email + "&" + data, "todo_facebook_login_cb"); }); } else { show_notify("Login", "Login to Facebook failed.Please check Facebook account.", "", 3); } }, { scope: 'email' }); }
+function todo_facebook_login_cb(s) { var ss = s.split(","); if (ss[0] == "1" || ss[0] == "2") { membership = true; init_membership_cb_yes(s); hide_notify("Login"); } else { membership = false; show_notify("Login", ss[1], "", 3); } }
+
+//register
+function show_register() { showDialog(dialogRegister, 340, 290); $("signup_u").focus(); }
+function hide_register() { hideDialog(dialogRegister); }
+function todo_reg() { if (check_form($("form_signup"))) { show_notify("Register", "Register by WOL.", "Please wait a moment...", 0); this.sendForm("Member.SignUp", $("form_signup"), "todo_reg_cb"); } }
+function todo_reg_cb(s) { var ss = s.split(','); if (ss[0] != "1") { show_notify("Register Failed", "Register Failed", ss[1], 3); } else { hide_notify("Register"); if (ss[1] == "fb") { init_membership(); return; } this.show_notify("Register", "Your account has been created.", "Now you can choose the WOL.", 3); init_membership(); location = "/ServerList.aspx"; } }
+function fb_reg() { FB.login(function (response) { if (response.authResponse) { FB.api('/me', function (response) { show_notify("Register WOL", "Register for WOL.", "Please wait a moment...", 0); $("signup_u").value = response.email; $("signup_p").value = Math.round(Math.random() * 10000000).toString(); $("signup_a").value = $("signup_p").value; $("signup_fb").value = "1"; todo_reg(); }); } }, { scope: 'email' }); }
+
+// pass
+function show_pass() { showDialog(dialogPass, 340, 190); $("pass_email").focus(); }
+function hide_pass() { hideDialog(dialogPass); }
+function todo_pass() { if (check_form($("form_pass"))) { sendForm("Member.GetPassword", $("form_pass"), "todo_pass_cb"); hide_pass(); this.show_notify("Get Password", "Sending email plz wait a moment.", "", 0); } }
+function todo_pass_cb(s) { var ss = s.split(','); if (ss[0] == "1") { this.show_notify("Get Password", "Mail send successed.", "Please check your mailbox.", 2); } else { this.show_notify("Get Password", "Mail send failed.", s, 2); } }
+
+</script>
+<div class="manual">
+<div class="manual_head"></div>
+<div class="manual_body">
+    <p></p>
+    <a class="a_one" href="/guide-NewMapDivision.aspx" target="_blank"></a>
+    <a class="a_two" href="/guide-GuideWar.aspx" target="_blank"></a>
+    <a class="a_three" href="/guide-EquipmentEnhancement.aspx" target="_blank"></a>
+    <a class="a_four" href="/guide-SingleDungeon.aspx" target="_blank"></a>
+</div>
+<div class="manual_foot"></div>
+</div>
+<div class="guide">
+<div class="guide_head"></div>
+<div class="guide_body">
+    <p></p>
+    <a class="a_one" href="/guide-GuideForLevel1-7.aspx" target="_blank"></a>
+    <a class="a_two" href="/guide-GuideForLevel7-16.aspx" target="_blank"></a>
+    <a class="a_three" href="/guide-GuideForLevel16-19.aspx" target="_blank"></a>
+    <a class="a_four" href="/guide-GuideForLevel19-20.aspx" target="_blank"></a>
+</div>
+<div class="guide_foot"></div>
+</div>
+</div>
+<div class="body_rt">
+<div class="inner_bg">
+<div class="inner_scroll">
+<div class="inner_body">
+<div class="inner_title">&nbsp;Privacy&nbsp;Policy<div class="inner_date"></div></div>
+<div class="inner_con"><h4>1. Subject matter of this privacy policy</h4>
+<p>This Privacy Policy applies to all services which are offered on World of Lordcraft internet sites, in particular the World of Lord portal at 'www.worldoflordcraft.com' and the individual online game sites.</p>
+<p>Unless stated otherwise, this Privacy Policy exclusively regulates how World of Lordcraft treats your personal information. If you make use of services provided by the third parties, the Privacy Policy conditions of these third parties apply. World of Lordcraft does not take responsibility for Privacy Policy conditions of the third parties.</p>
+<h4>2. Children's privacy practices of World of Lordcraft</h4>
+<p>The provision of World of Lordcraft Products to anyone under 18 years of age is not conditioned on the collection of more personal information than is reasonably necessary for participation. If we become aware that we hold or have inadvertently disclosed any personally identifiable information for any player aged under 13, it will be retroactively deleted from our system to ensure the protection of the child's privacy.</p>
+<h4>3. Collection of information</h4>
+<p>Generally, you can access our Internet without disclosing any personal information to us. It is always your choice whether or not to provide us with your personal information. We collect your information to be able to fulfill the user requirements. In addition to monitoring compliance with the terms and rules this includes, in particular, the proper handling of your payment arrangements.</p>
+<p>If you would like to register on our Internet sites, participate in promotions or subscribe to our newsletter, it is necessary to provide personal information. This information includes, for example, your name, address, e-mail address and other personal information which World of Lordcraft may query in individual cases. In many cases it is possible to use World of Lordcraft's services by using pseudonyms. Users are encouraged to make use of this feature.</p>
+<p>In addition, individual information such as IP address, browser type and access time will automatically be transferred to us by your computer and stored on our server. Except for the purpose of prosecuting unauthorized use of our website, we evaluate such information only for statistical and performance-related purposes. Where possible, the information is anonymized.</p>
+<p>To make the visit to our Internet sites as pleasant as possible, we use, like many other companies, so-called cookies. After your visit to our website, these cookies are usually automatically deleted from your hard drive. Your Internet browser can be set to reject cookies generally. This can lead, for technical reasons, to restrict functioning of our Internet offerings.</p>
+<p>We gather, process and use personal information – unless already permitted by statutes – only with your consent. If this consent is made in an electronic manner in the context of our online offerings, we shall fulfill the legal requirements to inform you of it.</p>
+<h4>4. Use of your personal information</h4>
+<p>We use your personal data in order to constantly improve our range of services to satisfy the user's needs. World of Lordcraft uses your personal information for the establishment, processing and settlement of your user relationship with World of Lordcraft and the processing of payments. Furthermore, we use your information in order to communicate with you. This includes that we, as the case may be, inform you about novelties of our services via e-mail. We use your personal information in order to inform you about products, services or certain events which could be of interest to you on a regular basis. You will be informed as part of this communication that you may cancel the subscription at any time. Finally, we use your information in order to protect our web pages and trace unauthorized accesses.</p>
+<h4>5. Transmission of personal information</h4>
+<p>As a matter of course, your data will not be sold to third parties. World of Lordcraft exclusively transmits your personal data to the following extent: We work together with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.) and providers that create and compile statistical data, IT service providers (e.g. data centers, hosts, backup services, database services). These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat your data according to this privacy policy and the relevant data protection statutes.</p>
+<p>In the case that World of Lordcraft, subsidiary companies controlled by World of Lordcraft, particular affiliated companies or shares of the company are sold, your customer information will generally be passed on together with the transmitted part of the company. Of course, in this case your data is also subject to this privacy policy and the relevant data protection statutes.</p>
+<h4>6. Security of your personal information</h4>
+<p>We process the information collected from you according to United States data protection law. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations. </p></div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="clear"></div>
+</div>
+<div class="body_foot"></div>
+</div>
+<div class="clear"></div>
+<div class="foot">
+<div class="foot_ft"></div>
+<div class="foot_gt">Copyright © 2009-2012 Thunderstorm Entertainment Inc., All Rights Reserved Our <br> <a target="_blank" href="/guide-TermsOfUseAgreement.aspx">Terms of Use Agreement</a> | <a target="_blank" href="/guide-PrivacyPolicy.aspx">Privacy Policy</a></div>
+</div>
+</div>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+
+<script type="text/javascript">    init_common(); init_membership(); window.fbAsyncInit = function () { FB.init({ appId: '147229101971031', status: true, cookie: true, xfbml: true }); }; (function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js'; e.async = true; document.getElementById('fb-root').appendChild(e); } ());</script>
+
+
+
+
+
+<title>
+
+</title>
+
+    <form method="post" action="guide-PrivacyPolicy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MTY2ODcyMjlkZPu170lAlCZ8ruLVvV3zQOh2igl1rM8e/kTI8NORa3tS">
+
+    <div>
+    
+    </div>
+    </form>
+
+
+</body></html>
