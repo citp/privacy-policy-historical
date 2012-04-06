@@ -1,114 +1,37 @@
-> *The following text is extracted and transformed from the needlive.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321142743id_/http%3A//www.needlive.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needlive.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406073812id_/http%3A//www.needlive.com/policy/privacy) for the most accurate reproduction.*
 
-# NeedLive.com - The number one live adult webcam community
+# Live Sex - Webcam - - Sex Chat - needlive.com
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+##### How needlive.com Protects Your Privacy
 
-### **(1) What information do we collect?**
+  * We **NEVER** sell, rent or share your personal information or email address with any other party!
+  * We may send you occasional promotional emails, and every email will contain an unsubscribe option.
+  * Your personal information is **NEVER** stored on needlive.com's server, so it cannot be stolen by hackers.
 
-We may collect, store and use the following kinds of personal data:
 
-(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views)
 
-(b) on our online registration form, we ask you to provide us a username, password and e-mail address. Additionally, we collect address, credit card, and bank information only from those who wish to use our VIP member program. **However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual**
+##### Not only do we respect your privacy, we protect your privacy!
 
-(c) information that you provide to us for the purpose of registering with us (including username, password, e-mail address)
+needlive.com is occasionally contacted by third parties who, for marketing purposes, want to purchase our mailing list and other sensitive customer information derived from our database. Although there is no law forbidding needlive.com from selling such information, the trading of which is an extremely lucrative business, needlive.com is serious in its commitment to protecting your personal privacy. We have never sold such personal information about our customers to outside parties -- not even once -- and we never will.
 
-(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
+##### As a general rule, needlive.com collects only three kinds of information about you:
 
-(e) any other information that you choose to send to us
+  * Information that you voluntarily provide to us or authorize us to view, such as your name, address, credit-card and other account information as submitted on the needlive.com Membership Submission Form.
+  * "Log information" about the areas of needlive.com that you visit, that are accessible from the general internet environment.
+  * Private correspondence, such as the contents of telephone conversations, chat client logs, faxes or letters to needlive.com staff, e-mail messages to performers or needlive.com staff, performer chat client logs.
 
-### **(2) Cookies**
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We use cookies on the website to keep track of you whilst you navigate the website and to improve your browsing experience by personalizing the website and enable our website to recognise you when you visit. Cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+##### Log information bears greater explanation:
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available [here](http://www.google.com/privacypolicy.html).
+Log information typically consists of such things as your browser type (i.e., Netscape or MSIE), your IP address (i.e., 102.316.52.11), the domain name from which you are visiting needlive.com (i.e., "aol.com"), and the pages of needlive.com that you visit. Like all internet services, we analyze our log files to better understand which areas of needlive.com are more popular than others. And like most other large-scale internet properties, we also use this information to "customize" the needlive.com experience to match your tastes. For example, if you first visit needlive.com by searching an internet portal for a search term such as "voyeur" and clicking upon an needlive.com banner or link, needlive.com may set a "cookie" on your computer which records the term as a "search preference" (Note: Everyday log-analysis programs such as WebTrends include such tracking of keyword-specific traffic as a regular feature - indeed, using such tools, the administrators of most websites on earth track traffic originating from search engines by searched keyword).
 
-Most browsers allow you to refuse to accept cookies, this will, however, have a negative impact upon the usability of many websites including this one.
+Later, as you navigate through needlive.com, you will likely observe that the content you see on needlive.com tends to be tailored to match your recorded search preference. Note: such cookies are "secure" in that they cannot be read by other internet companies, but can only be read by the web site which placed the cookie on your computer.
 
-### (3) Using your personal data
+needlive.com also uses your recorded "search preference" information to better target and allocate marketing expenditures.
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+  * For example, if needlive.com learns that, in aggregate, individuals who search portals for terms such as "voyeur" are more likely to purchase goods and services from needlive.com than individuals who search for terms such as "livecams", needlive.com may allocate greater portions of its marketing budget to targeting the former group, and a smaller portion of its budget to target the latter group. By optimizing marketing strategies in this manner, needlive.com has more disposable capital that can be deployed toward development efforts which improve the needlive.com platform and provide a richer customer experience for all.
+  * Speaking of cookies, another kind of cookie that needlive.com sets is an "identification cookie". This cookie is written whenever you successfully use your login and password to access a restricted area of needlive.com; the identification cookie is available only to individuals who have already been verified as adults, via needlive.com's verification procedures. When needlive.com's servers observe this identification cookie on your computer, they recognize you and therefore might deliver unmodified content as opposed to modified content - in effect, another form of customized content tailored to suit your indicated preferences.
+  * Another question that might concern you: "Does needlive.com outsource to other companies any privacy-sensitive functions such as management of its email newsletter system, web hosting, or its e-commerce platform?" Because needlive.com is committed to safeguarding the integrity of your personal information, we have elected to not use such services, despite the fact that they are reasonably-priced and simplify the management task of running a large and complex website operation.
 
-We may use your personal information to:
 
-(a) administer the website;
-
-(b) improve your browsing experience by personalizing the website;
-
-(c) enable your use of the services available on the website;
-
-(d) resolve technical issues relating to the website;
-
-(e) send statements and invoices to you, and collect payments from you;
-
-(f) send you general (non-marketing) commercial communications;
-
-(g) send you email notifications which you have specifically requested;
-
-(h) send you occasional newsletters and other marketing communications relating to our service which we think may be of interest to you by e-mail or similar technology (you can inform us at any time if you no longer require marketing communications);
-
-(j) deal with enquiries and complaints made by or about you relating to the website;
-
-Where you submit personal information for publication on our website (e.g. member's profile page), we will publish and otherwise use that information in accordance with the license you grant to us.
-
-We will **NOT** provide your personal information to any third parties for the purpose of direct marketing or any other purposes!
-
-All our website financial transactions are handled through our authorized payment service providers (CCBill, CommerceGate, Epoch, ClickandBuy and ePassport). We will share information with these providers only to the extent necessary for the purposes of processing payments you make via our website.
-
-### (4) Disclosures
-
-We may disclose information about you to our employees, insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose information about you: 
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any legal proceedings or prospective legal proceedings;
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-### **(5) International data transfers**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-If you are in the European Economic Area (EEA), information which you provide may be transferred to countries (including the United States) which do not have data protection laws equivalent to those in force in the EEA. 
-
-In addition, personal information that you submit for publication on the website (member's profile page) will be published on the internet and may be available, via the internet, around the world.
-
-You expressly agree to such transfers of personal information.
-
-### (6) Security of your personal data
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password or credit card number.
-
-### **(7) Your use of Other Users' Information**
-
-You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those user accounts who misuse other user’s information or who otherwise violate our Terms of Use. 
-
-### **(8) Control of Your Password**
-
-You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
-
-###  (9) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. We may also notify you of changes to our privacy policy by email.
-
-### **(11) Updating information**
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-### (10) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to help[at]needlive.com
-
-NeedLive.com Privacy Policy  
-Updated: 2008-10-20
