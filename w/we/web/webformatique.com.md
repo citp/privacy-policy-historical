@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webformatique.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109052817id_/http%3A//www.resmania.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webformatique.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406235437id_/http%3A//resmania.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ResMania: Booking System - Online Reservation Software for Joomla and Drupal
 
