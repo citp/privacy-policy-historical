@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102235938id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407083246id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy .:. Free Articles
 
@@ -104,22 +104,22 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin[at]myfreearticle.com.
 
-## [Seven Deadly Sins of Work Life Balance](http://www.myfreearticle.com/seven-deadly-sins-of-work-life-balance.html "Seven Deadly Sins of Work Life Balance")
+## [Blu Ray Discs The New DVDs](http://www.myfreearticle.com/blu-ray-discs-the-new-dvds.html "Blu Ray Discs The New DVDs")
 
-In the thirteenth century, Dante listed the Seven Deadly Sins on the pathway to Paradise: Gluttony, lust, greed, envy, pride, ...
+Blu ray disks were originaly develped for high definition video distrobution. The disks when used for high definition TV recording ...
 
-## [Coffee Cupping For The Fun Of It](http://www.myfreearticle.com/coffee-cupping-for-the-fun-of-it.html "Coffee Cupping For The Fun Of It")
+## [Baby Room Themes: Fun Ideas Your Baby Will Love](http://www.myfreearticle.com/baby-room-themes-fun-ideas-your-baby-will-love.html "Baby Room Themes: Fun Ideas Your Baby Will Love")
 
-Having a coffee cupping party at home is a great way to socialize and enjoy coffee while evaluating and sharing ...
+It will be the first place for your baby to dream, to experience, and to grow. Decorating a nursery for ...
 
-## [Mombasa & the Kenyan Coast – Where the Sun is Ever Faithful](http://www.myfreearticle.com/mombasa-the-kenyan-coast-where-the-sun-is-ever-faithful.html "Mombasa & the Kenyan Coast – Where the Sun is Ever Faithful")
+## [Top Spyware Removers Considerations](http://www.myfreearticle.com/top-spyware-removers-considerations.html "Top Spyware Removers Considerations")
 
-For the tourist, the Kenyan coast can be seen as five regions. These are: the town and island of Mombasa; ...
+These are the infections that slow your computers performance and expose your confidential information to hackers. When you are comparing ...
 
-## [The Budget 2005 & Inheritance Tax: Has the Chancellor Done Enough?](http://www.myfreearticle.com/the-budget-2005-inheritance-tax-has-the-chancellor-done-enough.html "The Budget 2005 & Inheritance Tax: Has the Chancellor Done Enough?")
+## [Stocks Poised to Drop on Nasdaq Rebalancing](http://www.myfreearticle.com/stocks-poised-to-drop-on-nasdaq-rebalancing.html "Stocks Poised to Drop on Nasdaq Rebalancing")
 
-Introduction The Government's economic objective is to build a strong economy and a fair society, where there is opportunity and security ...
+U.S. stocks are gearing up for losses ahead of the opening bell Tuesday, as investors weigh the rebalancing of the ...
 
-## [How To Change a Tire Without Help](http://www.myfreearticle.com/how-to-change-a-tire-without-help.html "How To Change a Tire Without Help")
+## [Skin Care and the Physiology of the Skin](http://www.myfreearticle.com/skin-care-and-the-physiology-of-the-skin.html "Skin Care and the Physiology of the Skin")
 
-In order to change a tire you should make sure you have parked your car at the side of the ...
+Skin protects our bodies from the environment, maintains body temperature, excretes waste matter, gives sensory information to the brain and ...
