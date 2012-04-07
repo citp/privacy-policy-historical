@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171921id_/http%3A//www.classle.net/node/28288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407134136id_/http%3A//www.classle.net/node/28288) for the most accurate reproduction.*
 
 # Privacy Policy | Classle
 
@@ -16,7 +16,7 @@ You will provide us information about yourself that will enable us to verify you
 
 For example, we request information from you when you:
 
-  * Log-on to certain areas of [Classle](http://www.classle.net/) where you may be prompted to provide us with your Log in Name and Password as a condition to gaining access to certain materials or services.
+  * Log-on to certain areas of [Classle](https://www.classle.net/) where you may be prompted to provide us with your Log in Name and Password as a condition to gaining access to certain materials or services.
 
   * Register or sign-up to use a service.
 
@@ -31,11 +31,11 @@ Wherever Classle collects personal information we make an effort to include a li
 
 ###  How we use Information
 
-Classle uses your personal information for specific purposes only. The personal information you provide to us when using the Web site, such as your name, postal, e-mail address or telephone number will be kept confidential and used to support your relationship with Classle. Agents or contractors of Classle who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose other than to carry out the services they are performing for[ Classle ](http://www.classle.net/)
+Classle uses your personal information for specific purposes only. The personal information you provide to us when using the Web site, such as your name, postal, e-mail address or telephone number will be kept confidential and used to support your relationship with Classle. Agents or contractors of Classle who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose other than to carry out the services they are performing for[ Classle ](https://www.classle.net/)
 
 ###  Sharing Information with Third Parties
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with [Classle](http://www.classle.net/), such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
+Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with [Classle](https://www.classle.net/), such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
 
 ###  Cookie
 
