@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216184419id_/http%3A//www.hheaven.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407063622id_/http%3A//www.hheaven.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # H Heaven | Our Online Privacy Policy
 
@@ -57,7 +57,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below or [click here](https://web.archive.org/web/20110216184419id_/http%3A//www.hheaven.com/contact_us.asp) to contact us online.
+If there are any questions regarding this privacy policy you may contact us using the information below or [click here](https://web.archive.org/web/20120407063622id_/http%3A//www.hheaven.com/contact_us.asp) to contact us online.
 
 **H Heaven**  
 (714) 841-1949   
