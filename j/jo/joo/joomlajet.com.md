@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlajet.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124329id_/http%3A//www.joomlajet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlajet.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407183721id_/http%3A//www.joomlajet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JoomlaJet
 
