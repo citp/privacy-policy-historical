@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208142519id_/http%3A//wanderingtrader.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderingtrader.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407104221id_/http%3A//wanderingtrader.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wandering Trader's Travels
+# Privacy Policy | WANDERINGTRADER
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
