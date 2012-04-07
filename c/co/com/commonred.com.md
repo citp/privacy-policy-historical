@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonred.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201232448id_/http%3A//commonred.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonred.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407234907id_/http%3A//commonred.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commonred
 
