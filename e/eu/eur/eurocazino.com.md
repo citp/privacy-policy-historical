@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202135415id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0%26lang%3Dnl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408024639id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0%26lang%3Dnl) for the most accurate reproduction.*
 
 # Privacy policy van ons Online Casino. Beschrijving van beveiliging en uitbetalingsregels
 
 |  |    |   
 ---|---  
-**[**X and O Speelautomaat**](http://games.eurocazino.com/games/play.php?id=0&game=xando)  
+**[**Hotshot Speelautomaat**](http://games.eurocazino.com/games/play.php?id=0&game=hotshot)  
 ** **    |   
 ---|---  
    |   
@@ -34,10 +34,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Money Honey Gokkast](http://games.eurocazino.com/games/play.php?id=0&game=moneyhoney)**  
+**[Spectra Gokkast](http://games.eurocazino.com/games/play.php?id=0&game=spectra)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=moneyhoney)
+[](http://games.eurocazino.com/games/play.php?id=0&game=spectra)
 
    |   
 ---|---  
