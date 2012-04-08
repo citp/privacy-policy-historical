@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120115913id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408162017id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
 
-# Privacy Policy and Your California Privacy Rights | The FABlife
+# | Privacy Policy and Your California Privacy Rights
 
 **Last Modified: March 11, 2011**
 
