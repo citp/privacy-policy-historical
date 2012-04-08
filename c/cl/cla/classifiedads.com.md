@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205021758id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedads.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408095858id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,6 +42,8 @@ The Site contains links to other websites on the Internet. Please be aware that 
 
 We use third party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags. Our privacy policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: <http://www.networkadvertising.org/>.
 
+In addition, we may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, telephone number and email for the purpose of providing you information regarding certain products and services. When you make an inquiry about certain listings on the Site (e.g., used cars listings from dealers), you are expressly choosing to, and opting-in to, have us transfer your personally identifiable information to our third party service partners, and for such third party service partners to provide your personally identifiable information to other businesses who provide products or services that match your inquiry. The third party service partners may contact you regarding your inquiry.
+
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
 
 **Notice of New Services and Changes**
@@ -62,7 +64,7 @@ We may disclose your personal information if required to do so by law or subpoen
 
 By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any questions, feel free to [contact us](http://www.classifiedads.com/feedback.php).
 
-_Effective as of February 17, 2011_
+_Effective as of January 23, 2012_
 
   
 
