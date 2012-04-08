@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the qomuast.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125032901id_/http%3A//qomuast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qomuast.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408061158id_/http%3A//qomuast.com/privacy-policy) for the most accurate reproduction.*
 
-# Popular Article and News Directory
+# Article and News Directory
+
+  
+
 
 Privacy Policy for **http://qomuast.com**
 
@@ -19,3 +22,6 @@ We also use third party advertisements on **http://qomuast.com** to support our 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+Additional Tags: Powered by Article Dashboard creative cooking (14), Published News Upcoming News Submit a New Story Groups political advertising (12), Powered by Article Dashboard home improvement sites (12), Published News Upcoming News Submit a New Story Groups aol radio (11), Published News Upcoming News Submit a New Story Groups aol cooking (10), Published News Upcoming News Submit a New Story Groups paranormal activity for free (10), Powered by Article Dashboard home improvement stores new york (9), Published News Upcoming News Submit a New Story Groups vegas show (8), Powered by Article Dashboard food chain example (8), Powered by Article Dashboard internet advertising affiliate program (7)   
+
