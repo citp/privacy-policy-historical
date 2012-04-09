@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannymovielist.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011143141id_/http%3A//www.trannymovielist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannymovielist.com privacy policy that was archived on 2012-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120409222445id_/http%3A//www.trannymovielist.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Tranny Movie List
 
