@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209170453id_/http%3A//www.mcdonalds.com.sg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2012-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120409092946id_/http%3A//www.mcdonalds.com.sg/privacy.html) for the most accurate reproduction.*
 
 # Welcome | McDonald's Singapore
 
-[Home](https://web.archive.org/web/20111209170453id_/http%3A//www.mcdonalds.com.sg/index.html) » McDonald's Internet Site Terms and Conditions
+[Home](https://web.archive.org/web/20120409092946id_/http%3A//www.mcdonalds.com.sg/index.html) » McDonald's Internet Site Terms and Conditions
 
 McDonald's Internet Privacy Policy
 
-Thank you for visiting us online at McDonalds.com.sg. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
+Thank you for visiting us online at www.mcdonalds.com.sg or www.mcdelivery.com.sg (the “ **McDonald’s Sites** ”). At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children.
 
 Thanks again for visiting our web-site and for placing your trust in McDonald's.
 
 **McDonald's Internet Privacy Policy**
 
-McDonald's Restaurants Pte Ltd ("McDonald's") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. Be first. As a McDonald's Preferred Subscriber, you'll hear about new promotional offers and other cool stuff way before anyone else.
-
-Click here to change your preferences by choosing what you want to hear about -- or tell us if you don't want to hear anything at all.
+McDonald's Restaurants Pte Ltd (" **McDonald's** ") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. Be first. As a McDonald's Preferred Subscriber, you'll hear about new promotional offers and other cool stuff way before anyone else.
 
 **Types of Information We Collect and How It Is Used**
 
-McDonald's only gathers personal information, such as, first and last names, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our web sites and our products or to enter you in one of our contests or sweepstakes.
+McDonald's only gathers personal information, such as, first and last names, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our web sites and our products or to enter you in one of our contests or sweepstakes. If you do not agree or consent to the submission of such information, you will not be allowed to participate in our contests, sweepstakes or use any functions on our websites which require such personal information to be submitted.
 
 **Sharing of Personal Information**
 
@@ -44,9 +42,9 @@ We urge parents to regularly monitor and supervise their children's on-line acti
 
 You are in control of any personal information you provide to us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.
 
-In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please submit this information request form.
+In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, [please submit this information request form](http://www.mcd.com.sg/contactus.html).
 
-In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, please submit this information request form.
+In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, [please submit this information request form](http://www.mcd.com.sg/contactus.html).
 
 **Cookies**
 
@@ -60,7 +58,7 @@ We may offer links to sites that are not operated by McDonald's Corporation. If 
 
 **Other McDonald's Web Sites**
 
-All McDonald's web sites operated by McDonald's Corporation will adhere to this privacy policy. The policies of some McDonald's sites may vary, however, because of local customs, practices or laws or due to circumstances unique to that site. In all cases, however, sites operated by McDonald's Corporation will honor the commitments to our customers set forth in this policy regarding the collection and use of personal information.
+All McDonald's web sites operated by McDonald's Corporation will adhere to this privacy policy. The policies of some McDonald's sites may vary, however, because of local customs, practices or laws or due to circumstances unique to that site. In all cases, however, sites operated by McDonald's Corporation will honour the commitments to our customers set forth in this policy regarding the collection and use of personal information.
 
 **Franchisee Web Sites**
 
@@ -68,7 +66,7 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 
 **Changes to our Privacy Policy**
 
-This privacy policy is effective as of 1st April, 2006. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+This privacy policy is effective as of 2 Jan 2012. From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Your continued use of the McDonald’s Sites will be deemed acceptance of the privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
 **How to Contact Us**
 
