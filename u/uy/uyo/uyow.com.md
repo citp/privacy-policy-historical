@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uyow.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210100901id_/http%3A//www.uyow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uyow.com privacy policy that was archived on 2012-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120409122213id_/http%3A//www.uyow.com/privacy) for the most accurate reproduction.*
 
 # www.uyow.com » Privacy
 
