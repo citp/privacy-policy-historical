@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218155324id_/http%3A//homemadeenergy.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadeenergy.org privacy policy that was archived on 2012-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120409173558id_/http%3A//www.homemadeenergy.org/special/privacy.php) for the most accurate reproduction.*
 
 # Home Made Energy: Renewable Energy For The Rest Of Us
+
+  
+
 
 ## Privacy Policy
 
@@ -31,4 +34,4 @@ We may disclose and use personally identifiable information in special circumsta
 
 5\. CHANGES TO THIS POLICY HomeMadeEnergy.org may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
 
-6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](http://www.homemadeenergy.org/contact.html). 
+6\. CONTACT INFORMATION For questions regarding this Privacy Policy please [Contact us](http://www.homemadeenergy.org/special/contact.php). 
