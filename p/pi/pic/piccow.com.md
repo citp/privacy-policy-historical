@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piccow.com privacy policy that was archived on 2011-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110925205331id_/http%3A//www.piccow.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccow.com privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410085218id_/http%3A//www.piccow.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to Piccow.com, your free image file upload service!
 
