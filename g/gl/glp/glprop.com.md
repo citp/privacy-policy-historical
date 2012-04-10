@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glprop.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206164819id_/http%3A//www.glprop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glprop.com privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410125031id_/http%3A//www.glprop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Global Logistic Properties
 
