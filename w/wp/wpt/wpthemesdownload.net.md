@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpthemesdownload.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226232949id_/http%3A//wpthemesdownload.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemesdownload.net privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411012632id_/http%3A//wpthemesdownload.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Wordpress Premium Themes Download
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -30,10 +30,8 @@ Last updated Sat, 25 Dec 2010 06:15
 #### Incoming search terms:
 
   * Easy Privacy Policy plugin download
+  * dowload plugin privacy policy
   * download easy privacy policy plugin
-  * easy privacy policy wordpress plugin download
-  * download easy privacy policy
+  * download plugin privacy policy
 
 
-
-[](http://themeforest.net/category/wordpress/blog-magazine?ref=astralucid)
