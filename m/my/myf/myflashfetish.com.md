@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflashfetish.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075442id_/http%3A//www.myflashfetish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflashfetish.com privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410092804id_/http%3A//www.myflashfetish.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyFlashFetish.com
 
