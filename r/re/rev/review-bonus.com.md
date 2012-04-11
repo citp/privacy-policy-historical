@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211161321id_/http%3A//review-bonus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411055125id_/http%3A//review-bonus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy (Last update 11/21/2011)
+# Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you subscribe to our newsletter.  
@@ -64,3 +64,5 @@ State: Taza-Al Hoceima-Taounate
 ZIP/Postal Code : 35000  
 Country: Morocco  
 [Contact Form](http://review-bonus.com/contact-me.html)
+
+Rating: 0.0/ **10** (0 votes cast)
