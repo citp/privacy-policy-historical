@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227124013id_/http%3A//www.asian-girls-online.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-girls-online.com privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411020034id_/http%3A//www.asian-girls-online.com/privacy.php) for the most accurate reproduction.*
 
-# Asian-Girls-Online | Meet beautiful Asian brides now!
+# None
 
 Protecting your privacy is very important to us; so we do not sell your personal information and will only use it for obvious, legitimate business purposes.
 
