@@ -1,22 +1,53 @@
-> *The following text is extracted and transformed from the minkees.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612050955id_/http%3A//www.hazelandmelvin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minkees.com privacy policy that was archived on 2012-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120411183334id_/http%3A//www.minkees.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Hazel and Melvin's Room
+# minkees.com Submit URL,Submit Site,Submit Articles,SEO Business Listings, yellow pages, web directory, internet directory, backlinks - Privacy
 
-Our Privacy Policy - GLB Act of 2000
+Minkees.com is the sole owner of the information collected on our directory. We collect information from our users at several different points on our web site. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience. ****
 
-1\. OUR PLEDGE TO YOU  
-At Hazel and Melvin's Room, one of our top priorities is making sure that the information we have abut you is protected and secure. We value our relationship with you and work hard to preserve your privacy and ensure that your preferences are honored. At the same time, the very nature of our relationship may result in us collecting or sharing certain types of information about you. We explain how we use customer information in this privacy policy statement. 
+**Information Collection**
 
-2\. INFORMATION WE COLLECT  
-We collect information you give to us on applications, surveys, registration forms, etc.; and you give to us when you make a purchase, or other account information such as balance, payment history or credit card usage.
+Submission
 
-3\. HOW WE SHARE INFORMATION  
-We do not share information that we have about you with anyone except in response to subpoenas or for other legal reasons.
+During the minkees.com Submit service, we require information from the user on our submit form. A user must provide contact information (such as name amd email). We use this information to contact the user about services on our site for which he has expressed interest.
 
-The law permits us to share information about our current and former customers with government agencies or authorized third parties under certain circumstances. For example, we may be required to share such information in response to subpoenas or to comply with certain laws. 
+**Information Use**
 
-4\. HOW WE PROTECT INFORMATION  
-We strive to protect your data and safeguard it from those not authorized to see it.
+Profile
 
-5\. FORMER CUSTOMERS  
-We do not share information about our former customers with anyone except in response to subpoenas or for other legal reasons. We do not share information about our former customers with companies outside our organization for them to contact you for their own marketing purposes.
+We store information that we collect through log files, and via the information provided during the A1webdirectory.org submit service, to create a profile of our users. A profile is stored information that we keep on individual users that details their characteristics. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the user experience. We DO NOT share your profile with other third parties.
+
+Log Files
+
+Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. ****
+
+**Communications from the Site**
+
+Special Offers and Updates
+
+Established members will occasionally receive information on new services, offers or special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications.
+
+Service Announcements
+
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications - these communications are not promotional in nature.
+
+**Sharing**
+
+Legal Disclaimer
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+
+Third Party Intermediaries
+
+We use Paypal to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+
+**Links**
+
+This Web site contains links to other sites. Please be aware that we, minkees.com, are not responsible for the privacy practices of such other sites.
+
+**Security**
+
+This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both online and off-line. ****
+
+**Notice of Change**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
