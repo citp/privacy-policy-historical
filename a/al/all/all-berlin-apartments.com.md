@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-berlin-apartments.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213005756id_/http%3A//www.all-berlin-apartments.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-berlin-apartments.com privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412070812id_/http%3A//www.all-berlin-apartments.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement All-Berlin-Apartments.com, accommodation in Berlin, holiday rentals, vacation flats
 
