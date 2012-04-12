@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502102228id_/http%3A//www.infobip.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobip.com privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412144857id_/http%3A//www.infobip.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# InfoBip
-
-This privacy policy sets out how INFOBIP Limited (registered number: 122767C) whose registered office is at 6th Floor, Clinch’s House, Lord Street, Douglas, Isle of Man IM99 1RZ (“Us” “We” “Our”) uses and protects any information that You give Us when You use this website (referred to as the “Website”).
+# None
 
 We are committed to ensuring that Your privacy is protected. Should We ask You to provide certain information by which You can be identified when using this website, then You can be assured that it will only be used in accordance with this privacy statement.
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that You are happy with any changes.
 
-## 1\. What we collect
+##  1\. What we collect
 
 We may collect the following information:
 
@@ -20,7 +18,7 @@ We may collect the following information:
 
 
 
-## 2\. What we do with the information
+##  2\. What we do with the information
 
 We gather We require this information to understand Your needs and provide You with a better service, and in particular for the following reasons:
 
@@ -34,13 +32,13 @@ We gather We require this information to understand Your needs and provide You w
 
 
 
-## 3\. Security
+##  3\. Security
 
 We are committed to ensuring that Your information is secure. In order to prevent unauthorised access or disclosure, We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information We collect online. We will retain Your information for a reasonable period or as long as the law requires.
 
-## 4\. How We use cookies
+##  4\. How We use cookies
 
-A cookie is a small file which asks permission to be placed on Your computer’s hard drive. Once You agree, the file is added and the cookie helps analyse web traffic or lets You know when You visit a particular site. Cookies allow web applications to respond to You as an individual. The web application can tailor its operations to Your needs, likes and dislikes by gathering and remembering information about Your preferences.
+A cookie is a small file which asks permission to be placed on Your computer's hard drive. Once You agree, the file is added and the cookie helps analyse web traffic or lets You know when You visit a particular site. Cookies allow web applications to respond to You as an individual. The web application can tailor its operations to Your needs, likes and dislikes by gathering and remembering information about Your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps Us analyse data about web page traffic and improve Our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -48,41 +46,27 @@ Overall, cookies help Us provide You with a better website, by enabling Us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but You can usually modify Your browser setting to decline cookies if You prefer. This may prevent You from taking full advantage of the website.
 
-## 5\. Links to other websites
+##  5\. Links to other websites
 
 Our website may contain links to other websites of interest. However, once You have used these links to leave Our site, You should note that We do not have any control over that other website. Therefore, We cannot be responsible for the protection and privacy of any information which You provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-## 6\. Controlling Your personal information
+##  6\. Controlling Your personal information
 
 You may choose to restrict the collection or use of Your personal information in the following ways:
 
-  * whenever You are asked to fill in a form on the website, look for the box that You can click to indicate that You do not want the information to be used by anybody for direct marketing purposes 
+  * whenever You are asked to fill in a form on the website, look for the box that You can click to indicate that You do not want the information to be used by anybody for direct marketing purposes
   * if You have previously agreed to Us using Your personal information for direct marketing purposes, You may change your mind at any time by writing to or emailing Us
 
 
 
 **We will not sell, distribute or lease Your personal information to third parties unless We have Your permission or are required by law to do so. We may use Your personal information to send You promotional information about third parties which We think You may find interesting if You tell Us that You wish this to happen.**
 
-## 7\. Accessing and updating
+##  7\. Accessing and updating
 
 You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. You may request details of personal information which We hold about You under the Data Protection Act 1998. A small fee will be payable.
 
-## 8\. Contact
+##  8\. Contact
 
 All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed to:
 
-> ## Free Test Account
-
-### Join now 
-
-and try out Infobip messaging solutions for free.
-
-  * Contact and content management
-  * One-click bulk sending
-  * 2-way messaging inbox
-  * Detailed messaging history
-  * HLR query functions
-
-
-
-[Request Free Trial](http://www.infobip.com/pages/sign_up/)
+> 
