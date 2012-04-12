@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastalfitnesshk.com privacy policy that was archived on 2011-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110906151706id_/http%3A//www.coastalfitnesshk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalfitnesshk.com privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412062840id_/http%3A//www.coastalfitnesshk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Coastal Fitness HK (Hong Kong)
 
