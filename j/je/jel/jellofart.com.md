@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227121435id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412102751id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
 
 # Jellofart.com Privacy Policy « Jellofart
 
@@ -42,4 +42,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 Completed unsolicited and worthless random fact:   
-In the film �Star Trek : First Contact�, when Picard shows Lilly she is orbiting Earth, Australia and Papa New Guinea are clearly visible .. but New Zealand is missing. 
+No matter its size or thickness, no piece of paper can be folded in half more than 7 times. 
