@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020194845id_/http%3A//infinitemonkeys.mobi/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412165026id_/http%3A//infinitemonkeys.mobi/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Make an iPhone App, Create iPhone App, Create Android Apps
 
 **What information do we collect?**
 
