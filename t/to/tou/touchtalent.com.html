@@ -1,0 +1,308 @@
+<!--The following is the downloaded HTML source of the touchtalent.com privacy policy that was archived on 2012-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120412212331id_/http%3A//touchtalent.com/index.php/pages/view/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="fb:app_id" content="316237385059852">
+<meta property="og:title" content="Talent that touches your heART">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://touchtalent.com/">
+<meta property="og:image" content="http://touchtalent.com/images/fb_dp.png">
+<meta property="og:site_name" content="TouchTalent.com">
+<meta property="og:description" content="Hide not your talents, they for use were made. What's a sun-dial in the shade? - Benjamin Franklin (1706 - 1790)">
+
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>Privacy TouchTalent</title>
+
+<link rel="shortcut icon" href="http://www.touchtalent.com/tt.ico">
+<link media="screen" href="http://www.touchtalent.com/css/common.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.touchtalent.com/js/thickbox.js"></script>
+
+<script type="text/javascript">
+$(function(){
+	
+	$("#query").keyup(function(){
+		var searchbox = $(this).val();
+		var dataString = 'searchword='+ searchbox;
+		if(searchbox==''){
+		}
+		else{
+			$.ajax({
+				type: "POST",
+				url: "http://www.touchtalent.com/index.php/search/results",
+				data: dataString,
+				cache: false,
+				success: function(html){
+					$("#searchdisplay").html(html).show();
+				}
+			});
+		}
+		return false;
+	});
+
+	$( 'input' ).each( function(){
+		$(this).attr( 'title', $(this).val() )
+		.focus( function(){
+			if ( $(this).val() == $(this).attr('title') ) {
+				$(this).val( '' );
+			}
+		}).blur( function(){
+			if ( $(this).val() == '' || $(this).val() == ' ' ) {
+				$(this).val( $(this).attr('title') );
+			}
+		});
+	});
+	
+	$( 'textarea' ).each( function(){
+	$(this).attr( 'title', $(this).val() )
+	  .focus( function(){
+		if ( $(this).val() == $(this).attr('title') ) {
+		  $(this).val( '' );
+		}
+	  } ).blur( function(){
+		if ( $(this).val() == '' || $(this).val() == ' ' ) {
+		  $(this).val( $(this).attr('title') );
+		}
+	  });
+	});
+	
+	$('#feedback-button').click( function(){
+		var uid = "";
+		
+		var name = $("#feedback_name").val();
+		if(name == ""){
+			name = $("#feedback_name").text();
+		} 
+		
+		var from_email = $("#from_email").val();
+		if(from_email == ""){
+			from_email = $("#from_email").text();
+		}
+		var to_email = $("#to_email").text();
+		
+		var feedback = $("#feedback_text").val();
+		
+		if(from_email != ""){
+			if(name != ""){
+				if(feedback != ""){
+					$('#feedback-button').after('<img id="loadinggif" src="http://www.touchtalent.com/images/loadingAnimation.gif">');
+					$('#feedback-button').addClass('hidden');
+					$.post("http://www.touchtalent.com/index.php/email/send_feedback", {uid: uid, name: name, from_email: from_email, to_email: to_email, feedback: feedback}, function(response){
+						$('#loadinggif').remove();
+						$('#feedback-button').removeClass('hidden');
+						if(response){
+							$('#error_msg').html(response);
+						}
+						else{
+							alert("We have received your feedback. Thank You.");
+							window.location.replace("http://www.touchtalent.com/index.php");
+						}
+					});
+				}
+				else{
+					$('#error_msg').html('Error: Feedback text can not be left blank.');
+				}
+			}
+			else{
+				$('#error_msg').html('Error: Name firld can not be left blank.');
+			}
+		}
+		else{
+			$('#error_msg').html('Error: Email field can not be left blank.');
+		}
+	});
+	
+	$('#reset-button').click( function(){
+		var fname = $("input[name='fname']").val();
+		var lname = $("input[name='lname']").val();
+		var pass = $("input[name='password']").val();
+		var pass1 = $("input[name='confirm']").val();
+		var uid = "";
+		var email = "";
+		
+		if(fname != "" && lname != ""){
+			if(pass == pass1){
+				$('#reset-button').after('<img id="loadinggif" src="http://www.touchtalent.com/images/loadingAnimation.gif">');
+				$('#reset-button').addClass('hidden');
+				$.post("http://www.touchtalent.com/index.php/user/password", {uid: uid, fname: fname, lname: lname, pass: pass, email: email}, function(response){
+					$('#loadinggif').remove();
+					$('#reset-button').removeClass('hidden');
+					if(response){						
+						$('#error_msg').html(response);
+					}
+					else{
+						alert("Your changes has been saved.");
+						window.location.replace("http://www.touchtalent.com/index.php");
+					}
+				});
+			}
+			else{
+				$('#error_msg').html('Error: Password and confirm password didn\'t match.');
+			}
+		}
+		else{
+			$('#error_msg').html('Error: First Name & Last Name can not be left blank.');
+		}
+	});
+
+});
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-27402899-1']);
+	_gaq.push(['_setDomainName', 'touchtalent.com']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "L9Duf1a0mz002/", domain:"touchtalent.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=L9Duf1a0mz002/" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+  <div id="container">    <!-- #masthead -->
+    <div id="masthead">
+    <div id="header">
+        <span class="logo lfloat"><a href="http://www.touchtalent.com/index.php/pages/home">
+        	<img src="http://www.touchtalent.com/images/logo.png"></a>
+        </span>
+        <div id="search">
+            <form>
+            <input id="query" class="ui-autocomplete-input" type="text" value="Filter by tags" size="20" autocomplete="on" role="textbox">
+            <div id="searchdisplay"></div>
+            <a id="query_button" class="query_icon" href="#">
+                <img alt="" src="http://www.touchtalent.com/images/search.gif">
+            </a>
+            </form>
+        </div>
+         
+                <div class="more rfloat">About +
+            <div id="dropdown" class="dropdown-menu">
+                <ul>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/etiquette">Etiquette</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/careers">Careers</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/privacy">Privacy</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/terms">Terms</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/feedback">Feedback</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/investors">Investor Relations</a></li>
+                </ul>
+            </div>
+        </div>
+                <a href="http://www.touchtalent.com/index.php/pages/home">
+        	<span class="home rfloat"></span>
+        </a>
+        	    <div class="clrflt"></div>
+    </div>
+    </div>    <!-- end-of-masthead -->
+    
+    <div class="clrflt"></div>
+        <p>&nbsp;</p>
+    <div id="nav">
+    	<div class="lfloat">
+            <p id="tagline">Organize and spread your creative works.</p>
+            <p id="subtitle">Connect with creative people across the globe.</p>
+        </div>
+        <a href="http://www.touchtalent.com/index.php/thickbox/view/request?height=240&amp;width=425" class="thickbox button lfloat">
+        	<div class="invite_request"><span>Get Started</span></div>
+        </a>
+		<a href="http://www.touchtalent.com/index.php/thickbox/view/login?height=200&amp;width=425&amp;url=pages/view/privacy" class="thickbox button lfloat">
+        	<div class="login_request"><span>Log in</span></div>
+        </a>
+	    <div class="clrflt"></div>
+    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <!-- #main-content"  -->
+        <div id="main-content">
+            <div id="right-column" class="lfloat">
+                <ul id="page-nav">
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/etiquette">Etiquette</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/feedback">Feedback</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/careers">Careers</a></li>
+                    <div class="clr"></div>
+                    <li class="active"><a href="http://www.touchtalent.com/index.php/pages/view/privacy">Privacy</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/terms">Terms</a></li>
+                    <li><a href="http://www.touchtalent.com/index.php/pages/view/investors">Investor Relations</a></li>
+                                    </ul>
+            </div>
+            <div id="left-column" class="rfloat">
+                <h1 class="heading">Privacy Policy</h1><br>
+
+
+
+<p>This Privacy Policy governs the manner in which Talent Unlimited Online Services Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.touchtalent.com website ("Site"). This privacy policy applies to the site and all products and services offered by Talent Unlimited Online Services Pvt. Ltd..</p><br>
+
+<h2>Personal identification information</h2>
+
+<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our site anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain site related activities.</p><br>
+
+<h2>Non-personal identification information</h2>
+
+<p>We( Company is an independent legal entity, use singular) may collect non-personal identification information about users whenever they interact with our site. Non-personal identification information may include the browser name, the type of computer and technical information about users means of connection to our site, such as the operating system and the Internet service providers utilized and other similar information.</p><br>
+
+<h2>Web browser cookies</h2>
+
+<p>Our(Use singular or Company's name) site may use "cookies" to enhance user experience. user's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the site may not function properly.</p><br>
+
+<h2>How we use collected information</h2>
+
+<p>Talent Unlimited Online Services Pvt. Ltd. collects and uses Users personal information for the following purposes:<br><br>
+
+<strong>- To personalize user experience</strong><br>
+   We(same as above) may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.<br>
+<strong>- To improve our Site</strong><br>
+   We(Same as above) continually strive to improve our website offerings based on the information and feedback we receive from you(Instead of You and Yours, let's use user or user's).<br>
+<strong>- To improve customer service</strong><br>
+   Your(same as above) information helps us(same as above) to more effectively respond to your customer service requests and support needs.<br>
+<strong>- To process transactions</strong><br>
+   We  may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.<br>
+<strong>- To administer a content, promotion, survey or other site feature</strong><br>
+   To send Users  information they agreed to receive about topics we think will be of interest to them.<br>
+<strong>- To send periodic emails</strong><br>
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.</p><br>
+
+<h2>How we protect your information</h2>
+
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.<br>
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.</p><br>
+
+<h2>Sharing your personal information</h2>
+
+<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.</p><br>
+
+<h2>Compliance with children's online privacy protection act</h2>
+
+<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p><br>
+
+<h2>Changes to this privacy policy</h2>
+<p>Talent Unlimited Online Services Pvt. Ltd. has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p><br>
+
+<h2>Your acceptance of these terms</h2>
+
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p><br>
+
+<h2>Contacting us</h2>
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br><br>
+Talent Unlimited Online Services Pvt. Ltd.<br>
+www.touchtalent.com<br>
+C-2/ 2635 Vasant Kunj, New Delhi - 110070<br>
+India<br>
+admin@touchtalent.com<br><br>
+
+<em>This document was last updated on March 15, 2012</em><p></p><br>
+<p>&nbsp;</p>     
+
+            </div>
+        </div>
+  <div class="clrflt"></div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","dc5af02ecf",426352,"bgNSNxFWWRJXAUFRW1dJcQAXXlgPGTJUX1FKSUYKBkA=",0,8,new Date().getTime()]);</script>
+
+</div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js"></script></body></html>
