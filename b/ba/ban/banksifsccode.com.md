@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksifsccode.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008021713id_/http%3A//banksifsccode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksifsccode.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413061624id_/http%3A//banksifsccode.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
  **Terms and Conditions**
 
-All data and details provided on this website is provided with care. But we advice you to check your result or result date from corresponding college / university / department website.
+All data and details provided on this website is provided with care. But we advice you to check with corresponding Banks / Department website.
 
  **Changes to this Privacy Statement**
 
