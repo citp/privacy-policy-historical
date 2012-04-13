@@ -1,46 +1,34 @@
-> *The following text is extracted and transformed from the eguyz.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129153124id_/http%3A//www.eguyz.com/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eguyz.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413033729id_/http%3A//www.forexguyz.com/privacy.php) for the most accurate reproduction.*
 
-# E! Guyz - Privacy Policy
+# Privacy Statement - Forex Guyz
 
-eGuyz respects and protects the privacy of the individuals that use eGuyz's services ("eGuyz Services"). Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission or as explained in this privacy policy ("Privacy Policy"). 
+**ForexGuyz.com** recognizes that you care about the personal information that is held about you and how that is used.
 
-### eGuyz and Cookies
+The following discloses our information gathering and dissemination practices for the website: ForexGuyz.com
 
-Upon your first visit to eGuyz.com, eGuyz sends a "cookie" to your computer. A cookie is a piece of data that identifies you as a unique user. eGuyz uses cookies to improve the quality of our service and to understand our user base more. eGuyz does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the eGuyz Services. eGuyz will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order. 
+By registering to ForexGuyz.com you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security, Pan card numbers or Credit Card numbers are stored by us.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the eGuyz Services may not function properly if you refuse cookies. 
+ForexGuyz.com also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as ForexGuyz.com. For information on how to manage cookies in your browser, please visit AboutCookies.org
 
-### Third Party Cookies
+ForexGuyz.com will not sell, transmit or distribute any data held without your prior permission or consent, unless required to do so under relevant law.
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. This information is edited via your Control Panel in the forums.
 
-### What Information Do We Collect?
+You have a legal right for the personal information held at ForexGuyz.com to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
 
-eGuyz does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. For example, eGuyz DOES collect such information from those users registering as Community Users and/or User Editors. eGuyz notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users. For example, eGuyz may use your IP address or browser language to determine which language to use when showing search results or advertisements. 
+ForexGuyz.com has security measures in place to protect the loss, misuse and alteration of the information under our control. However, we make no warranty to this.
 
-### Links to Other Sites 
+This site may contain links to other sites, which we have no control. ForexGuyz.com is not responsible for the privacy practices or the content of such Websites
 
-The stories/sites displayed and/or linked to by the eGuyz.com Service are developed by people over whom eGuyz exercises no control. Other links are also on sites not controlled by eGuyz. These other sites may send their own cookies to users, collect data, or solicit personal information. eGuyz encourages you to read the privacy policy of all web sites you visit. eGuyz may choose to exhibit its results in the form of a "URL redirecter." When eGuyz uses a URL redirecter, if you click on a URL on a eGuyz page, information about the click is sent to eGuyz, and eGuyz in turn sends you to the site you clicked on. eGuyz uses this URL information to understand and improve the quality of eGuyz's technology.
+This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to COPPA, our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on ForexGuyz.com 
 
-### With Whom Does eGuyz Share Information?
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to the users of this site based on their visit to this sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * By using this website, you agree that both the web server, and any 3rd party we choose, such as advertising networks, may place a tracking cookie on your machine and access it at any time.
 
-eGuyz may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. For example, we may disclose how frequently the average eGuyz user visits eGuyz, or which eGuyz pages are most often used. Please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. Further, eGuyz reserves the right to cooperate with legitimate law enforcement requests for information at its sole discretion.
 
-### Children’s Privacy
 
-We do not knowingly collect personal information from children under the age of 13.  If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
+This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes.
 
-### Third Party Advertising
-
-eGuyz uses third-party advertising companies to serve ads when you visit our Web site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
-
-### Your consent and changes to the Privacy Policy
-
-By using the eGuyz Services and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Service Policy. eGuyz may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. 
-
-### Who can I ask if I have additional questions?
-
-Feel free to contact us any time and we'll answer any additional questions you may have. [Contact us](http://www.eguyz.com/forums/sendmessage.php). 
-
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can Contact Us.
