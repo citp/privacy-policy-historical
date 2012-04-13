@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231155120id_/http%3A//adfoc.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfoc.us privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413104527id_/http%3A//adfoc.us/privacy.php) for the most accurate reproduction.*
 
 # AdFoc.us | Privacy Policy
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 8\. Contacting Us
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20111231155120id_/http%3A//adfoc.us/contact.php). 
+Please feel free to [contact](http://adfoc.us/support/) us with queries, requests, or comments you may have about our Privacy Policy.. 
