@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183211id_/http%3A//www.screwattack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwattack.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413114544id_/http%3A//www.screwattack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ScrewAttack.com
 
@@ -13,6 +13,8 @@ We use the information collected primarily to process the task for which you vis
 
 Cookies  
 Your Internet browser has the in-built facility for storing small files- "cookies" - that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
+
+ScrewAttack.com may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Disclosing Information  
 We do not disclose any personal information obtained about you from this website to third parties. We may also use the information to keep in contact with you and inform you of developments associated with our business. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent.
