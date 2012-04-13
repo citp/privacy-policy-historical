@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223051706id_/http%3A//www.elekta.com/corporate_international_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414010930id_/http%3A//www.elekta.com/meta/privacy.html) for the most accurate reproduction.*
 
-# Elekta's Privacy Statement
+# Elekta | Stereotactic Radiosurgery, Oncology, OIS Software - Privacy Statement
 
 Elekta is committed to the security of data collected online. Your privacy is important to us and we recognize your need for reasonable control of personally identifiable information that you provide to Elekta. We qualify personally identifiable information as any information that is associated with your name. The information you provide helps Elekta to better understand your needs and provide you with better service.
 
