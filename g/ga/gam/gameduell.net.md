@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210030153id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.net privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413120308id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -46,6 +46,20 @@ We intend to retain any correspondence, including facsimiles, mail and e-mails, 
 IP addresses are numbers that are automatically assigned to Your computer, and, if associated with other individually identifiable information, could be considered personal information. Your user IP address information is used only for Our internal tracking and marketing purposes.
   * Use of Cookies  
 In order for Us to provide You with the best possible service on Our Website, Your browser must accept cookies, as they are essential for site administration and security. We do not use cookies either to collect individually identifiable information or to collect non-individually identifiable information using a cookie that is combined with a personal identifier. 
+  * "Social Plugins" are used to improve the customization of our offer for each respective user.
+
+First of all, we offer an additional, alternative method of registration and login via Facebook Connect. This option is provided by Facebook, Inc.
+
+When using Facebook Connect, the data (e.g., User ID, email address registered with Facebook, some details shared with 'everyone') from your Facebook profile is transferred to our website. Similarly, the data provided on our website may be communicated to your Facebook profile. The data imported from your Facebook profile may be stored and processed by us.
+
+The use of Facebook Connect is subject to the terms and conditions of the Data Use Policy on the Facebook platform. You can find more information about the protection of data on Facebook here: <http://www.facebook.com/about/privacy/>
+
+In the event that you do not agree with these data sharing conditions, we advise you not to login with Facebook Connect. If you have already activated Facebook Connect, you can always disable it at any time by unsubscribing through our website as follows:
+
+My GameDuell > Facebook Login > Disconnect
+
+We will update the Terms & Conditions when there are further developments or any additional "Social Plugins" are available.
+
 
 
 
@@ -95,4 +109,4 @@ GameDuell INC
 235 Montgomery St. Suite 960  
 San Francisco, CA 94104
 
-**Date Last Modified: May 27, 2008.**
+**Date Last Modified: February 2, 2012.**
