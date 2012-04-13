@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214011043id_/http%3A//www.healthcarejobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413052406id_/http%3A//www.healthcarejobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Jobs | Healthcare & Medical Job Listings - HealthcareJobsite.com
 
@@ -56,9 +56,9 @@ Back to top
 
 ### Cookies
 
-In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer�s hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don�t need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
+In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you donï¿½t need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
 
-Our advertisers may also serve cookies when users click on the ad banners on this site. We do not have access to any personal information gathered by advertisers.
+Our advertisers may also serve cookies when users click on the ad banners on this site, or use web beacons to collect information. We do not have access to any personal information gathered by advertisers.
 
 If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. Click [here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site.
 
