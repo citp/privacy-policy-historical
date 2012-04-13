@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the zeeksmartz.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006231943id_/http%3A//zeeksmartz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeksmartz.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413144610id_/http%3A//zeeksmartz.com/privacy.php) for the most accurate reproduction.*
 
-# ZeekRewards™ - the SmartZ Way - /privacy.php
+# ZeekSmartZ - Help with your ZeekRewards™ - /privacy.php
+
+ZeekRewards™  
+     ... The SmartZ Way
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.zeeksmartz.com.com. 
