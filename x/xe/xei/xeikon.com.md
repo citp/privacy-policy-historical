@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213163348id_/http%3A//xeikon.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeikon.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413054019id_/http%3A//xeikon.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Xeikon
 
-## PRIVACY STATEMENT PUNCH GRAPHIX
+## PRIVACY STATEMENT XEIKON
 
 (May 2011)
 
 ### Introduction
 
-At PUNCH GRAPHIX / XEIKON, we are committed to protect and respect your personal data. Based on policies and regulations unique to the European Union (amongst others directives 95/46 and 2002/58), we have set forth below our privacy terms with regard to our websites, explaining how we use personal data collected from you on our websites. These include:
+At XEIKON, we are committed to protect and respect your personal data. Based on policies and regulations unique to the European Union (amongst others directives 95/46 and 2002/58), we have set forth below our privacy terms with regard to our websites, explaining how we use personal data collected from you on our websites. These include:
 
-\- <http://punchgraphix.com;>
-
-\- [http://xeikon.com; ](http://xeikon.com;  "http://xeikon.com; ")
+\- [http://xeikon.com](http://xeikon.com/)
 
 \- [http://basysprint.com](http://basysprint.com/ "http://basysprint.com")
 
 We invite you to carefully read this Statement to understand our data processing practices.   
 
-For the purpose of the applicable national and EU-legislation, the data controller for personal data collected on our websites is PUNCH GRAPHIX N.V., Brieversstraat 70, 4529 GZ Eede (hereinafter referred to as “XEIKON” or “we”).
+For the purpose of the applicable national and EU-legislation, the data controller for personal data collected on our websites is XEIKON., Brieversstraat 70, 4529 GZ Eede (hereinafter referred to as “XEIKON” or “we”).
 
 We may modify this Statement from time-to-time, for example to comply with future legislation, or to deal with future developments. Therefore, please check this Statement periodically for changes, in particular when you submit personal data on our websites. Any personal data collected about EU visitors via our websites, or when you contact XEIKON’s sales, customers or technical support via these websites, can be processed outside the European Union too. When you provide such personal data to XEIKON, you consent to the processing of your data in countries outside the European Union in which our website may also be operated.
 
@@ -114,7 +112,7 @@ The XEIKON Privacy Officer carries out internal supervision in connection with o
 
 You may exercise your rights and address any questions to the Privacy Officer: 
 
-by letter to PUNCH GRAPHIX N.V., attention of Privacy Officer, Brieversstraat 70, 4529 GZ Eede, The Netherlands;
+by letter to XEIKON BV., attention of Privacy Officer, Brieversstraat 70, 4529 GZ Eede, The Netherlands;
 
 by e-mail to [privacy.officer@xeikon.com](mailto:privacy.officer@xeikon.com).
 
