@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somearticle.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122072956id_/http%3A//www.somearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somearticle.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415001537id_/http%3A//www.somearticle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Some Article - Your Article Submission Website Directory
 
@@ -34,5 +34,4 @@ SomeArticle.com does not knowingly collect or solicit Personally Identifiable In
 
 SomeArticle.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-  
-
+Rating: 0.0/ **10** (0 votes cast)
