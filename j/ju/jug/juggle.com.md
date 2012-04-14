@@ -1,72 +1,63 @@
-> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406025431id_/http%3A//www.juggle.com/copyright.ez%3FPrivacy%3DYes%26Form.sess_id%3D408352%26Form.sess_key%3D1080945469) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414143131id_/http%3A//www.juggle.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# juggle.com
+# Privacy Policy | Juggle.com
 
-| 
+Last updated: October 18, 2011
 
-Mon, April 5 21:54  
-1 member online. Online for 0 minutes. 
+Juggle knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting the Juggle site, you are accepting the practices described in this Privacy Notice.**
 
-|   
+## What Personal Information About Users Does Juggle Gather?
 
-## Privacy Statement for juggle.com
+The information we learn from users helps us personalize and continually improve your experience at the Juggle site. Here are the types of information we gather:
 
-juggle.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: juggle.com. 
+**Information You Give Us:** We receive and store any information you enter on the Juggle site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing the Juggle site for you, improving the Juggle site, and communicating with you.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the Juggle site. [Click here](https://web.archive.org/corporate/terms-of-service/) to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Juggle if we cannot recognize you, we want you to be aware that these tools exist.
 
-This site makes use of the technology known as "cookies." A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. 
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and pages you viewed or searched for.
 
-Any material, information, or idea, other than credit card information, transmitted to or posted on this Site by any means will be treated as non-confidential and non-proprietary, and may be disseminated or used by Juggle.com or its affiliates for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products. Credit card information is transmitted via encrypted methods to protect privacy. 
+## What About Cookies?
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit our site. 
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalization.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of the Juggle site’s features.
 
-This site contains links to other sites. juggle.com is not responsible for the privacy practices or the content of such Web sites. 
+## Does Juggle Share the Information It Receives?
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. 
+Information about our users is an important part of our business, and we are not in the business of selling it to others. We share user information only as described below and with subsidiaries that Juggle controls.
 
-Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+**With Your Consent:** By accepting the Juggle Terms of Use Agreement, you expressly consent to our use of your information as outlined in this Privacy Notice.
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+**Participants:** As a requester or provider of services through the Juggle site, we may share certain information in order to facilitate the service relationship and to improve the Juggle site.
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
+**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include analyzing data, processing payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-### Public Forums
+**Business Transfers:** As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the event that Juggle or substantially all of its assets are acquired, user information will of course be one of the transferred assets.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+**Protection of Juggle and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms of Use Agreement](https://web.archive.org/corporate/terms-of-service/) and other agreements; or protect the rights, property, or safety of Juggle, our users, or others. This includes (1) exchanging information with other companies and organizations for fraud protection and credit risk reduction; and (2) if you are a provider of a service on the Juggle site, we will release your name and address only to requesters for whom you provide services so that those requestors can comply with tax and other legal obligations they might have. Obviously, however, **this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Notice.**
 
-### Children's Guidelines
+## How Secure Is Information About Me?
 
-This site collects online contact information from children without prior parental consent or parental notification. This site collects personally identifiable offline contact information without prior parental consent. This site distributes to third parties personally identifiable information collected from children without prior parental consent. This site gives children the ability to publicly post or distribute personally identifiable contact information without prior parental consent. 
+We work to protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts information you input.
 
-### Choice/Opt-Out
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+## What Choices and Access Do I Have?
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of the Juggle site.
 
-1\. You can visit the following URL: [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=408760&Form.sess_key=1081220071)
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
 
-### Correct/Update
+## Children
 
-This site gives users the following options for changing and modifying information previously provided. 
+Use of the Juggle site is limited to persons and entities that lawfully can enter into and form contracts under applicable law. It is not intended for use by minors.
 
-1\. visit [http://www.juggle.com/signup.ez](http://www.juggle.com/signup.ez?Form.sess_id=408760&Form.sess_key=1081220071)
+## Participation Agreement, Notices, and Revisions
 
-### Contacting the Web Site
+If you choose to visit Juggle, your visit and any dispute over privacy is subject to this Privacy Notice and our [Juggle Terms of Use Agreement](https://web.archive.org/corporate/terms-of-service/), including limitations on damages, arbitration of disputes, and application of the law of the state of Illinois. If you have any concern about privacy at Juggle, please [contact us](https://web.archive.org/corporate/contact-us) with a thorough description, and we will try to resolve it.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [friends@juggle.com](mailto:friends@juggle.com) or use the following address:
+Our business changes constantly, and our Privacy Notice and the [Terms of Use Agreement](https://web.archive.org/corporate/terms-of-service/) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check the Juggle site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. 
 
-Juggle.com  
-Founded in 1997
+## Related Practices and Information
 
-Juggle.com  
-2021 21st Ave. S.  
-Nashville, TN 37206
-
-A portal to all things juggling-related 
-
-|   
----|---|---
+[Terms of Use Agreement](https://web.archive.org/corporate/terms-of-service/)
