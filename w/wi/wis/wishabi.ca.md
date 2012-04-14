@@ -1,67 +1,109 @@
-> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2011-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111002163506id_/http%3A//www.wishabi.ca/wishabi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishabi.ca privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414202851id_/http%3A//wishabi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wishabi
+# None
 
-At Wishabi, we recognize that your privacy is important. This privacy policy applies to all Wishabi products and services (the "Sites"), including Wishabi.ca and the Wishabi Facebook application. It outlines the type of information we collect, how it is used, and how you may control and access it. 
+In this Privacy Statement, the term "We", "Our", or "Us" refers to Wishabi Inc. ("Wishabi"), and the term "You", "Your", or "User" refers to an adult user of the Service (as defined herein) acting independently or as parent or guardian for any minor to whom You allow access to the Service and for whom You have read, understood and agree to this Privacy Statement.
 
-## Information Collection and Storage
+Wishabi recognizes that Your privacy is important. This Privacy Statement applies to all versions and uses (e.g. licensees) of Wishabi's Next-Generation Flyer Platform (e.g. web browser, mobile app, tablet app and any other iterations of the Flyer Platform that may be applicable in the future), whether Wishabi-branded or not (the "Service"). This Privacy Statement will outline the type of information We may collect, how it may be used, and how You may control and access it.
 
-Wishabi (“Wishabi”, "Wishabi.ca", "the Sites", "we" or "us") may ask you for certain personal information such as your email address, name, or address to facilitate specific tasks you are seeking to perform. In addition, we may collect other information you generate as part of your interaction with the Sites. Wishabi may also collect usage and preference information for the continued development and improvements of Wishabi products. 
+## 1\. INFORMATION COLLECTION 
 
-We may also receive personal information from our business partners and other third parties provided that they have confirmed to us that they have obtained your consent to the disclosure of such information. 
+We may collect personal information about You when You use the Service. We strive to limit the amount of personal information collected and to only collect personal information required to provide the necessary service.
 
-We store this information for use on wishabi.ca and other Wishabi applications. Your Wishabi name and the content you generate are displayed throughout the Sites. Some of this information will be available to the Wishabi community and be identifiable to your Wishabi account name. 
+##  1.1 Examples of Information Collected 
 
-##  Use and Disclosure of Personal Information
+Some examples of information that may be collected through Your use of the Service include: 
 
-“Wishabi” uses your personal information primarily for the purpose of providing you with the requested services, and to expand and improve the functionality of Wishabi products. Examples may include setting up your Wishabi account or optimizing the site based on your preferences. 
+  * Your email address, name, address, or any information provided to Us during registration;
+  * Preference information;
+  * Information available through Your browser;
+  * Information You provide Us when You "contact us";
+  * Information stored in "cookies"; and
+  * Information provided by Our business partners and other third parties, provided that they have confirmed to Us that they have obtained Your consent to the disclosure of such information.
 
-Your personal information is also used to communicate with you about your account, keep you updated on recent Wishabi activities, and to provide you with information related to other products and services. We will also at times will send you updates and information to notify you of changes to the service at Wishabi.ca. You may control the information you receive from us by changing your notification settings on Wishabi.ca.
 
-We may aggregate available information in a non-personally identifiable fashion to provide for third parties for their product development, marketing and promotional purposes. 
 
-If you enter a contest or other promotion offered by Wishabi, on a Wishabi website, or on a Wishabi application, your personal information will be used to administer the promotion, including the use of your name and selected other information for the purposes of contacting, announcing and promoting the winners of the promotion.
+Wishabi may also collect non-personally identifiable information pertaining to Your use of the Service. This anonymous usage data is aggregated to provide analytics to merchants in order to improve Your experience of the Service.
 
-Wishabi may also contact you from time to time to conduct market research and surveys in an effort to continually improve our product and service offerings. As a matter of policy, we do not sell or rent any of your personal information to third parties without your explicit consent. Unless you specifically authorize us to release your personal information, or release is required or permitted by law, we will not exchange, sell, lease, trade or otherwise give away your personal information to other companies. Your email address is used solely by you for purposes of logging into your account, and us for communication with you in manners which you have authorized us to do. 
+##  2\. USE AND DISCLOSURE OF PERSONAL INFORMATION 
 
-We will seek your prior consent to the collection, use and disclosure of the information as required by applicable privacy legislation. We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Wishabi or our users, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Wishabi employees, customers or the public. 
+We uses Your personal information primarily for the purpose of providing You with the requested services, and/or to expand and improve the functionality of the Service.
 
-To enable us to more efficiently provide the services you have requested from us, Wishabi may share your personal information with selected third parties who are acting on our behalf as our agents, suppliers or service providers. Such third party service providers are provided only with such information as is necessary in the circumstances. Information provided to third parties may be used only for the purpose stipulated and is subject to strict terms of confidentiality. 
+##  2.1 Account Information 
 
-## Use of Cookies
+If the Service provides for Account registration, Your personal information may be used as follows: 
 
-Wishabi uses Cookies, which are small amounts of data sent to your web browser by a web server. You can see them as small text files inside your 'Temporary Internet Files' folder in Windows.Our cookies are used to store session data and to help with usability of our site. We monitor Wishabi and analyze traffic patterns to help us with our research and development and create a better experience for you on Wishabi. We do not link IP addresses to personally identifiable information nor do we distribute or share IP information with any third party. 
+  * Set-up Your Service account;
+  * Optimize the Service based on Your preferences;
+  * Communicate to You about Your Service account or changes to the Service;
+  * Associate You with Your community activities within Our community network
+  * Keep You updated on Our recent activities; and
 
-The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on the Sites. 
 
-## Accuracy
+* Provide You with information related to Our other products and services.
 
-Wishabi will try to ensure that information about you is accurate, complete and up-to-date. Please inform Wishabi of any change of name, address or other information. In the event you have questions about the accuracy of factual information we have collected about you, you will have access to that information in order to verify and update it. If we have disclosed inaccurate information about you to a third party, we will be pleased to contact the third party in order to correct the information. 
+You may control the information You receive from Us by changing Your notification settings on Your respective Service account.
 
-## Security
+##  2.2 Contests and Promotional Offers 
 
-Wishabi is committed to protecting your privacy. Although we take measures to ensure the privacy of this data, please be aware that no security measures are perfect or impenetrable. We cannot guarantee the actions of other users with whom you have shared this information with (your friends and people you send your lists to for example), and therefore we do not guarantee that this information will not be viewed by unauthorized individuals. We are also not responsible for any circumvention of our privacy systems. 
+If You enter a contest or other promotion offered on the Service, Your personal information will be used to administer the promotion, including the use of Your name and selected other information for the purposes of contacting, announcing and promoting the winners of the promotion.
 
-## Children
+##  2.3 Legal Requirements and Our Protection 
 
-Wishabi does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with wishabi.ca. If you are under 13, please do not attempt to register for Wishabi or send any information to us. In the event that we are aware of any users on Wishabi applications under the age of 13 we will delete all information related to the user and terminate their account from Wishabi. If you believe that we might have any information from or about a child under 13, please contact us at "privacy [at sign] wishabi [dot] com". 
+We may access or disclose information about You, including the content of Your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect Our rights or properties , or the rights or properties of Our affiliates, business partners or Users, including the enforcement of Our agreements or policies governing Your use of the Service; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Our employees, customers or the public.
 
-We require that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
+##  2.4 Service Providers
 
-## External Links
+To enable Us to more efficiently provide the services You have requested from Us, We may share Your personal information with selected third parties who are acting on Our behalf as Our agents, suppliers or service providers. Such third party service providers are provided only with such information as is necessary in the circumstances. Information provided to third parties may be used only for the purpose stipulated and is subject to strict terms of confidentiality.
 
-Wishabi.ca contains links to other websites. Wishabi is not responsible for the privacy practices or the content of such other websites. The users are requested to read the privacy statement of all such websites that collect personal information. This privacy statement applies only to the information collected by Wishabi. 
+##  2.5 Marketing 
 
-If the ownership of Wishabi changes, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Statement.
+We may also contact You from time to time to conduct market research and surveys in an effort to continually improve Our product and service offerings. As a matter of policy, We do not sell or rent any of Your personal information to third parties without Your explicit consent. Unless You specifically authorize Us to release Your personal information, or release is required or permitted by law, We will not exchange, sell, lease, trade or otherwise give away Your personal information to other companies. Your email address is used solely by You for purposes of logging into Your account, and Us for communication with You in manners which You have authorized Us to do.
 
-## Access
+##  2.6 Business Transfers 
 
-If you have any questions about the collection, use or disclosure of your personal information by Wishabi, or if you simply want to know whether we have any of your personal information on file, you may contact us. Except in limited circumstances, as specifically provided by applicable privacy legislation,Wishabi can tell you whether we hold personal information about you. We can tell you the source of the information, allow you access to your personal information and find an account of the use that has been made or is being made of the information and the third parties to which it has been disclosed. 
+We may share information We collect with Our corporate family of companies. We may also transfer collected information in order to facilitate change of corporate control. In the event of a change in corporate control, this Privacy Statement will continue to apply. 
 
-Wishabi will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege.Wishabi will respond to your requests for access in accordance with applicable privacy legislation. 
+##  3\. USE OF COOKIES 
 
-If you are concerned about anything to do with our website, about our privacy policy, practices followed by this site or your dealings with this website, please email us at "privacy [at sign] wishabi [dot] com" and we will be happy to discuss. 
+We use Cookies, which are small amounts of data sent to Your web browser by a web server. You can see them as small text files inside Your 'Temporary Internet Files' folder in Windows. Our cookies are used to store session data and to help with usability of the Service. We monitor and analyze traffic patterns to help Us with Our research and development and create a better experience for You from the Service. We do not link IP addresses to personally identifiable information nor do We distribute or share IP information with any third party.
 
-## Notice
+The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset Your browser to either refuse to accept all cookies or to notify You when You have received a cookie. However, if You refuse to accept cookies, You may not be able to use some of the features available through the Service.
 
-We may amend this Privacy Statement at any time by posting the amended terms on www.wishabi.ca. All amended terms shall automatically be effective immediately and we are not required to notify you of the changes. 
+##  4\. ACCURACY 
+
+We will try to ensure that information about You is accurate, complete and up-to-date. Please inform Us of any change of name, address or other information. In the event You have questions about the accuracy of factual information We have collected about You, You will have access to that information in order to verify and update it. If We have disclosed inaccurate information about You to a third party, We will be pleased to contact the third party in order to correct the information.
+
+##  5\. SECURITY 
+
+We are committed to protecting Your privacy. Although We take measures to ensure the privacy of this data, please be aware that no security measures are perfect or impenetrable. We cannot guarantee the actions of other Users with whom You have shared this information (Your friends and people You send Your lists to for example), and therefore We do not guarantee that this information will not be viewed by unauthorized individuals. We are also not responsible for any circumvention of Our privacy systems.
+
+##  6\. CHILDREN 
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If You are under 13, please do not attempt to register with the Service or send any information to Us. In the event that We are aware of any Users under the age of 13, We will delete all information related to the User and terminate their account. If You believe that We might have any information from or about a child under 13, please contact Us using the information below in the "Contact Us" section. We require that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+##  7\. EXTERNAL LINKS 
+
+Services provided by Us contain links to other websites. We are not responsible for the privacy practices or the content of such other websites. Users are requested to read the privacy statement of all such websites that collect personal information. This Privacy Statement applies only to the information collected by Us.
+
+##  8\. ACCESS 
+
+If You have any questions about the collection, use or disclosure of Your personal information by Us, or if You simply want to know whether We have any of Your personal information on file, You may contact Us. Except in limited circumstances, as specifically provided by applicable privacy legislation, We can tell You whether We hold personal information about You. We can tell You the source of the information, allow You access to Your personal information and find an account of the use that has been made or is being made of the information and the third parties to which it has been disclosed.
+
+We will only refuse access to information about You in those circumstances permitted or required by applicable privacy legislation. Exceptions may include information that contains references to other individuals, information that cannot be disclosed for legal, security or commercial proprietary reasons, and information that is subject to solicitor-client or litigation privilege. We will respond to Your requests for access in accordance with applicable privacy legislation.
+
+If You are concerned about anything to do with Our website, about this Privacy Statement, practices followed by the Service or Your dealings with the Service, please contact us using the information in the "Contact Us" section.
+
+##  9\. NOTICE 
+
+We may amend this Privacy Statement at any time by posting the amended terms on the respective Service and the date on which such amended terms were posted. All amended terms shall automatically be effective immediately and We are not required to notify You of the changes.
+
+##  10\. INTERNATIONAL 
+
+We have separate privacy statements for Our international operations. Please ensure that You read the appropriate privacy statement.
+
+## 11\. CONTACT US
+
+If You have any questions, feedbacks or comments regarding this Privacy Statement, please feel free to contact us at "privacy [at sign] wishabi [dot] com".
+
+Last Update: December 5, 2011
