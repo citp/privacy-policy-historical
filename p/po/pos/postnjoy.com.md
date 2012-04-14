@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postnjoy.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110957id_/http%3A//www.postnjoy.com/site/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postnjoy.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414042625id_/http%3A//www.postnjoy.com/site/privacyPolicy.html) for the most accurate reproduction.*
 
 # Blog Marketing & Blog Ads || PostNjoy
 
