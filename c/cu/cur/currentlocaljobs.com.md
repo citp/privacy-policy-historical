@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentlocaljobs.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215150416id_/http%3A//currentlocaljobs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentlocaljobs.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414114840id_/http%3A//currentlocaljobs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
