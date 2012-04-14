@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangatame.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073750id_/http%3A//www.orangatame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangatame.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414030251id_/http%3A//orangatame.com/privacy) for the most accurate reproduction.*
 
 # Orangatame Software
 
