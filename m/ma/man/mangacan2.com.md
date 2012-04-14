@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangacan2.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225083207id_/http%3A//mangacan2.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangacan2.com privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414232812id_/http%3A//mangacan2.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
