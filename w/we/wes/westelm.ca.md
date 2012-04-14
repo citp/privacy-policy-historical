@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westelm.ca privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024170827id_/http%3A//www.westelm.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westelm.ca privacy policy that was archived on 2012-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120414042033id_/http%3A//www.westelm.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # west elm | canada - privacy policy
 
