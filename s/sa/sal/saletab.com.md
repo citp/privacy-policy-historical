@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saletab.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219053857id_/http%3A//www.saletab.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saletab.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416000358id_/http%3A//www.saletab.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
