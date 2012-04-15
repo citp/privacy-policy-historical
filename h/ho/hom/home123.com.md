@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home123.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206170633id_/http%3A//home123.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home123.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415143135id_/http%3A//www.home123.com/privacy.php) for the most accurate reproduction.*
 
 # Home123 - Privacy Policy
 
