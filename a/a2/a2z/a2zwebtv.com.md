@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the a2zwebtv.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016032731id_/http%3A//www.a2zwebtv.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zwebtv.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415080004id_/http%3A//www.a2zwebtv.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A2ZWebTV.Com
 
 **Save a2zwebTV to Favourites**  
 Press (Ctrl-D) on your keyboard.   
 **[Subscribe to A2ZWebTV.Com by Email](http://feedburner.google.com/fb/a/mailverify?uri=A2zwebtv&loc=en_US) **  
-Dear visitor please note that we are not broadcasting any channel only we are providing channel links from other sites. The content of the channels are controlled by respective owners only. If You Are Having Any Problem Watching Online TV Then Please **[Visit System Requirements Page](http://www.a2zwebtv.com/contact-us/system-requirements/)**
+Dear visitor please note that we are not broadcasting any channel only we are providing channel links from other sites. The content of the channels are controlled by respective owners only. If You Are Having Any Problem Watching Online TV Then Please **[Visit System Requirements Page](http://www.a2zwebtv.com/contact-us/system-requirements/)**  
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@a2zwebtv.com](mailto:admin@a2znewstv.com).
 
