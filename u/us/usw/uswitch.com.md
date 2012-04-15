@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213232id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415034328id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on uSwitch.com - switch online with confidence
 
@@ -14,7 +14,7 @@ This privacy statement sets out the policy in relation to how any personal infor
 
 ##  What personal information do we collect? 
 
-In order to process a switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. If you abandon your switch, we may email or call you to give you the opportunity to compare again and/or to provide feedback on our switching process.
+In order to process an energy switch, we collect your name, address and may collect payment details and other details to process the switch. We also collect your email address and phone number. These details allow uSwitch.com and your new supplier to contact you about the switch and any other information which uSwitch believes may interest you. If you abandon your switch, we may email or call you to give you the opportunity to compare again and/or to provide feedback on our switching process.
 
 You can opt-out of receiving information from us whenever you input personal data, or by sending an email to [help@uswitch.com](mailto:help@uswitch.com "Email help@uswitch.com").
 
