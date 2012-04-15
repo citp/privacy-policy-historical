@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waukesha.k12.wi.us privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121223447id_/http%3A//www.waukesha.k12.wi.us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waukesha.k12.wi.us privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415174636id_/http%3A//www.waukesha.k12.wi.us/privacy.aspx) for the most accurate reproduction.*
 
-# School District of Waukesha > Home
+# School District of Waukesha | Home
 
 School District of Waukesha is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the School District of Waukesha Web site and governs data collection and usage. By using the School District of Waukesha website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ School District of Waukesha will occasionally update this Statement of Privacy t
 
 Contact Information
 
-School District of Waukesha welcomes your comments regarding this Statement of Privacy. If you believe that School District of Waukesha has not adhered to this Statement, please contact School District of Waukesha at [greg@comstar.biz](mailto:greg@comstar.biz). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+School District of Waukesha welcomes your comments regarding this Statement of Privacy. If you believe that School District of Waukesha has not adhered to this Statement, please contact School District of Waukesha at [jeff@m2com.net](mailto:jeff@m2com.net). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
