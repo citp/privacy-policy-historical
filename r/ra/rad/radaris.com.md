@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2011-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110818034430id_/http%3A//privacy-policy.truste.com/verified-policy/radaris.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415171503id_/http%3A//privacy-policy.truste.com/verified-policy/radaris.com) for the most accurate reproduction.*
 
 # Privacy Policy for radaris.com
 
-Effective on May 4, 2011
+Effective on May 4, 2011 
 
-This privacy statement describes how Radaris, LLC. collects and uses the personal information you provide on our Web site: [radaris.com](http://radaris.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Radaris, LLC. collects and uses the personal information you provide on our Web site: [radaris.com ](https://radaris.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
 Radaris, LLC. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [support@radaris.com](mailto:support@radaris.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [support@radaris.com ](mailto:support@radaris.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -42,7 +42,7 @@ We use this information to
   * Conduct research and analysis
   * Display content based upon your interests
   * List you in our member directory made available only to other members
-  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [support@radaris.com](mailto:support@radaris.com)
+  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [support@radaris.com ](mailto:support@radaris.com)
 
 
 
@@ -63,9 +63,9 @@ We may provide your personal information to companies that provide services to h
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
   * if Radaris, LLC. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
+  * to any other third party with your prior consent to do so.
 
 
 
@@ -89,7 +89,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [support@radaris.com](mailto:support@radaris.com)
+If you have any questions about security on our Web site, you can contact us at [support@radaris.com ](mailto:support@radaris.com)
 
 ## Additional Policy Information
 
@@ -101,7 +101,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [support@radaris.com](mailto:support@radaris.com).
+To review and update your personal information to ensure it is accurate, contact us at [support@radaris.com ](mailto:support@radaris.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -109,9 +109,9 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Radaris, LLC.
+Radaris, LLC. 
 
-34 Washington Street Suite 210
+34 Washington Street Suite 210 
 
 Wellesley, MA, United States 02148
 
