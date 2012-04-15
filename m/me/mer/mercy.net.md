@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107035604id_/http%3A//www.mercy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercy.net privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415111909id_/http%3A//www.mercy.net/privacy-policy) for the most accurate reproduction.*
 
 # Mercy.net and MyMercy Internet Privacy Policy | Mercy
 
@@ -54,6 +54,8 @@ We also use persistent cookies that remain on your hard drive after you've exite
 
 We will periodically ask users to complete surveys asking about their experiences with features of the website. Our surveys ask visitors for demographic information such as age, gender and education, but will not request that users provide specific information about any medical condition. We use survey information for research and quality improvement purposes, including helping Mercy to improve information and services offered through the website. In addition, users giving feedback may be individually contacted for follow-up due to concerns raised during the course of such evaluation. Demographic information and web log data may be stored for future research and evaluation.
 
+For more information, please review our [Electronic Communications Policy](https://web.archive.org/mercy-electronic-communication-policy).
+
 ### Messages and Transactions
 
 Comments or questions sent to us using e-mail or secure messaging forms will be shared with Mercy health care professionals and co-workers who are most able to address your concerns. We will archive your messages once we have made our best effort to provide you with a complete and satisfactory response.
@@ -61,6 +63,8 @@ Comments or questions sent to us using e-mail or secure messaging forms will be 
 Some of our services such as MyMercy’s automated appointment selection and prescription refill services interact directly with other Mercy data systems. Data about your transaction may be stored in these systems and made available to people who test and support these systems.
 
 When you use a service on the secure section of this website to interact directly with Mercy health care professionals, some information you provide may be documented in your medical record and made available for use to guide your treatment as a patient.
+
+For more information, please review our [Electronic Communications Policy](https://web.archive.org/mercy-electronic-communication-policy).
 
 ### Data Integrity and Correction
 
@@ -77,4 +81,4 @@ State and federal laws may allow you to request that we limit our uses and discl
 **Questions, Complaints and Contacts**  
 If you have any questions about this Privacy Policy, our policies and practices concerning this site, your rights under this statement and your dealings with this website, you can contact Mercy by clicking this link: <https://www.mymercy.net/webpresence/support>
 
-_Copyright 2010 Mercy – updated 09/03/10._
+_Copyright 2011 Mercy – updated 09/03/11._
