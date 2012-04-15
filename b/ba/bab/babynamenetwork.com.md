@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129090923id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamenetwork.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415140523id_/http%3A//www.babynamenetwork.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Baby Names, Baby Boy Names, Baby Girl Names, Baby Name Meanings
 
