@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007111624id_/http%3A//pipl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416003924id_/http%3A//pipl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pipl - People Search
 
-Pipl was built with both its usefulness and your privacy in mind. This policy describes the types of personal information we may collect and how we may use such information. 
+Pipl was built with both its usefulness and your privacy in mind. This policy describes the types of personal information we may collect from our users and how we may use such information.   
+(this policy is not relevant in any way to public information about you or other people that is found on the web and subsequently available on our site. If you'd like to control or remove such information - [please click here to learn how](https://web.archive.org/help/remove/)) 
 
 By using Pipl, you agree to the collection and use of your personal information as described in this policy as well as to Pipl's terms of service. Any significant changes to this policy – will be posted on Pipl's website (www.pipl.com)
 
