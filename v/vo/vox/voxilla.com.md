@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216073618id_/http%3A//voxilla.com/voxilla/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxilla.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415091623id_/http%3A//voxilla.com/voxilla/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,14 +39,3 @@ You provide such information when you search, buy or communicate with customer s
 ### Automatic Information
 
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history, the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&title=Privacy%20Policy&notes=Voxilla%20knows%20that%20how%20personal%20information%20is%20gathered%2C%20used%20and%20shared%20is%20very%20important%20to%20you%2C%20and%20we%20appreciate%20the%20trust%20you%20put%20in%20us.%20We%20tell%20you%20just%20how%20we%20do%20those%20three%20things%20in%20our%20privacy%20policy.%20You%20accept%20this%20policy%20when%20you%20visit%20V "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&srcTitle=Voxilla+VoIP+and+mobile+communications+news+and+information "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&title=Privacy%20Policy&source=Voxilla+VoIP+and+mobile+communications+news+and+information&summary=Voxilla%20knows%20that%20how%20personal%20information%20is%20gathered%2C%20used%20and%20shared%20is%20very%20important%20to%20you%2C%20and%20we%20appreciate%20the%20trust%20you%20put%20in%20us.%20We%20tell%20you%20just%20how%20we%20do%20those%20three%20things%20in%20our%20privacy%20policy.%20You%20accept%20this%20policy%20when%20you%20visit%20V "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fvoxilla.com%2Fvoxilla%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
-  * 
-
