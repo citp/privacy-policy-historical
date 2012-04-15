@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111090736id_/http%3A//www.landmarkcinemas.ca/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcinemas.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415160850id_/http%3A//www.landmarkcinemas.ca/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D115) for the most accurate reproduction.*
 
 # Privacy Policy
 
