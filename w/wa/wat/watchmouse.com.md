@@ -1,58 +1,45 @@
-> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022439id_/http%3A//www.watchmouse.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415205902id_/http%3A//www.nimsoft.com/solutions/nimsoft-monitor/user-experience/legal) for the most accurate reproduction.*
 
-# WatchMouse website monitoring service - Privacy Policy
+# ITSM Provider Privacy and Security Policy - Nimsoft
 
-  
-Your online privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+## Your Privacy
 
-WatchMouse BV has created this privacy statement (effective 20 February 2002) in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: http://www.watchmouse.com/ 
+Nimsoft is committed to maintaining the trust and confidence of our customers and visitors to our web site. In particular, we want you to know that Nimsoft is not in the business of selling, renting or trading individuals’ personal data to other companies for marketing purposes. In this Privacy Policy we provide detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
 
-We are not responsible for pages that are not within the watchmouse.com domain. 
+## Collection and Use of Personal Information
 
-Our privacy statement covers: 
+Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address or mailing address.
 
-1\. WatchMouse provides a link to this Privacy Statement on all pages that ask for personal information   
-2\. WatchMouse will not release personal identifying information about you without first obtaining consent   
-3\. The information we collect   
-4\. Our use of your information   
-5\. How to change or deactivate your information 
+In general, you can browse our web site without giving us any personal information. Additional activities on our site require you to be registered – for example, to receive white papers, to request a trial version of our software or to register for an event. As part of the registration process, we ask you to fill in a simple html form where we collect additional personal/contact information. We use that information for several general purposes: to tell you about products, seminars and services if you so request; to fulfill your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding customer satisfaction surveys.
 
-When you visit watchmouse.com, we may collect general information that will not personally identify you, such as: 
+## Use of Cookies
 
-\- Internet browser   
-\- Operating system   
-\- Date of visit   
-\- Time of visit   
-\- Path taken through the site 
+Part of our data collection process may involve the use of “cookies”, which are small pieces of identifying information placed and stored on your computer by our server which enable our system to more readily “recognize” you when you visit. Cookies are frequently used to enable sites to more efficiently provide service, such as to customize the display to suit your interests, note your interests while visiting our site, and store information. It is our policy that any information obtained through the use of cookies will only be used internally by Nimsoft to better provide service to you and to evaluate and improve the effectiveness of the Site. Cookies will not be used to track your activities outside of the site or for any purpose not disclosed herein.
 
-This information alone does not identify an individual and we will not combine it with information that does identify you as an individual. 
+You may elect not to accept “cookies” by setting your Internet options on your computer; however, please be advised that in that case, you may not be able to access part or all of this site, or parts of this site may not operate effectively.
 
-Personally identifiable information is defined as any personal information that could identify you, such as your name, address, telephone number, billing information, credit card information, or e-mail address. 
+## Disclosure of Personal Information
 
-In general, when you visit watchmouse.com, you do not have to tell us who you are, or reveal any personally identifiable information. Because we take your privacy seriously, we will not collect any personally identifiable information unless you voluntarily provide it. At no time during your visit to watchmouse.com should you feel obligated to reveal any personal information to WatchMouse. 
+In rare instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about Nimsoft and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose.
 
-We may share your personal information with third party suppliers and service providers, including independent contractors providing services for, or with WatchMouse. In all cases, these third parties are contractually required to keep that information confidential. They are not authorized by WatchMouse to use that information for any other purpose than to carry out the services they are performing for, or with WatchMouse. We may also disclose personally identifiable information to third parties if you consent to the disclosure, if we are compelled or authorized to do so by law, or if we reasonably believe there is a threat to someone's life or health. Personally identifiable information submitted for employment purposes will only be used in connection with the application process. It will not be used or disclosed for any other purposes unless required or authorized by law. 
+Nimsoft sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support and processing event registrations. In addition, we may use third party information or technology in our products and disclose customer information to such third parties solely for the purposes of fulfillment, support, or audit by such third parties. Because Nimsoft is a global company, your personal information may be shared with other Nimsoft offices or subsidiaries in the U.S., Europe, and elsewhere, but will never be sold or traded. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, Nimsoft and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. At your request, we can provide you with data protection details of the countries relevant to you.
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code). 
+## Children and Privacy
 
-We may use customer contact information from the registration form to:   
-1\. send you information about our company and promotional material from some of our partners and   
-2\. contact you when necessary 
+Our web site does not offer information intended to attract children. Nimsoft does not knowingly solicit personal information from children under the age of 13.
 
-We may use "cookies" to gather statistical information that helps us understand what you find interesting and useful on our web site. Cookies are also used for identification of known users. 
+## Links to Other Web Sites
 
-This site contains links to other sites. watchmouse.com is not responsible for the privacy practices or the content of Web sites to which we link. We have special business relationships with some companies, but none of them receive individual identifying information about you collected at watchmouse.com. 
+Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, consult the linked site’s privacy statement.
 
-We are committed to maintaining the security of the data we collect and protecting it from loss, misuse, or alteration. This applies to demographic information, client site usage information, and personally identifiable information. We store the data collected on secure watchmouse.com servers that can be accessed only by authorized watchmouse.com personnel 
+## Unsubscribing
 
-To safeguard all information collected, WatchMouse and all of its employees follow the practices in this policy. No one is permitted to access or use information for any purpose other than those explained in this policy. 
+Unsubscribing From General Marketing Communications:
 
-If you would like to change or deactivate the information you have submitted, please send a request here: www.watchmouse.com/contact.php . WatchMouse will change or de-activate any information that could be used to identify you as soon as possible after your request, unless there we are required or authorized by law not to do so. Once de-activated your data will not be accessible, however due to limitations imposed by system backups to magnetic media, including the off site secure storage of data from our data warehouse your data can in some circumstances remain on these tapes. In the unlikely event that one of these tapes is accessed as part of a larger recovery of watchmouse.com data, your data would continue to be flagged and remain de-activated and inaccessible for use by WatchMouse staff. 
+Your privacy is important to us. You may “opt out” at any time via the opt-out weblink that appears at the bottom of any marketing emails you receive from us.
 
-To fully protect your privacy, we reserve the right to amend this policy at any time, and for any reason. We will post the amended terms on this Web site as they occur and encourage you to frequently check for updates. 
+## Your Consent
 
-Nothing contained in this policy is intended to create a contract or agreement between WatchMouse and any user providing identifiable information in any form. 
+By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
 
-We will take all necessary steps to comply with this privacy policy, however, to the extent permitted by law, nothing in this policy is intended to hold WatchMouse liable for any failure to comply with this policy. 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us here: www.watchmouse.com/contact.php . 
+If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [**privacy@nimsoft.com**](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [**webmaster@nimsoft.com**](mailto:webmaster@nimsoft.com).
