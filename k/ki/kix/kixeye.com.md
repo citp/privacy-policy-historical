@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kixeye.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213020628id_/http%3A//www.kixeye.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kixeye.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415152043id_/http%3A//www.kixeye.com/help/privacypolicy) for the most accurate reproduction.*
 
 # KIXEYE – Privacy Policy
 
@@ -58,7 +58,7 @@ Notwithstanding anything else herein, we may partner with third party advertiser
 
 **How you can control the collection, use, and/or display of data by KIXEYE**
 
-If you do not want KIXEYE to send you communications such as newsletters or promotional offers, you may opt-out from receiving these communications by contacting us [updates@kixeye.com](mailto:mail@kixeye.com%3Ehere%3C/a%3E.%3C/p%3E%3Cp%3EOr%20emailing%20us:%20%3Ca%20href=)
+If you do not want KIXEYE to send you communications such as newsletters or promotional offers, you may opt-out from receiving these communications by contacting us [updates@kixeye.com](mailto:mail@kixeye.com%3Ehere%3C/a%3E.Or%20emailing%20us:%20%3Ca%20href=)
 
 By regular mail at KIXEYE, Attn: Privacy Policy, 433 California Street, Floor 11, San Francisco, California 94111.
 
