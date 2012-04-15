@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016163645id_/http%3A//www.stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stansberryresearch.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415141659id_/http%3A//www.stansberryresearch.com/privacy.asp) for the most accurate reproduction.*
 
 # News and Events - Stansberry Investment Research
 
@@ -15,9 +15,8 @@
   | [True Income](https://web.archive.org/pub/tin/index.asp)  
   | [Retirement Millionaire](https://web.archive.org/pub/rem/index.asp)  
   | [Retirement Trader](https://web.archive.org/pub/rtr/index.asp)  
-  | [Penny Stock Specialist](https://web.archive.org/pub/pst/index.asp)  
+  | [Small Stock Specialist](https://web.archive.org/pub/pst/index.asp)  
   | [Junior Resource Trader](https://web.archive.org/pub/jrt/index.asp)  
-  | [S&A Grail Trader](https://web.archive.org/pub/gra/index.asp)  
   | [True Wealth Systems](https://web.archive.org/pub/tws/index.asp)  
 | [The S&A Digest](https://web.archive.org/pub/digest/index.asp)  
   | [DailyWealth](http://www.dailywealth.com/)  
@@ -63,4 +62,4 @@ DISCLAIMER: This work is based on SEC filings, current events, interviews, corpo
   
    
   
-©2011 Stansberry & Associates Investment Research. All Rights Reserved. Protected by copyright laws of the United States and international treaties. This website may only be used pursuant to the subscription agreement and any reproduction, copying, or redistribution (electronic or otherwise, including on the world wide web), in whole or in part, is strictly prohibited without the express written permission of Stansberry & Associates Investment Research, LLC. 1217 Saint Paul Street, Baltimore MD 21202. 
+©2012 Stansberry & Associates Investment Research. All Rights Reserved. Protected by copyright laws of the United States and international treaties. This website may only be used pursuant to the subscription agreement and any reproduction, copying, or redistribution (electronic or otherwise, including on the world wide web), in whole or in part, is strictly prohibited without the express written permission of Stansberry & Associates Investment Research, LLC. 1217 Saint Paul Street, Baltimore MD 21202. 
