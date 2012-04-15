@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000412id_/http%3A//biowarestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415121820id_/http%3A//biowarestore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ We also may collect other types of information in the following ways when you vi
 We will not share your personal information with others except as indicated below. We may share personal information with:
 
   1. Our Identified Partners for the purposes of marketing their products or business continuity.
-  2. Service providers, such as credit-card payment processors and fulfillment partners performing services on our behalf
+  2. Service providers, such as credit-card payment processors and fulfillment partners performing services on our behalf.
   3. Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
