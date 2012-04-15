@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfilehost.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008021325id_/http%3A//www.yourfilehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfilehost.com privacy policy that was archived on 2012-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/privacy.php) for the most accurate reproduction.*
 
 # YourFileHost.com - Free hosting for ALL your files -N
 
@@ -11,13 +11,13 @@ YOURFILEHOST has established registration and sign-in procedures which, in conju
 
 Also, please read our Children's Privacy Policy (below) to learn about how we treat information collected from children.
 
-Questions regarding our privacy policy should be directed to our [contact form](https://web.archive.org/web/20111008021325id_/http%3A//www.yourfilehost.com/contact.php). 
+Questions regarding our privacy policy should be directed to our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php). 
 
 ________________________________________
 
 What Does the YOURFILEHOST Privacy Policy Cover?
 
-This privacy policy applies to web pages ending in YOURFILEHOST.com that contain a link to this privacy policy at the bottom of the web page. Inclusion of the YOURFILEHOST logo at the top of a web page does not necessarily mean that this privacy policy applies. Be sure to check the URL that you link to from YOURFILEHOST web pages to determine whether this privacy policy applies. If you have any questions about this, contact us via our [contact form](https://web.archive.org/web/20111008021325id_/http%3A//www.yourfilehost.com/contact.php).
+This privacy policy applies to web pages ending in YOURFILEHOST.com that contain a link to this privacy policy at the bottom of the web page. Inclusion of the YOURFILEHOST logo at the top of a web page does not necessarily mean that this privacy policy applies. Be sure to check the URL that you link to from YOURFILEHOST web pages to determine whether this privacy policy applies. If you have any questions about this, contact us via our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php).
 
 ________________________________________
 
@@ -96,6 +96,6 @@ ________________________________________
 
 Your Questions or Suggestions Regarding this Privacy Policy.
 
-If you have a privacy concern regarding any YOURFILEHOST website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should contact via our [contact form](https://web.archive.org/web/20111008021325id_/http%3A//www.yourfilehost.com/contact.php). 
+If you have a privacy concern regarding any YOURFILEHOST website or this Policy, and if you cannot satisfactorily resolve it through the use of the websites, you should contact via our [contact form](https://web.archive.org/web/20120415090314id_/http%3A//yourfilehost.com/contact.php). 
 
 Policy updated and effective date: September 26, 2006
