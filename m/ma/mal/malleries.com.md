@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228175513id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416022927id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
 BY CATEGORIES
 
 [](http://luxury.malleries.com/)
-
-  
-
 
 | 
 
