@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triptrivia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204150117id_/http%3A//www.triptrivia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triptrivia.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416030148id_/http%3A//www.triptrivia.com/privacy.php) for the most accurate reproduction.*
 
 # Travel and Tourism - Privacy Policy - TripTrivia.com
 
