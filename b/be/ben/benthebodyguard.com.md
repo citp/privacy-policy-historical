@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benthebodyguard.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501152227id_/http%3A//benthebodyguard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benthebodyguard.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416115807id_/http%3A//benthebodyguard.com/privacy.php) for the most accurate reproduction.*
 
 # Ben the Bodyguard. Privacy Policy.
 
@@ -47,4 +47,4 @@ This Site may contain links to other websites. Nerd Communications is not respon
 If you have any questions or concerns about this Privacy Policy or want to review, update, correct or delete your personal information collected through the Site, or revoke your consent to use your personal information, you may email us anytime at [info@nerdcommunications.com](mailto:info@nerdcommunications.com) or write to us at Nerd Communications GmbH, Rochstr. 17, 10178 Berlin, Germany. 
 
 [](http://nerdcommunications.com/ "Visit Ben's parents!")  
-[« Back to the dark streets](https://web.archive.org/web/20110501152227id_/http%3A//benthebodyguard.com/index.php "Wanna walk with Ben again?")
+[« Back to the dark streets](https://web.archive.org/web/20120416115807id_/http%3A//benthebodyguard.com/index.php "Wanna walk with Ben again?")
