@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebiz.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208050940id_/http%3A//www.articlebiz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebiz.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416233342id_/http%3A//www.articlebiz.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ArticleBiz.com
 
