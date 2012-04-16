@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefree.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225221008id_/http%3A//www.freewarefree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefree.net privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416023002id_/http%3A//www.freewarefree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Freeware Free
 
