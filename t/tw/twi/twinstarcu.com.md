@@ -1,59 +1,106 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105065614id_/https%3A//www.twinstarcu.com%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416030316id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwinStar Credit Union
 
-This document is also available for download in [PDF format](https://web.archive.org/web/20110105100928id_/https://www.twinstarcu.com/pdf/disclosures/055-Privacy.pdf "TwinStar Privacy Policy in PDF format").
+**What does TwinStar Credit Union do with your personal information?**
 
-We encourage you to read the whole policy to understand how we use your information online and offline. 
+### Why?
 
-### Our Privacy Pledge
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.
 
-At the Credit Union, we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by the Credit Union. This notice explains what types of member information we collect and under what circumstances we may share it.
+### What?
 
-###  Member Information We Collect
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires. We may collect personal and financial information about you (member information) that is “nonpublic”. The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources:
-
-_Application Information_ – We retain personal information we receive from you on any application you provide for membership, deposit account, EFT services, loans, insurance, or other Credit Union services. This information may include: name, address, e-mail address, Social Security number, birth date, phone number, employment and financial status, and credit history.
-
-_Your Transactions_ – Any time you make a transaction on one of your accounts, including ATM[](https://web.archive.org/glossary/term/47 "Automatic teller machine. Also commonly referred to as a cash machine.") or card transactions, loan advances, insurance transactions through Internet Home Banking, over the phone or at a branch, we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information.
-
-_Credit Reports_ – When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests.
-
-### Member Information We Share
-
-In order to provide financial services to you, we share certain information about you with our affiliates and third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed, if necessary, to enforce or administer an account or as required by law.
-
-_Sharing Information with Credit Union Affiliates_ \- Our affiliates CUSTOM, Inc is a data processing company, and Financial Services Management Group LLC, provides financial services. We may share personal information (such as name, address, SSN, and account number, etc.) and account information (such as type of accounts, account balances, and transaction history, etc.) with our affiliates, so they can serve you more efficiently. Our affiliates do not use information we share to market their products or services and they maintain the same privacy standards as the Credit Union.
-
-_Sharing Information With Third Party Service Providers_ – In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, credit reporting agencies, insurance companies, financial planners and securities firms, and financial service providers with whom we have joint marketing agreements. These service providers/strategic partners act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We may share the following categories of information to third party service providers depending on the specific services provided:
-
-  * Personal information (i.e. name, address, SSN, and account number, etc.)
-  * Account information (i.e. type of accounts, account balances, and transaction history, etc.)
-  * Transaction information (i.e. date, amounts, locations, and type of transactions, etc.)
+  * Social Security number and income
+  * account balances and payment history
+  * credit history and credit scores
 
 
 
-We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our affiliates or other financial service providers, we control the member information used to make such offers.
+When you are _no longer_ our member, we continue to share your information as described in this notice.
 
-_Sharing Information as Legally Required or Permitted_ – We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.
+### How?
 
-### Our Confidentiality and Security Safeguards
+All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons TwinStar Credit Union chooses to share; and whether you can limit this sharing.
 
-We maintain strict policies and security controls to assure that member information in our computer systems and files is protected. Our employees and agents are permitted access to member information that they may need to perform their jobs and to provide service to you. Our employees and agents have access to such member information as necessary to conduct a transaction or respond to your inquiries. All employees and agents are trained to respect member privacy. No one except our employees and agents has regular access to the Credit Union computer system and records storage. The Credit Union has established internal security controls, including physical, electronic and procedural safeguards to protect the information you provide us and the information we collect about you. We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future.
+Reasons we can share your personal information | Does TwinStar Credit Union share? | Can you limit this sharing?  
+---|---|---  
+For our everyday business purposes— such as to process your transactions, maintain your account(s), respond to court orders and legal Investigations, or report to credit bureaus | Yes | No  
+For our marketing purposes— to offer our products and services to you | Yes | No  
+For joint marketing with other financial companies | Yes | No  
+For our affiliates’ everyday business purposes— information about your transactions and experiences | Yes | No  
+For our affiliates’ everyday business purposes— information about your creditworthiness | No | We don’t share  
+For nonaffiliates to market to you | No | We don’t share  
+  
+**Questions?** Contact us by calling 360.357.9917 or at 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
 
-###  Online Privacy Protection
+###  Who we are
 
-At www.twinstarcu.com we may obtain information online when you visit the website. This may include retaining information you provide to us on any online application, our Internet Home Banking or e-mail. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Internet Home Banking service relies on industry standard “Secure Sockets Layer” (SSL) encryption to secure your transaction information and communication. Any information you provide using an online application, or any information you send to us by e-mail will be treated with confidentiality.
+**Who is providing this notice?** TwinStar Credit Union
 
-_Protecting Children’s Information Privacy:_ Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.
+### What we do
 
-### Privacy Policy Changes
+#### How does TwinStar Credit Union protect my personal information?
 
-We reserve the right to change this policy, and we will give you any notice required by law if we change this policy.
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings.
 
-### Privacy Policy Inquiries
+#### How does TwinStar Credit Union collect my personal information?
 
-The Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your Credit Union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 360-357-9917, ext. 4440 or 1-800-258-3115, ext. 4440, sending us an e-mail at privacy@twinstarcu.com, or writing to us at TwinStar Credit Union, P.O. Box 718, Olympia, WA 98507-0718.
+We collect your personal information, for example, when you
 
-_Updated October 1, 2008_
+  * open an account or deposit money
+  * pay your bills or apply for a loan
+  * use your credit or debit card
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+
+#### Why can’t I limit all sharing?
+
+Federal law gives you the right to limit only
+
+  * sharing for affiliates’ everyday business purposes—information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.
+
+### Definitions
+
+#### Affiliates 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * Affiliates CUSTOM, Inc., is a data processing company, Financial Services Management Group LLC provides financial services, and The Paragon Consulting Group provides audit/compliance services.
+
+
+
+#### Nonaffiliates 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * TwinStar Credit Union does not share with nonaffiliates so they can market to you.
+
+
+
+#### Joint marketing 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * TwinStar Credit Union does not jointly market.
+
+
+
+### Other important information
+
+Privacy Policy Inquiries: TwinStar Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your credit union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 360.357.9917 or at 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
+
+Rev. 11/2011
+
+Attachment| Size  
+---|---  
+[055-TwinStarPrivacyNotice.pdf](https://www.twinstarcu.com/sites/default/files/055-TwinStarPrivacyNotice.pdf)| 63.33 KB
