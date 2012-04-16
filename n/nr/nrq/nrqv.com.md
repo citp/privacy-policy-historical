@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nrqv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101212212id_/http%3A//www.nrqv.com/page/4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrqv.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416054001id_/http%3A//www.nrqv.com/page/4.html) for the most accurate reproduction.*
 
-# Privacy - Online Games Nrqv.com
+# Privacy - Online Games NRQV
 
-**PRIVACY POLICY FOR NRQV.COM  
+**PRIVACY POLICY FOR ONLINEGAMESHQ.COM  
 ** We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices.
 
 **PERSONAL INFORMATION  
@@ -29,4 +29,4 @@ When placing an order, our e-commerce provider will handle your personal informa
 ** This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites.
 
 **CONTACTING OUR WEB SITE  
-** If you have any comments or questions about this privacy statement or any other issues you can [contact us](mailto:contact@nrqv.com). 
+** If you have any comments or questions about this privacy statement or any other issues you can [contact us](mailto:onlinegameshq@gmail.com). 
