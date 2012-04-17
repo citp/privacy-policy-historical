@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030103450id_/http%3A//www.ishaoutreach.org/projects/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishaoutreach.org privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418014851id_/http%3A//www.ishaoutreach.org/projects/49) for the most accurate reproduction.*
 
 # Copyright & Privacy
 
