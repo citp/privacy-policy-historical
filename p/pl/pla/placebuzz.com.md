@@ -1,56 +1,46 @@
-> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209142644id_/http%3A//www.placebuzz.com/Blurb/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placebuzz.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418003720id_/http%3A//placebuzz.com/Blurb/Privacy) for the most accurate reproduction.*
 
 # Placebuzz - Privacy Policy
 
-## Introduction
+This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use this Site.
 
-This privacy policy sets out how Placebuzz uses and protects any information that you give Placebuzz when you use this website.
+### Collection of Personal Information
 
-Placebuzz is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Placebuzz may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st September 2011.
+We collect personal information from you (such as name, address, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-## What we collect
+### Collection of Other Information
 
-We may collect the following information:
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies. The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location. 
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+### Use of Your Information
 
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
 
-
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * Internal record keeping
+  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+  * Informing you if you have been successful in any Site competitions or promotions
+  * Compiling customer reviews
+  * Conducting market research
+  * Carrying out statistical, technical and logistical analysis
 
 
 
-## Security
+### Sharing Your Personal Information
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g. online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.). Subject to obtaining your written consent, we may also supply personal information about you to third parties so that they may contact you. We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
-## How we use cookies
+### Safeguards And Security
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www.ico.gov.uk 
 
-## Links to other websites
+### Accessing Your Personal Information
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences, or have any other privacy queries please write to us (including full details of your request) at.
 
-## Controlling your personal information
+Data Protection Team Penryhn Business centre 73 Penryhn Road Kingston Upon Thames KT1 2EQ 
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+We may charge a small administration fee in relation to fulfilling a request for access to personal information.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at team@placebuzz.com
+### Changes to this Privacy Policy
 
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Abstract Innovations Ltd, 73 Penrhyn Road, London KT1 2EQ. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-[Back to PlaceBuzz](https://web.archive.org/)
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page
