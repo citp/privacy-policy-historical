@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231074401id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkwheel.net privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417215340id_/http%3A//www.linkwheel.net/privacy) for the most accurate reproduction.*
 
-# Linkwheel.net Privacy Policy | LinkWheel.net
+# Privacy | LinkWheel SEO Services
 
 **What information do we collect?**
 
@@ -16,7 +16,7 @@ Any of the information we collect from you may be used in one of the following w
 
   * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions
-  * Personally-Identifying Information may be used by Linkwheel.net to personalize and enhance your use of this site, including the marketing and promotion of Linkwheel.net products and third party company  products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by Linkwheel.net for such.
+  * Personally-Identifying Information may be used by Linkwheel.net to personalize and enhance your use of this site, including the marketing and promotion of Linkwheel.net products and third party company products and services that might be of interest to you. Your use of this Site is a consent to the foregoing use of your Personally-Identifying Information by Linkwheel.net for such.
 
 
 
