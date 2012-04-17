@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213034745id_/http%3A//www.safebox.mobi/web/new/safebox-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417221547id_/http%3A//www.safebox.mobi/web/new/safebox-privacy-policy.html) for the most accurate reproduction.*
 
 # SafeBox.mobi | Mobile Privacy Application � Private SMS, phonebook and notes
 
