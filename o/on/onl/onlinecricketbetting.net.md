@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113082654id_/http%3A//www.onlinecricketbetting.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417160823id_/http%3A//www.onlinecricketbetting.net/privacy-policy.php) for the most accurate reproduction.*
 
 # OnlineCricketBetting.net | Privacy Policy
 
@@ -13,3 +13,5 @@ While we make reasonable efforts to provide accurate and timely information abou
 ### Credits
 
 This site has been created for the purpose of providing information regarding online cricket betting. If you find any incorrect information, bad links, or other errors on this site please [contact us](http://www.onlinecricketbetting.net/contact-us.php).
+
+[ ](http://serve.williamhill.com/promoRedirect?member=cricketbetting&campaign=DEFAULT&channel=DEFAULT&zone=1471208078&lp=1468066112)
