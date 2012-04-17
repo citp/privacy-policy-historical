@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teluguvids.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308030937id_/http%3A//www.teluguvids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teluguvids.com privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417051600id_/http%3A//www.teluguvids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telugu Cinema
 
