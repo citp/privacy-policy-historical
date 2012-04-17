@@ -1,16 +1,62 @@
-<!--The following is the downloaded HTML source of the amateurpornreviews.net privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006101647id_/http%3A//www.amateurpornreviews.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amateurpornreviews.net privacy policy that was archived on 2012-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120418002849id_/http%3A//www.amateurpornreviews.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
 	<title>Privacy Statement</title>
 	<meta name="description" content="Privacy statement of Amateur Porn Reviews">
 	<meta name="keywords" content="home">
-	<link href="/layout.css" rel="stylesheet" type="text/css" media="screen">
-	<link href="/structure.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/CSS/colorbox.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/CSS/layout.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/CSS/structure.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/CSS/login-register.css" rel="stylesheet" type="text/css" media="screen">
+	
 	<link rel="shortcut icon" href="/imgs/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/imgs/favicon.ico" type="image/x-icon">
 	
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/JS/rating.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/JS/jquery.validate.js"></script>
+	<script type="text/javascript" src="/JS/jquery.colorbox-min.js"></script>
+	<script type="text/javascript" src="/JS/login-register.js"></script>
+	
+
+	<script type="text/javascript">
+		
+		jQuery(function(){
+			jQuery('a.formpopup').colorbox({scrolling: false, onComplete: function(){
+				$('.pop-up-close').click(function(){ 
+				$.fn.colorbox.close() 
+				return false;
+				});
+				cbox_submit();
+			}});
+		});
+
+		function cbox_submit()
+		{
+			jQuery('#commentratingform').submit(function(){
+				jQuery.post(
+					jQuery(this).attr('action'),
+					jQuery(this).serialize(),
+					function(data){
+						jQuery().colorbox({html: data, scrolling: false, onComplete: function(){
+							cbox_submit();
+							$('.pop-up-close').click(function(){ 
+							$.fn.colorbox.close() 
+							return false;
+
+							});
+						}});
+					}
+				);
+				return false;
+			});
+		} 
+	</script>
+	
+
 
 
 </head>
@@ -21,6 +67,66 @@
 	</div>
 
 	
+
+<div id="loginbox">	  
+	
+
+		
+
+				<span id="#standardform">
+					<div id="loginformspan">
+						<div style="position:absolute; margin-left: 969px; margin-top: 2px;"><a style="color:black; text-decoration: none; z-index: 7012;" id="closeloginbox" href="">x</a></div>
+						<form id="loginform" name="loginform" action="/PHP/login-process.php?a=login" method="post">
+							<label for="username">Username: </label>
+							<input type="text" name="username" id="username" value="">
+							<label for="password">Password: </label>
+							<input type="password" name="password" id="password">
+							<input type="submit" id="login" name="login" value="Login">
+						</form>
+						<div id="registertext" style="position:absolute; margin-left: 545px; margin-top: -20px; font-weight: bold;">Not a member yet? <a href="" style="color: red;" id="registerscreen">Register here</a>, it's free!</div>
+					</div>
+					<div id="registerformspan" style="display: none;">
+					<div style="position:absolute; margin-left: 969px; margin-top: 2px;"><a style="color:white; text-decoration: none; z-index: 7012;" id="closeloginbox" href="">x</a></div>
+						<div id="signuppart">	
+							<h3>Sign up here!</h3>
+							<form id="registerform" name="registerform" action="/PHP/login-process.php?a=register" method="post">
+
+								<label for="regusername">My username: </label>
+								<input type="text" name="regusername" id="regusername" value=""><br>
+
+								<label for="regemail">My email adress: </label>
+								<input type="text" name="regemail" id="regemail"><br>
+
+								<label for="regpassword">Pick a password: </label>
+								<input type="password" name="regpassword" id="regpassword"><br>
+
+								<label for="regpassword2">Retype your Password: </label>
+								<input type="password" name="regpassword2" id="regpassword2"><br>
+							
+								<input type="checkbox" name="newsletter" id="newsletter" value="1" checked="">Sign me up for the newsletter + give me free porn! <a href="" id="regmoreinfo">More info</a><br>
+								<input type="submit" id="register" name="register" value="Register">
+							</form>
+							<div style="clear:both;"></div>
+						</div>
+						<div id="infopart">
+							<h3>Why register?</h3>
+							<p>By joining Amateur Porn Reviews you'll receive the following benefits:</p>
+							<ul>
+								<li>Easy commenting and posting</li>
+								<li>Access to all premium features</li>
+						</ul></div>
+					      	<div style="clear:both;"></div>
+					</div>
+				</span>
+				<span id="newform"></span>
+				<div id="logintext" style="display: none; position:absolute; margin-left: 745px; margin-top: -20px; font-weight: bold;">Already a member? <a href="" style="color: red;" id="loginscreen">Login here</a></div>
+
+					<div id="message" style="height: 10px; padding: 5px 5px 5px 5px; margin: 5px 0px 5px 0px; background-color: #dae089; z-index: 6000;"></div>
+</div>
+<div id="loginlinkmenu">
+	
+	<a rel="nofollow" id="loginlink" href="">login/register</a><span id="usermenu" style="display:none;"><a rel="nofollow" id="logoutlink" href="">logout</a> - <a href="" id="myaccount">My Account</a></span>
+	</div>
 <img src="/imgs/logo-bottom.jpg" alt="" style="float: left;">
 <div style="float: left;">
 
@@ -44,15 +150,16 @@
 	<div class="sidebar">
 		<div class="searchlogin">
 <form id="search" name="search" method="get" action="/search.php">
+<fieldset>
 <input id="textinput" type="text" name="q" size="24" value=""><input id="submitbutton" type="submit" name="search" value="Search">
 <input type="hidden" value="yes">
 <input type="hidden" name="kw" value="">
 <input type="hidden" name="src" value="">
-</form>
+</fieldset></form>
 </div>		<h2>Amateur Pornstars Top10</h2>
 		<div class="contentbox">
 			<ol>
-				<li><a href="/models/crazy-slutty-607.html">Crazy Slutty</a> (4/5)</li><li><a href="/models/chloe-272.html">Chloe</a> (2/5)</li><li><a href="/models/tatiana-752.html">Tatiana</a> (2/5)</li><li><a href="/models/misha-844.html">Misha</a> (2/5)</li><li><a href="/models/julia-153.html">Julia</a> (2/5)</li><li><a href="/models/marion-493.html">Marion</a> (2/5)</li><li><a href="/models/sky-559.html">Sky</a> (1/5)</li><li><a href="/models/busty-babe-128.html">Busty Babe</a> (1/5)</li><li><a href="/models/lauren-734.html">Lauren</a> (1/5)</li><li><a href="/models/pierced-brunette-746.html">Pierced Brunette</a> (1/5)</li>			</ol>
+				<li><a href="http://www.amateurpornreviews.net//models/crazy-slutty-607.html">Crazy Slutty</a> (4/5)</li><li><a href="http://www.amateurpornreviews.net//models/chloe-272.html">Chloe</a> (4/5)</li><li><a href="http://www.amateurpornreviews.net//models/marion-493.html">Marion</a> (4/5)</li><li><a href="http://www.amateurpornreviews.net//models/tatiana-752.html">Tatiana</a> (3/5)</li><li><a href="http://www.amateurpornreviews.net//models/desirae-spencer-503.html">Desirae Spencer</a> (3/5)</li><li><a href="http://www.amateurpornreviews.net//models/jasmine-211.html">Jasmine</a> (2/5)</li><li><a href="http://www.amateurpornreviews.net//models/hot-brunette-165.html">Hot Brunette</a> (2/5)</li><li><a href="http://www.amateurpornreviews.net//models/misha-844.html">Misha</a> (2/5)</li><li><a href="http://www.amateurpornreviews.net//models/julia-153.html">Julia</a> (2/5)</li><li><a href="http://www.amateurpornreviews.net//models/adorable-audrey-457.html">Adorable Audrey</a> (2/5)</li>			</ol>
 			<p>Find a full list of all Amateur Pornstars lised on Amateur Porn Reviews <a href="/pornstars.php" title="all Amateur pornstars">here</a>.</p>
 		</div>	
 	</div>
@@ -90,7 +197,7 @@
 
 	<div id="footer">
 		<p><strong>Amateur Porn </strong> | Find more Amateur &amp;  related sites at my <a href="/friends.php">friends</a> page</p>
-		<p>Copyright (c) 2011 <a href="/">Amateur Porn</a>. All rights reserved by Amateur Porn Reviews
+		<p>Copyright (c) 2012 <a href="/">Amateur Porn</a>. All rights reserved by Amateur Porn Reviews
 		</p>
 		<p>All the models appearing in images or video used and linked to by amateurpornreviews.net are 18 years of age or older. </p>
 		<p>
@@ -109,7 +216,7 @@
 	</div>
 </div>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20530891-5']);
