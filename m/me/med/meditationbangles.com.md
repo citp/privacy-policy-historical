@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106151559id_/http%3A//meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meditationbangles.com privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417180811id_/http%3A//www.meditationbangles.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Meditation Bangles
 
