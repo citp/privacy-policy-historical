@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125204547id_/http%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417193342id_/http%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
 
 # ApowerSoft - Privacy
 
@@ -7,7 +7,7 @@
 Last Updated: July 9, 2008
 
 Apowersoft is committed to protecting your privacy. Please read the Apowersoft Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular Apowersoft sites and services that you may use.  
-It does not apply to those Apowersoft sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20101125204547id_/http%3A//www.apowersoft.com/company/contact.html). 
+It does not apply to those Apowersoft sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20120417193342id_/http%3A//www.apowersoft.com/company/contact.html). 
 
 ## Software
 
@@ -30,6 +30,8 @@ As is standard practice on many corporate websites, we uses "cookies" and other 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We will not use the information collected to market directly to that person. **  
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. **
 
+News
+
 Editor's Review
 
 Safe, Trusted and clean software to help you record, download , convert Streaming video, tv, music for your digital devices."
@@ -39,3 +41,7 @@ www.downloadplex.com
 Company Awards
 
 Join Our Newsletter
+
+Subscribe to Our Newsletter (tips, new releases, specials),Privacy Guaranteed!
+
+More Resource
