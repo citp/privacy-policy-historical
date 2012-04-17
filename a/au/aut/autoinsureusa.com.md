@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103062725id_/http%3A//autoinsureusa.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418011125id_/http%3A//autoinsureusa.com/privacy) for the most accurate reproduction.*
 
-# Auto Insure USA - AutoInsureUSA.com - Save up to $500 on your Auto Insurance.
+# AutoInsureUSA.com
 
 AutoInsure USA is in partnership with Sure Hits. Autoinsureusa.com captures and passes your information on to the SureHits system. In order to complete this transaction, we capture your ZipCode. We also collect your IP address and related information from your browser, and we use cookies to remember your computer when you return to the site.
 
