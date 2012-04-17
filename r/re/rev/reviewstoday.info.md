@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewstoday.info privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103222822id_/http%3A//reviewstoday.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewstoday.info privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417083109id_/http%3A//reviewstoday.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
