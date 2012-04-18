@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmpmedica.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143622id_/http%3A//www.ubmmedica.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmpmedica.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418085209id_/http%3A//www.ubmmedica.com/misc/privacy) for the most accurate reproduction.*
 
 # UBM Medica : Privacy Policy
 
