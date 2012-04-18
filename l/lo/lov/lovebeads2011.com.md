@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovebeads2011.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125001755id_/http%3A//www.lovebeads2011.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovebeads2011.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418192825id_/http%3A//www.lovebeads2011.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
