@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205062617id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzbop.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418085137id_/http%3A//www.kidzbop.com/privacy) for the most accurate reproduction.*
 
 # Kidz Bop
 
 ### 
 
-KIDZBOP.com is a FREE and SAFE social network and video sharing site just for kids. At KIDZBOP.com we offer our Members the ability to express themselves safely by uploading user generated content (videos and photos). This content is pre-screened via our trained moderation staff, to ensure your child NEVER shares or displays any personally identifiable information. At KIDZBOP.com Members can safely express themselves (via our "SafeText Messaging System") by creating "Status" updates on their My Channel pages. They can also send and receive Friend Requests with other Members on our site. If your child and another Member become friends, we allow them to post text comments, via our "SafeText Messaging System," on each others' videos, photos and My Channel pages. To ensure the safety of this communication we have implemented state-of-the-art Crisp ([www.crisp.com](https://web.archive.org/bridge?dest_url=http://crispthinking.com/solution-U13.htm)) moderation software, which contains automatic filters that prevent members from easily sharing any personal information, and a back end moderation system which alerts our moderators to possible infractions that we can then investigate. In addition, we give your child the ability to easily delete any text comments they receive and to report any abuse by another member.
+KIDZBOP.com is a FREE and SAFE social network and video sharing site just for kids. At KIDZBOP.com we offer our Members the ability to express themselves safely by uploading user generated content (videos and photos). This content is pre-screened via our trained moderation staff, to ensure your child NEVER shares or displays any personally identifiable information. At KIDZBOP.com Members can safely express themselves (via our "SafeText Messaging System") by creating "Status" updates on their My Channel pages. They can also send and receive Friend Requests with other Members on our site. If your child and another Member become friends, we allow them to post text comments, via our "SafeText Messaging System," on each others' videos, photos and My Channel pages. To ensure the safety of this communication we have implemented state-of-the-art Crisp ([www.crisp.com](http://crispthinking.com/solution-U13.htm)) moderation software, which contains automatic filters that prevent members from easily sharing any personal information, and a back end moderation system which alerts our moderators to possible infractions that we can then investigate. In addition, we give your child the ability to easily delete any text comments they receive and to report any abuse by another member.
 
 Our website, KIDZBOP.com, is hosted by KIDZBOP, LLC a USA company with offices at 214 Sullivan Street 4th Floor NY, NY 10012.
 
@@ -20,7 +20,7 @@ KIDZBOP, LLC is the sole owner of all information collected on KIDZBOP.com.
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" user activities on a website as well as users visits to a site. We use cookies on this site. We link the information we store in cookies to Personally Identifiable Information (PII) you submit while on our site. Our cookies themselves do not contain any Personally Identifiable Information (PII). Our cookies reference the PII you provided during registration. We reference the information you provided via an encrypted identifier. Where we link these unique identifiers with your PII, we will treat the unique identifiers as PII as long as they are linked. We use the registration information you provided to contact you if you lose your password or contact you about site updates and changes.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.[http://en.wikipedia.org/wiki/HTTP_cookie](https://web.archive.org/bridge?dest_url=http://en.wikipedia.org/wiki/HTTP_cookie).
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.<http://en.wikipedia.org/wiki/HTTP_cookie>.
 
 When a KIDZBOP.com member is using our site, KIDZBOP, LLC collects certain non-personal information by placing and accessing cookies on the user's computer. Cookies do not contain any personal information, so we do not use cookies (or other covert or non-consensual methods) to acquire contact information about the user or other users of the computer.
 
@@ -36,16 +36,15 @@ At KIDZBOP.com we allow Members to submit user generated content (videos and pho
 
 To make sure you are kept up to date on your child's activity on our site we send the parent an email when:
 
-  * **We receive user generated content from your child:** Everytime your child uploads any video or photo content to our site we will email you to let you know that your child's content has been received and that we are reviewing it. 
-  * **After moderating your child's content:** After reviewing your child's content we will email you to let you know whether or not your child's content followed [The Kidz Bop Rules of Play](http://www.kidzbop.com/parents#safety). If the content IS approved, we will email you a link to view the content on our site. If you do not approve of the content your child has uploaded, your child has the ability to delete any user-generated content at anytime from their Channel page. If the content is NOT approved, we will email you and let you know the reason the content was flagged. Flagged content will NOT appear on our site and will be automatically deleted from our database.
+  * **Your child's content has been moderated:** After reviewing your child's content we will email you to let you know whether or not your child's content followed [Kidz Bop Rules of Play](http://www.kidzbop.com/parents#safety). If the content IS approved, we will email you a link to view the content on our site. If you do not approve of the content your child has uploaded, your child has the ability to delete any user-generated content at anytime from their Channel page. If the content is NOT approved, we will email you and let you know the reason the content was flagged. Flagged content will NOT appear on our site and will be automatically deleted from our database.
 
 
 
 Occasionally KIDZBOP.com will send emails to parents regarding updates to our site or new features that we think you should be aware of. We also need to contact you regarding any Customer Service requests that you submit and if your child forgets their password.
 
-Optionally, during registration children under 13 may provide their own email address if they wish to receive KIDZ BOP Email Alerts. Email Alerts are notifications that we send to your child's profile page and, if your child requests, to their provided email address. Your child's email address will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If your child gives us their email to receive Email Alerts we send the parent an email alerting them of this and provide the parent the ability to deactivate email alerts for the child's account. If the parent decides to deactivate Email Alerts we will delete the child's email address from our database.
+Optionally, during registration children under 13 may provide their own email address if they wish to receive KIDZ BOP Email Alerts. Email Alerts are notifications that we send to your child's profile page and, if your child requests, to their provided email address. Your child's email address will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If your child gives us their email to receive Email Alerts we send the parent an email notifying them of this and provide the parent the ability to deactivate email alerts for the child's account. If the parent decides to deactivate Email Alerts we will delete the child's email address from our database.
 
-We will only send your child an Email Alert for the following reasons
+We will only send your child an Email Alert for the following reasons:
 
   * When a KIDZBOP.com Member sends your child a Friend Request
   * When a KIDZBOP.com Member sends your child a pre-screened Video Shout Out
@@ -55,6 +54,16 @@ We will only send your child an Email Alert for the following reasons
   * When your child.s Video, Video Greeting, Video Shout Out, Video Shoutback, Webshow, Super Contest or Photo has been Approved or Flagged
   * When we send your child a private KIDZ BOP Message alerting them that they.ve won a contest, that they.re featured somewhere on the site, or answering a question they.ve posted in our Feedback section
   * When we announce new product features, special offers or new content from KIDZ BOP or our partners via "KIDZ BOP Broadcast Announcements."
+
+
+
+Optionally, after registration children under 13 may provide their own phone number if they wish to receive KIDZ BOP Text Alerts. Text Alerts are SMS notifications that we send to your child's phone number. Message and data rates may apply. Your child will not receive Text Alerts until 48 hours after they sign up. They can change or cancel their Alerts at any time from their My Channel Settings page. Your child's phone number will never be revealed by us on the site and will never be shared with a 3rd Party for any reason. If your child gives us their phone number to receive Text Alerts we send the parent an email notifying them of this and provide the parent the ability to deactivate Text Alerts for the child's account. If the parent decides to deactivate Text Alerts we will delete the child's phone number from our database.
+
+We will only send your child a Text Alert for the following reasons:
+
+  * Profile Update: to update your child on their Profile activity on the site (new friend requests, new Wall comments, new Video comments, new Photo comments, new Fan Page comments, new Shout Out videos). We will send up to 1 Profile Update SMS message per day.
+  * Upload Update: when your child.s Video, Video Greeting, Video Shout Out, Video Shoutback, Webshow, Super Contest, Fan Page, or Photo has been approved and posted to the site.
+  * KIDZ BOP Update: when we announce new product features, special offers or new content from KIDZ BOP or our partners via "KIDZ BOP Broadcast Announcements." We will send 1-2 KIDZ BOP Update SMS messages per week.
 
 
 
@@ -81,7 +90,7 @@ Parents/guardians can review information their children have contributed to KIDZ
 
 ### 
 
-We provide links to third party websites, including links from advertisers, sponsors and commerce sites. Before a user can exit our website, we explain that they are leaving our website, and going to the website of a third party. Once they leave our site, he or she may submit information to a third party, over whom we have no authority or control, and who may have different information collection and use practices. Users and Parents/guardians should always read a company's privacy policy carefully, including those companies to whom we provide links, before submitting information to them.
+We provide links to third party websites, including links from advertisers, sponsors and commerce sites. Once they leave our site, he or she may submit information to a third party, over whom we have no authority or control, and who may have different information collection and use practices. Users and Parents/guardians should always read a company's privacy policy carefully, including those companies to whom we provide links, before submitting information to them
 
 ### 
 
@@ -112,4 +121,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 ### 
 
 If you have questions or suggestions, please email us at [parenthelp@kidzbop.com](mailto:parenthelp@kidzbop.com) or mail us at: Attn: Customer Service, KIDZ BOP, 214 Sullivan Street 4th Floor NY, NY 10012.  
-Effective Date: 06/09/2010
+Effective Date: 12/29/2011
