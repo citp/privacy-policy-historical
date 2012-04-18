@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221090207id_/https%3A//www.jobtarget.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419004453id_/https%3A//www.jobtarget.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # JobTarget - Privacy Policy
 
