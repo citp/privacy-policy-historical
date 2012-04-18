@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127041823id_/http%3A//greenrope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418071650id_/http%3A//www.greenrope.com/privacy.html) for the most accurate reproduction.*
 
-# GreenRope | Sign Up
+# GreenRope | Privacy Policy
 
 **1\. General**
 
@@ -16,7 +16,7 @@ We collect personal information in a number of ways when you visit our web site.
 
 **4\. How We Use Personal Information**
 
-We use personal information to process your requests and provide you with service or to inform you about other products or services we think will be of interest. When we use personal information in our marketing efforts, we provide you with options and do not disclose the information to third parties except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services. We also use your personal information to send you informational e-mails, including without limitation newsletters, notifications by League Managers, Captains and Players, and reminders of game schedules and attendance. 
+We use personal information to process your requests and provide you with service or to inform you about other products or services we think will be of interest. When we use personal information in our marketing efforts, we provide you with options and do not disclose the information to third parties except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services. We also use your personal information to send you informational e-mails, including without limitation newsletters, notifications by account owners, league managers, captains, players and group members, and reminders of event schedules and attendance. 
 
 **5\. Emails**
 
@@ -32,7 +32,7 @@ We give you the opportunity to opt-out of receiving communications from us and t
 
 **8\. Cookies, IP Addresses and URLs**
 
-Automatically Collected Information: We automatically receive certain types of information whenever you interact with us. For example, when you visit the Site, we automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies." We also collect various types of "clickstream" information which is information about your browsing behavior, such as IP address information, entry and exit points for the Site, search terms, Web site addresses you visit, page views, and impressions. Cookies: Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to login or use the site's features or services and you may have a less satisfactory experience. 
+Automatically Collected Information: We automatically receive certain types of information whenever you interact with us. For example, when you visit the Site, we automatically collect your IP address and the type of browser you use. Information may be automatically collected through the use of "cookies." We also collect various types of "clickstream" information which is information about your browsing behavior, such as IP address information, entry and exit points for the Site, search terms, Web site addresses you visit, page views, and impressions. Cookies: Cookies are small text files placed on your hard drive by a web site when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. We may place or recognize a unique cookie on your browser to enable you to receive customized content or services. Any cookies made available to shopping carts or other tracking information sent to third parties will reflect only de-identified demographic or other data linked to data you have voluntarily submitted to us, will be encrypted, and will not be used to identify you individually. If you decide not to accept our cookies, you will still be able to access those parts of our site available to the general public but you may not be able to login or use the site's features or services and you may have a less satisfactory experience. 
 
 **9\. Links to Other Web Sites**
 
@@ -41,3 +41,6 @@ Our web site may contain links to other web sites. Any personal information you 
 **10\. Policy Changes**
 
 We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We encourage you to check back at our web site periodically if you are concerned about how your information is used. 
+
+  
+
