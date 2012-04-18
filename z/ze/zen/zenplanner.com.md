@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203195320id_/http%3A//www.zenplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418174554id_/http%3A//www.zenplanner.com/privacy) for the most accurate reproduction.*
 
-# Zen Planner
+# Privacy Policy
 
 You do. All of the information that you store on Zen Planner – student records, schedule, attendance, billing, and payment information – belongs to you. We will make it as easy as possible for you to put information in and out of our software.
 
