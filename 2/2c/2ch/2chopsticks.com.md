@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2chopsticks.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013081442id_/http%3A//2chopsticks.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2chopsticks.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418022033id_/http%3A//2chopsticks.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # 2ChopSticks.com - Asia Digital Online FREE Classifieds Ads site. Post Online Free Classifieds Ads today and last 120 days.
 
