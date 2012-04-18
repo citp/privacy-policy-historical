@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203111708id_/http%3A//labs2.popular.com/fatwire/pdf/2011_ELOAN-BPNA_Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418191000id_/http%3A//labs2.popular.com/pdf/BPNA/BPNA_2011_09_Privacy.pdf) for the most accurate reproduction.*
 
 # FAC TS
 
-                                                                                                                                  Rev. 11/10
+                                                                                                                                  Rev. 09/11
                      WHAT DOES POPULAR, INC.
  FAC TS              DO WITH YOUR PERSONAL INFORMATION?
  Why?                Financial companies choose how they share your personal information. Federal law gives consumers the right
@@ -30,13 +30,13 @@ For our affiliates’ everyday business purposes—                             
 information about your creditworthiness
 For our affiliates to market to you                                            Yes                                   Yes
 For nonaffiliates to market to you                                             No                             We don’t share
- To limit            • Call 1-866-576-7283 — our menu will prompt you through your choice(s) or
+ To limit            • Call 1 (866) 576-7283 — our menu will prompt you through your choice(s) or
  our sharing         • Visit us online: https://savings.eloan.com/optout
                      Please note:
                      If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When
                      you are no longer our customer, we continue to share your information as described in this notice.
                      However, you can contact us at any time to limit our sharing.
- Questions?          Call 1-866-576-7283
+ Questions?          Call 1 (866) 576-7283
 
 
 Page 2
@@ -73,7 +73,14 @@ Joint marketing                          A formal agreement between nonaffiliate
                                          • Our joint marketing partners include insurance companies, investment securities
                                            and/or brokerage firms.
 Other important information
-                         IMPORTANT INFORMATION FOR CALIFORNIA CUSTOMERS ONLY:
  California Residents – Your state law requires financial institutions to obtain your consent prior to sharing information about you
- with non-affiliated third parties. Except as permitted by law, we will not share information we collect about you with non-affiliated third
+ with nonaffiliated parties. Except as permitted by law, we will not share information we collect about you with nonaffiliated third
  parties while you are a resident of California.
+ Vermont Residents – We do not share information we collect about you with nonaffiliated third parties, except as permitted by
+ Vermont law, such as to process your transactions or maintain your account. In addition, we will not share information about your
+ creditworthiness with our affiliates, except with your authorization.
+ Nevada Residents – Pursuant to Nevada law, if you prefer not to receive marketing calls from us, you may be placed on our internal
+ Do Not Call list by writing to us at: Popular, Inc., P.O. Box 4502, Oak Park, IL 60303-9911.
+ For more information, contact us at the address above. You may also contact the Nevada Attorney General’s Office at:
+ Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101;
+ telephone number: (702) 486-3132; email BCPINFO@ag.state.nv.us
