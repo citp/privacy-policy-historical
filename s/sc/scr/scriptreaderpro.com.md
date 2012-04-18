@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219231142id_/http%3A//www.scriptreaderpro.com/%3Fpage_id%3D478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418172519id_/http%3A//www.scriptreaderpro.com/%3Fpage_id%3D478) for the most accurate reproduction.*
 
 # Screenplay coverage for the aspiring writer — SCRIPTREADERPRO.COM
 
