@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumcast.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050506id_/http%3A//www.premiumcast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumcast.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418193423id_/http%3A//www.premiumcast.com/index.php%3F%26req%3Ddoc%26id%3D10006) for the most accurate reproduction.*
 
 # Privacy Policy
 
