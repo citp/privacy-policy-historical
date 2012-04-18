@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223073443id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418114729id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
 
 # VectorVest Privacy Policy
 
@@ -36,7 +36,7 @@ A cookie is a small data file that certain websites write to your hard drive whe
 
 **5\. User Options -- Opt-Out**
 
-Users of the Services should contact us at the address below with any questions about the information that we collect from users. Users may opt out of receiving any future direct marketing or promotional electronic mailings from VectorVest by following the unsubscribe procedures indicated in the mailing. Additionally, if a user does not want his or her information to be shared, or does not wish to receive telephone solicitations, users may opt out of the sharing or solicitations by calling us at (888) 658-7638, writing to us at the address below, or emailing us at support@vectorvest.com, indicating that he or she wishes to opt out.
+Users of the Services should contact us at the address below with any questions about the information that we collect from users. Users may opt out of receiving any future direct marketing or promotional electronic mailings from VectorVest by following the unsubscribe procedures indicated in the mailing. Additionally, if a user does not want his or her information to be shared, or does not wish to receive telephone solicitations, users may opt out of the sharing or solicitations by calling us at (888) 658-7638, writing to us at the address below, or emailing us at [support@vectorvest.com](mailto:support@vectorvest.com), indicating that he or she wishes to opt out.
 
 **6\. User Access to Information**
 
@@ -48,15 +48,7 @@ All user personal information is stored on servers at a location designed specif
 
 **8\. European Union Data Protection for Residents of the EU or Switzerland**
 
-If a user resides in the European Union or Switzerland, upon registration that user will be indicating his or her explicit consent that the personal information and data such user has provided may be transferred and stored in countries outside the EU and Switzerland, including the United States. If such a user that resides in the European Union or Switzerland, fails or refuses to provide such consent, such user will not be permitted to access the Services for which user registration is required. VectorVest abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. In order to comply with the European Union’s and Switzerland’s Safe Harbor Principles, VectorVest commits to the resolution of complaints about user privacy and our collection or use of user personal information. We have committed to resolve any complaints by European Union or Swiss citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc. If you reside in the European Union or Switzerland and have any questions regarding this policy, please contact VectorVest via the contact information set forth in Section 12. If you reside in the European Union or Switzerland and do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed by VectorVest, then you should contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.bbb.org/us/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+If a user resides in the European Union or Switzerland, upon registration that user will be indicating his or her explicit consent that the personal information and data such user has provided may be transferred and stored in countries outside the EU and Switzerland, including the United States. If such a user that resides in the European Union or Switzerland, fails or refuses to provide such consent, such user will not be permitted to access the Services for which user registration is required. VectorVest abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. In order to comply with the European Union’s and Switzerland’s Safe Harbor Principles, VectorVest commits to the resolution of complaints about user privacy and our collection or use of user personal information. We have committed to resolve any complaints by European Union or Swiss citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through BBB EU Safe Harbor, a dispute resolution procedure administered by the Council of Better Business Bureaus, Inc. If you reside in the European Union or Switzerland and do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by VectorVest, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 **9\. Complaints and Dispute Resolution for Residents outside of the EU and Switzerland**
 
@@ -83,4 +75,4 @@ e. [lindar@vectorvest.com](mailto:lindar@vectorvest.com)
 p. (330) 867-2814, ext. 502  
 f. (216) 803-0880
 
-Revision Date: 10/19/2009
+Revision Date: 2/15/2012
