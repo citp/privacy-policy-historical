@@ -1,45 +1,93 @@
-> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2008-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080430005152id_/http%3A//www.termpaperslab.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperslab.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419023157id_/http%3A//www.termpaperslab.com/privacy) for the most accurate reproduction.*
 
 # Term Papers Lab : Privacy Policy
 
-## Term Papers Lab - A concoction of college term papers and research papers
+Welcome to TermPapersLab.com! When you register with us or use TermPapersLab.com, you provide information to us. Below, we explain what information is collected, how it is used to your benefit, under what circumstances your information may be disclosed, and the choices that you have with your information
 
-### 
+### Information Collected by Our Site
 
-TermPapersLab.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
+TermPapersLab.com is provided by Collective Research and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on TermPapersLab.com unless you register with us. Depending on how you interact with TermPapersLab.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) information about your preferences; (c) your interaction with TermPapersLab.com features and advertisements; (d) transaction-related information, such as, credit card or other preferred means of payment, billing or shipping information, or a history of products purchased from TermPapersLab.com; (e) information you provide us when you contact us for help; and (f) other information specifically related to your use of particular offerings on TermPapersLab.com.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+We may also collect other information when users interact with TermPapersLab.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve TermPapersLab.com's services to you.
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. 
+### Use of Information
 
-This site contains links to other sites. TermPapersLab.com is not responsible for the privacy practices or the content of such Web sites. 
+We may use your information (a) to deliver the TermPapersLab.com services and features desired by you (including any customization features requested by you), (b) to improve our services to you, (c) to personalize content and offers that may be of interest to you, (d) to respond to your inquiries, (e) to fulfill your request for products or services, and (f) to provide you with updates and other information regarding TermPapersLab.com.
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We may use the non-personally identifiable information, like your IP address, to analyze statistically site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our services and better understand and serve our users.
 
-Ad Servers
+We do not sell customer lists. We will not share any information that identifies you personally with any third party for marketing purposes. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+We may use agents and contractors in order to help operate TermPapersLab.com and to fulfill your request for products and services. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
-Third Party Cookies
+### Invitation Services
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+We may offer you the opportunity to use our invitation service and application so that you can tell your friends about TermPapersLab.com. The service will enable you to import at your direction your contact list from certain email services that you may be using and to send an email on your behalf, from your email address, inviting your friend to try TermPapersLab.com. The information you provide will be used solely to facilitate your sending of the invitation and will not be stored or used by us for any other purpose. If you are a recipient of an invitation and have elected to opt out from receiving any further invitations from TermPapersLab.com, we will retain your email address solely for the purposes of honoring your opt-out from further invitations.
 
-Personal Information
+### Your Choices
 
-We may collect your personal information in order to register your rights to use our services. This information may also be used to send you special offers, promotions, and other services from TermPapersLab.com and its affiliates. 
+You can make choices about how your information may be used by us to provide information and offers to you. You may visit the "My Account" area on TermPapersLab.com and review and revise your marketing preferences, including, opting out of commercial messages or unsubscribing to newsletters. You also will be given the opportunity to opt out of further commercial messages by clicking on the "opt out" or "unsubscribe" link provided with each message. These preferences do not apply to communications that are related to your registration with TermPapersLab.com, required or important notices related to your use of TermPapersLab.com, or the fulfillment of a specific transaction.
 
-Choice/Opt-Out
+### Minors
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+Children under the age of thirteen (13) are not eligible to use our service and must not submit any personal information to us.
 
-This site gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service: you can send email to privacy @ termpaperslab.com. 
+### Use of Cookies
 
-Your Acceptance of These Terms
+Cookies are a standard Internet technology, and many major web sites use them to provide useful features for their members. We use cookies to allow us to improve the quality of our service, store user preferences, store and retrieve login information on a user's system, and to personalize content and offers of interest to our users. Most browsers are initially set up to accept cookies. You may adjust the settings in your browser to refuse cookies; however, if you adjust you settings, you may not be able to take full advantage of TermPapersLab.com if you do so.
 
-By using TermPapersLab.com, you agree to this Privacy Policy. If you do not agree to this policy, please do not visit this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the site. Please check this page periodically for changes. 
+### Advertising
 
-Contacting the Web Site
+Advertisements that appear on TermPapersLab.com are delivered to users by our advertisers. We and our advertisers may from time-to-time use advertising network providers to help present advertisements on TermPapersLab.com. These advertisers and ad networks use cookies, web beacons or similar technologies on your browser to help present offers, better target and measure the effectiveness of their advertisements by using data gathered on an anonymous basis over time and across their network of Web pages to determine the preference of their audiences. These cookies and web beacons do not collect any personal information from your computer, such as your e-mail address. The use of cookies and web beacons by advertisers and ad networks is subject to their own privacy policies.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at privacy @ termpaperslab.com. 
+### Links and Other Sites
 
-### 
+This Privacy Policy applies to web sites, services and applications that are owned and provided by us. We are not responsible for the privacy policies, practices or contents of any third party websites. Please refer to the privacy policies of such third party websites for information on what kinds of personally identifiable information such websites collect and their respective privacy practices, terms, and conditions.
+
+### Acquisition
+
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Collective Research, such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect.
+
+### Security
+
+We take steps to help protect your personal information. We require password protection physical, electronic, and procedural safeguards to protect personal information about you. We limit access to personal information about you to employees and authorized who need to know that information in order to operate, develop or improve our services. We cannot guarantee the confidentiality of any communication or material transmitted contact us at privacy@termpaperslab.com
+
+### Changes in Privacy Policy
+
+From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of this website or our service and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+
+### Choices with Your Information
+
+We give you choices and control over the collection and use of your personal information. You can update your personal information, including your email address, billing information, and password information by logging into the service and clicking the appropriate links. You may request to have your registration account information removed by submitting a request to privacy@termpaperslab.com. We will act on your request as promptly as possible.
+
+### How to Contact Us
+
+If you have any questions or concerns about TermPapersLab.com's Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows:
+
+### By mail:
+
+**TermPapersLab.com**  
+8939 1/2 Santa Monica Blvd  
+West Hollywood, CA 90069 USA
+
+### By email:
+
+**privacy@termpaperslab.com**
+
+### If You Are a Resident of California
+
+If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information:
+
+the categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year
+
+the names and addresses of third parties that received such information, and
+
+if the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
+
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@termpaperslab.com.
+
+### Changes
+
+We may update this Privacy Policy from time to time. Therefore, you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us, as well as for special features and services not described in this Policy that may be introduced in the future.
+
+Last Updated: 03-21-2012
