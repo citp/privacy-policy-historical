@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208205227id_/http%3A//www.chill.ie/privacy-Policy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chill.ie privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419032435id_/http%3A//www.chill.ie/privacy-policy-statement.aspx) for the most accurate reproduction.*
 
-# House Insurance and Car Insurance from Chill - Privacy Policy
+# Privacy Policy Statement | Chill Insurance - Ireland
 
 | 
 
