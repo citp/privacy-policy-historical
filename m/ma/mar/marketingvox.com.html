@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketingvox.com privacy policy that was archived on 2011-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009102246id_/http%3A//www.marketingvox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketingvox.com privacy policy that was archived on 2012-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120419082546id_/http%3A//www.marketingvox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" href="http://www.marketingvox.com/wp/wp-content/themes/mvox/style.css" type="text/css">
@@ -193,6 +193,36 @@ GA_googleAddSlot("ca-pub-1522556781207760", "-MV-web-Skyscraper-1");
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
+
+<script type="text/javascript">
+    window._GA_googleFillSlot = window.GA_googleFillSlot;
+    window.GA_googleFillSlot = function(name)
+    {
+        var result = window._GA_googleFillSlot(name);
+        
+        // The actual fix
+        var timout = 25;
+        var id = 'google_ads_div_' + name + '_ad_container';
+        function fix_dimensions()
+        {
+            var div_container = document.getElementById(id);
+            if (div_container)
+            {
+                div_container.style.width = "auto"; 
+                div_container.style.height = "auto";
+            }
+            else if (timout < 1000)
+            {
+                timout = timout * 2;
+                window.setTimeout(fix_dimensions, timout);
+            }
+        }
+        window.setTimeout(fix_dimensions, timout);
+        
+        return result;
+    }
+</script>
+
 <script type="text/javascript">
 GA_googleFillSlot("-MV-web-Leaderboard-1");
 </script>
@@ -260,7 +290,7 @@ i++; document.write("\<\/a\>");
 // -->
 </script><a href="mailto:editorial@marketingvox.com" title="">Editorial</a></p>
 <br>
-	© 2003-2011 <a href="http://www.watershed-publishing.com/">Watershed Publishing</a>. All rights reserved.
+	© 2003-2012 <a href="http://www.watershed-publishing.com/">Watershed Publishing</a>. All rights reserved.
 <br><br><br></div>
 </div>
 </div>
