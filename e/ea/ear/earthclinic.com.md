@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209000419id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419070044id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Earth Clinic Privacy Policy Agreement
 
