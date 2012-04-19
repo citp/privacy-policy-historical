@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devianart.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205191946id_/http%3A//devianart.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devianart.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419232935id_/http%3A//www.devianart.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # DevianArt.com
 
