@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wsistudents.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015183406id_/https%3A//www.wsistudents.com/legal/%3Bjsessionid%3DNDNBW3NXPLJ0QAAAAAAAAAA%3Fdocument%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsistudents.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/%3Bjsessionid%3DMT5UENP00LK3QAAAAAAAAAA%3Fdocument%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to eWSI
 
-[Printable version](https://web.archive.org/web/20111015183406id_/https%3A//www.wsistudents.com/legal/?document=privacy&printable=yes) | Back
+[Printable version](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/.;jsessionid=OQ23510EH1LVUAAAAAAAAAA?document=privacy&printable=yes) | Back
 
 PRIVACY POLICY
 
@@ -36,4 +36,4 @@ If we amend our Privacy Policy in order to adapt it to new legal requirements, w
 
 If you have any queries or comments on this Privacy Policy, please contact us at the following e-mail address:[privacy@wallstreetinstitute.com](mailto:privacy@wallstreetinstitute.com).
 
-[Printable version](https://web.archive.org/web/20111015183406id_/https%3A//www.wsistudents.com/legal/?document=privacy&printable=yes) | Back
+[Printable version](https://web.archive.org/web/20120419194800id_/https%3A//www.wsistudents.com/legal/.;jsessionid=OQ23510EH1LVUAAAAAAAAAA?document=privacy&printable=yes) | Back
