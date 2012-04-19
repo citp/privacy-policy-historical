@@ -1,55 +1,23 @@
-> *The following text is extracted and transformed from the e-file.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411001611id_/http%3A//www.e-file.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-file.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419044450id_/http%3A//e-file.com/privacy-policy) for the most accurate reproduction.*
 
-# E File Privacy Policy
+# Privacy Policy | E-File - Free Online Tax Filing & Preparation advice and help - Tax Returns | File income taxes | Tax professionals
 
-At e-file.com, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
+At  **e-file.com** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **e-file.com** , and how we safeguard your information.
 
-###  Anonymous User Information:
+**Log Files**
 
-e-file.com collects some anonymous information each time you visit e-file.com so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with e-file.com before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. e-file.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the e-file.com search. e-file.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited e-file.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. e-file.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the e-file.com search.
+As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or ComCast), the browser you used to visit our site (such as Firefox or Safari), the time you visited our site and which pages you visited throughout our site.
 
-###  Cookies:
+**Cookies and Web Beacons**
 
-We use a feature of Internet web browsers called a "cookie," which is a small file that is sent to your computer when you visit a website. This enables us to store user preferences and track user trends and search patterns. We use cookies to improve the quality of the e-file.com services and to better understand how users interact with us. We do not and cannot use Cookies to retrieve individual personally identifiable information about you from your computer unless you knowingly and willingly provided such information. The cookie technology we use cannot obtain information from your hard drive or pass on a computer virus. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some e-file.com features or services may not function properly without cookies.
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-###  Information security:
+We also use third party advertisements on legalaidattorneys.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information. This may include your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (such as showing Seattle real estate ads to someone the local area) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
+**DoubleClick DART cookies**
 
-###  Aggregated General Information:
+We also may use DART cookies for ad serving through Google’s DoubleClick. This places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
-We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Classic Cars", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing We may share personally identifying information to other companies or individuals in any of the following limited circumstances:
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in any internet security program you may use. However, this can affect how you are able to interact with our site as well as many other useful websites. This could result in the inability to login to services or programs, such as logging into forums or accounts.
 
-  * We have your consent.
-  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-  * When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of e-file.com's terms of use, or as otherwise required by law.
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.
-  * We may store and process personal information collected on our site in the Canada or any other country in which e-file.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.
-  * e-file.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to e-file.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation.
-  * We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site.
-
-
-
-###  Correspondence:
-
-If you contact e-file.com, we may keep a record of that correspondence and we may collect your email address.
-
-###  Third Party Information Gathering:
-
-e-file.com includes content and ads from third parties that may perform user activity tracking other than that described herein. These third parties may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party’s cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy. Some third party ad servers may be members of the Network Advertising Initiative ("NAI"), which offers Internet users a single location to opt out of ad-targeting from NAI-member companies. For additional information about the NAI or to opt out, please [_click here_](http://www.networkadvertising.org/consumer/opt_out.asp). e-file.com contains links to other sites on the Web. Please be aware that e-file.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-###  Children's Privacy:
-
-e-file.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties.
-
-###  Sale of Assets:
-
-In the event that another company acquires all or substantially all of the assets related to the business of e-file.com, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company.
-
-###  Paid Submissions:
-
-The Information that is gathered when submitting a URL to the e-file.com Directory is only used to contact the customer and will not be sold or otherwise transferred without their explicit permission.
-
-###  Changes to Privacy Policy:
-
-We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
