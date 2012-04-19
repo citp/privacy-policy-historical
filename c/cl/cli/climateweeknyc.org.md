@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104201104id_/http%3A//www.climateweeknyc2011.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419171109id_/http%3A//www.climateweeknyc2011.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Climate Week NYC 2011
 
