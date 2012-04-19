@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dynamiccatalogue.com.au privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012223309id_/http%3A//dynamiccatalogue.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiccatalogue.com.au privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419134754id_/http%3A//www.dynamiccatalogue.com.au/privacy.html) for the most accurate reproduction.*
 
 # 
 
 ## 1\. Introduction
 
-This is the Privacy Policy for www.lasoo.com.au (Website). This Privacy Policy relates to the collection and use of your personal information that you may supply to **Lasoo Pty Limited** (ACN 122 895 318) (we, us and our) through your use of the Website. Like other companies operating in Australia, we are bound by the National Privacy Principles as set out in the Privacy Act 1988 (Cth) and the Privacy Amendment (Private Sector) Act 2000 (Cth). This Privacy Policy is in addition to any other terms and conditions applicable to the Website. We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. By using the Website, you consent to the collection of personal and other information by us. This Privacy Policy should be reviewed periodically so that you are updated on any changes. This Privacy Policy also applies to websites and services that are owned and operated by Lasoo. 
+This is the Privacy Policy for www.lasoo.com.au (Website). This Privacy Policy relates to the collection and use of your personal information that you may supply to **Lasoo Pty Limited** (ACN 122 895 318) (we, us and our) through your use of the Website. Like other companies operating in Australia, we are bound by the National Privacy Principles as set out in the Privacy Act 1988 (Cth) and the Privacy Amendment (Private Sector) Act 2000 (Cth). This Privacy Policy is in addition to any other terms and conditions applicable to the Website. We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. By using the Website, you consent to the collection of personal and other information by us.. This Privacy Policy also applies to websites and services that are owned and operated by Lasoo, including Lasoo.it. 
 
 ## 2\. Personal Information
 
@@ -13,10 +13,25 @@ Personal information about visitors to the Website is collected only when knowin
   * **Information you provide** \- when you sign up for a Lasoo Account or other Lasoo service or promotion that requires registration, we may ask you for personal information. The type of personal information we collect may include: (a) your name; (b) your gender; (c) your address; (d) your postcode; (e) your email address; (f) your telephone numbers; (g) your personal preferences and an account password; (h) how you use the Website, such as the date, time and location of use; and (i) information regarding your browsing activity when visiting the Website.
   * **Log information** \- when you use Lasoo services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * **User communications** \- when you send emails or otherwise communicate with Lasoo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  *  **Communicating with you** – we only communicate with you when you have opted in to hear from us. If you unsubscribe from a mailing through the link on the communication you wish to unsubscribe from, you will be removed immediately. If you mark the communication as spam, we will remove you from our mailing list within 2 weeks. If you encounter any issues with unsubscribing you can contact us at Lasoo Pty Ltd, Level 1/116 Miller Street, North Sydney NSW 2060 (t) 02 8783 2700 (e) LasooEnquiries@salmat.com.au 
   * **Affiliated sites** \- we offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Lasoo in order to deliver the service. We process such information in accordance with this Privacy Policy and will share information with the site on which the service is hosted. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
   * **Links** \- Lasoo may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, and customised content.
 
 
+
+**Lasoo.it**
+
+Lasoo.it is designed to help make shopping more social. It makes it easier to share and compare products with your friends. 
+
+If you use this app:
+
+1\. Your account name and username and any display photo or image attached to your user name will become public information. Whilst you may amend this information, it is available in the public domain.
+
+2\. Your comments and uploads will become public information. Content that is uploaded by you, including information, material, comments, views, video, photos, audio etc will be made available to all app users and will be attached to your display name and display picture. If you do not wish for your content to be made public please do not upload it or import it.
+
+Please note that even if you chose to cancel your account or if your account is otherwise terminated by us, all of your user content may remain available even after your account has been cancelled. 
+
+When you upload content you give us irrevocable permission irrespective of time, location or account status to use that content and make it available to all app users and effectively the public at large.
 
 ## 3\. Use of personal information
 
