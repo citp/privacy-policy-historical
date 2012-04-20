@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentiments.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121090454id_/http%3A//www.scentiments.com/Home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentiments.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420113532id_/http%3A//www.scentiments.com/Home/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,5 +17,5 @@ We use cookies to help identify you when you visit our store and to customize yo
  **Safe shopping Guarantee**  
 We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-  
-
+**Scentury Club Terms and Conditions  
+Please [click here to learn more](http://www.scentiments.com/home/rewardsprogram.aspx)**
