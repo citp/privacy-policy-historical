@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the esquire.co.za privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220174329id_/http%3A//forum.esquire.co.za/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esquire.co.za privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420150034id_/http%3A//forum.esquire.co.za/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Esquire System Technologies - Privacy Policy
-
-[ ](http://www.esquire.co.za/index.php?mact=CMSPrinting,cntnt01,output,0&cntnt01url=aHR0cDovL2ZvcnVtLmVzcXVpcmUuY28uemEvaW5kZXgucGhwP3BhZ2U9cHJpdmFjeS1wb2xpY3kmc2hvd3RlbXBsYXRlPWZhbHNl&cntnt01pageid=91&cntnt01script=1&cntnt01returnid=91)
+# Privacy Policy | Esquire System Technologies
 
 ## Privacy Policy
 
@@ -44,5 +42,3 @@ ESQUIRE Technologies PTY Ltd uses software tags called "cookies" to identify cus
 
 ﻿   
 
-
-* * *
