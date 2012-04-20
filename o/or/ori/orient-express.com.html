@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orient-express.com privacy policy that was archived on 2011-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123154909id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orient-express.com privacy policy that was archived on 2012-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120420135009id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -98,10 +98,11 @@ if (sUrl.indexOf("?")>-1) {
 			domain = "www.orient-express.com";
  		
 
-			var sLoc = "http://" + domain + "/web/" + sHid + "/start_gift.jsp";
+		var sLoc = "http://" + domain + "/web/" + sHid + "/start_gift.jsp";
 
-			document.location = sLoc + sQS;
-		
+	
+			 sLoc = "http://" + domain + "/web/store/categories.jsp";	
+                                                 _gaq.push(['_link', sLoc + sQS]);
     }
 
 
@@ -117,6 +118,7 @@ function startBooking(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom) {
                                 var sQS = "?";
 		sQS += "hid="+ sHid;
 		var useElephant = false;
+		var sLang = "en";
 		useElephant = false;    
 		//bAutoAlt = false;
 		if (sCode != null && sCode != "") { sQS += "&ratecode=" + sCode; }
@@ -131,12 +133,18 @@ function startBooking(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom) {
 		var sHidString = sHid.toLowerCase();
 		if (sHidString.indexOf('_') > -1) {
 			//sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length)+ '&homelanguage=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
-			sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
+			sLang = sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
+		        if (sLang=="ja"||sLang=="jp") { 			       
+ 			     if (sHid.indexOf("ocol")>-1) { //ocol still on netbooker,
+		             	      sLang = "en"; 
+		             } 
+		        }
+		        sQS += "&language=" + sLang; 
+			//sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
 			sHidString = sHidString.substr(0,sHidString.indexOf('_'));
 		} else {
 			//sQS += '&language=en&homelanguage=en';
 			sQS += '&language=en';
-
 		}
 		if (sHid == "opet") {
 	    	       sHid = "stpetersburg";
@@ -148,19 +156,62 @@ function startBooking(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom) {
 		}
 		var domain = "";
 		
-			//domain = "www.orient-express.com";
-
 			domain = "www.orient-express.com";
  		
                 //go to EN reservations page, if full version in relevant lang, it will redirect.
 		var sLoc = "https://" + domain + "/web/" + sHidString + "/reservations.jsp";
 		
 		if ('null'!='null') {
-			document.location = "http://agents.orient-express.com/web/agents/null.jsp";
+                                _gaq.push(['_link', 'http://agents.orient-express.com/web/agents/null.jsp']);
 		} else {
-			
-					document.location = sLoc + sQS;
-			
+
+				//RVIBE GO LIVE
+ 			      if (sHid.indexOf("ocol")>-1) { //ocol still on net booker,
+					 _gaq.push(['_link', sLoc + sQS]);
+		              } else {
+
+					   var sLangRVIBE = sLang + "-" + sLang.toUpperCase();
+					   //amend for those where lang codes differ on left/right of hyphen
+					   if (sLang == "en") {
+							   sLangRVIBE = "en-US";
+					   } else if (sLang == "ja") {
+							   sLangRVIBE = "ja-JP";
+					   } else if (sLang == "ko") {
+							   sLangRVIBE = "ko-KR";
+					   } else if (sLang == "pt") {
+					            if (sHid.indexOf("omad")>-1) {
+							   sLangRVIBE = "pt-PT";
+					            } else {
+							   sLangRVIBE = "pt-BR";
+					            }
+					   } 
+					   sLoc = "https://secure.rezviewibe.com/ibe/" + sLangRVIBE + "/null/reservations/null/new?"
+					if (sArr != null && sArr != "") {
+ 						sLoc += "s[checkin]=" + sArr; 
+						if (sDep != null && sDep != "") {
+							if (sDep.toString().indexOf("-")>-1) {
+								//RVIBE formatted YYYY-MM-dd
+								sLoc += "&s[checkout]=" + sDep; 
+							} else {
+							    //number of nights sent through, need to add these to sArr value to get check out date
+								var startMonth = (parseInt(sArr.toString().substr(5,2),10)-1);
+								var startDate = new Date(sArr.toString().substr(0,4), startMonth, sArr.toString().substr(8,2)); //set startDate to sArr value to start
+								var endDate = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate()); // set end date to be same as start date
+								var nights = parseInt(sDep,10);	
+								endDate.setDate(startDate.getDate() + nights); // increment by number of nights
+								var endYear = endDate.getFullYear();
+								var endMonth = zeroPad(endDate.getMonth()+1);
+								var endDay = zeroPad(endDate.getDate());
+								sLoc += "&s[checkout]=" + endYear + "-" + endMonth + "-" + endDay; 
+							}
+						}
+						if (iAd != null && iAd != "") { sLoc += "&s[adults]=" + iAd; }
+						if (iCh != null && iCh != "") { sLoc += "&s[children]=" + iCh; }
+						if (sCode != null && sCode != "") { sLoc += "&s[ratecode]=" + sCode; }
+						sLoc +="&s[rooms]=1";
+                                        }
+					_gaq.push(['_link', sLoc]);
+				} 
 		}
     }
 
@@ -191,7 +242,15 @@ function startBookingWithLanguage(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,
 		if (sDep != null && sDep != "") { sQS += "&departure=" + sDep; }
 		if (iAd != null && iAd != "") { sQS += "&adults=" + iAd; }
 		if (iCh != null && iCh != "") { sQS += "&children=" + iCh; }
-		if (sLang != null && sLang != "") { sQS += "&language=" + sLang; }
+		//if (sLang != null && sLang != "") { sQS += "&language=" + sLang; }
+                if (sLang != null && sLang != "") {
+		        if (sLang=="ja"||sLang=="jp") {
+  			     if (sHid.indexOf("ocol")>-1) { //ocol still on netbooker,
+		             	      sLang = "en"; 
+		             } 
+		        }
+		        sQS += "&language=" + sLang; 
+		}
 		if (sCustom != null && sCustom != "") { sQS += sCustom; }		
 		if (bTunnel) { sQS += "&tunnel=true"; }
 		if (bAutoAlt) { sQS += "&autoalt=true"; }
@@ -203,7 +262,6 @@ function startBookingWithLanguage(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,
 		if (sHid == "opet") {
 	    	       sHid = "stpetersburg";
 	    	       sHidString = "stpetersburg";
-
 		}
 		if (sHid == "opet_ru") {
 	    	       sHid = "stpetersburg_ru";
@@ -211,25 +269,17 @@ function startBookingWithLanguage(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,
 		}
 		var domain = "";
 
+		
 			domain = "www.orient-express.com";
- 
-		if (useElephant) {
-			//var sLoc = "http://" + domain + "/web/" + sHid + "/start_reservations.jsp";
-			var sLoc = "https://" + domain + "/web/" + sHid + "/reservations.jsp";
-		} else {
-			//var sLoc = "http://www.orient-express.com/web/hotelres/requirements.jsp";
-			//If minisite, go to EN reservations page with pegs layer on top, in relevant language.
-			var sLoc = "https://" + domain + "/web/" + sHidString + "/reservations.jsp";
-		}
+		
 
+		var sLoc = "https://" + domain + "/web/" + sHid + "/reservations.jsp";     
 		if ('null'!='null') {
-			document.location = "http://agents.orient-express.com/web/agents/null.jsp";
+				_gaq.push(['_link', 'http://agents.orient-express.com/web/agents/null.jsp']);
 		} else {
-
-			//Just get it working, and sort tracking later, EB/RA
-			document.location = sLoc + sQS;
-
+				_gaq.push(['_link', sLoc + sQS]);				
 		}
+			
     }
 
 
@@ -273,10 +323,7 @@ function startBookingWithLanguage(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,
 
 		
 
-		
-
-			__utmLinker(sLoc + sQS);
-		
+                                         _gaq.push(['_link', sLoc + sQS]);
 	}
 
 	function startGiftShop(sHid,sPage) {
@@ -438,6 +485,11 @@ function hideExtrasQuantity(id) {
 	var o = document.getElementById("quantity" + id);
 	o.style.display = "none";
 }
+function zeroPad(num) {   
+	return (num < 10 ? '0' : '') + num
+}
+
+
 </script>
 
 	</head>
@@ -503,17 +555,23 @@ The Orient-Express Group* respects the privacy of every individual who visits ou
 <br><br>
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information for certain purposes. We will make all practical efforts to respect your wishes (subject to any overriding legal obligations).
 <br><br>
-In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.keswick.com, www.perrycabin.com, www.charlestonplace.com, www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.lascasitasdelcolca.com, www.riosagrado.com, www.grand-hotel-europe.com&nbsp; www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.co.uk, www.perurail.com, www.royalscotsman.com, www.observatoryhotel.co.au, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.keswickestate.com, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
+In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.perrycabin.com, www.charlestonplace.com, www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.riosagrado.com, www.grand-hotel-europe.com&nbsp; www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.co.uk, www.perurail.com, www.royalscotsman.com, www.observatoryhotel.co.au, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
 <br><br>
 If you have any specific questions that are not covered in the FAQ section below, please contact:
 <br><br>
-ECommerce
+Central Marketing
 <br>
 Orient-Express Services Limited
 <br>
-20 Upper Ground
+1st Floor Shackleton House
 <br>
-London SE1 9PF
+4 Battle Bridge Lane
+<br>
+London
+<br>
+SE1 2HP
+<br><br>
++44 (0)20 3117 1300
 <br>
 email: privacy@orient-express.com
 <br><br>
@@ -663,13 +721,19 @@ We will respond as quickly as we can to your requests for details of personal in
 <br><br>
 To contact is with any questions, comments, corrections, requests regarding this Policy or to exercise your right at any time to update, delete or access the information we hold about you, please contact us at:
 <br><br>
-ECommerce
+Central Marketing
 <br>
 Orient-Express Services Limited
 <br>
-20 Upper Ground
+1st Floor Shackleton House
 <br>
-London SE1 9PF
+4 Battle Bridge Lane
+<br>
+London
+<br>
+SE1 2HP
+<br><br>
++44 (0)20 3117 1300
 <br>
 email: privacy@orient-express.com
 <br><br>
@@ -728,7 +792,7 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
 <div id="footer">
 		<span id="_SE_CP" _se_c="tcm:4-125920" _se_cp="tcm:4-125920" _se_ct="tcm:4-125921-32" _se_cpt="1"><a href="https://www.orient-express.com/contact_us.jsp">Contact us</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-expresshotelsltd.com" target="_blank">Corporate &amp; Investors</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/press_hotels.jsp">Media</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/media_centre.jsp">Media</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" id="newsletterLink">Newsletter</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/security.jsp">Privacy</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/site_help.jsp">Help</a>
@@ -736,7 +800,7 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/web/travellers/home.jsp" target="_blank">Travellers' Lounge</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/journeylikenoother" target="_blank" '="">A Journey Like No Other</a></span>
 
-<br><br><br><div align="right" style="font-size:7pt; text-align:right;">Copyright ©  Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2011. All rights reserved.  <a style="text-decoration:underline;" href='javascript:popUp("http://www.orient-express.com/copyright.jsp");'>Full Copyright Notice</a><br><br></div><script type="text/javascript">
+<br><br><br><div align="right" style="font-size:7pt; text-align:right;">Copyright ©  Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2012. All rights reserved.  <a style="text-decoration:underline;" href='javascript:popUp("http://www.orient-express.com/copyright.jsp");'>Full Copyright Notice</a><br><br></div><script type="text/javascript">
 var gaJsHost = (('https:' == document.location.protocol) ? 'https://ssl.' : 'http://www.');
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -813,13 +877,13 @@ function getProduct(prod, type) {
 	aProducts['ospl'] = "http://www.orient-express.com/collection/hotels/hotel_splendido.jsp";
 	aProducts['omic'] = "http://www.orient-express.com/collection/hotels/inn_at_perry_cabin.jsp";
 	aProducts['pbal'] = "http://www.orient-express.com/collection/hotels/jimbaran_puri_bali.jsp";
-	aProducts['okes'] = "http://www.orient-express.com/collection/hotels/keswick_hall.jsp";
+	//aProducts['okes'] = "http://www.orient-express.com/collection/hotels/keswick_hall.jsp";
 	aProducts['plua'] = "http://www.orient-express.com/collection/hotels/la_residence_phou_vao.jsp";
 	aProducts['pang'] = "http://www.orient-express.com/collection/hotels/la_residence_d_angkor.jsp";
 	aProducts['olar'] = "http://www.orient-express.com/collection/hotels/la_residencia.jsp";
 	aProducts['omar'] = "http://www.orient-express.com/collection/hotels/la_samanna.jsp";
 	// aProducts['olis'] = "http://www.orient-express.com/collection/hotels/lapa_palace.jsp";
-	aProducts['ocol'] = "http://www.orient-express.com/collection/hotels/las_casitas_del_colca.jsp";
+	//aProducts['ocol'] = "http://www.orient-express.com/collection/hotels/las_casitas_del_colca.jsp";
 	aProducts['olem'] = "http://www.orient-express.com/collection/hotels/le_manoir_aux_quat_saisons.jsp";
 	//aProducts['okat'] = "http://www.orient-express.com/collection/hotels/lilianfels.jsp";
 	aProducts['omac'] = "http://www.orient-express.com/collection/hotels/machu_picchu_sanctuary_lodge.jsp";
@@ -1018,13 +1082,13 @@ function resetOthers(current) {
 
 
 					<option value="pbal">Jimbaran Puri Bali</option>
-					<option value="okes">Keswick Hall</option>
+					<!--<option value='okes'>Keswick Hall</option>-->
 					<option value="pang">La Résidence d'Angkor</option>
 					<option value="plua">La Résidence Phou Vao</option>
 					<option value="olar">La Residencia</option>
 					<option value="omar">La Samanna</option>
 					
-					<option value="ocol">Las Casitas del Colca</option>
+					<!--<option value='ocol'>Las Casitas del Colca</option>-->
 					<option value="olem">Le Manoir aux Quat'Saisons</option>
 					<!--<option value='okat'>Lilianfels Blue Mountains</option>-->
 					<option value="omac">Machu Picchu Sanctuary Lodge</option>
@@ -1106,7 +1170,7 @@ function resetOthers(current) {
 
 					</optgroup><optgroup label="North America">
 					<option value="ocha">USA - Charleston, SC</option>
-					<option value="okes">USA - Charlottesville, VA</option>
+					<!--<option value='okes'>USA - Charlottesville, VA</option>-->
 					<!--<option value='onor'>USA - New Orleans, LA</option>-->
 					<!--<option value='osba'>USA - Santa Barbara, CA</option>-->
 					<option value="omic">USA - St Michaels, MD</option>
@@ -1119,7 +1183,7 @@ function resetOthers(current) {
 					</optgroup><optgroup label="South America">
                                                                                 <option value="ogua">Brazil - Iguassu</option>
 					<option value="orio">Brazil - Rio de Janeiro</option>
-					<option value="ocol">Peru - Colca Canyon</option>
+					<!--<option value='ocol'>Peru - Colca Canyon</option>-->
 
 					<option value="cuzco">Peru - Cuzco</option>
 					<option value="olim">Peru - Lima</option>
@@ -1216,7 +1280,7 @@ function resetOthers(current) {
 					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;USA">
 					<option value="onyc">'21', Manhattan, New York, </option>
 					<option value="ocha">Charleston Place, Charleston, SC</option>
-					<option value="okes">Keswick Hall, Charlottesville, VA</option>
+					<!--<option value='okes'>Keswick Hall, Charlottesville, VA</option>-->
 					<option value="omic">The Inn at Perry Cabin, St Michaels, MD</option>
 
 
@@ -1241,7 +1305,7 @@ function resetOthers(current) {
 					<option value="hb">Hiram Bingham, Cuzco-Machu Picchu</option>
 					<option value="ocus">Hotel Monasterio, Cuzco</option>
 					<option value="ouru">Hotel Rio Sagrado, Urubamba, Sacred Valley</option>
-					<option value="ocol">Las Casitas del Colca, Colca Canyon</option>
+					<!--<option value='ocol'>Las Casitas del Colca, Colca Canyon</option>-->
 					<option value="omac">Machu Picchu Sanctuary Lodge, Machu Picchu</option>
 					<option value="olim">Miraflores Park Hotel, Lima</option>
 
