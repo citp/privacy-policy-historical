@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143821id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420213205id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrainerRoad
 
