@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121122323id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statbroadcast.com privacy policy that was archived on 2012-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120420220341id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>StatBroadcast® Systems - Privacy Policar</title>
@@ -31,7 +31,7 @@ $('.button').button();
 function activeLink(el){$(el).css("font-weight", "bold");$(el).css("color", "#FFF");}
 </script>
 <!--<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/overcast/jquery-ui.css" />-->
-<link rel="stylesheet" type="text/css" href="/css/sb-ui-theme/jquery-ui-1.8.13.custom.css">
+<link rel="stylesheet" type="text/css" href="/css/ui/sb-ui-theme/jquery-ui-1.8.13.custom.css">
 <link rel="icon" type="image/ico" href="/sb.ico">
 <link type="text/css" href="/css/mainstyles.css" rel="stylesheet">
 <link type="text/css" href="/css/text.css" rel="stylesheet">
@@ -158,6 +158,22 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
   })();
 
 </script>
+<script src="/js/cookiemonster.js"></script>
+<script>
+$(document).ready(function(){
+var smbypass = 0;
 
+if (readCookie("statmonitr") == "bcs"){smbypass = 1;}
+if (smbypass == 1)
+{
+
+	$('a.bcs_eventlink').each(function(){
+		h = $(this).attr("href");
+		$(this).attr("href",h+'&statmonitr=bcs');
+	});
+}
+});
+
+</script>
 
 </div></body></html>
