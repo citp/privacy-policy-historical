@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorfootball.co.uk privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215040010id_/http%3A//www.mirrorfootball.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorfootball.co.uk privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420191911id_/http%3A//www.mirrorfootball.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MirrorFootball.co.uk
 
