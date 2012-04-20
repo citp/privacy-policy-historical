@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wadoo.net privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423151813id_/http%3A//www.wadoo.net/wadoo/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wadoo.net privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420223005id_/http%3A//www.wadoo.net/wadoo/privacy.shtml) for the most accurate reproduction.*
 
 # Wadoo! Privacy Statement
 
