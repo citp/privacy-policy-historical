@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statbroadcast.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121122323id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statbroadcast.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420220341id_/http%3A//www.statbroadcast.com/privacy.php) for the most accurate reproduction.*
 
 # StatBroadcast® Systems - Privacy Policar
 
