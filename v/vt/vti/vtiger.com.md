@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123100351id_/http%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420235431id_/http%3A//www.vtiger.com/company/privacy-policy) for the most accurate reproduction.*
 
-# vtiger CRM On Demand Privacy Policy | vtiger CRM
+# vtiger CRM On Demand Privacy Policy | Company
 
 vtiger is committed to respecting your online privacy and recognize your need for appropriate protection of any information you share with us in an appropriate manner. We have explained the practices followed regarding the use of your data in the following Policy statement.. As a condition to using vtiger CRM On Demand Services, you consent to the terms of this Policy statement. In case of a change to this Policy statement, we'll update you by email or through a prominent notice on the On Demand website. This policy statement applies exclusively to services provided through ondemand.vtiger.com website.
 
 **EazyBusiness**
 
-  * vtiger CRM On Demand service is delivered through the servers in Amazon's Cloud infrastructure. We use the services of a 3rd party company, EazyBusiness, to administer and monitor these servers, and perform billing. EazyBusiness team will have access to the personal data provided by you. and will be using it only for the purpose of providing access to the service and billing .
+  * vtiger CRM On Demand service is delivered through the servers in Amazon's Cloud infrastructure. We use the services of a 3rd party company, EazyBusiness, to administer and monitor these servers, and perform billing. EazyBusiness team will have access to the personal data provided by you. and will be using it only for the purpose of providing access to the service and billing. Charges on the Credit Card will appear under the name of OnDemandBilling.com.
 
 
 
@@ -93,7 +93,7 @@ We make every effort, including periodic reviews to ensure that Personal Informa
 
 **Notification of Changes**
 
-Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back this page ([http://vtiger.com/privacy-policy](http://www.vtiger.com/privacy-policy)) periodically.
+Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back this page ([http://vtiger.com/company/privacy-policy](http://www.vtiger.com/company/privacy-policy/)) periodically.
 
 **Blogs and Forums**
 
