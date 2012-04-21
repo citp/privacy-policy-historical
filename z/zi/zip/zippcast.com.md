@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zippcast.com privacy policy that was archived on 2011-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110827032257id_/http%3A//www.zippcast.com/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zippcast.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421175022id_/http%3A//www.zippcast.com/t/policy.php) for the most accurate reproduction.*
 
-# ZippCast - Be Seen | Privacy Policy
-
-Hurricane Irene is an extraordinary threat for NC, Mid-Atlantic, Northeast, and New England. Stay safe and prepare, learn more about it **[here](http://www.weather.com/weather/hurricanecentral/article/tropical-depression-nine-storm-hurricane-irene_2011-08-20)!**
+# ZippCast | Privacy Policy
 
 **Updated as of June 7, 2011**
 
@@ -50,7 +48,7 @@ For questions concerning the product or your account, please check out the [Help
 
 ZippCast Privacy
 
-5846 Tonya Ln.  
-Douglasville, GA 30135  
+1308 Linwood Ave.  
+Niagara Falls, NY 14305  
 USA  
 
