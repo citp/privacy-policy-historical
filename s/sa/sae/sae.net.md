@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126135403id_/http%3A//www.sae.net/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.net privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421153042id_/http%3A//www.sae.net/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy - Sigma Alpha Epsilon
 
