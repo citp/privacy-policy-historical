@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantsocialanarchy.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225183112id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantsocialanarchy.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421160807id_/http%3A//sublimenet.com/legal/dcs_privacy.html) for the most accurate reproduction.*
 
 # Affiliate Program Agreement
 
