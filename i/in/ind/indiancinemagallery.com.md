@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130082634id_/http%3A//www.indiancinemagallery.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421031619id_/http%3A//www.indiancinemagallery.com/Privacy.html) for the most accurate reproduction.*
 
 # Indiancinemagallery.com privacy policy page
 
@@ -53,5 +53,4 @@ This policy was last modified on January 11, 2011
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.indiancinemagallery.com  
-rainohentertainments (at) gmail.com  
 ingo.icg (at) gmail.com
