@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazzed.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102055707id_/http%3A//www.jazzed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzed.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421180623id_/http%3A//www.jazzed.com/privacy) for the most accurate reproduction.*
 
 # Jazzed Privacy Statement: Online Dating Site for Singles
 
