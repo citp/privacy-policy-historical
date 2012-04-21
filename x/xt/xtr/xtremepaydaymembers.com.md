@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremepaydaymembers.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228120955id_/http%3A//xtremepaydays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremepaydaymembers.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421181348id_/http%3A//xtremepaydays.com/privacy.html) for the most accurate reproduction.*
 
 # Xtreme Paydays - Privacy Policy
 
