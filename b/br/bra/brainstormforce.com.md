@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainstormforce.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111062337id_/http%3A//www.brainstormforce.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainstormforce.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422133343id_/http%3A//www.brainstormforce.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Brainstorm Force - Outsourcing - web development & SEO to India
 
