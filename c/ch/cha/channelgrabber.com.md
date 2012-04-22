@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the channelgrabber.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123190608id_/http%3A//channelgrabber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelgrabber.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422043010id_/http%3A//channelgrabber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Channelgrabber
 
 ## Privacy policy
 
-VISITOR PRIVACY POLICY for [www.Channlgrabber.com](http://www.channelgrabber.com/)
+VISITOR PRIVACY POLICY for [www.ChannelGrabber.com](http://www.channelgrabber.com/)
 
 Our Company is dedicated to protecting your privacy when you visit or communicate with our site or personnel. The Privacy Policy offered here, along with our terms and conditions offers an explanation regarding any personal data you may provide to us or that we garner from you. The Policy is changed occasionally to update you regarding any changes, so please make sure you review the Privacy Policy.  
-[Our Data Controller is Wilki Ltd for purposes of the Data Protection Act of 1998.]
+[Our Data Controller is ChannelGrabber Ltd for purposes of the Data Protection Act of 1998.]
 
  **1\. Data and Information Collected**  
 To operate our website it is essential to collect or process certain data, such as the following:  
@@ -47,4 +47,4 @@ Third Party Links to websites on our website are not included in our privacy pol
 The Data Protection Act 1998 provides you with rights to access any information we may collect and store about you. If you wish to have access to this information it may be subject to a £10 payment fee, used to cover our costs regarding the information you requested. If you wish to access this data please provide contact details below.
 
  **8\. Contacting Us**  
-We are happy to receive any queries, comments, or requests you may have regarding our Privacy Policy. Feel free and do not hesitate to use the following email to contact us: info@wilkiltd.co.uk.
+We are happy to receive any queries, comments, or requests you may have regarding our Privacy Policy. Feel free and do not hesitate to use the following email to contact us: customerservice@channelgrabber.com.
