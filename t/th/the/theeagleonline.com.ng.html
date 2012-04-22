@@ -1,0 +1,1551 @@
+<!--The following is the downloaded HTML source of the theeagleonline.com.ng privacy policy that was archived on 2012-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120422031236id_/http%3A//theeagleonline.com.ng/component/content/article/9-uncategorised/1697-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_teline_iv/';
+var isRTL = false;
+</script>
+
+  <base href="http://theeagleonline.com.ng/component/content/article/9-uncategorised/1697-privacy-policy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="Nigerian news, news, online news, national news, politics news, policies, business news, sports news, entertainment news, Nigeria, state politics">
+  <title>The Eagle Online</title>
+  <link href="http://theeagleonline.com.ng/component/search/?id=1697:privacy-policy&amp;format=opensearch" rel="search" title="Search The Eagle Online" type="application/opensearchdescription+xml">
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_d2c66.css" type="text/css">
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_1c714.css" type="text/css">
+  <link rel="stylesheet" href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_344df.css?v=4" type="text/css">
+  <style type="text/css">
+div#poll_loading_5 {
+	background: url(media/system/images/mootree_loader.gif) 0% 50% no-repeat;
+	width:100%;
+	height:20px; 
+	padding: 4px 0 0 20px; 
+}
+
+  </style>
+  <script src="/index.php?jat3action=gzip&amp;jat3type=js&amp;jat3file=t3-assets%2Fjs_32914.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+<!--
+					var acymailing = Array();
+					acymailing['NAMECAPTION'] = 'Name';
+					acymailing['NAME_MISSING'] = 'Please enter your name';
+					acymailing['EMAILCAPTION'] = 'E-mail';
+					acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+					acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+					acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+					acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+			//-->
+<!--
+		acymailing['reqFieldsformAcymailing1'] = Array('html');
+		acymailing['validFieldsformAcymailing1'] = Array('Please enter a value for the field Receive');
+		//-->
+<!--
+acymailing['excludeValuesformAcymailing1'] = Array();
+acymailing['excludeValuesformAcymailing1']['name'] = 'Name';
+acymailing['excludeValuesformAcymailing1']['email'] = 'E-mail';
+//-->
+function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(840000); });
+
+/* <![CDATA[ */
+window.addEvent('load', function()
+    {
+		$('poll_vote_5').addEvent('submit', function(e) {
+				// Prevent the submit event
+			    new Event(e).stop();
+
+				var options = $('poll_vote_5').getElements('input[name=voteid]');
+
+				var nothing_selected = 1;
+				
+				options.each(function(item, index){
+					if(item.checked==1) {
+						nothing_selected = 0;
+					}
+				});
+				
+				if (nothing_selected) {
+					alert('Please select an option');
+					return false;
+				}
+				else {
+					$('submit_vote_5').disabled = 1;
+					$('poll_loading_5').setStyle('display', '');
+					
+					// Update the page
+					this.set('send', {
+					onComplete: function(response, responseXML)
+					{						
+						// get the XML nodes
+						var root    = responseXML.documentElement;
+						var options = root.getElementsByTagName('option');
+						var text    = root.getElementsByTagName('text');
+						var voters  = root.getElementsByTagName('voters');
+						
+						// update the page element
+						var slide = new Fx.Slide('polldiv_5').hide();
+						$('polldiv_5').innerHTML = '<div style="width:100%"><div style="padding: 3px;">' + text.item(0).firstChild.nodeValue + ' - ' + options.item(0).attributes[1].nodeValue + '%</div><div class="poll_module_bar_holder" id="poll_module_bar_holder0" style="width: 98%; height: 10px; padding:1px; border:1px solid #cccccc;"><div id="poll_module_bar'+options.item(0).attributes[0].nodeValue+'" style="background:#' + options.item(0).attributes[2].nodeValue + '; width:' + options.item(0).attributes[1].nodeValue + '%; height:10px;"></div></div></div><div style="width:100%"><div style="padding: 3px;">' + text.item(1).firstChild.nodeValue + ' - ' + options.item(1).attributes[1].nodeValue + '%</div><div class="poll_module_bar_holder" id="poll_module_bar_holder1" style="width: 98%; height: 10px; padding:1px; border:1px solid #cccccc;"><div id="poll_module_bar'+options.item(1).attributes[0].nodeValue+'" style="background:#' + options.item(1).attributes[2].nodeValue + '; width:' + options.item(1).attributes[1].nodeValue + '%; height:10px;"></div></div></div><div style="width:100%"><div style="padding: 3px;">' + text.item(2).firstChild.nodeValue + ' - ' + options.item(2).attributes[1].nodeValue + '%</div><div class="poll_module_bar_holder" id="poll_module_bar_holder2" style="width: 98%; height: 10px; padding:1px; border:1px solid #cccccc;"><div id="poll_module_bar'+options.item(2).attributes[0].nodeValue+'" style="background:#' + options.item(2).attributes[2].nodeValue + '; width:' + options.item(2).attributes[1].nodeValue + '%; height:10px;"></div></div></div><br /><b>Total votes</b>: ' + voters.item(0).firstChild.nodeValue + '';
+						slide.slideIn();
+					}
+					}).send();
+				}
+        });  
+    });/* ]]> */
+  </script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_teline_iv/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_teline_iv/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 1060px;}
+    body.bd #ja-wrapper {min-width: 1060px;}
+</style>
+
+<meta name="google-site-verification" content="8Q2a591wjrTPMERCJqESnXyL-lIFXHtDCI-JU_NIAbc">
+
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-29554207-1']);
+ _gaq.push(['_setSampleRate', '80']);
+ _gaq.push(['_setSiteSpeedSampleRate', '7']);
+_gaq.push(['_trackPageview']);
+					
+ (function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
+	<link href="http://theeagleonline.com.ng/plugins/system/jatabs/jatabs/ja.tabs.css" type="text/css" rel="stylesheet">
+<script src="http://theeagleonline.com.ng/plugins/system/jatabs/jatabs/ja.tabs.js" type="text/javascript"></script>
+	<link href="http://theeagleonline.com.ng/plugins/system/jatabs/jatabs/themes/teline_iv/style.css" type="text/css" rel="stylesheet">
+	<link href="/modules/mod_jabulletin/assets/style.css" type="text/css" rel="stylesheet">
+	<link href="/templates/ja_teline_iv/css/mod_jabulletin.css" type="text/css" rel="stylesheet">
+	<link href="/modules/mod_jaclatest_comments/assets/mod_jaclatest_comments.css" type="text/css" rel="stylesheet">
+	<link href="/templates/ja_teline_iv/css/mod_jaclatest_comments.css" type="text/css" rel="stylesheet">
+	<link href="/components/com_jacomment/asset/css/ja.popup.css" type="text/css" rel="stylesheet">
+	<link href="/components/com_jacomment/asset/css/ja.comment.css" type="text/css" rel="stylesheet">
+	<link href="/components/com_jacomment/asset/css/ja.ie.php" type="text/css" rel="stylesheet">
+	<link href="/components/com_jacomment/themes/default/css/style.css" type="text/css" rel="stylesheet">
+	<link href="/templates/ja_teline_iv/css/ja.comment.custom.css" type="text/css" rel="stylesheet">
+</head>
+
+<body id="bd" class="bd fs3 com_content">
+<a name="Top" id="Top"></a>
+<div id="ja-wrapper">
+
+
+                <div id="ja-header" class="wrap ">
+                   <div class="main clearfix">
+           <h1 class="logo">
+		<a href="/index.php" title="The Eagle Online"><span>The Eagle Online</span></a>
+	</h1>
+		
+	<div class="ja-header-r">
+		
+	</div>            </div>
+                        </div>
+            <div id="ja-topmegamenu" class="wrap ">
+                   <div class="main clearfix">
+           <div id="ja-topnav" class="clearfix">
+	<div class="ja-megamenu clearfix" id="ja-topmega">
+
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-topmega', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 0,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            </div>
+            </div>
+                        </div>            <div id="ja-mainnav" class="wrap ">
+                   <div class="main clearfix">
+           <div id="ja-splitmenu" class="mainlevel clearfix">
+<ul><li class="menu-item0 active first-item haschild home"><a href="http://theeagleonline.com.ng/" class="menu-item0 active first-item haschild home" id="menu490" title="Home"><span class="menu-title">Home</span></a></li><li class="menu-item1 haschild"><a href="/politics" class="menu-item1 haschild" id="menu583" title="Politics"><span class="menu-title">Politics</span></a></li><li class="menu-item2"><a href="/business" class="menu-item2" id="menu571" title="Business"><span class="menu-title">Business</span></a></li><li class="menu-item3"><a href="/arts-and-entertainment2132" class="menu-item3" id="menu561" title="Arts and Entertainment"><span class="menu-title">Arts and Entertainment</span></a></li><li class="menu-item4"><a href="/rd-health" class="menu-item4" id="menu551" title="R&amp;D/Health"><span class="menu-title">R&amp;D/Health</span></a></li><li class="menu-item5"><a href="/life" class="menu-item5" id="menu541" title="Life"><span class="menu-title">Life</span></a></li><li class="menu-item6"><a href="/editorial" class="menu-item6" id="menu534" title="Editorial"><span class="menu-title">Editorial</span></a></li><li class="menu-item7 haschild"><a href="/worship" class="menu-item7 haschild" id="menu524" title="Worship"><span class="menu-title">Worship</span></a></li><li class="menu-item8"><a href="/sport" class="menu-item8" id="menu514" title="Sports"><span class="menu-title">Sports</span></a></li><li class="menu-item9"><a href="/column" class="menu-item9" id="menu617" title="Columns"><span class="menu-title">Columns</span></a></li><li class="menu-item10"><a href="/humour" class="menu-item10" id="menu618" title="Humour"><span class="menu-title">Humour</span></a></li><li class="menu-item11 last-item"><a href="/advert-placing" class="menu-item11 last-item" id="menu619" title="Ads"><span class="menu-title">Ads</span></a></li></ul>
+</div><!-- jdoc:include type="menu" level="0" / -->
+
+<div id="ja-subnav" class="clearfix">
+<div class="sublevel">
+<ul class="active"><li class=" first-item"><a href="/home/news" class=" first-item" id="menu491" title="News"><span class="menu-title">News</span></a></li></ul>
+</div><!-- jdoc:include type="menu" level="1" / -->
+</div>
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>            </div>
+                        </div>
+                        <div id="ja-topbar" class="wrap ">
+                   <div class="main clearfix">
+           <p class="ja-day clearfix">
+	  <span class="day">Sun</span><span class="date">22</span><span class="month">04</span><span class="year">2012</span>	</p>
+	 
+	<p class="ja-updatetime"><span>Last update</span><em>09:37:49 PM</em></p>
+	
+			<div class="ja-healineswrap">
+		
+	<em>Latest News:</em>
+	<div id="jalh-modid134" class="ja-headlines ">
+		<div style="white-space:nowrap; " id="jahl-wapper-items-jalh-modid134">
+		<!-- HEADLINE CONTENT -->
+								<div class="ja-headlines-item jahl-horizontal" style="visibility:visible">
+					<a title="Arsenal 0-0 ChelseaVilla 0-0 SunderlandBlackburn 2-0 NorwichBolton 1-1 Swansea" href="/sport/2663-results-of-barclays-premier-league-matches-on-april-21-2012"><span>Results of Barclays Premier League matches on Apri...</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="When you're in bed with your lover, the last thing you want to do is turn them off. That said, here are a few common blunders that you should not commit.1. Not kissing" href="/life/2662-nine-things-you-should-never-do-while-having-sex"><span>Nine things you should never do while having sex</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="The Speaker of the House of Representatives, Honourable Aminu Tambuwal, on Saturday declared Osun State peaceful." href="/politics/world-news/2661-osun-is-peaceful-speaker-tambuwal"><span>Osun is peaceful - Speaker Tambuwal</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="Three final year students of the Federal Polytechnic, Ado-Ekiti, Ekiti State have been confirmed dead in an accident that occured at Aromoko in Ekiti State on Friday night.The three students were trapped overnight in the wreckage of the bus in which they were travelling." href="/home/news/2660-three-final-year-polytechnic-students-confirmed-dead-in-auto-crash"><span>Three final year polytechnic students confirmed de...</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="Governor Abiola Ajimobi of Oyo State has described the rumours making the round that the Governor of Osun State, Mr. Rauf Aregbesola, was planning to secede Osun State from Nigeria as senseless and unthinkable." href="/politics/world-news/2659-accusation-against-aregbesola-senseless-ajimobi"><span>Accusation against Aregbesola senseless - Ajimobi</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="The South West chapter of the Peoples Democratic Party has described comments of the spokesperson of the Action Congress of Nigeria, Osun State chapter, Kunle Oyatomi, in today's Sun newspaper as a vindication of its stand that the state Governor, Mr. Rauf Aregbesola, is a religious extremist and pl..." href="/politics/world-news/2658-acn-has-vindicated-us-on-aregbesola-s-religious-extremism-others-pdp"><span>ACN has vindicated us on Aregbesola's religious ex...</span>
+					</a> 
+				</div>
+						<div class="ja-headlines-item jahl-horizontal" style="visibility:hidden">
+					<a title="The two Branches of the Nigerian Bar Association received the notice of today’s ceremony from the Judiciary on Thursday, 12th April, 2012 with mixed feelings. The first one being displeasure of the Bar with the way and manner the Executive Governor of Ekiti State made a selective appointment of Hi..." href="/column/2657-fayemi-s-government-reckless-nba"><span>Fayemi's government reckless - NBA</span>
+					</a> 
+				</div>
+						<!-- //HEADLINE CONTENT -->
+		</div>	
+	</div>
+	
+</div>
+<script type="text/javascript">
+// options setting
+var options = { box:$('jalh-modid134'),
+				items: $$('#jalh-modid134 .ja-headlines-item'),
+				mode: 'horizontal',
+				wrapper:$('jahl-wapper-items-jalh-modid134'),
+				buttons:{next: $$('.ja-headelines-next'), previous: $$('.ja-headelines-pre')},
+				interval:5000,
+				fxOptions : { duration: 900,
+							  transition: Fx.Transitions.linear ,
+							  wait: false }	};
+
+var jahl = new JANewSticker( options );
+</script>
+
+		
+		<div id="ja-search">
+		
+<form action="index.php" method="post" class="search">
+	<label for="mod_search_searchword">
+		search	</label>
+	<input name="searchword" id="mod_search_searchword" class="inputbox" type="text" size="20" value=""><input type="submit" value="Search" class="button">	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="task" value="search">
+    <input type="hidden" name="Itemid" value="0">
+</form>
+
+	</div>            </div>
+                        </div>
+            
+    <!-- MAIN CONTAINER -->
+    <div id="ja-container" class="wrap ja-r2">
+               <div class="main">
+                           <div class="main-inner1 clearfix">
+                        <div id="ja-mainbody" style="width:66%">
+            <!-- CONTENT -->
+            <div id="ja-main" style="width:100%">
+            <div class="inner clearfix">
+
+                
+<div id="system-message-container">
+</div>
+                
+                <div id="ja-contentwrap" class="clearfix ">
+                    <div id="ja-content" class="column" style="width:100%">
+                        <div id="ja-current-content" class="column" style="width:100%">
+                            
+                                                        <div id="ja-content-main" class="ja-content-main clearfix">
+                                <div id="ja-navhelper-top">
+	<div class="ja-breadcrums">
+		<a href="javascript: history.go(-1)" class="ja-back-btn" title="Go back one page!"><span>Back</span></a>
+		<span class="breadcrumbs pathway">
+<strong>You are here: </strong>Home</span>
+
+	</div>
+</div>
+<div class="content-t">
+		
+	</div>
+<div class="item-page">
+	<h1 class="componentheading">
+	Articles	</h1>
+	<h2 class="contentheading">
+			<a href="/component/content/article/9-uncategorised/1697-privacy-policy">
+		Privacy Policy</a>
+		</h2>
+
+	
+<div class="article-tools clearfix">
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/component/content/article/9-uncategorised/1697-privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"></a>			</li>
+		
+					<li class="email-icon">
+			<a href="/component/mailto/?tmpl=component&amp;template=ja_teline_iv&amp;link=62ab2a0f30de2f35c1d71e2fcd69eb38668c9973" title="Email" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/media/system/images/emailButton.png" alt="Email"></a>			</li>
+				
+				
+		
+	</ul>
+
+
+
+	<dl class="article-info">
+	<dt class="article-info-term">Details</dt>
+	<dd class="published">
+	Published on Wednesday, 07 March 2012 10:04	</dd>
+	<dd class="createdby"> 
+				Written by Admin		</dd>
+	
+	<dd class="hits">
+	Hits: 168	</dd>
+	</dl>
+</div>
+	<p><strong>Privacy Policy</strong><br><br>We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under The Eagle Online www.theeagleonline.com.ng)<br><br><strong>Routine Information Collection</strong><br><br>All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.<br><br><strong>Cookies and Web Beacons</strong><br><br>Where necessary, this site uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.<br><br>Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to&nbsp;<span id="IL_AD4">display advertisements</span>&nbsp;and other useful information. Such&nbsp;<span id="IL_AD3">tracking</span>&nbsp;is done directly by the third parties through their own servers and is subject to their own privacy policies.<br><br><strong>Controlling Your Privacy</strong><br><br>Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other&nbsp;tracking&nbsp;mechanisms.<br><br><strong>Special Note About&nbsp;Google Advertising</strong><br><br>Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any&nbsp;tracking&nbsp;done by Google through cookies and other mechanisms is subject to Google's own privacy policies.<br><br>About&nbsp;<span id="IL_AD1">Google advertising</span>: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the&nbsp;<a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy.</a><br><br><strong>Contact Information</strong><br><br>Concerns or questions about this privacy policy can be directed to 
+ <script type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy23416 = '&#105;nf&#111;' + '&#64;';
+ addy23416 = addy23416 + 'th&#101;&#101;&#97;gl&#101;&#111;nl&#105;n&#101;' + '&#46;' + 'c&#111;m' + '&#46;' + 'ng';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy23416 + '\'>');
+ document.write(addy23416);
+ document.write('<\/a>');
+ //-->\n </script><a href="mailto:info@theeagleonline.com.ng">info@theeagleonline.com.ng</a><script type="text/javascript">
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type="text/javascript">
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span> for further clarification.</p>
+<p></p> 	
+	</div>
+<div class="content-b">
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0489054010937773";
+/* Below C */
+google_ad_slot = "8658603153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>                            </div>
+                            
+                                                    </div>
+
+                                            </div>
+
+                    
+                </div>
+
+                            </div>
+            </div>
+            <!-- //CONTENT -->
+            
+        </div>
+                <!-- RIGHT COLUMN-->
+        <div id="ja-right" class="column sidebar" style="width:34%">
+
+                        <div id="ja-right-mass-top" class="ja-mass ja-mass-top clearfix">
+                	<div class="ja-moduletable moduletable-tabs  clearfix" id="Mod129">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom-tabs">
+	<div><div class="ja-tabswrap teline_iv" style="width:100%;">	<div id="myTab-626917375" class="container">	<div class="ja-tabs-title-top" style="">
+							<ul class="ja-tabs-title"><li title="Latest News"><h3><span>Latest News</span></h3></li><li title="Most Read"><h3><span>Most Read</span></h3></li><li title="Comments"><h3><span>Comments</span></h3></li></ul>
+						</div>
+						<div class="ja-tab-panels-top"><div class="ja-tab-content">
+							<div class="ja-tab-subcontent"><div class="ja-bulletin-wrap">
+	<ul class="ja-bulletin clearfix">
+				<li class="clearfix">
+								<div class="box-left">
+													<a href="/sport/2667-treat-keshi-like-westerhof-kalu" class="mostread-image">
+						<img src="/images/resized/images/stephen keshi_32_32.jpg" alt="Treat Keshi like Westerhof – Kalu" title="Treat Keshi like Westerhof – Kalu">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/sport/2667-treat-keshi-like-westerhof-kalu" class="mostread">Treat Keshi like Westerhof – Kalu</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					4					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2666-subsidy-probe-fg-sacks-akintola-williams-adekanola-co" class="mostread-image">
+						<img src="/images/resized/images/coat of arms of nigeria_32_32.jpg" alt="Subsidy probe: FG sacks Akintola Williams, Adekanola &amp; Co" title="Subsidy probe: FG sacks Akintola Williams, Adekanola &amp; Co">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2666-subsidy-probe-fg-sacks-akintola-williams-adekanola-co" class="mostread">Subsidy probe: FG sacks Akintola Williams, Adekanola &amp; Co</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					145					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2665-at-inauguration-of-alawe-fayemi-says-development-is-freedom" class="mostread-image">
+						<img src="/images/resized/images/dr kayode fayemi 11_32_32.jpg" alt="At inauguration of Alawe, Fayemi says development is freedom" title="At inauguration of Alawe, Fayemi says development is freedom">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2665-at-inauguration-of-alawe-fayemi-says-development-is-freedom" class="mostread">At inauguration of Alawe, Fayemi says development is freedom</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					7					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/column/2664-lawan-report-versus-untouchable-oil-billionaires" class="mostread-image">
+						<img src="/images/resized/images/taju-tijani_32_32.jpg" alt="Lawan Report versus Untouchable Oil Billionaires" title="Lawan Report versus Untouchable Oil Billionaires">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/column/2664-lawan-report-versus-untouchable-oil-billionaires" class="mostread">Lawan Report versus Untouchable Oil Billionaires</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					14					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/sport/2663-results-of-barclays-premier-league-matches-on-april-21-2012" class="mostread-image">
+						<img src="/images/resized/images/chelsea fc_32_32.jpg" alt="Results of Barclays Premier League matches on April 21, 2012" title="Results of Barclays Premier League matches on April 21, 2012">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/sport/2663-results-of-barclays-premier-league-matches-on-april-21-2012" class="mostread">Results of Barclays Premier League matches on April 21, 2012</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					110					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/life/2662-nine-things-you-should-never-do-while-having-sex" class="mostread-image">
+						<img src="/images/resized/images/sex_32_32.jpg" alt="Nine things you should never do while having sex" title="Nine things you should never do while having sex">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/life/2662-nine-things-you-should-never-do-while-having-sex" class="mostread">Nine things you should never do while having sex</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					360					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/politics/world-news/2661-osun-is-peaceful-speaker-tambuwal" class="mostread-image">
+						<img src="/images/resized/images/aminu tambuwal_32_32.jpg" alt="Osun is peaceful - Speaker Tambuwal" title="Osun is peaceful - Speaker Tambuwal">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/politics/world-news/2661-osun-is-peaceful-speaker-tambuwal" class="mostread">Osun is peaceful - Speaker Tambuwal</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					75					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2660-three-final-year-polytechnic-students-confirmed-dead-in-auto-crash" class="mostread-image">
+						<img src="/images/resized/images/osita chidoka_32_32.jpg" alt="Three final year polytechnic students confirmed dead in auto crash" title="Three final year polytechnic students confirmed dead in auto crash">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2660-three-final-year-polytechnic-students-confirmed-dead-in-auto-crash" class="mostread">Three final year polytechnic students confirmed dead in auto crash</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					179					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/politics/world-news/2659-accusation-against-aregbesola-senseless-ajimobi" class="mostread-image">
+						<img src="/images/resized/images/abiola ajimobi_32_32.jpg" alt="Accusation against Aregbesola senseless - Ajimobi" title="Accusation against Aregbesola senseless - Ajimobi">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/politics/world-news/2659-accusation-against-aregbesola-senseless-ajimobi" class="mostread">Accusation against Aregbesola senseless - Ajimobi</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					68					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/politics/world-news/2658-acn-has-vindicated-us-on-aregbesola-s-religious-extremism-others-pdp" class="mostread-image">
+						<img src="/images/resized/images/pdp symbol_32_32.jpg" alt="ACN has vindicated us on Aregbesola's religious extremism, others - PDP" title="ACN has vindicated us on Aregbesola's religious extremism, others - PDP">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/politics/world-news/2658-acn-has-vindicated-us-on-aregbesola-s-religious-extremism-others-pdp" class="mostread">ACN has vindicated us on Aregbesola's religious extremism, others - PDP</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					89					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/column/2657-fayemi-s-government-reckless-nba" class="mostread-image">
+						<img src="/images/resized/images/justice scale_32_32.jpg" alt="Fayemi's government reckless - NBA" title="Fayemi's government reckless - NBA">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/column/2657-fayemi-s-government-reckless-nba" class="mostread">Fayemi's government reckless - NBA</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					106					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2656-hausas-clash-in-lagos-over-chairmanship-of-market-association-scores-injured" class="mostread-image">
+						<img src="/images/resized/images/mohammed abubakar_32_32.jpg" alt="Hausas clash in Lagos over chairmanship of market association, scores injured" title="Hausas clash in Lagos over chairmanship of market association, scores injured">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2656-hausas-clash-in-lagos-over-chairmanship-of-market-association-scores-injured" class="mostread">Hausas clash in Lagos over chairmanship of market association, scores injured</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					79					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/business/2655-premium-times-oil-export-earnings-drop-as-federation-accounts-share-n614b-in-march" class="mostread-image">
+						<img src="/images/resized/images/faac chairman_32_32.jpg" alt="Premium Times: Oil export earnings drop, as Federation Accounts share N614b in March" title="Premium Times: Oil export earnings drop, as Federation Accounts share N614b in March">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/business/2655-premium-times-oil-export-earnings-drop-as-federation-accounts-share-n614b-in-march" class="mostread">Premium Times: Oil export earnings drop, as Federation Accounts share N614b in March</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					45					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2654-dangote-construction-trucks-crush-38-polytechnic-students" class="mostread-image">
+						<img src="/images/resized/images/osita chidoka_32_32.jpg" alt="Trucks crush 38 polytechnic students" title="Trucks crush 38 polytechnic students">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2654-dangote-construction-trucks-crush-38-polytechnic-students" class="mostread">Trucks crush 38 polytechnic students</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					562					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2653-security-is-key-to-development-amosun" class="mostread-image">
+						<img src="/images/resized/images/apc commissioning_32_32.jpg" alt="Security is key to development - Amosun" title="Security is key to development - Amosun">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2653-security-is-key-to-development-amosun" class="mostread">Security is key to development - Amosun</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-21</span>
+								</span>
+            					<span class="hits">
+					Hits:					74					</span>
+				            	
+				</div>
+		</li>
+			</ul>
+</div><script type="text/javascript">
+  var Ja_direction = '';
+  var cookie_path = '/';
+  var cur_template_name = 'ja_teline_iv';
+  window.addEvent('load', function(){
+
+		   if(typeof(tmpl_name) =='undefined')
+		   {
+			  cookie_path = "ja_teline_iv_direction";
+		   }
+		   else
+		   {
+			  cookie_path = tmpl_name+"_direction";
+		   }
+		   Ja_direction = Cookie.read(cookie_path);
+		   if(!Ja_direction)
+		   {
+				cookie_path = cookie_path.replace("_direction","_profile");
+			   Ja_direction = Cookie.read(cookie_path);
+		   }
+		   var style_l_value = 'auto';
+		   if(Ja_direction == 'rtl')
+			{
+			  					setStyleLinkWithRTLDirection();
+						//	var ul_wrapper = $('Mod118').getElement("ul.ja-bulletin");
+			//	ul_wrapper.getElements("li img").each();
+			}
+	});
+</script>
+<script type="text/javascript" language="javascript">
+ function setStyleLinkWithRTLDirection()
+ {
+    var links = document.getElementsByTagName ('link');
+		var script = document.createElement('link');
+	script.setAttribute('type', 'text/css');
+	script.setAttribute('rel', 'stylesheet');
+	script.setAttribute('href', 'http://theeagleonline.com.ng/modules/mod_jabulletin/assets/mod_jabuletin_rtl.css');
+	document.getElementsByTagName("head")[0].appendChild(script);
+ }
+</script>  </div>
+						 </div><div class="ja-tab-content">
+							<div class="ja-tab-subcontent"><div class="ja-bulletin-wrap">
+	<ul class="ja-bulletin clearfix">
+				<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/487-the-fraud-nigerians-are-subsidising-wikileaks" class="mostread-image">
+						<img src="/images/resized/images/femi otedola_32_32.jpg" alt="The fraud Nigerians are subsidising - Wikileaks" title="The fraud Nigerians are subsidising - Wikileaks">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/487-the-fraud-nigerians-are-subsidising-wikileaks" class="mostread">The fraud Nigerians are subsidising - Wikileaks</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-05</span>
+								</span>
+            					<span class="hits">
+					Hits:					16816					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/535-femi-otedola-scales-fence-to-escape-angry-protesters-flees-to-london" class="mostread-image">
+						<img src="/images/resized/images/femi otedola_32_32.jpg" alt="Femi Otedola scales fence to escape angry protesters, flees to London" title="Femi Otedola scales fence to escape angry protesters, flees to London">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/535-femi-otedola-scales-fence-to-escape-angry-protesters-flees-to-london" class="mostread">Femi Otedola scales fence to escape angry protesters, flees to London</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-15</span>
+								</span>
+            					<span class="hits">
+					Hits:					2329					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/column/1099-the-reunification-of-northern-nigeria" class="mostread-image">
+						<img src="/images/resized/images/sir ahmadu bello_32_32.jpg" alt="The reunification of Northern Nigeria" title="The reunification of Northern Nigeria">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/column/1099-the-reunification-of-northern-nigeria" class="mostread">The reunification of Northern Nigeria</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-13</span>
+								</span>
+            					<span class="hits">
+					Hits:					2203					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/1040-sss-re-arrests-kabir-sokoto" class="mostread-image">
+						<img src="/images/resized/images/kabir- sokoto_32_32.jpg" alt="SSS re-arrests Kabir Sokoto" title="SSS re-arrests Kabir Sokoto">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/1040-sss-re-arrests-kabir-sokoto" class="mostread">SSS re-arrests Kabir Sokoto</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-10</span>
+								</span>
+            					<span class="hits">
+					Hits:					1933					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/674-firm-awarded-n227m-contract-by-fg-has-no-office-investigation" class="mostread-image">
+						<img src="/images/resized/images/diezaniminister_32_32.jpg" alt="Firm awarded Oil and Gas sector audit contract by FG has no office – Investigation" title="Firm awarded Oil and Gas sector audit contract by FG has no office – Investigation">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/674-firm-awarded-n227m-contract-by-fg-has-no-office-investigation" class="mostread">Firm awarded Oil and Gas sector audit contract by FG has no office – Investigation</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-23</span>
+								</span>
+            					<span class="hits">
+					Hits:					1610					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/arts-and-entertainment2132/1498-james-iroha-aka-giringory-is-dead" class="mostread-image">
+						<img src="/images/resized/images/james iroha_32_32.jpg" alt="James Iroha, aka Giringory, is dead" title="James Iroha, aka Giringory, is dead">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/arts-and-entertainment2132/1498-james-iroha-aka-giringory-is-dead" class="mostread">James Iroha, aka Giringory, is dead</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-28</span>
+								</span>
+            					<span class="hits">
+					Hits:					1546					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/1746-18-imsu-graduates-die-in-autocrash-on-the-way-to-nysc-camp" class="mostread-image">
+						<img src="/images/resized/images/osita chidoka_32_32.jpg" alt="18 IMSU graduates die in autocrash on the way to NYSC camp" title="18 IMSU graduates die in autocrash on the way to NYSC camp">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/1746-18-imsu-graduates-die-in-autocrash-on-the-way-to-nysc-camp" class="mostread">18 IMSU graduates die in autocrash on the way to NYSC camp</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-03-09</span>
+								</span>
+            					<span class="hits">
+					Hits:					1528					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/958-five-fruits-that-increase-libido-increase-sex-drive-and-treat-impotence-naturally" class="mostread-image">
+						<img src="/images/resized/images/banana_32_32.jpg" alt="Five fruits that increase libido; increase sex drive and treat impotence naturally" title="Five fruits that increase libido; increase sex drive and treat impotence naturally">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/958-five-fruits-that-increase-libido-increase-sex-drive-and-treat-impotence-naturally" class="mostread">Five fruits that increase libido; increase sex drive and treat impotence naturally</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-06</span>
+								</span>
+            					<span class="hits">
+					Hits:					1500					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/2388-photos-from-kaduna-bomb-blast" class="mostread-image">
+						<img src="/images/resized/images/kadunablast/Kaduna Blast 1_32_32.jpg" alt="Photos from Kaduna bomb blast" title="Photos from Kaduna bomb blast">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/2388-photos-from-kaduna-bomb-blast" class="mostread">Photos from Kaduna bomb blast</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-04-09</span>
+								</span>
+            					<span class="hits">
+					Hits:					1315					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/610-is-this-true-of-your-son-minister-dizeani-allison-madueke" class="mostread-image">
+						<img src="/images/resized/images/deziani1_32_32.jpg" alt="Is this true of your son, Minister Dizeani Allison-Madueke?" title="Is this true of your son, Minister Dizeani Allison-Madueke?">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/610-is-this-true-of-your-son-minister-dizeani-allison-madueke" class="mostread">Is this true of your son, Minister Dizeani Allison-Madueke?</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-19</span>
+								</span>
+            					<span class="hits">
+					Hits:					1190					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/923-acclaimed-born-again-boko-haram-strategist-a-fraud-dokubo-asari" class="mostread-image">
+						<img src="/images/resized/images/mujahid dokubo-asari_32_32.jpg" alt="Acclaimed ‘born again’ Boko Haram strategist, a fraud – Dokubo-Asari" title="Acclaimed ‘born again’ Boko Haram strategist, a fraud – Dokubo-Asari">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/923-acclaimed-born-again-boko-haram-strategist-a-fraud-dokubo-asari" class="mostread">Acclaimed ‘born again’ Boko Haram strategist, a fraud – Dokubo-Asari</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-04</span>
+								</span>
+            					<span class="hits">
+					Hits:					1065					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/832-execute-al-mustapha-risk-attacks-on-judges-courts-boko-haram" class="mostread-image">
+						<img src="/images/resized/images/hamza al-mustapha_32_32.jpg" alt="Execute Al-Mustapha, risk attacks on judges, courts - Boko Haram" title="Execute Al-Mustapha, risk attacks on judges, courts - Boko Haram">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/832-execute-al-mustapha-risk-attacks-on-judges-courts-boko-haram" class="mostread">Execute Al-Mustapha, risk attacks on judges, courts - Boko Haram</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-31</span>
+								</span>
+            					<span class="hits">
+					Hits:					1028					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/1138-edo-pdp-governorship-aspirant-dragged-to-efcc-over-alleged-fraud" class="mostread-image">
+						<img src="/images/resized/images/efcc symbol_32_32.jpg" alt="Edo PDP governorship aspirant dragged to EFCC over alleged fraud" title="Edo PDP governorship aspirant dragged to EFCC over alleged fraud">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/1138-edo-pdp-governorship-aspirant-dragged-to-efcc-over-alleged-fraud" class="mostread">Edo PDP governorship aspirant dragged to EFCC over alleged fraud</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-02-15</span>
+								</span>
+            					<span class="hits">
+					Hits:					991					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/593-deployment-of-soldiers-musa-braithwaite-kalu-faseun-others-for-street-protest-tomorrow" class="mostread-image">
+						<img src="/images/resized/images/goodluck jonathan_32_32.jpg" alt="Deployment of soldiers: Musa, Braithwaite, Kalu, Faseun, others for street protest tomorrow" title="Deployment of soldiers: Musa, Braithwaite, Kalu, Faseun, others for street protest tomorrow">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/593-deployment-of-soldiers-musa-braithwaite-kalu-faseun-others-for-street-protest-tomorrow" class="mostread">Deployment of soldiers: Musa, Braithwaite, Kalu, Faseun, others for street protest tomorrow</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-18</span>
+								</span>
+            					<span class="hits">
+					Hits:					865					</span>
+				            	
+				</div>
+		</li>
+			<li class="clearfix">
+								<div class="box-left">
+													<a href="/home/news/541-jonathan-records-broadcast-as-labour-shuns-meeting" class="mostread-image">
+						<img src="/images/resized/images/goodluck jonathan_32_32.jpg" alt="Jonathan records broadcast as labour shuns meeting" title="Jonathan records broadcast as labour shuns meeting">					</a>
+								
+								</div>
+				<div style="padding-left:42px" class="box-right">
+				<a href="/home/news/541-jonathan-records-broadcast-as-labour-shuns-meeting" class="mostread">Jonathan records broadcast as labour shuns meeting</a>
+				<br>
+				
+					<span class="post-date">	
+										
+				
+									<span class="createdate">Post: 2012-01-15</span>
+								</span>
+            					<span class="hits">
+					Hits:					835					</span>
+				            	
+				</div>
+		</li>
+			</ul>
+</div><script type="text/javascript">
+  var Ja_direction = '';
+  var cookie_path = '/';
+  var cur_template_name = 'ja_teline_iv';
+  window.addEvent('load', function(){
+
+		   if(typeof(tmpl_name) =='undefined')
+		   {
+			  cookie_path = "ja_teline_iv_direction";
+		   }
+		   else
+		   {
+			  cookie_path = tmpl_name+"_direction";
+		   }
+		   Ja_direction = Cookie.read(cookie_path);
+		   if(!Ja_direction)
+		   {
+				cookie_path = cookie_path.replace("_direction","_profile");
+			   Ja_direction = Cookie.read(cookie_path);
+		   }
+		   var style_l_value = 'auto';
+		   if(Ja_direction == 'rtl')
+			{
+			  			//	var ul_wrapper = $('Mod119').getElement("ul.ja-bulletin");
+			//	ul_wrapper.getElements("li img").each();
+			}
+	});
+</script>
+<script type="text/javascript" language="javascript">
+ function setStyleLinkWithRTLDirection()
+ {
+    var links = document.getElementsByTagName ('link');
+		var script = document.createElement('link');
+	script.setAttribute('type', 'text/css');
+	script.setAttribute('rel', 'stylesheet');
+	script.setAttribute('href', 'http://theeagleonline.com.ng/modules/mod_jabulletin/assets/mod_jabuletin_rtl.css');
+	document.getElementsByTagName("head")[0].appendChild(script);
+ }
+</script>  </div>
+						 </div><div class="ja-tab-content">
+							<div class="ja-tab-subcontent"><div id="jac-lasmod146" class="jac-lasmod">	
+	<div class="ja-box-ct clearfix">
+	<ul class="jac-lasmod-main">		
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/politics/world-news/2652-acn-lp-supporters-clash-in-akure#jacommentid:223" title="ACN, LP supporters clash in Akure
+">										
+					ACN, LP supporters clash in Akure
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Biodun Akomolafe</span>				
+										<span class="jac-lasmod-time"><span class="small">17 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+Na wa o. Politicians and their tricks for relevanc...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/home/news/2654-dangote-construction-trucks-crush-38-polytechnic-students#jacommentid:222" title="Trucks crush 38 polytechnic students
+">										
+					Trucks crush 38 polytechnic students
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">John</span>				
+										<span class="jac-lasmod-time"><span class="small">18 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+What a great tragedy. Travelers should desist from...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/rd-health/2637-why-you-must-have-sex-everyday#jacommentid:221" title="Why you must have sex everyday
+">										
+					Why you must have sex everyday
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Babajide Moronfolu</span>				
+										<span class="jac-lasmod-time"><span class="small">32 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+This is a good news for all, but the article never...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/politics/world-news/2610-adefarati-s-lecture-tinubu-acn-are-hypocrites-ajulo#jacommentid:219" title="Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+">										
+					Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+(4)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Francis</span>				
+										<span class="jac-lasmod-time"><span class="small">44 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+U are one of d pple who cannot be decieved by BAT'...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/politics/world-news/2610-adefarati-s-lecture-tinubu-acn-are-hypocrites-ajulo#jacommentid:218" title="Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+">										
+					Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+(4)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Fash</span>				
+										<span class="jac-lasmod-time"><span class="small">45 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+Comrade ride on tell them the truth the blind ones...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/home/news/2629-salami-mtn-confirmation-of-call-logs-has-vindicated-us-says-oni#jacommentid:217" title="Salami: MTN confirmation of call logs has vindicat...
+">										
+					Salami: MTN confirmation of call logs has vindicat...
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">adebayo</span>				
+										<span class="jac-lasmod-time"><span class="small">46 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+The assumed last hope! Were do we go to again? If ...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/politics/world-news/2610-adefarati-s-lecture-tinubu-acn-are-hypocrites-ajulo#jacommentid:216" title="Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+">										
+					Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+(4)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Don</span>				
+										<span class="jac-lasmod-time"><span class="small">51 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+How can a comment or text by Kayode Ajulo be made ...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/home/news/2613-nigerian-compass-to-staff-no-adverts-no-salary#jacommentid:215" title="Nigerian Compass to staff: No adverts, no salary
+">										
+					Nigerian Compass to staff: No adverts, no salary
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">ayomide</span>				
+										<span class="jac-lasmod-time"><span class="small">59 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+This not a true story pls always learn to post gen...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/home/news/2552-as-ibori-is-sentenced-his-kinsmen-thank-uk-media-for-not-compromising#jacommentid:213" title="As Ibori is sentenced, his kinsmen thank UK, media...
+">										
+					As Ibori is sentenced, his kinsmen thank UK, media...
+(1)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Cannonball</span>				
+										<span class="jac-lasmod-time"><span class="small">61 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+Wow!Fantastic outcome! God bless Nigeria and bring...
+</p>
+				</div>
+																						
+		</li>	
+				<li class="jac-has-layout clearfix">
+									
+				<img alt="" src="http://theeagleonline.com.ng/components/com_jacomment/asset/images/avatar-large.png" style="height:32px; width:32px;">				
+										<h4 class="jac-lasmod-title">
+					<a href="/politics/world-news/2610-adefarati-s-lecture-tinubu-acn-are-hypocrites-ajulo#jacommentid:212" title="Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+">										
+					Adefarati's lecture: Tinubu, ACN are hypocrites - ...
+(4)					</a>
+				</h4>				
+										<span class="jac-lasmod-author">Kola</span>				
+										<span class="jac-lasmod-time"><span class="small">61 Hours AGO</span></span>				
+										<div class="jac-mod_content clearfix">
+					<p>
+No matter what the situation is agent of destructi...
+</p>
+				</div>
+																						
+		</li>	
+						
+	</ul>	
+	</div>
+</div>				
+  </div>
+						 </div></div>	</div>
+				</div><script type="text/javascript" charset="utf-8">
+					window.addEvent("load", function(){
+						new JATabs("myTab-626917375", {animType:'animNone',style:'teline_iv',position:'top',width:'100%',height:'auto',mouseType:'click',duration:1000,colors:10,skipAnim:false,jaclass:'',maxitems:0,useAjax:false,numbertabs:3,ids:'118,119,146', siteroot:'http://theeagleonline.com.ng/', numbtab: 0});
+					});
+			     </script></div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod152">
+						<h3><span>Poll</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<div class="poll" style="border:none; padding:1px;">
+
+    <h4>Should President Goodluck Jonathan seek a fresh mandate of seven years in 2015?</h4>
+
+<div id="polldiv_5">
+
+<form action="/component/content/" method="post" name="poll_vote_5" id="poll_vote_5">
+	<label for="mod_voteid13" class="sectiontableentry2" style="display:block; padding:2px;">
+		<input type="radio" name="voteid" id="mod_voteid13" value="13" alt="13">
+			Yes	</label>
+		<label for="mod_voteid14" class="sectiontableentry1" style="display:block; padding:2px;">
+		<input type="radio" name="voteid" id="mod_voteid14" value="14" alt="14">
+			Absolute No	</label>
+		<label for="mod_voteid15" class="sectiontableentry2" style="display:block; padding:2px;">
+		<input type="radio" name="voteid" id="mod_voteid15" value="15" alt="15">
+			I really don't care	</label>
+	<div id="mod_poll_messages_5" style="margin:5px;"> </div>	<div style="padding:2px;" id="poll_buttons_5">	
+	<input type="submit" id="submit_vote_5" name="task_button" class="button" value="Vote">
+	</div>	
+	<div id="poll_loading_5" style="display:none;">Processing....	</div>		
+
+	<input type="hidden" name="option" value="com_acepolls">
+	<input type="hidden" name="id" value="5">
+	    <input type="hidden" name="format" value="raw">
+    <input type="hidden" name="view" value="poll">
+	<div><input type="hidden" name="b1f1fd065cda4713cf1ea82726a61ae0" value="1"></div></form>
+
+
+<!-- End of #polldiv -->
+</div>
+<div id="poll_links" style="padding-top:5px; ">
+
+		<a class="poll_result_link" href="/component/acepolls/poll/5-should-president-goodluck-jonathan-seek-a-fresh-term-on-seven-years-in-2015">View details</a><br>
+		
+	
+</div>
+</div>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod164">
+						<div class="ja-box-ct clearfix">
+		
+
+
+<div class="joomla_sharethis">
+
+
+
+
+
+
+
+
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+
+
+
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 10,
+  interval: 2000,
+  width: 335,
+  height: 250,
+  theme: {
+    shell: {
+      background: '#cc0000',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#330000',
+      links: '#cc0000'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'default'
+  }
+}).render().setUser('DEagleOnline').start();
+</script>
+
+<!-- Joomla Twitter Show END -->
+</div>
+<div align="right" style="color:#999;margin-bottom:3px;font-size:9px">By <a target="_blank" class="external" title="bellevue dui lawyer" href="http://www.jasonduilaw.com"><span style="color:#999;margin-bottom:3px;font-size:9px">bellevue dui lawyer</span></a></div>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod140">
+						<div class="ja-box-ct clearfix">
+		<iframe src="http://www.facebook.com/plugins/likebox.php?id=245777418823519&amp;width=340&amp;height=260&amp;connections=10&amp;stream=false&amp;header=false&amp;colorscheme=light&amp;border_color=&amp;" scrolling="no" frameborder="0" style="
+		overflow:hidden;
+		width:340px;
+		height:260px; allowTransparency: true;"></iframe>		</div>
+    </div>
+	            </div>
+            
+                        <div class="ja-colswrap clearfix ja-r2">
+                                <div id="ja-right1" class="ja-col ja-right1 column" style="width:50%">
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod156">
+						<h3><span>Stay Connected</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom">
+	<p><a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/tDzN2G/download/index.htm" target="_blank"><img src="http://www.alexa.com/images/tbplatform/promotebuttons/blue/TB-banner1-2.jpg" border="0" alt="Get our toolbar!"></a></p></div>
+		</div>
+    </div>
+	                </div>
+                
+                                <div id="ja-right2" class="ja-col ja-right2 column" style="width:50%">
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod39">
+						<h3><span>Who's Online</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+			<p>We have 40&nbsp;guests and no members online</p>
+
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod158">
+						<h3><span>Newsletter</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="acymailing_module" id="acymailing_module_formAcymailing1">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing1">
+		<form id="formAcymailing1" action="/component/content/" onsubmit="return submitacymailingform('optin','formAcymailing1')" method="post" name="formAcymailing1">
+		<div class="acymailing_module_form">
+			<span class="acymailing_introtext">Subscribe to our Newsletters</span>						<table class="acymailing_form">
+				<tbody><tr>
+												<td class="acyfield_name">
+							<input id="user_name_formAcymailing1" size="15" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name">							</td></tr><tr>							<td class="acyfield_email">
+							<input id="user_email_formAcymailing1" size="15" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox" name="user[email]" value="E-mail">							</td></tr><tr>					<td class="acysubbuttons">
+												<input class="button subbutton" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing1'); }catch(err){alert('The form could not be submitted '+err);return false;}">
+											</td>
+				</tr>
+			</tbody></table>
+						<input type="hidden" name="ajax" value="0">
+			<input type="hidden" name="ctrl" value="sub">
+			<input type="hidden" name="task" value="notask">
+			<input type="hidden" name="redirect" value="%2Fcomponent%2Facymailing%2Flists">
+			<input type="hidden" name="redirectunsub" value="%2Fcomponent%2Facymailing%2Flists">
+			<input type="hidden" name="option" value="com_acymailing">
+						<input type="hidden" name="hiddenlists" value="4,3,2">
+			<input type="hidden" name="acyformname" value="formAcymailing1">
+									</div>
+		</form>
+	</div>
+	</div>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod168">
+						<div class="ja-box-ct clearfix">
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0489054010937773";
+/* Right2 */
+google_ad_slot = "7455322657";
+google_ad_width = 180;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+    </div>
+		<div class="ja-moduletable moduletable_menu  clearfix" id="Mod19">
+						<h3><span>User Menu</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-201"><a href="/your-profile">Your Profile</a></li><li class="item-678"><a href="/modify-newsletter-subscription">Modify Newsletter Subscription</a></li><li class="item-679 deeper parent"><a href="/newsletter-archive">Newsletter Archive</a><ul><li class="item-681"><a href="/newsletter-archive/morning-newsletter">Morning Newsletter</a></li><li class="item-682"><a href="/newsletter-archive/evening-newsletter">Evening Newsletter</a></li><li class="item-683"><a href="/newsletter-archive/breaking-news">Breaking News</a></li></ul></li></ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod141">
+						<h3><span>Login Form</span></h3>
+				<div class="ja-box-ct clearfix">
+		<form action="/component/content/" method="post" id="login-form">
+		<fieldset class="userdata">
+	<p id="form-login-username">
+		<label for="modlgn-username">User Name</label>
+		<input id="modlgn-username" type="text" name="username" class="inputbox" size="18">
+	</p>
+	<p id="form-login-password">
+		<label for="modlgn-passwd">Password</label>
+		<input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18">
+	</p>
+		<p id="form-login-remember">
+		<label for="modlgn-remember">Remember Me</label>
+		<input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">
+	</p>
+		<p id="form-login-submit">
+        <input type="submit" name="Submit" class="button" value="Log in">
+    </p>
+	<input type="hidden" name="option" value="com_users">
+	<input type="hidden" name="task" value="user.login">
+	<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD00OTA=">
+	<input type="hidden" name="b1f1fd065cda4713cf1ea82726a61ae0" value="1">	</fieldset>
+	<ul>
+		<li>
+			<a href="/your-profile?view=reset">
+			Forgot your password?</a>
+		</li>
+		<li>
+			<a href="/your-profile?view=remind">
+			Forgot your username?</a>
+		</li>
+				<li>
+			<a href="/your-profile?view=registration">
+				Create an account</a>
+		</li>
+			</ul>
+	</form>
+		</div>
+    </div>
+	                </div>
+                            </div>
+                                </div>
+        <!-- //RIGHT COLUMN-->
+                            </div>
+                            </div>
+                </div>
+        <!-- //MAIN CONTAINER -->
+
+                <div id="ja-footer" class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <div id="ja-footlogo">
+		<a href="/index.php" title="The Eagle Online"><span>The Eagle Online</span></a>
+	</div>
+
+		<div class="ja-footnav">
+		
+<ul class="menu">
+<li class="item-490 current parent"><a href="/">Home</a></li><li class="item-583 parent"><a href="/politics">Politics</a></li><li class="item-571 parent"><a href="/business">Business</a></li><li class="item-561 parent"><a href="/arts-and-entertainment2132">Arts and Entertainment</a></li><li class="item-551"><a href="/rd-health">R&amp;D/Health</a></li><li class="item-541"><a href="/life">Life</a></li><li class="item-534"><a href="/editorial">Editorial</a></li><li class="item-524 parent"><a href="/worship">Worship</a></li><li class="item-514"><a href="/sport">Sports</a></li><li class="item-617"><a href="/column">Columns</a></li><li class="item-618"><a href="/humour">Humour</a></li><li class="item-619"><a href="/advert-placing">Ads</a></li></ul>
+
+				<ul class="ja-links">
+						<li class="top"><a href="#Top" title="Back to Top">Top</a></li>
+		</ul>
+		
+		<ul class="no-display">
+			<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+		</ul>
+	</div>
+		<center>
+	<div class="ja-copyright">
+		The Eagle Online is published by Premium Eagle Media Limited. 1, Unity Street Ikeja Lagos | Box 12341, Ikeja Box Office, Post Code: 100271 Email: info@theeagleonline.com.ng, dotunoladipo@theeagleonline.com.ng Phone: 08055206136 08023145962, 08094000057 | BB PIN: 290136E0<br><br> <a href="http://theeagleonline.com.ng/component/content/article/9-uncategorised/1697-privacy-policy">Privacy Policy</a><br><br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0489054010937773";
+/* footer */
+google_ad_slot = "2541944540";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</center>                </div>
+                            </div>
+                        </div>
+            
+</div>
+
+
+
+
+
+</body></html>
