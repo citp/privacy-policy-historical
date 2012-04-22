@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214011555id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriairport.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422154548id_/http%3A//www.victoriairport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Victoria Airport - Airport Tickets & Guides Online
 
@@ -35,8 +35,6 @@ The distinctive textures and rich appearance of many of today's roofing and sidi
 [property in Cyprus](http://www.cyprus101.com/)
 
 [Wayne Lineker](http://sunsetbar.co.uk/page22.htm)
-
-[Orange County restaurant ratings](http://www.occhow.com/)
 
 [Dog Food](http://www.dodsonandhorrellpetfood.co.uk/)
 
