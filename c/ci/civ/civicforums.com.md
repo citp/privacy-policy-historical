@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civicforums.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223024545id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DCivicForums.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicforums.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422053154id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DCivicForums.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
