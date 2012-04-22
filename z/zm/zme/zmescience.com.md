@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405185850id_/http%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422032029id_/http%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ZME Science
+# Privacy Policy
 
 This privacy policy sets out how ZME Science uses and protects any information that you give ZME Science when you use this website.
 
@@ -29,6 +29,8 @@ We require this information to understand your needs and provide you with a bett
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [www.networkadvertising.org](http://networkadvertising.org/).
 
 ### Security
 
