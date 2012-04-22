@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228223345id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2012-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120422114857id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
 
 [ ](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.foopets.com)
 
-Updated April 19, 2011
+Updated March 22, 2012
 
 We're excited about your interest in FooPets, and that you've chosen to adopt one of the world's cutest and most realistic, interactive 3D pets! On FooPets, children (and people of all ages) learn responsible pet care as they feed, pet, water and play with their puppy or kitten daily, in a safe online environment. 
 
-FooPets welcomes parents, guardians, teachers and other adults participating in their children's online activities. Foopets.com is owned and operated by Rivet Games, Inc. located at with offices at 625 2nd St, Suite 104, San Francisco, California 94107, USA. On this site, children can participate in a virtual online environment and adopt and take care of a virtual pet. Children are given the opportunity to adopt a pet from one of several breeds of dogs and cats, and then care for it daily by logging into FooPets.com from a computer or m.foopets.com from a mobile device. Every pet's scene or room can be customized with backgrounds, toys and accessories, some of these can be earned by logging into FooPets.com frequently. 
+FooPets welcomes parents, guardians, teachers and other adults participating in their children's online activities. Foopets.com is owned and operated by Startapult, Inc. with offices at 1630 Riviera Ave, Walnut Creek, CA, USA. On this site, children can participate in a virtual online environment and adopt and take care of a virtual pet. Children are given the opportunity to adopt a pet from one of several breeds of dogs and cats, and then care for it daily by logging into FooPets.com from a computer or m.foopets.com from a mobile device. Every pet's scene or room can be customized with backgrounds, toys and accessories, some of these can be earned by logging into FooPets.com frequently. 
 
 For children under 13, FooPets offers a limited feature set and web site experience. For these younger children, a number of social features are disabled including chat, messaging, posting to forums, profile descriptions, profile photo uploading, pet descriptions and sending and reading messages with gifts. Some advanced features like owning multiple pets, buying Breeding Licenses, and breeding pets are disabled. Additionally, FooDollars, the virtual currency within the FooPets community, which holds monetary value, cannot be earned or purchased (until child is a member of ClubFoo). In order to gain access to ALL of these communication and commerce features, parental consent is required via a parent or guardian approved child membership to ClubFoo, a premium membership club. ClubFoo members have access to a complete set of FooPets features. 
 
-In this policy we describe what information we collect, how we collect it, and what we do with it (the policy covers only information collected and used on FooPets.com and FooPets applications on social networks such as Facebook and MySpace). Rivet Games makes every effort to comply with the Children's Online Privacy Protection Act, (COPPA) a U.S. law that governs the use and collection of information online from children under 13. To learn more about COPPA, and about how to protect your children online, please visit http://www.ftc.gov/privacy/coppafaqs.shtm for information from the U.S. Federal Trade Commission, as well as http://www.onguardonline.gov/socialnetworking_youth.html. 
+In this policy we describe what information we collect, how we collect it, and what we do with it (the policy covers only information collected and used on FooPets.com and FooPets applications on social networks such as Facebook and MySpace). FooPets makes every effort to comply with the Children's Online Privacy Protection Act, (COPPA) a U.S. law that governs the use and collection of information online from children under 13. To learn more about COPPA, and about how to protect your children online, please visit http://www.ftc.gov/privacy/coppafaqs.shtm for information from the U.S. Federal Trade Commission, as well as http://www.onguardonline.gov/socialnetworking_youth.html. 
 
-This Privacy Policy (this "Policy") explains how personal information is safely handled by www.FooPets.com and all other Rivet Games, Inc. web sites, applications and portals. FooPets.com provides a fun and safe virtual experience for everyone. 
+This Privacy Policy (this "Policy") explains how personal information is safely handled by FooPets.com and all other Startapult, Inc. web sites, applications and portals. FooPets.com provides a fun and safe virtual experience for everyone. 
 
-Rivet Games, Inc. is a licensee of the TRUSTe Children's Online Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.foopets.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Startapult, Inc. is a licensee of the TRUSTe Children's Online Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.foopets.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact a FooPets Support Representative at support@foopets.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -91,9 +91,9 @@ We may also use Cookies. Cookies are small text files that we place in visitors'
 
 Third parties that we link to from our site may use cookies but we are not responsible and/or liable for the use of cookies by such third parties and they are not covered by our privacy policy. 
 
-Lastly, we collect financial or payment information used for no other purpose than processing payments to Rivet Games, Inc. The financial information entered to acquire a membership is not stored by Rivet Games, but is instead retained by our payments processing vendor Cybersource specifically to securely manage credit card payments made to Rivet Games, Inc. 
+Lastly, we collect financial or payment information used for no other purpose than processing payments to Startapult, Inc. The financial information entered to acquire a membership is not stored by Startapult, but is instead retained by our payments processing vendor Cybersource specifically to securely manage credit card payments made to Startapult, Inc. 
 
-If personal information is not provided but necessary to create an account, then Rivet Games, Inc. may not agree to membership and may not be able to provide access to certain areas and functionality on the FooPet website(s), application(s), or portal(s) or provide information, products, or services that may be requested. 
+If personal information is not provided but necessary to create an account, then Startapult, Inc. may not agree to membership and may not be able to provide access to certain areas and functionality on the FooPet website(s), application(s), or portal(s) or provide information, products, or services that may be requested. 
 
 In case of a merger or business transfer, a sale or transfer of our assets, or if we sell all or part of our business, we may transfer personal information to a third party as part of that business transaction to the extent permitted by law. 
 
@@ -103,9 +103,9 @@ All personal information is processed fairly and lawfully. We ask for consent be
 
 ### What We Don't Do
 
-We know how intrusive it is to get spam, unsolicited phone calls, and 'junk' mail. This is why we will not contact you unless you specifically request to be contacted. The log in area is designed to provide visitors with FooPet and company information that requires email verification and proper internal approval within Rivet Games. We do not share, rent, or sell this information with any person, business, or organization. 
+We know how intrusive it is to get spam, unsolicited phone calls, and 'junk' mail. This is why we will not contact you unless you specifically request to be contacted. The log in area is designed to provide visitors with FooPet and company information that requires email verification and proper internal approval within Startapult, Inc.. We do not share, rent, or sell this information with any person, business, or organization. 
 
-Other areas of our website, specifically our applications, enable visitors to experience the fun, convenience, and excitement of FooPets. Information entered in these sections will not be permanently stored and/or used, nor will it be exposed or exploited through Rivet Games or any third party affiliate or otherwise. This information will not be shared, sold, or rented to any person, business organization. If you have any questions about our email policies, please feel free to contact us at contact@foopets.com. 
+Other areas of our website, specifically our applications, enable visitors to experience the fun, convenience, and excitement of FooPets. Information entered in these sections will not be permanently stored and/or used, nor will it be exposed or exploited through FooPets or any third party affiliate or otherwise. This information will not be shared, sold, or rented to any person, business organization. If you have any questions about our email policies, please feel free to contact us at contact@foopets.com. 
 
 ### Sharing of Personal Information
 
@@ -133,17 +133,17 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have further questions and comments on privacy please contact us at:
 
-Rivet Games, Inc.   
-625 2nd St, Suite 104  
-San Francisco, CA 94107  
+Startapult, Inc.   
+1630 Riviera Ave  
+Walnut Creek, CA 94596  
 USA 
 
 Support: 
 
 email: support@foopets.com 
 
-phone: +1.415.625.0032 
+phone: +1.650.479.5907 
 
-#### ©2011 Rivet Games, Inc. All rights reserved.
+#### ©2012 Startapult, Inc. All rights reserved.
 
 Top
