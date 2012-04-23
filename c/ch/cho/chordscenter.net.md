@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chordscenter.net privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226111225id_/http%3A//www.chordscenter.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chordscenter.net privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423031218id_/http%3A//www.chordscenter.net/static/privacy) for the most accurate reproduction.*
 
 # Pravicy Policy - ChordsCenter
 
