@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starblogger.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233300id_/http%3A//starblogger.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starblogger.net privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423105421id_/http%3A//starblogger.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
