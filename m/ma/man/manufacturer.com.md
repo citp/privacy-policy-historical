@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112003815id_/http%3A//www.manufacturer.com/company-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manufacturer.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423222235id_/http%3A//www.manufacturer.com/company-info/privacy-policy.html) for the most accurate reproduction.*
 
 # Manufacturer.com | About Us - Privacy Policy
 
