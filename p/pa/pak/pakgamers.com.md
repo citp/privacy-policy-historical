@@ -1,46 +1,91 @@
-> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028104215id_/http%3A//www.pakgamers.com/forums/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423093715id_/http%3A//www.pakgamers.com/privacy-policy) for the most accurate reproduction.*
 
-# Pakistan's Gamers Community - Privacy
+# PakGamers - Privacy Policy
 
-  
+Your privacy is important to PAKGAMERS. This privacy statement provides information about the personal information that PAKGAMERS collects, and the ways in which PAKGAMERS uses that personal information.
 
+**1) What information do we collect?**  
+PakGamers may collect, store and use the following kinds of personal information:
 
-This is the web site of **eMax Media Network**.
+(a) [information about your computer and about your visits to and use of this website (including [your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation, screen resolution and demographics]);]  
+(b) [information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [PG Store & Marketplace Premium Susbcription]);]  
+(c) [information that you provide to us for the purpose of registering with us (including [age, location, time zone, country, email address, date of birth]);]  
+(d) [information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including [email address and age, NIC copy for premium seller verification]);]  
+(e) [any other information that you send to PAKGAMERS.]
 
-We can be reached via e-mail at bilal -at- pakgamers.com  
-or you can reach us by telephone at 0333-2194745
+**2) Using your personal information**  
+Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
-**PAKGAMERS.COM** is a website dedicated to covering the latest happenings in video games industry and video gaming technology. PakGamers was created with the vision of bringing to Pakistan a place where video gaming enthusiasts can talk about games and meet other gamers. We are a community dedicated to Pakistani gamers in all over the world, where they can share their views, ideas, interact with other gamers, post/read gaming news, reviews, previews, cheats, find their match for LAN gaming, introduce their clans and more! Developed and Managed by eMaxMedia Network (Muhammad Bilal aka iNF3RN0), delivering new and ever changing content and functional resources is key to the services we want to provide to our audience.
+We may use your personal information to:
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+(a) administer the website  
+(b) improve your browsing experience by personalising the website  
+(c) enable your use of the services available on the website  
+(d) send to you goods or supply to you services purchased via the website  
+(e) send invoices to you, and collect payments from you (PG Store & Marketplace Premium Subscription)  
+(f) send you general (non-marketing) commercial communications  
+(g) send you email notifications which you have specifically requested  
+(h) send to you [our newsletter and other marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)  
+(i) provide third parties with statistical information about our users - but this information will not be used to identify any individual user  
+(j) deal with enquiries and complaints made by or about you relating to the website
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address, telephone number.
+Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+All our website financial transactions are handled through our payment services provider, PayPal, Alertpay and Bank Al-Habib. You can review the their privacy policy at their respective websites. We will share information with our payment service providers only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+**3) Cookies**  
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+We  use both "session" cookies [and "persistent" cookies on the website. We use the session cookies to: keep track of you whilst you navigate the website and we use the persistent cookies to: enable our website to recognise you when you re-visit.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Session cookies will be deleted from your computer when you close your browser, While Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
-<http://www.google.com/privacy.html>
+Our advertisers & payment services providers may also send you cookies.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one].]
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+**4) Disclosures**  
+We may disclose information about you to our top level management at Avid Media Network and law enforcement agencies ONLY in case of any complaint againt you which require the help of law enforcement agency insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them 
+In addition, we may disclose your personal information:
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+(a) to the extent that we are required to do so by law  
+(b) in connection with any legal proceedings or prospective legal proceedings  
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk)  
+(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and  
+(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Except as provided in this privacy policy, we will never provide your information to third parties.
 
-All times are GMT +6. The time now is 04:26 PM.
+**5) Cross-border data transfers**  
+Information that PAKGAMERS collects may be stored and processed in and transferred between any of the countries in which PAKGAMERS operates to enable the use of the information in accordance with this privacy policy.
 
-|   
----|---
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
+
+You agree to such cross-border transfers of personal information.
+
+**6) Security of your personal information**  
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
+
+Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+
+**7) Your rights**  
+You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
+
+**8 ) Third party websites**  
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+**9) Updating information**  
+Please let us know if the personal information which we hold about you needs to be corrected or updated.
+
+**10) Policy amendments**  
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
+
+**11) Contact**  
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to ( info at avidmedia.co ).
