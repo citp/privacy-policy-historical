@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedbank.com privacy policy that was archived on 2011-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110801211213id_/http%3A//www.classifiedbank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedbank.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423220248id_/http%3A//www.classifiedbank.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
