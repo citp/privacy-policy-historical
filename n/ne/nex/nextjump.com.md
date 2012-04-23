@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224613id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423045743id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Next Jump
 
 Next Jump Privacy Policy
 
-(Last Updated on 8/10/2006)
+(Last Updated on 1/4/2012)
 
 We are committed to protecting your privacy. At no time will we trade, sell, or distribute for free company specific or personal information, including email addresses or other user IDs, to any individual, company, vendor or organization, in ways other than disclosed in this privacy statement. 
 
-Next Jump Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site(s) www.nextjump.com, www.corporateperks.com and private label sub-domains delivered by Next Jump Inc., (i.e. uk.corporateperks.com, etc.). Because Next Jump Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, please [contact us](mailto:info@nextjump.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php . TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, please [contact us](mailto:info@nextjump.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact the Better Business Bureau [http://www.BBB.org](http://www.bbb.org/). The Better Business Bureau will then serve as a liaison with us to resolve your concerns. 
 
 Next Jump Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
