@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuallove.ie privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121173410id_/http%3A//virtuallove.ie/advice.php%3Fsel%3Dlist_item%26id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuallove.ie privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423080226id_/http%3A//virtuallove.ie/advice.php%3Fsel%3Dlist_item%26id%3D5) for the most accurate reproduction.*
 
 # VirtualLove.ie find your match today!
 
