@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229001839id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423164245id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Swiftpage
 
@@ -9,7 +9,7 @@ any of the information collected from patrons of our service for profit or any o
 a detailed description of our practices, read our privacy policy below.
 
 **Swiftpage Contact Information**   
-You can contact Swiftpage by calling 303.978.1000 or by emailing [support@swiftpage.com](mailto:support@swiftpage.com).    
+You can contact Swiftpage by calling 303.978.1000 or by emailing [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com).    
 Additional Swiftpage contact information can be found at <http://www.swiftpage.com/contact.htm>.  
 
 Swiftpage Physical Address:  
@@ -19,7 +19,7 @@ Englewood, CO 80112
 
 **Customer Information**
 
-Swiftpage collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of Swiftpage and used for billing accounts, new product and svervice notification, and customer support. Swiftpage does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential.  If you receive email through the Swiftpage system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.  To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (Swiftpage is not the list origin).  If you receive an email directly from Swiftpage (i.e. you are a current or past customer) and wish to have your name removed from our list, please reply to us at [support@swiftpage.com](mailto:support@swiftpage.com) with your request and we will be happy to honor it.
+Swiftpage collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of Swiftpage and used for billing accounts, new product and svervice notification, and customer support. Swiftpage does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential.  If you receive email through the Swiftpage system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.  To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (Swiftpage is not the list origin).  If you receive an email directly from Swiftpage (i.e. you are a current or past customer) and wish to have your name removed from our list, please reply to us at [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) with your request and we will be happy to honor it.
 
 Personally identifiable information can be disclosed to government agencies subject to warrants, subpoenas, and other governmental orders.  
 In addition, personally identifiable information submitted by you in public forums on this site and via email campaign (view as a web page link) will be visible and displayed publicly.
@@ -32,7 +32,7 @@ Swiftpage keeps customer information for at least the duration that the account 
 
 **Commitment to Safe Harbor**
 
-In accordance with our commitment to protect personal privacy, Swiftpage adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute the Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>
+In accordance with our commitment to protect personal privacy, Swiftpage adheres to the U.S.-EU Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission, as well as the U.S.-Swiss Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland.  The U.S.-EU and U.S.-Swiss Safe Harbor Frameworks comprise seven privacy principles and fifteen Frequently Asked Questions (FAQs) that are referred to in this policy. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>.  To view Swiftpage’s certification, please visit <https://safeharbor.export.gov/list.aspx>. 
 
 **Software**
 
@@ -58,8 +58,8 @@ You may also want to read our [No Spam Policy](http://www.swiftpage.com/SpamPoli
 
 **Privacy Policy**
 
-Changes to the Swiftpage privacy policy will always be available at <http://www.swiftpage.com/privacypolicy.htm> and can be viewed at any time.  Questions relating to this policy can be sent to [support@swiftpage.com](mailto:support@swiftpage.com) or you can call 303.978.1000.
+Changes to the Swiftpage privacy policy will always be available at <http://www.swiftpage.com/privacypolicy.htm> and can be viewed at any time.  Questions relating to this policy can be sent to [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) or you can call 303.978.1000.
 
 **Privacy Policy Effective Date**
 
-The current privacy policy is effective 3/22/2011. 
+The current privacy policy is effective 3/7/2012. 
