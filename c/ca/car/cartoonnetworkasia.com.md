@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202173748id_/http%3A//www.cartoonnetworkasia.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetworkasia.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423070615id_/http%3A//www.cartoonnetworkasia.com/parents/privacy.php) for the most accurate reproduction.*
 
-# Cartoon Network South East Asia | free online games & videos
+# Cartoon Network South East Asia | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
 Turner Broadcasting System Asia Pacific, Inc. is fully committed to providing fun, entertaining and safe web sites for people of all ages. We want our audience to feel comfortable exploring the contents offered on this website and among websites owned and operated by Turner Broadcasting System Asia Pacific, Inc. or its affiliates in the Asia Pacific, which as at the date of this Privacy Policy includes [_www.cartoonnetwork.com.au_](http://www.cartoonnetwork.com.au/) , [_www.cartoonnetworkindia.com_](http://www.cartoonnetworkindia.com/) , [_www.cartoonnetwork.co.nz_](http://www.cartoonnetwork.co.nz/) , [_www.cartoonnetwork.co.th_](http://www.cartoonnetwork.co.th/) , [_www.cartoonnetwork.com.vn_](http://www.cartoonnetwork.com.vn/) , [_www.cartoonnetwork.com.tw_](http://www.cartoonnetwork.com.tw/) , [_www.cartoonnetworkasia.com_](http://www.cartoonnetworkasia.com/) , [_www.cartoonnetworkshop.com.au_](http://www.cartoonnetworkshop.com.au/) , [_www.gwen10.com_](http://www.gwen10.com/) , [_www.toonfootball.com_](http://www.toonfootball.com/) , [_www.tooncreator.cartoonnetwork.hq.com_](http://www.tooncreator.cartoonnetwork.hq.com/) , [_www.ben10.net_](http://www.ben10.net/) , [_www.boomerangtv.com.au_](http://www.boomerangtv.com.au/) , [_www.pogo.tv_](http://www.pogo.tv/) , [_www.fusionfall.asia_](http://www.fusionfall.asia/) , [_www.tomandjerryworld.com_](http://www.tomandjerryworld.com/) , [_www.toonbasketball.com_](http://www.toonbasketball.com/) , or amended from time to time (collectively, the "Sites"). 
 
@@ -76,7 +76,7 @@ As we have taken special precautions to aid in the safety of your child's World 
 
 If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please contact us at the following e-mail address, mailing address and telephone number: 
 
-Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20111202173748id_/http%3A//www.cartoonnetworkasia.com/parents/privacyasiapac@turner.com)   
+Email: [_privacyasiapac@turner.com_](https://web.archive.org/web/20120423070615id_/http%3A//www.cartoonnetworkasia.com/parents/privacyasiapac@turner.com)   
 Mailing Address: Turner Privacy Officer   
 Turner Broadcasting System Asia Pacific, Inc.   
 30/F Oxford House, Taikoo Place, 979 King's Road,   
