@@ -1,38 +1,55 @@
-> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2011-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110910131206id_/http%3A//www.bidhere.com/Page/262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidhere.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423091752id_/http%3A//www.bidhere.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Online auctions - Bid Here!
+# Privacy – BidHere
 
-  
+Buy Now Shop is Coming Soon! 
 
+Close X 
 
-What information do we collect? 
+Soon you will be able to buy products directly through BidHere's Buy Now Shop with cash or loyalty points that you have earned. 
+
+Ok 
+
+Marketplace is Coming Soon! 
+
+Close X 
+
+Ok 
+
+## Online auctions
+
+Close Login 
+
+Login Here 
+
+What information do we collect?
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or Participate in a Auction.
 
-Any data we request that is not required will be specified as voluntary or optional. 
+Any data we request that is not required will be specified as voluntary or optional.
 
-When ordering or registering on our [auction site](http://www.bidhere.com/), as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+When ordering or registering on our [auction site](http://www.bidhere.com/) as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-What do we use your information for? 
+What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-> **To personalize your experience**  
->  (your information helps us to better respond to your individual needs)
+> **To personalize your experience**   
+>  (your information helps us to better respond to your individual needs) 
 > 
-> **To improve our website**  
->  (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+> **To improve our website**   
+>  (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 > 
-> **To improve customer service**  
->  (your information helps us to more effectively respond to your customer service requests and support needs)
+> **To improve customer service**   
+>  (your information helps us to more effectively respond to your customer service requests and support needs) 
 > 
-> **To process transactions**  
+> **To process transactions**   
 >  Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 > 
-> **To send periodic emails**  
->  The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
+> **To send periodic emails**   
+>  The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request. 
 
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
@@ -98,10 +115,21 @@ Contacting Us 
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-BidHere.com Inc.  
-1120 Ave. of the Americas  
-New York, NY 10036  
-info@bidhere.com 
+BidHere.com 
+
+1120 Ave of the Americas
+
+New York
+
+NY 10034
+
+USA
+
++1.917.267.7472
+
+EIN: 27-3530607
+
+info@bidhere.com
 
 Privacy Policy Customer Pledge
 
@@ -118,5 +146,3 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/). 
 
 BidHere Team
-
- 
