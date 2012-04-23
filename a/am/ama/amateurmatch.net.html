@@ -1,0 +1,1548 @@
+<!--The following is the downloaded HTML source of the amateurmatch.net privacy policy that was archived on 2012-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120423081514id_/http%3A//amateurmatch.net/legal.php%3Fdoc%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+        
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+var pu_url = "";
+var awePuShown = true;
+
+
+//jfrench: Add this to an element's "onclick" to suppress popup for that click.
+//Use this for login prompts, TOS links, etc.
+function suppress_pop() {
+	if (!awePuShown) {
+		setTimeout(function() {
+			awePuShown = false;
+		},1000);
+	}
+	
+	awePuShown = true;
+}
+
+function aweDoOpen(url) {
+	if ( awePuShown === true ) return true;
+
+	//jfrench: Logic is slightly modified with respect to this
+	//awePuShown variable. Original version checks return value of
+	//window.open before setting awePuShown to true. Doing it this
+	//way appears to fix a duplicate popup bug in Firefox 3.6.6
+	awePuShown = true;
+
+	var aweWindow = window.open("about:blank", "ljPu","toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,height=780,width=1024");
+	
+	//This popunder code actually works in Firefox > 4.0.0!
+	//jfrench (10-11-2011)
+	if (aweWindow) {
+		aweWindow.blur();
+		
+		if (navigator.userAgent.toLowerCase().indexOf("applewebkit") > -1) {
+			window.blur();
+			window.focus();
+		}
+		
+		aweWindow.init = function (win) {
+			with (win) {
+				if (typeof window.mozPaintCount != "undefined") {
+					var x = window.open("about:blank");
+					x.close();
+				}
+
+				try { opener.window.focus(); }
+				catch (err) { }
+				
+				aweWindow.window.location = aweWindow.pop_url;
+			}
+		}
+		
+		aweWindow.pop_url = pu_url;
+		aweWindow.init(aweWindow);
+	}
+	
+	return aweWindow;
+}
+
+function aweSetCookie(name, value, time) {
+	var expires = new Date();
+
+	expires.setTime( expires.getTime() + time );
+	document.cookie = name + "=" + value + "; path=/; expires=" + expires.toGMTString() + "; path=/";
+}
+
+function aweGetCookie(name) {
+	//return null; //Uncomment this line to get a popunder with every pageload.
+	var cookies = document.cookie.toString().split('; ');
+	var cookie, c_name, c_value;
+
+	for (var n=0; n<cookies.length; n++) {
+		cookie  = cookies[n].split("=");
+		c_name  = cookie[0];
+		c_value = cookie[1];
+
+		if ( c_name == name ) return c_value;
+	}
+
+	return null;
+}
+
+function aweCheckTarget(e) {
+	//Check if this is a no_popunder link
+	if (!e) e = window.event;
+	var target;
+	if (e.srcElement) target = e.srcElement;
+	else target = e.target;
+	if (target.className.indexOf("no_popunder") >= 0) {
+		//Do nothing
+	}else{	
+		//Check the cookie
+		var cookieValue = aweGetCookie("popundr");
+
+		if ( cookieValue === null ) {
+			//jfrench: We only want to set this cookie if we're actually showing a popunder
+			if (!awePuShown) aweSetCookie("popundr", 1, 24*60*60*1000);
+			aweDoOpen(pu_url);
+		}
+	}
+}
+
+function aweInitPu() {
+	if ( document.attachEvent ) document.attachEvent( "onclick", aweCheckTarget );
+	else if ( document.addEventListener ) document.addEventListener( "click", aweCheckTarget, false );
+
+	return true;
+}
+
+aweInitPu();
+
+</script>
+        <title>AmateurMatch - Free Sex, Adult Dating, Sex Personals</title>
+        <meta name="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="pics-Label" content="">
+<meta name="description" content="The Sexiest Adult Dating Community for adult dating and sex personals. Browse millions of personals from singles, couples, swingers and naughty adults.">
+<meta name="keywords" content="AmateurMatch, Free Sex, Adult Dating, Sex Personals, Sex Dating Adult Personals, Sex Dating Site, Free Online Dating, Free Dating, Single Women">
+<meta name="verify-v1" content="">
+<meta name="RATING" content="">
+<meta name="robots" content="">
+<meta name="revisit-after" content="">
+<meta name="page-topic" content="">
+<meta name="google-site-verification" content="fAT0WtPaAjPoOY3X0vYaSVgINAv7i_lw4JeC_UrURWk">
+        <link rel="stylesheet" type="text/css" href="/css/432/6/main.72.css">
+
+<!--IE ONLY CSS-->
+<!--[if IE]>
+<style>
+
+    #things-to-do div.sb_item a, #things-to-do div.sb_item span {
+        position: relative;
+        top: 3px;
+    }
+
+    .feedback_box, #feedback_1 {
+        position: absolute;
+    }
+
+    img.box_head_img{
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+
+    td.mail_read_menu {
+        padding-right: 7px;
+    }
+
+#navigation ul#funsubmenu {
+  left: -164px;
+}
+
+</style>
+<![endif]-->
+    	                    
+        <script type="text/javascript" src="/js/prototype1.7.js"></script>
+        <script type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
+		<link rel="shortcut icon" href="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/favicon.gif" type="image/x-icon">
+                            <script type="text/javascript" src="/js/am3.feedback.js"></script>
+                			                            <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+            <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+            <script type="text/javascript">jQuery.noConflict();</script>
+            <link rel="stylesheet" href="/css/jquery/jquery-ui.css" type="text/css" media="all">
+			                
+				<script src="/js/jquery.briteverify.js"></script>
+		
+        
+<script type="text/javascript">
+Event.observe(window, 'load', function() { whitebox_stretchy() });  //Function to stretch whitebox to bottom align left content area with side bar.
+
+//=============================================================================
+function MM_preloadImages() { //v3.0
+    var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+    var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+    var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+        d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+    if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+    for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+    if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+    var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//=============================================================================
+ajax_lock = 0;
+ajax_lock_msg = "";
+
+//=============================================================================
+window.onbeforeunload = function (e) {
+  var e = e || window.event;
+
+  if (ajax_lock) {
+      // For IE and Firefox
+      if (e) {
+        e.returnValue = ajax_lock_msg;
+      }
+
+      // For Safari
+      return ajax_lock_msg;
+  }
+};
+
+//=============================================================================
+function set_ajax_lock(msg) {
+    ajax_lock = 1;
+    ajax_lock_msg = msg;
+}
+
+//=============================================================================
+function clear_ajax_lock() {
+    ajax_lock = 0;
+}
+
+//=============================================================================
+function check_select(selector) {
+    var elements = $$(selector);
+    for (var i = 0; i < elements.length; i++) {
+        elements[i].checked = true;
+    }
+    return elements.length;
+}
+
+//=============================================================================
+function uncheck_select(selector) {
+    var elements = $$(selector);
+    for (var i = 0; i < elements.length; i++) {
+        elements[i].checked = false;
+    }
+    return elements.length;
+}
+
+//=============================================================================
+function any_checked(selector) {
+    var elements = $$(selector);
+    for (var i = 0; i < elements.length; i++) {
+        if (elements[i].checked) return true;
+    }
+    return false;
+}
+
+//=============================================================================
+function jstabs_select(group, item) {
+    $$('.jstabs_' + group).each(
+        function(item) {
+            item.style.display = 'none';
+        }
+    );
+
+    $('jstabs_' + group + '_' + item).style.display = 'block';
+}
+
+//=============================================================================
+var DropDownMenu = Class.create();
+
+DropDownMenu.prototype = {
+    initialize: function(menuElement) {
+        menuElement.childElements().each(function(node){
+            var submenu = $A(node.getElementsByTagName("ul")).first();
+            if(submenu != null){
+                Element.extend(submenu).setStyle({display: 'none', visibility: 'visible'});
+
+                $A(node.getElementsBySelector('a')).first().addClassName('hasSubMenu');
+
+                node.onmouseover = function() {
+                    node.setStyle({backgroundColor: '#FDFDFD'});
+                    $A(node.select('a')).first().setStyle({color: '#000', textDecoration: 'underline'});
+                    Element.show(submenu);
+                }
+
+                node.onmouseout = function(){
+                    node.setStyle({backgroundColor: 'transparent'});
+                    $A(node.select('a')).first().setStyle({color: '', textDecoration: 'none'});
+                    Element.hide(submenu);
+                }
+            }else{
+                node.onmouseover = function() {
+                    $A(node.select('a')).first().setStyle({textDecoration: 'underline'});
+                }
+                node.onmouseout = function(){
+                    $A(node.select('a')).first().setStyle({textDecoration: 'none'});
+                }
+            }
+        });
+    }
+};
+
+
+//=============================================================================
+// list popups
+//=============================================================================
+function matchlistpop() { matchlist_win = window.open('/members/matchlist/','matchlist','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,copyhistory=no,scrollbars=no,width=170,height=390'); }
+
+
+//=============================================================================
+/* footer popups */
+//=============================================================================
+var popup_windows_params = 'toolbar=no,location=no,directories=no,status=yes,menubar=no,resizable=yes,copyhistory=no,scrollbars=yes,width=1024,height=480';
+
+function privacypopup() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=privacy', 'privacy', popup_windows_params);
+}
+
+function termspopup() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=terms', 'terms', popup_windows_params);
+}
+
+function termspopupCU(){
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=terms&cu=1#CupidTM', 'terms', popup_windows_params);
+}
+
+function termspopupCUFront(){
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=terms&cu=2#CupidTM', 'terms', popup_windows_params);
+}
+
+function contactpop() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=contact', 'contact', popup_windows_params);
+}
+
+function antispam() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=antispam', 'antispam', popup_windows_params);
+}
+
+function verifyphotospopup() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=verify_photos', 'verify_photos', popup_windows_params);
+}
+
+function zipcodepopup() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=zipcode','zipcode', popup_windows_params);
+}
+
+function kidspop() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=kids', 'kids', popup_windows_params);
+}
+
+function notice() {
+    if (window.suppress_pop) suppress_pop();
+    window.open('/legal.php?page=2257', '2257', popup_windows_params);
+}
+
+//=============================================================================
+function up_launchChat2() {
+    winW = screen.width;
+    winH = screen.height;
+    window.open( "/members/chat/ch.php", "WhiteLabelChat", "width="+winW+",height="+winH+",toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=1" );
+}
+
+
+//=============================================================================
+// Document Onload Event
+//=============================================================================
+document.observe("dom:loaded", function() {
+    if ($('navigation'))
+        var menu = new DropDownMenu($('navigation'));
+});
+
+</script>
+
+        
+<script type="text/javascript">
+
+function whitebox_stretchy(align){
+    if( $$('table.stretchy_content_box') != "" && $('stretchy_whiteBox') && $('sidebar') ){
+        var stretchy_content_box = $$('table.stretchy_content_box')[0];
+        var stretchy_contentBox_height = stretchy_content_box.getHeight();
+
+        //getStyle returns string. parseInt returns the integer found in the beginning of the string(4px). This margin is same for all the white boxes.
+        var top_margin                          = parseInt((stretchy_content_box.getStyle('margin-top')));
+
+        var nonStretchy_boxes_onLeft_array      = $('leftContentTd').select('[class="whitebox"]');
+        var nonStretchy_boxes_onLeft_count      = nonStretchy_boxes_onLeft_array.length;
+        var height_of_nonStretchy_boxes_onLeft  = 0;
+
+        //-----------------------------------------------------------------------------
+        // Calculate the height of the left side column elements that are not stretchy and visible
+        //-----------------------------------------------------------------------------
+        for( var i=0; i < nonStretchy_boxes_onLeft_count; i++ ){
+            if( nonStretchy_boxes_onLeft_array[i].getStyle('display') != "none" ){
+                height_of_nonStretchy_boxes_onLeft += nonStretchy_boxes_onLeft_array[i].getHeight() + top_margin;    //var top_margin is for top margin of each box.
+            }
+        }
+        var total_height_ofContent_onLeft   = height_of_nonStretchy_boxes_onLeft + stretchy_contentBox_height + top_margin;
+
+        //-----------------------------------------------------------------------------
+        // Calculate the height of the right side column elements that are visible
+        //-----------------------------------------------------------------------------
+        if( $('sidebar') ){
+            var nonStretchy_boxes_onRight_array     = $('sidebar').select('[class="whitebox"],[class="blackbox"]');
+            var nonStretchy_boxes_onRight_count     = nonStretchy_boxes_onRight_array.length;
+            var height_of_nonStretchy_boxes_onRight = 0;
+
+            for( var i=0; i < nonStretchy_boxes_onRight_count; i++ ){
+                if( nonStretchy_boxes_onRight_array[i].getStyle('display') != "none" ){
+                    height_of_nonStretchy_boxes_onRight += nonStretchy_boxes_onRight_array[i].getHeight() + top_margin;    //var top_margin is for top margin of each box.
+                }
+            }
+            var total_height_ofContent_onRight = height_of_nonStretchy_boxes_onRight;
+        }else{
+            var total_height_ofContent_onRight = 0;
+        }
+
+        //-----------------------------------------------------------------------------
+        var difference = total_height_ofContent_onRight - total_height_ofContent_onLeft;
+
+        //-----------------------------------------------------------------------------
+        if( $('stretchy_whiteBox') ){
+
+            if(align != "0"){
+				if (stretchy_contentBox_height + difference > 0) {
+					stretchy_content_box.setStyle({height: stretchy_contentBox_height + difference});
+					// For "Show advance option" on search page. It reduces the whitespace from the stretchy box.
+				}
+            }else{
+                var number_of_nonStretchy_boxes_onRight_array = $('sidebar').select('[class="whitebox"]');
+                var blackbox_onRight_array = $('sidebar').select('[class="blackbox"]');
+                var z = number_of_nonStretchy_boxes_onRight_array.length;
+                var total_height_of_nonStretchy_boxes_onRight = 0;
+
+                for(i=0; i<z; i++){
+                    if(number_of_nonStretchy_boxes_onRight_array[i].getStyle('display')!="none"){
+                        var total_height_of_nonStretchy_boxes_onRight = number_of_nonStretchy_boxes_onRight_array[i].getHeight() + top_margin + total_height_of_nonStretchy_boxes_onRight; //var top_margin is for top margin of each box.
+                    }
+                }
+                var total_height_ofContent_onRight = total_height_of_nonStretchy_boxes_onRight + blackbox_onRight_array[0].getHeight() + top_margin;
+                var difference = total_height_ofContent_onLeft - total_height_ofContent_onRight;
+                stretchy_content_box.setStyle({height: stretchy_contentBox_height - difference});
+            }
+        }
+    }
+}
+
+</script>
+        <script type="text/javascript">
+	var ajax_mem_id = '';
+	var PROCESSING_TEXT_ON = "<br><font color='#18A718' style='font-size: 10px;'><b>Processing Transaction</b></font>";
+	var PROCESSING_TEXT_OFF = "<br><font color='#008000' style='font-size: 10px;'><b>Processing Transaction</b></font>";
+	var DAILY_LIMIT_TEXT = "<br><font color='#ff0000' style='font-size: 10px;'><b>Daily Limit Reached</b></font>";
+	var CARD_DECLINED_TEXT = "<br><font color='#ff0000' style='font-size: 10px;'><b>Transaction Declined!</b></font>";
+	var CARD_SUCCESS_TEXT = "<br><font color='#18A718' style='font-size: 10px;'><b>Transaction Complete!</b></font>";
+	var START_TIMER_DURATION = 350;
+	var END_TIMER_DURATION = 3000;
+	var originalCreditTxt = "";
+	var newCreditTxt = "";
+	var startTimeoutID = 0;
+	var finishTimeoutID = 0;
+	var processingState = 0;
+	var page_num = '1';
+
+
+function get_member_info()
+{
+
+	var credits = '0.00';
+
+	var ajax = new Ajax.Request('/members/live_cams/wcc_update.php',
+	{
+	    asynchronous: true,
+	    method: 'post',
+	    parameters: {ajax_action: 'get_member_info', mem_id: ajax_mem_id},
+
+	    onSuccess: function(response)
+	    {
+		var data = response.responseText.split("|");
+
+			if( data[0] == 'SUCCESS')
+			{
+				if( data[1] == '0.00' )
+				{
+					credits = '<a class="link3" href="/members/live_cams/buy_credits.php">Buy Credits</a>';
+				}
+				else
+				{
+					credits = data[1];
+				}
+
+				$('topBarDivCredits').innerHTML = credits;
+
+				if( $('credits_header') )
+				{
+					$('credits_header').show();
+				}
+			}
+	    },
+	    onFailure: function()
+	    {
+		alert("get_member_info failure");
+	    }
+	});
+}
+
+function GetHeaderDiv()
+{
+	return document.getElementById( "topBarDivCredits" );
+}
+function onResultWaitFinish()
+{
+	var myDiv = GetHeaderDiv();
+	myDiv.innerHTML = newCreditTxt;
+	clearTimeout( finishTimeoutID );
+	get_member_info();
+}
+function StartTimeoutStart()
+{
+	startTimeoutID = setTimeout( "onProcessing()", START_TIMER_DURATION );
+}
+function onProcessing()
+{
+	var myDiv = GetHeaderDiv();
+	var divText = "";
+
+	if ( processingState == 0)
+	{
+		divText = PROCESSING_TEXT_OFF;
+		processingState = 1;
+	}
+	else
+	{
+		divText = PROCESSING_TEXT_ON;
+
+		processingState = 0;
+	}
+
+	myDiv.innerHTML = divText;
+	StartTimeoutStart();
+}
+function SetHeaderProcessing()
+{
+
+
+}
+function SetHeaderResult( status, newBalance, memberID )
+{
+	clearTimeout( startTimeoutID );
+	var myDiv = GetHeaderDiv();
+	newCreditTxt = newBalance;
+
+
+	finishTimeoutID = setTimeout( "onResultWaitFinish()", END_TIMER_DURATION );
+}
+function isIE()
+{
+	return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent);
+}
+
+var ost = 'undefined';
+var pgm_has_focus = false;
+var pgm_ivl = -1;
+var pgm_ivl_time = 1000;
+
+function movie_DoFSCommand(command, args)
+{
+	if(command == 'setHeight' || command == 'FSCommand:setHeight')
+	{
+
+		from = 0;
+		var chat = document.getElementsByName("movie");
+
+		if ( chat.length > 1 )
+		{
+			from = chat.length - 2;
+		}
+
+		chat = document.getElementsByName( "movie" )[ from ];
+		chat.height = args;
+		window.scrollTo( 0, 0 );
+
+		//alert( "height args " + args )
+
+
+	}
+
+	if(command == 'setWidth' || command == 'FSCommand:setWidth')
+	{
+
+		from = 0;
+		var chat = document.getElementsByName("movie");
+
+		if ( chat.length > 1 )
+		{
+			from = chat.length - 2;
+		}
+
+		chat = document.getElementsByName( "movie" )[ from ];
+
+		chat.width = args;
+		//alert( "width args " + args )
+
+
+	}
+
+	if (command == "scrollMe")
+	{
+		scrollToVid(args);
+	}
+
+	if (command == "expand_full")
+	{
+		var myWidth = 0, myHeight = 0;
+		if( typeof( window.innerWidth ) == 'number' )
+		{
+		    //Non-IE
+		    myWidth = window.innerWidth;
+		    myHeight = window.innerHeight;
+		} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		    //IE 6+ in 'standards compliant mode'
+		    myWidth = document.documentElement.clientWidth;
+		    myHeight = document.documentElement.clientHeight;
+		} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		    //IE 4 compatible
+		    myWidth = document.body.clientWidth;
+		    myHeight = document.body.clientHeight;
+		}
+
+                from = 0;
+		var chat = document.getElementsByName("movie");
+
+		if ( chat.length > 1 )
+		{
+			from = chat.length - 2;
+		}
+
+
+		chat = document.getElementsByName("movie")[ from ];
+		chat.width = myWidth - 90;
+		chat.height = myHeight - 50;
+
+		var chat_ele = document.getElementById( "flashcontent" );
+		chat_ele.style.height = "100%";
+
+		window.scrollTo( 0, 77 );
+
+
+	}
+}
+
+function scrollToVid(ost)
+{
+	if ( ost != 0 )
+	{
+		pos = get_ele_position( "flashcontent" );
+		ost = pos[ 1 ];
+	}
+
+	window.scrollTo( 0, ost );
+}
+
+window.onresize = callExternalInterface;
+
+function alertSize()
+{
+	  var myWidth = 0, myHeight = 0;
+	  if( typeof( window.innerWidth ) == 'number' )
+	  {
+		    //Non-IE
+		    myWidth = window.innerWidth;
+		    myHeight = window.innerHeight;
+	  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		    //IE 6+ in 'standards compliant mode'
+		    myWidth = document.documentElement.clientWidth;
+		    myHeight = document.documentElement.clientHeight;
+	  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		    //IE 4 compatible
+		    myWidth = document.body.clientWidth;
+		    myHeight = document.body.clientHeight;
+	  }
+	   //alert( "w = " + myWidth )
+	   return  myWidth;
+
+
+}
+function callExternalInterface()
+{
+       // alert("callExternalInterface");
+	var myWidth = 0, myHeight = 0;
+	if( typeof( window.innerWidth ) == 'number' )
+	{
+	    //Non-IE
+	    myWidth = window.innerWidth;
+	    myHeight = window.innerHeight;
+	}
+	else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) )
+	{
+	    //IE 6+ in 'standards compliant mode'
+	    myWidth = document.documentElement.clientWidth;
+	    myHeight = document.documentElement.clientHeight;
+	}
+	else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) )
+	{
+	    //IE 4 compatible
+	    myWidth = document.body.clientWidth;
+	    myHeight = document.body.clientHeight;
+	}
+
+	var movie = getMovieName( "movie" );
+
+	if(movie)movie.browser_resized(myWidth, myHeight);
+
+}
+
+function getMovieName(movieName)
+{
+	if (navigator.appName.indexOf("Microsoft") != -1)
+	{
+		return window[movieName]
+	}
+	else
+	{
+		return document[movieName]
+	}
+}
+function jumpScroll()
+{
+	window.scroll(0,150); // horizontal and vertical scroll targets
+}
+function isEmb()
+{
+	var movie = getMovieName( "movie" );
+	movie.browser_emb(1);
+
+}
+function resizeMe(w,h)
+{
+	var myw = 0;
+	var myh = 0;
+	if(self.innerWidth)
+	{
+		myw = self.innerWidth;
+		myh = self.innerHeight;
+	}
+	else if(document.documentElement && document.documentElement.clientWidth)
+	{
+		myw = document.documentElement.clientWidth;
+		myh = document.documentElement.clientHeight;
+	}
+	else if(document.body)
+	{
+		myw = document.body.clientWidth;
+		myh = document.body.clientHeight;
+	}
+	else return;
+
+	if(document.layers)
+	{
+		w -= (parent.outerWidth-parent.innerWidth);
+		h -= (parent.outerHeight-parent.innerHeight);
+	}
+	if(myw < w || myh < h)
+	{
+		self.resizeBy(((myw >= w)?0:w-myw),((myh >= h)?0:h-myh));
+	}
+}
+
+function load_new_alert(model_id, model_username)
+{
+	Members.load_new_alert(model_id,model_username);
+}
+
+function pgm_start_timer()
+{
+	pgm_ivl = setInterval( "pgm_check();", pgm_ivl_time );
+}
+
+function pgm_check()
+{
+	if ( pgm_has_focus )
+		getMovieName( "movie" ).load_pgm_model();
+}
+
+function pgm_on_focus()
+{
+	pgm_has_focus = true;
+}
+
+function pgm_on_blur()
+{
+	pgm_has_focus = false;
+}
+
+function pgm_ok()
+{
+	clearInterval( pgm_ivl );
+}
+
+function open_wcc_video_player(video_id) {
+	window.open("/members/live_cams/play_video.php?vid=" + video_id, "wcc_video_player", "width=679,height=572,menubar=no,toolbar=no,personalbar=no,scrollbars=no");
+}
+
+function open_wcc_buy_show(show_id) {
+	window.open("/members/live_cams/buy_show.php?show_id=" + show_id, "wcc_buy_popup", "width=679,height=572,menubar=no,toolbar=no,personalbar=no,scrollbars=no");
+}
+
+function open_foreign_popup( url )
+{
+	var w = 800;
+	var h = 600;
+	var name = "foreignpopup";
+	var scrollbars = true;
+	var j = "top_right";
+
+	OpenWindow( url, name, w, h, scrollbars, j );
+}
+  function get_models()
+  {
+  	
+	var mem_id = '';
+	var _path_img = 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201';
+	
+
+	$('left_arrow').style.visibility = 'hidden';
+	$('right_arrow').style.visibility = 'hidden';
+	$('online_models').innerHTML = '<table style="width: 100%;"><tr><td style="padding-top: 80px;" valign="bottom" align="center"><img src="' + _path_img + '/amr2/wcc/loading.gif"></td></tr><tr><td class="text1" valign="top" align="center" style="font-weight: bold;">Loading Models...</td></table>';
+
+	ajax = new Ajax.Request('/members/live_cams/wcc_update.php',
+	{
+	    asynchronous: true,
+	    method: 'post',
+	    parameters: {ajax_action: 'get_online_models', mem_id: mem_id, page_num: page_num},
+	    onSuccess: function(response)
+	    {
+	    	if( response.responseText != "error" )
+	    	{
+	    		var data = response.responseText.split("|");
+	    		var count = 0;
+
+	    		if( data[0] )
+	    		{
+	    			$('right_arrow').style.visibility = '';
+	    		}
+	    		else
+	    		{
+	    			$('right_arrow').style.visibility = 'hidden';
+	    		}
+
+	    		data = data.slice(1);
+
+	    		var output = '<table width="100%" height="100%"><tr>';
+
+	    		data.each(function(n)
+	    		{
+	    			output += "<td style='padding: 2px;'>" + n + "</td>";
+
+	    			count++;
+	    			if( count == 6 )
+	    			{
+	    				count = 0;
+	    				output += "</tr><tr>";
+	    			}
+	    		});
+
+	    		output += '</tr></table>';
+
+				$('online_models').innerHTML = output;
+
+				if( page_num <= 1 )
+				{
+					$('left_arrow').style.visibility = 'hidden';
+				}
+				else
+				{
+					$('left_arrow').style.visibility = '';
+				}
+	    	}
+	    	else
+	    	{
+	    		page_num = 1;
+	    	}
+	    },
+	    onFailure: function()
+	    {
+	    	alert("Failed AJAX:" + response);
+	    }
+	});
+  }
+
+  if(navigator.appName                               &&
+	 navigator.appName.indexOf  ('Microsoft'  ) != -1&&
+	 navigator.userAgent.indexOf('Windows'    ) != -1&&
+	 navigator.userAgent.indexOf('Windows 3.1') == -1)
+	 {
+		document.write('<script language=VBScript\> \n');
+		document.write('on error resume next \n');
+		document.write('Sub movie_FSCommand(ByVal command, ByVal args)\n');
+		document.write('  call movie_DoFSCommand(command, args)\n');
+		document.write('end sub\n');
+		document.write('</script\> \n');
+	}
+
+	/**
+ * SWFObject v1.5: Flash Player detection and embed - http://blog.deconcept.com/swfobject/
+ *
+ * SWFObject is (c) 2007 Geoff Stearns and is released under the MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+ *
+ */
+if(typeof deconcept=="undefined"){var deconcept=new Object();}if(typeof deconcept.util=="undefined"){deconcept.util=new Object();}if(typeof deconcept.SWFObjectUtil=="undefined"){deconcept.SWFObjectUtil=new Object();}deconcept.SWFObject=function(_1,id,w,h,_5,c,_7,_8,_9,_a){if(!document.getElementById){return;}this.DETECT_KEY=_a?_a:"detectflash";this.skipDetect=deconcept.util.getRequestParameter(this.DETECT_KEY);this.params=new Object();this.variables=new Object();this.attributes=new Array();if(_1){this.setAttribute("swf",_1);}if(id){this.setAttribute("id",id);}if(w){this.setAttribute("width",w);}if(h){this.setAttribute("height",h);}if(_5){this.setAttribute("version",new deconcept.PlayerVersion(_5.toString().split(".")));}this.installedVer=deconcept.SWFObjectUtil.getPlayerVersion();if(!window.opera&&document.all&&this.installedVer.major>7){deconcept.SWFObject.doPrepUnload=true;}if(c){this.addParam("bgcolor",c);}var q=_7?_7:"high";this.addParam("quality",q);this.setAttribute("useExpressInstall",false);this.setAttribute("doExpressInstall",false);var _c=(_8)?_8:window.location;this.setAttribute("xiRedirectUrl",_c);this.setAttribute("redirectUrl","");if(_9){this.setAttribute("redirectUrl",_9);}};deconcept.SWFObject.prototype={useExpressInstall:function(_d){this.xiSWFPath=!_d?"expressinstall.swf":_d;this.setAttribute("useExpressInstall",true);},setAttribute:function(_e,_f){this.attributes[_e]=_f;},getAttribute:function(_10){return this.attributes[_10];},addParam:function(_11,_12){this.params[_11]=_12;},getParams:function(){return this.params;},addVariable:function(_13,_14){this.variables[_13]=_14;},getVariable:function(_15){return this.variables[_15];},getVariables:function(){return this.variables;},getVariablePairs:function(){var _16=new Array();var key;var _18=this.getVariables();for(key in _18){_16[_16.length]=key+"="+_18[key];}return _16;},getSWFHTML:function(){var _19="";if(navigator.plugins&&navigator.mimeTypes&&navigator.mimeTypes.length){if(this.getAttribute("doExpressInstall")){this.addVariable("MMplayerType","PlugIn");this.setAttribute("swf",this.xiSWFPath);}_19="<embed type=\"application/x-shockwave-flash\" src=\""+this.getAttribute("swf")+"\" width=\""+this.getAttribute("width")+"\" height=\""+this.getAttribute("height")+"\" style=\""+this.getAttribute("style")+"\"";_19+=" id=\""+this.getAttribute("id")+"\" name=\""+this.getAttribute("id")+"\" ";var _1a=this.getParams();for(var key in _1a){_19+=[key]+"=\""+_1a[key]+"\" ";}var _1c=this.getVariablePairs().join("&");if(_1c.length>0){_19+="flashvars=\""+_1c+"\"";}_19+="/>";}else{if(this.getAttribute("doExpressInstall")){this.addVariable("MMplayerType","ActiveX");this.setAttribute("swf",this.xiSWFPath);}_19="<object id=\""+this.getAttribute("id")+"\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" width=\""+this.getAttribute("width")+"\" height=\""+this.getAttribute("height")+"\" style=\""+this.getAttribute("style")+"\">";_19+="<param name=\"movie\" value=\""+this.getAttribute("swf")+"\" />";var _1d=this.getParams();for(var key in _1d){_19+="<param name=\""+key+"\" value=\""+_1d[key]+"\" />";}var _1f=this.getVariablePairs().join("&");if(_1f.length>0){_19+="<param name=\"flashvars\" value=\""+_1f+"\" />";}_19+="</object>";}return _19;},write:function(_20){if(this.getAttribute("useExpressInstall")){var _21=new deconcept.PlayerVersion([6,0,65]);if(this.installedVer.versionIsValid(_21)&&!this.installedVer.versionIsValid(this.getAttribute("version"))){this.setAttribute("doExpressInstall",true);this.addVariable("MMredirectURL",escape(this.getAttribute("xiRedirectUrl")));document.title=document.title.slice(0,47)+" - Flash Player Installation";this.addVariable("MMdoctitle",document.title);}}if(this.skipDetect||this.getAttribute("doExpressInstall")||this.installedVer.versionIsValid(this.getAttribute("version"))){var n=(typeof _20=="string")?document.getElementById(_20):_20;n.innerHTML=this.getSWFHTML();return true;}else{if(this.getAttribute("redirectUrl")!=""){document.location.replace(this.getAttribute("redirectUrl"));}}return false;}};deconcept.SWFObjectUtil.getPlayerVersion=function(){var _23=new deconcept.PlayerVersion([0,0,0]);if(navigator.plugins&&navigator.mimeTypes.length){var x=navigator.plugins["Shockwave Flash"];if(x&&x.description){_23=new deconcept.PlayerVersion(x.description.replace(/([a-zA-Z]|\s)+/,"").replace(/(\s+r|\s+b[0-9]+)/,".").split("."));}}else{if(navigator.userAgent&&navigator.userAgent.indexOf("Windows CE")>=0){var axo=1;var _26=3;while(axo){try{_26++;axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+_26);_23=new deconcept.PlayerVersion([_26,0,0]);}catch(e){axo=null;}}}else{try{var axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");}catch(e){try{var axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");_23=new deconcept.PlayerVersion([6,0,21]);axo.AllowScriptAccess="always";}catch(e){if(_23.major==6){return _23;}}try{axo=new ActiveXObject("ShockwaveFlash.ShockwaveFlash");}catch(e){}}if(axo!=null){_23=new deconcept.PlayerVersion(axo.GetVariable("$version").split(" ")[1].split(","));}}}return _23;};deconcept.PlayerVersion=function(_29){this.major=_29[0]!=null?parseInt(_29[0]):0;this.minor=_29[1]!=null?parseInt(_29[1]):0;this.rev=_29[2]!=null?parseInt(_29[2]):0;};deconcept.PlayerVersion.prototype.versionIsValid=function(fv){if(this.major<fv.major){return false;}if(this.major>fv.major){return true;}if(this.minor<fv.minor){return false;}if(this.minor>fv.minor){return true;}if(this.rev<fv.rev){return false;}return true;};deconcept.util={getRequestParameter:function(_2b){var q=document.location.search||document.location.hash;if(_2b==null){return q;}if(q){var _2d=q.substring(1).split("&");for(var i=0;i<_2d.length;i++){if(_2d[i].substring(0,_2d[i].indexOf("="))==_2b){return _2d[i].substring((_2d[i].indexOf("=")+1));}}}return "";}};deconcept.SWFObjectUtil.cleanupSWFs=function(){var _2f=document.getElementsByTagName("OBJECT");for(var i=_2f.length-1;i>=0;i--){_2f[i].style.display="none";for(var x in _2f[i]){if(typeof _2f[i][x]=="function"){_2f[i][x]=function(){};}}}};if(deconcept.SWFObject.doPrepUnload){if(!deconcept.unloadSet){deconcept.SWFObjectUtil.prepUnload=function(){__flash_unloadHandler=function(){};__flash_savedUnloadHandler=function(){};window.attachEvent("onunload",deconcept.SWFObjectUtil.cleanupSWFs);};window.attachEvent("onbeforeunload",deconcept.SWFObjectUtil.prepUnload);deconcept.unloadSet=true;}}if(!document.getElementById&&document.all){document.getElementById=function(id){return document.all[id];};}var getQueryParamValue=deconcept.util.getRequestParameter;var FlashObject=deconcept.SWFObject;var SWFObject=deconcept.SWFObject;
+
+
+</script>
+
+
+    	
+                
+        						
+<script language="javascript">
+
+//returnFunction must be a function with one parameter. This will be called when ajax is done..
+//...and that parameter will be set to the response.
+//typeRequest is a string of a request, eg: "GET" or "PUT".
+//request is the url with any data, eg: "/somefolder/test.php?id=1234"
+//returnValue is if you need response text. You might not if you are just inserting data into DB
+
+function ajax_chat(returnFunction, typeRequest, request, returnValue) {
+	function initAjax() {
+		ajaxCall_chat = getXMLHttpRequest();
+		ajaxCall_chat.onreadystatechange = parseHttpResponse;
+	}
+	
+	function getXMLHttpRequest () {
+		try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch(e) {};
+		try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch(e) {}
+		try { return new XMLHttpRequest(); } catch(e) {};
+    	
+		return null;
+	}
+	
+	function parseHttpResponse() {
+	if (ajaxCall_chat.readyState == 4) {
+        if (ajaxCall_chat.status == 200) {
+        	var response = ajaxCall_chat.responseText;
+        	//if( response != "" ) alert( response );
+	    	if ( returnValue )	 setTimeout(returnFunction + "(\"" + escape(response) + "\")", 0);
+			initAjax(); //Bug in IE. Will allow for using AJAX multiple times
+        } else if( ajaxCall.status != 0 )
+        	{	
+        		if ( returnValue ) setTimeout(returnFunction + "('Ajax Failed.')", 0);
+	        }
+    	}
+ 	}
+ 	
+ 		
+	function sendRequest() {
+		ajaxCall_chat.open(typeRequest, request, true);	
+		ajaxCall_chat.send(null);
+	}
+	
+	initAjax();	
+	sendRequest();
+}
+
+</script>			
+<style type="text/css">
+
+* html #im_alert_box 
+{
+	top: expression(((ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop)) +'px');
+	position: absolute;
+}
+
+#im_alert_box
+{
+	position: absolute;
+	top: 202px;
+	left: 5px;
+	width: 332px;
+	border: 0px;
+	background-color: transparent;
+}
+
+#imAlert_photo { width: 104px; height: 81px: overflow: hidden; border: 1px solid #FFFFFF; }
+
+.im_login { font: bold 12px Arial, san-serif; color: #C9221C; }
+.im_age   { font: 12px Arial, san-serif; color: #6B6B6B; }
+.im_info  { font: bold 12px Arial, san-serif; color: #6B6B6B; }
+img.im_buttom { cursor: pointer; }
+img.im_buttom_over { opacity: 0.7; filter:alpha(opacity=70); }
+</style>
+
+
+
+</head><body><div id="im_alert_box" style="display: none; z-index: 10000;">
+    <table width="332" height="175" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td width="6" height="175" style="background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/panel_left.png');"></td>
+            <td width="320" height="175" style="background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/panel_back.png') repeat-x;">
+
+                <table width="320" height="25" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td width="30" height="25" valign="middle"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/im/chat_icon.png" width="21" height="16" border="0"></td>
+                        <td width="229" height="25" valign="middle" style="font: bold 12pt arial, sans-serif;">New IM Request</td>
+                        <td width="61" height="25" valign="middle"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/online.png" width="56" height="12" border="0"></td>
+                    </tr>	
+                </tbody></table>
+            
+                <table width="320" height="106" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td width="114" height="106" valign="middle">
+                            <div style="width: 106px; border: 1px solid #CCCCCC;"><img id="imAlert_photo" src="" width="104" height="81"></div>
+                        </td>
+                        <td width="206" height="106" valign="middle">
+                            <table cellpadding="0" cellspacing="0" style="width: 90%; margin-left: 10px;">
+                                <tbody><tr><td><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/black_arrow.gif" width="3" height="5" border="0"></td><td class="im_login" id="imAlert_username"></td></tr>
+                                <tr><td></td><td class="im_age" id="imAlert_age"></td></tr>
+                                <tr><td></td><td class="im_info" id="imAlert_location"></td></tr>
+                                <tr><td></td><td class="im_info" id="imAlert_photos"></td></tr>
+                                <tr><td></td><td class="im_info" id="imAlert_country" align="right"></td></tr>
+                            </tbody></table>
+                        </td>
+                    </tr>	
+                </tbody></table>
+
+                <table width="320" height="44" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td width="33%" height="44" align="center" valign="top"><img class="im_buttom" onclick="acceptIMInvitation();" border="0" onmouseover="im_hover(this, 'on');" onmouseout="im_hover(this, 'off');" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/im/button_chat_now.png"></td>
+                        <td width="34%" height="44" align="center" valign="top"><img class="im_buttom" onclick="ignoreIMInvitation();" border="0" onmouseover="im_hover(this, 'on');" onmouseout="im_hover(this, 'off');" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/button_ignore.png"></td>
+                        <td width="33%" height="44" align="center" valign="top"><img class="im_buttom" onclick="blockIMInvitation();" border="0" onmouseover="im_hover(this, 'on');" onmouseout="im_hover(this, 'off');" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/button_block.png"></td>
+                    </tr>	
+                </tbody></table>
+
+            </td>
+            <td width="6" height="175" style="background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/im/panel_right.png');"></td>
+        </tr>	
+    </tbody></table>
+</div>			<script type="text/javascript">
+var imFromId;
+var ignoreTimeout;
+var scrollInterval;
+var IMPathImg = 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201';
+
+//=============================================================================
+function imRecieved( mem_id_from )
+{
+	imFromId = mem_id_from;
+
+	var ajaxCheckIM = new ajax_chat( "getMemberInfo", "GET", "/members/check_im_alert.php?request=get_member_info&mem_id_from=" + mem_id_from, true );
+}
+
+//=============================================================================
+function getMemberInfo( response )
+{
+	var user_info = new Array();
+	var output = "";
+	
+	if( response != '' && response != 'Ajax Failed.' )
+	{
+		document.getElementById('im_alert_box').style.top = '-202px';
+		document.getElementById('im_alert_box').style.display = '';
+		
+		// Get user info and load it into DIV box
+		user_info = unescape(response).split( "|" );
+		if( isArray(user_info) && user_info.length > 1 )
+		{
+			IMMemID = user_info[0];
+			var login = user_info[1];
+			var age = user_info[2];
+			var gender = user_info[3];
+			var city = user_info[4];
+			var state = user_info[5];
+			var country = user_info[6];
+			var num_photos = user_info[7];
+			var image_link = user_info[8];
+			
+			// Put the locations in an array list, filter out the blanks, then cat them together
+            var arrLocation = [city,state];
+            var filteredArr = arrLocation.filter(function(val) {
+	            return !(val === "" || typeof val == "undefined" || val === null);
+            });
+            var strLocation = filteredArr.join(', ');
+	
+            $('imAlert_photo').src          = image_link;
+            $('imAlert_username').innerHTML = login;
+            $('imAlert_age').innerHTML      = age + ' year old ' + gender;
+            $('imAlert_location').innerHTML = strLocation;
+            $('imAlert_photos').innerHTML   = num_photos + ' photo' + (num_photos > 1 ? 's' : '');
+            $('imAlert_country').innerHTML  = country;
+			
+			// Drop down the box
+			dropDownIMBox();
+		}
+	}
+	else
+	{
+	    // It failed to retrieve member info...what do we do?
+	}
+}
+
+//=============================================================================
+function dropDownIMBox()
+{
+	var top; 
+
+	document.getElementById('im_alert_box').style.display = '';
+	
+	top = document.getElementById('im_alert_box').style.top;
+	top = parseInt(top.substring( 0, top.length - 2 )) + 10;
+	
+	if ( top < 1 ) 
+	{
+		document.getElementById('im_alert_box').style.top = top + 'px';
+		setTimeout( 'dropDownIMBox()', 35 );
+	}
+	else
+	{
+		scrollInterval = setInterval('keepDropBoxUpTop()', 1);
+	}
+}
+
+//=============================================================================
+function keepDropBoxUpTop()
+{
+	document.getElementById('im_alert_box').style.top = document.body.scrollTop + 'px'
+}
+
+//=============================================================================
+function acceptIMInvitation()
+{
+	
+	var WhiteLabelIM = window.open('/members/im/ic.php?fromID=' + imFromId + '&toID=' + '','WhiteLabelIM','width=570,height=510,left=200,top=200,toolbar=No,location=No,scrollbars=No,status=No,resizable=No,fullscreen=No'); 
+		WhiteLabelIM.focus();
+	
+	
+	
+	hideIMInvitation();
+}
+
+//=============================================================================
+function timeoutIMInvitation()
+{	
+	hideIMInvitation();
+}
+
+//=============================================================================
+function ignoreIMInvitation()
+{
+	//This does nothing in check_im_alert.php
+	//var ajaxCheckIM = new ajax_chat( "", "GET", "/members/check_im_alert.php?request=ignore_alert&mem_id_from=" + IMMemID, false );
+	
+	hideIMInvitation();
+}
+
+//=============================================================================
+function blockIMInvitation()
+{
+	var ajaxCheckIM = new ajax_chat( "", "GET", "/members/check_im_alert.php?request=block_alert&mem_id_from=" + IMMemID, false );
+	
+	hideIMInvitation();
+}
+
+//=============================================================================
+function hideIMInvitation()
+{
+	// Hide alert window
+	document.getElementById('im_alert_box').style.display = 'none';
+	
+	// Clear out the ignore time
+	clearTimeout( ignoreTimeout );
+	
+	// Clear out the keeping dropdown box up top interval
+	clearInterval( scrollInterval );
+}
+
+//=============================================================================
+function isArray(obj) 
+{
+   if (obj.constructor.toString().indexOf("Array") == -1)
+      return false;
+   else
+      return true;
+}
+
+//=============================================================================
+function im_hover(obj, mode) {
+    if( mode == 'on' ){
+        obj.className  = 'im_buttom im_buttom_over';
+    }else{
+        obj.className  = 'im_buttom';
+    }
+}
+
+</script>
+			
+<script type="text/javascript">
+function OpenIM(fromID, toID)
+{
+	var popupWindow = window.open( "/members/im/ic.php?fromID=" + fromID + "&toID=" + toID, "ICWindow_" + fromID + "_" + toID, "width=570,height=510,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0" );
+	
+	if( popupWindow == null )
+	{
+		confirm( "Your popup blocker stopped an IM window from opening! Please disable it and try again'" );
+	}
+}
+function OpenManageBuddies( link )
+{
+	if ( window.opener == null )
+	{
+		winW = screen.width;
+		winH = screen.height;
+
+		var w = 800;
+		var h = 600;
+		var left = ( winW - w ) / 2;
+		var top  = ( winH - h ) / 2;
+
+		window.open( link, "ManageBuddiesWin", "status=0,toolbar=0,location=0,menubar=0,resizable=1,scrollbars=0,left=" + left + ",top=" + top + ",width=" + w + ",height=" + h );
+	}
+	else
+	{
+		var p = null;
+		if ( window.opener.opener != null )
+			p = window.opener.opener;
+		else
+			p = window.opener;
+		
+		p.location.replace( link );
+	}
+}
+
+</script>            
+
+        	                                         <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2694364-1']);
+            _gaq.push(['_setDomainName', 'amateurmatch.com']);
+            _gaq.push(['_trackPageview']);
+
+        
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        
+	</script>
+     
+    
+    
+    
+    <div id="mainpage_container">
+					<img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/am3_feedback.gif" width="241" height="269" id="feedback_1" style="display: none" onclick="feedback_tab(2);">
+<div id="feedback_2" class="feedback_box" style="display: none;">
+		<!-- If this should hide the tab also, change the onclick to feedback_tab(0) -->
+		<div style="position: absolute; width: 33px; height: 156px; left: 208px; top: 0px; cursor: pointer" onclick="feedback_tab(1);">
+		</div>
+		<strong>Leave Feedback</strong><br>
+		We are always looking to improve.<br>
+		Your feedback makes that possible.<br>
+		<div class="fb_labels">
+			From: <span class="fb_username"></span><br>
+			Select a category:
+		</div>
+		<select id="feedback_type">
+			<option value="General">General Feedback</option>
+			<option value="Bug">Bug Report</option>
+			<option value="Suggestion">Site Suggestion</option>
+		</select>
+		<textarea id="feedback_body"></textarea>
+		<a class="send_feedback_button" href="#" onclick="return false;">
+			<img border="0" id="feedback_btn" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/buttons/send_feedback.gif" height="24" width="97" onclick="feedback_submit_feedback();">
+			<img border="0" id="feedback_btn_disabled" style="display: none; cursor: default;" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/buttons/send_feedback.gif" height="24" width="97">
+		</a>
+		<a style="position: absolute; bottom: -14px; right: 32px;" class="feedback_close_link" onclick="feedback_tab(0); feedback_disable(); return false;" href="#">[Close This]</a>
+</div>
+<div id="feedback_3" class="feedback_box" style="display: none;">
+	<strong>Feedback Sent!</strong><br>
+	<p>Thank you for your contribution!</p>
+	<p>We work hard to provide the best possible experience to our users.</p>
+	<p>Your feedback is an important part of what makes that possible.</p>
+	<a class="feedback_close_link" onclick="feedback_tab(0); return false;" href="#">[Close This]</a>
+</div>		        			    <table width="984" align="center" cellspacing="0" cellpadding="0" class="main_menu">
+        <tbody><tr>
+            <td align="right" class="top_menu" colspan="4">
+                                                <a href="/help/help.php">Customer Service</a>
+                <a href="/help/faq.php">Help</a>
+                            </td>
+        </tr>
+        <tr>
+            <td width="7" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/menu_left.gif" style="background-position: right;" height="40"></td>
+            <td background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/menu_back.gif" valign="middle" height="40">
+                <img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/theme_header.gif" style="" label="two">
+            </td>
+            <td background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/menu_back.gif" valign="middle" height="40">
+                                            <table class="main_menu_inner" align="right" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td>
+            <ul id="navigation">
+                <li><a href="/members/">Home</a></li>
+                <li><a href="/members/whosonline.php">Who's Online</a></li>
+                <li><a href="/members/mail/">Inbox</a></li>
+                <li>
+                    <a href="/members/search.php">Search</a>
+                    <ul>
+                        <li><a href="/members/search.php">Member Search</a></li>
+                        <li><a href="/members/todaysnew.php">Newest Members</a></li>
+                        <li><a href="/members/hottestmembers.php">Hottest Members</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/members/view_buddies_new.php">Buddies</a>
+                    <ul>
+                        <li><a href="/members/view_buddies_new.php">View Buddies</a></li>
+                        <li><a href="/members/approve_buddies_new.php">Approve Buddies</a></li>
+                        <li><a href="/members/pending_buddies_new.php">Pending Requests</a></li>
+                        <li><a href="/members/lists.php?type=block">Blocked Users</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/members/live_cams/cams.php">Live Cams</a>
+                    <ul>
+                        <li><a href="/members/live_cams/cams.php">Live Cam Shows</a></li>
+                        <li><a href="/members/cams.php">Featured Shows</a></li>
+                                            </ul>
+                </li>
+                <li><a href="/members/chat.php">Live Chat</a></li>
+                <li>
+                    <a href="/index.php?le=2">Galleries</a>
+                    <ul>
+                        <li><a href="/index.php?le=2">View Galleries</a></li>
+                        <li><a href="/index.php?le=2">My Galleries</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://ad.amateurmatch.com/ads/www/delivery/ck.php?n=a17f0a29&amp;cb=5098182" target="_blank" class="live_sex_link">Live Sex</a>
+<img src="http://ad.amateurmatch.com/ads/www/delivery/avw.php?zoneid=71&amp;cb=5098182&amp;n=a17f0a29" style="position: absolute" height="1" width="1"></li>                                <li><a href="http://ad.amateurmatch.com/ads/www/delivery/ck.php?n=a0ca2d04&amp;cb=5664203" target="_blank" class="live_sex_link">Free Porn</a><img src="http://ad.amateurmatch.com/ads/www/delivery/avw.php?zoneid=102&amp;cb=5664203&amp;n=a0ca2d04" style="position: absolute" height="1" width="1"></li>
+                                                                                <li>
+                            <a href="/members/videos/">Fun</a>
+                            <ul id="funsubmenu">
+                                <li><a href="http://ad.amateurmatch.com/ads/www/delivery/ck.php?n=ae90fc5c&amp;cb=7288638" target="_blank" class="live_sex_link">3D Dating</a><img src="http://ad.amateurmatch.com/ads/www/delivery/avw.php?zoneid=103&amp;cb=7288638&amp;n=ae90fc5c" style="position: absolute" height="1" width="1"></li>                                <li><a href="/members/videos/">Videos</a></li>
+                            </ul>
+                        </li>
+    								            </ul>
+        </td>
+    </tr>
+</tbody></table>
+                                </td>
+            <td width="7" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/menu_right.gif" height="40"></td>
+        </tr>
+    </tbody></table>
+        
+        <table width="984" align="center" cellspacing="0" cellpadding="0" class="main_body">
+            <tbody><tr>
+                                                                                    <td width="984" valign="top" align="left" class="content" id="leftContentTd">
+                        <table class="whitebox" width="100%" cellspacing="0" cellpadding="0">	<tbody><tr>
+		<td width="6" height="5" class="corner"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-tl.gif" width="6" height="5"></td>
+		<td height="5" class="edge"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/spacer.gif" width="1" height="5"></td>
+		<td width="6" height="5" class="corner" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-tr.gif"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/spacer.gif" width="6" height="5"></td>
+	</tr>
+	<tr>
+		<td width="6" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-l.gif"></td>
+		<td class="box_content" valign="top">
+						<div class="whitebox_title">Privacy Policy</div>
+<table width="100%" align="center">
+	<tbody><tr>
+		<td>
+        <table cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td height="2" width="2"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-tl.gif" height="2" width="2"></td>
+		<td height="2" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-t.gif"></td>
+		<td height="2" width="2"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-tr.gif" height="2" width="2"></td>
+	</tr>
+	<tr>
+		<td width="2" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-l.gif"></td>
+		<td style="background-color: white">
+			<table cellspacing="0" height="100%" width="100%" cellpadding="10">
+				<tbody><tr>
+					<td valign="top">            <div class="legal">
+                <div class="legal_body_text">
+    <div>
+        <b class="legal">PRIVACY POLICY</b><br>
+        for AmateurMatch Network of Websites<br>
+        Effective Date: January 1st 2005<br>
+        Last Updated: July 28th 2010<br>
+    </div>
+
+    <div class="terms_indent">
+        <ol class="legal_list">
+            <li>General
+                <ol>
+                    <li>The operative parties referred to in this policy are COMPANY and you, the user of this site.
+                        <ol>
+                            <li>
+                                AmateurMatch, is the publisher and operator of the following websites:
+                                <ul><li>amateurmatch.net</li></ul>
+                                Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to AmateurMatch d/b/a any one of the above sites, or as any other site that we may choose to publish in the future. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to any site published by us, unless a site is specifically exempt from this policy.
+                            </li>
+                            <li>You, the User – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.</li>
+                        </ol>
+                    </li><li>This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE.</li>
+                </ol>
+            </li>
+            <li>Revisions to this Policy
+                <p>We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.</p>
+            </li>
+            <li>Personal information that we collect
+                <p>Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows:</p>
+                <ol>
+                    <li>Members - Members are those users who subscribe to our services. If you choose to become a member we will ask you to provide your name, your address, your phone number, your fax number, your credit card information, your picture, a video, your date of birth, gender, and anything we ask for in your online profile. We also collect user mobile telephone number which we plan to market to in the near future. We will also collect all necessary billing information, and any other information that you voluntarily place in your online profile.</li>
+                    <li>Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters, Players, and Members. This information is restricted to cookies, IP Addresses, Referral URLs, and other passive information gathering devices.</li>
+                </ol>
+            </li>
+            <li>How we collect information from you
+                <ol>
+                    <li>Passive Collection – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser, and your geographic location.</li>
+                    <li>Active Collection – we collect information from you when you complete registration forms to sign up for your membership on our Site.</li>
+                </ol>
+            </li>
+            <li>How we use your information
+                <ol>
+                    <li>The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally will use your personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.</li>
+                    <li>We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.</li>
+                    <li>We also use your information for the obvious purpose of providing your user profile to all of our other users and browsers. When you create a profile, you should consider all of the information on the profile to be public information, accessible by anyone, unless otherwise stated. Confidential information in your profile cannot be viewed by others or the public. Confidential information includes your name, address, and billing information. Nevertheless, your profile information, pictures, and videos as well as your city, state, and country will all be public information. Although your personally identifying information will not be made public, you should understand that there is a possibility that you may be identified through information you provide on your profile. For example, you may be visually recognized by someone who sees your picture or your description may be adequately detailed that someone browsing the site would be able to tell that the person is you. Accordingly, you understand that using this site places you in control of all of the information displayed on your profile, and you take full responsibility for any consequences for whatever information you choose to publish. Additionally, as we operate a network of websites, we reserve the right to post your profile on all of the network sites that we maintain, and we reserve the right to sell all of your information if we sell off one or more of our sites. For example, by joining AmateurMatch you accept that your profile may be duplicated and placed on datematch.com. and if we sell datematch.com, your profile may be part and parcel of that sale.</li>
+                </ol>
+            </li>
+            <li>Special Cases.
+                <p>It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:</p>
+                <ol>
+                    <li>To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;</li>
+                    <li>To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;</li>
+                    <li>To operate our Services properly;</li>
+                    <li>To protect ourselves, our Members, and the general public. We will always cooperate with law enforcement authorities. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.</li>
+                    <li>We will only cooperate with private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.</li>
+                    <li>Investigative reporters or journalists will never be cooperated with regarding your personal information.</li>
+                    <li>If we have reason to believe that the user is not the owner of a credit card, even if the credit card use is authorized, we will provide information about you to the credit card holder. We will absolutely provide your information to the credit card holder if we believe that fraud is a possibility. However, we do not require that there be fraud, as it is our policy that the credit card holder always has an absolute right to access any and all of your personal information.</li>
+                    <li>Anyone who violates our Anti-Spam Policy, shall have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote your user profile, or any use of bulk e-mail in any manner that leads back to our site, or any one of our sites, we will cooperate with any and all parties completely and freely in order to see that your bulk e-mail activities stop.</li>
+                </ol>
+            </li>
+            <li>Transmittals from Us
+                <p>We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting support@amateurmatch.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.</p>
+                <p>If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.</p>
+            </li>
+            <li>Public Forums, Member Directories, and Internal Messaging:
+                <ol>
+                    <li>Member Directories – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that you provide in any such forum or medium.</li>
+                    <li>Internal Messaging – We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and you should not transmit any information that you would not wish to see disclosed to the general public.</li>
+                </ol>
+            </li>
+            <li>Our Commitment to Data Security.
+                <p>We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.</p>
+            </li>
+            <li>How to Access or Modify Your Information.
+                <p>We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at <a href="mailto:support@amateurmatch.com">support@amateurmatch.com</a>.</p>
+            </li>
+            <li>Where to Direct Questions About Our Privacy Policy.
+                <p>If you have any questions about this Privacy Policy or the practices described herein, you may contact us at <a href="mailto:support@amateurmatch.com">support@amateurmatch.com</a></p>
+            </li>
+            <li>E-Mail Removal
+                <p>If you wish to opt-out of receiving all e-mail correspondence from us, you can enter your e-mail address below.</p>
+                <form method="POST" action="/opt_out.php">
+                    <table align="center" style="margin-top: 10px">
+                        <tbody><tr valign="center">
+                            <td><div class="legal">Remove E-Mail Address:</div></td>
+                            <td><input type="text" name="email"></td>
+                            <td><input type="submit" value="Remove" style="font-size: 11px;"></td>
+                        </tr>
+                    </tbody></table>
+                </form>
+            </li>
+        </ol>
+    </div>
+</div>            </div>
+        
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td width="2" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-r.gif"></td>
+	</tr>
+	<tr>
+		<td height="2" width="2"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-bl.gif" height="2" width="2"></td>
+		<td height="2" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-b.gif"></td>
+		<td height="2" width="2"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/innerbox2-br.gif" height="2" width="2"></td>
+	</tr>
+</tbody></table>		</td>
+	</tr>
+</tbody></table>		</td>
+		<td width="6" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-r.gif"></td>
+	</tr>
+			<tr>
+			<td width="6" height="7" class="corner" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-bl.gif"></td>
+			<td height="7" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-b.gif"></td>
+			<td width="6" height="7" class="corner" background="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/whitebox-br.gif"></td>
+		</tr>
+	</tbody></table>                    </td>
+                
+                                                                                            </tr>
+        </tbody></table>
+
+                    <table align="center" class="footer" width="984" height="55">
+    <tbody><tr>
+        <td align="left" valign="middle">
+            <div style="font-size: 12px;">
+                <span class="footer_sitename">AmateurMatch</span> <span class="footer_copyright">© 2012 All Rights Reserved.</span>
+            </div>
+            <div style="font-size: 10px;">
+                <a class="footer_2257 no_popunder" href="/legal.php?doc=2257" onclick="notice(); return false;">18 U.S.C. 2257 Record-Keeping Requirements<br>Compliance Statement</a>
+            </div>
+            
+        </td>
+        <td class="foot_menu2" align="right" valign="middle">
+                            <a href="/go2mobile.php" target="_blank">Mobile</a>
+                        <a class="no_popunder" href="/help/help.php" target="_blank">Contact Us</a>
+            <a class="no_popunder" href="http://www.datinggold.com" target="_blank">Webmasters Make $$</a>			<a class="no_popunder" href="/sitemap/">Site Map</a> 
+            <a class="no_popunder" href="/legal.php?doc=privacy" target="_blank" onclick="privacypopup(); return false;">Privacy</a>
+            <a class="no_popunder" href="/legal.php?doc=antispam" target="_blank" onclick="antispam(); return false;">Anti-Spam</a>
+            <a class="no_popunder" href="/legal.php?doc=terms" target="_blank" onclick="termspopup(); return false;">Terms</a>
+            <a class="no_popunder" href="/legal.php?doc=dmca" target="_blank" onclick="if (window.suppress_pop) suppress_pop();">DMCA Notice</a>
+            <a class="no_popunder" href="/legal.php?doc=kids" target="_blank" onclick="kidspop(); return false;">Protecting Kids</a>
+        </td>
+        <td align="center" valign="middle" width="34">
+                            <a href="http://twitter.com/amateurmatch" target="_blank"><img src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/6/amr2/twitter.png"></a>
+                    </td>
+    </tr>
+</tbody></table>
+            <table align="center" class="footer" width="984" height="55">
+	<tbody><tr>
+		<td align="center" valign="middle">
+			<a target="_blank" href="http://www.asacp.org/ASACP.php"><img border="0" style="width: 88px; height: 31px;" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/logo_asacp_bar.gif"></a>
+			<a target="_blank" onclick="kidspop(); return false;" href="#"><img border="0" style="width: 88px; height: 31px;" src="http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/21201/logo_rta_bar.gif"></a>
+		</td>
+	</tr>
+</tbody></table>        
+                                </div>
+
+             
+    
+    
+        </body></html>
