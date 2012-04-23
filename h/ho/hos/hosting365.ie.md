@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222153602id_/http%3A//www.sungardas.ie/Company/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting365.ie privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424013138id_/http%3A//www.sungardas.ie/Company/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ A cookie is an element of text that is sent to your computer and identifies your
 **How we use the information  
 ** We use the information you provide to us to respond to your enquiry (information from cookies is used as described above). Your information is not sold to or shared with unaffiliated third parties for their independent marketing purposes.
 
-If you have enquired about products or services, we may wish to send you information from time to time about us and our products and services. Similarly, other companies in the SunGard group of companies may wish to send you information about them or their products and services. If you do not wish to receive this information please write to: Gavin Longson, C/O SunGard Availability Services Ireland, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland.
+If you have enquired about products or services, we may wish to send you information from time to time about us and our products and services. Similarly, other companies in the SunGard group of companies may wish to send you information about them or their products and services. If you do not wish to receive this information please write to: C/O SunGard Availability Services Ireland, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland.
 
 We will not use your information for purposes that are not clear when you provide your details and we will not disclose it outside of SunGard except in very limited circumstances, for example, with your agreement or if we are legally obliged to do so.
 
@@ -36,7 +36,7 @@ You warrant, represent and undertake that any information which you provide when
 You agree to indemnify and hold us and our affiliates and agents and our and their officers, directors and employees harmless from any liabilities, costs (including legal fees), expenses, demands and damages (direct, indirect or consequential) of any nature howsoever incurred and arising out of or in any way related to any unauthorised use of your password through your failure to maintain the secrecy of your password and / or other security details.
 
 **Right to access the information  
-** You can ask us whether we are keeping personal information about you, and you can request a copy of that information. You may do this by contacting Gavin Longson, C/O SunGard Availability Services Ireland ,Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland for an application form. We may require you to provide verification of your identity and to pay an administrative fee (which is currently €10) to provide a copy of the information that we hold. Please note that in certain circumstances we may withhold access to this information where we have the right to do so under current data protection legislation, for example, where disclosing the information may reveal the identity of a third party.
+** You can ask us whether we are keeping personal information about you, and you can request a copy of that information. You may do this by contacting C/O SunGard Availability Services Ireland ,Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland for an application form. We may require you to provide verification of your identity and to pay an administrative fee (which is currently €10) to provide a copy of the information that we hold. Please note that in certain circumstances we may withhold access to this information where we have the right to do so under current data protection legislation, for example, where disclosing the information may reveal the identity of a third party.
 
 **Updating your information  
 ** In the event that there is a change to any information that you provide to us, please let us know of this by writing to The Marketing Dept, SunGard Availability Services, Unit 5, Beckett Way, Park West Business Park, Dublin 12, Ireland so that we can keep your information up to date and accurate.
