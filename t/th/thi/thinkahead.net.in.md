@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkahead.net.in privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204202840id_/http%3A//thinkahead.net.in/forum/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkahead.net.in privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423040047id_/http%3A//thinkahead.net.in/forum/tos) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Services | thinkahead.net.in
+# Privacy Policy | thinkahead.net.in
 
 This website never tries to collect the personal information from its visitors.  However, we do track the ip address of all the visitors and their general browsing behavior during their stay on the portal. We have very strict policy against spams and abusive comments and only quality comments are approved by us.
 
