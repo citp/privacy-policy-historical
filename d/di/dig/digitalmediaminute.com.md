@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmediaminute.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142449id_/http%3A//www.digitalmediaminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmediaminute.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423074243id_/http%3A//www.digitalmediaminute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,15 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Thanks for visiting [Digital Media Minute](http://www.digitalmediaminute.com/)
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20111102142449id_/http%3A//www.digitalmediaminute.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20120423074243id_/http%3A//www.digitalmediaminute.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+
+If you found this helpful or interesting, please share it!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy&title=Privacy%20Policy&source=Digital+Media+Minute+News+that+matters+for+Web+Developers&summary=Privacy%20Policy%20for%20www.digitalmediaminute.com.%0D%0A%0D%0AThe%20privacy%20of%20our%20visitors%20to%20www.digitalmediaminute.com%20is%20important%20to%20us.%0D%0A%0D%0AAt%20www.digitalmediaminute.com%2C%20we%20recognize%20that%20privacy%20of%20your%20personal%20information%20is%20important.%20Here%20is%20information "LinkedIn")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.digitalmediaminute.com%2Fprivacy-policy&title=Privacy%20Policy "Reddit")
+
+
