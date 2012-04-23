@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questionpaper.in privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214152815id_/http%3A//questionpaper.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questionpaper.in privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423121017id_/http%3A//questionpaper.in/Privacy.aspx) for the most accurate reproduction.*
 
 # QuestionPaper.in
 
