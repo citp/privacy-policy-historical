@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azuka.biz privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229145840id_/http%3A//azuka.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azuka.biz privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423075356id_/http%3A//azuka.biz/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy for free hosting service :: azuka.biz
 
