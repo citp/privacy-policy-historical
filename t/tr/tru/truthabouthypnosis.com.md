@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthabouthypnosis.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204021529id_/http%3A//www.mindrisehypnosis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthabouthypnosis.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424150146id_/http%3A//www.mindrisehypnosis.com/privacy.html) for the most accurate reproduction.*
 
 # Mindrise Hypnosis - Self Hypnosis and NLP for Personal Change
 
