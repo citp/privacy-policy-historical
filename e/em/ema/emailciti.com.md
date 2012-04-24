@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227050347id_/http%3A//emailciti.com/privacy_policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailciti.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424172639id_/http%3A//www.emailciti.com/inner/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy
-
-**Privacy Policy**
+# Emailciti
 
 EmailCiti is committed to protecting the privacy of our members and Partners members. Because we have taken steps to ensure that high standards of data collection and protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy. 
 
 **Collection and use of Member information**
 
 Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services with EmailCiti or any of their partners, publishers and sister companies. Information is collected by the companies of the EmailCiti or any of partners, affiliates and sister companies.   
-In addition, when you visit any of our websites, our partners/affiliate/publishers or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.   
+In addition, when you visit any of our websites, our partners/affiliate/publishers or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device's IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.   
 This information is collected to help us: 
 
-  * fulfill your order
-  * manage your registration preferences
+  * Fulfill your order
+  * Manage your registration preferences
   * Send you renewal notifications and/or service notifications or commercial promotions by email marketing tool.
-  * personalize web content and advertising based on your personal characteristics or preferences
-  * ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
-  * conduct member satisfaction, commercial research surveys
+  * Personalize web content and advertising based on your personal characteristics or preferences
+  * Ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
+  * Xonduct member satisfaction, commercial research surveys
   * And, if you allow us to*, we may also:
-  * Tell you about additional products and services from third party or by any of our clients/advertisers.
-  * tell you about other promotional activities across EmailCiti Network of companies or other companies with whom we have a business relationship
-  * invite you to participate in market research and surveys
-  * Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.
+    * Tell you about additional products and services from third party or by any of our clients/advertisers.
+    * tell you about other promotional activities across EmailCiti Network of companies or other companies with whom we have a business relationship
+    * Invite you to participate in market research and surveys
+    * Please indicate your privacy preferences using the order, registration or subscription form when ordering, purchasing, registering or subscribing.
   * We also use your information for in-house research and analysis. This helps us to:
-  * improve our understanding of members needs
-  * create marketing profiles
-  * support strategic development
-  * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual customers.
+    * Improve our understanding of members needs
+    * Create marketing profiles
+    * Support strategic development
+    * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymized or aggregated information and will not reveal any personal details of individual customers.
 
 
 
@@ -35,15 +33,15 @@ This information is collected to help us:
 
 A cookie is a small file which is placed on your hard drive when you visit any of networks of partners and Publisher's websites (directly or via our applications). We use information from cookies for purposes which may include: 
 
-  * identifying returning users, registrants and subscribers
-  * eliminating the need for returning users to re-enter their login details
-  * enabling you to move more easily around our sites, publishers, affiliate and applications
-  * tracking your use of our Emails and Newsletter to better develop our email shots, newsletter and applications in accordance with your requirements
-  * building up an anonymous profile based on your email browsing patterns across our emails, applications, website of our partners or publishers and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
+  * Identifying returning users, registrants and subscribers
+  * Eliminating the need for returning users to re-enter their login details
+  * Enabling you to move more easily around our sites, publishers, affiliate and applications
+  * Tracking your use of our Emails and Newsletter to better develop our email shots, newsletter and applications in accordance with your requirements
+  * Building up an anonymous profile based on your email browsing patterns across our emails, applications, website of our partners or publishers and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
   * You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
   * You will be able to use our emails, newsletters and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
   * If you specifically do not wish us to collect cookie information for the purpose of content and behavioral targeted advertising, you can "opt out" by following the instructions at at your email Opt Out link.
-  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](https://web.archive.org/web/20111227050347id_/http%3A//emailciti.com/www.cookiecentral.com/faq)
+  * Further information on the use of cookies can be found at: [www.cookiecentral.com/faq.](https://web.archive.org/web/20120424172639id_/http%3A//www.emailciti.com/www.cookiecentral.com/faq)
 
 
 
@@ -71,4 +69,4 @@ From time to time, we may make changes to the privacy policy. This may be in rel
 
 **Contact us**
 
-For More information or clarification please don’t hesitate to Contact us at : [info@emailciti.com](mailto:info@emailciti.com)
+For more information or clarification please don't hesitate to Contact us at : [info@emailciti.com](mailto:info@emailciti.com)
