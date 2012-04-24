@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rateyourburn.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204031310id_/http%3A//www.rateyourburn.com/blog/page/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateyourburn.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424063033id_/http%3A//www.rateyourburn.com/blog/page/privacy-policy.aspx) for the most accurate reproduction.*
 
 # RateYourBurn | Privacy Policy
+
+[ ](http://www.surfsetfitness.com/popup-showcase/?date=2012-04-02)
 
 **Privacy Policy**   
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
