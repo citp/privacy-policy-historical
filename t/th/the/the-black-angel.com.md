@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180522id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-black-angel.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424093740id_/http%3A//www.the-black-angel.com/content/8-privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - The Black Angel | gothic clothing shop
-
-## Privacy Notice
+# Privacy Notice
 
 The Black Angel (which is owned and run by Supernova Cult S.A.R.L.) is an online shop designed to deliver the best possible experience while shopping for gothic clothing, jewelry and accessories. We appreciate your trust and are committed to protecting the privacy of all and any personal information we are required to gather during your interaction with our online shop.
 
