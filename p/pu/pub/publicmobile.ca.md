@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmobile.ca privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203013806id_/http%3A//www.publicmobile.ca/pmconsumer/images/pmdocuments/en/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmobile.ca privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424214321id_/http%3A//www.publicmobile.ca/pmconsumer/images/pmdocuments/en/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy with Public Mobile
 
@@ -33,11 +33,9 @@ How will Public Mobile know if my information is accurate?
 Public Mobile endeavours to ensure that the customer information provided by the customer is accurate, complete and up-to-date
 and Public Mobile relies on the Customer in this regard.
 How do I contact Public Mobile if I have a question?
-A senior company officer has been appointed as the Privacy Officer at Public Mobile. The Privacy Officer is accountable for all
-personal information at Public Mobile. You may contact the Privacy Officer at:
 By Mail:
-Privacy Officer
 Public Mobile
-1920 Yonge Street, 4th floor
-Toronto, ONTARIO
-M4S 3E2
+P.O. Box 48039
+1881 Yonge Street
+Toronto
+M4S 3E6
