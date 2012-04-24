@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224212951id_/http%3A//www.edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424061344id_/http%3A//www.edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
 
 # EDGAR Online – We care about financial data as much as you do
 
