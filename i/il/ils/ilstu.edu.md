@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203021639id_/http%3A//illinoisstate.edu/downloads/web-privacy-statement-2010.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilstu.edu privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424213303id_/http%3A//illinoisstate.edu/downloads/web-privacy-statement-2010.pdf) for the most accurate reproduction.*
 
 # 
 
