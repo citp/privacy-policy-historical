@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025135251id_/https%3A//www.billeo.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424125842id_/https%3A//www.billeo.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Billeo
 
@@ -6,7 +6,7 @@ At Billeo, Inc. your security and privacy is a top priority and we are committed
 
 Billeo, Inc. is a licensee of the TRUSTe Privacy Program. Billeo.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. TRUSTe is an independent non-profit organization, whose mission is to build users' trust and confidence on the Internet, by promoting use of fair information practices. The privacy statement covers the site [www.billeo.com](https://web.archive.org/page/homepage.jsp?sitename=billeo). Because this website wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed by the compliance by TRUSTe.
 
-If you have questions or concerns about the TRUSTe Privacy Program, please contact us at [support@billeo.com](mailto:support@billeo.com?subject=Support). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/pvr.php?page=complaint](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns about the TRUSTe Privacy Program, please contact us at [support@billeo.com](mailto:support@billeo.com?subject=Support). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/pvr.php?page=complaint](http://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The TRUSTe program covers information that is collected through the Browser App and the website.
 
@@ -60,19 +60,19 @@ To modify your e-mail subscriptions, please let us know by modifying your prefer
 
 To delete all of your online account information from our database, sign into the "Preferences" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-If your personally identifiable information changes you may correct, update, or delete it by making the change on our member profile page or by e-mailing us at [support@billeo.com](mailto:support@billeo.com?subject=Support).
+If you're personally identifiable information changes you may correct, update, or delete it by making the change on our member profile page or by e-mailing us at [support@billeo.com](mailto:support@billeo.com?subject=Support).
 
-If you no longer desire our service, you may uninstall the Browser App and cancel your account at any time using the Uninstall menu option in the Browser App or by using the Add/Remove programs function on your PC. Doing so removes the Browser App and all of its associated files except for the Vault files that contain your private information (i.e. your encrypted password, contact and payment information which you stored using the Billeo service). We leave the Vault files on your system after uninstall because this data is yours. So, if you need to access this information again you'll need these files. If you wish to remove these files from your system please follow the steps defined in [this FAQ](https://web.archive.org/web/20111025135251id_/https%3A//www.billeo.com/faq/faq_remove_vault.html).
+If you no longer desire our service, you may uninstall the Browser App and cancel your account at any time using the Uninstall menu option in the Browser App or by using the Add/Remove programs function on your PC. Doing so removes the Browser App and all of its associated files except for the Vault files that contain your private information (i.e. your encrypted password, contact and payment information which you stored using the Billeo service). The vault files are not removed during the uninstallation, as you would need these files if you should want to have access to your information again later (e.g., you are planning to reinstall Billeo later). If you wish to remove these files permanently please follow the steps defined in [this FAQ](https://web.archive.org/web/20120424125842id_/https%3A//www.billeo.com/faq/faq_remove_vault.html).
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. This policy was last modified on August 27, 2008.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. This policy was last modified on December 20, 2011.
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
 This online privacy policy applies only to information collected through our Web site and not to information collected offline.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20111025135251id_/https%3A//www.billeo.com/corporate/tandc.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20120424125842id_/https%3A//www.billeo.com/corporate/tandc.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 By using our site, you consent to our privacy policy.
 
