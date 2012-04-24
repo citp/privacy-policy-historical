@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225003705id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.groovejob.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovejob.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424074433id_/http%3A//www.internetbrands.com/ib/privacy/employment-database%3Fsite%3Dwww.groovejob.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
