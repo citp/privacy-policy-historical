@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012133232id_/http%3A//www.westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426011004id_/http%3A//westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - West Coast University
+# Privacy Policy | WCU
 
 West Coast University is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
@@ -9,6 +9,8 @@ West Coast University is committed to safeguarding your privacy online. Please r
 West Coast University collects information in several ways from different parts of our websites. Some personal information is gathered if you register with us. During registration, West Coast University may ask for personal information such as your name, email address, gender, zip/postal code, occupation, industry and personal interests.
 
 In addition to registration, we may ask you for personal information at other times, including, (but not limited to), when you download a file (such as a .PDF file) from us, when you ask us to contact you, when you join our mailing list; and when you report a problem with one of our sites or services. If you contact West Coast University, we may keep a record of that correspondence. West Coast University may also occasionally ask users to complete surveys that we use for research. Wherever West Coast University collects personal information we make an effort to include a link to this Privacy Policy on that page.
+
+To be removed from any future communication, email or otherwise, [click here.](http://westcoastuniversity.edu/cpl/opt-out.html)
 
 ### What are cookies and how does West Coast University use them? 
 
