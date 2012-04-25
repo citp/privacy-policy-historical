@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225222528id_/http%3A//xxxx.com.au/privacy.php%3Fw%3D500%26h%3D600%26s%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425074812id_/http%3A//xxxx.com.au/privacy.php%3Fw%3D500%26h%3D600%26s%3Dyes) for the most accurate reproduction.*
 
 # XXXX Privacy Policy
 
