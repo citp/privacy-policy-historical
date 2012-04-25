@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110032844id_/http%3A//static.intertechmedia.com/Entercom/Entercom_EEO_January_2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425033724id_/http%3A//static.intertechmedia.com/Entercom/Entercom_EEO_January_2007.pdf) for the most accurate reproduction.*
 
 # 
 
