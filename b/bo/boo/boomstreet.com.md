@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228122608id_/http%3A//boomstreet.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomstreet.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425065954id_/http%3A//boomstreet.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Atlanta
 
@@ -78,7 +78,7 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 
 ### 10\. Miscellaneous Privacy Issues
 
-**Children.** Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Site is not directed to children, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and you become aware that the child has provided us with personal information without your consent, please contact us at [privacy@tippr.com](https://web.archive.org/web/20111228122608id_/http://boomstreet.com/legal/privacy/privacy@tippr.com).
+**Children.** Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Site is not directed to children, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and you become aware that the child has provided us with personal information without your consent, please contact us at [privacy@tippr.com](https://web.archive.org/web/20120425065954id_/http://boomstreet.com/legal/privacy/privacy@tippr.com).
 
 **Public Areas.** We may provide areas on our Site where you can publicly post information about yourself, can communicate with others, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information.
 
