@@ -1,31 +1,34 @@
-> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141132id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes%3Fd_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrecipes.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
 # MyRecipes.com Privacy Policy
 
-  |  |  |   |    
+  | [](http://www.myrecipes.com/) |  |   |    
 **PRIVACY NOTICE** |    
   
 **Table of Contents** |    
-* The Information We Collect
-* How We Use the Information 
-* Collection of Information by Third-Party Sites and Sponsors
-* Privacy Options
-* Cookies
-* Our Commitment to Security
-* How You can Access or Correct Information
-* Special Note for Parents
-* Changes to this Notice
-* How to Contact Us
+  
+  * The Information We Collect
+  * How We Use the Information 
+  * Privacy Options
+  * Your California Privacy Rights: Notice to California Customers
+  * Collection of Information by Third-Party Sites and Sponsors
+  * Cookies
+  * Our Commitment to Security
+  * How You can Access or Correct Information
+  * Special Note for Parents
+  * Changes to this Notice
+  * How to Contact Us
+
 | 
 
-[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?dnp_source=K&tmpl=generic_privacy_new_eu)   
-[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?dnp_source=K&tmpl=generic_privacy_new_caneu)
+[European Union Privacy Information](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new_eu.html?dnp-source=E)   
+[Canada Privacy Information](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new_caneu.html?dnp-source=E)
 
 |    
   
-This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?dnp_source=K&tmpl=generic_privacy_new_eu) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?dnp_source=K&tmpl=generic_privacy_new_caneu). 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new_eu.html?dnp-source=E) or [Canada](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new_caneu.html?dnp-source=E). 
 
-Thank you for visiting MyRecipes.com, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
+Thank you for visiting MyRecipes.com, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
 
 |    
   
@@ -36,7 +39,7 @@ We may also collect information about your personal or professional interests an
 
 At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number. 
 
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP Address and your Internet service provider, and location-based information. 
+We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information. 
 
 | back to top  
   
@@ -61,43 +64,46 @@ We will disclose information we maintain when required to do so by law, for exam
 
 Agents and contractors of Time Inc. that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc. 
 
-We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise or defense of legal claims. 
+We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise or defense of legal claims, to protect the rights and property of Time Inc., our agents, customers, and others, including to enforce our agreements, policies and terms of use; or to protect the personal safety of any person. 
 
-Please note that if Time Inc. or any of its subsidiaries or lines of business is sold or otherwise disposed of, including through merger of, consolidation or sale of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred or otherwise disclosed as part of that transaction. 
+Please note that if Time Inc. or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested or otherwise disclosed as part of that transaction or proceeding. 
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
 
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?tmpl=generic_privacy_form_offline&dnp_source=K&referring_url=). |    
-  
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/myrecipes?tmpl=generic_privacy_form_online&dnp_source=K&referring_url=). 
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_form_offline.html?dnp-source=E).
+
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc., please [click here](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_form_online.html?dnp-source=E). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
 | back to top  
   
+**Your California Privacy Rights: Notice to California Customers**  
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20120425091551id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us via email or postal address described below. |    
+  
 **Collection of Information by Third-Party Sites and Sponsors**  
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
+Some of our sites contain links to other sites whose information practices may be different than ours. Time Inc. also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information. 
 
-Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP Address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
+Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
 
-Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
+Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
 
 |    
   
 **Cookies**  
-To enhance your online experience we use cookies. Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+To enhance your online experience we use cookies. Cookies are text files we place in your computer's browser to remember you and your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand Internet usage and to improve our content, offerings and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
 
-We may also use small pieces of code such as "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://www.timeinc.net/legal/cookies.html). 
+We may also use small pieces of code such as "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/cookies.html). 
 
 | back to top  
   
 **Our Commitment to Security**  
-We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect.  |    
+We have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.  |    
   
 **How You can Access or Correct Information**  
 To inquire about personally identifiable information that this Time Inc. site has collected about you, or how to correct factual errors in such information, please email us by clicking [here](mailto:privacy@timeinc.customersvc.com).  |    
@@ -105,7 +111,8 @@ To inquire about personally identifiable information that this Time Inc. site ha
 **Special Note for Parents**  
 The site you are visiting is one of the Time Inc. general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.  |    
   
-**Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.  |    
+**Changes to this Notice**  
+This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it and under what circumstances we may disclose it.  |    
   
 **How to Contact Us**  
 If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](mailto:privacy@timeinc.customersvc.com) or at the following address:
@@ -118,4 +125,4 @@ Tampa, Florida 33612-6408
 [http://www.MyRecipes.com](http://www.myrecipes.com/)
 
 | back to top  
-|  This Privacy Notice was revised 1/20/2011.
+This Privacy Notice was revised 3/21/2012.  |  
