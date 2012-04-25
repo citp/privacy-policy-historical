@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpa-city.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129051422id_/http%3A//cpa-city.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpa-city.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425212418id_/http%3A//cpa-city.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPA Marketing Tips N Techniques
 
