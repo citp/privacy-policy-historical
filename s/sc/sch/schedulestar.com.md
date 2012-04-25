@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedulestar.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429012156id_/http%3A//www.schedulestar.com/PDF/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedulestar.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425121059id_/http%3A//www.schedulestar.com/PDF/privacypolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
