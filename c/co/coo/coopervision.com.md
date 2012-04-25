@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopervision.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202230550id_/http%3A//www.coopervision.com/sites/default/files/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopervision.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425114202id_/http%3A//www.coopervision.com/sites/default/files/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # This site is governed solely by applicable U.S. laws and governmental regulations. Please see our Privacy Policy. Use of this site constitutes your consent to application of such laws and regulations and to our Privacy Policy. Your use of the information on this site is subject to the terms of our Legal Notice. To contact us, use the Contact Us section or use the Comments capability at the end of each post.
 
