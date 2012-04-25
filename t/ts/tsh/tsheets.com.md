@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231100405id_/http%3A//www.tsheets.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425084801id_/http%3A//www.tsheets.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Web TimeSheet Software, Time Tracking Software, Time Sheets, Online TimeSheet
 
