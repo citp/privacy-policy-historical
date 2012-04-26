@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229232151id_/http%3A//www.easypromosapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypromosapp.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426211034id_/http%3A//www.easypromosapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Easypromos - Privacy policy - Create promotions and contests in your Facebook page.
 
