@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mysears.com privacy policy that was archived on 2011-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111228025603id_/http%3A//www.mysears.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysears.com privacy policy that was archived on 2012-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120426183605id_/http%3A//www.mysears.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!--<![endif]--><!--
   All HTML, JavaScript, other software code, and design elements are
@@ -30,6 +30,25 @@
   _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_setAllowHash',   false]);
 
+  (function() {
+    var referer = "";
+    if ( typeof vtp_cookie === "undefined" ) {
+      var regex = new RegExp( '(^|;)\\s*' + escape( "cas_referer" ) + '=([^;\\s]*)' );
+      var cookie = document.cookie.match( regex );
+      if ( cookie !== null ) {
+        referer = unescape( cookie[ 2 ] );
+        document.cookie = "cas_referer=; expires=Thu, 01-Jan-70 00:00:01 GMT;";
+      };
+    } else {
+      referer = vtp_cookie.get('cas_referer');
+      vtp_cookie.erase('cas_referer');
+    }
+
+    if ( referer !== "" ) {
+      _gaq.push( [ '_setReferrerOverride',  referer ] );
+    }
+  })();
+
   
   if (_gaq_vtp.in_page_analytics) {
     _gaq.push(['_setAccount', _gaq_vtp.in_page_analytics]);
@@ -38,6 +57,7 @@
   }
 
   
+
   _gaq.push(['_setAccount',    _gaq_vtp.standard_rollups]);
   _gaq.push(['_trackPageview', _gaq_vtp.custom_page_url]);
   _gaq.push(['_trackPageLoadTime']);
@@ -49,34 +69,33 @@
     s.parentNode.insertBefore(g, s);
   })();
 </script>
-
   
 <meta name="y_key" content="f826e47cf008e01f">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 
-<link rel="canonical" href="http://www.mysears.com/privacy_policy">
+
 <link rel="shortcut icon" href="/favicon_mysears.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="/images/iphone_icon.png?0ec1a3c">
+<link rel="apple-touch-icon" href="/images/iphone_icon.png?25ae3bb">
 
 
-  <link href="/stylesheets/default_css.css?0ec1a3c" media="print,screen" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/cached_content_pages.css?0ec1a3c" media="print, screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/cached_cobrand_mysears.css?0ec1a3c" media="print,screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/default_css.css?25ae3bb" media="print,screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/cached_content_pages.css?25ae3bb" media="print, screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/cached_cobrand_mysears.css?25ae3bb" media="print,screen" rel="stylesheet" type="text/css">
 <!--[if IE]>
-  <link href="/stylesheets/cached_ie_all_mysears.css?0ec1a3c" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/cached_ie_all_mysears.css?25ae3bb" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if lt IE 7]>
-  <link href="/stylesheets/cached_ie_6_mysears.css?0ec1a3c" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/cached_ie_6_mysears.css?25ae3bb" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 
   
 
-<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js?0ec1a3c"></script>
-<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js?0ec1a3c"></script>
-<script src="/javascripts/base_application.js?0ec1a3c"></script>
-<script src="/javascripts/cached_cobrand_mysears.js?0ec1a3c"></script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js?25ae3bb"></script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js?25ae3bb"></script>
+<script src="/javascripts/base_application.js?25ae3bb"></script>
+<script src="/javascripts/cached_cobrand_mysears.js?25ae3bb"></script>
 
 
 
@@ -202,7 +221,7 @@
 
     <div class="footer">
        <div class="footer_copyright">
-  ©2006-2011 Viewpoints Network, LLC or its authorized partners.
+  ©2006-2012 Viewpoints Network, LLC or its authorized partners.
 </div>
 
 
