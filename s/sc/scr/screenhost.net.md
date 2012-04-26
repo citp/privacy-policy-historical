@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenhost.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007231251id_/http%3A//screenhost.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenhost.net privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426080535id_/http%3A//screenhost.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Porn Screen Host
 
