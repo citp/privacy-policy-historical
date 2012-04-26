@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkwood.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220075459id_/http%3A//www.kirkwood.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkwood.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426095122id_/http%3A//www.kirkwood.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy | Kirkwood Mountain Resort
 
