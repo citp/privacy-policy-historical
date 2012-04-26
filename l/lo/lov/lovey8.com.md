@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217014028id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426205411id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Y8 Games
 
