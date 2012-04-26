@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210085803id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2012-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120426233118id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
 
 # IPS Privacy Policy
 
