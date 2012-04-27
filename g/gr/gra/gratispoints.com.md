@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211011022id_/http%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427222545id_/http%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GratisPoints
 
@@ -54,7 +54,7 @@ GratisPoints does not sell or rent user information to anyone. We will notify yo
 
 **What is GratisPoints's policy on allowing me to update, correct or delete my personally identifiable information?**
 
-You may edit your GratisPoints Account Information and your public GratisPoints Profile at any time by using your GratisPoints ID and password. If you have forgotten your password, [please click here](https://web.archive.org/web/20111211011022id_/http%3A//www.gratispoints.com/forgot_password.php).
+You may edit your GratisPoints Account Information and your public GratisPoints Profile at any time by using your GratisPoints ID and password. If you have forgotten your password, [please click here](https://web.archive.org/web/20120427222545id_/http%3A//www.gratispoints.com/forgot_password.php).
 
 Your GratisPoints account can be deleted or deactivated. Please contact [support@sureyhelpcenter.com](mailto:support@sureyhelpcenter.com) for further instructions about deleting or deactivating your GratisPoints account.
 
