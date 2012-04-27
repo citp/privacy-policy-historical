@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # www.scales-chords.com privacy policy
 
@@ -7,7 +7,7 @@
 
 ## Privacy Policy for www.scales-chords.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/contact.php). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/contact.php). 
 
 At www.scales-chords.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scales-chords.com and how it is used.
 
@@ -45,34 +45,34 @@ Support us on Google +1:
 
 Brief description of the tools we provide.
 
-### [Scale Finder](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/scalefinder.php)
+### [Scale Finder](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/scalefinder.php)
 
-[](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/scalefinder.php)
+[](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/scalefinder.php)
 
 Helps you find the scales that fit a particular melody or chord progression. Use this tool to complete your song or to identify the correct scales to solo.
 
-### [Progression Analyser](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chordscalefinder.php)
+### [Progression Analyser](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chordscalefinder.php)
 
-[](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chordscalefinder.php)
+[](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chordscalefinder.php)
 
 Analyses your song or chord to progression. It allows you to identify underlying scales to the progression and sugests new chords to resolve your song.
 
-### [Chord Identifier](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chordid.php)
+### [Chord Identifier](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chordid.php)
 
-[](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chordid.php)
+[](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chordid.php)
 
 Searches the chord database for chords that have a specific set of notes. It allows flexibility on the key tone of the chord or on the complexity of the chord.
 
-### [Scale Navigator](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/scalenav.php)
+### [Scale Navigator](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/scalenav.php)
 
-[](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/scalenav.php)
+[](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/scalenav.php)
 
 Enables you to browse our Musical Scale Database. The database provides information about scale structure, harmonized chords and related scales.
 
-### [Chord Database](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chdbmain.php)
+### [Chord Database](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chdbmain.php)
 
-[](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/chdbmain.php)
+[](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/chdbmain.php)
 
 Our chord database has all types of chords, alternative designations and alternative charts. For now only guitar chord charts are available, Piano chord charts we be available soon.
 
-Our policy is very private. Checkout our [privacy policy](https://web.archive.org/web/20111223210623id_/http%3A//www.scales-chords.com/privacypolicy.html)
+Our policy is very private. Checkout our [privacy policy](https://web.archive.org/web/20120427192428id_/http%3A//www.scales-chords.com/privacypolicy.html)
