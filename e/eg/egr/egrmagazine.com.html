@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the egrmagazine.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006064631id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egrmagazine.com privacy policy that was archived on 2012-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120427193151id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -17,51 +17,179 @@ Privacy Policy - EGR Magazine
 </title>
 <link href="http://www.egrmagazine.com/themes/egr/css/styles.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://www.egrmagazine.com/themes/egr/css/magazinestyles.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.egrmagazine.com/themes/egr/css/jsDatePick_ltr.min.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.egrmagazine.com/themes/egr/css/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.egrmagazine.com/themes/_common/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jsDatePick.min.1.3.js"></script>
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js"></script>-->
+<script src="http://www.egrmagazine.com/themes/egr/js/remember_me.js" type="text/javascript"></script>
+<script src="http://www.egrmagazine.com/themes/egr/js/jquery.alerts.js" type="text/javascript"></script>
+<script type="text/javascript">
+window.onload = function() {
+  remCookie();
+};
+$(document).ready(function() {
+	$(".tab li a").mouseover(function(){			
+		
+		if($(this).html() == "Opinion" || $(this).html() == "Reviews" || $(this).html() == "Special Reports" || $(this).html() == "Events" || $(this).html() == "Jobs") 
+		{		
+			$(".advertisement").show();	
+			$('#anews').removeClass();
+			$('#anews').addClass("default");
+			$("#news-menu").hide();				
+		}
+		
+		if($(this).html() == "News") 
+		{					
+			$(".advertisement").hide();			
+			$("#news-menu").show();
+			$(this).addClass("current");
+			//$(this).src();
+		}
+   });
+   
+	$(".tab li a").click(function(){			
+		if($(this).html() == "Opinion" || $(this).html() == "Reviews" || $(this).html() == "Special Reports" || $(this).html() == "Events" || $(this).html() == "Jobs") 
+		{
+			$(this).src();				
+		}	
+	});
+	 
+	$(".tab li a").mouseout(function(){
+		if($(this).html() == "Opinion" || $(this).html() == "Reviews" || $(this).html() == "Special Reports" || $(this).html() == "Events" || $(this).html() == "Jobs") 
+		{ 
+			$('#anews').removeClass();
+			$('#anews').addClass("default");
+		}
+		else if($(this).html() == "News") 
+		{
+		$('#anews').removeClass();
+		$('#anews').addClass("default");
+		$("#news-menu").hide();
+		$(".advertisement").show();	
+		}
+	});
+	
+	$("#egrlogo_img").mouseover(function(){
+						
+		$('#anews').removeClass();
+		$('#anews').addClass("default");
+		$("#news-menu").hide();
+		$(".advertisement").show();	
+		//$(this).src();
+	});
+	$("#sociallinks").mouseover(function(){
+		$('#anews').removeClass();
+		$('#anews').addClass("default");
+		$("#news-menu").hide();
+		$(".advertisement").show();	
+		//$(this).src();
+	});
+	
+	$("#news-menu").mouseover(function(){
+						
+		$(".advertisement").hide();			
+		$("#news-menu").show();
+		$("#anews").addClass("current");
+		//$(this).src();
+	});
+	
+	$("#login-but").click( function() {
+		
+		if(document.getElementById('username').value =="" && document.getElementById('password').value == ""){
+			jAlert('Please insert Username and Password','Egr magazine');
+			return false;
+		}
+		if(document.getElementById('username').value == ''){
+			jAlert('Please insert username','Egr magazine');
+			return false;
+		}
+		if(document.getElementById('password').value == ''){
+			jAlert('please insert password','Egr magazine');
+			return false;
+		}
+		
+		if(document.getElementById('username').value !="" && document.getElementById('password').value != ""){
+			if(readCookie('cu') != '' && readCookie('cp') != '' ){
+				return true;
+			}
+			else{
+				jQuery.alerts.okButton = 'Yes';
+				jQuery.alerts.cancelButton = 'No';
+				jConfirm('Do you want to save password?', 'Egr Magazine', function(r) {
+				if(r){					
+					toMemheader();
+					document.forms[0].submit();
+				}
+				else{
+					document.forms[0].submit();
+				}
+				});
+			}
+		}
+		return false;	
+	});
+});
+</script>
+
 <script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jquery.color.js"></script>
+
 <script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jquery.scripts.js"></script>
-<script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/universal.js"></script>
-<script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/styles.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+	// drop down menu
+	$('div#navigation ul li').hover(function () {
+		var children = $(this).children('ul.children');
+		
+		if (children.length > 0) {
+			children.stop(true,true).slideDown('fast');
+		}
+	}, function () { 
+		var children = $(this).children('ul.children');
+		
+		if (children.length > 0) {
+			children.delay(1).stop(true,true).slideUp('fast');
+		}
+	});
+	
+	// submit button
+	$('input.button').hover(function () {
+		$(this).toggleClass('hover');
+	});
+});
+</script>
 <script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/form.js"></script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26133218-1']);
+  _gaq.push(['_setAccount', 'UA-26133218-1']);  
   _gaq.push(['_trackPageview']);
-
+  _gaq.push(['_setDomainName', 'http://www.egrmagazine.com']);
+  _gaq.push(['_setAllowLinker', false]);  
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-<!--<script type="text/javascript" src="http://www.egrmagazine.com/themes/egr/js/jquery.scripts.min.js"></script>-->
+<script type="text/javascript">
+function recordOutboundLink(link, category, action) {
+try {
+var pageTracker = _gat._getTracker('UA-26133218-1');
+pageTracker._setDomainName('none');
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+pageTracker._trackEvent(category, action);
+setTimeout('document.location = "' + link.href + '"', 100)
+}catch(err){}
+}
+</script>
 
 <meta name="title" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-
-	<script type="text/javascript">
-	if (typeof jQuery != 'undefined') {
-	
-		var activity_register = setTimeout('user_activity_register()', 1000);
-		var activity_register_count = 0;
-		
-		function user_activity_register () {
-			jQuery.post('http://www.egrmagazine.com/users/user_activity');
-			
-			activity_register_count = activity_register_count + 1;	
-			
-			if (activity_register_count < 30) {
-				activity_register = setTimeout('user_activity_register()', 15000);
-			}
-		}
-	}
-	</script>
 </head>
 <body>
 
@@ -71,87 +199,70 @@ Privacy Policy - EGR Magazine
 		<div id="nav">
 		<div id="notices"></div>
 			<div class="ct">
-				<a href="#"><img src="http://www.egrmagazine.com/themes/egr/images/egamingreview.gif" alt="Egaming Review"></a>
+				<a href="#"><img src="http://www.egrmagazine.com/themes/egr/images/egamingreview.gif" width="226" height="40" alt="Egaming Review"></a>
 				<ul class="tab">
 					<li class="default"><a href="#">default</a></li>  
-					<li><a href="#">News</a></li>                          
-					<li><a href="#">Opinion</a></li>
-					<li><a href="http://www.egrmagazine.com/category/categories/listcategory/1010">Reviews</a></li>
-					<li class="wider"><a href="#">Special Reports</a></li> 
-					<li><a href="#">Events</a></li> 
-					<li><a href="#">Jobs</a></li> 
+					<li><a id="anews" href="#">News</a></li>                          
+					<li><a href="category/categories/listcategory/1008">Opinion</a></li>
+					<li><a href="category/categories/listcategory/1010">Reviews</a></li>
+					<li class="wider"><a href="category/categories/listcategory/1009">Special Reports</a></li> 
+					<li><a href="event/events/view">Events</a></li> 
+					<li><a href="job/searchjob/view/job">Jobs</a></li> 
 				</ul>
 			</div>
 		</div>
 		<div id="head">
 			<div class="ct">
-				<a href="#"><img src="http://www.egrmagazine.com/themes/egr/images/egr-logo.gif" alt="EGR"></a>
+				<div id="egrlogo_img">
+					<a href="#"><img src="http://www.egrmagazine.com/themes/egr/images/egr-logo.gif" alt="EGR" width="226" height="109"></a>
+				</div>
 				<div class="panes">
 					<div id="leaderboard" class="advertisement">
-						<!--IFRAME Tag // Tag for network 762: Pageant Media Limited // Website: eGaming Review (new site) // Page: News // Placement: News leaderboard (3412110) // created at: Sep 15, 2011 10:24:16 AM   -->
-						<iframe width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtech.de/adiframe/3.0/762/3412110/0/225/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="http://adserver.adtech.de/addyn/3.0/762/3412110/0/225/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/762/3412110/0/225/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/762/3412110/0/225/ADTECH;loc=300;grp=[group]" border="0" width="728" height="90"></a></noscript></iframe>
+						<!--IFRAME Tag // Tag for network 762: Pageant Media Limited // Website: eGaming Review (new site) // Page: Home // Placement: Home Leaderboard (3412103) // created at: Oct 12, 2011 1:03:28 PM   -->
+						<iframe width="728" height="90" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtech.de/adiframe/3.0/762/3412103/0/225/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="http://adserver.adtech.de/addyn/3.0/762/3412103/0/225/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/762/3412103/0/225/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/762/3412103/0/225/ADTECH;loc=300;grp=[group]" border="0" width="728" height="90"></a></noscript></iframe>
 						<!-- End of IFRAME Tag -->
 					</div>
 					<div id="news-menu">
 					  <ul>
+							<li><a href="category/categories/listcategory/1">All News</a></li>
 							<li><a href="category/categories/listcategory/1001">Sportsbetting</a></li>
 							<li><a href="category/categories/listcategory/1002">Casino</a></li>
-							<li><a href="category/categories/listcategory/1003">Bingo</a></li>
 					  </ul>
 						<ul>
+							<li><a href="category/categories/listcategory/1003">Bingo</a></li>
 							<li><a href="category/categories/listcategory/1004">Poker</a></li>
 							<li><a href="category/categories/listcategory/1005">People</a></li>
+						</ul>
+						<ul>
 							<li><a href="category/categories/listcategory/1006">The Smoking Gun</a></li>
 						</ul>
 					</div>
-					<div id="news-menu">
-						<ul>
-							<li><a href="category/categories/listcategory/1008">Opinion</a></li>
-						</ul>
-					</div>
-					<div id="news-menu">
-						<ul>
-							<li><a href="category/categories/listcategory/1010">Reviews</a></li>
-						</ul>
-					</div>	
-					<div id="news-menu">
-						<ul>
-							<li><a href="category/categories/listcategory/1009">Special Reports</a></li>
-						</ul>
-					</div>				
-					<div id="news-menu">
-						<ul>
-							<li><a href="event/events/view">View events</a></li>
-							<li><a href="event/events/footerpage">Events</a></li>
-							<li><a href="event/events/detail/egr_operator_awards_2011" target="_black">EGR Awards</a></li>
-						</ul>
-					</div>
-					<div id="news-menu">
-						<ul>
-							<li><a href="job/searchjob/view/job">Search jobs</a></li>
-							<li><a href="job/searchjob/latestjobs/latestjobs">Latest jobs</a></li>
-						</ul>
-					</div>
+				
 				</div>
+				<div id="sociallinks">
 									<div id="account"><!--Logout-->
-						<form method="post" class="form validate" action="http://www.egrmagazine.com/users/post_login">						
+						
+						<form method="post" class="validate" action="http://www.egrmagazine.com/users/post_login">		
+							<input type="hidden" name="return" value="aHR0cDovL3d3dy5lZ3JtYWdhemluZS5jb20vcHJpdmFjeV9wb2xpY3k%3D">
 							<label style="display:none;" for="username">Username</label>
-							<input name="username" type="text" rel="Username" id="username" class="text required mark_empty">						
+							<input name="username" type="text" rel="Username" id="username" class="text required">						
 							<label style="display:none;" for="password">Password</label>
-							<input name="password" id="password" rel="Password" type="password" class="text required mark_empty">
+						<input name="password" id="password" rel="Password" type="password" class="text required">
 							<input id="login-but" type="submit" title="" value="">
 						</form>
+						
 						<a href="users/forgot_password"><em>Forgot Password</em></a>
 						<a href="subscriptions"><em>Subscribe Now</em></a>          
 					</div>
-								<div id="twitter"><a href="http://twitter.com/egamingreview" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/twitter-icon.gif" alt="Twitter"></a></div>
-				<div id="linkedin"><a href="#" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/linkedin-icon.gif" alt="LinkedIn"></a></div>
-				<div id="rss"><a href="rss/feed/view/news_rss" target="_blank"><img src="http://www.egrmagazine.com/themes/egr/images/rss-icon.gif" alt="RSS Feed"></a></div>
+								<div id="twitter"><a href="http://twitter.com/egamingreview" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/twitter-icon.gif" alt="Twitter" height="24" width="24"></a></div>
+				<div id="linkedin"><a href="#" target="_"><img src="http://www.egrmagazine.com/themes/egr/images/linkedin-icon.gif" alt="LinkedIn" height="24" width="24"></a></div>
+				<div id="rss"><a href="rss/feed/view/news_rss" target="_blank"><img src="http://www.egrmagazine.com/themes/egr/images/rss-icon.gif" alt="RSS Feed" height="24" width="24"></a></div>
 				<div class="main-search">
 				<div class="search">
 					<form method="get" action="http://www.egrmagazine.com/search" class="validate">
 						<input type="text" class="text required mark_empty" rel="Search our website" name="q"> <input type="submit" id="search-but" class="button small" name="" value="">
 					</form>
+				</div>
 				</div>
 				</div>
 			</div>
@@ -161,23 +272,23 @@ Privacy Policy - EGR Magazine
 	<div id="content">
 		<div id="aside">
 			<a href="free_trial_signup">
-				<img src="http://www.egrmagazine.com/themes/egr/images/free-trial.jpg" alt="Free Trial">
+				<img src="http://www.egrmagazine.com/themes/egr/images/free-trial.jpg" alt="Free Trial" width="160" height="66">
 			</a>
 						<div id="media">
-				<img src="http://www.egrmagazine.com/themes/egr/images/sign-up.gif" alt="Sign-up">
+				<img src="http://www.egrmagazine.com/themes/egr/images/sign-up.gif" alt="Sign-up" width="78" height="14">
 				<ul>
 					<li><a href="free_trial_signup">EGR online free trial</a></li>
 					<li><a href="newsletter/newsletter_subscriber/subscribe/">Free daily e-newsletter</a></li>
 				</ul> 
 			  <p>&nbsp;</p>
-				<img src="http://www.egrmagazine.com/themes/egr/images/subscribe.gif" alt="Subscribe">
+				<img src="http://www.egrmagazine.com/themes/egr/images/subscribe.gif" alt="Subscribe" width="105" height="14">
 				<ul>
 					<li><a href="subscriptions">EGR online</a></li>
 					<li><a href="subscriptions">EGR magazine</a></li>
-					<li><a href="magazine/egr_magazine_89">Latest issue</a></li>
+					<li><a href="magazine/egr_magazine_issue_95">Latest issue</a></li>
 				</ul> 
 			  <p>&nbsp;</p>
-				<img src="http://www.egrmagazine.com/themes/egr/images/contact.gif" alt="Contact Us">
+				<img src="http://www.egrmagazine.com/themes/egr/images/contact.gif" alt="Contact Us" width="109" height="14">
 				<ul>
 					<li><a href="faqs">FAQs</a></li>
 					<li><a href="advertise_with_us">Advertise</a></li>
@@ -190,11 +301,13 @@ Privacy Policy - EGR Magazine
 				<iframe width="160" height="600" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adserver.adtech.de/adiframe/3.0/762/3412104/0/154/ADTECH;target=_blank;grp=[group]"><script language="javascript" src="http://adserver.adtech.de/addyn/3.0/762/3412104/0/154/ADTECH;loc=700;target=_blank;grp=[group]"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/762/3412104/0/154/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/762/3412104/0/154/ADTECH;loc=300;grp=[group]" border="0" width="160" height="600"></a></noscript></iframe>
 				<!-- End of IFRAME Tag -->
 			</div>
-			<div id="poll"><img src="themes/egr/images/website-poll.gif" alt="Website Poll"><p>Will the ongoing Full Tilt scandal force the US to regulate online poker?  </p>
+			<div id="poll"><img src="themes/egr/images/website-poll.gif" alt="Website Poll"><p>How long will it take social gaming to overtake online gaming revenues?</p>
 				<p>&nbsp;</p><form method="post" action="poll/polls/post">
-					<input type="hidden" name="poll_id" value="10"><input type="radio" id="options_1" name="vote_id" value="37">
-						<label for="Yes">Yes</label><br><input type="radio" id="options_2" name="vote_id" value="38">
-					<label for="No">No</label><br><p>&nbsp;</p>
+					<input type="hidden" name="poll_id" value="38"><input type="radio" id="options_1" name="vote_id" value="149">
+						<label for="1 year">1 year</label><br><input type="radio" id="options_2" name="vote_id" value="150">
+					<label for="3 years">3 years</label><br><input type="radio" id="options_3" name="vote_id" value="151">
+					<label for="5 years">5 years</label><br><input type="radio" id="options_4" name="vote_id" value="152">
+					<label for="Social revenues will never overtake egaming">Social revenues will never overtake egaming</label><br><p>&nbsp;</p>
 							<p><input type="submit" id="submit-poll" value="Submit"></p>
 						</form></div>
 			<div class="bottom">&nbsp;</div>
@@ -213,8 +326,7 @@ Privacy Policy - EGR Magazine
 				<!-- End of IFRAME Tag -->
 			</div>
 		</div>
-		
-		<div id="main">
+				<div id="main">
 			<div class="inner_content">
 				
 	<div class="cms-content">
@@ -267,11 +379,11 @@ Privacy Policy - EGR Magazine
 		<div class="container footer">
 				<div id="footer">
 					<div id="links">
-						<a class="logo" href="http://www.egrmagazine.com/"><img src="http://www.egrmagazine.com/themes/egr/images/logo.jpg" alt="EGR Magazine"></a>
+						<a class="logo" href="http://www.egrmagazine.com/"><img src="http://www.egrmagazine.com/themes/egr/images/logo.jpg" alt="EGR Magazine" width="89" height="41"></a>
 						
 							<ul class="tabmenu" id=""><li class="active"><a href="http://www.egrmagazine.com/privacy_policy">Privacy Policy</a></li><li><a href="http://www.egrmagazine.com/advertise_with_us">Advertise with us</a></li><li><a href="http://www.egrmagazine.com/about_us">About Us</a></li><li><a href="http://www.egrmagazine.com/terms_and_conditions">Terms and Conditions</a></li><li><a href="http://www.egrmagazine.com/contact_us">Contact Us</a></li><li><a href="http://www.egrmagazine.com/faqs">FAQs</a></li></ul>
 				
-						Copyright © EGR.2011 
+						Copyright © EGR.2012 
 					</div>
 					<div id="sitemap">
 						<div class="section">
@@ -317,12 +429,10 @@ Privacy Policy - EGR Magazine
 							<h6>Magazine</h6>
 							<ul>
 								<li><a href="subscriptions">Subscribe</a></li>
-								<!--<li><a href="#">Buy Magazine</a></li>-->
-								<!--<li><a href="#">Magazine Stockists</a></li>-->
-								<li><a href="magazine/egr_magazine_89">Latest Issue</a></li>
+								<li><a href="magazine/egr_magazine_issue_95">Latest Issue</a></li>
 								<li><a href="egr_magazine">Previous Issues</a></li>
 								<li><a href="newsletter/newsletter_subscriber/subscribe/">e-newsletter</a></li>
-								<li><a href="subscriptions">Take free trial</a></li>
+								<li><a href="free_trial_signup">Take free trial</a></li>
 							</ul>
 						</div>       
 					</div>
@@ -332,7 +442,7 @@ Privacy Policy - EGR Magazine
 	</div>
 	<div class="slide-out-div" style="z-index: 999;">
       <a class="handle" href="#">&nbsp;</a>
-  	  <span style="height:228px;padding: 0;"><a href="magazine/egr_magazine_89"><img src="writeable/custom_uploads/4238222c3216856a691a645707fd371d.jpg" alt="issue" width="154" heigth="226"></a></span><span><em>Current Issue</em><br>Issue #89</span><a class="slide-button" href="magazine/egr_magazine_89">Issue Info</a>
+  	  <span style="height:228px;padding: 0;"><a href="magazine/egr_magazine_issue_95"><img src="writeable/custom_uploads/90d214d9790bcf4641b5ee63b07ae6af.jpg" alt="issue" width="154" heigth="226"></a></span><span><em>Current Issue</em><br>Issue #95</span><a class="slide-button" href="magazine/egr_magazine_issue_95">Issue Info</a>
       <a class="slide-button" href="subscriptions">Subscribe</a>
 	</div>
 	</div>
