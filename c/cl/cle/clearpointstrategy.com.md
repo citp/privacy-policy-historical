@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508224831id_/http%3A//www.ascendantsmg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427061419id_/http%3A//www.ascendantsmg.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy :: Ascendant Strategy Management Group
 
