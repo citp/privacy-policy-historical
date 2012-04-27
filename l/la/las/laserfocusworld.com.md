@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2008-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080821103945id_/http%3A//www.laserfocusworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427090149id_/http%3A//www.laserfocusworld.com/content/lfw/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Laser Focus World:Laser, Optics, Photonics News & Technology Advances
+# Laser Focus World Privacy Policy
 
-(Last updated Sept 4, 2003)
+_(Last updated Sept 4, 2003)_
 
-Your privacy on the Internet is important to us at PennWell Corporation ("PennWell"). PennWell is committed to tailoring content to match our user's individual needs, but we also recognize the importance of protecting the personally identifiable information we may collect about you, our users. PennWell has developed this privacy policy in an attempt to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy for your personal information provided to us while visiting any of our web sites. Please review the entire policy and feel free to contact us at [webmaster](mailto:webmaster@pennwell.com) if you have any questions. This policy may change from time to time so please check back periodically so you are familiar with our current privacy policy.
+Your privacy on the Internet is important to us at PennWell Corporation ("PennWell"). PennWell is committed to tailoring content to match our user's individual needs, but we also recognize the importance of protecting the personally identifiable information we may collect about you, our users. PennWell has developed this privacy policy in an attempt to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy for your personal information provided to us while visiting any of our web sites. Please review the entire policy and feel free to contact us at [webmaster](mailto:webmaster@pennwell.com?subject=InfoStor) if you have any questions. This policy may change from time to time so please check back periodically so you are familiar with our current privacy policy.
 
-## PennWell's Collection of User Information
+**PennWell's Collection of User Information**
 
 PennWell collects user information in various ways: personal information (e.g. name, e-mail address, mailing address, industry, occupation) that you supply when registering for, subscribing to, bidding on, or purchasing services or products through our web sites ("personally identifying information"), information that you provide regarding your interests, and activity and preference tracking information from our use of "cookies" and other aggregate activity logging. PennWell does not collect personally identifying information from our users other than what is supplied to us on a voluntary basis.
 
@@ -16,28 +16,28 @@ Our web sites log IP addresses and browser types (primarily for systems administ
 
 PennWell's web sites may contain links to other web sites. We encourage you to visit those web sites to learn more about their online privacy as they may differ from this privacy policy. PennWell does not control the privacy policies of our advertisers, sponsors, or other sites to which we may provide hyperlinks.
 
-## Use of Personal Information Collected
+**Use of Personal Information Collected**
 
 Personally identifying information that we collect may be added to our databases and used for future communications regarding site updates, new products and services, upcoming events, and status of orders placed online. The data that we collect from cookies and browser identification provides demographic data about our audience in the aggregate that we use to improve our service and tailor our offerings. Personal data may also be used for editorial purposes, for marketing and promotional purposes, for a statistical analysis of users' behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of our sites.
 
-## Sharing of Information with Third Parties
+**Sharing of Information with Third Parties**
 
 PennWell may provide personally identifiable information, voluntarily provided by visitors, to third parties who provide products and services that PennWell believes our visitors may be interested in purchasing, obtaining, or learning more about. Many visitors and subscribers find this a valuable and time-saving service. Unless you provide an "opt-out" notice, we may (and you authorize us to) provide your personally identifying information as part of our visitor and subscriber lists for each such third party to use, if we believe our subscribers would be interested in receiving an e-mail or other written correspondence from any such third party. Regardless of any opt-out notice, we will provide your personally identifiable information to third parties if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of PennWell or our users.
 
 We share with our advertisers the data that we collect from cookies and other browser technology or IP addresses to help them better understand our audience and to monitor the reach of their advertising.
 
-## User's Right to Opt-Out
+**User's Right to Opt-Out**
 
 In the event that you do not wish your personally identifying information to be used by third parties to send you information about products and services, you may opt-out of this service by checking the "opt-out" box wherever provided. In addition to such options made available to you when we collect your personally identifying information, you may opt-out of this service at any time by mailing us a letter or sending us an e-mail at the address below, specifying that you have elected to opt-out of any third party mailings. Include your full name, address, and e-mail address with your notice to: PennWell, Privacy Manager, 1421 S. Sheridan Road, Tulsa, OK 74112 or [privacy@pennwell.com](mailto:privacy@pennwell.com). We will update your records as promptly as practical; however, you may receive third-party communications while we process your request.
 
-## Updating Personal Information
+**Updating Personal Information**
 
 If you would like to correct and/or update your personally identifying information or other information that you have supplied, please contact our [webmaster](mailto:webmaster@pennwell.com). Once we have updated your information, we will send a return e-mail indicating that the requested changes have been made.
 
-## Security Features
+**Security Features**
 
 PennWell has implemented a number of security features to prevent the unauthorized release of or access to personally identifying information, such as firewalls and secure servers. The secure server encrypts all information you input before it is sent to us. Please be advised, however, that while we have endeavored to create a secure and reliable site for our users, perfect security is not yet available on the Internet and the confidentiality of any communication or material transmitted to or from us via our sites or e-mail cannot be 100% guaranteed. Accordingly, we are not responsible for the security of information transmitted via the Internet. Once we receive your transmission, we make our best effort to ensure its security on our system. Only authorized personnel have access to any stored personally identifying information which PennWell may collect from its users.
 
-## Children's Privacy
+**Children's Privacy**
 
 It is important to us that we do our part to protect the privacy of children. For this reason, we do not intentionally collect or maintain information through our web sites from those we actually know are under 13, and no part of our web site is designed to target or attract anyone under 13.
