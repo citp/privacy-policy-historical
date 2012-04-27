@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myanmardir.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205122218id_/http%3A//www.myanmardir.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanmardir.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427074901id_/http%3A//www.myanmardir.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Myanmar Directory
 
@@ -6,7 +6,7 @@
 
 The privacy of our clients is of utmost importance to Directory Services.
 
-If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20111205122218id_/http%3A//www.myanmardir.com/contact.php "contact webmaster"). 
+If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20120427074901id_/http%3A//www.myanmardir.com/contact.php "contact webmaster"). 
 
 **Types of Personal Information we collect**
 
@@ -53,6 +53,6 @@ We may update our policies and this Privacy Policy Statement from time to time.
  **  
 Contact us**
 
-If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20111205122218id_/http%3A//www.myanmardir.com/contact.php "contact webmaster").
+If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20120427074901id_/http%3A//www.myanmardir.com/contact.php "contact webmaster").
 
 Find category by Alphabetical: [A](https://web.archive.org/category-A.php "sort categories by Letter A"),[B](https://web.archive.org/category-B.php "sort categories by letter B"),[C](https://web.archive.org/category-C.php "sort categories by letter C"),[D](https://web.archive.org/category-D.php "sort categories by letter D"),[E](https://web.archive.org/category-E.php "sort categories by letter E"),[F](https://web.archive.org/category-F.php "sort categories by letter F"),[G](https://web.archive.org/category-G.php "sort categories by letter G"),[H](https://web.archive.org/category-H.php "sort categories by letter H"),[I](https://web.archive.org/category-I.php "sort categories by letter I"),[J](https://web.archive.org/category-J.php "sort categories by letter J"),[K](https://web.archive.org/category-K.php "sort categories by letter K"),[L](https://web.archive.org/category-L.php "sort categories by letter L"),[M](https://web.archive.org/category-M.php "sort categories by letter M"),[N](https://web.archive.org/category-N.php "sort categories by letter N"),[O](https://web.archive.org/category-O.php "sort categories by letter O"),[P](https://web.archive.org/category-P.php "sort categories by letter P"),[Q](https://web.archive.org/category-Q.php "sort categories by letter Q"),[R](https://web.archive.org/category-R.php "sort categories by letter R"),[S](https://web.archive.org/category-S.php "sort categories by letter S"),[T](https://web.archive.org/category-T.php "sort categories by letter T"),[U](https://web.archive.org/category-U.php "sort categories by letter U"),[V](https://web.archive.org/category-V.php "sort categories by letter V"),[W](https://web.archive.org/category-W.php "sort categories by letter W"),[X](https://web.archive.org/category-X.php "sort categories by letter X"),[Y](https://web.archive.org/category-Y.php "sort categories by letter Y"),[Z](https://web.archive.org/category-Z.php "sort categories by letter Z")
