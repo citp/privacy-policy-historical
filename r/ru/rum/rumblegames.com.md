@@ -1,100 +1,74 @@
-> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumblegames.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427121628id_/http%3A//www.rumblegames.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Rumble | Free to Play Online Games
 
-**Go Daddy Respects Your Privacy**
+_**Last Updated: March 14, 2012**_
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Rumble Entertainment, Inc. (“ _ **Rumble**_ ” or “ _ **we**_ ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information we receive from users of our immersive and accessible social games (each a “ _ **Game**_ ”) which we make available on our site at [www.rumblegames.com](http://www.rumblegames.com/) (“ _ **Rumble Site**_ ”) as well as, in our discretion, on a number of third party-platforms, including social networks (each a “ _ **Third Party Platform**_ ”). As used in this Privacy Policy, “ _ **Personal Information**_ ” refers to information about you that can be used to contact or identify you.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy in the Game. You are advised to consult this policy regularly for any changes. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
 **Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Our primary goals in collecting information are to enable you to enjoy and play our Games, as well as to provide related services, features and content and to administer your membership (together, the “ _ **Services**_ ”).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+__Personal information__ _._
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * If you decide to play a Game available on a Third Party Platform, you will just have to click on the Rumble application available on the applicable Third Party Platform (“ _ **Application**_ ”). Upon clicking on the Application, we will extract the information that you have provided to the Third Party Platform (for instance, your “real” name and your user name, such as your Facebook ID) from the account that you have with such Third Party Platform).   If you are accessing a Game through the Rumble Site, you will be required to provide certain information to us, including Personal Information such as email address and password. Based on the foregoing information, we will create a new account for you (“ _ **Rumble Account**_ ”), and you will become a “ _ **User**_ ”.
+  * Once you become a User, you may be able to provide us with additional information as part of your User profile, such as your User name, country, gender and avatar.  In addition, if you decide to engage in commercial transactions (e.g., to purchase virtual goods), you may be required to provide information such as your “real” name, phone number, credit card or other billing information, postal address and email address. We use such Personal Information to complete your transactions, administer your inquiries and provide the Services to you. In addition, if you decide to participate in surveys, contests or sweepstakes in the Game (any of these a “ _ **Promotion**_ ”), you may be required to provide us with Personal Information like your email address, physical address, or telephone number to administer your participation in the Promotion.
+  * We may also collect the other information that you provide as part of registration and the administration and personalization of your User profile (e.g., without limitation, zip code (on its own) and individual preferences) as well as certain information about your computer or device, such as operating system, software version and, for Games that we made decide to make available on mobile properties, device ID) (collectively, “ _ **Non-Identifying Information**_ ”).
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). 
+  * We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Games and the Services and to analyze and understand how our Games and the Services are used.   We may also use the combined information without aggregating it to serve you specifically, for instance to deliver ads or products to you according to your preferences or restrictions.
+  * We also use your Personal Information to contact you with our newsletters, marketing or promotional materials, including without limitation Promotions, and other information that may be of interest to you. If you do not wish to receive such communications, you may unclick the marketing box at registration, or do that later via your profile page.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+__Log Data__ _._  When you access a Game or the Rumble Site, whether as a User or a non-registered user, we may collect anonymous information such as your computer’s IP address, browser type or the webpage you were visiting before you came to our Game or the Rumble Site, play data and session data (“ _ **Log Data**_ ”).  A number of third parties may also collected Log Data via the Games or the Rumble Site.  This information may be used to monitor and analyze use of the Games and the Services and for technical administration, as well as to increase our Game’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  For example, some of this information may be used so that when you access the Game again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that Users meet the criteria required to process their requests. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Cookies**
+
+Like many websites, we may use “cookies” to collect information.  A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.  We may use cookies for two purposes.  First, we utilize persistent cookies to save your registration ID and login password for future logins to the Games and the Rumble Site.  Second, we may utilize session ID cookies to enable certain features of the Games and the Rumble Site, to better understand how you interact with the Games and the Rumble Site and to monitor aggregate usage and web traffic routing on the Games and the Rumble Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Games and the Rumble Site and then close your browser. Third parties, including advertisers, may also place or read cookies on your browser as you play Games or visit the Rumble Site.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Game or the Rumble Site or all functionality of the Services.  
+
+**Information Sharing and Disclosure**
+
+__Service Providers__.  We may employ third party companies and individuals to facilitate our providing the Games and the Services, and to perform Game-related services (e.g., without limitation, maintenance services, database management, administration of Promotions, web analytics and improvement of the Game’s features) or to assist us in analyzing how our Game and Services are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. 
+
+__Aggregate Information and Non-Identifying Information; Advertisers__.  We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.  We may also decide to share Non-Identifying Information (including the device ID, if applicable) and Log Data and other aggregated information with advertisers. Such information may be used to send you advertisements for products and services that are relevant to your interests. 
+
+__User Profile__.  Any information that you provide as part of your User profile will be viewable by other users. You can choose what Personal Information you provide as part of such profile.  Providing such information is voluntary and should correlate with the degree of interaction you want to have with other Users.   We recommend that you guard your anonymity and sensitive information and that you not use your real name as your “screen name,” since that would allow others to identify you.
+
+__User Interactions__. If you engage in any interaction with other Users or post comments, you may be disclosing to other Users Personal Information or Non-Identifying Information about yourself. We encourage you to be very careful, particularly when doing so may reveal your identity or provide other Users with the ability to locate you or contact you in the “real world”.
+
+__Compliance with Laws and Law Enforcement__.  Rumble cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Rumble or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+
+__Business Transfers__.  Rumble may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+
+**Changing or Deleting Your Information**
+
+You may review, update, correct or delete the Personal Information in your Rumble Account by contacting us by using a form available in the Game. However, if you wish to make any changes to the information contained in your Third Party Platform account, you need to do that through the applicable Third Party Platform.
+
+If you completely delete all information in your Rumble Account, then your Rumble Account may become deactivated.  If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record.  See below for privacy contact information.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Rumble is very concerned with safeguarding your information.  We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
 
-**Updating Your Information**
+We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Game in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**International Transfer**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Rumble transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Links to Other Sites**
 
-      iii.      You may call us at: (480) 505-8800
+Our Game contains links to other websites.  If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website.  The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These third parties may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other sites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-       iv.      You may fax us at: (480) 505-8844
+**Our Policy Toward Children**
 
-**Sending Emails**
+This Game is not directed to children under 13. We do not knowingly collect personal information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [info@rumblegames.com](mailto:info@rumblegames.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Contacting Us**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about this Privacy Policy, please contact us at [info@rumblegames.com](mailto:info@rumblegames.com).
