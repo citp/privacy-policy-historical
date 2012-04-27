@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212030219id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonddiet.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428002819id_/http%3A//www.beyonddiet.com/Members/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond Diet
 
