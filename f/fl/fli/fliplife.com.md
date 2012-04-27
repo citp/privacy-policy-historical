@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliplife.com privacy policy that was archived on 2011-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110808044646id_/http%3A//fliplife.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliplife.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427214555id_/http%3A//fliplife.com/privacypolicy) for the most accurate reproduction.*
 
 # Fliplife
 
@@ -40,7 +40,23 @@ You have the right to request access to the information about you stored by _Fli
 
 We process the information collected from you in accordance with German data protection laws. All employees are bound by data secrecy and data protection requirements and are trained in this subject. During payment processes, your data will be encrypted for transmission via an SSL protocol.
 
-### 9\. Changes to this Privacy Policy
+### 9\. Notes regarding the use of Social Plugins
+
+Our website uses social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo (white letter f on blue background or a thumb up icon) or the notice “Facebook Social Plugin”. For a full list of all social Plugins please see <http://developers.facebook.com/plugins>.
+
+When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. Thus we have no influence on the data gathered by the plugin and inform you according to our [state of knowledge](http://www.facebook.com/help/?faq=17512):
+
+The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our website. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmits your IP-address to Facebook.
+
+For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook's privacy policy: <http://www.facebook.com/policy.php>.
+
+If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website.
+
+Further you can block Facebook social Plugins by using add-ons for your browser, like the "[Facebook Blocker](http://webgraph.com/resources/facebookblocker/)".
+
+Source: [SCHWENKE & DRAMBURG – spreerecht.de](http://spreerecht.de/datenschutz/2010-10/das-rechtliche-risiko-bei-facebooks-like-button-inkl-muster-fuer-die-datenschutzerklaerung)
+
+### 10\. Changes to this Privacy Policy
 
 We reserve the right to adjust this Privacy Policy in accordance with future changes in the use of your personal information. 
 
