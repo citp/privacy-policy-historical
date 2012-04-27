@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210123743id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427202022id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Kentucky.gov:
 
