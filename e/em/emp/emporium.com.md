@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120150008id_/http%3A//www.emporium.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427042519id_/http%3A//www.emporium.com/privacy_policy) for the most accurate reproduction.*
 
 # Emporium - Privacy Policy
 
@@ -27,7 +27,7 @@ Emporium does not rent, sell, or share personal information about you with other
 
 • We provide the information to trusted parties who work on behalf of or with Emporium under confidentiality agreements. These companies may use your personal information to help Emporium fulfill orders, process credit card payments, evaluate Emporium.com or communicate with you about offers from Emporium and our suppliers. However, these companies do not have any independent right to share this information. You may opt out of future marketing communications from Emporium or our suppliers at any time by writing to us at 
 
-EMPORIUM  
+Emporium  
 Attn: Privacy Policy  
 4607 Lakeview Canyon Rd Suite 455  
 Westlake Village, CA 91361
@@ -38,7 +38,7 @@ Westlake Village, CA 91361
 
 • We may transfer information about you in connection with an acquisition of Emporium or a merger with another company. In this event, Emporium will notify you if information about you becomes subject to a different privacy policy. 
 
-• We may share customer information with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes. For example, we may share personal information with third parties to perform services on our behalf such as fulfilling customer orders, sending EMPORIUM marketing communications, delivering packages, scheduling and performing installations, servicing products, maintaining our loyalty program, fulfilling subscription services, conducting research, analysis or administering surveys, sending regular mail and e-mail on behalf of EMPORIUM, processing credit card payments. 
+• We may share customer information with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes. For example, we may share personal information with third parties to perform services on our behalf such as fulfilling customer orders, sending Emporium marketing communications, delivering packages, scheduling and performing installations, servicing products, maintaining our loyalty program, fulfilling subscription services, conducting research, analysis or administering surveys, sending regular mail and e-mail on behalf of Emporium, processing credit card payments. 
 
 • Emporium has hired a third-party Web site development company to operate this Web site pursuant to a written agreement with Emporium. The Web site company collects and has access to all information collected in connection with Emporium.com, and it has agreed in writing to be bound by the terms and conditions of this privacy policy. 
 
@@ -48,7 +48,7 @@ Westlake Village, CA 91361
 
 **Links to Other Websites and Services**
 
-For your convenience, our Web site may contain links to other sites. Links that appear on EMPORIUM.com should not necessarily be deemed to imply that we endorse or have any affiliation with the linked Web sites. EMPORIUM is not responsible for the privacy practices or the content of such Web sites. We encourage you to review the separate privacy policies of each site you visit. Your Consent and Changes to this Privacy Policy By using Emporium.com, you consent to the collection and use of your information as we have outlined in this privacy policy. If you do not agree to our policy, you may not use Emporium.com. We may change this privacy policy at any time and without prior notice. We will notify you about significant changes in the way we treat personal information by sending a notice to an e-mail address you have provided to us or by placing a prominent notice on Emporium.com so that you may be aware of our actions. Your continued use of Emporium.com following any such notice will mean that you accept such changes. 
+For your convenience, our Web site may contain links to other sites. Links that appear on Emporium.com should not necessarily be deemed to imply that we endorse or have any affiliation with the linked Web sites. Emporium is not responsible for the privacy practices or the content of such Web sites. We encourage you to review the separate privacy policies of each site you visit. Your Consent and Changes to this Privacy Policy By using Emporium.com, you consent to the collection and use of your information as we have outlined in this privacy policy. If you do not agree to our policy, you may not use Emporium.com. We may change this privacy policy at any time and without prior notice. We will notify you about significant changes in the way we treat personal information by sending a notice to an e-mail address you have provided to us or by placing a prominent notice on Emporium.com so that you may be aware of our actions. Your continued use of Emporium.com following any such notice will mean that you accept such changes. 
 
 **California Privacy Rights**
 
@@ -58,7 +58,7 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
 If you wish to correct, update or remove any personal information that you have provided through Emporium.com, please write us at: 
 
-EMPORIUM  
+Emporium  
 Attn: Privacy Policy  
 4607 Lakeview Canyon Rd Suite 455  
 Westlake Village, CA 91361
