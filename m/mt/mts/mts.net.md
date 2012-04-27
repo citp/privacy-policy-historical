@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mts.net privacy policy that was archived on 2011-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110916235712id_/http%3A//www.mts.ca/portal/site/mts/menuitem.0290497802902f369e5e921031248a0c/%3Fvgnextoid%3D6830653e8f691010VgnVCM1000000408120aRCRD%26vgnextchannel%3D7c8f653e8f691010VgnVCM1000000408120aRCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.net privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427040605id_/http%3A//www.mts.ca/portal/site/mts/menuitem.0290497802902f369e5e921031248a0c/%3Fvgnextoid%3D6830653e8f691010VgnVCM1000000408120aRCRD%26vgnextchannel%3D7c8f653e8f691010VgnVCM1000000408120aRCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
 
-# Privacy Code (Last Updated January, 2009) | MTS
+# Privacy Code | MTS
 
-Manitoba Telecom Services, comprised of Manitoba Telecom Services Inc. and a number of subsidiaries including MTS Allstream Inc., and AAA Alarm Systems Ltd. (hereafter the "Company"), provides a complete range of services to customers, including local and long distance voice and data, wireless, directory, Internet access and security alarm services in Canada.
+Manitoba Telecom Services, comprised of Manitoba Telecom Services Inc. and a number of subsidiaries including MTS Inc., Allstream Inc., and AAA Alarm Systems Ltd. (hereafter the "Company"), provides a complete range of services to customers, including local and long distance voice and data, wireless, directory, Internet access and security alarm services in Canada.
 
 The Company's Code of Fair Information Practices (the "Privacy Code") is a formal statement of principles and guidelines concerning the minimum requirements for the protection of personal information provided by the Company to its customers and employees. The objective of the Privacy Code is to ensure responsible and transparent practices in the management of personal information, in accordance with the national standard and federal legislation.
 
