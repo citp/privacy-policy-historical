@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpacking-tips-asia.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120184819id_/http%3A//www.backpacking-tips-asia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacking-tips-asia.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427081922id_/http%3A//www.backpacking-tips-asia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Backpacking Privacy Policy | Backpacking Tips Asia |
 
@@ -55,7 +55,7 @@ If Backpacking Tips Asia.com is sold, the information I have obtained from you t
 
 **How You Can Correct or Remove Information**
 
-I provide this privacy policy as a statement to you of my commitment to protect your personal information. If you have submitted personal information through my website and would like that information deleted from my records or would like to update or correct that information, please click on this link to use my [Contact Me page.](https://web.archive.org/web/20111120184819id_/http%3A//www.backpacking-tips-asia.com/contact-me.html)
+I provide this privacy policy as a statement to you of my commitment to protect your personal information. If you have submitted personal information through my website and would like that information deleted from my records or would like to update or correct that information, please click on this link to use my [Contact Me page.](http://www.backpacking-tips-asia.com/contact-me.html)
 
 **Updates and Effective Date**
 
@@ -73,4 +73,18 @@ _www.backpacking-tips-asia.com_
 
 * * *
 
-**You`re done with Privacy Policy**
+**You're done with Privacy Policy**
+
+[Click here for Contact Me page](http://www.backpacking-tips-asia.com/contact-me.html)
+
+[Click here to read the site's Disclaimer](http://www.backpacking-tips-asia.com/disclaimer.html)
+
+* * *
+
+[Return from Privacy Policy to Backpacking Tips Asia Homepage.](http://www.backpacking-tips-asia.com/index.html)
+
+* * *
+
+  
+  
+
