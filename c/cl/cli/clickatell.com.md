@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208100827id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427152508id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
 
 # About | Privacy Policy | Clickatell
-
-Clickatell (Pty) Ltd Privacy Policy 
 
 At Clickatell we respect and take steps to protect your privacy. We strive to make our site a safe environment for everyone who visits and uses Clickatell services. We are committed to providing you the best possible online service and experience as well as the best products and services. The purpose of this policy statement is to fully share with you:
 
