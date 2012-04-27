@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farrellhair.ca privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230212054id_/http%3A//www.farrellhair.ca/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farrellhair.ca privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427154728id_/http%3A//www.farrellhair.ca/privacypolicy.asp) for the most accurate reproduction.*
 
 # Hair Replacement | Hair Fixing | Protecting Your Privacy
 
@@ -14,4 +14,4 @@ Farrell Hair Replacement will not sell or reveal to any third party your persona
 
 We strictly protect the security of your personal information and honor your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your personal information is never shared outside the company without your permission, except under conditions explained above.
 
-If you would like to be taken off of our mailing lists or would like to have your personal information removed from out database, please fill out the form below. If you have any questions or comments about our Privacy Policy, please [Contact Us](https://web.archive.org/web/20111230212054id_/http%3A//www.farrellhair.ca/contactus.asp) or fill out the form below.
+If you would like to be taken off of our mailing lists or would like to have your personal information removed from out database, please fill out the form below. If you have any questions or comments about our Privacy Policy, please [Contact Us](https://web.archive.org/web/20120427154728id_/http%3A//www.farrellhair.ca/contactus.asp) or fill out the form below.
