@@ -1,0 +1,80 @@
+> *The following text is extracted and transformed from the college.us.com privacy policy that was archived on 2012-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120427183200id_/http%3A//www.vantagemedia.com/privacy.html) for the most accurate reproduction.*
+
+# Vantage Media Privacy Statement
+
+**Our Practices Regarding Privacy**  
+Your privacy rights are important to us. Vantage Media and our affiliated companies are committed to respecting your online privacy and making sure that any information you share with us by using our web sites is properly protected. 
+
+We have established this Vantage Media Privacy Policy so you know the importance we place on your privacy and so you can understand how we collect and use information collected from you when you visit our website or submit any personally identifiable information to us. This policy describes our overall privacy practices regarding information we collect on our web sites and through other Internet mediums. Our policy does not apply to the practices of companies that we do not own or control. 
+
+**Website Data**  
+When you visit our website, we collect information on the efficiency and working of our site. The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes:
+
+  * Your browser, e.g., Internet Explorer, Netscape Navigator.
+  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc.
+  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux.
+  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave.
+  * Your IP address.
+
+
+
+This information lets us see how users find our sites, and it tells us which pages users visit most frequently so we can make our Web sites more useful. We keep this information for an indefinite amount of time to improve the operation of our site and to provide better services to our users. 
+
+**Cookies**  
+Our websites use cookies (small files containing program code that reside on your computer), to provide usage statistics about our web site, and to understand where visitors learn about our web site. We also may use cookies to simplify the re-entering of your data. You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
+
+**Contact Information**  
+In addition to the data that your browser or Internet session sends us automatically, we may also collect personally identifiable information (your first and last name, telephone number, mailing address, email address, date of birth and other general information that may be requested by our advertising partners) if you enter it when using our website. This contact information is stored on our servers and used to fulfill your information request. If you have not opted out of its use, we may share it with our data licensees, including our advertising clients and their vendors, and other advertising partners.
+
+**Opt-Out, Your Choices and Changing Information You Provided to Us**  
+You may choose whether or not you receive communications from us as follows: You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following: 
+
+  * Our site provides users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor.
+  * Marketing Email Opt-out: Each of our marketing email communications includes an opt-out link. You may click on that link and opt out from receiving marketing email.
+  * Refusing Cookies: You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
+  * Opt Out Now: Click here <http://college.us.com/unsubscribe_cuscom.php> to opt out. 
+
+
+
+You may also opt out or change or modify information you have previously provided to us by contacting us by doing any one of the following:
+
+  * Send an email to us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
+  * Call us at (310) 219-6202
+  * Sending a letter to: Vantage Media, LLC, 2100 Rosecrans Ave., Suite 2000, El Segundo, CA 90245
+
+
+
+**Contacting You**  
+Different advertisers and advertising companies have different methods of following up with you on information requests. Some send brochures in the mail, others reply via email or some may contact you by telephone. By using our service to request information from our advertising clients and advertising partners, you are giving permission to Vantage Media, LLC and these parties (or their partners and vendors) to contact you using the methods of their choice, to fulfill your information request, notwithstanding your possible listing in the National Do-Not-Call Registry. If you do not opt out from receiving communications from us, we reserve the right to contact you in the future to help improve our operations or to introduce new services, such as surveys, to ensure that our advertising clients have followed up with your information requests in a timely manner.
+
+**Children's Privacy**  
+Vantage Media, LLC websites are not directed at individuals less than sixteen years of age. We do not intend to collect personal information from such individuals. 
+
+**Questions or Comments**   
+We invite you to contact us if you have questions or comments about our Privacy Policy or you want to change the personally identifiable information you have provided to us. You may contact us by:  
+Sending a letter to: Vantage Media, LLC, 2100 Rosecrans Ave., Suite 2000, El Segundo, CA 90245  
+Calling us at (310) 219-6202  
+Emailing us at: [privacy@vantagemedia.com](mailto:privacy@vantagemedia.com) with a copy to [admin@vantagemedia.com](mailto:admin@vantagemedia.com)
+
+If you are a California resident and would like to request certain information regarding the disclosure of your personal information to third parties for direct marketing purposes, please submit your request by writing us, calling us or emailing us using the contact information listed above. 
+
+**Privacy Policy Changes**  
+Vantage Media, LLC may change this Privacy Policy at any time. Should we revise this Privacy Policy in the future, we will immediately publish the amended Privacy Policy on our website. We recommend that you check our website frequently to view recent changes or updates.
+
+Definitions  
+The definitions for certain terms used in this Privacy Policy are listed below. 
+
+**_Cookies_**  
+Data created by a Web server that is stored on a user's computer. It provides a way for the Web site to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk. The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
+
+**_IP (Internet Protocol) Address_**  
+This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 211.472.58.9.
+
+**_Browser Session_**  
+A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
+
+**_URL (Uniform Resource Locator)_**  
+This is an Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for Vantage Media, LLC is http://www.vantagemedia.com.
+
+**Trademarks**  
+This Privacy Policy contains certain trademarks. Windows and Internet Explorer are registered trademarks of Microsoft Corporation. Macintosh is a registered trademark of Apple Inc. All other trademarks are the property of their respective owners.
