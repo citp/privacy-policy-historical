@@ -1,35 +1,43 @@
-<!--The following is the downloaded HTML source of the bestvideodownloader.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219110612id_/http%3A//www.bestvideodownloader.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestvideodownloader.com privacy policy that was archived on 2012-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120429015113id_/http%3A//www.bestvideodownloader.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>YouTube Downloader Privacy Policy | Best Video Downloader</title>
-    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="Yontoo, Alactro, Browser Apps">
     <meta name="Robots" content="INDEX,FOLLOW">
     <!--[we needed to comment this out]><meta name="GOOGLEBOT" content="INDEX,FOLLOW" /><!-->
     <link rel="canonical" href="http://www.bestvideodownloader.com">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="Stylesheet" type="text/css" href="/Content/styles.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js" type="text/javascript"></script>
     
     <meta name="description" content="Privacy Policy for Best Video Downloader">
 
+    <script src="//cdn.optimizely.com/js/9297341.js"></script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-4639659-40']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
 </head>
 <body>
-    
     <div id="page">
         <div id="header">
             <div id="accredited-container">
                 <a href="/" id="logo_bvd">
                     <!-- -->
-                </a>
-                <a id="accredited_norton" href="http://safeweb.norton.com/report/show?url=bestvideodownloader.com" target="_blank">
+                </a><a id="accredited_norton" href="http://safeweb.norton.com/report/show?url=bestvideodownloader.com" target="_blank">
+                    <!-- -->
+                </a><a id="accredited_cnet" href="http://download.cnet.com/Best-Video-Downloader/3000-11745_4-75452194.html?tag=mncol;1" target="_blank">
                     <!-- -->
                 </a>
-                <a id="accredited_cnet" href="http://download.cnet.com/Best-Video-Downloader/3000-11745_4-75452194.html?tag=mncol;1" target="_blank">
-                    <!-- -->
-                </a>
-            
                 <!-- START SCANALERT CODE -->
                 <a id="accredited_mcafee" target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.bestvideodownloader.com">
                     <img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.bestvideodownloader.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;">
@@ -38,17 +46,20 @@
             </div>
             <div id="facebook-like-container">
                 <span id="facebook_like">
-                    <iframe src="http://www.facebook.com/plugins/like.php?app_id=235002113183520&amp;href=http%3A%2F%2Fwww.facebook.com%2Fbestvideodownloader&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 450px; height: 21px;" allowtransparency="true">
-                    </iframe>
+                        <iframe src="http://www.facebook.com/plugins/like.php?app_id=235002113183520&amp;href=http%3A%2F%2Fwww.facebook.com%2Fbestvideodownloader&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 450px;
+                            height: 21px;" allowtransparency="true"></iframe>
                 </span>
             </div>
         </div>
         
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <script src="../../Scripts/CookieStuff.js" type="text/javascript"></script>
 <script src="../../Scripts/Y2Detect.js" type="text/javascript"></script>
+<script src="../../Scripts/BrowserDetect.js" type="text/javascript"></script>
 
 <script type="text/javascript" language="javascript">
+
+    var OSMake = BrowserDetect.OS;
 
     function yontooInstalled(clientInstallId) {
 
@@ -58,7 +69,11 @@
 
         $('#marquee_download_button').bind("click", { id: clientInstallId }, function (e) {
             $.get('/config/enable?clientId=' + clientInstallId, function (data) {
-                window.location.replace("http://www.bestvideodownloader.com/installcomplete/enable?cid=" + clientInstallId);
+                if (OSMake == "Mac") {
+                    window.location.replace("http://www.bestvideodownloader.com/installcomplete/basic?macGuid=" + clientInstallId);
+                } else {
+                    window.location.replace("http://www.bestvideodownloader.com/installcomplete/basic?cid=" + clientInstallId);
+                }
             });
 
         });
@@ -323,34 +338,31 @@
 </div>
 
         <div id="footer_wrap">
-            <div style="margin:0px auto; background-color:#F2FCFE;">
+            <div style="margin: 0px auto; background-color: #F2FCFE;">
                 
             </div>
             <div id="footer_content">
                 <div id="footerlinks_wrap">
-                    <a href="/" class="footerlink">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-                    <a href="/support" class="footerlink">FAQ</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-                    <a href="/terms" class="footerlink">Terms of Service</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-                    <a href="/privacy" class="footerlink">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-                    <a href="/contactus" class="footerlink">Contact Us</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-                    <a href="/AdvertiseWithUs" class="footerlink">Advertise With Us</a>
+                    <a href="/" class="footerlink">Home</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/support" class="footerlink">FAQ</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms" class="footerlink">
+                            Terms of Service</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy" class="footerlink">
+                                Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contactus" class="footerlink">
+                                    Contact Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/AdvertiseWithUs" class="footerlink">
+                                        Advertise With Us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/Affiliate" class="footerlink">
+                                            Affiliates</a><br>
+                    <p>
+                        <font size="1" color="#808080">
+                            </font></p><center><font size="1" color="#808080">
+                                © 2011 Alactro LLC All rights reserved.
+                            </font></center><font size="1" color="#808080">
+                            <center>
+                                Our product has no affiliation with YouTube.
+                            </center>
+                        </font>
+                    <p></p>
                 </div>
-            </div>            
+            </div>
         </div>
     </div>
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-4639659-40']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
 
 
 </body></html>
