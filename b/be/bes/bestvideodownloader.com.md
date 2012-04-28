@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestvideodownloader.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219110612id_/http%3A//www.bestvideodownloader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvideodownloader.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429015113id_/http%3A//www.bestvideodownloader.com/privacy) for the most accurate reproduction.*
 
 # YouTube Downloader Privacy Policy | Best Video Downloader
 
