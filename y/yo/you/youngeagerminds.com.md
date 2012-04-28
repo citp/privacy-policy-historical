@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngeagerminds.com privacy policy that was archived on 2011-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110922075126id_/http%3A//www.youngeagerminds.com/2009/01/youngeagermindscom-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngeagerminds.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428030313id_/http%3A//www.youngeagerminds.com/2009/01/youngeagermindscom-privacy-policy.html) for the most accurate reproduction.*
 
 # YoungEagerMinds.com Privacy Policy
 
