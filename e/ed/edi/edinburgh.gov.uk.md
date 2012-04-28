@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117032843id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428220748id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
 
 # Your privacy - City of Edinburgh Council
 
@@ -21,14 +21,13 @@ Our site cookies include:
 
   * [Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html "Google Analytics use of cookies") \- this is used to provide us with information on our site usage  
 
-  * [SOCITM Take-up survey](http://www.socitm.net/info/20095/website_services/122/cookies_advice "SOCITM take-up survey and cookies") \- we have subscribed to this service to gather feedback from our visitors
   * [Jadu content management system](http://support.jadu.net/info/20006/guides_and_resources/36/eu_cookie_directive_information "Jadu content system and cookies") \- these cookies are to allow our site to operate properly for visitors
 
 
 
 When you use our online **Pay it** forms, at no time are your card details stored or accessible to the Council. We use a secure web site called [WorldPay](http://www.rbsworldpay.com/ "Worldpays web site") to take your payment details. WorldPay is a leading internet payment provider and is part of the Royal Bank of Scotland group. 
 
-Read[how we use personal information](http://www.edinburgh.gov.uk/downloads/download/1764/social_care_and_social_work_privacy_notice "Health and social care privacy notice") to provide social work and social care services 
+Read [how we use personal information](http://www.edinburgh.gov.uk/downloads/download/1764/social_care_and_social_work_privacy_notice "Health and social care privacy notice") to provide social work and social care services 
 
 ## How your data gets to us 
 
