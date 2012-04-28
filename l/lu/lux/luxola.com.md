@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxola.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216115103id_/http%3A//luxola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxola.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428085437id_/http%3A//luxola.com/privacy) for the most accurate reproduction.*
 
 # Luxola - Privacy Policy
 
@@ -19,6 +19,8 @@ We will not share or disclose your information to anyone except as described in 
 We use personally identifiable information in order to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; and otherwise supporting your use of the Site. We also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information.
 
 We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders and may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.
+
+We may employ a third-party service to collect above-mentioned information and use their tracking service. However, this information is strictly confidential and will not be shared with others.
 
 We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
 
