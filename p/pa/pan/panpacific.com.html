@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006124042id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2012-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120428065416id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Pan Pacific Hotels - Privacy Policy</title>
@@ -28,6 +28,7 @@ In addition to this Privacy Policy Statement, there may also be specific and add
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/blockUI/v2/jquery.blockUI.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jQuerySupportingFunctions.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/ui.datepicker.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/dplocalization/jquery.ui.datepicker-en.js"></script>
 
 
 
@@ -89,19 +90,24 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <link href="/application/css/luxus/style.css" media="screen" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/media/Images/Website/Images/PanPacific_favIcon.ico" type="image/ico">
 <link href="/application/css/luxus/btn-style-en.css" media="screen" rel="stylesheet" type="text/css">
+
 <style type="text/css">
 .room-info-main li{position:static!important;}
 .room-info-main input{position:static!important;margin-top:-26px;}
-.list-2col, .list-4col {
-    margin: 0 !important;
-    padding: 0 !important;
-}
-h3.quick-finder {
-display:none;
-}
-#main_image0, #main_image1, #main_image2, #main_image3 {
-    text-indent: -9999px;
-}
+.list-2col,.list-4col{margin:0!important;padding:0!important;}
+h3.quick-finder{display:none;}
+#third.pp_matrix_container span{display:block;margin:20px 20px 0;}
+#third.pp_matrix_container table.booking-journey-matrix{float:none;width:95%;margin:0 20px 20px;}
+#third.pp_matrix_container table.booking-journey-matrix td{width:50%;}
+#footer{margin-top:15px;}
+
+.search-container{bottom:20px;position:absolute;right:0;}
+.search-container ol{float:left;width:100%;margin:0 0 15px;padding:0 0 0 7px;}
+.search-container ol li{list-style:none;float:left;}
+.search-container ol li label{display:none;}
+.search-container ol li input{width:147px;height:15px;background:#e5e5e5;color:gray;border:none;margin:0;}
+.search-container ol li.last{padding:0 0 0 5px;}
+.search-container li.last a{color:#676767;text-decoration:underline;}
 </style>
 
 <!--[if IE 6]>
@@ -119,10 +125,43 @@ $(document).ready(function(){
 <![endif]-->
 <!--[if IE 7]>
 <link href="/application/css/luxus/style-ie7.css" media="screen" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#contentRight #calendar{float:none;}
+</style>
 <![endif]-->
 
 <script type="text/javascript" src="/application/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script type="text/javascript" src="/application/js/swfobject/swfobject.js"></script>
+
+<script type="text/javascript">
+var languageAlias = "en";
+var locationURL = location.href;
+var locationPathname = location.pathname;
+</script>
+
+<script type="text/javascript">
+$(function(){
+/* Best Rate Guarantee Image */
+/*
+if((languageAlias == "cn") && (locationURL.indexOf("selecthotelanddate") > 0)) {
+$("p.bestRateGuaranteeImg img").attr("src","/application/media/booking/img_bestRateGuarantee-cn.gif");
+}
+else if((languageAlias == "jp") && (locationURL.indexOf("selecthotelanddate") > 0)) {
+$("p.bestRateGuaranteeImg img").attr("src","/application/media/booking/img_bestRateGuarantee-jp.gif");
+}
+*/
+/* End Best Rate Guarantee Image */
+
+/* Background Transparency Changes on Serviced Suites Singapore Offers */
+if(locationPathname == "/"+languageAlias+"/pan_pacific_serviced_suites_singapore/offers/index.html"){
+$("#contentCenter").css('background','url("/application/css/luxus/img/bg-white-75.png") repeat');
+$("#contentCenter").addClass("white-transparent-75");
+}
+/* End Background Transparency Changes on Serviced Suites Singapore Offers */
+
+});
+</script>
+
 <!--END COMPONENT:1128-->
 
     
@@ -134,12 +173,12 @@ $(document).ready(function(){
             <div id="header">
 <!--START COMPONENT:23 (0ms) -->
 <div id="brand">
-  <h1><a id="brand-logo" href="/" title="Pan Pacific Hotels &amp; Resorts"><img src="/media/images/Website/Images/pan-pacific.jpg" border="0" alt="Pan Pacific Logo"></a><span class="hidden">Pan Pacific Hotels &amp; Resorts</span></h1>
+  <h1><a id="brand-logo" href="/" title="Pan Pacific Hotels and Resorts"><img src="/media/images/Website/Images/pan-pacific.jpg" border="0" alt="Pan Pacific Hotels and Resorts"></a><span class="hidden">Pan Pacific Hotels and Resorts</span></h1>
   <p class="hidden"><a title="Skip Navigation" href="#main-content">Skip Navigation</a></p>
 </div>
 <!--END COMPONENT:23-->
 
-<!--START COMPONENT:1138 (2ms) -->
+<!--START COMPONENT:1138 (3ms) -->
 <!-- /application/components_jsp/hotel_navmenu.jsp -->
 <ul id="hotel-nav" class="corp-nav"><li class="span-1 "><a class="valign" href="/en/index.html"><span><span>Home</span></span></a></li>
 <li class="span-1 "><a class="valign" href="/en/hotels_resorts.html"><span><span>Find a Hotel</span></span></a></li>
@@ -149,7 +188,19 @@ $(document).ready(function(){
 </ul>
 <!--END COMPONENT:1138-->
 
-<!--START COMPONENT:265 (1ms) -->
+<!--START COMPONENT:1845 (0ms) -->
+<div id="corp-social-media" class="social-media">
+  <h2 class="hidden">Social Media Links</h2>
+  <ul>
+    <li id="social-facebook"><a title="Join us on Facebook" target="_blank" href="https://www.facebook.com/PanPacificHotels"><span class="hidden">Facebook</span><img alt="Join us on Facebook" title="Join us on Facebook" src="/application/images/socialmedia/social-fb.png"></a></li>
+    <li id="social-twitter" class="hidden"><a title="Follow us on Twitter" target="_blank" href="#"><span class="hidden">Twitter</span><img alt="Follow us on Twitter" title="Follow us on Twitter" src="/application/images/socialmedia/social-tw.png"></a></li>    
+    <li id="social-flickr" class="hidden"><a title="View on Flickr" target="_blank" href="#"><span class="hidden">Flickr</span><img alt="View on Flickr" title="View on Flickr" src="/application/images/socialmedia/social-fr.png"></a></li>
+    <li id="social-youtube" class="hidden"><a title="Watch on YouTube" target="_blank" href="#"><span class="hidden">Youtube</span><img alt="Watch on YouTube" title="Watch on YouTube" src="/application/images/socialmedia/social-yt.png"></a></li>
+  </ul>
+</div>
+<!--END COMPONENT:1845-->
+
+<!--START COMPONENT:265 (2ms) -->
 <div id="language">
 <h2 class="hidden">Other Languages</h2>
 <ul id="language-list"><li><a href="/cn/privacy.html" title="简体中文">简体中文</a></li><li><a href="/jp/privacy.html" title="日本語">日本語</a></li></ul>
@@ -173,7 +224,8 @@ if(addressURL.indexOf('?') != -1) {
 </script>
 <!--END COMPONENT:265-->
 
-<!--START COMPONENT:155 (13ms) -->
+<!--START COMPONENT:155 (19ms) -->
+
 
 
 
@@ -206,75 +258,21 @@ if(addressURL.indexOf('?') != -1) {
 <script type="text/javascript" src="/jasmine3.0/scripts/SetFields.js"></script>
 <script type="text/javascript" src="/application/js/populateCountryHotels.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/calendar2/scripts/datepicker.js"></script>
-<script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/ui.datepicker.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jQuerySupportingFunctions.js"></script>
 <script type="text/javascript" src="/application/js/reservation_DatePicker.js"></script>
-<script type="text/javascript">
- 
- function selectePromoCodeTypeMode(passedObj){
- document.getElementById("selectedPromoCodeTypeMode").value = passedObj.value;
-   
-   /* Added by Khaing -- Oct 13 -2010*/
-   $(function(){
-		var ratetype4  = $("li.roomtype-4 input").attr("checked") ;	
-		if(ratetype4  == false){
-		$("#promoCodeType_CheckAvailabilityForm").attr("disabled","disabled");
-		$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled");
-		}
-		
-		var ratetype4  = $("li.roomtype-4 input").attr("checked") ;	
-		if(ratetype4  == false){
-		$("#promoCodeType_CheckAvailabilityForm").attr("disabled","disabled");
-		$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled");
-		promoCode_CheckAvailabilityForm
-		}
-		else{
-		$("#promoCodeType_CheckAvailabilityForm").attr("disabled","");
-		$("#promoCode_CheckAvailabilityForm").attr("disabled","");
-		}
-		});
- }
- 
+<script type="text/javascript"> 
  function displayCodeType(passedId,passedValue,passedLink)
  {
    passedObj = document.getElementById(passedId);
    passedObj.checked='checked';
    document.getElementById("selectedPromoCodeTypeMode").value = passedObj.value;
-   window.open(passedLink,"Window1","menubar=no,width=430,height=360,toolbar=no");
+   window.open(passedLink,"Window1","menubar=no,width=600,height=600,toolbar=no");
  }
 
  function checkBooking(passedValue)
  {
    setCountryLocalDate(passedValue);
    dateChange(document.getElementById("dp_CheckInDate"));
-   
-   
-     var promoCodesArray = new Array(); 
- var subArray0 = new Array(); 
- subArray0[0]='SpecialRate'
- subArray0[1]='1'
- subArray0[2]=''
- promoCodesArray[0] = subArray0
-
-    var count = document.CheckAvailabilityForm.promoCodeTypeMode.length
-    for(subindex=0; subindex<count; subindex++){
-      document.CheckAvailabilityForm.promoCodeTypeMode[subindex].disabled= false;
-      currentValue = document.CheckAvailabilityForm.promoCodeTypeMode[subindex].value;
-      for(index=0; index<promoCodesArray.length; index++){
-       var promocode = promoCodesArray[index];
-         if(currentValue==promocode[0] && promocode[1]=='1'){
-              if(isExistedHotelCode(passedValue,promocode[2])){
-                document.CheckAvailabilityForm.promoCodeTypeMode[subindex].disabled= false;
-              }else{
-                document.CheckAvailabilityForm.promoCodeTypeMode[subindex].disabled= true;
-              }
-               break; 
-             } // if 
-         } // for loop
-    } // for loop
-   
-   
-   
  }
  
  function isExistedHotelCode(hotelCode,codesList)
@@ -290,36 +288,56 @@ if(addressURL.indexOf('?') != -1) {
  }
  
  function dateChange(passedObject)
- {
+ { 
    if(passedObject.value!=''){
-    var workingDate = new Date(passedObject.value);
-    var finalDate   = new Date(workingDate.getFullYear(),workingDate.getMonth(),workingDate.getDate()+1);
-    var depaday     = formatDate(finalDate,"dd NNN yyyy");
-    document.getElementById("dp_CheckOutDate").value = depaday;
+	var workingDate =  $("#dp_CheckInDate").datepicker("getDate");
+	var getWorkingDate = new Date(workingDate.getFullYear(),workingDate.getMonth(),workingDate.getDate());
+	var computeDate = getWorkingDate.getTime() + (1000*60*60*24);
+	var finalDate = new Date(computeDate);
+	var depDay;
+	
+	/* Hidden Values */	
+	var getArrDate = $.datepicker.formatDate("yy-mm-dd",new Date(getWorkingDate));	
+	var getDepDayFormat =  $.datepicker.formatDate("yy-mm-dd",new Date(finalDate));	
+	$("#dp_CheckInDate_h").attr("value",getArrDate);
+	$("#dp_CheckOutDate_h").attr("value",getDepDayFormat);
+		
+	if(languageAlias != "en")
+		depDay = $.datepicker.formatDate('mm月 dd日 yy',new Date(finalDate));
+	else 	
+		depDay = $.datepicker.formatDate('dd M yy',new Date(finalDate));
+	
+	$("#dp_CheckOutDate").val(depDay);
    } else document.getElementById("dp_CheckOutDate").value ='';
  }
 
   function dateChangeOut(passedObject)
-  {
-    var checkIn = document.getElementById("dp_CheckInDate").value;
-    var checkOut = passedObject.value;
-    if(passedObject.value!='' && checkInDate!=''){
-      var checkInDate = new Date(checkIn);
-      var checkOutDate = new Date(checkOut);
-      var checkInTime  = checkInDate.getTime();
-      var checkOutTime = checkOutDate.getTime();
-     
-      if(parseFloat(checkOutTime)>parseFloat(checkInTime)){
-         return true;
-      }else document.getElementById("dp_CheckOutDate").value ='';
-    }
+  {	
+	var checkIn = $("#dp_CheckInDate").val(); 
+	var checkOut = $("#dp_CheckOutDate").val(); 	
+	
+	if(checkOut != '' && checkInDate != ''){		
+		var checkInDate = $("#dp_CheckInDate").datepicker( "getDate" );		
+		var checkOutDate = $("#dp_CheckOutDate").datepicker( "getDate" );
+
+		/* Hidden Value */
+		var getDepDate = $.datepicker.formatDate("yy-mm-dd",checkOutDate);
+		$("#dp_CheckOutDate_h").attr("value",getDepDate);
+		
+		var checkInTime  = checkInDate.getTime();
+		var checkOutTime = checkOutDate.getTime();
+		
+		if(parseFloat(checkOutTime)>parseFloat(checkInTime)){		  
+			return true;		
+		}else document.getElementById("dp_CheckOutDate").value ='';
+	}	
   }
 </script>
 
-<!--added by Zeus BRG Image Replacement-->
+<!--BRG Image Replacement-->
 <script type="text/javascript">
 $(function(){
-$("#contentRight #hp_reservationBox #checkAvailabilityContainer .bestRateGuaranteeImg img ").attr("src", "/application/css/luxus/img/best-rate-guarantee-center.gif");
+$("#contentRight #hp_reservationBox #checkAvailabilityContainer .bestRateGuaranteeImg img ").attr("src", "/application/css/luxus/img/best-rate-guarantee-center_en.jpg");
 	});
 </script>
 <!--end-->
@@ -345,8 +363,15 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 <input type="hidden" name="FormPosted_CheckAvailabilityForm" value="Yes">
 <input type="hidden" name="FormPosted" value="Yes">
                 
-			<div id="formErrors_CheckAvailabilityForm" class="formErrors"></div>	
-
+			<div id="formErrors_CheckAvailabilityForm" class="formErrors"></div>
+			<input name="dp_CheckInDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckInDate_h" value="28 Apr 2012">
+			<input name="dp_CheckOutDate_h_CheckAvailabilityForm" type="hidden" id="dp_CheckOutDate_h" value="29 Apr 2012">					
+			
+			<input name="govLink_CheckAvailabilityForm" type="hidden" id="govLink_CheckAvailabilityForm" value="/government_rates.html">
+			
+			
+			<input name="ascLink_CheckAvailabilityForm" type="hidden" id="ascLink_CheckAvailabilityForm" value="/aaa_rates.html">
+			
             <fieldset class="property-view">
              <legend class="hidden">Select a Hotel</legend>   
 		      <ol>
@@ -368,9 +393,10 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 <option value="PPWHV">Pan Pacific Whistler Village Centre</option>
 </optgroup>
 <optgroup label="China">
-<option value="PPNBO">Pan Pacific Ningbo</option>
-<option value="PPSNBO">Pan Pacific Serviced Suites Ningbo</option>
+<option value="PPNBO">Pan Pacific Ningbo - Opens in 2012</option>
+<option value="PPSNBO">Pan Pacific Serviced Suites Ningbo - Opens in 2012</option>
 <option value="PPSZV">Pan Pacific Suzhou</option>
+<option value="PPTSN">Pan Pacific Tianjin - Opens in 2013</option>
 <option value="PPXMN">Pan Pacific Xiamen</option>
 </optgroup>
 <optgroup label="Indonesia">
@@ -388,7 +414,7 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 </optgroup>
 <optgroup label="Singapore">
 <option value="PPSGO">Pan Pacific Orchard</option>
-<option value="PPSSIN">Pan Pacific Serviced Suites Singapore</option>
+<option value="PPSSIN">Pan Pacific Serviced Suites Orchard, Singapore</option>
 <option value="PPSIN">Pan Pacific Singapore</option>
 </optgroup>
 <optgroup label="Thailand">
@@ -415,14 +441,14 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 						<label class="label_dp_CheckInDate_CheckAvailabilityForm  mandatoryField">
 		        			Arrive
 		        		</label>
-                         <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06" selected="selected">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckOutDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="06 Oct 2011"></div>
+                         <div class="noScript CheckInDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28" selected="selected">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04" selected="selected">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckInDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="28 Apr 2012"></div>
                   </li>       
                        
                    <li class="departure-date">
 						<label class="label_dp_CheckOutDate_CheckAvailabilityForm  mandatoryField">
 		        			Departure Date
 		        		</label>
-                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07" selected="selected">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="07 Oct 2011"></div>
+                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29" selected="selected">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04" selected="selected">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2012" selected="selected">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="29 Apr 2012"></div>
 				   </li>                         
 				</ol>
 			</fieldset>
@@ -482,58 +508,49 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
                </ol>     
 			</fieldset>
 			
-			<h4>Rate Type</h4>
 			<fieldset class="promo-codes">
 			  <legend class="hidden">Select Rate Type</legend>
-			  <ol>
-                  <li class="rate-type-wrapper">
-                      <ol class="rate-type-list">  
-                        
-                          <li class="rate-type1">
-                              <input name="promoCodeTypeMode" type="radio" id="promoCodeTypeMode0_CheckAvailabilityForm" class="field_input normal" checked="checked" onclick="selectePromoCodeTypeMode(this)" value="SpecialRate">
-                              Special Rate
-                          </li> 
-                            
-                       </ol> 
-                       <input name="selectedPromoCodeTypeMode_CheckAvailabilityForm" type="hidden" id="selectedPromoCodeTypeMode" value="SpecialRate">
-                   	</li>
-                      
-
+			  <ol>  
                   <li class="promo-code-type-wrap">
                     <ol>
                         <li class="promo-code-type">
 		                        <label class="label_promoCodeType_CheckAvailabilityForm ">
-				        		Code Type
+				        		Rate Preferences
 				        		</label>
                               <select name="promoCodeType_CheckAvailabilityForm" id="promoCodeType_CheckAvailabilityForm">
-<option value="" selected="selected">- SelectCodeType -</option>
-<option value="CORPORATE">Corporate</option>
+<option value="SpecialRate">View All Rates</option>
+<option value="PROMOTION">Promotion</option>
 <option value="GROUP">Group</option>
 <option value="TRAVEL_AGENT">IATA</option>
-<option value="PROMOTION">Promotion</option>
+<option value="CORPORATE">Corporate</option>
+<option value="GOVT">Government</option>
+<option value="AAA">AAA/CAA member</option>
 </select>
 						</li>
             			<li class="promo-code">
 			        			<label class="label_promoCode_CheckAvailabilityForm ">
-					        		Rate Code
+					        		Access Code
 					        	</label>
                               <input name="promoCode_CheckAvailabilityForm" type="text" id="promoCode_CheckAvailabilityForm" style="width:110px" size="5" value="">
 					    </li>
                     </ol>
                    </li>
             </ol>
+            <p id="gov-aaa-blurb">
+            	<span id="msg">Rates are available for government and military personnel with an active government ID or a government passport.</span>
+            	<a id="findout-more" class="rate-pop-up" href="javascript:;" title="Find out more">Find out more</a>
+            	<span id="close">x</span>
+            </p>
          </fieldset>
         <input name="checkAvailability_CheckAvailabilityForm" type="submit" id="checkAvailability_CheckAvailabilityForm" class="button" onclick="this.checked=true; " value="check availability">
         <h3 class="hidden">Reservations Options</h3>
           <p class="reviewMyReservationLink">
-         <a href="/hbs/modify_reservation_login.html">Review my reservation</a></p>
+         <a href="/en/hbs/modify_reservation_login.html">Review my reservation</a></p>
 		 <p class="bestRateGuaranteeImg">		 
 		 
-		        <a href="/mypanpac/bestrate.html" target="_blank" title="Best Rate Guarantee">         
-		  
-        	 <img src="/application/media/booking/img_bestRateGuarantee.gif" alt="Best Rate Guarantee"></a>
-		 </p>
-		 </div>
+		        <a href="/en/mypanpac/bestrate.html" target="_blank" title="Best Rate Guarantee"> 
+                <img src="/application/media/booking/img_bestRateGuarantee-en.gif" alt="Best Rate Guarantee">       
+		 </a></p></div>
           <input type="hidden" name="javaScriptStatus" value="off" class="javaScriptStatus">
 </form>
 <script type="text/javascript">
@@ -542,19 +559,66 @@ $(function(){
 
 var monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 var monthNamesShort = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-$(function(){$('#dp_CheckInDate').datepicker({minDate: '0D', maxDate: '+10Y', showOn: 'both',dateFormat: 'dd M yy',monthNames: monthNames,monthNamesShort: monthNamesShort,buttonImage: '/jasmine3.0/images/common/icon_cal_start.gif',buttonImageOnly: true,changeFirstDay: false,firstDay: 1,hideIfNoPrevNext: true}).attr('readonly','readonly');
-$('#dp_CheckOutDate').datepicker({minDate: '+1D', maxDate: '+10Y', showOn: 'both',dateFormat: 'dd M yy',monthNames: monthNames,monthNamesShort: monthNamesShort,buttonImage: '/jasmine3.0/images/common/icon_cal_start.gif',buttonImageOnly: true,changeFirstDay: false,firstDay: 1,hideIfNoPrevNext: true}).attr('readonly','readonly');
+$(function(){$('#dp_CheckInDate').datepicker({minDate: '0D', maxDate: '+10Y', showOn: 'both',regional:"en",buttonImage: '/jasmine3.0/images/common/icon_cal_start.gif',buttonImageOnly: true,changeFirstDay: false,firstDay: 1,hideIfNoPrevNext: true}).attr('readonly','readonly');
+$('#dp_CheckOutDate').datepicker({minDate: '+1D', maxDate: '+10Y', showOn: 'both',regional:"en",buttonImage: '/jasmine3.0/images/common/icon_cal_start.gif',buttonImageOnly: true,changeFirstDay: false,firstDay: 1,hideIfNoPrevNext: true}).attr('readonly','readonly');
 });
 $(function(){ $(".noScript").hide(); $(".withScript").show(); $(".javaScriptStatus").each(function(){$(this).attr('value','on');});});
 </script>
-
    
  </div>
 
-
+<script type="text/javascript">
+/*<![CDATA[*/
+$(function(){
+	var govRateMsg = "Rates are available for government and military personnel with an active government ID or a passport.";
+	var ascRateMsg = "Rates are available for AAA members.";
+	var govURL = $("#govLink_CheckAvailabilityForm").val();
+	var ascURL = $("#ascLink_CheckAvailabilityForm").val();
+	var popurl = "";
+	
+	if($("#promoCodeType_CheckAvailabilityForm").val() == "SpecialRate" || $("#promoCodeType_CheckAvailabilityForm").val() == "GOVT" || $("#promoCodeType_CheckAvailabilityForm").val() == "AAA") {
+		$(".label_promoCode_CheckAvailabilityForm").addClass("code-disabled");
+		$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled").addClass("code-disabled");
+	}
+	$("#promoCodeType_CheckAvailabilityForm").change(function(){
+		$("#promoCode_CheckAvailabilityForm").val("");
+		if($(this).val() == "GOVT"){
+			$(".label_promoCode_CheckAvailabilityForm").addClass("code-disabled");
+			$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled").addClass("code-disabled");
+			$("#gov-aaa-blurb").show();
+			$("#gov-aaa-blurb").removeClass().addClass("ratemsg-gov");
+			$("p#gov-aaa-blurb span#msg").html(govRateMsg);
+			$("a#findout-more").attr("href","/en" + govURL);			
+		}else if($(this).val() == "AAA"){
+			$(".label_promoCode_CheckAvailabilityForm").addClass("code-disabled");
+			$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled").addClass("code-disabled");
+			$("#gov-aaa-blurb").show();
+			$("#gov-aaa-blurb").removeClass().addClass("ratemsg-asc");
+			$("p#gov-aaa-blurb span#msg").html(ascRateMsg);
+			$("a#findout-more").attr("href","/en" + ascURL);
+		}else if($(this).val() == "SpecialRate") {
+			$(".label_promoCode_CheckAvailabilityForm").addClass("code-disabled");
+			$("#promoCode_CheckAvailabilityForm").attr("disabled","disabled").addClass("code-disabled");			
+			$("#gov-aaa-blurb").hide().removeClass();
+		}
+		else{
+			$(".label_promoCode_CheckAvailabilityForm").removeClass("code-disabled");
+			$("#promoCode_CheckAvailabilityForm").attr("disabled",false).removeClass("code-disabled");
+			$("#gov-aaa-blurb").hide().removeClass();
+		}
+	});//change
+	
+	$("p#gov-aaa-blurb span#close").click(function(){
+		$(this).parent().hide();
+	});
+	
+	$(".rate-pop-up").popupWindow({ centerScreen:1, width:600, height:600, scrollbars:1, location:0 });	
+});
+/*]]>*/
+</script>
 <!--END COMPONENT:155-->
 
-<!--START COMPONENT:129 (0ms) -->
+<!--START COMPONENT:129 (1ms) -->
 
 
 
@@ -570,7 +634,7 @@ $(function(){ $(".noScript").hide(); $(".withScript").show(); $(".javaScriptStat
 <script type="text/javascript" src="/jasmine3.0/scripts/components/en/component_1540.js"></script>
 <!--END Component:1540-->
 
-<!--START COMPONENT:40 (282ms) -->
+<!--START COMPONENT:40 (670ms) -->
 <script type="text/javascript">
 /* <![CDATA[ */
 
@@ -620,8 +684,6 @@ jsActions.add('1297', "/en/WhistlerMountainside/Weddings/Overview.html", "Weddin
 jsHotels.add('1297', "Pan Pacific Whistler Mountainside", '1292', "Canada");
 jsActions.add('1297', "/en/WhistlerMountainside/Destination.html", "Hotel Destination");
 jsHotels.add('1297', "Pan Pacific Whistler Mountainside", '1292', "Canada");
-jsActions.add('1297', "/en/whistler/thingstodo.html", "Hotel Destination");
-jsHotels.add('1297', "Pan Pacific Whistler Mountainside", '1292', "Canada");
 jsActions.add('1297', "/en/WhistlerMountainside/Rooms/Overview.html", "Accommodation Overview");
 jsHotels.add('1297', "Pan Pacific Whistler Mountainside", '1292', "Canada");
 jsActions.add('1297', "/en/WhistlerMountainside/Dining/Overview.html", "Dining Overview");
@@ -633,8 +695,6 @@ jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
 jsActions.add('1298', "/en/WhistlerVillageCentre/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
 jsActions.add('1298', "/en/WhistlerVillageCentre/Destination.html", "Hotel Destination");
-jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
-jsActions.add('1298', "/en/whistlervillagecentre/thingstodo.html", "Hotel Destination");
 jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
 jsActions.add('1298', "/en/WhistlerVillageCentre/Rooms/Overview.html", "Accommodation Overview");
 jsHotels.add('1298', "Pan Pacific Whistler Village Centre", '1292', "Canada");
@@ -657,6 +717,8 @@ jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
 jsActions.add('4975', "/en/Suzhou/Dining/Overview.html", "Dining Overview");
 jsHotels.add('4975', "Pan Pacific Suzhou", '1242', "China");
 jsActions.add('4975', "/en/Suzhou/meetings_events.html", "Meeting & Events Overview");
+jsHotels.add('13675', "Pan Pacific Tianjin", '1242', "China");
+jsActions.add('13675', "/en/Tianjin/Overview.html", "Hotel Overview");
 jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
 jsActions.add('3835', "/en/Xiamen/Overview.html", "Hotel Overview");
 jsHotels.add('3835', "Pan Pacific Xiamen", '1242', "China");
@@ -720,8 +782,6 @@ jsActions.add('1269', "/en/KLairport/Meetings/Overview.html", "Meeting & Events 
 jsHotels.add('1276', "Pan Pacific Manila", '1273', "Philippines");
 jsActions.add('1276', "/en/manila/Overview.html", "Hotel Overview");
 jsHotels.add('1276', "Pan Pacific Manila", '1273', "Philippines");
-jsActions.add('1276', "/en/Manila/Weddings/Overview.html", "Wedding Overview");
-jsHotels.add('1276', "Pan Pacific Manila", '1273', "Philippines");
 jsActions.add('1276', "/en/Manila/Destination.html", "Hotel Destination");
 jsHotels.add('1276', "Pan Pacific Manila", '1273', "Philippines");
 jsActions.add('1276', "/en/Manila/Rooms/Overview.html", "Accommodation Overview");
@@ -741,13 +801,13 @@ jsHotels.add('2951', "Pan Pacific Orchard", '1278', "Singapore");
 jsActions.add('2951', "/en/Orchard/restaurants_bars/index.html", "Dining Overview");
 jsHotels.add('2951', "Pan Pacific Orchard", '1278', "Singapore");
 jsActions.add('2951', "/en/Orchard/meetings_events/index.html", "Meeting & Events Overview");
-jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
+jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "Singapore");
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/amenities.html", "Accommodation Overview");
-jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
+jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "Singapore");
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/destination.html", "Hotel Destination");
-jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
+jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "Singapore");
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/index.html", "Hotel Overview");
-jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
+jsHotels.add('3012', "Pan Pacific Serviced Suites Orchard, Singapore", '1278', "Singapore");
 jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/individual_suites.html", "Accommodation Overview");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
 jsActions.add('1924', "/en/singapore/weddings.html", "Wedding Overview");
@@ -794,28 +854,50 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutCenter" style="" class="centerColumn">
                 <div id="contentCenter">
-<!--START COMPONENT:1157 (10ms) -->
+<!--START COMPONENT:1157 (14ms) -->
 <div class="corporate-body span-5 no-right-margin">
 <h2>Privacy </h2>
 <div class="content-body">
-<p>Pan Pacific Hotels and Resorts (PPHR) is committed to ensuring your personal information is protected. PPHR understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This privacy policy statement (“Privacy Policy Statement”) will explain how we go about using and safeguarding personal information collected from you, or that you provide to PPHR or its affiliates via this Pan Pacific Site and services. <br><br>A reference to “this Pan Pacific Site" is to the website owned and operated by Pan Pacific Hotels and Resorts Pte Ltd ("PPHR") and located at <a href="http://www.panpacific.com">www.panpacific.com</a> or such other URL as may be designated by PPHR from time to time. <br>In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy Statement and those specific and additional provisions, the specific and additional provisions will prevail.</p>
-<p><strong>The information we collect about you</strong><br>The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, your contact number, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to us.&nbsp; If you contact us, we may keep a record of that correspondence.</p>
-<p>Other information we may collect and process about you include the following:<br><br>•&nbsp;Information derived from cookies (small text files placed on our computer which uniquely identify your browser the next time you visit this Pan Pacific Site, save where you disable cookies or otherwise manage them, or do not use any PPHR services which require cookies to be enabled.<br>•&nbsp;Information gathered automatically by our computer systems programmed to gather certain anonymous data to help us understand how this Pan Pacific Site is being used and how we can improve it. This automatically gathered data includes [your computer’s IP or “Internet Protocol” address, browser type, browser language, the pages visited, previous or subsequent sites visited, length of user sessions, access status or conditions.<br>•&nbsp;Information that is gathered through registration that you specifically give PPHR.</p>
-<p><strong>How we use your information and whom we may disclose it to<br></strong>The information that we collect about you is used to help you access the services or acquire the goods that PPHR provides more easily. PPHR will use reasonable endeavours to keep the information we collect from you confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any third parties. We may disclose the personal information, other information or data we collect from you if:</p>
+<p>This privacy policy statement (“Privacy Policy Statement”) will explain how we go about using and safeguarding personal information collected from you, or that you provide to Pan Pacific Marketing Services Pte Ltd or its affiliated company (“THE COMPANY") via this Pan Pacific Site and services. </p>
+<p>THE COMPANY is committed to ensuring your personal information is protected. THE COMPANY understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. </p>
+<p>A reference to “this Pan Pacific Site" is to the website owned and operated by THE COMPANY and located at <a href="http://www.panpacific.com" target="_blank">www.panpacific.com</a> or such other URL as may be designated by THE COMPANY from time to time. </p>
+<p>In addition to this Privacy Policy Statement, there may also be specific and additional privacy provisions, which apply to our collection and use of your personal information e.g. information provided when entering a competition, subscribing to a newsletter, or participating in a survey. If there is any inconsistency between this Privacy Policy Statement and those specific and additional provisions, the specific and additional provisions will prevail.</p>
+<p><br><strong>The information we collect about you<br></strong>The types of personal information we collect about you will depend on what services you use or products you acquire. This may include collecting your name and address, your email address, your contact address, your contact number, credit card details and, where you have the option to comment on our services or products, whatever other information you choose to supply to us.&nbsp; If you contact us, we may keep a record of that correspondence.<br><br>Other information we may collect and process about you include the following:</p>
 <ul>
-    <li>disclosure of information to our service providers, agents or business partners and affiliates that we work with in connection with our business; </li>
-    <li>in circumstances where we believe that disclosure is required under the law, to cooperate with regulators or law enforcement authorities; or to enforce our Terms of Use or other agreements; or to&nbsp; protect our rights, property or safety of PPHR, our customers or others. The foregoing includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk protection; </li>
-    <li>In the event that PPHR or substantially all of its assets are acquired by or merged with another company, your personal information may become subject to a different privacy policy; </li>
-    <li>PPHR may contract with third parties who do analysis and development on our behalf. We may share your information with such a third party provided that such third party uses the information only to perform services as requested by PPHR and agrees to maintain the information as strictly confidential. </li>
+    <li>Information derived from cookies (small text files placed on our computer which uniquely identify your browser the next time you visit this Pan Pacific Site, save where you disable cookies or otherwise manage them, or do not use any THE COMPANY services which require cookies to be enabled.<br></li>
+    <li>Information gathered automatically by our computer systems programmed to gather certain anonymous data to help us understand how this Pan Pacific Site is being used and how we can improve it. This automatically gathered data includes your computer’s IP or “Internet Protocol” address, browser type, browser language, the pages visited, previous or subsequent sites visited, length of user sessions, access status or conditions.<br></li>
+    <li>Information shared with third party social media websites and services through our site (such as Facebook) will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media web sites.<br></li>
+    <li>Information that is gathered through registration that you specifically give THE COMPANY. </li>
+</ul>
+<p><strong>How we use your information and whom we may disclose it to<br></strong>The information that we collect about you is used to help you access the services or acquire the goods that THE COMPANY provides more easily. THE COMPANY will use reasonable endeavours to keep the information we collect from you confidential. We do not sell, rent, loan, trade or lease the addresses stored in our database to any third parties. We may disclose the personal information, other information or data we collect from you if:</p>
+<ul>
+    <li>disclosure of information to our service providers, agents or business partners and affiliates that we work with in connection with our business;<br></li>
+    <li>in circumstances where we believe that disclosure is required under the law, to cooperate with regulators or law enforcement authorities; or to enforce our Terms of Use or other agreements; or to&nbsp; protect our rights, property or safety of THE COMPANY, our customers or others. The foregoing includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk protection;<br></li>
+    <li>In the event that THE COMPANY or substantially all of its assets are acquired by or merged with another , your personal information may become subject to a different privacy policy;<br></li>
+    <li>THE COMPANY may contract with third parties who do analysis and development on our behalf. We may share your information with such a third party provided that such third party uses the information only to perform services as requested by THE COMPANY and agrees to maintain the information as strictly confidential.<br></li>
     <li>We may also use your information to send you promotional material, which you may find of interest. If you do not wish to receive any such material you may simply choose to "unsubscribe" from our mailing lists and no further material will be sent to you. </li>
 </ul>
-<p><strong>&nbsp;Storage of data</strong><br>Any personal information that we collect about customers including email addresses will be kept in a database of the PPHR.&nbsp; PPHR will take all steps reasonably necessary to ensure that the database is treated securely and in accordance with this Privacy Policy Statement, and to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.<br><br><strong>Our security procedures</strong><br>Once we receive personal information from you, we take all reasonable steps to ensure that all information we collect, use or disclose is accurate, up to date and stored in a secure environment and accessed only by authorised persons.&nbsp; Your personal information is password protected from unauthorized access or use whenever such information is stored in our systems. In addition, this information is only kept on servers that are located behind a “firewall”, which protects their contents from outside users. Where you may be requested to provide sensitive information (such as credit card numbers etc) through this Pan Pacific Site, such information would be encrypted and protected with industry standard SSL (secure socket layer) communication protocol.<br><br>We require our privacy standards to be observed by external parties who provide services to us and who may come into contact with your information. While we encourage all parties involved to adhere to our privacy standards, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from PPHR or independently.</p>
-<p><strong>Your Responsibility</strong><br>Please note that you play an important and substantial part in protecting the security and confidentiality of your personal information.&nbsp; Where we have given you (or you have chosen) a password which enables you to access any PPHR service, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. <br>We would advise you that the transmission of information via the internet is not completely secure, and may be intercepted or accessed by unauthorized third parties. While we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to any PPHR service; any transmission is at your own risk. It is your responsibility to take all necessary security precautions to ensure the integrity of your computer system, to minimize the risks of third parties gaining unnoticed access to your computer system, and to protect your computer system from viruses and other malicious code. </p>
-<p><strong>Outside Links</strong><br>This Privacy Policy Statement only applies to this Pan Pacific Site. This Pan Pacific Site may contain links to third party websites which are outside our control. These sites may also collect information about you, and use this information according to their privacy practices which may differ from this Privacy Policy Statement. Once you’re outside this Pan Pacific Site, any information you submit is outside of our control.</p>
-<p><br><strong>Amendments</strong><br>PPHR reserves the right to modify this Privacy Policy Statement at any time. Continued use of this Pan Pacific Site or any PPHR service provided herein signifies acceptance of any such modification. </p>
-<p><strong>Contact</strong><br>We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at +65 6808 1180, our corporate office in Singapore.</p>
-<p>You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If PPHR does not allow you to access your personal information we will provide you with the reasons for our decision.</p>
-<p>PPHR shall use all reasonable endeavours to adhere to the following Privacy Principles:<br>1.&nbsp;PPHR only collects personal information by fair, lawful and non-intrusive means. <br>2.&nbsp;PPHR endeavours to use or disclose information for the purpose for which it was collected unless the person has provided permission to send direct marketing material.<br>3.&nbsp;PPHR takes reasonable steps within the boundaries of accepted everyday work practises to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to date.<br>4.&nbsp;PPHR implements systems that protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure. <br>5.&nbsp;PPHR has a policy document outlining its information handling practices and make this available to anyone who asks.<br>6.&nbsp;PPHR provides printed and digital means for individual access to personal information it holds about that individual on request.<br>7.&nbsp;PPHR provides methods for customers to interact anonymously whenever it is lawful and practicable to do.<br>8.&nbsp;PPHR only transfers personal information to a recipient in a foreign country in circumstances where the information will have an appropriate level of protection.<br>9.&nbsp;PPHR does not collect sensitive information unless the individual has consented, unless it is required by law – or in other special specified circumstances, for example relating to health services provision and individual or public health or safety.</p>
+<p><strong>Storage of data<br></strong>Any personal information that we collect about customers including email addresses will be kept in a database of the THE COMPANY.&nbsp; THE COMPANY will take all steps reasonably necessary to ensure that the database is treated securely and in accordance with this Privacy Policy Statement, and to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.</p>
+<p><strong>Our security procedures<br></strong>Once we receive personal information from you, we take all reasonable steps to ensure that all information we collect, use or disclose is accurate, up to date and stored in a secure environment and accessed only by authorised persons.&nbsp; Your personal information is protected from unauthorized access or use whenever such information is stored in our systems. In addition, this information is only kept on servers that are located behind a “firewall”, which protects their contents from outside users. Where you may be requested to provide sensitive information (such as credit card numbers etc) through this Pan Pacific Site, such information would be encrypted and protected with industry standard SSL (secure socket layer) communication protocol.</p>
+<p>We require our privacy standards to be observed by external parties who provide services to us and who may come into contact with your information. While we encourage all parties involved to adhere to our privacy standards, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from THE COMPANY or independently.</p>
+<p><strong>Your Responsibility<br></strong>Please note that you play an important and substantial part in protecting the security and confidentiality of your personal information.&nbsp; Where we have given you (or you have chosen) a password which enables you to access any THE COMPANY service, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. </p>
+<p>We would advise you that the transmission of information via the internet is not completely secure, and may be intercepted or accessed by unauthorized third parties. While we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to any THE COMPANY service; any transmission is at your own risk. It is your responsibility to take all necessary security precautions to ensure the integrity of your computer system, to minimize the risks of third parties gaining unnoticed access to your computer system, and to protect your computer system from viruses and other malicious code.</p>
+<p><strong>Outside Links<br></strong>This Privacy Policy Statement only applies to this Pan Pacific&nbsp;Site. This Pan Pacific Site may contain links to third party websites which are outside our control. These sites may also collect information about you, and use this information according to their privacy practices which may differ from this Privacy Policy Statement. Once you’re outside this Pan Pacific Site, any information you submit is outside of our control.</p>
+<p><strong>Amendments<br></strong>THE COMPANY reserves the right to modify this Privacy Policy Statement at any time. Continued use of this Pan Pacific Site or any THE COMPANY service provided herein signifies acceptance of any such modification.</p>
+<p><strong>Contact<br></strong>We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at +65 6808 1180, our corporate office in Singapore.</p>
+<p>You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If THE COMPANY does not allow you to access your personal information we will provide you with the reasons for our decision.</p>
+<p>THE COMPANY shall use all reasonable endeavours to adhere to the following Privacy Principles:</p>
+<ol>
+    <li>THE COMPANY only collects personal information by fair, lawful and non-intrusive means. <br></li>
+    <li>THE COMPANY endeavours to use or disclose information for the purpose for which it was collected unless the person has provided permission to send direct marketing material.<br></li>
+    <li>THE COMPANY takes reasonable steps within the boundaries of accepted everyday work practises to ensure that the personal information it collects, uses or discloses is accurate, complete and up-to date.<br></li>
+    <li>THE COMPANY implements systems that protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure. <br></li>
+    <li>THE COMPANY has a policy document outlining its information handling practices and make this available to anyone who asks.<br></li>
+    <li>THE COMPANY provides printed and digital means for individual access to personal information it holds about that individual on request.<br></li>
+    <li>THE COMPANY provides methods for customers to interact anonymously whenever it is lawful and practicable to do.<br></li>
+    <li>THE COMPANY only transfers personal information to a recipient in a foreign country in circumstances where the information will have an appropriate level of protection.<br></li>
+    <li>THE COMPANY does not collect sensitive information unless the individual has consented, unless it is required by law – or in other special specified circumstances, for example relating to health services provision and individual or public health or safety. </li>
+</ol>
 </div>
 </div>
 <!--END COMPONENT:1157-->
@@ -823,7 +905,7 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutRight" style="" class="rightColumn">
                 <div id="contentRight">
-<!--START COMPONENT:1142 (132ms) -->
+<!--START COMPONENT:1142 (329ms) -->
 <style type="text/css">
 #events-container {
 	padding:20px 0;
@@ -869,27 +951,17 @@ $(function() {
 </script><div id="hotel-marketing-panel">
 <h2 class="head"><a href="/en/specialoffers.html" title="Hotel Offers">Hotel Offers</a></h2>
 <ul class="has-accord"><li>
-<h3 class="head"><a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific">Preferences By Pan Pacific</a></h3>
+<h3 class="head"><a href="/en/corporate/offers/double_miles_flying_blue.html" title="Preference and double miles with Flying Blue">Preference and double miles with Flying Blue</a></h3>
 <div>
-<a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific"><img src="/media/images/corporate/group_promotions/rooms_preferences_210x80.jpg" border="0" alt="Preferences By Pan Pacific"></a>
-<a href="/en/preferences_pan_pacific.html" title="Design your own stay with additional Preferences such as breakfast and much more.
-        
-        
-        
-        
-        " class="offers-summary">Design your own stay with additional Preferences such as breakfast and much more.
-        
-        
-        
-        
-        </a>
+<a href="/en/corporate/offers/double_miles_flying_blue.html" title="Preference and double miles with Flying Blue"><img src="/media/Images/Corporate/pphr-fb-mh-large.jpg" border="0" alt="Preference and double miles with Flying Blue"></a>
+<a href="/en/corporate/offers/double_miles_flying_blue.html" title="Indulge in a diverse range of experiences with double miles and a preference of your choice" class="offers-summary">Indulge in a diverse range of experiences with double miles and a preference of your choice</a>
 </div>
 </li>
 <li>
-<h3 class="head"><a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific">Weekend Preferences By Pan Pacific</a></h3>
+<h3 class="head"><a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Preference and double miles with Malaysia Airlines">Preference and double miles with Malaysia Airlines</a></h3>
 <div>
-<a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific"><img src="/media/Images/Corporate/Group_Promotions/weekend_preferences-210x80.jpg" border="0" alt="Weekend Preferences By Pan Pacific"></a>
-<a href="/en/weekend_preferences.html" title="Love your weekends even more with an additional choice of Preferences." class="offers-summary">Love your weekends even more with an additional choice of Preferences.</a>
+<a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Preference and double miles with Malaysia Airlines"><img src="/media/Images/Corporate/pphr-fb-mh-large.jpg" border="0" alt="Preference and double miles with Malaysia Airlines"></a>
+<a href="/en/corporate/offers/double_miles_malaysia_airlines.html" title="Indulge in a diverse range of experiences with double miles and a preference of your choice" class="offers-summary">Indulge in a diverse range of experiences with double miles and a preference of your choice</a>
 </div>
 </li>
 <li>
@@ -905,9 +977,9 @@ $(function() {
 </div>
 <div class="hotel-whats-happening">
   <h2 class="head"><a href="/en/press_releases_default_listing.html" title="What's Happening">What's Happening</a></h2>
-  <ul>    <li><a href="/en/articles/pan_pacific_debuts_in_australia.html" title="Pan Pacific Debuts in Australia with Pan Pacific Perth">Pan Pacific Debuts in Australia with Pan Pacific Perth</a></li>
-    <li><a href="/en/articles/pan_pacific_hotels_group_wins_top_honours_at_world_travel_awards.html" title="Pan Pacific Hotels Group Wins Top Honours At World Travel Awards">Pan Pacific Hotels Group Wins Top Honours At World Travel Awards</a></li>
-    <li><a href="/en/articles/now_double_preferences_by_pan_pacific.html" title="Now Double Preferences by Pan Pacific">Now Double Preferences by Pan Pacific</a></li>
+  <ul>    <li><a href="/en/articles/pan_pacific_singapore_embarks_on_biggest_transformation_.html" title="Pan Pacific Singapore embarks on biggest transformation ">Pan Pacific Singapore embarks on biggest transformation </a></li>
+    <li><a href="/en/articles/pphg_australia_properties.html" title="Pan Pacific Hotels and Resorts enters Australia with three properties">Pan Pacific Hotels and Resorts enters Australia with three properties</a></li>
+    <li><a href="/en/articles/ningbo.html" title="Pan Pacific Hotels and Resorts to open new Pan Pacific properties in Ningbo, China">Pan Pacific Hotels and Resorts to open new Pan Pacific properties in Ningbo, China</a></li>
   </ul>
 </div>
 
@@ -916,9 +988,34 @@ $(function() {
 <!--START COMPONENT:293 (1ms) -->
 <a id="exclusive-link" href="/en/mypanpac/newslettermember.html" title="Sign Up For Latest News">Sign Up For Latest News</a>
 <!--END COMPONENT:293-->
+</div>
+            </div>
+        </div>
+        <div id="layoutFooter" style="" class="footer">
+            <div id="footer">
+<!--START COMPONENT:1143 (24ms) -->
+<h2 class="hidden">About Pan Pacific and this Property</h2>
+<ul id="footer-menu">
+    <li class="first"><a href="/en/overview.html" title="About Pan Pacific">About Pan Pacific</a></li>
+     <li><a href="/en/GHA.html" title="Global Hotel Alliance">Global Hotel Alliance</a></li>
+     <li><a href="/en/press_releases_default_listing.html" title="Press">Press</a></li>
+      <li><a href="/en/corporate/corporate_pages/awards.html" title="Awards &amp; Accolades">Awards &amp; Accolades</a></li>
+      <li><a href="/en/currentopening.html" title="Careers">Careers</a></li>
+    <li class="last"><a href="/en/contactus.html" onmouseover="toggleSecMenu(false)" title="Contact Us<">Contact Us</a></li>
+</ul>
+<!--END COMPONENT:1143-->
 
-<!--START COMPONENT:35 (0ms) -->
-<div id="right-search">
+<!--START COMPONENT:21 (1ms) -->
+<div id="footer-policy">
+  <h3 class="hidden">Legal</h3>
+  <ul>
+   <li class="first"><a href="/en/sitemap.html" title="Site Map">Site Map</a></li>
+    <li><a href="/en/privacy.html?override_form=21" title="Privacy Policy">Privacy Policy</a></li>
+    <li class="last"><a href="/en/termsofuse.html?override_form=21" title="Terms of Use">Terms of Use</a></li>
+  </ul>
+</div>
+
+<div id="footer-search" class="search-container">
   <h3 class="hidden">Search</h3>
  <form name="searchForm" action="/search.html" method="get">
       <ol>
@@ -931,53 +1028,29 @@ $(function() {
       </ol>
 </form>
 </div>
-<!--END COMPONENT:35-->
-</div>
-            </div>
-        </div>
-        <div id="layoutFooter" style="" class="footer">
-            <div id="footer">
-<!--START COMPONENT:1143 (0ms) -->
-<h2 class="hidden">About Pan Pacific and this Property</h2>
-<ul id="footer-menu">
-    <li class="first"><a href="/en/overview.html" title="About Pan Pacific">About Pan Pacific</a></li>
-     <li><a href="/en/GHA.html" title="Global Hotel Alliance">Global Hotel Alliance</a></li>
-     <li><a href="/en/press_releases_default_listing.html" title="Press">Press</a></li>
-      <li><a href="/en/currentopening.html" title="Careers">Careers</a></li>
-    <li class="last"><a href="/en/contactus.html" onmouseover="toggleSecMenu(false)" title="Contact Us<">Contact Us</a></li>
-</ul>
-<!--END COMPONENT:1143-->
-
-<!--START COMPONENT:21 (0ms) -->
-<div id="footer-policy">
-  <h3 class="hidden">Legal</h3>
-  <ul>
-   <li class="first"><a href="/en/sitemap.html" title="Site Map">Site Map</a></li>
-    <li><a href="/en/privacy.html?override_form=21" title="Privacy Policy">Privacy Policy</a></li>
-    <li class="last"><a href="/en/termsofuse.html?override_form=21" title="Terms of Use">Terms of Use</a></li>
-  </ul>
-</div>
 <!--END COMPONENT:21-->
 
-<!--START COMPONENT:215 (1ms) -->
+<!--START COMPONENT:215 (0ms) -->
 <div id="footer-copyright">
   <h3 class="hidden">Copyright</h3>
-  <p>© 2011 Pan Pacific Hotels and Resorts</p>
+  <p>© 2012 Pan Pacific Hotels and Resorts</p>
   <p><a href="http://www.globalhotelalliance.com" target="_blank" title="Pan Pacific Hotels and Resorts is a Member of Global Hotel Alliance"><img src="/media/Images/global_hotel_alliance_logo.gif" border="0" alt="Global Hotel Alliance"><span class="hidden">Pan Pacific Hotels and Resorts is a Member of <abbr title="Global Hotel Alliance">GHA</abbr></span></a></p>
 </div>
 <!--END COMPONENT:215-->
 
-<!--START COMPONENT:22 (0ms) -->
-<script type="text/javascript" src="/application/js/main.js"></script>
+<!--START COMPONENT:22 (1ms) -->
 <script type="text/javascript" src="/jasmine3.0/scripts/date.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/lib/chili-1.7.pack.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/lib/jquery.easing.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/lib/jquery.dimensions.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/jquery.accordion.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/jquery/jquery.popupWindow.js"></script>
+<script type="text/javascript" src="/application/js/main.js"></script>
+
 
 <!--END COMPONENT:22-->
 
-<!--START COMPONENT:1513 (0ms) -->
+<!--START COMPONENT:1513 (1ms) -->
 <script type="text/javascript">
 /*<![CDATA[*/
 var hasWhitebg = true;
@@ -1006,62 +1079,68 @@ function addHotelLocalDate(jvarCodeName, jvarDate)
 }
 
 
-<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '06 Oct 2011');
+<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '28 Apr 2012');
 
-addHotelLocalDate('PPCER', '06 Oct 2011');
+addHotelLocalDate('PPCER', '28 Apr 2012');
 
-addHotelLocalDate('PPCGK', '06 Oct 2011');
+addHotelLocalDate('PPCGK', '28 Apr 2012');
 
-addHotelLocalDate('PPDAC', '06 Oct 2011');
+addHotelLocalDate('PPDAC', '28 Apr 2012');
 
-addHotelLocalDate('PPDPS', '06 Oct 2011');
+addHotelLocalDate('PPDPS', '28 Apr 2012');
 
-addHotelLocalDate('PPHND', '06 Oct 2011');
+addHotelLocalDate('PPHND', '28 Apr 2012');
 
-addHotelLocalDate('PPKLA', '06 Oct 2011');
+addHotelLocalDate('PPKLA', '28 Apr 2012');
 
-addHotelLocalDate('PPMLB', '06 Oct 2011');
+addHotelLocalDate('PPMLB', '27 Apr 2012');
 
-addHotelLocalDate('PPMNL', '06 Oct 2011');
+addHotelLocalDate('PPMNL', '28 Apr 2012');
 
-addHotelLocalDate('PPNBO', '06 Oct 2011');
+addHotelLocalDate('PPNBO', '28 Apr 2012');
 
-addHotelLocalDate('PPNGO', '06 Oct 2011');
+addHotelLocalDate('PPNGO', '28 Apr 2012');
 
-addHotelLocalDate('PPNRT', '06 Oct 2011');
+addHotelLocalDate('PPNRT', '28 Apr 2012');
 
-addHotelLocalDate('PPPAL', '06 Oct 2011');
+addHotelLocalDate('PPPAL', '28 Apr 2012');
 
-addHotelLocalDate('PPPER', '06 Oct 2011');
+addHotelLocalDate('PPPER', '28 Apr 2012');
 
-addHotelLocalDate('PPSEA', '06 Oct 2011');
+addHotelLocalDate('PPSBKK', '28 Apr 2012');
 
-addHotelLocalDate('PPSGO', '06 Oct 2011');
+addHotelLocalDate('PPSEA', '27 Apr 2012');
 
-addHotelLocalDate('PPSHA', '06 Oct 2011');
+addHotelLocalDate('PPSGO', '28 Apr 2012');
 
-addHotelLocalDate('PPSIN', '06 Oct 2011');
+addHotelLocalDate('PPSHA', '28 Apr 2012');
 
-addHotelLocalDate('PPSSIN', '06 Oct 2011');
+addHotelLocalDate('PPSIN', '28 Apr 2012');
 
-addHotelLocalDate('PPSZV', '06 Oct 2011');
+addHotelLocalDate('PPSNBO', '28 Apr 2012');
 
-addHotelLocalDate('PPUKY', '06 Oct 2011');
+addHotelLocalDate('PPSSIN', '28 Apr 2012');
 
-addHotelLocalDate('PPWHI', '06 Oct 2011');
+addHotelLocalDate('PPSZV', '28 Apr 2012');
 
-addHotelLocalDate('PPWHV', '06 Oct 2011');
+addHotelLocalDate('PPTSN', '28 Apr 2012');
 
-addHotelLocalDate('PPXMN', '06 Oct 2011');
+addHotelLocalDate('PPUKY', '28 Apr 2012');
 
-addHotelLocalDate('PPYKO', '06 Oct 2011');
+addHotelLocalDate('PPWHI', '27 Apr 2012');
 
-addHotelLocalDate('PPYVR', '06 Oct 2011');
+addHotelLocalDate('PPWHV', '27 Apr 2012');
+
+addHotelLocalDate('PPXMN', '28 Apr 2012');
+
+addHotelLocalDate('PPYKO', '28 Apr 2012');
+
+addHotelLocalDate('PPYVR', '27 Apr 2012');
 
 </script>
 <!--END COMPONENT:252-->
 
-<!--START COMPONENT:1542 (43ms) -->
+<!--START COMPONENT:1542 (118ms) -->
 <!-- SEO text. commented out accoding to the client request
 <div id="corporate-seo-left">Pan Pacific’s luxury hotels and resorts combine the cultures and ancient traditions of the Pacific Rim to provide an urban sanctuary with a sense of modern vibrancy and warmth. This culture is brought to life in the engaging and thoughtful service of all our associates, who are dedicated to enhancing every moment of your stay with us. We look forward to welcoming you to our 5-star hotels. </div>
 <div id="corporate-seo-right">Leading Luxury Hotels | 5 star beach Resorts | Luxury Family Hotels
@@ -1083,7 +1162,7 @@ Luxury Hotels – Luxury Resorts – 5 Star Hotels – Hotel Offers</div>
 
 
 
-<!--1447 MiliSecs AB Testing Path = B-->
+<!--1440 MiliSecs AB Testing Path = B-->
 
 
 </body></html>
