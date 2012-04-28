@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203221252id_/http%3A//www.flightview.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428082417id_/http%3A//www.flightview.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # FlightView Inc. - Privacy Policy
 
