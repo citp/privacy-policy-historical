@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429121126id_/http%3A//www.brayola.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# brayola | Privacy policy
 
-**Go Daddy Respects Your Privacy**
+[](https://web.archive.org/) already a brayola member?
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+join brayola
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+girls, only for log in purposes everything remains private
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+sign in to brayola
 
-**Information Collection and Use**
+girls, only for log in purposes everything remains private
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * enter your email and we'll reset your password
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * invalid email address
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * send 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+An email has been sent to you with a link to reset your password
 
-**Security**
+The email entered is not registered
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+cant find your bra?
 
-**Updating Your Information**
+  * describe the bra you love to wear, so we can add it to our database!
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  *   * enter your email address and we'll get back to you! 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * Invalid email address
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * send 
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Thank you for your feedback. We'll let you know when your bra has been added to brayola! 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+This privacy statement explains the privacy practices of Brayola for users of the Site. If not specifically defined herein, capitalized terms have the meaning given to them in the Brayola Terms of Service, which is available at [brayola.com/terms](http://brayola.com/terms). 
 
-**Compliance with Laws and Law Enforcement**
+Brayola respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy statement explains Brayola’s policy regarding the collection, use, disclosure and protection of Personal Information. The terms of this privacy policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+“Personal Information” is information that can be directly associated with a specific person or entity such as a person’s name, address, telephone number, e-mail address, credit card number, or information about activities directly linked to that person, such as his or her purchases (through affiliate programs). Personal Information also includes information that you may choose to provide to us, such as your educational, medical and employment history profile. Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no Personal Information will be included in the resulting data. Likewise, information about the products or services you use or purchase may be collected and combined with information about the products and services used or purchased by others, but no Personal Information will be included in the resulting data. Aggregate data helps understand trends and customer needs so that new products and services can be considered and so existing products and services can be tailored to customer desires. 
 
-**Third Party Service Providers**
+We collect Personal Information that you provide us, such as when you: register to use the Site or Services; post or submit any content on the Site or Services, or any conversation between users; use links to third party websites contact us for any reason. We may automatically collect some information when you use the Site or Services, such as your computer’s IP address, operating system, the site from which you linked to us, and the time and date of your visit, your searching history, the sites to which you were linked thorough the Site, and activities. We also collect information received from third parties to the extent that they have entered into an agreement with you as a result of your relationship with Brayola. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+The personal information we collect is used to process your requests or transactions, to provide you high quality service, to customize your use of the Site or Services according to your preferences, and to tell you about specific goods or services we believe will be of interest to you. If you prefer not to receive promotional information from us, we make it easy for you to let us know. You can contact us at any time to decline promotional information (see under the heading “Choice” below). 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Brayola does not sell, rent, share, or disclose Personal Information to third parties without your prior consent, except in the limited circumstances described in this statement. 
 
-**Supplementation of Information**
+If you use any of the features of the Site or Services, please remember that any information disclosed in these venues may be automatically made public, even without your knowledge or authorization. You should exercise caution when disclosing any information, including Personal Information, in such venues, as you do not know who will access or use such information and for what purposes. Brayola is in no way responsible for the accuracy, use or misuse of any information, including Personal Information, which you disclose in such venues. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+In addition, we may disclose Personal Information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Brayola, our customers, or the public. Information about our customers, including Personal Information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition. 
 
-**Contests/Surveys**
+Brayola has put into place security measures in an effort to protect personal information from loss, misuse or alteration while it is under our control. Personal information we collect is stored electronically and may be combined with other membership information. We use technical, contractual, administrative and physical measures in an effort to protect against unauthorized access. Further, when you enter personal information online, that information is encrypted using a security software called SHA1. SHA1 encrypts all information before it is sent over the Internet, including passwords to Brayola accounts. Account information is accessible online only through the use of a password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. If other people have access to your email, they may be able to obtain access to your password and obtain personal information about you, or change information about your user profile. You may not want to use an email account operated by an employer because many employers have the legal right to access such email accounts. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+By registering you agree to receive promotional messages from Brayola. If at any time you wish to stop receiving promotional information from Brayola, you may opt out by: E-Mailing us at support@brayola.com; or Accessing your registration information and checking the box that allows you to opt out of receiving promotional emails. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Brayola appreciates the importance of safeguarding the privacy of your personal information that may be provided to us. However, Brayola does use and disclose de-identified aggregate information for the purposes of evaluating and improving our services and tailoring our products. Brayola may choose at its sole discretion to transfer, sell, provide or share such information with third parties, including with Brayola’s business partners for commercial purposes, and by providing any information to Brayola you consent to such provision of de-identified aggregate information to any third party. 
 
-**Tell-A-Friend**
+Cookies are small files that are stored on your computer. We use cookies to help optimize your use of the Site. For example, we use cookies to customize our home page for you and to better display pages according to your browser type. When you make a purchase cookies allow us to better maintain the status of your account. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Brayola does not knowingly collect personally identifiable information from children under the age of 13, and you must be 18 years of age or older in order to establish an account. Parents are able to set up accounts for their children. In this way verifiable parental consent is required in order to register a child under the age of 13 to be enrolled, and any parent setting up an account for his or her hereby represents and warrants that he or she is the parent or legal guardian of such child, and has the authority to provide information and render consents on behalf of such child. In the event you become aware that an individual under the age of 13 has enrolled without parental permission, please advise us immediately. 
 
-**What Happens to my Personal Information if I Opt Out?**
+By searching an item shown on the Site, you may be taken to a site of a third party. In addition, Brayola members or users can link to other webs of third parties that provide useful information, or who have agreed to offer goods and services to Brayola members. Any personal information you provide on the linked pages is provided directly to this third-party and is subject to that third party’s provider’s privacy policy. Except as described above, Brayola is not responsible for the content or privacy practices of Web sites to which we link. Links to third party or other sites are provided for your convenience. We encourage you to learn about the privacy practices of each Web site before providing them with personal information. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You may update, review or correct your on-line account information at any time online by accessing your password-protected registration page. You may also e-mail us at support@brayola.com. 
 
-**Transfer of Data Abroad**
+If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can e-mail us at support@brayola.com. 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Brayola reserves the right to change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your information will be used. If there is ever a material change to how we use your information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance. 
