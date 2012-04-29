@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnthatsbig.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119051934id_/http%3A//damnthatsbig.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnthatsbig.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429194108id_/http%3A//damnthatsbig.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
