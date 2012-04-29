@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gizmodose.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007215340id_/http%3A//gizmodose.com/dmca-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodose.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429054359id_/http%3A//wwdn.org/dmca-privacy-policy) for the most accurate reproduction.*
 
-# DMCA & Privacy Policy | Gadget Reviews
+# DMCA & Privacy Policy | World Wide Daily News | WWDN
 
 **DMCA**
 
-**If any one of our loyal minions makes amistake of using your copyrighted content please let us know we’d remove said content ASAP and send you some cookies.**
+**If any one of our loyal minions makes amistake of using your copyrighted content please let us know we’d remove said **content** **ASAP** and send you some cookies. **
 
 To expedite our handling of your notice, please use the following format or refer to Section 512(c)(3) of the Copyright Act.
 
@@ -12,9 +12,9 @@ To expedite our handling of your notice, please use the following format or refe
 
 2\. Identify the material that you allege is infringing upon the copyrighted work listed in Item #1 above. Include the name of the concerned litigious material (all images or posts if relevant) with its complete reference.
 
-3\. Provide information on which GizmoDose may contact you, including your email address and your name and position.
+3\. Provide information on which wwdn may contact you, including your email address and your name and position.
 
-4\. Provide the address, if available, to allow GizmoDose to notify the owner/administrator of the allegedly infringing webpage or other content, including email address.
+4\. Provide the address, if available, to allow wwdn to notify the owner/administrator of the allegedly infringing webpage or other **content** , including email address.
 
 5\. Also include a statement of the following: “I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.”
 
@@ -30,9 +30,9 @@ The contents of this Website are based on information generally available to the
 
 This report does not purport to be a solicitation of any advice pertaining to trade and business and readers are advised to consult experts or study / evaluate individual business prospectus and other relevant legal documents before taking any decisions based on information provided in the site. We do not accept responsibility for any financial consequences arising from the use of the research or information provided herein.
 
-Privacy Policy For **gizmodose.com**
+**Privacy Policy** For **wwdn.org**
 
-At **gizmodose.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **gizmodose.com** , and how we safeguard your information.
+At **wwdn.org** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **wwdn.org** , and how we safeguard your information.
 
 We never sell your personal information to third parties.
 
@@ -42,6 +42,6 @@ Log Files – – As with most other websites, we collect and use the data conta
 
 Cookies and Web Beacons – We do use cookies to store information, such as your personal preferences when you visit our site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. http://www.networkadvertising.org/
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. http://www.google.com/privacy_ads.html You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and **content** network privacy policy. http://www.google.com/privacy_ads.html You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 We can be reached via our contact e-mail to writing.www@gmail.com
