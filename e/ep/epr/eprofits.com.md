@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eprofits.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121657id_/http%3A//www.eprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprofits.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429195430id_/http%3A//www.eprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 published on Wednesday, 28 July 2010
 
-**Privacy Statement**
+**Privacy Statement** (modified 01-30-2012)
 
 We are strongly committed to your privacy, and offer this full disclosure of our policy in order that you fully understand the data collection and dissemination policy of eProfits.com.
 
@@ -14,15 +14,19 @@ The policy here applies to general usage of eProfits.com as intended, and can be
 
  **User-supplied Data**
 
-We may ask detailed personal data during the process of signing up for an account with eProfits.com, or as part of usage of the services available or to process support requests. This data may include, but is not limited to, full name, address, telephone number, financial status, credit card data.
+We may ask detailed personal data during the process of signing up for an account with eProfits.com, or as part of usage of the services available or to process support requests. This data may include, but is not limited to, full name, mailing address, telephone number, email address, financial status, credit card data.
 
-With the exception of credit card and billing data, all explicitly requested or voluntarily supplied information is considered non-confidential, and by contacting or supplying such data you agree to provide an unrestricted license to modify, display, use, disseminate, reproduce and transfer any information supplied, for both commercial and non-commercial purposes.
+With the exception of credit card and billing data, all explicitly requested or voluntarily supplied information is considered non-confidential, and by contacting or supplying such data you agree to provide an unrestricted license to display, use, disseminate, reproduce and transfer any information supplied, for both commercial and non-commercial purposes.
 
 While we strive to maintain privacy of certain aspects of this data, in provision of our services at times higher than normal levels of personal data dissemination may occur, through errors, omissions, or malicious targeting of our servers. By submitting your information to eProfits.com you accept that this is a potential consequence, and waive any rights to lay claim against eProfits.com or its officers, through legal or civil channels.
 
 **User-supplied Billing Data**
 
 All transactions related to payment and credit cards are conducted through secure 128-bit SSL connections to ensure the privacy and security of your personal financial data.
+
+**Data Collection and Use**
+
+We reserve the right to share, rent, sell, or otherwise disclose personal information we collect about you to third parties for marketing products and services which you might find of interest
 
 **Machine-logged Data**
 
@@ -44,10 +48,14 @@ These third-party mailings will always contain full data of the mailing party, a
 Updates to Policy
 
 This privacy policy is subject to change, either when material change is requested, or conditional to a substantive change in our internal data policy. It is your responsibility to check this page periodically in order to maintain up-to-date with our policies related to data collection and usage.
+
+**Contact information**
+
+Platinum eMedia Inc. | No Rome Ltd. - 145-157 St. John Street, London, EC1V 4PY, UK 1-877-532-1666
     
     
       
     
 
-  
+  *   *   * 
 
