@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmxmoney.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025112047id_/http%3A//www.tmx.com/en/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmxmoney.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429035427id_/http%3A//www.tmx.com/en/priv_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TMX Group
 
@@ -22,7 +22,7 @@ Due to the nature of Internet communications and evolving technologies, TMX cann
 
 #### Automatic Collection of Information
 
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include your Internet protocol (IP) address, the type of Internet browser you are using, the type of computer operating system you are using, and the advertisement or domain name of the website from which you linked to the Websites.
+In some cases, we may collect information about you that may or may not be personally-identifiable. Examples of this type of information include your Internet protocol (IP) address, the type of Internet browser you are using, the type of computer operating system you are using, and the advertisement or domain name of the website from which you linked to the Websites. The collection, use, disclosure and storage of such information will be in accordance with this privacy policy, including for the purpose of optimizing Website user experience.
 
 #### Cookies
 
