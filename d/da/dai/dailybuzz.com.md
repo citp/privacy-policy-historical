@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailybuzz.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150336id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybuzz.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430034820id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
 
-# DailyBuzz - Curating the Best of the Independent Web
+# DailyBuzz - The Best of the Independent Web
 
 This Privacy Policy covers the Federated Media Publishing, Inc. ("Federated Media") family of websites, including [dailybuzz.com](http://www.dailybuzz.com/) (the "Sites"). Federated Media and any and all of the entities that control, are controlled by, or are affiliated with or under common control with Federated Media are referred to herein as "Federated Media" "We", "Us" or "Our." Federated Media will maintain your data in connection with the Sites as described in this Privacy Policy.
 
