@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medixselect.tv privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225201122id_/http%3A//medixselect.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medixselect.tv privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430023725id_/http%3A//www.medixselect.com/page/privacy) for the most accurate reproduction.*
 
 # Medix Select - Privacy Policy
 
