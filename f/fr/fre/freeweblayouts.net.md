@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeweblayouts.net privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225134939id_/http%3A//www.freeweblayouts.net/go.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeweblayouts.net privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430033322id_/http%3A//www.freeweblayouts.net/go.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Free Web Layouts - Myspace Layouts, Backgrounds, Graphics, Codes, & More!
 
