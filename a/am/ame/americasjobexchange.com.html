@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the americasjobexchange.com privacy policy that was archived on 2011-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111224224341id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americasjobexchange.com privacy policy that was archived on 2012-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120430022356id_/http%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:wicket="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
+    
+    
+    
 	<link rel="stylesheet" href="css/reset.css?site=AJE" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/structure.css?site=AJE" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/content.css?site=AJE" type="text/css" media="screen">
@@ -18,13 +20,16 @@
     <link rel="stylesheet" href="css/home.css?site=AJE" type="text/css" media="screen">
     <link rel="stylesheet" href="css/content.css?site=AJE" type="text/css" media="screen">
     <link rel="stylesheet" href="css/partners.css?site=AJE" type="text/css" media="screen">
+        <style id="com-americasjobexchange-seeker-pages-overview-OverviewPage-0">
+.notetext{ float:left; color:#808080; font-style:italic}
+</style>
 
 		<link rel="stylesheet" href="css/dynamicpages.css?site=AJE" type="text/css" media="screen">
 	<script type="text/javascript" src="resources/org.apache.wicket.markup.html.WicketEventReference/wicket-event.js"></script>
 <script type="text/javascript" src="resources/org.apache.wicket.ajax.WicketAjaxReference/wicket-ajax.js"></script>
 <script type="text/javascript" src="resources/org.apache.wicket.extensions.ajax.markup.html.autocomplete.AutoCompleteBehavior/wicket-autocomplete.js"></script>
 <script type="text/javascript"><!--/*--><![CDATA[/*><!--*/
-Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('id25','?wicket:interface=:8:searchForm:location::IActivePageBehaviorListener:0:&wicket:ignoreIfNotActive=true',{preselect: false,maxHeight: 200,adjustInputWidth: true,useSmartPositioning: false,useHideShowCoveredIEFix: true,showListOnEmptyInput: false,showListOnFocusGain: false,throttleDelay: 300,showCompleteListOnFocusGain: false},null);;});
+Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('id1','?wicket:interface=:0:searchForm:location::IActivePageBehaviorListener:0:&wicket:ignoreIfNotActive=true',{preselect: false,maxHeight: 200,adjustInputWidth: true,useSmartPositioning: false,useHideShowCoveredIEFix: true,showListOnEmptyInput: false,showListOnFocusGain: false,throttleDelay: 300,showCompleteListOnFocusGain: false},null);;});
 /*-->]]>*/</script>
 
 </head>
@@ -45,17 +50,21 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
 	<script src="js/jquery.ba-dotimeout.js?site=AJE" type="text/javascript"></script>
 	<script src="js/jquery.blockUI.js?site=AJE" type="text/javascript"></script>
 	<script src="js/jquery.session.js?site=AJE" type="text/javascript"></script>
-	
-	<input type="hidden" id="defaultKeyword" value="Keyword or Title" name="header:defaultKeyword">
-	<input type="hidden" id="defaultLocation" value="State or City or Zip" name="header:defaultLocation">
+	<script src="js/jquery.simplemodal.1.4.2.min.js?site=AJE" type="text/javascript"></script>
+
+	<input type="hidden" id="defaultKeyword" value="" name="header:defaultKeyword">
+	<input type="hidden" id="defaultLocation" value="" name="header:defaultLocation">
 	
 	<div id="header">
 <!--		<h1 title="America's Job Exchange" id="aje-logo">America's Job Exchange</h1>-->
 		
 		<div id="navigation">
-			<h1 title="America's Job Exchange" id="aje-logo">
-				<a href="./">America's Job Exchange<span class="jobs-for"><img src="css/images/tagline.png" alt="[]"></span></a>
-			</h1>
+			<!--<h1 title="America's Job Exchange" id="aje-logo">
+				<a href="#" wicket:id="linkToHomePage">America's Job Exchange<span class="jobs-for"><img alt="Americasjobexchange.com Find Jobs" wicket:id="stateImg" title="Americasjobexchange.com Find Jobs"></span></a>
+			</h1>-->
+            <h2 title="Americasjobexchange.com Find Jobs" id="aje-logo">
+				<a href="./">America's Job Exchange<span class="jobs-for"><img alt="Americasjobexchange.com Find Jobs" src="css/images/tagline.png?site=AJE" title="Americasjobexchange.com Find Jobs"></span></a>
+			</h2>
 
 			<span>		
 		<ul id="questions-employerlink">
@@ -84,8 +93,11 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
                 <li class="resources nav-item">
                     <a class="link" href="/career-tools">Resources</a>                    
                 </li>
+<!--                <li class="education nav-item">
+                    <a class="link" href="#"  wicket:id="educationLink">Education</a>                    
+                </li>-->
                 <li class="education nav-item">
-                    <a class="link" href="/education-center">Education</a>                    
+                    <a class="link" href="http://blog.americasjobexchange.com/">Blog</a>                    
                 </li>
 				<li class="nav-item login"><span class="wrapper"><a href="secure/dashboard/account-info" rel="nofollow" class="link"><span>Login</span></a></span></li>
 				<li class="nav-item registration"><a href="registration" rel="nofollow" class="link"><span>Register</span></a></li>
@@ -178,83 +190,71 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
             <div id="secondary-content" style="width: 300; margin-left: -300px; margin-top: 10px;">
                 <h3 class="headerSearch">Narrow Your Search</h3>
                 <div class="search">
-                    <form id="id26" method="post" action="?wicket:interface=:8:searchForm::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id26_hf_0" id="id26_hf_0"></div> 
-                        <div id="id27">
+                    <form id="id2" method="post" action="?wicket:interface=:0:searchForm::IFormSubmitListener::"><div style="width:0px;height:0px;position:absolute;left:-100px;top:-100px;overflow:hidden"><input type="hidden" name="id2_hf_0" id="id2_hf_0"></div> 
+                        <div id="id3">
   
 </div>
                         <fieldset>
                             <label for="location1">Location:</label>
-                            <input id="id25" type="text" value="" name="location" autocomplete="off">
+                            <input id="id1" type="text" value="" name="location" autocomplete="off">
+                           <span class="notetext">State or City or Zip</span> <br clear="all">
                             <label for="keywords1">Keyword(s):</label>
                             <input name="keywordTextField" id="keywords1" type="text" value="">
+                            <span class="notetext">Keyword or Title</span> <br clear="all">
                             <div>
                                 <span class="btnInputGray">
-                                    <span><input type="submit" value="Search" name="searchBtn" id="id28" onclick="var wcall=wicketSubmitFormById('id26', '?wicket:interface=:8:searchForm:searchBtn::IActivePageBehaviorListener:0:&amp;wicket:ignoreIfNotActive=true', 'searchBtn' ,function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$$(this)&amp;&amp;Wicket.$$('id26')}.bind(this));;; return false;" onmouseup="showPopup();"></span>
+                                    <span><input type="submit" value="Search" name="searchBtn" id="id4" onclick="var wcall=wicketSubmitFormById('id2', '?wicket:interface=:0:searchForm:searchBtn::IActivePageBehaviorListener:0:&amp;wicket:ignoreIfNotActive=true', 'searchBtn' ,function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$$(this)&amp;&amp;Wicket.$$('id2')}.bind(this));;; return false;" onmouseup="showPopup();"></span>
                                 </span>
-                                <a href="advanced-search">Advanced search »</a>
+                                <a href="/advanced-search">Advanced search »</a>
                             </div>
                         </fieldset>	
                     </form>
                 </div>
                 <div class="ad-space first">
-                    
+                        <script type="text/javascript"><!--//<![CDATA[
+       var m3_u = (location.protocol=='https:'?'https://oa.navisite.com/delivery/ajs.php':'http://oa.navisite.com/delivery/ajs.php');
+       var m3_r = Math.floor(Math.random()*99999999999);
+       if (!document.MAX_used) document.MAX_used = ',';
+       document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+       document.write ("?zoneid=79");
+       document.write ('&amp;cb=' + m3_r);
+       if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+       document.write ("&amp;loc=" + escape(window.location));
+       if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+       if (document.context) document.write ("&context=" + escape(document.context));
+       if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+       document.write ("'><\/scr"+"ipt>");
+        //]]>--></script><script type="text/javascript" src="https://oa.navisite.com/delivery/ajs.php?zoneid=79&amp;cb=22970347627&amp;loc=https%3A//web.archive.org/web/20120430022356id_/http%253A//www.americasjobexchange.com/privacy"></script>
 
-
-
-    <wicket:panel>
-        <script type="text/javascript"><!--//<![CDATA[
-           var m3_u = (location.protocol=='https:'?'https://oa.navisite.com/delivery/ajs.php':'http://oa.navisite.com/delivery/ajs.php');
-           var m3_r = Math.floor(Math.random()*99999999999);
-           if (!document.MAX_used) document.MAX_used = ',';
-           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-           document.write ("?zoneid=79");
-           document.write ('&amp;cb=' + m3_r);
-           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-           document.write ("&amp;loc=" + escape(window.location));
-           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-           if (document.context) document.write ("&context=" + escape(document.context));
-           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-           document.write ("'><\/scr"+"ipt>");
-            //]]>--></script><script type="text/javascript" src="https://oa.navisite.com/delivery/ajs.php?zoneid=79&amp;cb=28702900506&amp;loc=https%3A//web.archive.org/web/20111224224341id_/http%253A//www.americasjobexchange.com/privacy"></script>
-            
-        <noscript>
-          <a href='http://oa.navisite.com/delivery/ck.php?n=a09c9230&amp;cb=12556' target='_blank'>
-              <img src='http://oa.navisite.com/delivery/avw.php?zoneid=79&amp;cb=12556&amp;n=a09c9230' border='0' alt='' />
-          </a>
-        </noscript>
-    </wicket:panel>
-
+    <noscript>
+      <a href='http://oa.navisite.com/delivery/ck.php?n=a09c9230&amp;cb=12556' target='_blank'>
+          <img src='http://oa.navisite.com/delivery/avw.php?zoneid=79&amp;cb=12556&amp;n=a09c9230' border='0' alt='' />
+      </a>
+    </noscript>
 
 
                 </div>
                 <div class="ad-space">
-                    
+                        <script type="text/javascript"><!--//<![CDATA[
+       var m3_u = (location.protocol=='https:'?'https://oa.navisite.com/delivery/ajs.php':'http://oa.navisite.com/delivery/ajs.php');
+       var m3_r = Math.floor(Math.random()*99999999999);
+       if (!document.MAX_used) document.MAX_used = ',';
+       document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+       document.write ("?zoneid=195");
+       document.write ('&amp;cb=' + m3_r);
+       if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+       document.write ("&amp;loc=" + escape(window.location));
+       if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+       if (document.context) document.write ("&context=" + escape(document.context));
+       if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+       document.write ("'><\/scr"+"ipt>");
+        //]]>--></script><script type="text/javascript" src="https://oa.navisite.com/delivery/ajs.php?zoneid=195&amp;cb=56012380421&amp;loc=https%3A//web.archive.org/web/20120430022356id_/http%253A//www.americasjobexchange.com/privacy"></script>
 
-
-
-    <wicket:panel>
-        <script type="text/javascript"><!--//<![CDATA[
-           var m3_u = (location.protocol=='https:'?'https://oa.navisite.com/delivery/ajs.php':'http://oa.navisite.com/delivery/ajs.php');
-           var m3_r = Math.floor(Math.random()*99999999999);
-           if (!document.MAX_used) document.MAX_used = ',';
-           document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-           document.write ("?zoneid=195");
-           document.write ('&amp;cb=' + m3_r);
-           if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-           document.write ("&amp;loc=" + escape(window.location));
-           if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-           if (document.context) document.write ("&context=" + escape(document.context));
-           if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-           document.write ("'><\/scr"+"ipt>");
-            //]]>--></script><script type="text/javascript" src="https://oa.navisite.com/delivery/ajs.php?zoneid=195&amp;cb=82055548667&amp;loc=https%3A//web.archive.org/web/20111224224341id_/http%253A//www.americasjobexchange.com/privacy"></script>
-            
-        <noscript>
-          <a href='http://oa.navisite.com/delivery/ck.php?n=ab553eca&amp;cb=12556' target='_blank'>
-              <img src='http://oa.navisite.com/delivery/avw.php?zoneid=195&amp;cb=12556&amp;n=ab553eca' border='0' alt='' />
-          </a>
-        </noscript>
-    </wicket:panel>
-
+    <noscript>
+      <a href='http://oa.navisite.com/delivery/ck.php?n=ab553eca&amp;cb=12556' target='_blank'>
+          <img src='http://oa.navisite.com/delivery/avw.php?zoneid=195&amp;cb=12556&amp;n=ab553eca' border='0' alt='' />
+      </a>
+    </noscript>
 
 
                 </div>
@@ -277,10 +277,10 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
 			<div id="footer-container">
 				<div class="footer-top">
             		<ul>	
-            			<li class="first"><a href="job-search">Browse Jobs by Metro Area</a></li>
-            			<li><a href="job-search">Browse Jobs by State</a></li>
-            			<li><a href="job-search">Browse Jobs by Category</a></li>
-            			<li><a href="job-search-by-company">Browse Jobs by Company</a></li>
+            			<li class="first"><a href="/job-search">Browse Jobs by Metro Area</a></li>
+            			<li><a href="/job-search">Browse Jobs by State</a></li>
+            			<li><a href="/job-search">Browse Jobs by Category</a></li>
+            			<li><a href="/job-search-by-company">Browse Jobs by Company</a></li>
             		</ul>
             	</div>
             	<div class="footer-center">
@@ -293,7 +293,7 @@ Wicket.Event.add(window, "domready", function(event) { new Wicket.AutoComplete('
                         <li><a class="link" href="/careers">Careers</a></li>
                         <li><a class="link" href="/partners">Partners</a></li>
 						<li><a class="link" href="/history">History</a></li>
-						<li><a class="link pop" id="id29" href="/press-release" onclick="showPop();" onmouseup="var wcall=wicketAjaxGet('?wicket:interface=:8:footer:pressReleaseLink::IBehaviorListener:1:',function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$('id29') != null;}.bind(this));">Press</a></li>
+						<li><a class="link pop" id="id5" href="/press-release" onclick="showPop();" onmouseup="var wcall=wicketAjaxGet('?wicket:interface=:0:footer:pressReleaseLink::IBehaviorListener:1:',function() { }.bind(this),function() { }.bind(this), function() {return Wicket.$('id5') != null;}.bind(this));">Press</a></li>
 					</ul>
 				</div>
 				<div class="column">
