@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearscience.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201235135id_/http%3A//www.realclearscience.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearscience.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430173823id_/http%3A//www.realclearscience.com/privacy.html) for the most accurate reproduction.*
 
 # RealClearScience - Privacy Policy
 
