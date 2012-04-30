@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensaunders.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222155144id_/http%3A//lensaunders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensaunders.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501004133id_/http%3A//www.lensaunders.com/privacy.html) for the most accurate reproduction.*
 
 # Len Saunders, Project ACES, Lenny Saunders, Children's Fitness, Children And Fitness
 
