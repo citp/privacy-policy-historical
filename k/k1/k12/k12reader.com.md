@@ -1,59 +1,109 @@
-> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015345id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430150142id_/http%3A//k12reader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | K12 Reader
 
-Your privacy is important to us. We follow industry standard privacy practices that are outlined below.
+**What information do we collect?**
 
-**Information We Collect**  
-We collect different types of information from k12Reader.com site visitors so we can adjust our site to meet our users’ needs and expectations. Some information is collected automatically through cookies and some information is collected when you register for any of our online services.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-**Information Collected Automatically**  
-The types of information your browser or Internet session automatically sends us each time you visit our site, which we automatically collect, includes:
+Any data we request that is not required will be specified as voluntary or optional.
 
-  * Your browser e.g., Firefox, Internet Explorer, Netscape Navigator. 
-  * Your Internet domain, e.g., AOL, Netcom, Bellsouth, EarthLink, etc. 
-  * You computer’s operating system, e.g., Windows, OSX, UNIX, Linux. 
-  * Your navigation path, i.e., the website URLs you came to our site from, which of our pages you visit, and where you exit from. 
-  * Your IP address. This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Web sites more useful to visitors.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or professional role or other information required for contests or profile registration if applicable. You may, however, visit our site anonymously.
 
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
+**What do we use your information for?**
 
-**Information You Provide to Us**  
-We also collect certain information that you provide to us when you subscribe to an email newsletter, order merchandise from us, or request information. 
+Any of the information we collect from you may be used in one of the following ways:
 
-**How We Use This Information**  
-We use the information we automatically collect to help us better plan our Web site to meet your Internet needs. Information is also used for marketing purposes.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Your Rights, Our Obligations**  
-K12Reader.com does not sell or rent any personal data submitted by visitors to our site to any third parties. The company respects the privacy of users visiting our site and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. Occasionally we may share this information with our partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact K12Reader at the address shwon above to request your name and address be removed from our lists.
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Other than directory information, data you provide to us as you use the k12reader.com Web site will be held in strict confidence by the company and will be used for company purposes only. The company may share aggregate information about our users with advertisers, business partners, sponsors and other third parties. However, the individual information you provide us within the K12Reader.com Web site will be known only to you and K12Reader.com. We will not share your personal data with anyone else, except as may be required by law.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-With respect to Ad Servers, to try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages (i.e. Google). In some cases, as a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of the third party advertiser in question.
+\- To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-**Links To Our Site From Other Sites**  
-Our site may contain links to other sites external to the K12Reader.com. When you access these external Web sites, the providers of the sites will have access to certain information about you. K12Reader.com is not responsible for the privacy practices or the content of any Web sites which we do not directly control.
+\- To send periodic emails
 
-**For More Information**  
-If you have questions about our information practices, or if you feel that this site is not following its stated information policy, please contact us. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-**Definitions**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Cookies**  
-Data created by a Web server that is stored on an individual user’s computer. It provides a way for the Web site to keep track of a user’s patterns and preferences and, with the cooperation of the Web browser, to store them on the user’s own hard disk.
+\- To administer a contest, promotion, survey or other site feature
 
-The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user’s ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session.
+**How do we protect your information?**
 
-You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-**IP (Internet Protocol) Address**  
-This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
+These security measures include: password protected directories and databases to safeguard your information.
 
-**Browser Session**  
-A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
+In cases where we offer online products for purchase we offer the use of a secure server through our eCommerce vendor. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**SSL Encryption (Secure Sockets Layer)**  
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades).
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**URL (Uniform Resource Locator)**  
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites.
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**NOTE ABOUT 3rd PARTY EMAILS: By signing up for the K12reader email newsletter or by entering various contests, you may receive periodic email announcements from partner companies (advertising clients) that offer products and services you may be interested in. We are very careful to only select companies we believe offer valuable products and services, and make efforts to limit the number of these kinds of offers to no more than 4 or less per month. With any of our emails, you may always unsubscribe using the link on the email itself. In cases where we send emails on behalf of clients, we never provide them with your actual email address or contact information to them. Rather, the client send us the email message and we send through our mail server. This allows us to protect potential list abuse and your contact information is never sent anywhere. The reason we partner with client companies is to provide a revenue stream that allows us to operate this business, and continue providing free worksheets for parents and teachers. **
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+In some cases, we may provide links to 3rd party products and receive a small commission if sales occur. This is referred to as affiliate sales.  For example, we may provide a link to a book for sale on Amazon.com.  This allows us to generate a little additional revenue to help continue operating the website.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on **4/14/2012**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+www.k12reader.com  
+110 Cottonwood Circle  
+Franklin, TN 37069  
+USA  
+info@k12reader.com
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
