@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022094039id_/http%3A//www.tempted.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempted.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430190634id_/http%3A//www.tempted.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tempted.com
 
