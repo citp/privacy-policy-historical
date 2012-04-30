@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ACUVUE® Brand Privacy Policy | ACUVUE® Brand
 
-[Safe Harbor Privacy Policy](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
+[Safe Harbor Privacy Policy](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
 
 v 6.0
 
@@ -79,7 +79,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 #### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20120430132556id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
 
 #### How to Contact Us
 
@@ -95,3 +95,22 @@ Jacksonville, Florida 32256
 #### Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 17, 2011.
+
+| 
+
+[]()
+
+[](http://www.facebook.com/acuvue)
+
+[](http://www.youtube.com/acuvue)
+
+[](http://www.advamed.org/MemberPortal/About/code)
+
+We support the AdvaMed Code of Ethics on Interactions with Health Care Professionals.
+
+*Professional exam and fitting fees are not included.  
+© JJVCI 1996 - 2020. All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States.  
+ACUVUE®, 1-DAY ACUVUE® MOIST®, 1-DAY ACUVUE® MOIST® for ASTIGMATISM, 1-DAY ACUVUE® TruEye™, ACUVUE® ADVANCE®, ACUVUE® ADVANCE® Plus, ACUVUE® OASYS®,  
+HYDRACLEAR®, ACUVUE® _2_ ™, ACUVUE® _2 COLOURS_ ™, ACUMINDER™, BEAUTY WRAPPED IN COMFORT™, BLINK STABILIZED™,  
+PUPIL INTELLIGENT DESIGN™, and STEREO PRECISION SELECT™  
+are trademarks of Johnson & Johnson Vision Care, Inc.
