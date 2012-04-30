@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230111656id_/http%3A//www.terapeak.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430050318id_/https%3A//www.terapeak.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Terapeak
 
@@ -25,7 +25,7 @@ We want this Website and our on-line services to demonstrate our commitment to i
 
 
 
-If users have questions or concerns regarding this statement, they should first contact Anthony Sukow at the following email: [anthony@aers.ca](mailto:anthony@aers.ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS directly with the following contact number: [250.483.3273](tel: 1 250 483 3273)
+If users have questions or concerns regarding this statement, they should first contact Anthony Sukow at the following email: [anthony[at]aers[dot]ca](https://web.archive.org/contact/anthony/aers/ca). If a user does not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact AERS directly with the following contact number: [250.483.3273](tel: 1 250 483 3273)
 
 ### Information Collection and Use of Information Collected
 
@@ -169,9 +169,9 @@ We may disclose personal information of a user to a public agency when in the re
 
 ### Choice/Opt-out
 
-We do not use our user’s information for purposes unrelated to our site. We would like to continue to have the user's consent for the purposes and uses of personal information as set out in this privacy statement, however, you as a user may choose to refuse or withdraw your consent by refusing to give us personal information or withdrawing such consent subject to any applicable contractual or notice provisions by emailing us at [support@terapeak.com](mailto:support@terapeak.com).
+We do not use our user’s information for purposes unrelated to our site. We would like to continue to have the user's consent for the purposes and uses of personal information as set out in this privacy statement, however, you as a user may choose to refuse or withdraw your consent by refusing to give us personal information or withdrawing such consent subject to any applicable contractual or notice provisions by emailing us at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [support@terapeak.com](mailto:support@terapeak.com).
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following instructions given in the footer of the email or emailing [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
 
 ### Links
 
@@ -215,7 +215,7 @@ We do not combine information about the purchasing habits of our users with othe
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as name, postal code, zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user’s personally identifiable information. This can be done by going to the account page or by emailing our Customer Support at [support@terapeak.com](mailto:support@terapeak.com).
+If a user's personally identifiable information changes (such as name, postal code, zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user’s personally identifiable information. This can be done by going to the account page or by emailing our Customer Support at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
 
 ### Notification of Changes
 
@@ -229,14 +229,14 @@ If users have any questions, concerns or suggestions regarding our privacy pract
 
   * Phone: 250.483.3273
   * Fax: 250.483.3271
-  * Email: [support@terapeak.com](mailto:support@terapeak.com)
+  * Email: [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com)
   * Website URL: [www.terapeak.com](https://web.archive.org/)
 
 
 
 Otherwise, we assume that we have you - the user of our Website and or on-line services - consent to collect, use and disclose your personal information for the purposes and uses identified in this privacy statement.
 
-For further information on the AERS Corporate Privacy Code, please email us at [support@terapeak.com](mailto:support@terapeak.com).
+For further information on the AERS Corporate Privacy Code, please email us at [support[at]terapeak[dot]com](https://web.archive.org/contact/support/terapeak/com).
 
 102 – 3962 Borden St.  
 Victoria, BC, Canada  
