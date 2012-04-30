@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229201453id_/http%3A//www.behance.com/legal/privacy%3Futm_source%3D99percent%26utm_medium%3Dfooter%26utm_campaign%3D99percent_footer_references) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the99percent.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430140305id_/http%3A//www.behance.com/legal/privacy%3Futm_source%3D99percent%26utm_medium%3Dfooter%26utm_campaign%3D99percent_footer_references) for the most accurate reproduction.*
 
 # Behance | Legal
 
