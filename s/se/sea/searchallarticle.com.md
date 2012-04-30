@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchallarticle.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128133952id_/http%3A//www.searchallarticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchallarticle.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430205732id_/http%3A//www.searchallarticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Article Directory | Article Submission | Submit ArticlePrivacy Policy |
+# Free Article Directory – Submit Articles at searchallarticle.com – Privacy Policy
 
 Searchallarticle.com strives to supply its guests the numerous blessings of net technology and to supply an interactive and customized expertise.
 
