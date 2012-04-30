@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 51game.la privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015226id_/http%3A//www.51game.la/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 51game.la privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430133459id_/http%3A//www.51game.la/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # 51game.la
 
