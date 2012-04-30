@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expresspakistan.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230124550id_/http%3A//www.expresspakistan.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspakistan.net privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430095611id_/http%3A//www.expresspakistan.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Expresspakistan.net
+# Privacy Policy
 
 Our privacy policy describes how **expresspakistan.net** uses and protects any information given when visiting this website.
 
