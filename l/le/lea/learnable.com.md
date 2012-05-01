@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019013038id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnable.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501063133id_/https%3A//learnable.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
 
-# Learnable
+# Privacy Policy | Learnable
 
-## Privacy Policy
+## online learning for web developers and designers
 
-Effective: 1 March 2011-03-01   
-Last update: 1 March 2011-03-01 (Version 1) 
+### Keeping your information secure.
 
 ### What We Collect
 
@@ -58,9 +57,9 @@ Third party vendors, including Google, show our ads on sites on the internet. Th
 
 We might also send cookies to your browser to enable automatic logins when you visit in future, as well as for content customization. That's right -- this little site is more complicated than it looks!
 
-You have the option to opt out of Google's use of cookies by visiting the Google advertising [opt-out page](http://www.google.com/privacy_ads.html).
+You have the option to opt out of Google's use of cookies by visiting the Google advertising [opt-out page](http://www.google.com/privacy_ads.html). 
 
-Alternatively you can opt out of cookies by visiting the Network Advertising Initiative [opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Alternatively you can opt out of cookies by visiting the Network Advertising Initiative [opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ### Spam?
 
@@ -72,7 +71,7 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
 
-[Learnable Pty Ltd](https://web.archive.org/web/20111019013038id_/https%3A//)
+[Learnable Pty Ltd](https://web.archive.org/web/20120501063133id_/https%3A//)
 
 Postal
 
@@ -92,6 +91,6 @@ San Francisco, CA, 94122-2200
 
 USA
 
-You may [contact us](https://web.archive.org/contact) by email at hello@learnable.com.
+You may [contact us](https://web.archive.org/contact) by email at hello@learnable.com. 
   *[VIC]: Victoria
   *[CA]: California
