@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145411id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502004225id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
 
 # 
 
-##### Secure Shopping
+## Secure Shopping
 
 We are proud to be a part of Yahoo! Shop, and our utmost concern is your security. Every time you send your credit card number, billing info, and shipping info through our Yahoo! Shop, Yahoo! is using the industry-standard Secure Sockets Layer (SSL) technology to prevent the information from being intercepted.
 
-**Please note:** E-MAIL IS NOT ENCRYPTED. PLEASE DO NOT TRANSMIT CREDIT CARD NUMBERS VIA E-MAIL.
+Please note: E-MAIL IS NOT ENCRYPTED. PLEASE DO NOT TRANSMIT CREDIT CARD NUMBERS VIA E-MAIL.
 
-##### Privacy
+## Privacy
 
 Sneakerhead.com respects your privacy. We NEVER sell, rent, or give away your name, email, or address to anyone. All information provided is used exclusively by Sneakerhead.com.
 
