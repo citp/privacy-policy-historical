@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023144id_/http%3A//www.mountwashington.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501162036id_/http%3A//www.mountwashington.org/privacy) for the most accurate reproduction.*
 
 # Mount Washington Observatory (MWOBS) – Privacy Policy
 
