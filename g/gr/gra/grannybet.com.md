@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grannybet.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124153914id_/http%3A//www.grannybet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grannybet.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501204458id_/http%3A//www.grannybet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,4 +19,4 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us:**  
-Please send us all questions to email [members@sultancash.com](mailto:members@sultancash.com)
+Please send us all questions to email [cs@nwm-support.com](mailto:cs@nwm-support.com)
