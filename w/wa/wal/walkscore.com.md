@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkscore.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011215412id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkscore.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501184111id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.
 
@@ -46,7 +46,7 @@ Walk Score uses the Google Maps API which has the following [privacy policy](htt
 
 ## **9\. Contacting Walk Score**
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can [contact us](https://web.archive.org/web/20111011215412id_/http%3A//www.walkscore.com/contact-us.php).
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can [contact us](https://web.archive.org/web/20120501184111id_/http%3A//www.walkscore.com/contact-us.php).
 
 _Last modified 12/16/2010_  
 
