@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingrammicro.com.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007042715id_/http%3A//ingrammicro.com.au/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingrammicro.com.au privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031019id_/http%3A//www.ingrammicro.com.au/corporate/privacy.html) for the most accurate reproduction.*
 
 # Ingram Micro Australia: Privacy Policy
 
