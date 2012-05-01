@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160214id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501071908id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - SkillSoft
-
-[Home](https://web.archive.org/) > Privacy Policy 
 
 Effective on: July 31, 2007 
 
@@ -14,7 +12,7 @@ SkillSoft has been awarded TRUSTe's Privacy Seal signifying that this Privacy Po
 
 The TRUSTe program certification is limited to only that information collected through SkillSoft.com.
 
-SkillSoft abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding collection, use and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+SkillSoft complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union and Switzerland, respectively. SkillSoft has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view SkillSoft’s certification please visit: <http://www.export.gov/safeharbor/>.
 
 2\. THE INFORMATION WE COLLECT AND HOW IT IS USED
 
@@ -94,4 +92,4 @@ We welcome your comments. Should you have any questions or concerns about our Pr
 
 If you feel that SkillSoft is not abiding by this Privacy Policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=www.skillsoft.com](http://watchdog.truste.com/pvr.php?page=complaint&url=www.skillsoft.com). TRUSTe will then serve as a liaison with the Company to resolve your concerns.
 
-Last Updated: August 8, 2011
+Last Updated: November 2, 2011
