@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diggdirect.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012918id_/http%3A//www.thelinksubmitter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diggdirect.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501081436id_/http%3A//www.thelinksubmitter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy</title>
@@ -59,7 +59,23 @@
 <!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[47,72] -->
 <link rel="canonical" href="http://www.thelinksubmitter.com/privacy-policy/">
 <!-- /all in one seo pack -->
-	<script type="text/javascript">
+<script type="text/javascript">
+//<![CDATA[
+function newsletter_check(f) {
+    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{2,})+\.)+([a-zA-Z0-9]{2,})+$/;
+    if (!re.test(f.elements["ne"].value)) {
+        alert("Your email seems wrong, check it please.");
+        return false;
+    }
+    if (f.elements["ny"] && !f.elements["ny"].checked) {
+        alert("You must accept the privacy informative to subscribe.");
+        return false;
+    }
+    return true;
+}
+//]]></script>
+<style type="text/css">
+</style>	<script type="text/javascript">
 
  
 
@@ -115,6 +131,7 @@
         	<ul class="sf-menu">
             	<li><a class="item" href="http://www.thelinksubmitter.com">Home</a></li>
             	<li><a class="item" href="http://www.thelinksubmitter.com/register">Register</a></li>
+		<li><a class="item" href="http://www.thelinksubmitter.com/manual-directory-submissions">Submissions</a></li>
             	<li><a class="item" href="http://www.thelinksubmitter.com/how-it-works">How It Works</a></li>
             	<li><a class="item" href="http://www.thelinksubmitter.com/news">News</a></li>
 				<li><a class="item" href="http://www.thelinksubmitter.com/faqs">FAQ</a></li>
