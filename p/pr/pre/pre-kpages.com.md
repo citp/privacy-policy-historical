@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125434id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101459id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pre-K Pages
 
@@ -23,3 +23,18 @@ A cookie is a string of information that a website stores on a visitor’s compu
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Pre-KPages.com may change its Privacy Policy from time to time, and at our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Our%20readers%26rsquo%3B%20privacy%20and%20trust%20are%20important%20to%20us.%20We%20never%20disclose%20or%20sell%20our%20readers%20information%20to%20third%20parties.%0D%0A%0D%0AWebsite%20Visitors%0D%0A%0D%0ALike%20most%20websites%2C%20Pre-KPages.com%20collects%20non-personally-identifying%20information%20of%20the%20sort%20that%20w "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&srcTitle=Pre-K+Pages+Pre-K+Pages+Website+for+Early+Childhood+Teachers "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Pre-K+Pages+Pre-K+Pages+Website+for+Early+Childhood+Teachers&summary=Our%20readers%26rsquo%3B%20privacy%20and%20trust%20are%20important%20to%20us.%20We%20never%20disclose%20or%20sell%20our%20readers%20information%20to%20third%20parties.%0D%0A%0D%0AWebsite%20Visitors%0D%0A%0D%0ALike%20most%20websites%2C%20Pre-KPages.com%20collects%20non-personally-identifying%20information%20of%20the%20sort%20that%20w "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
