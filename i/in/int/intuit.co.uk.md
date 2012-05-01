@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054632id_/http%3A//www.intuit.co.uk/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501152750id_/http%3A//www.intuit.co.uk/about/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy - Intuit UK
+# Intuit UK - Privacy Policy
 
-Last Updated: 22nd June, 2011.
+Last Updated: 13th January, 2012
 
 At Intuit Limited ('Intuit'), we pride ourselves on our commitment to protecting your privacy. We want you to know how we will collect, use and disclose the personal data you provide to us.
 
@@ -34,7 +34,7 @@ Intuit QuickBooks Online processes adhere to the US Safe Harbor Privacy Principl
 
 Intuit complies fully with the Data Protection Act 1998 and all applicable data protection & privacy legislation. Intuit will only process personal data in accordance with the applicable rules and this privacy policy. All personal data you submit will be controlled by Intuit.
 
-If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting [dataprotection.gov.uk](http://dataprotection.gov.uk/)
+If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting [ico.org.uk](http://www.ico.org.uk/ "Information Commissioner's Office").
 
 **Using Your Data**  
 It is Intuit's policy that you should know exactly what personal data we collect from you and how we will use it. We collect personal data from you for the purpose of processing your order or enquiry. We may use your personal data to supply products and services to you that you have requested, carry out any agreement with you or take any steps that you have requested. In particular, we may:
@@ -74,7 +74,7 @@ Most browsers accept and maintain cookies by default. Check the Help menu of you
 
 To purchase and download products from intuit.co.uk you must ensure your browser is able to accept cookies. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.
 
-With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This data is stored in log files and is used for aggregated and statistical reporting. This log data is not linked to personal data gathered elsewhere on the site.
+With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage so that we know what areas of our Web site users prefer and what organizations might have an interest in our offerings. This data is stored in log files and is used for internal business analytics purposes. This log data is not linked to personal data gathered elsewhere on the site.
 
 **Clear Gifs (Web Beacons/Web Bugs)**
 
