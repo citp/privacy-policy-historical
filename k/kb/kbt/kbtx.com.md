@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074137id_/http%3A//www.kbtx.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501153119id_/http%3A//www.kbtx.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+
+## GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy was last updated on April 8, 2009 and is effective immediately. 
 
