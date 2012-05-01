@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaproofs.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215020820id_/http%3A//www.instaproofs.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaproofs.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501083447id_/http%3A//www.instaproofs.com/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy at Instaproofs | Instaproofs.com
 
