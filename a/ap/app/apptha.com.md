@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptha.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227034553id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptha.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501105739id_/http%3A//www.apptha.com/privacy-plan) for the most accurate reproduction.*
 
 # apptha - Privacy Policy
 
