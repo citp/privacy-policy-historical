@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbrands.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234543id_/http%3A//www.internetbrands.com/ib/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbrands.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501141606id_/http%3A//www.internetbrands.com/ib/privacy) for the most accurate reproduction.*
 
 # Internet Brands: Cars, Mortgage, Real Estate, & Travel
 
