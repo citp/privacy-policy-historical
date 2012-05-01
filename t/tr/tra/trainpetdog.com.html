@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2011-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216143234id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501235519id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta name="keywords" content="Training Pet Dogs, Training Puppies, Large and Small Dog Training">
@@ -27,7 +27,63 @@
     <td width="94%" bgcolor="FDF9E8"> <div align="right"></div></td>
           </tr>
         </tbody></table>
+		<script>
+var keywordtoenter="";
+var urkey= document.referrer;
+var trackkey=urkey.split("q=");
+var nkey=trackkey.length;
+
+//alert(n);
+var trackerMu_thispagedomain = trackerExtractDomainName(document.URL);
+if(nkey>1)
+{
+//var trackkey2=trackkey[1].split("|");
+var trackkey2=trackkey[1].split("&");
+var keywordtoenter=trackkey2[0];
+trackerSetCookie("keyword", keywordtoenter, trackerMu_thispagedomain);
+trackerSetCookie("entereddomain", "HTMLPAGES", trackerMu_thispagedomain);
+trackerSetCookie("campname", "SEO", trackerMu_thispagedomain);
+}
+function trackerExtractDomainName(s) {
+ var i = s.indexOf('//');
+ if(i > -1) { s = s.substr(i+2); }
+ 
+ i = s.indexOf('/');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ i = s.indexOf(':');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ var re = /[a-z]/i;
+ if(! re.test(s)) { return s; }
+ 
+ var a = s.split('.');
+ 
+ if(a.length < 2) { return s; }
+ 
+ var domain = a[a.length-2] + '.' + a[a.length-1];
+ 
+ if(a.length > 2) {
+    if(a[a.length-2].length==2 && a[a.length-1].length==2) {
+      domain = a[a.length-3] + '.' + domain;
+      }
+   }
+ return domain.toLowerCase();
+}
+ 
+
+function trackerSetCookie (cookieName1, value, domain) {
+ var argv = trackerSetCookie.arguments;
+ var argc = trackerSetCookie.arguments.length;
+ var date = new Date();
+ date.setTime(date.getTime()+(10*365*24*60*60*1000));
+ var expires = "; expires="+date.toGMTString();
+ document.cookie = cookieName1+"="+value+";domain="+domain+";expires="+expires+"; path=/";
+}
+ 
+</script>
 		<script language="JavaScript" src="http://www.trainpetdog.com/cookiefile.js"></script>
+		
             </td>
           </tr>
           <tr> 
@@ -37,12 +93,58 @@
                     <td valign="top" bgcolor="#FDF9E8"> <table width="100%" border="0" cellspacing="0" cellpadding="5">
                         <tbody><tr> 
                           <td width="28%" valign="top" bgcolor="#FDF9E8"> 
-                            <style type="text/css">
+                            			 
+ <script>
+ var version;
+ var phase;
+	     var trackerMu_thispagedomainn = trackerExtractDomainNamen(document.URL);
+        trackerSetCookien("cmversion", version, trackerMu_thispagedomainn);
+	trackerSetCookien("cmphase", phase, trackerMu_thispagedomainn);
+	function trackerSetCookien (cookieName1, value, domain) {
+ var argv = trackerSetCookien.arguments;
+ var argc = trackerSetCookien.arguments.length;
+ var date = new Date();
+ date.setTime(date.getTime()+(10*365*24*60*60*1000));
+ var expires = "; expires="+date.toGMTString();
+ document.cookie = cookieName1+"="+value+";domain="+domain+";expires="+expires+"; path=/";
+}
+
+function trackerExtractDomainNamen(s) {
+ var i = s.indexOf('//');
+ if(i > -1) { s = s.substr(i+2); }
+ 
+ i = s.indexOf('/');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ i = s.indexOf(':');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ var re = /[a-z]/i;
+ if(! re.test(s)) { return s; }
+ 
+ var a = s.split('.');
+ 
+ if(a.length < 2) { return s; }
+ 
+ var domain = a[a.length-2] + '.' + a[a.length-1];
+ 
+ if(a.length > 2) {
+    if(a[a.length-2].length==2 && a[a.length-1].length==2) {
+      domain = a[a.length-3] + '.' + domain;
+      }
+   }
+ return domain.toLowerCase();
+}
+	       </script>
+			  <style type="text/css">
 .hpborder{
 border:2px solid #000000;
 
 }
-
+/*a{
+text-decoration:none;
+color:#000000;
+}*/
 /*
 a:hover{
 text-decoration:none;
@@ -68,7 +170,7 @@ animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is
 }
 animatedcollapse.init()
 </script>
-<!-- saved from url=(0022)http://internet.e-mail -->
+			  
 			  <script>
 
 var jcoo;
@@ -84,7 +186,7 @@ if(n>1)
  var nn=cje.length;
  if(nn==1)
  {
-    var cje1=newid[0].split(":");
+   var cje1=newid[0].split(":");
    var nn3=cje1.length;
    if(nn3==1)
  {
@@ -160,7 +262,105 @@ var n2=cookievaluec.length;
 if(n2>1)
 {
 cookievalue = cookievaluec[1].split(";");
+return cookievalue;
+}
+else
+{
+ return cookievaluec[0];
+}
+
+}
+else
+{
+ return cookievalue;
+}
+
+}
+</script>
+
+
+<script>
+function emailCheck1() {
+ var productordered;
+var checkpros=getcookiep(productordered);
+//alert(checkpros);
+if(checkpros=="yes")
+{
+alert("You are already subscribed to this course. There is no need to subscribe again.");document.Form2.from.focus();return false
+}
+quitting = false;
+if (document.Form2.from.value=="") {
+alert("Please enter your email address.");document.Form2.from.focus();return false
+}
+if(document.Form2.from.value.indexOf('@', 0) == -1){
+alert("Please enter a valid email address.");document.Form2.from.focus();return false
+}
+if(document.Form2.from.value.indexOf('.', 0) == -1){
+alert("Please enter a valid email address.");document.Form2.from.focus();return false
+}
+if (document.Form2.name.value=="") {
+alert("Please enter your first name.");document.Form2.name.focus();return false
+}
+if (document.getElementById("ln2").value=="") {
+alert("Please enter your dog name.");document.getElementById("ln2").focus();document.getElementById("ln2").select();return false;
+}
+if (document.Form2.name.value.length==1) {
+alert("Please enter your full first name instead of using an abbreviation.");document.Form2.name.focus();return false
+}
+var index;
+var tmpStr;
+var tmpChar;
+var preString;
+var postString;
+var strlen;
+tmpStr = document.Form1.name.value.toLowerCase();
+strLen = tmpStr.length;
+if (strLen > 0)  {
+for (index = 0; index < strLen; index++)  {
+if (index == 0)  {
+tmpChar = tmpStr.substring(0,1).toUpperCase();
+postString = tmpStr.substring(1,strLen);
+tmpStr = tmpChar + postString;
+}
+else {
+tmpChar = tmpStr.substring(index, index+1);
+if (tmpChar == " " && index < (strLen-1))  {
+tmpChar = tmpStr.substring(index+1, index+2).toUpperCase();
+preString = tmpStr.substring(0, index+1);
+postString = tmpStr.substring(index+2,strLen);
+tmpStr = preString + tmpChar + postString;
+         }
+      }
+   }
+}
+
+document.Form1.name.value = tmpStr;
+document.Form1.from.value = document.Form1.from.value.toLowerCase();
+
+var expires = 999;
+var today = new Date();
+var expr = new Date(today.getTime() + (expires * 86400000));
+var idnum = document.Form1.name.value;
+var name = 'firstnamecookie';
+var value = idnum;
+var path = '/';
+document.cookie = name + "=" +escape(value) +
+( (expires) ? ";expires=" + expr.toGMTString() : "") +
+( (path) ? ";path=" + path : "");
+}
+function getcookiep(productordered) {
+//var cookieName=tracker;
+//alert(document.cookie);
+var id = document.cookie;
+var cookievalue = "";
+if (document.cookie.length > 0) {
+cookievaluec = id.split("productordered=");
+var n2=cookievaluec.length;
+if(n2>1)
+{
+cookievalue = cookievaluec[1].split(";");
 return cookievalue[0];
+alert(cookievalue[0]);
 }
 else
 {
@@ -176,65 +376,11 @@ else
 }
 </script>
 
-<script language="JavaScript" src="http://www.trainpetdog.com/871.js"></script>
- <script>
- var version;
- var phase;
-	     var trackerMu_thispagedomainn = trackerExtractDomainNamen(document.URL);
-        trackerSetCookien("cmversion", version, trackerMu_thispagedomainn);
-	trackerSetCookien("cmphase", phase, trackerMu_thispagedomainn);
-	function trackerSetCookien (cookieName1, value, domain) {
- var argv = trackerSetCookien.arguments;
- var argc = trackerSetCookien.arguments.length;
- var date = new Date();
- date.setTime(date.getTime()+(10*365*24*60*60*1000));
- var expires = "; expires="+date.toGMTString();
- document.cookie = cookieName1+"="+value+";domain="+domain+";expires="+expires+"; path=/";
-}
-
-function trackerExtractDomainNamen(s) {
- var i = s.indexOf('//');
- if(i > -1) { s = s.substr(i+2); }
- 
- i = s.indexOf('/');
- if(i > -1) { s = s.substr(0,i); }
- 
- i = s.indexOf(':');
- if(i > -1) { s = s.substr(0,i); }
- 
- var re = /[a-z]/i;
- if(! re.test(s)) { return s; }
- 
- var a = s.split('.');
- 
- if(a.length < 2) { return s; }
- 
- var domain = a[a.length-2] + '.' + a[a.length-1];
- 
- if(a.length > 2) {
-    if(a[a.length-2].length==2 && a[a.length-1].length==2) {
-      domain = a[a.length-3] + '.' + domain;
-      }
-   }
- return domain.toLowerCase();
-}
-	       </script>
-<script language="javascript" src="http://www.trainpetdog.com/emch.js"></script>
-<form action="http://www.aweber.com/scripts/addlead.pl" method="POST" name="Form1" onsubmit="return emailCheck1(Form1);">
+<form action="http://www.aweber.com/scripts/addlead.pl" method="POST" name="Form2" onsubmit="return emailCheck1(Form2);">
   <table width="200" align="center" cellpadding="5" cellspacing="0" class="linenew">
-<script>
-							  var version;
-							  if(version==2)
-							  {
-							 document.write('<input type="hidden" name="meta_web_form_id" value="1881752837" /><input type="hidden" name="listname" value="tp_mncrse" />');
-							  }
-							  else
-							  {
-							  document.write('<input type="hidden" name="meta_web_form_id" value="822345504" /><input type="hidden" name="listname" value="tpmini_nwsltr" />');
-							  }
-							  </script><input type="hidden" name="meta_web_form_id" value="822345504"><input type="hidden" name="listname" value="tpmini_nwsltr">
 
-<input type="hidden" name="redirect" value="http://www.trainpetdog.com/Dogs/index1.php?page=subscriptionthankscmbr1009">
+<input type="hidden" name="meta_web_form_id" value="822345504"><input type="hidden" name="listname" value="tpmini_nwsltr">
+<input type="hidden" name="redirect" value="http://www.trainpetdog.com/Dogs/index1.php?page=subscriptionthanksseg">
 <input type="hidden" name="meta_redirect_onlist" value="">
 <input type="hidden" name="meta_adtracking" value="">
 <input type="hidden" name="meta_message" value="1">
@@ -253,6 +399,29 @@ function trackerExtractDomainNamen(s) {
           Course and Learn New and Advanced Training Tips, Methods and Strategies, 
           FREE!! </p> 
         <p align="justify">Just fill in your details below and get started...</p>
+		 <p align="justify" id="important1" style="display: none;"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Which of the following topics are you most interested in?<br>
+          <select name="meta_web_form_id2" id="segmentlistid1">
+                                              <option value="">Please select</option>
+                                            <option value="657676045">Barking</option>
+                                            <option value="465106031">Housebreaking</option>
+											 <option value="1158466036">Biting</option>
+											  <option value="236841688">Aggression</option>
+											   <option value="538400085">Obedience Training</option>
+											    <option value="1740199095">Separation Anxiety</option>
+												 <option value="847040052">Other</option>
+                                          </select>
+                                        
+          </strong></font> </p>    
+		  <script>
+								var version;
+							if(version!=2)
+							{
+							  
+								document.getElementById("important1").style.display="none";
+							}
+							
+								
+								</script>
                     <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Your 
                       Name<br>
                       <input type="text" name="name">
@@ -260,7 +429,7 @@ function trackerExtractDomainNamen(s) {
                     
         <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Your 
           Dog's Name<br>
-                      <input type="text" name="custom ln" id="ln1">
+                      <input type="text" name="custom ln" id="ln2">
 					  <input type="hidden" name="custom dogpottyurl" value="http://www.dogpottytrain.com/dog/index1.php">	 
 <input type="hidden" name="custom species" value="Dog" size="20"><script>
  var ad="cmversion";
@@ -284,10 +453,9 @@ if (document.cookie.length>0)
   }
 return "";
 }
-var link = '<input type="hidden" name="custom cmversion" value="'+gc+'"><input type="hidden" name="custom cmphase" value="'+gc1+'">';
+var link = '<input type="hidden" name="custom cmversion" value="'+gc+'" id="cmv1"><input type="hidden" name="custom cmphase" value="'+gc1+'">';
 
 		document.write(link);
-		
 		
 		var jcoo;
 var finalid=getcookie1(jcoo);
@@ -327,7 +495,7 @@ else
 
 }
 
-</script><input type="hidden" name="custom cmversion" value="undefined"><input type="hidden" name="custom cmphase" value="undefined"><input name="custom affuser" type="hidden" value=""><input name="custom affusernamef" type="hidden" value="">
+</script><input type="hidden" name="custom cmversion" value="undefined" id="cmv1"><input type="hidden" name="custom cmphase" value="undefined"><input name="custom affuser" type="hidden" value=""><input name="custom affusernamef" type="hidden" value="">
                       </strong></font></p>
                     
         <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>Your 
@@ -337,7 +505,7 @@ else
 					  
        <table width="100" align="center" cellspacing="0" bordercolor="#FF0000" bgcolor="#FF0000">
           <tbody><tr>
-            <td><input type="submit" name="submit" value="Subscribe Now - for Free"></td>
+            <td><input type="submit" name="submit" value="Subscribe Now - for Free" onclick="return getvalue1();"></td>
           </tr>
         </tbody></table>
         <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Privacy 
@@ -345,103 +513,201 @@ else
           from our mailing list anytime you want.</font> </p></td>
                 </tr>
               </tbody></table></form>
+			    <script>
+											  function getvalue1()
+											  {
+											  var vers=document.getElementById("cmv1").value;
+											 // alert(document.Form1.listname.value);
+							if(vers==2)
+							{
+											var cnm2;
+										var y=document.getElementById("segmentlistid1").value;
+										if(y=="")
+										 {
+										 alert("Please select the topic in which you are most interested.");
+										 document.getElementById("segmentlistid1").focus();
+										  return false;
+										 }
+										if(y=="657676045")
+										 {
+										 cnm2="barking";
+										  var listname1="barking_mini";
+										 }
+										 
+										 if(y=="465106031")
+										 {
+										 cnm2="housebreaking";
+										  var listname1="housebreaking_m";
+										 }
+										 if(y=="1158466036")
+										 {
+
+										 cnm2="biting";
+										  var listname1="biting_mini";
+										 }
+										 
+										 if(y=="236841688")
+										 {
+										 cnm2="aggression";
+										  var listname1="aggression_mini";
+										 }
+										 if(y=="538400085")
+										 {
+										 cnm2="obedience";
+										  var listname1="obedience_mini";
+										 }
+										 
+										 if(y=="1740199095")
+										 {
+										 cnm2="separation";
+										  var listname1="separation_mini";
+										 }
+										 if(y=="847040052")
+										 {
+										 cnm2="other";
+										  var listname1="others_mini";
+										 }
+										 //alert(cnm2);
+									}
+									 else
+									 {
+									var cnm2="";
+									  //var listname1="original_mini";
+									  //document.getElementById("segmentlistid1").value="1207050646";
+									 }
+										//alert(listname1);
+										
+										//	  document.Form2.listname.value=listname1;
+											  var trackerMu_thispagedomain = trackerExtractDomainName(document.URL);
+        trackerSetCookie("segment", cnm2, trackerMu_thispagedomain);
+											  function trackerExtractDomainName(s) {
+ var i = s.indexOf('//');
+ if(i > -1) { s = s.substr(i+2); }
+ 
+ i = s.indexOf('/');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ i = s.indexOf(':');
+ if(i > -1) { s = s.substr(0,i); }
+ 
+ var re = /[a-z]/i;
+ if(! re.test(s)) { return s; }
+ 
+ var a = s.split('.');
+ 
+ if(a.length < 2) { return s; }
+ 
+ var domain = a[a.length-2] + '.' + a[a.length-1];
+ 
+ if(a.length > 2) {
+    if(a[a.length-2].length==2 && a[a.length-1].length==2) {
+      domain = a[a.length-3] + '.' + domain;
+      }
+   }
+ return domain.toLowerCase();
+}
+ 
+
+function trackerSetCookie (cookieName1, value, domain) {
+ var argv = trackerSetCookie.arguments;
+ var argc = trackerSetCookie.arguments.length;
+ var date = new Date();
+ date.setTime(date.getTime()+(10*365*24*60*60*1000));
+ var expires = "; expires="+date.toGMTString();
+ document.cookie = cookieName1+"="+value+";domain="+domain+";expires="+expires+"; path=/";
+}
+ 
+											  }
+											
+											  </script>
+
               <br>
-
 <table width="200" align="center" cellpadding="5" cellspacing="0">
-
- <tbody><tr> 
-   <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="House Training a Puppy"></div></td>
-    <td><a href="http://www.trainpetdog.com/dog-potty.html" class="ss"> 
-      House Training a Puppy</a></td>
+  <tbody><tr> 
+    <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="House Training a Puppy"></div></td>
+    <td><a href="http://www.trainpetdog.com/dog-potty.html" class="ss">House Training 
+      a Puppy</a></td>
   </tr>
-  
-   <tr> 
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Grooming"></td>
-    <td><a href="http://www.trainpetdog.com/dog-grooming.html" class="ss">Dog Grooming</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-grooming.html" class="ss">Dog 
+      Grooming</a></td>
   </tr>
-  
-  
   <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Best Homemade Dog Recipes"></td>
-    <td><a href="http://www.trainpetdog.com/dog-diet.html" class="ss">Best Homemade Dog Recipes</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-diet.html" class="ss">Best Homemade 
+      Dog Recipes</a></td>
   </tr>
-  
-   <tr> 
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Adopt a Dog or Puppy"></td>
-    <td><a href="http://www.trainpetdog.com/dog-adopting.html" class="ss">Adopt a Dog or Puppy</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-adopting.html" class="ss">Adopt 
+      a Dog or Puppy</a></td>
   </tr>
-  
-   <tr> 
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Stop Dog Barking"></td>
-    <td><a href="http://www.trainpetdog.com/dog-barking.html" class="ss">Stop Dog Barking</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-barking.html" class="ss">Stop 
+      Dog Barking</a></td>
   </tr>
-  
-  
-   <tr> 
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Biting"></td>
     <td><a href="http://www.trainpetdog.com/dog-biting.html" class="ss">Dog Biting</a></td>
   </tr>
-  
-  
-  <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog &amp; Pet Supplies"></td>
-    <td><a href="http://www.trainpetdog.com/store/" class="ss">Dog &amp; Pet Supplies</a></td>
-  </tr>
-  
   <tr> 
     <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Training Stubborn Dogs"></div></td>
-    <td><a href="http://www.trainpetdog.com/difficult-to-train-dogs.html" class="ss"> 
-      Training Stubborn Dogs</a></td>
+    <td><a href="http://www.trainpetdog.com/difficult-to-train-dogs.html" class="ss">Training 
+      Stubborn Dogs</a></td>
   </tr>
   <tr> 
     <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dogs Hard to Housebreak"></div></td>
-    <td><a href="http://www.trainpetdog.com/hard-to-housebreak-dogs.html" class="ss"> 
-      Dogs Hard to Housebreak</a></td>
+    <td><a href="http://www.trainpetdog.com/hard-to-housebreak-dogs.html" class="ss">Dogs 
+      Hard to Housebreak</a></td>
   </tr>
   <tr> 
-    <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dogs 
-      for Children"></div></td>
+    <td align="left"><div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dogs for Children"></div></td>
     <td><a href="http://www.trainpetdog.com/dogs-good-for-children.html" class="ss">Dogs 
       for Children</a></td>
   </tr>
   <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Exercising 
-      Your Dog"></td>
+    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Exercising Your Dog"></td>
     <td><a href="http://www.trainpetdog.com/exercising-dog.html" class="ss">Exercising 
       Your Dog</a></td>
   </tr>
- 
   <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Shedding 
-      in Dogs"></td>
+    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Shedding in Dogs"></td>
     <td><a href="http://www.trainpetdog.com/dog-shedding.html" class="ss">Shedding 
       in Dogs</a></td>
   </tr>
   <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Breeds by Size"></td>
-    <td><a href="http://www.trainpetdog.com/dog-breed-size-chart.html" class="ss">Dog Breeds by Size</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-breed-size-chart.html" class="ss">Dog 
+      Breeds by Size </a></td>
   </tr>
   <tr> 
     <td align="left"> <div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Purebred Dogs"> 
       </div></td>
-    <td><a href="http://www.trainpetdog.com/Purebreds.html" class="ss">Purebred Dogs</a></td>
+    <td><a href="http://www.trainpetdog.com/Purebreds.html" class="ss">Purebred 
+      Dogs</a></td>
   </tr>
   <tr> 
     <td align="left"> <div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="All Dog Breeds"> 
       </div></td>
-    <td><a href="http://www.trainpetdog.com/AllDogBreeds.html" class="ss">All Dog Breeds</a></td>
+    <td><a href="http://www.trainpetdog.com/AllDogBreeds.html" class="ss"> All 
+      Dog Breeds</a></td>
   </tr>
   <tr> 
     <td width="18%" align="left"> <div align="center"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Breeds"></div></td>
-    <td width="82%"><a href="http://www.trainpetdog.com/DogGroups.html" class="ss">Dog Breeds</a> </td>
+    <td width="82%"><a href="http://www.trainpetdog.com/DogGroups.html" class="ss">Dog 
+      Breeds</a> </td>
   </tr>
   <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Articles on Dogs"></td>
-    <td><a href="http://www.trainpetdog.com/dog-article.html" class="ss">Articles on Dogs</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-article.html" class="ss">Articles 
+      on Dogs</a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Owners Speak"></td>
-    <td><a href="http://www.trainpetdog.com/dog-owners-speak.html" class="ss">Dog Owners Speak</a></td>
+    <td><a href="http://www.trainpetdog.com/dog-owners-speak.html" class="ss">Dog 
+      Owners Speak</a></td>
   </tr>
   <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Blog"></td>
@@ -449,155 +715,139 @@ else
   </tr>
   <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Affiliate Program"></td>
-    <td><a href="http://www.trainpetdog.com/pet-affiliate-program.html" class="ss">Dog Affiliate Program</a></td>
+    <td><a href="http://www.trainpetdog.com/pet-affiliate-program.html" class="ss">Dog 
+      Affiliate Program</a></td>
   </tr>
-  
-  <tr>
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Breeder Award"></td>
-    <td><a href="http://www.trainpetdog.com/breeder-form.php" class="ss">Dog Breeder Award</a></td>
+    <td><a href="http://www.trainpetdog.com/breeder-form.php" class="ss">Dog Breeder 
+      Award</a></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Rescue Award"></td>
-    <td><a href="http://www.trainpetdog.com/rescue-form.php" class="ss">Dog Rescue Award</a></td>
+    <td><a href="http://www.trainpetdog.com/rescue-form.php" class="ss">Dog Rescue 
+      Award</a></td>
   </tr>
-  
-    <tr>
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Website Award"></td>
-    <td><a href="http://www.trainpetdog.com/dog_website_award.php" class="ss">Dog Website Award</a></td>
-  </tr> 
-  <tr>
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Calorie Calculator"></td>
-    <td><a href="http://www.trainpetdog.com/calorie-calculator.html" class="ss">Dog Calorie Calculator</a></td>
+    <td><a href="http://www.trainpetdog.com/dog_website_award.php" class="ss">Dog 
+      Website Award</a></td>
   </tr>
- <!--  <tr>
+  <!-- <tr>
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="For Dog Experts"></td>
     <td><a href="http://www.trainpetdog.com/dog_experts.php" class="ss">For Dog Experts</a></td>
   </tr> -->
   <tr> 
     <td align="left" valign="top"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Selected Dog Breeds"></td>
-    <td align="left" valign="top"><a href="#" class="ss" rel="toggle[rabbit]" data-openimage="images/collapse.jpg" data-closedimage="images/expand.jpg"><img src="images/expand.jpg" border="0">Selected Dog Breeds </a>
-	<div id="rabbit" style="width: 150px; background: rgb(253, 249, 232); font-size: 8px; display: none;" groupname="pets" speed="400">
-	
-	<a href="http://www.trainpetdog.com/Akita/about-akita.html" class="ss2">Akita Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/American-BullDog/about-american-bulldog.html" class="ss2">American Bulldog Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/American-Staffordshire-Terrier/about-american-staffordshire-terrier.html" class="ss2">American Staffordshire Terrier Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/Australian-Shepherd/about-australian-shepherd.html" class="ss2">Australian Shepherd Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/Beagle/about-beagle.html" class="ss2">Beagle Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/Bernese-Mountain-Dog/about-bernese-mountain-dog.html" class="ss2">Bernese Mountain Dog Training</a><br>
-	
-	<a href="http://www.trainpetdog.com/Bichon-Frise/about-bichon-frise.html" class="ss2">Bichon Frise Training</a><br>
-	
-		<a href="http://www.trainpetdog.com/Blue-Heeler/about-blue-heeler.html" class="ss2">Blue Heeler Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Border-Collie/about-border-collie.html" class="ss2">Border Collie Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Boston-Terrier/about-boston-terrier.html" class="ss2">Boston Terrier Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Boxer/about-boxer.html" class="ss2">Boxer Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/CairnTerrier/about-cairnterrier.html" class="ss2">Cairn Terrier Training</a><br>
-		
-		
-		<a href="http://www.trainpetdog.com/Catahoula/about-catahoula.html" class="ss2">Catahoula Leopard Dog Training</a><br>
-		
-				
-		<a href="http://www.trainpetdog.com/Cav-King-Charles-Spaniel/about-cav-king-charles-spaniel.html" class="ss2">Cavalier King Charles Spaniel Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Chesapeake-Bay-Retriever/about-chesapeake-bayretriever.html" class="ss2">Chesapeake Bay Retriever Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Chihuahua/about-chihuahua.html" class="ss2">Chihuahua Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Cocker-Spaniel/about-cocker-spaniel.html" class="ss2">Cocker Spaniel Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Dachshund/about-dachshund.html" class="ss2">Dachshund Training</a><br>
-		
-<a href="http://www.trainpetdog.com/Doberman/about-doberman-pinscher.html" class="ss2">Doberman Pinscher Training</a><br>
-
-
-<a href="http://www.trainpetdog.com/Bulldog/about-bulldog.html" class="ss2">English Bulldog Training</a><br>
-
-
-<a href="http://www.trainpetdog.com/English-Springer-Spaniel/about-english-springer-spaniel.html" class="ss2">English Springer Spaniel Training</a><br>
-
-
-<a href="http://www.trainpetdog.com/German-Shepherd/about-german-shepherd.html" class="ss2">German Shepherd Training</a><br>
-
-<a href="http://www.trainpetdog.com/German-Shorthaired-Pointer/about-german-shorthaired-pointer.html" class="ss2">German Shorthaired Pointer Training</a><br>
-
-
-<a href="http://www.trainpetdog.com/Golden-Retriever/about-golden-retriever.html" class="ss2">Golden Retriever Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Great-Dane/about-great-dane.html" class="ss2">Great Dane Training</a><br>
-		<a href="http://www.trainpetdog.com/Havanese/about-havanese.html" class="ss2">Havanese Training</a><br>
-		
-		
-<a href="http://www.trainpetdog.com/Italian-Greyhound/about-italian-greyhound.html" class="ss2">Italian Greyhound Training</a><br>
-
-<a href="http://www.trainpetdog.com/Jack-Russell-Terrier/about-jack-russell-terrier.html" class="ss2">Jack Russell Terrier Training</a><br>
-		<a href="http://www.trainpetdog.com/Labrador-Retriever/about-labrador-retriever.html" class="ss2">Labrador Retriever Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Lhasa-Apso/about-lhasa-apso.html" class="ss2">Lhasa Apso Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Maltese/about-maltese.html" class="ss2">Maltese Training</a><br>
-		
-		
-		<a href="http://www.trainpetdog.com/Miniature-Pinscher/about-miniature-pinscher.html" class="ss2">Miniature Pinscher Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Miniature-Schnauzer/about-miniature-schnauzer.html" class="ss2">Miniature Schnauzer Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Olde-English-BullDogge/about-olde-english-bulldogge.html" class="ss2">Olde English BullDogge Training</a><br>
-		
-<a href="http://www.trainpetdog.com/Papillon/about-papillon.html" class="ss2">Papillon Training</a><br>		
-		
-		
-<a href="http://www.trainpetdog.com/Pembroke-Welsh-Corgi/about-pembroke-welsh-corgi.html" class="ss2">Pembroke Welsh Corgi Training</a><br>
-
-<a href="http://www.trainpetdog.com/Pomeranian/about-pomeranian.html" class="ss2">Pomeranian Training</a><br>
-
-<a href="http://www.trainpetdog.com/Poodle/about-poodle.html" class="ss2">Poodle Training</a><br>
-
-<a href="http://www.trainpetdog.com/Pug/about-pug.html" class="ss2">Pug Training</a><br>
-	
-	
-	<a href="http://www.trainpetdog.com/Rat-Terrier/about-rat-terrier.html" class="ss2">Rat Terrier Training</a><br>
-	
-		<a href="http://www.trainpetdog.com/Rhodesian-Ridgeback/about-rhodesian-ridgeback.html" class="ss2">Rhodesian Ridgeback Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Rottweiler/about-rottweiler.html" class="ss2">Rottweiler Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Saint-Bernard/about-saint-bernard.html" class="ss2">Saint Bernard Training</a><br>
-		
-	<a href="http://www.trainpetdog.com/Shetland-Sheepdog/about-shetland-sheepdog.html" class="ss2">Shetland Sheepdog Training</a><br>	
-		
-		
-		<a href="http://www.trainpetdog.com/Shih-Tzu/about-shih-tzu.html" class="ss2">Shih Tzu Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Siberian-Husky/about-siberian-husky.html" class="ss2">Siberian Husky Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Soft-Coated-Wheaten-Terrier/about-soft-coated-wheaten-terrier.html" class="ss2">Soft Coated Wheaten Terrier Training</a><br>
-		
-		
-		<a href="http://www.trainpetdog.com/Toy-Poodle/about-toypoodle.html" class="ss2">Toy Poodle Training</a><br>
-		
-		<a href="http://www.trainpetdog.com/Weimaraner/about-weimaraner.html" class="ss2">Weimaraner Training</a><br>	
-		
-		
-		
-		<a href="http://www.trainpetdog.com/West-Highland-White-Terrier/about-west-highland-white-terrier.html" class="ss2">West Highland White Terrier Training</a><br>
-		
-		
-		<a href="http://www.trainpetdog.com/Yorkshire-Terrier/about-yorkshire-terrier.html" class="ss2">Yorkshire Terrier Training</a>
-	</div>
-	</td>
+    <td align="left" valign="top"><a href="#" class="ss" rel="toggle[rabbit]" data-openimage="images/collapse.jpg" data-closedimage="images/expand.jpg"><img src="images/expand.jpg" border="0">Selected 
+      Dog Breeds</a> <div id="rabbit" style="width: 150px; background: rgb(253, 249, 232); font-size: 8px; color: rgb(0, 0, 0); text-decoration: none; display: none;" groupname="pets" speed="400"> 
+        <a href="http://www.trainpetdog.com/Akita/about-akita.html" class="ss2">Akita 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/American-BullDog/about-american-bulldog.html" class="ss2">American 
+        Bulldog Training</a><br>
+        <a href="http://www.trainpetdog.com/American-Staffordshire-Terrier/about-american-staffordshire-terrier.html" class="ss2">American 
+        Staffordshire Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Australian-Shepherd/about-australian-shepherd.html" class="ss2">Australian 
+        Shepherd Training</a><br>
+        <a href="http://www.trainpetdog.com/Beagle/about-beagle.html" class="ss2">Beagle 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Bernese-Mountain-Dog/about-bernese-mountain-dog.html" class="ss2">Bernese 
+        Mountain Dog Training</a><br>
+        <a href="http://www.trainpetdog.com/Bichon-Frise/about-bichon-frise.html" class="ss2">Bichon 
+        Frise Training</a><br>
+        <a href="http://www.trainpetdog.com/Blue-Heeler/about-blue-heeler.html" class="ss2">Blue 
+        Heeler Training</a><br>
+        <a href="http://www.trainpetdog.com/Border-Collie/about-border-collie.html" class="ss2">Border 
+        Collie Training</a><br>
+        <a href="http://www.trainpetdog.com/Boston-Terrier/about-boston-terrier.html" class="ss2">Boston 
+        Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Boxer/about-boxer.html" class="ss2">Boxer 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/CairnTerrier/about-cairnterrier.html" class="ss2">Cairn 
+        Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Catahoula/about-catahoula.html" class="ss2">Catahoula 
+        Leopard Dog Training</a><br>
+        <a href="http://www.trainpetdog.com/Cav-King-Charles-Spaniel/about-cav-king-charles-spaniel.html" class="ss2">Cavalier 
+        King Charles Spaniel Training</a><br>
+        <a href="http://www.trainpetdog.com/Chesapeake-Bay-Retriever/about-chesapeake-bayretriever.html" class="ss2">Chesapeake 
+        Bay Retriever Training</a><br>
+        <a href="http://www.trainpetdog.com/Chihuahua/about-chihuahua.html" class="ss2">Chihuahua 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Cocker-Spaniel/about-cocker-spaniel.html" class="ss2">Cocker 
+        Spaniel Training</a><br>
+        <a href="http://www.trainpetdog.com/Dachshund/about-dachshund.html" class="ss2">Dachshund 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Doberman/about-doberman-pinscher.html" class="ss2">Doberman 
+        Pinscher Training</a><br>
+        <a href="http://www.trainpetdog.com/Bulldog/about-bulldog.html" class="ss2">English 
+        Bulldog Training</a><br>
+        <a href="http://www.trainpetdog.com/English-Springer-Spaniel/about-english-springer-spaniel.html" class="ss2">English 
+        Springer Spaniel Training</a><br>
+        <a href="http://www.trainpetdog.com/German-Shepherd/about-german-shepherd.html" class="ss2">German 
+        Shepherd Training</a><br>
+        <a href="http://www.trainpetdog.com/German-Shorthaired-Pointer/about-german-shorthaired-pointer.html" class="ss2">German 
+        Shorthaired Pointer Training</a><br>
+        <a href="http://www.trainpetdog.com/Golden-Retriever/about-golden-retriever.html" class="ss2">Golden 
+        Retriever Training</a><br>
+        <a href="http://www.trainpetdog.com/Great-Dane/about-great-dane.html" class="ss2">Great 
+        Dane Training</a><br>
+        <a href="http://www.trainpetdog.com/Havanese/about-havanese.html" class="ss2">Havanese 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Italian-Greyhound/about-italian-greyhound.html" class="ss2">Italian 
+        Greyhound Training</a><br>
+        <a href="http://www.trainpetdog.com/Jack-Russell-Terrier/about-jack-russell-terrier.html" class="ss2">Jack 
+        Russell Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Labrador-Retriever/about-labrador-retriever.html" class="ss2">Labrador 
+        Retriever Training</a><br>
+        <a href="http://www.trainpetdog.com/Lhasa-Apso/about-lhasa-apso.html" class="ss2">Lhasa 
+        Apso Training</a><br>
+        <a href="http://www.trainpetdog.com/Maltese/about-maltese.html" class="ss2">Maltese 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Miniature-Pinscher/about-miniature-pinscher.html" class="ss2">Miniature 
+        Pinscher Training</a><br>
+        <a href="http://www.trainpetdog.com/Miniature-Schnauzer/about-miniature-schnauzer.html" class="ss2">Miniature 
+        Schnauzer Training</a><br>
+        <a href="http://www.trainpetdog.com/Olde-English-BullDogge/about-olde-english-bulldogge.html" class="ss2">Olde 
+        English BullDogge Training</a><br>
+        <a href="http://www.trainpetdog.com/Papillon/about-papillon.html" class="ss2">Papillon 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Pembroke-Welsh-Corgi/about-pembroke-welsh-corgi.html" class="ss2">Pembroke 
+        Welsh Corgi Training</a><br>
+        <a href="http://www.trainpetdog.com/Pomeranian/about-pomeranian.html" class="ss2">Pomeranian 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Poodle/about-poodle.html" class="ss2">Poodle 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Pug/about-pug.html" class="ss2">Pug 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Rat-Terrier/about-rat-terrier.html" class="ss2">Rat 
+        Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Rhodesian-Ridgeback/about-rhodesian-ridgeback.html" class="ss2">Rhodesian 
+        Ridgeback Training</a><br>
+        <a href="http://www.trainpetdog.com/Rottweiler/about-rottweiler.html" class="ss2">Rottweiler 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/Saint-Bernard/about-saint-bernard.html" class="ss2">Saint 
+        Bernard Training</a><br>
+        <a href="http://www.trainpetdog.com/Shetland-Sheepdog/about-shetland-sheepdog.html" class="ss2">Shetland 
+        Sheepdog Training</a><br>
+        <a href="http://www.trainpetdog.com/Shih-Tzu/about-shih-tzu.html" class="ss2">Shih 
+        Tzu Training</a><br>
+        <a href="http://www.trainpetdog.com/Siberian-Husky/about-siberian-husky.html" class="ss2">Siberian 
+        Husky Training</a><br>
+        <a href="http://www.trainpetdog.com/Soft-Coated-Wheaten-Terrier/about-soft-coated-wheaten-terrier.html" class="ss2">Soft 
+        Coated Wheaten Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Toy-Poodle/about-toypoodle.html" class="ss2">Toy 
+        Poodle Training</a><br>
+        <a href="http://www.trainpetdog.com/Weimaraner/about-weimaraner.html" class="ss2">Weimaraner 
+        Training</a><br>
+        <a href="http://www.trainpetdog.com/West-Highland-White-Terrier/about-west-highland-white-terrier.html" class="ss2">West 
+        Highland White Terrier Training</a><br>
+        <a href="http://www.trainpetdog.com/Yorkshire-Terrier/about-yorkshire-terrier.html" class="ss2">Yorkshire 
+        Terrier Training</a> </div></td>
   </tr>
-  <tr>
+  <tr> 
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Contact Us"></td>
-    <td><a href="http://www.trainpetdog.com/contact-us.html" class="ss">Contact Us</a></td>
+    <td><a href="http://www.trainpetdog.com/contact-us.html" class="ss">Contact 
+      Us</a></td>
   </tr>
 </tbody></table>
 
