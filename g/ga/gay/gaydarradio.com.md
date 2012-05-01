@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214020101id_/http%3A//www.gaydarradio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501134933id_/http%3A//www.gaydarradio.com/privacy) for the most accurate reproduction.*
 
-# GaydarRadio
+# Privacy Policy | GaydarRadio
 
-[ ](https://web.archive.org/entertainment/popcorn/2011/12/gaydar-deals.html)
-
-[ ](https://web.archive.org/news/2011/12/give15-appeal.html) [ ](https://web.archive.org/competitions/purplebone.html) [ ](https://web.archive.org/competitions/parralox.html) [ ](https://web.archive.org/competitions/city-point.html) [ ](https://web.archive.org/entertainment/popcorn/2011/12/gaydargifts.html) [ ](https://web.archive.org/entertainment/popcorn/2011/12/ebooker-manchester.html) [ ](https://web.archive.org/entertainment/popcorn/2011/9/british-surrogacy.html) [ ](https://web.archive.org/entertainment/popcorn/2011/12/gaydar-deals.html) [ ](http://www.chicoutletshopping.com/en/plan-your-visit/gaydar-nation?utm_source=mpu_nation&utm_medium=banner&utm_campaign=cos_gaydar) [ ](https://gaydar-radio.clubtickets.com/)
+[ ](https://web.archive.org/newsletter) [ ](http://www.c4em.org.uk/) [ ](https://web.archive.org/news/2012/4/hero-and-heroine-awards-2012---winners.html) [ ](https://web.archive.org/entertainment/popcorn/2012/4/ebooker-amsterdam.html) [ ](http://www.fatboyslim.net/) [ ](https://gaydar-radio.clubtickets.com/) [ ](https://web.archive.org/news/2012/4/coalition-for-equal-marriage.html) [ ](https://web.archive.org/entertainment/popcorn/2012/4/hot-male-3-april.html)
 
 We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations. 
 
