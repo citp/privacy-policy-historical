@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruiterbox.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007055337id_/http%3A//recruiterbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiterbox.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502015642id_/http%3A//recruiterbox.com/privacy) for the most accurate reproduction.*
 
 # Recruiterbox Privacy Policy
 
