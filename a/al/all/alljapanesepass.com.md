@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202204815id_/http%3A//www.supportidols.com/support_faq/ajp-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljapanesepass.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070852id_/http%3A//www.supportidols.com/support_faq/ajp-privacy.html) for the most accurate reproduction.*
 
 # AllJapanesePass.com - Privacy Statement
 
