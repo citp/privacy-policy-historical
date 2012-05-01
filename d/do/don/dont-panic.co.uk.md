@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dont-panic.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224162733id_/http%3A//www.dont-panic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dont-panic.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501154132id_/http%3A//www.dont-panic.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Don't Panic!
+# Privacy Policy | Don't Panic!
 
 At dont-panic.co.uk, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit dont-panic.co.uk, and how we safeguard your information. We never sell your personal information to third parties.
 
