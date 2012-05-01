@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102163719id_/http%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501223301id_/http%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Skyscanner USA
 
@@ -16,13 +16,13 @@ Skyscanner collects information from its users at several different points on ou
 
 ### IP Details
 
-We may collect information about your computer, including where available your IP address, operating system, browser type, referring URLs, page views and access times (" **IP Details** "). We use such information for system administration, to analyse trends, track user's movements and to report aggregate information to our advertisers and partners. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
+We may collect information about your computer, including where available your IP address, operating system, browser type, referring URLs, page views and access times (" **IP Details** "). We use such information for system administration, to analyze trends, track user's movements and to report aggregate information to our advertisers and partners. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. 
 
 ### Cookies
 
 We use "cookies" to make your use of our website easier. A cookie is a piece of data stored on the user's hard drive containing information about the usage of our site via that computer. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by allowing a cookie from our site, you would not have to set your currency or language preferences each time you used the site, thereby saving time while on our site. If you do not wish to have cookies placed on your computer, you can disable cookies through your internet browser. If you want to know how to do this, please look at the "Help" menu on your browser. Please note that disabling cookies may prevent you from accessing some features of this and other websites. We therefore recommend you permit the use of cookies when using Skyscanner. Cookies allow you to get the most out of our website. In addition, as the cookie is stored on your computer, the data gathered by the cookie remains under your control. 
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognise you when you visit.
+We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to keep track of you whilst you navigate the website. We will use the persistent cookies to enable our website to recognize you when you visit.
 
 We use cookies to make your use of our website easier. Usage of a cookie is in no way linked to any personally identifiable information while on our website. For instance, by allowing a cookie from our website, you would not have to set your currency or language preferences each time you used our website, thereby saving time while on our website. As such, cookies allow you to get the most out of our website. In addition, as the cookie is stored on your computer, the data gathered by the cookie remains under your control. Please note that disabling cookies may prevent you from accessing some features of this and other websites. We therefore recommend you permit the use of cookies when using our website.
 
@@ -30,13 +30,17 @@ Session cookies will be deleted from your computer when you close your browser. 
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-We also use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>
+We also use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>
 
-We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html> However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>
+We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behavior across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html> However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>
 
 ### Log Files
 
-We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyse trends, administer the site, track user's movement, and gather broad demographic information and aggregate the results. IP addresses, etc. are not linked to personally identifiable information. 
+We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, administer the site, track user's movement, and gather broad demographic information and aggregate the results. IP addresses, etc. are not linked to personally identifiable information. 
+
+### Location Data
+
+We may obtain information relating to your geographical location ( **"Location Data"** ) where you use any Skyscanner application on a mobile phone or other electronic device. We will use such Location Data only for the purpose of identifying which airport is nearest to you at that time.
 
 ### Links
 
@@ -50,9 +54,9 @@ We take every precaution to protect information provided to us by you via this w
 
 All Information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share this password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your Information, we will use strict procedures and security features to try to prevent unauthorised access.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your Information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-At present we have partnership agreements with a number of organisations, some of which are non-UK based. Therefore, to process your requests, we may transfer your Information to our partners based in other countries. By using our website you give your consent to this transfer of your Information.
+At present we have partnership agreements with a number of organizations, some of which are non-UK based. Therefore, to process your requests, we may transfer your Information to our partners based in other countries. By using our website you give your consent to this transfer of your Information.
 
 ## Links to third party websites
 
@@ -60,7 +64,7 @@ This website contains links to other sites. In particular this website may direc
 
 ## Sharing Information
 
-In order to provide you with a useful social experience when using Skyscanner, we may give you the option to export information from Skyscanner to third party applications and websites, including social networking sites such as Facebook or Twitter. Please be aware when doing so that you may disclose your information to individuals or organisations responsible for operating and maintaining such third party applications and sites and your information may be accessible by others visiting or using those applications or sites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them.
+In order to provide you with a useful social experience when using Skyscanner, we may give you the option to export information from Skyscanner to third party applications and websites, including social networking sites such as Facebook or Twitter. Please be aware when doing so that you may disclose your information to individuals or organizations responsible for operating and maintaining such third party applications and sites and your information may be accessible by others visiting or using those applications or sites. We do not own or operate the applications or websites that you connect with and you should review the privacy policies of such websites to make sure you are comfortable with the ways in which they use the information you share with them.
 
 When you connect to our website from a third party application, social networking or other site then you consent to the collection by us of your information as stored with that other third party. This information may be used by us to enhance your use of our website. When we do obtain information about you from these third parties, we will process the information in accordance with our own privacy policy.
 
