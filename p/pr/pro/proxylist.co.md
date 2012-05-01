@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxylist.co privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014093721id_/http%3A//www.proxylist.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxylist.co privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501200040id_/http%3A//proxylist.co/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Proxy List
 
@@ -60,4 +60,4 @@ ProxyList.co may update this policy. We will notify you about significant change
 **8\. QUESTIONS AND SUGGESTIONS**  
 
 
-If you have any specific questions about this privacy policy, please feel free to [contact us](https://web.archive.org/web/20111014093721id_/http%3A//www.proxylist.co/contact.php) directly. 
+If you have any specific questions about this privacy policy, please feel free to [contact us](https://web.archive.org/web/20120501200040id_/http%3A//proxylist.co/contact.php) directly. 
