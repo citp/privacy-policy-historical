@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epodunk.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010084704id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.epodunk.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epodunk.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501221556id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.epodunk.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
