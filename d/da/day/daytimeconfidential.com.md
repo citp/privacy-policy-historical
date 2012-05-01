@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020221949id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytimeconfidential.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501214725id_/http%3A//daytimeconfidential.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daytime Confidential
 
@@ -64,14 +64,14 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Pop Confidential  
 c/o TV Fan Online Inc.  
-P.O. Box 831  
-Bellevue, Nebraska 68005  
+P.O. Box 5783  
+Lincoln, Nebraska 68005  
 United States  
 privacy@popconfidential.com 
 
 Daytime Confidential  
 c/o TV Fan Online Inc.  
-P.O. Box 831  
-Bellevue, Nebraska 68005  
+P.O. Box 5783  
+Lincoln, Nebraska 68005  
 United States  
 [privacy@daytimeconfidential.com](mailto:privacy@daytimeconfidential.com)
