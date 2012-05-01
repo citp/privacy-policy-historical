@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218121032id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501075307id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Medieval Costumes, Medieval Clothing, Medieval clothes, Medieval Dresses
 
