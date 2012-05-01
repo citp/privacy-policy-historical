@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012115533id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073813id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cheat Freak - Privacy Policy
 
@@ -6,7 +6,7 @@ Cheat Freak respects the privacy rights of our online visitors and is committed 
 
 **What does this Privacy Policy apply to?**
 
-This Privacy Policy currently applies to the following Web site(s) operated by Cheat Freak (collectively referred to as the "Cheat Freak Web site," "our Web site," or “cheatfreak.com”): 
+This Privacy Policy currently applies to the following Web site(s) operated by Cheat Freak (collectively referred to as the "Cheat Freak Web site," "our Web site," or ?cheatfreak.com?): 
 
 [www.cheatfreak.com](http://www.cheatfreak.com/)
 
@@ -18,7 +18,7 @@ _Please note that by using our Web site, you signify your assent to Cheat Freak'
 
 **What types of information does Cheat Freak collect and how is it used?**
 
-[Submit Form](https://web.archive.org/web/20111012115533id_/http%3A//cheatfreak.com/SubmitCheats.aspx)
+[Submit Form](https://web.archive.org/web/20120501073813id_/http%3A//cheatfreak.com/SubmitCheats.aspx)
 
 If you choose to submit cheat content using this form, we may ask you for your e-mail address. We use the information you provide solely to respond to your submission or to give you credit for your contribution. 
 
@@ -44,7 +44,7 @@ In some instances, we may have an arrangement with a promotional partner, whereb
 
 _**Disclosure and/or Transfer of Personal Information**_
 
-We may disclose any and/or all personal information about you in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Cheat Freak’s user information may be transferred to our successor or assign.
+We may disclose any and/or all personal information about you in the good faith belief that we are required to do so by law, including but not limited to requests pursuant to subpoena or court order, and/or disclosure to local, state, or federal law enforcement, or other government officials pursuant to investigations they are conducting. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Cheat Freak?s user information may be transferred to our successor or assign.
 
 _**Aggregate Information**_
 
@@ -52,10 +52,17 @@ We may provide our prospective partners, advertisers, and other third parties wi
 
 **How do I ask a question or file a complaint? (Contact Information)**
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please e-mail us at: 
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information practices, please e-mail or contact us at: 
 
-[privacy@cheatfreak.com](mailto:privacy@cheatfreak.com)
+Cheat Freak  
+Attn.: Privacy Policy Administrator  
+P.O. Box 5326  
+Culver City, CA 90231-5326  
+1-888-986-6400 - M - F, 12 p.m. - 4 p.m. CST  
+[support@cheatfreak.com](mailto:support@cheatfreak.com) \- 7 days a week
 
 Any personal information you provide to the above e-mail will not be used to send you promotional materials, unless you request it.
 
-This Privacy Policy was last updated on October 3, 2007.
+**If you wish to opt out of receiving the Cheat Freak newsletter, special offers, and promotional information** : At the bottom of every Cheat Freak communication sent to you, we provide you an unsubscribe method to discontinue receiving future communications (i.e., unsubscribe). Alternately, you may contact [support@cheatfreak.com](mailto:support@cheatfreak.com) at any time to request to be unsubscribed.
+
+This Privacy Policy was last updated on January 12, 2012.
