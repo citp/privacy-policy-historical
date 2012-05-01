@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysiastory.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512000631id_/http%3A//www.malaysiastory.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysiastory.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501044045id_/http%3A//www.malaysiastory.com/static/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Malaysia Story
 
