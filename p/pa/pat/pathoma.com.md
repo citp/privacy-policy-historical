@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2011-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110903002437id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathoma.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501232241id_/http%3A//www.pathoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pathoma
 
-**Pathoma Privacy Policy** – Last updated: June 7, 2011.
+**Pathoma™ Privacy Policy** – Last updated: June 7, 2011.
 
 Pathoma LLC (“Pathoma”, “we”, “us” or “our”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This policy guides how we collect, store and use information about our customers and Site visitors. By visiting the Pathoma.com domain, or any related sub-domains (collectively “Site”), or otherwise accessing our services (“Services”), you are accepting the practices described in this Privacy Policy.
 
