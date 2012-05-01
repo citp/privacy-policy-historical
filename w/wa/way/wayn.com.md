@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010032739id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501061714id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
 
-# WAYN.COM
+# Privacy Policy - WAYN.COM
 
 **This Privacy Policy was last updated on the following date: 19th May 2011**
 
@@ -154,6 +154,3 @@ You can obtain further information about data protection laws by visiting the In
 **15\. Changes to this Privacy Policy**
 
 If we decide to change our Privacy Policy or email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
-
-|    
----|---
