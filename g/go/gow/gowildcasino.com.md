@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202001350id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowildcasino.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073740id_/http%3A//www.gowildcasino.com/privacypolicy.html) for the most accurate reproduction.*
 
-# GoWild Casino | Privacy Policy
+# Privacy Policy | Go Wild Casino Online | Top Legal Casino Games Online
 
   
 This website (the "Site") is operated by and information collected from this Site is collected by GoWild Malta Ltd, a company incorporated and based in Malta (company registration no. C43606) ("GoWild", "us" or "we"). 
