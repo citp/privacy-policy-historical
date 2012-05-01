@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2011-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121120741id_/http%3A//smarkets.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501073646id_/https%3A//smarkets.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
         <meta charset="utf-8">
@@ -33,22 +33,32 @@
 </style>
             <!--[if gt IE 8]><!-->
                 
-                    <link rel="stylesheet" type="text/css" href="https://diy1dqjwmz5rw.cloudfront.net/css/main.6930c69c.css">
+                    <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/css/main.gz.3a223297.css">
 
                 
             <!--<![endif]-->
             <!--[if IE 8]>
                 
-                    <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/css/main.ie8.b04b1109.css">
+                    <link rel="stylesheet" type="text/css" href="https://diy1dqjwmz5rw.cloudfront.net/css/main.ie8.gz.0fae80f5.css">
 
                 
             <![endif]-->
             <!--[if IE 7]>
                 
-                    <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/css/main.ie7.55ba93a0.css">
+                    <link rel="stylesheet" type="text/css" href="https://diy1dqjwmz5rw.cloudfront.net/css/main.ie7.gz.b065e667.css">
 
                 
             <![endif]-->
+            
+            <style type="text/css">
+                @media screen and (-webkit-min-device-pixel-ratio:0) {
+                    .date_field legend span,
+                    form.sign_up .date_field legend span,
+                    .sort_code legend span {
+                        left: 0;
+                    }
+                }
+            </style>
         
 
         
@@ -71,7 +81,7 @@
         
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:site_name" content="Smarkets">
-        <meta property="og:image" content="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/facebook/default.a5fe38f5.png">
+        <meta property="og:image" content="https://diy1dqjwmz5rw.cloudfront.net/img/icon/facebook/default.a5fe38f5.png">
         
         
         <meta name="title" content="Privacy Policy">
@@ -90,34 +100,33 @@
             var SMAK = SMAK || {};
 
             // Configuration object that should be available to all scripts and modules
-            SMAK.configuration = {};
-
-            // URLs for Ajax calls
-            SMAK.configuration.urls = {
-                userLogIn : "https://smarkets.com/members/login/?next=/privacy-policy/"
-            };
-
-            // is the user logged in?
-            SMAK.configuration.user = {
-                csrfToken: 'NOTPROVIDED',
-                loggedIn : false,
-                lastModified : '',
-                oddsChoice : "decimal",
-                backerStake : false,
-                positions: {},
-                betsCache: {},
-                heartbeat: "600000",
-                inlineBetWidgetEnabled: true
+            SMAK.configuration = {
+                // URLs for Javascript
+                urls: {
+                    userLogIn : "https://smarkets.com/members/login/?next=/privacy-policy/"
+                },
+                // user configuration
+                user: {
+                    currencyFormat: 'GBP',
+                    currencySymbol: '£',
+                    currencyRatio: "1.0",
+                    currencySubscribe: false,
+                    csrfToken: 'NOTPROVIDED',
+                    loggedIn : false,
+                    lastModified : '',
+                    oddsChoice : "decimal",
+                    backerStake : true,
+                    positions: {},
+                    betsCache: {},
+                    heartbeat: "60000",
+                    inlineBetWidgetEnabled: true,
+                    showMobilePrompt: true
+                }
             };
 
             WEB_SOCKET_SWF_LOCATION = 'https://diy1dqjwmz5rw.cloudfront.net/movies/sio.14ff3185.swf';
 
             SMAK.flashVideos = [];
-            
-            
-    
-    SMAK.configuration.decimalLookup = ["1.0001","1.01","1.02","1.03","1.04","1.05","1.06","1.07","1.08","1.09","1.10","1.11","1.12","1.13","1.14","1.15","1.16","1.17","1.18","1.19","1.20","1.21","1.22","1.23","1.24","1.25","1.26","1.27","1.28","1.29","1.30","1.31","1.32","1.33","1.34","1.35","1.36","1.37","1.38","1.39","1.40","1.41","1.42","1.43","1.44","1.45","1.46","1.47","1.48","1.49","1.50","1.51","1.52","1.53","1.54","1.55","1.56","1.57","1.58","1.59","1.60","1.61","1.62","1.63","1.64","1.65","1.66","1.67","1.68","1.69","1.70","1.71","1.72","1.73","1.74","1.75","1.76","1.77","1.78","1.79","1.80","1.81","1.82","1.83","1.84","1.85","1.86","1.87","1.88","1.89","1.90","1.91","1.92","1.93","1.94","1.95","1.96","1.97","1.98","1.99","2.00","2.02","2.04","2.06","2.08","2.10","2.12","2.14","2.16","2.18","2.20","2.22","2.24","2.26","2.28","2.30","2.32","2.34","2.36","2.38","2.40","2.42","2.44","2.46","2.48","2.50","2.52","2.54","2.56","2.58","2.60","2.62","2.64","2.66","2.68","2.70","2.72","2.74","2.76","2.78","2.80","2.82","2.84","2.86","2.88","2.90","2.92","2.94","2.96","2.98","3.00","3.05","3.10","3.15","3.20","3.25","3.30","3.35","3.40","3.45","3.50","3.55","3.60","3.65","3.70","3.75","3.80","3.85","3.90","3.95","4.00","4.1","4.2","4.3","4.4","4.5","4.6","4.7","4.8","4.9","5.0","5.1","5.2","5.3","5.4","5.5","5.6","5.7","5.8","5.9","6.0","6.2","6.4","6.6","6.8","7.0","7.2","7.4","7.6","7.8","8.0","8.2","8.4","8.6","8.8","9.0","9.2","9.4","9.6","9.8","10.0","10.5","11.0","11.5","12.0","12.5","13.0","13.5","14.0","14.5","15.0","15.5","16.0","16.5","17.0","17.5","18.0","18.5","19.0","19.5","20.0","21","22","23","24","25","26","27","28","29","30","32","34","36","38","40","42","44","46","48","50","55","60","65","70","75","80","85","90","95","100","110","120","130","140","150","160","170","180","190","200","210","220","230","240","250","260","270","280","290","300","310","320","330","340","360","370","380","400","420","430","450","480","500","530","560","590","620","670","710","770","830","910","1000","10000"];
-
 
             // inject a class of "js" into the html element so CSS is aware of JS
             document.documentElement.className += 'js';
@@ -147,7 +156,7 @@
             <div class="container">
                 
                 
-                    <a id="logo" href="/"><img width="190" height="44" src="https://d2ddi39c2rqcmy.cloudfront.net/img/header/smarkets-logo.7b2311e4.png" alt="Smarkets"></a>
+                    <a id="logo" href="/"><img width="190" height="44" src="https://diy1dqjwmz5rw.cloudfront.net/img/header/smarkets-logo.7b2311e4.png" alt="Smarkets"></a>
                 
                 
     
@@ -393,12 +402,12 @@
                 <div>
                     <p>
                         <a id="footer-logo" href="/"><img width="210" height="36" src="https://d2ddi39c2rqcmy.cloudfront.net/img/footer/smarkets-logo.d94a459b.png" alt="Smarkets"></a>
-                        Wholly owned and operated by Smarkets (Malta) Limited (Reg No: C 44795) of 14/19 Strait Street, Valletta, Malta under license <a id="license_number" href="http://www.lga.org.mt/lga/content.aspx?id=87005">LGA/CL3/492/2008</a> issued May 12th, 2009 and regulated by the <a href="http://lga.org.mt/">Lotteries and Gaming Authority</a>. Please gamble responsibly.
+                        Wholly owned and operated by Smarkets (Malta) Limited (Reg No: C 44795) of 28/19 Strait Street, Valletta, Malta under license <a id="license_number" href="http://www.lga.org.mt/lga/content.aspx?id=87005">LGA/CL3/492/2008</a> issued May 12th, 2009 and regulated by the <a href="http://lga.org.mt/">Lotteries and Gaming Authority</a>. Please gamble responsibly.
                     </p>
                     <ul id="legal_icons">
-                        <li><a href="http://www.gamcare.org.uk/" rel="nofollow external"><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/gamcare.281a3bcb.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
-                        <li><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/18plus.14033bfb.gif" alt="Over 18s only" width="50" height="51"></li>
-                        <li><a href="http://www.lga.org.mt/" rel="nofollow external"><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/lga_authorised.8b0795ff.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
+                        <li><a href="http://www.gamcare.org.uk/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/gamcare.281a3bcb.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
+                        <li><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/18plus.14033bfb.gif" alt="Over 18s only" width="50" height="51"></li>
+                        <li><a href="http://www.lga.org.mt/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/lga_authorised.8b0795ff.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
                     </ul>
                 </div>
             </div>
@@ -409,23 +418,21 @@
         
 
         <!--[if gte IE 7]><!-->
-
-    <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/js/sio-all.db63a049.js" charset="utf-8"></script>
-
+    <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/js/all.982093c1.js" charset="utf-8"></script>
 
 <!--<![endif]-->
 
 <script type="text/javascript">
     SMAK.live.socket_host = "<random>.live.smarkets.com".replace("<random>", "" + Math.round(Math.random() * 10000000));
-    SMAK.live.socket_port = 80;
-    SMAK.live.socket_secure = false;
+    SMAK.live.socket_port = 443;
+    SMAK.live.socket_secure = true;
     SMAK.live.socket_transports = ['websocket','flashsocket'];
     SMAK.live.url_exchange = "sio.url./privacy-policy/";
+    SMAK.live.connect_timeout = 9000;
+    SMAK.live.heartbeat_timeout = 15000;
     
     
-    
-        SMAK.live.use_socket_io = true;
-    
+    SMAK.live.use_socket_io = true;
     SMAK.navigation = {
     };
 </script>
@@ -434,24 +441,7 @@
         
 
         
-        <!-- Envolve HTML -->
         <script type="text/javascript">
-envoSn=24267;
-var envProtoType = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + envProtoType + "d.envolve.com/env.nocache.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://d.envolve.com/env.nocache.js" type="text/javascript"></script>
-        
-
-        
-        <script type="text/javascript">
-
-            
-            // Envolve JS
-            envoOptions={
-                enableNewChatButton: false,
-                defaultSoundMode : false
-            };
-            
 
             // Google Analytics
             
@@ -480,7 +470,18 @@ document.write(unescape("%3Cscript src='" + envProtoType + "d.envolve.com/env.no
                     w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);
                 })(window);
             
-        </script>
+
+
+            
+                // Envolve JS
+                var envoOptions = {
+                    enableNewChatButton: false,
+                    defaultSoundMode : false
+                };
+                var envoSn=24267;
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//d.envolve.com/env.nocache.js' type='text/javascript'%3E%3C/script%3E"));
+            
+        </script><script src="https://d.envolve.com/env.nocache.js" type="text/javascript"></script>
         
         
     
