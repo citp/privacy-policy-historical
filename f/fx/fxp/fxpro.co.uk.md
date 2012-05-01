@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201003906id_/http%3A//www.fxpro.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502001108id_/http%3A//www.fxpro.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Trading
 
-This privacy statement covers the website [www.fxpro.com](https://www.fxpro.com/ "FxPro"), any other related websites that are registered and operated by the Company as well as [direct.fxpro.com](https://direct.fxpro.com/ "FxPro Direct").
+This privacy statement covers the website [www.fxpro.com](http://www.fxpro.com/ "FxPro"), any other related websites that are registered and operated by the Company as well as [direct.fxpro.com](https://direct.fxpro.com/ "FxPro Direct").
 
 ## Application
 
@@ -38,7 +38,7 @@ We use both session ID cookies and persistent cookies. A session ID cookie does 
 
 We set a persistent cookie for statistical purposes. Persistent cookies also enable us to track and target the location and the interests of our users and to enhance the experience of our services on our site.
 
-If you reject cookies, you may still use our site, but you will not be able to use [FxPro Direct](http://direct.fxpro.com/ "FxPro direct") and submit your application form.
+If you reject cookies, you may still use our site, but you will not be able to use [FxPro Direct](https://direct.fxpro.com/ "FxPro direct") and submit your application form.
 
 Some of our business partners use cookies on our site. We have no access to or control over these cookies.
 
