@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121210313id_/http%3A//www.ekwaterblocks.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502002935id_/http%3A//www.ekwaterblocks.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EkWaterBlocks
 
