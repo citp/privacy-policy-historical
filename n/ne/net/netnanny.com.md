@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206002734id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501053926id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
 # ContentWatch Privacy Policy
 
@@ -35,3 +35,9 @@ This Privacy Statement is subject to change at any time, at the discretion of Co
 ContentWatch Corporate Office:  
 6949 S High Tech Dr  
 Salt Lake City, Utah 84047 USA
+
+## Visit Our Learning Center
+
+If you've got questions or concerns, the Nanny's got answers. Everything you’ll need to know about protecting your family online can be found here.
+
+[Get Started](https://web.archive.org/learn_center/)
