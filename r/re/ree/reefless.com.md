@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reefless.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330223759id_/http%3A//www.reefless.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reefless.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501222802id_/http%3A//www.reefless.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Boat Classified Software, SEO friendly Classifieds Script - flexible and multifunctional
+# Privacy Policy
 
 ### Please read this Agreement attentively before accessing the reefLESS web site. If you have any questions about this Agreement, please contact us via e-mail at [privacy@reefless.com](mailto:privacy@reefless.com)
 
