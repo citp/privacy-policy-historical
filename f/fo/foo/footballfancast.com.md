@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007094303id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501080106id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootballFanCast.com
 
