@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162915id_/http%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501105511id_/http%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
 
 # W3Counter - Privacy Policy
 
@@ -19,8 +19,8 @@ We respect your privacy. Your full name and e-mail address will not be sold or s
 If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please contact us:
 
 Awio Web Services LLC  
-1451 Graeme Way  
-Warminster, PA 18974  
+219 Chatham Pl  
+Lansdale, PA 19446  
 USA
 
 Or [click here](https://web.archive.org/help/contact) for other contact methods. 
