@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210211728id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitwatch.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501232730id_/http%3A//www.fitwatch.com/about/policies.html) for the most accurate reproduction.*
 
-# FitWatch Website Privacy Policy
+# None
 
 FitWatch Inc. understands your privacy is important to you (the "Visitor"). This privacy statement reflects the policies in place regarding your use of www.fitwatch.com (the "Site"), as a Visitor. 
 
