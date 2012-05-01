@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164328id_/http%3A//www.mcarthurglen.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501074052id_/http%3A//www.mcarthurglen.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # McArthurGlen Privacy Policy and Data Protection
 
@@ -49,7 +49,7 @@ To protect your privacy and security we will take reasonable steps to verify you
 **Changes to this Policy**  
 We reserve the right to modify this Policy at any time. Changes to this Policy will be posted on the Site. Your continued subscription to or use of the Site constitutes your acceptance of the Policy as revised. It is your responsibility to review the Policy frequently. Please contact us at [marketing@mcarthurglen.com](mailto:marketing@mcarthurglen.com) if you have any questions about this Policy.
 
-**© McArthurGlen UK Limited 2009**
+**© McArthurGlen UK Limited 2011**
 
 **Company Name:** McArthurGlen UK Limited  
  **Company Registration Number:** 2810264  
