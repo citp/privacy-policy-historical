@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225015020id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazes.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211757id_/http%3A//plazes.com/the/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Plazes
 
