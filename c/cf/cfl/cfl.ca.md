@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525194544id_/http%3A//www.cfl.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501184759id_/http%3A//www.cfl.ca/page/privacy-policy) for the most accurate reproduction.*
 
-# CFL.ca - Privacy Policy
+# CFL.ca | Official Site of the Canadian Football League
 
 We take your right to privacy seriously and want you to feel comfortable using this web site. This policy explains the type of personal information we collect from you, how it is used, and the steps we take to ensure your personal information is handled appropriately.
 
