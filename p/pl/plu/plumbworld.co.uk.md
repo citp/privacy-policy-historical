@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027152017id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501055905id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
 
 # Privacy Guarantee
 
@@ -28,6 +28,6 @@ Third party cookies may be used to track behaviour on our site by third parties.
 
 Customer Feedback
 
-Thank you for such great service. I ordered the suite expecting 2-3 weeks for delivery, imagine my surprise/shock (as I had to find somewhere to store it) when it was delivered within a week. I have so far been greatly impressed by the service provided and would have no hesitation in recommending your company to others. Thank you and your staff once again for the great service provided to date, it is reassuring that there are companies out there who do appreciate there customers.
+I am absolutely delighted with my purchases and I can honestly say that your company is the very best I have ever dealt with on the internet. I have made over 400 internet purchases during the last five years so I can consider myself a bit of an expert. You have kept me informed in detail at every stage of the process including follow up emails which is somewhat of a novelty as most companies just take ones payment and 'vanish over the horizon'! I have and will continue to recommend your company to everyone in the market for plumbing requirements. Thank you once again for your excellent service - you are a star of the internet business world.
 
- **\- Philip Ball, October 2007**
+ **\- Aileen Angus, April 2008**
