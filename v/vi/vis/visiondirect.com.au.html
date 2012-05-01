@@ -1,25 +1,42 @@
-<!--The following is the downloaded HTML source of the visiondirect.com.au privacy policy that was archived on 2011-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110051548id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visiondirect.com.au privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501092830id_/http%3A//www.visiondirect.com.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy</title>
-<link href="/public/styles/assets/css/style.css" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" href="/public/styles/assets/css/global.css">
-
-<style type="text/css">
-
-
-</style>
-
-</head>
-<body>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.visiondirect.com.au/public/styles/assets/javascript/jquery_min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+    <title>VisionDirect - Privacy Policy</title>
+    <meta property="og:type" content="product">
+<!--<meta property="og:title" content="" />-->
+<meta property="fb:app_id" content="190895051007604">
+<meta property="og:image" content="http://www.visiondirect.com.au/public/styles/assets/image/logo_sms.png">
+<meta property="fb:admins" content="1222940829,509771449,1721233939,675605924">
+<meta property="og:url" content="http://www.visiondirect.com.au/privacy">
+<meta property="og:site_name" content="VisionDirect">
+<meta itemprop="image" content="http://www.visiondirect.com.au/public/styles/assets/image/logo_sms.png">
+<!--<script type="text/javascript">
+    var metaTags = document.getElementsByTagName("meta");
+    for (var i=0; i<metaTags.length; i++)
+    {
+        if (metaTags[i].attributes['property'] && metaTags[i].attributes['property'].value == 'og:title')
+        {
+            metaTags[i].attributes['content'].value = document.title;
+        }
+    }
+</script>-->
+  </head>
+  <body>
+  <script src="//connect.facebook.net/en_US/all.js#xfbml=1" id="fbjssdk"></script><script src="https://apis.google.com/js/plusone.js" id="gplus1js"></script><script src="//platform.twitter.com/widgets.js" id="tweetjs"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn.visiondirect.com.au/public/styles/assets/javascript/jquery_min.js"></script>
 <script src="http://www.visiondirect.com.au/public/js/menu.js"></script>
 <script src="http://www.visiondirect.com.au/public/styles/assets/javascript/jquery_sooperfish.js" type="text/javascript"></script>
+<meta property="og:type" content="product">
+<meta property="fb:app_id" content="190895051007604">
+<meta property="fb:admins" content="1222940829,509771449,1721233939,675605924">
+<meta property="og:url" content="http://www.visiondirect.com.au/privacy">
+<meta property="og:site_name" content="VisionDirect">
 <link href="/public/styles/assets/css/dropdown.css" rel="stylesheet" type="text/css">
+<link href="/public/styles/assets/fontface/museo/stylesheet.css" rel="stylesheet" type="text/css">
 <link href="/public/styles/assets/css/style.css" rel="stylesheet" type="text/css">
 <link href="/public/styles/assets/css/global.css" rel="stylesheet" type="text/css">
+<link href="/public/styles/assets/css/static.css" rel="stylesheet" type="text/css">
+<link href="/public/styles/assets/css/head.css" rel="stylesheet" type="text/css">
 
 
 
@@ -69,15 +86,45 @@
 
 		//for head search
 		$('.search_box .search_button').click(function(){
-			var text = $(this).prev().val();
-			window.location.href = "http://" + document.location.host + '/search/result/?keyword=' + encodeURIComponent(text);
+			search($(this).prev());
 		});
 
 		
-		
+		$('.search_box input').keydown(function(e){
+			if(e.keyCode == 13) 
+				search($(this));
+		});
 	});
 
-	
+	function search(obj)
+	{
+		var text = obj.val();
+		var show = 'Search brands, styles ...';
+		if(text == show || text =='')
+		{
+			alert('Please type keyword(s)');
+		}
+		else
+		{
+			window.location.href = "http://" + document.location.host + '/search/result/?keyword=' + encodeURIComponent(text);
+		}
+
+	}
+	//used for navigation button "Back"
+	$(document).ready(function() {
+		$('.navigation .back').click(function(){
+			window.history.back();
+		});
+        
+        $('#flag_option').toggle(
+            function () {
+                $('.languageFlag').addClass("languageFlagBlock");
+            },
+            function () {
+                $('.languageFlag').removeClass("languageFlagBlock");
+            }
+        );
+	});
 </script>
 
 <div id="wrapper">
@@ -89,9 +136,9 @@
         <div class="top_parent contact_menu">
           <a href="/help">CONTACT US</a>
         </div>
-        <div class="top_parent">
-          <img src="http://cdn.visiondirect.com.au/public/image/head_phone.png">
-          1800-261-453        </div>
+                <div class="top_parent">
+          customerservice@visiondirect.com.au
+        </div>
         <div class="top_parent top_first">
           <span>Largest range - Unbeatable prices</span>
           <a href="http://www.visiondirect.com.au/community">You buy a pair - We give a pair </a>
@@ -104,17 +151,35 @@
         <a href="http://www.visiondirect.com.au" id="logo">
                   <img src="http://cdn.visiondirect.com.au/public/styles/assets/image/logo_4.png">
         </a>
-        <form id="search" action="/search/" method="get">
+        <div class="Homepage_headIcon">
+                        <p><img src=" http://www.visiondirect.com.au/public/styles/assets/image/brand00.png"><span> 150 DESIGNER<br>BRANDS</span></p>
+                        
+                        <p>
+                            
+                                                         <img src="http://www.visiondirect.com.au/public/styles/assets/image/dollar1.png">
+                            <span>
+                               UNBEATABLE<br>PRICES                            </span>      
+                                                  
+                        </p>
+                        <p>
+                            <img src="http://www.visiondirect.com.au/public/styles/assets/image/shipping1.png">
+                            <span>
+                                FREE $30 LENS<br>CLEANING KIT  
+                            </span>
+                        </p>
+                    </div>    
+        <form id="search" action="" method="" onsubmit="javascript:return false;">
 	        <div class="search_box">
-	          <input name="keyword" value="Search brands, styles ..." onfocus="this.value=''">
+                   
+	          <input name="keyword" value="Search ..." placeholder="Search ..." onfocus="this.value=''">
 	          <div class="search_button" id="search_button">
-	            <div class="search_image"></div>
+	            <div class="search_headSmall"></div>
 	          </div>
-              	          <div class="search_right left">
+              <!--	          <div class='search_right left'>
                                
-                          FREE $30 Lens Kit!                         
+                                                   
                        
-                   </div>
+                   </div>-->
 	        </div>
         </form>
                 	<div class="cart_not_empty cart_empty">
@@ -144,13 +209,12 @@
           //]]>
         </script>
   <ul class="iHeaderNav">
-   <li class="navItem1" id="menu_ds"><a href="http://www.visiondirect.com.au/designer-sunglasses.htm" class="white"><span>Designer Sunglasses</span><div class="nav_img"></div></a></li>
-   <li class="navItem2" id="menu_dg"><a href="http://www.visiondirect.com.au/designer-eyeglasses.htm" class="white"><span>Designer Glasses</span><div class="nav_img"></div></a></li>
-   <li class="navItem3" id="menu_ss"><a href="http://www.visiondirect.com.au/sports-sunglasses.htm" class="white"><span>Sports Sunglasses</span><div class="nav_img"></div></a></li>
-   <li class="navItem4" id="menu_cl"><a href="http://www.visiondirect.com.au/contact-lenses.htm" class="white"><span>Contact Lenses</span><div class="nav_img"></div></a></li>
-   <li class="navItem5" id="menu_pl"><a href="http://www.visiondirect.com.au/premium-lens" class="white"><span>Prescription Lenses</span><div class="nav_img"></div></a></li>
-   <li class="navHotDeal" id="menu_hd" onmouseover="javascript:this.className='navHotDeal_hover';" onmouseout="javascript:this.className='navHotDeal';"><a href="http://www.visiondirect.com.au/designer-sunglasses/general/----------1----" class="white"><span>Hot Deals</span><div class="nav_img"></div></a></li>
-   <div class="clear"></div>
+   <li class="navItem1" id="menu_ds"><a href="http://www.visiondirect.com.au/designer-sunglasses.htm" class="white">Designer Sunglasses<div class="nav_img"></div></a></li>
+   <li class="navItem2" id="menu_dg"><a href="http://www.visiondirect.com.au/designer-eyeglasses.htm" class="white">Designer Glasses<div class="nav_img"></div></a></li>
+   <li class="navItem3" id="menu_ss"><a href="http://www.visiondirect.com.au/sports-sunglasses.htm" class="white">Sports Sunglasses<div class="nav_img"></div></a></li>
+      	       		<li class="navItem6" id="menu_pl"><a href="http://www.visiondirect.com.au/health-fund-rebates" class="white">Health Fund Rebates<div class="nav_img"></div></a></li>
+   		   		<li class="navHotDeal navItem7" id="menu_hd" onmouseover="javascript:this.className='navItem7_hover';" onmouseout="javascript:this.className='navItem7';"><a href="http://www.visiondirect.com.au/designer-sunglasses/general/---------------1-1-" class="white"><span>Hot Deals</span><div class="nav_img"></div></a></li>
+      <div class="clear"></div>
   </ul>
 
 
@@ -160,11 +224,11 @@
   <div class="navSelectBox" id="menu1" style="display:none">
    <div class="navSelectBoxLetter">
    <span class="selectTopItem"><a href="javascript:void(0);" class="white" tag="Top Designer Sunglasses">Top Designer Sunglasses</a></span>
-   <a href="javascript:void(0);" class="white">#</a><a href="javascript:void(0);" class="white">A</a><a href="javascript:void(0);" class="white">B</a><a href="javascript:void(0);" class="white">C</a><a href="javascript:void(0);" class="white">D</a><a href="javascript:void(0);" class="white">E</a><a href="javascript:void(0);" class="white">F</a><a href="javascript:void(0);" class="white">G</a><a href="javascript:void(0);" class="white">H</a><a href="javascript:void(0);" class="white">I</a><a href="javascript:void(0);" class="white">J</a><a href="javascript:void(0);" class="white">K</a><a href="javascript:void(0);" class="white">L</a><a href="javascript:void(0);" class="white">M</a><a href="javascript:void(0);" class="white">N</a><a href="javascript:void(0);" class="white">O</a><a href="javascript:void(0);" class="white">P</a><a href="javascript:void(0);" class="white">R</a><a href="javascript:void(0);" class="white">S</a><a href="javascript:void(0);" class="white">T</a><a href="javascript:void(0);" class="white">V</a><a href="javascript:void(0);" class="white">W</a><a href="javascript:void(0);" class="white">Y</a><a href="javascript:void(0);" class="white">Z</a>   </div>
+   <a href="javascript:void(0);" class="white">#</a><a href="javascript:void(0);" class="white">A</a><a href="javascript:void(0);" class="white">B</a><a href="javascript:void(0);" class="white">C</a><a href="javascript:void(0);" class="white">D</a><a href="javascript:void(0);" class="white">E</a><a href="javascript:void(0);" class="white">F</a><a href="javascript:void(0);" class="white">G</a><a href="javascript:void(0);" class="white">H</a><a href="javascript:void(0);" class="white">I</a><a href="javascript:void(0);" class="white">J</a><a href="javascript:void(0);" class="white">K</a><a href="javascript:void(0);" class="white">L</a><a href="javascript:void(0);" class="white">M</a><a href="javascript:void(0);" class="white">N</a><a href="javascript:void(0);" class="white">O</a><a href="javascript:void(0);" class="white">P</a><a href="javascript:void(0);" class="white">R</a><a href="javascript:void(0);" class="white">S</a><a href="javascript:void(0);" class="white">T</a><a href="javascript:void(0);" class="white">U</a><a href="javascript:void(0);" class="white">V</a><a href="javascript:void(0);" class="white">W</a><a href="javascript:void(0);" class="white">Y</a><a href="javascript:void(0);" class="white">Z</a>   </div>
    <div class="navContentBox">
     <ul class="fixItem" style="height:220px;">
     
-     <ul class="fl"><li class="itemCaption f17o">Gender</li><li><a href="/designer-sunglasses/general/-Men-------------" class="white">Male</a></li><li><a href="/designer-sunglasses/general/-Women-------------" class="white">Female</a></li><li class="itemCaption f17o">Shop By</li><li><a href="/designer-sunglasses.htm" class="white">All Brands</a></li><li><a href="/designer-sunglasses/general/----------1----" class="white">Best Sellers</a></li><li><a href="/designer-sunglasses/general/-----------1---" class="white">Hot Deals</a></li><li><a href="/designer-sunglasses/general/-Men---------1----" class="white">Men's Best Sellers</a></li><li><a href="/designer-sunglasses/general/-Women---------1----" class="white">Women's Best Sellers</a></li><li><a href="/designer-sunglasses/general/---------2011-----" class="white">New Collections</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By Style</li><li><a href="/designer-sunglasses/general/--Aviator------------" class="white">Aviator</a></li><li><a href="/designer-sunglasses/general/--Wayfarer------------" class="white">Wayfarer</a></li><li><a href="/designer-sunglasses/general/--Oversized------------" class="white">Oversized</a></li><li><a href="/designer-sunglasses/general/--Single+Lens------------" class="white">Single Lens</a></li><li><a href="/designer-sunglasses/general/--------------" class="white">View All Styles</a></li><li class="itemCaption f17o">Specialty</li><li><a href="/sports-sunglasses.htm" class="white">Sports Sunglasses</a></li><li><a href="/designer-sunglasses/general/-Kids-------------" class="white">Children's Sunglasses</a></li></ul>         
+     <ul class="fl"><li class="itemCaption f17o">Gender</li><li><a href="/designer-sunglasses/general/-Men----------------" class="white">Male</a></li><li><a href="/designer-sunglasses/general/-Women----------------" class="white">Female</a></li><li class="itemCaption f17o">Shop By</li><li><a href="/designer-sunglasses.htm" class="white">All Brands</a></li><li><a href="/designer-sunglasses/general/--------------1-----" class="white">Best Sellers</a></li><li><a href="/designer-sunglasses/general/---------------1----" class="white">Hot Deals</a></li><li><a href="/designer-sunglasses/general/-Men-------------1----" class="white">Men's Best Sellers</a></li><li><a href="/designer-sunglasses/general/-Women-------------1----" class="white">Women's Best Sellers</a></li><li><a href="/designer-sunglasses/general/---------2012-----" class="white">New Collections</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By Style</li><li><a href="/designer-sunglasses/general/--Aviator---------------" class="white">Aviator</a></li><li><a href="/designer-sunglasses/general/--Wayfarer---------------" class="white">Wayfarer</a></li><li><a href="/designer-sunglasses/general/--Oversized---------------" class="white">Oversized</a></li><li><a href="/designer-sunglasses/general/--Single+Lens---------------" class="white">Single Lens</a></li><li><a href="/designer-sunglasses/general/-----------------" class="white">View All Styles</a></li><li class="itemCaption f17o">Specialty</li><li><a href="/sports-sunglasses.htm" class="white">Sports Sunglasses</a></li><li><a href="/designer-sunglasses/general/-Kids----------------" class="white">Children's Sunglasses</a></li></ul>         
 	
 	 
      <div class="clear"></div>
@@ -173,7 +237,7 @@
     <ul class="fr">
     	<div class="top">
      	
-   	 	<ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Arnette/" class="white">Arnette</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-sunglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-sunglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-sunglasses/Coach/" class="white">Coach</a></li><li><a href="/designer-sunglasses/D&amp;G/" class="white">D&amp;G</a></li></ul><ul><li><a href="/designer-sunglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-sunglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-sunglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-sunglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-sunglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-sunglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-sunglasses/Guess/" class="white">Guess</a></li><li><a href="/designer-sunglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li></ul><ul><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li><li><a href="/designer-sunglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-sunglasses/Police/" class="white">Police</a></li><li><a href="/designer-sunglasses/Prada/" class="white">Prada</a></li><li><a href="/designer-sunglasses/Ralph-by-Ralph-Lauren/" class="white">Ralph by Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-sunglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li></ul><ul class="lastItem"><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-sunglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-sunglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-sunglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-sunglasses/YSL/" class="white">YSL</a></li><li><a href="/designer-sunglasses.htm" class="blue">See all brands</a></li></ul></div><div class="selectLetterNum" style="display:none;"><li class="itemCaption f17o">All "#" Brands (1)</li><ul><li><a href="/designer-sunglasses/55DSL/" class="white">55DSL</a></li></ul></div><div class="selectLetterA" style="display:none;"><li class="itemCaption f17o">All "A" Brands (4)</li><ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Alexander-McQueen/" class="white">Alexander McQueen</a></li><li><a href="/designer-sunglasses/Alviero-Martini/" class="white">Alviero Martini</a></li><li><a href="/designer-sunglasses/Arnette/" class="white">Arnette</a></li></ul></div><div class="selectLetterB" style="display:none;"><li class="itemCaption f17o">All "B" Brands (10)</li><ul><li><a href="/designer-sunglasses/Balenciaga/" class="white">Balenciaga</a></li><li><a href="/designer-sunglasses/Bluebay/" class="white">Bluebay</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Bolle-Kids/" class="white">Bolle Kids</a></li><li><a href="/designer-sunglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-sunglasses/Bottega-Veneta/" class="white">Bottega Veneta</a></li><li><a href="/designer-sunglasses/Brooks-Brothers/" class="white">Brooks Brothers</a></li><li><a href="/designer-sunglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-sunglasses/Bvlgari/" class="white">Bvlgari</a></li></ul><ul><li><a href="/designer-sunglasses/Byblos/" class="white">Byblos</a></li></ul></div><div class="selectLetterC" style="display:none;"><li class="itemCaption f17o">All "C" Brands (8)</li><ul><li><a href="/designer-sunglasses/CK/" class="white">CK</a></li><li><a href="/designer-sunglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Cazal/" class="white">Cazal</a></li><li><a href="/designer-sunglasses/Celine/" class="white">Celine</a></li><li><a href="/designer-sunglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-sunglasses/Chopard/" class="white">Chopard</a></li><li><a href="/designer-sunglasses/Coach/" class="white">Coach</a></li></ul></div><div class="selectLetterD" style="display:none;"><li class="itemCaption f17o">All "D" Brands (6)</li><ul><li><a href="/designer-sunglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-sunglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-sunglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-sunglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-sunglasses/Dsquared2/" class="white">Dsquared2</a></li><li><a href="/designer-sunglasses/Dunhill/" class="white">Dunhill</a></li></ul></div><div class="selectLetterE" style="display:none;"><li class="itemCaption f17o">All "E" Brands (7)</li><ul><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Emilio-Pucci/" class="white">Emilio Pucci</a></li><li><a href="/designer-sunglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-sunglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-sunglasses/Escada/" class="white">Escada</a></li><li><a href="/designer-sunglasses/Etro/" class="white">Etro</a></li><li><a href="/designer-sunglasses/Exte/" class="white">Exte</a></li></ul></div><div class="selectLetterF" style="display:none;"><li class="itemCaption f17o">All "F" Brands (3)</li><ul><li><a href="/designer-sunglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-sunglasses/Ferrari/" class="white">Ferrari</a></li><li><a href="/designer-sunglasses/Furla/" class="white">Furla</a></li></ul></div><div class="selectLetterG" style="display:none;"><li class="itemCaption f17o">All "G" Brands (5)</li><ul><li><a href="/designer-sunglasses/Gianfranco-Ferre/" class="white">Gianfranco Ferre</a></li><li><a href="/designer-sunglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-sunglasses/Givenchy/" class="white">Givenchy</a></li><li><a href="/designer-sunglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-sunglasses/Guess/" class="white">Guess</a></li></ul></div><div class="selectLetterH" style="display:none;"><li class="itemCaption f17o">All "H" Brands (2)</li><ul><li><a href="/designer-sunglasses/Hogan/" class="white">Hogan</a></li><li><a href="/designer-sunglasses/Hugo-By-Hugo-Boss/" class="white">Hugo By Hugo Boss</a></li></ul></div><div class="selectLetterI" style="display:none;"><li class="itemCaption f17o">All "I" Brands (1)</li><ul><li><a href="/designer-sunglasses/Iceberg/" class="white">Iceberg</a></li></ul></div><div class="selectLetterJ" style="display:none;"><li class="itemCaption f17o">All "J" Brands (6)</li><ul><li><a href="/designer-sunglasses/Jean-Paul-Gaultier/" class="white">Jean Paul Gaultier</a></li><li><a href="/designer-sunglasses/Jimmy-Choo/" class="white">Jimmy Choo</a></li><li><a href="/designer-sunglasses/John-Varvatos/" class="white">John Varvatos</a></li><li><a href="/designer-sunglasses/Judith-Leiber/" class="white">Judith Leiber</a></li><li><a href="/designer-sunglasses/Juicy-Couture/" class="white">Juicy Couture</a></li><li><a href="/designer-sunglasses/Just-Cavalli/" class="white">Just Cavalli</a></li></ul></div><div class="selectLetterK" style="display:none;"><li class="itemCaption f17o">All "K" Brands (2)</li><ul><li><a href="/designer-sunglasses/Kaenon/" class="white">Kaenon</a></li><li><a href="/designer-sunglasses/Killer-Loop/" class="white">Killer Loop</a></li></ul></div><div class="selectLetterL" style="display:none;"><li class="itemCaption f17o">All "L" Brands (3)</li><ul><li><a href="/designer-sunglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-sunglasses/Lafont/" class="white">Lafont</a></li><li><a href="/designer-sunglasses/Lozza/" class="white">Lozza</a></li></ul></div><div class="selectLetterM" style="display:none;"><li class="itemCaption f17o">All "M" Brands (13)</li><ul><li><a href="/designer-sunglasses/Marc-By-Marc-Jacobs/" class="white">Marc By Marc Jacobs</a></li><li><a href="/designer-sunglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Max-&amp;-Co./" class="white">Max &amp; Co.</a></li><li><a href="/designer-sunglasses/Max-Mara/" class="white">Max Mara</a></li><li><a href="/designer-sunglasses/Mercedes/" class="white">Mercedes</a></li><li><a href="/designer-sunglasses/Michael-Kors/" class="white">Michael Kors</a></li><li><a href="/designer-sunglasses/Miss-Sixty/" class="white">Miss Sixty</a></li><li><a href="/designer-sunglasses/Missoni/" class="white">Missoni</a></li></ul><ul><li><a href="/designer-sunglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-sunglasses/Mont-Blanc/" class="white">Mont Blanc</a></li><li><a href="/designer-sunglasses/Moschino/" class="white">Moschino</a></li><li><a href="/designer-sunglasses/Mykita/" class="white">Mykita</a></li></ul></div><div class="selectLetterN" style="display:none;"><li class="itemCaption f17o">All "N" Brands (1)</li><ul><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li></ul></div><div class="selectLetterO" style="display:none;"><li class="itemCaption f17o">All "O" Brands (3)</li><ul><li><a href="/designer-sunglasses/O'Neill/" class="white">O'Neill</a></li><li><a href="/designer-sunglasses/Oliver/" class="white">Oliver</a></li><li><a href="/designer-sunglasses/Oxydo/" class="white">Oxydo</a></li></ul></div><div class="selectLetterP" style="display:none;"><li class="itemCaption f17o">All "P" Brands (9)</li><ul><li><a href="/designer-sunglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-sunglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-sunglasses/Pierre-Cardin/" class="white">Pierre Cardin</a></li><li><a href="/designer-sunglasses/Pirelli/" class="white">Pirelli</a></li><li><a href="/designer-sunglasses/Police/" class="white">Police</a></li><li><a href="/designer-sunglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-sunglasses/Polo-Ralph-Lauren/" class="white">Polo Ralph Lauren</a></li><li><a href="/designer-sunglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-sunglasses/Prada/" class="white">Prada</a></li></ul></div><div class="selectLetterR" style="display:none;"><li class="itemCaption f17o">All "R" Brands (9)</li><ul><li><a href="/designer-sunglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ralph-by-Ralph-Lauren/" class="white">Ralph by Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-sunglasses/Ray-Ban-Junior/" class="white">Ray Ban Junior</a></li><li><a href="/designer-sunglasses/Replay/" class="white">Replay</a></li><li><a href="/designer-sunglasses/Revo/" class="white">Revo</a></li><li><a href="/designer-sunglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-sunglasses/Rodenstock/" class="white">Rodenstock</a></li><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li></ul></div><div class="selectLetterS" style="display:none;"><li class="itemCaption f17o">All "S" Brands (6)</li><ul><li><a href="/designer-sunglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Silhouette/" class="white">Silhouette</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Sting/" class="white">Sting</a></li></ul></div><div class="selectLetterT" style="display:none;"><li class="itemCaption f17o">All "T" Brands (6)</li><ul><li><a href="/designer-sunglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-sunglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-sunglasses/Timberland/" class="white">Timberland</a></li><li><a href="/designer-sunglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-sunglasses/Tommy-Hilfiger/" class="white">Tommy Hilfiger</a></li><li><a href="/designer-sunglasses/Tory-Burch/" class="white">Tory Burch</a></li></ul></div><div class="selectLetterV" style="display:none;"><li class="itemCaption f17o">All "V" Brands (6)</li><ul><li><a href="/designer-sunglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-sunglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-sunglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-sunglasses/Vivienne-Westwood/" class="white">Vivienne Westwood</a></li><li><a href="/designer-sunglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-sunglasses/Vuarnet/" class="white">Vuarnet</a></li></ul></div><div class="selectLetterW" style="display:none;"><li class="itemCaption f17o">All "W" Brands (1)</li><ul><li><a href="/designer-sunglasses/Web/" class="white">Web</a></li></ul></div><div class="selectLetterY" style="display:none;"><li class="itemCaption f17o">All "Y" Brands (1)</li><ul><li><a href="/designer-sunglasses/YSL/" class="white">YSL</a></li></ul></div><div class="selectLetterZ" style="display:none;"><li class="itemCaption f17o">All "Z" Brands (1)</li><ul><li><a href="/designer-sunglasses/Zero-Rh/" class="white">Zero Rh</a></li></ul></div>   	 
+   	 	<ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Arnette/" class="white">Arnette</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-sunglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-sunglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-sunglasses/Coach/" class="white">Coach</a></li><li><a href="/designer-sunglasses/D&amp;G/" class="white">D&amp;G</a></li></ul><ul><li><a href="/designer-sunglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-sunglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-sunglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-sunglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-sunglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-sunglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-sunglasses/Guess/" class="white">Guess</a></li><li><a href="/designer-sunglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li></ul><ul><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li><li><a href="/designer-sunglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-sunglasses/Police/" class="white">Police</a></li><li><a href="/designer-sunglasses/Prada/" class="white">Prada</a></li><li><a href="/designer-sunglasses/Ralph-by-Ralph-Lauren/" class="white">Ralph by Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-sunglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li></ul><ul class="lastItem"><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-sunglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-sunglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-sunglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-sunglasses/YSL/" class="white">YSL</a></li><li><a href="/designer-sunglasses.htm" class="blue">See all brands</a></li></ul></div><div class="selectLetterNum" style="display:none;"><li class="itemCaption f17o">All "#" Brands (1)</li><ul><li><a href="/designer-sunglasses/55DSL/" class="white">55DSL</a></li></ul></div><div class="selectLetterA" style="display:none;"><li class="itemCaption f17o">All "A" Brands (4)</li><ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Alexander-McQueen/" class="white">Alexander McQueen</a></li><li><a href="/designer-sunglasses/Alviero-Martini/" class="white">Alviero Martini</a></li><li><a href="/designer-sunglasses/Arnette/" class="white">Arnette</a></li></ul></div><div class="selectLetterB" style="display:none;"><li class="itemCaption f17o">All "B" Brands (11)</li><ul><li><a href="/designer-sunglasses/Balenciaga/" class="white">Balenciaga</a></li><li><a href="/designer-sunglasses/Bluebay/" class="white">Bluebay</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Bolle-Kids/" class="white">Bolle Kids</a></li><li><a href="/designer-sunglasses/Boss-Orange/" class="white">Boss Orange</a></li><li><a href="/designer-sunglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-sunglasses/Bottega-Veneta/" class="white">Bottega Veneta</a></li><li><a href="/designer-sunglasses/Brooks-Brothers/" class="white">Brooks Brothers</a></li><li><a href="/designer-sunglasses/Burberry/" class="white">Burberry</a></li></ul><ul><li><a href="/designer-sunglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-sunglasses/Byblos/" class="white">Byblos</a></li></ul></div><div class="selectLetterC" style="display:none;"><li class="itemCaption f17o">All "C" Brands (9)</li><ul><li><a href="/designer-sunglasses/CK/" class="white">CK</a></li><li><a href="/designer-sunglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Cazal/" class="white">Cazal</a></li><li><a href="/designer-sunglasses/Cebe/" class="white">Cebe</a></li><li><a href="/designer-sunglasses/Celine/" class="white">Celine</a></li><li><a href="/designer-sunglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-sunglasses/Chopard/" class="white">Chopard</a></li><li><a href="/designer-sunglasses/Coach/" class="white">Coach</a></li></ul></div><div class="selectLetterD" style="display:none;"><li class="itemCaption f17o">All "D" Brands (6)</li><ul><li><a href="/designer-sunglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-sunglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-sunglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-sunglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-sunglasses/Dsquared2/" class="white">Dsquared2</a></li><li><a href="/designer-sunglasses/Dunhill/" class="white">Dunhill</a></li></ul></div><div class="selectLetterE" style="display:none;"><li class="itemCaption f17o">All "E" Brands (8)</li><ul><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Electric/" class="white">Electric</a></li><li><a href="/designer-sunglasses/Emilio-Pucci/" class="white">Emilio Pucci</a></li><li><a href="/designer-sunglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-sunglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-sunglasses/Escada/" class="white">Escada</a></li><li><a href="/designer-sunglasses/Etro/" class="white">Etro</a></li><li><a href="/designer-sunglasses/Exte/" class="white">Exte</a></li></ul></div><div class="selectLetterF" style="display:none;"><li class="itemCaption f17o">All "F" Brands (3)</li><ul><li><a href="/designer-sunglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-sunglasses/Ferrari/" class="white">Ferrari</a></li><li><a href="/designer-sunglasses/Furla/" class="white">Furla</a></li></ul></div><div class="selectLetterG" style="display:none;"><li class="itemCaption f17o">All "G" Brands (5)</li><ul><li><a href="/designer-sunglasses/Gianfranco-Ferre/" class="white">Gianfranco Ferre</a></li><li><a href="/designer-sunglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-sunglasses/Givenchy/" class="white">Givenchy</a></li><li><a href="/designer-sunglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-sunglasses/Guess/" class="white">Guess</a></li></ul></div><div class="selectLetterH" style="display:none;"><li class="itemCaption f17o">All "H" Brands (2)</li><ul><li><a href="/designer-sunglasses/Hogan/" class="white">Hogan</a></li><li><a href="/designer-sunglasses/Hugo-By-Hugo-Boss/" class="white">Hugo By Hugo Boss</a></li></ul></div><div class="selectLetterI" style="display:none;"><li class="itemCaption f17o">All "I" Brands (3)</li><ul><li><a href="/designer-sunglasses/Ic!-Berlin/" class="white">Ic! Berlin</a></li><li><a href="/designer-sunglasses/Iceberg/" class="white">Iceberg</a></li><li><a href="/designer-sunglasses/Italia-Independent/" class="white">Italia Independent</a></li></ul></div><div class="selectLetterJ" style="display:none;"><li class="itemCaption f17o">All "J" Brands (6)</li><ul><li><a href="/designer-sunglasses/Jean-Paul-Gaultier/" class="white">Jean Paul Gaultier</a></li><li><a href="/designer-sunglasses/Jimmy-Choo/" class="white">Jimmy Choo</a></li><li><a href="/designer-sunglasses/John-Varvatos/" class="white">John Varvatos</a></li><li><a href="/designer-sunglasses/Judith-Leiber/" class="white">Judith Leiber</a></li><li><a href="/designer-sunglasses/Juicy-Couture/" class="white">Juicy Couture</a></li><li><a href="/designer-sunglasses/Just-Cavalli/" class="white">Just Cavalli</a></li></ul></div><div class="selectLetterK" style="display:none;"><li class="itemCaption f17o">All "K" Brands (2)</li><ul><li><a href="/designer-sunglasses/Kaenon/" class="white">Kaenon</a></li><li><a href="/designer-sunglasses/Killer-Loop/" class="white">Killer Loop</a></li></ul></div><div class="selectLetterL" style="display:none;"><li class="itemCaption f17o">All "L" Brands (3)</li><ul><li><a href="/designer-sunglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-sunglasses/Lafont/" class="white">Lafont</a></li><li><a href="/designer-sunglasses/Lozza/" class="white">Lozza</a></li></ul></div><div class="selectLetterM" style="display:none;"><li class="itemCaption f17o">All "M" Brands (12)</li><ul><li><a href="/designer-sunglasses/Marc-By-Marc-Jacobs/" class="white">Marc By Marc Jacobs</a></li><li><a href="/designer-sunglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Max-&amp;-Co./" class="white">Max &amp; Co.</a></li><li><a href="/designer-sunglasses/Max-Mara/" class="white">Max Mara</a></li><li><a href="/designer-sunglasses/Mercedes/" class="white">Mercedes</a></li><li><a href="/designer-sunglasses/Michael-Kors/" class="white">Michael Kors</a></li><li><a href="/designer-sunglasses/Miss-Sixty/" class="white">Miss Sixty</a></li><li><a href="/designer-sunglasses/Missoni/" class="white">Missoni</a></li></ul><ul><li><a href="/designer-sunglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-sunglasses/Mont-Blanc/" class="white">Mont Blanc</a></li><li><a href="/designer-sunglasses/Moschino/" class="white">Moschino</a></li></ul></div><div class="selectLetterN" style="display:none;"><li class="itemCaption f17o">All "N" Brands (1)</li><ul><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li></ul></div><div class="selectLetterO" style="display:none;"><li class="itemCaption f17o">All "O" Brands (2)</li><ul><li><a href="/designer-sunglasses/Oliver/" class="white">Oliver</a></li><li><a href="/designer-sunglasses/Oxydo/" class="white">Oxydo</a></li></ul></div><div class="selectLetterP" style="display:none;"><li class="itemCaption f17o">All "P" Brands (11)</li><ul><li><a href="/designer-sunglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-sunglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-sunglasses/Pierre-Cardin/" class="white">Pierre Cardin</a></li><li><a href="/designer-sunglasses/Pirelli/" class="white">Pirelli</a></li><li><a href="/designer-sunglasses/Playboy/" class="white">Playboy</a></li><li><a href="/designer-sunglasses/Polar/" class="white">Polar</a></li><li><a href="/designer-sunglasses/Police/" class="white">Police</a></li><li><a href="/designer-sunglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-sunglasses/Polo-Ralph-Lauren/" class="white">Polo Ralph Lauren</a></li></ul><ul><li><a href="/designer-sunglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-sunglasses/Prada/" class="white">Prada</a></li></ul></div><div class="selectLetterR" style="display:none;"><li class="itemCaption f17o">All "R" Brands (10)</li><ul><li><a href="/designer-sunglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ralph-by-Ralph-Lauren/" class="white">Ralph by Ralph Lauren</a></li><li><a href="/designer-sunglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-sunglasses/Ray-Ban-Junior/" class="white">Ray Ban Junior</a></li><li><a href="/designer-sunglasses/Ray-Ban-Tech/" class="white">Ray Ban Tech</a></li><li><a href="/designer-sunglasses/Replay/" class="white">Replay</a></li><li><a href="/designer-sunglasses/Revo/" class="white">Revo</a></li><li><a href="/designer-sunglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-sunglasses/Rodenstock/" class="white">Rodenstock</a></li></ul><ul><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li></ul></div><div class="selectLetterS" style="display:none;"><li class="itemCaption f17o">All "S" Brands (10)</li><ul><li><a href="/designer-sunglasses/Safilo/" class="white">Safilo</a></li><li><a href="/designer-sunglasses/Salice/" class="white">Salice</a></li><li><a href="/designer-sunglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Silhouette/" class="white">Silhouette</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Stella-McCartney/" class="white">Stella McCartney</a></li><li><a href="/designer-sunglasses/Sting/" class="white">Sting</a></li></ul><ul><li><a href="/designer-sunglasses/Swarovski/" class="white">Swarovski</a></li></ul></div><div class="selectLetterT" style="display:none;"><li class="itemCaption f17o">All "T" Brands (6)</li><ul><li><a href="/designer-sunglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-sunglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-sunglasses/Timberland/" class="white">Timberland</a></li><li><a href="/designer-sunglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-sunglasses/Tommy-Hilfiger/" class="white">Tommy Hilfiger</a></li><li><a href="/designer-sunglasses/Tory-Burch/" class="white">Tory Burch</a></li></ul></div><div class="selectLetterU" style="display:none;"><li class="itemCaption f17o">All "U" Brands (1)</li><ul><li><a href="/designer-sunglasses/UVEX/" class="white">UVEX</a></li></ul></div><div class="selectLetterV" style="display:none;"><li class="itemCaption f17o">All "V" Brands (6)</li><ul><li><a href="/designer-sunglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-sunglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-sunglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-sunglasses/Vivienne-Westwood/" class="white">Vivienne Westwood</a></li><li><a href="/designer-sunglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-sunglasses/Vuarnet/" class="white">Vuarnet</a></li></ul></div><div class="selectLetterW" style="display:none;"><li class="itemCaption f17o">All "W" Brands (1)</li><ul><li><a href="/designer-sunglasses/Web/" class="white">Web</a></li></ul></div><div class="selectLetterY" style="display:none;"><li class="itemCaption f17o">All "Y" Brands (1)</li><ul><li><a href="/designer-sunglasses/YSL/" class="white">YSL</a></li></ul></div><div class="selectLetterZ" style="display:none;"><li class="itemCaption f17o">All "Z" Brands (1)</li><ul><li><a href="/designer-sunglasses/Zero-Rh/" class="white">Zero Rh</a></li></ul></div>   	 
 
       
     </ul>
@@ -189,17 +253,17 @@
 <div class="navSelectBox" id="menu2" style="display:none">
 	   <div class="navSelectBoxLetter">
 	   <span class="selectTopItem"><a href="javascript:void(0);" class="white" tag="Top Designer Glasses">Top Designer Glasses</a></span>
-	    	<a href="javascript:void(0);" class="white">#</a><a href="javascript:void(0);" class="white">A</a><a href="javascript:void(0);" class="white">B</a><a href="javascript:void(0);" class="white">C</a><a href="javascript:void(0);" class="white">D</a><a href="javascript:void(0);" class="white">E</a><a href="javascript:void(0);" class="white">F</a><a href="javascript:void(0);" class="white">G</a><a href="javascript:void(0);" class="white">H</a><a href="javascript:void(0);" class="white">J</a><a href="javascript:void(0);" class="white">K</a><a href="javascript:void(0);" class="white">L</a><a href="javascript:void(0);" class="white">M</a><a href="javascript:void(0);" class="white">N</a><a href="javascript:void(0);" class="white">O</a><a href="javascript:void(0);" class="white">P</a><a href="javascript:void(0);" class="white">R</a><a href="javascript:void(0);" class="white">S</a><a href="javascript:void(0);" class="white">T</a><a href="javascript:void(0);" class="white">V</a><a href="javascript:void(0);" class="white">W</a><a href="javascript:void(0);" class="white">Y</a>
+	    	<a href="javascript:void(0);" class="white">#</a><a href="javascript:void(0);" class="white">A</a><a href="javascript:void(0);" class="white">B</a><a href="javascript:void(0);" class="white">C</a><a href="javascript:void(0);" class="white">D</a><a href="javascript:void(0);" class="white">E</a><a href="javascript:void(0);" class="white">F</a><a href="javascript:void(0);" class="white">G</a><a href="javascript:void(0);" class="white">H</a><a href="javascript:void(0);" class="white">I</a><a href="javascript:void(0);" class="white">J</a><a href="javascript:void(0);" class="white">K</a><a href="javascript:void(0);" class="white">L</a><a href="javascript:void(0);" class="white">M</a><a href="javascript:void(0);" class="white">N</a><a href="javascript:void(0);" class="white">O</a><a href="javascript:void(0);" class="white">P</a><a href="javascript:void(0);" class="white">R</a><a href="javascript:void(0);" class="white">S</a><a href="javascript:void(0);" class="white">T</a><a href="javascript:void(0);" class="white">V</a><a href="javascript:void(0);" class="white">W</a><a href="javascript:void(0);" class="white">Y</a><a href="javascript:void(0);" class="white">Z</a>
 		</div>
    <div class="navContentBox">
     <ul class="fixItem">
     
-     <ul class="fl"><li class="itemCaption f17o">Gender</li><li><a href="/designer-eyeglasses/general/-Men-------------" class="white">Male</a></li><li><a href="/designer-eyeglasses/general/-Women-------------" class="white">Female</a></li><li class="itemCaption f17o">Shop By</li><li><a href="/designer-eyeglasses.htm" class="white">All Brands</a></li><li><a href="/designer-eyeglasses/general/----------1----" class="white">Best Sellers</a></li><li><a href="/designer-eyeglasses/general/-----------1---" class="white">Hot Deals</a></li><li><a href="/designer-eyeglasses/general/-Men---------1----" class="white">Men's Best Sellers</a></li><li><a href="/designer-eyeglasses/general/-Women---------1----" class="white">Women's Best Sellers</a></li><li><a href="/designer-eyeglasses/general/---------2011-----" class="white">New Collections</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By Style</li><li><a href="/designer-eyeglasses/general/---Full+Rim-----------" class="white">Full Rim</a></li><li><a href="/designer-eyeglasses/general/---Semi+Rimless-----------" class="white">Semi Rimless</a></li><li><a href="/designer-eyeglasses/general/---Rimless-----------" class="white">Rimless</a></li><li><a href="/designer-eyeglasses/general/--Rectangle------------" class="white">Rectangle</a></li><li><a href="/designer-eyeglasses/general/--Oval------------" class="white">Oval</a></li><li><a href="/designer-eyeglasses/general/--------------" class="white">View All Styles</a></li><li class="itemCaption f17o">Material</li><li><a href="/designer-eyeglasses/general/-------Metal-------" class="white">Metal</a></li><li><a href="/designer-eyeglasses/general/-------Plastic-------" class="white">Plastic</a></li><li><a href="/designer-eyeglasses/general/-------Titanium-------" class="white">Titanium</a></li></ul>     <div class="clear"></div>
+     <ul class="fl"><li class="itemCaption f17o">Gender</li><li><a href="/designer-eyeglasses/general/-Men----------------" class="white">Male</a></li><li><a href="/designer-eyeglasses/general/-Women----------------" class="white">Female</a></li><li class="itemCaption f17o">Shop By</li><li><a href="/designer-eyeglasses.htm" class="white">All Brands</a></li><li><a href="/designer-eyeglasses/general/--------------1-----" class="white">Best Sellers</a></li><li><a href="/designer-eyeglasses/general/---------------1----" class="white">Hot Deals</a></li><li><a href="/designer-eyeglasses/general/-Men-------------1----" class="white">Men's Best Sellers</a></li><li><a href="/designer-eyeglasses/general/-Women-------------1----" class="white">Women's Best Sellers</a></li><li><a href="/designer-eyeglasses/general/---------2012--------" class="white">New Collections</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By Style</li><li><a href="/designer-eyeglasses/general/---Full+Rim-----------" class="white">Full Rim</a></li><li><a href="/designer-eyeglasses/general/---Semi+Rimless-----------" class="white">Semi Rimless</a></li><li><a href="/designer-eyeglasses/general/---Rimless-----------" class="white">Rimless</a></li><li><a href="/designer-eyeglasses/general/--Rectangle------------" class="white">Rectangle</a></li><li><a href="/designer-eyeglasses/general/--Oval------------" class="white">Oval</a></li><li><a href="/designer-eyeglasses/general/--------------" class="white">View All Styles</a></li><li class="itemCaption f17o">Material</li><li><a href="/designer-eyeglasses/general/-------Metal-------" class="white">Metal</a></li><li><a href="/designer-eyeglasses/general/-------Plastic-------" class="white">Plastic</a></li><li><a href="/designer-eyeglasses/general/-------Titanium-------" class="white">Titanium</a></li></ul>     <div class="clear"></div>
     </ul>
     	
     <ul class="fr">
     <div class="top">
-   	 <ul><li><a href="/designer-eyeglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-eyeglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-eyeglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-eyeglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-eyeglasses/CK/" class="white">CK</a></li><li><a href="/designer-eyeglasses/Coach/" class="white">Coach</a></li><li><a href="/designer-eyeglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-eyeglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-eyeglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-eyeglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li></ul><ul><li><a href="/designer-eyeglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-eyeglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-eyeglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-eyeglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-eyeglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-eyeglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-eyeglasses/Guess/" class="white">Guess</a></li><li><a href="/designer-eyeglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-eyeglasses/Nike/" class="white">Nike</a></li></ul><ul><li><a href="/designer-eyeglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-eyeglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-eyeglasses/Police/" class="white">Police</a></li><li><a href="/designer-eyeglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-eyeglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-eyeglasses/Prada/" class="white">Prada</a></li><li><a href="/designer-eyeglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-eyeglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-eyeglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-eyeglasses/Rodenstock/" class="white">Rodenstock</a></li></ul><ul class="lastItem"><li><a href="/designer-eyeglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-eyeglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-eyeglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-eyeglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-eyeglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-eyeglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-eyeglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-eyeglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-eyeglasses/YSL/" class="white">YSL</a></li><li><a href="/designer-eyeglasses.htm" class="blue">See all brands</a></li></ul></div><div class="selectLetterNum" style="display:none;"><li class="itemCaption f17o">All "#" Brands (1)</li><ul><li><a href="/designer-eyeglasses/55DSL/" class="white">55DSL</a></li></ul></div><div class="selectLetterA" style="display:none;"><li class="itemCaption f17o">All "A" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-eyeglasses/Alexander-McQueen/" class="white">Alexander McQueen</a></li><li><a href="/designer-eyeglasses/Alviero-Martini/" class="white">Alviero Martini</a></li></ul></div><div class="selectLetterB" style="display:none;"><li class="itemCaption f17o">All "B" Brands (7)</li><ul><li><a href="/designer-eyeglasses/Balenciaga/" class="white">Balenciaga</a></li><li><a href="/designer-eyeglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-eyeglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-eyeglasses/Brooks-Brothers/" class="white">Brooks Brothers</a></li><li><a href="/designer-eyeglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-eyeglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-eyeglasses/Byblos/" class="white">Byblos</a></li></ul></div><div class="selectLetterC" style="display:none;"><li class="itemCaption f17o">All "C" Brands (7)</li><ul><li><a href="/designer-eyeglasses/CK/" class="white">CK</a></li><li><a href="/designer-eyeglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-eyeglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-eyeglasses/Cazal/" class="white">Cazal</a></li><li><a href="/designer-eyeglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-eyeglasses/Chopard/" class="white">Chopard</a></li><li><a href="/designer-eyeglasses/Coach/" class="white">Coach</a></li></ul></div><div class="selectLetterD" style="display:none;"><li class="itemCaption f17o">All "D" Brands (5)</li><ul><li><a href="/designer-eyeglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-eyeglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-eyeglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-eyeglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-eyeglasses/Dunhill/" class="white">Dunhill</a></li></ul></div><div class="selectLetterE" style="display:none;"><li class="itemCaption f17o">All "E" Brands (6)</li><ul><li><a href="/designer-eyeglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-eyeglasses/Emilio-Pucci/" class="white">Emilio Pucci</a></li><li><a href="/designer-eyeglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-eyeglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-eyeglasses/Escada/" class="white">Escada</a></li><li><a href="/designer-eyeglasses/Etro/" class="white">Etro</a></li></ul></div><div class="selectLetterF" style="display:none;"><li class="itemCaption f17o">All "F" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-eyeglasses/Ferrari/" class="white">Ferrari</a></li><li><a href="/designer-eyeglasses/Furla/" class="white">Furla</a></li></ul></div><div class="selectLetterG" style="display:none;"><li class="itemCaption f17o">All "G" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-eyeglasses/Givenchy/" class="white">Givenchy</a></li><li><a href="/designer-eyeglasses/Glamour/" class="white">Glamour</a></li><li><a href="/designer-eyeglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-eyeglasses/Guess/" class="white">Guess</a></li></ul></div><div class="selectLetterH" style="display:none;"><li class="itemCaption f17o">All "H" Brands (2)</li><ul><li><a href="/designer-eyeglasses/Hogan/" class="white">Hogan</a></li><li><a href="/designer-eyeglasses/Hugo-By-Hugo-Boss/" class="white">Hugo By Hugo Boss</a></li></ul></div><div class="selectLetterJ" style="display:none;"><li class="itemCaption f17o">All "J" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Jimmy-Choo/" class="white">Jimmy Choo</a></li><li><a href="/designer-eyeglasses/John-Varvatos/" class="white">John Varvatos</a></li><li><a href="/designer-eyeglasses/Judith-Leiber/" class="white">Judith Leiber</a></li><li><a href="/designer-eyeglasses/Juicy-Couture/" class="white">Juicy Couture</a></li><li><a href="/designer-eyeglasses/Just-Cavalli/" class="white">Just Cavalli</a></li></ul></div><div class="selectLetterK" style="display:none;"><li class="itemCaption f17o">All "K" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Killer-Loop/" class="white">Killer Loop</a></li></ul></div><div class="selectLetterL" style="display:none;"><li class="itemCaption f17o">All "L" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-eyeglasses/Lafont/" class="white">Lafont</a></li><li><a href="/designer-eyeglasses/Lozza/" class="white">Lozza</a></li></ul></div><div class="selectLetterM" style="display:none;"><li class="itemCaption f17o">All "M" Brands (10)</li><ul><li><a href="/designer-eyeglasses/Marc-By-Marc-Jacobs/" class="white">Marc By Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Max-&amp;-Co./" class="white">Max &amp; Co.</a></li><li><a href="/designer-eyeglasses/Max-Mara/" class="white">Max Mara</a></li><li><a href="/designer-eyeglasses/Michael-Kors/" class="white">Michael Kors</a></li><li><a href="/designer-eyeglasses/Miss-Sixty/" class="white">Miss Sixty</a></li><li><a href="/designer-eyeglasses/Missoni/" class="white">Missoni</a></li><li><a href="/designer-eyeglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-eyeglasses/Mont-Blanc/" class="white">Mont Blanc</a></li></ul><ul><li><a href="/designer-eyeglasses/Mykita/" class="white">Mykita</a></li></ul></div><div class="selectLetterN" style="display:none;"><li class="itemCaption f17o">All "N" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Nike/" class="white">Nike</a></li></ul></div><div class="selectLetterO" style="display:none;"><li class="itemCaption f17o">All "O" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Oxydo/" class="white">Oxydo</a></li></ul></div><div class="selectLetterP" style="display:none;"><li class="itemCaption f17o">All "P" Brands (9)</li><ul><li><a href="/designer-eyeglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-eyeglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-eyeglasses/Pierre-Cardin/" class="white">Pierre Cardin</a></li><li><a href="/designer-eyeglasses/Pirelli/" class="white">Pirelli</a></li><li><a href="/designer-eyeglasses/Police/" class="white">Police</a></li><li><a href="/designer-eyeglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-eyeglasses/Polo-Ralph-Lauren/" class="white">Polo Ralph Lauren</a></li><li><a href="/designer-eyeglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-eyeglasses/Prada/" class="white">Prada</a></li></ul></div><div class="selectLetterR" style="display:none;"><li class="itemCaption f17o">All "R" Brands (6)</li><ul><li><a href="/designer-eyeglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-eyeglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-eyeglasses/Ray-Ban-Youth/" class="white">Ray Ban Youth</a></li><li><a href="/designer-eyeglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-eyeglasses/Rodenstock/" class="white">Rodenstock</a></li><li><a href="/designer-eyeglasses/Rudy-Project/" class="white">Rudy Project</a></li></ul></div><div class="selectLetterS" style="display:none;"><li class="itemCaption f17o">All "S" Brands (8)</li><ul><li><a href="/designer-eyeglasses/Safilo-Junior/" class="white">Safilo Junior</a></li><li><a href="/designer-eyeglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-eyeglasses/Seventh-Street/" class="white">Seventh Street</a></li><li><a href="/designer-eyeglasses/Silhouette/" class="white">Silhouette</a></li><li><a href="/designer-eyeglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-eyeglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-eyeglasses/Sting/" class="white">Sting</a></li><li><a href="/designer-eyeglasses/Swarovski/" class="white">Swarovski</a></li></ul></div><div class="selectLetterT" style="display:none;"><li class="itemCaption f17o">All "T" Brands (4)</li><ul><li><a href="/designer-eyeglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-eyeglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-eyeglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-eyeglasses/Tory-Burch/" class="white">Tory Burch</a></li></ul></div><div class="selectLetterV" style="display:none;"><li class="itemCaption f17o">All "V" Brands (4)</li><ul><li><a href="/designer-eyeglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-eyeglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-eyeglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-eyeglasses/Vogue/" class="white">Vogue</a></li></ul></div><div class="selectLetterW" style="display:none;"><li class="itemCaption f17o">All "W" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Web/" class="white">Web</a></li></ul></div><div class="selectLetterY" style="display:none;"><li class="itemCaption f17o">All "Y" Brands (1)</li><ul><li><a href="/designer-eyeglasses/YSL/" class="white">YSL</a></li></ul></div>    </ul>
+   	 <ul><li><a href="/designer-eyeglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-eyeglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-eyeglasses/Bvlgari/" class="white">Bvlgari</a></li><li><a href="/designer-eyeglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-eyeglasses/CK/" class="white">CK</a></li><li><a href="/designer-eyeglasses/Coach/" class="white">Coach</a></li><li><a href="/designer-eyeglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-eyeglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-eyeglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-eyeglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li></ul><ul><li><a href="/designer-eyeglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-eyeglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-eyeglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-eyeglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-eyeglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-eyeglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-eyeglasses/Guess/" class="white">Guess</a></li><li><a href="/designer-eyeglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Miu-Miu/" class="white">Miu Miu</a></li><li><a href="/designer-eyeglasses/Nike/" class="white">Nike</a></li></ul><ul><li><a href="/designer-eyeglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-eyeglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-eyeglasses/Police/" class="white">Police</a></li><li><a href="/designer-eyeglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-eyeglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-eyeglasses/Prada/" class="white">Prada</a></li><li><a href="/designer-eyeglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-eyeglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-eyeglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-eyeglasses/Rodenstock/" class="white">Rodenstock</a></li></ul><ul class="lastItem"><li><a href="/designer-eyeglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-eyeglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-eyeglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-eyeglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-eyeglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-eyeglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-eyeglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-eyeglasses/Vogue/" class="white">Vogue</a></li><li><a href="/designer-eyeglasses/YSL/" class="white">YSL</a></li><li><a href="/designer-eyeglasses.htm" class="blue">See all brands</a></li></ul></div><div class="selectLetterNum" style="display:none;"><li class="itemCaption f17o">All "#" Brands (1)</li><ul><li><a href="/designer-eyeglasses/55DSL/" class="white">55DSL</a></li></ul></div><div class="selectLetterA" style="display:none;"><li class="itemCaption f17o">All "A" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-eyeglasses/Alexander-McQueen/" class="white">Alexander McQueen</a></li><li><a href="/designer-eyeglasses/Alviero-Martini/" class="white">Alviero Martini</a></li></ul></div><div class="selectLetterB" style="display:none;"><li class="itemCaption f17o">All "B" Brands (10)</li><ul><li><a href="/designer-eyeglasses/Balenciaga/" class="white">Balenciaga</a></li><li><a href="/designer-eyeglasses/Bluebay/" class="white">Bluebay</a></li><li><a href="/designer-eyeglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-eyeglasses/Boss-Orange/" class="white">Boss Orange</a></li><li><a href="/designer-eyeglasses/Boss-by-Hugo-Boss/" class="white">Boss by Hugo Boss</a></li><li><a href="/designer-eyeglasses/Bottega-Veneta/" class="white">Bottega Veneta</a></li><li><a href="/designer-eyeglasses/Brooks-Brothers/" class="white">Brooks Brothers</a></li><li><a href="/designer-eyeglasses/Burberry/" class="white">Burberry</a></li><li><a href="/designer-eyeglasses/Bvlgari/" class="white">Bvlgari</a></li></ul><ul><li><a href="/designer-eyeglasses/Byblos/" class="white">Byblos</a></li></ul></div><div class="selectLetterC" style="display:none;"><li class="itemCaption f17o">All "C" Brands (7)</li><ul><li><a href="/designer-eyeglasses/CK/" class="white">CK</a></li><li><a href="/designer-eyeglasses/Calvin-Klein/" class="white">Calvin Klein</a></li><li><a href="/designer-eyeglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-eyeglasses/Cazal/" class="white">Cazal</a></li><li><a href="/designer-eyeglasses/Chloe/" class="white">Chloe</a></li><li><a href="/designer-eyeglasses/Chopard/" class="white">Chopard</a></li><li><a href="/designer-eyeglasses/Coach/" class="white">Coach</a></li></ul></div><div class="selectLetterD" style="display:none;"><li class="itemCaption f17o">All "D" Brands (5)</li><ul><li><a href="/designer-eyeglasses/D&amp;G/" class="white">D&amp;G</a></li><li><a href="/designer-eyeglasses/DKNY/" class="white">DKNY</a></li><li><a href="/designer-eyeglasses/Diesel/" class="white">Diesel</a></li><li><a href="/designer-eyeglasses/Dolce-&amp;-Gabbana/" class="white">Dolce &amp; Gabbana</a></li><li><a href="/designer-eyeglasses/Dunhill/" class="white">Dunhill</a></li></ul></div><div class="selectLetterE" style="display:none;"><li class="itemCaption f17o">All "E" Brands (8)</li><ul><li><a href="/designer-eyeglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-eyeglasses/Electric/" class="white">Electric</a></li><li><a href="/designer-eyeglasses/Emilio-Pucci/" class="white">Emilio Pucci</a></li><li><a href="/designer-eyeglasses/Emporio-Armani/" class="white">Emporio Armani</a></li><li><a href="/designer-eyeglasses/Ermenegildo-Zegna/" class="white">Ermenegildo Zegna</a></li><li><a href="/designer-eyeglasses/Escada/" class="white">Escada</a></li><li><a href="/designer-eyeglasses/Etro/" class="white">Etro</a></li><li><a href="/designer-eyeglasses/Exte/" class="white">Exte</a></li></ul></div><div class="selectLetterF" style="display:none;"><li class="itemCaption f17o">All "F" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Fendi/" class="white">Fendi</a></li><li><a href="/designer-eyeglasses/Ferrari/" class="white">Ferrari</a></li><li><a href="/designer-eyeglasses/Furla/" class="white">Furla</a></li></ul></div><div class="selectLetterG" style="display:none;"><li class="itemCaption f17o">All "G" Brands (6)</li><ul><li><a href="/designer-eyeglasses/Gianfranco-Ferre/" class="white">Gianfranco Ferre</a></li><li><a href="/designer-eyeglasses/Giorgio-Armani/" class="white">Giorgio Armani</a></li><li><a href="/designer-eyeglasses/Givenchy/" class="white">Givenchy</a></li><li><a href="/designer-eyeglasses/Glamour/" class="white">Glamour</a></li><li><a href="/designer-eyeglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-eyeglasses/Guess/" class="white">Guess</a></li></ul></div><div class="selectLetterH" style="display:none;"><li class="itemCaption f17o">All "H" Brands (2)</li><ul><li><a href="/designer-eyeglasses/Hogan/" class="white">Hogan</a></li><li><a href="/designer-eyeglasses/Hugo-By-Hugo-Boss/" class="white">Hugo By Hugo Boss</a></li></ul></div><div class="selectLetterI" style="display:none;"><li class="itemCaption f17o">All "I" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Ic!-Berlin/" class="white">Ic! Berlin</a></li><li><a href="/designer-eyeglasses/Iceberg/" class="white">Iceberg</a></li><li><a href="/designer-eyeglasses/Italia-Independent/" class="white">Italia Independent</a></li></ul></div><div class="selectLetterJ" style="display:none;"><li class="itemCaption f17o">All "J" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Jimmy-Choo/" class="white">Jimmy Choo</a></li><li><a href="/designer-eyeglasses/John-Varvatos/" class="white">John Varvatos</a></li><li><a href="/designer-eyeglasses/Judith-Leiber/" class="white">Judith Leiber</a></li><li><a href="/designer-eyeglasses/Juicy-Couture/" class="white">Juicy Couture</a></li><li><a href="/designer-eyeglasses/Just-Cavalli/" class="white">Just Cavalli</a></li></ul></div><div class="selectLetterK" style="display:none;"><li class="itemCaption f17o">All "K" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Killer-Loop/" class="white">Killer Loop</a></li></ul></div><div class="selectLetterL" style="display:none;"><li class="itemCaption f17o">All "L" Brands (3)</li><ul><li><a href="/designer-eyeglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-eyeglasses/Lafont/" class="white">Lafont</a></li><li><a href="/designer-eyeglasses/Lozza/" class="white">Lozza</a></li></ul></div><div class="selectLetterM" style="display:none;"><li class="itemCaption f17o">All "M" Brands (11)</li><ul><li><a href="/designer-eyeglasses/Marc-By-Marc-Jacobs/" class="white">Marc By Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Marc-Jacobs/" class="white">Marc Jacobs</a></li><li><a href="/designer-eyeglasses/Max-&amp;-Co./" class="white">Max &amp; Co.</a></li><li><a href="/designer-eyeglasses/Max-Mara/" class="white">Max Mara</a></li><li><a href="/designer-eyeglasses/Mercedes/" class="white">Mercedes</a></li><li><a href="/designer-eyeglasses/Michael-Kors/" class="white">Michael Kors</a></li><li><a href="/designer-eyeglasses/Miss-Sixty/" class="white">Miss Sixty</a></li><li><a href="/designer-eyeglasses/Missoni/" class="white">Missoni</a></li><li><a href="/designer-eyeglasses/Miu-Miu/" class="white">Miu Miu</a></li></ul><ul><li><a href="/designer-eyeglasses/Mont-Blanc/" class="white">Mont Blanc</a></li><li><a href="/designer-eyeglasses/Moschino/" class="white">Moschino</a></li></ul></div><div class="selectLetterN" style="display:none;"><li class="itemCaption f17o">All "N" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Nike/" class="white">Nike</a></li></ul></div><div class="selectLetterO" style="display:none;"><li class="itemCaption f17o">All "O" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Oxydo/" class="white">Oxydo</a></li></ul></div><div class="selectLetterP" style="display:none;"><li class="itemCaption f17o">All "P" Brands (11)</li><ul><li><a href="/designer-eyeglasses/Paul-Smith/" class="white">Paul Smith</a></li><li><a href="/designer-eyeglasses/Persol/" class="white">Persol</a></li><li><a href="/designer-eyeglasses/Pierre-Cardin/" class="white">Pierre Cardin</a></li><li><a href="/designer-eyeglasses/Pirelli/" class="white">Pirelli</a></li><li><a href="/designer-eyeglasses/Playboy/" class="white">Playboy</a></li><li><a href="/designer-eyeglasses/Polar/" class="white">Polar</a></li><li><a href="/designer-eyeglasses/Police/" class="white">Police</a></li><li><a href="/designer-eyeglasses/Polo/" class="white">Polo</a></li><li><a href="/designer-eyeglasses/Polo-Ralph-Lauren/" class="white">Polo Ralph Lauren</a></li></ul><ul><li><a href="/designer-eyeglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-eyeglasses/Prada/" class="white">Prada</a></li></ul></div><div class="selectLetterR" style="display:none;"><li class="itemCaption f17o">All "R" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Ralph-Lauren/" class="white">Ralph Lauren</a></li><li><a href="/designer-eyeglasses/Ray-Ban/" class="white">Ray Ban</a></li><li><a href="/designer-eyeglasses/Ray-Ban-Youth/" class="white">Ray Ban Youth</a></li><li><a href="/designer-eyeglasses/Roberto-Cavalli/" class="white">Roberto Cavalli</a></li><li><a href="/designer-eyeglasses/Rodenstock/" class="white">Rodenstock</a></li></ul></div><div class="selectLetterS" style="display:none;"><li class="itemCaption f17o">All "S" Brands (9)</li><ul><li><a href="/designer-eyeglasses/Safilo/" class="white">Safilo</a></li><li><a href="/designer-eyeglasses/Safilo-Junior/" class="white">Safilo Junior</a></li><li><a href="/designer-eyeglasses/Salvatore-Ferragamo/" class="white">Salvatore Ferragamo</a></li><li><a href="/designer-eyeglasses/Seventh-Street/" class="white">Seventh Street</a></li><li><a href="/designer-eyeglasses/Silhouette/" class="white">Silhouette</a></li><li><a href="/designer-eyeglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-eyeglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-eyeglasses/Sting/" class="white">Sting</a></li><li><a href="/designer-eyeglasses/Swarovski/" class="white">Swarovski</a></li></ul></div><div class="selectLetterT" style="display:none;"><li class="itemCaption f17o">All "T" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-eyeglasses/Tiffany-&amp;-Co./" class="white">Tiffany &amp; Co.</a></li><li><a href="/designer-eyeglasses/Tom-Ford/" class="white">Tom Ford</a></li><li><a href="/designer-eyeglasses/Tommy-Hilfiger/" class="white">Tommy Hilfiger</a></li><li><a href="/designer-eyeglasses/Tory-Burch/" class="white">Tory Burch</a></li></ul></div><div class="selectLetterV" style="display:none;"><li class="itemCaption f17o">All "V" Brands (5)</li><ul><li><a href="/designer-eyeglasses/Valentino/" class="white">Valentino</a></li><li><a href="/designer-eyeglasses/Versace/" class="white">Versace</a></li><li><a href="/designer-eyeglasses/Versus/" class="white">Versus</a></li><li><a href="/designer-eyeglasses/Vivienne-Westwood/" class="white">Vivienne Westwood</a></li><li><a href="/designer-eyeglasses/Vogue/" class="white">Vogue</a></li></ul></div><div class="selectLetterW" style="display:none;"><li class="itemCaption f17o">All "W" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Web/" class="white">Web</a></li></ul></div><div class="selectLetterY" style="display:none;"><li class="itemCaption f17o">All "Y" Brands (1)</li><ul><li><a href="/designer-eyeglasses/YSL/" class="white">YSL</a></li></ul></div><div class="selectLetterZ" style="display:none;"><li class="itemCaption f17o">All "Z" Brands (1)</li><ul><li><a href="/designer-eyeglasses/Zero-Rh/" class="white">Zero Rh</a></li></ul></div>    </ul>
     
     <div class="clear"></div>
    </div>
@@ -215,13 +279,13 @@
    
    <ul class="fixItem">   
      
-   	 <ul class="fl"><li class="itemCaption  f17o">Sports Function</li><li><a href="/sports-sunglasses/Baseball" class="white">Baseball</a></li><li><a href="/sports-sunglasses/Beach+Volleyball" class="white">Beach Volleyball</a></li><li><a href="/sports-sunglasses/Climbing" class="white">Climbing</a></li><li><a href="/sports-sunglasses/Cricket" class="white">Cricket</a></li><li><a href="/sports-sunglasses/Cycling" class="white">Cycling</a></li><li><a href="/sports-sunglasses/Driving" class="white">Driving</a></li><li><a href="/sports-sunglasses/Fishing" class="white">Fishing</a></li><li><a href="/sports-sunglasses/Golf" class="white">Golf</a></li><li><a href="/sports-sunglasses/Lifestyle" class="white">Lifestyle</a></li></ul><ul class="fl" <li=""><a href="/sports-sunglasses/Motorcycle" class="white">Motorcycle</a><li><a href="/sports-sunglasses/MX+Goggle" class="white">MX Goggle</a></li><li><a href="/sports-sunglasses/Outdoor" class="white">Outdoor</a></li><li><a href="/sports-sunglasses/Running" class="white">Running</a></li><li><a href="/sports-sunglasses/Sailing" class="white">Sailing</a></li><li><a href="/sports-sunglasses/Ski+Goggles" class="white">Ski Goggles</a></li><li><a href="/sports-sunglasses/Surfing" class="white">Surfing</a></li><li><a href="/sports-sunglasses/Tactical" class="white">Tactical</a></li><li><a href="/sports-sunglasses/Tennis" class="white">Tennis</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By</li><li><a href="/designer-sportsglasses/general/----------1----" class="white">Top 100 Bestsellers</a></li><li><a href="/designer-sportsglasses/general/---------2011-----" class="white">New Collections</a></li><li><a href="/sports-sunglasses.htm" class="white">All Brands</a></li><li class="itemCaption f17o">Specialty</li><li><a href="/sports-sunglasses/Junior+Kids" class="white">Children's Sunglasses</a></li><li><a href="/sports-sunglasses/Women" class="white">Women's Sunglasses</a></li>     </ul>
+   	 <ul class="fl"><li class="itemCaption  f17o">Sports Function</li><li><a href="/sports-sunglasses/Baseball" class="white">Baseball</a></li><li><a href="/sports-sunglasses/Beach+Volleyball" class="white">Beach Volleyball</a></li><li><a href="/sports-sunglasses/Climbing" class="white">Climbing</a></li><li><a href="/sports-sunglasses/Cricket" class="white">Cricket</a></li><li><a href="/sports-sunglasses/Cycling" class="white">Cycling</a></li><li><a href="/sports-sunglasses/Driving" class="white">Driving</a></li><li><a href="/sports-sunglasses/Fishing" class="white">Fishing</a></li><li><a href="/sports-sunglasses/Golf" class="white">Golf</a></li><li><a href="/sports-sunglasses/Lifestyle" class="white">Lifestyle</a></li></ul><ul class="fl" <li=""><a href="/sports-sunglasses/Motorcycle" class="white">Motorcycle</a><li><a href="/sports-sunglasses/MX+Goggle" class="white">MX Goggle</a></li><li><a href="/sports-sunglasses/Outdoor" class="white">Outdoor</a></li><li><a href="/sports-sunglasses/Running" class="white">Running</a></li><li><a href="/sports-sunglasses/Sailing" class="white">Sailing</a></li><li><a href="/sports-sunglasses/Ski+Goggles" class="white">Ski Goggles</a></li><li><a href="/sports-sunglasses/Surfing" class="white">Surfing</a></li><li><a href="/sports-sunglasses/Tactical" class="white">Tactical</a></li><li><a href="/sports-sunglasses/Tennis" class="white">Tennis</a></li></ul><ul class="fl"><li class="itemCaption f17o">Shop By</li><li><a href="/designer-sportsglasses/general/--------------1----" class="white">Top 100 Bestsellers</a></li><li><a href="/designer-sportsglasses/general/---------2012-----" class="white">New Collections</a></li><li><a href="/sports-sunglasses.htm" class="white">All Brands</a></li><li class="itemCaption f17o">Specialty</li><li><a href="/sports-sunglasses/Junior+Kids" class="white">Children's Sunglasses</a></li><li><a href="/sports-sunglasses/Women" class="white">Women's Sunglasses</a></li>     </ul>
      <div class="clear"></div>
     </ul>
     
     <ul class="fr">
     <div class="top">
-     <ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Bolle-Kids/" class="white">Bolle Kids</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Gucci/" class="white">Gucci</a></li><li><a href="/designer-sunglasses/Killer-Loop/" class="white">Killer Loop</a></li><li><a href="/designer-sunglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li></ul><ul class="lastItem"><li><a href="/designer-sunglasses/Ray-Ban-Junior/" class="white">Ray Ban Junior</a></li><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Tag-Heuer/" class="white">Tag Heuer</a></li><li><a href="/designer-sunglasses/Vuarnet/" class="white">Vuarnet</a></li></ul></div>    </ul>
+     <ul><li><a href="/designer-sunglasses/Adidas/" class="white">Adidas</a></li><li><a href="/designer-sunglasses/Arnette/" class="white">Arnette</a></li><li><a href="/designer-sunglasses/Bolle/" class="white">Bolle</a></li><li><a href="/designer-sunglasses/Bolle-Kids/" class="white">Bolle Kids</a></li><li><a href="/designer-sunglasses/Carrera/" class="white">Carrera</a></li><li><a href="/designer-sunglasses/Cebe/" class="white">Cebe</a></li><li><a href="/designer-sunglasses/Ed-Hardy/" class="white">Ed Hardy</a></li><li><a href="/designer-sunglasses/Electric/" class="white">Electric</a></li><li><a href="/designer-sunglasses/Ferrari/" class="white">Ferrari</a></li><li><a href="/designer-sunglasses/Killer-Loop/" class="white">Killer Loop</a></li></ul><ul><li><a href="/designer-sunglasses/Lacoste/" class="white">Lacoste</a></li><li><a href="/designer-sunglasses/Maui-Jim/" class="white">Maui Jim</a></li><li><a href="/designer-sunglasses/Nike/" class="white">Nike</a></li><li><a href="/designer-sunglasses/Porsche-Design/" class="white">Porsche Design</a></li><li><a href="/designer-sunglasses/Rudy-Project/" class="white">Rudy Project</a></li><li><a href="/designer-sunglasses/Salice/" class="white">Salice</a></li><li><a href="/designer-sunglasses/Serengeti/" class="white">Serengeti</a></li><li><a href="/designer-sunglasses/Smith/" class="white">Smith</a></li><li><a href="/designer-sunglasses/Spy/" class="white">Spy</a></li><li><a href="/designer-sunglasses/Tag-Heuer/" class="white">Tag Heuer</a></li></ul><ul class="lastItem"><li><a href="/designer-sunglasses/UVEX/" class="white">UVEX</a></li><li><a href="/designer-sunglasses/Vuarnet/" class="white">Vuarnet</a></li><li><a href="/designer-sunglasses/Zero-Rh/" class="white">Zero Rh</a></li></ul></div>    </ul>
     
     <div class="clear"></div>
    </div>
@@ -244,7 +308,7 @@
     
     <ul class="fr">
     <div class="top">
-   	 <ul><li style="color:#F60;">Johnson &amp; Johnson</li><li><a href="/contact-lenses/Acuvue/b-235.html" class="white">Acuvue</a></li><li style="color:#F60;">Bausch &amp; Lomb</li><li><a href="/contact-lenses/Bausch+%26+Lomb/b-236.html" class="white">Bausch &amp; Lomb</a></li><li><a href="/contact-lenses/Optima/b-315.html" class="white">Optima</a></li><li><a href="/contact-lenses/PureVision/b-312.html" class="white">PureVision</a></li><li><a href="/contact-lenses/Soflens/b-239.html" class="white">Soflens</a></li><li style="color:#F60;">Ciba Vision</li><li><a href="/contact-lenses/Air+Optix/b-249.html" class="white">Air Optix</a></li><li><a href="/contact-lenses/Cibasoft/b-254.html" class="white">Cibasoft</a></li></ul><ul><li><a href="/contact-lenses/Focus/b-237.html" class="white">Focus</a></li><li><a href="/contact-lenses/Freshlook/b-238.html" class="white">Freshlook</a></li><li><a href="/contact-lenses/O2+Optix/b-255.html" class="white">O2 Optix</a></li><li><a href="/contact-lenses/Precision/b-250.html" class="white">Precision</a></li><li style="color:#F60;">Coopervision</li><li><a href="/contact-lenses/Avaira/b-256.html" class="white">Avaira</a></li><li><a href="/contact-lenses/Biofinity/b-257.html" class="white">Biofinity</a></li><li><a href="/contact-lenses/Biomedics/b-258.html" class="white">Biomedics</a></li><li><a href="/contact-lenses/ClearSight/b-259.html" class="white">ClearSight</a></li><li><a href="/contact-lenses/Coopervision/b-240.html" class="white">Coopervision</a></li></ul><ul><li><a href="/contact-lenses/Expressions/b-313.html" class="white">Expressions</a></li><li><a href="/contact-lenses/Frequency/b-262.html" class="white">Frequency</a></li><li><a href="/contact-lenses/Hydrogenics/b-260.html" class="white">Hydrogenics</a></li><li><a href="/contact-lenses/Preference/b-263.html" class="white">Preference</a></li><li><a href="/contact-lenses/Proclear/b-264.html" class="white">Proclear</a></li><li><a href="/contact-lenses/Vertex/b-261.html" class="white">Vertex</a></li></ul></div><div class="selectLetterAutoDaily" style="display:none;"><li class="itemCaption f17o">All"Daily" Brands (31)</li><ul class="longText "><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue/1.html" title="1 Day Acuvue" class="white">1 Day Acuvue</a></li><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue+90+Pack/51.html" title="1 Day Acuvue 90 Pack" class="white">1 Day Acuvue 90 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue+Define/141.html" title="1 Day Acuvue Define" class="white">1 Day Acuvue Define</a></li><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue+Moist/2.html" title="1 Day Acuvue Moist" class="white">1 Day Acuvue Moist</a></li><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue+Moist+90+Pack/53.html" title="1 Day Acuvue Moist 90 Pack" class="white">1 Day Acuvue Moist 90 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/1+Day+Acuvue+Moist+for+Astigmatism/52.html" title="1 Day Acuvue Moist for Astigmatism" class="white">1 Day Acuvue Moist for ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Acuvue+1-Day+TruEye+30+Pack/177.html" title="Acuvue 1-Day TruEye 30 Pack" class="white">Acuvue 1-Day TruEye 30 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/Acuvue+1-Day+TruEye+90+Pack/178.html" title="Acuvue 1-Day TruEye 90 Pack" class="white">Acuvue 1-Day TruEye 90 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/B%26L+H3/24.html" title="B&amp;L H3" class="white">B&amp;L H3</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Daily-Contacts/B%26L+H4/25.html" title="B&amp;L H4" class="white">B&amp;L H4</a></li><li><a href="/contact-lenses/Daily-Contacts/Biomedics+One+Day+UV/48.html" title="Biomedics One Day UV" class="white">Biomedics One Day UV</a></li><li><a href="/contact-lenses/Daily-Contacts/ClearSight+1+Day+30pk/116.html" title="ClearSight 1 Day 30pk" class="white">ClearSight 1 Day 30pk</a></li><li><a href="/contact-lenses/Daily-Contacts/ClearSight+1+Day+Toric+30pk/117.html" title="ClearSight 1 Day Toric 30pk" class="white">ClearSight 1 Day Toric 30pk</a></li><li><a href="/contact-lenses/Daily-Contacts/Clearsight+One+Day+90+Pack/135.html" title="Clearsight One Day 90 Pack" class="white">Clearsight One Day 90 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+30+Pack/28.html" title="Focus Dailies 30 Pack" class="white">Focus Dailies 30 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+90+Pack/27.html" title="Focus Dailies 90 Pack" class="white">Focus Dailies 90 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Aqua+Comfort+Plus+30+Pack/67.html" title="Focus Dailies Aqua Comfort Plus 30 Pack" class="white">Focus Dailies Aqua Comfort ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Aqua+Comfort+Plus+90+Pack/68.html" title="Focus Dailies Aqua Comfort Plus 90 Pack" class="white">Focus Dailies Aqua Comfort ...</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Progressive+Aqua+Release/138.html" title="Focus Dailies Progressive Aqua Release" class="white">Focus Dailies Progressive ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Progressives/34.html" title="Focus Dailies Progressives" class="white">Focus Dailies Progressives</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Progressives+30+Pack/36.html" title="Focus Dailies Progressives 30 Pack" class="white">Focus Dailies Progressives ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Toric+30+Pack/35.html" title="Focus Dailies Toric 30 Pack" class="white">Focus Dailies Toric 30 Pack</a></li><li><a href="/contact-lenses/Daily-Contacts/Focus+Dailies+Toric+Aqua+Release/132.html" title="Focus Dailies Toric Aqua Release" class="white">Focus Dailies Toric Aqua ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Freshlook+One-Day/39.html" title="Freshlook One-Day" class="white">Freshlook One-Day</a></li><li><a href="/contact-lenses/Daily-Contacts/Proclear+1+Day+30/98.html" title="Proclear 1 Day 30" class="white">Proclear 1 Day 30</a></li><li><a href="/contact-lenses/Daily-Contacts/Proclear+1+Day+90/99.html" title="Proclear 1 Day 90" class="white">Proclear 1 Day 90</a></li><li><a href="/contact-lenses/Daily-Contacts/Quantum/59.html" title="Quantum" class="white">Quantum</a></li></ul><ul class="longText lastItem"><li><a href="/contact-lenses/Daily-Contacts/Quantum+2/60.html" title="Quantum 2" class="white">Quantum 2</a></li><li><a href="/contact-lenses/Daily-Contacts/Soflens+Daily+Disposable+30+Pack/16.html" title="Soflens Daily Disposable 30 Pack" class="white">Soflens Daily Disposable 30 ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Soflens+Daily+Disposable+90+Pack/15.html" title="Soflens Daily Disposable 90 Pack" class="white">Soflens Daily Disposable 90 ...</a></li><li><a href="/contact-lenses/Daily-Contacts/Soflens+One+Day+90+Pack/18.html" title="Soflens One Day 90 Pack" class="white">Soflens One Day 90 Pack</a></li></ul></div><div class="selectLetterAutoWeekly" style="display:none;"><li class="itemCaption f17o">All"Weekly" Brands (34)</li><ul class="longText "><li><a href="/contact-lenses/Weekly-Contacts/Acuvue+2+Colors+Opaques/8.html" title="Acuvue 2 Colors Opaques" class="white">Acuvue 2 Colors Opaques</a></li><li><a href="/contact-lenses/Weekly-Contacts/Acuvue+2+Enhancers/9.html" title="Acuvue 2 Enhancers" class="white">Acuvue 2 Enhancers</a></li><li><a href="/contact-lenses/Weekly-Contacts/Acuvue+Advance/4.html" title="Acuvue Advance" class="white">Acuvue Advance</a></li><li><a href="/contact-lenses/Weekly-Contacts/Acuvue+Advance+for+Astigmatism/6.html" title="Acuvue Advance for Astigmatism" class="white">Acuvue Advance for ...</a></li><li><a href="/contact-lenses/Weekly-Contacts/Avaira/111.html" title="Avaira" class="white">Avaira</a></li><li><a href="/contact-lenses/Weekly-Contacts/B%26L+2+Week%28Soflens59%29/46.html" title="B&amp;L 2 Week(Soflens59)" class="white">B&amp;L 2 Week(Soflens59)</a></li><li><a href="/contact-lenses/Weekly-Contacts/Biofinity+3+Pack/79.html" title="Biofinity 3 Pack" class="white">Biofinity 3 Pack</a></li><li><a href="/contact-lenses/Weekly-Contacts/Biomedics+38/80.html" title="Biomedics 38" class="white">Biomedics 38</a></li><li><a href="/contact-lenses/Weekly-Contacts/Biomedics+55/113.html" title="Biomedics 55" class="white">Biomedics 55</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Weekly-Contacts/Biomedics+55+Premier/114.html" title="Biomedics 55 Premier" class="white">Biomedics 55 Premier</a></li><li><a href="/contact-lenses/Weekly-Contacts/Focus+1-2+wk/33.html" title="Focus 1-2 wk" class="white">Focus 1-2 wk</a></li><li><a href="/contact-lenses/Weekly-Contacts/Focus+1-2+wk+Softcolors+%2F+NewVues/32.html" title="Focus 1-2 wk Softcolors / NewVues" class="white">Focus 1-2 wk Softcolors / ...</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Colorblend+2+Pack/72.html" title="Freshlook Colorblend 2 Pack" class="white">Freshlook Colorblend 2 Pack</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Colorblends/37.html" title="Freshlook Colorblends" class="white">Freshlook Colorblends</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Colorblends+Toric/40.html" title="Freshlook Colorblends Toric" class="white">Freshlook Colorblends Toric</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Colors+2+Pack/73.html" title="Freshlook Colors 2 Pack" class="white">Freshlook Colors 2 Pack</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Colors+Opaques/38.html" title="Freshlook Colors Opaques" class="white">Freshlook Colors Opaques</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Dimensions/41.html" title="Freshlook Dimensions" class="white">Freshlook Dimensions</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Dimensions+2+Pack/74.html" title="Freshlook Dimensions 2 Pack" class="white">Freshlook Dimensions 2 Pack</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Handling+Tint/108.html" title="Freshlook Handling Tint" class="white">Freshlook Handling Tint</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+LiteTint/42.html" title="Freshlook LiteTint" class="white">Freshlook LiteTint</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Radiance/43.html" title="Freshlook Radiance" class="white">Freshlook Radiance</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Radiance+2+Pack/75.html" title="Freshlook Radiance 2 Pack" class="white">Freshlook Radiance 2 Pack</a></li><li><a href="/contact-lenses/Weekly-Contacts/Freshlook+Toric/44.html" title="Freshlook Toric" class="white">Freshlook Toric</a></li><li><a href="/contact-lenses/Weekly-Contacts/Hydrogenics+60/119.html" title="Hydrogenics 60" class="white">Hydrogenics 60</a></li><li><a href="/contact-lenses/Weekly-Contacts/O2+Optix/110.html" title="O2 Optix" class="white">O2 Optix</a></li><li><a href="/contact-lenses/Weekly-Contacts/Precision+UV/76.html" title="Precision UV" class="white">Precision UV</a></li></ul><ul class="longText lastItem"><li><a href="/contact-lenses/Weekly-Contacts/Proclear+EP/128.html" title="Proclear EP" class="white">Proclear EP</a></li><li><a href="/contact-lenses/Weekly-Contacts/Soflens+38/14.html" title="Soflens 38" class="white">Soflens 38</a></li><li><a href="/contact-lenses/Weekly-Contacts/Soflens+59/12.html" title="Soflens 59" class="white">Soflens 59</a></li><li><a href="/contact-lenses/Weekly-Contacts/Soflens+Multifocal/20.html" title="Soflens Multifocal" class="white">Soflens Multifocal</a></li><li><a href="/contact-lenses/Weekly-Contacts/UltraFlex+Toric/103.html" title="UltraFlex Toric" class="white">UltraFlex Toric</a></li><li><a href="/contact-lenses/Weekly-Contacts/Vertex+Sphere+%28Encore+Sphere%29/120.html" title="Vertex Sphere (Encore Sphere)" class="white">Vertex Sphere (Encore ...</a></li><li><a href="/contact-lenses/Weekly-Contacts/Vertex+Toric+%28Encore+Toric%29/121.html" title="Vertex Toric (Encore Toric)" class="white">Vertex Toric (Encore Toric)</a></li></ul></div><div class="selectLetterAutoMonthly" style="display:none;"><li class="itemCaption f17o">All"Monthly" Brands (54)</li><ul class="longText "><li><a href="/contact-lenses/Monthly-Contacts/Actifresh+400+UV+3+Pack/78.html" title="Actifresh 400 UV 3 Pack" class="white">Actifresh 400 UV 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Actitoric+3+Pack/77.html" title="Actitoric 3 Pack" class="white">Actitoric 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Air+Optix+6+Pack/63.html" title="Air Optix 6 Pack" class="white">Air Optix 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Air+Optix+Aqua+6+Pack/64.html" title="Air Optix Aqua 6 Pack" class="white">Air Optix Aqua 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Air+Optix+for+Astigmatism/65.html" title="Air Optix for Astigmatism" class="white">Air Optix for Astigmatism</a></li><li><a href="/contact-lenses/Monthly-Contacts/Air+Optix+for+Astigmatism+3+Pack/136.html" title="Air Optix for Astigmatism 3 Pack" class="white">Air Optix for Astigmatism 3 ...</a></li><li><a href="/contact-lenses/Monthly-Contacts/Air+Optix+Night+%26+Day+6+Pack/62.html" title="Air Optix Night &amp; Day 6 Pack" class="white">Air Optix Night &amp; Day 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Biofinity/112.html" title="Biofinity" class="white">Biofinity</a></li><li><a href="/contact-lenses/Monthly-Contacts/Biofinity+Toric+6+Pack/183.html" title="Biofinity Toric 6 Pack" class="white">Biofinity Toric 6 Pack</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Monthly-Contacts/Biomedics+73+UV+3+Pack/82.html" title="Biomedics 73 UV 3 Pack" class="white">Biomedics 73 UV 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Biomedics+73+UV+Multifocal+3+Pack/83.html" title="Biomedics 73 UV Multifocal 3 Pack" class="white">Biomedics 73 UV Multifocal 3 ...</a></li><li><a href="/contact-lenses/Monthly-Contacts/Crazy+Lenses/86.html" title="Crazy Lenses" class="white">Crazy Lenses</a></li><li><a href="/contact-lenses/Monthly-Contacts/Expressions+Colors+1+Pack/193.html" title="Expressions Colors 1 Pack" class="white">Expressions Colors 1 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Expressions+Colors+3+Pack/87.html" title="Expressions Colors 3 Pack" class="white">Expressions Colors 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Expressions+Colors+Accents+3+Pack/88.html" title="Expressions Colors Accents 3 Pack" class="white">Expressions Colors Accents 3 ...</a></li><li><a href="/contact-lenses/Monthly-Contacts/Expressions+Opaque+6+Pack/184.html" title="Expressions Opaque 6 Pack" class="white">Expressions Opaque 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Focus+Dailies+Toric/29.html" title="Focus Dailies Toric" class="white">Focus Dailies Toric</a></li><li><a href="/contact-lenses/Monthly-Contacts/Focus+Monthly+Softcolors/31.html" title="Focus Monthly Softcolors" class="white">Focus Monthly Softcolors</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Monthly-Contacts/Focus+Monthly+Toric+6+Pack/69.html" title="Focus Monthly Toric 6 Pack" class="white">Focus Monthly Toric 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Focus+Monthly+Visitint/30.html" title="Focus Monthly Visitint" class="white">Focus Monthly Visitint</a></li><li><a href="/contact-lenses/Monthly-Contacts/Focus+Night+and+Day/26.html" title="Focus Night and Day" class="white">Focus Night and Day</a></li><li><a href="/contact-lenses/Monthly-Contacts/Focus+Night+and+Day+3+Pack/137.html" title="Focus Night and Day 3 Pack" class="white">Focus Night and Day 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+38/123.html" title="Frequency 38" class="white">Frequency 38</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55/49.html" title="Frequency 55" class="white">Frequency 55</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55+6+Pack/185.html" title="Frequency 55 6 Pack" class="white">Frequency 55 6 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55+Aspheric/89.html" title="Frequency 55 Aspheric" class="white">Frequency 55 Aspheric</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55+Multifocal+6+pack/186.html" title="Frequency 55 Multifocal 6 pack" class="white">Frequency 55 Multifocal 6 ...</a></li></ul><ul class="longText lastItem"><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55+Toric/124.html" title="Frequency 55 Toric" class="white">Frequency 55 Toric</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+55+Toric+XR/125.html" title="Frequency 55 Toric XR" class="white">Frequency 55 Toric XR</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+58+UV/93.html" title="Frequency 58 UV" class="white">Frequency 58 UV</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+Multifocal+55+3+Pack/92.html" title="Frequency Multifocal 55 3 Pack" class="white">Frequency Multifocal 55 3 ...</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+Xcel+Toric+3+Pack/90.html" title="Frequency Xcel Toric 3 Pack" class="white">Frequency Xcel Toric 3 Pack</a></li><li><a href="/contact-lenses/Monthly-Contacts/Frequency+Xcel+Toric+XR+3+Pack/91.html" title="Frequency Xcel Toric XR 3 Pack" class="white">Frequency Xcel Toric XR 3 ...</a></li><li><a href="/contact-lenses/Monthly-Contacts/Optima+38+SP/23.html" title="Optima 38 SP" class="white">Optima 38 SP</a></li><li><a href="/contact-lenses/Monthly-Contacts/Preference+DW%2FFW/126.html" title="Preference DW/FW" class="white">Preference DW/FW</a></li><li><a href="/contact-lenses/Monthly-Contacts/Preference+Standard+DW+%28blue+box%29/189.html" title="Preference Standard DW (blue box)" class="white">Preference Standard DW (blue ...</a></li></ul></div><div class="selectLetterAutoYearly" style="display:none;"><li class="itemCaption f17o">All"Yearly" Brands (11)</li><ul class="longText "><li><a href="/contact-lenses/Yearly-Contacts/Cibasoft+Standard+Visitint/109.html" title="Cibasoft Standard Visitint" class="white">Cibasoft Standard Visitint</a></li><li><a href="/contact-lenses/Yearly-Contacts/Cibasoft+Visitint/66.html" title="Cibasoft Visitint" class="white">Cibasoft Visitint</a></li><li><a href="/contact-lenses/Yearly-Contacts/Cooper+Clear+DW/118.html" title="Cooper Clear DW" class="white">Cooper Clear DW</a></li><li><a href="/contact-lenses/Yearly-Contacts/Hydrasoft+Sphere/94.html" title="Hydrasoft Sphere" class="white">Hydrasoft Sphere</a></li><li><a href="/contact-lenses/Yearly-Contacts/Hydrasoft+Toric/95.html" title="Hydrasoft Toric" class="white">Hydrasoft Toric</a></li><li><a href="/contact-lenses/Yearly-Contacts/Omniflex/96.html" title="Omniflex" class="white">Omniflex</a></li><li><a href="/contact-lenses/Yearly-Contacts/Optima+Toric/19.html" title="Optima Toric" class="white">Optima Toric</a></li><li><a href="/contact-lenses/Yearly-Contacts/Optima+Toric+MTO/56.html" title="Optima Toric MTO" class="white">Optima Toric MTO</a></li><li><a href="/contact-lenses/Yearly-Contacts/Zero+4/104.html" title="Zero 4" class="white">Zero 4</a></li></ul><ul class="longText "><li><a href="/contact-lenses/Yearly-Contacts/Zero+6/105.html" title="Zero 6" class="white">Zero 6</a></li><li><a href="/contact-lenses/Yearly-Contacts/Zero+6+Toric/106.html" title="Zero 6 Toric" class="white">Zero 6 Toric</a></li></ul></div>    </ul>
+   	 <ul><li style="color:#F60;">Bausch &amp; Lomb</li><li><a href="/contact-lenses/Soflens/b-239.html" class="white">Soflens</a></li></ul></div><div class="selectLetterAutoDaily" style="display:none;"><li class="itemCaption f17o">All"Daily" Brands (0)</li></div><div class="selectLetterAutoWeekly" style="display:none;"><li class="itemCaption f17o">All"Weekly" Brands (1)</li><ul class="longText "><li><a href="/contact-lenses/Weekly-Contacts/Soflens+38/14.html" title="Soflens 38" class="white">Soflens 38</a></li></ul></div><div class="selectLetterAutoMonthly" style="display:none;"><li class="itemCaption f17o">All"Monthly" Brands (0)</li></div><div class="selectLetterAutoYearly" style="display:none;"><li class="itemCaption f17o">All"Yearly" Brands (0)</li></div>    </ul>
     
     <div class="clear"></div>
    </div>
@@ -252,29 +316,13 @@
   </div>
 <!-- 4#contactLenses end -->
 
-
-
-
-<!-- 5#Prescription Lenses Start -->
-  <div class="navSelectBox" id="menu5" style="display:none">	
-	 <ul class="navDealBox_pl">
-       <li><a href="http://www.visiondirect.com.au/premium-lens" class="gray">Premium Lens</a></li>
-       <li>
-       	<a href="http://www.visiondirect.com.au/frame&amp;lens_deal.htm" class="gray">
-       		Frame &amp; Lens Deal       	</a>       		
-       </li>
-      </ul>		 
-  </div>
-<!-- 5#Prescription Lenses End -->
-
-
 <!-- 6#Hot Deals Start -->
  	<div class="navSelectBox" style="display:none" id="menu6">
-      <ul class="navDealBox_hd">
-       <li><a href="/designer-sunglasses/general/----------1----" class="gray">100 Top Selling Sunglasses</a></li>
-       <li><a href="/designer-eyeglasses/general/----------1----" class="gray">100 Top Selling Glasses</a></li>
-       <li><a href="/designer-sunglasses/general/-----------1---" class="gray">Top Sunglasses Deals </a></li>
-       <li class="lastNavDealItem"><a href="/designer-eyeglasses/general/-----------1--1-" class="gray">Top Glasses Deals </a></li>
+ 	 	  <ul class="navDealBox_hd navDealBox_hd_less">
+ 	       <li><a href="/designer-sunglasses/general/--------------1----" class="gray">100 Top Selling Sunglasses</a></li>
+       <li><a href="/designer-eyeglasses/general/--------------1----" class="gray">100 Top Selling Glasses</a></li>
+       <li><a href="/designer-sunglasses/general/---------------1-1-" class="gray">Fast Shipping Sunglasses</a></li>
+       <li class="lastNavDealItem"><a href="/designer-eyeglasses/general/---------------1-1-" class="gray">Fast Shipping Glasses</a></li>
       </ul>
      </div>
  <!-- 6#Hot Deals End -->
@@ -283,455 +331,114 @@
   <div class="line"></div>
  </div>
 </div>
-<div class="main">
-  <div class="mainLeft"><div class="left_menu">
-<div class="lm_1">
-     <div class="leftmenu_title">Glasses Categories</div>
-     <div class="leftmenu_list">
-<ul>
-<li><a href="http://www.visiondirect.com.au/designer-sunglasses.htm">Designer Sunglasses</a></li>
-<li><a href="http://www.visiondirect.com.au/designer-eyeglasses.htm">Designer Glasses</a></li>
-<li><a href="http://www.visiondirect.com.au/contact-lenses.htm">Contact Lenses</a></li>
-<li><a href="http://www.visiondirect.com.au/frame&amp;lens_deal.htm">Frame &amp; Lens Deals</a></li>
-</ul> </div>
-</div>
-		<div class="leftmenu_title"><a href="http://www.visiondirect.com.au/designer-sunglasses.htm">Designer Sunglasses</a></div>
-		    <div class="leftmenu_list">
-			<ul>
-		    <li><h3>
-		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Adidas/"> Adidas Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Arnette/"> Arnette Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Boss-by-Hugo-Boss/"> Boss by Hugo Boss Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Burberry/"> Burberry Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Bvlgari/"> Bvlgari Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Calvin-Klein/"> Calvin Klein Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Carrera/"> Carrera Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/D&amp;G/"> D&amp;G Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Diesel/"> Diesel Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/DKNY/"> DKNY Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Dolce-&amp;-Gabbana/"> Dolce &amp; Gabbana Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Ed-Hardy/"> Ed Hardy Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Emporio-Armani/"> Emporio Armani Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Fendi/"> Fendi Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Giorgio-Armani/"> Giorgio Armani Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Gucci/"> Gucci Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Marc-Jacobs/"> Marc Jacobs Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Maui-Jim/"> Maui Jim Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Miu-Miu/"> Miu Miu Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Persol/"> Persol Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Police/"> Police Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Prada/"> Prada Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Ralph-Lauren/"> Ralph Lauren Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Ray-Ban/"> Ray Ban Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Revo/"> Revo Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Roberto-Cavalli/"> Roberto Cavalli Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Smith/"> Smith Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Tom-Ford/"> Tom Ford Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/Versace/"> Versace Sunglasses</a>
-          		                        <a href="http://www.visiondirect.com.au/designer-sunglasses/YSL/"> YSL Sunglasses</a>
-          		    		    </h3></li>
-		<li><b><a href="http://www.visiondirect.com.au/designer-sunglasses.htm" class="leftnav_g">more+</a></b></li>
-		</ul>
-		</div>    
-		    
-		
-		<div class="leftmenu_title"><a href="http://www.visiondirect.com.au/designer-eyeglasses.htm">Designer Glasses</a></div>
-			  <div class="leftmenu_list">
-			  <ul>
-		      <li><h3>
-		                                <a href="http://www.visiondirect.com.au/designer-eyeglasses/Burberry/"> Burberry Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Bvlgari/"> Bvlgari Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/CK/"> CK Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/D&amp;G/"> D&amp;G Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Emporio-Armani/"> Emporio Armani Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Guess/"> Guess Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Paul-Smith/"> Paul Smith Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Persol/"> Persol Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Prada/"> Prada Glasses</a>
-              			                            <a href="http://www.visiondirect.com.au/designer-eyeglasses/Roberto-Cavalli/"> Roberto Cavalli Glasses</a>
-              			    		      </h3></li>
-				<li><b><a href="http://www.visiondirect.com.au/designer-eyeglasses.htm" class="leftnav_g">more+</a></b></li>
-				</ul>
-		      </div>
-		
-				
-				  <div class="leftmenu_title"><a href="http://www.visiondirect.com.au/contact-lenses.htm">Contact Lenses</a></div>
-			  <div class="leftmenu_list">
-			  <ul>
-		      <li><h3>
-		      			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/popular-contact-lenses.html">
-				Most Popular Contacts</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/daily-disposable.html">
-				Daily Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/weekly-disposable.html">
-				Weekly Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/semi-monthly-disposable.html">
-				Semi-Monthly Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/monthly-disposable.html">
-				Monthly Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/yearly-disposable.html">
-				Yearly Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/2-3-month-disposable.html">
-				2-3 Month Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/6-months-disposable.html">
-				6 Months Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/1-2-week-disposable.html">
-				1-2 Week Disposable</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contactlens/brand?cl_class=toric">
-				Toric Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contactlens/brand?cl_class=coloured">
-				Coloured Contact Lenses</a>
-			    
-		    <img src="http://www.visiondirect.com.au/public/images/line_contactlens.gif" style="margin-top:5px;margin-bottom:5px;">
-
-						    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Acuvue/b-235.html">
-			    Acuvue Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Bausch-&amp;-Lomb/b-236.html">
-			    Bausch &amp; Lomb Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Coopervision/b-240.html">
-			    Coopervision Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Focus/b-237.html">
-			    Focus Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Freshlook/b-238.html">
-			    Freshlook Contact Lenses</a>
-			    			    <a target="_parent" href="http://www.visiondirect.com.au/contact-lenses/Soflens/b-239.html">
-			    Soflens Contact Lenses</a>
-			    			
-		       
-		      </h3></li>
-				<li><b><a href="http://www.visiondirect.com.au/contact-lenses.htm" class="leftnav_g">more+</a></b></li>		
-			 </ul>
-		      </div>
-		
-
-
-
-<div class="lm_b"></div>  
-
-</div><!--/left_menu-->
-
-<!--  
--->
-
-
-<!--patrick 0518_09-->
-<!--patrick 0518_09 end--> </div>
-  <div class="mainCenter">
-      <div class="titNav" style="margin-bottom: 5px;">
-<h1><a href="/">Home</a><span> / </span><a>Privacy Policy</a></h1>
-      </div>
-    <div class="section_01">
-      <div class="top02">
-        <div class="titBar_03">
-          <h1>Privacy Policy</h1>
-        </div>
-      </div>
-      <div class="center">
-        <div class="otherPage_content"><strong>Vision Direct</strong> is committed to compliance with Privacy regulations. Privacy regulations outline the best practice principles, which set the minimum standards for how private sector businesses should handle your personal information.          <p align="left">The <strong>Vision Direct</strong> Privacy Policy has been prepared for you as part of our commitment to maintaining excellent customer service, and provides you with important information on your privacy rights.</p>
-          <p align="left">All information recorded by Vision Direct will be kept completely confidential at all times, and will only be used in the following ways:</p>
-          <p>To process purchase transactions: we may exchange relevant information with nominated financial institutions in order to process purchase transactions on your behalf</p>
-          <p>To communicate with you in connection with purchase transactions: we will use your  personal information to contact you if there is any problem with any order for  goods that you make with <br>Vision Direct</p>
-          <p>Defaulted payment or monies owed: in the event that there is defaulted payment or monies owed by an individual, we may notify or exchange relevant personal information with credit agencies and/or our collection agency</p>
-          <p>If required by law: If <strong>Vision Direct</strong> is served with a legally enforceable court order, we are required to make personal information available to law enforcement or regulatory agencies</p>
-          <p>Marketing: We will not disclose your   personal details to any other organization for marketing purposes. We may use details from your Customer Record to better understand your needs and to advise you of new products, services or promotions that we believe will be of interest to you.</p>
-          <p align="left">When you call or email <strong>Vision Direct</strong> we may monitor your telephone conversation for staff training and service quality control procedures.</p>
-                      <p align="left">If you have any questions about the personal information we hold about you, and how that information is used, please contact us <a href="mailto:customerservice@visiondirect.com.au">customerservice@visiondirect.com.au</a>.</p>
-                  </div>
-      </div>
-      <div class="bottom"></div>
-    </div>
-    <br clear="all">
-  </div>
-  <div class="mainRight">
-<script language="javascript">
-function bookMark(tmUrl){
-	var w=window._content;
-	var title=encodeURIComponent(document.title);
-	var url=encodeURIComponent(location.href);
-	try{
-		var tmp=encodeURIComponent(w.getSelection().toString().replace(/^\s+|\s+$/g, ''));
-		if(tmp.length>10){
-			var desc=tmp;
-		}else{
-			var desc=title;
-		}
-	}catch(e){
-		var desc=title;
-	}
-	
-	var jumpLink=tmUrl.replace(/{title}/g,title);
-		jumpLink=jumpLink.replace(/{desc}/g,desc);
-		jumpLink=jumpLink.replace(/{url}/g,url);
-	//var jumpLink='http://beta.bookmarks.yahoo.com/toolbar/savebm?t='+title+'&u='+url+'&d='+desc+'&opener=bm&ei=UTF-8';
-	var f=window.open(jumpLink,'popup','width="450px",height="500px",status="0",location="0",resizable="1",scrollbars="1",left="100",top="50"',0);
-	f.focus();
-}
-
-</script>
-
+  <!-- Google Code Start -->
 <script type="text/javascript">
-    $(document).ready(function(){
-        $(".sideBottom a ul").hover(
-            function(){
-            $(this).addClass("sideBottom_hover") 
-            },
-            function(){
-            $(this).removeClass("sideBottom_hover") 
-            }
-        )
-    })
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1726875-1']);
+  _gaq.push(['_setDomainName', '.visiondirect.com.au']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>  
+<!-- Google Code for All Visitors to the website Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1058524196;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "rPoSCIzP4QEQpJjf-AM";
+var google_conversion_value = 0;
+/* ]]> */
 </script>
-
-
-<div class="rm_top_title">
-	<a href="http://www.visiondirect.com.au/sitemap">
-			108,578		&nbsp;
-	Glasses Online</a>!
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1058524196/?label=rPoSCIzP4QEQpJjf-AM&amp;guid=ON&amp;script=0"/>
 </div>
-
-<!--
-       <div class="ap_rmenu">
-           <div class="ap_rmenutop"></div>
-         <div class="ap_rmenumain">
-              Refill My Last<br /> Contact Lens Order<br />
-           <span>Receive 5% off on every refilled order!</span>
-           <form action="http://www.visiondirect.com.au/cart/future" method="post" name="futurepay_form" id="futurepay_form">
-		   <input type="text" onFocus="this.value=''" value="Enter email" class="input1" name="futurepay-email" id="futurepay-email" />
-           <input type="text" onFocus="this.value=''" value="Postal code" class="input2" name="futurepay-postcode" id="futurepay-postcode" />
-            <input type="image" name="imageField" id="imageField" src="http://www.visiondirect.com.au/public/images/email/autorefill_submit.jpg" />
-			</form>
-            <div class="clear"></div>
-           </div>
-           <div class="ap_rmenubot"></div>
-       </div>
--->
-<!--Viewed Items -->
-<div class="right_banner">
-	<span>
-		<a href="http://www.visiondirect.com.au/viewItem" style="font-size:9px; float:right;margin-right:5px; color:#fff;">
-			more		</a>
-		Viewed Items	</span>
+</noscript>
+    <div id="wrapper">
+        <div class="navigation">
+          <a onclick="function(){window.history.go(-1);}" style="cursor: pointer"><div class="back">Back</div></a>
+          <div class="local">
+            <a href="/">Home</a>
+            <span>/</span>
+            <a style="cursor: pointer">Privacy Policy</a>
+          </div>
+<div class="brand_fack_icon">
+	<!-- facebook like -->
+	<div class="fb-like" data-send="false" data-layout="button_count" data-width="70"></div>
+	<!-- twitter -->
+	<a class="twitter-share-button" data-count="horizontal">Tweet</a>
+	<!-- g+ -->
+	<div class="g-plusone" data-size="medium"></div>
 </div>
-
-<div id="view_item_obj">
-			<a href="http://www.visiondirect.com.au/contact-lenses/Monthly-Contacts/Frequency-Xcel-Toric-3-Pack/90.html">
-			<img src="http://www.visiondirect.com.au/public/product_image/Coopervision/Frequency Xcel Toric 3 Pk.jpg" alt="4" title="4">
-		</a>
-		<div class="viewed_item_text">
-			<a href="http://www.visiondirect.com.au/contact-lenses/Monthly-Contacts/Frequency-Xcel-Toric-3-Pack/90.html">
-				<span>
-					Frequency Xcel Toric 3 Pack				</span>
-				<br>
-				<span class="viewed_item_price">
-					Price					&nbsp;
-					32.95				</span>
-			</a>
-		</div>
-					<a href="http://www.visiondirect.com.au/contact-lenses/Weekly-Contacts/Biomedics-38/80.html">
-			<img src="http://www.visiondirect.com.au/public/product_image/Coopervision/Biomedics 38.jpg" alt="2" title="2">
-		</a>
-		<div class="viewed_item_text">
-			<a href="http://www.visiondirect.com.au/contact-lenses/Weekly-Contacts/Biomedics-38/80.html">
-				<span>
-					Biomedics 38				</span>
-				<br>
-				<span class="viewed_item_price">
-					Price					&nbsp;
-					27.95				</span>
-			</a>
-		</div>
-		</div>
-<!--
-<div id="live_support">
-		<script src="http://211.160.163.182:9161/ChatScript.ashx?config=1&id=mark" type="text/javascript"></script>
-		<a href="#" >
-			<img src="/public/live_support/right_livesupport_all_on.gif" alt="" border="0">
-  			<img src="/public/live_support/" alt="" border="0">
-  		</a>
-	</div>
--->
-<!--Top Seller -->
-<div class="right_banner"><span>
-  Weekly Top Sellers</span></div>
-<div id="top_seller">
-	<div class="c_seller">
-		<a href="http://www.visiondirect.com.au/designer-sunglasses.htm">
-							Designer Sunglasses					</a>
-	</div>
-	<div class="li_seller">
-					<h4><a href="http://www.visiondirect.com.au/designer-sunglasses/Ray-Ban/Ray-Ban-RB2140POL-Wayfarer-9O2-57-5668.html" class="topsale" title="Ray Ban RB2140POL Wayfarer">
-				Ray Ban RB2140POL Wayfarer			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-sunglasses/Ray-Ban/Ray-Ban-RB2132-Wayfarer-901-8028.html" class="topsale" title="Ray Ban RB2132 Wayfarer">
-				Ray Ban RB2132 Wayfarer			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-sunglasses/Ray-Ban/Ray-Ban-RB2140-Wayfarer-901-23701.html" class="topsale" title="Ray Ban RB2140 Wayfarer">
-				Ray Ban RB2140 Wayfarer			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-sunglasses/Prada/Prada-PR54GS-5AK-2Z1-44000.html" class="topsale" title="Prada PR54GS">
-				Prada PR54GS			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-sunglasses/Prada/Prada-PR22MS-1AB-3M1-101951.html" class="topsale" title="Prada PR22MS">
-				Prada PR22MS			</a></h4>
-			</div>
-	<div class="c_seller">
-		<a href="http://www.visiondirect.com.au/designer-eyeglasses.htm">
-							Designer Glasses					</a>
-  </div>
-	<div class="li_seller">
-					<h4><a href="http://www.visiondirect.com.au/designer-eyeglasses/Alexander-McQueen/Alexander-McQueen-AMQ-4059-GPQ-7.html" class="topsale" title="Alexander McQueen AMQ 4059">
-				Alexander McQueen AMQ 4059			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-eyeglasses/Alexander-McQueen/Alexander-McQueen-AMQ-4060-GQR-13.html" class="topsale" title="Alexander McQueen AMQ 4060">
-				Alexander McQueen AMQ 4060			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-eyeglasses/Bvlgari/Bvlgari-BV1003T-42O-54.html" class="topsale" title="Bvlgari BV1003T">
-				Bvlgari BV1003T			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-eyeglasses/Ray-Ban/Ray-Ban-RX5121-2000-11554.html" class="topsale" title="Ray Ban RX5121">
-				Ray Ban RX5121			</a></h4>
-					<h4><a href="http://www.visiondirect.com.au/designer-eyeglasses/Prada/Prada-PR58LV-1BO101-23891.html" class="topsale" title="Prada PR58LV">
-				Prada PR58LV			</a></h4>
-			</div>
+<!--<script>
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.src = url; js.id = id;
+	  fjs.parentNode.insertBefore(js, fjs);
+	};
+    load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+  }
+  if (w.addEventListener) { w.addEventListener("load", go, false); }
+  else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script>-->
 </div>
-
-
-
-<!--Top Free Shipping -->
-<div class="sideSpace"></div>
-<div class="sideBottom side_whysbg">
- <a href="http://www.visiondirect.com.au/why-smart-buy-glasses">
- <ul class="side_whysbg">
-  <li class="side_title">Why </li>
-  <li class="side_title">Vision Direct AU</li>
-  <li>Great reasons to buy with us!</li>
-
-  </ul>
- </a>
-</div>
-
-
-    
-<div class="sideBottom side_ag">
-    <a href="http://www.visiondirect.com.au/secure">
-        <ul class="side_ag">
-            <li class="side_title">Authenticity</li>
-            <li class="side_title">Guaranteed</li>
-        </ul>
-    </a>
-</div> 
-
-<div class="side_Insurance">
-    <div class="right_banner"><span>Free Insurance</span></div>
-    <div id="free_insurance">
-        <div id="free_insurance_main">
-            <span class="system_color">
-                <b>FREE</b> Instant $19.95            </span>
-            <br>
-            <span class="system_grey">
-                Shipping Insurance Upgrade!            </span>
-            <br>
-            <span class="system_black">Send it to my eMail</span>
+              <div id="content">
+        <div class="big_title">
+          <h1>Vision Direct Privacy Policy</h1>
+          <h3>Privacy &amp; Security</h3>
+          <a class="buying_guide_continue" href="/">CONTINUE SHOPPING</a>
         </div>
-        <div id="free_insurance_email">
-            <input name="insurance_email" type="text" id="insurance_email" value="" size="16" onclick="this.value=''" maxlength="40">
+        <div class="about_sidebar">
+          <ul class="sidebar_nav about_nav">
+          <li class="sidebar_class">
+              <a class="meet_team" href="Privacy Policy">
+                Privacy Policy              </a>
+            </li>
+          </ul>          
         </div>
-        <div id="free_insurance_input">
-            <a href="javascript:insurance_email(dojo.byId('insurance_email').value,'http://www.visiondirect.com.au',dojo.byId('insurance_optin').checked);">
-                <img src="http://www.visiondirect.com.au/public/images/send_email_new.gif" alt="Send e-mail" class="iright">
-            </a>
+      <!-- THIS FILE IS USED IN privacy static page AND AS A POPUP in CHECKOUT PAGE -->
+
+
+        <div class="about_content about_content_2">
+          <ul class="about_scroll_ul">
+                <li id="meet_team_content">
+                    <div>
+                          
+                        <strong>Vision Direct</strong> is committed to compliance with Privacy regulations. Privacy regulations outline the best practice principles, which set the minimum standards for how private sector businesses should handle your personal information.                        <p>The <strong>Vision Direct</strong> Privacy Policy has been prepared for you as part of our commitment to maintaining excellent customer service, and provides you with important information on your privacy rights.</p>
+                        <p>All information recorded by Vision Direct will be kept completely confidential at all times, and will only be used in the following ways:</p>
+                        <p>To process purchase transactions: we may exchange relevant information with nominated financial institutions in order to process purchase transactions on your behalf</p>
+                        <p>To communicate with you in connection with purchase transactions: we will use your  personal information to contact you if there is any problem with any order for  goods that you make with <br>Vision Direct</p>
+                        <p>Defaulted payment or monies owed: in the event that there is defaulted payment or monies owed by an individual, we may notify or exchange relevant personal information with credit agencies and/or our collection agency</p>
+                        <p>If required by law: If <strong>Vision Direct</strong> is served with a legally enforceable court order, we are required to make personal information available to law enforcement or regulatory agencies</p>
+                        <p>Marketing: We will not disclose your   personal details to any other organization for marketing purposes. We may use details from your Customer Record to better understand your needs and to advise you of new products, services or promotions that we believe will be of interest to you.</p>
+                        <p>When you call or email <strong>Vision Direct</strong> we may monitor your telephone conversation for staff training and service quality control procedures.</p>
+                                                 <p>If you have any questions about the personal information we hold about you, and how that information is used, please contact us <a href="mailto:customerservice@smartbuyglasses.com" style="color:#F7941E;">customerservice@visiondirect.com.au</a>.</p>
+                                          </div>
+                </li>
+          </ul>
         </div>
-        <div>
-            <div>
-                                <input name="insurance_optin" type="checkbox" id="insurance_optin" checked="">Notify me about Exclusive Discounts!                            </div>
-        </div>
-        <div id="ie_msg" class="msg_text"></div>
-        <div id="ie_msg_trans" class="msg_text" style="display:none">*Insert a valid email</div>
+        <script type="text/javascript">
+$(document).ready(function(){
+    $(".meet_team").parent("li").addClass("selected");
+});
+        </script>
+         </div>
     </div>
-</div>
-
-<div class="sideBottomLine"></div>
-<div class="right_follow">
-    <div class="right_banner">
-	<span>Follow Us</span>
-    </div>
-      <div class="follow3">
-        <ul>
-          <li class="facebook"><a href="http://www.facebook.com/VisionDirectAustralia" target="_blank"></a></li>
-                    <li class="twitter"><a href="http://twitter.com/vision_direct" target="_blank"></a></li>
-                    <li class="blog"><a href="http://www.sunglassesguru.com.au/" target="_blank"></a></li>
-        </ul>
-      </div>
-</div>
-
-
-
-<div class="right_banner">
-	<span>Feedback</span>
-</div>
-
-<div class="sideBottom side_help">
- <a href="http://www.visiondirect.com.au/survey">
-     <ul class="side_help">
-        <li class="side_title">Help us improve</li>
-        <li class="side_title">our services</li>
-     </ul>
- </a>
-</div>
-    
-        <div class="sideBottom side_mail">
-            <a href="http://www.visiondirect.com.au/help">
-                <ul class="side_mail">
-                    <li class="side_title">Need Help?</li>
-                    <li>Please Contact Our Customer Service</li>
-                </ul>
-            </a>
-        </div>
-<div class="sideBottom side_review">
-    <a href="http://www.visiondirect.com.au/review">
-        <ul class="side_review">
-            <li class="side_title">Review Centre</li>
-            <li>New Reviews everyday</li>     
-        </ul>
-    </a>
-</div>
-
-        <div class="sideBottom side_ebay">
-            <a href="http://stores.ebay.com.au/visiondirectau">
-                <ul class="side_ebay">
-                    <li class="side_title">Come find</li>
-                    <li class="side_title">us on Ebay!</li>
-                </ul>
-            </a>
-        </div>
-        <div class="sideBottomLine"></div>
-    
-
-<!--
-<div id="blog">
-	<a href="http://www.visiondirect.com.au/blog_vd">
-		<img src="http://www.visiondirect.com.au/public/images/language_images/right_blog_en.gif" alt="" border="0">
-	</a>
-</div>
-
-
-<div class="shopwiki">
-    <img src="http://staticssl.shopwiki.com/vf/Images:valentines07/certified_shopwiki_50percen.gif" alt="ShopWiki Certified Price Leader" border="0">
-</div>-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-  <br style="clear:both;">
-</div>
-<script src="http://www.visiondirect.com.au/public/dojo/dojo/dojo.js"></script>
+      <script src="http://www.visiondirect.com.au/public/dojo/dojo/dojo.js"></script>
 <script>
     function newsletter_inspect(){
         if ( dojo.isEmail(dojo.byId("newsletter_email").value) ) {
@@ -741,13 +448,13 @@ function bookMark(tmUrl){
         }
     }
 </script>
-<div id="footer">
+﻿<div id="footer">
 <div class="designers">
   <div class="designer_sunglasses">
     <div class="top_line"></div>
     <h3><a href="/designer-sunglasses.htm">Designer Sunglasses</a></h3>
     <table>
-        <tbody><tr><td><a href="/designer-sunglasses/Persol" class="white">Persol Sunglasses</a></td><td><a href="/designer-sunglasses/Gucci" class="white">Gucci Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Carrera" class="white">Carrera Sunglasses</a></td><td><a href="/designer-sunglasses/Prada" class="white">Prada Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Police" class="white">Police Sunglasses</a></td><td><a href="/designer-sunglasses/Giorgio-Armani" class="white">Giorgio Armani Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Emporio-Armani" class="white">Emporio Armani Sunglasses</a></td><td><a href="/designer-sunglasses/Adidas" class="white">Adidas Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Coach" class="white">Coach Sunglasses</a></td><td class="more"><a href="/designer-sunglasses.htm">More...</a></td></tr>        <!--tr>
+        <tbody><tr><td><a href="/designer-sunglasses/Ray-Ban" class="white">Ray Ban Sunglasses</a></td><td><a href="/designer-sunglasses/Carrera" class="white">Carrera Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Prada" class="white">Prada Sunglasses</a></td><td><a href="/designer-sunglasses/Tom-Ford" class="white">Tom Ford Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Maui-Jim" class="white">Maui Jim Sunglasses</a></td><td><a href="/designer-sunglasses/Persol" class="white">Persol Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Arnette" class="white">Arnette Sunglasses</a></td><td><a href="/designer-sunglasses/Gucci" class="white">Gucci Sunglasses</a></td></tr><tr><td><a href="/designer-sunglasses/Dolce-&amp;-Gabbana" class="white">Dolce &amp; Gabbana Sunglasses</a></td><td class="more"><a href="/designer-sunglasses.htm">More...</a></td></tr>        <!--tr>
             <td><a href="/designer-sunglasses/Ray-Ban/" class="white">Ray-Ban Sunglasses</a></td>
             <td><a href="/designer-sunglasses/Carrera/" class="white">Carrera Sunglasses</a></td>
         </tr>
@@ -769,7 +476,7 @@ function bookMark(tmUrl){
     <div class="top_line"></div>
     <h3><a href="/designer-eyeglasses.htm">Designer Glasses</a></h3>
    <table>
-     <tbody><tr><td><a href="/designer-eyeglasses/Persol" class="white">Persol Glasses</a></td><td><a href="/designer-eyeglasses/Gucci" class="white">Gucci Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Carrera" class="white">Carrera Glasses</a></td><td><a href="/designer-eyeglasses/Prada" class="white">Prada Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Police" class="white">Police Glasses</a></td><td><a href="/designer-eyeglasses/Giorgio-Armani" class="white">Giorgio Armani Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Emporio-Armani" class="white">Emporio Armani Glasses</a></td><td><a href="/designer-eyeglasses/Adidas" class="white">Adidas Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Versace" class="white">Versace Glasses</a></td><td class="more"><a href="/designer-eyeglasses.htm">More...</a></td></tr>        <!--tr>
+     <tbody><tr><td><a href="/designer-eyeglasses/Ray-Ban" class="white">Ray Ban Glasses</a></td><td><a href="/designer-eyeglasses/Prada" class="white">Prada Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Tom-Ford" class="white">Tom Ford Glasses</a></td><td><a href="/designer-eyeglasses/Dolce-&amp;-Gabbana" class="white">Dolce &amp; Gabbana Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/D&amp;G" class="white">D&amp;G Glasses</a></td><td><a href="/designer-eyeglasses/Burberry" class="white">Burberry Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Versace" class="white">Versace Glasses</a></td><td><a href="/designer-eyeglasses/Bvlgari" class="white">Bvlgari Glasses</a></td></tr><tr><td><a href="/designer-eyeglasses/Vogue" class="white">Vogue Glasses</a></td><td class="more"><a href="/designer-eyeglasses.htm">More...</a></td></tr>        <!--tr>
             <td><a href="/designer-eyeglasses/Ray-Ban/" class="white">Ray-Ban Glasses</a></td>
             <td><a href="/designer-eyeglasses/Tom-Ford/" class="white">Tom Ford Glasses</a></td>
         </tr>
@@ -787,46 +494,57 @@ function bookMark(tmUrl){
         </tr-->
     </tbody></table>
   </div>
-  <div class="contact_lenses">
-    <div class="top_line"></div>
-    <h3><a href="/contact-lenses.htm">Contact Lenses</a></h3>
-    <table>
-      <tbody><tr><td><a href="/contact-lenses/Acuvue/b-235.html" class="white">Acuvue Contact Lenses</a></td></tr><tr><td><a href="/contact-lenses/Focus/b-237.html" class="white">Focus Contact Lenses</a></td></tr><tr><td><a href="/contact-lenses/PureVision/b-312.html" class="white">PureVision Contact Lenses</a></td></tr><tr><td><a href="/contact-lenses/Biofinity/b-257.html" class="white">Biofinity Contact Lenses</a></td></tr><tr><td class="more"><a href="/contact-lenses.htm">More...</a></td></tr>        <!--tr>
-            <td><a href="/contact-lenses/Johnson-and-Johnson/Acuvue/b-235.html" class="white">Acuvue Contact Lenses</a></td>
-        </tr>
-        <tr>
-            <td><a href="/contact-lenses/Focus/b-237.html" class="white">Focus Contact Lenses</a></td>
-        </tr>
-        <tr>
-            <td><a href="/contact-lenses/Air+Optix/b-229.html/" class="white">Air Optix Contact Lenses</a></td>
-        </tr>
-        <tr>
-            <td class='more'><a href='/contact-lenses.htm'>More...</a></td>
-        </tr-->
-    </tbody></table>
-  </div>
-  <div class="clear"></div>
+    <div class="clear"></div>
 </div>
+     <script type="text/javascript" src="http://www.visiondirect.com.au/public/styles/assets/javascript/base.js"></script>
+        <div class="newpress">
+         <h3 style="padding:0 0 20px;"><a href="http://www.visiondirect.com.au/news-press" style="font-family: MuseoSlab300">Vision Direct in the news</a></h3>
+         <span id="bannerBottomLeftButton" class="newpress_l"></span>
+         <div id="bannerBottomWindow" class="newpressBox">
+         
+          <ul id="bottomBannerUl">
+         
+           <li><a href="http://www.youtube.com/watch?v=E7IVAknZnic&amp;feature=youtu.be" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_ten.gif" align="absmiddle"></a></li>
+                      <li><a href="/public/images/news-press/2012/AU/Maxim_March_2012_sunglasses.jpg" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_Maxim.gif" align="absmiddle"></a></li>
+                      <li><a href="news-press/the-sydney-morning" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_pressLogo4.gif" align="absmiddle"></a></li>
+                                 <li><a href="/public/images/news-press/ecbbfiih.png" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_xlogo.gif" align="absmiddle"></a></li>
+
+           <li><a href="/public/images/news-press/mX.pdf" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_mxnews.gif" align="absmiddle"></a></li>
+
+           <li><a href="news-press/thats-life" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_thatlife.gif" align="absmiddle"></a></li>
+           <li><a href="news-press/senior-lifestyle-view" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_senior.gif" align="absmiddle"></a></li>
+           <li><a href="http://www.visiondirect.com.au/news-press/autochic-view" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_auto.gif" align="absmiddle"></a></li>
+           <li><a href="http://www.visiondirect.com.au/news-press/mother-driven-view" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_MotherDriven.gif" align="absmiddle"></a></li>
+           <li><a href="/public/images/news-press/HealthSmart.pdf" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_HealthSmart.gif" align="absmiddle"></a></li>
+
+             <li><a href="http://www.thestyletree.com/index.php/2010/05/31/hunting-for-the-perfect-pair-of-specs/" target="_blank"><img src="http://www.visiondirect.com.au/public/styles/assets/image/footer_newpress/logo_styletree.gif" align="absmiddle"></a></li>
+           
+           <div class="clear"></div>
+          </ul>
+          <div class="clear"></div>
+         </div>
+         <span id="bannerBottomRightButton" class="newpress_r"></span>
+         <div class="clear"></div>
+        </div>
+    
 <div class="about_us">
   <div class="link_sbg">
     <h3>About Us</h3>
-        <p>
-      <img src="http://cdn.visiondirect.com.au/public/image/head_phone.png">
-      1800-261-453    </p>
-        <p><a href="/about-us">About Us</a></p>
+       <p><a href="/about-us">About Us</a></p>
     <p><a href="/help">Help/Contact Us</a></p>
-    <p><a href="/community">Buy One, Give One</a></p>
-    <p><a href="/faq">FAQ</a></p>
+        <p><a href="/community">Buy One, Give One</a></p>
+        <p><a href="/faq">FAQ</a></p>
     <!--p><a href="#">Meet the Team</a></p-->
   </div>
   <div class="why_sbg">
     <h3>Shop with Us</h3>
-    <p><a href="/why-smart-buy-glasses">Why Choose VD?</a></p>
+    <p><a href="/why-buy-from-us">Why Choose VD?</a></p>
     <p><a href="/secure">Authenticity</a></p>
     <p><a href="/fast-shipping">Shipping</a></p>
     <p><a href="/happy-customer">Testimonials</a></p>
     <p><a href="/sitemap">Sitemap</a></p>
-  </div>
+        <p><a href="/rrp-info">RRP Info</a></p>
+      </div>
   <div class="information_sbg">
     <h3>Customer Service</h3>
     <p><a href="/buying-guide">Buying Guides</a></p>
@@ -881,10 +599,12 @@ function bookMark(tmUrl){
                 <!--<a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>--></td>
                 </tr>
             </tbody></table>
-           <div class="foot_thawte"><iframe id="thawte" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="auto" allowtransparency="yes" style="margin:0px; padding:0px; width:85px;  height:75px; overflow:hidden;" src="http://www.smartbuyglasses.com/thawte/refer"></iframe></div>
-    
+       
+  
+  
+<div class="foot_thawte"><iframe id="thawte" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="auto" allowtransparency="yes" style="margin:0px; padding:0px; width:85px;  height:75px; overflow:hidden;" src="http://www.smartbuyglasses.com/thawte/refer"></iframe></div>
 
-    
+  
 <ul class="paymentIcon">
             <li><img src="/public/styles/assets/image/icon_card/footer_payment_Visa_Card.png"></li>
             <li><img src="/public/styles/assets/image/icon_card/footer_payment_American_Express.png"></li>
@@ -897,47 +617,28 @@ function bookMark(tmUrl){
     
 <div class="clear"></div>
    </div>
-   <!--div class="site_payment_cell">
-                 </div-->
+      <!--div class="site_payment_cell">
+                  
+   </div-->
   </div>
   <div class="site_states">
                  <img src="http://cdn.visiondirect.com.au/public/styles/assets/image/footer_logo_4.png">
                  <span>See the difference</span>
             <div class="clear"></div>
         
-    <p class="copyrightLine">Copyright © visiondirect.com.au Group 2006-2011, All Rights Reserved &nbsp;&nbsp;&nbsp;&nbsp;</p>
+    <p class="copyrightLine">Copyright © VisionDirect 2006-2012, All Rights Reserved &nbsp;&nbsp;&nbsp;&nbsp;</p>
     <p class="copyrightText">
         <a href="/term">Terms of Use</a>
         |  &nbsp;<a href="/privacy">Privacy Policy</a>
             </p>
-  </div>
+      </div>
   <div class="clear"></div>
 </div>
 <div class="bottom_line"></div>
 </div>
-<!-- ===================================================================================================== -->
+ <!-- ===================================================================================================== -->
 <!-- Footer Codes Start -->
 <!-- ===================================================================================================== -->
-
-<!-- Google Code Start -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1726875-1']);
-  _gaq.push(['_setDomainName', '.visiondirect.com.au']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!-- Google Code End -->
-
 
 
 <!-- en affiliatewindow Start -->
@@ -946,34 +647,6 @@ function bookMark(tmUrl){
 <!-- ===================================================================================================== -->
 <!-- Footer Codes End -->
 <!-- ===================================================================================================== -->
-
-<!-- Google Code for All Visitors to the website Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1058524196;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "rPoSCIzP4QEQpJjf-AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1058524196/?label=rPoSCIzP4QEQpJjf-AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-
-
-
-
-
-
-	
-	
 
 
 
@@ -984,6 +657,25 @@ var google_conversion_value = 0;
 <script language="javascript" src="http://www.visiondirect.com.au/public/js/ajax_email.js"></script>
 
 
+
+<!-- for share -->
+<script>
+window.___gcfg = {lang: 'en-US'};
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.src = url; js.id = id;
+	  fjs.parentNode.insertBefore(js, fjs);
+	};
+    load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk');
+    load('https://apis.google.com/js/plusone.js', 'gplus1js');
+    load('//platform.twitter.com/widgets.js', 'tweetjs');
+  }
+  if (w.addEventListener) { w.addEventListener("load", go, false); }
+  else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script>  
 
 
 </div></body></html>
