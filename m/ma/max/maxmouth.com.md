@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217065451id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmouth.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501200255id_/http%3A//www.maxmouth.com/privacy.php) for the most accurate reproduction.*
 
 # MaxMouth
 
@@ -69,5 +69,5 @@ In the event that MaxMouth is acquired by or merged with a third party entity, w
 
 Please contact MaxMouth with any questions or comments about this Privacy Notice using this contact form. <http://www.maxmouth.com/contact.php>
 
-|  [](http://www.maxmouth.com/my_skins.php)  
+|  [](http://ontheroad2.maxmouth.com/)  
 ---|---
