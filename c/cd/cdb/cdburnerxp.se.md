@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207055635id_/http%3A//www.cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501215537id_/http%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
 
 # CDBurnerXP: Privacy Policy
 
@@ -46,7 +46,15 @@ Further system or personal information is **not** being submitted or stored. The
 
 ## Usage of Cookies
 
-Cookies will be used to store a users settings (like login information at the [forum](http://forum.cdburnerxp.se/ "http://forum.cdburnerxp.se") or the preferred website language). No personal information is stored within them.   
+Cookies will be used to store a user's settings (like login information at the [forum](http://forum.cdburnerxp.se/ "http://forum.cdburnerxp.se") or the preferred website language). No personal information is stored within them.   
 Additional to that, third parties which are not under our control may use cookies. Google for example uses cookies for ads displayed on the web page, and they have their own [privacy policy](http://www.google.com/privacy.html "http://www.google.com/privacy.html"). 
 
 Note about Google ads: Google's use of the DART cookie enables it to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). 
+
+## Installer / OpenCandy
+
+The default installer (there are also setup packages without included) makes use of the OpenCandy advertisement platform. When installing CDBurnerXP, you are asked to accept the OpenCandy EULA as following: 
+
+This installer uses the OpenCandy network to recommend other software you may find valuable during the installation of this software. OpenCandy collects *NON-personally identifiable* information about this installation and the recommendation process. Collection of this information ONLY occurs during this installation and the recommendation process; in accordance with OpenCandy's Privacy Policy, available at [www.opencandy.com/privacy-policy](http://www.opencandy.com/privacy-policy "http://www.opencandy.com/privacy-policy")
+
+More information about the collected data can also be found on [Your Privacy and The OpenCandy Network](http://www.opencandy.com/privacy-matters/opencandy-network-details/ "http://www.opencandy.com/privacy-matters/opencandy-network-details/"). 
