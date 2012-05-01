@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105163928id_/http%3A//www.langara.bc.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501112800id_/http%3A//www.langara.bc.ca/registration-and-records/policies-and-procedures/privacy-policy.html) for the most accurate reproduction.*
 
-# Langara. | Policies & Procedures: Privacy Policy
+# Langara. Registration & Records: Policies & Procedures: Privacy Policy
 
 ## Safeguarding your right to privacy
 
@@ -26,10 +26,10 @@ We share information among the Langara College departments to help us identify y
 
 Information received and maintained as part of the student record is collected under the authority of the Colleges and Institutes Act. Signing the application form authorizes Langara College to use the student record information for the purpose of research and College operations. Langara College gathers and maintains information for the purposes of admission, registration and other fundamental activities related to attending a public post-secondary institution in British Columbia and being a member of the Langara College community. This information is protected and used in compliance with the Freedom of Information and Protection of Privacy Act.
 
-For further information please contact the [Registrar's Office](https://web.archive.org/web/20111105163928id_/http%3A//www.langara.bc.ca/departments/registrar-office/index.html).
+For further information please contact [Registrar and Enrolment Services](https://web.archive.org/web/20120501112800id_/http%3A//www.langara.bc.ca/departments/registrar-and-enrolment-services/index.html).
 
 ## Retention of Student Records
 
-Records of academic performance at Langara College are retained indefinitely. Materials supporting admission may be destroyed two years after the first registration. Before submitting irreplaceable material to support an application, students are advised to check with the Registrar’s Office.
+Records of academic performance at Langara College are retained indefinitely. Materials supporting admission may be destroyed two years after the first registration. Before submitting irreplaceable material to support an application, students are advised to check with Registrar and Enrolment Services.
 
 All admissions material will be destroyed after one year if the student does not register into courses.
