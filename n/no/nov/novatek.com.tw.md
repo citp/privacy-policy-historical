@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novatek.com.tw privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227093953id_/http%3A//www.novatek.com.tw/Tools/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novatek.com.tw privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501104839id_/http%3A//www.novatek.com.tw/Tools/Privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Novatek
 
