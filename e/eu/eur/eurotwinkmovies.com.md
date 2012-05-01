@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurotwinkmovies.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215081152id_/http%3A//www.eurotwinkmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotwinkmovies.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501183927id_/http%3A//eurotwinkmovies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Gay Twink Tube
 
