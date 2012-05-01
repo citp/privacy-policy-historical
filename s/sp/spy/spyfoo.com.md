@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spyfoo.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228010801id_/http%3A//www.spyfu.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyfoo.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501162004id_/http%3A//www.spyfu.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# SpyFu
+# SpyFu | Privacy Policy
 
 At SpyFu, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use SpyFu's services, as well as some of the steps we take to safeguard it.
 
