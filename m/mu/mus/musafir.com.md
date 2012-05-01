@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015034id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502000504id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# musafir: Privacy policy
+# Privacy policy
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices.
 
