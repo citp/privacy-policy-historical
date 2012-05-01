@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211007id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501232104id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,6 @@ _Utilities for Online Operating System_ |
   
   * [Online Utility](https://web.archive.org/)
     * [Contact](mailto:online-utility.org@proxy.dreamhost.com?subject=online%20utility%20comment)
-    * [Donations](https://web.archive.org/donations.jsp)
     * [Terms of Use](https://web.archive.org/terms_of_use.jsp)
     * [Privacy Policy](https://web.archive.org/privacy.jsp)
     * [About This Website](https://web.archive.org/about_us.jsp)
