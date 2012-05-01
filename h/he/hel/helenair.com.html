@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the helenair.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230084721id_/http%3A//helenair.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the helenair.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501093844id_/http%3A//helenair.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 
@@ -128,6 +128,16 @@ yld_mgr.slots.background.ad_delivery_mode = "ipatf";
 yld_mgr.slots.background.content_type_list=["fn_news"];
 
 
+yld_mgr.slots.asset_modal = {};
+yld_mgr.slots.asset_modal.ad_size_list = ["640x480"];
+yld_mgr.slots.asset_modal.ad_delivery_mode = "ipatf";
+
+
+yld_mgr.slots.bottom_bar = {};
+yld_mgr.slots.bottom_bar.ad_size_list = ["970x60"];
+yld_mgr.slots.bottom_bar.ad_delivery_mode = "ipatf";
+
+
 //-->
     //]]>
 </script>
@@ -144,15 +154,26 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 // -->
 </script>
 
-
     <div class="blox-leaderboard-container">
         <div class="container_12">
             <div id="blox-top-leaderboard"><script type="text/javascript">yld_mgr.place_ad_here("leaderboardtop_slot");</script></div>
-            <div id="blox-top-promo"><div id="tncms-region-head-promo-section" class="tncms-region "></div></div>
+            <div id="blox-top-promo"><div id="tncms-region-head-promo-section" class="tncms-region "><div id="tncms-block-453578" class="tncms-block">
+
+	
+	
+	
+		
+		
+			<div style="padding:0 0 10px 0;">
+				
+				<a href="http://www.helenair.com/get-it"><img border="0" alt="get it home page promo " height="90" width="220" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/a/56/a565fbd0-6300-11e1-aa6e-001871e3ce6c/4f4e6a28eafe6.image.jpg"></a>
+			</div>
+		
+	
+</div></div></div>
         </div>
         <div class="clear"></div>
     </div>
-
 
 <div id="blox-html-container">
 <div id="blox-wrapper" class="container_12">
@@ -163,10 +184,69 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
             <div id="blox-logo" class="grid_9 alpha">
                 <h1><a href="/" title="">template</a></h1>
                 
-                    
-                    <p id="blox-user-nav"><a href="https://helenair-dot-com.bloxcms.com/users/login/?referer_url=/privacy/index.php">Login</a> | <a href="/users/signup/">Register</a> <br><span>Subscribe:</span> <a href="/subscribe/">Print</a> / <a href="/app/digital-subscriptions/">Digital</a> / <a href="http://read.helenair.com">E-edition</a></p>
+                
+                     
+                    <script type="text/javascript">
+                        function tnLogin(){
+                            var pUser = j('#facebox #tn-username').val();
+                            var pPass = j('#facebox #tn-password').val();
+                            if( !pUser ){ j('#facebox #tn-username').focus(); j('#facebox #tn-username').css('background-color','#fde0e0'); return false; }
+                            if( !pPass){ j('#facebox #tn-password').focus(); j('#facebox #tn-password').css('background-color','#fde0e0');  return false; }
+                            jQuery('#facebox #loginLoading').show();
+                            jQuery('#facebox #tn-login').submit();
+                        }
+                        function fbLogin(){
+                            jQuery('#facebox #loginLoading').show();
+                            jQuery('#facebox #facebook-login').submit();
+                        }
+                    </script>
+                    <div id="tnLoginForm" class="hide">
+                        <div id="blox-modal">
+                            <h1>Login  <span>or <a class="appendTimeStamp" href="/users/signup/?referer_url=/template/?tabSelected=newws">Signup</a></span></h1>
+                            <style type="text/css">
+                                #loginLoading  { position:absolute; background: #fff; height: 160px; width: 500px;  text-align: center; padding-top: 50px; filter:alpha(opacity=90);  -moz-opacity:0.9; -khtml-opacity: 0.9; opacity: 0.9; }
+                                #facebox #tnLoginForm { display: block; width: 500px; }
+                                #site-login { border-right: 1px dotted #ccc; float: left; width: 240px; padding-left: 10px;}
+                                #facebook-login-container { float: left; width: 180px; padding-left: 20px; }
+                                #facebox #tnLoginForm h1 { background: transparent; color: inherit; border-bottom: 2px solid #ccc; }
+                                #facebox #tnLoginForm h1 span { font-size: 11px; }
+                                #facebox #tnLoginForm label span { margin: 0px; padding-bottom: 5px; float: none; width: auto; }
+                                #facebook-login-container dt { font-size: 16px; font-weight: bold; margin-bottom: 10px; }
+                                #facebook-login-container dd { margin-bottom: 10px; }
+                            </style>
+                            <div id="loginLoading" class="hide"><img src="/content/tncms/live/global/resources/images/facebox/loading.gif"></div>
+                            
+                            <div id="site-login">
+                                <form id="tn-login" class="appendTimeStamp" action="https://helenair-dot-com.bloxcms.com/users/login/?" method="post" onsubmit="tnLogin(); return false;">
+                                    <input class="appendTimeStamp" type="hidden" name="referer_url" value="/template/?tabSelected=newws">
+                                    <fieldset>
+                                        <label><span>Email:</span>  <input type="text" size="30" class="text-field" id="tn-username" name="username" value=""></label>
+                                        <label><span>Password:</span>  <input type="password" size="30" class="text-field" id="tn-password" name="password" value=""></label>
+                                        <label><a href="https://helenair-dot-com.bloxcms.com/users/forgot/">Forgot Password</a></label>
+                                        <p><input type="submit" class="submit-button moz-border" value="Login"></p>
+                                    </fieldset>
+                                </form>
+                            </div>
+                            <div id="facebook-login-container">
+                                <dl>
+                                    <dt>Facebook user?</dt>
+                                    <dd>You can use your Facebook account to log in.</dd>
+                                    <dd>
+                                        <form id="facebook-login" class="appendTimeStamp" action="https://helenair-dot-com.bloxcms.com/users/login/?" method="post" onsubmit="fbLogin(); return false;">
+                                            <input class="appendTimeStamp" type="hidden" name="referer_url" value="/template/?tabSelected=newws">
+                                            <input type="hidden" name="username" value="provider:facebook">
+                                            <input type="image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_light_medium_long.gif">
+                                        </form>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <p id="blox-user-nav"><a id="tnLogin" class="appendTimeStamp" href="https://helenair-dot-com.bloxcms.com/users/login/?referer_url=/template/?tabSelected=newws">Login</a> | <a class="appendTimeStamp" href="/users/signup/?referer_url=/template/?tabSelected=newws">Register</a>  <br><span>Subscribe:</span> <a href="/subscribe/">Print</a> / <a href="/app/digital-subscriptions/">Digital</a> / <a href="http://read.helenair.com">E-edition</a></p>
                 
             </div>
+            
             
             <div id="blox-search-form-container" class="grid_3">
                 <form id="blox-search-form" action="/search/" method="get">
@@ -281,7 +361,7 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
                 </ul>
             </li>
 
-            <li><a href="/get-it/" title="Helena Businesses"><span>Get It</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
+            <li><a href="/get-it/" title="Helena Businesses"><span>Get It Classifieds</span></a> <em class="nav-toggle"><a href="javascript:void(0);">more</a></em>
                 <ul>
                     <li><a href="/get-it" title="Get It">Get It</a></li>
                     <li><a href="http://www2.helenair.com/admarket/" title="Helena Classifieds">Classified Ads</a></li>
@@ -347,22 +427,22 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 		<li class="quick-title no-border">Hot Topics:</li>
 		
 			
-			<li><a href="http://helenair.com/news/local/friends-hhs-students-organize-concert-fundraiser-for-family/article_57863ee4-31ef-11e1-beaf-001871e3ce6c.html?oCampaign=hottopics">HHS family fundraiser</a></li>
+			<li><a href="http://helenair.com/sports/college/carroll-college/track/cutler-s-career-day-leads-carroll-track-in-great-falls/article_10b403d0-9288-11e1-a02b-0019bb2963f4.html?oCampaign=hottopics">Cutler's career day</a></li>
 		
 			
-			<li><a href="http://helenair.com/news/local/crime-and-courts/mail-stolen-in-helena-valley/article_9734a952-31e7-11e1-b997-001871e3ce6c.html?oCampaign=hottopics">Mail thefts</a></li>
+			<li><a href="http://helenair.com/news/local/more-than-a-meet/article_27d8b7e2-9286-11e1-a8cd-0019bb2963f4.html?oCampaign=hottopics">More than a meet</a></li>
 		
 			
-			<li><a href="http://helenair.com/news/state-and-regional/chair-falls-off-red-lodge-mountain-lift-injured/article_b9a58714-3236-11e1-96c9-0019bb2963f4.html?oCampaign=hottopics">Skilift accident</a></li>
+			<li><a href="http://helenair.com/news/local/state-and-regional/most-governor-hopefuls-agree-on-streamlining-environmental-permits/article_26b95f3e-91c2-11e1-83fd-001a4bcf887a.html?oCampaign=hottopics">Governor hopefuls</a></li>
 		
 			
-			<li><a href="http://helenair.com/news/local/symphony-finances-saved-by-secret-santa/article_a6ed5194-31ee-11e1-bda5-001871e3ce6c.html?oCampaign=hottopics">$25k symphony donation</a></li>
+			<li><a href="/weather/forecasts/montana-weather/vmix_c1e80228-9201-11e1-9129-0019bb2963f4.html?oCampaign=hottopics">Montana Weather</a></li>
 		
 			
-			<li><a href="http://helenair.com/sports/curt-s-replays-paying-our-respects-to-those-we-lost/article_68d740fe-3117-11e1-be52-001871e3ce6c.html?oCampaign=hottopics">Curt's replays</a></li>
+			<li><a href="http://helenair.com/news/local/adopt-a-tree-encouraging-canyon-ferry-devotees-to-guard-against/article_bf37d434-91bd-11e1-8c8a-001a4bcf887a.html?oCampaign=hottopics">Adopt-a-tree</a></li>
 		
 			
-			<li class="no-border"><a href="http://helenair.com/news/local/jean-baucus-memorial-remembering-a-matriarch/article_544b9f2e-3129-11e1-9504-0019bb2963f4.html?oCampaign=hottopics">Baucus memorial</a></li>
+			<li class="no-border"><a href="http://helenair.com/sports/high-school/softball/hhs-softball-tops-glacier-falls-to-flathead/article_1e210bb8-91ba-11e1-b698-0019bb2963f4.html?oCampaign=hottopics">HHS softball</a></li>
 		
 	</ul>
 </div></div></div>
@@ -458,20 +538,7 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 
 <div id="blox-big-ad" class="pad-bottom pad-top"><script type="text/javascript">yld_mgr.place_ad_here("bigad_slot");</script></div>
 
-<div id="tncms-region-side-rail-top" class="tncms-region "><div id="tncms-block-359453" class="tncms-block">
-
-	
-	
-	
-		
-		
-			<div style="padding:0 0 10px 0;">
-				
-				<a href="http://www.helenair.com/bigdeal"><img border="0" alt="Big Deal generic" height="125" width="300" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/2/3e/23e978b2-b0f8-11e0-8c4e-001cc4c03286/4e23b95e33404.image.jpg"></a>
-			</div>
-		
-	
-</div><div id="tncms-block-19982" class="tncms-block">
+<div id="tncms-region-side-rail-top" class="tncms-region "><div id="tncms-block-19982" class="tncms-block">
 
 <h2 class="pad-botttom">Most Popular</h2>
 
@@ -487,21 +554,21 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 		
 			<ul class="bull-list">
 				
-					<li><a href="/news/local/mold-turns-dream-home-to-house-of-horror/article_76602aa0-31ef-11e1-962c-001871e3ce6c.html">Mold turns dream home to house of horror</a></li>
+					<li><a href="/news/local/two-injured-in-i--rollover-driver-already-facing-negligent/article_20780508-8f60-11e1-8fa2-001a4bcf887a.html">Two injured in I-15 rollover; driver already facing negligent homicide charge after December wreck</a></li>
 				
-					<li><a href="/news/state-and-regional/wife-allegedly-shoots-husband-arrested/article_a5dfb366-3098-11e1-9478-0019bb2963f4.html">Wife allegedly shoots husband, arrested</a></li>
+					<li><a href="/news/local/bird-dog-finds-lost-cockatiel/article_37e15bda-90f6-11e1-ae77-001a4bcf887a.html">Bird dog finds lost cockatiel</a></li>
 				
-					<li><a href="/news/local/infant-son-keeps-helena-man-s-spirits-high-after-wife/article_7a4c5152-3127-11e1-88eb-0019bb2963f4.html">Infant son keeps Helena man's spirits high after wife's tragic death</a></li>
+					<li><a href="/news/local/obituaries/john-charles-cox/article_5aa9528c-8e9c-11e1-9d3f-001a4bcf887a.html">John Charles Cox</a></li>
 				
-					<li><a href="/news/state-and-regional/man-beaten-with-bat-on-christmas-morning/article_412d001d-f853-5f38-a92c-29ce90461310.html">Man beaten with bat on Christmas morning  </a></li>
+					<li><a href="/news/local/crime-and-courts/latest-crash-nets-another-felony-charge-for-dullum/article_ac9fc5e2-902e-11e1-acd0-001a4bcf887a.html">Latest crash nets another felony charge for Dullum</a></li>
 				
-					<li><a href="/news/local/crime-and-courts/sign-of-the-times-street-signs-stolen-from-around-helena/article_69192f6c-3119-11e1-800a-001871e3ce6c.html">Sign of the times? 40 street signs stolen from around Helena</a></li>
+					<li><a href="/news/local/crime-and-courts/ag-office-dphhs-botched-mdc-rape-probe/article_ebbf5ea4-8f66-11e1-aa50-001a4bcf887a.html">AG office: DPHHS botched MDC rape probe</a></li>
 				
-					<li><a href="/news/local/owners-of-historic-hotel-lincoln-suing-former-owner/article_99ca5b46-3118-11e1-9fa7-001871e3ce6c.html">Owners of historic Hotel Lincoln suing former owner</a></li>
+					<li><a href="/news/local/crime-and-courts/mom-gets-perjury-charge-for-statement-to-judge-on-teen/article_9ca95cc0-8e99-11e1-9a55-001a4bcf887a.html">Mom gets perjury charge for statement to judge on teen's whereabouts</a></li>
 				
-					<li><a href="/news/local/god-s-love-unit-helps-families-in-transition/article_fa63bb4e-2f8a-11e1-b04a-001871e3ce6c.html">God’s Love unit helps families in transition</a></li>
+					<li><a href="/news/local/crime-and-courts/poachers-get-no-jail-lose-hunting-rights-must-pay-restitution/article_91effa46-8f66-11e1-a446-001a4bcf887a.html">Poachers get no jail, lose hunting rights, must pay restitution</a></li>
 				
-					<li><a href="/news/local/crime-and-courts/mail-stolen-in-helena-valley/article_9734a952-31e7-11e1-b997-001871e3ce6c.html">Mail stolen in Helena Valley</a></li>
+					<li><a href="/news/local/crime-and-courts/man-allegedly-hits-girlfriend-with-golf-club/article_cbb89d66-9031-11e1-82a1-001a4bcf887a.html">Man allegedly hits girlfriend with golf club</a></li>
 				
 			</ul>
 		
@@ -513,35 +580,69 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 			<ul class="bull-list">
 				
 				
-					<li><a href="/news/local/god-s-love-unit-helps-families-in-transition/article_fa63bb4e-2f8a-11e1-b04a-001871e3ce6c.html">God’s Love unit helps families in transition</a></li>
+					<li><a href="/news/opinion/readers_alley/corporations-are-not-people/article_01bbb720-8e95-11e1-a7ae-001a4bcf887a.html">Corporations are not people</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/readers_alley/remember-in-november/article_2b10825a-2c6f-11e1-b809-001871e3ce6c.html">Remember in November  </a></li>
+					<li><a href="/news/local/crime-and-courts/feds-say-crackdown-on-medical-pot-will-continue/article_c0eebd28-8d09-11e1-aed8-001a4bcf887a.html">Feds say crackdown on medical pot will continue</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/readers_alley/what-s-in-it-for-us/article_2c15b910-311d-11e1-817b-001871e3ce6c.html">What’s in it for us?</a></li>
+					<li><a href="/news/local/crime-and-courts/latest-crash-nets-another-felony-charge-for-dullum/article_ac9fc5e2-902e-11e1-acd0-001a4bcf887a.html">Latest crash nets another felony charge for Dullum</a></li>
 				
 				
 				
-					<li><a href="/news/local/man-charged-with-half-pound-of-marijuana/article_9d4725fe-2d32-11e1-ba7c-0019bb2963f4.html">Man charged with half-pound of marijuana</a></li>
+					<li><a href="/news/local/crime-and-courts/ag-office-dphhs-botched-mdc-rape-probe/article_ebbf5ea4-8f66-11e1-aa50-001a4bcf887a.html">AG office: DPHHS botched MDC rape probe</a></li>
 				
 				
 				
-					<li><a href="/news/local/govt-and-politics/rehberg-votes-to-reject-tax-holiday-extension/article_e7c513e0-2ba5-11e1-b35d-001871e3ce6c.html">Rehberg votes to reject tax-holiday extension </a></li>
+					<li><a href="/news/opinion/readers_alley/no-fault-president/article_b83f7a9a-89e5-11e1-b77d-001a4bcf887a.html">No-fault president</a></li>
 				
 				
 				
-					<li><a href="/news/local/govt-and-politics/campaign-kicks-off-for-helena-gay-rights-ordinance/article_1e44b834-2945-11e1-906f-001871e3ce6c.html">Campaign kicks off for Helena gay rights ordinance</a></li>
+					<li><a href="/news/state-and-regional/schweitzer-to-appear-on-letterman-show-wednesday/article_2fa35b08-8e35-11e1-ba72-0019bb2963f4.html">Schweitzer to appear on "Letterman" show Wednesday</a></li>
 				
 				
 				
-					<li><a href="/news/opinion/readers_alley/lgbt-issue-not-religious-vs-gay/article_119b530e-2c6f-11e1-b481-001871e3ce6c.html">LGBT issue not religious vs. gay</a></li>
+					<li><a href="/news/local/crime-and-courts/mom-gets-perjury-charge-for-statement-to-judge-on-teen/article_9ca95cc0-8e99-11e1-9a55-001a4bcf887a.html">Mom gets perjury charge for statement to judge on teen's whereabouts</a></li>
 				
 				
 				
-					<li><a href="/news/local/crime-and-courts/sign-of-the-times-street-signs-stolen-from-around-helena/article_69192f6c-3119-11e1-800a-001871e3ce6c.html">Sign of the times? 40 street signs stolen from around Helena</a></li>
+					<li><a href="/news/opinion/editorial/leave-ancestors-out-of-politics/article_dfbac12a-8e94-11e1-a7ae-001a4bcf887a.html">Leave ancestors out of politics</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				
 				
 				
@@ -720,32 +821,42 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
             
                 
                 
-                    <dt><a href="/places/mountain-west-bank/business_1120165664.html"><img alt="Mountain West Bank" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/e/5a/e5a4313d-9a37-5f8b-b6a8-45305f54cf24/4edf99b029c26.image.png"></a></dt>
                 
-                <dd class="title"><a href="/places/offers/front-range-free-checking/article_47a63178-20f1-11e1-b976-001871e3ce6c.html">Front Range Free Checking</a></dd>
-                <dd class="comp-name">Mountain West Bank</dd>
+                    <dt><a href="/places/lewis-clark-brewing-company/business_1131171110.html"><img alt="Lewis &amp; Clark Brewing Company" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/c/a5/ca54fc76-d32f-5750-a633-b8f72c0fa557/4f7469d691276.image.png"></a></dt>
+                
+                <dd class="title"><a href="/places/offers/saturday-may-cinco-de-mayo-party/article_29e781fe-92c6-11e1-9c97-0019bb2963f4.html">Saturday, May 5, Cinco de Mayo PARTY!</a></dd>
+                <dd class="comp-name">Lewis &amp; Clark Brewing Company</dd>
                 <dd class="clear"></dd>
             
         
             
                 
                 
-                    <dt><a href="/places/real-food-market-deli/business_1125526802.html"><img alt="Real Food Market &amp; Deli" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/0/2b/02bb45f2-1e72-541b-826f-6ad196d45ff4/4edfba644ea94.image.png"></a></dt>
                 
-                <dd class="title"><a href="/places/offers/sign-up-for-online-coupons-on-our-website/article_fc766298-20f7-11e1-b2de-0019bb2963f4.html">Sign up for online coupons on our website!</a></dd>
-                <dd class="comp-name">Real Food Market &amp; Deli</dd>
+                    <dt><a href="/places/lewis-clark-brewing-company/business_1131171110.html"><img alt="Lewis &amp; Clark Brewing Company" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/c/a5/ca54fc76-d32f-5750-a633-b8f72c0fa557/4f7469d691276.image.png"></a></dt>
+                
+                <dd class="title"><a href="/places/offers/thursday-may-uncharted-waters-performs-p-m/article_9dcf9238-92c5-11e1-9d67-0019bb2963f4.html">Thursday, May 3. Uncharted Waters performs 6:00 p.m. </a></dd>
+                <dd class="comp-name">Lewis &amp; Clark Brewing Company</dd>
                 <dd class="clear"></dd>
             
         
             
                 
                 
-                <dd class="title"><a href="/places/offers/customer-testimonials/article_5fba8702-2117-11e1-8df0-0019bb2963f4.html">Customer Testimonials</a></dd>
-                <dd class="comp-name"></dd>
+                
+                    <dt><a href="/places/lewis-clark-brewing-company/business_1131171110.html"><img alt="Lewis &amp; Clark Brewing Company" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/c/a5/ca54fc76-d32f-5750-a633-b8f72c0fa557/4f7469d691276.image.png"></a></dt>
+                
+                <dd class="title"><a href="/places/offers/l-c-brewery-now-celebrates-earth-day-with-green-concepts/article_644e948c-8f23-11e1-a3ca-001a4bcf887a.html">L&amp;C Brewery Now Celebrates Earth day with Green Concepts</a></dd>
+                <dd class="comp-name">Lewis &amp; Clark Brewing Company</dd>
                 <dd class="clear"></dd>
             
         
     </dl>
+    
+        <script type="text/javascript">
+            var oFeaturedPosts = 'ca54fc76-d32f-5750-a633-b8f72c0fa557,ca54fc76-d32f-5750-a633-b8f72c0fa557';
+        </script>
+     
 </div><div id="tncms-block-292450" class="tncms-block">
 
 
@@ -795,24 +906,27 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
      <dl id="featured-businesses">
          
              
-                 <dt><a href="/places/mountain-west-bank/business_1120165664.html"><img alt="Mountain West Bank" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/e/5a/e5a4313d-9a37-5f8b-b6a8-45305f54cf24/4edf99b029c26.image.png"></a></dt>
              
-             <dd class="title"><a href="/places/mountain-west-bank/business_1120165664.html">Mountain West Bank</a></dd>
+                 <dt><a href="/places/re-max-of-helena/business_4000002361.html"><img alt="RE/MAX Of Helena" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/9/56/956cd7bf-9add-5c3a-992e-dfd1c0edd530/4f4f9d96dd930.image.gif"></a></dt>
+             
+             <dd class="title"><a href="/places/re-max-of-helena/business_4000002361.html">RE/MAX Of Helena</a></dd>
              <dd class="comp-desc"></dd>
              <dd class="clear"></dd>
          
              
-                 <dt><a href="/places/independent-record/business_1126059934.html"><img alt="Independent Record" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/c/fc/cfc032ab-700f-5577-98d3-9ac341b7ef61/4e657cd55e730.image.jpg"></a></dt>
              
-             <dd class="title"><a href="/places/independent-record/business_1126059934.html">Independent Record</a></dd>
-             <dd class="comp-desc">Serving the Helena area</dd>
+                 <dt><a href="/places/best-western-premier-helena-great-northern-hotel/business_4000002447.html"><img alt="Best Western PREMIER Helena Great Northern Hotel " src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/b/27/b279b58e-2ca6-5fc8-93ef-1055e2f5c6bb/4f300240a801a.image.jpg"></a></dt>
+             
+             <dd class="title"><a href="/places/best-western-premier-helena-great-northern-hotel/business_4000002447.html">Best Western PREMIER Helena Great Northern Hotel </a></dd>
+             <dd class="comp-desc">The Best Western Premier Helena Gr…</dd>
              <dd class="clear"></dd>
          
              
-                 <dt><a href="/places/real-food-market-deli/business_1125526802.html"><img alt="Real Food Market &amp; Deli" src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/0/2b/02bb45f2-1e72-541b-826f-6ad196d45ff4/4edfba644ea94.image.png"></a></dt>
              
-             <dd class="title"><a href="/places/real-food-market-deli/business_1125526802.html">Real Food Market &amp; Deli</a></dd>
-             <dd class="comp-desc">We’re Helena, Montana's only certified organic supermarket.…</dd>
+                 <dt><a href="/places/mile-high-motors-helena/business_4000002582.html"><img alt="Mile High Motors Helena " src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/business/d/82/d8211d42-4ca4-5d9c-adff-8012897f590c/4f393d3e890c1.image.jpg"></a></dt>
+             
+             <dd class="title"><a href="/places/mile-high-motors-helena/business_4000002582.html">Mile High Motors Helena </a></dd>
+             <dd class="comp-desc">The Newest used car superstore in …</dd>
              <dd class="clear"></dd>
          
      </dl>
@@ -830,11 +944,14 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
              <input type="submit" class="submit-button moz-border" value="Search!">
          </form>
      
+     <script type="text/javascript">
+         var oFeaturedBusinesses = '956cd7bf-9add-5c3a-992e-dfd1c0edd530,b279b58e-2ca6-5fc8-93ef-1055e2f5c6bb';
+     </script>
  </div><div id="tncms-block-363543" class="tncms-block border-top">
 
 <h3>Poll</h3>
 	<h4>
-	Are you optimistic that 2012 will be a better year than 2011 was for yourself, for Helena and for Montana?
+	Would you support a move toward greater privatization of Montana’s prisons?
 	</h4>
 	
 	<div class="loading-poll">Loading…</div>
@@ -842,17 +959,17 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 	<div id="blox-poll" class="hide">
 		<script type="text/javascript" src="http://helenair.com/content/tncms/live/global/resources/scripts/swfobject.js"></script>
 				
-		<span id="blox-poll-cookie" title="blox_poll_d628f428-2eaa-11e1-b43e-0019bb2963f4"></span>
+		<span id="blox-poll-cookie" title="blox_poll_42b95966-86c6-11e1-8de8-001a4bcf887a"></span>
 		<span id="blox-poll-type" title="bar"></span>
 		<span id="blox-poll-height" title=""></span>
 		<span id="blox-poll-width" title="280"></span>
 		
 		<div id="blox-poll-results">	
-			<form id="poll-vote-form" method="post" action="/are-you-optimistic-that-will-be-a-better-year-than/poll_d628f428-2eaa-11e1-b43e-0019bb2963f4.html">
+			<form id="poll-vote-form" method="post" action="/would-you-support-a-move-toward-greater-privatization-of-montana/poll_42b95966-86c6-11e1-8de8-001a4bcf887a.html">
 				<div>
 					<dl>
-						<dd><span><input type="radio" name="answer" title="Yes" value="C50D8C6C-8EC0-0001-4567BC60124023C0"></span> Yes</dd>
-						<dd><span><input type="radio" name="answer" title="No" value="C50D8C6E-CD80-0001-4FE41B101DC1F3F0"></span> No</dd>
+						<dd><span><input type="radio" name="answer" title="Yes" value="C531A324-C6D0-0001-E6F212F09D895460"></span> Yes</dd>
+						<dd><span><input type="radio" name="answer" title="No" value="C531A325-E440-0001-C3476ECA16261C8D"></span> No</dd>
 						
 						<dd class="poll-submit"><input type="submit" class="submit-button moz-border" value="Vote"></dd>
 					</dl>
@@ -860,7 +977,12 @@ yld_mgr.slots.background.content_type_list=["fn_news"];
 			</form>
 		</div>
 	</div>
-</div><div id="tncms-block-342581" class="tncms-block"><div class="blox-core-html-asset">
+</div><div id="tncms-block-450893" class="tncms-block border-style">
+
+
+  <script type="text/javascript" src="http://www.paperg.com/jsfb/embed.php?pid=11460&amp;bid=4482"></script><br><div id="PG_link" align="center"><a href="http://www.paperg.com/">Local internet marketing</a> by PaperG</div>
+
+  </div><div id="tncms-block-342581" class="tncms-block"><div class="blox-core-html-asset">
 	<h2>TV Listings</h2>
 	<script type="text/javascript">
 
@@ -999,7 +1121,7 @@ Sara Groves</p>
     </div>
 </div>
 <div id="blox-copyright-container">
-    <p id="blox-copyright" class="container_12">© Copyright 2011, <a href="/">helenair.com</a>, 317 Cruse Ave. Helena, MT | <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>
+    <p id="blox-copyright" class="container_12">© Copyright 2012, <a href="/">helenair.com</a>, 317 Cruse Ave. Helena, MT | <a href="/terms/">Terms of Service</a> and <a href="/privacy/">Privacy Policy</a>
     
     </p>
 </div>
@@ -1014,6 +1136,8 @@ Sara Groves</p>
         
         <script type="text/javascript">
         <!--
+            var fBiz = typeof oFeaturedBusinesses != 'undefined' ? oFeaturedBusinesses : ''
+            var fBizP = typeof oFeaturedPosts != 'undefined' ? oFeaturedPosts : ''        
             var rdomain = document.referrer.split('/')[2];
             s.pageName="/privacy/index.php"
             s.server="helenair.com"
@@ -1032,6 +1156,8 @@ Sara Groves</p>
             s.prop11=""
             s.prop12=""
             s.prop26=""
+            s.prop52=fBiz
+            s.prop53=fBizP
             
             /* Conversion Variables */
             s.campaign=""
@@ -1068,6 +1194,19 @@ Sara Groves</p>
 <script src="http://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/live/editorial/lee-editorial/resources/scripts/jcarousel.js" type="text/javascript"></script>
 <script src="http://helenair.com/content/tncms/live/global/resources/scripts/facebox.js" type="text/javascript"></script>
 <script src="http://helenair.com/content/tncms/live/global/resources/scripts/common.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+       function xCloseBottomAd(){
+               jQuery('#x-blox-bottom-ad').hide();
+               jQuery.cookie('x_blox_bottom_ad_closed', 'true', {
+expires: 1 });
+       }
+       if( !jQuery.cookie('x_blox_bottom_ad_closed') ){
+               yld_mgr.place_ad_here("bottom_bar");
+       }
+</script>
+
+
 
     
 
