@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the potterybarn.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221912id_/http%3A//www.potterybarn.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potterybarn.ca privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501114600id_/http%3A//www.potterybarn.ca/privacy_policy) for the most accurate reproduction.*
 
-# Pottery Barn - Canada
+# Home Furnishings, Home Decor & Outdoor Furniture | Pottery Barn Canada
 
 We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, and west elm. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of personal information you share with us. The purpose of this privacy policy is to inform you what personal information we may collect from you, how we use and disclose such information, and the choices you have regarding our use of, and your ability to review and correct, such information. This policy applies only to customers in Canada.
 
