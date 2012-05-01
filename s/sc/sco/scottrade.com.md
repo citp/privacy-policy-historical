@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212023453id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottrade.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501115757id_/http%3A//www.scottrade.com/disclosures/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Scottrade
 
