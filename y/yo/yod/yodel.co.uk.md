@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216144530id_/http%3A//www.yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211233id_/http%3A//yodel.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Yodel
 
