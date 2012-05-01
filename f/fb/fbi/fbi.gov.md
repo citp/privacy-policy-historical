@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231834id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501043147id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
 # FBI — Privacy Policy
 
-This website is provided by the Federal Bureau of Investigation as a public service. All information the Bureau provides on this site that is not otherwise attributed is considered public information and may be distributed or copied, subject to Sections 701 and 709 of Title 18, United States Code, which prohibit the unauthorized use of the FBI seal or the use of the words "Federal Bureau of Investigation," the initials "FBI," or any colorable imitation of these words and initials "in a manner reasonably calculated to convey the impression that such [activity] . . . is approved, endorsed, or authorized by the Federal Bureau of Investigation."
+This website is provided by the Federal Bureau of Investigation as a public service. All information the Bureau provides on this site that is not otherwise attributed is considered public information and may be distributed or copied, subject to Sections 701 and 709 of Title 18, United States Code, which prohibit the unauthorized use of the FBI seal or the use of the words “Federal Bureau of Investigation,” the initials “FBI,” or any colorable imitation of these words and initials “in a manner reasonably calculated to convey the impression that such [activity] . . . is approved, endorsed, or authorized by the Federal Bureau of Investigation.”
 
 **Here is how we handle information about your visit to our website:**
 
@@ -10,7 +10,7 @@ This website is provided by the Federal Bureau of Investigation as a public serv
 
 If you visit our site to read or download information, we automatically collect and store the following information about your visit:
 
-  * The name of the domain (for example,"xcompany.com" if you use a private Internet access account or "yourschool.edu" if you are connecting from a university's domain) and IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our website;
+  * The name of the domain (for example,”xcompany.com” if you use a private Internet access account or “yourschool.edu” if you are connecting from a university’s domain) and IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our website;
   * The type of browser and operating system used to access our site;
   * The date and time you access our site;
   * The Internet address of the website from which you linked directly to our site; and
@@ -36,9 +36,9 @@ The FBI is especially concerned about protecting children’s privacy. We hope p
 
 **D. Cookies**
 
- "Cookies" are small bits of text that are either used for the duration of a session ("session cookies") or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a website ("persistent cookies"). Certain pages on the FBI’s website and its subdomains use session cookies to provide streamlined navigation and for statistical analysis. We also use session cookies as part of a voluntary web customer satisfaction survey that will appear to a small percentage of our website visitors as they leave the FBI’s site. Session cookies are deleted from the FBI’s servers soon after your session ends and are not collected or saved. Our customer satisfaction survey uses a persistent cookie that is stored on your computer’s hard drive. This cookie ensures that we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey. 
+ “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on to a website (“persistent cookies”). Certain pages on the FBI’s website and its subdomains use persistent cookies to provide streamlined navigation and for statistical analysis. We also use session cookies as part of a voluntary web customer satisfaction survey that will appear to a small percentage of our website visitors as they leave the FBI’s site. Session cookies are deleted from the FBI’s servers soon after your session ends and are not collected or saved. Our customer satisfaction survey uses a persistent cookie that is stored on your computer’s hard drive. This cookie ensures that we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey. 
 
-For videos that are visible on FBI.gov, a persistent cookie is set by third party providers when you click to play a video. This persistent cookie is used by some third party providers to help maintain the integrity of video statistics. The third party providers do not use web measurement and customization technologies on behalf of the FBI; in addition, Personally Identifiable Information (PII), or any information that could be used to determine an individual’s online activity derived from such uses, is not shared with the FBI. 
+For videos that are visible on FBI.gov, a persistent cookie is set by third party providers when you click to play a video. This persistent cookie is used by these third party providers to help maintain the integrity of video statistics. The third party providers do not use web measurement and customization technologies on behalf of the FBI; in addition, Personally Identifiable Information (PII), or any information that could be used to determine an individual’s online activity derived from such uses, is not shared with the FBI. 
 
 You can set up your web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our website if you do not accept the cookies, but you may be unable to use certain cookie-dependent features. You can find directions to help you disable cookies in some of the most popular desktop browsers and mobile browsers by following the instructions on the [USA.gov web measurement and customization opt out help site](http://www.usa.gov/optout_instructions.shtml).   
 
@@ -57,7 +57,7 @@ We maintain a variety of physical, electronic, and procedural safeguards to prot
 
 **G. Disclaimer for Hypertext Links**
 
-Neither the FBI nor its contributors are responsible for the content of any off-site pages that are referenced by or that reference to the FBI's homepage. The user specifically acknowledges that neither the FBI nor its contributors are responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Links from the FBI homepage on the World Wide Web to other sites or from other sites to the FBI homepage do not constitute an endorsement by the FBI. These links are for convenience only. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites.
+Neither the FBI nor its contributors are responsible for the content of any off-site pages that are referenced by or that reference to the FBI’s homepage. The user specifically acknowledges that neither the FBI nor its contributors are responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Links from the FBI homepage on the World Wide Web to other sites or from other sites to the FBI homepage do not constitute an endorsement by the FBI. These links are for convenience only. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites.
 
 **H. Disclaimer for FBI Information**
 
@@ -68,3 +68,8 @@ All information provided by the FBI on this homepage is made available to provid
 Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. government.
 
 For more details, please read the [Privacy Policy of the Department of Justice](http://www.justice.gov/privacy-file.htm), which also applies to the FBI.
+
+For videos that are visible on FBI.gov, a persistent cookie is set by third party providers when you click to play a video. This persistent cookie is used by these third party providers to help maintain the integrity of video statistics. The third party providers do not use web measurement and customization technologies on behalf of the FBI; in addition, Personally Identifiable Information (PII), or any information that could be used to determine an individual’s online activity derived from such uses, is not shared with the FBI.
+
+|   
+---|---
