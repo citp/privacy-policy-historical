@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitshare.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120225211id_/http%3A//bitshare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitshare.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501070154id_/http%3A//bitshare.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BitShare.com - Free File Sharing and Storage
 
