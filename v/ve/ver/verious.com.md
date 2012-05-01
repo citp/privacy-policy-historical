@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the verious.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115817id_/http%3A//verious.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verious.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501062724id_/http%3A//www.verious.com/privacy/index.php) for the most accurate reproduction.*
 
 # Verious - Serious Software for Mobile Apps!
-
-## Privacy Policy
 
 Verious, Inc. (“Verious”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.verious.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Verious in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
