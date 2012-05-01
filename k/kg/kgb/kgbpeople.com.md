@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135558id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501153127id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - www.kgbpeople.com
+# Polityka prywatności - www.kgbpeople.com
 
 ### Privacy policy
 
