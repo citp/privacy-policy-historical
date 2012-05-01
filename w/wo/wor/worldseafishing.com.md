@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218014657id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501103017id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sea Fishing and Sea Angling Online
 
 * * *
 
   
-| 
-
-[](http://www.worldseafishing.com/click/4/url/aHR0cDovL2Fkcy5ldS5lLXBsYW5uaW5nLm5ldC9laS8zLzJiNS83NjdiOTEzMzk4ODBjOWI2P2l0PWkmcm5kPScgKyBybmQgKyAn)
-
-| 
-
-  *   * [ Print version](http://www.worldseafishing.com/about/privacy.html?print)
-
-  
----|---  
 Privacy Policy
 
 * * *
@@ -40,7 +30,7 @@ World Sea Fishing reserves the right, at any time, to modify, alter, or update t
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [www.networkadvertising.org](http://www.networkadvertising.org/)
 
   
-
+| 
 
 |   
 ---  
