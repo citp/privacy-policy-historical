@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monigames.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228133135id_/http%3A//www.monigames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monigames.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501181549id_/http%3A//www.monigames.com/privacy.html) for the most accurate reproduction.*
 
 # MoniGames.com - online games for girls
 
