@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogrumogru.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GogruMogru.com
 
 |  |  [](http://www.gogrumogru.com/) |  |   
 ---|---|---|---  
-[Home](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/) | [Music](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/music/) | [Dating](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/) | [Ecards](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/ecards/) | [Games](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/games/) | [Send Free SMS](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/sendfreesms.php)  
+[Home](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/) | [Music](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/music/) | [Dating](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/) | [Ecards](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/ecards/) | [Games](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/games/) | [Send Free SMS](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/sendfreesms.php)  
 ---|---|---|---|---|---  
-[Videos](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/videos.php) | [Celebs Pictures](http://www.mastcelebs.com/) | [Favorite SMS](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/invite.php) | [Search Friends](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/onlineprofiles.php)  
+[Videos](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/videos.php) | [Celebs Pictures](http://www.mastcelebs.com/) | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/invite.php) | [Search Friends](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/onlineprofiles.php)  
 ---|---|---|---|---|---  
 ****   
 
@@ -160,5 +160,5 @@ You can also send us email at: [info@gogrumogru.com](mailto:info@gogrumogru.com)
 ---|---  
   
   
-[Hindi Songs](http://www.songs.ind.in/) | [Cricket](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/cricket) | [Movies](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/movies) | [Quick Email](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20111101132616id_/http%3A//www.gogrumogru.com/home/wallpapers/)  
+[Hindi Songs](http://www.songs.ind.in/) | [Movies](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/movies) | [Quick Email](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20120501123727id_/http%3A//www.gogrumogru.com/home/wallpapers/) | [Monuments](http://www.monuments.ws/ "Monuments")  
 ---|---|---|---|---|---
