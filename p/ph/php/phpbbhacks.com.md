@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220160905id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpbbhacks.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501194752id_/http%3A//www.phpbbhacks.com/phpbbhacks/privacy.php) for the most accurate reproduction.*
 
 # phpBBHacks.com - Privacy Policy
 
@@ -33,9 +33,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 This site gives users the following options for changing and modifying information previously provided: 
 
 1\. For submissions to our database, you can visit the following URL: <http://www.phpbbhacks.com/submit.php>   
-2\. For other content in the non forums sections of our website, you may e-mail: [patrick@phpbbhacks.com  
-](mailto:patrick@phpbbhacks.com)3\. For our forums, you can visit the following URL: <http://www.phpbbhacks.com/forums/profile.php?mode=editprofile>
+2\. For other content in the non forums sections of our website, you may e-mail: [thoul@phpbbhacks.com  
+](mailto:thoul@phpbbhacks.com)3\. For our forums, you can visit the following URL: <http://www.phpbbhacks.com/forums/profile.php?mode=editprofile>
 
 **Contacting the Website**
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please contact us at [patrick@phpbbhacks.com](mailto:patrick@phpbbhacks.com).
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please contact us at [thoul@phpbbhacks.com](mailto:thoul@phpbbhacks.com).
