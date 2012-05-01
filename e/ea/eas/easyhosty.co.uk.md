@@ -1,53 +1,66 @@
-> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007172117id_/https%3A//easyhosty.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhosty.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501143353id_/https%3A//easyhosty.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Website Hosting Privacy Policy
+# EasyHosty Privacy Policy
 
-Your right to privacy is very important. EasyHosty recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We believe this information should only be used to help us provide you with a better service. That's why we have put a policy in place to protect your personal information. Below is a summary of our policy.
+EasyHosty Solutions Limited. is committed to respecting privacy of customers and users of the EasyHosty website. 
 
-By submitting personal data manually or in electronic form to this web site, or by using this site, you give your consent that all personal data you submit may be processed in the manner and for the purposes described below.
+This privacy policy governs the manner in which EasyHosty Solutions Limited. (EasyHosty) uses, maintains and discloses information collected from customers and users of the EasyHosty Website. 
 
-**What personal information do we collect?**   
-When making a purchase with EasyHosty, we will collect your contact information, which includes name, address, email address and phone number, as well as payment information. When you become a EasyHosty customer you automatically subscribe to electronic newsletter and special offer promotions. You can adjust your email preferences and/or unsubscribe from certain communications via the client area.
+### Privacy
 
-**Protecting your privacy**   
-We will take appropriate steps to protect your privacy. Whenever you provide sensitive information (for example, a credit card number to make a purchase), we will take all reasonable steps to protect it, such as encrypting your card number. We will also take reasonable security measures to protect your personal information in storage. Credit card numbers are used only for payment processing and are not retained for marketing purposes.
+EasyHosty is committed to developing long lasting relationships based on trust. EasyHosty will do everything in its power to ensure that your right to privacy is maintained and protected. This Website is not directed at children under 13 years of age. 
 
-EasyHosty may provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies of these third party sites.
+### Information EasyHosty Collects
 
-**Use of cookies**   
-EasyHosty uses cookies for various reasons, for example, cookies enable us to track information during the domain name registration and package sign-up process. These cookies do not track individual information. Cookies from EasyHosty can only be read by EasyHosty. If you choose to disable cookies in your browser, you will not be able to carry out a transaction with EasyHosty nor login to your control panel.
+EasyHosty may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. The information EasyHosty collects is personal information that identifies you personally, such as: 
 
-If you do nothing other than read pages or download information while using this web site, we will capture and store information about your visit. This information will not identify you; it relates to:
+Your name  
+E-mail address  
+Postal address  
+Telephone and facsimile numbers  
+URL  
+Billing information
 
-  * the Internet domain (e.g. www.company.co.uk) and IP address from which you access the web site
-  * the type of browser (Internet Explorer or Netscape) and operating system (Windows, UNIX) you use
-  * the date and time of your visit
-  * the pages you visit
-  * the address of the web site from which you linked to us (if applicable).
+EasyHosty may also collect information on how users access the Website by using a tracking ID unique to each user through the use of cookies. 
 
+### What are Cookies?
 
+A cookie is a piece of data stored on the user's computer tied to information about the user. EasyHosty may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by EasyHosty to track user preferences while the user is visiting the website. They also help to minimise load times and save on server processing. Persistent cookies may be used by EasyHosty to store, for example, whetheror not you want your password remembered, or other such information. Cookies used on the EasyHosty Website do not contain personally identifiable information. 
 
-We use this information to make each visit more rewarding, and to provide us with information to help improve our service. We do not know (and do not want to know) the identities of people who visit us in this way.
+### Log Files
 
-**Data storage in the U.K.**   
-Any information that EasyHosty needs to store and process will be carried out on databases located in the UK, and in full compliance of the Data Protection Act.
+Like most standard Websites, EasyHosty use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in the EasyHosty log files, including but not limited to IP addresses, is linked to personally identifiable information. 
 
-**How can you update the personal information you have provided to us?**   
-You can help EasyHosty maintain the accuracy of your information by notifying EasyHosty of any changes to your address, title, phone number or e-mail address. You can do this by updating your personal details from within the client area..
+### How EasyHosty uses this information
 
-The personal information we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of collection. We reserve the right to change the Privacy Policy from time to time and will provide notice of these changes on the Privacy Policy pages of our web site. You should make sure you periodically review the Privacy Policy to make sure it meets your needs.
+EasyHosty may use the personally identifiable information collected by EasyHosty to contact customers regarding products and services offered by EasyHosty and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners. EasyHosty may also use this information for research purposes regarding the effectiveness of Website services, marketing, advertising and sales efforts. EasyHosty will not in any way share this information with a third party either for free or by selling it, unless you specifically authorise such disclosures. 
 
-**Personal and account information**   
-EasyHosty will not otherwise disclose its customers personal and account information unless EasyHosty has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of EasyHosty, EasyHosty 's' customers, or others, or where EasyHosty has a good faith belief that the law requires such disclosure. 
+### Disclosure of Information
 
-**Electronic communications**   
-EasyHosty also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that EasyHosty stores or transmits for its customers. The circumstances under which EasyHosty will disclose such electronic customer communications are when: 
+EasyHosty may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case EasyHosty is sold, the information collected from users may be transferred to the new owners.
 
-  * it is necessary in order to provide service to the customer;
-  * it is necessary to protect the legitimate interests of EasyHosty and its customers;
-  * it is required to cooperate with dispute policies, court orders, warrants, or other legal processes that EasyHosty determines in its sole discretion to be valid and enforceable
-  * it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by EasyHosty and appear to pertain to the commission of a crime.
+EasyHosty may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyse or otherwise store or manipulate data received by EasyHosty from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as EasyHosty and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
 
+### Special Offers and Updates
 
+EasyHosty customers and users will occasionally receive information on products, services, special deals, and possibly a newsletter. Out of respect for the privacy of users, EasyHosty presents the option to not receive these types of communications. 
 
-EasyHosty disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. EasyHosty will, however, review, delete or block access to communications that may harm EasyHosty, its customers or third parties or otherwise infringe the rights of third parties. The grounds on which EasyHosty may take such action include, but are not limited to, actual or potential violations of EasyHosty 
+### Service Announcements
+
+On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, a service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+
+### Legal Disclaimer
+
+Though every effort is made to preserve your privacy, EasyHosty may need to disclose personal information when required to by law. If it is deemed necessary that such action needs to be taken, EasyHosty will comply with judicial proceedings should a court order or legal process be served on EasyHosty. 
+
+The EasyHosty Website contains links to other sites. Please be aware that EasyHosty is not responsible for the privacy practices of such other sites. You are encouraged to read the privacy statements of each and every Web site that collects personally identifiable information. The EasyHosty Privacy Policy as described herein applies solely to information collected by EasyHosty. 
+
+### Maintenance of Information
+
+The information provided to EasyHosty is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by EasyHosty. EasyHosty employs industry standard security measures to protect the confidentiality of the information. Although EasyHosty cannot guarantee that any loss, misuse or alteration of data will not occur; every effort is made to prevent such occurrences. Any other particularly sensitive information, such as payment details collected for commercial transactions, is encrypted prior to transmission by you to EasyHosty. 
+
+### Your Responsibility
+
+You are responsible for the security of your Account usernames and passwords. Make sure you keep it in a safe place and do not share it with others. 
+
+Always remember to log out after your session ends, to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home. 
