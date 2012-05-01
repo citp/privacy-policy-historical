@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoverflow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220708id_/http%3A//www.seoverflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoverflow.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502001037id_/http%3A//www.seoverflow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | seOverflow
+# Privacy Policy| seOverflow
 
 **What information do we collect?**
 
@@ -71,7 +71,7 @@ This policy was last modified on 07/15/2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.seoverflow.com  
+seoverflow.wpengine.com  
 3457 Ringsby Ct, Suite 307  
 Denver, CO 80216  
 USA  
