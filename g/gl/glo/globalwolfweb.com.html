@@ -1,154 +1,565 @@
-<!--The following is the downloaded HTML source of the globalwolfweb.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101120027id_/http%3A//lwolf.com/web_privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalwolfweb.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501105422id_/http%3A//www.lwolf.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Lone Wolf Real Estate Technologies</title>
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta http-equiv="content-type" content="text/html;charset=utf-8">
-<meta name="keywords" content="">
-<meta name="description" content="">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
 
-<link rel="stylesheet" href="style.css" type="text/css">
-<link rel="shortcut icon" href="LoneWolf.ico">
+<title>Lone Wolf Privacy Statement</title>
+<meta name="WT.z_Connect_Company" content="Lone Wolf Real Estate Technologies Inc">
+<meta name="WT.z_Connect_Client" content="LWEX">
+<meta name="WT.z_Connect_Site_Type" content="globalWOLF Office">
+<meta name="WT.z_Connect_Province" content="ON">
+<meta name="WT.z_Connect_Country" content="CA">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="imagetoolbar" content="no">
+
+<meta name="Distribution" content="Global">	
+<meta name="robots" content="NOODP">
+<meta name="author" content="Lone Wolf Real Estate Technologies">
+<meta name="Description" content="privacy statement">
+<meta name="Keywords" content="privacy statement">
+
+<!-- property search page styles (viewhome.asp, listagenthomes.asp, findhomerequest.asp -->
+<link rel="stylesheet" type="text/css" media="all" href="http://www.lwolf.com/global_styles.css" title="Property Search Styles">
+
+<!-- calendar stylesheet -->
+<style type="text/css">@import url(/JScriptCalendar/calendar-system.css);</style>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.lwolf.com/JScriptCalendar/calendar-system.css" title="win2k-cold-1">
+<!-- main calendar program -->
+<script id="facebook-jssdk" src="http://www.lwolf.com//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.lwolf.com/JScriptCalendar/calendar.js"></script>
+<!-- language for the calendar -->
+<script type="text/javascript" src="http://www.lwolf.com/JScriptCalendar/lang/calendar-en.js"></script>
+<!-- the following script defines the Calendar.setup helper function, which makes adding a calendar a matter of 1 or 2 lines of code. -->
+<script type="text/javascript" src="http://www.lwolf.com/JScriptCalendar/calendar-setup.js"></script>
+
+<script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+<!--[if IE 6]>
+    <script type="text/javascript" src="http://www.lwolf.com/scripts/jquery/jquery.bgiframe.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.lwolf.com/SpryTabbedPanels.js"></script>
+<script type="text/javascript" src="http://www.lwolf.com/js/ps_popup3.js"></script>
+
+<script language="javascript" type="text/javascript">
+try 
+{
+	var LWHttpObject = function (url,querystring,method,statechangehandler,asynchronous) 
+	{
+		//var XMLHttpObject;
+		var locurl;
+		var locquerystring;
+		if (method.toUpperCase()=="GET") {
+			if (querystring != "") {
+				locurl = url + "?" + querystring + "&AjaxRequest=Y";
+			} else {
+				locurl = url + "?AjaxRequest=Y";
+			}
+		} else {
+			locurl = url + "?AjaxRequest=Y";
+			locquerystring = querystring;
+		}
+		if (window.XMLHttpRequest) 
+		{
+			this.XMLHttpObject = new XMLHttpRequest();	
+			this.XMLHttpObject.open(method.toUpperCase(), locurl, asynchronous);
+			if (method.toUpperCase() == "POST") {
+				this.XMLHttpObject.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+				this.XMLHttpObject.setRequestHeader("Content-length", locquerystring.length);
+				this.XMLHttpObject.setRequestHeader("Connection", "close");
+			}
+			if (asynchronous) {
+				this.XMLHttpObject.onreadystatechange = statechangehandler;
+			}
+		} 
+		else if (window.ActiveXObject) 
+		{
+			this.XMLHttpObject = new ActiveXObject("Microsoft.XMLHTTP");
+			this.XMLHttpObject.open(method, locurl, asynchronous);
+			if (method.toUpperCase() == "POST") {
+				this.XMLHttpObject.setRequestHeader('Content-Type','application/x-www-form-urlencoded');
+			}
+			if (asynchronous) {
+				this.XMLHttpObject.onreadystatechange = statechangehandler;
+			}
+		}
+
+		if (method.toUpperCase() == "GET") {
+			this.sendData = null;			
+		} else {
+			this.sendData = locquerystring;			
+		}
+		
+		this.send = function() {
+			this.XMLHttpObject.send(this.sendData);					
+		}
+		
+		this.readyState = function() {
+			return this.XMLHttpObject.readyState;
+		}
+		
+		this.responseText = function() {
+			return this.XMLHttpObject.responseText;
+		}
+
+		this.status = function() {
+			return this.XMLHttpObject.status;
+		}
+
+		this.responseXML = function() {
+			return this.XMLHttpObject.responseXML;
+		}
+
+		this.responseBody = function() {
+			return this.XMLHttpObject.responseBody;
+		}
+
+		this.statusText = function() {
+			return this.XMLHttpObject.statusText;
+		}
+
+	}
+} catch(ex) {}
+</script>
+
+<script type="text/javascript">
+var CookiesCheckHTTP = null;
+CookiesCheckHTTP = new LWHttpObject("/establishcookies.asp","",'POST',null,true);
+CookiesCheckHTTP.send();
+</script>
+
+<script type="text/javascript">
+var LW_EmailRe;
+var LW_PhoneRe;
+var LW_URLRe;
+LW_EmailRe = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w{2,}$/;
+LW_PhoneRe = /^((\+\w{1,3}(-| )?\(?\w\)?(-| )?\w{1,5})|(\(?\w{2,6}\)?))(-| )?(\w{3,4})(-| )?(\w{4})(( x| ext)\d{1,5}){0,1}$/;
+LW_URLRe = /^https?:\/\/([-\w\.]+)+(:\d+)?(\/([\w\/_\.]*(\?\S+)?)?)?$/;
+function AddtoFavorites() {
+	try {
+	if(window.sidebar) {
+		window.sidebar.addPanel(document.title, location.href,"");
+
+	} 
+	else if( document.all ) { 
+		window.external.AddFavorite(location.href, document.title);
+
+	} 
+	else if( window.opera && window.print ) { 
+
+	}
+	} catch(ex) {
+		alert("Press Ctrl-D to bookmark this page");
+	}
+}
+</script>
+
+
+    <script language="JavaScript" type="text/javascript">
+        //metas_NEW.asp
+
+        $().ready(function () {
+            if ($("#support-modal-verify").length > 0) {
+                $("#support-modal-verify").dialog({
+                    autoOpen: false,
+                    bgiframe: true,
+                    modal: true,
+                    width: 700,
+                    zIndex: 10000,
+                    closeOnEscape: true,
+                    position: "top",
+                    dialogClass: "support-modal"
+                });
+                $(".support-modal.ui-dialog").css({
+                    position: "fixed",
+                    top: "0px"
+                });
+            }
+        });
+
+        $(window).resize(function() {
+        });
+
+
+        function executeURL(url, tmp) {
+            var resultshttp = new LWHttpObject(url, tmp, 'GET', null, false);
+            resultshttp.send()
+            //alert('url = ' + url + '; resultshttp.readyState() = ' + resultshttp.readyState());
+            if (resultshttp.readyState() == 4) {
+                //alert(resultshttp.responseText());
+                $("#support-modal-verify").html(resultshttp.responseText());
+                $("#support-modal-verify").dialog("open");
+                $(".support-modal.ui-dialog").css({
+                    position: "fixed",
+                    top: "0px"
+                });
+            }
+        }
+
+        function closeModal() {
+            $("#support-modal-verify").html("");
+            $("#support-modal-verify").dialog("close");
+            return false;
+        }
+    </script>
+
+
+
+	<script language="javascript" type="text/javascript" src="http://www.lwolf.com/menu.js"></script>
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/menu.css">
+
+	
+	<link rel="stylesheet" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/css/style.css">	
+	<link rel="stylesheet" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/menu.css">	
+	<link rel="stylesheet" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/css/jquery.jtweetsanywhere-1.3.1.css">
+	<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/css/960_24_col.css">
+	<script type="text/javascript" src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+    <script type="text/javascript" src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite//js/fancybox/video.js"></script>
+
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/js/jquery.jtweetsanywhere-1.3.1.min.js"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#tweetFeed').jTweetsAnywhere({
+			    username: 'getlwolf',
+			    count: 1
+			});
+		});
+	</script>
 </head>
 <body>
-<div class="container">
-	<div class="pagewidth">
-		<div id="header">
-			<div id="header_left" onclick="document.location.href='index.htm';">
-						
-			</div>
-			<div id="header_right">
+<!-- Facebook Like Button -->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src="http://www.lwolf.com//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<div class="lw_container lw_branding">
+	<section class="lw_l_6">
+	<header>
+			<a class="lw_h1_a" href="http://www.lwolf.com/"><h1 class="lw_h1">Real Estate Accounting Software, Enterprise Solutions for your Real Estate Office Needs</h1></a>
 			
-				<div class="header_login_area">
-					<a href="https://lonewolfhosted.ilinc.com/perl/ilinc/lms/instant.pl" class="support_session" target="_blank">
-						<div class="login_title_align">
-							Support Session
-						</div>
-					</a>
-					<a href="https://lonewolfhosted.ilinc.com/perl/ilinc/lms/event.pl?div_view=reg&amp;event_user_id=" target="_blank" class="demo_login">
-						<div class="login_title_align"> 
-							Join Group Demo
-						</div>
-					</a>
-					<a href="CustSupport/support.htm" class="client_login">
-						<div class="login_title_align"> 
-							Client Login
-						</div>
-					</a>
-					<a href="testimonials.htm" class="testimonials_btn">
-						<div class="login_title_align"> 
-							Testimonials
-						</div>
-					</a>
-				</div>
-				<!-- NAV -->
-				<div id="nav">
-					<div id="tabsH">
-						<ul>
-							<li><a href="index.htm"><span>Home</span></a></li>
-							<li><a href="solutions.htm"><span>Solutions</span></a></li>
-							<li><a href="CustSupport/support.htm"><span>Support</span></a></li>
-							<li><a href="mission_statement.htm"><span>Company</span></a></li>
-							<li><a href="partners.htm"><span>Partners</span></a></li>
-							<li><a href="news.htm"><span>News/Events</span></a></li>
-							<li><a href="contact.htm"><span>Contact Us</span></a></li>
-						</ul>
-					</div>
-				</div>
-				<!-- END NAV -->
-			</div>
-			<div class="clear"></div>
-		</div>
+			<!--<div class="lw_logo"><a href="http://www.lwolf.com/default.asp"><img src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/images/spacer.gif" height="119" width="219"></a></div>-->
+		</header>
+	</section>
+	<section class="lw_l_18">
+		<nav class="lw_top_nav">
+			<ul>
+	  			
+	<ul class="leftnav">
+			
+		<li class="tn_first">
+			<a href="http://joingotomeeting.com" class="topmenu" target="_blank" title="" onclick="">Support Session</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://joingotowebinar.com" class="topmenu" target="_blank" title="" onclick="">Join Group Demo</a>
+		</li>
+		
+		<li class="tn_last">
+			<a href="javascript: executeURL('/support-login.aspx');" class="topmenu" target="" title="Client Login" onclick="">Client Login</a>
+		</li>
+					
+	</ul>
+	
+	 		 </ul>
+		</nav>
+		<div class="lw_social"></div>
+	  <h2 class="lw_tag">Helping <span class="lw_red">Real Estate</span> offices realize their <span class="lw_red">full potential</span></h2>
+	 <div class="lw_header_products">
+	  	<h3 class="lw_header_icon1">
+	  		<a class="lw_bwolf_icon" href="http://www.lwolf.com/rms">Back Office Accounting</a>
+	  	</h3>
+	  	<h3 class="lw_header_icon2">
+	  		<a class="lw_wconnect_icon" href="http://www.lwolf.com/wolfconnect">Front Office Management</a>
+	  	</h3>
+	  	<h3 class="lw_header_icon3">
+	  		<a class="lw_gwolf_icon" href="http://www.lwolf.com/globalwolf">Broker and Agent Websites</a>
+	  	</h3>
+	 </div>
+	</section>
+  </div>
+  <div class="lw_main_nav">
+     <div class="lw_container">
+	    <div class="lw_l_24">
+         <nav class="lw_nav">
+     		
+	<ul class="topnav">
+			
+		<li class="tn_first">
+			<a href="http://www.lwolf.com/default.asp" class="topmenu" target="" title="Home" onclick="">Home</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/rms" class="topmenu" target="" title="" onclick="">Solutions</a>
+			<ul class="subnav">
+				<li class="sn_first">
+					<a href="http://www.lwolf.com/rms" class="submenu" target="" title="brokerWOLF" onclick="">brokerWOLF</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/wolfconnect" class="submenu" target="" title="WOLFconnect" onclick="">WOLFconnect</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/globalwolf" class="submenu" target="" title="globalWOLF" onclick="">globalWOLF</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/mobile-wolf" class="submenu" target="" title="mobileWOLF" onclick="">mobileWOLF</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/wolfmedia" class="submenu" target="" title="WOLFmedia" onclick="">WOLFmedia</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/wolftracks" class="submenu" target="" title="WOLFtracks" onclick="">WOLFtracks</a>
+				</li>
+				
+				<li class="sn_last">
+					<a href="http://www.lwolf.com/wolfwatch" class="submenu" target="" title="WOLFwatch" onclick="">WOLFwatch</a>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="javascript: executeURL('/support-login.aspx');" class="topmenu" target="" title="" onclick="">Support</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/mission-statement" class="topmenu" target="" title="Company" onclick="">Company</a>
+			<ul class="subnav">
+				<li class="sn_first">
+					<a href="http://www.lwolf.com/mission-statement" class="submenu" target="" title="Mission Statement" onclick="">Mission Statement</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/contact" class="submenu" target="" title="Contact Us" onclick="">Contact Us</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/staff" class="submenu" target="" title="Staff Bios" onclick="">Staff Bios</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/lone-wolf-history" class="submenu" target="" title="Lone Wolf History" onclick="">Lone Wolf History</a>
+				</li>
+				
+				<li class="sn_last">
+					<a href="http://www.lwolf.com/career" class="submenu" target="" title="Career Opportunities" onclick="">Career Opportunities</a>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/integration-partners" class="topmenu" target="" title="Partners" onclick="">Partners</a>
+			<ul class="subnav">
+				<li class="sn_first">
+					<a href="http://www.lwolf.com/integration-partners" class="submenu" target="" title="Integration Partners" onclick="">Integration Partners</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/business-partners" class="submenu" target="" title="Business Partners" onclick="">Business Partners</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/franchises" class="submenu" target="" title="Franchises" onclick="">Franchises</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/product-partners" class="submenu" target="" title="Product Partners" onclick="">Product Partners</a>
+				</li>
+				
+				<li class="sn_last">
+					<a href="http://www.lwolf.com/media-partners" class="submenu" target="" title="Media Partners" onclick="">Media Partners</a>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/news" class="topmenu" target="" title="" onclick="">News - Events</a>
+			<ul class="subnav">
+				<li class="sn_first">
+					<a href="http://www.lwolf.com/news" class="submenu" target="" title="Newsletter" onclick="">Newsletter</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/news-articles" class="submenu" target="" title="News Articles" onclick="">News Articles</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/press-releases" class="submenu" target="" title="Press Releases" onclick="">Press Releases</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/business-tips" class="submenu" target="" title="Business Tips" onclick="">Business Tips</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/trade-shows" class="submenu" target="" title="Trade Shows" onclick="">Trade Shows</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/webinars" class="submenu" target="" title="Webinars" onclick="">Webinars</a>
+				</li>
+				
+				<li class="sn_last">
+					<a href="http://www.lwolf.com/rms-back-office-efficiency-training" class="submenu" target="" title="brokerWOLF Training" onclick="">brokerWOLF Training</a>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/career" class="topmenu" target="" title="" onclick="">Careers</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/client-testimonials" class="topmenu" target="" title="" onclick="">Testimonials</a>
+			<ul class="subnav">
+				<li class="sn_only">
+					<a href="http://www.lwolf.com/video-testimonials" class="submenu" target="" title="Video Testimonials" onclick="">Video Testimonials</a>
+				</li>
+			</ul>
+		</li>
+		
+		<li class="tn_last">
+			<a href="http://www.lwolf.com/contact" class="topmenu" target="" title="" onclick="">Contact Us</a>
+			<ul class="subnav">
+				<li class="sn_first">
+					<a href="http://www.lwolf.com/site-map" class="submenu" target="" title="Site Map" onclick="">Site Map</a>
+				</li>
+				
+				<li class="sn_mid">
+					<a href="http://www.lwolf.com/privacy-statement" class="submenu" target="" title="Privacy Statement" onclick="">Privacy Statement</a>
+				</li>
+				
+				<li class="sn_last">
+					<a href="http://www.lwolf.com/terms-of-use" class="submenu" target="" title="Terms of Use" onclick="">Terms of Use</a>
+				</li>
+			</ul>
+		</li>
+					
+	</ul>
+	
+  	 	 </nav>
+    	</div>
+  	</div>
+  </div>
+  <div class="clear"></div>
+	<div class="lw_products_inner">
+	  <div class="lw_container">
+  		<section class="lw_l_24">
+  			<figure class="lw_media_slide_inner">
+  			<h2>We sell a relationship, not a product.</h2>
+<cite>- Lone Wolf, Mission Statement</cite>
+  			</figure>
+  		</section>
+  		</div>
 	</div>
-	<div class="pagewidth">
-		<div id="wrapper" class="clearfix">
-			<div id="maincol"> 
-				<!-- MAIN AREA -->
-				<div id="main_area">
-					<div class="contact">
-						<h2>Web Privacy Statement</h2>
-							<div id="sitemap">
-							  <p><strong>Overview</strong><br>
-						      Most of the  information accessible on the Lone Wolf Real Estate Technologies Inc.'s website  does not require you to identify yourself at all. You may access it  anonymously. However, Lone Wolf Real Estate Technologies Inc. does collect  personal information about you when you choose to provide it. We endeavour to  collect only as much personal information as is absolutely necessary to assist  you in conducting business with Lone Wolf Real Estate Technologies Inc. via the  website.</p>
-							  <p><strong>Purposes  for which we collect Personal Information</strong><br>
-						      We collect  and retain personal information for the following purposes:</p>
-                              <ul type="disc">
-                                <li>To process your requests       for services, products or further information</li>
-                                <li>To communicate with you       regarding services or products that you have requested </li>
-                                <li>To identify you if you       have a query or concern about the service or product that you have       requested</li>
-                                <li>To advise you about       changes to our web service offerings and of service interruptions</li>
-                                <li>To meet legal and       regulatory requirements</li>
-                                <li>Correcting/Updating       Personal Information</li>
-                              </ul>
-                              <p>If your personal  information changes (eg. name, address, postal code, telephone number, etc.),  or you no longer desire our services, we will endeavour to provide a way to  correct, update or remove this information. Details of how to do this are  usually provided on the web page where the information is collected or  displayed.</p>
-                              <p><strong>Use  and Disclosure of Personal Information</strong><br>
-                                Lone Wolf  Real Estate Technologies Inc. is the sole owner of the information collected on  its site. We do not use or retain personal information that you provide to us  for any secondary purposes unless we clearly notify you and gain your  permission first. We will not sell, share, rent or otherwise disclose your  personal information to any organization or individual outside Lone Wolf Real  Estate Technologies Inc. unless we first notify you and ask your permission.  The exceptions to this policy of non-disclosure are stated below. Lone Wolf  Real Estate Technologies Inc. may disclose your personal information:</p>
-                              <ul type="disc">
-                                <li>To companies contracted       to process your requests</li>
-                                <li>For law enforcement       purposes</li>
-                              </ul>
-                              <p>We use IP  addresses to analyze trends, administer the site, and gather broad demographic  information for aggregate use. IP addresses are not linked to personally  identifiable information. We may occasionally report aggregated demographic  information in the form of reports and statistics but this is not linked to any  personal information that can be used to identify any individual person.</p>
-                              <p>Some of  the Lone Wolf Real Estate Technologies Inc.'s sub-systems require the use of  "cookies". For example, we use cookies when you logon over the  Internet to save the contents of your work as you proceed from one screen to  another. Lone Wolf Real Estate Technologies Inc. uses "per-session"  cookies only. Per-session cookies are small files that are temporarily stored  in your computer's memory and are deleted when you leave the Lone Wolf Real  Estate Technologies Inc.'s web site.</p>
-                              <p><strong>Protection  of Personal Information</strong><br>
-                                Lone Wolf  Real Estate Technologies Inc. takes every precaution to protect your personal  information on the Internet. We protect your account information by requiring  you to enter a unique Login ID and Password each time you want to access your  account information. Your Password should never be shared with anyone.</p>
-                              <p>Questions  about the collection of personal information should be directed to the Lone  Wolf Real Estate Technologies Inc.'s Privacy Coordinator.&nbsp; Email, phone and  mail addresses can be found below.<br>
-                                </p>
-                              <p>Lone Wolf  Real Estate Technologies Inc. uses SSL encryption technology to protect personal  information (eg. credit card numbers, etc.) during transmission. A security  icon will appear in your browser window to indicate that you are using a secure  site.<br>
-                                </p>
-                              <p>If you  have any questions or concerns about the security at our website, you can send  an email to <a href="mailto:webmaster@lwolf.com">webmaster@lwolf.com</a><br>
-                                </p>
-                              <p>For more  information, or if you have questions or concerns, please contact the Lone Wolf  Real Estate Technologies Inc.'s Privacy Coordinator.</p>
-                              <p><strong>Privacy Coordinator Contact</strong><br>
-                                Email: <a href="mailto:privacy@lwolf.com">privacy@lwolf.com</a></p>
-                              <p>Telephone: (519)624-1236<br>
-                              </p>
-                              <p>Mail:<br>
-                                Privacy  Coordinator<br>
-                                Lone Wolf Real Estate Technologies Inc.<br>
-                                231 Shearson Cres, Suite 310<br>
-                              Cambridge, ON&nbsp; N1T1J5</p>
-                              <p><strong>Notification  of Changes to the Privacy Statement</strong><br>
-                                If we decide  to change our privacy statement, we will post those changes on the Lone Wolf  Real Estate Technologies Inc.'s home page so that you are always aware of what  information we collect, how we use it, and under which circumstances, if any,  we disclose it.<br>
-  </p>
-                              <p><strong>Links  to Other Websites</strong><br>
-                              The Lone  Wolf Real Estate Technologies Inc.'s website contains links to other sites (eg.  business links, etc.). Please be aware that Lone Wolf Real Estate Technologies  Inc. cannot be held responsible for the privacy practices of other sites. When  you leave our site, we encourage you to read the privacy statement of each and  every website that you visit before you provide any personal information. The  Lone Wolf Real Estate Technologies Inc.'s privacy statement applies solely to  information collected on the Lone Wolf Real Estate Technologies Inc.'s website.</p>
-	                  </div>	  
-
-						<div class="clear"></div>
-					</div>
-				</div>
-				<!-- END MAIN AREA -->
-			</div>
-			<!-- END MAIN COL AREA -->
-		</div>
-		<!-- END WRAPPER AREA -->
-	</div>
-	<div class="pagewidth_2">
-		<div id="main_bottom">
-			<div id="footerleft" class="footleft">© 2010 Lone Wolf Real Estate Technologies Inc. All Rights Reserved.</div>
-			<div id="footeright" class="footleft">
-				<div id="bottom_nav">
-					<ul>
-						<li><a href="index.htm" class="active">Home</a></li>
-						<li><a href="solutions.htm">Solutions</a></li>
-						<li><a href="CustSupport/support.htm">Support</a></li>
-						<li><a href="mission_statement.htm">Company</a></li>
-						<li><a href="partners.htm">Partners</a></li>
-						<li><a href="news.htm">News/Events</a></li>
-						<li><a href="sitemap.htm">Site Map</a></li>
-						<li><a href="contact.htm">Contact Us</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div class="SocialLinks">
-			<a href="http://www.facebook.com/GetLWolf" target="_blank"><img src="images/icon_facebook.jpg" alt="Facebook"></a>
-			<a href="http://twitter.com/GetLWolf" target="_blank"><img src="images/icon_twitter.jpg" alt="Twitter"></a>
-			<a href="http://www.youtube.com/GetLWolf" target="_blank"><img src="images/icon_youtube.jpg" alt="YouTube"></a>
-		</div>
-	</div>
+  	 <div class="lw_inner_content">
+  	 	 <div class="lw_container">
+  	
+  			
+<!-- begin content -->
+<div class="lw_l_6">
+<div class="lw_leftNav">
+<div class="lw_icon"><img title="icon" src="http://www.lwolf.com/Docs/LWEXDocs/Submit/icon.png" alt="icon" width="30" height="19"></div>
+<div class="lw_leftNav_button"><a href="http://www.lwolf.com/site-map">Site Map</a></div>
+<div class="lw_icon"><img title="icon" src="http://www.lwolf.com/Docs/LWEXDocs/Submit/icon.png" alt="icon" width="30" height="19"></div>
+<div class="lw_leftNav_button lw_left_nav_active"><a href="http://www.lwolf.com/privacy-statement">Privacy Statement</a></div>
+<div class="lw_icon"><img title="icon" src="http://www.lwolf.com/Docs/LWEXDocs/Submit/icon.png" alt="icon" width="30" height="19"></div>
+<div class="lw_leftNav_button lw_noBorder"><a href="http://www.lwolf.com/terms-of-use">Terms of Use</a></div>
 </div>
+</div>
+<div class="lw_l_18">
+<div class="lw_solutions_content">
+<h1>Web Privacy Statement</h1>
+<p><strong>Overview</strong><br>Most of the information accessible on the Lone Wolf Real Estate Technologies Inc.'s website does not require you to identify yourself at all. You may access it anonymously. However, Lone Wolf Real Estate Technologies Inc. does collect personal information about you when you choose to provide it. We endeavour to collect only as much personal information as is absolutely necessary to assist you in conducting business with Lone Wolf Real Estate Technologies Inc. via the website.</p>
+<p><strong>Purposes for which we collect Personal Information</strong><br>We collect and retain personal information for the following purposes:</p>
+<ul>
+<li>To process your requests for services, products or further information</li>
+<li>To communicate with you regarding services or products that you have requested</li>
+<li>To identify you if you have a query or concern about the service or product that you have requested</li>
+<li>To advise you about changes to our web service offerings and of service interruptions</li>
+<li>To meet legal and regulatory requirements</li>
+<li>Correcting/Updating Personal Information</li>
+</ul>
+<p>If your personal information changes (eg. name, address, postal code, telephone number, etc.), or you no longer desire our services, we will endeavour to provide a way to correct, update or remove this information. Details of how to do this are usually provided on the web page where the information is collected or displayed.</p>
+<p><strong>Use and Disclosure of Personal Information</strong><br>Lone Wolf Real Estate Technologies Inc. is the sole owner of the information collected on its site. We do not use or retain personal information that you provide to us for any secondary purposes unless we clearly notify you and gain your permission first. We will not sell, share, rent or otherwise disclose your personal information to any organization or individual outside Lone Wolf Real Estate Technologies Inc. unless we first notify you and ask your permission. The exceptions to this policy of non-disclosure are stated below. Lone Wolf Real Estate Technologies Inc. may disclose your personal information:</p>
+<ul>
+<li>To companies contracted to process your requests</li>
+<li>For law enforcement purposes</li>
+</ul>
+<p>We use IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We may occasionally report aggregated demographic information in the form of reports and statistics but this is not linked to any personal information that can be used to identify any individual person.</p>
+<p>Some of the Lone Wolf Real Estate Technologies Inc.'s sub-systems require the use of "cookies". For example, we use cookies when you logon over the Internet to save the contents of your work as you proceed from one screen to another. Lone Wolf Real Estate Technologies Inc. uses "per-session" cookies only. Per-session cookies are small files that are temporarily stored in your computer's memory and are deleted when you leave the Lone Wolf Real Estate Technologies Inc. website.</p>
+<p><strong>Protection of Personal Information</strong><br>Lone Wolf Real Estate Technologies Inc. takes every precaution to protect your personal information on the Internet. We protect your account information by requiring you to enter a unique Login ID and Password each time you want to access your account information. Your Password should never be shared with anyone.</p>
+<p>Questions about the collection of personal information should be directed to the Lone Wolf Real Estate Technologies Inc.'s Privacy Coordinator. Email, phone and mail addresses can be found below.</p>
+<p>Lone Wolf Real Estate Technologies Inc. uses SSL encryption technology to protect personal information (eg. credit card numbers, etc.) during transmission. A security icon will appear in your browser window to indicate that you are using a secure site.</p>
+<p>If you have any questions or concerns about the security at our website, you can send an email to <a href="mailto:webmaster@lwolf.com">webmaster@lwolf.com</a></p>
+<p>For more information, or if you have questions or concerns, please contact the Lone Wolf Real Estate Technologies Inc.'s Privacy Coordinator.</p>
+<p><strong>Privacy Coordinator Contact</strong><br><em>Email:</em> <a href="mailto:privacy@lwolf.com">privacy@lwolf.com</a><br><em>Telephone:</em> (519)624-1236<br><em>Mail:</em><br>Privacy Coordinator Lone Wolf Real Estate Technologies Inc.<br>231 Shearson Cres, Suite 310<br>Cambridge, ON N1T1J5</p>
+<p><strong>Notification of Changes to the Privacy Statement</strong><br>If we decide to change our privacy statement, we will post those changes on the Lone Wolf Real Estate Technologies Inc.'s home page so that you are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it.</p>
+<p><strong>Links to Other Websites</strong><br>The Lone Wolf Real Estate Technologies Inc.'s website contains links to other sites (eg. business links, etc.). Please be aware that Lone Wolf Real Estate Technologies Inc. cannot be held responsible for the privacy practices of other sites. When you leave our site, we encourage you to read the privacy statement of each and every website that you visit before you provide any personal information. The Lone Wolf Real Estate Technologies Inc.'s privacy statement applies solely to information collected on the Lone Wolf Real Estate Technologies Inc.'s website.</p>
+</div>
+</div>
+		</div>
+	  </div>
+  	<footer class="lw_footer">
+		<div class="clear_70"></div>
+		<div class="lw_container">
+			<section class="lw_l_12">
+				<div class="lw_twitter_post">
+					<div class="lw_twitter_icons">
+						<a href="https://twitter.com/getlwolf"><img src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/images/twitter_icon.png" width="115" height="58" border="0" alt="twitter"></a>
+						<div class="clear_5"></div>
+						<a href="https://twitter.com/getlwolf" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @getlwolf</a>
+					</div>
+					<div class="lw_twitter_tweet" id="twitter">
+						<div id="tweetFeed"></div>
+					</div>
+				</div>
+				<div class="clear_20"></div>
+				<div class="lw_disclaimer">
+					<p class="lwolf_disclaimer">
+						<img class="lwolf_logo_company" src="http://www.lwolf.com/GlobalTemplates/OfficeTemplates/LW-CompanySite/images/sml_wolf.png" width="64" height="37" border="0" alt="lone wolf logo">
+						<span>© 2012 Lone Wolf Real Estate Technologies Inc. All Rights Reserved.</span>
+					</p>
+					
+
+<div id="support-modal-verify"></div>
+
+<div class="disclaimertext">
+			
+			<div class="foot_Franchise">
+		Lone Wolf
+			</div>
+	
+	
+	<div class="foot_OfficeAddress">
+	Lone Wolf Real Estate Technologies Inc. (Admin)<br>231 Shearson Cres,310<br>Cambridge&nbsp;ON&nbsp;&nbsp;N1T 1J5<br>
+			</div>
+	
+</div>
+
+<div class="lwolf">
+	<div class="lwolf_text">
+		Site Powered By <a href="http://www.lwolf.com" target="_blank" title="click to view lwolf.com">Lone Wolf Real Estate Technologies</a> v2012.0.1.10
+	</div>
+	<a href="http://www.lwolf.com" target="_blank" title="click to view lwolf.com" class="lwolf_logo"><img src="http://www.lwolf.com/images/lwolf.jpg" width="49" height="27" alt="Lone Wolf Real Estate Technologies Logo" border="0"></a>
+</div>
+
+<!--GOOGLE SNIPPET-->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -158,25 +569,113 @@ var pageTracker = _gat._getTracker("UA-4491198-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script src="/scripts/webtrends.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>
-</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs6alburuz5bdg5whrh5mm0h_5n9n/wtid.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCustom=function(){
-// Add custom parameters here.
-//_tag.DCSext.param_name=param_value;
-}
-_tag.dcsCollect();
-//]]>
-</script>
-<noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs6alburuz5bdg5whrh5mm0h_5n9n/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.lwolf.com"/></div>
-</noscript>
+<!--GOOGLE SNIPPET-->
 
+		<!-- START OF SmartSource Data Collector TAG -->
+		<!-- Copyright (c) 1996-2011 WebTrends Inc.  All rights reserved. -->
+		<!-- Version: 9.3.0 -->
+		<!-- Tag Builder Version: 3.1  -->
+		<!-- Created: 3/22/2011 3:12:41 PM -->
+		<script src="http://www.lwolf.com/Scripts/webtrends.js" type="text/javascript"></script>
+		<!-- ----------------------------------------------------------------------------------- -->
+		<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+		<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+		<!-- ----------------------------------------------------------------------------------- -->
+		<script type="text/javascript">
+			//<![CDATA[
+			var trendVar = "www.lwolf.com";
+			var dcsidVar = "dcsw0pjpyuz5bd24irfexyexi_8t7m";
+			var _tag=new WebTrends();
+			_tag.dcsGetId();
+			//]]>
+		</script>
+		<script type="text/javascript">
+			//<![CDATA[
+			_tag.dcsCustom=function(){
+			// Add custom parameters here.
+			//_tag.DCSext.param_name=param_value;
+			}
+			_tag.dcsCollect();
+			//]]>
+		</script>
+		<noscript>
+			<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsw0pjpyuz5bd24irfexyexi_8t7m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.lwolf.com"/></div>
+		</noscript>
+		<!-- END OF SmartSource Data Collector TAG -->
+	
+				</div>
+			</section>
+			<section class="lw_l_6">
+				<div class="lw_btm_nav">
+				<h3> Links</h3>
+					<nav class="lw_links">
+					
+	<ul class="bottomnav">
+			
+		<li class="tn_first">
+			<a href="http://lonewolfex.globalwolfweb.com" class="topmenu" target="_blank" title="" onclick="">Employee Login</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/site-map" class="topmenu" target="" title="" onclick="">Site Map</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/privacy-statement" class="topmenu" target="" title="" onclick="">Privacy Statement</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.lwolf.com/terms-of-use" class="topmenu" target="" title="" onclick="">Terms of Use</a>
+		</li>
+		
+		<li class="tn_last">
+			<a href="http://www.lwolf.com/accessible-customer-service-plan" class="topmenu" target="" title="" onclick="">Accessible Customer Service Plan</a>
+		</li>
+					
+	</ul>
+	
+					</nav>
+				</div>
+			</section>
+			<section class="lw_l_6">
+				<div class="lw_btm_nav">
+					<h3>Company Links</h3>
+					<nav class="lw_company_links">
+						
+	<ul class="rightnav">
+			
+		<li class="tn_first">
+			<a href="http://www.seriousagenttools.com" class="topmenu" target="_blank" title="" onclick="">www.SeriousAgentTools.com</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.ConsultCoachDevelop.com" class="topmenu" target="_blank" title="" onclick="">www.ConsultCoachDevelop.com</a>
+		</li>
+		
+		<li class="tn_mid">
+			<a href="http://www.KeyToYourOffice.com" class="topmenu" target="_blank" title="" onclick="">www.KeyToYourOffice.com</a>
+		</li>
+		
+		<li class="tn_last">
+			<a href="http://www.WOLFmediaNetwork.com" class="topmenu" target="_blank" title="" onclick="">www.WOLFmediaNetwork.com</a>
+		</li>
+					
+	</ul>
+	
+					</nav>
+				</div>
+		</section>
+			 <div class="clear"></div>
+			<div class="lw_franchise_disclaimer">
+	                    
+             </div>
+        	  <div class="clear"></div>
+		</div>	
+
+  	</footer>
+	<!--[if lt IE 7 ]>
+		<script src="http://www.lwolf.com//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
+		<script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
+	<![endif]-->
 
 </body></html>
