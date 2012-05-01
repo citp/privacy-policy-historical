@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924094614id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501043848id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # RP Data Privacy Policy
 
@@ -159,7 +159,7 @@ If we do not adequately answer your concerns, you have the right to make a compl
 If you have any questions relating to this privacy policy or your personal information, please contact our Privacy Officer:
 
 [privacy@rpdata.com](mailto:privacy@rpdata.com)   
-RP Data Limited  
+RP Data Pty Ltd  
 Locked Bag 5  
 Eagle Farm QLD 4009  
 Australia  
@@ -169,6 +169,6 @@ Please provide us with your full name, address and contact number when contactin
 
 ## **General**
 
-This Privacy Policy is made on behalf of RP Data Limited (ABN 67 087 759 171) and its subsidiaries. All references to “RP Data”, “we”, “us” or “our” in this policy are references to RP Data Limited and its subsidiaries. 
+This Privacy Policy is made on behalf of RP Data Pty Ltd (ABN 67 087 759 171) and its subsidiaries. All references to “RP Data”, “we”, “us” or “our” in this policy are references to RP Data Pty Ltd and its subsidiaries. 
 
 This policy is effective as of 1 August 2011. RP Data may vary this Privacy Policy from time to time. RP Data will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at:
