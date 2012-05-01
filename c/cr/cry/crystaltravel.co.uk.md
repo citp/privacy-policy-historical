@@ -1,75 +1,50 @@
-> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229202422id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501072334id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy_policy - Holidays, travel, Cheap Holidays, discount flights, Flights
 
-|  | [](http://www.crystaltravel.co.uk/) |   |   
----|---|---  
-|    
+|     
 ---  
   
-|    
+|   
 ---  
    
 Privacy Statement for www.crystaltravel.co.uk   
-The following discloses our information gathering and dissemination practices for our [www.crystaltravel.co.uk ](https://web.archive.org/web/20111229202422id_/http%3A//www.crystaltravel.co.uk/index.aspx) website . 
-
-What information do we collect?   
-Site and Service Updates   
-Information from competitions   
-Job Applications   
-Our Opt Out Policy   
-Sharing the information   
-Cookies   
-Links   
-Security   
-Changes to Privacy Statement   
-  
-   
+The following discloses our information gathering and dissemination practices for our [www.crystaltravel.co.uk ](https://web.archive.org/web/20120501072334id_/http%3A//www.crystaltravel.co.uk/index.aspx)website .   
 What information do we collect and how we use it?  
   
 As a member of Moresand Ltd., we ask you to provide us with some personal information such as your name, email address and phone number. We also ask you to choose a login name and password in order to access some of our services. 
 
-  * We need your e-mail address in order to send you confirmation of online bookings, customer service emails and to confirm your new member registration. During your member registration, you will have the option to receive travel offers by email - if you do not wish to continue to receive these travel offers by email. You can opt out at anytime by emailng to  [optout@crystaltravel.co.uk ](mailto:optout@crystaltravel.co.uk) policy described below.   
-
-  * We collect your credit card number and expiration date to order and book a flight, hotel or car rental.   
-
-  * We would use your phone number if we need to contact you urgently (for example if you had made a mistake entering your email address).   
-
-  * We collect and store your credit card information in our internal database. Only authorized staff have access to this information and the same is stored and protected by firewalls and intrusion detection systems to prevent any unauthorised access.   
-
-  * We ask you where did you hear about [www.crystaltravel.co.uk ](http://www.crystaltravel.co.uk/) and we use this information to analyse the effectiveness of the various publicity campaigns.   
-
-  * In order to use the Flight Watch service you need to provide us with your mobile telephone number. This number is only used to fulfil the Flight Watch function and is not shared with third parties.   
-
-  * We log domain names and/or IP addresses, and browser type for our internal site traffic statistics. IP addresses, etc. are not tied to personally identifiable information.   
-
-  * We use cookies to monitor which parts of the Site are more interesting to you. 
-
-This site contains links to other sites that we are not partnered with, however, www.crystaltravel.co.uk is not responsible for the privacy practices or the content of such websites. Sites we partner with have the same look and feel as our crystaltravel.co.uk. They use your information only for supplying the service they offer, and may not use your personally identifiable information for anything other than the primary purpose for which the information was collected. 
-
-**Site and Service Updates **
-
-We also send the user site and service announcements by email. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phon
+  * We need your e-mail address in order to send you confirmation of online bookings, customer service emails and to confirm your new member registration. During your member registration, you will have the option to receive travel offers by email \- if you do not wish to continue to receive these travel offers by email. You can opt out at anytime by emailng to  [**optout@crystaltravel.co.uk**](mailto:optout@crystaltravel.co.uk)policy described below.
+  * We collect your credit card number and expiration date to order and book a flight, hotel or car rental.
+  * We would use your phone number if we need to contact you urgently (for example if you had made a mistake entering your email address.
+  * We collect and store your credit card information in our internal database. Only authorized staff have access to this information and the same is stored and protected by firewalls and intrusion detection systems to prevent any unauthorised access.
+  * We ask you where did you hear about [www.crystaltravel.co.uk ](http://www.crystaltravel.co.uk/)and we use this information to analyse the effectiveness of the various publicity campaigns.
+  * In order to use the Flight Watch service you need to provide us with your mobile telephone number. This number is only used to fulfil the Flight Watch function and is not shared with third parties.
+  * We log domain names and/or IP addresses, and browser type for our internal site traffic statistics. IP addresses, etc. are not tied to personally identifiable information.
+  * We use cookies to monitor which parts of the Site are more interesting to you.
 
 
+
+This site contains links to other sites that we are not partnered with, however, www.crystaltravel.co.uk is not responsible for the privacy practices or the content of such websites. Sites we partner with have the same look and feel as our crystaltravel.co.uk. They use your information only for supplying the service they offer, and may not use your personally identifiable information for anything other than the primary purpose for which the information was collected.  
+We also send the user site and service announcements by email. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phon   
   
    
 Information gathered from competitions   
   
-We occasionally run competitions on our site. We may ask for personal information to contact you if necessary (with a winner's notification, for example). You will also have the choice to be added to our mailing list for future promotions and travel offers. You may opt-out at any time of receiving future mailings, see the [Opt Out ](http://crystaltraveldp.agentengine.co.uk/cms/#OP) section below. Abbreviated customer names may be used on our competition winners page as well.  
+We occasionally run competitions on our site. We may ask for personal information to contact you if necessary (with a winner's notification, for example). You will also have the choice to be added to our mailing list for future promotions and travel offers. You may opt-out at any time of receiving future mailings, see the [ Opt Out ](http://crystaltraveldp.agentengine.co.uk/cms/#OP)section below. Abbreviated customer names may be used on our competition winners page as well.  
   
    
 Job Applications  
   
-There is a section of the website where you can apply for a job at [jobs@crystaltravel.co.uk ](mailto:jobs@crystaltravel.co.uk). We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else.   
+There is a section of the website where you can apply for a job at [ jobs@crystaltravel.co.uk ](mailto:jobs@crystaltravel.co.uk). We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else.   
   
    
-Our Opt Out Policy   
+Our Opt Out Policy  
   
-You can un-subscribe from travel offers by email at any time by following the instructions at the bottom of the newsletter, or by sending a blank e-mail to [optout@crystaltravel.co.uk ](mailto:customercare@crystaltravel.co.uk)  
+You can un-subscribe from travel offers by email at any time by following the instructions at the bottom of the newsletter, or by sending a blank e-mail to [ optout@crystaltravel.co.uk ](mailto:customercare@crystaltravel.co.uk)  
   
    
-Sharing the information our Site gathers/tracks  
+Sharing the information our Site gathers/tracks   
   
 The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
@@ -100,6 +75,4 @@ Changes to our Privacy Statement
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we would notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.   
   
    
-If you have questions or concerns regarding this statement, you should first contact [customercare@crystaltravel.co.uk ](mailto:customercare@crystaltravel.co.uk)  
-  
- 
+If you have questions or concerns regarding this statement, you should first contact [customercare@crystaltravel.co.uk ](mailto:customercare@crystaltravel.co.uk)
