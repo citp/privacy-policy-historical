@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214091816id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501204901id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:lyricscom="http://www.lyrics.com/ns#"><head>
 		  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		  <meta name="verify-v1" content="k1br6sikEUd0k3G96/qOGGoQOfCbjtZUn+oT10GDsHc=">
+          <meta name="google-site-verification" content="k2Lz_Wol4_l8SsCzaUj22oqAlCeKiY2L0tc0_-S0kUI">
           <meta property="og:site_name" content="Lyrics.com">
           <meta property="og:title" content="">
           <meta property="og:type" content="">
@@ -14,7 +15,7 @@
 		  		  <meta name="keywords" content="lyric, lyrics, song, music, song lyrics, music lyrics">
 		  <meta name="description" content="Lyrics.com is a music community with the largest searchable lyrics database.">
 		  <meta name="robots" content="all">
-		  <meta name="server" content="10.1.10.2">
+		  <meta name="server" content="10.1.10.3">
 		  <title>Lyrics.com - your music community with the largest searchable lyrics database.</title>
 		  
 		  
@@ -24,7 +25,7 @@
 		  <script type="text/javascript" src="http://www.lyrics.com/js/common.js?v=20100714"></script>
 		  <script type="text/javascript" src="http://www.lyrics.com/js/lyrics.js"></script>
 		  
-		  <script type="text/javascript" src="http://www.lyrics.com/js/users.js"></script>
+		  <script type="text/javascript" src="http://www.lyrics.com/js/users.js?20120116"></script>
 		  <script type="text/javascript" src="http://www.lyrics.com/js/scriptaculous.js"></script>
 		  		  
 		  <link href="/stylesheets/main.v2.1005.css?20110228" rel="stylesheet" type="text/css">
@@ -80,8 +81,7 @@
 		  </style>
 		  <script type="text/javascript" src="http://cdn1.predictad.com/scripts/publishers/lyrics/combined.js?20110906"></script></head>
 		  
-		  		  <body onload=";init_start(); " id="bodytag" class="bodyContent  userbg" oncontextmenu=""> 
-		  		  <!-- PredictAd Code (can this be the cause?) -->
+		  		  <body onload=";init_start(); " id="bodytag" class="bodyContent  userbg" oncontextmenu=""> 		 		  		  <!-- PredictAd Code (can this be the cause?) -->
 		  <div id="predictad_div" class="predictad" style="display:none;z-index:1000;"></div>
 		  <!-- End Of PredictAd Code --> 
 		  
@@ -102,8 +102,27 @@
                   	  
                       <div style="float: left; margin-top: -11px; margin-right: 20px; margin-left: 5px;"><a href="/" class="none"><img src="/images/new/logo_sm.png" class="logo" alt="Lyrics.com" border="0"></a></div>
                       <div style="float:left">
-                      <form action="http://www.lyrics.com/search.php" method="get">                      	<input id="predictadInput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" style="border:0; margin-left:5px; width:400px; margin-right:0;" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all"><input type="submit" name="search_btn" id="search_btn" value="Search" style="margin-left:0;">
-					  </form>                      </div>
+                      <script type="text/javascript">
+					  function submit_search_form()
+					  {
+						  $('search_form').setAttribute('action','http://www.lyrics.com/search.php?what=all&keyword='+$('googlecseinput').value);
+						  return true;
+					  }
+					  </script>
+                      <form action="http://www.lyrics.com/search.php" method="post" id="search_form" onsubmit="return submit_search_form();">                      	<input id="googlecseinput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" style="border:0; margin-left:5px; width:400px; margin-right:0;" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all"><input type="submit" name="search_btn" id="search_btn" value="Search" style="margin-left:0;">
+					<!-- (1) Attach autocomplete to the search box --> 
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type="text/javascript"> 
+google.load('search', '1', {language : 'en'}); 
+google.setOnLoadCallback(function() { 
+google.search.CustomSearchControl.attachAutoCompletionWithOptions( 
+'001476750268270051499:8b-v3expim8', 
+document.getElementById('googlecseinput'), 
+'search_form'
+)}); 
+</script> 
+<!-- End of autocomplete -->   
+					</form>                      </div>
                                             <!-- SEARCH -->
                       <div style="float: right; padding-top:5px;">
                       
@@ -115,7 +134,6 @@
                             	<td>
 																
 								<a href="/">Home</a>
-<a href="http://www.lyrics.com/user">Profiles</a>
 <a href="http://www.lyrics.com/artists/start/num">Browse</a>
 
 <a href="http://www.lyrics.com/submit">Submit</a>
@@ -214,7 +232,7 @@
                           <a href="http://www.lyrics.com/about/contact">Contact Us</a> | <a href="http://www.lyrics.com/about/terms_of_use">Terms of Use</a> | <a href="http://www.lyrics.com/about/privacy">Privacy Policy</a> | <a href="http://www.lyrics.com/user/api/docs/">Developers</a>
                       </td>
                       <td style="text-align:right;">
-                          © 2008 Lyrics.com | All rights reserved. | 0.0228(US)                      </td>
+                          © 2008 Lyrics.com | All rights reserved. | 0.0067(US)<!--  -->                      </td>
                   </tr>
               </tbody></table>
           </div>
@@ -281,7 +299,7 @@
       <!-- End comScore Tag -->
 	  <!-- MEEBO CODE -->
       <script type="text/javascript">
-    	Meebo('domReady');
+    	// Meebo('domReady');
 	  </script>
       <!-- END OFF MEEBO CODE -->
 
