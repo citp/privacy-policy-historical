@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126074035id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websupportteam.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501022554id_/http%3A//websupportteam.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebSupportTeam | Web Support For Your Business
 
