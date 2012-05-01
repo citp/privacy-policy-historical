@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902015900id_/http%3A//www.teeshirtpalace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501125332id_/http%3A//www.teeshirtpalace.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
 What information do we collect?
 
@@ -14,11 +12,14 @@ What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience (your information helps us to better respond to your individual needs)
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-• To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
 • To process transactions
 
@@ -72,12 +73,12 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[TeeShirtPalace.com](http://www.teeshirtpalace.com/)  
-1819 Catalpa Ct.  
-Ferndale, MI 48220  
-United States  
+[TeeShirtPalace.com](http://www.teeshirtpalace.com/)
+
+10325 Capital St.
+
+Oak Park, MI 48237
+
+United States
+
 248-549-7922
-
- ** _Free Shipping on all orders of $50.00 or more in the continental US!_**
-
-**Return or exchanges accepted within 14 days of purchase. There are no returns or exchanges on custom made or personalized items.**
