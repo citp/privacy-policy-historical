@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028134054id_/http%3A//www.pricerunner.co.uk/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricerunner.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501153253id_/http%3A//www.pricerunner.co.uk/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PriceRunner.co.uk
 
