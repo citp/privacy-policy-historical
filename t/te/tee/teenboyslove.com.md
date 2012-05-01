@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenboyslove.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104092849id_/http%3A//teenboyslove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenboyslove.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192108id_/http%3A//teenboyslove.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
