@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizanime.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521173521id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizanime.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501183045id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VIZ ANIME: Free Anime Online. All the Time.
 
