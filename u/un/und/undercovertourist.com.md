@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151805id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501134333id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Undercover Tourist
 
-No spam, just common sense and trust ...
+_No spam, just common sense and trust ..._
 
   * Your comfort in dealing with us is a priority, which is why **common sense** is used when handling your personal details.
   * Personally identifiable information is never sold or leased to any third parties.
