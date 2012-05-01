@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiledia.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016181331id_/http%3A//www.mobiledia.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledia.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501091107id_/http%3A//www.mobiledia.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mobiledia
 
