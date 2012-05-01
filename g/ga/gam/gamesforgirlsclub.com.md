@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228123021id_/http%3A//www.gamesforgirlsclub.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501152548id_/http%3A//www.gamesforgirlsclub.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Privacy Policy of GamesForGirlsClub.com web site.
+The Privacy Policy of Games for Girls Club web site.
 
  **Games for Girls Club** is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of gamesforgirlsclub.com. We outline here the information-collection procedure and usage practices for our website, [www.gamesforgirlsclub.com](http://www.gamesforgirlsclub.com/). By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
