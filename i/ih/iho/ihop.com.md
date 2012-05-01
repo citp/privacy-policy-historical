@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222213921id_/http%3A//www.ihop.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihop.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501202138id_/http%3A//www.ihop.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D40%26Itemid%3D5) for the most accurate reproduction.*
 
 # IHOP
 
