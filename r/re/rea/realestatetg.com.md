@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatetg.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230071034id_/http%3A//realestatetg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatetg.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501200848id_/http%3A//www.realestatetg.com/privacy.html) for the most accurate reproduction.*
 
 # Real Estate Trust Group - Privacy
 
@@ -22,7 +22,7 @@ Depending on your use of the Site and the services you request from Real Estate 
 
 ·         To alert you to new Site features, promotions, services, and to deliver other information from which you may opt out. 
 
-·         To enforce the _[terms of Use](https://web.archive.org/web/20111230071034id_/http%3A//realestatetg.com/terms.htm)_. 
+·         To enforce the _[terms of Use](https://web.archive.org/web/20120501200848id_/http%3A//www.realestatetg.com/terms.htm)_. 
 
 **The Information We Collect**
 
