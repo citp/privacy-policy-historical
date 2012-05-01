@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220012110id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501033605id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Coventry Building Society
 
@@ -103,6 +103,19 @@ We use this information to monitor the success of external advertising. This inf
 TMS is a session cookie, created when you arrive at our site and is removed when the browser is closed.
 
 TMP and LGP are persistent cookies, set when the user first sees Coventry campaign material and are only removed if deleted manually from your device.  
+  
+Google analytics cookie | _utma (persistent)  
+_utmz (persistent)  
+_utmb (session)  
+_utmc (session) | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. 
+
+The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+The first persistent cookie, _utma is set to expire 2 years after it is set or updated with each page view of the site.
+
+The second persistent cookie, _utmz is set to expire 6 months after it is set or updated with each page view of the site.
+
+Both session cookies are created when you arrive at our site and are removed when the browser is closed.  
   
 For more information about how to block cookies, delete cookies and more visit [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/)
 
