@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214094448id_/http%3A//www.lemonhunt.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501195053id_/http%3A//lemonhunt.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Yellow Pages Privacy Policy
 
