@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002434id_/http%3A//www.kccllc.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502010150id_/http%3A//www.kccllc.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kurtzman Carson Consultants › Privacy Statement
 
@@ -52,4 +52,4 @@ Kurtzman Carson Consultants LLC
 El Segundo, California 90245  
 [info@kccllc.com](mailto:info@kccllc.com)
 
-This policy is subject to change. This privacy statement was last updated on October 5, 2009. 
+This policy is subject to change. This privacy statement was last updated on October 5, 2009.
