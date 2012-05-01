@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the banglagamer.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025073145id_/http%3A//banglagamer.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banglagamer.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501225643id_/http%3A//banglagamer.com/go/privacy) for the most accurate reproduction.*
 
 # BanglaGamer - Rule Book
 
-  * [](http://banglagamer.com/index.php?s=227934ed7a72e6324c36a132527650c5)
+  * [](http://banglagamer.com/index.php)
   * Rule Book
 
 
