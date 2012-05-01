@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the diabloii.net privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102001131id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diabloii.net privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501080347id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en"><head>
-		<title>IncGamers</title>
-		<meta name="description" content="Videogame news, reviews, previews, videos, forums and more.">
+		<title>IncGamers.com - Latest videogame news, reviews, previews, features and more</title>
+		<meta name="description" content="Daily videogame news, previews, reviews, featiures and more">
 		<meta name="keywords" content="videogames, news, xbox,PC,xbox 360, 360,DS, Nintendo DS, Nintendo Wii, Playstation 2, PS3, Playstation 3, reviews, previews, videos, forums">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Content-Language" content="en-gb,en-us;q=0.8, en;q=0.7">	
 		<meta name="author" content="IncGamers">
-				<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css?170820112">
+				<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css?13042011">
 		<link rel="shortcut icon" type="/image/ico" href="/favicon.ico">
-							<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.thickbox.css?170820112">
-					<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css?170820112">
+							<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.thickbox.css?13042011">
+					<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css?13042011">
 				
 
-		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/jquery.js"></script>
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
 		<script type="text/javascript" src="/js/inc.javascript.js"></script>
 		
 			<script type="text/javascript">
@@ -27,6 +28,35 @@
 							$('.dropDown', this).hide();
 						}
 					);
+				}
+				var searchingForMoreNews = false;
+				function getMoreNews(obj, platform_id, sectionCode) {
+					if ( !searchingForMoreNews ) {
+						var used = ($(obj).attr('used')*1);
+						var last = $(obj).attr('last');
+						searchingForMoreNews = true;
+						$('#newsLoading').show();
+						$.ajax({
+							type: "GET", 
+							url: 'http://www.incgamers.com/index.php',
+							data: 'platform='+sectionCode+'&ajaxNews=1&anP='+platform_id+'&anU='+used+'&anL='+last, // SAVE FUNCTION
+							success: function(data) {
+								if ( data ) {
+									$(obj).attr('used', (used+1)).before(data);
+									searchingForMoreNews = false;
+									$('#newsLoading').hide();
+								}
+								else {
+									console.log("fail");
+									searchingForMoreNews = false;
+									$('#newsLoading').hide();
+								}
+							}
+						});
+					}
+				}
+				function changeDateOnThatObjThing(dateThingy) {
+					$('.moreNews').attr('last', dateThingy);
 				}
 			</script>
 			
@@ -69,23 +99,65 @@
 <script type="text/javascript">
 GA_googleFillSlot("IncGamersPrestitial");
 </script>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2606987-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6523238-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+				<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-51zRnHP_dSayA"
+});
+</script>
+<!-- Quantcast Tag -->
+
+
+
+
 		
 	</head>
+	
+	
+	
+	
 		
 	<body id="mainPage">
 	
-				
-		<!-- Facebook Comments -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-		<!-- Facebook Comments -->
-			
 
 	
 	
@@ -274,7 +346,28 @@ GA_googleFillSlot("IncGamersPrestitial");
 					display:inline;
 					margin:0;
 					padding:0;
+					font-size:11px;
+					color: #FFFFFF;
+				
 				}
+				
+					#header_top ul.menu li.social {
+					float: left;
+						padding-left: 10px;
+						padding-top: 4px;
+						
+				
+				}
+				
+					#header_top ul.menu li.social a {
+					color: #fea100;
+					font-size: 11px;
+					font-weight: normal;
+					
+				
+				
+				}
+				
 					#header_top ul.menu li.menu font {
 						color:white;
 						cursor:pointer;
@@ -289,7 +382,7 @@ GA_googleFillSlot("IncGamersPrestitial");
 						#header_top ul.menu li.menu font.selected {
 							background: url("http://static.incgamers.com/images/icons/close_arrow.png") no-repeat scroll right center transparent;
 						}
-					#header_top ul.menu li.styles img {
+					#header_top ul.menu li.styles .social {
 						cursor:pointer;
 						float:left;
 						line-height:26px;
@@ -336,39 +429,48 @@ GA_googleFillSlot("IncGamersPrestitial");
 	<div id="wrap_header">
 				<div id="header_left">
 			<a href="http://www.incgamers.com">
-				<img src="http://testinc.incgamers.com/images/inclogo.png?170820112" alt="IncGamers" title="IncGamers" border="0">
+				<img src="http://testinc.incgamers.com/images/inclogo.png?13042011" alt="IncGamers" title="IncGamers" border="0">
 			</a>
 		</div>
 		
 		<div id="nav">	
 	<ul>
-		<li class="on"><a href="/mmo" class="all">MMO</a></li>
-		<li class="on"><a href="/sport" class="all">Sport</a></li>
-		<li class="on"><a href="/action" class="all">Action</a></li>
-		<li class="on"><a href="/rpg" class="all">RPG</a></li>
+		<li class="on"><a href="http://www.incgamers.com" class="all">Home</a></li>
 		<li class="on"><a href="/shooter" class="all">Shooter</a></li>
+		<li class="on"><a href="/action" class="all">Action</a></li>
+		<li class="on"><a href="/sport" class="all">Sport</a></li>
+		<li class="on"><a href="/mmo" class="all">MMORPG</a></li>
+		<li class="on"><a href="/rpg" class="all">RPG</a></li>
 		<li class="on"><a href="/strategy" class="all">Strategy</a></li>
 		<li class="on"><a href="/beta" class="all">Beta</a></li>
 		<li class="on"><a href="/industry" class="all">Industry</a></li>
+		<li class="on"><a href="http://podcast.incgamers.com" class="all">Podcast</a></li>
+
 </ul>
 </div>		<div id="header_top">
 			<ul class="menu">
-				<li class="styles">
-					<a ref="nofollow" target="_blank" href="http://www.twitter.com/incgamers">
-						<img src="http://static.incgamers.com/incimages/twitter.png">
-					</a>
+		<li class="social">
+					Follow us on: 
 				</li>
-				<li class="styles">
-					<a ref="nofollow" target="_blank" href="http://www.incgamers.com/Feeds/news.xml">
-						<img src="http://static.incgamers.com/incimages/rss.png">
-					</a>
+			   
+				<li class="social">
+					[<a ref="nofollow" target="_blank" href="http://www.twitter.com/incgamers">Twitter</a>]
 				</li>
-				<li class="styles">
-					<a ref="nofollow" target="_blank" href="http://www.facebook.com/pages/IncGamers/116509705864?ref=nf">
-						<img src="http://static.incgamers.com/incimages/facebook.png">
-					</a>
+			
+				<li class="social">
+					[<a ref="nofollow" target="_blank" href="http://www.facebook.com/pages/IncGamers/116509705864?ref=nf">Facebook</a>]
 				</li>
-				<li class="styles">
+				
+					<li class="social">
+					[<a ref="nofollow" target="_blank" href="http://www.youtube.com/IncGamers">Youtube</a>]
+				</li>
+				
+					<li class="social">
+					[<a ref="nofollow" target="_blank" href="http://www.incgamers.com/Feeds/news.xml">RSS</a>]
+				</li>
+				
+				
+				<li class="social">
 					<div id="channels_placeholder"></div>
 				</li>
 				<li class="menu"><font class="searchform_show button">Search site</font></li>
@@ -398,6 +500,7 @@ GA_googleFillSlot("IncGamersPrestitial");
 																	<li><input type="checkbox" name="mmo" value="8"><label>MMO</label></li>
 																	<li><input type="checkbox" name="vita" value="9"><label>Sony PSVita</label></li>
 																	<li><input type="checkbox" name="mob" value="10"><label>Mobile Phone Games</label></li>
+																	<li><input type="checkbox" name="port" value="99"><label>Portable Devices</label></li>
 															</ul>
 						</div>
 						<div class="filter_container">
@@ -743,7 +846,7 @@ GA_googleFillSlot("IncGamersPrestitial");
 									</table>
 								</div></a>
 							</li>
-							<li class="top"><a href="/" class="content_nav communities">Communities<div class="dropDown communities">
+							<li class="top"><a href="#" class="content_nav communities">Communities<div class="dropDown communities">
 									<table cellpadding="0" cellspacing="0" border="0">
 										<tbody>
 											<tr>
@@ -760,22 +863,22 @@ GA_googleFillSlot("IncGamersPrestitial");
 											</tr>
 											<tr>
 												<td class="pip"><a href="http://diablo.incgamers.com" target="_BLANK">Diablo&nbsp;3</a></td>
-												<td class="pip"><a href="http://wow.incgamers.com" target="_BLANK">World&nbsp;of&nbsp;Warcraft</a></td>
-											</tr>
-											<tr>
-												<td class="pip"><a href="http://rift.incgamers.com" target="_BLANK">Rift</a></td>
-												<td class="pip"><a href="http://war3.incgamers.com" target="_BLANK">Warcraft&nbsp;3</a></td>
+												<td class="pip"><a href="http://www.diablonut.com" target="_BLANK">Diablo&nbsp;3&nbsp;Database</a></td>
 											</tr>
 											<tr>
 												<td class="pip"><a href="http://guildwars.incgamers.com" target="_BLANK">Guild&nbsp;Wars&nbsp;2</a></td>
-												<td class="pip"><a href="http://hellgate.incgamers.com" target="_BLANK">Hellgate</a></td>
+												<td class="pip"><a href="http://rift.incgamers.com" target="_BLANK">Rift</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="http://www.rpgreporter.com" target="_BLANK">RPG Reporter</a></td>
+												<td></td>
 											</tr>
 										</tbody>
 									</table>
 								</div></a>
 							</li>
 							
-							
+						 <div class="top_sites">Hot Sites: <a href="http://diablo.incgamers.com">Diablo 3</a>  :   <a href="http://guildwars.incgamers.com">Guild Wars 2</a> : <a href="http://www.rpgreporter.com">RPGReporter</a></div>
 							
 							
 							</ul>
@@ -797,10 +900,7 @@ GA_googleFillSlot("IncGamersTakeoverROS");
 		
 
 	<div class="banner">
-		<!-- IncGamers728ROS -->
-<script type="text/javascript">
-GA_googleFillSlot("IncGamers728ROS");
-</script>
+		<!-- IncGamers728ROS --> <script type="text/javascript"> GA_googleFillSlot("IncGamers728ROS"); </script>
 	</div>
 
 	</div>
@@ -1097,38 +1197,37 @@ GA_googleFillSlot("IncGamers728ROS");
 	<div class="ls_container">
 		<h4>Latest Stuff</h4>
 		<div class="ls_scroll_up">&nbsp;</div>
-		<div class="ls_scroller" style="height: 458px;">
+		<div class="ls_scroller" style="height: 428px;">
 			<div class="ls_movingBit" lsstart="0" lsview="4" locked="0" ajax="0" style="top: 0px;">
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Previews/357/the-darkness-2-is-strikingly-individual-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30646thumb.jpg" alt="The Darkness 2 is strikingly individual [Preview]" title="The Darkness 2 is strikingly individual [Preview]">The Darkness 2 is strikingly individual [Preview]</a><br><font>Demonic arms, demonic midgets and demonic farts.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Interviews/391/game-of-thrones-interview---behind-the-blood-sex-and-politics"><img class="article_img" src="http://static.incgamers.com/images/screenshots/31163thumb.jpg" alt="Game of Thrones [Interview] - Behind the blood, sex and politics" title="Game of Thrones [Interview] - Behind the blood, sex and politics">Game of Thrones [Interview] - Behind the blood,...</a><br><font>A Song of Fire and Ice, told by Cyanide Studios.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Reviews/1258/home-improvements-citiesxl-2012-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30625thumb.jpg" alt="Home improvements: CitiesXL 2012 [Review]" title="Home improvements: CitiesXL 2012 [Review]">Home improvements: CitiesXL 2012 [Review]</a><br><font>If you build it, they will come.
-</font>
+						<a class="xplatform" href="http://www.incgamers.com/Features/512/incgamers-plays-warlock-master-of-the-arcane"><img class="article_img" src="http://static.incgamers.com/images/screenshots/29302thumb.jpg" alt="IncGamers Plays: Warlock: Master of the Arcane" title="IncGamers Plays: Warlock: Master of the Arcane">IncGamers Plays: Warlock: Master of the Arcane</a><br><font>Warlock: The video preview of the master of the arcane.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Interviews/363/the-making-of-uncharted-3---part-1-interview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30387thumb.jpg" alt="The Making of Uncharted 3 - Part 1 [Interview]" title="The Making of Uncharted 3 - Part 1 [Interview]">The Making of Uncharted 3 - Part 1 [Interview]</a><br><font>In-depth and behind the scenes with game director Justin Richmond and community manager Arne Meyer.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Previews/412/crysis-3-preview---the-story-of-a-jungle-hunter"><img class="article_img" src="http://static.incgamers.com/images/screenshots/33203thumb.jpg" alt="Crysis 3 [Preview] - The story of a jungle hunter" title="Crysis 3 [Preview] - The story of a jungle hunter">Crysis 3 [Preview] - The story of a jungle hunter</a><br><font>Return of the Prophet.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Features/436/the-week-that-was-ending-301011"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30066thumb.jpg" alt="The Week That Was... (ending 30/10/11)" title="The Week That Was... (ending 30/10/11)">The Week That Was... (ending 30/10/11)</a><br><font>Uncharted 3 and Battlefield 3 reviews, as well as the announcement of Grand Theft Auto V.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1336/a-valley-without-wind-review---it-doesnt-blow"><img class="article_img" src="http://static.incgamers.com/images/screenshots/33368thumb.jpg" alt="A Valley Without Wind [Review] - It doesn’t blow" title="A Valley Without Wind [Review] - It doesn’t blow">A Valley Without Wind [Review] - It doesn’t blow</a><br><font>Arsin’ around in Arcen’s latest.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Features/435/666-of-the-best-horror-games-for-halloween-2011"><img class="article_img" src="http://static.incgamers.com/images/screenshots/19968thumb.jpg" alt="6(66) of the best horror games for Halloween 2011" title="6(66) of the best horror games for Halloween 2011">6(66) of the best horror games for Halloween 2011</a><br><font>Your guide to gloom, your textbook to terror.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Previews/411/dishonored-preview---revenge-solves-everything"><img class="article_img" src="http://static.incgamers.com/images/screenshots/27986thumb.jpg" alt="Dishonored [Preview] - Revenge solves everything" title="Dishonored [Preview] - Revenge solves everything">Dishonored [Preview] - Revenge solves everything</a><br><font>Freedom of choice in a steampunk dystopia.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Previews/356/balls-deep-in-saints-row-the-thirds-whored-mode-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30585thumb.jpg" alt="Balls deep in Saints Row: The Third's Whored Mode [Preview]" title="Balls deep in Saints Row: The Third's Whored Mode [Preview]">Balls deep in Saints Row: The Third's Whored Mo...</a><br><font>So many dildos...</font>
+						<a class="xplatform" href="http://www.incgamers.com/Previews/410/medal-of-honor-warfighter-preview---an-old-dog-with-new-tricks"><img class="article_img" src="http://static.incgamers.com/images/screenshots/33329thumb.jpg" alt="Medal of Honor: Warfighter [Preview] - An old dog with new tricks?" title="Medal of Honor: Warfighter [Preview] - An old dog with new tricks?">Medal of Honor: Warfighter [Preview] - An old d...</a><br><font>Yep, Honor is still missing the 'U'.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Reviews/1256/dead-in-60-seconds-the-war-of-the-worlds-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30497thumb.jpg" alt="Dead in 60 Seconds: The War of the Worlds [Review]" title="Dead in 60 Seconds: The War of the Worlds [Review]">Dead in 60 Seconds: The War of the Worlds [Review]</a><br><font>Spiders from Mars.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1335/trials-evolution-review---the-best-xbla-has-to-offer"><img class="article_img" src="http://static.incgamers.com/images/screenshots/32949thumb.jpg" alt="Trials Evolution [Review] - The best XBLA has to offer" title="Trials Evolution [Review] - The best XBLA has to offer">Trials Evolution [Review] - The best XBLA has t...</a><br><font>How many times can one guy break his back?</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Previews/355/were-not-so-sure-about-the-mass-effect-3-multiplayer-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30477thumb.jpg" alt="We're not so sure about the Mass Effect 3 Multiplayer [Preview]" title="We're not so sure about the Mass Effect 3 Multiplayer [Preview]">We're not so sure about the Mass Effect 3 Multi...</a><br><font>A wave worth surfing?</font>
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1334/fifa-12-uefa-euro-2012-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/32921thumb.jpg" alt="Fifa 12: UEFA Euro 2012 [Review]" title="Fifa 12: UEFA Euro 2012 [Review]">Fifa 12: UEFA Euro 2012 [Review]</a><br><font>53 teams, new kits, new mode, new commentary.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Reviews/1255/hero-of-the-galaxy-mdk-2-hd-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30457thumb.jpg" alt="Hero of the Galaxy: MDK 2 HD [Review]" title="Hero of the Galaxy: MDK 2 HD [Review]">Hero of the Galaxy: MDK 2 HD [Review]</a><br><font>Madonna Dates Kipper?</font>
+						<a class="xplatform" href="http://www.incgamers.com/Features/510/zx-spectrum-turns-30---happy-memories"><img class="article_img" src="http://static.incgamers.com/images/screenshots/33283thumb.jpg" alt="ZX Spectrum turns 30 - Happy memories" title="ZX Spectrum turns 30 - Happy memories">ZX Spectrum turns 30 - Happy memories</a><br><font>A salute to the eighties computer.</font>
 					</p>
 									<p class="ls_article">
-						<a class="xplatform" href="http://www.incgamers.com/Reviews/1254/beauty-and-the-beast-battlefield-3-360-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/29670thumb.jpg" alt="Beauty and the beast: Battlefield 3 [360 Review]" title="Beauty and the beast: Battlefield 3 [360 Review]">Beauty and the beast: Battlefield 3 [360 Review]</a><br><font>The flattery of imitation.</font>
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1333/tribes-ascend-review---speed-kills"><img class="article_img" src="http://static.incgamers.com/images/screenshots/33281thumb.jpg" alt="Tribes Ascend [Review] - Speed kills" title="Tribes Ascend [Review] - Speed kills">Tribes Ascend [Review] - Speed kills</a><br><font>Quickplay guide - press V, G and S.</font>
 					</p>
 							</div>
 		</div>
@@ -1281,13 +1380,12 @@ GA_googleFillSlot("IncGamersFooter");
 	<b>Game Channels</b><br>
 	
 	
-		<a href="http://diablo.incgamers.com">Diablo</a><br>
+		<a href="http://diablo.incgamers.com">Diablo 3</a><br>
+		<a href="http://www.diablonut.com">Diablo 3 Database</a><br>
+		<a href="http://www.rpgreporter.com">RPGReporter</a><br>
 		<a href="http://guildwars.incgamers.com">GuildWars 2</a><br>
-		<a href="http://hellgate.incgamers.com">Hellgate</a><br>
-	<a href="http://rift.incgamers.com">RIFT </a><br>
-			<a href="http://starcraft.incgamers.com">StarCraft 2</a><br>
-		<a href="http://wow.incgamers.com">World of Warcraft</a><br>
-		<a href="http://wowui.incgamers.com">World of Warcraft Addons</a><br>
+		<a href="http://rift.incgamers.com">RIFT </a><br>
+
 		
 			
 		</div>
@@ -1300,8 +1398,11 @@ GA_googleFillSlot("IncGamersFooter");
 		<a href="http://www.incgamers.com/pc">PC</a><br>
 		<a href="http://www.incgamers.com/ps3">Playstation 3</a> <br>
 		<a href="http://www.incgamers.com/xbox">Xbox 360</a> <br>
-		<a href="http://www.incgamers.com/wii">Wii</a> <br>
 		<a href="http://www.incgamers.com/mmo">MMO</a><br>
+	    <a href="http://www.incgamers.com/rpg">RPG</a><br>
+        <a href="http://www.incgamers.com/action">Action</a><br>
+		<a href="http://www.incgamers.com/shooter">FPS</a><br>
+		<a href="http://www.incgamers.com/strategy">Strategy</a><br>
 		<a href="http://www.incgamers.com/tv">IncGamers TV</a>
 		
 			
@@ -1327,7 +1428,7 @@ GA_googleFillSlot("IncGamersFooter");
 		<a href="http://www.facebook.com/pages/IncGamers/116509705864?ref=nf">Facebook</a><br>
 		<a href="http://www.twitter.com/incgamers">Twitter</a><br>
 		<a href="http://www.incgamers.com/Feeds/news.xml">RSS</a><br>
-		<a href="http://www.incgamers.com/Pages/13/Podcast.html">Podcast</a> <br>
+		<a href="http://podcast.incgamers.com">IncGamers Podcast</a> <br>
 		<a href="http://www.incgamers.com/forum">Forums</a><p></p> <br> <br>
 		<b>Contact</b><br>
 		<a href="mailto:editor@incgamers.com?subject=News Submissions">Send News</a><br>
@@ -1357,6 +1458,10 @@ GA_googleFillSlot("IncGamersFooter");
 
 
 
+
+
+
+
 					</div>
 		
 
@@ -1364,13 +1469,13 @@ GA_googleFillSlot("IncGamersFooter");
 		
 						
 		
-					<script type="text/javascript" src="/js/jquery.thickbox.js?170820112"></script>
-					<script type="text/javascript" src="/js/AC_RunActiveContent.js?170820112"></script>
-					<script type="text/javascript" src="/js/jquery.tvstars.js?170820112"></script>
-					<script type="text/javascript" src="/js/inc.game.js?170820112"></script>
-					<script type="text/javascript" src="/js/jquery.bbcode.js?170820112"></script>
-					<script type="text/javascript" src="/js/inc_adfix.js?170820112"></script>
-					<script type="text/javascript" src="/js/takeover.js?170820112"></script>
+					<script type="text/javascript" src="/js/jquery.thickbox.js?13042011"></script>
+					<script type="text/javascript" src="/js/AC_RunActiveContent.js?13042011"></script>
+					<script type="text/javascript" src="/js/jquery.tvstars.js?13042011"></script>
+					<script type="text/javascript" src="/js/inc.game.js?13042011"></script>
+					<script type="text/javascript" src="/js/jquery.bbcode.js?13042011"></script>
+					<script type="text/javascript" src="/js/inc_adfix.js?13042011"></script>
+					<script type="text/javascript" src="/js/takeover.js?13042011"></script>
 				
 		<script type="text/javascript" src="/js/tabber.js"></script>	
 
@@ -1388,15 +1493,11 @@ GA_googleFillSlot("IncGamersFooter");
 						FB.init('6324910fd933bbb8cba7a973e82f187e', "/xd_receiver.htm",{"reloadIfSessionStateChanged":true});
 					});}
 			</script>		
-			<script type="text/javascript">
-				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-			<script type="text/javascript">
-				var pageTracker = _gat._getTracker("UA-2606987-2");
-				pageTracker._initData();
-				pageTracker._trackPageview();
-			</script>
+			
+			
+			
+			
+			
 			<script type="text/javascript">
 				function activateRateGameBars() {
 					$('.rateThisGame').each( function(i) {
@@ -1468,8 +1569,17 @@ GA_googleFillSlot("IncGamersFooter");
 				  }
 			</script>
 			
+			<!-- End Quantcast tag -->
+<script type="text/javascript">
+_qevents.push( { qacct:"p-51zRnHP_dSayA"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-51zRnHP_dSayA.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<!-- End Quantcast tag -->
+			
+			
 			<script type="text/javascript" src="/js/takeover.js"></script>
 
-			<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	
 </body></html>
