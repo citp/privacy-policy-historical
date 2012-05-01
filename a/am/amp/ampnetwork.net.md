@@ -1,69 +1,96 @@
-> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228042140id_/http%3A//ampnetwork.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501214940id_/http%3A//ampnetwork.net/privacy.php) for the most accurate reproduction.*
 
 # AmpNetwork.net
 
-## Ampnetwork.net - Privacy & Security Notice
+### Personal Information Collected on this Website
 
-Table of Contents:
+No personally-identifiable information is collected on this website from consumers that browse the website for information. 
 
-Our Commitment to Privacy  
-The Information We Collect  
-How We Use Information  
-Our Commitment to Data Security  
-Our Commitment to Children's Privacy  
-How to Access or Correct Your Information  
-How to Contact Us
+The only personally-identifiable information collected on this website is gathered on our "contact us" pages, where fields are provided so that you can provide your name, email address and phone contact information. We collect this information so that we can respond to the comments that you send us via that form.
 
-Our Commitment to Privacy
+ampNetwork is the sole owner of all information collected on this site. ampNetwork will not rent, sell or share any personally-identifiable information about you with third parties for any reason except when required to assist in resolving an issue you raise with us or required by law. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and throughout our entire website.
+We do not merge any of the personally-identifiable information collected via our contact form with other anonymous data collected on our website.
 
-The Information We Collect 
+  
 
-This notice applies to all information collected or submitted on the [AmpNetwork.net](https://web.archive.org/web/20111228042140id_/http%3A//ampnetwork.net/index.php) website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-> Name  
->  Address  
->  Email address  
->  Phone number  
->  Credit/Debit Card Information   
-> 
+### Anonymous Information Collected on this Website
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+We record anonymous data such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site. We use IP addresses and cookies for gathering website statistics. We also store IP addresses on our server in the event that our site should become corrupted and it becomes necessary to discover the cause of this corruption. 
 
-> Name  
->  Address  
->  Phone Number  
-> 
+We aggregate this anonymous data as part of managing, maintaining and reporting on use of our website. We may share this anonymous data with third parties for the limited purpose of reporting on use of our website, or to comply with applicable law. We do not rent, sell or share any anonymous data collected on this website with third parties for marketing purposes. 
 
-How We Use Information 
+None of this anonymous data is linked to personally-identifiable information and we make no attempt to link IP addresses to the individuals who visit this site. 
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+  
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+### Cookies
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use cookies on this website. 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website.
 
-Our Commitment to Data Security 
+We serve a cookie from our website when partners log in to partner-only pages, so that they can navigate those pages on the site. A randomly-generated anonymous identifier is assigned to this Privacy Policy.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+No personally-identifiable information is collected by or linked to any of the cookies delivered on our site. 
 
-Our Commitment to Children's Privacy
+You have the ability to manage the use of cookies on your computer using controls in your web-browser. To learn more about how to manage cookies [click here](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+  
 
-How You Can Access or Correct Your Information 
 
-You can access all your personally identifiable information that we collect online and maintain by emailing us at [contact@AmpNetwork.net](mailto:contact@AmpNetwork.net). We use this procedure to better safeguard your information. 
+## Network Privacy Policy
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+ampNetwork's network targets ads to consumers who visit our publisher's websites. ampNetwork does not track or maintain PII (personally identifiable information) about consumers. We may obtain anonymous information like behavior of a particular user, for example, visiting a particular website, clicking on a particular ad, demographic data and browser type etc. by using cookies, web beacons, pixels and IP addresses. 
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+  * A cookie is a small amount of data stored on the hard drive of your computer that allows ampNetwork to identify your IP address. ampNetwork may use cookies to track individual responses or views of advertisements.
+  * A web beacon is programming code used to display an image on a web page. This allows ampNetwork to determine products or services in which you may be interested and help track online behaviors for marketing purposes.
+  * Pixels can be placed on advertisers' pages in order to track when a sale is completed. This helps ampNetwork target future ad placements, but no PII is obtained.
+  * ampNetwork may use your IP address to better target ads. Unless you use a static IP address, an IP address relates to households or larger communities. ampNetwork uses IP addresses to track where clicks are coming from and helps us fight click fraud, but no PII is obtained.
+  * Information can be collected directly from ampNetwork advertisements or indirectly through Publishers that ampNetwork works with.
+  * ampNetwork may set a cookie on your computer or associate behavior with your Internet service provider's IP address when you view advertisements delivered on publisher websites. After a behavior is associated to a cookie or an IP address, ampNetwork may track how you interact with the advertisement and the publisher website.
 
-How to Contact Us
 
-Should you have other questions or concerns about our privacy policies, please email us at [privacy@AmpNetwork.net](mailto:privacy@AmpNetwork.net).
+
+ampNetwork may lawfully receive information about you, including demographic data, purchasing trends and similar information, from third parties, such as information located in public databases.
+
+  
+
+
+### Use of Information and Data
+
+ampNetwork may share anonymous information about your behaviors with trusted publishers under confidentiality agreements. These publishers may use this information to better target advertisements to you. 
+
+ampNetwork stores anonymous information in a database. This database is password protected and secure. ampNetwork maintains the data in an encrypted form, so that even if the data is improperly accessed, it is less likely to be in an intelligible format. This data is stored for up to two months and then moved to our secure archive server. The data is encrypted and password protected and only accessed to resolve a legal or business issue. ampNetwork cannot guarantee that its security or privacy protection measures will prevent its computers from being illegally accessed and the data stolen.
+
+  
+
+
+### Privacy Practices of Third Parties
+
+Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. ampNetwork does not control publishers' use of such technology. 
+
+To learn about how a particular publisher may use your PII or anonymous information, you should read the privacy policy of that publisher. 
+
+  
+
+
+### Opt-Out Information
+
+To prevent ampNetwork from tracking your behavior on a website, turn off cookies, utilize a changing IP address, and do not click on or interact with any advertisements. 
+
+  
+
+
+### Changes to Our Privacy Policy
+
+As our company and services evolve, this Privacy Policy may be revised to reflect those changes, where applicable. We therefore reserve the right to amend this Privacy Policy at any time, for any reason. Notice of such amendments will be posted as an updated Privacy Policy on this website, and an effective date will be indicated. Users are encouraged to check our site frequently to review the current Privacy Policy in effect. 
+
+  
+
+
+### Questions?
+
+Please [contact us](mailto:support@ampnetwork.net) with any questions about this website Privacy Policy.
