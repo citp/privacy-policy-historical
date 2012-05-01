@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063533id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501203030id_/http%3A//www.fvap.gov/global/disclaimers.html) for the most accurate reproduction.*
 
 # Federal Voting Assistance Program - Disclaimers
 
@@ -29,7 +29,7 @@ Privacy Act Statement - If you choose to provide us with personal information - 
 
 We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20111102063533id_/http%3A//www.fvap.gov/contact/index.html) page.
+If you have any questions or comments about the information presented here, please forward them to us using the [Contact Us](https://web.archive.org/web/20120501203030id_/http%3A//www.fvap.gov/contact/index.html) page.
 
 ## Freedom of Information
 
