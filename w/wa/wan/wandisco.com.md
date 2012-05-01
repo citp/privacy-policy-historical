@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529135428id_/http%3A//www.wandisco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501141255id_/http%3A//www.wandisco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WANdisco
 
@@ -50,6 +50,18 @@ We use cookies to understand site usage and to improve the content and offerings
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
+###  OUR TRADEMARKS  
+
+
+WANdisco has registered the trademarks below or has otherwise sought protection as indicated below in the U.S and other countries. We have done this to protect and preserve the marks for our community of customers, developers, partners, and supporters for the benefit of everyone involved with WANdisco. By this we mean that people should be able to recognize when a product is from WANdisco. 
+
+You may use the WANdisco trademarks below in any blog, news article, or on your website without our written consent, as long as you use them according to this guideline, retain the capitalization structure indicated below, and retain the © symbol or ™ symbol as applicable on the right shoulder of the mark according to the usage in the list below. 
+
+Term  |  Status  |  Use   
+---|---|---  
+WANdisco  |  ®  |  Computer software company, logo and its products / services   
+uberSVN  |  ®  |  Open Application Lifecycle Management Platform for Subversion   
+  
 ###  HOW YOU CAN ACCESS OR CORRECT INFORMATION  
 
 
