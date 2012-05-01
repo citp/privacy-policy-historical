@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1911forum.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104522id_/http%3A//www.1911forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911forum.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501095202id_/http%3A//www.1911forum.com/privacy.php) for the most accurate reproduction.*
 
 # 1911Forum.com - 1911 community, news, reviews, and more!
 
@@ -62,9 +62,4 @@ This policy was last modified on 4/1/2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-By mail:  
-Mezmerizing Llama LLC  
-130 E. Northfield Drive, PMB 236  
-Brownsburg, IN 46112
-
-By email: [mezllama@gmail.com](mailto:mezllama@gmail.com,webmaster@1911forum.com?subject=Privacy%20Policy)
+By email: [webmaster@1911forum.com](mailto:webmaster@1911forum.com)
