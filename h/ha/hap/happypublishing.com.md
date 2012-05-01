@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happypublishing.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221044909id_/http%3A//www.happypublishing.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happypublishing.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501050330id_/http%3A//www.happypublishing.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,8 +75,8 @@ Canada
 
 Please Sign Up for This!
 
-> [Home](http://www.happypublishing.com/) | [Free Book Reviews](http://www.happypublishing.com/reviews/index.htm) | [Free Online Articles](http://www.happypublishing.com/articles/articles-index.htm) | [ Contact](http://www.happypublishing.com/contact.htm) | [ Privacy Policy](http://www.happypublishing.com/Privacy_Policy.htm) | [FAQ](http://www.happypublishing.com/FAQ.htm) |  [About Us](https://web.archive.org/web/20111221044909id_/http%3A//www.happypublishing.com/about.htm) | [ Motivational Resources](http://www.happypublishing.com/motivational-resources.htm)
+> [Home](http://www.happypublishing.com/) | [Free Book Reviews](http://www.happypublishing.com/reviews/index.htm) | [Free Online Articles](http://www.happypublishing.com/articles/articles-index.htm) | [ Contact](http://www.happypublishing.com/contact.htm) | [ Privacy Policy](http://www.happypublishing.com/Privacy_Policy.htm) | [FAQ](http://www.happypublishing.com/FAQ.htm) |  [About Us](https://web.archive.org/web/20120501050330id_/http%3A//www.happypublishing.com/about.htm) | [ Motivational Resources](http://www.happypublishing.com/motivational-resources.htm)
 > 
-> Happy Publishing PO Box 82573, Oshawa, ON  L1G 7W7  1-800-462-1427 
+> Happy Publishing 1276 Ormond Dr, Oshawa, ON L1K 2T7 1-800-462-1427 
 > 
-> copyright © Happy Publishing LLC 1998-2011 All rights reserved
+> copyright © Happy Publishing LLC 1998-2012 All rights reserved
