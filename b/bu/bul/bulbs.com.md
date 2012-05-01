@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125145053id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031131id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
 
 When you visit any Web site, your computer exchanges information with other computers. Except for information or commands you enter yourself, most of this process eliminates your need to enter numerous technical codes. That's what makes the Bulbs.com experience so user friendly. We assure your privacy by supporting your right to decide what information you share and how it is used! 
 
-At Bulbs.com, we take security very seriously. All of our employees have reviewed our privacy policy and must log in to a secure administration site with an username and password to view any customer/sales information. A Bulbs.com technical team checks our security monthly, so you can rest assured that your information is private. For transferring sensitive information such as credit card accounts, we rely on Verisign's secure encryption technology. 
+At Bulbs.com, we take security very seriously. All of our employees have reviewed our privacy policy and must log in to a secure administration site with an username and password to view any customer/sales information. A Bulbs.com technical team checks our security monthly, so you can rest assured that your information is private. For transferring sensitive information such as credit card accounts, we rely on _Verisign_ secure encryption technology. 
 
 _If this policy is ever changed, all users will be notified via email of the changes._
 
@@ -20,19 +20,16 @@ We gather information with the following objectives in mind:
 
 
 
-When you visit Bulbs.com, you have the option of getting a Bulbs.com username. Getting a username is easy: 
+When you visit Bulbs.com, you will be prompted to set up a customer account to complete your transaction. Creating an account is easy: 
 
-  * Enter your name and e-mail address.
-  * Choose your username (we check that somebody else hasn’t already selected it).
-  * You choose and confirm a password
-
+  * Enter your e-mail address.
+  * Choose and confirm a password
 
 
-If you choose not to get an username, you can still see prices online, but you won’t be able to get a full quote (i.e., case lot discounts or volume purchase discounts related to your order). You must have an username to place an order from Bulbs.com. 
 
-At any point while you're browsing, you can record an item in your personal account. When you're done browsing, you can revisit your personal account, and if you want to place an order, indicate the item(s) and click the Continue button. This takes you to a screen which asks for shipping information: name, address, and preferred contact time/method in case we need to get in touch with you about your order. The same screen also gives you a price quote for the item(s) you're ordering, including price, any applicable sales tax, discounts, promotions, handling, and delivery costs (applicable only if a shipping method other than UPS Ground is selected). 
+At any point while you’re browsing, you can select an item to be added to your customer account. When you are done browsing, you can review your selected products by clicking on the shopping cart icon at the top right corner of your screen, or clicking the Checkout button in the mini-shopping cart that pops up when you add an item or hover your mouse over the shopping cart icon. 
 
-The Checkout button then takes you to a screen which offers options for payment: you can enter credit card information, or you can opt to contact us by e-mail or phone about paying by (Check, Money Order, Purchase Order). 
+This takes you to a screen showing your full shopping cart. At this step, you may update product quantities and/or add a promotional code if you have one. Click Secure Checkout and follow instructions to enter your billing and shipping information, as well as a preferred contact phone number in case we need to get in touch with you about your order. In your final steps, you will be asked to select your preferred shipping method and the following screen offers options for payment: you can enter credit card information, complete your transaction using PayPal™ or you can opt to contact us by e-mail or phone about paying by (Check, Money Order, Purchase Order) and to process your order. There will be a final opportunity to review your order after all needed information has been entered. 
 
 The information gathered as part of your purchasing is used only to process your purchase. The only information that is ever shared with anyone is: 
 
@@ -44,7 +41,7 @@ The information gathered as part of your purchasing is used only to process your
 
 When you log onto the Internet, your computer connects to your Internet service, declaring its online presence by requesting an IP (Internet protocol) address-- sort of like asking for an assigned seat in an electronic classroom. Your Internet service's computer responds by placing you at a particular set for the session. Some providers assign you a permanent or "static" IP address, but most use temporary ones. This helps assure your privacy, because it's difficult-to-impossible to collect personal information about you via a temporary address. 
 
-Our Web site keeps a general list of visitors' IP addresses. This gives us broad, generic information such as how many AOL® users log onto Bulbs.com, and it helps us maintain Bulbs.com's compatibility with many different Internet services. 
+Our Web site reads visitors' IP addresses but does not keep a list or store them anywhere. This gives us broad, generic information such as how many AOL® users log onto Bulbs.com, and it helps us maintain Bulbs.com's compatibility with many different Internet services. 
 
 Bulbs.com records browser types and versions so we can answer questions such as, "How many of our visitors were using Internet Explorer 4.0® last month?" That tells us what portions of our Web site visitors can and cannot use, motivating us to keep our Web site up to date. 
 
@@ -60,11 +57,11 @@ Back to top
 
 ## What does Bulbs.com do with this information?
 
-Bulbs.com is deeply committed to keeping your information secure. We use the information you share with us to fulfill your order or inquiry and to keep you up-to-date on the status of your order. Bulbs.com will automatically inform you via e-mail of the completion of your order the moment it is shipped out to you. 
+Bulbs.com is deeply committed to keeping your information secure. We use the information you share with us to fulfill your order or inquiry and to keep you up-to-date on the status of your order. Bulbs.com will automatically inform you via e-mail of the completion of your order and the moment it is shipped out to you. 
 
 The financial institution processing your payment may send us supplemental information if a problem is encountered while completing your transaction. Likewise, the shipping carrier may send us supplemental information if a problem is encountered during/with delivery. This information is used only in processing your order(s) from Bulbs.com. 
 
-If you sign up for our e-newsletter, we'll send you e-mail messages from time to time announcing what's new and exciting at Bulbs.com, including special offers and promotions. Every e-newsletter from Bulbs.com includes instructions for unsubscribing. 
+If you sign up for our e-newsletter, we'll send you e-mail messages announcing what's new and exciting at Bulbs.com, including special offers and promotions. Every e-newsletter from Bulbs.com includes instructions for unsubscribing. 
 
 Information about your browser helps us improve our Web site's appearance and currency/compatibility with your system. We need traffic reports (information about Web sites that refer visitors to us) so that we can select the best places to reach people interested in shopping for light bulbs online. 
 
@@ -76,7 +73,7 @@ Back to top
 
 We do not sell, rent, share, trade or give away any of the information you provide us, with exception to the financial institution that processes your payment and the shipping carrier that delivers your order. No third party will solicit you as a result of the information you provide to us. 
 
-Bulbs.com offers you an e-mail link on the Help page, so you can write to us with comments or ask for information. Any e-mail you send us is kept confidential and will not be posted on our Web site without your written permission. 
+Bulbs.com can be reached through our [Contact Us](https://web.archive.org/contactus.aspx) page, so you can write to us with comments or ask for information. Any e-mail you send us is kept confidential and will not be posted on our Web site without your written permission. 
 
 In the unlikely event that Bulbs.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
 
