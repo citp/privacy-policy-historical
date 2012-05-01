@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222831id_/http%3A//www.musclehunks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502003611id_/http%3A//www.musclehunks.com/privacy.html) for the most accurate reproduction.*
 
-# Gay Muscle and Straight Male Muscle Men
+# Muscle Men and Male Bodybuilders
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it readily available and at every point where personally identifiable information may be requested.
 
