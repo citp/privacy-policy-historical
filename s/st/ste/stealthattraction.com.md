@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stealthattraction.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221085132id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthattraction.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501142711id_/http%3A//www.puatraining.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,13 +28,13 @@ Credit card information processing is handled by Paypal.
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
-We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.
 
 Our advertisers/payment services providers may also send you cookies.
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
 
 ### (4) Using your personal data
 
@@ -58,7 +58,7 @@ We may use your personal information to:
 
 (h) send to you marketing communications relating to our business which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
 
-(i) provide third parties with statistical information about our users Ğ but this information will not be used to identify any individual user;
+(i) provide third parties with statistical information about our users Ð but this information will not be used to identify any individual user;
 
 (j) deal with enquiries and complaints made by or about you relating to the website;
 
