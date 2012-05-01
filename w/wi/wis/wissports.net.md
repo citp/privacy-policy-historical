@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121221936id_/http%3A//www.wissports.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501222512id_/http%3A//www.wissports.net/privacy.asp) for the most accurate reproduction.*
 
-# WSN Wisconsin Sports Network - WisSports.net
+# Wisconsin High School Sports | Wisconsin Sports Network | WisSports.net
 
 **PRIVACY POLICY**
 
