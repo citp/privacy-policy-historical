@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westminster.ac.uk privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011054458id_/http%3A//www.westminster.ac.uk/home/terms-and-privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.ac.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501055004id_/http%3A//www.westminster.ac.uk/about-us/information-compliance-and-records-management/website-terms-and-conditions/privacy) for the most accurate reproduction.*
 
-# Privacy - University of Westminster
+# University of Westminster - About us - Privacy
 
 The website www.westminster.ac.uk and its subdirectories and subdomains (the “website”) is provided and managed by the University of Westminster of 309 Regent Street, London W1B 2UW (the “University”).
 
