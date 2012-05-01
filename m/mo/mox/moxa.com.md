@@ -1,34 +1,36 @@
-> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603002201id_/http%3A//www.moxa.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081048id_/http%3A//www.moxa.com/about/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Moxa Privacy Policy
+# request_catalog
 
-**Location:**[Home >> ](https://web.archive.org/web/20100603002201id_/http%3A//www.moxa.com/index.aspx)Privacy Policy
+Privacy Policy
 
-We are limiting the number of URLs you can submit to be Archived to the Wayback Machine, using the Save Page Now features, to no more than 15 per minute. 
+**Safeguarding Your Privacy**
 
-If you submit more than that we will block Save Page Now requests from your IP number for 5 minutes. 
-
-Please feel free to write to us at info@archive.org if you have questions about this. Please include your IP address and any URLs in the email so we can provide you with better service. 
-
-  
-
-
-## Safeguarding Your Privacy
-
-You may visit this web site without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
+Moxa is committed to respecting your privacy and will safeguard any personal information that you provide as follows:
 
 **Anonymity**
 
 You may visit this web site without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
-There are times, such as when you request information, that it is to your benefit for us to collect personal data from you. We always inform you before we collect any data, explain clearly what we intend to do with the data, and give you the option not to supply any data if that is your wish. Furthermore, you may inform us at any time that you wish to "opt out" of certain uses of data that has already been supplied.
+**Choices**
 
-We sometimes use cookies to make it easier for you to fill out electronic forms on our website. When filling out a form on our website, you may be given the option to "remember me on this computer." If you select this option, a cookie will be saved to your computer's hard drive for future reference. Note that you have the option to configure your browser to reject all cookies. 
+In some situations, we may ask you to provide some personally identifying information, such as when you submit a request for information. We always inform you before we collect any data, explain clearly what we intend to do with the data, and give you the option not to supply any data if that is your wish. Furthermore, you may contact us at any time to modify or delete your personal information, or to opt out of future communication with us.
+
+**Cookies**
+
+We sometimes use cookies to make it easier for you to fill out electronic forms on our website. When filling out a form on our website, you may be given the option to "remember me on this computer." If you select this option, a cookie will be saved to your computer's hard drive for future reference. Note that you have the option to configure your browser to reject all cookies.
 
 **Disclosure of Information to Third Parties**
 
 Moxa Inc. does not sell, rent, loan, trade, or lease any personal information collected at our web site, including membership forms or customer e-mail lists.
 
+**Accuracy**
+
 We do our best to maintain the accuracy of personal information you supply to us. To assist us in this task, we have implemented tools that will allow you to review and update personal information whenever you wish.
 
+**Security**
+
 We use the most up to date methods to protect the information you share with us from unauthorized access or disclosure.
+
+  
+
