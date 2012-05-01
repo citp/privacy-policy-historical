@@ -1,74 +1,81 @@
-> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007072346id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501114002id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Burnworld - Privacy Policy
 
-  
-BurnWorld has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BurnWorld.com.
+**Privacy Statement for BurnWorld.COM**
 
- **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20111007072346id_/http%3A//www.burnworld.com/register.htm)
+**What information do we collect?**
 
- **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. Just Email [rob @burnworld.com](mailto:rob%20@burnworld.com)
+We collect information from you when you subscribe to our newsletter. 
 
- **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [Rob](mailto:rob%20@burnworld.com)
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-This policy will let you know:  
-   
-  
-  1. [What information is collected from you](http://www.burnworld.com/privacy.htm#what);
-  2. [What cookies are and how they are used](http://www.burnworld.com/privacy.htm#cookies); 
-  3. [How your information is used](http://www.burnworld.com/privacy.htm#how); 
-  4. [Who is collecting your information](http://www.burnworld.com/privacy.htm#who); 
-  5. [With whom your information may be shared](http://www.burnworld.com/privacy.htm#share); 
-  6. [The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information](http://www.burnworld.com/privacy.htm#security);
-  7. [The Opt-in/Opt-out policy](http://www.burnworld.com/privacy.htm#opt);
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-  
-   
-**What information does BurnWorld.com collect from me?**  
-BurnWorld.com collects information from a variety of web pages. We collect your contact information so that we can reply to your contact requests.  
-   
-**What are cookies and how does BurnWorld.com use them?**  
-As part of offering and providing customizable and personalized services, BurnWorld.com use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on BurnWorld.com where you are prompted to log-in or that are customizable require that you accept cookies. 
+**What do we use your information for?**
 
-Generally, we use cookies to: 
+Any of the information we collect from you may be used in one of the following ways: 
 
-  1. Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services.
-  2. Estimate our audience size. Each browser accessing BurnWorld.com is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.
-  3. Assist merchants affiliated with BurnWorld.com to track visits to and business at their stores, and to process the items in your shopping basket. This information collected by cookies is sometimes called "click stream" or "click trail" and may also describe which pages you have seen in each merchant's store.
-  4. Measure certain traffic patterns, which areas of BurnWorld.com you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on BurnWorld.com a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites.
+; To process transactions 
 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
+; To send periodic emails 
 
-Advertising networks that serve ads onto BurnWorld.com may also use their own cookies. 
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
-BurnWorld.com also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, BurnWorld.com Mail includes IP addresses in outgoing mail message headers.  
-  
-   
-**How does BurnWorld.com use my information?**  
-BurnWorld.com's primary goal in collecting information is to provide you, the user, with comparative affiliate software information. This information is available free of charge and no compensation is expected. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Another goal of BurnWorld.com is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you. In order to provide services free of charge, we may display advertisements. By knowing a little about you, BurnWorld.com is able to deliver more relevant advertisements and content, and hence better service to you.  
-  
-   
-**Who is collecting information?**  
-When you are on the BurnWorld.com site and are asked for information, you are providing that information to BurnWorld.com alone, unless it is specifically stated otherwise.  
-   
-****  
-If you are requesting assistance, demos, or brochures, your contact information may be shared with the owner of the relevant affiliate software. For example, some BurnWorld.com services are offered in conjunction with a partner company. This information is shared with the partner company so that they may provide you with the affiliate software demo, brochures and/or an online consultation.  
-   
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
-As a global company BurnWorld.com has users all over the world. When you give BurnWorld.com personal information, that information may be sent electronically to servers outside of the country where you originally entered the information, such as to the United States or other countries. In addition, that information may be used, stored and processed outside of the country where you entered that information. Whenever BurnWorld.com handles personal information as described above, regardless of where this occurs, BurnWorld.com takes steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and this Privacy Policy. 
+**How do we protect your information?**
 
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, BurnWorld.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.  
-  
-**How can I opt-out of your newsletters and registration?**  
-All our newsletters are double-optin. This means that you first requested to get email from us and then your request and email address has been verified by you. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-In every scheduled email we send, there is an option to opt-out of our regular newsletter.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Some emails are non-scheduled such as site/user news for registered users or direct communications. Registered users can opt-out of any further user communications by deactivating their account. To stop receiving personal/business related direct emails just reply to the sender.
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart and keep track of advertisements and .
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on March 15, 2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.burnworld.com  
+6585 Hwy 431 S  
+Hampton Cove, AL 35763  
+USA  
+rob@burnworld.com
