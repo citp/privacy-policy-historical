@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the r-tt.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142437id_/http%3A//www.r-tt.com/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r-tt.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501175807id_/http%3A//www.r-tt.com/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # R-TT's privacy policy. Buy and browse with confident
 
-| 
+  
+**R-Tools Technology Inc. (R-TT)** takes strong measures to protect the security of your personal information. We take stringent precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction. We do not sell or give away personal information obtained from our customers or publishers. 
 
 We collect different types of personal and other information based on your use of our products and services and our business relationship with you. 
 
@@ -31,7 +32,7 @@ We use the information we collect in a variety of ways, including to:
 
 
 
-You can see, review and change some of your personal information by signing in to the [Registered User's Console](https://secure.r-tt.com/UserConsole.shtml), [Distributor/Reseller account](https://secure.r-tt.com/distributor/login/) or _Software Publisher account_. Generally, we do not manually modify your personal information. Also, you may not change any billing or credit card information related to a particular order/payment once the order is processed already. 
+You can see, review and change some of your personal information by signing in to the [Registered User's Console](https://secure.r-tt.com/UserConsole.shtml), [Distributor/Reseller account](https://secure.r-tt.com/distributor/login/) or [Publisher account](http://software.r-tt.com/login/). Generally, we do not manually modify your personal information. Also, you may not change any billing or credit card information related to a particular order/payment once the order is processed already. 
 
 Your account on R-TT server is protected by a password for your privacy and security. You need to ensure unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. 
 
@@ -41,6 +42,4 @@ We operate our online services in compliance with the Children's Online Privacy 
 
 R-TT may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use personal information, we will notify you by posting an announcement on our Website. 
 
-You can send us [questions or feedback](http://www.r-tt.com/Feedback.shtml) on any of our privacy policies.   
-  
----|---
+You can send us [questions or feedback](http://www.r-tt.com/Feedback.shtml) on any of our privacy policies. 
