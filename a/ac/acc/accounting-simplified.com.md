@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022111415id_/http%3A//www.accounting-simplified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accounting-simplified.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502003706id_/http%3A//accounting-simplified.com/privacy.html) for the most accurate reproduction.*
 
 # Accounting-Simplified: Free Financial Accounting study resources
 
