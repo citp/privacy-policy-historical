@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011054740id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiespot.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501090843id_/http%3A//www.freebiespot.net/4814/freebie-spots-disclosure-policy) for the most accurate reproduction.*
 
-# Freebie Spot Disclosure Policy and Privacy Policy - Freebie Spot
+# Freebie Spot Disclosure Policy and Privacy Policy | Freebie Spot
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.freebiespot.net%2F4814%2Ffreebie-spots-disclosure-policy%2F&media=http%3A%2F%2Fdisclosurepolicy.org%2Fimages%2Fbadge-large.jpg&description=Freebie+Spot+Disclosure+Policy+and+Privacy+Policy)
 
 ## Disclosure Policy
 
