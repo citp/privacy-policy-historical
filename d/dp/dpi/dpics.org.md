@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpics.org privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220061840id_/http%3A//hq.dpics.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpics.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501134004id_/http%3A//hq.dpics.org/privacy.php) for the most accurate reproduction.*
 
 # Desktop Wallpapers · Privacy Policy for HQ.DPICS.ORG
 
@@ -7,7 +7,7 @@ Your privacy on the Internet is of the utmost importance to us. This document ou
 **Information Automatically Logged**  
 During your visit, we does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, [HQ.DPICS.ORG](http://hq.dpics.org/) obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website.
 
-**Wallpaper Images**  
+**Wallpaper Images / Copyright**  
 Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. All images displayed on the site are provided only for personal use as wallpaper on computers, cell phones and other personal electronic devices. In case of an error where you are the owner of an image and feel it is used unknowingly, please contact us so we can immediately remove it from our website. We do not intend to display any copyright protected images.
 
 **External Links**  
