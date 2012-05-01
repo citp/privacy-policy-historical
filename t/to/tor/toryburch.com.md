@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013023329id_/http%3A//www.toryburch.com/Content-Privacy/content-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081440id_/http%3A//www.toryburch.com/Content-Privacy/content-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Tory Burch | Privacy & Usage Policy
 
