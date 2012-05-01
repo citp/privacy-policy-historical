@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the anilinkz.com privacy policy that was archived on 2011-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206005534id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anilinkz.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501210910id_/http%3A//anilinkz.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
 <title>Privacy Policy - AniLinkz</title>
 <meta name="description" content="Privacy Policy - AniLinkz Online">
+<meta name="keywords" content="Privacy Policy - AniLinkz Online">
+
+
 
 
 <meta name="robots" content="index, follow">
-
-
 
 
 
@@ -24,19 +25,17 @@
 
 
 
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 
 
-<link rel="stylesheet" type="text/css" media="all" href="http://anilinkz.com/wp-content/themes/ani-v2/style.css">
-<script src="http://anilinkz.com/files/js/ajax_captcha.js" type="text/javascript"></script>
-<script src="http://anilinkz.com/files/js/aniv3.js" type="text/javascript"></script>
-<script src="http://anilinkz.com/files/js/MenuMatic.js" type="text/javascript"></script>
-<script src="http://anilinkz.com/files/js/mootools.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="/files/stylee.css">
+
+<link rel="alternate" type="application/rss+xml" title="AniLinkz Recent Episodes" href="http://feeds.feedburner.com/anilinkzrss20">
+
+
+
 <script type="text/javascript">
-
-		if (top.location!= self.location) {
-			top.location = self.location.href
-		}
-
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5609997-1']);
@@ -49,17 +48,161 @@
   })();
 
 </script>
+
+
+
+<script type="text/javascript">
+
+
+function escapeall(str){return str.replace(/([A-Z\~\!\@\#\$\*\{\}\[\]\-\+\.])/g,'');} 
+
+function disablePopup(){
+$('#pop').fadeOut('slow');
+$('#win').fadeOut('slow');
+}
+
+function removeads(){
+$('.ads').empty();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
+
+
+
+
+
+
+$("#watchmode").click(function () {
+
+$('#chatango').empty();
+
+$('.ads').empty();
+
+
+	var playerheight = $("#aniplayer").height();
+	var winheight = $(window).height();
+	var playeroffset = $("#aniplayer").offset().top;
+	
+	var watchscroll = playeroffset - ((winheight - playerheight) / 2);
+	
+	
+
+
+
+$('html,body').stop().animate({ scrollTop: watchscroll }, "slow");
+
+
+});  
+
+
+
+$("#showhide").click(function () {
+$("#chatdiv").toggle("slow");
+});  
+
+
+
+       $("#report").click(function(){
+	   
+	   // $('html,body').stop().animate({ scrollTop: 0 }, "slow");
+	   	
+var windowWidth = document.documentElement.clientWidth;
+var windowHeight = document.documentElement.clientHeight;
+	var popupHeight = $("#win").height();
+	var popupWidth = $("#win").width();
+	var reportheight = $(document).height();
+	var scrollt = $(window).scrollTop();
+	
+		   	$("#win").css({
+		"position": "absolute",
+		"top":  scrollt + (windowHeight/2-popupHeight/2),
+		"left": windowWidth/2-popupWidth/2
+	});
+	//centering
+	
+		   	$("#pop").css({
+		"height": reportheight
+	});
+
+	   $("#pop").fadeIn('slow');
+	   
+	   var title = $("#report").attr("class");
+
+	   $("#win").fadeIn('slow').load("/fetch.php?r=" + title);
+	   
+	   
+
+
+       });
+	   
+	   	
+	
+	//Click out event!
+	$("#pop").click(function(){
+		disablePopup();
+	});
+	
+	//Press Escape event!
+	$(document).keypress(function(e){
+		if(e.keyCode==27 && popupStatus==1){
+			disablePopup();
+		}
+	});
+	
+
+	$("#menu a" ).mouseover(function() {
+		$( this ).children("img").stop( true, true ).animate({
+			opacity: 0.6
+		}, 200, "swing", function() {
+			$( this ).animate({
+				opacity: 1
+			}, 400 );
+		});
+	});
+
+	   
+});
+
+
+
+
+	  
+</script>
+
+
 </head>
 
-<body onload="setTimeout('remads()', 300000)">
+<body onload="setTimeout('removeads()', 300000)">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
+  if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="pop"></div>
+<div id="win"></div>
+
+
+
+
+
 <div id="wrapper">
 <div id="topnav"></div>
 <div id="wrap">
@@ -78,26 +221,25 @@
 
 
 
-<script type="text/javascript">
-	window.addEvent('domready', function() {			
-			var myMenu = new MenuMatic();
-	});	
-</script>
 
 <div id="menu">
-	<a href="http://anilinkz.com/"><img src="http://anilinkz.com/img/menu/home.png" alt="Home"></a>
-	<a href="http://anilinkz.com/?random"><img src="http://anilinkz.com/img/menu/random.png" alt="Random Anime"></a>
-	<a href="http://anilinkz.com/anime-list"><img src="http://anilinkz.com/img/menu/anime.png" alt="Anime List"></a>
-	<a href="http://anilinkz.com/cartoon-list"><img src="http://anilinkz.com/img/menu/cartoons.png" alt="Cartoons List"></a>
-	<a href="#"><img src="http://anilinkz.com/img/menu/movies.png" alt="Movie OVA List"></a>
-	<a href="http://www.aniforums.com/"><img src="http://anilinkz.com/img/menu/forums.png" alt="Forums"></a>
-	<a href="http://www.aniforums.com/arcade.php"><img src="http://anilinkz.com/img/menu/arcade.png" alt="Arcade"></a>
-	<a href="http://anilinkz.com/faqs"><img src="http://anilinkz.com/img/menu/faqs.png" alt="Frequently Asked Questions"></a>
-	<a href="http://anilinkz.com/anime-linkers"><img src="http://anilinkz.com/img/menu/linkers.png" alt="Anime Linkers"></a>
-	<a href="http://www.facebook.com/anilinkz"><img src="http://anilinkz.com/img/menu/facebook.png" alt="Facebook Fanpage"></a>
-	<a href="http://twitter.com/anilinkzanime"><img src="http://anilinkz.com/img/menu/twitter.png" alt="Twitter"></a>
+	<a title="AniLinkz Home" href="/"><img src="/img/menu/home.png" alt=""></a>
+	<a title="Random" href="/?random"><img src="/img/menu/random.png" alt=""></a>
+	<a title="Anime List" href="/anime-list"><img src="/img/menu/anime.png" alt=""></a>
+	<a title="Ongoing Anime List" href="/ongoing-anime-list"><img src="/img/menu/ongoing.png" alt=""></a>
+	<a title="Ongoing Anime Series Info" href="/ongoing-anime-series-info"><img src="/img/menu/ongoinginfo.png" alt=""></a>
+	<a title="Movies and OVA List" href="/movie-ova-list"><img src="/img/menu/movies.png" alt=""></a>
+		<a title="Cartoon List" href="/cartoons-list"><img src="/img/menu/cartoons.png" alt=""></a>
+	
+	<a title="AniLinkz Forums" href="http://anilinkz.com/forums/"><img src="/img/menu/forums.png" alt=""></a>
+	
+	<a title="Frequently Asked Questions" href="/faqs"><img src="/img/menu/faqs.png" alt=""></a>
+	
+	<a title="AniLinkz Fanpage" href="http://www.facebook.com/anilinkz"><img src="/img/menu/facebook.png" alt=""></a>
+	<a title="Follow us @anilinkzanime" href="http://twitter.com/anilinkzanime"><img src="/img/menu/twitter.png" alt=""></a>
 
 </div>
+
 
 
 <div id="main">
@@ -114,8 +256,8 @@
 <div class="spon1"></div>
 </div>
 
-<div id="adsl1">
-<script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=3&amp;tp=7&amp;d=j&amp;t=n"></script><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="160" height="600" src="http://www3.game-advertising-online.com/index.php?section=serve&amp;id=1324"></iframe><script type="text/javascript" src="http://server.cpmstar.com/view.aspx?poolid=2856&amp;script=1&amp;rnd=2142693724"></script></div>
+
+<div class="ads wa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="160" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=476035"></iframe></div><div class="ads wa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="160" height="600" src="http://ads.kmdisplay.com/tt?id=735305&amp;size=160x600"></iframe></div><div class="ads wa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="160" height="600" src="http://ad.xtendmedia.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=2571392"></iframe></div>
 
 
 
@@ -129,13 +271,9 @@
 
 
 
-<h3>Privacy Policy</h3>
 
-
-<div id="adsc1">
-<script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
-</div>
-
+	<h3>Privacy Policy</h3>
+	<div class="ads la"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ads.kmdisplay.com/tt?id=735305&amp;size=728x90"></iframe></div>	<br>
 	
 <p>    This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.<br><br>
 
@@ -159,37 +297,30 @@
     We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</p>
 
 
-
-
-
-
-<br style="clear:both;">
-
-
+	<div class="ads la"><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=57322&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script></div>	
 
 
 
 
 </div>
-
-
 </div><!-- end of main -->
 
 
 
 <div id="sidebar">
-
 <div class="sideright">
 <div class="search"></div>
 </div>
 
 <br>
 <center>
-<form id="search" action="http://anilinkz.com/q.php" method="post">
-<input type="text" style="text-align:center;" class="query" name="query" value="-Enter Keyword-" onblur="if (this.value == '') {this.value = '-Enter Keyword-';}" onfocus="if (this.value == '-Enter Keyword-') {this.value = '';}" maxlength="60"><br>
+<form id="anisearch" action="/search.php" method="post">
+<input type="text" style="text-align:center;" class="query" name="q" value="-Enter Keyword-" onblur="if (this.value == '') {this.value = '-Enter Keyword-';}" onfocus="if (this.value == '-Enter Keyword-') {this.value = '';}" maxlength="80"><br>
 <input type="hidden" name="src" value="anilinkz">
-<div class="spacer"></div>
+<br>
 <input type="submit" class="submit" value="AniLinkz Search">
+<br>
+<a rel="nofollow" href="/search"><span style="font-size:13px">Advanced Anime Search</span></a>
 </form>
 </center>
 <br>
@@ -200,121 +331,84 @@
 <div class="spon1"></div>
 </div>
 
-<div id="adsr1">
-<script type="text/javascript" src="http://adserving.cpxadroit.com/tags2/2-1007015.js"></script>
-</div>
+
+
+<div class="ads sa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://www3.game-advertising-online.com/index.php?section=serve&amp;id=1323"></iframe></div>
+
 
 <div class="sideright">
 <div class="chat"></div>
 </div>
-
+ 
 <div id="chatango">
-
-<div id="chatbox">
-<script type="text/javascript">
-var present = '';
-present += getval("chatter");
-if (present == "animelinkz" || present == "anilinkzchat2" || present == "anilinkzchat3") {
-choosechat(present);
-} else {
-choosechat("animelinkz");
-}
-</script> 
-</div>
-
-
-<table width="300">
-<tbody><tr>
-<td align="left">
-<a rel="nofollow" href="http://anilinkz.com/chat-rules"><img src="/images/chat/cr.png" alt="Chat Rules"></a>
-</td>
-
-<td align="center">
-<a rel="nofollow" href="javascript:void()"><img src="/images/chat/hc.png" alt="Hide Chatbox"></a>
-</td>
-
-<td align="right">
-
-<a rel="nofollow" href="http://anilinkz.com/chat-moderators"><img src="/images/chat/cm.png" alt="Chat Moderators"></a>
-</td>
-</tr>
-</tbody></table>
-
-
-
-
+<table width="300"><tbody><tr><td width="100" align="left"><a class="" href="javascript:choosechat('anilinkzchat2');"><img src="/img/chat/ot.png" alt="Off Topic Chat"></a></td><td width="100" align="center"><a class="" href="javascript:choosechat('animelinkz');"><img src="/img/chat/mc.png" alt="Main Anime Chat"></a></td><td width="100" align="right"><a class="" href="javascript:choosechat('anilinkzchat3');"><img src="/img/chat/uc.png" alt="Unknown Chat"></a></td></tr><tr><td colspan="3" height="500"><span id="chatdiv"><object type="application/x-shockwave-flash" width="300" height="500" data="http://animelinkz.chatango.com/group"><param name="movie" value="http://animelinkz.chatango.com/group"><param name="AllowScriptAccess" value="always"><param name="wmode" value="transparent"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="true"><param name="flashvars" value="a=232D35&amp;b=100&amp;c=FFFFFF&amp;d=FFFFFF&amp;f=1&amp;g=FFFFFF&amp;i=0&amp;j=CCCCCC&amp;k=555555&amp;l=FFFFFF&amp;m=FF0000&amp;n=FFFFFF&amp;o=42&amp;q=7f7f7f&amp;r=100&amp;t=0"></object></span></td></tr><tr><td align="left"><a rel="nofollow" href="/chat-rules"><img src="/img/chat/cr.png" alt="Chat Rules"></a></td><td align="center"><a id="showhide"><img src="/img/chat/hc.png" alt="Hide Chatbox"></a></td><td align="right"><a rel="nofollow" href="/chat-moderators"><img src="/img/chat/cm.png" alt="Chat Moderators"></a></td></tr></tbody></table>
 </div>
 
 
 
 <div class="sideright">
-<div class="spon2"></div>
+<div class="spon2"></div> 
 </div>
 
-<div id="adsr2">
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ad.bharatstudent.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=2537037"></iframe>
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://www3.game-advertising-online.com/index.php?section=serve&amp;id=1323"></iframe></div>
+
+
+<div class="ads sa"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="300" height="250" src="http://ad.xtendmedia.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=2571392"></iframe></div>
 
 
 </div>
 
-<div style="clear: both;"> </div>
-
+<!-- Footer -->
+<br class="clr">
+<br>
 
 
 
 
 
 <!-- footer start -->
-<div id="footer" style="background-color:black;color:white;padding:15px;">
+<div id="footer">
 
 
 
-
-
-
-
-
-
-
-
-Popular: <a href="http://anilinkz.com/bleach-episode-350" title="Bleach 350"><b>Bleach 350</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/bleach-episode-349" title="Bleach 349"><b>Bleach 349</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/naruto-shippuuden-episode-238" title="Naruto Shippuuden 238"><b>Naruto Shippuuden 238</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/naruto-shippuuden-episode-237" title="Naruto Shippuuden 237"><b>Naruto Shippuuden 237</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/one-piece-episode-526" title="One Piece 526"><b>One Piece 526</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/one-piece-episode-525" title="One Piece 525"><b>One Piece 525</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/fairy-tail-episode-108" title="Fairy Tail 108"><b>Fairy Tail 108</b></a> <font color="lime">(Sub)</font> | <a href="http://anilinkz.com/fairy-tail-episode-107" title="Fairy Tail 107"><b>Fairy Tail 107</b></a> <font color="lime">(Sub)</font>
-
-
-
-
+<span style="font-size:14px;letter-spacing:-1px;">Popular: <a href="/naruto-shippuuden-episode-260" title="Naruto Shippuuden 260"><b>Naruto Shippuuden 260</b></a> <font color="lime">(Sub)</font> | <a href="/naruto-shippuuden-episode-259" title="Naruto Shippuuden 259"><b>Naruto Shippuuden 259</b></a> <font color="lime">(Sub)</font> | <a href="/one-piece-episode-545" title="One Piece 545"><b>One Piece 545</b></a> <font color="lime">(Sub)</font> | <a href="/one-piece-episode-544" title="One Piece 544"><b>One Piece 544</b></a> <font color="lime">(Sub)</font> | <a href="/fairy-tail-episode-128" title="Fairy Tail 128"><b>Fairy Tail 128</b></a> <font color="lime">(Sub)</font> | <a href="/fairy-tail-episode-127" title="Fairy Tail 127"><b>Fairy Tail 127</b></a> <font color="lime">(Sub)</font> | <a href="/avatar-the-legend-of-korra-episode-4" title="Avatar: The Legend of Korra 4"><b>Avatar: The Legend of Korra 4</b></a> <font color="blue">(Dub)</font> | <a href="/avatar-the-legend-of-korra-episode-3" title="Avatar: The Legend of Korra 3"><b>Avatar: The Legend of Korra 3</b></a> <font color="blue">(Dub)</font></span>
+<br><br>
+Soon: <a href="/naruto-shippuuden-episode-262" title="Naruto Shippuuden 262"><b>Naruto Shippuuden 262</b></a> <font color="purple">(Info)</font> | <a href="/naruto-shippuuden-episode-261" title="Naruto Shippuuden 261"><b>Naruto Shippuuden 261</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-547" title="One Piece 547"><b>One Piece 547</b></a> <font color="purple">(Info)</font> | <a href="/one-piece-episode-546" title="One Piece 546"><b>One Piece 546</b></a> <font color="purple">(Info)</font> | <a href="/fairy-tail-episode-130" title="Fairy Tail 130"><b>Fairy Tail 130</b></a> <font color="purple">(Info)</font> | <a href="/fairy-tail-episode-129" title="Fairy Tail 129"><b>Fairy Tail 129</b></a> <font color="purple">(Info)</font> | <a href="/avatar-the-legend-of-korra-episode-5" title="Avatar: The Legend of Korra 5"><b>Avatar: The Legend of Korra 5</b></a> <font color="purple">(Info)</font>
 
 <br><br>
 
 
-Copyright © AniLinkz 2011. <a href="http://anilinkz.com/" title="Watch Anime">Watch Anime</a> | <a href="http://anilinkz.com/legal-disclaimer/" title="Legal Disclaimer">Terms of Use</a> | <a href="http://anilinkz.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a> | <a href="http://anilinkz.com/legal-disclaimer/" title="Legal Disclaimer">Legal Disclaimer</a> | <a href="http://anilinkz.com/contact/" title="Contact Us">Contact Us</a>
+Copyright © AniLinkz 2012. <a href="/" title="Watch Anime">Watch Anime</a> | <a href="/terms-of-use" title="Terms of Use">Terms of Use</a> | <a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a> | <a href="/legal-disclaimer" title="Legal Disclaimer">Legal Disclaimer</a> | <a href="/contact" title="Contact Us">Contact Us</a>
 <br>
 
 
 
-Affiliates: <a target="_blank" href="http://www.animelime.com">AnimeLime</a> | 
-<a target="_blank" href="http://anilinkz.com/">Watch Anime Online</a> | 
-<a target="_blank" href="http://anilinkz.com/">Streaming Anime Episodes</a> | 
-<a target="_blank" href="http://eztvstream.com/">Watch Free TV Series</a> | 
+
+
+
+
+<center>
+<a rel="nofollow" title="Validate Avatar: The Legend of Korra 5" href="http://validator.w3.org/check?uri=referer"><img src="/img/valid_xhtml.png" alt="Validate Avatar: The Legend of Korra 5"></a><img src="http://whos.amung.us/swidget/bzph6pubwpjz.gif?new=1" alt=""><a rel="nofollow" title="Valid CSS Avatar: The Legend of Korra 5" href="http://jigsaw.w3.org/css-validator/check/referer"><img src="/img/valid_css.png" alt="Valid CSS Avatar: The Legend of Korra 5"></a>
+<br>
+
+<small>
+Page Loaded in 0.0007 seconds with 2 queries using 2,619 KB of Memory</small>
+
+<br><br>
+
+<a target="_blank" href="/">Watch Anime Online</a> | 
+<a target="_blank" href="/">Streaming Anime Episodes</a> | 
+<a target="_blank" href="http://eztvstream.ch/">Watch Free TV Series</a> | 
+<a target="_blank" href="http://yourdocumentaryfilms.co.uk/">Watch Documentary Films</a> | 
+<a target="_blank" href="http://www.animelime.com">AnimeLime</a> | 
 <a target="_blank" href="http://www.markmaranga.com/">Philippines Travel Guide</a> | 
 <a target="_blank" href="http://www.isyot.net/">Laptops and Cellphones</a> | 
 <a target="_blank" href="http://pacquiao-vs-marquez-fights.blogspot.com/">Pacquiao vs Marquez</a> | 
 <a target="_blank" href="http://www.phnoy.com/">Pinoy TV Online</a> | 
 <a target="_blank" href="http://www.mangafox.com">MangaFox</a> | 
 <a target="_blank" href="http://tanaw.tv/">Watch TV Series</a> | 
-<a target="_blank" href="http://anilinkz.com/affiliates/">More Affiliates</a>
-
-<br>
-<br>
+<a target="_blank" href="http://aniwatcher.com/">Watch Anime</a>
 
 
-
-<center>
-<a rel="nofollow" title="Validate " href="http://validator.w3.org/check?uri=referer"><img src="http://anilinkz.com/images/valid_xhtml.png" alt="Validate "></a><img src="http://whos.amung.us/swidget/bzph6pubwpjz.gif?new=1" alt=""><img src="http://s50.sitemeter.com/meter.asp?site=s50anilinkz" alt=""><a rel="nofollow" title="Valid CSS " href="http://jigsaw.w3.org/css-validator/check/referer"><img src="http://anilinkz.com/images/valid_css.png" alt="Valid CSS "></a>
-<br>
-<small>
- Page Loaded in 0.027 seconds with 14 queries. 
-</small>
 </center>
 
 </div>
@@ -322,15 +416,11 @@ Affiliates: <a target="_blank" href="http://www.animelime.com">AnimeLime</a> |
 
 
 
-
-
+   
+ 
 
 
   </div> <!-- wrap -->
 </div> <!-- wrapper -->
-
-
-
-
 
 </body></html>
