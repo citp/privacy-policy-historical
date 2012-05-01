@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071644id_/http%3A//www.overtons.com/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211509id_/http%3A//www.overtons.com/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Overton's® > Policies : Privacy
 
 **Effective date: September 16, 2010**  
 
 
-This Privacy Policy (this “Policy”) explains how Gander Mountain, Overton’s, Consumers Marine and other members of the Gander Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
+This Privacy Policy (this “Policy”) explains how Gander Mountain, Overton’s and other members of the Gander Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
 
 [GanderMountain.com](http://www.gandermountain.com/)
 
@@ -13,12 +13,9 @@ This Privacy Policy (this “Policy”) explains how Gander Mountain, Overton’
 [Overtons.com](http://www.overtons.com/)
 
   
-[ConsumersMarine.com](http://www.consumersmarine.com/)
-
-  
 [OvertonsOutdoors.com](http://www.overtonsoutdoors.com/)
 
-Gander Mountain Company (“Gander Mountain”) owns the Site located at GanderMountain.com. Overton’s, Inc. (“Overton’s”) owns the Sites located at Overtons.com and OvertonsOutdoors.com. Consumers Marine Electronics, Inc. (“Consumers Marine”) owns the Site located at ConsumerMarine.com. When we wish to describe how one particular Site uses or shares information you submit to it, we will do so by describing how the “Owner” of the Site uses or shares your information.
+Gander Mountain Company (“Gander Mountain”) owns the Site located at GanderMountain.com. Overton’s, Inc. (“Overton’s”) owns the Sites located at Overtons.com and OvertonsOutdoors.com. When we wish to describe how one particular Site uses or shares information you submit to it, we will do so by describing how the “Owner” of the Site uses or shares your information.
 
 This Policy covers the “personal information” we collect through our Sites. “Personal information” is information that identifies you personally, either alone or in combination with other information available to us. Examples of personal information include your name, address, e-mail address, telephone number, and the information you provide when you request a catalog, subscribe to a newsletter, or make a purchase at one of our online stores.
 
@@ -169,7 +166,7 @@ From time to time, we may use third-party Web analytics firms and marketing cons
 
 **Links to and from Other Web Sites**
 
-_Links to Other Sites Operated by Members of the Gander Mountain Family of Businesses_. Our Sites contain links to Web sites operated by other members of the Gander Mountain family of businesses. If you visit another of our Web sites take a minute to review the privacy policy. GanderMountain.com, Overtons.com, ConsumersMarine.com, and OvertonsOutdoors.com are all governed by this Policy; our other Web sites have their own privacy policies. 
+_Links to Other Sites Operated by Members of the Gander Mountain Family of Businesses_. Our Sites contain links to Web sites operated by other members of the Gander Mountain family of businesses. If you visit another of our Web sites take a minute to review the privacy policy. GanderMountain.com, Overtons.com and OvertonsOutdoors.com are all governed by this Policy; our other Web sites have their own privacy policies. 
 
 _Ratings and Reviews._ Some of our Sites permit visitors to rate and post reviews of the products offered for sale on those Sites. The rating and review functionality may be “powered by” a third party. This means that if you click on “write a review,” you will be transferred directly to a custom Web site operated by that third party. The third party’s site is governed by its terms of use and privacy policy. The third party’s privacy policy describes what information is collected by it when you rate or review a product, how the third party uses that information, and with whom the third party shares that information. We receive some of the information collected through the rating and review functionality on our Sites.
 
@@ -187,7 +184,7 @@ Our Sites are not directed nor targeted to children under the age of thirteen. W
 
 **Information for Visitors Accessing Our Sites from Outside the United States**
 
-Gander Mountain, Overton’s and Consumers Marine are U.S. corporations headquartered in the United States. Our Sites are currently hosted on servers located in the United States, although we reserve the right to relocate our Sites to other servers elsewhere in the world. Your personal information may be stored on servers located within the United States or in another country. In addition, we may transfer your personal information to our service providers and others located in the United States or another country for the purposes described in this Policy. Different countries have different privacy laws and requirements, and some provide less legal protection for your personal information than others. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Policy, it will be protected by the terms of this Policy and any Privacy Notices, Country-Specific Notices or other agreements that apply to you.
+Gander Mountain and Overton’s are U.S. corporations headquartered in the United States. Our Sites are currently hosted on servers located in the United States, although we reserve the right to relocate our Sites to other servers elsewhere in the world. Your personal information may be stored on servers located within the United States or in another country. In addition, we may transfer your personal information to our service providers and others located in the United States or another country for the purposes described in this Policy. Different countries have different privacy laws and requirements, and some provide less legal protection for your personal information than others. Please know, however, that no matter where your personal information is collected, used, transferred or stored, if it was collected through this Policy, it will be protected by the terms of this Policy and any Privacy Notices, Country-Specific Notices or other agreements that apply to you.
 
 BY USING THIS WEB SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, AND TRANSFER OF YOUR PERSONAL INFORMATION IN OR TO THE UNITED STATES OR TO ANY OTHER COUNTRY IN THE WORLD SUBJECT TO THE TERMS OF THIS POLICY
 
