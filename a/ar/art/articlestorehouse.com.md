@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlestorehouse.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201040id_/http%3A//articlestorehouse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestorehouse.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501202059id_/http%3A//articlestorehouse.com/privacy.php) for the most accurate reproduction.*
 
 # Article Storehouse | Privacy Statement
 
