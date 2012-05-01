@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224163435id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501175113id_/http%3A//www.futureplc.com/futurenet/privacy-policy) for the most accurate reproduction.*
 
 # Futurenet | Privacy Policy « Future PLC
 
