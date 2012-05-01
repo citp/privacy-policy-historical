@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001325id_/http%3A//www.battdepot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502010323id_/http%3A//www.battdepot.com/privacy.aspx) for the most accurate reproduction.*
 
 # BattDepot.com - Specialize in selling aftermarket batteries for laptop and notebook computers, camcorder, digital cameras, PDA and Apple iPods
 
