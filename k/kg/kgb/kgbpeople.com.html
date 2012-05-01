@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the kgbpeople.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101135558id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kgbpeople.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501153127id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<!--[if IE]><![endif]-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <title>Privacy Policy - www.kgbpeople.com</title>
+    <title>Polityka prywatności - www.kgbpeople.com</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
-  <meta http-equiv="content-language" content="en">
-  <meta name="google-site-verification" content="_FfcbjEo7zklWN2ONagmnxFl_owEG1hgXg1VFxYaPiQ"><meta name="googlebot" content="noarchive">
+  <meta http-equiv="content-language" content="pl">
+  <meta name="google-site-verification" content="_FfcbjEo7zklWN2ONagmnxFl_owEG1hgXg1VFxYaPiQ"><meta name="robots" content="noindex,nofollow"><meta name="googlebot" content="noarchive">
 	  <base href="http://www.kgbpeople.com/">
 	    <link rel="canonical" href="http://www.kgbpeople.com/privacy-policy">
   
@@ -73,7 +73,7 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1393656-7']);
   _gaq.push(['_setCustomVar', 1, 'User Type', 'Logged Out', 2 ]);
-  _gaq.push(['_setCustomVar', 2, 'Page Language','en', 3 ]);
+  _gaq.push(['_setCustomVar', 2, 'Page Language','pl', 3 ]);
    _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -83,20 +83,20 @@
   </script>
 
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class="kgbpeople">
 
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"></div>
 <script type="text/javascript">
   window.fbAsyncInit = function() {
     FB.init({appId: '108561289197815', status: true, cookie: true,
-             xfbml: true});
+             xfbml: true, oauth: true});
     
         
-    FB.getLoginStatus(function(reply) {
-      var base = $('base').attr('href');
-       if(reply.session) {
-         $.ajax({
+    FB.getLoginStatus(function(response) {
+    	var base = $('base').attr('href');
+	  	if (response.authResponse) {
+	    	$.ajax({
             url: base + 'ajax/login.php',
             cache: false,
             data: ({type: 'fb'}),
@@ -107,17 +107,17 @@
               }
             }
           });
-       }
-    });
+	  	} 
+	});
     
         
   };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol +
-      '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
 </script>
 
 
@@ -134,65 +134,65 @@ var WRInitTime=(new Date()).getTime();
 	<div id="network-bar" class="clearfix">
 	<dl>
 		<dt>get more kgb:</dt>
-		<dd><a href="http://www.kgbdeals.com" onclick="_gaq.push(['_trackPageview', '/out/kgbdeals']);" title="Get excellent deals from selected retailers">kgbdeals</a></dd>
-		<dd><a href="http://www.kgbanswers.com" onclick="_gaq.push(['_trackPageview', '/out/kgbanswers']);" title="Get human researched answers for your questions">kgbanswers</a></dd>
+		<dd><a href="http://www.kgbdeals.com" onclick="_gaq.push(['_trackPageview', '/out/kgbdeals']);" title="Sprawdź atrakcyjne oferty wybranych sprzedawców">kgbdeals</a></dd>
+		<dd><a href="http://www.kgbanswers.com" onclick="_gaq.push(['_trackPageview', '/out/kgbanswers']);" title="Otrzymaj odpowiedzi na Twoje pytania przygotowane przez ludzi">kgbanswers</a></dd>
 	</dl>
 	<div id="lang">
-	<a href="javascript:void(0)" class="dropbox" id="dropbox-langbox">Change language: <span>English</span></a>
+	<a href="javascript:void(0)" class="dropbox" id="dropbox-langbox">Zmień język: <span>Polski</span></a>
 
 	<div id="langbox" class="togglebox">
 		<ul id="langlist">
 									<li><a href="./choose-language/de">Deutsch</a></li>
 												<li><a href="./choose-language/da">Dansk</a></li>
-																		<li><a href="./choose-language/es">Español</a></li>
+												<li><a href="./choose-language/en">English</a></li>
+												<li><a href="./choose-language/es">Español</a></li>
 												<li><a href="./choose-language/fr">Français</a></li>
 												<li><a href="./choose-language/it">Italiano</a></li>
 												<li><a href="./choose-language/nl">Nederlands</a></li>
-												<li><a href="./choose-language/pl">Polski</a></li>
-												<li><a href="./choose-language/ru">Русский</a></li>
+																		<li><a href="./choose-language/ru">Русский</a></li>
 												<li><a href="./choose-language/sv">Svenska</a></li>
 								</ul>
 	</div>
 </div></div>	<div id="masthead">
 	<div class="clearfix">
-		<a id="logo" href="./" title="">free people search</a>
-		<span class="tagline">kgbpeople is a free people search engine</span>			<div id="login">
+		<a id="logo" href="./" title="">darmowe wyszukiwanie osób</a>
+		<span class="tagline">kgbpople to darmowa wyszukiwarka osób</span>			<div id="login">
 			<div id="logged-in" class="hide">
-												<a class="btn username " href="./" title="Go to your profile page"> </a>
-				<a class="logout" href="./logout">Logout</a>
+												<a class="btn username " href="./" title="Idź do strony Twojego profilu."> </a>
+				<a class="logout" href="./logout">Wyloguj się</a>
 			</div>
 						<div id="login-ini">
-				<a href="./register">Sign up</a><span>or</span>				<a href="./login" class="btn dropbox" id="dropbox-loginbox">Login</a>
+				<a href="./zarejestruj-się">Zarejestruj się</a><span>lub</span>				<a href="./login" class="btn dropbox" id="dropbox-loginbox">Login</a>
 			</div>
 			<div id="loginbox" class="togglebox">
 				<form action="" id="loginform" name="loginform" method="post">
 					<ol>
 						<li>
-							<label for="useremail">email address:</label>
+							<label for="useremail">adres e-mail:</label>
 							<input type="text" id="useremail" name="email">
 						</li>
 						<li>
-							<label for="password">password:</label>
+							<label for="password">hasło:</label>
 							<input type="password" id="password" name="password">
 						</li>
 					</ol>
 					<input type="submit" value="Login">
 				</form>
                 <div id="loginbox-fb">
-          <p>Log in with your Facebook account:</p>
-          <div class="fb-login-2">
-            <fb:login-button show-faces="false" autologoutlink="true" size="medium" max-rows="1" onlogin="if(FbIsLoggedIn()) { $('#fb-profile-build').trigger('click'); }" perms="offline_access,share_item,email,user_hometown,user_location,user_about_me,user_birthday">Login with Facebook</fb:login-button>
+          <p>Zaloguj się przy pomocy twego konta na Facebooku:</p>
+          <div class="fb-login">
+            <fb:login-button show-faces="false" autologoutlink="true" size="medium" max-rows="1" onlogin="FbLoginAndBuild();" scope="offline_access,share_item,email,user_hometown,user_location,user_about_me,user_birthday">Login with Facebook</fb:login-button>
           </div>
            <a id="fb-profile-build" class="hide iframe-loading-fb" href="./fb_profile_wait.php">&nbsp;</a>
         </div>
-        				<p><a href="./password_lost">Forgotten your password?</a></p>
-				<p>Not signed up yet? <a href="./register">Sign up now!</a></p>			</div>
+        				<p><a href="./zapomniałem_hasła">Zapomniałem(-am) hasła?</a></p>
+				<p>Nie masz jeszcze konta?? <a href="./zarejestruj-się">Zarejestruj się</a></p>			</div>
 					</div>
    	</div>
 </div>	<div id="search-bar">
 	<div>
 		<div class="clearfix search-bar-head">
-		<h3>Find someone by name</h3>
+		<h3>Odszukaj kogoś po imieniu</h3>
 		<div class="indent">
 			<div class="indent-d"></div>
 			<div class="indent-l"></div>
@@ -200,36 +200,36 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 		  
 <div id="search-form-single">
-	<form class="search clearfix single-input" action="people" method="get">
+	<form class="search clearfix single-input" action="osoby" method="get">
 	  <div class="input-wrap">
-	    <label for="fullname">Name: <em>required</em></label>
-	    <input type="text" id="fullname" name="fullname" value="First name Last name" class="predefined " autocomplete="off">
+	    <label for="fullname">Nazwa: <em>wymagane</em></label>
+	    <input type="text" id="fullname" name="fullname" value="Imię Nazwisko" class="predefined " autocomplete="off">
 	  </div>
 
     <div class="country-select">
-      <label for="country_single">Country:</label>
+      <label for="country_single">Kraj:</label>
 <select name="country" id="country_single">
-  <option value="www" selected="selected">Worldwide</option>
+  <option value="www" selected="selected">Cały świat</option>
   <option disabled="disabled">———————</option>
     		<option value="at">Austria</option>
-    		<option value="be">Belgium</option>
-    		<option value="dk">Denmark</option>
-    		<option value="fr">France</option>
-    		<option value="de">Germany</option>
-    		<option value="ie">Ireland</option>
-    		<option value="it">Italy</option>
-    		<option value="nl">Netherlands</option>
-    		<option value="pl">Poland</option>
-    		<option value="ru">Russia</option>
-    		<option value="es">Spain</option>
-    		<option value="se">Sweden</option>
-    		<option value="ch">Switzerland</option>
-    		<option value="uk">United Kingdom</option>
-    		<option value="us">United States</option>
+    		<option value="be">Belgia</option>
+    		<option value="dk">Dania</option>
+    		<option value="fr">Francja</option>
+    		<option value="es">Hiszpania</option>
+    		<option value="nl">Holandia</option>
+    		<option value="ie">Irlandia</option>
+    		<option value="de">Niemcy</option>
+    		<option value="pl">Polska</option>
+    		<option value="ru">Rosja</option>
+    		<option value="us">Stany Zjednoczone</option>
+    		<option value="ch">Szwajcaria</option>
+    		<option value="se">Szwecja</option>
+    		<option value="it">Włochy</option>
+    		<option value="uk">Zjednoczone Królestwo</option>
   </select>    </div>
 		<div class="submit-wrap">
-	  	<button type="submit"><span>Search</span></button>
-	  	<a class="go-settings" title="Select other sources to search and change display options" href="http://www.kgbpeople.com/search-settings"><span>Search settings</span></a>		</div>
+	  	<button type="submit"><span>Wyszukiwanie</span></button>
+	  	<a class="go-settings" title="Wybierz źródła do przeszukania i zmień opcje wyświetlania" href="http://www.kgbpeople.com/ustawienia-wyszukiwania"><span>Ustawienia wyszukiwania</span></a>		</div>
 	</form>
 </div>
 		</div>
@@ -247,15 +247,15 @@ var WRInitTime=(new Date()).getTime();
   
     <div id="content" class="clearfix   ">
               <div id="heading" class="clearfix">
-  <h1 id="h-support">Support</h1>
+  <h1 id="h-support">Pomoc</h1>
 </div>
             
         <div class="side-col">
   <ul class="link-list">
         <li><a href="./faq">FAQ</a></li>
-    <li><a href="./contact">Contact</a></li>
-		<li><a href="./terms-of-service">Terms of service</a></li>
-    <li><a href="./privacy-policy" class="selected">Privacy policy</a></li>
+    <li><a href="./kontakt">Kontakt</a></li>
+		<li><a href="./terms-of-service">Warunki świadczenia usługi</a></li>
+    <li><a href="./polityka-prywatności" class="selected">Polityka prywatności</a></li>
    </ul>
 </div>
 
@@ -323,124 +323,124 @@ Email: <a href="mailto:info@kgbpeople.com">info@kgbpeople.com</a></p>
 <div id="wrap-footer">
 	<div id="footer-lists" class="clearfix">
   <div id="now-pop-list-wrap">
-    <span>Popular now</span>
+    <span>Popularne teraz</span>
     <ol id="pop-list-now" class="pop-list">
 
   			<li>
-         <a href="./people/rachel-rose">Rachel Rose</a>
+         <a href="./osoby/alex-wagner">Alex Wagner</a>
       </li>
     
     			<li>
-         <a href="./people/amy-winehouse">Amy Winehouse</a>
+         <a href="./osoby/rick-perry">Rick Perry</a>
       </li>
     
     			<li>
-         <a href="./people/steve-perry">Steve Perry</a>
+         <a href="./osoby/justin-bieber">Justin Bieber</a>
       </li>
     
     			<li>
-         <a href="./people/pablo-martinez">Pablo Martinez</a>
+         <a href="./osoby/susan-cole">Susan Cole</a>
       </li>
     
     			<li>
-         <a href="./people/katie-price">Katie Price</a>
+         <a href="./osoby/michael-flores">Michael Flores</a>
       </li>
     
     			<li>
-         <a href="./people/angelica-zambrano">Angelica Zambrano</a>
+         <a href="./osoby/riane-kuzee">Riane Kuzee</a>
       </li>
     
     			<li>
-         <a href="./people/steve-jobs">Steve Jobs</a>
+         <a href="./osoby/brian-kennedy">Brian Kennedy</a>
       </li>
     
     			<li>
-         <a href="./people/eva-longoria">Eva Longoria</a>
+         <a href="./osoby/britney-l-biggs">Britney L Biggs</a>
       </li>
     
     			<li>
-         <a href="./people/riane-kuzee">Riane Kuzee</a>
+         <a href="./osoby/nancy-hu">Nancy Hu</a>
       </li>
     
     			<li>
-         <a href="./people/michael-flores">Michael Flores</a>
+         <a href="./osoby/steve-jobs">Steve Jobs</a>
       </li>
     
                 </ol>
   </div>
   <div id="alltime-pop-list-wrap">
-  <span>Popular searches - all time</span>
+  <span>Popularne zapytania - wszech czasów</span>
     <ol id="pop-list-all" class="pop-list">
 
         <li>
-        <a href="./people/angelica-zambrano">Angelica Zambrano</a>
+        <a href="./osoby/angelica-zambrano">Angelica Zambrano</a>
       </li>
     
           <li>
-        <a href="./people/alex-wagner">Alex Wagner</a>
+        <a href="./osoby/alex-wagner">Alex Wagner</a>
       </li>
     
           <li>
-        <a href="./people/steve-jobs">Steve Jobs</a>
+        <a href="./osoby/steve-jobs">Steve Jobs</a>
       </li>
     
           <li>
-        <a href="./people/riane-kuzee">Riane Kuzee</a>
+        <a href="./osoby/riane-kuzee">Riane Kuzee</a>
       </li>
     
           <li>
-        <a href="./people/nancy-hu">Nancy Hu</a>
+        <a href="./osoby/nancy-hu">Nancy Hu</a>
       </li>
     
           <li>
-        <a href="./people/katie-price">Katie Price</a>
+        <a href="./osoby/katie-price">Katie Price</a>
       </li>
     
           <li>
-        <a href="./people/michael-flores">Michael Flores</a>
+        <a href="./osoby/michael-flores">Michael Flores</a>
       </li>
     
           <li>
-        <a href="./people/brian-kennedy">Brian Kennedy</a>
+        <a href="./osoby/brian-kennedy">Brian Kennedy</a>
       </li>
     
           <li>
-        <a href="./people/britney-l-biggs">Britney L Biggs</a>
+        <a href="./osoby/britney-l-biggs">Britney L Biggs</a>
       </li>
     
           <li>
-        <a href="./people/barack-obama">Barack Obama</a>
+        <a href="./osoby/barack-obama">Barack Obama</a>
       </li>
     
                 </ol>
   </div>
 
       <dl id="inthenews-list">
-      <dt>People in the news</dt>
-              <dd><a href="./people/steve-jobs">Steve Jobs</a></dd>
-              <dd><a href="./people/jessica-simpson">Jessica Simpson</a></dd>
-              <dd><a href="./people/kim-kardashian">Kim Kardashian</a></dd>
-              <dd><a href="./people/rick-perry">Rick Perry</a></dd>
-              <dd><a href="./people/tony-blair">Tony Blair</a></dd>
-              <dd><a href="./people/jeff-roberson">Jeff Roberson</a></dd>
-              <dd><a href="./people/ronald-reagan">Ronald Reagan</a></dd>
-              <dd><a href="./people/nikki-reed">Nikki Reed</a></dd>
-              <dd><a href="./people/eva-longoria">Eva Longoria</a></dd>
-              <dd><a href="./people/amy-winehouse">Amy Winehouse</a></dd>
+      <dt>Ludzie w wiadomościach</dt>
+              <dd><a href="./osoby/mark-zuckerberg">Mark Zuckerberg</a></dd>
+              <dd><a href="./osoby/john-edwards">John Edwards</a></dd>
+              <dd><a href="./osoby/marilyn-monroe">Marilyn Monroe</a></dd>
+              <dd><a href="./osoby/pizza-hut">Pizza Hut</a></dd>
+              <dd><a href="./osoby/palo-alto">Palo Alto</a></dd>
+              <dd><a href="./osoby/elizabeth-warren">Elizabeth Warren</a></dd>
+              <dd><a href="./osoby/john-brennan">John Brennan</a></dd>
+              <dd><a href="./osoby/scott-walker">Scott Walker</a></dd>
+              <dd><a href="./osoby/scott-bakula">Scott Bakula</a></dd>
+              <dd><a href="./osoby/scarlett-johansson">Scarlett Johansson</a></dd>
                 </dl>
   
   <dl id="wow-factor-list">
-    <dt><a href="./wow-factor-ranking">WOW factor<span>View Top 100</span></a></dt>
-        <dd><a href="./JamesEglin"><strong>113322</strong>James Eglin</a></dd>
-        <dd><a href="./BerriePelser"><strong>110284</strong>Berrie Pelser</a></dd>
-        <dd><a href="./hanszoun"><strong>85694</strong>Hans Zoun</a></dd>
-        <dd><a href="./toonkerssemakers"><strong>69988</strong>Toon Kerssemakers</a></dd>
-        <dd><a href="./chrastina"><strong>63218</strong>Branislav Chrastina</a></dd>
-        <dd><a href="./ErikvanErne"><strong>63194</strong>Erik Van Erne</a></dd>
-        <dd><a href="./profile/kenneth-udut"><strong>55652</strong>Kenneth Udut</a></dd>
-        <dd><a href="./JohnSmits"><strong>54441</strong>John Smits</a></dd>
-        <dd><a href="./gerald-doc-thomas"><strong>52419</strong>Gerald Doc Thomas</a></dd>
-        <dd><a href="./paulpleus"><strong>52389</strong>Paul Pleus</a></dd>
+    <dt><a href="./ranking-wskaźnika-wow">Wskaźnik WOW<span>Pokaż Top 100</span></a></dt>
+        <dd><a href="./JamesEglin"><strong>134712</strong>James Eglin</a></dd>
+        <dd><a href="./BerriePelser"><strong>119256</strong>Berrie Pelser</a></dd>
+        <dd><a href="./toonkerssemakers"><strong>70388</strong>Toon Kerssemakers</a></dd>
+        <dd><a href="./JohnSmits"><strong>58235</strong>John Smits</a></dd>
+        <dd><a href="./profil/kenneth-udut"><strong>57688</strong>Kenneth Udut</a></dd>
+        <dd><a href="./permiderevershop"><strong>56490</strong>James Schiltz</a></dd>
+        <dd><a href="./chrastina"><strong>56121</strong>Branislav Chrastina</a></dd>
+        <dd><a href="./ErikvanErne"><strong>55477</strong>Erik Van Erne</a></dd>
+        <dd><a href="./paulpleus"><strong>53607</strong>Paul Pleus</a></dd>
+        <dd><a href="./doc-thomas"><strong>53096</strong>Doc Thomas</a></dd>
       </dl>
   
 
@@ -449,40 +449,40 @@ Email: <a href="mailto:info@kgbpeople.com">info@kgbpeople.com</a></p>
 </div>	<div id="footer-nav" class="clearfix">
 	<div>
 		<ul>
-			<li><a href="tools">Tools</a></li>
-			<li><a href="faq">Support</a></li>
-						<li><a href="./profile-index">Index</a></li>			<li><a href="./recently-added">Recently added</a></li>			<li><a href="search-settings-company">Company search</a></li>
+			<li><a href="narzędzia">Narzędzia</a></li>
+			<li><a href="faq">Pomoc</a></li>
+						<li><a href="./profil-index">Indeks</a></li>			<li><a href="./ostatnio-dodano">Ostatnio dodano</a></li>			<li><a href="ustawienia-wyszukiwania-firmy">Wyszukiwanie firm</a></li>
 									<li><a href="http://blog.kgbpeople.com">Blog</a></li>
-			<li><a href="https://twitter.com/kgbpeoplesearch">On Twitter</a></li>
-			<li><a href="https://www.facebook.com/pages/People-Search/150565988297572">On Facebook</a></li>
-			<li><a href="about_kgbpeople">About</a></li>
+			<li><a href="https://twitter.com/kgbpeoplesearch">Na Twitterze</a></li>
+			<li><a href="https://www.facebook.com/pages/People-Search/150565988297572">Na Facebooku</a></li>
+			<li><a href="o_kgbpeople">Informacje o osobie</a></li>
 					</ul>
 		<ul class="smallprint">
-			<li>© copyright 2011</li>
-			<li><a href="./terms-of-service">Terms of service</a></li>
-			<li><a href="./privacy-policy">Privacy policy</a> </li>
+			<li>© copyright 2012</li>
+			<li><a href="./terms-of-service">Warunki świadczenia usługi</a></li>
+			<li><a href="./polityka-prywatności">Polityka prywatności</a> </li>
 			
 						
 						<li id="country-select">
-				<a class="dropbox" id="dropbox-countriesbox" href="javascript:void(0)">Change country: Worldwide</a>
+				<a class="dropbox" id="dropbox-countriesbox" href="javascript:void(0)">Zmień kraj: Cały świat</a>
 				<div id="countriesbox" class="togglebox">
 					<ul>
 												<li><a href="http://at.kgbpeople.com/">Austria</a></li>
-												<li><a href="http://be.kgbpeople.com/">Belgium</a></li>
-												<li><a href="http://dk.kgbpeople.com/">Denmark</a></li>
-												<li><a href="http://fr.kgbpeople.com/">France</a></li>
-												<li><a href="http://de.kgbpeople.com/">Germany</a></li>
-												<li><a href="http://ie.kgbpeople.com/">Ireland</a></li>
-												<li><a href="http://it.kgbpeople.com/">Italy</a></li>
-												<li><a href="http://wieowie.nl/">Netherlands</a></li>
-												<li><a href="http://pl.kgbpeople.com/">Poland</a></li>
-												<li><a href="http://ru.kgbpeople.com/">Russia</a></li>
-												<li><a href="http://es.kgbpeople.com/">Spain</a></li>
-												<li><a href="http://se.kgbpeople.com/">Sweden</a></li>
-												<li><a href="http://ch.kgbpeople.com/">Switzerland</a></li>
-												<li><a href="http://uk.kgbpeople.com/">United Kingdom</a></li>
-												<li><a href="http://us.kgbpeople.com/">United States</a></li>
-												<li><a href="http://www.kgbpeople.com/">Worldwide</a></li>
+												<li><a href="http://be.kgbpeople.com/">Belgia</a></li>
+												<li><a href="http://dk.kgbpeople.com/">Dania</a></li>
+												<li><a href="http://fr.kgbpeople.com/">Francja</a></li>
+												<li><a href="http://es.kgbpeople.com/">Hiszpania</a></li>
+												<li><a href="http://wieowie.nl/">Holandia</a></li>
+												<li><a href="http://ie.kgbpeople.com/">Irlandia</a></li>
+												<li><a href="http://de.kgbpeople.com/">Niemcy</a></li>
+												<li><a href="http://pl.kgbpeople.com/">Polska</a></li>
+												<li><a href="http://ru.kgbpeople.com/">Rosja</a></li>
+												<li><a href="http://us.kgbpeople.com/">Stany Zjednoczone</a></li>
+												<li><a href="http://ch.kgbpeople.com/">Szwajcaria</a></li>
+												<li><a href="http://se.kgbpeople.com/">Szwecja</a></li>
+												<li><a href="http://it.kgbpeople.com/">Włochy</a></li>
+												<li><a href="http://uk.kgbpeople.com/">Zjednoczone Królestwo</a></li>
+												<li><a href="http://www.kgbpeople.com/">Cały świat</a></li>
 											</ul>
 				</div>
 			</li>
@@ -491,10 +491,10 @@ Email: <a href="mailto:info@kgbpeople.com">info@kgbpeople.com</a></p>
 	
 	  <div id="share-tools">
   	<div>
-  	    		<a href="http://www.addthis.com/bookmark.php" addthis:url="http://www.kgbpeople.com" addthis:title="The People Search Engine - kgbpeople" class="addthis_button">Share</a>
+  	    		<a href="http://www.addthis.com/bookmark.php" addthis:url="http://www.kgbpeople.com" addthis:title="The People Search Engine - kgbpeople" class="addthis_button">Udostępnij</a>
   	  	      	</div>
   	<div>
-  	    		<iframe src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http%3A%2F%2Fwww.kgbpeople.com&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+  	    		<iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http%3A%2F%2Fwww.kgbpeople.com&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
   	          	</div>
   </div>
   </div></div> 	    	
