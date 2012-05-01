@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garenaworld.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011224id_/http%3A//www.garenaworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garenaworld.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501212544id_/http%3A//www.garenaworld.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Any of the information we collect from you may be used in one of the following w
   * To personalize your experience (your information helps us to better respond to your individual needs) 
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
   * To administer a contest, promotion, survey or other site feature 
-  * To send periodic emails 
+  * To send notification/periodic/confirmation emails - users are able to select if they want to receive emails. 
 
 
 
@@ -24,7 +24,7 @@ The email address you provide when registering, will only be used to send you in
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
 **Do we use cookies?**  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits and keep track of advertisements and . 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits and keep track of advertisements. 
 
 **Do we disclose any information to outside parties?**  
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
