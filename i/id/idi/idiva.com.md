@@ -1,67 +1,98 @@
-> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003120id_/http%3A//idiva.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502010518id_/http%3A//idiva.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | iDiva.com
 
-By using or accessing this Site, you accept the practices described in this Privacy Policy. This Privacy Policy describes how we collect and treat your personal information when you use this Site. Your information, as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation
+Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at http://in.indiatimes.com is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia www.timesofindia.com, www.economictimes.com, www.navbharattimes.com, www.maharashtratimes.com including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL.
 
-Information supplied by users
+TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at http://info.indiatimes.com/terms/aboutus.html. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
 
-To avail the Service of this Site, you are required to provide information about yourself for the registration process namely:- a) your name, b) address, c) email address, d) sex, e) age, f) PIN code etc., and / or your occupation, interests, and the like. The Information as supplied by the you enables us to improve our sites and provide you the most user-friendly experience. We may use your details to send you notifications regarding varied services within this Site.
+**By using TIL’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
 
-Cookies
+  
 
-To improve the responsiveness of the Site for you, we may use “cookies”, or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user’s individual interests using the Identified Computer. A cookie cannot read data off your hard drive.
 
-IP Addresses
+#### USER INFORMATION
 
-Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver the web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site, to identify any abuse of the Site and let advertisers know the geographic locations from where our visitors come.
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:-   
+**a)** your name,   
+**b)** email address,  
+**c)** sex,  
+**d)** age,  
+**e)** PIN code ,  
+**f)** credit card or debit card details  
+**g)** medical records and history  
+**h)** sexual orientation,  
+**i)** biometric information,  
+**j)** password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses.
 
-Others
+All required information is service dependent and TIL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
-In addition, we collect information that you post to set up your personal profile, send messages, perform searches and queries, invite new members into your network, add applications, transmit information through various channels, etc., so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. 
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 
-Limitation
+  
 
-You post your personal information on the Site at your own risk. Although we allow you to set privacy options for limiting access, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that your personal information that you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your information may remain viewable in cached and archived pages or if other users have copied or stored your information.
 
-Sharing Information
+#### COOKIES
 
-When you send messages through iDiva, your name and email address will be identified in the message. When you invite another person to join iDiva, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join iDiva. 
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 
-Limitation
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-You post your personal information on the Site at your own risk. Although we allow you to set privacy options for limiting access, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that your personal information that you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your information may remain viewable in cached and archived pages or if other users have copied or stored your information.
+  
 
-Profile Edit
 
-Access and control over most personal information on the Site is readily available through the profile editing tools. You may modify your profile information at any time by logging into your account. Information will be updated immediately.
+#### LINK TO THIRD PARTY SITES
 
-Alerts
+TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-iDiva may send you service-related announcements from time to time through the general operation of the service and you may receive an email alerting you to that fact.
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.
 
-Links to other Site's
+  
 
-The Site includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. TIL is not responsible for the privacy practices of other web sites. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can’t find the privacy policy of any of these sites via a link from the site’s, you should contact the site directly for more information.
 
-Third Party Advertising Companies
+#### INFORMATION SHARING
 
-We use third-party advertising companies to serve ads when you visit our Site. These parties automatically receive your IP address. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. TIL does not have access to or control of this activity of third party advertiser.
+TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
-Changes
+**a)** When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
 
-Since, the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+**b)** TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
-Termination
+  
 
-You can terminate your account at any time. If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from iDiva’s servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
 
-Any improper collection or misuse of information provided on this Site is a violation of the Terms of Service and should be reported to [**imaloser@indiatimes.co.in**](mailto:imaloser@indiatimes.co.in)
+#### ACCESSING AND UPDATING PERSONAL INFORMATION
 
-Disputes
+When you use TIL’s websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
-Your use of this Site/Services and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.
+  
 
-Contact
 
-If you have any questions about this privacy policy, please contact us at [**idiva@indiatimes.co.in**](mailto:idiva@indiatimes.co.in)
+#### INFORMATION SECURITY
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [copyright.infringement@indiatimes.com](mailto:copyright.infringement@indiatimes.com); or write at the following address: ?
+
+**Times Internet Limited**  
+4th Floor, MPD World Tower,  
+DLF City Phase V, Opposite DLF Golf Course  
+Gurgaon, Haryana 122002  
+India  
+**Ph:** 0124-4187000
+
+We request you to please provide the following information in your complaint:-
+
+**(a)** Identification of the information provided by you
+
+**(b)** Clear statement as to whether the information is personal information or sensitive personal information
+
+**(c)** Your address, telephone number or e-mail address.
+
+**(e)** A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
+
+**(f)** A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
