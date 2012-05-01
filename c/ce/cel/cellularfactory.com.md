@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103602id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501191334id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Customer Service Center- Cellularfactory.com
 
@@ -18,7 +18,7 @@ This privacy statement covers the site www.cellularfactory.com. Because this Web
 7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under CellularFactory control.   
 8\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by cellularfactory1@gmail.com, 1230 Santa Anita Avenue, Unit B, S. El Monte, CA 91733. 
+If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by help@cellularfactory.com, 1230 Santa Anita Avenue, Unit B, S. El Monte, CA 91733. 
 
 **Information Collection and Use**
 
@@ -72,7 +72,7 @@ In the event CellularFactory goes through a business transition, such as a merge
 
 **Choice/Opt-out**   
 Our users are given the opportunity to ~Qopt-out~R of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ~Qopt-out~R mechanism so users who buy a product from us, but don~Rt want any marketing material, can keep their email address off of our lists.   
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at cellularfactory1@gmail.com.   
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at help@cellularfactory.com.   
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 **Links**   
@@ -88,14 +88,14 @@ If a user elects to use our referral service for informing a friend about our si
 This Web site takes every precaution to protect our users~R information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing. To learn more about SSL, follow this link http://www. verisign.com.   
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users~R information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every [quarter], as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users~R information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.   
-If users have any questions about the security at our Web site, users can send an email to cellularfactory1@gmail.com. 
+If users have any questions about the security at our Web site, users can send an email to help@cellularfactory.com. 
 
 **Supplementation of Information**
 
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
 
 **Correcting / Updating / Deleting / Deactivating Personal Information**   
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at cellularfactory1@gmail.com. Or, contact us by telephone or postal mail at the contact information listed below. 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at help@cellularfactory.com. Or, contact us by telephone or postal mail at the contact information listed below. 
 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
@@ -104,7 +104,7 @@ If, however, we are going to use users' personally identifiable information in a
 **Contact Information**   
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Email : cellularfactory1@gmail.com   
+Email : help@cellularfactory.com   
 Postal Address   
 1230 Santa Anita Avenue, Unit B, S. El Monte, CA 91733  
 Web site URL https://www.cellularfactory.com 
