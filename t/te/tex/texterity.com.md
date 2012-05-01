@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101133807id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101835id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.*
 
-# Texterity Online Privacy Policy
+# Texterity Online Privacy Policy - Full-Service Digital and Mobile Publishing for Magazines
 
 Texterity, Inc. (also referred to as "we" or "us") provides online services through its Web sites (the "Sites") and downloadable apps through online stores (together referred to as the "Services"). Please read the following policy to understand how your personal information will be treated. Our Online Privacy Policy explains our commitment to provide you with excellent service and to protect your privacy online.
 
