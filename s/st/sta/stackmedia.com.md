@@ -1,75 +1,92 @@
-> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825222850id_/http%3A//www.stackmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackmedia.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501153343id_/http%3A//magazine.stack.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# ..:: STACKMEDIA TV ::..
+# STACK Magazine - Exercises, Training, Nutrition, High School Athletes: Privacy Policy
 
-  
-Privacy Policy
+**Privacy Policy**
 
-Thank you for visiting stackmedia.com. Your privacy rights are important to us. To allow you to make an informed decision concerning your privacy, we are providing this privacy policy as a means of explaining our online information practices and any choices you can make about the way your information is collected and handled.
+**STACK, LLC** ("STACK") recognizes that its customers, visitors, Members, and others who use magazine.stack.com and www.stackonline.com or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites.
 
-You Are Giving Your Consent…  
-By accessing our site, you consent to our right to collect and use the information described in this Privacy Policy. Any changes to this Privacy Policy will be reflected on this page.
+This Privacy Policy is incorporated into and is subject to the STACK Terms of Use found at <http://magazine.stack.com/TermsOfUse>. Your use of the STACK Websites and any personal information you provide on the STACK Websites remains subject to the terms of this Privacy Policy and our Terms of Use.
 
-Data Protection and Privacy Policy for stackmedia.com
+Please note that any video, image, or other content posted at the direction of Members onto the STACK Websites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
-Please find below our privacy policy for stackmedia.com which shall be deemed to be incorporated into these terms and conditions. We are StackMedia and our registered address is 17011 Beach Blvd. Suite 1440 Huntington Beach, CA 92647. stackmedia.com takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution feeds. Those distribution feeds will include our website, our WAP, PDA and digital TV services and other feeds as they evolve. If this policy changes then we will let you know via stackmedia.com homepage.
+**Member Information Collected by STACK**
 
-When do we collect data?
+**Personally Identifiable Information:** You provide certain personally identifiable information (such as your name and email address) to STACK when choosing to participate in various activities on the STACK Websites such as registering, creating a public profile, uploading videos, posting messages, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
 
-We can collect data on you from a variety of different sources these include.
+**Cookies Information:** STACK logs standard Member information and clickstream data for all Members, including a Member’s IP operating system, and page views. When Members visit particular pages within STACK, a Member ID may be placed in the URL, allowing customized features for the Member. Members should be aware that other websites visited before entering STACK might place personally identifiable information within a Member’s URL during a visit to their website, and STACK has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. In addition to the standard log information, STACK may use a variety of technologies to create a more personalized experience for its Members. We may also use cookies to enable customizable content for Members, as they become available. Members have the option, within their Internet browsers, to disable cookies and continue to access the STACK Website. Pixel tags are tiny graphic files that are included in HTML-encoded e-mail messages. STACK may use pixel tags to gather information about the e-mails we send to our registered Members. STACK web pages may also contain similar pixel tags that allow us to count Members who have visited those pages, to compile aggregated statistics about site usage, and to deliver co-branded services as they become available. STACK pixel tags collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the pixel tag resides. STACK web pages may also contain pixel tags placed there by third party ad servers, to monitor the effectiveness of their advertising.
 
-1\. When you purchase products or services from the site or via any of our other distribution feeds.  
-2\. When you become a subscriber;  
-3\. When you speak to our customer services personnel;  
-4\. Via explicit data capture measures, for example by entering competitions and completing surveys;  
-5\. Via implicit data capture measures such as studying which pages you read the most and the use of cookies.
+**How STACK Uses the Member Information**
 
-In any of the above cases the data we collect could be personal data.
+**Personally Identifiable Information:** If you submit personally identifiable information to us through the STACK Websites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the STACK Websites. Any personal information or video content that you voluntarily disclose online (within your public profile page, in messages and posting areas, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Members when they view your profile and when you upload videos or send messages through STACK Websites and other Members can contact you through your profile, messages and comments. Any videos that you submit to the STACK Websites may be redistributed through the internet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major STACK Website changes or for customer service purposes).
 
-What do we do with your personal information?
+**Cookies Information:** We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous Member usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the STACK Websites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Member preferences and trends. We may use cookies to save Member IDs, session validators, and on Member’s browsers and hard drives, and may use them to provide tailored products or services to those Members, as they become available. We also may cross-match Member information with information collected from cookies and clickstream data in order to test features of the STACK Website, and to better personalize our various offerings for Members. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process so requires, or to protect the rights or property of STACK or others. From time to time we may extend various offers from various partner companies, including news or additional details on products and services. A Member’s usage history may result in specifically tailored special offer screens or products. We may also produce aggregate reports for advertisers. This information will not include personally identifiable information about a Member, or a specific Member’s online usage patterns.
 
-When you buy anything via the site or give us any personal data as indicated above, we may need to collect information about you to process the transaction, fulfill your order and provide you with the services you expect then and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details.
+**Profile Information:** STACK allows Members to provide information to a profile that is accessible to other Members. We use this profile information for the purposes of providing our services to you, such as to analyze demographics, to better personalize our various offerings for Members, or to enable other Members to find your profile. All information, including any personally identifiable information, which is disclosed by Members in his or her public profile and journal entries are available for others to see. We caution you not to share sensitive information (such as social security numbers, credit card numbers, and driver's license numbers) with other Members whom you do not know or place such information in your profile.
 
-Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data.
+**Invitations:** The New Member Invite feature is an easy way for Members to invite friends through email. The email address(es) that you supply to use this service will only be used to send invitations to join the STACK Websites.
 
-By becoming a subscriber you consent to receive from us by e-mail our e-newsletter and details of other special offers which we may think may be of interest to you.
+**Surveys and Contests:** At various times we may offer surveys or contests to Members. Surveys may ask for contact, demographic or unique identifying information to increase the value of the results. Contests may require contact information or other demographic or personally identifiable information in order to determine eligibility. STACK may use information collected from surveys and contests for the entertainment of Members, and to determine, notify and contact winners of various contests. In addition, Member’s demographic and/or personally identifiable information and responses to survey and contest questions may be used by STACK and/or shared with third parties in order to provide specifically tailored special offers or advertisements. STACK will not share a Member’s email address with third parties unless the Member specifically opts-in to such sharing during the completion of or registration for a survey or contest.
 
-stackmedia.com retains and uses your personal information to provide you with the best remote commerce (including electronic and mobile commerce) experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis. For quality assurance and training reasons we record most of the calls you make to us.
+**When STACK Discloses the Member Information**
 
-We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.
+We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We do share non-personally-identifiable information (such as anonymous Member usage data, referring / exit pages and URLs, clickstream data, platform types, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the STACK Websites.
 
-For any of the above purposes we may send your information internationally including to countries outside the USA. Some of these jurisdictions offer differing levels of protection of personal information, not all of which may be as high as the USA.
+We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. STACK also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that STACK believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of STACK, our Memebers or others.
 
-The personal information that you submit to us will be collected, stored and processed at our third party service provider's data centre in the United States.
+**Member Choices**
 
-By becoming a stackmedia.com customer you consent to the collection, storage and processing of your personal information in the United States.
+Members may decline to submit personally identifiable information through the STACK Websites, in which case STACK may not be able to provide certain services to Members. Members may update or correct their personal profile information and email preferences at any time by visiting their My Profile page. Please note that media files uploaded by Members to the STACK Websites cannot be removed and remain subject to our Terms of Use.
 
-Cookies
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Each web site and service owned and operated by stackmedia.com uses cookies. A cookie is a small text file of which there are three types:  
-Session cookies: These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a movie or service to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.
+Please contact STACK with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices by visiting the following page <http://www.stackmag.com/ContactUs>.
 
-Permanent cookies: These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us.
+**Third-Party Links and Ad Servers**
 
-Third Party Cookies: You may have noticed that we carry advertising from third parties on our site. Occasionally they may send you a cookie. We have no control over these.
+STACK allows other companies, called third-party ad servers or ad networks, to serve advertisements within the STACK Websites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the STACK Websites. They automatically receive your IP address when this happens.
 
-Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the internet browser you use (for example, Internet Explorer 5, Netscape 4 or Opera etc) and it is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser creator's website where you should be able to receive all the information you need."
+STACK does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks STACK to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the STACK Websites, such as the number of times you viewed an ad to determine which ads to deliver to you.
 
-Third Party Advertising  
-Ads that may appear on this Web site or other services are delivered to you, on our behalf, by us or our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads.
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. STACK’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Data  
-In the USA we operate in accordance with applicable data protection legislation.
+Currently, STACK has relationships with the following third-party ad servers or ad networks:
 
-Consent  
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by stackmedia.com in the manner set out in this Privacy Policy. Some information and e-mails sent to stackmedia.com may be used as testimonials but no e-mail address or contact details will be displayed.
+**24/7 Real Media, Inc.**   
+<http://www.247realmedia.com/privacy.html>
 
-Opt-Out Policy  
-Send an email to help@stackmedia.com or click on the unsubscribe button on the email that you receive to opt out of any newsletters or email that you may receive from us. 
+**DoubleClick**   
+<http://www.doubleclick.net/us/corporate/privacy>
 
-Change/Modify Details  
-To change your e-mail address details, send an e-mail with your correct details to: help@stackmedia.com  
-If you need to Modify or Change your personal details after you have made a purchase on the site please contact us as soon as possible.
+**Data Security**
 
-Contact  
-If you have any questions or concerns about the information we hold about you, you can contact us at help@stackmedia.com. We reserve the right to seek verification of your identity before giving out information.
+STACK uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to STACK and you do so at your own risk. Once we receive your transmission of information, STACK makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+If STACK learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. STACK may post a notice on the STACK Websites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+**Children’s’ Privacy**
+
+STACK does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the STACK Websites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the STACK Websites at any time or in any manner. If STACK learns that personally identifiable information of persons under 13 years of age has been collected on the STACK Websites without verified parental consent, then STACK will take the appropriate steps to delete this information.
+
+**International Members**
+
+The STACK service is available only to Members who have a valid postal address in the United States.
+
+**Change of Ownership**
+
+In the event of a change in ownership, or a direct merger or acquisition with another entity, we reserve the right to transfer all of STACK’s Member information, including email addresses and postal addresses, to a separate entity. All registered Members will be notified of any change in ownership, merger or acquisition of STACK’s assets by a third party, and may choose to modify any of their registration information at that time.
+
+**Revisions to Privacy Policy**
+
+STACK reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on the website, and a Member’s continued use of STACK will signify agreement to such changes.
+
+**Contacting STACK**
+
+Members with questions about this Privacy Policy and any of the aforementioned statements may contact STACK at privacy@stackmag.com or STACK, 1422 Euclid Avenue, Suite 1550, Cleveland, OH 44115.
+
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.
+
+Effective Date July 1, 2006.
+
+|    
+
