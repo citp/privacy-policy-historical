@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxphilly.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211825id_/http%3A//www.myfoxphilly.com/dpp/about_us/internships/Privacy_Policy2010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxphilly.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101110id_/http%3A//www.myfoxphilly.com/dpp/about_us/internships/Privacy_Policy2010) for the most accurate reproduction.*
 
 # Privacy_Policy
 
