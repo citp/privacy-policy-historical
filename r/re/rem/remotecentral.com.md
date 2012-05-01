@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remotecentral.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108142550id_/http%3A//www.remotecentral.com/aboutrc.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotecentral.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501224913id_/http%3A//www.remotecentral.com/aboutrc.htm%23privacy) for the most accurate reproduction.*
 
 # About Remote Central
 
