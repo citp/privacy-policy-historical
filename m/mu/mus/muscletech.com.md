@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025121019id_/http%3A//www.muscletech.com/global/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscletech.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073516id_/http%3A//www.muscletech.com/global/privacy.shtml) for the most accurate reproduction.*
 
 # MuscleTech - Privacy Statement
 
