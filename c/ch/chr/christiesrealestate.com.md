@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017191149id_/http%3A//www.christiesrealestate.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501121709id_/http%3A//www.christiesrealestate.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Luxury Real Estate and Homes for Sale - Christie's International Real Estate
 
@@ -69,4 +69,4 @@ To avoid getting caught in any of these scams, please remember to:
 
 
 
-© 1999 – 2011 Christie’s International Real Estate all rights reserved.
+© 1999 – 2012 Christie’s International Real Estate all rights reserved.
