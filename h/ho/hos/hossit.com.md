@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hossit.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130060324id_/http%3A//www.hossit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hossit.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502011003id_/http%3A//www.hossit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hossit - Galleries, Funny Pictures, People Pictures
 
@@ -19,4 +19,4 @@ External Links
 This site contains links to other sites. Hossit  is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact](http://www.hossit.com/contact/ "contact") us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
