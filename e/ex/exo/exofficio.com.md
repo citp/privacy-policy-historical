@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014743id_/http%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501071915id_/http%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
 
-# ExOfficio: Privacy and Security
+# Privacy and Security | ExOfficio.com
 
 ExOfficio is committed to protecting your privacy. The information collected about you is used to process orders and to offer you a personalized online shopping experience. If you want to know more details about our privacy policy, please continue reading.
 
