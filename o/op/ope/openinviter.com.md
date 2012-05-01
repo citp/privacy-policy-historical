@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219035407id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030420id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
 
-# OpenInviter - Free Import contacts from social networking sites like Livejournal, Orkut, Faces and many more
+# Open Inviter - Free Contacts importer from social networking sites like Badoo, Vkontakte, Eons and many more
 
 |  |   
   
