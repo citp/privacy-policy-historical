@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the emagister.co.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608154720id_/http%3A//www.emagister.co.uk/web/pagina/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagister.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501190312id_/http%3A//www.emagister.co.uk/web/pagina/privacidad) for the most accurate reproduction.*
 
 # Emagister
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.emagister.com&sealid=101)
 
 **Privacy Policy**
 
