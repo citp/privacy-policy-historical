@@ -1,31 +1,34 @@
-<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011215412id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501184111id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Walk Score helps people find walkable places to live.  Walk Score calculates the walkability of any address.">
 
 <meta name="keywords" content="walk, walking, walkable, walkable neighborhoods, compact neighborhood, pedestrian friendly design, pedestrian-friendly design, pedestrian centric design, pedestrian-centric design, walking map, urban planning, urban planning walking, urban design, sidewalk design, street design, grid, walking grid">
 <title>Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.</title>
-
-<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/main_v90256.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/jquery-ui-1.8.13.custom_v90256.css">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://cdn.walk.sc/css/_main_v33581.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.walk.sc/css/jquery-ui-1.8.13.custom_v33581.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/profiling_v33581.js"></script>
 <!-- Disabled for now.
 <script type="text/javascript" src="http://cdn.simplegeo.com/js/1.2/simplegeo.places.jq.min.js"></script>
 <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
 <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
 -->
-<script type="text/javascript" src="http://cdn.walkscore.com/js/OpenLayers_v90256.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/modernizr_v90256.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/underscore_v90256.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/util_v90256.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/jquery-ui-1.8.13.custom.min_v90256.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/modernizr_v33581.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/underscore_v33581.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/util_v33581.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/rentals-searchbox_v33581.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/jquery-ui-rentals_v33581.js"></script>
+<script type="text/javascript" src="http://cdn.walk.sc/js/site-components_v33581.js"></script>
+
 <script type="text/javascript" charset="utf-8">
 	$.ajaxSetup({
 		timeout: 9000 //9 second global timeout -- can be overridden for particular calls
 	});
 
 	var ACTIVE_COMPONENT = "untracked page";
+	$(window).load(function() { initFooterTweets(); });
 </script>
 
 <!--[if IE]>
@@ -46,32 +49,122 @@
 <![endif]-->
 </head>
 <body>
+<div id="fb-root"></div>
+
+  <div class="root-container">
+    <div id="branding">
+      <a href="/"><img src="http://cdn.walk.sc/images/walk-score.png" alt="Walk Score. Drive less, live more."></a> 
+    </div>
+    <div id="navigation">
+      <a href="/rankings/" class="score tab">Cities &amp; Neighborhoods</a>
+      <a href="/apartments/" class="rentals tab">Apartments &amp; Rentals</a>
+      <a href="/live-more/" class="tab">Why It Matters</a>
+    </div>
+  <div id="socialize">
+  <div class="network">
+    <!-- +1 button -->
+      <g:plusone size="medium" annotation="none" href="http://www.walkscore.com"></g:plusone>
+    <!--+1 button render call-->
+    <script type="text/javascript">
+      setTimeout(function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/plusone.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      },2000);
+    </script>
+  </div>
+  <div class="network fb">
+  <div id="fb-root"></div>
+  <div class="fb-like" data-href="http://www.walkscore.com/" data-send="false" data-layout="button_count" data-width="82" data-show-faces="false"></div>
+  <script>
+  $(window).load(
+    _(function(){
+        if (window.usingFacebookConnector)
+          return;
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appID=133264856724753";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+      }).debounce(100)
+    );
+  </script>
+  </div>
+</div>
+  </div>
+
+  <div id="address-bar">
+  <div class="root-container">
+    <div id="get-score-form">
+  <h3>Get Your Score:</h3>
+  <form name="address-query" class="address-query address oneline">
+    <div class="address_control">
+      <div class="search-sizer"><input type="text" name="street" id="street" value=""></div>
+      <input id="address-go" type="submit" name="go" value="Search" class="o-btn">
+      </div>
+  </form>
+  <div class="geolocation-api small-bullet bullet-target"><div></div>Locate me</div>
+  <script>
+  ;(function(){
+    (new RentalsSearchBox())
+      .setInput($('#street'))
+      .setForm($('.address-query'))
+  })();
+  </script>
+</div>
+    <div id="nav-links" class="social">
+      <div id="btn-login" class="menu-button">
+        <span class="avatar"><img id="default-login-head" src="http://cdn.walk.sc/images/search/login-head.png"><img id="login-head" src="http://cdn.walk.sc/images/search/login-head.png"></span><span id="login-name" class="label">Log in <span class="toggle"></span></span>
+        <div class="shim"></div>
+        <div id="login-menu" class="menu">
+          <div id="logged-in">
+              <p><a id="show-favorites"><strong>Your Favorites</strong></a></p>
+              <p><a id="ws-fb-logout">Log out</a></p>
+          </div>
+          <div id="logged-out">
+            <p>Log in to access your favorites on other devices.</p>
+            <p><a id="ws-fb-login" class="ws-fb-login"></a>
+            </p><p class="medsmallfont">We use Facebook to make logging in easier, we never spam.</p>
+          </div>
+        </div>
+      </div>
+      <div id="share-button" class="menu-button no-highlight">
+        <span class="ico"></span><span class="label">Share<span class="toggle"></span></span>
+        <div id="share-menu"></div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+  var addthis_config = {
+    pubid:'ra-4ea87059456ece80',
+    data_track_clickback:true,
+    services_exclude:'print'
+  };
+  var addthis_share = {
+    url_transforms: {
+      shorten: {
+        twitter: 'bitly',
+        facebook: 'bitly',
+        email: 'bitly',
+        gmail: 'bitly',
+        google_plusone: 'bitly',
+        linkedin: 'bitly'
+      }
+    },
+    shorteners: {
+      bitly: {
+        username: 'o_2nhuebb26n',
+        apiKey: 'R_79c407ff65a419b05056d76fdd8ab58b'
+      }
+    }
+  };
+</script>
+</div>
 <div class="root-container">
-  <div id="branding">
-	<a href="http://www.walkscore.com/"><span>Walk Score</span></a>
-</div>
-  <div id="brand-flip-link"><a href="/professional/">Walk Score Professional</a></div>
-<!-- style tag removed to pass W3C markup validation. See main.css FRIENDS AND FOLLOWERS -->
-
-<div id="social-media-buttons">
-	<label for="social-media">Follow us:</label>
-  <div onclick="trackNavigationNewWindow(&quot;http://twitter.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;twitter&quot;)" class="friend-twitter">
-  </div>
-  <div onclick="trackNavigationNewWindow(&quot;http://www.facebook.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;facebook&quot;)" class="friend-facebook">
-  </div>
-  <div onclick="trackNavigation(&quot;/join-list.shtml&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;email list&quot;)" class="friend-email-list">
-  </div>
-</div>
-<div id="navigation"><a href="/rankings/">Cities &amp; Neighborhoods</a>|<a href="/walkable-neighborhoods.shtml">Why It Matters</a>|<a href="/how-it-works.shtml">How It Works</a>|<a href="/professional/">Walk Score on Your Site</a>|<a href="/apartments/">Apartment Search</a>|<a href="http://blog.walkscore.com/">Blog</a></div>
-
-  
-<div id="address-bar" class="styled-input">
-<h3>Type an Address:</h3>
-<form name="address-query" class="address-query" method="get" action="/get-score.php" onsubmit="return addressSubmit(this, 'untracked page');">
-	<div class="text-sizer"><input type="text" name="street" id="street" value=""></div>
-  <input id="address-go" type="image" src="http://cdn.walkscore.com/images/button-go.gif" name="go" value="Go" alt="Submit">
-</form>
-</div>  <div class="content-container">
+  <div class="content-container">
     <div class="content-main content-body">
       <h1>Walk Score Privacy Policy </h1>
       <p> By using Walk Score, a Front Seat Management, LLC ("FSM") website, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. </p>
@@ -102,35 +195,67 @@
     </div>
     <br clear="all">
   </div>
-  
-<div id="footer">
-  <div id="footer-links">
-    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/commute-cost-calculator.php">Commute Cost</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a> - <a href="/jobs/">Jobs</a> - <a href="/press/">Press</a></p>
-  </div>
-  <div id="footer-branding">
-    <p>© 2011 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
-  </div>
 </div>
+    <div id="footer">
+    <div class="root-container clearfix"></div><!-- //root-container -->
+    <div id="city-footer">
+      <div class="root-container clearfix">
+        <div class="section">
+          <h5><a href="/">Walk Score</a></h5>
+          <div id="social-media-buttons">
+            <div onclick="trackNavigationNewWindow(&quot;http://twitter.com/walkscore&quot;, &quot;<?=$activeComponent?>&quot;, &quot;follow us&quot;, &quot;twitter&quot;)" class="friend-twitter">
+            </div>
+            <div onclick="trackNavigationNewWindow(&quot;http://www.facebook.com/walkscore&quot;, &quot;<?=$activeComponent?>&quot;, &quot;follow us&quot;, &quot;facebook&quot;)" class="friend-facebook">
+            </div>
+            <div onclick="trackNavigation(&quot;/live-more/#join-list&quot;, &quot;<?=$activeComponent?>&quot;, &quot;follow us&quot;, &quot;email list&quot;)" class="friend-email-list">
+            </div>
+          </div>
+          <ul>
+            <li><a href="http://blog.walkscore.com/">Blog</a></li>
+            <li><a href="/about.shtml">About</a></li>
+            <li><strong><a href="/jobs/">Jobs</a></strong></li>
+            <li><a href="/live-more/">Why It Matters</a></li>
+            <li><a href="/press/">Press</a></li>
+	    <li><a href="/iphone/">iPhone</a></li>
+            <li><a href="/terms-of-use.shtml" rel="nofollow">Terms &amp; Privacy</a></li>
+          </ul>
+        </div>
+        <div class="section">
+          <h5><a href="/professional/">Professional</a></h5>
+          <ul>
+            <li><a href="/professional/real-estate-professionals.php">Real Estate Professionals</a></li>
+            <li><a href="/professional/neighborhood-map.php">Neighborhood Map</a></li>
+            <li><a href="/professional/walk-score-apis.php">Walk Score APIs</a></li>
+            <li><a href="/professional/flyer">Neighborhood Flyer</a></li>
+            <li><a href="/professional/research.php">Walkability Research</a></li>
+            <li><a href="/professional/badges.php">Badges</a></li>
+          </ul>
+        </div><p class="credit"><br>© 2012 Walk Score</p>
+      </div> <!-- //root-container -->
+    </div><!-- //house-footer -->
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-87185-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-87185-2");
-pageTracker._trackPageview();
-} catch(err) {}</script><!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-e0nESeHrFzS1c"
-};
+  _qoptions={
+  qacct:"p-e0nESeHrFzS1c"
+  };
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
 <img src="http://pixel.quantserve.com/pixel/p-e0nESeHrFzS1c.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag --></div>
-<script type="text/javascript" charset="utf-8">
+  </div><!-- //footer --><script type="text/javascript" charset="utf-8">
   var is_ssl = ("https:" == document.location.protocol);
   var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
   document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
