@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teprofits.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222437id_/http%3A//teprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teprofits.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501222407id_/http%3A//teprofits.com/privacy.php) for the most accurate reproduction.*
 
 # TE Profits | Your Easy Way to Profit With Traffic Exchanges
 
   
   
-[](http://teprofits.com/bannerclick.php?id=7)
+[](http://teprofits.com/bannerclick.php?id=10)
 
 TE Profits Privacy Policy
 
@@ -37,6 +37,6 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
   
-"Your Easy Way to Profit With Traffic Exchanges"Copyright (c) 2010 ~ 2011 Dragonfly Marketing All Rights Reserved
+"Your Easy Way to Profit With Traffic Exchanges"Copyright (c) 2010 ~ 2012 Dragonfly Marketing All Rights Reserved
 
 [Terms & Conditions](https://web.archive.org/terms.php) | [Testimonials](https://web.archive.org/testimonials.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Contact Us](https://web.archive.org/contact.php)
