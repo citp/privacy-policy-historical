@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009012211id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030601id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
 
 # Epoch - Credit Card Processing and Customer Billing Support - Privacy Policy
 
@@ -85,7 +85,7 @@ Any websites displayed to you by our Website as Internet search results or linke
 [We self-certify compliance with:](https://www.export.gov/safehrbr/list.aspx)  
 [](http://www.export.gov/safeharbor)
 
-Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce and the European Union, and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [ legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor website](http://www.export.gov/safeharbor/).
+Epoch is a participant in the Safe Harbor program for Data Protection developed by the U.S. Department of Commerce, the European Union, and Switzerland and is listed by the U.S. Department of Commerce. Epoch has certified that we adhere to the Safe Harbor Privacy Principles. Epoch uses the self assessment method of verification of compliance. Individuals who believe their privacy may have been violated based on the Safe Harbor privacy principles should contact us at [ legal@epoch.com](mailto:legal@epoch.com). For more information about the Safe Harbor program and to view our certification, please visit the [U.S. Department of Commerce's Safe Harbor website](http://www.export.gov/safeharbor/).
 
 * Not applicable to Epoch's European subsidiary
 
@@ -102,3 +102,7 @@ We will make reasonable efforts to maintain an up to date and effective privacy 
 We are committed to privacy and support current industry initiatives to preserve individual privacy rights. Protecting your privacy is an evolving area, and Epoch's privacy practices are constantly evolving to meet these demands.
 
 If you have any comments or questions regarding our Privacy Policy, please contact us at [legal@epoch.com](mailto:legal@epoch.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities and as soon as possible.
+
+**EFFECTIVE DATE:**
+
+This page was last updated on 2011-10-31. We may change this statement from time to time, so please check periodically.
