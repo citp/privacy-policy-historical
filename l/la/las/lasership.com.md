@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203222708id_/http%3A//www.lasership.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasership.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501162008id_/http%3A//www.lasership.com/privacy_policy.php) for the most accurate reproduction.*
 
 # LaserShip: Privacy Policy
 
