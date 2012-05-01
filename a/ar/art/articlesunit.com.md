@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesunit.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164149id_/http%3A//www.articlesunit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesunit.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502004210id_/http%3A//www.articlesunit.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
