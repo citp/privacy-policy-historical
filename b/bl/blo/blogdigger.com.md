@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogdigger.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016071655id_/http%3A//blogdigger.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdigger.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501194415id_/http%3A//www.blogdigger.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Blogdigger Privacy Policy
 
