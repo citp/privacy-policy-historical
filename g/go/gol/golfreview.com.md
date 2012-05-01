@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfreview.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007191058id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfreview.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502014527id_/http%3A//www.consumerreview.com/channels/consumerreview/data/main/privacy.html) for the most accurate reproduction.*
 
 # Consumer Product Reviews - ConsumerREVIEW.com
 
