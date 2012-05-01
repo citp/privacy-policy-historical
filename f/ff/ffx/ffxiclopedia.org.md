@@ -1,44 +1,153 @@
-> *The following text is extracted and transformed from the ffxiclopedia.org privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022030945id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiclopedia.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502000429id_/http%3A//wiki.ffxiclopedia.org/wiki/FFXIclopedia%3APrivacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wikis from Wikia - Join the best wiki communities
+# FFXIclopedia:Privacy Policy - FFXIclopedia, the Final Fantasy XI wiki - Characters, items, jobs, and more
 
-Date of Last Revision: January 1, 2009 
+[FFXIclopedia Policies](https://web.archive.org/wiki/FFXIclopedia:Policies "FFXIclopedia:Policies")  
+---  
+Editing Policies   
+  
+[Bot Policy](https://web.archive.org/wiki/FFXIclopedia:Bot_Policy "FFXIclopedia:Bot Policy")  
+[Drop Rate Policy](https://web.archive.org/wiki/FFXIclopedia:Drop_Rate_Policy "FFXIclopedia:Drop Rate Policy")  
+[File Policy](https://web.archive.org/wiki/FFXIclopedia:File_Policy "FFXIclopedia:File Policy")  
+[Link Policy](https://web.archive.org/wiki/FFXIclopedia:Link_Policy "FFXIclopedia:Link Policy")  
+[Naming Conventions](https://web.archive.org/wiki/FFXIclopedia:Naming_Conventions "FFXIclopedia:Naming Conventions")  
+[Prohibited Articles](https://web.archive.org/wiki/FFXIclopedia:Prohibited_Articles "FFXIclopedia:Prohibited Articles")  
+[Quiz Policy](https://web.archive.org/wiki/FFXIclopedia:Quiz_Policy "FFXIclopedia:Quiz Policy")  
+[Software Limitations](https://web.archive.org/wiki/FFXIclopedia:Software_Limitations "FFXIclopedia:Software Limitations")  
+[Userbox Policy](https://web.archive.org/wiki/FFXIclopedia:Userbox_Policy "FFXIclopedia:Userbox Policy")  
+  
+  
+Community Policies   
+  
+[Appropriate Behavior](https://web.archive.org/wiki/FFXIclopedia:Appropriate_Behavior "FFXIclopedia:Appropriate Behavior")  
+[Inappropriate Behavior](https://web.archive.org/wiki/FFXIclopedia:Inappropriate_Behavior "FFXIclopedia:Inappropriate Behavior")  
+[Content Control & Article Ownership](https://web.archive.org/wiki/FFXIclopedia:Content_Control_and_Article_Ownership "FFXIclopedia:Content Control and Article Ownership")  
+[User Pages](https://web.archive.org/wiki/FFXIclopedia:User_Pages "FFXIclopedia:User Pages")  
+[User Signatures](https://web.archive.org/wiki/FFXIclopedia:User_Signatures "FFXIclopedia:User Signatures")  
+[What FFXIclopedia is not](https://web.archive.org/wiki/FFXIclopedia:What_FFXIclopedia_is_not "FFXIclopedia:What FFXIclopedia is not")  
+  
+Administrator Related   
+  
+[Administrators](https://web.archive.org/wiki/Category:Administrators "Category:Administrators")  
+[Article Protection](https://web.archive.org/wiki/FFXIclopedia:Article_Protection "FFXIclopedia:Article Protection")  
+[Guide to Deletion](https://web.archive.org/wiki/FFXIclopedia:Guide_to_Deletion "FFXIclopedia:Guide to Deletion")  
+[Vandal Reports](https://web.archive.org/wiki/FFXIclopedia:Vandalism "FFXIclopedia:Vandalism")  
+  
+Legal Policies   
+  
+[Copyrights](https://web.archive.org/wiki/FFXIclopedia:Copyrights "FFXIclopedia:Copyrights")  
+[General Disclaimer](https://web.archive.org/wiki/FFXIclopedia:General_Disclaimer "FFXIclopedia:General Disclaimer")  
+**Privacy Policy**  
+  
+  
+Policy Templates   
+  
+{{[Edit Wars](https://web.archive.org/wiki/Template:Edit_Wars "Template:Edit Wars")}}  
+{{[Vandalism](https://web.archive.org/wiki/Template:Vandalism "Template:Vandalism")}}  
+{{[Replacing Images](https://web.archive.org/wiki/Template:Replacing_Images "Template:Replacing Images")}}  
+{{[Gallery Pics](https://web.archive.org/wiki/Template:Gallery_Pics "Template:Gallery Pics")}}  
+{{[Video warn](https://web.archive.org/wiki/Template:Video_warn "Template:Video warn")}}  
+{{[Quizzes](https://web.archive.org/wiki/Template:Quizzes "Template:Quizzes")}}  
+{{[Comments](https://web.archive.org/wiki/Template:Comments "Template:Comments")}}  
+{{[Images](https://web.archive.org/wiki/Template:Images "Template:Images")}} • {{[User Pics](https://web.archive.org/wiki/Template:User_Pics "Template:User Pics")}}  
+{{[Show Preview](https://web.archive.org/wiki/Template:Show_Preview "Template:Show Preview")}}  
+{{[Signature](https://web.archive.org/wiki/Template:Signature "Template:Signature")}}  
+  
+  
+##  Summary 
 
-This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
+If you only read the FFXIclopedia, no more information is collected than is typically collected in server logs by web sites in general. 
 
-##  The Information We Collect, And What We Do With It [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=1 "Edit The Information We Collect, And What We Do With It section")
+If you contribute to the FFXIclopedia, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
 
-###  In General [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=2 "Edit In General section")
+##  Publishing on the wiki and public data 
 
-In order to sign up for a Wikia account, only your username, password, and date of birth are required. An email address is also requested during sign-up. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the Wikia community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements. 
+Simply visiting the web site does not expose your identity publicly (but see private logging below). 
 
-If you request the creation of a wiki at Wikia, all details submitted in regard to this may be made public. 
+When you edit any page in the wiki, you are publishing a document. This is a public act, and you are identified publicly with that edit as its author. 
 
-Wikia also may send one or more cookies - a small file that lives in your web browser that helps the Service operate with full functionality (such as keeping you logged into the service). Most web browsers allow you to disable cookies, and you are welcome to continue to use the Service if you choose to do so. However, some of the Service’s features may not function properly if cookies are disabled. Wikia uses some of those cookies and the data tracked by some of those cookies in conjunction with various advertisers and advertising networks. Wikia has no control over the cookies and other information collected by advertising and advertising networks which service ads on Wikia, and this policy does not apply to the information collected in regard to either of those services. 
+### 
 
-Wikia’s user data is stored in the United States, and its servers log some information whenever you access the Service; information such as your IP address, the time of your visit, your browser type and your browser's language setting. 
+When you publish a page in the wiki, you must be logged in. 
 
-If you send a communication to the Company, we may hold onto that communication so that we can respond appropriately, and so that we can incorporate your feedback to improve the Service. 
+If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. 
 
-You are not required to register for an account or to provide any personal information to us in order to use the Service. 
+When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by FFXIclopedia's administrators. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below). 
 
-Wikia collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page; on the Recent Changes link, in the Community box on the left side of the wiki pages, and in your user contributions. 
+Remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity. 
 
-### Online behavioral advertising[Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=3 "Edit Online behavioral advertising section")
+###  Cookies 
 
-Wikia may use Online behavioral advertising ("OBA") or multi-site advertising on some wikis. We collect data on the number of pages you visit per day, in order to support frequency capped advertising campaigns for certain advertisers or to improve the ad targeting based on the types of wikis you visit on Wikia. Third parties may also leave a cookie with your browser to track your visits to Wikia. We do not transfer data to third parties. Wikia users may opt out of this on the [NetworkAdvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) site. 
+The wiki will set a temporary session cookie (PHPSESSID) whenever you visit the site. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. It will be deleted when you close your browser session. 
 
-###  Sharing Your Information [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=4 "Edit Sharing Your Information section")
+More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
-Wikia only shares your information with others in the following circumstances: 
+###  Passwords 
 
-  1. As described above 
-  2. With our subsidiaries and affiliated companies, contractors, and vendors. We require these parties to process your information in compliance with this policy. 
-  3. As required by law enforcement agencies 
-  4. As we, in our sole judgment, deem necessary to investigate a breach of security 
+Many aspects of the FFXIclpedia's community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's edit history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly. 
+
+##  Private logging 
+
+Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of the FFXIclopedia to use this information to keep track of legitimate users. 
+
+These logs are used to produce the [site statistics pages](https://web.archive.org/wiki/Special:WikiaStats "Special:WikiaStats \(page does not exist\)"); the raw log data is not made public, and is normally discarded after a period of time. 
+
+Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the wiki, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the wiki. 
+
+###  Policy on release of data derived from page logs 
+
+It is the policy of FFXIclopedia that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, may be released by the system administrators or users with CheckUser access, in the following situations: 
+
+  1. In response to a valid subpoena or other compulsory request from law enforcement 
+  2. With permission of the affected user 
+  3. To the site's administrators when necessary for investigation of abuse complaints. 
+  4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues. 
+  5. Where the user has been vandalizing articles or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers 
+  6. Where it is reasonably necessary to protect the rights, property or safety of the FFIXclopedia, its users or the public. 
 
 
 
-If the Company becomes involved in a merger or acquisition or any form of sale of some or all of its assets, we will provide notice to you, via an update to this policy, of any personal information to be transferred and/or subject to a different policy. 
+FFXIclopedia policy does not permit public distribution of such information under any circumstances, except as described above. 
 
-We may also share with third parties aggregated, non-personal information, such as the number of new user registrations over a specific time period or the number of users who edited a particular wiki. 
+##  Sharing information with third parties 
+
+Except where otherwise specified, all text added to FFXIclopedia is available for reuse under the terms of the applicable license. 
+
+FFXIclopedia will not sell or share private information, such as email addresses, with third parties, unless it is required by law to release the information. 
+
+##  Security of information 
+
+While FFXIclopedia respects your privacy and will act in accordance with this policy, it makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers, though rarely accessed except in cases such as solving technical problems. 
+
+##  E-mail, mailing lists and IRC 
+
+###  E-mail 
+
+You need to provide your e-mail address in your Preferences in order to edit the wiki, and if you prefer, optionally enable other logged-in users to send email to you through the wiki. Your address will not be revealed to them unless you respond, or possibly if the email bounces. The email address may be used by FFXIclopedia to communicate with users on a wider scale. 
+
+If for some reason to lose access to your account, you may [contact Wikia](https://web.archive.org/wiki/Special:Contact "Special:Contact") to enter a new mail address in your preferences. 
+
+###  IRC 
+
+FFXIclopedia provides an IRC channel for use by the community, which can be accesses through various links across the site. Your IP address will only be available to network administrators, however your actual ISP name may be visible to anyone. You may request a vhost to hide your hostname by contacting Aikar or Ganiman on the IRC network. 
+
+##  User data 
+
+Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, article histories, and in aggregated forms published by other users. 
+
+###  Removal of user accounts 
+
+Once created, user accounts can not be removed or renamed. Please choose carefully. 
+
+##  Deletion of content 
+
+Removing text from FFXIclopedia projects does not permanently delete it. In normal articles, anyone can look at a previous version and see what was there. If an article is "deleted", any user with "administrator" access on the wiki, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Information can be permanently deleted by administrators with the oversight right, but there is no guarantee this will happen except in response to legal action or to protect the privacy of the end user (e.g. such as the unwarranted posting of addresses or phone numbers). 
+
+## Sources
+
+This disclaimer has been copied and modified to fit the needs of **FFXIclopedia** from the [Wikipedia Privacy Policy](http://wikimediafoundation.org/wiki/Privacy_policy). 
+
+[](http://images.wikia.com/ffxi/images/c/c1/Padlock.png)
+
+|  Editing of this article is disabled pursuant to the [Protection Policy](https://web.archive.org/wiki/FFXIclopedia:Article_Protection "FFXIclopedia:Article Protection"). Users may discuss changes or request unprotection on the talk page.   
+---|---
