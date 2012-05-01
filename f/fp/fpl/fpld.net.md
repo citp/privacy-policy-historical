@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpld.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008001340id_/http%3A//fpld.net/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpld.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030507id_/http%3A//fpld.net/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Business Directory
 
