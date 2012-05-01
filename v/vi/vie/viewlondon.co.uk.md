@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewlondon.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227230657id_/http%3A//www.viewlondon.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlondon.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501100508id_/http%3A//www.viewlondon.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Website Privacy Policy - The Legal Stuff
 
@@ -93,6 +93,12 @@ A cookie is a unit of information that is stored on your computer's hard drive b
 
 settings of your browser to prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that our website will be as functional as if you do receive cookies. For detailed instructions on disabling cookies visit this [link](http://www.cookiecentral.com/) .
 
+6.2
+
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number).
+
+ In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/).
+
 **Control**
 
 If at any stage you would like to remove, check or amend the information held by ViewLondon about you please send an 
@@ -123,7 +129,7 @@ ViewLondon respects the privacy of users who visit the ViewLondon web site.
 
 10.3
 
-ViewLondon is committed to safeguarding the privacy of their users whilst providing a personalised and valuable service. If you have any requests concerning your personal information or any queries with regard to these practices please contact our privacy officer by electronic mail on [privacy@view.co.uk](https://web.archive.org/web/20111227230657id_/http%3A//www.viewlondon.co.uk/mailto.privacy@view.co.uk)
+ViewLondon is committed to safeguarding the privacy of their users whilst providing a personalised and valuable service. If you have any requests concerning your personal information or any queries with regard to these practices please contact our privacy officer by electronic mail on [privacy@view.co.uk](https://web.archive.org/web/20120501100508id_/http%3A//www.viewlondon.co.uk/mailto.privacy@view.co.uk)
 
 **Information Collected**
 
