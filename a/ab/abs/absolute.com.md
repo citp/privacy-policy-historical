@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130230312id_/http%3A//www.absolute.com/en/company/legal/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501084718id_/http%3A//www.absolute.com/company/legal/policy) for the most accurate reproduction.*
 
-# Absolute Software | Legal: Privacy Policy
+# Absolute Software | Privacy Policy
 
 ### [PRIVACY POLICY](http://www.absolute.com/Shared/Resources/Absolute_Privacy_Policy_2010.sflb.ashx)
 
