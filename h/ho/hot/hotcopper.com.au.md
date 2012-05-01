@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/forum_privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - HotCopper - Australian Stock Market (ASX) Forum
 
@@ -8,29 +8,29 @@ Username: |
 Password: |   
 Remember: |   
   
-[Retrieve Password](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/forgotpassword.asp)  
-[Support Page](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/support.asp)  
+[Retrieve Password](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/forgotpassword.asp)  
+[Support Page](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/support.asp)  
   
 Join HotCopper Today  
 ---  
   
-With over 150,000 active members and more than 5,000 posts per day HotCopper is Australia's largest stock market discussion forum. Membership is free so [ Join Now](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp).
+With over 150,000 active members and more than 5,000 posts per day HotCopper is Australia's largest stock market discussion forum. Membership is free so [ Join Now](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/register_disclaimer.asp).
 
   * Access to over 4 million posts on the HotCopper Forum
   * Ability to post messages
-  * ASX Announcements
+  * Announcements
   * Current Stock prices
   * Price charts
   * Full search functionality
   * More views and personalised view options
   * Single agreement to Terms of Use (instead of on each post)
-  * Free entry into HotCopper's [competitions](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/competition_home.asp)
+  * Free entry into HotCopper's [competitions](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/competition_home.asp)
 
 
 
-[Join Now](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/register_disclaimer.asp)  
+[Join Now](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/register_disclaimer.asp)  
   
-All Ordinaries - 30 Dec  
+All Ordinaries - 01 May  
 ---  
   
 10
@@ -49,72 +49,75 @@ All Ordinaries - 30 Dec
 
 5
 
-4110
+4470
 
-4120
+4480
 
-4130
+4490
 
-4140
+4500
+
+4510
 
 Last: 
 
-[4,111.0 ( 12.1)](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/stockprice.asp?symbol=2527)  
+[4,497.3 ( 30.1)](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/stockprice.asp?symbol=2527)  
   
-Forums| [[customise](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/user_website_prefs.asp?cat=3)]  
+Forums| [[customise](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/user_website_prefs.asp?cat=3)]  
 ---|---  
 |   
 ---  
-[Latest Posts](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts_latest.asp "Click here to read the latest posts on HotCopper")  
-[ASX - By Stock](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=1 "Click here to read posts on stocks on ASX")  
-[ASX - General](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=2 "Click here to read general posts on ASX")  
-[Breaking News](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=288 "Click here to read breaking news, particularly relating to stock trading, finance, and the ASX.")  
+[Latest Posts](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts_latest.asp "Click here to read the latest posts on HotCopper")  
+[ASX - By Stock](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=1 "Click here to read posts on stocks on ASX")  
+[ASX - General](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=2 "Click here to read general posts on ASX")  
+[Breaking News](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=288 "Click here to read breaking news, particularly relating to stock trading, finance, and the ASX.")  
 Market Forums  
-| [NZX - By Stock](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=301 "Click here to read posts on stocks on NZX")  
+| [NZX - By Stock](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=301 "Click here to read posts on stocks on NZX")  
 ---  
-[NZX - General](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=302 "Click here to read general posts on NZX")  
-[Other Markets](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=270 "Click here to read posts on stocks on other markets. Posts from the US, UK, Asian and European forums were consolidated here in Feb 09")  
-[Commodities](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=279 "Click here to read posts on Commodities")  
-[CFDs](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=305 "Click here to read posts about CFDs")  
-[Algorithmic Trading](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=306 "Click here to read posts about Algorithmic Trading")  
-[Forex Trading](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=275 "Click here to read posts on Forex")  
-[Day Trading](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=287 "Click here to read posts on Day Trading, particularly on the ASX.")  
-[Short Term Trading](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=303 "Click here to read posts about short term trading of stocks, particularly on the ASX")  
-[IPOs](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=278 "Click here to read posts on IPOs")  
-[Charts](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=307 "Click here to read posts on Charts")  
-[Geology](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=311 "Click here to read posts on geology")  
+[NZX - General](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=302 "Click here to read general posts on NZX")  
+[Other Markets](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=270 "Click here to read posts on stocks on other markets. Posts from the US, UK, Asian and European forums were consolidated here in Feb 09")  
+[Commodities](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=279 "Click here to read posts on Commodities")  
+[CFDs](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=305 "Click here to read posts about CFDs")  
+[Algorithmic Trading](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=306 "Click here to read posts about Algorithmic Trading")  
+[Forex Trading](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=275 "Click here to read posts on Forex")  
+[Day Trading](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=287 "Click here to read posts on Day Trading, particularly on the ASX.")  
+[Short Term Trading](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=303 "Click here to read posts about short term trading of stocks, particularly on the ASX")  
+[IPOs](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=278 "Click here to read posts on IPOs")  
+[Charts](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=307 "Click here to read posts on Charts")  
+[Geology](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=311 "Click here to read posts on geology")  
+[Warrants, Options & MINIs](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=312 "Click here to read posts on Warrants, Options & MINIs")  
 Other Forums  
-| [General](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=4 "Click here to read posts on general events")  
+| [General](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=4 "Click here to read posts on general events")  
 ---  
-[Politics](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=262 "Click here to read posts on Politics")  
-[Betting](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=308 "Click here to read posts on Betting")  
-[Science & Medicine](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=309 "Click here to read posts on Science")  
-[Economics](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=289 "Click here to read posts on Economics")  
-[Property](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=273 "Click here to read posts on Property")  
-[Lifestyle & Travel](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=310 "Click here to read posts on lifestyle and travel")  
-[Superannuation](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=284 "Click here to read posts on Superannuation")  
-[Sport](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=269 "Click here to read posts on Sports")  
-[Music](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=282 "Click here to read posts on Music")  
-[Humour](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=5 "Click here to read posts on Humour")  
-[Shareholder Education](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=274 "Click here to read posts on shareholder education")  
-[HotCopper Shop](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=300 "Click here to read posts about the HotCopper shop")  
-[Feedback](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/posts.asp?fid=6 "Click here to read posts on HotCopper feedback")  
+[Politics](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=262 "Click here to read posts on Politics")  
+[Betting](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=308 "Click here to read posts on Betting")  
+[Science & Medicine](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=309 "Click here to read posts on Science")  
+[Economics](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=289 "Click here to read posts on Economics")  
+[Property](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=273 "Click here to read posts on Property")  
+[Lifestyle & Travel](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=310 "Click here to read posts on lifestyle and travel")  
+[Superannuation](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=284 "Click here to read posts on Superannuation")  
+[Sport](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=269 "Click here to read posts on Sports")  
+[Music](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=282 "Click here to read posts on Music")  
+[Humour](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=5 "Click here to read posts on Humour")  
+[Shareholder Education](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=274 "Click here to read posts on shareholder education")  
+[HotCopper Shop](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=300 "Click here to read posts about the HotCopper shop")  
+[Feedback](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/posts.asp?fid=6 "Click here to read posts on HotCopper feedback")  
 Daily Notices  
 ---  
-**January Tipping Comp**  
-Get your tips in before the end of the month for the [January Tipping Competition](https://web.archive.org/tipping_competition.asp?viewCompetitionID=35#entryForm). This month's prize is $500 cash, courtesy of [Contango MicroCap Limited](http://www.hotcopper.com.au/redirect_all.asp?statisticid=1681).   
+**Tipping Competition**  
+The [May Tipping Competition](https://web.archive.org/tipping_competition.asp?view%20CompetitionID=39#entryForm) is under way. Congratulations to [TARBABY1](https://web.archive.org/user_profile.asp?uid=126985) who is the winner of the [March Tipping Competition](https://web.archive.org/tipping_competition.asp?view%20CompetitionID=37). [TARBABY1](https://web.archive.org/user_profile.asp?uid=126985) wins $500 cash, courtesy of Contango MicroCap Limited.   
   
 [](http://www.hotcopper.com.au/redirect_all.asp?statisticid=2469)
 
-[**Competitions:** Enter & Win!](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/competition_home.asp "Refer a friend to HotCopper and win!")  
+[**Competitions:** Enter & Win!](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/competition_home.asp "Refer a friend to HotCopper and win!")  
 ---  
 Today's Statistics  
 ---  
-**Logins:**  1089   
-**Posts:**  75   
+**Logins:**  18554   
+**Posts:**  5325   
 **Most Discussed Stocks:**  
-[DJPIN](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=3619 "DOW JONES CLOSEST TO PIN COMP - Click here for DJPIN posts."), [XJO](https://web.archive.org/XJO "S & P ASX 200 INDEX - Click here for XJO posts."), [PIE](https://web.archive.org/PIE "PIENETWORKS LIMITED - Click here for PIE posts."), [SSN](https://web.archive.org/SSN "SAMSON OIL & GAS LIMITED - Click here for SSN posts."), [NMR](https://web.archive.org/NMR "NIMRODEL RESOURCES LIMITED - Click here for NMR posts."), [PEK](https://web.archive.org/PEK "PEAK RESOURCES LIMITED - Click here for PEK posts."), [GOLD](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/search_do.asp?symbolid=1034 "GOLD METAL AU 79 - Click here for GOLD posts."), [KGL](https://web.archive.org/KGL "KENTOR GOLD LIMITED - Click here for KGL posts."), [LYC](https://web.archive.org/LYC "LYNAS CORPORATION LIMITED - Click here for LYC posts."), [ANP](https://web.archive.org/ANP "ANTISENSE THERAPEUTICS LIMITED - Click here for ANP posts."), [ADO](https://web.archive.org/ADO "ANTEO DIAGNOSTICS LIMITED - Click here for ADO posts."), [OIL](https://web.archive.org/OIL "OPTISCAN IMAGING LIMITED - Click here for OIL posts."), [BCC](https://web.archive.org/BCC "BUCCANEER ENERGY LIMITED - Click here for BCC posts."), [BLT](https://web.archive.org/BLT "BENITEC BIOPHARMA LIMITED - Click here for BLT posts."), [NCM](https://web.archive.org/NCM "NEWCREST MINING LIMITED - Click here for NCM posts."), [GGP](https://web.archive.org/GGP "GOLDEN GATE PETROLEUM LTD - Click here for GGP posts.").   
-[**More Statistics**](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/daily_statistics.asp)  
+[LYC](https://web.archive.org/LYC "LYNAS CORPORATION LIMITED - Click here for LYC posts."), [XJO](https://web.archive.org/XJO "S & P ASX 200 INDEX - Click here for XJO posts."), [DJPIN](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/search_do.asp?symbolid=3619 "DOW JONES CLOSEST TO PIN COMP - Click here for DJPIN posts."), [MNM](https://web.archive.org/MNM "MANTLE MINING CORPORATION LIMITED - Click here for MNM posts."), [CCC](https://web.archive.org/CCC "CONTINENTAL COAL LIMITED - Click here for CCC posts."), [POH](https://web.archive.org/POH "PHOSPHAGENICS LIMITED - Click here for POH posts."), [SSN](https://web.archive.org/SSN "SAMSON OIL & GAS LIMITED - Click here for SSN posts."), [ATV](https://web.archive.org/ATV "ATLANTIC GOLD NL - Click here for ATV posts."), [CDU](https://web.archive.org/CDU "CUDECO LIMITED - Click here for CDU posts."), [FML](https://web.archive.org/FML "FOCUS MINERALS LTD - Click here for FML posts."), [TZL](https://web.archive.org/TZL "TZ LIMITED - Click here for TZL posts."), [GGP](https://web.archive.org/GGP "GOLDEN GATE PETROLEUM LTD - Click here for GGP posts."), [KZL](https://web.archive.org/KZL "KAGARA LTD - Click here for KZL posts."), [SDL](https://web.archive.org/SDL "SUNDANCE RESOURCES LIMITED - Click here for SDL posts."), [MAD](https://web.archive.org/MAD "MAVERICK DRILLING AND EXPLORATION LIMITED - Click here for MAD posts."), [BMB](https://web.archive.org/BMB "BALAMARA RESOURCES LIMITED - Click here for BMB posts.").   
+[**More Statistics**](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/daily_statistics.asp)  
   
 Your Responsibilities   
 ---  
@@ -125,7 +128,7 @@ Make sure you understand [ASIC Regulatory Guide 162](http://www.asic.gov.au/asic
 
 Make sure you read the warnings on each post.
 
-Read our [Terms of Use](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/forum_termsOfUse.asp) and [Code of Conduct](https://web.archive.org/web/20111230142814id_/http%3A//www.hotcopper.com.au/forum_codeOfConduct.asp).  
+Read our [Terms of Use](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/forum_termsOfUse.asp) and [Code of Conduct](https://web.archive.org/web/20120501124137id_/http%3A//hotcopper.com.au/forum_codeOfConduct.asp).  
   
   
 HCUIIS01   
@@ -196,5 +199,5 @@ HotCopper may update this policy. We will notify you about significant changes i
   
 
 
-Copyright © 2000 - 2011 HotCopper All Rights Reserved.  
+Copyright © 2000 - 2012 HotCopper All Rights Reserved.  
 
