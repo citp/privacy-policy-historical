@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autozmagz.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227101453id_/http%3A//www.autozmagz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autozmagz.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501084812id_/http%3A//www.autozmagz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auto Repair Manual Free Download and Reviews
 
