@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idownloadfast.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924013745id_/http%3A//www.idownloadfast.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadfast.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501202807id_/http%3A//www.idownloadfast.com/privacy.html) for the most accurate reproduction.*
 
 # iDownloadFast.com - Privacy Policy
 
@@ -28,4 +28,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20110924013745id_/http%3A//www.idownloadfast.com/support.php).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20120501202807id_/http%3A//www.idownloadfast.com/support.html).
