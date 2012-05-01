@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the bloglog.com privacy policy that was archived on 2011-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009063854id_/http%3A//www.bloglog.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloglog.com privacy policy that was archived on 2012-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501133437id_/http%3A//www.bloglog.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy - Bloglog</title>
 <link rel="shortcut icon" href="http://www.bloglog.com/favicon.ico" type="image/x-icon">
-<link href="/theme_v2/css/style.css" rel="stylesheet" type="text/css">
+<link href="/theme_v2/css/style.css?v=2011.10.20" rel="stylesheet" type="text/css">
 <link href="/datepicker.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/library/SpryAssets_packed/SpryData.js" type="text/javascript" language="JavaScript"></script>
 <script src="/library/SpryAssets_packed/SpryRating.js" type="text/javascript" language="JavaScript"></script>
@@ -25,35 +25,33 @@
 
 -->
 </style>
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script type="text/javascript">
-	  <!--
+<div id="fb-root"></div>
+	<script>
       window.fbAsyncInit = function() {
         FB.init({
           appId   : '239465739426310',
-          session : null, // donnot refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-          xfbml   : true // parse XFBML
+		  channelUrl  : 'http://www.bloglog.com/fb_connect/channel.php', // custom channel
+		  status     : true, // check login status
+		  cookie     : true, // enable cookies to allow the server to access the session
+		  oauth      : true, // enable OAuth 2.0
+		  xfbml      : true  // parse XFBML
         });
 
         // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {
-         // window.parent.location='/?fblgd=1';
+		FB.Event.subscribe('auth.login', function(response) {
 		  window.parent.location.reload();
         });
       };
-
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-	  -->
+	  // Load the SDK Asynchronously
+	  (function(d){
+	   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	   js = d.createElement('script'); js.id = id; js.async = true;
+	   js.src = "//connect.facebook.net/en_US/all.js";
+	   d.getElementsByTagName('head')[0].appendChild(js);
+	 }(document));
     </script>
     <div id="topBar">
 	  <div class="inside">	<div id="logo">
@@ -118,8 +116,7 @@
     </div>
 		<div class="clear-both"></div>
 	  </div>
-    </div>
-	<div id="secondaryTopBar"><div class="separator-20"></div></div> 
+    </div><div id="secondaryTopBar"><div class="separator-20"></div></div> 
 <div id="inside-main-box">
  
 <div id="mainContainer">
@@ -134,16 +131,62 @@
 <div class="separator-5"></div>
 <a href="/createblog"><img src="/banners/banner-money-300x60.gif" width="300" height="60" alt="" border="0"></a>
 </div>
-<div class="separator-10"></div><div class="side-box">
+<div class="separator-10"></div><div class="side-box categories">
         <p class="heading-2 title">Blog Directory</p>
-        <div class="col-2">
-          <ul class="menu-categories"><li><a href="/academics/">Academics</a></li><li><a href="/arts/">Arts</a></li><li><a href="/automobile/">Automobile</a></li><li><a href="/business/">Business</a></li><li><a href="/celebrities/">Celebrities</a></li><li><a href="/computers/">Computers</a></li><li><a href="/dating/">Dating</a></li><li><a href="/entertainment/">Entertainment</a></li><li><a href="/environment/">Environment</a></li><li><a href="/parents/">Family</a></li><li><a href="/fashion/">Fashion</a></li><li><a href="/finance/">Finance</a></li><li><a href="/food-drink/">Food &amp; Drink</a></li><li><a href="/videogames/">Games</a></li><li><a href="/health/">Health</a></li><li><a href="/home-garden/">Home &amp; Garden</a></li><li><a href="/humor/">Humor</a></li><li><a href="/internet/">Internet</a></li><li><a href="/law/">Law</a></li><li><a href="/lifestyle/">Lifestyle</a></li></ul>
-				</div>
-				<div class="col-2 force-col-2">
-				  <ul class="menu-categories"><li><a href="/literature/">Literature</a></li><li><a href="/local/">Local</a></li><li><a href="/marketing-seo/">Marketing</a></li><li><a href="/music/">Music</a></li><li><a href="/outdoors/">Outdoors</a></li><li><a href="/personal/">Personal</a></li><li><a href="/pets/">Pets</a></li><li><a href="/philosophy/">Philosophy</a></li><li><a href="/photoblog/">Photo Blog</a></li><li><a href="/politics/">Politics</a></li><li><a href="/real-estate/">Real Estate</a></li><li><a href="/religion/">Religion</a></li><li><a href="/resources/">Resources</a></li><li><a href="/science/">Science</a></li><li><a href="/shopping/">Shopping</a></li><li><a href="/society/">Society</a></li><li><a href="/sports/">Sports</a></li><li><a href="/technology/">Technology</a></li><li><a href="/travel/">Travel</a></li><li><a href="/webdesign/">Web Design</a></li></ul>
-        </div>
+          <ul class="menu-categories2"><li><a href="/academics/">Academics</a></li><li><a href="/arts/">Arts</a></li><li><a href="/automobile/">Automobile</a></li><li><a href="/business/">Business</a></li><li><a href="/celebrities/">Celebrities</a></li><li><a href="/computers/">Computers</a></li><li><a href="/dating/">Dating</a></li><li><a href="/entertainment/">Entertainment</a></li></ul>
+				  <ul class="menu-categories2 hidden"><li><a href="/environment/">Environment</a></li><li><a href="/parents/">Family</a></li><li><a href="/fashion/">Fashion</a></li><li><a href="/finance/">Finance</a></li><li><a href="/food-drink/">Food &amp; Drink</a></li><li><a href="/videogames/">Games</a></li><li><a href="/health/">Health</a></li><li><a href="/home-garden/">Home &amp; Garden</a></li></ul>
+				  <ul class="menu-categories2 hidden"><li><a href="/humor/">Humor</a></li><li><a href="/internet/">Internet</a></li><li><a href="/law/">Law</a></li><li><a href="/lifestyle/">Lifestyle</a></li><li><a href="/literature/">Literature</a></li><li><a href="/local/">Local</a></li><li><a href="/marketing-seo/">Marketing</a></li><li><a href="/music/">Music</a></li></ul>
+				  <ul class="menu-categories2 hidden"><li><a href="/outdoors/">Outdoors</a></li><li><a href="/personal/">Personal</a></li><li><a href="/pets/">Pets</a></li><li><a href="/philosophy/">Philosophy</a></li><li><a href="/photoblog/">Photo Blog</a></li><li><a href="/politics/">Politics</a></li><li><a href="/real-estate/">Real Estate</a></li><li><a href="/religion/">Religion</a></li></ul>
+				  <ul class="menu-categories2 hidden"><li><a href="/resources/">Resources</a></li><li><a href="/science/">Science</a></li><li><a href="/shopping/">Shopping</a></li><li><a href="/society/">Society</a></li><li><a href="/sports/">Sports</a></li><li><a href="/technology/">Technology</a></li><li><a href="/travel/">Travel</a></li><li><a href="/webdesign/">Web Design</a></li></ul>
         <div class="clear-both"></div>
-      </div></div>
+		<a href="#" class="smallText-10 padding-5-t floatRight" id="btn_expandCategoryPanel" onclick="return false;">Show all categories</a>
+      <div class="clear-both"></div>
+      <script type="text/javascript">
+		<!--
+		var cat_getPanels = Spry.$$("#sideContainer .side-box ul.menu-categories2");
+		var cat_totalPanels = cat_getPanels.length;
+		var currentPanel = nextPanel = 0;
+		var timeoutID;
+		var timeoutID2;
+		
+		function _playPanels () {
+			currentPanel = nextPanel;
+			cat_getPanels.addClassName("hidden");
+			cat_getPanels.removeClassName("current");
+			Spry.Utils.removeClassName(cat_getPanels[currentPanel], "hidden");
+			Spry.Utils.removeClassName("btn_expandCategoryPanel", "hidden");
+			timeoutID = setTimeout(_playPanels, 3000);
+			
+			nextPanel++;
+			nextPanel = (nextPanel < cat_totalPanels) ? nextPanel : 0;
+			//window.status = nextPanel;
+		}
+		
+		function _pausePanels () {
+			clearTimeout(timeoutID);
+			//timeoutID2 = setTimeout(_expandPanels, 600);
+		}
+		
+		function _resumePanels () {
+			//clearTimeout(timeoutID2);
+			nextPanel = currentPanel;
+			timeoutID = setTimeout(_playPanels, 1000);
+		}
+		
+		function _expandPanels () {
+			Spry.Utils.addClassName(cat_getPanels[currentPanel], "current");
+			cat_getPanels.removeClassName("hidden");
+			Spry.Utils.addClassName("btn_expandCategoryPanel", "hidden");
+		}
+				
+		Spry.$$("#sideContainer .side-box.categories").addEventListener("mouseover", _pausePanels, false);
+		Spry.$$("#sideContainer .side-box.categories").addEventListener("mouseout", _resumePanels, false);
+		Spry.$$("#sideContainer .side-box.categories #btn_expandCategoryPanel").addEventListener("click", _expandPanels, false);
+		
+		_playPanels();
+		-->
+	  </script>
+	  </div></div>
     <div class="clear-both"></div>
 </div>
 
@@ -157,13 +200,14 @@
 			<li><a href="/">Home</a></li>
 			<li class="force-pipe-li force-pipe-stdr-li"><a href="/how.php" rel="nofollow">How it works</a></li>
 			<li class="force-pipe-li force-pipe-stdr-li"><a href="/tags" rel="nofollow">Top tags</a></li>
+			<li class="force-pipe-li force-pipe-stdr-li"><a href="/posts" rel="nofollow">Trending posts</a></li>
 			<li class="force-pipe-li force-pipe-stdr-li"><a href="/addblog">Submit a blog</a></li>
 			<li class="force-pipe-li force-pipe-stdr-li"><a href="/createblog">Start a blog</a></li><li class="force-pipe-li force-pipe-stdr-li"><a href="/register.php" rel="nofollow">Register</a></li>
 				<li class="force-pipe-li force-pipe-stdr-li"><a href="/login.php" rel="nofollow">Login</a></li><li class="force-pipe-li force-pipe-stdr-li"><a href="/privacy.php" rel="nofollow">Privacy</a></li>
 			<li class="force-pipe-li force-pipe-stdr-li"><a href="/contact.php" rel="nofollow">Contact us</a></li>
 		  </ul>
 		</div>
-		<div class="floatRight">Bloglog © 2011</div>
+		<div class="floatRight">Bloglog © 2012</div>
 		<div class="clear-both"></div>
 	  </div>
 	</div>
