@@ -1,54 +1,72 @@
-> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109091817id_/http%3A//developers.face.com/docs/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501210636id_/http%3A//face.com/privacy) for the most accurate reproduction.*
 
-# face.com developers site » Privacy Policy
+# Face.com - Photo Tagger and Photo Finder in the press
 
-0\. **Overview**  
-Face.com values your privacy and wishes to maintain transparency with regards to how information about you and your friends is used. This Privacy Policy applies to all products and services offered by face.com.
+**Privacy Policy**
 
-We've set up this Privacy policy in strict adherence to both the [EU Standards](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) and the [US Guidelines for Privacy Protection](http://export.gov/safeharbor/eg_main_018247.asp); If you have any questions about this Privacy Policy, please feel free to [contact us](http://face.com/contact.php) through our website or write to us at:
+At Face.com we take your privacy seriously. This privacy policy applies to the personal information we collect through this website, and describes how we collect, use, disclose, protect, and provide you with access to the personal information about you that we maintain. This privacy policy does not apply to personal information you may otherwise provide to us, or that we may otherwise collect.
 
-Privacy Matters  
-Face.com Inc.  
-548 Market St #45134  
-San Francisco, California 94104
+**Collection of Personal Information**
 
-1\. **Who Are We?**  
-Face.com is operated by Face.com Inc. We provide a platform for social networking applications that allow users to interact with friends through photo tagging, and face search within photos of you or your friends.
+Face.com receives and stores the personal information that you provide on our website. The personal information we collect includes information that can identify you as a specific individual, such as your name, e-mail address, and information related to your activity on our website. We collect this information from you when you register for our products and services, post on our blogs and forums, ask us a question, and initiate other transactions on our website ([opt out](http://developers.face.com/preferences/) from face recognition). 
 
-2\. **What information is being collected?**  
-We collect information from social networking sites you signed up to, and with strict accordance to their privacy policy and terms of use. We only receive information that you decided to disclose to 3rd party applications. For example, if one of your friends signed up for our service, and you allowed 3rd party applications to view your photo and friend list, and your friend is allowed to view your photo and friend list, then we can let your friend tag and search you in photos.
+**Collection of Other Information**
 
-More specifically, we collect the following information: (i) your user ID, or other unique identifier within the social networking site; (ii) a link to each of your photos you've allowed your friends to view, as well as your face's location in these photos; (iii) other information we may occasionally store that we received from the social networking sites and does not personally identify you in any way.
+Face.com or its agents may collect other non-personal information about your computer (such as your IP address, web browser software, and online activity) when you visit our websites. We may also assign you cookies (a small, unique identifier text file) that we use for a variety of purposes to enhance your experience on our websites. We will provide you with a choice before we collect any personal information through cookies. 
 
-3\. **What isn't collected?**  
-We never collect information that is considered sensitive or personally identifiable. Unless explicitly requested, we will never store (i) your email (apart from removing you from our services) ; (ii) any of your passwords; (iii) your contact information, including your exact address, geographical location, state and others; (iv) information relating to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, or concerning health or sex life.
+**Use of Personal Information**
 
-We may store, for caching purposes (i) your name; (ii) the list of your friends; (iii) albums used by other users for tagging or viewing.
+Face.com may use the personal information you provide on our websites in certain ways in connection with our business. These uses include: 
 
-4\. **Where is the information being collected from?**  
-We collect information only from social networking sites you signed up to, with strict accordance to their privacy policies and terms of use. We use only their APIs and public information in order to collect information you provided, and only disclose it to users authorized to view it.
-
-5\. **How do we process the information?**  
-Face.com only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
-
-  * Providing our services, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+  * Providing you with the products and services you request; 
+  * Managing your account, including handling subscriptions; 
+  * Responding to your questions and comments; 
+  * Sending you updates and newsletters; 
+  * Providing you information about selected products and services that may be of interest to you; 
+  * Soliciting information and feedback from you, including through surveys and questionnaires; or 
+  * Performing business analyses or for other purposes to improve the quality of our business, our website, and the services we offer. 
 
 
 
-6\. **Who can access the information?**  
-Only your friends on social networks are authorized to view or search your tags in photos. Where supported by the underlying social network (e.g. Facebook), only users whom were directly authorized by you to view your tagged photos may view or search your tags in photos.
+**Disclosure of Personal Information**
 
-7\. **How can I block Face.com from storing my information?**  
-You can block Face.com from storing your information by:
+Face.com may share your personal information in limited circumstances, including: 
 
-(1) By blocking the applications using the face.com platform via your social networks; Facebook users may [click here](http://www.facebook.com/settings/?tab=privacy&section=applications) to go to the application and website privacy settings page and adjust your settings to block access.  
-(2) Request us to block information about you, [using this form](https://web.archive.org/preferences); however, in this case, we will still retain some information about you, including your User Id and a unique identifier.
+  * With our authorized service providers that perform certain functions or services on our behalf (such as to process newsletter distribution); 
+  * To respond to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or defend against legal claims; 
+  * When we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, or as otherwise required by law; 
+  * To protect or defend the rights or property of Face.com or others, or the safety of the public; 
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale; or 
+  * Otherwise pursuant to your consent (for example, when and if we enable subscribers to share with other users lists of the content they have purchased). 
 
-8\. **What are my remedies?**  
-Your remedies are limited to a maximum of five times the amount paid by you to Face.com in consideration of the services provided by it during the last 12 months.
 
-9\. **Third Party Services**.  
-Face.com uses third party services, such as Google Analytics, in order to provide us with statistical data about users and in order to provide better services for our users. We may also use other third party services, such as advertising services. Each of these third party services has its own privacy policy and you should inspect their policy thoroughly.
+
+**Access to Personal Information**
+
+You can e-mail us at privact@face.com to update, change, or request that we delete your personal information. 
+
+**Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+**Protection of Personal Information**
+
+Face.com has implemented security procedures to help protect the personal information that you provide to us. However, no method of transmitting or storing electronic data is ever completely secure, and we cannot guarantee that such information will never be accessed, used, or released in a manner that is inconsistent with this policy. 
+
+**Children's Privacy**
+
+Our website is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information. 
+
+**External Links**
+
+If any part of the Face.com website links you to other websites, those websites do not operate under this privacy policy. We recommend that you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
+
+**Changes to This Privacy Policy**
+
+Face.com may update this privacy policy in the future. We will notify you about material changes to this privacy policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website. 
+
+**How To Contact Us**
+
+If you have questions about our privacy policy, please e-mail us at privacy@face.com. 
+
+* Last revision: Nov 24, 2011. 
