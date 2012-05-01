@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209153824id_/http%3A//www.prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prescriptiondrug-info.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192529id_/http%3A//prescriptiondrug-info.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - The People's Medicine Community
 
@@ -18,6 +18,9 @@ Westlake Village, CA 91362
 
   **Facebook:**  
 <http://www.facebook.com/rxinfo>
+
+  **Google+:**  
+<https://plus.google.com/111897043056504505974>
 
   **Twitter:**  
 <http://twitter.com/druginfo>
