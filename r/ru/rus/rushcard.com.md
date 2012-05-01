@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushcard.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011095733id_/http%3A//www.rushcard.com/BancorpPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushcard.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192854id_/http%3A//www.rushcard.com/BancorpPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
