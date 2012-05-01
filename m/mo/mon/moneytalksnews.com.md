@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015255id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502011233id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Talks News
 
@@ -106,6 +106,8 @@ Personally identifiable information you submit to MTN is password-protected for 
 ### Links to other websites
 
 This site may include links to other third party websites. Such links are not an endorsement by MTN of those websites and/or the products or services offered there. Third-party websites may have different privacy policies, and MTN is not responsible for the privacy practices of those third-party websites. If you click on a link to a third-party website, MTN encourages you to check the privacy policy of that website, as it may differ substantially from that of this privacy policy.
+
+Please note that MTN has financial relationships with some of the merchants mentioned here. MTN may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for the said merchant. However, these relationships are separate from and have no impact on the editorial content of this site.
 
 ### Access and use of this site
 
