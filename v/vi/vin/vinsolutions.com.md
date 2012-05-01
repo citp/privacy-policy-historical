@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009031523id_/http%3A//vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinsolutions.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501031602id_/http%3A//www.vinsolutions.com/privacy.aspx) for the most accurate reproduction.*
 
 # VinSolutions > Privacy Policy
 
@@ -63,6 +63,3 @@ Please keep in mind that whenever you voluntarily disclose information online, t
 When you or we end your customer relationship with us, we will treat the information we have about you as if you were still our customer.
 
 Questions? Please contact our [support team.](mailto:support@vinsolutions.com)
-
-Stop wasting time, capitalize on all of your leads  
-& satisfy your customers needs. [](https://web.archive.org/web/20111009031523id_/http%3A//vinsolutions.com/onlinedemo.aspx)and begin selling more today!
