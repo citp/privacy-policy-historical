@@ -1,63 +1,95 @@
-> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227052140id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollandtoad.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501180859id_/http%3A//www.trollandtoad.com/privacy.php) for the most accurate reproduction.*
 
 # Troll And Toad
 
-**Privacy & Security Notice**
+**Privacy Policy**
 
-Troll and Toad knows that the privacy and security of your information is important to you. We appreciate that you trust us, and we want you to know how well we guard your privacy. By visiting our site, you accept the practices described in this notice.
+**TrollAndToad.Com Online Privacy Policy**
 
-**What information about customers do we store?**
+TrollAndToad.Com and its affiliate companies (collectively TrollAndToad) respect the privacy of its online visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how TrollAndToad safeguards the privacy of its online visitors and does not apply to information that may be collected by TrollAndToad offline. Please note that when you link to other sites from a TrollAndToad website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. 
 
-  * **Information given to us by you -** We keep all information you enter, such as name address, etc.
-  * **"Cookies" on your computer -** We store a digital cookie on your computer so we can keep track of your shopping cart order when your are shopping with us. However, to protect your privacy, we don't show any of your account information until you have entered the password you selected when you set up your account. If you, as a user of the site, choose to not accept cookies, this will not prevent you from shopping on our site. However, you won't be able to use the shopping cart. After choosing the items you wish to purchase, you can then either e-mail the order to us, or call us on the phone, or fax us with the list of items you wish to order.
-  * **Information on current and past orders -** We do store the contents of present and past orders on the website for your personal information. These are not accessible without entering the password you selected when you set up your account.
+**What Personal Information Is Collected?**
 
+TrollAndToad only collects personal information on a voluntary basis. If an online visitor submits information to TrollAndToad, it will usually take the form of either: (1) the purchase of goods or services through our online stores, (2) product or account registration, (3) message boards or forums, (4) contest registrations, (5) a consumer complaint, (6) surveys, (7) customer service or technical support, and/or (8) newsletters. Personal information collected may include your name, home address, phone number, and/or email address. We do not require this information to gain access to our sites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as a newsletters unless such information is provided. 
 
+Visitors purchasing products or services may be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses. 
 
-**Who has access to your information?**
+Please note that, depending on the TrollAndToad site that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
 
-On our site, only you or people you give your password to can access the information on our site. Our employees have access only to information needed to actually process an order for you, and they go through a rigorous screening process before becoming employed by our company. We do not sell our mailing list (or any information on it) to any other business. We may choose to mail you advertising or information on our products or the products or services of other companies, but we will never allow them access to your information or your name or address.
+**What Other Types Of Information May We Collect?**
 
-**How secure is the information on the Web site?**
+For some activities, we may ask you to create a user name and password and/or to provide other, non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, combine such information with your personal information. In addition, your web browser or client software may transmit certain geographic information to TrollAndToad. TrollAndToad may use this information to generate aggregate statistics about our user community and may provide such information to advertisers and/or our partners. In addition, TrollAndToad may use such information for security, system integrity (the prevention of hacking, scams, etc), or enforcement purposes. From time to time, we may also post customer testimonials that contain personally identifiable information on TrollAndToad's websites. However, we will obtain the customer's consent to post these testimonials prior to publication in accordance with the applicable TrollAndToad Terms of Use (TOU). 
 
-All your private information is stored on the site using Secure Sockets Layer (SSL) software, which encrypts the information you input. Only the information listed in the section below can be physically seen on our site, and only by yourself or someone else you have given your password to. NOTE: Your credit card is never listed on our site. Even when changing your credit card, only the last 5 digits are ever seen. All our credit card processing is handled by Authorize.net, a world international company authorized by all the major credit card companies to handle confirmation and charging of credit card numbers.
+**How Do We Use Your Personal Information?**
 
-**What information can I access?**
+The personal information you provide TrollAndToad will allow us to fulfill your order; alert you of new products or services, features, or enhancements; handle/route your customer service questions or issues; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. TrollAndToad may enhance or merge the personal information collected at a TrollAndToad site with data from third parties in order to update your contact information, perform market analysis, or improve our products, services, or systems. TrollAndToad may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out. 
 
-You can access your account information, your wish list, the contents of your current shopping cart, and your willingness to be on our private e-mail mailing list.
+Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers. 
 
-**Correction/Updating Personal Information**
+Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in a job applicant.s resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. 
+**What Type Of Communications May I Receive?**
 
-To correct or update your information go to "[My Account](https://www.trollandtoad.com/myaccount/index.php)" and choose "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)." 
+ _Special Offers and Updates_  
+We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communication. Please see the "Choice" section below. _Service-related Announcements_  
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. _Customer Service_ Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your user name and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with you wishes. 
 
-If you wish to remove yourself as a user, you must e-mail customer support with e-mail address, and give us the last 5 digits of your credit card number, and ask to be deleted.  We will delete your registration within 2 business days.
+**Who Is Collecting Your Information?**
 
-**Choice/Opt-out**
+When you are asked for information while on a TrollAndToad site, you are sharing that information with TrollAndToad, its parent, and its various affiliates and sister companies, unless specifically stated otherwise. As a result of this sharing, you may receive communication from any of TrollAndToad's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than TrollAndToad, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information when you register. For example, under "[Update My Account Information](https://www.trollandtoad.com/myaccount/user.php)" under the "[My Account](https://www.trollandtoad.com/myaccount/index.php)" tab, you can choose at any time Yes or No to be on our e-mail mailing list. 
+Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as TrollAndToad. 
 
-Users of our site will never have any information collected for any outside party.
+Please be aware that advertisers or websites with links to and from our sites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. 
 
-**Children**
+**With Whom May Your Personal Information Be Shared?**
 
-Troll and Toad welcomes users of all ages to use our website. However, if you are under the age of 13, you may not register on our website without permission from your parents, as that is against FTC (Federal Trade Commission) rules about collection of personal information from children. 
+TrollAndToad may need to disclose your personal information to third party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, and/or store data on TrollAndToad's behalf. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us. These service providers may not use your personal information for their own marketing purposes. 
 
-If you then are under 13, and want to register on our site, we suggest that instead you have your parents register to use the site, and ask them permission to use their account.
+We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a TrollAndToad site or product, or may be causing injury to or interference (intentionally or unintentionally) with TrollAndToad's rights or property, other users of a TrollAndToad site or product, or anyone else who could be harmed by your activities. We also reserve the right to disclose your personal information if we have a good faith belief that it is necessary to prevent fraud or other illegal activities. 
 
-**Conditions of Use, Notices & Revisions**
+As with any business, your personal information is also an asset of TrollAndToad and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to TrollAndToad's successor or assigns. 
 
-If you visit the Troll and Toad Web site, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Kentucky. If you have any concerns about the privacy at Troll and Toad, please send a thorough description to [sales@trollandtoad.com](mailto:sales@trollandtoad.com), and we will try to resolve it. If we ever decide to change the way we use your personal information on our site, we will first notify you by e-mail of our intent to change our policy. You will be able to choose whether you are willing to be included in out policy change. 
+TrollAndToad sites may also have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that this information is being made publicly available online and the user does so at his or her own risk. For certain forums, anyone posting or replying to a post may be doing so using their full first and last name with the option to also display the name of their primary geographic location and affiliation. If your personal information is posted on one of our community forums, you may contact us at privacy@trollandtoad.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
-If we ever change our Privacy Policy, we will post that change in the News section on the front page of our site, and will leave that notice posted for at least one month. We will also notify all users who have agreed to be on our e-mail mailing list of this change in our Privacy Policy.
+**What Choices Do I Have Regarding The Collection, Use, And Distribution Of My Personal Information?**
 
-**Log Files**
+TrollAndToad allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, TrollAndToad may give you the option of declining any future offers or information about new products, or services. In addition, many of the "mailings" TrollAndToad may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. Lastly, you may be given the opportunity to "opt-out" of certain features or functionality. 
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are never linked to personally identifiable information. Additionally, for systems administration, detecting usage patterns and troubleshooting purposes, Troll And Toad's server automatically logs standard access information including browser type, access times/open mail, URL requested, and referral URL. While information like this may be shared with third-parties in aggregate form, individually identifiable information related to this data will never be shared with third-parties without your explicit permission." 
+**What About Children?**
 
-**Email Links**
+ _Children Under 13_ Once a child states that his/her age is under 13, we do not collect or store any personally identifiable information such as name, address, or email address. _Note to Parents_ We recognize a special obligation to protect personal information about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when online. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns. 
 
-We use email links located on the Contact Us page, Buying Page, FAQ Page and other informational pages, to allow you to contact us directly with any questions or comments you may have. 
+**What Are Cookies and Clear Gifs And How Are They Used?**
 
-We read every message sent in, and reply to all questions asked within 1 business day. This information is used to respond directly to your questions or comments. We may (and often have) filed your comments to improve the site and its operations, or to correct mistakes you have pointed out to us. Your personal information is not shared outside the company under any circumstances, unless we first ask and you give us specific permission. 
+Cookies are a feature of your web browser that allows websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, TrollAndToad may use cookies to retrieve user information for promotional, marketing, or security purposes. 
+
+TrollAndToad and our third-party tracking service also employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. These clear gifs are not tied to personally identifiable information. 
+
+Our third-party tracking service uses cookies and clear gifs to track non-personally identifiable information about visitors to our site in the aggregate. They capture usage and volume statistics to help improve our website. We have no access or control of these third-party tracking utilities. 
+
+We also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to personally identifiable information. 
+
+**What Are Internet Protocol Addresses?**
+
+An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). TrollAndToad may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abuses. 
+
+**What Do I Do If I Want To Correct Or Delete My Personal Information?**
+
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact TrollAndToad.Com Privacy Policy, Attention: Privacy Policy Administrator, at 250 American Greeting Card Rd. Corbin KY 40701. You can also contact us by emailing us at privacy@trollandtoad.com. We will respond to any request for access within 30 days. 
+
+In some cases, we may not be able to delete your personal information and will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+Please note that the deletion of your data will lead to the termination of your account and applicable services. 
+
+**How Secure Is My Personal Information?**
+
+TrollAndToad has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. We will retain your information for as long as needed to provide you services. 
+
+**What If I Have A Question Or Complaint?**
+
+If you have any questions or wish to file a complaint, please feel free to email us at privacy@trollandtoad.com or send a letter addressed to TrollAndToad.Com, Attention: Privacy Policy Administrator, at 250 American Greeting Card Rd. Corbin, KY 40701. 
+
+By using this website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the TrollAndToad website will signify your acceptance of these changes. 
+
+This Privacy Policy was last updated on 03/12/2012 11:46PM 
