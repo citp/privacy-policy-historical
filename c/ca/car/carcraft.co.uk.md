@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104174057id_/http%3A//www.carcraft.co.uk/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcraft.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501135420id_/http%3A//www.carcraft.co.uk/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Carcraft
 
@@ -42,9 +42,15 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You can choose to accept or decline cookies but declining cookies may prevent you from taking full advantage of the website. Most web browsers automatically accept cookies, but if you wish, you should be able to configure your browser to restrict cookies or block all cookies by changing your browser settings. You can visit youronlinechoices which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
+
+For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+
+We have also authorised Criteo to place cookies on our website. The purpose of this is to re-target users of our website to provide them with personalised advertisements for our products. Information on how to opt-out through their privacy policy can be found here <http://www.criteo.com/us/privacy-policy>.
+
+Users can also express their choices through the European platform [youronlinechoices](http://www.youronlinechoices.com/uk/your-ad-choices) that provides options for users to express their choices from all companies that are registered on this platform.
 
 ##  Links to other websites
 
