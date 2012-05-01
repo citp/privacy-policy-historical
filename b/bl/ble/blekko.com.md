@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007074334id_/http%3A//blekko.com/ws/%2B/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501100239id_/http%3A//blekko.com/about/privacy-policy) for the most accurate reproduction.*
 
-# blekko | /privacy
+# blekko
 
 **Version 2a, Effective May 27, 2011**
 
