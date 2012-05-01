@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134258id_/http%3A//www.clipclip.org/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipclip.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501223923id_/http%3A//www.clipclip.org/message/private_policy) for the most accurate reproduction.*
 
 # : clipclip
 
@@ -80,7 +80,9 @@ CoolChaser may update this policy at any time for any reason.
 ## Questions
 
 If you have questions or suggestions you can contact us at:  
-NextSmallThings (a California Corporation)  
-Suite 6502  
-1516 Howard Ave   
-Burlingame CA 94010
+Next Small Things  
+344 Middlefield Road  
+Suite 8088  
+Palo Alto, California 94301  
+USA  
+Email: ContactUs@NextSmallThings.com 
