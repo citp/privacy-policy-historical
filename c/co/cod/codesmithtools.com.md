@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codesmithtools.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014129id_/http%3A//www.codesmithtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesmithtools.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501230051id_/http%3A//www.codesmithtools.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CodeSmith Tools: Privacy Policy
 
 At CodeSmith Tools the privacy and security of our customers and users are of paramount importance. We understand your concern over the privacy of any personal information you supply to us, and your need to control this information.
 
