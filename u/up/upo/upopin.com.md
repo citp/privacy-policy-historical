@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upopin.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220200940id_/http%3A//upopin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upopin.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501172340id_/http%3A//upopin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # UPopin.com - Exciting Mobile Offers for Free!
 
