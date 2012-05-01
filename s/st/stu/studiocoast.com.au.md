@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012095249id_/http%3A//www.studiocoast.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501030611id_/http%3A//www.studiocoast.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StudioCoast
 
@@ -37,7 +37,7 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 **Problems or questions**
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20111012095249id_/http%3A//www.studiocoast.com.au/support.aspx). 
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20120501030611id_/http%3A//www.studiocoast.com.au/support.aspx). 
 
 **Further Privacy Information**
 
