@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpois0n.com privacy policy that was archived on 2011-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110927095939id_/http%3A//greenpois0n.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpois0n.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501205846id_/http%3A//greenpois0n.com/%3Fpage_id%3D86) for the most accurate reproduction.*
 
 # Privacy Policy | greenpois0n.com
 
