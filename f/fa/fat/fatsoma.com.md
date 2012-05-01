@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121149id_/http%3A//www.fatsoma.com/pages/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsoma.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501231416id_/http%3A//www.fatsoma.com/pages/legal/privacy.php) for the most accurate reproduction.*
 
 # Fatsoma | Privacy Policy
 
@@ -72,7 +72,7 @@ All personal information entered into Fatsoma can be edited and changed by you a
 
 You have the right to cancel your membership at any time. This can be done by logging into your account and reviewing the cancellation options.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support.fatsoma.com](http://support.fatsoma.com/)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support@fatsoma.com](mailto:support@fatsoma.com)
 
 9\. Your consent 
 
@@ -84,5 +84,5 @@ The Act gives you the right to access information held about you. Your right of 
 
 11\. How to contact Fatsoma 
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please contact [support.fatsoma.com](http://support.fatsoma.com/)  
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please contact [support@fatsoma.com](mailto:support@fatsoma.com)  
 
