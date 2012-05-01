@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231012144id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501063804id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaGaLGuY.com - India's biggest website for MBA in India, International MBA, CAT, XAT, SNAP, MAT
 
@@ -15,3 +15,5 @@ At no point in time will **Inzane Labs Pvt. Ltd.** working under any of its prod
 This privacy policy is intended to be a generic guideline while using the products/services extended by **Inzane Labs Pvt. Ltd.** It extends to our website **PaGaLGuY.com**.
 
 **Inzane Labs Pvt. Ltd.** reserves the right to change certain aspects of this policy as and when it deems fit. The users will always be notified of such changes and will be given an option to opt-out if they disagree with the revised policies.
+
+If you liked this post, please share it!
