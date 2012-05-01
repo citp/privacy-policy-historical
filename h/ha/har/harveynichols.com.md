@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219195405id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynichols.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501155635id_/http%3A//www.harveynichols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -121,3 +121,13 @@ Alternatively, to activate MasterCard SecureCode for Your MasterCard card or Ver
 •    Create more complex passwords. When You create a password, use at least 8 characters - a combination of letters and numbers is best. Do not use Your name, email address, or other personal information that can be easily obtained and try to steer clear of words found in a dictionary. It is also recommended that You change Your password frequently.   
 •    Use different passwords for any online accounts You have.   
 •    Do not write Your password down anywhere.
+
+**Information**
+
+**The data controller of your data is** HARVEY NICHOLS & CO LTD
+
+109-125 KNIGHTSBRIDGE LONDON SW1X 7RJ
+
+ICO Registration Number: Z8687407
+
+If you have any questions about our privacy policy contact [compliance@harveynichols.com](mailto:compliance@harveynichols.com)
