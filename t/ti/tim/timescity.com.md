@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timescity.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012854id_/http%3A//timescity.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timescity.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501081838id_/http%3A//timescity.com/privacypolicy) for the most accurate reproduction.*
 
 # TimesCity | Privacy Policy
 
@@ -41,6 +41,24 @@ TIL shares the sensitive personal information to any third party without obtaini
 
 When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
+## PROHIBITED ACTIVITIES
+
+You shall not host, display, upload, modify, publish, transmit, update or share any information on the Site, that -
+
+  1. (a) belongs to another person and to which you do not have any right to
+  2. (b) is grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libellous, invasive of another's privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever
+  3. (c) harm minors in any way.
+  4. (d) infringes any patent, trademark, copyright or other proprietary rights.
+  5. (e) violates any law for the time being in force.
+  6. (f) deceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or menacing in nature.
+  7. (g) impersonate another person.
+  8. (h) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource.
+  9. (i) threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign states, or public order or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or is insulting any other nation.
+
+
+
+Any Content uploaded by you shall be subject to relevant laws and may disabled, or and may be subject to investigation under appropriate laws. Furthermore, if you are found to be in non-compliance with the laws and regulations, these terms, or the privacy policy of the Site, we may terminate your account/block your access to the Site and we reserve the right to remove any non-compliant Content uploaded by you.
+
 ## INFORMATION SECURITY
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
@@ -51,7 +69,9 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [copyright.infringement@indiatimes.com](mailto:copyright.infringement@indiatimes.com); or write at the following address:
+## NOTICE OF COPYRIGHT INFRINGEMENT
+
+TIL is not liable for any infringement of copyright arising out of materials posted on or transmitted through the site, or items advertised on the site, by end users or any other third parties. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [copyright.infringement@indiatimes.com](mailto:copyright.infringement@indiatimes.com); or write at the following address:
 
 Times Internet Limited  
 4th Floor, MPD World Tower,  
@@ -63,10 +83,11 @@ Ph: 0124-4187000
 
 We request you to please provide the following information in your complaint:-
 
-  1. (a) Identification of the information provided by you
-  2. (b) Clear statement as to whether the information is personal information or sensitive personal information
-  3. (c) Your address, telephone number or e-mail address.
-  4. (d) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
-  5. (e) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+  1. (a) A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+  2. (b) Identification of the copyrighted work claimed to have been infringed.
+  3. (c) Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  4. (d) Your address, telephone number or e-mail address.
+  5. (e) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
+  6. (f) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
 
 
