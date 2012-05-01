@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dotellall.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623084555id_/http%3A//www.dotellall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotellall.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502014950id_/http%3A//www.dotellall.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Last Updated February 2011
+# DoTellAll.com | Privacy Policy
 
 Do Tell All ("Do Tell All," "we," "us" or "our") understands the importance of maintaining your privacy, and we therefore strive to provide our services with your protection in mind. This Privacy Policy applies to your use of Do Tell All's service (the "Service") that provides users, who submit search queries in a Do Tell All or third-party branded search box on a Web page (a "Search Page"), with Internet navigation assistance web pages containing relevant local search results and other content ("Results Pages;" and, together with any Search Pages, the "Do Tell All Web Pages"). This Privacy Policy describes our practices regarding the collection, maintenance, use and sharing of information from the Service. This Privacy Policy is maintained in conformity with any and all applicable privacy-related laws and regulations. Our Privacy Policy may change from time to time, and those changes will be available for your review on most Do Tell All Web Pages that you view and on our web page located at www.Do Tell All/privacy.php. Your continued use of our Service after any such changes have been made will signify your assent to the changed Privacy Policy. Accordingly, we ask that you bookmark and periodically review this Privacy Policy to ensure continuing familiarity with the most current version.
 
@@ -12,7 +10,7 @@ We do not collect any personally identifiable information about you (such as you
 
 #### 2\. UNSUBSCRIBE
 
-If at any time you wish to unsubscribe from Do Tell All emails or opt out of future notifications please submit your email address to www.DoTellAll.com/unsubscribe.
+If at any time you wish to unsubscribe from Do Tell All emails or opt out of future notifications please submit your email address to [www.DoTellAll.com/unsubscribe](http://www.dotellall.com/unsubscribe "http://www.DoTellAll.com/unsubscribe").
 
 #### 3\. COOKIES AND WEB BEACONS
 
@@ -37,3 +35,7 @@ Certain of our Partners who provide or enable any functionality on the Service m
 #### 8\. PROVISIONS APPLICABLE TO ADVERTISERS ONLY
 
 Any advertiser who wishes to place advertising on our Service will be asked to provide certain information such as the advertiser's business name, phone number, physical address, e-mail address, service area, website URL, description of the advertiser's business, a contact name, advertising category and/or keyword, and credit card information. Some of this information is personally identifiable. This information will be used by Do Tell All to create an account for the advertiser, improve the Service, communicate changes to the Service, conduct research, provide anonymous reporting for internal purposes and for reporting to third-parties, and market Do Tell All products and services to advertisers. Some of the information will also be displayed within the advertiser's ad copy on the Service. We will not disclose any personally identifiable information to third parties without your prior consent. Advertisers may edit their account information by contacting Do Tell All's Client Services Department at advertising@dotellall.com.
+
+#### 9\. HOW TO UNSUBSCRIBE
+
+If at anytime you wish you discontinue your account with Do Tell All you can do so by visiting [ Unsubscribe.](https://web.archive.org/unsubscribe/) Once you are directed to this page you will have the option to terminate your account and opt-out of any other forms of communication.
