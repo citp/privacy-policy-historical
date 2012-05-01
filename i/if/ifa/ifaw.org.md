@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016190828id_/http%3A//www.ifaw.org/ifaw_united_states/general/shortcut_of_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501133356id_/http%3A//www.ifaw.org/us/our-work/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | IFAW Web Site
+# Privacy statement | IFAW - International Fund for Animal Welfare
 
-The International Fund for Animal Welfare (IFAW) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ifaw.org](http://www.ifaw.org/)  
+The International Fund for Animal Welfare (IFAW) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ifaw.org](http://www.ifaw.org/)
 
 This site contains links to other sites. IFAW is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
