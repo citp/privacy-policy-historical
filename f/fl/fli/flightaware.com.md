@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140506id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightaware.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502025052id_/http%3A//flightaware.com/about/privacy) for the most accurate reproduction.*
 
 # FlightAware > Privacy Policy
 
@@ -46,4 +46,4 @@ Children under the age of thirteen years old may not register for FlightAware or
 
 ### Who can I contact if I have any questions regarding my privacy?
 
-Please contact us [contact us via e-mail](mailto:contact-privacy-1320156306@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
+Please contact us [contact us via e-mail](mailto:contact-privacy-1335898254@flightaware.com) with any questions or comments. For other contact, please refer to the [contact us](https://web.archive.org/about/contact/) page. 
