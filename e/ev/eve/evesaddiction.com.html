@@ -1,7 +1,121 @@
-<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204163058id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the evesaddiction.com privacy policy that was archived on 2012-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502084700id_/http%3A//www.evesaddiction.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TScf5496" content="70d561a7d861b2d0"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
+var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
+if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
+jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
+return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
+var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
+return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
+var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
+return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
+};
+
+jsepee.parse_url = function(w,nu){
+ var a = w.document.createElement("a");
+ a.href = nu;
+ var parsed_url = this.get_parsed_url(a);
+ if (this.is_relative_url(parsed_url.literal)){
+  a.href = this.url2abs(w,nu);
+ }
+ parsed_url = this.get_parsed_url(a);
+ return parsed_url;
+};
+
+jsepee.update_page_URL = function(w) {
+ var this_page = this['das'][w.location.href];
+ var this_URL = this_page['page']['URL'];
+ this_URL['literal']= w.location.href;
+ this_URL['host']= w.location.host;
+ this_URL['port']= w.location.port || this['DEFAULT_PORT'];
+ this_URL['protocolId']= this.protocol2id(w.location.protocol);
+ this_URL['path']= w.location.pathname;
+ this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
+ this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
+ return this;
+};
+
+jsepee.update_page_referrer = function(w) {
+ var r = this.parse_url(w,w.document.referrer);
+ var this_page = this['das'][w.location.href];
+ var this_referrer = this_page['page']['referrer'];
+ this_referrer['literal'] = r['literal'];
+ this_referrer['host'] = r['host'];
+ this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
+ this_referrer['protocolId'] = r['protocolId'];
+ this_referrer['path'] = r['path'];
+ this_referrer['fileExtension'] = r['fileExtension']; 
+ this_referrer['parameters'] = r['parameters']; 
+
+ return this;
+};
+
+jsepee.update_page_characterEncoding = function(w) {
+ var ce = w.document.characterSet;
+ if (!w.document.characterSet) {
+  ce=w.document.charset;
+  if (!w.document.charset) {
+   ce = w.document.defaultCharset;
+  }
+ }
+ if (!ce) {
+  ce = "JSEPEE could not identify character encoding";
+ }
+ var this_page = this['das'][w.location.href];
+ this_page.page.characterEncoding = ce;
+ return this;
+};
+
+jsepee.is_cookie_enabled = function(w) {
+ if (typeof w.document.cookie == "string"){
+  if (w.document.cookie.length != 0){
+   return true;
+  }
+  w.document.cookie = 'test';
+  var is_cookie_enabled = w.document.cookie == 'test';
+  w.document.cookie = "";
+  return is_cookie_enabled;
+ }
+ return false;
+};
+
+jsepee.extract_cookies = function(w) {
+ var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
+ var cookies = [];
+ var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
+return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
+var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
+return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
+var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
+return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
+var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
+return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
+var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
+p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
+p.value[pvalue]={pvalue:pvalue};}}
+var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
+das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
+return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
+this.update_form_parameters(w.document.forms[i],f[form_key]);}
+return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
+if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
+return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
+that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
+if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
+if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
+return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
+that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
+return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
+return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
+baseurl+='/';}
+return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
+return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
+return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
+return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
+this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
+if(u.indexOf("http")!=0){continue;}
+this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script>
 <title>privacypolicy.html</title>
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="description" content="Our huge selection of sterling silver jewelry includes sterling silver necklaces, rings, bracelets &amp; pendants. Most of our sterling silver jewelry is designer and celebrity inspired. We also offer cubic zirconia cz jewelry at affordable rates.">
@@ -76,7 +190,7 @@
               
               
             <script type="text/javascript">
-              var fo = new FlashObject("/resources/flash/header38.swf?custname=&ordertotal=$0.00&login=/login.jsp&logout=/servlet/com.beantree.catalog.AccountLogoutServlet?path=http://www.evesaddiction.com&gpm=&pb=&numberofitems=0&st=1030&dw=Sun","topbanner", "1060", "103", "7", "#FFFFFF");
+              var fo = new FlashObject("/resources/flash/header40.swf?custname=&ordertotal=$0.00&login=/login.jsp&logout=/servlet/com.beantree.catalog.AccountLogoutServlet?path=http://www.evesaddiction.com&gpm=&pb=&numberofitems=0&st=0347&dw=Wed","topbanner", "960", "72", "7", "#FFFFFF");
               fo.write("flashcontent");
             </script>
 			
@@ -175,7 +289,7 @@
             </div>
             
             <script type="text/javascript">
-              var fo = new FlashObject("/resources/flash/undernav-banner132.swf?pb=&st=1030&dw=Sun&shortURL=null&countryTwoDigitCode=US", "topbanner", "960", "109", "7", "#FFFFFF");
+              var fo = new FlashObject("/resources/flash/undernav-banner149.swf?pb=&st=0347&dw=Wed&shortURL=null&countryTwoDigitCode=US", "topbanner", "960", "109", "7", "#FFFFFF");
               fo.write("flashundernav");
             </script>
           </td>
@@ -323,7 +437,7 @@
 
     <tr>
       <td class="leftCategoriesTD categoryLevel_1">
-        <a href="items_428__Sale_Jewelry.html" class="leftNavigationHighLightText categoryCode_428" title="Holiday Sale">Holiday Sale</a>
+        <a href="items_428__Sale_Jewelry.html" class="leftNavigationHighLightText categoryCode_428" title="Spring Sale">Spring Sale</a>
       </td>
     </tr>
 
@@ -552,6 +666,7 @@ display:none;
 <option value="/items_306__Initials_Numbers.html">Initials &amp; Numbers</option>
 <option value="/items_581__Irish_Celtic_Jewelry.html">Irish Celtic Jewelry</option>
 <option value="/items_524__Journey_Jewelry.html">Journey Jewelry</option>
+<option value="/category_911__Medical_ID_Jewelry.html">Medical ID Jewelry</option>
 <option value="/items_584__Murano_Venetian_Glass_Jewelry.html">Murano Glass Jewelry</option>
 <option value="/category_622__Nature_jewelry.html">Nature Jewelry</option>
 <option value="/items_580__Nautical_Jewelry.html">Nautical Jewelry</option>
@@ -666,7 +781,7 @@ Why buy from Eve?</span></div>
               <img width="1" height="1" src="/images/spacer.gif">
             </td>
             <td valign="top" width="615" class="mainContentTD page_content page_contentdefault">
-                      
+                  
 		
 		
 
@@ -746,7 +861,8 @@ var addthis_pub="mikeevesaddiction";
 <td><a href="http://www.facebook.com/pages/EvesAddictioncom/66743809191" target="_blank"><img title="Eve's Addiction on Facebook" src="images/facebook.jpg" border="0" alt="Eve's Addiction on Facebook" width="94" height="29"></a></td>
 <td><a href="http://www.twitter.com/evesjewelry" target="_blank"><img title="Eve's Addiction on Twitter" src="images/twitter.jpg" border="0" alt="Eve's Addiction on Twitter" width="94" height="29"></a></td>
 <td><a href="http://www.evesaddictionblog.com" target="_blank"><img title="Eve's Addiction Jewelry Blog" src="images/blog.png" border="0" alt="Eve's Addiction Jewelry Blog" width="94" height="29"></a></td>
-<td><a href="http://www.myspace.com/evesjewelry" target="_blank"><img title="Eve's Addiction on MySpace" src="images/myspace.jpg" border="0" alt="Eve's Addiction on MySpace" width="94" height="29"></a></td>
+<td><a href="http://www.youtube.com/evesaddiction" target="_blank"><img title="Eve's Addiction on YouTube" src="images/youtube-button.png" border="0" alt="Eve's Addiction on YouTube" width="67" height="27"></a></td>
+<td><a href="http://pinterest.com/evesaddiction/" target="_blank"><img title="Eve's Addiction on Pinterest" src="images/pinterest-button.png" border="0" alt="Eve's Addiction on Pinterest" width="78" height="26"></a></td>
 <td><a onclick="return addthis_sendto()" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" href="http://www.addthis.com/bookmark.php?v=20"><img style="border:0" src="https://secure.addthis.com/static/btn/lg-share-en.gif" alt="Bookmark and Share" width="125" height="16"></a></td>
 </tr>
 </tbody>
@@ -760,7 +876,7 @@ var addthis_pub="mikeevesaddiction";
 <td><a title="Google Search" href="google-search.html">Google Search</a> | <a title="Customer Service" href="custsrv.html">Customer Service</a> | <a title="International Shipping" href="freeshipping.html#international">International              Shipping</a> | <a title="Track Your Order" href="track-your-order.html">Track              Your Order</a> | <a title="My Account" href="account.jsp">My Account</a> | <a href="basket.jsp"></a> <a title="Check Out" href="basket.jsp">Check              Out</a></td>
 </tr>
 <tr>
-<td><!-- --><a title="Black Friday Deals" href="black-friday-jewelry.html" mce_href="black-friday-jewelry.html">Black Friday Deals</a> | <!-- --><!-- --><a title="Cyber Monday Deals" href="cyber-monday-jewelry.html" mce_href="cyber-monday-jewelry.html">Cyber Monday  Deals</a> | <!-- --><a title="Privacy Policy" href="privacypolicy.html">Privacy              Policy &amp; Security</a> | <a title="History of Silver Jewelry" href="history.html">History              of Silver Jewelry</a> | <a title="Silver Jewelry Products" href="fullProductList.jsp">Full              Product List</a> | <a title="Jewelry" href="glossary-a.html">Jewelry              Terms</a> | <a title="Directory" href="directory.html">Directory</a> | <a title="Silver Jewelry Mobile Site" href="http://www.evesmobile.com">Mobile Site</a></td>
+<td><!--<a title="Black Friday Deals" href="black-friday-jewelry.html" mce_href="black-friday-jewelry.html">Black Friday Deals</a> | <a title="Cyber Monday Deals" href="cyber-monday-jewelry.html" mce_href="cyber-monday-jewelry.html">Cyber Monday  Deals</a> | --><a title="Privacy Policy" href="privacypolicy.html">Privacy              Policy &amp; Security</a> | <a title="History of Silver Jewelry" href="history.html">History              of Silver Jewelry</a> | <a title="Silver Jewelry Products" href="fullProductList.jsp">Full              Product List</a> | <a title="Jewelry" href="glossary-a.html">Jewelry              Terms</a> | <a title="Directory" href="directory.html">Directory</a> | <a title="Silver Jewelry Mobile Site" href="http://www.evesmobile.com">Mobile Site</a></td>
 </tr>
 <tr>
 <td><a href="aboutus.html?utm_source=reset"> <img src="images/evelogo-nocom.gif" border="0" alt="Eve's Addiction" width="161" height="37"> </a> <br> <a class="footer" href="testimonials2.html">Hablamos Español</a> <br> <a class="footer" href="testimonials2.html">Read Our Customer              Testimonials!</a> <br> <a class="footer" href="custsrv.html">Safe              Shopping Guarantee</a></td>
@@ -785,19 +901,19 @@ var ANS_customer_id="a95b36ff-edfe-46be-a49a-4059f94639bf";
 <a id="AuthorizeNetText" href="http://www.authorize.net/" target="_blank">E-Commerce Solutions</a></div>
 </td>
 <td height="41"><a href="google_checkout.html"><img src="images/google3.gif" border="0" alt="Google Checkout"></a></td>
-<td>&nbsp;</td>
+<td> </td>
 <td><!--VERISIGN SEAL--> 
 <table title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications." border="0" cellspacing="0" cellpadding="2" width="135">
 <tbody>
 <tr>
 <td width="135" align="center" valign="top">
-<script src="https://seal.verisign.com/getseal?host_name=www.evesaddiction.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en" type="text/javascript"></script>
+<script src="https://seal.verisign.com/getseal?host_name=www.evesaddiction.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO〈=en" type="text/javascript"></script>
 <br> <a style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;" href="http://www.verisign.com/ssl-certificate/" target="_blank">ABOUT SSL CERTIFICATES</a></td>
 </tr>
 </tbody>
 </table>
 <!--END VERISIGN SEAL--></td>
-<td>&nbsp;</td>
+<td> </td>
 <td><a onclick="javascript:window.open('http://solutions.liveperson.com/customer-service/?site=79984862&amp;domain=server.iad.liveperson.net&amp;origin=standalone&amp;referrer='+escape(document.location));return false;" href="http://solutions.liveperson.com/customer-service/?site=79984862&amp;domain=server.iad.liveperson.net&amp;origin=standalone" target="_blank"><img src="https://server.iad.liveperson.net/hc/79984862/?cmd=rating&amp;site=79984862&amp;type=mark" border="0" alt="Review Eves Addiction Customer Service Rating by LivePerson"></a></td>
 </tr>
 </tbody>
@@ -806,11 +922,11 @@ var ANS_customer_id="a95b36ff-edfe-46be-a49a-4059f94639bf";
 <tbody>
 <tr>
 <td><a title="Click for the Business Review of EvesAddiction.com, a Jewelers - Retail in Deep River CT" href="http://www.bbb.org/connecticut/business-reviews/jewelers-retail/evesaddictioncom-in-deep-river-ct-84001742#sealclick"><img style="border: 0;" src="images/blue-seal-63-134-evesaddictioncom-84001742.png" alt="EvesAddiction.com is a BBB Accredited Business. Click for the BBB Business Review of this Jewelers - Retail in Deep River CT" width="63" height="134"></a></td>
-<td>&nbsp;</td>
+<td> </td>
 <td height="41"><a href="http://www.shopping.com/xMR-EvesAddiction.com ~MRD-306839~S-1"><img src="images/sdc_rating_trusted_45.gif" border="0" alt="Read Your Store Reviews" width="197" height="82"></a><!-- END SHOPPING.COM SEAL--></td>
-<td>&nbsp;</td>
+<td> </td>
 <td><!-- BEGIN: BizRate Medal (125x73 pixels) --> <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--79446.html" target="_blank"> <img src="https://medals.bizrate.com/medals/dynamic/79446_medal.gif" border="0" alt="BizRate Customer Certified (GOLD) Site - Eve' s Addiction Reviews at Bizrate" width="125" height="73" align="top"></a> <!-- END: BizRate Medal (125x73 pixels) --></td>
-<td>&nbsp;</td>
+<td> </td>
 <td><!-- START NEXTAG LOGO--><a href="http://www.nextag.com/EvesAddiction~649121zzzreviewsz1zzzzmainz17-htm"><img src="images/nextag_trusted_seller.gif" border="0" alt="Nextag Seller" width="115" height="40"></a><!-- END NEXTAG LOGO --></td>
 </tr>
 </tbody>
@@ -824,7 +940,7 @@ var ANS_customer_id="a95b36ff-edfe-46be-a49a-4059f94639bf";
 <td><a href="/">EvesAddiction.com - Exquisite Sterling Silver Jewelry</a> Orders: 800-679-3837 or 860-526-3335</td>
 </tr>
 <tr>
-<td><span style="font-size: small;">©2011 Eve's Addiction</span></td>
+<td><span style="font-size: small;">©2012 Eve's Addiction</span></td>
 </tr>
 </tbody>
 </table>
