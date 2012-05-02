@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batchblue.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102194130id_/http%3A//www.batchblue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchblue.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502131013id_/http%3A//batchblue.com/privacy.html) for the most accurate reproduction.*
 
 # BatchBlue Privacy Statement | BatchBook
 
@@ -68,7 +68,7 @@ If customers need to update or change registration information they may do so by
 
 ## Additional Information
 
-Questions regarding this Statement or the practices of this Site should be directed to BatchBlue Software’s Security Administrator by e-mailing such questions to [admin@batchblue.com](mailto:admin@batchblue.com) or by regular mail addressed to BatchBlue Software, Inc., 10 Elmgrove Avenue, Providence, RI 02906 Attn: Security Administrator.
+Questions regarding this Statement or the practices of this Site should be directed to BatchBlue Software’s Security Administrator by e-mailing such questions to [admin@batchblue.com](mailto:admin@batchblue.com) or by regular mail addressed to BatchBlue Software, Inc., 171 Chestnut St, Providence, RI 02903 Attn: Security Administrator.
 
 ## Notices and Revisions
 
