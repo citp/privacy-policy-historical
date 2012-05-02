@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zzinsider.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230184238id_/http%3A//www.zzinsider.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zzinsider.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502224612id_/http%3A//www.zzinsider.com/privacy_policy) for the most accurate reproduction.*
 
 # Sexy Celebrity Pornstars & Hot Babes News Updates on ZZ Insider
 
