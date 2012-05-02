@@ -1,68 +1,95 @@
-> *The following text is extracted and transformed from the freearticlecollection.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231161925id_/http%3A//www.freearticlecollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlecollection.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502113504id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Free Article Collection
+# Legal Agreement
 
-Free Article Collection is strongly committed to protecting your privacy while interacting with our content, products and services in a safe and secure environment.
+**Last Revised: March 28, 2012**
 
-**Collection of Information**
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked to provide information such as your name, email address or information about what you like and do not like. It is entirely your choice whether to respond to these questions or not. Free Article Collection websites collects two types of information. They are,
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  * Anonymous Information
-  * Personal Information
+**Information Collection and Use**
 
+Our Site uses forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-**Anonymous Information**
+We use your information to contact you regarding functionality changes to our products, our Site, new LuckyRegister - Cheap Domain Registration, Domain Hosting Services - services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may collect information to tell us that five thousand people visit this Privacy Policy today, but we do not know their names, where they live or their date of birth â€“ they are â€˜anonymousâ€™ to us. Another example of Free Article Collection website collecting anonymous information is when the Free Article Collection are invited to respond to surveys/polls on Free Article Collection website. The surveys/polls may ask you for demographic information such as your age, gender and postcode. This information is collected for research purposes, is used in the aggregate (where possible), and remains anonymous. Many of the individuals who access our services are anonymous to us.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-**Personal Information**
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-The website will collect personal information that lets us know the specifics of who you are such as your name, email address, or postal address, when you provide it to us. With this information, Free Article Collection websites can provide a variety of personalized and enhanced services that are not available to anonymous users. We hope that you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
+Our Site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account.
 
-Sometimes, we may specifically ask for personal information about you when you sign up to use a service. Certain information may be required, such as your name, age, internet address or screen name, billing address, type of computer, credit card number, in order to provide that service or product to you. This information may also be used to inform you of additional products and services which may interest you. You can choose not to receive such information when you are undertaking product or service registration on our website. We may also ask about your interests, but it is your choice whether to respond.
-
-How much of your personal information that you choose to disclose to the Free Article Collection is completely up to you. The only way we know something about you personally is if you provide it to us, for example when you take part in a discussion forum or enter one of the competitions on our websites.
-
-**Use of Anonymous Information**
-
-Free Article Collection websites automatically gathers anonymous information to monitor the use of Free Article Collection websites like the numbers and frequency of visitors to Free Article Collection websites and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our audiences use parts of the site, so we can improve Free Article Collection websites to assure that they are as appealing as we can make it for as many users as possible. Free Article Collection websites may publish or provide this aggregate data to other people.
-
-**Use of Personal Information**
-
-Free Article Collection website will only use the personal information you have chosen to provide us for the purpose for which you provided it. Free Article Collection website will not use it for any other purpose without your consent.
-
-**Disclosure**
-
-There will be occasions where it will be necessary for Free Article Collection to disclose your personal information to third parties. Free Article Collection may be required by law to disclose the information, or Free Article Collection may be required to disclose your personal information to third parties to provide the service you have requested, for example, if you purchase products online from the Free Article Collection website, Free Article Collection will need to disclose your personal information to third parties in order to bill and deliver your products. However, the disclosure will only be made where it is necessary to fulfill the purpose for which you disclosed your personal information. Otherwise than stated above, we do not disclose personal information that you may give us, such as your name, address, email address or telephone number, to any organization or person outside FreeArticleCollection.com unless you have authorized us to do so. For example, when you contribute to an online forum you may want to publish your name and email address.
-
-**No Sale of Personal Information**
-
-Under no circumstances will Free Article Collection sell or receive payment for licensing or disclosing your personal information.
-
-**Interacting with Free Article Collection**
-
-There are many interactive features on Free Article Collection website that you can contribute to. These include: Article Submissions, Reviews, Comments, Online Subscriptions, Mailing Lists and Email.
-
-When interacting with Free Article Collection website, we suggest that you use your discretion and exercise caution when providing your personal information.
-
-Note that whenever you post personal information in publicly accessible places, such as chat rooms or message boards, this information becomes available to anyone with access to the Internet. This information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Therefore, we recommend that you refrain from posting any information that you do not want seen in these public areas.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any personal information. Be responsible whenever you are online.
-
-**Access and correction: personal data**
-
-If Free Article Collection holds your personal information, then Free Article Collection will where possible, provide you with access to the information. Free Article Collection will take reasonable steps to correct the information so that it is accurate, complete and up to date.
+This Site also contains links to other websites. Unfortunately, LuckyRegister - Cheap Domain Registration, Domain Hosting Services - is not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
-Free Article Collection operates secure data networks that are designed to protect your privacy and security.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Complaints About Privacy**
+**Sending Emails**
 
-If you have any complaints relating to online privacy issues on our website, please notify Free Article Collection. While Free Article Collection Articles accepts no liability for any material or links posted to the service, we will investigate all complaints.
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://www.securepaynet.net/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
 
-**Changes to Free Article Collection** **Privacy Policy**
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-If we decide to change Free Article Collection Privacy Policy, we will post those changes here.
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Targeted Advertisements**  
+
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services - may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Terminate my LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Account?**
+
+When your LuckyRegister - Cheap Domain Registration, Domain Hosting Services - account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister - Cheap Domain Registration, Domain Hosting Services - databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Updating Your Information  **
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+  1. You may visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
+  2. You may send mail to LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at the following postal address:   
+14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies. 
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services -   
+ATTN: Web Team   
+14455 North Hayden Rd.  
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
