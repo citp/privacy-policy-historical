@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuncisakti.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064142id_/http%3A//kuncisakti.com/private.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuncisakti.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502124427id_/http%3A//kuncisakti.com/private.htm) for the most accurate reproduction.*
 
 # Belajar Internet Marketing dan Bisnis Online Indonesia| KunciSAKTI.com
 
