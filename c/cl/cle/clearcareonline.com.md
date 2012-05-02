@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcareonline.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109192939id_/http%3A//clearcareonline.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcareonline.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503013633id_/http%3A//clearcareonline.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ClearCare - Home Care Management Software
 
@@ -44,18 +44,3 @@ Questions regarding ClearCare, Inc’s Privacy Statement or information practice
 ClearCare, Inc Privacy  
 1693 Polk Street, Suite 200  
 San Francisco, CA 94109 
-
-### Revision History:
-
-  * July 14, 2011 at 2:20 pm by naval@absem.com ( _displayed above_ )
-  * [July 14, 2011 at 2:13 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=491) by ghn881@gmail.com
-  * [July 14, 2011 at 2:10 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=490) by ghn881@gmail.com
-  * [March 8, 2011 at 8:42 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=489) by ghn881@gmail.com
-  * [March 8, 2011 at 7:16 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=186) by naval@absem.com
-  * [March 8, 2011 at 7:15 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=183) by naval@absem.com
-  * [March 8, 2011 at 7:13 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=182) by naval@absem.com
-  * [March 8, 2011 at 7:12 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=180) by naval@absem.com
-  * [March 7, 2011 at 9:11 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=179) by naval@absem.com
-  * [March 7, 2011 at 9:11 pm](https://web.archive.org/web/20111109192939id_/http://clearcareonline.com/privacy-statement/?revision=178) by naval@absem.com
-
-
