@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009050226id_/http%3A//aldi.co.uk/uk/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.co.uk privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502101844id_/http%3A//www.aldi.co.uk/uk/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
