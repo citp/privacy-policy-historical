@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206130212id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502092044id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,8 +119,8 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 **VegWeb, LLC**  
-PO Box 320601  
-San Francisco, CA 94132  
+2417 Mission Street #126  
+San Francisco, CA 94110  
 USA
 
 [TOP](https://web.archive.org/misc/privacy.shtml#top)
