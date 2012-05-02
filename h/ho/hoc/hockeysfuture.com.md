@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120110149id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeysfuture.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502222515id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
 
 # Privacy Policy | CraveOnline
 
