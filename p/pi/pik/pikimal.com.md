@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073707id_/http%3A//pikimal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502144957id_/http%3A//pikimal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikimal
 
@@ -6,7 +6,7 @@
 
 Last updated August 9th, 2010
 
-Pikimal Inc. operates the web site hosted at www.Pikimal.com (the "Site") and related services (the "Services") to offer an open repository of data shared by the world, made easy for anyone to mix, mash, and re-use. Pikimal values the privacy of the users, subscribers, publishers, members, and others who visit the Site or Services (collectively or individually, "Users"). By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is incorporated into and is subject to the Pikimal Terms of Service. Your use of the Site and Services and any personal information you provide through the Site and Services are subject at all time to this Privacy Notice and the [Terms of Service](https://web.archive.org/web/20111124073707id_/http%3A//terms).
+Pikimal Inc. operates the web site hosted at www.Pikimal.com (the "Site") and related services (the "Services") to offer an open repository of data shared by the world, made easy for anyone to mix, mash, and re-use. Pikimal values the privacy of the users, subscribers, publishers, members, and others who visit the Site or Services (collectively or individually, "Users"). By using the Site or Services, you expressly consent to the information handling practices described in this notice. This Privacy Notice is incorporated into and is subject to the Pikimal Terms of Service. Your use of the Site and Services and any personal information you provide through the Site and Services are subject at all time to this Privacy Notice and the [Terms of Service](https://web.archive.org/web/20120502144957id_/http%3A//terms).
 
 ## The Information Pikimal Collects
 
@@ -62,7 +62,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ## Our Commitment to Data Security
 
-Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](https://web.archive.org/web/20111124073707id_/http%3A//contact).
+Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](https://web.archive.org/web/20120502144957id_/http%3A//contact).
 
 ## Our Commitment to Children's Privacy
 
