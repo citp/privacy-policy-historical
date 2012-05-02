@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehunter.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000957id_/http%3A//www.thehunter.com/pub/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehunter.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502224751id_/http%3A//www.thehunter.com/pub/privacy.php) for the most accurate reproduction.*
 
 # theHunter - Privacy Policy
 
@@ -100,4 +100,4 @@ Your use of theHunter, and any disputes arising from it, is subject to this Priv
 
 ## 12\. Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at [privacy@thehunter.com](mailto:privacy@thehunter.com). You may also contact us by mail at Expansive Worlds AB, Ã…sÃ¶gatan 108, 118 29 Stockholm, SWEDEN.
+If you have any questions about this privacy policy, please contact us at [privacy@thehunter.com](mailto:privacy@thehunter.com). You may also contact us by mail at Expansive Worlds AB, Åsögatan 108, 118 29 Stockholm, SWEDEN.
