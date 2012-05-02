@@ -1,70 +1,131 @@
-> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629062205id_/http%3A//www.inxpo.com/NewWebsite/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502233628id_/http%3A//www.inxpo.com/privacy/INXPO_Website_Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# 
+# INXPO Privacy Policy
 
-Your privacy is important to us. We want to earn and keep your trust; the following principles outline our commitment to you:
+                                         INXPO Privacy Policy
+This Privacy Policy (“Policy”) describes how INXPO, Inc. (either “INXPO,” “we,” or “us”) treats personal
+information when you, the user, access the INXPO website (“INXPO Website” or “Website”). This Privacy
+Policy only applies to information collected by INXPO, and does not apply to any information collected by
+any third party. By visiting the INXPO Website you agree to the terms of this Privacy Policy, as they may be
+amended from time to time.
+The United States Department of Commerce and the European Commission have agreed on a set of data
+protection principles (the "Safe Harbor Principles") to enable U.S. Companies to satisfy the requirement
+under European Union law that adequate protection be given to personal information transferred from the EU
+to the United States. INXPO adheres to Safe Harbor Principles and applies those principles to any transfer of
+information between the European Union countries and INXPO.
+A. Type of Information INXPO Collects.
+The INXPO Website does not collect personally identifiable information from you unless you choose to
+enter personally identifiable information into a registration or similar page. Before collecting personal
+information, INXPO gives you notice and the choice to opt out of providing such information. If you choose
+not to provide any requested personal information, you may be unable to access certain areas of the INXPO
+Website, such as password protected areas.
+1. Registration Information. Certain areas of the INXPO Website may require you to input registration
+    information, which may include your name, email address and other business or contact information in
+    order to enter a password protected area or to receive further information about INXPO products or
+    services.
+2. Your Activities. INXPO may record information about your activities on and/or usage of the INXPO
+    Website. Activity information may include which pages you visited, what URL you came from or visit
+    after you leave the Website, average time spent on the Website, previously shared information, your
+    domain or IP address etc. In addition, if you are logged into a password protected area, we may associate
+    that information with your account. To accomplish this we may use:
+        a. Cookies: a small text file which contains a string of alphanumeric characters and is used to
+            collect information about website activity. There are two different types of cookies: Session
+            cookies and persistent cookies. Session cookies are held temporarily and disappear when you
+            close your browser. Persistent cookies may be used by your web browser on subsequent visits.
+        b. Locally Shared Objects: Locally Shard Objects (LSO), also referred to as flash cookies. LSO’s
+            are similar to cookies in that they are files which store data and collect information about website
+            activity. LSO’s will recreate a cookie that's been deleted.
+        c. Web Beacons: Web Beacons are strings of code placed on a webpage in conjunction with cookies.
+            Web beacons are able to track the number of users that visit a website and, in conjunction with
+            cookies, identify the IP address and personalize the website experience. Web Beacons may also
+            be used to collect anonymous and/or aggregate, unidentifiable information such as how many
+            users attended a virtual event.
+        d. URL and IP Address: the URL is the web page you came from or leave the INXPO website to.
+            The IP address is the numerical label associated with the location of your computing device.
 
-We will never rent or sell your personal information to third parties for marketing purposes without your express permission. Exhibitors, any person or company whose invitation to attend you responded to, and event sponsors are not third parties for this purpose.
 
-We will never share your contact information with another user, unless both of you choose to contact one another.
+3. Content. Any personal information or content that you voluntarily upload or otherwise disclose while on
+    the INXPO Website (such as, through us of an INXPO blog), including but not limited to information
+    disclosed on discussion boards, in messages and chat areas, within a profile page, or images or any other
+    content you provide (“Content”), becomes publicly available and can be collected and used by others. In
+    addition, if you are given the ability to log into your account with any social networking website, or post
+    Content on such site or other third party website, through the INXPO Website, such Content may be
+    made available to other parties and associated with your personally identifiable information.
+B. Purposes for Which INXPO Collects Information.
+1. Maintenance and Flagging. If you submit personally identifiable information through the INXPO
+    Website, INXPO may use your personal information to operate, maintain, and provide you with the
+    general and personalized features and functionality of the INXPO Website. We may also use such
+    personal information to process any flagging activity or correspondence you send to us.
+2. Messaging. Your account registration information may be displayed in password protected areas to other
+    users. If you choose to receive email from INXPO, we may use clear GIFs (a.k.a. web beacons) in
+    HTML-based emails sent to you to track which emails are opened by recipients.
+3. No Commercial Marketing. INXPO will not use your email address or other personally identifiable
+    information to send commercial or marketing messages for our benefit without your consent, except as
+    part of a specific program or feature or other business relationship for which you will have the ability to
+    opt-in and/or opt-out of. We will not share your personally identifiable information with third party
+    marketers.
+4. Non-Marketing or Administrative Uses. INXPO may use your email address without your consent for
+    non-marketing or administrative purposes, such as notifying you for customer service reasons.
+5. Quality & Features. INXPO may use your personally identifiable information and certain non-personally-
+    identifiable information (such as anonymous user usage data, cookies, LSO’s, IP addresses, browser
+    type, web beacons and clickstream) to improve the quality and design of the INXPO Website and to
+    create new features, promotions, functionality, and services by storing, tracking, analyzing, and
+    processing user preferences and trends, as well as user activity and communications. We may use web
+    beacons in conjunction with cookies to identify you and provide personalized services.
+6. Cookies; LSO’s. In some cases, INXPO may use cookies, LSO’s clear gifs, and log file information to:
+    (i) store information so that you will not have to re-enter it during your visit or the next time you visit the
+    event; (ii) provide custom, personalized content and information; or (iii) monitor aggregate metrics such
+    as total number of visitors, pages viewed, etc.
+7. URL’s & IP Address. When you visit the INXPO Website, INXPO automatically receives the URL of
+    the site from which you came and the site to which you are going when you leave. We also receive the
+    Internet protocol (IP) address of your computer, your computer operating system and type of web
+    browser you are using, as well as the name of your ISP. This information may be used to analyze overall
+    trends, determine the domain from which you came, who visits the INXPO Website, to understand the
+    needs of Website visitors, or to help us improve the INXPO service. This information is not linked to
+    personally identifiable information.
+C. Access to Your Information.
 
-Any sensitive information that you provide will be secured with all industry standard protocols and technology.
 
-Information Collection
+INXPO provides you with the ability to correct, amend, change and delete your personal information. Please
+contact all privacy@INXPO.com.
+D. Transfer of Your Information to Third Parties.
+INXPO’s Privacy Policy does not apply to, and we cannot control the activities of, third party websites or
+service providers (“Third Parties”). You should consult the respective privacy policies of Third Parties for
+more information on their practices. INXPO is not responsible for the privacy practices of Third Parties.
+D. Security & Data Integrity.
+INXPO takes reasonable steps to prevent the loss, misuse and unauthorized access, disclosure, alteration and
+destruction of your information. In addition, INXPO takes appropriate security measures to safeguard your
+information once we have received it.
+E. Enforcement and Dispute Resolution.
+The Legal Department will be the internal mechanism for ensuring compliance with the U.S. Department of
+Commerce’s Safe Harbor Principles. INXPO utilizes the self-assessment approach to assure its compliance.
+INXPO periodically verifies that this Privacy Policy is accurate, comprehensive for the information to be
+intended to be covered, prominently displayed, implemented, and in conformance with the law.
+To ensure compliance with the Safe Harbor Principles INXPO will:
+1. Conduct annual internal compliance reviews of this Privacy Policy, as part of the certification process
+    with the U.S. Department of Commerce.
+2. If a complaint regarding INXPO’s use of personal information, or Privacy Policy is raised INXPO’s
+    Legal Department will investigate such claims and try to resolve any dispute. You will receive a
+    communication within two (2) business days from the date you sent INXPO email notification, or seven
+    (7) business days from the date of mailed notification, from an INXPO representative acknowledging
+    receipt of your complaint. INXPO will then conduct an investigation into your issue. You may receive
+    additional communications during the investigation process for further clarification. After the
+    investigation, the representative will contact you with a proposed resolution to your concern. If you agree
+    with the proposed resolution, then you and the INXPO representative will work together to close the
+    matter. If you do not agree, then the matter will be escalated to an officer of INXPO for resolution.
+        All Complaints should be addressed to:
+                By Mail:               Attn: Legal Department
+                                       770 N Halsted St., Ste 6S
+                                       Chicago, IL 60642
+                E-Mail Address:        privacy@INXPO.com
+        Please include the following information: name, address (with postal code), country, phone number,
+        fax, E-mail address, description of privacy complaint, Type of information involved, dates of
+        occurrence(s), names of those involved, desired resolution
 
-Registration:  
-In order to become an InXpo attendee, you must first create an account on this web site. To create an account you are required to provide the following contact information: name, email address, country, ZIP/postal code), a brief summary of your professional background (current occupation & networking objectives), and choose a password.
 
-Profile Information:  
-Once an attendee, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the InXpo system. 
-
-Cookies & Log Files:
-
-Like most web sites, InXpo uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows InXpo to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.
-
-One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your InXpo account. The next time you visit the InXpo web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. Additionally, if you log out of the InXpo site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the InXpo site. Session cookies expire after a short time or when you close your web browser.
-
-Due to the communications standards on the Internet, when you visit the InXpo web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave InXpo. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the InXpo service, but is not linked to personally identifiable information in any way.
-
-Children:  
-Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.
-
-Information Use  
-InXpo is an online service dedicated to helping all types of professionals more effectively connect with one another. The information you choose to provide on this site is used to help you describe yourself to other users. In addition, InXpo collects certain types of information in order to operate and improve our service to you and other users. InXpo, LLC is the sole owner of the information collected on this site.
-
-Communications:  
-InXpo will communicate with you through email and notices posted on this website. These include a series of welcome e-mails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from InXpo related to the proper functioning of your account, such as email notices when another user sends you an opportunity. InXpo may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to info@InXpo.com.
-
-Customized Content:  
-Information you provide at registration or in your Profile section is also used to customize your experience on the web site. 
-
-Information Sharing
-
-Sharing Information With Third Parties:  
-InXpo takes the privacy of our users very seriously. We will never sell, rent, or otherwise provide your personally identifiable information to any third parties for marketing purposes. Exhibitors, sponsors, and the person or company that invited you are not considered third parties. We will only share your information with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.
-
-Partnering with Other Organizations to Offer Combined Services:  
-InXpo partners with other online services to give you the combined results of both services. Whenever we offer such combined services, it will be clear who the partner is and it will be your choice to make use of the combined services or not. In these cases, none of your personally identifiable information will be passed from InXpo to the partner. 
-
-Communications Between Users:  
-Many emails and contacts you initiate through InXpo, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.
-
-Legal Disclaimer:  
-It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.
-
-Accessing and Changing Your Account Information  
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your InXpo account, at any time by logging in to your account on the InXpo website and editing the information on your Profile page. You can also close your account through the InXpo website. 
-
-Security  
-Private information like your address or credit card number can be accessed only by providing your password.
-
-Changes to this Privacy Policy  
-InXpo may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your InXpo account or by displaying a prominent notice on this site.
-
-Questions or Comments  
-If you have questions or comments about this privacy policy, please email us at info@InXpo.com or contact us at:
-
-InXpo, LLC  
-Attn: Privacy Policy Issues  
-3000 Lakeside Drive, Suite 105N  
-Bannockburn, IL 60015
+3. Independent Dispute Resolution Process: For complaints which cannot be satisfactorily resolved through
+    INXPO’s internal dispute resolution process, INXPO agrees to use the American Arbitration Association.
+    You may contact the International Centre for Dispute Resolution of the American Arbitration
+    Association at www.adr.org.
+This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor
+Principles.
