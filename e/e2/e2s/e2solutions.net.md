@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e2solutions.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209090142id_/http%3A//www.e2solutions.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2solutions.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502200653id_/http%3A//www.e2solutions.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # E2 Solutions Privacy Policy: SEO Company
 
