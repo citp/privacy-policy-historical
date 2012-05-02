@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102013738id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2012-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502101739id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
@@ -34,12 +34,12 @@
 	<link rel="stylesheet" href="/static/css/960/reset.css" type="text/css">
 	<link rel="stylesheet" href="/static/css/960/text.css" type="text/css">
 	<link rel="stylesheet" href="/static/css/960/960.css" type="text/css">
-	<link rel="stylesheet" href="/static/css/style.css?20111030_0000" type="text/css">
+	<link rel="stylesheet" href="/static/css/style.css?20120120_0000" type="text/css">
 	
 	
 	<!-- Javascripts -->
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js" type="text/javascript"></script>
 	
 	<link rel="stylesheet" href="/static/jquery/android/jquery-ui-1.8.6.custom.css" type="text/css">
@@ -51,8 +51,9 @@
 		});
 	</script>
 	
-	
 	<script src="/static/jquery/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
+	<script src="/static/jquery/jquery.sharrre-1.2.0.min.js" type="text/javascript"></script>
+	
 	
 	
 	
@@ -82,7 +83,7 @@
 	
 	
 	
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
 
@@ -90,30 +91,42 @@
 	
 
 <!-- Facebook -->
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"></div>
 <script>
 	window.fbAsyncInit = function() {
-		FB.init({appId: '128710807156604', status: true, cookie: true, xfbml: true});
-		FB.Event.subscribe('auth.sessionChange', function(response) {
-			if (response.session) {
+		FB.init({appId: '128710807156604', status: false, cookie: true, xfbml: true, oauth: true});
+		
+		var loggedIn = false;
+		
+		function loginUpdate(response) {
+			//alert('1) ' + response.authResponse + ' 2) ' + loggedIn + ' 3) ' + response.status);
+			if (response.authResponse && loggedIn == false && response.status == 'connected') {
 				
 				// A user has logged in, and a new cookie has been saved
-				window.location.href = '/fb/post_login';
+				window.location.href = '/fb/post_login' + '?next=/privacy';
 				
 			} else {
 				
 				// The user has logged out, and the cookie has been cleared
-				window.location.reload();
+				//window.location.reload();
 				
 			}
-		});
+		}
+		
+		// this enables logging out of the site without having to logout of facebook
+		if( loggedIn ) {
+			FB.getLoginStatus(loginUpdate);
+		} else {
+			FB.Event.subscribe('auth.statusChange', loginUpdate);
+		}
 	};
-	(function() {
-		var e = document.createElement('script');
-		e.async = true;
-		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-		document.getElementById('fb-root').appendChild(e);
-	}());
+	
+	(function(d){
+		var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		js = d.createElement('script'); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		d.getElementsByTagName('head')[0].appendChild(js);
+	}(document));
 </script>
 
 
@@ -123,8 +136,10 @@
 	
 	
 	
+	
+	
 	<div id="header">
-	<div class="container_12">
+	<div class="container_12 panel">
 		
 		
 		<div class="grid_6">
@@ -136,13 +151,15 @@
 				</div>
 				<div style="float: left; padding-top: 10px;">
 					<a href="/" style="text-decoration: none;">
-					<span style="color: #555555; font-size: 150%; font-weight: bold;">Swappa (Android)</span><sup style="color: #555555; font-size: 50%;">TM</sup>
+					<span style="color: #555555; font-size: 200%; font-weight: bold;">Swappa</span><sup style="color: #555555; font-size: 50%;">TM</sup>
 					</a>
 					<a href="http://twitter.com/swappa" target="_blank"><img src="/static/icons/twitter_32.png" width="24" height="24" alt="Swappa on Twitter" border="0"></a>
 					<br>
+					<div style="padding-top: 1px;">
 					<a href="/" style="text-decoration: none;">
 					<span style="color: #a4ca39; font-size: 125%; font-weight: bold;">Buy and sell gently used Android devices</span>
 					</a>
+					</div>
 				</div>
 				<div style="clear: both;"></div>
 			</div>
@@ -150,25 +167,20 @@
 		
 		<div class="grid_4">
 			<div id="login_block" style="margin-top: 12px; text-align: right;">
-				
-	<div>
-		
-			<div style="width: 50px; height: 50px; float: right; margin: 0px 0px 0px 10px;">
-				<a href="/login"><img src="/static/icons/no_profile_50.png" width="50" height="50" alt="Profile" border="0"></a>
-			</div>
-			<div style="float: right;">
-				<div>
-					<fb:login-button v="2" perms="email,user_location,offline_access" autologoutlink="true">Login with Facebook</fb:login-button>
+			
+				<div style="width: 50px; height: 50px; float: right; margin: 0px 0px 0px 10px;">
+					<a href="/login"><img src="/static/icons/no_profile_50.png" width="50" height="50" alt="Profile" border="0"></a>
 				</div>
-				<div style="font-size: 100%; margin-top: 5px;">
-					<a href="/login">Or login with OpenID</a>
-					<a href="/login"><img src="/static/icons/openid_16.png" width="16" height="16" alt="OpenID" border="0"></a>
+				<div style="float: right;">
+					<div>
+						<fb:login-button v="2" scope="email,user_location,offline_access" autologoutlink="true">Login with Facebook</fb:login-button>
+					</div>
+					<div style="font-size: 100%; margin-top: 5px;">
+						<a href="/login">Or login with OpenID</a>
+						<a href="/login"><img src="/static/icons/openid_16.png" width="16" height="16" alt="OpenID" border="0"></a>
+					</div>
 				</div>
-			</div>
-		
-		<div style="clear: both;"></div>
-	</div>
-	
+			
 			</div>
 		</div>
 		
@@ -195,22 +207,16 @@
 		
 <script>
 $(document).ready(function () {
-	$('#search_button').button({
-		/*
-		icons: {
-			primary: "ui-icon-search",
-		}
-		*/
-	});
+	$('#search_button').button({});
 	
 	$('#dev_menu li').hover(
 		function () {
 			// show submenu
-			$('ul', this).slideDown(100);
+			$('.megamenu', this).slideDown(100);
 		}, 
 		function () {
 			// hide submenu
-			$('ul', this).slideUp(100);
+			$('.megamenu', this).slideUp(100);
 		}
 	);
 	
@@ -222,166 +228,203 @@ $(document).ready(function () {
 <div id="dev_menu_bar">
 	
 	<ul id="dev_menu">
+		<li class="no_subs">
+			<a href="/buy" title="Buy on Swappa">How to Buy</a>
+		</li>
+		<li class="no_subs">
+			<a href="/sell" title="Sell on Swappa">How to Sell</a>
+		</li>
 		<li>
-			Find Devices:
+			Devices:
 		</li>
 		<li id="dev_menu_top" class="no_subs">
-			<a href="/devices/top">Top (15)</a>
+			<a href="/devices/top">Top (16)</a>
 		</li>
 		<li id="dev_menu_all" class="no_subs">
-			<a href="/devices/all">All (152)</a>
+			<a href="/devices/all">All (233)</a>
 		</li>
 		<li class="has_subs">
-			Features
-			<ul>
-				<li id="dev_menu_tablet">
-					<a href="/devices/tablet">Tablets</a>
-				</li>
-				<li id="dev_menu_gsm">
-					<a href="/devices/gsm">GSM</a>
-				</li>
-				<li id="dev_menu_cdma">
-					<a href="/devices/cdma">CDMA</a>
-				</li>
-				<li id="dev_menu_4g">
-					<a href="/devices/4g">4G</a>
-				</li>
-				<li id="dev_menu_keyboard">
-					<a href="/devices/keyboard">Keyboard</a>
-				</li>
-			</ul>
-		</li>
-		<li class="has_subs">
-			Providers
-			<ul>
-			
-				<li id="dev_menu_att">
-					<nobr><a href="/devices/att">AT&amp;T (14)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_bell-canada">
-					<nobr><a href="/devices/bell-canada">Bell (Canada) (4)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_boost">
-					<nobr><a href="/devices/boost">Boost (2)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_cricket">
-					<nobr><a href="/devices/cricket">CricKet (3)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_google">
-					<nobr><a href="/devices/google">Google (7)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_metro-pcs">
-					<nobr><a href="/devices/metro-pcs">Metro PCS (3)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_rogers">
-					<nobr><a href="/devices/rogers">Rogers (6)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_sprint">
-					<nobr><a href="/devices/sprint">Sprint (17)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_t-mobile">
-					<nobr><a href="/devices/t-mobile">T-Mobile (27)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_telus">
-					<nobr><a href="/devices/telus">Telus (5)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_unlocked">
-					<nobr><a href="/devices/unlocked">Unlocked (6)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_us-cellular">
-					<nobr><a href="/devices/us-cellular">US Cellular (5)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_verizon">
-					<nobr><a href="/devices/verizon">Verizon (25)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_virgin">
-					<nobr><a href="/devices/virgin">Virgin Mobile (3)</a></nobr>
-				</li>
-			
-			</ul>
-		</li>
-		<li class="has_subs">
-			Manufacturers
-			<ul>
-			
-				<li id="dev_menu_archos">
-					<nobr><a href="/devices/archos">Archos (4)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_asus">
-					<nobr><a href="/devices/asus">Asus (1)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_dell">
-					<nobr><a href="/devices/dell">Dell (2)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_garmin-asus">
-					<nobr><a href="/devices/garmin-asus">Garmin-Asus (1)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_hp">
-					<nobr><a href="/devices/hp">Hewlett-Packard (1)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_htc">
-					<nobr><a href="/devices/htc">HTC (41)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_huawei">
-					<nobr><a href="/devices/huawei">Huawei (1)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_kyocera">
-					<nobr><a href="/devices/kyocera">Kyocera (1)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_lg">
-					<nobr><a href="/devices/lg">LG (13)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_motorola">
-					<nobr><a href="/devices/motorola">Motorola (34)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_samsung">
-					<nobr><a href="/devices/samsung">Samsung (39)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_sanyo">
-					<nobr><a href="/devices/sanyo">Sanyo (2)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_sony-ericsson">
-					<nobr><a href="/devices/sony-ericsson">Sony-Ericsson (5)</a></nobr>
-				</li>
-			
-				<li id="dev_menu_toshiba">
-					<nobr><a href="/devices/toshiba">Toshiba (1)</a></nobr>
-				</li>
-			
-			</ul>
+			More Devices
+			<div class="megamenu">
+				<div class="column">
+					<span class="header">Features</span>
+					<ul>
+						<li id="dev_menu_tablet">
+							<a href="/devices/tablet">Tablets</a>
+						</li>
+						<li id="dev_menu_gsm">
+							<a href="/devices/gsm">GSM</a>
+						</li>
+						<li id="dev_menu_cdma">
+							<a href="/devices/cdma">CDMA</a>
+						</li>
+						<li id="dev_menu_4g">
+							<a href="/devices/4g">4G</a>
+						</li>
+						<li id="dev_menu_keyboard">
+							<a href="/devices/keyboard">Keyboard</a>
+						</li>
+					</ul>
+					<div style="clear: both;"></div>
+				</div>
+				<div class="column" style="border-left: 1px solid #cccccc;">
+					<span class="header">Providers</span>
+					<ul>
+					
+						<li id="dev_menu_amazon">
+							<nobr><a href="/devices/amazon">Amazon (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_att">
+							<nobr><a href="/devices/att">AT&amp;T (31)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_bell-canada">
+							<nobr><a href="/devices/bell-canada">Bell (Canada) (5)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_boost">
+							<nobr><a href="/devices/boost">Boost (2)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_cricket">
+							<nobr><a href="/devices/cricket">CricKet (9)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_google">
+							<nobr><a href="/devices/google">Google (8)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_metro-pcs">
+							<nobr><a href="/devices/metro-pcs">Metro PCS (4)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_rogers">
+							<nobr><a href="/devices/rogers">Rogers (6)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_sprint">
+							<nobr><a href="/devices/sprint">Sprint (23)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_t-mobile">
+							<nobr><a href="/devices/t-mobile">T-Mobile (33)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_telus">
+							<nobr><a href="/devices/telus">Telus (6)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_unlocked">
+							<nobr><a href="/devices/unlocked">Unlocked (17)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_us-cellular">
+							<nobr><a href="/devices/us-cellular">US Cellular (5)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_verizon">
+							<nobr><a href="/devices/verizon">Verizon (43)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_virgin">
+							<nobr><a href="/devices/virgin">Virgin Mobile (3)</a></nobr>
+						</li>
+					
+					</ul>
+					<div style="clear: both;"></div>
+				</div>
+				<div class="column" style="border-left: 1px solid #cccccc;">
+					<span class="header">Manufacturers</span>
+					<ul>
+					
+						<li id="dev_menu_amazon">
+							<nobr><a href="/devices/amazon">Amazon (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_apple">
+							<nobr><a href="/devices/apple">Apple ()</a></nobr>
+						</li>
+					
+						<li id="dev_menu_archos">
+							<nobr><a href="/devices/archos">Archos (4)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_asus">
+							<nobr><a href="/devices/asus">Asus (3)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_dell">
+							<nobr><a href="/devices/dell">Dell (2)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_garmin-asus">
+							<nobr><a href="/devices/garmin-asus">Garmin-Asus (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_hp">
+							<nobr><a href="/devices/hp">Hewlett-Packard (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_htc">
+							<nobr><a href="/devices/htc">HTC (58)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_huawei">
+							<nobr><a href="/devices/huawei">Huawei (5)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_kyocera">
+							<nobr><a href="/devices/kyocera">Kyocera (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_lg">
+							<nobr><a href="/devices/lg">LG (19)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_motorola">
+							<nobr><a href="/devices/motorola">Motorola (45)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_pantech">
+							<nobr><a href="/devices/pantech">Pantech (4)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_samsung">
+							<nobr><a href="/devices/samsung">Samsung (62)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_sanyo">
+							<nobr><a href="/devices/sanyo">Sanyo (2)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_sony">
+							<nobr><a href="/devices/sony">Sony (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_sony-ericsson">
+							<nobr><a href="/devices/sony-ericsson">Sony-Ericsson (10)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_toshiba">
+							<nobr><a href="/devices/toshiba">Toshiba (1)</a></nobr>
+						</li>
+					
+						<li id="dev_menu_zte">
+							<nobr><a href="/devices/zte">ZTE (2)</a></nobr>
+						</li>
+					
+					</ul>
+					<div style="clear: both;"></div>
+				</div>
+			</div>
 		</li>
 	</ul>
 	
 	<!-- Search -->
 	<div id="search_bar_box" align="right" style="font-size: 90%;">
-		<form action="/search" method="get">
+		<form action="/search" method="get" style="margin: 0px; padding: 0px;">
 			<input type="text" name="q" id="id_q" style="width: 200px;">
-			
 			<span class="buttons" style="font-size: 90%;">
 				<button id="search_button" class="ui-priority-primary">Search</button>
 			</span>
@@ -398,22 +441,8 @@ $(document).ready(function () {
 	<div class="clear"></div>
 	
 	
-	<!--
 	
-	<div class="container_12">
-		<div class="grid_12">
-			<div id="mainbar">
-				<div class="middle">
-					
-	Our Privacy Policy details how we handle your personal information.
-
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="clear"></div>
 	
-	-->
 	
 	
 	<div class="container_12">
@@ -434,7 +463,7 @@ $(document).ready(function () {
 		
 		<div class="container_12">
 			
-			<div class="grid_8" style="min-height: 200px;">
+			<div class="grid_8 panel" style="min-height: 200px;">
 				
 				<a id="searchable"></a>
 				
@@ -510,7 +539,7 @@ $(document).ready(function () {
 	
 	<h3>How to Contact Us</h3>
 	<p>
-		Should you have other questions or concerns about these privacy policies, please call us at <nobr>+1 (816) 237-0733</nobr> or send us an e-mail at 
+		Should you have other questions or concerns about these privacy policies, please call us at <nobr>+1 860-4-SWAPPA</nobr> <nobr>(860-479-2772)</nobr> or send us an e-mail at 
 		<a href="mailto:help@swappa.com">help@swappa.com</a>.
 	</p>
 	
@@ -520,7 +549,7 @@ $(document).ready(function () {
 				<div style="clear: both;"></div>
 			</div>
 			
-			<div class="grid_4">
+			<div class="grid_4 panel">
 				
 				
 					
@@ -606,7 +635,7 @@ $(document).ready(function () {
 	<h4>Phone</h4>
 	<ul>
 		<li>
-			Call: +1 (816) 237-0733 <br>
+			Call: +1 860-4-SWAPPA (860-479-2772) <br>
 			You can leave a message and we'll return your call as soon as we can.
 		</li>
 	</ul>
@@ -689,7 +718,7 @@ $(document).ready(function () {
 				<div class="cell">
 					<div class="body">
 						<p>
-							Copyright © 2010 - 2011
+							Copyright © 2010 - 2012
 							<nobr>Redbird Software Corp.</nobr>
 						</p>
 						<p>
