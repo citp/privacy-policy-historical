@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qhub.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007114308id_/http%3A//qhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qhub.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502232807id_/http%3A//qhub.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Qhub.com
+# Website Privacy Statement
 
 Qhub.com is a company that is part of Mindcom Internet Ltd. We are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided by [website privacy policy provider LegalCentre.co.uk](http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php). 
 
@@ -8,7 +8,7 @@ This Privacy Policy, together with Qhub’s Terms of Use, provides an explanatio
 
 We do update this Policy from time to time so please do review this Policy regularly. 
 
-### Information We Collect
+## Information We Collect
 
 In operating our website we may collect and process the following data about you: 
 
@@ -18,7 +18,7 @@ In operating our website we may collect and process the following data about you
 
 
 
-### Use of Cookies
+## Use of Cookies
 
 On occasion, Qhub may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers (Google AdSense). 
 
@@ -30,7 +30,7 @@ All computers have the ability to decline cookies. This can be done by activatin
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website. 
 
-### Use of Your Information
+## Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes: 
 
@@ -46,13 +46,13 @@ If you are a new member, we will only contact you or allow third parties to cont
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
 
-### Storing Your Personal Data
+## Storing Your Personal Data
 
 Qhub will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy. 
 
 Data that is provided to us is stored on our secure servers. The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential. 
 
-### Disclosing Your Information
+## Disclosing Your Information
 
 Where applicable, we may disclose your personal information to other companies operated by Mindcom Internet Limited. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any). 
 
@@ -64,14 +64,14 @@ We may also disclose your personal information to third parties:
 
 
 
-### Third Party Links
+## Third Party Links
 
 You might find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
 
-### Access To Information
+## Access To Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below. 
 
-### Contacting Us
+## Contacting Us
 
-Qhub welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@qhub.com](mailto:info@qhub.com), Qhub.com, Seymour House, 30-34 Muspole Street, Norwich, NR3 1DJ. 
+Qhub welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@qhub.com](mailto:info@qhub.com). 
