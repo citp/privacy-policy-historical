@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102210453id_/http%3A//www.pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502092841id_/http%3A//www.pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
 
 # Pristine Auction
 
@@ -66,9 +66,9 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.pristineauction.com/default/index/pages/name/policies](https://web.archive.org/web/20111102210453id_/http%3A//www.pristineauction.com/default/index/pages/name/policies)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.pristineauction.com/default/index/pages/name/policies>
 
- **Your Consent**
+**Your Consent**
 
 By using our site, you consent to our online privacy policy.
 
@@ -83,8 +83,9 @@ This policy was last modified on 11/01/09
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.pristineauction.com/  
-5350 W. Bell RD STE C-122 PMB #214  
-Glendale, AZ 85308  
+2320 W Peoria Ave  
+Suite A101  
+Phoenix, AZ 85029  
 USA  
 sales@pristineauction.com  
 602-626-5218
