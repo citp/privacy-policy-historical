@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228035618id_/http%3A//www.oifc.in/Article/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oifc.in privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502123352id_/http%3A//www.oifc.in/Article/Privacy-Policy) for the most accurate reproduction.*
 
 # OIFC : Privacy Policy
 
@@ -35,4 +35,4 @@ If you have any questions or comments about this policy, our services, or your e
 
 OIFC is a not for profit public private initiative between the Ministry of Overseas Indian Affairs (MOIA) and the Confederation of Indian Industry (CII) aiming at expanding the economic engagement of the Indian diaspora with India.
 
-© 2009-2011 OIFC. All Rights Reserved.
+© 2009-2012 OIFC. All Rights Reserved.
