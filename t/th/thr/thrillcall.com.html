@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thrillcall.com privacy policy that was archived on 2011-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130144641id_/http%3A//thrillcall.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thrillcall.com privacy policy that was archived on 2012-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502124134id_/http%3A//thrillcall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -8,12 +8,12 @@
 <meta content="snq18fwhAwhS0WFhzATOHiNxTYo" name="alexaVerifyID">
 
 <title>Find concerts, tour dates, and concert tickets at Thrillcall</title>
-<link href="http://static2.production.tc-core.com/favicon.ico?1311733933" rel="icon">
+<link href="http://static0.production.tc-core.com/favicon.ico?1323479802" rel="icon">
 <link href="/os.xml" rel="search" title="Thrillcall: Artist Search" type="application/opensearchdescription+xml">
 <script src="http://code.jquery.com/jquery-1.7.min.js" type="text/javascript"></script>
-<link href="http://static1.production.tc-core.com/stylesheets/allStyle.css?282" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static0.production.tc-core.com/stylesheets/allStyle.css?298" media="screen" rel="stylesheet" type="text/css">
 <script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js" type="text/javascript"></script>
-<script src="http://static2.production.tc-core.com/javascripts/min/thrillcall_min.js?283" type="text/javascript"></script>
+<script src="http://static2.production.tc-core.com/javascripts/min/thrillcall_min.js?299" type="text/javascript"></script>
 
 
 <script>
@@ -49,11 +49,11 @@
 </div>
 <div class="clearfix">
 <ul class="mainNav">
-<li class="logo"><a href="/"><img alt="Thrillcall" src="http://static3.production.tc-core.com/images/blankie.gif?1321664180"></a></li>
-<li><a href="/live-music" class="navLocal"><img alt="Local Shows" src="http://static3.production.tc-core.com/images/blankie.gif?1321664180" title="Local Shows"></a></li>
-<li><a href="/popular" class="navPopular"><img alt="Popular" src="http://static3.production.tc-core.com/images/blankie.gif?1321664180" title="Popular"></a></li>
-<li><a href="/discover" class="navDiscover"><img alt="Discover" src="http://static3.production.tc-core.com/images/blankie.gif?1321664180" title="Discover"></a></li>
-<li><a href="/register" class="navRegister"><img alt="Register" src="http://static3.production.tc-core.com/images/blankie.gif?1321664180" title="Register"></a></li>
+<li class="logo"><a href="/"><img alt="Thrillcall" src="http://static3.production.tc-core.com/images/blankie.gif?1335324793"></a></li>
+<li><a href="/live-music" class="navLocal"><img alt="Local Shows" src="http://static3.production.tc-core.com/images/blankie.gif?1335324793" title="Local Shows"></a></li>
+<li><a href="/popular" class="navPopular"><img alt="Popular" src="http://static3.production.tc-core.com/images/blankie.gif?1335324793" title="Popular"></a></li>
+<li><a href="/discover" class="navDiscover"><img alt="Discover" src="http://static3.production.tc-core.com/images/blankie.gif?1335324793" title="Discover"></a></li>
+<li><a href="/register" class="navRegister"><img alt="Register" src="http://static3.production.tc-core.com/images/blankie.gif?1335324793" title="Register"></a></li>
 </ul>
 <div class="searchAndLogin">
 <div class="welcomeText" id="welcomeMessageHeader">
@@ -186,13 +186,14 @@ info@thrillcall.com
 </div>
 <div id="footer">
 <span class="logo">
-<img alt="Thrillcall&amp;nbsp;&amp;copy;&amp;nbsp;2008&amp;ndash;2011" height="13" src="http://static2.production.tc-core.com/images/miniLogo.gif?1321664180" width="95">
+<img alt="Thrillcall&amp;nbsp;&amp;copy;&amp;nbsp;2008&amp;ndash;2012" height="13" src="http://static0.production.tc-core.com/images/miniLogo.gif?1335324793" width="95">
 <p>
-&nbsp;©&nbsp;2008–2011
+&nbsp;©&nbsp;2008–2012
 </p>
 </span>
 <ul class="footerMainLinks">
 <li><a href="/">Main</a></li>
+<li><a href="http://getapp.thrillcall.com">Thrillcall App</a></li>
 <li><a href="/terms">Terms</a></li>
 <li><a href="/privacy">Privacy</a></li>
 <li><a href="/jobs">Jobs</a></li>
@@ -321,37 +322,40 @@ info@thrillcall.com
         this.focus();
       });
     });
-    window.fbAsyncInit = function() {
-      FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true});
     
-      FB.getLoginStatus(function(response) {
-        if (response.session) {
-          if (true) {
-            new Ajax.Request('/ajax/omniauth_connected',{
-              method: 'GET',
-              parameters: {
-                uid: response.session.uid,
-                provider: "facebook",
-                token: response.session.access_token
-              },
-              onSuccess: function(response) {
-                var resp = response.responseText;
+    if(true){
+      window.fbAsyncInit = function() {
+        FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oath:true});
     
-                if (resp) {
-                  var user = resp.evalJSON().person;
-                  var zip = resp.evalJSON().zip;
-                  FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true});
-                  welcomeWidget.login(user.evalJSON());
-                  if ($("indexSignupContainer")) {
-                    $("indexSignupContainer").toggle();
-                  } // if indexsignup
-                } // if resp
-              } // onSuccess
-            }); // Ajax.Request
-          } // if current person
-        } // if response.session
-      }); //getLoginStatus
-    }; // fbAsyncInit
+        FB.getLoginStatus(function(response) {
+          if (response.authResponse) {
+            if (true) {
+              new Ajax.Request('/ajax/omniauth_connected',{
+                method: 'GET',
+                parameters: {
+                  uid: response.authResponse.userID,
+                  provider: "facebook",
+                  token: response.authResponse.accessToken
+                },
+                onSuccess: function(response) {
+                  var resp = response.responseText;
+    
+                  if (resp) {
+                    var user = resp.evalJSON().person;
+                    var zip = resp.evalJSON().zip;
+                    FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth: true});
+                    welcomeWidget.login(user.evalJSON());
+                    if ($("indexSignupContainer")) {
+                      $("indexSignupContainer").toggle();
+                    } // if indexsignup
+                  } // if resp
+                } // onSuccess
+              }); // Ajax.Request
+            } // if current person
+          } // if response.authResponse
+        }); //getLoginStatus
+      }; // fbAsyncInit
+    }
     (function() {
       var e = document.createElement('script'); e.async = true;
       e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
@@ -359,22 +363,22 @@ info@thrillcall.com
     }());
     
     function facebookConnect() {
-      FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true});
+      FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth:true});
       FB.login(function(response) {
         if (response.status == 'connected') {
           window.location.href = '/auth/facebook';
         }
-      }, {perms:'email, user_likes, offline_access'});
+      }, {scope:'email, user_likes, offline_access'});
     }
     
     if (window.opener && !window.opener.closed) {
       closeAuthWindow();
-      this.reloadWindow = window.opener.location.reload();
     }
     
     function closeAuthWindow(){
-      if (window.name == "googleLoginWindow" || window.name == "yahooLoginWindow" || window.name == "twitterLoginWindow") {
+      if (window.name == "googleLoginWindow" || window.name == "yahooLoginWindow") {
         window.close();
+        this.reloadWindow = window.opener.location.reload();
       }
     }
     
@@ -383,9 +387,6 @@ info@thrillcall.com
     }
     function yahooLogin(){
       yahooLoginWindow = window.open('/auth/yahoo','yahooLoginWindow','width=540,height=480,scrollbars=yes,status=yes');
-    }
-    function twitterLogin(){
-       twitterLoginWindow = window.open('/auth/twitter','twitterLoginWindow','width=480,height=480,scrollbars=yes,status=yes');
     }
     var personData = null;
     
@@ -401,12 +402,12 @@ info@thrillcall.com
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js";
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrf2","beacon-1.newrelic.com","4fc34ed234",13937,"cA0IR0VeXglUQhgKXF4HSUNFWEQEUkk=",0,1031,new Date().getTime()])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","4fc34ed234",13937,"cA0IR0VeXglUQhgKXF4HSUNFWEQEUkk=",0,24,new Date().getTime(),"","","","",""])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js"></script></body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/31/eum/rum-staging.js"></script></body></html>
