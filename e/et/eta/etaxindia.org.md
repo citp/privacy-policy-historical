@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025516id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502110458id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,16 +32,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Related posts:
 
-  1. [Copyright Policy and Fair Use Guide](http://www.etaxindia.org/2008/11/copyright-policy-and-fair-use-guide.html "Permanent Link: Copyright Policy and Fair Use Guide")
-  2. [Disclaimer](http://www.etaxindia.org/2008/11/disclaimer.html "Permanent Link: Disclaimer")
-  3. [Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum](http://www.etaxindia.org/2009/03/chandigarh-excise-policy-2009-2010.html "Permanent Link: Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum")
-  4. [Download Budget 2010 Files](http://www.etaxindia.org/2010/03/download-budget-2010-files.html "Permanent Link: Download Budget 2010 Files")
-  5. [Advertise on Tax India](http://www.etaxindia.org/2008/11/advertise-on-tax-india.html "Permanent Link: Advertise on Tax India")
+  1. [Copyright Policy and Fair Use Guide](http://www.etaxindia.org/2008/11/copyright-policy-and-fair-use-guide.html "Copyright Policy and Fair Use Guide")
+  2. [Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum](http://www.etaxindia.org/2009/03/chandigarh-excise-policy-2009-2010.html "Chandigarh Excise Policy 2009-2010 Enhances VAT on Liquor to Maximum")
+  3. [Tax Evaders Beware, TPIS is Coming](http://www.etaxindia.org/2009/11/tax-evaders-beware-tpis-is-coming.html "Tax Evaders Beware, TPIS is Coming")
 
 
-
-**
-
-Sponsored Links
-
-**
