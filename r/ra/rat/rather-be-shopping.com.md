@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213120509id_/http%3A//www.rather-be-shopping.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502103225id_/http%3A//www.rather-be-shopping.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
