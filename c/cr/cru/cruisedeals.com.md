@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201045956id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502063702id_/http%3A//www.cruisedeals.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# Cruise Deals, Cruise Deal from CruiseDeals.com
-
-Rates and availability are subject to change without prior notice and may not be available for desired dates of travel. Prices are not guaranteed until the deposit or full payment has been made on your booking and you have received a confirmation number from CruiseDeals.com. In the event of pricing discrepancies we can only honor prevailing cruise line rates. Prices listed are per person, and are based on double occupancy. Government fees and taxes are additional for all guests. 
-
-**IMPORTANT NOTICE:** Fuel supplements are additional and may be applicable to all sailings. The fuel supplement is additional revenue to the cruise lines. Offers are based on availability, capacity controlled, not combinable with other offers, subject to change or cancellation without notice, and may be withdrawn at any time. Other restrictions apply. CruiseDeals.com is not responsible for typographical errors or omissions. 
-
-Additional restrictions from various suppliers may apply. Cruise lines require that guests under the age of 21 years must stay in the same stateroom and be accompanied by a parent, relative, or guardian 25 years or older. Some cruise lines age restrictions may vary. CruiseDeals.com is not responsible for unforeseen, last-minute cancellations or itinerary changes made by individual suppliers; technical, hardware, software, or telephone failures of any kind; lost or unavailable Internet connections; or failed, incomplete, garbled, or delayed computer transmissions that may limit a participant's ability to take part in this special offer. Space on the ship can and will sell out, so book early to avoid disappointment. Contact a CruiseDeals.com agent for complete terms and conditions.
+# CruiseDeals.com | Find the Best Discount and Last Minute Cruise Deals
 
 ### Privacy Policy for CruiseDeals.com
 
