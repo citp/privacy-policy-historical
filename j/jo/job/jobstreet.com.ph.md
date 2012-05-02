@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012035512id_/http%3A//www.jobstreet.com.ph/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.ph privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502180710id_/http%3A//www.jobstreet.com.ph/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Privacy Policy
 
@@ -35,7 +35,7 @@ Please keep in mind that when you apply for jobs advertised on **JobStreet.com**
 **_Use of your Personal Information_**  
 **JobStreet.com** does not sell, rent or share your personal information with other people or non-affiliated third parties except to provide you with the products or services you have requested or under these circumstances: 
 
-  * When you apply to jobs through our services, your resume data in your MyJobStreet account and any other information that you disclosed during your job applications will be made available to the companies you are applying to. 
+  * When you apply to jobs through our services, your resume data in your MyJobStreet account and any other information that you disclosed during your job applications will be made available to the companies you are applying to. Companies will contact you directly or through JobStreet's system if they are interested in you for their jobs. The communication channel can be via email, telephone, SMS, and any other channels you had provided in your resume. 
   * We encourage you to evaluate interview requests carefully and only confirm those you want to attend. Employers have the right to access any record of no-show or late cancellations to confirmed interview appointments. 
   * Besides that, you may also opt for making your resume searchable by companies who use the **JobStreet.com** "Searchable Resume Database" to recruit. The companies may retain a copy of your resume in their own files or databases. Though we endeavor to ensure that the companies comply with the relevant privacy laws, **JobStreet.com** is not responsible for the retention, use or privacy of resumes by them or by any third party that could be related to or associated with these companies. You may opt for "Not Searchable" under your resume privacy setting to retain the full privacy of your resume and personal data. 
   * **JobStreet.com** works with business partners to provide some services. We provide the information only to trusted business partners who work with us or on our behalf under confidentiality agreements. Our business partners may use your personal information to help us communicate with you about offers from them or **JobStreet.com**. However, our business partners do not have any independent right to share this information; 
@@ -87,7 +87,7 @@ If you choose to add references to your resume, **JobStreet.com** will ask you f
 When you subscribe to a **JobStreet.com** Newsletter, we shall request your email address. **JobStreet.com** uses your email address to send you the newsletter(s) you have requested. You may subscribe and unsubscribe to the newsletters by following the prominent instructions mentioned in each of the newsletters. 
 
 **_Service Providers_**  
-**JobStreet.com** may use third parties to provide 1) payment gateway services for optional services, 2) a profiling/assessment service, 3) serving of online advertisements and 4) web analytics on our website. When you sign up for such services or by using our website, they may collect some information (e.g., credit card numbers, name) as necessary for the third party to provide that service. 
+**JobStreet.com** may use third parties to provide 1) payment gateway services for optional services, 2) a profiling/assessment service, 3) serving of online advertisements, 4) mapping services and 5) web analytics on our website. When you sign up for such services or by using our website, they may collect some information (e.g., credit card numbers, name) as necessary for the third party to provide that service. For 4, we are using Google Maps API whose privacy policy can be found [here](http://www.google.com/privacy.html).
 
 These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
