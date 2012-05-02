@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnkeyinternet.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230022112id_/http%3A//www.turnkeyinternet.net/doc/PrivacyNotice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnkeyinternet.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502164939id_/http%3A//www.turnkeyinternet.net/doc/PrivacyNotice.php) for the most accurate reproduction.*
 
 # TurnKey Internet Privacy Policy
 
