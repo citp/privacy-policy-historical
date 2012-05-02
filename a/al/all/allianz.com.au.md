@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104054439id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080555id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 Protecting your privacy and the confidentiality of your personal information is important to us, as it is fundamental to the way we conduct business.
 
-Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. 75 million customers in more than 70 countries trust their information to the worldwide Allianz Group.
+Allianz is sensitive to privacy issues and treats very seriously the ongoing trust our customers have placed in us. 76 million customers in more than 70 countries trust their information to the worldwide Allianz Group.
 
 You can relax knowing that Allianz aspires to Insurance Industry best practice procedures and believe we have robust systems in place for handling and protecting your private information.
 
@@ -87,7 +87,7 @@ Personal information for the purposes specified above may be shared on a confide
 
 ## Direct marketing and your privacy
 
-From time to time we may advise or offer you information on other Allianz products or services that may be relevant and of interest to you. If you do not wish to receive these offers or information, please complete our online "Opt Out" form below or call the Allianz Direct Marketing Privacy Service Line – Freecall 1800 000 284. EST 9am–5pm, Mon-Fri.
+From time to time we may advise or offer you information on other Allianz products or services that may be relevant and of interest to you. If you do not wish to receive these offers or information, please complete our online "Opt Out" form below or call the Allianz Direct Marketing Privacy Service Line – Phone: 1800 000 284. EST 9am–5pm, Mon-Fri.
 
   
 
