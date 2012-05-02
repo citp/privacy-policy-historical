@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102175134id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502071811id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
 
 # We bang, harder! - Adult personals, swingers and sex dating | Bangbook.com
 
