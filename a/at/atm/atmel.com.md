@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224143555id_/http%3A//www2.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmel.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502140647id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.*
 
-# Atmel Corporation - About - Privacy Policy
-
-## Privacy Policy
+# Atmel Corporation - About - Privacy Policy- Atmel Corporation
 
 
 
