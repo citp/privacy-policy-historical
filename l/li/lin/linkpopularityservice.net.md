@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkpopularityservice.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205432id_/http%3A//linkpopularityservice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpopularityservice.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502074109id_/http%3A//linkpopularityservice.net/privacy-policy) for the most accurate reproduction.*
 
-# LINK BUILDING SERVICES – SEO Link Building | Privacy Policy
+# LINK BUILDING SERVICES – SEO Link Building - Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
