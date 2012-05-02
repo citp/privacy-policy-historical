@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnkml.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007212859id_/http%3A//www.lnkml.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnkml.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502103951id_/http%3A//lnkml.com/misc/privacy_v.php) for the most accurate reproduction.*
 
 # Single? Meet and chat with other singles looking for love - Free registration
 
