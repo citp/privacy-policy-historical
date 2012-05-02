@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the sohoos.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124023913id_/http%3A//www.sohoos.com/welcome/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sohoos.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502123704id_/http%3A//www.sohoos.com/welcome/about-us/privacy-policy) for the most accurate reproduction.*
 
 # SohoOS
+
+  *   *  
+  * ##  Privacy Policy
+
+
+
 
 ### SohoOS.com Ltd. Privacy Policy
 
@@ -52,7 +58,7 @@ This Privacy Policy was last updated: September 1st, 2011
 This Privacy Policy is effective as of: September 1st, 2011 
 
   * Read enough?
-  * [Sign Up](https://web.archive.org/welcome/?signup=1&src=Web_AboutUs_Privacy&utm_source=AboutUs_Privacy&utm_medium=ReadEnough&utm_campaign=Website)
+  * [Sign Up](https://www.sohoos.com/welcome/signup)
   * [Or learn more about us](https://web.archive.org/welcome/what-is-sohoos/solution)
 
 
