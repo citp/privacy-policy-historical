@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230084555id_/http%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502122152id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
 
-# Customer Service Software - Online Help Desk - Privacy
+# Customer Service Software - Web Based Help Desk - Email Ticketing Application
+
+#### We are committed to protecting your personal information.
 
 Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website.
 
 ### Information We Collect
 
-This notice applies to all information collected or submitted on the Help Scout website. On some pages, you can order service and/or make requests. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Help Scout website. On some pages, you can create an account, update your account and/or make requests. The types of personal information collected at these pages are:
 
-  * First/Last Name
-  * Company Name
-  * Email Address
-  * Account Password
-  * Credit/Debit Card Information for billing
+  * First/last name
+  * Company name
+  * Email address
+  * Account password
+  * Credit/debit card information for billing
   * Billing postal code for verification
   * Browser information
-  * IP Address
+  * IP address
 
 
 
