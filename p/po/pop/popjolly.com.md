@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popjolly.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102191122id_/http%3A//www.popjolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjolly.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502134211id_/http%3A//www.popjolly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | popjolly.com
+# Privacy Policy
 
 PopJolly is committed to protecting you and your family’s personal information. We want our services to be safe and enjoyable environments for everyone. This page answers some important questions about how we can collect, use and protect your personal details. Elsewhere on the site,
 
@@ -16,8 +16,8 @@ When you use PopJolly online services, we use cookies and collect IP addresses.
 
 **We will use your personal information for a number of purposes including the following:**
 
-To contact you (for example, we might call you if you text in to one of our radio programmes)  
-To provide you with services (eg to send you a newsletter or a news alert, if you have asked for them)  
+To contact you (for example, we might call you if you text in to one of our radio programmes) 
+To provide you with services (eg to send you a newsletter or a news alert, if you have asked for them) 
 To personalise the way PopJolly content is presented to you (eg if you tell us your post code we may use this information to customise your view of PopJolly homepage so that you always see the local weather for your area.)
 
 
