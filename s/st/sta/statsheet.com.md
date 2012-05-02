@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012313id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502035040id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
 
-# College Basketball, NBA, NASCAR, College Football, and NFL Stats, Scores, and Analysis - StatSheet.com
+# StatSheet.com: The ultimate source for College Basketball, College Football, NFL, MLB, and NBA
 
 StatSheet.com, Inc. ("StatSheet.com") recognizes that its customers, visitors, users, and others who use [www.StatSheet.com](http://www.statsheet.com/) or other web sites owned or operated by StatSheet.com (the "StatSheet.com Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the StatSheet.com Sites. StatSheet.com provides this Privacy Policy to help you make an informed decision about whether to use or continue using the StatSheet.com Sites.
 
