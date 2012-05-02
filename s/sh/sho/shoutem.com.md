@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutem.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209132245id_/http%3A//www.shoutem.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutem.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502072533id_/http%3A//www.shoutem.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ShoutEm
 
@@ -50,4 +50,4 @@ Although most changes are likely to be minor, [ShoutEm, Inc.](http://www.shoutem
 
 [ ](http://creativecommons.org/licenses/by-sa/3.0/) Note: This Privacy Policy document is available under a Creative Commons Sharealike license. This document is derived from the original work by [Automattic Inc.](http://automattic.com/), San Francisco, California, authors of the world famous [Wordpress.com](http://wordpress.com/). 
 
-© 2010-2011 ShoutEm, Inc.
+© 2010-2012 ShoutEm, Inc.
