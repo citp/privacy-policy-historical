@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223233359id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502124226id_/http%3A//help.marksandspencer.com/faqs/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -133,7 +133,51 @@ We may transfer personal data that we collect from you to third party data proce
 
 **Cookies**
 
-This Website uses cookies to collect information about you.  Cookies are small data files which are placed on your computer or other device by this Website and which collect certain personal data about you.  This enables us to tailor our service offering (including the Website) to provide you with products and services which are more relevant to your individual tastes.  You may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of this Website. Marks & Spencer has relationships with carefully selected and monitored suppliers to assist in the delivery of a high quality website. Some of these suppliers may also set cookies during your visit in order to meet contractual obligations with Marks & Spencer (Supplier Cookies). Both M&S and Supplier cookies do not store any personal information relating to you or your credit cards. We also use JavaScript to speed up your online shopping experience. For further information about cookies, including how to refuse cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org./).
+**Cookie Policy**
+
+**What are cookies?  
+** This website uses cookies to collect information.  Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse this website.  They are used to ‘remember’ when your computer or device accesses this website.  The cookies are essential to the effective operation of our website and to enable to you shop with us online.  Cookies are also used to tailor the products and services offered and advertised to our customers, both on this website and elsewhere. 
+
+**Information collected  
+** Some cookies collect information about browsing and purchasing behaviour by people who access this website via the same computer or device.  This includes information about pages viewed, products purchased and the customer journey around a website.  We do not, however, use cookies to collect or record information on users’ name, address or other contact details.  M&S is able to use cookies to monitor individual customer browsing and purchasing behaviour but third parties are not able to identify customers using cookies.
+
+ **Who sets the cookies?  
+** The cookies stored on your computer or other device when you access this website are set by M&S, our suppliers who partner with us to help deliver a high quality website and on-line shopping experience, and other third parties.   
+Some cookies are set by or on behalf of M&S and are necessary to enable customers to a make purchases on our website.    
+Cookies may also be set by third parties who participate with us in affiliate marketing programmes.   The most important such third parties are Criteo, Transversal and Rich Relevance who broadcast banner advertisements on behalf of M&S and a number of other reputable companies.  None of these third parties collect any personal data from which they would be able to identify individual customers.
+
+  
+**What are cookies used for?**
+
+The main purposes for which cookies are used are:-
+
+1. For technical purposes essential to effective operation of website, particularly in relation to on-line transactions.
+
+2. To drive M&S marketing, particularly banner advertisements and targeted updates which are explained in more detail elsewhere in the Privacy Policy.
+
+3. To enable M&S to collect information about the browsing and shopping habits and activities of customers, including to monitor the success of campaigns, competitions etc. 
+
+4. To enable M&S meet its contractual obligations to make payments to third parties when a product is purchased by someone who has visited our website from a site operated by those parties.
+
+**How do I disable cookies?  
+** If you want to disable cookies you need to change your website browser settings to reject cookies.  How to do this will depend on the browser you use and we provide further detail below on how to disable cookies for the most popular browsers:-
+
+**For Microsoft Internet Explorer:  
+** 1. Choose the menu “tools” then “Internet Options”  
+2 Click on the “privacy” tab  
+3 Select the setting the appropriate setting
+
+**For Mozilla firefox:  
+** 1. Choose the menu “tools” then “Options”  
+2 Click on the icon “privacy”  
+3 Find the menu “cookie” and select the relevant options
+
+**For Opera 6.0 and further:  
+** 1. Choose the menu Files”> “Preferences”  
+2 Privacy
+
+**What happens if I disable cookies?  
+** This depends on which cookies you disable, but in general the site may not operate properly if cookies are switched off.  If you only disable 3rd party cookies you will not be prevented from making purchases on this site.  If you disable all cookies you will be unable to complete a purchase on this site.
 
 **ADDITIONAL PRIVACY NOTICE - M &S HOME INSULATION AND SOLAR SYSTEM **
 
