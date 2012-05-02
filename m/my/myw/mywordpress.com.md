@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mywordpress.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424041231id_/http%3A//cleverwp.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywordpress.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502031732id_/http%3A//cleverwp.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WordPress Made Easy - CleverWP.com
+# Privacy Policy
 
 **Privacy Policy for cleverwp.com**
 
