@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226211744id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomatocart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502050832id_/http%3A//www.tomatocart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy - TomatoCart
 
