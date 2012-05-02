@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefabricator.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010205id_/http%3A//www.fma-communications.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefabricator.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502123757id_/http%3A//www.fma-communications.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # FMA Communications - Privacy Policy
 
