@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220222850id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502082505id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PoemsLovers.com
 
