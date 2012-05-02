@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbuildingworks.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211015814id_/http%3A//www.linkbuildingworks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbuildingworks.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503002533id_/http%3A//www.linkbuildingworks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy LinkBuildingWorks.com, Effective Link Building Services
 
@@ -22,10 +22,10 @@ All information gathered on our site is stored within a LinkBuildingWorks.com-co
 **Changes to this Privacy Policy**  
 We are continually making changes and improvements to the services we offer through LinkBuildingWorks.com. If we need to change our Privacy Policy at some point in the future, we will post the changes before they take effect. If you have any questions about the LinkBuildingWorks.com Privacy Policy, please contact [support (at) linkbuildingworks.com](mailto:support@linkbuildingworks.com).
 
-[](https://web.archive.org/web/20111211015814id_/http%3A//www.linkbuildingworks.com/pricing.php?type=offer)
+[](https://web.archive.org/web/20120503002533id_/http%3A//www.linkbuildingworks.com/pricing.php?type=offer)
 
 ### Latest from blog
 
-PageRank has always been a matter of discussion with webmasters as it affects the ranking and having a high PR is beneficial for a site. Search engines especially Google give importance to PR and give
+Having a dedicated IP address brings in a range of benefits to the website and business. As a result, the majority always prefers a dedicated IP address to give the edge to the business. When a dedica
 
-[Read More...](http://www.linkbuildingworks.com/blog/?page_id=462)
+[Read More...](http://www.linkbuildingworks.com/blog/?page_id=804)
