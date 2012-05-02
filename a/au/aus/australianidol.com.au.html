@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the australianidol.com.au privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231212951id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the australianidol.com.au privacy policy that was archived on 2012-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502023019id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 246 - published by Open Text Web Solutions 9 - 9.0.1.84 - 29918 -->
      
@@ -24,8 +24,8 @@
         <meta name="DC.Subject" content="Privacy Policy">
         <meta name="DC.Creator" content="Network TEN"> 
         <meta name="DC.Date.created" scheme="ISO8601" content="Tuesday, 11 December 2007 3:11 PM"> 
-        <meta name="DC.Date.modified" scheme="ISO8601" content="Saturday, 31 December 2011 12:05 AM">
-        <meta name="DC.Date.issued" content="Saturday, 31 December 2011 12:05 AM">
+        <meta name="DC.Date.modified" scheme="ISO8601" content="Monday, 30 April 2012 12:07 AM">
+        <meta name="DC.Date.issued" content="Monday, 30 April 2012 12:07 AM">
         <meta name="DC.Keywords" content="Privacy Policy">
         <meta name="DC.Description" content="Privacy Policy">
         <meta name="DC.Title" content="Privacy Policy"> 
@@ -38,7 +38,9 @@
     
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="/global.css" media="all">
-        <link rel="stylesheet" type="text/css" href="/ten.css" media="all">
+        <!-- link rel="stylesheet" type="text/css" href="/ten.css" media="all" / -->
+        <link rel="stylesheet" type="text/css" href="http://ten.com.au/styles/ten2012.css" media="all">
+
         <link rel="stylesheet" type="text/css" href="http://ten.com.au/gallery.css" media="all">
         <link rel="stylesheet" type="text/css" href="http://ten.com.au/pagination.css" media="all">
         
@@ -70,7 +72,7 @@
              
                 <script type="text/javascript" src="/ten.video-settings.js"></script>
                 <script type="text/javascript" src="/jquery.mousewheel.js"></script>
-                <script type="text/javascript" src="http://code.ten.com.au/video/js/ten.video.common.2.6.js"></script>
+                <script type="text/javascript" src="http://code.ten.com.au/video/js/ten.video.common.2.6.iPad.js"></script>
                 <!-- Internal --> 
                 <script type="text/javascript" src="/jquery-jcarousel.js"></script>
 
@@ -344,6 +346,21 @@
                         //show its submenu
                         $(this).addClass("open");
                         $('#dropdown-tv', this).show();
+        
+                    //TV Shows leaderboard ad
+                        RNcc = new String(Math.random());
+                        RNScc = RNcc.substring(2, 11);
+                        var dropdown_ad = "Privacy Policy";
+                        var dropdown_ad = dropdown_ad.replace(/ /g, '');
+                        dropdown_ad = dropdown_ad.toLowerCase();
+                        //Generate top call to ad serving 
+                        //req_ad_url_lead = "http://oascentral.ten.com.au/RealMedia/ads/adstream_sx.ads/" + sitepage + "/" + dropdown_ad + "/" + RNScc + "@Top!Top?";
+                        req_ad_url_lead = "http://oascentral.ten.com.au/RealMedia/ads/adstream_sx.ads/TEN/tvshows/dropdown/" + RNScc + "@Top!Top?";  
+                        // Clear out the leaderboard ad unit
+                            $("#dropdown-tv .ad-leaderboard").empty();
+                            //Append iframe to dropdown and attach src 
+                            $("#dropdown-tv .ad-leaderboard").append('<iframe id="commentiframedd" height="90" width="728" scrolling="no" vspace="0" hspace="0" frameborder="0" marginwidth="0" marginheight="0" />');
+                            $('#commentiframedd').attr('src', req_ad_url_lead);
                    },
                    function () {
                         $(this).removeClass("open");
@@ -373,19 +390,6 @@
                     if (visible) {
                         $('#dropdown-tv').show();
                     }
-                    //TV Shows ad
-                    RNcc = new String(Math.random());
-                    RNScc = RNcc.substring(2, 11);
-                    var dropdown_ad = "Privacy Policy";
-                    var dropdown_ad = dropdown_ad.replace(/ /g, '');
-                    dropdown_ad = dropdown_ad.toLowerCase();
-                    //Generate top call to ad serving 
-                    req_ad_url_lead = "http://oascentral.ten.com.au/RealMedia/ads/adstream_sx.ads/" + sitepage + "/" + dropdown_ad + "/" + RNScc + "@Top!Top?";
-                    // Clear out the leaderboard ad unit 
-                    $("#dropdown-tv .ad-leaderboard").empty();
-                    //Append iframe to dropdown and attach src 
-                    $("#dropdown-tv .ad-leaderboard").append('<iframe id="commentiframedd" height="90" width="728" scrolling="no" vspace="0" hspace="0" frameborder="0" marginwidth="0" marginheight="0" />');
-                    $('#commentiframedd').attr('src', req_ad_url_lead);
                 }
             });
             $.ajax({
@@ -442,39 +446,11 @@
     <h2>Privacy Policy</h2>
     <br>
     <div class="text">
-            <p><strong>Our Commitment to you </strong>
-</p><p>At Network Ten we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy .</p>
-<p>At Network Ten we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network Ten. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.</p>
-<p><strong>What personal Information does Network Ten collect? </strong></p>
-<p>The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:</p>
-<p>•&nbsp;when you complete any application forms <br>•&nbsp;through telephone calls <br>•&nbsp;visits to our Web Sites (including via any of our i-apps)<br>•&nbsp;letters and other material sent by you to Network Ten <br>•&nbsp;material submitted in competitions <br>•&nbsp;feedback, comments or suggestions on programs and other activities of Network Ten <br>•&nbsp;through Buyten Web Site<br>•&nbsp;as a customer or client of Network Ten <br>•&nbsp;when you provide a service or products to Network Ten <br>•&nbsp;security surveillance of our premises (eg video, card access). </p>
-<p>The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway. </p>
-<p>We may collect personal information when you visit our Web Sites or use one of our i-apps. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request.</p>
-<p>Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Sites or our i-apps and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Sites or our i-apps. You acknowledge that when you disclose personally identifiable information on the Web Sites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. </p>
-<p>Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Web Sites enables us to deliver and maintain customised options when you make return visits to the site.</p>
-<p>There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want. </p>
-<p>We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. </p>
-<p><strong>What does Network Ten do with the personal information?</strong></p>
-<p>The purpose for which we collect the information is to give effect to the particular interaction you have with Network Ten. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates.</p>
-<p>We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information. </p>
-<p>There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. </p>
-<p>If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. </p>
-<p>There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes. </p>
-<p><strong>How do we look after your personal information? </strong></p>
-<p>We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system. We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. </p>
-<p>We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. </p>
-<p>When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information. <br></p><strong></strong><strong><br>Can You Access or Correct Information Held by Network Ten? </strong>
-<p>We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.&nbsp; If you have registered with Network Ten through the Web Sites, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Sites using your username and password and reviewing your preferences.&nbsp; Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at <a href="http://ten.com.au/contact-us.htm" target="blank">Contact Us</a></p>
-<p>You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.</p>
-<p>If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.</p>
-<p>Do you have a complaint?</p>
-<p>If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at <a href="http://ten.com.au/contact-us.htm" target="blank">Contact&nbsp; Us</a></p>
-<p>Changes to this Privacy Policy</p>
-<p>Network Ten reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason. </p>
-<p>Have we answered your questions about privacy?</p>
-<p>If you have other questions regarding our information handling processes, please <a href="http://ten.com.au/contact-us.htm" target="blank">Contact Us.</a></p>
-<p><br>This page last updated: 25 November 2010<br>&nbsp;</p>
-<p><strong></strong>&nbsp;</p><p></p>
+            <p><strong>Our Commitment to you <br></strong><br>At Network Ten we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.<br><br>At Network Ten we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network Ten. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.<br><br><strong>What personal Information does Network Ten collect? <br></strong><br>The type of personal information we collect varies according to how you interact with Network Ten. Some examples include:<br><br>• when you complete any application forms <br>• through telephone calls <br>• visits to our Web Sites (including via any of our i-apps)<br>• letters and other material sent by you to Network Ten <br>• material submitted in competitions <br>• feedback, comments or suggestions on programs and other activities of Network Ten <br>• through Buyten Web Site<br>• as a customer or client of Network Ten <br>• when you provide a service or products to Network Ten <br>• security surveillance of our premises (eg video, card access). <br><br>The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway. <br><br>We may collect personal information when you visit our Web Sites or use one of our i-apps. For example if you use our Buyten Web Site, we may record who has visited the site and other related information. We have a separate privacy policy for our Buyten Web Site, which is available on the Web Site and also from Network Ten on request.<br><br>Network Ten reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Web Sites or our i-apps and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Web Sites or our i-apps. You acknowledge that when you disclose personally identifiable information on the Web Sites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network Ten and may result in marketing and promotional messages being sent to you from Network Ten or its associates and affiliates. <br><br>Non-personal information and data may be automatically collected through the standard operation of Network Ten's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Web Sites enables us to deliver and maintain customised options when you make return visits to the site.<br><br>There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want. <br><br>We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. <br><br><strong>What does Network Ten do with the personal information?<br></strong><br>The purpose for which we collect the information is to give effect to the particular interaction you have with Network Ten. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates. 
+</p><p>Sometimes we may give you the option to receive further communications from one of our advertising partners, for example when we run a competition in conjunction with that advertiser. If you do chose to opt in by expressly providing consent to receive communications from that third party advertiser, Ten may disclose your personal information to that third party. In this circumstance and as from March 2012, Ten requires that third party to agree that your personal information be dealt with in accordance with that third party’s own privacy policy (which will be made available for you to view at the time that you opt in), in accordance with all applicable privacy laws and the Spam Act at all times, and pursuant to best practice confidentiality and security procedures. Notwithstanding this, Ten cannot be held responsible for any misuse or unauthorised disclosure of your personal information by these third parties.<br><br>We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information. <br><br>There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. <br><br>If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. <br><br>There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes. <br><br><strong>How do we look after your personal information? </strong><br><br>We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system. We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. <br><br>We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. <br><br>When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information. </p>
+<p><strong>Can You Access or Correct Information Held by Network Ten? <br></strong><br>We maintain records of personal information we have collected. You can gain access to the personal information held by Network Ten about you in two ways.&nbsp; If you have registered with Network Ten through the Web Sites, most information held by Network Ten about you can be viewed and changed directly by you by logging into the Web Sites using your username and password and reviewing your preferences.&nbsp; Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network Ten about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at <a href="http://ten.com.au/contact-us.htm">Contact Us<br></a><br>You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.<br><br>If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.<br><br>Do you have a complaint?<br><br>If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at <a href="http://ten.com.au/contact-us.htm">Contact&nbsp; Us<br></a><br>Changes to this Privacy Policy<br><br>Network Ten reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason. <br><br>Have we answered your questions about privacy?<br><br>If you have other questions regarding our information handling processes, please <a href="http://ten.com.au/contact-us.htm">Contact Us.</a></p>
+<p>This page last updated: 30 March 2012<br>&nbsp;</p>
+<p>&nbsp;</p><p></p>
     </div>
 </div>
           </div><!-- end column 1 -->
@@ -613,95 +589,111 @@
             <h4>All TV Shows A-Z</h4>
             
             
+            <!--<a href="http://ten.com.au/a-gifted-man.htm" target="_blank">A Gifted Man</a> -->
+                                    
+                
+                
+            <!--<a href="http://ten.com.au/an-idiot-abroad.htm" target="_blank">An Idiot Abroad</a> -->
+                                    
+                
+                
             <!--<a href="http://tensport.com.au/before-the-game.htm" target="_blank">Before the Game</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/bondi-rescue.htm" target="_self">Bondi Rescue</a> -->
+            <!--<a href="http://ten.com.au/bikie-wars.htm" target="_blank">Bikie Wars: Brothers in Arms</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/bondi-vet.htm" target="_self">Bondi Vet</a> -->
+            <!--<a href="http://ten.com.au/bondi-rescue.htm" target="_blank">Bondi Rescue</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/CanOfWorms.htm" target="_self">Can Of Worms</a> -->
+            <!--<a href="http://ten.com.au/bondi-vet.htm" target="_blank">Bondi Vet</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/docos.htm" target="_self">Documentaries</a> -->
+            <!--<a href="http://tenbreakfast.com.au/" target="_blank">Breakfast</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/dr-phil.htm" target="_self">Dr. Phil</a> -->
+            <!--<a href="http://ten.com.au/CanOfWorms.htm" target="_blank">Can Of Worms</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/everydaygourmet.htm" target="_self">Everyday Gourmet</a> -->
+            <!--<a href="http://ten.com.au/docos.htm" target="_blank">Documentaries</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/glee.htm" target="_self">Glee</a> -->
+            <!--<a href="http://ten.com.au/dr-phil.htm" target="_blank">Dr. Phil</a> -->
                                     
                 
                 
-            <!--<a href="/gogirls.htm">Go Girls</a> -->
+            <!--<a href="http://ten.com.au/everydaygourmet.htm" target="_blank">Everyday Gourmet</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/gcbc.htm" target="_self">Good Chef Bad Chef</a> -->
+            <!--<a href="http://ten.com.au/glee.htm" target="_blank">Glee</a> -->
                                     
                 
                 
-            <!--<a href="/goodnewsworld.htm">Good News World</a> -->
+            <!--<a href="http://ten.com.au/gcbc.htm" target="_blank">Good Chef Bad Chef</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/hawaii50.htm" target="_self">Hawaii Five-O</a> -->
+            <!--<a href="http://ten.com.au/good-news-week.htm" target="_blank">Good News Week</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/house.htm" target="_self">House</a> -->
+            <!--<a href="http://ten.com.au/hawaii50.htm" target="_blank">Hawaii Five-O</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/hueys-kitchen.htm" target="_self">Huey's Kitchen</a> -->
+            <!--<a href="http://ten.com.au/hawke.htm" target="_blank">Hawke</a> -->
                                     
                 
                 
-            <!--<a href="/itsaknockout.htm">Its a Knockout</a> -->
+            <!--<a href="http://ten.com.au/homeland.htm" target="_blank">Homeland</a> -->
                                     
                 
                 
-            <!--<a href="/jamies-great-britain.htm">Jamie's Great Britain</a> -->
+            <!--<a href="http://ten.com.au/house.htm" target="_blank">House</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/judge-judy.htm" target="_self">Judge Judy</a> -->
+            <!--<a href="http://ten.com.au/hueys-kitchen.htm" target="_blank">Huey's Kitchen</a> -->
                                     
                 
                 
-            <!--<a href="http://www.masterchef.com.au/home.htm" target="_blank">Junior MasterChef</a> -->
+            <!--<a href="http://ten.com.au/Iwillsurvive.htm" target="_blank">I Will Survive</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/Joneses.htm" target="_self">Keeping Up with the Joneses</a> -->
+            <!--<a href="http://ten.com.au/itsaknockout.htm" target="_blank">It's a Knockout</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/law-and-order.htm" target="_self">Law and Order</a> -->
+            <!--<a href="http://ten.com.au/jamie-oliver.htm" target="_blank">Jamie Oliver</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/law-and-order-criminal-intent.htm" target="_self">Law and Order Criminal Intent</a> -->
+            <!--<a href="http://ten.com.au/judge-judy.htm" target="_blank">Judge Judy</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/law-and-order-special-victims-unit.htm" target="_self">Law and Order SVU</a> -->
+            <!--<a href="http://ten.com.au/Joneses.htm" target="_blank">Keeping Up with the Joneses</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/lie-to-me.htm" target="_self">Lie To Me</a> -->
+            <!--<a href="http://ten.com.au/law-and-order.htm" target="_blank">Law and Order</a> -->
+                                    
+                
+                
+            <!--<a href="http://ten.com.au/law-and-order-criminal-intent.htm" target="_blank">Law and Order Criminal Intent</a> -->
+                                    
+                
+                
+            <!--<a href="http://ten.com.au/law-and-order-special-victims-unit.htm" target="_blank">Law and Order SVU</a> -->
                                     
                 
                 
@@ -709,11 +701,11 @@
                                     
                 
                 
-            <!--<a href="http://www.meandmymonsters.com.au/" target="_blank">Me and My Monsters</a> -->
+            <!--<a href="http://ten.com.au/medium.htm" target="_blank">Medium</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/meet-the-press-paul-bongiorno.htm" target="_self">Meet The Press</a> -->
+            <!--<a href="http://ten.com.au/meet-the-press-paul-bongiorno.htm" target="_blank">Meet The Press</a> -->
                                     
                 
                 
@@ -721,35 +713,31 @@
                                     
                 
                 
-            <!--<a href="/mobbed.htm">Mobbed</a> -->
+            <!--<a href="http://ten.com.au/mobbed.htm" target="_blank">Mobbed</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/modern-family.htm" target="_self">Modern Family</a> -->
+            <!--<a href="http://ten.com.au/modern-family.htm" target="_blank">Modern Family</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/ncis.htm" target="_self">NCIS</a> -->
+            <!--<a href="http://ten.com.au/ncis.htm" target="_blank">NCIS</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/ncis-los-angeles.htm" target="_self">NCIS Los Angeles</a> -->
+            <!--<a href="http://ten.com.au/ncis-los-angeles.htm" target="_blank">NCIS Los Angeles</a> -->
                                     
                 
                 
-            <!--<a href="/new-girl.htm">New Girl </a> -->
+            <!--<a href="http://ten.com.au/new-girl.htm" target="_blank">New Girl</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/news.htm" target="_self">News</a> -->
+            <!--<a href="http://ten.com.au/news.htm" target="_blank">News</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/offspring.htm" target="_self">Offspring</a> -->
-                                    
-                
-                
-            <!--<a href="http://ten.com.au/outrageous-fortune.htm" target="_self">Outrageous Fortune</a> -->
+            <!--<a href="http://ten.com.au/offspring.htm" target="_blank">Offspring</a> -->
                                     
                 
                 
@@ -757,27 +745,23 @@
                                     
                 
                 
-            <!--<a href="http://ten.com.au/recruits.htm" target="_self">Recruits</a> -->
+            <!--<a href="http://ten.com.au/recruits.htm" target="_blank">Recruits</a> -->
                                     
                 
                 
-            <!--<a href="/recruitsparamedics.htm">Recruits: Paramedics</a> -->
+            <!--<a href="http://ten.com.au/recruitsparamedics.htm" target="_blank">Recruits: Paramedics</a> -->
                                     
                 
                 
-            <!--<a href="/ringer.htm">Ringer</a> -->
+            <!--<a href="http://ten.com.au/rush.htm" target="_blank">Rush</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/rules-of-engagement.htm">Rules of Engagement</a> -->
+            <!--<a href="http://ten.com.au/scope.htm" target="_blank">Scope</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/rush.htm" target="_self">Rush</a> -->
-                                    
-                
-                
-            <!--<a href="http://ten.com.au/scope.htm" target="_self">Scope</a> -->
+            <!--<a href="http://ten.com.au/Sons-of-Anarchy.htm" target="_blank">Sons of Anarchy</a> -->
                                     
                 
                 
@@ -785,15 +769,11 @@
                                     
                 
                 
-            <!--<a href="http://ten.com.au/talkin-bout-your-generation.htm" target="_self">Talkin' 'Bout Your Generation</a> -->
+            <!--<a href="http://ten.com.au/talkin-bout-your-generation.htm" target="_blank">Talkin' 'Bout Your Generation</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/terranova.htm" target="_self">Terra Nova</a> -->
-                                    
-                
-                
-            <!--<a href="/the-almighty-johnsons.htm">The Almighty Johnsons</a> -->
+            <!--<a href="http://ten.com.au/terranova.htm" target="_blank">Terra Nova</a> -->
                                     
                 
                 
@@ -801,27 +781,31 @@
                                     
                 
                 
-            <!--<a href="http://ten.com.au/the-bold-and-the-beautiful.htm" target="_self">The Bold and the Beautiful</a> -->
+            <!--<a href="http://ten.com.au/the-bold-and-the-beautiful.htm" target="_blank">The Bold and the Beautiful</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/boltreport.htm" target="_self">The Bolt Report</a> -->
+            <!--<a href="http://ten.com.au/boltreport.htm" target="_blank">The Bolt Report</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/the-circle.htm" target="_self">The Circle</a> -->
+            <!--<a href="http://ten.com.au/the-circle.htm" target="_blank">The Circle</a> -->
                                     
                 
                 
-            <!--<a href="/thedoctors.htm">The Doctors</a> -->
+            <!--<a href="http://ten.com.au/thedoctors.htm" target="_blank">The Doctors</a> -->
                                     
                 
                 
-            <!--<a href="/the-glades.htm">The Glades</a> -->
+            <!--<a href="http://ten.com.au/the-good-wife.htm" target="_blank">The Good Wife</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/the-good-wife.htm" target="_self">The Good Wife</a> -->
+            <!--<a href="http://ten.com.au/the-graham-norton-show.htm" target="_blank">The Graham Norton Show</a> -->
+                                    
+                
+                
+            <!--<a href="http://livingroomtv.com.au/" target="_blank">The Living Room</a> -->
                                     
                 
                 
@@ -833,193 +817,191 @@
                                     
                 
                 
-            <!--<a href="http://ten.com.au/toasted-tv.htm" target="_self">Toasted TV</a> -->
+            <!--<a href="http://ten.com.au/totally-wild.htm" target="_blank">Totally Wild</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/totally-wild.htm" target="_self">Totally Wild</a> -->
+            <!--<a href="http://ten.com.au/Touch.htm" target="_blank">Touch</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/undercoverboss.htm" target="_self">Undercover Boss</a> -->
+            <!--<a href="http://ten.com.au/undercoverbossaustralia.htm" target="_blank">Undercover Boss Australia</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/undercoverbossaustralia.htm" target="_self">Undercover Boss Australia</a> -->
+            <!--<a href="http://ten.com.au/wurrawhy.htm" target="_blank">Wurrawhy</a> -->
                                     
                 
                 
-            <!--<a href="http://ten.com.au/whitecollar.htm" target="_self">White Collar</a> -->
-                                    
-                
-                
-            <!--<a href="http://ten.com.au/wurrawhy.htm" target="_self">Wurrawhy</a> -->
-                                    
-                
-                
-            <!--<a href="http://ten.com.au/ytt.htm">Young Talent Time</a> -->
+            <!--<a href="http://ytt.com.au/home.htm" target="_blank">Young Talent Time</a> -->
                                     
                 <ul class="first">
 <li> 
+                        <a href="http://ten.com.au/a-gifted-man.htm" target="_blank">A Gifted Man</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/an-idiot-abroad.htm" target="_blank">An Idiot Abroad</a>
+                    </li>
+<li>
                         <a href="http://tensport.com.au/before-the-game.htm" target="_blank">Before the Game</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/bondi-rescue.htm" target="_self">Bondi Rescue</a>
+                        <a href="http://ten.com.au/bikie-wars.htm" target="_blank">Bikie Wars: Brothers in Arms</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/bondi-vet.htm" target="_self">Bondi Vet</a>
+                        <a href="http://ten.com.au/bondi-rescue.htm" target="_blank">Bondi Rescue</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/CanOfWorms.htm" target="_self">Can Of Worms</a>
+                        <a href="http://ten.com.au/bondi-vet.htm" target="_blank">Bondi Vet</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/docos.htm" target="_self">Documentaries</a>
+                        <a href="http://tenbreakfast.com.au/" target="_blank">Breakfast</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/dr-phil.htm" target="_self">Dr. Phil</a>
+                        <a href="http://ten.com.au/CanOfWorms.htm" target="_blank">Can Of Worms</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/everydaygourmet.htm" target="_self">Everyday Gourmet</a>
+                        <a href="http://ten.com.au/docos.htm" target="_blank">Documentaries</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/glee.htm" target="_self">Glee</a>
+                        <a href="http://ten.com.au/dr-phil.htm" target="_blank">Dr. Phil</a>
                     </li>
 <li>
-                        <a href="/gogirls.htm">Go Girls</a>
+                        <a href="http://ten.com.au/everydaygourmet.htm" target="_blank">Everyday Gourmet</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/gcbc.htm" target="_self">Good Chef Bad Chef</a>
+                        <a href="http://ten.com.au/glee.htm" target="_blank">Glee</a>
                     </li>
 <li>
-                        <a href="/goodnewsworld.htm">Good News World</a>
+                        <a href="http://ten.com.au/gcbc.htm" target="_blank">Good Chef Bad Chef</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/hawaii50.htm" target="_self">Hawaii Five-O</a>
+                        <a href="http://ten.com.au/good-news-week.htm" target="_blank">Good News Week</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/house.htm" target="_self">House</a>
+                        <a href="http://ten.com.au/hawaii50.htm" target="_blank">Hawaii Five-O</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/hueys-kitchen.htm" target="_self">Huey's Kitchen</a>
+                        <a href="http://ten.com.au/hawke.htm" target="_blank">Hawke</a>
                     </li>
 <li>
-                        <a href="/itsaknockout.htm">Its a Knockout</a>
+                        <a href="http://ten.com.au/homeland.htm" target="_blank">Homeland</a>
                     </li>
 <li>
-                        <a href="/jamies-great-britain.htm">Jamie's Great Britain</a>
+                        <a href="http://ten.com.au/house.htm" target="_blank">House</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/judge-judy.htm" target="_self">Judge Judy</a>
+                        <a href="http://ten.com.au/hueys-kitchen.htm" target="_blank">Huey's Kitchen</a>
                     </li>
 <li>
-                        <a href="http://www.masterchef.com.au/home.htm" target="_blank">Junior MasterChef</a>
+                        <a href="http://ten.com.au/Iwillsurvive.htm" target="_blank">I Will Survive</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/Joneses.htm" target="_self">Keeping Up with the Joneses</a>
+                        <a href="http://ten.com.au/itsaknockout.htm" target="_blank">It's a Knockout</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/law-and-order.htm" target="_self">Law and Order</a>
+                        <a href="http://ten.com.au/jamie-oliver.htm" target="_blank">Jamie Oliver</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/law-and-order-criminal-intent.htm" target="_self">Law and Order Criminal Intent</a>
+                        <a href="http://ten.com.au/judge-judy.htm" target="_blank">Judge Judy</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/law-and-order-special-victims-unit.htm" target="_self">Law and Order SVU</a>
+                        <a href="http://ten.com.au/Joneses.htm" target="_blank">Keeping Up with the Joneses</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/lie-to-me.htm" target="_self">Lie To Me</a>
+                        <a href="http://ten.com.au/law-and-order.htm" target="_blank">Law and Order</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/law-and-order-criminal-intent.htm" target="_blank">Law and Order Criminal Intent</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/law-and-order-special-victims-unit.htm" target="_blank">Law and Order SVU</a>
                     </li>
 <li>
                         <a href="http://www.masterchef.com.au/home.htm" target="_blank">MasterChef Australia</a>
                     </li>
 <li>
-                        <a href="http://www.meandmymonsters.com.au/" target="_blank">Me and My Monsters</a>
+                        <a href="http://ten.com.au/medium.htm" target="_blank">Medium</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/meet-the-press-paul-bongiorno.htm" target="_self">Meet The Press</a>
+                        <a href="http://ten.com.au/meet-the-press-paul-bongiorno.htm" target="_blank">Meet The Press</a>
                     </li>
 <li>
                         <a href="http://ten.com.au/merlin.htm" target="_self">Merlin</a>
                     </li>
-<li>
-                        <a href="/mobbed.htm">Mobbed</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/modern-family.htm" target="_self">Modern Family</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/ncis.htm" target="_self">NCIS</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/ncis-los-angeles.htm" target="_self">NCIS Los Angeles</a>
-                    </li>
 </ul>
 <ul>
 <li>
-                        <a href="/new-girl.htm">New Girl </a>
+                        <a href="http://ten.com.au/mobbed.htm" target="_blank">Mobbed</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/news.htm" target="_self">News</a>
+                        <a href="http://ten.com.au/modern-family.htm" target="_blank">Modern Family</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/offspring.htm" target="_self">Offspring</a>
+                        <a href="http://ten.com.au/ncis.htm" target="_blank">NCIS</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/outrageous-fortune.htm" target="_self">Outrageous Fortune</a>
+                        <a href="http://ten.com.au/ncis-los-angeles.htm" target="_blank">NCIS Los Angeles</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/new-girl.htm" target="_blank">New Girl</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/news.htm" target="_blank">News</a>
+                    </li>
+<li>
+                        <a href="http://ten.com.au/offspring.htm" target="_blank">Offspring</a>
                     </li>
 <li>
                         <a href="http://readysteadycook.ten.com.au/" target="_blank">Ready Steady Cook</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/recruits.htm" target="_self">Recruits</a>
+                        <a href="http://ten.com.au/recruits.htm" target="_blank">Recruits</a>
                     </li>
 <li>
-                        <a href="/recruitsparamedics.htm">Recruits: Paramedics</a>
+                        <a href="http://ten.com.au/recruitsparamedics.htm" target="_blank">Recruits: Paramedics</a>
                     </li>
 <li>
-                        <a href="/ringer.htm">Ringer</a>
+                        <a href="http://ten.com.au/rush.htm" target="_blank">Rush</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/rules-of-engagement.htm">Rules of Engagement</a>
+                        <a href="http://ten.com.au/scope.htm" target="_blank">Scope</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/rush.htm" target="_self">Rush</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/scope.htm" target="_self">Scope</a>
+                        <a href="http://ten.com.au/Sons-of-Anarchy.htm" target="_blank">Sons of Anarchy</a>
                     </li>
 <li>
                         <a href="http://tensport.com.au/sports-tonight.htm" target="_blank">Sports Tonight</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/talkin-bout-your-generation.htm" target="_self">Talkin' 'Bout Your Generation</a>
+                        <a href="http://ten.com.au/talkin-bout-your-generation.htm" target="_blank">Talkin' 'Bout Your Generation</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/terranova.htm" target="_self">Terra Nova</a>
-                    </li>
-<li>
-                        <a href="/the-almighty-johnsons.htm">The Almighty Johnsons</a>
+                        <a href="http://ten.com.au/terranova.htm" target="_blank">Terra Nova</a>
                     </li>
 <li>
                         <a href="http://www.thebiggestloser.com.au/" target="_blank">The Biggest Loser</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/the-bold-and-the-beautiful.htm" target="_self">The Bold and the Beautiful</a>
+                        <a href="http://ten.com.au/the-bold-and-the-beautiful.htm" target="_blank">The Bold and the Beautiful</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/boltreport.htm" target="_self">The Bolt Report</a>
+                        <a href="http://ten.com.au/boltreport.htm" target="_blank">The Bolt Report</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/the-circle.htm" target="_self">The Circle</a>
+                        <a href="http://ten.com.au/the-circle.htm" target="_blank">The Circle</a>
                     </li>
 <li>
-                        <a href="/thedoctors.htm">The Doctors</a>
+                        <a href="http://ten.com.au/thedoctors.htm" target="_blank">The Doctors</a>
                     </li>
 <li>
-                        <a href="/the-glades.htm">The Glades</a>
+                        <a href="http://ten.com.au/the-good-wife.htm" target="_blank">The Good Wife</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/the-good-wife.htm" target="_self">The Good Wife</a>
+                        <a href="http://ten.com.au/the-graham-norton-show.htm" target="_blank">The Graham Norton Show</a>
+                    </li>
+<li>
+                        <a href="http://livingroomtv.com.au/" target="_blank">The Living Room</a>
                     </li>
 <li>
                         <a href="http://theprojecttv.com.au/home.htm" target="_blank">The Project</a>
@@ -1028,25 +1010,19 @@
                         <a href="http://www.therenovatorstv.com.au/" target="_blank">The Renovators</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/toasted-tv.htm" target="_self">Toasted TV</a>
+                        <a href="http://ten.com.au/totally-wild.htm" target="_blank">Totally Wild</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/totally-wild.htm" target="_self">Totally Wild</a>
+                        <a href="http://ten.com.au/Touch.htm" target="_blank">Touch</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/undercoverboss.htm" target="_self">Undercover Boss</a>
+                        <a href="http://ten.com.au/undercoverbossaustralia.htm" target="_blank">Undercover Boss Australia</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/undercoverbossaustralia.htm" target="_self">Undercover Boss Australia</a>
+                        <a href="http://ten.com.au/wurrawhy.htm" target="_blank">Wurrawhy</a>
                     </li>
 <li>
-                        <a href="http://ten.com.au/whitecollar.htm" target="_self">White Collar</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/wurrawhy.htm" target="_self">Wurrawhy</a>
-                    </li>
-<li>
-                        <a href="http://ten.com.au/ytt.htm">Young Talent Time</a>
+                        <a href="http://ytt.com.au/home.htm" target="_blank">Young Talent Time</a>
                     </li>
 </ul>
 
