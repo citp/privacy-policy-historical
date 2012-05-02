@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023052303id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502122432id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
 
-# Mall of America | Terms & Privacy
+# Mall of America
+
+## MOA® Online Privacy Policy
 
 MOAC Mall Holdings LLC and its parent company and affiliates (“Mall of America®”) are committed to protecting your privacy and demonstrating care and respect with regard to our treatment of any personal information that we may obtain from you. The purpose of this privacy policy is to explain how we collect, protect, use and share information gathered about you on our websites.
 
 The majority of the features on our websites are offered without collecting any personally identifiable information from you. You can surf our websites and view our content anonymously.
+
+## How Information Is Collected
 
 ### Log Files
 
