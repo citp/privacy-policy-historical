@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passion4profession.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110820id_/http%3A//www.passion4profession.net/en/privacy-condition) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passion4profession.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502221753id_/http%3A//www.passion4profession.net/en/privacy-condition) for the most accurate reproduction.*
 
 # Privacy Condition
 
