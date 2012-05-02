@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207040126id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503004720id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
 
-# Stock Free Images - Free Photos and IllustrationsStock Free Images
+# Stock Free Images - Free Photos and Illustrations Stock Free Images
 
 Site Usage Agreement
 
