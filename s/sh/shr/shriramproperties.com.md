@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211101514id_/http%3A//www.shriramproperties.com/ShriRam_Privacy_Policy-35.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502133340id_/http%3A//www.shriramproperties.com/ShriRam_Privacy_Policy-35.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 **This is the Privacy Policy for India.**
 
