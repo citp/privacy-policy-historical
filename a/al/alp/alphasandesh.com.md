@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229071841id_/http%3A//www.alphasandesh.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502192749id_/http%3A//www.alphasandesh.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Bulk Mailing Services | Manage Email Newsletters | Mailing Lists and Send HTML | Email Marketing Services
 
