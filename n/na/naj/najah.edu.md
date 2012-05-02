@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131110id_/http%3A//www1.najah.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502101513id_/http%3A//www.najah.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | An-Najah National University
 
