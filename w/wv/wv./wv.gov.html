@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wv.gov privacy policy that was archived on 2011-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213143039id_/http%3A//www.wv.gov/policies/Pages/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wv.gov privacy policy that was archived on 2012-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120502111357id_/http%3A//www.wv.gov/policies/Pages/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:o="urn:schemas-microsoft-com:office:office" __expr-val-dir="ltr" dir="ltr"><head profile="http://a9.com/-/spec/opensearch/1.1/"><meta name="generator" content="Microsoft SharePoint"><meta name="progid" content="SharePoint.WebPartPage.Document"><meta http-equiv="content-Type" content="text/html; charset=utf-8"><meta http-equiv="expires" content="0"><title>
 	
@@ -113,7 +113,7 @@ $(".msg_head").click(function()
       </script>
 
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript">
+<!--<script type="text/javascript">
   google.load('search', '1');
   google.setOnLoadCallback(function() {
     google.search.CustomSearchControl.attachAutoCompletion(
@@ -121,7 +121,7 @@ $(".msg_head").click(function()
       document.getElementById('q'),
       'cse-search-box');
   });
-</script>
+</script>-->
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <script type="text/javascript">
 
@@ -135,7 +135,47 @@ $(".msg_head").click(function()
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+function clearText(thefield){
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+}
 </script>
+<script type="text/javascript">
+$(document).ready(function() {   
+//attach function to input and make text grayed out on page load   
+textReplacement($('.GoogleSearchTextBox').css("color", "#000"));   
+});   
+// the function:   
+    function textReplacement(input){ //input focus text function   
+    var originalvalue = input.val();   
+    input.focus( function(){   
+        if( $.trim(input.val()) == originalvalue ){ input.val('').css("color", "#000"); }   
+    });   
+    input.blur( function(){   
+        if( $.trim(input.val()) == '' ){ input.val(originalvalue).css("color", "#000"); }   
+    });   
+}  
+</script>
+
+<!--
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
+  $(document).ready(function() {
+ 	 $("a").bind('click', function() {	
+		
+			
+			recordOutboundLink(this, 'Outbound Links', $(this).attr("href"));
+			return false;	
+			
+			//$(this).click(clickData);
+		
+			});
+	});
+</script>
+-->
 </head>
 <body class="oneColCtr" onload="javascript:_spBodyOnLoadWrapper();">
 <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
@@ -147,7 +187,7 @@ $(".msg_head").click(function()
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x83D335E0D542D417308C210574A3A27F65FAB5EF6D0D047B27986CABCFE3AA5C5373BED815822EC3E8D87661380DE5483CFEA6BB65391F8C3447B523BF5DD807,13 Dec 2011 14:30:39 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xDB7FB7B9DBD4747B7F9AE0243662D73747D575CBFB9A9C203AD221D6CB573FD0A074BDAA5CDD2501FA4744573389985E8184DF5E79005F2820F3DC28C38FD189,02 May 2012 11:13:57 -0000">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
@@ -210,7 +250,7 @@ $(".msg_head").click(function()
         <p class="home"><a href="/"><img src="/images/wvgovlogo.gif" alt="WV.gov" border="0"></a></p>
         <p class="toplevelnav"><a href="http://www.wv.gov/Pages/agencies.aspx">Agencies</a><a href="http://www.wv.gov/Pages/state-phone-directory.aspx">Phone Directory</a><a href="http://www.wv.gov/Pages/services.aspx">Online Services</a><a href="http://www.wv.gov/news/Pages/default.aspx">News</a><a href="http://www.wv.gov/help/Pages/default.aspx">Help</a></p>
 	      <div id="searchBox" class="searchBoxTopLevelNav">
-	        <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" name="q" id="q" autocomplete="off" class="GoogleSearchTextBox" value="Search WV.gov">
+	        <input name="q" id="q" autocomplete="off" class="GoogleSearchTextBox" value="Search WV.gov" style="color: rgb(0, 0, 0);">
 	        <input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchsmall.gif" alt="Go" align="top">
 		</div>
       </div>
@@ -237,7 +277,7 @@ $(".msg_head").click(function()
             areas in the world, making it a choice area for recreational caving and 
             scientific research.
             <div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search About"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search About" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -269,7 +309,7 @@ $(".msg_head").click(function()
             <h1 style="display:block">Business</h1>
            West Virginia is full of opportunity for any business with a growing economy and a highly dedicated workforce. Whether you are running an existing business or thinking of starting a new business you can find all of the information you need throughout this business section.            <div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
             
- <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Business"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+ <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Business" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->            </div>
           </div>
           <div class="containerright">
@@ -303,7 +343,7 @@ $(".msg_head").click(function()
           <div class="containerleft">
             <h1 style="display:block">Education</h1>
 West Virginia is fortunate to have a tremendous education system with a high standard of excellence. Please use the information provided here to learn more about the wealth of educational opportunities in our great state.   <div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Education"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Education" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -335,7 +375,7 @@ West Virginia is fortunate to have a tremendous education system with a high sta
             <h1 style="display:block">Employment</h1>
 West Virginia is home to one of the finest workforces in the country based on our hard work and commitment to quality. Whether you are looking for new job opportunities, enhancing your job skills or researching future employment trends you can find all of the information you need throughout this employment section.
 <div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Employment"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Employment" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -365,7 +405,7 @@ West Virginia is home to one of the finest workforces in the country based on ou
           <div class="containerleft">
             <h1 style="display:block">Family</h1>
 West Virginia offers the perfect balance of a rural and urban setting that suits a variety of lifestyles. This is a state where you can go whitewater rafting in the morning, go to an art exhibit in the afternoon and attend a concert in the evening. Whether you just moved to the Mountain State or your family has been here since it was founded, you are part of our community.<div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Family"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Family" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -400,7 +440,7 @@ West Virginia offers the perfect balance of a rural and urban setting that suits
           <div class="containerleft">
             <h1 style="display:block">Health</h1>
 Maintaining proper health is vital to ensuring the highest quality of life possible. West Virginia strives to provide one of the best health care systems in the country that is affordable and available to all residents of the state. This section contains numerous resources to assist you in accessing the health care services provided in the state.<div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Health"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Health" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -436,7 +476,7 @@ Maintaining proper health is vital to ensuring the highest quality of life possi
           <div class="containerleft">
             <h1 style="display:block">Tourism</h1>
 Exhilarate in the lasting beauty and natural wonder scattered throughout West Virginia. From unmatched outdoor recreation to world-class resorts, breathtaking scenery and a variety of cultural and historic attractions, West Virginia is an ideal spot to plan your next adventure. Discover for yourself what makes West Virginia wild and wonderful.<div class="marginedsearch"> <img src="/images/searchleft.gif" style="float:left;">
-              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Tourism"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
+              <input onclick="javascript:SearchClear(this);" onkeypress="javascript:OverrrideForms(this);" type="text" class="GoogleSearchTextBox" value="Search Tourism" style="color: rgb(0, 0, 0);"><input name="btnG" onclick="javascript:SearchGoogle($(this).prev('input.GoogleSearchTextBox:first'));return false;" type="image" value="Search" src="/images/searchbutton.gif" alt="Go" align="top">
               <!-- go Button -->
             </div>
           </div>
@@ -476,12 +516,12 @@ Exhilarate in the lasting beauty and natural wonder scattered throughout West Vi
 
 
 <div id="ctl00_PlaceHolderMain_AEImageRotator1" __markuptype="vsattributemarkup" webpart="true" __webpartid="{c3b4248d-bc5d-4037-8be8-d42eddaf487a}">
-	<p style="text-align:left"><img src="/Banner/capitol_dome_chas.jpg" border="0" width="980" height="170" style="margin-top:3px" alt=""></p>
+	<p style="text-align:left"><img src="/Banner/state_capitol_building_chas.jpg" border="0" width="980" height="170" style="margin-top:3px" alt=""></p>
 </div>
 
 <div id="breadcrumbs">
     <div id="output">
-					<span id="ctl00_PlaceHolderMain_SiteMapPath1"><a href="#ctl00_PlaceHolderMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=CB4D0wNL2KOuXMXCz7Bx7LZFTtfsK3OYJwWum7w5IJIEYytYw0nXSZ33BEtiFhsY0nyZ1SOS6a8TQaX6_VTa9AbNPwo1&amp;t=634245046248165742" border="0"></a><span><a title="The Official Web Portal for the State of West Virginia" href="/Pages/default.aspx">WV.gov</a></span><span> &gt; </span><span><a href="/policies/Pages/default.aspx">WV.gov Policies</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_PlaceHolderMain_SiteMapPath1_SkipLink"></a></span>
+					<span id="ctl00_PlaceHolderMain_SiteMapPath1"><a href="#ctl00_PlaceHolderMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=CB4D0wNL2KOuXMXCz7Bx7LZFTtfsK3OYJwWum7w5IJIEYytYw0nXSZ33BEtiFhsY0nyZ1SOS6a8TQaX6_VTa9AbNPwo1&amp;t=634604244479085897" border="0"></a><span><a title="The Official Web Portal for the State of West Virginia" href="/Pages/default.aspx">WV.gov</a></span><span> &gt; </span><span><a href="/policies/Pages/default.aspx">WV.gov Policies</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_PlaceHolderMain_SiteMapPath1_SkipLink"></a></span>
     <!--end breadcrumbs-->
     </div>
     <div id="addthis"><a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=westvirginiainteractive">
