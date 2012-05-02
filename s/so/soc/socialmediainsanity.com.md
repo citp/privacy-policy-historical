@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediainsanity.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007185116id_/http%3A//socialmediainsanity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediainsanity.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502104943id_/http%3A//www.socialmediainsanity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO Training
 
