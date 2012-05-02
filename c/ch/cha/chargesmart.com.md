@@ -1,61 +1,61 @@
-> *The following text is extracted and transformed from the chargesmart.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604195204id_/http%3A//www.chargesmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargesmart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502171933id_/http%3A//www.verifone.com/about-us/legal-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | ChargeSmart(tm)
+# Legal and Privacy Policy - VeriFone
 
-When you visit the ChargeSmart™ website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website. 
+## A Message from Our Chief Executive Officer  
+Doug Bergeron, CEO
 
-If you open an account, we collect the following types of information from you: 
+Thirty years ago, VeriFone introduced the first check verification and credit authorization device ever utilized by merchants in a commercial setting. Since then, VeriFone has grown to become a global leader in secure electronic payment solutions. From the beginning, we have been guided by our commitment to ethics in how our employees interact with each other and how we treat our customers, suppliers and partners.
 
-  * Contact information - your name, address, phone, email, and other similar information.
-  * Credit Card information - the credit card numbers that you link to your ChargeSmart™ account.
+VeriFone maintains a strict [code of business conduct and ethics](http://ir.verifone.com/phoenix.zhtml?c=187628&p=irol-govConduct) \- a set of legal and ethical principles that strive to maintain the highest ethical standards wherever VeriFone operates. VeriFone's commitment to its code of ethics starts at the top: directors, executives, employees and consultants are all responsible for being familiar with the code and abiding by it. The code also covers subsidiaries and affiliates of VeriFone. We understand that ethical behavior is an individual responsibility and no code can capture every possible ethical or legal situation, which is why we insist that sound judgment and discretion also be exercised.
 
+We need and encourage all of our employees, customers, suppliers and partners to work with us in upholding the principles in our code. If you have any concerns about questionable or inappropriate behavior, please do not hesitate to report it so we can work to resolve the issue immediately. VeriFone has established a [compliance line](https://www.compliance-helpline.com/verifone.jsp), a simple and effective way to express concerns regarding any potentially unethical situation involving VeriFone.
 
+## Compliance Line
 
-Before permitting you to use our Service, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth, social security number or other information. We may also obtain information about you from third parties such as credit bureaus and identity verification services. 
+VeriFone has established a Compliance Line, a simple, effective way to express concerns regarding any potentially unethical situation involving VeriFone.  
+[View the Complete Compliance Line Details](https://web.archive.org/PDF/legal/VeriFone_Compliance_Line.pdf)
 
-Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey. 
+## Standard Terms and Conditions
 
-## Cookies
+The following document covers the terms and conditions for purchases and purchase orders submitted to VeriFone.  
+[Complete Terms and Conditions - USA](https://web.archive.org/PDF/legal/VeriFone_Standard_Ts_and_Cs.pdf)   
+[Complete Terms and Conditions - Canada](https://web.archive.org/PDF/legal/VeriFone_Standard_Ts_and_Cs_CAN.pdf)
 
-When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer. 
+## Privacy Policy
 
-We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect. 
+This document was last updated August 26, 2011.
 
-## Personal Information
+VeriFone, Inc. and its subsidiaries (collectively "VeriFone" or the "company") are sensitive to privacy issues on the Internet. The company believes it is important that you know how it treats the information it receives about you on the Internet.
 
-Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user. 
+## Scope
 
-We store and process your personal information on our computers in the US, and we protect it by maintaining physical, electronic and procedural safeguards that both meet and exceed applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
+This Privacy Policy covers only data collected through the company's website at [www.verifone.com](http://www.verifone.com/), and any pages linked therefrom that are controlled by the company (collectively the "website") and not any other data collection or processing, including, without limitation, data collection practices of other web pages to which the company links or data that the company or its affiliates collect offline or through web sites that do not display a direct link to this Privacy Policy. Occasionally, the company may refer to this statement in notices and consent requests related to surveys and special-purpose web pages, for example, the company's Careers web pages; under such circumstances, this Privacy Policy applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to: 
+VeriFone's Safe Harbor Certification covers offline and human resources data, but not data submitted through the website, as further explained in VeriFone's [General EEA Safe Harbor Notice](https://web.archive.org/PDF/legal/VeriFone_EEA_Safe_Harbor_Notice.pdf) . Some of VeriFone's business units and web pages apply this statement subject to specifically disclosed modifications, supplements or exceptions.
 
-  * Provide the services and customer support you request;
-  * Process transactions and send notices about your transactions
-  * Resolve disputes, collect fees, and troubleshoot problems;
-  * Prevent potentially prohibited or illegal activities;
-  * Customize, measure, and improve our services and the content and layout of our website;
-  * Compare information for accuracy and verify it with third parties.
+## Scope
 
+In general, you can visit the webiste without telling the company who you are or revealing any information about yourself. VeriFone's Web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. VeriFone may use this information to measure the content of its Web site and improve its use.
 
+There are times, however, when VeriFone will need information from you such as your name and address. You will be notified at the time of collection how the company will use the information. Usually, the personal information VeriFone collects is used only by the company to respond to your inquiry, process an order or allow you to access specific account information.
 
-To process your payments, we need to share some of your personal information with the person or company that you are paying. 
+VeriFone will disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on VeriFone or its website, or (b) protect and defend the rights or property of VeriFone and its website.
 
-We work with merchants to enable them to accept payments from you using ChargeSmart™. In doing so, a merchant may share information about you with us, such as your email address, when you attempt to pay that merchant. We use this information to confirm to that merchant that you are a ChargeSmart™ customer and that the merchant should enable ChargeSmart™ as a form of payment for your purchase. 
+A technology called cookies may be used to provide you with custom information about VeriFone's products or services. A cookie is a tiny element of data that a Web site can send to your browser, which may then be stored on your hard drive so VeriFone can recognize you upon your return. You may set your browser to notify you when you receive a cookie.
 
-Regardless, we will not disclose your credit card number or bank account number to anyone you have paid through ChargeSmart™, except with your express permission or if we are required to do so to comply with a subpoena or other legal process. 
+At times VeriFone may conduct online surveys to better understand the needs and profile of its visitors. When VeriFone conducts a survey, it will try to let you know how the information will be used at the time of collection.
 
-## Sharing Personal Information
+VeriFone's website may contain links to third-party sites. While VeriFone tries to link only to sites that share its high standards and respect for privacy, the company is not responsible for the content or the privacy practices employed by other sites.
 
-We may share your personal information with: 
+VeriFone will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of this privacy statement.
 
-  * Service providers under contract who help with parts of our business operations; (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
-  * Financial institutions that we partner with to jointly create and offer products or services.
-  * Credit bureaus to report outstanding negative balance accounts, as allowed by law.
-  * Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.)
-  * Law enforcement, government officials, or other third parties when: 
-    * we are compelled to do so by a subpoena, court order or similar legal procedure
-    * we need to do so to comply with law
-    * we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement.
-  * Other third parties with your consent or direction to do so.
+## Legal Notice
 
+Copyright 2011, All rights reserved. VeriFone, the VeriFone logo, NURIT, Omni, PAYware, Secura, SoftPay, Tranz, Verix, VeriShield, Vx, VeriCentre and Xplorer are either trademarks or registered trademarks of VeriFone in the United States and/or other countries. The absence of a product or service name or logo from this list does not constitute a waiver of VeriFone's trademark or other intellectual property rights concerning that name or logo. All other trademarks or brand names are the properties of their respective holders. All features and specifications about VeriFone products and services are subject to change without notice.
 
+VeriFone, Inc.  
+Attn: Legal Department  
+2099 Gateway Place, Suite 600  
+San Jose, CA 95110-1093  
+Fax: (408) 232-7841
