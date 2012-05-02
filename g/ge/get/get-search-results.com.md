@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the get-search-results.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216094317id_/http%3A//get-search-results.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-search-results.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502075622id_/http%3A//get-search-results.com/privacy.html) for the most accurate reproduction.*
 
-# Get-Search-Results.com
+# FindSearchEngineResults
 
-**Get-Search-Results.com EFFECTIVE DATE:** The most recent version of this Privacy Policy, as revised, is effective as of August 30th, 2010.   
-This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of Get-Search-Results.com, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked" to. This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information.   
+**FindSearchEngineResults.com EFFECTIVE DATE:** The most recent version of this Privacy Policy, as revised, is effective as of August 25th, 2010.   
+This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of FindSearchEngineResults.com, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked" to. This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information.   
 Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use.
 
  **Applicability**
@@ -37,7 +37,7 @@ Sponsor may employ other companies and individuals to perform functions on its b
 
 **Security**
 
-Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware Get-Search-Results.COM can provide, to ensure the utmost security for all users.
+Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware FindSearchEngineResults.COM can provide, to ensure the utmost security for all users.
 
 **Consent to Transfer**
 
