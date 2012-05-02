@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231205417id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502075653id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
 
 # Your Network -- Powered by Groupsite.com
 
@@ -54,15 +54,15 @@ All Users: You can change your Groupsite.com User account settings at any time f
 
 ##  Images of your Groupsite or profile in marketing materials 
 
-Groupsite.com reserves the right to include images of your Groupsite's header graphic or overview Summary page on the Groupsite.com website or in other marketing materials for demonstration and promotional purposes. We also may display additional pages from public and semi-public Groupsites. For Public Groupsites, this includes the possibility of displaying an image of your Professional or Social member profile, including your photograph. Groupsite.com will take care to present images in a professional manner and without compromising the character of the Groupsite. 
+Groupsite.com reserves the right to include images of your Groupsite's header graphic or overview Summary page on the Groupsite.com website or in other marketing materials for demonstration and promotional purposes. We also may display additional pages from public and semi-public Groufpsites. For Public Groupsites, this includes the possibility of displaying an image of your Professional or Social member profile, including your photograph. Groupsite.com will take care to present images in a professional manner and without compromising the character of the Groupsite. 
 
 You may specifically request in writing that we not use images of your profile page in this manner by sending a request via email to news@groupsite.com with the text REMOVE FROM MARKETING MATERIALS in the subject line. You may also submit your written request to: 
 
 Groupsite.com, Inc. 
 
-7226 Lee Deforest Drive, Suite 206 
+P.O. Box 1047 
 
-Columbia, MD 21046 
+Lanham, MD 20703 
 
 Attn: Marketing 
 
