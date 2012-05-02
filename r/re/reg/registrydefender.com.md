@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106112722id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrydefender.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502111000id_/http%3A//www.registrydefender.com/privacy.asp) for the most accurate reproduction.*
 
 # Registry Defender: Privacy Policy
 
