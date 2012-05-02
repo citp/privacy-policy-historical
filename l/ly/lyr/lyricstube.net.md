@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lyricstube.net privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401063757id_/http%3A//www.lyricstube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstube.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502025324id_/http%3A//www.songstube.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our visitors to www.lyricstube.net is important to us.
+The privacy of our visitors to songstube is important to us.
 
-At www.lyricstube.net, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.lyricstube.net, and how we safeguard your information. We never sell your personal information to third parties.
+At songstube, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit songstube, and how we safeguard your information. We never sell your personal information to third parties.
 
 ## Log Files
 
@@ -14,7 +14,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on www.lyricstube.net to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on songstube to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 ## DoubleClick DART cookies
 
