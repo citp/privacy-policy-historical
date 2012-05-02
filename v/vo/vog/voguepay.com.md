@@ -1,74 +1,84 @@
-> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2007-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071014084538id_/http%3A//www.voguepay.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguepay.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502083105id_/https%3A//voguepay.com/privacy_policy) for the most accurate reproduction.*
 
-# Singapore Vogue Community
+# VoguePay
 
-** SG Vogue Privacy Policy**
+VoguePay.com, its subsidiaries, marketing partners and affiliated companies respect the privacy of our partners and suppliers of products or services, clients and their customers. The purpose of this privacy statement is to provide you with information concerning our services, the types of information we are provided or obtain ourselves through visits to or use of our Website, how we use that information, whether we disclose the information provided to us to others and the options you have with regard to the use of and correction of that information.   
+Our goal in handling information provided to us in connection with the processing of transactions on our Website is to comply with applicable data privacy laws and to offer users of our Website notice, choice, consent, security, data integrity, access and enforcement with regard to personal information provided to us by individuals in conjunction with those transactions.
 
-SG Vogue does not send Spam or sell email addresses. 
+Click a title below: 
 
-About SG Vogue and the Information We Collect   
-SG Vogue is an online social networking community that connects people through networks of friends for dating or making new friends. To accomplish this, our users create their own profiles which are shown to the people in their personal network. A personal network consists of a user?s friends as well as the extended group of people that a user is connected to via chains of mutual friends. To fulfill the purpose of this site, some personal information we ask for is displayed to people within these personal networks. 
+### What Information Do We Collect, How Do We Use It?
 
-Information Collected/Tracked by SG Vogue 
+VoguePay.com provides its partners and suppliers with a variety of fulfillment, support and E-commerce related services. Some of these services may be provided through sites bearing our partners and suppliers names and trademarks.
 
-Information submitted to SG Vogue 
+Depending on the nature of the services provided by VoguePay.com to our partners or suppliers, VoguePay.com may receive personal information either from you directly or from our partner or supplier who provides us with the personal information to fulfill a service to you on their behalf. In some circumstances personal information that VoguePay.com receives from you directly may be provided to our partners or suppliers in order for them to fulfill a service to us for your benefit or directly to you.  
+The personal information may include but is not limited to your name, mailing address, phone number, type of hardware or software you own and other information required to provide you with the product, service or support requested.
 
-SG Vogue collects user-submitted account information such as name and email address to identify users and send notifications related to the use of the service. SG Vogue also collects user-submitted profile information such as gender, age, occupation, location, etc. 
+VoguePay.com also employs other companies to provide services to it in connection with your transaction. We may use companies to process credit card payments, deliver packages, send mail, analyze data, provide marketing aid and assistance, provide customer service, and otherwise provide services to us to enable us to serve you and enhance our services. These organizations may have access to personal information as required to permit them to perform their obligations to us. We require these organizations to undertake to protect personal information and to only use it in accordance with applicable laws and for the purposes for which they are specifically engaged.
 
-Information not Directly Submitted by Users to SG Vogue 
+Some of the ways in which we will use the personal information provided us include:
 
-This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site. 
+  * to take, process or deliver your order, process or obtain payment or notify you of the status of your order; in connection with keys, access codes or other information as may be required to permit you to access our partners' sites to receive products, updates or services; 
+  * to provide it to industry and credit related organizations for security, credit or fraud prevention purposes; 
+  * to register your purchase with the manufacturer or service provider for warranty, technical support or similar purposes; 
+  * to pass to partner marketing affiliates in which you have requested enrollment during the purchase process; 
+  * to facilitate the renewal of subscriptions for products or services; 
+  * to provide you with technical support; 
+  * to monitor service or purchasing patterns; 
+  * to provide you with service updates, announcements, and other product offerings; 
+  * to send you, with your consent, newsletters or promotional emails or undertake other promotional activities; and 
+  * to permit you to participate in online surveys and polls, assuming you voluntarily agree to provide such information in connection with these surveys and polls. 
 
-Use of Information Obtained by SG Vogue 
 
-Information users submit to SG Vogue 
 
-Profile information as well as first name and photos are displayed to people in a user's personal network, to support the function of the site as social networking community where users can meet new people through their friends. Email address and full name are used when a user invites a friend via email to join the service, when a user requests to add another user to their friend list, and when we send notifications to a user related to their use of the service. Except when inviting or adding friends, a user's email address is not shared or displayed with people within a user's personal network. Users within a personal network communicate on SG Vogue with each other through the SG Vogue service, without disclosing email addresses. We may also use a user's email address to send weekly updates or news regarding our site, but the user may choose not to receive email of this type by accessing their Account Info. 
+We may also provide links from our Website to third party websites who may provide services to you directly or on our behalf. THE PRIVACY POLICIES OF THESE THIRD PARTY SITES MAY BE DIFFERENT FROM OUR PRIVACY POLICIES AND WILL GOVERN ANY TRANSACTIONS UNDERTAKEN ON THAT SITE. We urge you to review the privacy policy of any site to which you are linked. 
 
-Information that users do not submit to us 
+The information we receive may be transferred outside Nigeria for processing. We will undertake to obligate any person or entity receiving such information to process any such information in accordance with this Privacy Statement and in accordance with applicable law. By submitting your order either to our partner or to us you consent to the use of your personal information as set forth above and the transfer of that data as outlined in this paragraph to our partners or those individuals or entities we engage to provide services in connection with your transaction. 
 
-We use your server, IP address, and browser-type related information in the general administration of our website. 
+### Will VoguePay.com Give Me Notice of Requests for My Information Made By Law Enforcement or Governmental Agencies?
 
-Sharing of the Information this Site Gathers/Tracks 
+No. VoguePay.com may be required to respond to subpoenas, court orders or be asked to respond to other legitimate requests for your personal information from appropriate law enforcement or governmental authorities. In such situations, we will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information: 
 
-Except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away any of your personal information unless required by law or for the protection of your membership. 
+  * to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena), 
+  * to comply with all valid court orders or subpoenas, 
+  * to protect our legal rights and those of our users; and/or when we believe it is needed for fraud protection and/or credit risk reduction. 
 
-Links 
 
-This site may contain links to other websites. Please be aware that SG Vogue is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-Use of Cookies 
+VoguePay.com also reserves the right to report to such entities any activities that we believe to be unlawful. Any report made to under this paragraph will be made without prior notice to you. 
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used to manage sessions on our site. Users must enable cookies to use our site. Also, users may optionally use a cookie to remember their password in order to automatically log in to our site. We do not and will not use cookies to collect private information from any user which they did not intentionally submit to us. 
+In the event VoguePay.com merges with another entity, is acquired by another entity, or enters into a business combination with another entity, VoguePay.com may be required to disclose some or all of your personally identifiable information to that entity to continue serving you. 
 
-Correcting/Updating or Removing Information 
+### How Does VoguePay.com Protect Customer Information?
 
-SG Vogue users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. 
+Customers who use the VoguePay.com system are on a secure server which encrypts all of a customer's personal information. This makes it difficult, if not impossible, for a third party to access or use your personal information in an unauthorized manner. 
 
-Changes in Our Privacy Policy 
+VoguePay.com has developed its service with security as a top priority. We use firewalls to prevent access to information in our system and Secure Socket Layers ("SSL") to encrypt your personal information and protect it from disclosure, destruction, modification or use. 
 
-If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. 
+### What About Cookies?
 
-Invite a Friend 
+"Cookies" are a data analysis technique that uses information stored on your browser. VoguePay.com's cookies are used to identify a customer, not to identify specific customer traits. If you do not want cookies in your browser, you may set your browser to reject cookies or to notify you when a website attempts to place a cookie in your browser. 
 
-If a user elects to use our Invite feature to invite a friend to our site, we ask them for the friend's email address. SG Vogue will automatically send the friend an email inviting them to join the site. SG Vogue stores this email address for the purpose of automatically adding the respondant to the friends list of the user sending the invitation, and also to send reminders of the invitation. SG Vogue does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. The friend may contact SG Vogue to request the removal of this information from our database. 
+### Non-Personally Identifiable Information
 
-Chat Rooms, Message Boards, and Public Forums 
+We may also collect other information which does not in and of itself identify a specific individual. This information includes IP addresses, search terms, domain names and browser types. We use this information to track usage and other patterns on our Websites. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
+### Information Sharing
 
-Security 
+VoguePay.com does not sell, trade or rent personal information to anyone. We will not use or share your personally identifiable information with others except those individuals or entities which we have engaged to provide services to you, for those purposes set forth above or with your consent. 
 
-Your SG Vogue account is password-protected. This web site takes every precaution to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. 
+### Your Choices
 
-Email Choice/Opt-out 
+VoguePay.com will not share or use your personal information in ways unrelated to the purpose for which you provided us the information, without providing you the opportunity to consent to such unrelated uses. At the time you provide your information, we will offer you a choice as to whether or not you wish to receive further communications about special offers, product information or other marketing messages. We may provide this information to our business partners and suppliers. If you choose not to receive these communications, we will not use your personally identifiable information for this purpose. 
 
-Users who no longer wish to receive our weekly updates or news may opt-out of receiving these communications by following the instructions contained in the email or by logging-in and changing their settings in the Account Info section of the site. 
+### Accuracy and Access
 
-Third Party Advertising 
+VoguePay.com will provide you with the ability to access your personal information maintained on our system and permit you to review and correct that personal information or change your choices or preferences with regard to that personal information; for instance, whether or not you wish to be contacted about specials or new products. We reserve the right to protect our own or other's confidential or personal information in connection with your review and correction and further reserve the right to charge you a reasonable fee for access to your personal information dependent on the nature and scope of your request and the difficulty in complying with your request. 
 
-The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. SG Vogue does not have access to or control of the cookies that may be placed by the third-party ad servers or ad networksThis privacy statement covers the use of cookies by SG Vogue and does not cover the use of cookies by any advertisers. 
+### Changes to this Privacy Policy
 
-Contacting the Web Site 
+VoguePay.com may amend this Policy from time-to-time. We suggest you visit this Website periodically to determine whether or not any such changes have been made. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us. 
+### VoguePay.com's Contact Information
+
+If you have questions or comments or would like to contact us concerning our Privacy Statement, please contact us online at [our help center](https://voguepay.com/help) or use the live chat button on our homepage. 
