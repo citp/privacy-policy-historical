@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202092249id_/http%3A//www.chamberlain.com/doityourself/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502184227id_/http%3A//www.chamberlain.com/doityourself/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
-**Privacy is very important to Chamberlain®.**   
+** Privacy Policy
+
+Privacy is very important to Chamberlain®. 
+
+**   
 It is Chamberlain's policy to respect the privacy of users who visit our Web site. To ensure this, the following policy statement explains how we collect information from you as well as how it is used. 
 
 **Passive Collection of Information**  
@@ -10,12 +14,12 @@ While you are on our site, we automatically track information related to your us
 
 **Personal Identifying Information  
 Special Offers **  
-Within our promotions area, and at other locations on the site, we sometimes run contests or other promotions in which we ask visitors for contact information (such as e-mail addresses), demographic information (zip code, age, or income level) and information about their driving habits. The visitor's contact information is used for internal purposes, and will be added to the Chamberlain special promotions mailing list in order to provide the visitor you with information about Chamberlain products and special offers from Chamberlain and to third-party companies regarding products or services that may be of value to you. Also on the site, we provide you with the opportunity to sign up to be added to Chamberlain's special promotions list and receive promotional material from third party companies. 
+Within our promotions area, and at other locations on the site, we sometimes run contests or other promotions in which we ask visitors for contact information (such as email addresses), demographic information (zip code, age, or income level) and information about their driving habits. The visitor's contact information is used for internal purposes, and will be added to the Chamberlain special promotions mailing list in order to provide the visitor you with information about Chamberlain products and special offers from Chamberlain and to third-party companies regarding products or services that may be of value to you. Also on the site, we provide you with the opportunity to sign up to be added to Chamberlain's special promotions list and receive promotional material from third party companies. 
 
 **How Chamberlain Uses Information Collected  
 ** Chamberlain uses the information we collect to improve our marketing and promotional efforts, to statistically analyze usage of our site, to improve our content and offerings on the site and to customize the content and layout of the site. 
 
-If a visitor registers for promotions or sweepstakes we use the information collected in order to deliver information (including information about products or services) that may be of interest to the visitor. We may use visitor information to deliver information that, in some cases, is targeted to the interests your interests, such as targeted banners, new services and promotions. We may use e-mail addresses, mailing addresses or phone numbers, to contact users regarding administrative notices. We may use the contents of e-mails sent to Chamberlain for the purposes of promoting Chamberlain products and the site. 
+If a visitor registers for promotions or sweepstakes we use the information collected in order to deliver information (including information about products or services) that may be of interest to the visitor. We may use visitor information to deliver information that, in some cases, is targeted to the interests your interests, such as targeted banners, new services and promotions. We may use e-mail addresses, mailing addresses or phone numbers, to contact users regarding administrative notices. We may use the contents of emails sent to Chamberlain for the purposes of promoting Chamberlain products and the site. 
 
 **Disclosure to Third Parties**  
 Chamberlain may disclose information in the aggregate to advertisers or other third parties for marketing and promotional or other purposes. 
