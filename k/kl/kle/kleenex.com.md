@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123072238id_/http%3A//www.kleenex.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502140123id_/http%3A//www.kleenex.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Kleenex® Brand
+# Privacy Policy | Kleenex®
 
 This website is owned and operated by Kimberly-Clark Corporation. At Kimberly-Clark, we recognize that visitors to our site may be concerned about the information they provide to us and how we treat that information. Our Privacy Notice addresses those concerns. We may update the Notice from time to time, so please check in occasionally. There are extra regulatory requirements regarding online privacy protection for children age 12 and under. Please see the information under "Children" below. This Privacy Notice is incorporated into and is subject to the Kleenex.com Terms. Your use of Kimberly-Clark sites and any other personal information you provide on Kimberly-Clark sites remain subject to the terms of the Privacy Notice and Kleenex.com User Agreement.
 
