@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mancouch.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213203823id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mancouch.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502214807id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
-# About Xanga » Privacy Policy
+# Privacy Policy | Xanga Help
 
 Effective: August 25, 2011
 
@@ -50,7 +50,7 @@ We take your privacy seriously and so should you. Xanga has many features design
 
 
 
-**CHILDREN** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**CHILDREN** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 **Children under 13 are not allowed to register for Xanga accounts.** It is Xanga’s policy not to collect information from children under 13.
 
@@ -58,7 +58,7 @@ If you are the Parent or Legal Guardian of a child under 13 who has become a Xan
 
 For more information about protecting your child’s privacy online, please visit the “[OnGuard Online](http://onguardonline.gov/socialnetworking.html)” website maintained by the Federal Trade Commission.
 
-**INFORMATION COLLECTED BY XANGA** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**INFORMATION COLLECTED BY XANGA** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 Xanga may collect certain information from you as described below. Xanga uses the information it collects for authentication purposes, to customize the advertising and content you see, to fulfill your requests for products and services, to provide aggregated, anonymous reporting for Xanga or third parties, to improve our services, and to communicate with you as part of the Xanga service.
 
@@ -170,7 +170,7 @@ _Error Logs_
 
 If an error occurs in Xanga’s systems while you are using the service, Xanga’s servers may automatically collect and store information relating to that error, including your browser information, information from Xanga cookies, and other information that you may have input at the time the error occurred (e.g. information you had written into any web forms). Xanga uses this information solely to investigate the error and help prevent future errors.
 
-**MANAGING AND PROTECTING YOUR INFORMATION** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**MANAGING AND PROTECTING YOUR INFORMATION** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 Xanga provides many features designed to help you manage and control access to your information. Unless specifically stated otherwise (e.g. on the page where you submit the information), any information that you submit to Xanga may be accessible to the entire world, unless you choose to use the available features designed to help you restrict access to that information.
 
@@ -247,7 +247,7 @@ Registered Xanga users can control whether their usernames are displayed through
 
 Be aware that some Xanga users may install third party tracking software on their Xanga sites, which may collect and disclose additional information about visitors to those sites (see “Third Party Trackers and Scripts” below).
 
-**INFORMATION SHARING AND DISCLOSURE** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**INFORMATION SHARING AND DISCLOSURE** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 Xanga does not share, sell or rent any of your information, except as follows:
 
@@ -266,13 +266,13 @@ Xanga displays targeted advertisements based on information including demographi
 
 Please be aware that if you voluntarily provide information to a third party advertiser (e.g. you provide your email address after clicking on a targeted ad), you are consenting to the possibility that the advertiser will make the assumption that you also meet the targeting criteria used to display the ad.
 
-**INFORMATION XANGA RETAINS** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**INFORMATION XANGA RETAINS** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 When you delete information submitted through your Xanga account, that information will no longer be accessible on your Xanga site. When you shut down your Xanga account, or when your Xanga membership is terminated, your entire Xanga site will no longer be accessible on Xanga (please note, however, that if somebody tries to visit your Xanga site after you have shut down your account, or after your membership has been terminated, your Xanga username will continue to appear in a message stating that your account has been shut down; also note that some of your information may continue to appear in other areas of Xanga – e.g. Xanga search results – until those areas are updated).
 
 When you delete information submitted through your Xanga account, when you shut down your Xanga site, or when your Xanga membership is terminated, Xanga may retain a copy of your information (including browser information) for archival purposes. Archival copies are _not_ posted publicly on the Xanga system; they are maintained solely so that Xanga may recover content and restore accounts (in case of errors or system failure) or cooperate with law enforcement in order to make the Xanga service safer.
 
-**HOW OTHERS USE YOUR INFORMATION** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**HOW OTHERS USE YOUR INFORMATION** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 **Links to Third Party Sites**
 
@@ -314,18 +314,18 @@ Most browsers come with the ability to restrict software (scripts) or cookies fr
 
 In order to download the Xanga Mobile platform software to their cell phones, users need to provide their mobile phone number to Xanga’s platform software provider, [Intercasting Corporation](http://www.intercastingcorp.com/), who then sends users a link to the download. The mobile number provided to Intercasting Corporation is neither collected by nor shared with Xanga.
 
-**CONFIDENTIALITY & SECURITY** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**CONFIDENTIALITY & SECURITY** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 Your Xanga account is protected by a password you create. Xanga implements features reasonably designed to protect the security of any non-public information that is stored in our database, such as your password. We cannot, however, guaranty the security of your non-public account information. Hacking, software or hardware failure and other unauthorized access to our premises and systems may compromise the security of Xanga members’ information.
 
-**CHANGES TO THIS PRIVACY POLICY** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**CHANGES TO THIS PRIVACY POLICY** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 From time to time we may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Xanga account or by placing a prominent notice on our site. Please note that your continued use of the Xanga service after the date of any changes to this policy (which will appear as the “Effective” date listed on the policy) will constitute your acceptance and agreement to be bound by those changes. You should visit this page on a regular basis to view any changes to this privacy policy.
 
-**NON-US RESIDENTS** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**NON-US RESIDENTS** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 If you are not a US resident, your use of Xanga shall constitute consent to the transfer, storage, use and disclosure of your personally identifiable information in the US in the manner described in this Privacy Policy.
 
-**QUESTIONS OR SUGGESTIONS** ([top](http://help.xanga.com/about/privacy-policy/#top))
+**QUESTIONS OR SUGGESTIONS** ([top](http://help.xanga.com/about/privacy-policy/#))
 
 For any questions or suggestions regarding this Privacy Policy, please [contact Xanga here](http://help.xanga.com/about/contact-customer-service/).
