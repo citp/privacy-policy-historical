@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102023449id_/http%3A//nandos.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502201049id_/http%3A//www.nandos.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](https://web.archive.org/web/20111102023449id_/http%3A//nandos.com.au/index.php)
+[](https://web.archive.org/web/20120502201049id_/http%3A//www.nandos.com.au/index.php)
 
 **Privacy Statement**
 
