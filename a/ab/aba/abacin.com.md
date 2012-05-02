@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013446id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094924id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -21,13 +21,16 @@ If you want to prevent a third-party advertiser from setting and/or reading cook
   2. **Notification of Changes**  
 If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. 
 
-|  |  |  Username:   
+|  |  | Connect with Abacin.com  
+---  
+[ ]() |  [ ](http://member.abacin.com/help.php?id=51) |  [ ](http://www.facebook.com/pages/Abacin-Deals/225982020830920) |  [ ](http://member.abacin.com/help.php?id=52)  
+|  Username:   
 ---  
 Password:   
+Keep me logged in for 90 days   
   [ Not a member, register now! ](http://member.abacin.com/register.php)  
-|  Follow Abacin by [ ](http://member.abacin.com/help.php?id=50) [ ](http://member.abacin.com/help.php?id=51)  
+|  Popular Links in [ Abacin.com ](http://www.abacin.com/)  
 ---  
-Popular Links in [ Abacin.com ](http://www.abacin.com/)  
 | [Coupons ](http://coupons.abacin.com/)  
 [Freebies ](http://freebies.abacin.com/)  
 [Selected Deals ](http://deals.abacin.com/?s=3)  
@@ -37,12 +40,12 @@ Popular Links in [ Abacin.com ](http://www.abacin.com/)
 [ Photo Sharing ](http://directory.abacin.com/134/Photo+Sharing)  
 [ Department Store ](http://directory.abacin.com/93/Department+Store)  
 [ Get Paid for Surveys ](http://directory.abacin.com/6/Get+Paid+for+Surveys)  
-|  [ **Price Angels: 92%OFF, Daily deals offer , $4.20 , Golden In-Ear 4-PIN Earphones for iPhone (3.5mm Jack / 1.2M Cable) @PriceAngels , Free shipping.**](http://deals.abacin.com/226108/92-OFF-Daily-deals-offer-4-20-Golden-In-Ear-4-PIN-Earphones-for-iPhone-3-5mm-Jack-1-2M-Cable-PriceAngels-Free-shipping-?rf=1)  
+|  [ **Buy.com: Bose Wall/Ceiling Bracket - Zinc for $18.95 (List Price: $999.99)**](http://deals.abacin.com/191638/-bose-wall-ceiling-bracket-zinc-for-18-95-list-price-999-99-?rf=1)  
 ---  
-[ **The Sportsman's Guide: SPG 3-Pk. Women's Foxy Huntress Long - sleeve Shirts Sale Price $19.97 Compare Price $180**](http://deals.abacin.com/226858/SPG-3-Pk-Women-s-Foxy-Huntress-Long-sleeve-Shirts-Sale-Price-19-97-Compare-Price-180?rf=1)  
-[ **Amazon: 14K White Gold, Round, Blue Diamond Stud Earrings (1/2 ctw) Deal Price: $189.00 List Price: ~~$1499.00~~**](http://deals.abacin.com/226566/14K-White-Gold-Round-Blue-Diamond-Stud-Earrings-1-2-ctw-Deal-Price-189-00-List-Price-strike-1499-00-strike-?rf=1)  
-[ **Get a Brother PT-2030VP Desktop "Simply Professional" Labeler With Carrying Case For $22.99 at Buy.com, a $106.96 Savings!**](http://deals.abacin.com/226183/Get-a-Brother-PT-2030VP-Desktop-Simply-Professional-Labeler-With-Carrying-Case-For-22-99-at-Buy-com-a-106-96-Savings-?rf=1)  
-[ **CowBoom: Today Only: $12.99 Refurbished Insignia Boombox w/ iPod Dock (Reg: $64.99)**](http://deals.abacin.com/227283/Today-Only-12-99-Refurbished-Insignia-Boombox-w-iPod-Dock-Reg-64-99-?rf=1)  
-[ **$1151 off a Movado Elliptica Alligator Leather Women's Watch - $299 + Free Shipping at Newegg.com, exp. 11/23**](http://deals.abacin.com/227288/-1151-off-a-Movado-Elliptica-Alligator-Leather-Women-s-Watch-299-Free-Shipping-at-Newegg-com-exp-11-23?rf=1)  
-[ **Garden & Gun Magazine - $3.50/yr (76% off) (up to 2 years) from DiscountMags.com!**](http://coupons.abacin.com/226125/Garden-Gun-Magazine-3-50-yr-76-off-up-to-2-years-from-DiscountMags-com-?rf=1)  
-[ **www.OnSale.com SEATTLE DEAL:$6 for $23.75 Value — 75% Off Five Double Scoop Punch Card at Ben and Jerry’s in Kirkland**](http://deals.abacin.com/226354/www-OnSale-com-SEATTLE-DEAL-6-for-23-75-Value-75-Off-Five-Double-Scoop-Punch-Card-at-Ben-and-Jerry-s-in-Kirkland?rf=1)
+[ **Amazon: Super-Cute Turtle Shaped Freshwater Pearl Earrings Deal Price: $5.99**](http://deals.abacin.com/191431/super-cute-turtle-shaped-freshwater-pearl-earrings-deal-price-5-99?rf=1)  
+[ **Groupon: $20 for a 30-Class Yoga and Fitness Pass from MetaBody ($350 Value)**](http://deals.abacin.com/191589/-20-for-a-30-class-yoga-and-fitness-pass-from-metabody-350-value-?rf=1)  
+[ **$61 Off EZOPower Component Audio / Video AV TV Cable w/ Micro-USB Sync & charging Port For Apple iPhone 4S 4, iPad, & iPod - $18.99 + Free Shipping at Newegg.com, exp. 5/1**](http://deals.abacin.com/191405/-61-off-ezopower-component-audio-video-av-tv-cable-w-micro-usb-sync-charging-port-for-apple-iphone-4s-4-ipad-ipod-18-99-free-shipping-at-newegg-com-exp-5-1?rf=1)  
+[ **CheapOStay: Save Up to 65% on Flights plus Get $15 Instant Off! Book Now!**](http://coupons.abacin.com/191698/save-up-to-65-on-flights-plus-get-15-instant-off-book-now-?rf=1)  
+[ **Bike Nashbar: SportRack Voyager 3 Bike Trunk Rack only $39.99 for the month of May! Save $50 only at Nashbar.com!**](http://deals.abacin.com/191815/sportrack-voyager-3-bike-trunk-rack-only-39-99-for-the-month-of-may-save-50-only-at-nashbar-com-?rf=1)  
+[ **Dell: apr 25 - may 4_Limited quantity! Mitsubishi 73-inch WD-73C11 1080p 3D DLP Home Cinema TV for $949.99 only after 54% savings! Coupon Code NR0LHJDQ5RR1FL**](http://coupons.abacin.com/191468/apr-25-may-4-limited-quantity-mitsubishi-73-inch-wd-73c11-1080p-3d-dlp-home-cinema-tv-for-949-99-only-after-54-savings-coupon-code-nr0lhjdq5rr1fl?rf=1)  
+[ **Virgin Mobile: Wildfire $35 Off plus $35 account credit**](http://deals.abacin.com/191379/wildfire-35-off-plus-35-account-credit?rf=1)
