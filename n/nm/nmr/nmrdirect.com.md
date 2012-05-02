@@ -1,59 +1,41 @@
-> *The following text is extracted and transformed from the nmrdirect.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303024538id_/http%3A//www.nmrdirect.com/content/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmrdirect.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502072511id_/http%3A//www.nmrdirect.com/privacy) for the most accurate reproduction.*
 
 # National Marketing Resources
 
-**Privacy Policy Statement for National Marketing Resources**
+We understand that visiting www.nmrdirect.com, or any other website, requires trust on your part. We value your trust highly and pledge to you that we will protect the security and privacy of any personal information you provide to us. This includes your name, address, phone number and email address, in addition to any other personal information that can be personally linked to you.
 
-Protecting our visitor's privacy is a priority for National Marketing Resources. The following policy represents our commitment to ensuring that your personal information is protected and your concerns regarding the management of your data are addressed and honored. Please send us an email if you have any questions regarding this policy.
+Learn More About:
 
-This policy covers the following areas:
+1\. Personal information and how we use it  
+2\. How you can decide what marketing communication you receive from us  
+3\. Changes to the www.nmrdirect.com Privacy Policy  
+4\. How to contact PMI
 
-  1. Contact Information (How to Reach National Marketing Resources)
-  2. Information We Capture and Collect
-  3. Opt Out Instructions
-  4. Future Changes to This Policy
-  5. Correcting Your Contact Information
-  6. Security
+**1\. Personal Information and How We Use It**
 
+When you make a visit www.nmrdirect.com, you will be assigned a permanent "cookie" (a small, unique identifier text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit our site so we can enhance and customize your browsing experience.
 
+You can choose to refuse cookies, but without these identifier files you will not be able to take advantage of certain features of our site. You may configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-**Contact Information**
+We also collect certain technical information from your computer each time you request a page during a visit to the PMI website. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring website, if any. We collect this information to enhance the quality of your experience during your visit to our site and will not sell or rent this information to any third parties.
 
-National Marketing Resources  
-351 West Washington  
-Kearney, Missouri 64060  
+Information we collect on www.nmrdirect.com may be used to communicate special newsletters, release lists and promotions, if you choose to receive such information.
 
+From time to time, PMI may conduct surveys and contests via our website, email, or other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.
 
-We can be reached via email at: [Privacy@NMRDirect.com](mailto:privacy@nmrdirct.com)
+We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site.
 
-**Information We Capture and Collect**
+**2\. How you can decide what marketing communication you receive from us?**
 
-For each visitor to our Web page, our Web server automatically recognizes the customer's domain name, referring URL when possible, but not any personally identifying information.
+If you choose to receive them, PMI may periodically send you email messages. You can choose to stop receiving this email at any time.
 
-We collect only the email addresses of those who communicate with us via email, aggregate information on what pages customers access or visit, and information volunteered by the customer, such as survey information and/or site purchases or registrations.
+**3\. Changes to the www.nmrdirect.com Privacy Policy.**
 
-The information we collect is for us to use to communicate with customers regarding our products and services, and to improve the content of our Web pages. 
+We reserve the right to change, modify or amend this privacy policy at any time. If we make any significant change to this policy, we will post a notice of the change on www.nmrdirect.com.
 
-With respect to cookies: We use cookies to record session information, such as items that customers add to their shopping cart.
+**4\. How to contact us?**
 
-**Opt Out Instructions**
+If you have comments or questions regarding our privacy policy, please contact us at [info@nmrdirect.com](mailto:info@nmrdirect.com). We will address any issue to the best of our abilities.
 
-If you do not want to receive email from us in the future, please let us know by sending us email at [Privacy@NMRDirect.com](mailto:privacy@NMRDirect.com), or by writing to us at the address listed at the top of this page. You may also use the opt-out instructions found at the bottom of every email communication from us to remove your address from our list. We will respect your request for privacy, and will remove your address from future email communications. (Note: please allow up to 7 business days for your request to be fully processed).
+  
 
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending an email to Privacy@NMRDirect.com, or by writing to us at the address listed at the top of this page.
-
-**Future Changes to Our Privacy Policy**
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending an email to [Privacy@NMRDirect.com](mailto:privacy@NMRDirect.com), or by writing to us at the address listed at the top of this page.
-
-**Correcting Your Contact Information**
-
-Upon request we offer visitors the ability to have inaccuracies corrected in their contact information. Customers can have this information corrected by sending an email to [Privacy@NMRDirect.com](mailto:privacy@NMRDirect.com), or by writing to us at the address listed at the top of this page.
-
-**Security**
-
-With respect to security, we use industry-standard encryption technologies when transferring and receiving customer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-This policy does not apply to the practices of companies that National Marketing Resources does not own or control, or to people that National Marketing Resources does not employ or manage. If you feel that this site is not following its stated information policy, you may contact us by sending an email to [Privacy@NMRDirect.com](mailto:privacy@NMRDirect.com), or by writing to us at the address listed at the top of this page.
