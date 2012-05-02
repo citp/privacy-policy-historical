@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold-secrets.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231171025id_/http%3A//www.gold-secrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold-secrets.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502150450id_/http%3A//www.gold-secrets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
