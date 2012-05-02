@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211063946id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyhabitat.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502063048id_/http%3A//www.nyhabitat.com/privacy.html) for the most accurate reproduction.*
 
 # New York Habitat's Privacy Statement
 
-**  OUR COMMITMENT TO PRIVACY & RELIABILITY : **  
-
+### Our Commitment to Privacy & Reliability
 
 **Your privacy is important to us**. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect**. This notice applies to all information collected or submitted on the **New York Habitat** website. On some pages you can make requests, and register to receive materials. The types of personal information collected on these pages are: 
 
->   
 > Name   
 > Occupation   
 > Email address   
 > Phone and Fax number 
 
-  
 **The BBBOnLine Reliability seal program** is the Better Business Bureau's system's reliability assurance program for the World Wide Web. Its mission is to help Web users find reliable, trustworthy businesses on-line and to help reliable businesses identify themselves as such, all via voluntary self-regulatory programs that help avoid government regulation of the Internet.   
-New York Habitat is a member of the Better Business Bureau in good standing. Displaying the BBBOnLine Reliability seal on our site gives New York Habitat customers the assurance that will stand behind its service. | [](http://www.bbbonline.org/cks.asp?id=10010131129112469)  
+New York Habitat is a member of the Better Business Bureau in good standing. Displaying the BBBOnLine Reliability seal on our site gives New York Habitat customers the assurance that will stand behind its service. |  [](http://www.bbb.org/new-york-city/business-reviews/real-estate/new-york-habitat-vlf-inc-in-new-york-ny-53528/)  
 ---|---  
   
-  
+### The way we use cookies
+
 Cookies are small pieces of information that some web sites ask to store on (and later retrieve from) your computer. When you visit New York Habitat website, cookies are stored into your browser, provided your browser accepts them. The information stored on those cookies contains a randomly generated string but no personal information. Those cookies will allow you to retrieve previously selected preferences (if any) each time you come back visiting our website. Additionally, we may use cookies and third parties applications from time to time to build statistics using information such as browser, URL, IP address. 
 
-**  THE WAY WE PROTECT YOUR PRIVACY : **  
-
+### The way we protect your privacy
 
 We use the information you provide about yourself when placing a request only to complete that request **. We do not share this information with outside parties except to the extent necessary to complete that order**. 
 
@@ -36,20 +33,14 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, **we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described**. 
 
-**  OUR COMMITMENT TO SECURITY :**  
+### Our commitment to security
 
-
-  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**  OUR COMMITMENT TO CHILDREN PRIVACY :**  
+### Our commitment to children privacy
 
-
-  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If and when it is discovered that a registration form or any other information has been submitted by an individual under the age of 13, New York Habitat deletes it immediately. 
 
-  
-Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email to [**privacy@nyhabitat.com**](mailto:privacy@nyhabitat.com). 
+### How to contact us
 
-  
-
+Should you have other questions or concerns about these privacy policies, please call us at **212.255.8018** or send us an email to [privacy@nyhabitat.com](mailto:privacy@nyhabitat.com). 
