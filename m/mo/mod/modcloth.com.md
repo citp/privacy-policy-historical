@@ -1,51 +1,68 @@
-> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017143353id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503000148id_/http%3A//www.modcloth.com/help/privacy) for the most accurate reproduction.*
 
-# Help & Support | Mod Retro Vintage Clothing & Indie Clothes | ModCloth.com
+# Privacy | Help & Support | ModCloth
 
-Thank you for shopping with ModCloth.com. We are committed to protecting your privacy and have established this privacy statement to keep you informed of our information practices involving the collection and use of your personal information.
+ModCloth.com requests and collects personal information from our customers at various site locations and instances, including, but not limited to, when you create a ModCloth.com membership, make a purchase, communicate with us via social media, write a product review, create a wishlist, participate in events, contests, or promotions, contact our customer care team, or post other customer-generated content to this Site. These are currently the primary ways in which we gather information, however, we may also collect data through other channels in the future.
 
-When you select to purchase a product from ModCloth.com, we collect your personal information to fulfill your purchase request, as well as register you an account for future purchases and record keeping.
+The types of personal information we may collect from you can vary according to the method through which it was attained. It may include, but is not limited to, the following:
 
-This information includes your full name, email address, billing and shipping addresses, and phone number. Your email address may also be used to register you to receive newsletters if you opt to receive such communications from ModCloth.com. We also collect sensitive financial information, such as your credit card number, specifically for the purpose of completing your transaction. All collected information is for the purpose of completing your transaction, as well as registering your account, providing users with live support, and sending newsletters as appropriate.
+* **Information You Provide to Us**
 
-We send newsletters to users who select to receive them. Should you at any point change your mind about receiving these communications, please select the unsubscribe link which is present in each email we send to remove yourself from the list.
+We receive and store any information you knowingly provide to us, such as:
 
-To access, update, or change your personal information, [log into your ModCloth.com account](https://www.modcloth.com/login) and modify your preferences at your discretion.
+\- Full name 
 
-When you select to email a friend your wishlist or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not use this third party email information for any other purposes unless that third party becomes a registered user on ModCloth.com. 
+\- Email address 
 
-### Information Sharing
+\- Phone number 
 
-ModCloth.com does not share the personal information of its users with any third parties for their promotional purposes.
+\- Shipping address 
 
-We reserve the right to to disclose personal information to our service providers, the government, law enforcement agencies, or other third parties under certain circumstances where a formal request has been made (such as in responding to a court order, subpoena, or judicial proceeding) as ModCloth.com, in our sole and absolute discretion, deems necessary and appropriate. Moreover, in the event of a sale, merger or transfer of some or all of ModCloth.com's assets, your personal information would likely be a part of the transferred assets. We shall notify you by a notice on the home page of any change in the information practices governing your personal information as a result of the change in ownership, and your choices in how your information is used.
+\- Billing information and payment details (such as billing address, credit card details, and other sensitive financial information, specifically for the purpose of completing your transaction) 
 
-This Site contains links to other websites. ModCloth.com takes no responsibility for the privacy practices or the content of these other websites. We encourage you to read the privacy policies of each website you visit prior to disclosing your personal information.
-
-We use a third party payment processor and a third party shipping agent to ensure the payment, and delivery of your purchased products. These third parties have no authority to use your personal information for any promotional purposes.
-
-We partner with [FetchBack](http://www.fetchback.com/) to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
-
-### Blog Disclosure
-
-If you use a blog or chat room on ModCloth.com you should be aware that any personal information disclosed therein can be read, collected and used by other members of this forum to send you unsolicited messages. ModCloth.com is not responsible for the personal information users select to disclose in these forums.
-
-### Security
-
-ModCloth.com utilizes some of the most advanced technology available today for Internet security purposes. When you access our site using industry standard Secure Socket Layer (SSL) technology, your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to ModCloth.
-
-Our site is verified by VeriSign and uses TrustCommerce for all of our secure credit card transactions. We are a BBB accredited business.
-
-In addition, ModCloth.com is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or outside access to keep us all safe!
-
-##### Contact Information
-
-By Mail: 3011 Smallman St., Pittsburgh PA, 15201  
-Phone: 888-495-9699.  
-Last updated April.15th.2009  
+\- Username and password for your ModCloth.com membership  
 
 
-Thank you for choosing ModCloth.com
+\- A record of your ModCloth.com orders, purchase history, and shopping behavior and preferences 
 
-Sincerely,  
-The ModCloth Security Team 
+\- Information provided by you through your interactions with us in social media 
+
+\- Location and geographic information that could be collected if you use our mobile site or app. 
+
+\- Other details that you may submit to us or that may be included in the information provided to us by third parties. 
+
+\- Additionally, when you select to email a friend your wishlist or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not share your friend’s email information for any other purposes unless that friend creates a membership to ModCloth.com. 
+
+* **Information Collected Automatically**
+
+We use third-party website analytics tools (including Omniture Site Catalyst, QuantCast, and Google Analytics) that automatically collect non-personally identifiable information from your browser to our server logs whenever you interact with our Site. Such information includes, but is not limited to, IP address, pages viewed, site navigation patterns, details about the devices used to access the Internet and our Site, and geo-location tracking information if you are accessing our Site from a mobile device. It is obtained by automated means, such as cookies and web beacons. “Cookies” are text files that are transferred to your computer’s hard drive as you navigate our Site and other sites. We use cookies to help us show advertisements on other websites likely to be more interesting to you; to compile aggregate data about site traffic and site interaction; and to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services, site experiences, and tools in the future. You may be able to adjust the preferences on your browser or device to change your device’s acceptance of cookies, but doing so may limit our ability to provide content tailored to you.
+
+We may collect and store non-personally identifiable usage information (including frequency and number of visitors to our Site). Such data is used only in aggregate form and in a manner that assures your anonymity. We may provide this anonymous, aggregate information to our partners; and our partners may additionally use such information in order to determine general usage patterns and trends in an effort to provide you with an improved online experience.
+
+* **Email & Other Communications**
+
+We may contact you via email to send you necessary order-related messages, such as order confirmation and shipment confirmation notices.
+
+We may also send you newsletters and additional email messages about our products, services, contests, and promotions that we feel may be of interest to you. If you no longer wish to receive these and other promotional communications from us, you may select the unsubscribe link which is present in each email. You may also customize your communication preferences by accessing the email preference center in your [ModCloth membership page](https://www.modcloth.com/login) and adjusting your settings accordingly.
+
+* **How We Use Your Information**
+
+All of the personal information we collect from our customers is for the purpose of the reasoning described above (see sections b & c), as well as:
+
+\- processing, verifying, validating, and completing your transaction 
+
+\- creating, managing, and maintaining your membership to this Site 
+
+\- providing requested live customer support and services 
+
+\- record keeping of your purchase history 
+
+\- enabling communication via our Site, blog, and social networks 
+
+\- managing your participation in contests and promotions 
+
+\- sending email as appropriate (See Section c: Email & Other Communications) 
+
+* **Under 13?**
+
+ModCloth.com is intended for users who are 13 years of age and older. If you are under the age of 13, you are not permitted to submit any personal information to ModCloth.com. We will promptly delete any personal information from a person under the age of 13 should we discover that we have collected such information from a person under the age of 13 without verification of parental consent. If you believe we may have collected information from a person under the age of 13, please promptly contact [support@modcloth.com](mailto:support@modcloth.com) so we can correct.
