@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quiettimediary.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229002830id_/http%3A//www.wol.org/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiettimediary.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502103104id_/http%3A//www.wol.org/content/privacy) for the most accurate reproduction.*
 
-# Word of Life Fellowship - Privacy Policy
+# Privacy Policy - Word of Life Fellowship
 
 Date of Last Revision: February 23, 2011
 
