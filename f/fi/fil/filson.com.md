@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102183609id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502130954id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Filson
 
@@ -9,8 +9,8 @@ Filson values its customers and respects their privacy. We collect customer info
 This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, you can always contact Filson customer service in any of three ways:
 
     1\. Send us an email using the [Contact Us](https://web.archive.org/filson/our-company/contact-us/ "Contact Us using email") form   
-    2\. call us at 1-866-860-8906  
-    3\. write to us at Filson Customer Service  
+    2\. Call us at 1-866-860-8906  
+    3\. Write to us at Filson Customer Service  
        PO Box 34020  
        Seattle, WA 98124
 
