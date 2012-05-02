@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsdb.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207155558id_/http%3A//www.graphicsdb.com/pages/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsdb.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502092041id_/http%3A//www.graphicsdb.com/pages/legal.html) for the most accurate reproduction.*
 
 # Terms of Service, DMCA, Privacy Policy
 
