@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8steps2wealth.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102042650id_/http%3A//www.8steps2wealth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8steps2wealth.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502120913id_/http%3A//www.8steps2wealth.com/privacy.php) for the most accurate reproduction.*
 
 # 8steps2wealth.com
 
