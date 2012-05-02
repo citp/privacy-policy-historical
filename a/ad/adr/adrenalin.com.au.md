@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220041538id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502100807id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
-# Adrenalin
+# Privacy
 
 **Copyright**  
 Copyright in the Material on this Web Site is owned, or licensed by TRACKCORP ADRENALIN PTY LTD.  
@@ -11,11 +11,10 @@ Except where necessary for viewing, the Material on this web site on your browse
 Privacy  
 **[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.adrenalin.com.au&sealid=101)
 
-Adrenalin takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/). 
+TRACKCORP ADRENALIN PTY LTD takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenalin network of sites (and emails) including [www.adrenalin.com.au](http://www.adrenalin.com.au/) and [www.adrenalin.com.au/corporate/](http://www.adrenalin.com.au/corporate/). 
 
-TRACKCORP ADRENALIN PTY LTD. Is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. TRACKCORP has elected to disclose its information practices as a sign of its commitment to your privacy, as well as have its privacy practices reviewed for compliance by TRUSTe.
-
-Please direct all your questions and concerns pertaining to the Site or this Statement to us at ****[action@adrenalin.com.au](mailto:action@adrenalin.com.au) . We shall work to resolve your concerns. In the event your inquiry goes unacknowledged after a reasonable time frame, or hasn’t been addressed to your satisfaction, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.   TRUSTe shall then work as a liaison with us to resolve your concerns.
+  
+TRACKCORP ADRENALIN PTY LTD has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, [please contact us](http://www.adrenalin.com.au/contact/). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Collection of personal information by Adrenalin**   
 The personal information we collect and store will depend on what products and services you request from us. This includes (but is not limited to) information provided when requesting an adventure booking, gift voucher, gear and/or membership. Our sites registration form requests users’ [which includes third party personal information where applicable collected as described below] to give us contact and profile information such as name, email address, phone number, mailing address, age, medical conditions and dietary requirements.  Some of the requested information is required in order to receive the Adrenalin product or service; other information is optional.  
@@ -48,7 +47,7 @@ Personal information may also be disclosed to our third party service providers 
   * To the adventure provider for the purpose of processing your booking request 
   * To others in the event of a medical emergency 
   * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena. 
-  * To protect against misuse or unauthorized use of Adrenalin 
+  * To protect against misuse or unauthorised use of Adrenalin 
   * To protect the safety, or property of our members, or the public. 
   * We use a third party payment processor to fulfill payment for services procured on the Site. 
   * In the event of a sale, merger, or acquisition of some, or all of Adrenalin’s assets, your personal information could likely be a part of the transferred assets. In such an event we shall notify you by a notice on the home page of any information and privacy practices that would change as a result. 
@@ -62,6 +61,7 @@ Collection of information other than personal information**
   * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system. 
   * Links: When we provide you with links in our emails, they may include a special tracking code unique to you, which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form. 
   * Cookies: A cookie is a small string of information that a website transfers to your browser for identification purposes. We may use cookies to determine which third party offers our members utilise and to personalise your current visit to our website. The information in cookies is not tied to your personal information. Most internet browsers can be set up to accept, or reject cookies, however rejecting cookies may limit the functionality of our website. 
+  * Web beacons: Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyse how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 
 
@@ -84,10 +84,13 @@ Reviews
 Adrenalin reserves the right to modify this privacy policy. For this reason, you should regularly check our policy to ensure that you are up to date on our policy. Should we make material changes in the manner we handle your personal information, we shall notify you by a prominent notice on the home page.  
  **  
 Access and Correction of your personal information**   
-You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected, please email [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au) with your updated information.  
+You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, please email [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au) with your updated information.  
  **  
+Data Retention**   
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+  **  
 Contacting the web site or webmaster**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Adrenalin at [action@adrenalin.com.au](mailto:action@adrenalin.com.au) or call us on 1300 791 793. We will make all reasonable attempts to responds to your enquiry.  
 By Mail: 20 Burton, Darlinghurst, NSW 2010 Australia.
 
-Effective April.9th.2009.
+Effective June 20th 2011.
