@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119023827id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502222246id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dream House Architecture Design, Apartment Decorating, Home Interior & Furniture Design on Newhouseofart.Com
+# Privacy Policy – Newhouseofart.Com
 
 Privacy Policy for www.newhouseofart.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kunthi3@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.newhouseofart.com/contact-us/).
 
 At www.newhouseofart.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.newhouseofart.com and how it is used.
 
