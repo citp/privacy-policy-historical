@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asteria-pro.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514211903id_/http%3A//www.asteria-pro.com/content/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asteria-pro.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502125458id_/http%3A//www.asteria-pro.com/content/view/privacy_policy) for the most accurate reproduction.*
 
 # Club-Asteria Pro - content
 
