@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016114707id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502094127id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
 
 # Instant Cash Sweepstakes Terms
 
@@ -9,14 +9,6 @@
 This page discloses the privacy policy and practices of the InstantCashSweepstakes.com (ICS) and PaidViewPoint.com website (PV), sites owned and operated by Umongous, LLC (collectively referred to as **Umongous** hereafter), a New Jersey LLC. 
 
 Umongous in is the market research and opinion research business. Umongous operates ICS and PV for the purpose of gaining anonymous opinions, such as your opinions, in order to help its clients gain a better understanding of their business and strategic opportunities. The clients of Umongous use this information in an aggregate fashion and are not interested in your identity or the individual identities of other ICS or PV panel members. It is against Umongous policy and market research terms of service (MR-TOS) for one of its clients to seek to determine the individual identity of an ICS or PV panel member. 
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.instantcashsweepstakes.com/seal_l "Validate TRUSTe privacy certification") Umongous has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices on ICS, please contact us at privacy [at] instantcashsweepstakes [dot] com, or you can also write to us at: Umongous, LLC c/o AYTM 123 10th Street, San Francisco, CA 94103. . If you have questions or complaints regarding our privacy policy or practices on PV, please contact us at privacy [at] paidviewpoint [dot] com, or you can also write to us at: Umongous, LLC c/o AYTM 123 10th Street, San Francisco, CA 94103. 
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor](http://export.gov/safeharbor). 
-
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.instantcashsweepstakes.com/seal_l "TRUSTe European Safe Harbor certification") [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.instantcashsweepstakes.com/seal_l "TRUSTe online privacy certification")
 
 #### Our Privacy Pledge:
 
