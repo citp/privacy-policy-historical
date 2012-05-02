@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129120614id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltriangle.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502115643id_/http%3A//traveltriangle.com/privacy) for the most accurate reproduction.*
 
-# Travel Triangle
+# Privacy Policy - TravelTriangle
 
 **TravelTriangle Privacy Policy**  
 We value the trust you place in TravelTriangle.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. 
