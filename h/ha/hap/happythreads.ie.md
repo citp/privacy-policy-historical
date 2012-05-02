@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107162725id_/http%3A//www.happythreads.ie/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502040250id_/http%3A//www.happythreads.ie/privacy-policy.html) for the most accurate reproduction.*
 
 # Introduction and General Terms
 
-[Home](http://www.happythreads.ie/index.html "Introduction to MODx") » Introduction and General Terms
+[Home](http://www.happythreads.ie/ "Introduction to MODx") » Introduction and General Terms
 
 Telescopic Healthcare is committed to protecting you and your family's personal information when you are using Telescopic Healthcare services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through the happythreads.ie website. 
 
