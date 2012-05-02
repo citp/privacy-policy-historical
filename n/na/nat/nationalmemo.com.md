@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112235722id_/http%3A//nationalmemo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmemo.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502060859id_/http%3A//www.nationalmemo.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | National Memo | Breaking News, Smart Politics
-
-**Privacy Statement**
+# The National Memo » Privacy Statement
 
 Eastern Harbor Media LLC is the owner of NationalMemo.com and affiliated websites (EHM). We take the private nature of your personal information very seriously. This Privacy Statement describes how we treat the information we collect when you register for and view emails from us or visit our Web Site. Please read this notice carefully. By using EHM’s websites, you agree to our privacy practices outlined here.
 
@@ -16,7 +14,7 @@ Any information you disclose in public forums or otherwise disclose to third par
 
 **Aggregate and Demographic Information**
 
-In addition to collecting Personal Information, EHM or others acting on our behalf may also collect survey and other demographic data that is not Personal Information. We may also collect and develop aggregate information about our subscribers' and their use of our emails and Web Site. This information will only be used to find out more about our subscriber base (but not in a manner that could identify you or be identified to you) and how subscribers use our emails, Web Site and products and services. For example, this information will tell us how often users open emails from us, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. It also allows us to, among other things, prepare for traffic load demands and efficiently deliver your emails.
+In addition to collecting Personal Information, EHM or others acting on our behalf may also collect survey and other demographic data that is not Personal Information. We may also collect and develop aggregate information about our subscribers’ and their use of our emails and Web Site. This information will only be used to find out more about our subscriber base (but not in a manner that could identify you or be identified to you) and how subscribers use our emails, Web Site and products and services. For example, this information will tell us how often users open emails from us, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. It also allows us to, among other things, prepare for traffic load demands and efficiently deliver your emails.
 
 **Review and Access**
 
@@ -24,7 +22,7 @@ Upon your request, we will provide you with a summary of the information we coll
 
 **How to Unsubscribe**
 
-You can unsubscribe from receiving EHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any EHM email or on the bottom of the EHM homepage and following the instructions. If for any reason you want to leave us and have trouble doing so please email [info@EHM.com](mailto:info@EHM.com).
+You can unsubscribe from receiving EHM emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any EHM email or on the bottom of the EHM homepage and following the instructions. If for any reason you want to leave us and have trouble doing so please email [info@EHM.com](mailto:info@EHM.com).
 
 **Choice/Opt-Out**
 
@@ -38,11 +36,11 @@ Occasionally, you’ll get emails, alerts or other mailings, which include adver
 
 **Tracking**
 
-Like most sites, EHM makes use of browser "cookies." Cookies are small text files placed on your computer's hard disk. They allow us to quickly recognize you and simplify your user experience. EHM will never use cookies to retrieve information from your computer that is unrelated to our site or services. In the course of providing advertisements to this site, our third-party advertisers may also place or recognize a unique cookie on your browser. EHM also uses transparent GIF images to track the emails that we send.
+Like most sites, EHM makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk. They allow us to quickly recognize you and simplify your user experience. EHM will never use cookies to retrieve information from your computer that is unrelated to our site or services. In the course of providing advertisements to this site, our third-party advertisers may also place or recognize a unique cookie on your browser. EHM also uses transparent GIF images to track the emails that we send.
 
 **Links to Other Sites**
 
-We may provide links allowing you to access third party sites. EHM is not responsible for the content that appears on those sites and does not endorse them. Please consult those sites' individual privacy policies in order to determine how they treat user information as EHM is not responsible for their privacy policies or any use of your information by them.
+We may provide links allowing you to access third party sites. EHM is not responsible for the content that appears on those sites and does not endorse them. Please consult those sites’ individual privacy policies in order to determine how they treat user information as EHM is not responsible for their privacy policies or any use of your information by them.
 
 **Security**
 
@@ -58,8 +56,8 @@ Personal Information provided by you is stored and processed in the United State
 
 **Modification to this Policy**
 
-EHM may change this policy, but we'll post any changes here and the date the latest changes were made, so be sure to check back for future information. The effective date of this version of the privacy statement is June 10, 2011.
+EHM may change this policy, but we’ll post any changes here and the date the latest changes were made, so be sure to check back for future information. The effective date of this version of the privacy statement is June 10, 2011.
 
 **Contact Us**
 
-If you have any questions about this policy, our emails or our site in general, please email [info@EHM.com](mailto:info@ehm.com).
+If you have any questions about this policy, our emails or our site in general, please email [info@EHM.com](mailto:info@ehm.com).
