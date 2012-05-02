@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230000535id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdeluxe.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502131601id_/http%3A//www.adultswim.com/footer/legal/index.html) for the most accurate reproduction.*
 
 # Adult Swim : Legal
 
@@ -76,11 +76,11 @@ Turner Network sites covered by this privacy statement may offer content (e.g., 
 
 We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. 
 
-[**Ad Choices**](https://web.archive.org/web/20111230000535id_/http%3A//www.adultswim.com/footer/legal/ad-choices.html)
+[**Ad Choices**](https://web.archive.org/web/20120502131601id_/http%3A//www.adultswim.com/footer/legal/ad-choices.html)
 
 Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse websites. 
 
-For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [Ad Choices](https://web.archive.org/web/20111230000535id_/http%3A//www.adultswim.com/footer/legal/ad-choices.html) page. 
+For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [Ad Choices](https://web.archive.org/web/20120502131601id_/http%3A//www.adultswim.com/footer/legal/ad-choices.html) page. 
 
 **Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options**
 
