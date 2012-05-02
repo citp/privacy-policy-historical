@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211022634id_/http%3A//www.singsnap.com/karaoke/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsnap.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502192330id_/http%3A//www.singsnap.com/karaoke/home/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | SingSnap Karaoke
 
@@ -13,9 +13,9 @@ This privacy notice discloses the privacy practices for SingSnap. This privacy n
 
 ## Information Collection, Use, and Sharing
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
+We also receive data from the computer, mobile phone or other device you use to access SingSnap. This may include your IP address, location, the type of browser you use, or the pages you visit. We will not share this information with any third party outside of our organization, other than as necessary in the investigation of any TOS or COC violations as needed, or as legally obligated to do so.
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
