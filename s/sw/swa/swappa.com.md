@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swappa.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013738id_/http%3A//swappa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swappa.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502101739id_/http%3A//swappa.com/privacy) for the most accurate reproduction.*
 
 # Swappa (Android) Privacy Policy
 
@@ -44,4 +44,4 @@ You can access all your personally identifiable information that we collect onli
 
 ### How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +1 (816) 237-0733 or send us an e-mail at [help@swappa.com](mailto:help@swappa.com). 
+Should you have other questions or concerns about these privacy policies, please call us at +1 860-4-SWAPPA (860-479-2772) or send us an e-mail at [help@swappa.com](mailto:help@swappa.com). 
