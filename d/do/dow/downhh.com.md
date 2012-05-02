@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downhh.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231012016id_/http%3A//downhh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downhh.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502021532id_/http%3A//www.downhh.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
