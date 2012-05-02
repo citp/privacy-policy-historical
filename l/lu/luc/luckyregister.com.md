@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145341id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502113504id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
 
 # Legal Agreement
 
-**Last Revised: October 25, 2011**
+**Last Revised: March 28, 2012**
 
-LuckyRegister.com Respects your privacy
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -14,7 +14,7 @@ Our Site uses forms in which you give us contact information (including your nam
 
 We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-We use your information to contact you regarding functionality changes to our products, our Site, new LuckyRegister.com services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use your information to contact you regarding functionality changes to our products, our Site, new LuckyRegister - Cheap Domain Registration, Domain Hosting Services - services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
@@ -22,7 +22,7 @@ We use information gathered about you from our Site statistics (for example, you
 
 Our Site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account.
 
-This Site also contains links to other websites. Unfortunately, LuckyRegister.com is not responsible for the privacy practices or the content of such sites.
+This Site also contains links to other websites. Unfortunately, LuckyRegister - Cheap Domain Registration, Domain Hosting Services - is not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
@@ -52,22 +52,22 @@ We may use a third party service provider to conduct these surveys or contests. 
 
 **Targeted Advertisements**  
 
-LuckyRegister.com may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services - may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister.com will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister.com stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister.com at to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister - Cheap Domain Registration, Domain Hosting Services - stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Terminate my LuckyRegister.com Account?**
+**What Happens to my Personal Information if I Terminate my LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Account?**
 
-When your LuckyRegister.com account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister.com databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When your LuckyRegister - Cheap Domain Registration, Domain Hosting Services - account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister - Cheap Domain Registration, Domain Hosting Services - databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
 **Updating Your Information  **
 
 You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
   1. You may visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
-  2. You may send mail to LuckyRegister.com at the following postal address:   
+  2. You may send mail to LuckyRegister - Cheap Domain Registration, Domain Hosting Services - at the following postal address:   
 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
 
@@ -88,9 +88,8 @@ If you have any questions about our Privacy Policy, the practices of this Site, 
 
 * * *
 
-LuckyRegister.com   
+LuckyRegister - Cheap Domain Registration, Domain Hosting Services -   
 ATTN: Web Team   
-14455 North Hayden Rd.   
+14455 North Hayden Rd.  
 Suite 219   
-Scottsdale, AZ, 85260, U.S.A.  
- 
+Scottsdale, AZ, 85260, U.S.A.
