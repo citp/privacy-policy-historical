@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203327id_/http%3A//www.medicalvideos.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalvideos.us privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503190901id_/http%3A//www.medicalvideos.us/privacy) for the most accurate reproduction.*
 
-# Medical Videos -
+# Medical Videos - -
 
 This document sets out MedicalVideos.us�s commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the [Terms of Use](http://www.medicalvideos.us/page.php?page=3).
 
