@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berr.gov.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207143338id_/http%3A//www.bis.gov.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berr.gov.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220511id_/http%3A//www.bis.gov.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and data protection | About this site | BIS
 
