@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnews.us privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164342id_/http%3A//topnews.us/content/2106-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.us privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002758id_/http%3A//topnews.us/content/2106-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews United States
 
