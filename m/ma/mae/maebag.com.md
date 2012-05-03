@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208033136id_/http%3A//www.maebag.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002819id_/http%3A//maebag.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # MaEbag.com Privacy Policy
 
@@ -10,19 +10,26 @@ MaEbag.com may change this policy from time to time by updating this page. You s
 
 We may collect the following information:
 
-� Name and job title  
-� Contact information including email address  
-� Demographic information such as postcode, preferences and interests  
-� Other information relevant to customer surveys and/or offers
+  * Name and job title  
 
+  * Contact information including email address  
+
+  * Demographic information such as postcode, preferences and interests  
+
+  * Other information relevant to customer surveys and/or offers  
+
+
+  
 **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-� Internal record keeping.   
-� We may use the information to improve our products and services.   
-� We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
-� From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+  * Internal record keeping. 
+  * We may use the information to improve our products and services. 
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+
+
 
 **Security**
 
@@ -46,8 +53,10 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
-� Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes   
-� If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@maebag.com 
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@maebag.com 
+
+
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
