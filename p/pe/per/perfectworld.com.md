@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219035128id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215317id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
 
 # Perfect World
 
@@ -94,8 +94,8 @@ Under California law, users who are California residents are entitled to request
 You may review, update, correct or delete your personal information collected through the Website by emailing us at [privacy@perfectworldinc.com](mailto:privacy@perfectworldinc.com) or by contacting us at:
 
 Perfect World Entertainment, Inc.  
-1001 E Hillsdale Blvd, Suite 800  
-Foster City, CA 94404  
+101 Redwood Shores Parkway, Suite 400  
+Redwood City, CA 94065  
 
 
 Attn: Privacy Policy Request.
