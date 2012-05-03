@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnphotoshopnow.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202093759id_/http%3A//www.learnphotoshopnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnphotoshopnow.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005218id_/http%3A//www.learnphotoshopnow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
