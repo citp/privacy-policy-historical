@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103025424id_/http%3A//www.katc.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503033548id_/http%3A//www.katc.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # KATC.com | Acadiana-Lafayette, LouisianaPrivacy Policy
 
