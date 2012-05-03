@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izettle.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007222246id_/https%3A//www.izettle.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izettle.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055418id_/https%3A//www.izettle.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | iZettle
 
