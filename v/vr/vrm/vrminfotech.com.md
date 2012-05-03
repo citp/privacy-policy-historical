@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vrminfotech.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526235732id_/http%3A//vrminfotech.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrminfotech.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223613id_/http%3A//vrminfotech.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | VRM Infotech Bangalore Karnataka India
+# Privacy Policy - VRM Infotech
 
 We respect your right to privacy and will protect it when you visit our website.The VRM Infotech website has contact information (including e-mail addresses) for specific departments. Should you send any correspondence to us, your email address will be used only to respond to your requests. We will not keep or share your e-mail address with anyone outside VRM Infotech.
 
