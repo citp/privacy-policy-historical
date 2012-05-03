@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006103053id_/http%3A//www.shell.us/home/content/usa/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213641id_/http%3A//www.shell.us/home/content/usa/footer/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - United States
+# Privacy Policy | United States
 
   * What does this privacy policy cover? 
   * Personally Identifiable Information That We Collect 
