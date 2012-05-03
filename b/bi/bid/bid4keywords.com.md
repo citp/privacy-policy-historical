@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007085758id_/http%3A//bid4keywords.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224934id_/http%3A//bid4keywords.com/privacy.php) for the most accurate reproduction.*
 
 # Bid4Keywords
 
