@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007055019id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231213id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
 
 # Ohio.gov | Policies
 
-## Privacy Statement
+## Privacy Notice
 
-**Revised January 4, 2008** \- The Ohio Internet Portal, a service provided by the Office of Information Technology, recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
+**Revised December 9, 2011** \- The Ohio Internet Portal, a service provided by the Ohio Department of Administrative Services Office of Information Technology, recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information.
 
 ### Public Records
 
@@ -28,10 +28,18 @@ _Visitors_ who submit information via this web site should be aware that data li
 
 Ohio.gov will follow Ohio state laws that require the establishment of reasonable precautions to prevent personal information from unauthorized modification, destruction, use, or disclosure. We take very seriously the integrity of the information and systems that we maintain. Therefore, we have instituted security measures for all information systems under our control. These security measures are designed to identify attempts to tamper with this web site. Information collected through these security measures may be used in connection with a criminal prosecution or other legal proceedings.
 
+### Confidential Personal Information
+
+Ohio Revised Code 1347.15 requires DAS to adopt administrative rules regulating access to the confidential personal information the agency keeps, whether electronically or on paper. The administrative rules may be found [here](http://codes.ohio.gov/oac/123-4).
+
 ### Access and Dispute of Information Rights:
 
 Pursuant to Ohio Revised Code, sections 149.43, 1347.08 and 1347.09, users have rights to their information given to this site, in respect to inspecting, correcting and disputing. This is applicable to any information collected, used or maintained on the Ohio.gov website.
 
 ### Contact
 
-Any further questions concerning the privacy policy for Ohio.gov should be forwarded [here](mailto:portal.manager@oit.ohio.gov).
+Any further questions concerning the privacy policy for Ohio.gov should be forwarded to the OIT Law and Policy Advisor via email at **Chief (dot) Privacy (dot) Officer AT oit (dot) ohio (dot) gov**. Written correspondence may be sent to:
+
+Ohio Chief Privacy Officer  
+30 E Broad Street, 40th Floor  
+Columbus, Ohio 43215
