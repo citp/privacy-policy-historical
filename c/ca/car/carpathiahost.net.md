@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619075322id_/http%3A//carpathia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213643id_/http%3A//carpathiahost.net/privacy-policy) for the most accurate reproduction.*
 
-# Carpathia Hosting - Privacy Policy
+# Carpathia Hosting | Complex, Compliant Managed Hosting & Cloud
 
 Carpathia Hosting, Inc. and our affiliated companies (“Carpathia”) are committed to respecting the online privacy of the users of Carpathia’s websites (“Users”). Carpathia recognizes Users need for appropriate protection of any personally identifiable information Personally Identifiable Information given to or obtained by Carpathia. Therefore, Carpathia shall adhere to the following privacy policy (“Privacy Policy”) so Users know how Carpathia intends to treat Users’ Personally Identifiable Information.
 
