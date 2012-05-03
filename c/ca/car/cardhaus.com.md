@@ -1,13 +1,86 @@
-> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004055814id_/http%3A//cardhaus.com/cgi-local/shop3.pl/SID%3D8444238301011520319/page%3DPrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503081906id_/http%3A//www.cardhaus.com/privacy_policy) for the most accurate reproduction.*
 
-# Cardhaus Games - Online Superstore for CCG single cards, boardgames , and miniatures singles.
+# Cardhaus - Privacy Policy
 
-The Card Haus policy is designed to respect your privacy. This policy statement tells you how we collect information from you and how we use it.
+**Return Policy  
+** You may return most new, unopened items sold and fulfilled by CardHaus.com within 30 days of delivery for a full refund. We'll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc.).   
+**  
+Refunds**  
+Refunds are requested after we receive and process your return. You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (see below for specific guidelines). We'll notify you via e-mail of your refund once we've received and processed the returned item.
 
-We collect the information that you volunteer when filling out the order form. This information is used to process your order and notify you of order status. It is only shared on a need to know basis. For example, our shipping carrier will have your name, address and telephone number to deliver your order. We also gather information on what pages customers access or visit during their shopping visit. The information we collect is used to improve the content of our website and for marketing purposes. Card Haus does not rent or sell customer information to outside marketers.
+**If you pay by:**
 
-At Card Haus we protect the integrity of our customers' credit card information. We use Secure Socket Layer (SSL) technology to protect the security of your personal information when you place your order through our secure page.
+| 
 
-We have appropriate security measures in place in our physical location to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+**Your refund will go to:**
 
-We want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions, please feel free to e-mail us at sales@cardhaus.com. 
+| 
+
+**... time until return is processed:**  
+  
+---|---|---  
+  
+Credit Card
+
+| 
+
+Credit Card
+
+| 
+
+3-5 business days  
+  
+Bank Account
+
+| 
+
+Bank Account
+
+| 
+
+Up to 10 business days  
+  
+Check OR
+
+Money Order
+
+| 
+
+Store Credit Balance  
+(to request a check, [email us](mailto:jesse@thoushaltgame.com))
+
+| 
+
+1 business day  
+  
+**Your Privacy**  
+CardHaus is committed to protecting your privacy. We only use the information we collect about you to process orders and to provide support and upgrades for our products. Please read on for more details about our privacy policy. **
+
+What information do we collect? How do we use it?
+
+**  
+When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+
+**How does CardHaus protect customer information?**  
+We use a Secure Server for collecting personal and credit card information. The secure server layer (SSL) encrypts (scrambles) all of the information you enter before it is transmitted over the Internet and sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. 
+
+**What about "cookies"?**  
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We do not use cookies to collect or store any information about visitors or customers.
+
+ **Will CardHaus disclose the information it collects to outside parties?**  
+CardHaus does not sell, trade, or rent your personal information to others. CardHaus may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will not include personally identifying information.
+
+CardHaus may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of CardHaus, our users, or others. 
+
+**In Summary**  
+CardHaus is committed to protecting your privacy. We use the information we collect on the site to make shopping at CardHaus.com as _simple_ as possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
+
+ **Your Consent**  
+By using our Web site, you consent to the collection and use of this information by CardHaus, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+CardHaus also provides links to affiliated sites. The privacy policies of these linked sites are the responsibility of the linked site and CardHaus has no control or influence over their policies. Please check the policies of each site you visit for specific information. CardHaus cannot be held liable for damage or misdoings of other sites linked or otherwise.
+
+ **Questions and Feedback**  
+If you have any questions or feedback related to our Policies, please email us at sales@CardHaus.com
+
+Thank you for shopping at CardHaus.com! 
