@@ -1,22 +1,25 @@
-<!--The following is the downloaded HTML source of the exness.com privacy policy that was archived on 2011-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111012023620id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exness.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504013908id_/https%3A//www.exness.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" id="exness"><head>
 	<title>EXNESS - Privacy policy</title>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
 	
-
 	<meta name="webmoney.attestation.label" content="webmoney attestation label#4B578A7F-5B89-496D-B84C-35FB6A68BEBD"> 
 	<meta name="verify-v1" content="pa8bP+fZoxpOXddHpxTsgUZrUx0RlHyY7uMSyKTms/w=">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon"></head><body>/
+	<meta name="yandex-verification" content="517b7e578d1cc2a1">
+	<meta name="google-site-verification" content="HlktxS8y8rNfeI_aGJy0NcAG3kwRBWJwYnW4nAnWfPw">
 
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="/style.css?v=1">
 	<link rel="stylesheet" type="text/css" href="/selectbox.css">
 	<link rel="stylesheet" type="text/css" href="/jquery/datepicker/datePicker.css">
 	<link rel="stylesheet" href="/jquery/treeview/jquery.treeview.css">
 	<link href="/servicedesk/style.css?v=1.1" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/jquery.lightbox-0.5.css">
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jquery/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/jquery/jtip.js"></script>
@@ -30,10 +33,9 @@
 	<script type="text/javascript" src="/jquery/amcharts/swfobject.js"></script>
 	<script type="text/javascript" src="/jquery/common.js"></script>
 	<script type="text/javascript" src="/jquery/jquery.cookie.js"></script>
-	
+	<script type="text/javascript" src="/jquery/jquery.lightbox-0.5.pack.js"></script>
 
 	<script type="text/javascript">
-	
 	
 	var canRedirect = true;
 	var canExpandMenu = false;
@@ -97,6 +99,7 @@
 			event.preventDefault();
 		});
 		
+		$('a.lightbox').lightBox({imageLoading:'/images/lightbox-ico-loading.gif',imageBtnPrev:'/images/lightbox-btn-prev.gif',imageBtnNext:'/images/lightbox-btn-next.gif',imageBtnClose:'/images/lightbox-btn-close.gif',imageBlank:'/images/lightbox-blank.gif'});
 	});
 	
 	function languageChange() {
@@ -129,9 +132,9 @@
 			});
 
 			if (isOnline) {
-				$("#livechatContainer").html("<a href=\"javascript:void(0)\" onclick=\"window.open('" + baseUrl + "livechat','','toolbar=no,resizable=yes, status=no,menubar=no,location=no,width=600,height=500');\"><img src=\"/images/staffonline.gif\"/></a>");
+				$("#livechatContainer").html('<a href="javascript:void(0)" onclick="window.open(\'' + baseUrl + 'livechat\',\'\',\'toolbar=no,resizable=yes, status=no,menubar=no,location=no,width=600,height=500\');"><img src="/images/staffonline.gif"/></a>');
 			} else {
-				$("#livechatContainer").html("<a href=\"javascript:void(0)\" onclick=\"window.open('" + baseUrl + "livechat','','toolbar=no,resizable=yes, status=no,menubar=no,location=no,width=600,height=500');\"><img src=\"/images/staffoffline.gif\"/></a>");
+				$("#livechatContainer").html('<a href="javascript:void(0)" onclick="window.open(\'' + baseUrl + 'livechat\',\'\',\'toolbar=no,resizable=yes, status=no,menubar=no,location=no,width=600,height=500\');"><img src="/images/staffoffline.gif"/></a>');
 			}
 		}
 	});
@@ -170,6 +173,7 @@
 
 	    var _gaq = _gaq || [];
 	    _gaq.push(['_setAccount', 'UA-8651572-1']);
+	    _gaq.push(['_setCustomVar',1,'Agent','1968',2]);
             _gaq.push(['_trackPageview']);
       
             (function() {
@@ -180,10 +184,9 @@
 		      
 	</script>
 
+</head>
 
-
-
-
+<body>
 
 <script type="text/javascript">
 var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", tooltip:"You can call us for free directly from your browser", pos1:"right", pos2:"center", margin: 0 , color:"#000000", hover_color:"#5c5c5c", background_color: "#ffdd00" , theme:"light" };
@@ -210,7 +213,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 	z-index: 101;
 	background: white;
 	width: 600px;
-	height: 270px;
+	height: auto;
 	left: 50%;
 	top: 50%;
 	margin-left: -300px;
@@ -225,6 +228,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 	box-shadow:0 0 5px #000;
 	padding-top: 15px;
 	text-align: center;
+	border: 4px solid #FDD114;
 }
 .usa_alert .btn {
 	font-family: Arial, Helvetica, sans-serif;
@@ -263,6 +267,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 
 	padding-left: 5px;
 	padding-right: 5px;
+	margin-top:10px;
 }
 
 .usa_alert .btn:hover {
@@ -292,10 +297,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 	width: 20px;
 	cursor: pointer;
 }
-
 </style>
-
-
 
 <script>
 	var $overlay = null;
@@ -304,7 +306,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 	$(document).ready(function(){
 
 		if (usa_user && $.cookie('close_usa_alert') != '1' ) {
-			$('body').append('<div class="usa_alert_overlay" id="usa_alert_overlay"></div><div class="usa_alert" id="usa_alert"><img src="/images/btn_close.gif" id="btn_alert_close" /><img src="/images/usa_alert.gif" /><button class="btn">I have read and understood</button></div>');
+			$('body').append('<div class="usa_alert_overlay" id="usa_alert_overlay"></div><div class="usa_alert" id="usa_alert"><div class="polls_container"><img src="/images/usa_warning.png" align="center" valign="middle"><button class="btn">I have read and understood</button></div></div>');
 			
 			$overlay = $('#usa_alert_overlay');
 			
@@ -344,27 +346,43 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
  	<div class="selectLanguage">
 
  	  <form name="LanguageForm" action="/i18n/setlang/" method="post">
-	  <input id="myselectbox_input" type="text" class="selectbox" autocomplete="off" readonly="" tabindex="2"><div id="myselectbox_container" class="selectbox-wrapper" style="display: none; width: 112px;"><ul><li id="myselectbox_input_en" class="selected">English</li><li id="myselectbox_input_ru">Russian</li><li id="myselectbox_input_zh">Chinese</li><li id="myselectbox_input_id">Indonesian</li><li id="myselectbox_input_ms">Malaysian</li><li id="myselectbox_input_es">Spanish</li><li id="myselectbox_input_th">Thai</li><li id="myselectbox_input_hi">Hindi</li><li id="myselectbox_input_ka">Georgian</li><li id="myselectbox_input_ar">Arabic</li></ul></div><select id="myselectbox" name="language" tabindex="2" onchange="languageChange();" style="display: none;">
+	  <input id="myselectbox_input" type="text" class="selectbox" autocomplete="off" readonly="" tabindex="2"><div id="myselectbox_container" class="selectbox-wrapper" style="display: none; width: 112px;"><ul><li id="myselectbox_input_en" class="selected">English</li><li id="myselectbox_input_ru">Русский</li><li id="myselectbox_input_zh">简体中文</li><li id="myselectbox_input_id">Bahasa Indonesia</li><li id="myselectbox_input_ms">Bahasa Malaysia</li><li id="myselectbox_input_es">Español</li><li id="myselectbox_input_th">ไทย</li><li id="myselectbox_input_hi">हिंदी</li><li id="myselectbox_input_ka">ქართული</li><li id="myselectbox_input_ar">العربيّة</li><li id="myselectbox_input_de">Deutsch</li><li id="myselectbox_input_fa">فارسی</li><li id="myselectbox_input_fr">Français</li><li id="myselectbox_input_it">Italiano</li><li id="myselectbox_input_vi">Tiếng Việt</li><li id="myselectbox_input_pt">Português</li><li id="myselectbox_input_pt-br">Português brasileiro</li><li id="myselectbox_input_ko">한국어</li></ul></div><select id="myselectbox" name="language" tabindex="2" onchange="languageChange();" style="display: none;">
 	      
 		    <option value="en" selected="">English</option>
 	      
-		    <option value="ru">Russian</option>
+		    <option value="ru">Русский</option>
 	      
-		    <option value="zh">Chinese</option>
+		    <option value="zh">简体中文</option>
 	      
-		    <option value="id">Indonesian</option>
+		    <option value="id">Bahasa Indonesia</option>
 	      
-		    <option value="ms">Malaysian</option>
+		    <option value="ms">Bahasa Malaysia</option>
 	      
-		    <option value="es">Spanish</option>
+		    <option value="es">Español</option>
 	      
-		    <option value="th">Thai</option>
+		    <option value="th">ไทย</option>
 	      
-		    <option value="hi">Hindi</option>
+		    <option value="hi">हिंदी</option>
 	      
-		    <option value="ka">Georgian</option>
+		    <option value="ka">ქართული</option>
 	      
-		    <option value="ar">Arabic</option>
+		    <option value="ar">العربيّة</option>
+	      
+		    <option value="de">Deutsch</option>
+	      
+		    <option value="fa">فارسی</option>
+	      
+		    <option value="fr">Français</option>
+	      
+		    <option value="it">Italiano</option>
+	      
+		    <option value="vi">Tiếng Việt</option>
+	      
+		    <option value="pt">Português</option>
+	      
+		    <option value="pt-br">Português brasileiro</option>
+	      
+		    <option value="ko">한국어</option>
 	      
 	  </select>
 	  
@@ -394,19 +412,19 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 			<li>|</li>
 			<li class="register"><a href="https://www.exness.com/register">Registration</a></li>
 			<li>|</li>
-			<li class="support"><a href="/about_us/support">Support Team</a></li>
+			<li class="support"><a href="/about_us/contacts">Support Team</a></li>
 		</ul>
 	</div>
 </div>
 
 <div class="logoContainer setWidth">
-	<div class="logo"><a href="/"><img src="/images/logo.gif" height="141" width="141"></a></div>
+	<div class="logo"><a href="https://www.exness.com/"><img src="/images/logo.gif" height="141" width="141"></a></div>
 	<div class="slogan">
-		<h3>Exchangeness of trade</h3>
+		<div style="font-weight: normal;font-size: 24px;color: White;margin: 0px;padding: 0px;margin-bottom: 10px;">Exchangeness of trade</div>
 		<ul>
 			<li><a href="/news">Press Releases</a></li>
 			<li>|</li>
-			<li><a href="/about_us/support">Contact Us</a></li>
+			<li><a href="/about_us/contacts">Contact Us</a></li>
 		</ul>
 	</div>
  	<div class="phone">
@@ -450,25 +468,50 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 			<div class="subMenuContainer" id="m1">
 				<div class="wrapper">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-						<td valign="top">
-							<div class="block last">
-								<a href="/about_us/history">History</a>
-								<a href="/about_us/mission">Mission</a>
+						<tbody><tr>
+							<td valign="top">
+								<div class="block">
+									<a href="/about_us/history">History</a>
+									<p>Achievements and company performance indicators</p>
+								</div>
+								<div class="block">
+									<a href="/about_us/our_mission">Mission</a>
+									<p>EXNESS's main development priorities</p>
+								</div>
 
-								<a href="/about_us/profit">Why EXNESS?</a>
-								<a href="/news">News</a>
-								<a href="/about_us/support">Contacts</a>
+								<div class="block">
+									<a href="/about_us/management">Management</a>
+									<p>Board of directors</p>
+								</div>
 
-							</div>
-						</td>
-					</tr>
+								<div class="block">
+									<a href="/about_us/profit">Why EXNESS?</a>
+									<p>Three reasons to choose EXNESS</p>
+								</div>
+								<div class="block">
+									<a href="/about_us/legal_information">Legal information</a>
+									<p>Client agreement and registration information</p>
+								</div>
+								<div class="block">
+									<a href="/about_us/iso_certificate">Quality Management</a>
+									<p>EXNESS quality management system certified to ISO 9001:2008</p>
+								</div>
+								<div class="block">
+									<a href="/news">News</a>
+									<p>News and press releases</p>
+								</div>
+								<div class="block">
+									<a href="/about_us/contacts">Contact Us</a>
+									<p>Contact information and site map</p>
+								</div>
+
+							</td>
+						</tr>
 					</tbody></table>
 				</div>
-				<b class="r1"></b><b class="r1"></b><b class="r2"></b><b class="r2"></b><b class="r4"></b><b class="r6"></b>
+				<span class="r1"></span><span class="r1"></span><span class="r2"></span><span class="r2"></span><span class="r4"></span><span class="r6"></span>
 			</div>
 		</li>
-
 		<li><a href="">Trading</a><br>
 			<div class="subMenuContainer" id="m2">
 				<div class="wrapper">
@@ -502,7 +545,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 							</div>
 						
 							<div class="block">
-								<a href="/deposit_operations">Deposit/withdrawal terms</a>				
+								<a href="/deposit_operations">Deposit/withdrawal terms</a>			
 								<p>Description of the main deposit-withdrawal methods. Terms and conditions of deposit-withdrawal transactions: commissions, processing time, etc.</p>							
 							</div>
 						
@@ -539,17 +582,18 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 							</div>
 		
 							<div class="block">
-								<a href="/metatrader/about_metatrader">MetaTrader</a>
+								<a href="/metatrader">MetaTrader</a>
 								<p>Brief description of MetaTrader trading platform. Client’s guide to trading on EXNESS servers</p>
 							</div>
 													
 							<div class="block">
-								<a href="/tools/vps">VPS Service</a>
+								<a href="/tools/vps-hosting">VPS Service</a>
 								<p>Information about trading via remote terminal. Characteristics of VPS-hosting:  extensive opportunities for using automatic trading systems</p>
 							</div>
+
 							<div class="block">
-								<a href="/trial_deposit">Add funds to trial account</a>
-								<p>Внесение дополнительных средств на свой учебный счет</p>
+								<a href="/trial_account">Trial account</a>
+								<p>Open a trial account. Add funds to your trial account</p>
 							</div>
 
 							<div class="block">
@@ -562,7 +606,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 					</tr>
 					</tbody></table>
 				</div>
-				<b class="r1"></b><b class="r1"></b><b class="r2"></b><b class="r2"></b><b class="r4"></b><b class="r6"></b>
+				<span class="r1"></span><span class="r1"></span><span class="r2"></span><span class="r2"></span><span class="r4"></span><span class="r6"></span>
 			</div>
 		</li>
 
@@ -607,7 +651,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 					</tr>
 					</tbody></table>
 				</div>
-				<b class="r1"></b><b class="r1"></b><b class="r2"></b><b class="r2"></b><b class="r4"></b><b class="r6"></b>
+				<span class="r1"></span><span class="r1"></span><span class="r2"></span><span class="r2"></span><span class="r4"></span><span class="r6"></span>
 			</div>
 		</li>
 
@@ -616,7 +660,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 				<div class="wrapper">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
 					<tbody><tr>
-						<td valign="top">
+						<td valign="top" colspan="2">
 							<div class="block">
 								<a href="/partnership">Partnership program</a>
 								<p>Key terms of partnership program and advantages of cooperation with EXNESS</p>
@@ -642,25 +686,22 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 					</tr>
 					</tbody></table>
 				</div>
-				<b class="r1"></b><b class="r1"></b><b class="r2"></b><b class="r2"></b><b class="r4"></b><b class="r6"></b>
+				<span class="r1"></span><span class="r1"></span><span class="r2"></span><span class="r2"></span><span class="r4"></span><span class="r6"></span>
 			</div>
 		</li>
+	
+	
 
 
 
-
-
-
-		<li><a href="/about_us/support">Contacts</a></li>
-
+		<li><a href="/about_us/contacts">Contact Us</a></li>
 	
 		<li class="mt">
-			<a href="/news/article/MT5trial">NEW <b><span>MetaTrader</span> 5</b></a>
+			<a href="/faq">FAQ</a>
 		</li>
 
 	</ul>
 </div>
-
 
 
 
@@ -676,19 +717,20 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 				<div class="preBreadCrumbs">				
 					<div class="breadCrumbs">
 
+						
 
+						
+						<a href="/">Main</a>
+						<img src="/images/arrow.gif">
+						
 
-<a href="/">Exness.com</a>
+						
 
-<img src="/images/arrow.gif">
+						
+						Privacy policy
+						
 
-
-
-
-<a href="/privacy_policy">Privacy policy</a>
-
-
-
+						
 					</div>
 				</div>
 			</div>
@@ -743,16 +785,17 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 <p>The Client may send any questions and suggestions concerning the Privacy Policy to the Company's specialists by e-mailing <a href="mailto:legal@exness.com">legal@exness.com</a></p>
 
 
+
 		</div>
 	</div>
-
 	<div class="sidebarContainer">
 			
 
-
+		
 		<div class="sidebar">
 
 <br>
+			<noindex>
 			<div class="searchContainer">
 				<form action="/search" id="searchForm" method="get">
 				<input type="text" value="Search..." id="searchField" onfocus="if(this.value=='Search...'){this.value=''}" onblur="if(this.value==''){this.value='Search...'}" name="q">
@@ -768,6 +811,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 					});
 				</script>
 			</div>
+			</noindex>
 			
 			<div class="links">&nbsp;
 
@@ -797,7 +841,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 				<div class="btnPattern-bottom"><div class="btnPattern-bottom-bg"></div></div>
 			</a>
 	
-			<a class="btnPattern" href="/download/mt4setup.exe">
+			<a class="btnPattern btnPattern-yellow" href="http://files.metaquotes.net/exness.ltd/mt4/exness4setup.exe" rel="nofollow">
 				<div class="btnPattern-top"><div class="btnPattern-top-bg"></div></div>
 				<div class="btnPattern-middle">
 					Download MetaTrader 4
@@ -805,7 +849,7 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 				<div class="btnPattern-bottom"><div class="btnPattern-bottom-bg"></div></div>
 			</a>
 
-			<a class="btnPattern btnPattern-yellow" href="/download/mt5setup.exe">
+			<a class="btnPattern btnPattern-yellow" href="http://files.metaquotes.net/exness.ltd/mt4/mt5setup.exe" rel="nofollow">
 				<div class="btnPattern-top"><div class="btnPattern-top-bg"></div></div>
 				<div class="btnPattern-middle">
 					Download MetaTrader 5
@@ -823,14 +867,35 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 <div class="copyrightContainer setWidth">
 	<div class="exnessCopyright">
 		<div class="withLogo">
-			© 2008-2011 EXNESS.COM<br>
+			© 2008-2012 <a href="https://www.exness.com">EXNESS.COM</a><br>
 			E-mail: <a href="mailto:info@exness.com">info@exness.com</a>
 		</div>
 		
-			FOREX trading entails risk, and transactions with financial instruments may result in losses.<br> The information on this website may only be copied with the express permission of EXNESS (NZ) Limited. <br>All rights reserved.<br>
+		
+			FOREX trading entails risk, and transactions with financial instruments may result in losses.<br>
+			The information on this website may only be copied with the express permission of <a href="/download/certificate_of_incorporation.jpg">EXNESS Limited</a> (NZ).<br>
+			All rights reserved.<br>
 		
 	</div>
-	<a href="javascript:vrsn_splash()"><img src="/images/verisign_copy_icon.gif" height="64" width="117" class="verisignCopyIcon" alt="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a>
+
+	<table cellpadding="0" cellspacing="0" border="0" align="right">
+		<tbody><tr>
+			<td align="center" valign="middle" rowspan="3"><a href="http://www.globalbankingandfinance.com/award-winners-2012.html" target="_blank" rel="nofollow" title="Best Standard Forex Broker in Asia according to Global Banking &amp; Finance Review Awards 2012"><img src="/images/best_asia_broker_2012.png" width="130" height="120"></a></td>
+			<td width="5" rowspan="3"></td>
+			<td align="center" valign="middle" rowspan="3"><a href="http://www.ibtimes.com/awards/trading-awards-2011/featured-winners.htm#exness" target="_blank" rel="nofollow" title="Best Forex Broker in Russia according to IBTimes Trading Awards 2011"><img src="/images/best_russia_broker_2012.png" height="120"></a></td>
+			<td width="5" rowspan="3"></td>
+			<td align="center" valign="top"><a href="http://fdr.org.nz/member_search/search?location=any&amp;name=exness" target="_blank" rel="nofollow"><img src="/images/FDR_rev.jpg" width="88" height="40" border="0" alt="FDR Registration" title="EXNESS Limited rigistered with&nbsp;Financial Dispute Resolution Service&nbsp;under the&nbsp;3570551 number"></a></td>
+			<td width="5" rowspan="3"></td>
+			<td align="center" valign="middle" rowspan="3"><a href="/about_us/iso_certificate" target="_blank" rel="nofollow"><img src="/images/ISO9001_82x120.jpg" width="82" height="120" border="0" alt="ISO standard 9001:2008" title="EXNESS internationally certified as meeting the requirements of ISO standard 9001:2008 in the field of “Currency and financial market trade organisation”"></a></td>
+		</tr>
+		<tr>
+			<td align="center" valign="middle"><a href="javascript:vrsn_splash()" target="_blank" rel="nofollow"><img src="/images/verisign_copy_icon.gif" width="73" height="40" border="0" class="verisignCopyIcon" alt="VeriSign Sertificate" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a></td>
+		</tr>
+		<tr>
+			<td align="center" valign="bottom"><a href="https://www.securitymetrics.com/site_certificate.adp?s=95.211.137.82&amp;i=918450" target="_blank" rel="nofollow"><img src="/images/security_metrics.gif" width="82" height="36" border="0" alt="SecurityMetrics Sertificate" title="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment"></a></td>
+		</tr>
+	</tbody></table>
+
 	<script language="JavaScript">
 	   // VeriSign
 		dn="www.exness.com";
@@ -859,19 +924,31 @@ var ZINGAYA_PARAMS = {id:"9715ae383fa213d02955686a16f1257b", label:"Free call", 
 	<ul>
 		<li><a href="/privacy_policy">Privacy Policy</a></li>
 		<li>|</li>
-		<li><a href="/risk_disclosure">Risk Disclosure</a></li>
+		<li><a href="/notification_on_risks">Risk Disclosure</a></li>
 		<li>|</li>
 		<li><a href="/prevention_of_money_laudering">Preventing Money Laundering</a></li>
 		<li>|</li>
 		<li><a href="/sitemap">Site map</a></li>
 		<li>|</li>
-		<li><a href="/about_us/support">Contacts</a></li>
+		<li><a href="/about_us/contacts">Contact Us</a></li>
 	</ul>
 </div>
 
 
-
-
+<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter10450018 = new Ya.Metrika({id:10450018, enableAll: true, webvisor:true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/10450018" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 
 
 
