@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110105202id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010637id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Australian Electoral Commission
 
@@ -6,13 +6,13 @@
 
 ## Information collection and privacy protection
 
-The Australian Electoral Commission (AEC) makes every effort to adhere to the Guidelines for Federal and ACT Government World Wide Websites developed by the Australian Privacy Commissioner (available at <http://www.privacy.gov.au/internet/web/index.html>). In particular the AEC seeks to comply with Information Privacy Principles (see Glossary below) 1 to 3 and 10 and 11 of the Privacy Act 1988.
+The Australian Electoral Commission (AEC) makes every effort to adhere to the Guidelines for Federal and ACT Government World Wide Websites developed by the Australian Privacy Commissioner (available at <http://www.privacy.gov.au/internet/web/index.html>). In particular the AEC seeks to comply with Information Privacy Principles (see Glossary below) 1 to 3 and 10 and 11 of the _Privacy Act 1988_.
 
 A copy of the Act is available at [ComLaw.gov.au](http://comlaw.gov.au/) – the legal information retrieval system owned by the Australian Attorney General's Department.
 
 This page explains the type of information that is collected by the AEC, how such information is used, and under what circumstances and to whom it may be disclosed. 
 
-##  Your email address
+## Your email address
 
 The AEC will only record your email address in the event that you send a message by email or if you register requesting notifications. Registration for notifications may be made initially by email, postal mail or facsimile. Your email address will only be used for the purpose for which you have provided it and will not be added to any mailing lists without your consent by way of a specific request in writing. The AEC will not use or disclose your email address for any other purpose, without your prior written consent.
 
@@ -20,15 +20,15 @@ The AEC will only record your email address in the event that you send a message
 
 When visiting this website the AEC's site server makes a record of the visit and logs the following information for statistical purposes:
 
-  * the user's server address - this allows us to consider the visitors who use the site most, and tailor the site to their interests and needs;
-  * the user's operating system (for example Windows, Mac etc.) - this allows us to tailor browser or platform specific parts of the site to each operating system because browsers act differently on each platform;
-  * the user's top level domain name (for example .com, .gov, .au etc.) - this can allow us to tailor information relevant to different domains;
-  * the date and time of the visit to the site - this is important for identifying the website's busy times and ensuring maintenance on the site is conducted outside these periods;
-  * pages accessed and documents downloaded - this indicates to us which pages or documents are most important to our users and also helps identify important information that may be difficult to find;
-  * duration of the visit - this indicates to us how interesting and informative our site is to our users;
-  * geographic location - this shows us how well marketed our site is internationally;
-  * the site visited before the AEC website - this helps us determine the interests of our users and which sites are providing links to ours as well as sites where we may be able to seek links;
-  * the type of browser used - this is important for browser specific coding e.g. Javascript.
+  * the user's server address – this allows us to consider the visitors who use the site most, and tailor the site to their interests and needs;
+  * the user's operating system (for example Windows, Mac etc.) – this allows us to tailor browser or platform specific parts of the site to each operating system because browsers act differently on each platform;
+  * the user's top level domain name (for example .com, .gov, .au etc.) – this can allow us to tailor information relevant to different domains;
+  * the date and time of the visit to the site – this is important for identifying the website's busy times and ensuring maintenance on the site is conducted outside these periods;
+  * pages accessed and documents downloaded – this indicates to us which pages or documents are most important to our users and also helps identify important information that may be difficult to find;
+  * duration of the visit – this indicates to us how interesting and informative our site is to our users;
+  * geographic location – this shows us how well marketed our site is internationally;
+  * the site visited before the AEC website – this helps us determine the interests of our users and which sites are providing links to ours as well as sites where we may be able to seek links;
+  * the type of browser used – this is important for browser specific coding e.g. Javascript.
 
 
 
@@ -42,7 +42,7 @@ We provide a secure environment and a reliable system but you should be aware th
 
 ## Need further information?
 
-If you have any privacy concerns, please contact the AEC National Office in Canberra on telephone 02 6271 4411 or email [info@aec.gov.au](mailto:info@aec.gov.au). You can also obtain further information from the Privacy Commissioner's web site, [www.privacy.gov.au](http://www.privacy.gov.au/) , or by telephone on 1300 363 992.
+If you have any privacy concerns, please contact the AEC National Office in Canberra by email [info@aec.gov.au](mailto:info@aec.gov.au) or telephone 02 6271 4411\. You can also obtain further information from the Privacy Commissioner's web site, [www.privacy.gov.au](http://www.privacy.gov.au/), or by telephone on 1300 363 992.
 
 ## Glossary
 
