@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobrabloggingsystem.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224834id_/http%3A//www.cobrabloggingsystem.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobrabloggingsystem.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014145id_/http%3A//www.cobrabloggingsystem.com/privacypolicy.html) for the most accurate reproduction.*
 
 # privacypolicy
 
