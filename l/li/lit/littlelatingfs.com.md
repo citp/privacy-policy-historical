@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the littlelatingfs.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221205400id_/http%3A//join.littlelatingfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlelatingfs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234928id_/http%3A//join.littlelatingfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Little Latin GFs**
 
 **PRIVACY POLICY STATEMENT**  
-  
   
 
 
