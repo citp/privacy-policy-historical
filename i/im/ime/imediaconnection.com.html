@@ -1,32 +1,124 @@
-<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101160100id_/http%3A//www.imediaconnection.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imediaconnection.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503234344id_/http%3A//www.imediaconnection.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="http://handles.imediaconnection.com/stafftweets.ashx?callback=twitterCallback2"></script><title>
-	Privacy Policy - iMediaConnection.com
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><link href="/css/960_24_col.css" rel="stylesheet" type="text/css"><link href="/css/reset.css" rel="stylesheet" type="text/css"><link href="/css/basestyle.css?20111031a" rel="stylesheet" type="text/css"><link href="/css/colorbox.css" rel="stylesheet" type="text/css" media="screen">            
-                <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
-                <script src="/Scripts/jquery.scrollTo-min.js" type="text/javascript"></script>
-                <script src="/Scripts/jquery.corner.js" type="text/javascript"></script>
-                <script src="/Scripts/jquery.colorbox-min.js" type="text/javascript"></script>
-                <script src="/Scripts/Common.js" type="text/javascript"></script>
-                <script src="/Scripts/jquery.validate.js" type="text/javascript"></script>
-                <script src="/Scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
-                <script src="/javascript/InternalCampaign.js" type="text/javascript"></script>
-            
-    <script type="text/javascript" src="/Scripts/jjquery.cookie-modified.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_Head1"><script src="http://handles.imediaconnection.com/stafftweets.ashx?callback=twitterCallback2"></script><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><link type="text/css" rel="stylesheet" href="/css/960_24_col.css"><link type="text/css" rel="stylesheet" href="/css/reset.css"><link type="text/css" rel="stylesheet" href="/css/basestyle.css?20120502a"><link type="text/css" rel="stylesheet" href="/css/colorbox.css">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.corner.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
+    <script type="text/javascript" src="/Scripts/InternalCampaign.js"></script>    
+    <script type="text/javascript" src="/Scripts/Common.js"></script>
+    <script type="text/javascript" src="/Scripts/fix_wmode2opaque_swf.js"></script>
+
     <link rel="SHORTCUT ICON" href="http://www.imediaconnection.com/favicon.ico"><link rel="alternate" type="application/rss+xml" title="iMediaConnection" href="http://feeds.feedburner.com/ImediaConnectionAll?socialmodule">
 
-    
-    <!-- Google Plus One -->
-    <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 
-    <!-- Google Analytics  -->
+    <script type="text/javascript">
+        var onScrollEventsFunctions = [];
+        var onScrollEventsHandler = function () {
+            if (typeof onScrollEventsFunctions === 'undefined')
+                return;
+            for (var i = 0; i < onScrollEventsFunctions.length; i++) {
+                onScrollEventsFunctions[i]();
+            }
+        };
+
+        // NAVIGATION DELAY
+        jQuery(document).ready(function () {
+
+            window.onscroll = document.documentElement.onscroll = onScrollEventsHandler;
+
+            function megaHoverOver() {
+                jQuery(this).find(".sub").fadeTo('fast', 1, function () {
+                    if (navigator.appName == 'Microsoft Internet Explorer')
+                        this.style.removeAttribute("filter");
+                }).show();
+            }
+
+            function megaHoverOut() {
+                jQuery(this).find(".sub").stop().fadeTo('fast', 0, function () {
+                    jQuery(this).hide();
+                });
+            }
+
+            var config = {
+                sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)    
+                interval: 50, // number = milliseconds for onMouseOver polling interval    
+                over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+                timeout: 0, // number = milliseconds delay before onMouseOut    
+                out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+            };
+
+            jQuery("ul#topnav li .sub").css({ 'opacity': '0' });
+            jQuery("ul#topnav li").hoverIntent(config);
+
+            $("#loginDropDown span").click(function () {
+                var dd = $("#loginDropDown .sub")
+                if (dd.css("display") == "none") {
+                    $('#loginDropDown > ul').hide(); // hide any other open drop downs
+                    dd.show();
+                }
+                else {
+                    dd.hide();
+                }
+            });
+
+            $('#loginDropDown').click(function (e) {
+                e.stopPropagation();
+            });
+
+            $(document).click(function () {
+                $("#loginDropDown .sub").hide();
+            });
+        });
+
+        // delay hide of the alert notification div
+        jQuery(document).ready(function ($) {
+            jQuery(".msg-notification").delay(2000).slideUp(800);
+        });
+
+    </script>
+
+   <script type="text/javascript">
+       jQuery(function ($) {
+           if (document.location.protocol == 'http:') {
+               var kkeys = [], konami = "38,38,40,40,37,39,37,39,66,65", kmri = "75,65,84,65,77,65,82,73";
+               jQuery(document).keydown(function (e) {
+                   kkeys.push(e.keyCode);
+                   if (kkeys.toString().indexOf(konami) >= 0) {
+                       jQuery(document).unbind('keydown', arguments.callee);
+                       jQuery.getScript('http://www.cornify.com/js/cornify.js', function () {
+                           cornify_add();
+                           jQuery(document).keydown(cornify_add);
+                       });
+                   }
+                   else if (kkeys.toString().indexOf(kmri) >= 0) {
+                       var i, s, ss = ['http://kathack.com/js/kh.js', 'http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js'];
+                       for (i = 0; i != ss.length; i++) { s = document.createElement('script'); s.src = ss[i]; document.body.appendChild(s); } void (0); kkeys = [];
+                   }
+               });
+           }
+       });
+    </script>
+
+    <!-- Place this tag in your head or just before your close body tag -->
+    
+    <script type="text/javascript">
+        (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-4077114-8']);
         _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
 
         (function () {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -35,584 +127,535 @@
         })();
 
     </script>
-    
-    <!-- wmode fix for flash objects: sets wmode to opaque. -->
-    <script type="text/javascript" src="/javascript/fix_wmode2opaque_swf.js"></script>
 
+    <!-- twitter-->
     <script type="text/javascript">
-    
-        var onScrollEventsFunctions = [];
-        
-        var onScrollEventsHandler = function() {
-            if (typeof onScrollEventsFunctions === 'undefined')
-                return;
-            //debugger;
-            for(var i = 0; i < onScrollEventsFunctions.length; i++)
-            {
-                onScrollEventsFunctions[i]();
-            }
-        };
-        
-        // NAVIGATION DELAY
-        jQuery(document).ready(function($){
-        
-            window.onscroll = document.documentElement.onscroll = onScrollEventsHandler;   
-                
-            function megaHoverOver() {
-                $(this).find(".sub").stop().fadeTo('fast', 1, function () {
-                    if (navigator.appName == 'Microsoft Internet Explorer')
-                        this.style.removeAttribute("filter");
-                }).show();
-            }
-
-            function megaHoverOut() {
-                $(this).find(".sub").stop().fadeTo('fast', 0, function () {
-                    $(this).hide();
-                });
-            }
-
-            var config = {
-                sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)    
-                interval: 20, // number = milliseconds for onMouseOver polling interval    
-                over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-                timeout: 50, // number = milliseconds delay before onMouseOut    
-                out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-            };
-
-            $("ul#topnav li .sub").css({ 'opacity': '0' });
-            $("ul#topnav li").hoverIntent(config);           
-            
-            // delay hide of the alert notification div
-            $(".msg-notification").delay(2000).slideUp(800);
+        jQuery(document).ready(function ($) {
+            jQuery(".emdigoColorBox").colorbox({ iframe: true, innerWidth: 525, innerHeight: 250 });
+            jQuery("a[rel='articleSlideShow']").colorbox({ slideshowSpeed: 4000, slideshow: true, transition: "no", width: "50%", height: "55%" });
         });
 
-    </script>
-
-    <script type="text/javascript">
-	    jQuery(document).ready(function($){
-		    $(".emdigoColorBox").colorbox({iframe:true, innerWidth:525, innerHeight:250});
-		    $("a[rel='articleSlideShow']").colorbox({slideshowSpeed: 4000, slideshow:true, transition:"no", width:"50%", height:"55%"});
-	    });
-	    
-	    function getStaffTweets()
-	    {
-	        jQuery.getScript('http://handles.imediaconnection.com/stafftweets.ashx?callback=twitterCallback2');
-	    }
-	    
-	    function twitterCallback2(twitters) {
-          var maxtweets = 5;
-          var maxcount = 0;
-          var statusHTML = [];
-          //statusHTML.clear();
-          var twitterNameArray = new Array();
-          statusHTML.push('<ul class="stafftweets">');
-          for (var i=0; i<twitters.length && maxcount < maxtweets; i++){
-		        var username = twitters[i].user.screen_name;
-        		
-		        if (jQuery.inArray(username, twitterNameArray) == -1)
-		        {
-			        twitterNameArray.push(username);
-			        //statusHTML.push('<h1>not found</h1>');
-			        var name = twitters[i].user.name;
-			        var headshot = twitters[i].user.profile_image_url;
-			        headshot = headshot.replace("_normal.", "_bigger.");
-			        var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
-			          return '<a href="'+url+'">'+url+'</a>';
-			        }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-			          return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
-			        });
-			        statusHTML.push('<li class="clearfix"><span id="twitter-content">&ldquo;'+status+'&rdquo; &ndash; <br><a id="twitter-username" href="http://twitter.com/' + username + '">' + name + '</a><br><small style="display:none;">'+relative_time(twitters[i].created_at)+'</small></span><span id="twitter-img"><a href="http://twitter.com/' + username + '"><img src=' + headshot + '></a></span></li>');
-			        maxcount++;
-		        }
-          }
-          statusHTML.push('</ul>');
-          
-          jQuery('.loading').fadeOut(0, function() {
-		         jQuery('#staff_tweets').append($(statusHTML.join('')).hide().fadeIn(0));
-		         //document.getElementById('latest_tweet').innerHTML = statusHTML.join('').fadeIn(750));
-          });
+        function trimTitle(s) {
+            var l = 0; var r = s.length - 1;
+            while (l < s.length && s[l] == ' ')
+            { l++; }
+            while (r > l && s[r] == ' ')
+            { r -= 1; }
+            return s.substring(l, r + 1);
         }
 
-        function relative_time(time_value) {
-          var values = time_value.split(" ");
-          time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
-          var parsed_date = Date.parse(time_value);
-          var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
-          var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
-          delta = delta + (relative_to.getTimezoneOffset() * 60);
+        var baseSecureUrl = "https://www.imediaconnection.com/";
 
-          if (delta < 60) {
-            return 'less than a minute ago';
-          } else if(delta < 120) {
-            return 'about a minute ago';
-          } else if(delta < (60*60)) {
-            return (parseInt(delta / 60)).toString() + ' minutes ago';
-          } else if(delta < (120*60)) {
-            return 'about an hour ago';
-          } else if(delta < (24*60*60)) {
-            return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
-          } else if(delta < (48*60*60)) {
-            return '1 day ago';
-          } else {
-            return (parseInt(delta / 86400)).toString() + ' days ago';
-          }
+        function closedLogin() {
+            window.location.reload();
         }
-    </script>
 
-    <script type="text/javascript">
-        jQuery(function ($) {
-            var kkeys = [], konami = "38,38,40,40,37,39,37,39,66,65", kmri = "75,65,84,65,77,65,82,73";
-            $(document).keydown(function (e) {
-                kkeys.push(e.keyCode);
-                if (kkeys.toString().indexOf(konami) >= 0) {
-                    $(document).unbind('keydown', arguments.callee);
-                    $.getScript('http://www.cornify.com/js/cornify.js', function () {
-                        cornify_add();
-                        $(document).keydown(cornify_add);
-                    });
-                }
-                else if (kkeys.toString().indexOf(kmri) >= 0){
-                    var i,s,ss=['http://kathack.com/js/kh.js','http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js'];
-                    for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);kkeys=[];
-                }
+        function PopLogin() {
+            $.fn.colorbox({
+                href: baseSecureUrl + "dialogs/LoginDialog.aspx",
+                iframe: true,
+                scrolling: false,
+                width: '500px',
+                height: '310px',
+                onClosed: closedLogin
             });
-        });
+        }
+
+        function RightColumnTrack(URL, trackTypeID) {
+
+            try {
+                xmlHttp = new XMLHttpRequest();
+            }
+            catch (trymicrosoft) {
+                try {
+                    xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+                }
+                catch (othermicrosoft) {
+                    try {
+                        xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+                    }
+                    catch (failed) {
+                        xmlHttp = false;
+                    }
+                }
+            }
+
+            if (!xmlHttp) {
+                alert('Browser does not support HTTP Request')
+                return
+            }
+
+            var url = "/admin/RightColumnTrack.aspx";
+            url = url + "?TrackTypeID=" + trackTypeID;
+            xmlHttp.onreadystatechange = statesChanged;
+            xmlHttp.open("GET", url, true)
+            xmlHttp.send(null)
+            window.location = URL;
+        }
+
+        function statesChanged() {
+            if (xmlHttp.readyState == 4 || xmlHttp.readyState == "complete") {
+            }
+        }
     </script>
-
-</head>
+<title>
+	Privacy Policy - iMediaConnection.com
+</title></head>
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
-    <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm" class="site-master-aspx-form">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQyNTgzODA0OA9kFgJmD2QWBAIBD2QWAgIJDxUBiAYgICAgICAgICAgICANCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL1NjcmlwdHMvanF1ZXJ5LTEuNC4yLm1pbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL1NjcmlwdHMvanF1ZXJ5LnNjcm9sbFRvLW1pbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL1NjcmlwdHMvanF1ZXJ5LmNvcm5lci5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL1NjcmlwdHMvanF1ZXJ5LmNvbG9yYm94LW1pbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL1NjcmlwdHMvQ29tbW9uLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPjwvc2NyaXB0Pg0KICAgICAgICAgICAgICAgIDxzY3JpcHQgc3JjPScvU2NyaXB0cy9qcXVlcnkudmFsaWRhdGUuanMnIHR5cGU9J3RleHQvamF2YXNjcmlwdCc+PC9zY3JpcHQ+DQogICAgICAgICAgICAgICAgPHNjcmlwdCBzcmM9Jy9TY3JpcHRzL2pxdWVyeS5ob3ZlckludGVudC5taW5pZmllZC5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgICAgICA8c2NyaXB0IHNyYz0nL2phdmFzY3JpcHQvSW50ZXJuYWxDYW1wYWlnbi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz48L3NjcmlwdD4NCiAgICAgICAgICAgIGQCAxBkZBYCAgwPZBYCAgEPZBYCAhIPZBYCAgEPFgIeBFRleHQF6QU8ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjE8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMwMjY3LmFzcD9yZWY9cmNfbXAnPldoeSB0aGUgUVIgY29kZSBpcyBmYWlsaW5nPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjI8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMwMzMxLmFzcD9yZWY9cmNfbXAnPlRoZSA3IGRlYWRseSBzaW5zIG9mIEZhY2Vib29rIHBhZ2UgZGVzaWduPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjM8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMwMzUwLmFzcD9yZWY9cmNfbXAnPjYgc29jaWFsIG1lZGlhIGF0dGl0dWRlcyB0aGF0IGNvbm5lY3Qgd2l0aCBwZW9wbGUgPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjQ8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMwMzYyLmFzcD9yZWY9cmNfbXAnPjUgc2NhcnkgY2xpZW50IHN0b3JpZXMgdG8gdGVsbCBpbiB0aGUgZGFyazwvYT48L3A+PC9kaXY+PGRpdiBjbGFzcz0nY2xlYXJmaXgnPjxwPjxzcGFuIGNsYXNzPSdkcm9wJz41PC9zcGFuPiA8YSBocmVmPScvY29udGVudC8zMDM3NC5hc3A/cmVmPXJjX21wJz5UaGUgbW9iaWxlIG9wdGltaXphdGlvbiBzdHJhdGVneSBldmVyeSBicmFuZCBtdXN0IGVtcGxveTwvYT48L3A+PC9kaXY+ZGQ=">
-</div>
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" class="site-master-aspx-form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg1MTQ0Nzc5NA9kFgJmD2QWAgIDD2QWAgIOD2QWAgIBD2QWAgIBD2QWAgISD2QWAgIBDxYCHgRUZXh0BfEFPGRpdiBjbGFzcz0nY2xlYXJmaXgnPjxwPjxzcGFuIGNsYXNzPSdkcm9wJz4xPC9zcGFuPiA8YSBocmVmPScvY29udGVudC8zMDQ5Ny5hc3A/cmVmPXJjX21wJz5BIHNvY2lhbCBtZWRpYSBwbGFubmVyJ3MgZ3VpZGUgdG8gcGxlYXNpbmcgdGhlIGJvc3M8L2E+PC9wPjwvZGl2PjxkaXYgY2xhc3M9J2NsZWFyZml4Jz48cD48c3BhbiBjbGFzcz0nZHJvcCc+Mjwvc3Bhbj4gPGEgaHJlZj0nL2NvbnRlbnQvMzE1NDguYXNwP3JlZj1yY19tcCc+TmV3IG9wcG9ydHVuaXRpZXMgaW4gbmF0aXZlIGFkdmVydGlzaW5nPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjM8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMxNjIzLmFzcD9yZWY9cmNfbXAnPjMgd2F5cyBicmFuZHMgYXJlIHN0aWxsIGZhaWxpbmcgYXQgc29jaWFsIG1lZGlhPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjQ8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMxNjAzLmFzcD9yZWY9cmNfbXAnPkhvdyBTaXJpIGlzIGdvaW5nIHRvIGNvbXBsZXRlbHkgY2hhbmdlIHlvdXIgam9iPC9hPjwvcD48L2Rpdj48ZGl2IGNsYXNzPSdjbGVhcmZpeCc+PHA+PHNwYW4gY2xhc3M9J2Ryb3AnPjU8L3NwYW4+IDxhIGhyZWY9Jy9jb250ZW50LzMxNjUwLmFzcD9yZWY9cmNfbXAnPlRoZSBkaXJ0eSB0cnV0aCBhYm91dCBGYWNlYm9vayBjb21tZXJjZTwvYT48L3A+PC9kaXY+ZGQ=">
 
 
-<script src="/ScriptResource.axd?d=9GVDSCQxZJ8bLyXVtl5THhvvEeFC5j_BQVdE_Yw-Q-SuNw6VyGOh4zpeRwxfrmarR2ce1nD9xl61f3Ar1VU2UOCktycQyEJwI2X8mwkTXBrbBq5J5WB0JmY83PInIwy_uozI-Y1r3eylqLHhO-sDHxdAl_fZ6Si-_T5bBLjMQqlUFu5l0&amp;t=634407178500356000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=IO2roS22OTlLQuN9aPXtQrN46losDLEQq7NWAzO24F5MjQuGV8jYfRUk78WSrJ-UYGADyAqEbBib5pR4ML4SVb_VH7LbQrH3vYfgzoFOEQUuUeYqREoHHqQa-MpFwayOT6I3cTNTGpaTM9ICgx7otsGNrxSss59BobxF4f_r97l4IYDV0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
         
 
         <script type="text/javascript">
-        _area="";
-        _channel="";
-        _section="";
+            _area = "";
+            _channel = "";
+            _section = "";
         </script>
 
         <!-- ADMIN NAVIGATION BAR -->
         
+
         <!-- AUTHOR NAVIGATION BAR -->
         
-        
+
         <!--  ANY NOTIFICATION MESSAGE GOES HERE  -->
+        
+        <div class="site-toolbar">
+            <div id="socialmedia" class="clearfix">
+                <div>Follow us: </div>
+                <ul>
+                    <li><a href="http://goo.gl/bCMG6" id="nl" target="_blank">iMedia Connection Daily Newsletter</a></li>
+                    <li><a href="http://goo.gl/2Tibc" id="tw" target="_blank">Follow iMedia Connection on Twitter</a></li>
+                    <li><a href="http://goo.gl/T1mNO" id="fb" target="_blank">iMedia Connection on Facebook</a></li>
+                    <li><a href="http://goo.gl/yUPu6" id="rss" target="_blank">iMedia Connection RSS Feed</a></li>
+                    <li><a href="http://goo.gl/FRXzd" id="youtube" target="_blank">iMedia Connection on Youtube</a></li>
+                    <li><a href="http://goo.gl/cTekm" class="emdigoColorBox cboxElement" id="mobile">iMedia Connection Mobile</a></li>
+                </ul>
+            </div>
+            <!--  LOGIN  -->
+            <div id="user-setting" class="clearfix">
                 
+                <div id="ctl00_PanelNotLoggedIn">
+	
+                    <span class="link" onclick="PopLogin()"><strong>Sign in</strong></span><span class="imc-lightgray">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="https://www.imediaconnection.com/profiles/Register/Start.aspx" id="AHREFRegisterLink">Register</a>
+                
+</div>
+            </div>
+        </div>
         <div class="main-body">
-            <div class="floating_back_to_top hidden">click meee</div>
             <div class="container_24 clearfix">
+                <div class="special-tag">Brand Marketers Only</div>
                 <div class="modal-top">
                     
                 </div>
                 <div class="grid_24 header">
-                    <h2 class="title">
-                        <a href="http://www.imediaconnection.com">iMediaConnection</a>
+                    <h2 class="site">
+                        <a href="/">iMedia Connection - Connecting the Marketing Community</a>
                     </h2>
                     
                     <!--  SOCIAL MEDIA LINKS  -->
-                    <div class="social-connect">
-                        <ul>
-                            <li><a class="twitter" href="http://www.twitter.com/imediatweet" target="_blank">Follow
-                                iMedia on Twitter</a></li>
-                            <li><a class="facebook" href="http://www.facebook.com/pages/iMedia-Connection/116418948405948" target="_blank">iMedia Connection on Facebook</a></li>
-                            <li><a class="newsletter" href="http://www.imediaconnection.com/newsletter/subscribe/" target="_blank">Subscribe to iMedia Connection Daily Newsletter</a></li>
-                            <li><a class="mobile emdigoColorBox cboxElement" href="http://getiturl.com/imediacomm/03000a0fcwsj" target="_blank">View iMedia Connection Mobile Site</a></li>
-                            <!-- http://m.imediaconnection.com/imedia/index.htm;jsessionid=D346F8B58608FC0C91AE280EB2F9C91A -->
-                            <li><a class="rss" href="/rss.aspx" target="_blank">
-                                iMedia Connection RSS Feeds</a></li>
-                        </ul>
-                    </div>
-                    <!--  LOGIN  -->
-                    <div class="loginDisplay">
-                        
-                        <div id="ctl00_PanelNotLoggedIn">
-	
-                            <a href="/profiles/Login.aspx" id="ctl00_HeadLoginStatus"><strong>Sign In</strong></a><span class="imc-lightgray">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="/profiles/Register/Start.aspx" id="ctl00_AHREFRegisterLink">Register</a>
-                        
-</div>
-                    </div>
+                    
+
                     <div class="banner728x90">
                         
 
-<script type="text/javascript">
-    var findarea;
-
-    if (typeof _area == 'undefined')
-    {
-	    _area = "HOME_PAGE";
-    }
-
-    if (_area != null || _area != "")
-    {
-	    findarea = _area;
-    }
-    else
-    {
-	    findarea = "HOME_PAGE";
-    }
-    	
-    switch (findarea){
-    case "ADTECH_BLOGS":
-    var imcadarea="17/2"
-    break;
-    case "ASIA":
-    var imcadarea="19/2"
-    break;
-    case "BLOGS":
-    var imcadarea="16/2"
-    break;
-    case "COMPANY":
-    var imcadarea="24/2"
-    break;
-    case "CONS_STRAT":
-    var imcadarea="11/2"
-    break;
-    case "CONS_STRAT_ACQUISITION":
-    var imcadarea="25/11/2"
-    break;
-    case "CONS_STRAT_BEHAVIORAL_MKTG":
-    var imcadarea="26/11/2"
-    break;
-    case "CONS_STRAT_DEMOGRAPHICS":
-    var imcadarea="27/11/2"
-    break;
-    case "CONS_STRAT_INTERNATIONAL":
-    var imcadarea="28/11/2"
-    break;
-    case "CONS_STRAT_MULTICULTURAL":
-    var imcadarea="29/11/2"
-    break;
-    case "CONS_STRAT_POPULATION":
-    var imcadarea="30/11/2"
-    break;
-    case "CONS_STRAT_SOCIAL_MEDIA":
-    var imcadarea="31/11/2"
-    break;
-    case "CONS_STRAT_VERTICALS":
-    var imcadarea="32/11/2"
-    break;
-    case "VERTICALS_ENTERTAINMENT":
-    var imcadarea="33/11/2"
-    break;
-    case "VERTICALS_AUTOS":
-    var imcadarea="34/11/2"
-    break;
-    // case "CONT_BUZZ_WEEKLY":
-    // var imcadarea=""
-    // break;
-    // case "CONT_PEOPLE_CONN":
-    // var imcadarea=""
-    // break;
-    case "CREATIVE":
-    var imcadarea="13/2"
-    break;
-    case "CREATIVE_BEST_PRACTICES":
-    var imcadarea="35/13/2"
-    break;
-    case "CREATIVE_CASE_STUDIES":
-    var imcadarea="36/13/2"
-    break;
-    case "CREATIVE_SHOWCASE":
-    var imcadarea="37/13/2"
-    break;
-    case "HOME_PAGE":
-    var imcadarea="3/2"
-    break;
-    case "HOME_PODCASTS":
-    var imcadarea="38/3/2"
-    break;
-    case "HOME_VIDEO":
-    var imcadarea="39/3/2"
-    break;
-    // case "INDUSTRY_ISSUES":
-    // var imcadarea=""
-    // break;
-    case "IN_FOCUS":
-    var imcadarea="105/2"
-    break;
-    // case "JOBBOARD_PROMO":
-    // var imcadarea=""
-    // break;
-    case "JOBS":
-    var imcadarea="20/2"
-    break;
-    case "MEDIA_ST":
-    var imcadarea="10/2"
-    break;
-    case "MEDIA_ST_AD_NETWORKS":
-    var imcadarea="40/10/2"
-    break;
-    case "MEDIA_ST_AD_SERVING":
-    var imcadarea="41/10/2"
-    break;
-    case "MEDIA_ST_DIRECT_MARKETING":
-    var imcadarea="42/10/2"
-    break;
-    case "MEDIA_ST_INTEGRATED_MARKETING":
-    var imcadarea="43/10/2"
-    break;
-    case "MEDIA_ST_LOCAL":
-    var imcadarea="44/10/2"
-    break;
-    case "MEDIA_ST_PLANNING_BUYING":
-    var imcadarea="45/10/2"
-    break;
-    case "MKTG_CH":
-    var imcadarea="9/2"
-    break;
-    case "MKTG_CH_DESKTOP_APPS":
-    var imcadarea="46/9/2"
-    break;
-    case "MKTG_CH_EMAIL":
-    var imcadarea="47/9/2"
-    break;
-    // case "MKTG_CH_EMAIL_INFOCUS":
-    // var imcadarea=""
-    // break;
-    case "MKTG_CH_EMERGING":
-    var imcadarea="48/9/2"
-    break;
-    case "MKTG_CH_ITV":
-    var imcadarea="49/9/2"
-    break;
-    case "MKTG_CH_WEBSITES":
-    var imcadarea="50/9/2"
-    break;
-    case "MKTG_CH_WIRELESS":
-    var imcadarea="51/9/2"
-    break;
-    case "NEWS":
-    var imcadarea="8/2"
-    break;
-    case "NEWSL_IMEDIA":
-    var imcadarea="52/2"
-    break;
-    case "NEWSL_IMEDIA2":
-    var imcadarea="104/2"
-    break;
-    case "NEWSL_IMEDIAASIA":
-    var imcadarea="53/2"
-    break;
-    case "NEWSL_IMEDIAASIA2":
-    var imcadarea="54/2"
-    break;
-    case "NEWSL_IMEDIAUK":
-    var imcadarea="55/18/2"
-    break;
-    case "PEOPLE":
-    var imcadarea="15/2"
-    break;
-    case "PEOPLE_BIOS":
-    var imcadarea="56/15/2"
-    break;
-    case "PEOPLE_BOOK_CLUB":
-    var imcadarea="57/15/2"
-    break;
-    case "PEOPLE_INTERVIEWS":
-    var imcadarea="58/15/2"
-    break;
-    case "PEOPLE_OPINIONS":
-    var imcadarea="59/15/2"
-    break;
-    case "PEOPLE_PEOPLE_CONNECT":
-    var imcadarea="22/2"
-    break;
-    case "RC_RESOURCE_CONN_HOME":
-    var imcadarea="21/2"
-    break;
-    case "RC_AD_SERVING":
-    var imcadarea="60/21/2"
-    break;
-    case "RC_ADNETWORKS":
-    var imcadarea="61/21/2"
-    break;
-    case "RC_RICH_MEDIA":
-    var imcadarea="62/21/2"
-    break;
-    case "RC_SEARCH":
-    var imcadarea="63/21/2"
-    break;
-    case "RC_WEB_ANALYTICS":
-    var imcadarea="64/21/2"
-    break;
-    case "RC_EMAIL_MARKETING":
-    var imcadarea=""
-    break;
-    case "RESEARCH":
-    var imcadarea="14/2"
-    break;
-    case "RESEARCH_BRANDING":
-    var imcadarea="66/14/2"
-    break;
-    case "RESEARCH_CONS_ACQUISITION":
-    var imcadarea="67/14/2"
-    break;
-    case "RESEARCH_CONS_ACTION":
-    var imcadarea="68/14/2"
-    break;
-    case "RESEARCH_MULTICHANNEL":
-    var imcadarea="69/14/2"
-    break;
-    case "RESEARCH_WEB_ANALYTICS":
-    var imcadarea="70/14/2"
-    break;
-    case "ROS_INTERSTITIAL":
-    var imcadarea="71/2"
-    break;
-    case "RSS_FEED":
-    var imcadarea="72/2"
-    break;
-    case "SEARCH":
-    var imcadarea="12/2"
-    break;
-    // case "SEARCH_LOCAL_SEARCH":
-    // var imcadarea=""
-    // break;
-    case "SEARCH_PAID_SEARCH":
+<script type="text/javascript"> 
+//<!-- Javascript tag
+var findarea;
+if (typeof _area == 'undefined')
+{
+    _area = "HOME_PAGE";
+}
+if (_area != null || _area != "")
+{
+    findarea = _area;
+}
+else
+{
+    findarea = "HOME_PAGE";
+}
+        
+switch (findarea){
+case "ADTECH_BLOGS":
+var imcadarea="17/2"
+break;
+case "ASIA":
+var imcadarea="19/2"
+break;
+case "BLOGS":
+var imcadarea="16/2"
+break;
+case "COMPANY":
+var imcadarea="24/2"
+break;
+case "CONS_STRAT":
+var imcadarea="11/2"
+break;
+case "CONS_STRAT_ACQUISITION":
+var imcadarea="25/11/2"
+break;
+case "CONS_STRAT_BEHAVIORAL_MKTG":
+var imcadarea="26/11/2"
+break;
+case "CONS_STRAT_DEMOGRAPHICS":
+var imcadarea="27/11/2"
+break;
+case "CONS_STRAT_INTERNATIONAL":
+var imcadarea="28/11/2"
+break;
+case "CONS_STRAT_MULTICULTURAL":
+var imcadarea="29/11/2"
+break;
+case "CONS_STRAT_POPULATION":
+var imcadarea="30/11/2"
+break;
+case "CONS_STRAT_SOCIAL_MEDIA":
+var imcadarea="31/11/2"
+break;
+case "CONS_STRAT_VERTICALS":
+var imcadarea="32/11/2"
+break;
+case "VERTICALS_ENTERTAINMENT":
+var imcadarea="33/11/2"
+break;
+case "VERTICALS_AUTOS":
+var imcadarea="34/11/2"
+break;
+// case "CONT_BUZZ_WEEKLY":
+// var imcadarea=""
+// break;
+// case "CONT_PEOPLE_CONN":
+// var imcadarea=""
+// break;
+case "CREATIVE":
+var imcadarea="13/2"
+break;
+case "CREATIVE_BEST_PRACTICES":
+var imcadarea="35/13/2"
+break;
+case "CREATIVE_CASE_STUDIES":
+var imcadarea="36/13/2"
+break;
+case "CREATIVE_SHOWCASE":
+var imcadarea="37/13/2"
+break;
+case "HOME_PAGE":
+var imcadarea="3/2"
+break;
+case "HOME_PODCASTS":
+var imcadarea="38/3/2"
+break;
+case "HOME_VIDEO":
+var imcadarea="39/3/2"
+break;
+// case "INDUSTRY_ISSUES":
+// var imcadarea=""
+// break;
+case "IN_FOCUS":
+var imcadarea="105/2"
+break;
+// case "JOBBOARD_PROMO":
+// var imcadarea=""
+// break;
+case "JOBS":
+var imcadarea="20/2"
+break;
+case "MEDIA_ST":
+var imcadarea="10/2"
+break;
+case "MEDIA_ST_AD_NETWORKS":
+var imcadarea="40/10/2"
+break;
+case "MEDIA_ST_AD_SERVING":
+var imcadarea="41/10/2"
+break;
+case "MEDIA_ST_DIRECT_MARKETING":
+var imcadarea="42/10/2"
+break;
+case "MEDIA_ST_INTEGRATED_MARKETING":
+var imcadarea="43/10/2"
+break;
+case "MEDIA_ST_LOCAL":
+var imcadarea="44/10/2"
+break;
+case "MEDIA_ST_PLANNING_BUYING":
+var imcadarea="45/10/2"
+break;
+case "MKTG_CH":
+var imcadarea="9/2"
+break;
+case "MKTG_CH_DESKTOP_APPS":
+var imcadarea="46/9/2"
+break;
+case "MKTG_CH_EMAIL":
+var imcadarea="47/9/2"
+break;
+// case "MKTG_CH_EMAIL_INFOCUS":
+// var imcadarea=""
+// break;
+case "MKTG_CH_EMERGING":
+var imcadarea="48/9/2"
+break;
+case "MKTG_CH_ITV":
+var imcadarea="49/9/2"
+break;
+case "MKTG_CH_WEBSITES":
+var imcadarea="50/9/2"
+break;
+case "MKTG_CH_WIRELESS":
+var imcadarea="51/9/2"
+break;
+case "NEWS":
+var imcadarea="8/2"
+break;
+case "NEWSL_IMEDIA":
+var imcadarea="52/2"
+break;
+case "NEWSL_IMEDIA2":
+var imcadarea="104/2"
+break;
+case "NEWSL_IMEDIAASIA":
+var imcadarea="53/2"
+break;
+case "NEWSL_IMEDIAASIA2":
+var imcadarea="54/2"
+break;
+case "NEWSL_IMEDIAUK":
+var imcadarea="55/18/2"
+break;
+case "PEOPLE":
+var imcadarea="15/2"
+break;
+case "PEOPLE_BIOS":
+var imcadarea="56/15/2"
+break;
+case "PEOPLE_BOOK_CLUB":
+var imcadarea="57/15/2"
+break;
+case "PEOPLE_INTERVIEWS":
+var imcadarea="58/15/2"
+break;
+case "PEOPLE_OPINIONS":
+var imcadarea="59/15/2"
+break;
+case "PEOPLE_PEOPLE_CONNECT":
+var imcadarea="22/2"
+break;
+case "RC_RESOURCE_CONN_HOME":
+var imcadarea="21/2"
+break;
+case "RC_AD_SERVING":
+var imcadarea="60/21/2"
+break;
+case "RC_ADNETWORKS":
+var imcadarea="61/21/2"
+break;
+case "RC_RICH_MEDIA":
+var imcadarea="62/21/2"
+break;
+case "RC_SEARCH":
+var imcadarea="63/21/2"
+break;
+case "RC_WEB_ANALYTICS":
+var imcadarea="64/21/2"
+break;
+case "RC_EMAIL_MARKETING":
+var imcadarea=""
+break;
+case "RESEARCH":
+var imcadarea="14/2"
+break;
+case "RESEARCH_BRANDING":
+var imcadarea="66/14/2"
+break;
+case "RESEARCH_CONS_ACQUISITION":
+var imcadarea="67/14/2"
+break;
+case "RESEARCH_CONS_ACTION":
+var imcadarea="68/14/2"
+break;
+case "RESEARCH_MULTICHANNEL":
+var imcadarea="69/14/2"
+break;
+case "RESEARCH_WEB_ANALYTICS":
+var imcadarea="70/14/2"
+break;
+case "ROS_INTERSTITIAL":
+var imcadarea="71/2"
+break;
+case "RSS_FEED":
+var imcadarea="72/2"
+break;
+case "SEARCH":
+var imcadarea="12/2"
+break;
+case "SEARCH_PAID_SEARCH":
     var imcadarea="73/12/2"
     break;
-    case "SEARCH_SEARCH_ENGINES":
+case "SEARCH_SEARCH_ENGINES":
     var imcadarea="74/12/2"
     break;
-    case "SEARCH_SEO":
+case "SEARCH_SEO":
     var imcadarea="75/12/2"
     break;
-    case "SUMMIT_AGENCY_FALL":
+case "SUMMIT_AGENCY_FALL":
     var imcadarea="76/2"
     break;
-    case "SUMMIT_AGENCY_SPRING":
+case "SUMMIT_AGENCY_SPRING":
     var imcadarea="77/2"
     break;
-    case "SUMMIT_AUTO":
+case "SUMMIT_AUTO":
     var imcadarea="78/2"
     break;
-    case "SUMMIT_BRAND_FALL":
+case "SUMMIT_BRAND_FALL":
     var imcadarea="79/2"
     break;
-    case "SUMMIT_BRAND_SPRING":
+case "SUMMIT_BRAND_SPRING":
     var imcadarea="80/2"
     break;
-    case "SUMMIT_BRAND_SUMMER":
+case "SUMMIT_BRAND_SUMMER":
     var imcadarea="81/2"
     break;
-    case "SUMMIT_BREAKTHROUGH":
+case "SUMMIT_BREAKTHROUGH":
     var imcadarea="82/2"
     break;
-    case "SUMMIT_BREAKTHROUGH_FALL":
+case "SUMMIT_BREAKTHROUGH_FALL":
     var imcadarea="83/2"
     break;
-    // case "SUMMIT_COVG_ADTECH_SF":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_AGENCY_SPRING":
+case "SUMMIT_COVG_AGENCY_SPRING":
     var imcadarea="84/77/2"
     break;
-    case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
+case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
     var imcadarea="85/84/77/2"
     break;
-    case "SUMMIT_COVG_AGENCY_FALL":
+case "SUMMIT_COVG_AGENCY_FALL":
     var imcadarea="86/76/2"
     break;
-    case "SUMMIT_COVG_AGENCY_FALL_NWSL":
+case "SUMMIT_COVG_AGENCY_FALL_NWSL":
     var imcadarea="87/86/76/2"
     break;
-    case "SUMMIT_COVG_AUTO":
+case "SUMMIT_COVG_AUTO":
     var imcadarea="88/78/2"
     break;
-    case "SUMMIT_COVG_BRAND_FALL":
+case "SUMMIT_COVG_BRAND_FALL":
     var imcadarea="89/79/2"
     break;
-    case "SUMMIT_COVG_BRAND_FALL_NWSL":
+case "SUMMIT_COVG_BRAND_FALL_NWSL":
     var imcadarea="90/89/79/2"
     break;
-    case "SUMMIT_COVG_BRAND_SPRING":
+case "SUMMIT_COVG_BRAND_SPRING":
     var imcadarea="91/80/2"
     break;
-    case "SUMMIT_COVG_BRAND_SPRING_NWSL":
+case "SUMMIT_COVG_BRAND_SPRING_NWSL":
     var imcadarea="92/91/80/2"
     break;
-    case "SUMMIT_COVG_BRAND_SUMMER":
+case "SUMMIT_COVG_BRAND_SUMMER":
     var imcadarea="93/81/2"
     break;
-    case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
+case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
     var imcadarea="94/93/81/2"
     break;
-    // case "SUMMIT_COVG_BREAKTHROUGH":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_BREAKTHROUGH_FALL":
+case "SUMMIT_COVG_BREAKTHROUGH_FALL":
     var imcadarea="95/83/2"
     break;
-    case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
+case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
     var imcadarea="96/95/83/2"
     break;
-    // case "SUMMIT_COVG_BREAKTHROUGH_SPCL":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
     var imcadarea="97/82/2"
     break;
-    case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
     var imcadarea="98/97/82/2"
     break;
-    case "SUMMIT_COVG_FINANCIAL":
+case "SUMMIT_COVG_FINANCIAL":
     var imcadarea="100/99/2"
     break;
-    case "SUMMIT_ENTERTAINMENT":
+case "SUMMIT_ENTERTAINMENT":
     var imcadarea="101/2"
     break;
-    case "SUMMIT_COVG_ENTERTAINMENT":
+case "SUMMIT_COVG_ENTERTAINMENT":
     var imcadarea="102/101/2"
     break;
-    case "SUMMIT_FINANCIAL":
+case "SUMMIT_FINANCIAL":
     var imcadarea="99/2"
     break;
-    case "SUMMIT_HOME":
+case "SUMMIT_VIDEO":
+    var imcadarea = "125/2"
+    break;
+case "SUMMIT_COVG_VIDEO":
+    var imcadarea = "126/125/2"
+    break; 
+case "SUMMIT_COVG_VIDEO_SPRING":
+    var imcadarea = "126/125/2"
+    break; 	
+case "SUMMIT_HOME":
     var imcadarea="23/2"
     break;
-    // case "SUMMIT_IMS_FALL":
-    // var imcadarea=""
-    // break;
-    case "TEST":
+case "TEST":
     var imcadarea="7/2"
     break;
-    case "UK":
+case "UK":
     var imcadarea="18/2"
     break;
-    case "UK_SUMMIT_BRAND_SPRING":
-        var imcadarea="103/18/2"
+case "UK_SUMMIT_BRAND_SPRING":
+    var imcadarea="103/18/2"
     break;
-    case "STREAMING_VIDEOS":
-    var imcadarea="119/2";
-    case "IMEDIA_25":
-        var imcadarea="117/2";
-    break;    
-    default : var imcadarea="3/2";
+case "SUMMIT_IMOMS":
+    var imcadarea="109/2"
+    break;
+case "SUMMIT_COVG_IMOMS":
+    var imcadarea="110/109/2"
+    break;
+case "STREAMING_VIDEOS":
+case "STREAMING_VIDEOS_BOB_GARFIELD":
+case "STREAMING_VIDEOS_SUMMIT":
+    var imcadarea = "119/2";
+    break;
+case "STREAMING_VIDEOS_INDUSTRY_INSIDER":
+    var imcadarea = "123/119/2";
+    break;
+case "IMEDIA_25":
+case "IMEDIA_LIST":
+    var imcadarea="117/2";
+    break;
+case "AGENCY_AWARDS":
+    var imcadarea = "120/2";
+    break;
+
+default : var imcadarea="3/2";
+}
+// <!-- Javascript tag
+    var HideIfSponsored = 'False';
+    if (typeof (checkSponsor) == 'undefined')
+        checkSponsor = 0;
+
+    if (HideIfSponsored == 'False' || checkSponsor != 1) {
+        var zflag_nid = "1267";
+        var zflag_sid = "1";
+        var zflag_cid = imcadarea;
+        //var zflag_cid = ""; 
+        var zflag_width = "728";
+        var zflag_height = "90";
+        var zflag_sz = "14";
+        document.write('<SCR');
+        document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
+        document.write('</SCR');
+        document.write('IPT>');
     }
-
-    // <!-- Javascript tag
-    // 728 x 90
-    var zflag_nid="1267";
-    var zflag_cid=imcadarea;
-    var zflag_sid="1";
-    var zflag_width="728";
-    var zflag_height="90";
-    var zflag_sz="14";
-    document.write('<SCR');
-    document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
-    document.write('</SCR');
-    document.write('IPT>');
-    // 728 x 90 -->              
+// -->	
 </script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-
-
                     </div>
                 </div>
+                
                 <!--  SITE NAVIGATION  -->
                 
 <div class="grid_24 site-navigation">
@@ -621,11 +664,13 @@
             <div class="sub" style="opacity: 0;">
                 <div class="nav-content">
                     <div class="col top-stories">
-                        <div class="title">Latest <span>Articles</span></div>
+                        <div class="title">
+                            <a href="http://www.imediaconnection.com/">Top <span>Stories</span></a></div>
                         <ul id="ArticlesUL" class="article">
                         </ul>
                         <div class="coverstories">
-                            <div class="title">Cover <span>Stories</span></div>
+                            <div class="title">
+                                Cover <span>Stories</span></div>
                             <span><a href="/coverstories/">View all Cover Stories »</a></span>
                         </div>
                     </div>
@@ -636,8 +681,8 @@
                             <li><a href="/adnetworks/">Ad Networks</a></li>
                             <li><a href="/adserving/">Ad Serving</a></li>
                             <!--  DISABLED UNTIL NEW CMS  
-                                            <li><a href="#">Agency Issues</a></li>
-                                        -->
+                                                        <li><a href="#">Agency Issues</a></li>
+                                                    -->
                             <li><a href="/apps/">Apps</a></li>
                             <li><a href="/brandissues/">Brand Issues</a></li>
                             <li><a href="/casestudies/">Case Studies</a></li>
@@ -653,8 +698,8 @@
                             <li><a href="/mediaplanning/">Media Planning &amp; Buying</a></li>
                             <li><a href="/mobile/">Mobile</a></li>
                             <!--  DISABLED UNTIL NEW CMS  
-                                            <li><a href="#">Professional Development</a></li>
-                                        -->
+                                                        <li><a href="#">Professional Development</a></li>
+                                                    -->
                             <li><a href="/search/">Search</a></li>
                             <li><a href="/socialmedia/">Social Media</a></li>
                             <li><a href="/targeting/">Targeting</a></li>
@@ -677,13 +722,7 @@
                         <ul id="ImcBlogNavUL">
                         </ul>
                     </div>
-                    <div class="col ad-tech">
-                        <div class="title">
-                            <a href="http://ad-tech.blogs.imediaconnection.com">ad:tech <span>Blog</span></a>
-                        </div>
-                        <ul id="AdTechBlogNavUL">
-                        </ul>
-                    </div>
+                    
                 </div>
             </div>
         </li>
@@ -704,25 +743,24 @@
                         <div class="title">
                             <a href="/videos/">Latest <span>Videos</span></a></div>
                         <ul class="video">
-
-                            <script language="JavaScript" type="text/javascript" src="http://www.imediaconnection.com/content/VideoFile.js"></script>
-
+                            
+                            <script language="JavaScript" type="text/javascript" src="/content/VideoFile.js"></script>
                             <script language="JavaScript" type="text/javascript">
-                                            try {
-                                                for (i = 0; i < 4; i++) {
-                                                    document.write('<li><a href="http://www.imediaconnection.com/videoredirect.aspx?VideoID=' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '&type=' + videofile.NewDataSet.VideoFile[i].VideoType + '">');
-                                                    document.write('<img src="http://www.imediaconnection.com/spot/images/' + videofile.NewDataSet.VideoFile[i].ThumbnailFile + '" alt="video' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '" /><br />');
-                                                    title = videofile.NewDataSet.VideoFile[i].Video_Title;
-                                                    title = title.replace("\\u0027", "'");
-                                                    title = title.replace('\\u0022', '"');
-                                                    document.write('<span>' + title + '</span></a></li>');
-                                                }
-                                            }
-                                            catch (err) {
-                                                //Handle errors here
-                                            }
-                            </script>
-
+                                try {
+                                    for (i = 0; i < 4; i++) {
+                                        document.write('<li><a href="/videoredirect.aspx?VideoID=' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '&type=' + videofile.NewDataSet.VideoFile[i].VideoType + '">');
+                                        document.write('<img src="/spot/images/' + videofile.NewDataSet.VideoFile[i].ThumbnailFile + '" alt="video' + videofile.NewDataSet.VideoFile[i].VideoFile_ID + '" /><br />');
+                                        title = videofile.NewDataSet.VideoFile[i].Video_Title;
+                                        title = title.replace("\\u0027", "'");
+                                        title = title.replace('\\u0022', '"');
+                                        document.write('<span>' + title + '</span></a></li>');
+                                    }
+                                }
+                                catch (err) {
+                                    //Handle errors here
+                                }
+                            </script><li><a href="/videoredirect.aspx?VideoID=31290&amp;type=1"><img src="/spot/images/31290.jpg" alt="video31290"><br><span>TrendWatch: 5 hot new digital tools</span></a></li><li><a href="/videoredirect.aspx?VideoID=31141&amp;type=1"><img src="/spot/images/31141.jpg" alt="video31141"><br><span>3 insane Starbucks campaigns</span></a></li><li><a href="/videoredirect.aspx?VideoID=31194&amp;type=1"><img src="/spot/images/31194.jpg" alt="video31194"><br><span>The 9 most offensive, funny Apple stories you'll ever hear</span></a></li><li><a href="/videoredirect.aspx?VideoID=31158&amp;type=1"><img src="/spot/images/31158.jpg" alt="video31158"><br><span>2 reasons connected TV will tank</span></a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -733,59 +771,43 @@
                 <div class="nav-content">
                     <div class="summit-des col">
                         <div class="title">
-                            <a href="http://www.imediaconnection.com/summits/index.asp">iMedia <span>Summits</span></a></div>
+                            <a href="/summits/index.asp">iMedia <span>Summits</span></a></div>
                         <ul class="summit-des col">
                             <li>Senior buyers and sellers of interactive media attend our summits to learn, network,
                                 and do business.<br>
-                                <a href="http://www.imediaconnection.com/summits/index.asp?imcid=nav">Visit iMedia Summit</a>
-                            </li>
+                                <a href="/summits/index.asp?imcid=nav">Visit iMedia Summit</a> </li>
                         </ul>
                         <div class="summit-coverage">
                             <div class="title">
                                 Summit <span>Coverage</span></div>
                             <ul class="summit-coverage col">
-                                <li><span><a href="http://www.imediaconnection.com/summits/29158.asp?imcid=nav">Breakthrough
-                                    Summit, October 2011</a></span><br>
-                                    <a href="http://www.imediaconnection.com/PhotoGallery/Default.aspx?SummitId=106&amp;imcid=nav">
-                                        Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/coverage/30193.asp?imcid=nav">Articles</a></li>
-                                <li><span><a href="http://www.imediaconnection.com/summits/28632.asp?imcid=nav">Brand
-                                    Summit, September 2011</a></span><br>
-                                    <a href="http://www.imediaconnection.com/PhotoGallery/Default.aspx?SummitId=105&amp;imcid=nav">
-                                        Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/coverage/29930.asp?imcid=nav">Articles</a></li>
-                                <li><span><a href="http://www.imediaconnection.com/summits/28462.asp?imcid=nav">Entertainment
-                                    Summit, June 2011</a></span><br>
-                                    <a href="http://www.imediaconnection.com/PhotoGallery/Default.aspx?SummitId=104&amp;imcid=nav">
-                                        Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/coverage/29411.asp?imcid=nav">Articles</a></li>
-                                
-                                <li class="viewmore"><a href="http://www.imediaconnection.com/summits/96.asp?imcid=nav">
-                                    view more »</a></li>
+								<li><span>iMoms Summit, April 2012</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=111&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/31494.asp?imcid=nav">Articles &amp; Videos</a></li>
+								<li><span>Video Summit, March 2012</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=110&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/31302.asp?imcid=nav">Articles &amp; Videos</a></li>
+                                <li><span>Brand Summit, February 2012</span><br>
+                                    <a href="/PhotoGallery/Default.aspx?SummitId=109&amp;imcid=nav">Photos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/coverage/30912.asp?imcid=nav">Articles &amp; Videos</a></li>
+                                <li class="viewmore"><a href="/summits/96.asp?imcid=nav">view more »</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="summit-detail col">
                         <ul class="summit-detail col">
-                            <li><span>Agency Summit Arizona 2011</span><br>
-                                December 4-7, Scottsdale, Arizona<br>
-                                <a href="http://www.imediaconnection.com/summits/29296.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/29295.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
-                            <li><span>Brand Summit Florida 2012</span><br>
-                                February 5-8, 2012, Bonita Springs, Florida<br>
-                                <a href="http://www.imediaconnection.com/summits/29555.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/29552.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>    
-                            <li><span>Video Summit Texas 2012</span><br>
-                                March 25-28, 2012, San Antonio, Texas<br>
-                                <a href="http://www.imediaconnection.com/summits/29957.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/29955.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>    
+                            <li><span>Agency Summit Colorado 2012</span><br>
+                                May 20-23, 2012, Colorado Springs, CO<br>
+                                <a href="/summits/30402.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/30400.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request
+                                        Invitation</a></li>
+							<li><span>Entertainment Summit 2012</span><br>
+                                June 26, 2012, Hollywood, CA<br>
+                                <a href="/summits/31323.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/31299.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
                         </ul>
                     </div>
                     <div class="summit-detail col">
                         <ul class="summit-detail">
-                            <li><span>iMoms Summit Florida 2012</span><br>
-                                April 22-25, 2012, Orlando, Florida<br>
-                                <a href="http://www.imediaconnection.com/summits/30199.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/30198.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>       
-                            <li><span>Agency Summit Colorado 2012</span><br>
-                                May 20-23, 2012, Colorado Springs, CO<br>
-                                <!-- <a href="http://www.imediaconnection.com/summits/29555.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/29552.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp; --><a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>   
                             <li><span>Brand Summit California 2012</span><br>
                                 September 9-12, 2012, Coronado, CA<br>
-                                <!-- <a href="http://www.imediaconnection.com/summits/29555.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/29552.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp; --><a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>   
+                                <!-- <a href="/summits/29555.asp?imcid=nav">View Agenda</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/summits/29552.asp?imcid=nav">Learn More</a>&nbsp;&nbsp;|&nbsp;&nbsp; -->
+                                <a href="/SFDC/WebToLead.aspx?imcid=nav">Request Invitation</a></li>
                         </ul>
                     </div>
                 </div>
@@ -796,100 +818,16 @@
                 <div class="nav-content">
                     <div class="job-group col">
                         <ul class="job-group col">
-                            <li class="seeker"><a href="http://www.imediaconnection.com/jobs/">Job Seekers<br>
+                            <li class="seeker"><a href="/jobs/">Job Seekers<br>
                                 <span>The leading job board for social media jobs.</span></a></li>
-                            <li class="employer"><a href="http://www.imediaconnection.com/jobs/JobConnectionMain.aspx">
-                                Employers<br>
+                            <li class="employer"><a href="/jobs/JobConnectionMain.aspx">Employers<br>
                                 <span>Put listings in front of the active and passive job seekers.</span></a></li>
                         </ul>
                     </div>
                     <div class="job-listing col">
                         <div class="title">
-                            <a href="http://www.imediaconnection.com/jobs/">Latest <span>Jobs</span></a></div>
-                        <ul class="job-listing">
-
-                            <script language="JavaScript" type="text/javascript" src="http://www.imediaconnection.com/jobs/tools/js.aspx"></script>
-
-                            <script language="JavaScript" type="text/javascript">
-
-                                            function trimTitle(s) {
-                                                var l = 0; var r = s.length - 1;
-                                                while (l < s.length && s[l] == ' ')
-                                                { l++; }
-                                                while (r > l && s[r] == ' ')
-                                                { r -= 1; }
-                                                return s.substring(l, r + 1);
-                                            }
-
-                                            function RightColumnTrack(URL, trackTypeID) {
-
-                                                try {
-                                                    xmlHttp = new XMLHttpRequest();
-                                                }
-                                                catch (trymicrosoft) {
-                                                    try {
-                                                        xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
-                                                    }
-                                                    catch (othermicrosoft) {
-                                                        try {
-                                                            xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
-                                                        }
-                                                        catch (failed) {
-                                                            xmlHttp = false;
-                                                        }
-                                                    }
-                                                }
-
-                                                if (!xmlHttp) {
-                                                    alert('Browser does not support HTTP Request')
-                                                    return
-                                                }
-
-                                                var url = "/admin/RightColumnTrack.aspx";
-                                                url = url + "?TrackTypeID=" + trackTypeID;
-                                                xmlHttp.onreadystatechange = statesChanged;
-                                                xmlHttp.open("GET", url, true)
-                                                xmlHttp.send(null)
-                                                window.location = URL;
-                                            }
-
-                                            function statesChanged() {
-                                                if (xmlHttp.readyState == 4 || xmlHttp.readyState == "complete") {
-                                                }
-                                            }
-
-                                            var displayMax = 10; //How many result should be displayed? Max 20 
-                                            var myURL = "http://www.imediaconnection.com";
-                                            var job = loadXML().getElementsByTagName("job"); var id; var title; var companyName; var city; var state;
-                                            var arrjobURL = new Array(displayMax);
-                                            for (var i = 0; i < displayMax; i++) {
-                                                id = job[i].getElementsByTagName("id")[0].firstChild.nodeValue;
-                                                title = job[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-                                                var newtitle = "";
-                                                var arraytitle = title.split(" ");
-                                                if (arraytitle.length > 1) {
-                                                    for (index = 0; index < arraytitle.length; index++) {
-                                                        newtitle = newtitle + " " + arraytitle[index].substring(0, 1).toUpperCase() + arraytitle[index].substring(1, arraytitle[index].length).toLowerCase();
-                                                    }
-                                                }
-                                                else
-                                                    newtitle = newtitle.substring(0, 1).toUpperCase() + title.substring(1, title.length).toLowerCase();
-
-                                                companyName = job[i].getElementsByTagName("company")[0].firstChild.nodeValue;
-                                                city = job[i].getElementsByTagName("city")[0].firstChild.nodeValue;
-                                                title = trimTitle(newtitle) + ", " + city;
-                                                state = job[i].getElementsByTagName("state")[0].firstChild.nodeValue;
-
-                                                // --- display template ---
-                                                document.write("<li>");
-                                                arrjobURL[i] = myURL + '/jobs/description.aspx?id=' + id;
-                                                //document.write('<a href="javascript:RightColumnTrack(arrjobURL['+ i + '], 3)">' + title + "</a>");
-                                                document.write('<a href="http://www.imediaconnection.com/jobs/description.aspx?id=' + id + '">' + title + "</a>");
-                                                document.write("</li>");
-                                            }
-                            </script>
-
-                        </ul>
+                            <a href="/jobs/">Latest <span>Jobs</span></a></div>
+                        <ul class="job-listing" id="navLatestJobs"><li><a href="/jobs/description.aspx?id=3626">Administrative Assistant, San Rafael, Ca 94901</a></li><li><a href="/jobs/description.aspx?id=3625">Marketing Associate, New York City</a></li><li><a href="/jobs/description.aspx?id=3622">Digital Marketing Consultant, DFW</a></li><li><a href="/jobs/description.aspx?id=3621">Account Executive - Interactive Markets, San Francisco</a></li><li><a href="/jobs/description.aspx?id=3619">Strategy, Long Beach, CA</a></li><li><a href="/jobs/description.aspx?id=3618">Senior Usability Researcher, King of Prussia</a></li><li><a href="/jobs/description.aspx?id=3617">Sales Account Executive, New York, NY</a></li><li><a href="/jobs/description.aspx?id=3616">Digital Media Planner, Los Angeles</a></li><li><a href="/jobs/description.aspx?id=3615">Sales Planner, New York</a></li><li><a href="/jobs/description.aspx?id=3614">Senior Director Advanced Media, Philadelphia</a></li></ul>
                     </div>
                 </div>
             </div>
@@ -901,18 +839,24 @@
                     <div class="nav-profile-supplement col">
                         <a class="adv-search" href="/profiles/Search.aspx">People Connection Search<br>
                             <span>Find People by name, company, or title</span></a>
-                        <div id="ctl00_ControlNavigation_divNavProfileJoin">
+                        <div id="divNavProfileJoin">
                             <div class="title member-signin">
-                                <a href="http://www.imediaconnection.com/profiles/register/start.aspx">Join <span>People
+                                <a href="https://www.imediaconnection.com/profiles/register/start.aspx">Join <span>People
                                     Connection</span></a></div>
                             <ul class="whyjoin clearfix">
                                 <li>Public profile SEO friendly!</li>
                                 <li>Become an expert. Comments show up on your profile.</li>
                                 <li>Expand your business. </li>
-                                <li class="nav-signup"><a href="http://www.imediaconnection.com/profiles/Register/Start.aspx">
-                                    Become a member now</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/profiles/Account/Login.aspx">Sign
+                                <li class="nav-signup"><a href="https://www.imediaconnection.com/profiles/register/start.aspx">
+                                    Become a member now</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.imediaconnection.com/profiles/Account/Login.aspx">Sign
                                         in</a></li>
                             </ul>
+                        </div>
+                        <div id="divNavProfileSignIn" class="title member-signin">
+                            <!-- hide if logged in -->
+                            <!-- <a href="/Account/Login.aspx">Member <span>Sign In</span></a> -->
+                            <p>
+                            </p>
                         </div>
                         <div>
                             
@@ -925,22 +869,25 @@
             <div class="sub" style="opacity: 0;">
                 <div class="nav-content">
                     <div class="col ">
-                        <div class="title" style="display:none;">
+                        <div class="title">
                             Categories</div>
                         <ul class="category">
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adnetwork">Ad Networks</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adservices">Ad Servers</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adnetwork">
+                                Ad Networks</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=adservices">
+                                Ad Servers</a></li>
                             <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=emailservices">
                                 Email Marketing Services</a></li>
                             <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=generalnews">
-                                Media: General News</a></li>    
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=richmediaservices">Rich
-                                Media Services</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=searchengineservices">Search
-                                Engine Marketing</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=webanalyticservices">Web Analytics
-                                Tools</a></li>
-                            <li><a href="http://www.imediaconnection.com/resourceconnection/" class="viewall">view all »</a></li>
+                                Media: General News</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=richmediaservices">
+                                Rich Media Services</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=searchengineservices">
+                                Search Engine Marketing</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/CompanyCategory.aspx?companycategory=webanalyticservices">
+                                Web Analytics Tools</a></li>
+                            <li><a href="http://www.imediaconnection.com/resourceconnection/" class="viewall">view
+                                all »</a></li>
                         </ul>
                     </div>
                     <!--  hidden until the new resource connection -->
@@ -965,80 +912,108 @@
                     <div class="col ">
                         <ul class="region">
                             <li><a href="http://www.imediaconnection.in">India</a></li>
-                            <li><a href="http://www.imediaconnection.com/UK/index.asp">United Kingdom</a></li>
+                            <li><a href="http://www.imediaconnection.com/uk/">United Kingdom</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
-        </li>        
+        </li>
         <li class="search">
             <script type="text/javascript">
-            //<!--
-            var SiteSearch = {
-                //
-                SubmitSearchByClick: function(btn) {
-                    this.SubmitSearch(); return false;
-                },
-                //
-                SubmitSearchByEnter: function(e, txtbox) {
-                    var keycode = this.GetCharKeyCode(e, txtbox);
-                    if(keycode != 13) { return true; }
+                //<!--
+                var SiteSearch = {
+                    //
+                    SubmitSearchByClick: function (btn) {
+                        this.SubmitSearch(); return false;
+                    },
+                    //
+                    SubmitSearchByEnter: function (e, txtbox) {
+                        var keycode = this.GetCharKeyCode(e, txtbox);
+                        if (keycode != 13) { return true; }
 
-                    this.SubmitSearch(); 
-                    return false;
-                },
-                //
-                SubmitSearch: function() {
-                    var keyword = this.GetKeyword();
-                    if(keyword.length == 0) { return; }
-                                        
-                    var url = "/SearchResultsCSE.aspx" 
-                            +"?cx=007825127435363701717:uuajpqfj3oo"
-                            +"&cof=FORID:9"
-                            +"&ie=UTF-8"
-                            +"&q="+ keyword
-                            +"&sa.x=0"
-                            +"&sa.y=0"
-                            +"&sa=Go#1087";
-                       
-                    location.href = url;                    
-                },
-                //
-                GetCharKeyCode: function(e, obj) {    
-                    var characterCode;
-                    // NN4 specific code
-                    if(e && e.which) { characterCode = e.which; }
-                    // IE specific code
-                    else { characterCode = e.keyCode; }
-                    return characterCode;
-                },
-                //
-                GetKeyword: function() {
-                    var siteSearchBox   = document.getElementById("siteSearchBox");
-                    if(siteSearchBox == null) { return ""; }
-                    return this.Trim(siteSearchBox.value);
-                },
-                //
-                Trim: function(str) {
-                    return str.replace(/^\s*$/g, "");
-                }
-            };
-            //-->
+                        this.SubmitSearch();
+                        return false;
+                    },
+                    //
+                    SubmitSearch: function () {
+                        var keyword = this.GetKeyword();
+                        if (keyword.length == 0) { return; }
+
+                        var url = "/SearchResultsCSE.aspx"
+                                        + "?cx=017392947275951147837:mi3vecqy0uw"
+                                        + "&cof=FORID:9"
+                                        + "&ie=UTF-8"
+                                        + "&q=" + keyword
+                                        + "&sa.x=0"
+                                        + "&sa.y=0"
+                                        + "&sa=Go#1087";
+
+                        location.href = url;
+                    },
+                    execute: function (keyword) {
+                        var keyword = this.GetKeyword();
+                        if (keyword.length == 0) { return; }
+
+                        var url = "/SearchResultsCSE.aspx"
+                                        + "?cx=017392947275951147837:mi3vecqy0uw"
+                                        + "&cof=FORID:9"
+                                        + "&ie=UTF-8"
+                                        + "&q=" + keyword
+                                        + "&sa.x=0"
+                                        + "&sa.y=0"
+                                        + "&sa=Go#1087";
+
+                        location.href = url;
+                    },
+                    //
+                    GetCharKeyCode: function (e, obj) {
+                        var characterCode;
+                        // NN4 specific code
+                        if (e && e.which) { characterCode = e.which; }
+                        // IE specific code
+                        else { characterCode = e.keyCode; }
+                        return characterCode;
+                    },
+                    //
+                    GetKeyword: function () {
+                        var siteSearchBox = document.getElementById("siteSearchBox");
+                        if (siteSearchBox == null) { return ""; }
+                        return this.Trim(siteSearchBox.value);
+                    },
+                    //
+                    Trim: function (str) {
+                        return str.replace(/^\s*$/g, "");
+                    }
+                };
+                //-->
+            </script>
+            <script src="//www.google.com/jsapi" type="text/javascript"></script>
+            <script type="text/javascript">
+                var autoCompletionOptions = {
+                    'maxCompletions': 5,
+                    'styleOptions': {
+                        'xOffset': 0
+                    }
+                };
+
+                google.load('search', '1', { language: 'en', style: google.loader.themes.V2_DEFAULT });
+                google.setOnLoadCallback(function () {
+                    google.search.CustomSearchControl.attachAutoCompletionWithOptions("017392947275951147837:mi3vecqy0uw", document.getElementById('siteSearchBox'), SiteSearch,
+                autoCompletionOptions);
+                });
             </script>
             <input class="inp" type="text" id="siteSearchBox" name="q" onfocus="this.style.background='white';" onkeyup="return SiteSearch.SubmitSearchByEnter(event, this);" style="border: 1px solid #ccc;
                 padding: 2px; background: rgb(255, 255, 255) url(http://www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) no-repeat scroll left center;
-                -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width:115px; height:16px;">
-            <input class="inp" type="image" value="Go" name="sa" src="http://assets.imediaconnection.com/images/pc/bt-go.png" style="margin:4px 0 0 -4px;" onclick="return SiteSearch.SubmitSearchByClick(this);">
-    
+                -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;
+                width: 115px; height: 17px;">
+            <input class="inp" type="image" value="Go" name="sa" src="http://assets.imediaconnection.com/images/pc/bt-go.png" onclick="return SiteSearch.SubmitSearchByClick(this);">
         </li>
     </ul>
 </div>
-
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
 <script type="text/javascript">
     //load Articles, iMedia & ad:tech blog lists into navigation.
-    
+
     var urlParams = {};
     (function () {
         var e,
@@ -1052,39 +1027,35 @@
     })();
 
     //for locked navigation bar
-    var setMenuOffset = function()
-    {
-        var nav = jQuery("#topnav");
+    var setMenuOffset = function () {
+        var nav = $("#topnav");
         if (nav.length == 0) return;
         var currentOffset = document.documentElement.scrollTop || document.body.scrollTop;
-        if (currentOffset > 155 && nav.css('position') != 'fixed')
-        {
-            nav.css('top', '0px' );
+        if (currentOffset > 155 && nav.css('position') != 'fixed') {
+            nav.css('top', '0px');
             nav.css('position', 'fixed');
         }
-        else if (nav.css('position') == 'fixed' && currentOffset <= 155)
-        {
+        else if (nav.css('position') == 'fixed' && currentOffset <= 155) {
             nav.css('position', 'static');
-        }                      
+        }
     };
-    
-    var baseUrl = "http://www.imediaconnection.com/profiles";
-    jQuery(document).ready(function($){
-    
-        if (typeof onScrollEventsFunctions === 'undefined')
-        {
+
+    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com/profiles';
+    $(document).ready(function () {
+
+        if (typeof onScrollEventsFunctions === 'undefined') {
             onScrollEventsFunctions = [];
         }
-        
+
         onScrollEventsFunctions.push(setMenuOffset);
-        
+
         //for locked navigation bar
         //window.onscroll = document.documentElement.onscroll = setMenuOffset;
         //setMenuOffset();       
 
         //Render Articles
-        var callUrl = baseUrl + "/WebService.asmx/RenderArticleRss";        
-        jQuery.ajax({
+        var callUrl = baseUrl + "/WebService.asmx/RenderArticleRss";
+        $.ajax({
             type: "POST",
             url: callUrl,
             data: "{'path': 'http://www.imediaconnection.com/rss/home.xml' }",
@@ -1094,15 +1065,15 @@
                 if (ret != null) {
                     var renderedContent = ret.d;
                     if (renderedContent.length > 0) {
-                        jQuery('#ArticlesUL').html(renderedContent);
+                        $('#ArticlesUL').html(renderedContent);
                     }
                 }
             },
             error: function (e) { }
         });
         //Render Blog
-        var callUrl = baseUrl + "/WebService.asmx/RenderBlogRss";        
-        jQuery.ajax({
+        var callUrl = baseUrl + "/WebService.asmx/RenderBlogRss";
+        $.ajax({
             type: "POST",
             url: callUrl,
             data: "{'path': 'http://blogs.imediaconnection.com/custom-rss/' }",
@@ -1112,40 +1083,101 @@
                 if (ret != null) {
                     var renderedContent = ret.d;
                     if (renderedContent.length > 0) {
-                        jQuery('#ImcBlogNavUL').html(renderedContent);
+                        $('#ImcBlogNavUL').html(renderedContent);
                     }
                 }
             },
             error: function (e) { }
         });
-                
-        //Render AdTech Blog        
-        var callUrl = baseUrl + "/WebService.asmx/RenderAdTechBlogRss";        
-        jQuery.ajax({
-            type: "POST",
-            url: callUrl,
-            data: "{'path': 'http://ad-tech.blogs.imediaconnection.com/imc-custom-rss/' }",
-            contentType: "application/json; charset=utf-8",
-            dataType: "json",
-            success: function (ret) {
-                if (ret != null) {
-                    var renderedContent = ret.d;
-                    if (renderedContent.length > 0) {
-                        jQuery('#AdTechBlogNavUL').html(renderedContent);
-                    }
-                }
-            },
-            error: function (e) { }
-        });
-        
+
+        //        //Render AdTech Blog        
+        //        var callUrl = baseUrl + "/WebService.asmx/RenderAdTechBlogRss";        
+        //        $.ajax({
+        //            type: "POST",
+        //            url: callUrl,
+        //            data: "{'path': 'http://ad-tech.blogs.imediaconnection.com/imc-custom-rss/' }",
+        //            contentType: "application/json; charset=utf-8",
+        //            dataType: "json",
+        //            success: function (ret) {
+        //                if (ret != null) {
+        //                    var renderedContent = ret.d;
+        //                    if (renderedContent.length > 0) {
+        //                        $('#AdTechBlogNavUL').html(renderedContent);
+        //                    }
+        //                }
+        //            },
+        //            error: function (e) { }
+        //        });
+
     });
 </script>
 
+                
+                <!-- Under Nav Content -->
+                
 
+<div class="nav-top-content">
+    <!--?xml version="1.0" encoding="utf-8"?--><ul class="story"><li><a href="http://www.imediaconnection.com/content/31672.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="6 lessons in launching a branded YouTube channel" title="6 lessons in launching a branded YouTube channel" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>6 lessons in launching a branded YouTube channel</span></a></li><li><a href="http://www.imediaconnection.com/content/31650.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="The dirty truth about Facebook commerce" title="The dirty truth about Facebook commerce" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>The dirty truth about Facebook commerce</span></a></li><li><a href="http://www.imediaconnection.com/content/31640.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="8 social curation tricks for Pinterest and beyond" title="8 social curation tricks for Pinterest and beyond" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>8 social curation tricks for Pinterest and beyond</span></a></li><li><a href="http://www.imediaconnection.com/content/31660.asp?imcid=topnavcontent"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg" alt="5 video myths debunked at the NewFronts " title="5 video myths debunked at the NewFronts " onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default-md.jpg'"><span>5 video myths debunked at the NewFronts </span></a></li></ul>
+    <div class="latestjob">
+        <div class="title">Latest Jobs</div>
+        <div id="topJobsBox"><ul><li><a href="/jobs/description.aspx?id=3626&amp;imcid=topnavcontent">Administrative Assistant </a></li><li><a href="/jobs/description.aspx?id=3625&amp;imcid=topnavcontent">Marketing Associate </a></li><li><a href="/jobs/description.aspx?id=3622&amp;imcid=topnavcontent">Digital Marketing Consultant </a></li><li class="more"><a href="/jobs/">SEE MORE JOBS »</a></li></ul></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    function underNavJobsBox() {
+        var displayJobsMax = 3;                  //How many result should be displayed? Max 20 
+        var job = loadXML().getElementsByTagName("job");
+        var id;
+        var title;
+        var companyName;
+        var topJobsHTML = [];
+        //var city;
+        //var state;
+        var arrjobBluePromo = new Array(displayJobsMax);
+        topJobsHTML.push('<ul>');
+        for (var i = 0; i < displayJobsMax; i++) {
+            id = job[i].getElementsByTagName("id")[0].firstChild.nodeValue;
+            title = job[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+            //state = job[i].getElementsByTagName("state")[0].firstChild.nodeValue;
+            companyName = job[i].getElementsByTagName("company")[0].firstChild.nodeValue;
+            //city = job[i].getElementsByTagName("city")[0].firstChild.nodeValue;
+
+            var newtitle = "";
+            var arraytitle = title.split(" ");
+            if (arraytitle.length > 1) {
+                for (index = 0; index < arraytitle.length; index++) {
+                    newtitle = newtitle + " " + arraytitle[index].substring(0, 1).toUpperCase() + arraytitle[index].substring(1, arraytitle[index].length).toLowerCase();
+                }
+            }
+            else
+                newtitle = title.substring(0, 1).toUpperCase() + title.substring(1, title.length).toLowerCase();
+
+            title = trimTitle(newtitle);
+
+            // --- display template ---
+            arrjobBluePromo[i] = '/jobs/description.aspx?id=' + id;
+            topJobsHTML.push('<li>');
+            topJobsHTML.push('<a href="' + arrjobBluePromo[i] + '&imcid=topnavcontent">' + title + ' </a>');
+            topJobsHTML.push('</li>');
+        }
+
+        topJobsHTML.push('<li class=\"more\"><a href="/jobs/">SEE MORE JOBS &raquo;</a></li>');
+        topJobsHTML.push('</ul>');
+
+        document.getElementById('topJobsBox').innerHTML = topJobsHTML.join('')
+    }
+
+
+    $(document).ready(function () {
+        underNavJobsBox();
+    });
+
+</script>
+
+                <!-- Additional promo -->
                 
-                <!-- TOP PAGE PROMO -->
-                
-<div class="grid_24 top-promotion"><a href="http://goo.gl/uUtb3"><img src="http://assets.imediaconnection.com/images/promo/promo-agencyaward.png" alt="Nominate Agencies of the Year" title="Nominate Agencies of the Year"></a></div>
                 
                 <!--  CONTENT  -->
                 <div class="grid_16">
@@ -1189,59 +1221,19 @@
 
                     </div>
                 </div>
-                
+
                 <!--  RIGHT COLUMN -->
-                <div class="grid_8">
-                    <div class="right-column">
-                        
+                <div id="ctl00_PanelRightColumn">
+	                
+                    <div class="grid_8">
+                        <div class="right-column">                        
+                            
 <!-- Right Column -->
     
-	<div id="rcolsummitpromo1" class="summit-promobox" style="display:none;">
-        <h3 style="margin:0; padding:0;"><a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" style="background-position:0 0;">iMedia Agency Summit, December 4-7, 2011</a></h3>
-	    <p style="bottom:5px;">
-	    <a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=promobox"><img src="http://assets.imediaconnection.com/images/events/bt-promo-invite.png" alt="Request Invitation" title="Request Invitation"></a>    
-	    <a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" class="moredetail">More Details</a>
-	    </p>  
-	</div>
-    <div id="rcolsummitpromo2" class="summit-promobox" style="display:none;">
-        <h3 style="margin:0; padding:0;"><a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" style="background-position:0 -350px;">iMedia Agency Summit, December 4-7, 2011</a></h3>
-	    <p style="bottom:6px;">
-	    <a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=promobox"><img src="http://assets.imediaconnection.com/images/events/bt-promo-invite.png" alt="Request Invitation" title="Request Invitation"></a>    
-	    <a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" class="moredetail">More Details</a>
-	    </p>  
-	</div>
-    <div id="rcolsummitpromo3" class="summit-promobox" style="">
-        <h3 style="margin:0; padding:0;"><a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" style="background-position:0 -700px;">iMedia Agency Summit, December 4-7, 2011</a></h3>
-	    <p style="bottom:6px;">
-	    <a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=promobox"><img src="http://assets.imediaconnection.com/images/events/bt-promo-invite.png" alt="Request Invitation" title="Request Invitation"></a>    
-	    <a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" class="moredetail">More Details</a>
-	    </p>
-	    <p></p> 
-	</div>
-	<div id="rcolsummitpromo4" class="summit-promobox" style="display:none;">
-	    <h3 style="margin:0; padding:0;"><a class="entertainment" href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" style="background-position:0 -1050px;">iMedia Agency Summit, December 4-7, 2011</a></h3>
-	    <p style="bottom:10px; left:10px">
-	    <a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=promobox"><img src="http://assets.imediaconnection.com/images/events/bt-promo-invite-large.png" alt="Request Invitation" title="Request Invitation"></a>    
-	    <a href="http://www.imediaconnection.com/summits/29295.asp?imcid=promobox" class="moredetail" style="color:#333 !important;">More Details</a>
-	    </p> 
-	</div>
-	
-    <script type="text/javascript">
-        var rand = 1 + Math.floor(Math.random() * 4);
-    	
-        if (rand == 1) {
-            document.getElementById("rcolsummitpromo1").style.display = "";
-        }
-        if (rand == 2) {
-            document.getElementById("rcolsummitpromo2").style.display = "";
-        }
-        if (rand == 3) {
-            document.getElementById("rcolsummitpromo3").style.display = "";
-        }
-        if (rand == 4) {
-            document.getElementById("rcolsummitpromo4").style.display = "";
-        }
-    </script>
+    <div class="summit-promobox" style="height:200px;">
+        <h3 style="margin:0; padding:0;"><a href="http://www.imediaconnection.com/content/31656.asp?imcid=rc" style="background:url(http://assets.imediaconnection.com/images/promo/ii-promobox.jpg) no-repeat; height:200px;">NewFronts: Everything you need to know about premium content at scale</a></h3>
+    </div>
+
 
 
 
@@ -1343,411 +1335,416 @@
         //-->
     </script>
 
-    <div class="social-media-module">
-        <label>
-            Receive our daily newsletter</label>
-        <input type="text" value="your email" id="EmailBox" onfocus="this.value='';" onkeyup="return EmailSubmit.SubmitEmailByEnter(event, this)">
-        <input type="image" value="" class="button" src="http://assets.imediaconnection.com/images/global/bt-social-media-subscribe.png" onclick="return EmailSubmit.SubmitEmailByClick(this);">
-        <div class="icons">
-            <a class="rss" href="http://goo.gl/aKlu" title="RSS" target="_blank">iMedia Connection
-                RSS Feeds</a> <a class="twitter" href="http://goo.gl/3sGI" title="twitter" target="_blank">
-                    Follow iMedia Connection on Twitter</a> <a class="fb" href="http://goo.gl/ds8k" title="facebook" target="_blank">Follow iMediaConnection on Facebook</a> <a class="slideshare" href="http://goo.gl/a4wVp" title="iMediaConnection Apple App" target="_blank">iMedia Connection Apple App</a>
-            <a class="pc" href="http://goo.gl/Geal5" title="iMedia Connection Android App" target="_blank">
-                iMedia Connection Android App</a> <a class="youtube" href="http://goo.gl/onTw" title="Youtube" target="_blank">Follow iMediaConnection on Youtube</a>
-        </div>
-        <div class="qr">
-            <div class="fb-like">
-                <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FiMedia-Connection%2F116418948405948&amp;layout=box_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
-                    height: 65px;" allowtransparency="true"></iframe>
+    <div class="socialmedia-module">
+        <h3><span>Follow</span> iMediaConnection</h3>
+        <div class="socialbox">
+            <label>Receive our daily newsletter</label>
+            <input type="text" value="your email address" id="EmailBox" onfocus="this.value='';" onkeyup="return EmailSubmit.SubmitEmailByEnter(event, this)">
+            <input type="image" value="" class="button" src="http://assets.imediaconnection.com/images/pc/bt-socialmedia-subscribe.png" onclick="return EmailSubmit.SubmitEmailByClick(this);">
+            <div class="social-icons">
+                <a href="http://goo.gl/3sGI" id="twitter" target="_blank">iMedia Connection on twitter</a>
+                <a href="http://goo.gl/aKlu" id="rss" target="_blank">iMedia Connection RSS feeds</a>
+                <a href="http://goo.gl/onTw" id="youtube" target="_blank">iMedia Connection on YouTube</a>
+                <a href="http://goo.gl/a4wVp" id="itune" target="_blank">iMedia Connection app in Apple iTune store</a>
+                <a href="http://goo.gl/Geal5" id="android" target="_blank">iMedia Connection app in Google Play store</a>
             </div>
-            <div class="plusone">
-			    <g:plusone count="false" href="http://www.imediaconnection.com"></g:plusone>
-		    </div>
+            <div class="likeus">
+                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FiMedia-Connection%2F116418948405948&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=153227944688104" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+
+                <g:plusone size="medium" annotation="none" href="http://www.imediaconnection.com"></g:plusone>
+            </div>
         </div>
     </div>
 
+<div class="rc-300">
+    
 
-
-    <div class="rc-300">
-    <script type="text/javascript"> 
-    //<!-- Javascript tag
-    var findarea;
-    if (typeof _area == 'undefined')
-    {
-        _area = "HOME_PAGE";
-    }
-    if (_area != null || _area != "")
-    {
-        findarea = _area;
-    }
-    else
-    {
-        findarea = "HOME_PAGE";
-    }
+<script type="text/javascript"> 
+//<!-- Javascript tag
+var findarea;
+if (typeof _area == 'undefined')
+{
+    _area = "HOME_PAGE";
+}
+if (_area != null || _area != "")
+{
+    findarea = _area;
+}
+else
+{
+    findarea = "HOME_PAGE";
+}
         
-    switch (findarea){
-    case "ADTECH_BLOGS":
-    var imcadarea="17/2"
-    break;
-    case "ASIA":
-    var imcadarea="19/2"
-    break;
-    case "BLOGS":
-    var imcadarea="16/2"
-    break;
-    case "COMPANY":
-    var imcadarea="24/2"
-    break;
-    case "CONS_STRAT":
-    var imcadarea="11/2"
-    break;
-    case "CONS_STRAT_ACQUISITION":
-    var imcadarea="25/11/2"
-    break;
-    case "CONS_STRAT_BEHAVIORAL_MKTG":
-    var imcadarea="26/11/2"
-    break;
-    case "CONS_STRAT_DEMOGRAPHICS":
-    var imcadarea="27/11/2"
-    break;
-    case "CONS_STRAT_INTERNATIONAL":
-    var imcadarea="28/11/2"
-    break;
-    case "CONS_STRAT_MULTICULTURAL":
-    var imcadarea="29/11/2"
-    break;
-    case "CONS_STRAT_POPULATION":
-    var imcadarea="30/11/2"
-    break;
-    case "CONS_STRAT_SOCIAL_MEDIA":
-    var imcadarea="31/11/2"
-    break;
-    case "CONS_STRAT_VERTICALS":
-    var imcadarea="32/11/2"
-    break;
-    case "VERTICALS_ENTERTAINMENT":
-    var imcadarea="33/11/2"
-    break;
-    case "VERTICALS_AUTOS":
-    var imcadarea="34/11/2"
-    break;
-    // case "CONT_BUZZ_WEEKLY":
-    // var imcadarea=""
-    // break;
-    // case "CONT_PEOPLE_CONN":
-    // var imcadarea=""
-    // break;
-    case "CREATIVE":
-    var imcadarea="13/2"
-    break;
-    case "CREATIVE_BEST_PRACTICES":
-    var imcadarea="35/13/2"
-    break;
-    case "CREATIVE_CASE_STUDIES":
-    var imcadarea="36/13/2"
-    break;
-    case "CREATIVE_SHOWCASE":
-    var imcadarea="37/13/2"
-    break;
-    case "HOME_PAGE":
-    var imcadarea="3/2"
-    break;
-    case "HOME_PODCASTS":
-    var imcadarea="38/3/2"
-    break;
-    case "HOME_VIDEO":
-    var imcadarea="39/3/2"
-    break;
-    // case "INDUSTRY_ISSUES":
-    // var imcadarea=""
-    // break;
-    case "IN_FOCUS":
-    var imcadarea="105/2"
-    break;
-    // case "JOBBOARD_PROMO":
-    // var imcadarea=""
-    // break;
-    case "JOBS":
-    var imcadarea="20/2"
-    break;
-    case "MEDIA_ST":
-    var imcadarea="10/2"
-    break;
-    case "MEDIA_ST_AD_NETWORKS":
-    var imcadarea="40/10/2"
-    break;
-    case "MEDIA_ST_AD_SERVING":
-    var imcadarea="41/10/2"
-    break;
-    case "MEDIA_ST_DIRECT_MARKETING":
-    var imcadarea="42/10/2"
-    break;
-    case "MEDIA_ST_INTEGRATED_MARKETING":
-    var imcadarea="43/10/2"
-    break;
-    case "MEDIA_ST_LOCAL":
-    var imcadarea="44/10/2"
-    break;
-    case "MEDIA_ST_PLANNING_BUYING":
-    var imcadarea="45/10/2"
-    break;
-    case "MKTG_CH":
-    var imcadarea="9/2"
-    break;
-    case "MKTG_CH_DESKTOP_APPS":
-    var imcadarea="46/9/2"
-    break;
-    case "MKTG_CH_EMAIL":
-    var imcadarea="47/9/2"
-    break;
-    // case "MKTG_CH_EMAIL_INFOCUS":
-    // var imcadarea=""
-    // break;
-    case "MKTG_CH_EMERGING":
-    var imcadarea="48/9/2"
-    break;
-    case "MKTG_CH_ITV":
-    var imcadarea="49/9/2"
-    break;
-    case "MKTG_CH_WEBSITES":
-    var imcadarea="50/9/2"
-    break;
-    case "MKTG_CH_WIRELESS":
-    var imcadarea="51/9/2"
-    break;
-    case "NEWS":
-    var imcadarea="8/2"
-    break;
-    case "NEWSL_IMEDIA":
-    var imcadarea="52/2"
-    break;
-    case "NEWSL_IMEDIA2":
-    var imcadarea="104/2"
-    break;
-    case "NEWSL_IMEDIAASIA":
-    var imcadarea="53/2"
-    break;
-    case "NEWSL_IMEDIAASIA2":
-    var imcadarea="54/2"
-    break;
-    case "NEWSL_IMEDIAUK":
-    var imcadarea="55/18/2"
-    break;
-    case "PEOPLE":
-    var imcadarea="15/2"
-    break;
-    case "PEOPLE_BIOS":
-    var imcadarea="56/15/2"
-    break;
-    case "PEOPLE_BOOK_CLUB":
-    var imcadarea="57/15/2"
-    break;
-    case "PEOPLE_INTERVIEWS":
-    var imcadarea="58/15/2"
-    break;
-    case "PEOPLE_OPINIONS":
-    var imcadarea="59/15/2"
-    break;
-    case "PEOPLE_PEOPLE_CONNECT":
-    var imcadarea="22/2"
-    break;
-    case "RC_RESOURCE_CONN_HOME":
-    var imcadarea="21/2"
-    break;
-    case "RC_AD_SERVING":
-    var imcadarea="60/21/2"
-    break;
-    case "RC_ADNETWORKS":
-    var imcadarea="61/21/2"
-    break;
-    case "RC_RICH_MEDIA":
-    var imcadarea="62/21/2"
-    break;
-    case "RC_SEARCH":
-    var imcadarea="63/21/2"
-    break;
-    case "RC_WEB_ANALYTICS":
-    var imcadarea="64/21/2"
-    break;
-    case "RC_EMAIL_MARKETING":
-    var imcadarea=""
-    break;
-    case "RESEARCH":
-    var imcadarea="14/2"
-    break;
-    case "RESEARCH_BRANDING":
-    var imcadarea="66/14/2"
-    break;
-    case "RESEARCH_CONS_ACQUISITION":
-    var imcadarea="67/14/2"
-    break;
-    case "RESEARCH_CONS_ACTION":
-    var imcadarea="68/14/2"
-    break;
-    case "RESEARCH_MULTICHANNEL":
-    var imcadarea="69/14/2"
-    break;
-    case "RESEARCH_WEB_ANALYTICS":
-    var imcadarea="70/14/2"
-    break;
-    case "ROS_INTERSTITIAL":
-    var imcadarea="71/2"
-    break;
-    case "RSS_FEED":
-    var imcadarea="72/2"
-    break;
-    case "SEARCH":
-    var imcadarea="12/2"
-    break;
-    // case "SEARCH_LOCAL_SEARCH":
-    // var imcadarea=""
-    // break;
-    case "SEARCH_PAID_SEARCH":
+switch (findarea){
+case "ADTECH_BLOGS":
+var imcadarea="17/2"
+break;
+case "ASIA":
+var imcadarea="19/2"
+break;
+case "BLOGS":
+var imcadarea="16/2"
+break;
+case "COMPANY":
+var imcadarea="24/2"
+break;
+case "CONS_STRAT":
+var imcadarea="11/2"
+break;
+case "CONS_STRAT_ACQUISITION":
+var imcadarea="25/11/2"
+break;
+case "CONS_STRAT_BEHAVIORAL_MKTG":
+var imcadarea="26/11/2"
+break;
+case "CONS_STRAT_DEMOGRAPHICS":
+var imcadarea="27/11/2"
+break;
+case "CONS_STRAT_INTERNATIONAL":
+var imcadarea="28/11/2"
+break;
+case "CONS_STRAT_MULTICULTURAL":
+var imcadarea="29/11/2"
+break;
+case "CONS_STRAT_POPULATION":
+var imcadarea="30/11/2"
+break;
+case "CONS_STRAT_SOCIAL_MEDIA":
+var imcadarea="31/11/2"
+break;
+case "CONS_STRAT_VERTICALS":
+var imcadarea="32/11/2"
+break;
+case "VERTICALS_ENTERTAINMENT":
+var imcadarea="33/11/2"
+break;
+case "VERTICALS_AUTOS":
+var imcadarea="34/11/2"
+break;
+// case "CONT_BUZZ_WEEKLY":
+// var imcadarea=""
+// break;
+// case "CONT_PEOPLE_CONN":
+// var imcadarea=""
+// break;
+case "CREATIVE":
+var imcadarea="13/2"
+break;
+case "CREATIVE_BEST_PRACTICES":
+var imcadarea="35/13/2"
+break;
+case "CREATIVE_CASE_STUDIES":
+var imcadarea="36/13/2"
+break;
+case "CREATIVE_SHOWCASE":
+var imcadarea="37/13/2"
+break;
+case "HOME_PAGE":
+var imcadarea="3/2"
+break;
+case "HOME_PODCASTS":
+var imcadarea="38/3/2"
+break;
+case "HOME_VIDEO":
+var imcadarea="39/3/2"
+break;
+// case "INDUSTRY_ISSUES":
+// var imcadarea=""
+// break;
+case "IN_FOCUS":
+var imcadarea="105/2"
+break;
+// case "JOBBOARD_PROMO":
+// var imcadarea=""
+// break;
+case "JOBS":
+var imcadarea="20/2"
+break;
+case "MEDIA_ST":
+var imcadarea="10/2"
+break;
+case "MEDIA_ST_AD_NETWORKS":
+var imcadarea="40/10/2"
+break;
+case "MEDIA_ST_AD_SERVING":
+var imcadarea="41/10/2"
+break;
+case "MEDIA_ST_DIRECT_MARKETING":
+var imcadarea="42/10/2"
+break;
+case "MEDIA_ST_INTEGRATED_MARKETING":
+var imcadarea="43/10/2"
+break;
+case "MEDIA_ST_LOCAL":
+var imcadarea="44/10/2"
+break;
+case "MEDIA_ST_PLANNING_BUYING":
+var imcadarea="45/10/2"
+break;
+case "MKTG_CH":
+var imcadarea="9/2"
+break;
+case "MKTG_CH_DESKTOP_APPS":
+var imcadarea="46/9/2"
+break;
+case "MKTG_CH_EMAIL":
+var imcadarea="47/9/2"
+break;
+// case "MKTG_CH_EMAIL_INFOCUS":
+// var imcadarea=""
+// break;
+case "MKTG_CH_EMERGING":
+var imcadarea="48/9/2"
+break;
+case "MKTG_CH_ITV":
+var imcadarea="49/9/2"
+break;
+case "MKTG_CH_WEBSITES":
+var imcadarea="50/9/2"
+break;
+case "MKTG_CH_WIRELESS":
+var imcadarea="51/9/2"
+break;
+case "NEWS":
+var imcadarea="8/2"
+break;
+case "NEWSL_IMEDIA":
+var imcadarea="52/2"
+break;
+case "NEWSL_IMEDIA2":
+var imcadarea="104/2"
+break;
+case "NEWSL_IMEDIAASIA":
+var imcadarea="53/2"
+break;
+case "NEWSL_IMEDIAASIA2":
+var imcadarea="54/2"
+break;
+case "NEWSL_IMEDIAUK":
+var imcadarea="55/18/2"
+break;
+case "PEOPLE":
+var imcadarea="15/2"
+break;
+case "PEOPLE_BIOS":
+var imcadarea="56/15/2"
+break;
+case "PEOPLE_BOOK_CLUB":
+var imcadarea="57/15/2"
+break;
+case "PEOPLE_INTERVIEWS":
+var imcadarea="58/15/2"
+break;
+case "PEOPLE_OPINIONS":
+var imcadarea="59/15/2"
+break;
+case "PEOPLE_PEOPLE_CONNECT":
+var imcadarea="22/2"
+break;
+case "RC_RESOURCE_CONN_HOME":
+var imcadarea="21/2"
+break;
+case "RC_AD_SERVING":
+var imcadarea="60/21/2"
+break;
+case "RC_ADNETWORKS":
+var imcadarea="61/21/2"
+break;
+case "RC_RICH_MEDIA":
+var imcadarea="62/21/2"
+break;
+case "RC_SEARCH":
+var imcadarea="63/21/2"
+break;
+case "RC_WEB_ANALYTICS":
+var imcadarea="64/21/2"
+break;
+case "RC_EMAIL_MARKETING":
+var imcadarea=""
+break;
+case "RESEARCH":
+var imcadarea="14/2"
+break;
+case "RESEARCH_BRANDING":
+var imcadarea="66/14/2"
+break;
+case "RESEARCH_CONS_ACQUISITION":
+var imcadarea="67/14/2"
+break;
+case "RESEARCH_CONS_ACTION":
+var imcadarea="68/14/2"
+break;
+case "RESEARCH_MULTICHANNEL":
+var imcadarea="69/14/2"
+break;
+case "RESEARCH_WEB_ANALYTICS":
+var imcadarea="70/14/2"
+break;
+case "ROS_INTERSTITIAL":
+var imcadarea="71/2"
+break;
+case "RSS_FEED":
+var imcadarea="72/2"
+break;
+case "SEARCH":
+var imcadarea="12/2"
+break;
+case "SEARCH_PAID_SEARCH":
     var imcadarea="73/12/2"
     break;
-    case "SEARCH_SEARCH_ENGINES":
+case "SEARCH_SEARCH_ENGINES":
     var imcadarea="74/12/2"
     break;
-    case "SEARCH_SEO":
+case "SEARCH_SEO":
     var imcadarea="75/12/2"
     break;
-    case "SUMMIT_AGENCY_FALL":
+case "SUMMIT_AGENCY_FALL":
     var imcadarea="76/2"
     break;
-    case "SUMMIT_AGENCY_SPRING":
+case "SUMMIT_AGENCY_SPRING":
     var imcadarea="77/2"
     break;
-    case "SUMMIT_AUTO":
+case "SUMMIT_AUTO":
     var imcadarea="78/2"
     break;
-    case "SUMMIT_BRAND_FALL":
+case "SUMMIT_BRAND_FALL":
     var imcadarea="79/2"
     break;
-    case "SUMMIT_BRAND_SPRING":
+case "SUMMIT_BRAND_SPRING":
     var imcadarea="80/2"
     break;
-    case "SUMMIT_BRAND_SUMMER":
+case "SUMMIT_BRAND_SUMMER":
     var imcadarea="81/2"
     break;
-    case "SUMMIT_BREAKTHROUGH":
+case "SUMMIT_BREAKTHROUGH":
     var imcadarea="82/2"
     break;
-    case "SUMMIT_BREAKTHROUGH_FALL":
+case "SUMMIT_BREAKTHROUGH_FALL":
     var imcadarea="83/2"
     break;
-    // case "SUMMIT_COVG_ADTECH_SF":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_AGENCY_SPRING":
+case "SUMMIT_COVG_AGENCY_SPRING":
     var imcadarea="84/77/2"
     break;
-    case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
+case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
     var imcadarea="85/84/77/2"
     break;
-    case "SUMMIT_COVG_AGENCY_FALL":
+case "SUMMIT_COVG_AGENCY_FALL":
     var imcadarea="86/76/2"
     break;
-    case "SUMMIT_COVG_AGENCY_FALL_NWSL":
+case "SUMMIT_COVG_AGENCY_FALL_NWSL":
     var imcadarea="87/86/76/2"
     break;
-    case "SUMMIT_COVG_AUTO":
+case "SUMMIT_COVG_AUTO":
     var imcadarea="88/78/2"
     break;
-    case "SUMMIT_COVG_BRAND_FALL":
+case "SUMMIT_COVG_BRAND_FALL":
     var imcadarea="89/79/2"
     break;
-    case "SUMMIT_COVG_BRAND_FALL_NWSL":
+case "SUMMIT_COVG_BRAND_FALL_NWSL":
     var imcadarea="90/89/79/2"
     break;
-    case "SUMMIT_COVG_BRAND_SPRING":
+case "SUMMIT_COVG_BRAND_SPRING":
     var imcadarea="91/80/2"
     break;
-    case "SUMMIT_COVG_BRAND_SPRING_NWSL":
+case "SUMMIT_COVG_BRAND_SPRING_NWSL":
     var imcadarea="92/91/80/2"
     break;
-    case "SUMMIT_COVG_BRAND_SUMMER":
+case "SUMMIT_COVG_BRAND_SUMMER":
     var imcadarea="93/81/2"
     break;
-    case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
+case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
     var imcadarea="94/93/81/2"
     break;
-    // case "SUMMIT_COVG_BREAKTHROUGH":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_BREAKTHROUGH_FALL":
+case "SUMMIT_COVG_BREAKTHROUGH_FALL":
     var imcadarea="95/83/2"
     break;
-    case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
+case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
     var imcadarea="96/95/83/2"
     break;
-    // case "SUMMIT_COVG_BREAKTHROUGH_SPCL":
-    // var imcadarea=""
-    // break;
-    case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
     var imcadarea="97/82/2"
     break;
-    case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
     var imcadarea="98/97/82/2"
     break;
-    case "SUMMIT_COVG_FINANCIAL":
+case "SUMMIT_COVG_FINANCIAL":
     var imcadarea="100/99/2"
     break;
-    case "SUMMIT_ENTERTAINMENT":
+case "SUMMIT_ENTERTAINMENT":
     var imcadarea="101/2"
     break;
-    case "SUMMIT_COVG_ENTERTAINMENT":
+case "SUMMIT_COVG_ENTERTAINMENT":
     var imcadarea="102/101/2"
     break;
-    case "SUMMIT_FINANCIAL":
+case "SUMMIT_FINANCIAL":
     var imcadarea="99/2"
     break;
-    case "SUMMIT_HOME":
+case "SUMMIT_VIDEO":
+    var imcadarea = "125/2"
+    break;
+case "SUMMIT_COVG_VIDEO":
+    var imcadarea = "126/125/2"
+    break; 
+case "SUMMIT_COVG_VIDEO_SPRING":
+    var imcadarea = "126/125/2"
+    break; 	
+case "SUMMIT_HOME":
     var imcadarea="23/2"
     break;
-    // case "SUMMIT_IMS_FALL":
-    // var imcadarea=""
-    // break;
-    case "TEST":
+case "TEST":
     var imcadarea="7/2"
     break;
-    case "UK":
+case "UK":
     var imcadarea="18/2"
     break;
-    case "UK_SUMMIT_BRAND_SPRING":
+case "UK_SUMMIT_BRAND_SPRING":
     var imcadarea="103/18/2"
     break;
-	case "SUMMIT_IMOMS":
-	var imcadarea="109/2"
-	break;
-	case "SUMMIT_COVG_IMOMS":
-	var imcadarea="110/109/2"
+case "SUMMIT_IMOMS":
+    var imcadarea="109/2"
     break;
-    case "STREAMING_VIDEOS":
-    var imcadarea="119/2";
-    case "IMEDIA_25":
+case "SUMMIT_COVG_IMOMS":
+    var imcadarea="110/109/2"
+    break;
+case "STREAMING_VIDEOS":
+case "STREAMING_VIDEOS_BOB_GARFIELD":
+case "STREAMING_VIDEOS_SUMMIT":
+    var imcadarea = "119/2";
+    break;
+case "STREAMING_VIDEOS_INDUSTRY_INSIDER":
+    var imcadarea = "123/119/2";
+    break;
+case "IMEDIA_25":
+case "IMEDIA_LIST":
     var imcadarea="117/2";
     break;
-    default : var imcadarea="3/2";
+case "AGENCY_AWARDS":
+    var imcadarea = "120/2";
+    break;
+
+default : var imcadarea="3/2";
+}
+// <!-- Javascript tag
+    var HideIfSponsored = 'False';
+    if (typeof (checkSponsor) == 'undefined')
+        checkSponsor = 0;
+
+    if (HideIfSponsored == 'False' || checkSponsor != 1) {
+        var zflag_nid = "1267";
+        var zflag_sid = "1";
+        var zflag_cid = imcadarea;
+        //var zflag_cid = ""; 
+        var zflag_width = "300";
+        var zflag_height = "250";
+        var zflag_sz = "9";
+        document.write('<SCR');
+        document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
+        document.write('</SCR');
+        document.write('IPT>');
     }
-    // <!-- Javascript tag
-    // 300 x 250
-    var zflag_nid="1267"; 
-    var zflag_cid=imcadarea; 
-    var zflag_sid="1"; 
-    var zflag_width="300"; 
-    var zflag_height="250"; 
-    var zflag_sz="9";
-    document.write('<SCR');
-    document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
-    document.write('</SCR');
-    document.write('IPT>');
-    // 300 x 250 -->
-    </script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-    </div>
-
-
-
-
+// -->	
+</script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>        
+</div>
 
 <div id="staff_tweets">
 	<h3><span>Staff</span> Tweets</h3>
@@ -1755,14 +1752,75 @@
 </div>
 
 <script type="text/javascript">
-//call Twitter script on DOM ready with jQuery
-jQuery(document).ready(function($) {
-	
-	var t=setTimeout("getStaffTweets()",10);
+    function relative_time(time_value) {
+        var values = time_value.split(" ");
+        time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
+        var parsed_date = Date.parse(time_value);
+        var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
+        var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
+        delta = delta + (relative_to.getTimezoneOffset() * 60);
 
-});
+        if (delta < 60) {
+            return 'less than a minute ago';
+        } else if (delta < 120) {
+            return 'about a minute ago';
+        } else if (delta < (60 * 60)) {
+            return (parseInt(delta / 60)).toString() + ' minutes ago';
+        } else if (delta < (120 * 60)) {
+            return 'about an hour ago';
+        } else if (delta < (24 * 60 * 60)) {
+            return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
+        } else if (delta < (48 * 60 * 60)) {
+            return '1 day ago';
+        } else {
+            return (parseInt(delta / 86400)).toString() + ' days ago';
+        }
+    }
+
+    function getStaffTweets() {
+        jQuery.getScript('http://handles.imediaconnection.com/stafftweets.ashx?callback=twitterCallback2');
+    }
+
+    function twitterCallback2(twitters) {
+        var maxtweets = 5;
+        var maxcount = 0;
+        var statusHTML = [];
+        //statusHTML.clear();
+        var twitterNameArray = new Array();
+        statusHTML.push('<ul class="stafftweets">');
+        for (var i = 0; i < twitters.length && maxcount < maxtweets; i++) {
+            var username = twitters[i].user.screen_name;
+
+            if (jQuery.inArray(username, twitterNameArray) == -1) {
+                twitterNameArray.push(username);
+                //statusHTML.push('<h1>not found</h1>');
+                var name = twitters[i].user.name;
+                var headshot = twitters[i].user.profile_image_url;
+                headshot = headshot.replace("_normal.", "_bigger.");
+                var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function (url) {
+                    return '<a href="' + url + '">' + url + '</a>';
+                }).replace(/\B@([_a-z0-9]+)/ig, function (reply) {
+                    return reply.charAt(0) + '<a href="http://twitter.com/' + reply.substring(1) + '">' + reply.substring(1) + '</a>';
+                });
+                statusHTML.push('<li class="clearfix"><span id="twitter-content">&ldquo;' + status + '&rdquo; &ndash; <br><a id="twitter-username" href="http://twitter.com/' + username + '">' + name + '</a><br><small style="display:none;">' + relative_time(twitters[i].created_at) + '</small></span><span id="twitter-img"><a href="http://twitter.com/' + username + '"><img src=' + headshot + '></a></span></li>');
+                maxcount++;
+            }
+        }
+        statusHTML.push('</ul>');
+
+        jQuery('.loading').fadeOut(0, function () {
+            jQuery('#staff_tweets').append(jQuery(statusHTML.join('')).hide().fadeIn(0));
+            //document.getElementById('latest_tweet').innerHTML = statusHTML.join('').fadeIn(750));
+        });
+    }
+
+    //call Twitter script on DOM ready with jQuery
+    $(document).ready(function () {
+
+        var t = setTimeout("getStaffTweets()", 10);
+
+    });
 </script>
-
 
 
 
@@ -1770,26 +1828,24 @@ jQuery(document).ready(function($) {
         <div class="rc-event-calendar">
         <h3>
             <span>Upcoming</span> Summits</h3>
-        <ul>
-            <li><span><a href="http://www.imediaconnection.com/summits/29295.asp?imcid=imc-rc">Agency Summit</a></span>December 4-7, Scottsdale, Arizona</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/29552.asp?imcid=imc-rc">Brand Summit</a></span>Feburary 5-8, 2012, Bonita Springs, Florida</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/29955.asp?imcid=imc-rc">Video Summit</a></span>March 25-28, San Antonio, Texas</li>
-			<li><span><a href="http://www.imediaconnection.com/summits/30198.asp?imcid=imc-rc">iMoms Summit</a></span>April 22-25, Orlando, Florida</li>
-        </ul>
-        <p>
-            <a href="http://www.imediaconnection.com/summits/index.asp">Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/invite.asp" style="color: #CC0000;
-                text-decoration: underline;">Request Invite</a></p>
-    </div>
+            <ul>
+			    <li><span><a href="http://www.imediaconnection.com/summits/30400.asp?imcid=imc-rc">Agency Summit</a></span>May 20-23, 2012, Colorado Springs, Colorado</li>
+				<li><span><a href="http://www.imediaconnection.com/summits/31299.asp?imcid=imc-rc">Entertainment Summit</a></span>June 28, Hollywood, California</li>
+            </ul>
+            <p>
+                <a href="http://www.imediaconnection.com/summits/index.asp">Full Summit Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.imediaconnection.com/summits/invite.asp" style="color: #CC0000;
+                    text-decoration: underline;">Request Invite</a></p>
+        </div>
+
+
+<div class="summit-promobox" style="height:200px;">
+	<h3 style="margin:0; padding:0;"><a href="http://www.imediaconnection.com/content/31681.asp?imcid=rc" style="background:url(http://assets.imediaconnection.com/images/promo/videopromo.jpg) no-repeat; height:200px;">Why product videos make people buy stuff </a></h3>
+</div>
 
 
 
 
 
-
-
-    <div class="summit-promobox" style="height:200px;">
-        <h3 style="margin:0; padding:0;"><a href="http://goo.gl/Pogia" style="background:url(http://assets.imediaconnection.com/images/promo/ii-promobox.jpg) no-repeat; height:200px;">Industry Insider</a></h3>
-    </div>
 
 
 <!-- Summit Coverage -->
@@ -1797,34 +1853,30 @@ jQuery(document).ready(function($) {
 
 <div class="summit-coverage-module clearfix">
 <h3><span>Summit</span> Coverage</h3>
-<a href="http://www.imediaconnection.com/summits/coverage/30193.asp?imcid=rc"><img src="http://assets.imediaconnection.com/images/summits/2011-10-breakthrough-coverage-rc.jpg" alt="2011 October Breakthrough Summit"></a>
+<a href="http://www.imediaconnection.com/summits/coverage/31302.asp?imcid=rc"><img src="http://assets.imediaconnection.com/images/summits/2012-04-imoms-coverage-rc.jpg" alt="2012 iMoms Video Summit"></a>
 <ul>
-    <li><a href="http://www.imediaconnection.com/summits/coverage/30194.asp">A survival guide to SoLoMo (social, location, and mobile)</a></li>
-    <li><a href="http://www.imediaconnection.com/summits/coverage/30307.asp">The secret to Virgin America's happy customers</a></li>
-    <li><a href="http://www.imediaconnection.com/summits/coverage/30306.asp">How to find the best marketing medium for your budget</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2011/10/18/are-we-in-the-industrial-age-2-0/">Blog: Are we in the Industrial Age 2.0?</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2011/10/17/trends-and-opportunities-in-music-listening/">Blog: Trends and opportunities in music listening</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2011/10/18/sneak-peak-whats-coming-in-car-tech/">Blog: Sneak Peek: What's coming in car tech</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2011/10/17/what-marketers-need-to-know-about-the-future-of-car-technology/">Blog: What marketers need to know about the future of technology</a></li>
-    <li><a href="http://blogs.imediaconnection.com/blog/2011/10/17/a-sneak-peek-at-the-breakthrough-interview-studio/">Blog: A sneak peek at the Breakthrough interview studio</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/31569.asp">The driving force behind The Gap's biggest wins</a></li>
+	<li><a href="http://www.imediaconnection.com/summits/coverage/31568.asp">How 10 apps became indispensable to moms</a></li>
+	<li><a href="http://blogs.imediaconnection.com/blog/2012/04/23/fun-photos-from-the-imoms-summit/">Blog: Fun photos from the iMoms Summit</a></li>
+	<li><a href="http://blogs.imediaconnection.com/blog/2012/04/23/the-consumption-trends-of-media-moms/">Blog: The consumption trends of media moms</a></li>
 </ul>
 <div class="gallery">
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=11266&amp;CurrentPage=3"><img src="http://www.imediaconnection.com/summits/coverage/images/106/sm_IMG0033.jpg" alt="Summit attendees. Click to view photo." border="0"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=11286&amp;CurrentPage=4"><img src="http://www.imediaconnection.com/summits/coverage/images/106/sm_IMG0053.jpg" alt="Summit attendees. Click to view photo." border="0"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=11239&amp;CurrentPage=1"><img src="http://www.imediaconnection.com/summits/coverage/images/106/sm_IMG0006.jpg" alt="Summit attendees. Click to view photo." border="0"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=11262&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/106/sm_IMG0029.jpg" alt="Summit attendees. Click to view photo." border="0"></a>
-<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=11278&amp;CurrentPage=3"><img src="http://www.imediaconnection.com/summits/coverage/images/106/sm_IMG0045.jpg" alt="Summit attendees. Click to view photo." border="0"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=12328&amp;CurrentPage=4"><img src="http://www.imediaconnection.com/summits/coverage/images/111/sm_IMG0046.jpg" alt="summit photo"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=12322&amp;CurrentPage=3"><img src="http://www.imediaconnection.com/summits/coverage/images/111/sm_IMG0040.jpg" alt="summit photo"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=12312&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/111/sm_IMG0030.jpg" alt="summit photo"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=12294&amp;CurrentPage=5"><img src="http://www.imediaconnection.com/summits/coverage/images/111/sm_IMG0012.jpg" alt="summit photo"></a>
+<a href="http://www.imediaconnection.com/PhotoGallery/View.aspx?PhotoId=12326&amp;CurrentPage=2"><img src="http://www.imediaconnection.com/summits/coverage/images/111/sm_IMG0044.jpg" alt="summit photo" border="0"></a>
 </div>
 <!--div class="list-blt-link" style="width: 280px; height: 45px; background: transparent url(images/sponsors/spon_foxnews_greybg.gif) no-repeat; background-position: 130px 10px;"><a href="##">More Coverage</a> &raquo;</div-->
 <div class="readmore"><a href="http://www.imediaconnection.com/coverage">View all coverage</a> »</div>
-<div class="sponsor"><a href="http://www.datalogix.com/?WT.mc_id=imedia_breakthrough_logo" target="_blank"><img src="http://www.imediaconnection.com/images/sponsors/sponsor-datalogix-110x30.png" alt="Datalogix" border="0"></a></div>
+<div class="sponsor"><a href="http://www.sharethrough.com/" target="_blank" style="display:none;"><img src="http://www.imediaconnection.com/images/sponsors/sponsor-sharethrough-110x30.png" alt="LiveRail" border="0"></a></div>
 </div>  
 
 <!-- Most Popular -->
 
 
 <div class="mostpopular"><h3><span>Most</span> Popular</h3>
-<div class="clearfix"><p><span class="drop">1</span> <a href="/content/30267.asp?ref=rc_mp">Why the QR code is failing</a></p></div><div class="clearfix"><p><span class="drop">2</span> <a href="/content/30331.asp?ref=rc_mp">The 7 deadly sins of Facebook page design</a></p></div><div class="clearfix"><p><span class="drop">3</span> <a href="/content/30350.asp?ref=rc_mp">6 social media attitudes that connect with people </a></p></div><div class="clearfix"><p><span class="drop">4</span> <a href="/content/30362.asp?ref=rc_mp">5 scary client stories to tell in the dark</a></p></div><div class="clearfix"><p><span class="drop">5</span> <a href="/content/30374.asp?ref=rc_mp">The mobile optimization strategy every brand must employ</a></p></div>
+<div class="clearfix"><p><span class="drop">1</span> <a href="/content/30497.asp?ref=rc_mp">A social media planner's guide to pleasing the boss</a></p></div><div class="clearfix"><p><span class="drop">2</span> <a href="/content/31548.asp?ref=rc_mp">New opportunities in native advertising</a></p></div><div class="clearfix"><p><span class="drop">3</span> <a href="/content/31623.asp?ref=rc_mp">3 ways brands are still failing at social media</a></p></div><div class="clearfix"><p><span class="drop">4</span> <a href="/content/31603.asp?ref=rc_mp">How Siri is going to completely change your job</a></p></div><div class="clearfix"><p><span class="drop">5</span> <a href="/content/31650.asp?ref=rc_mp">The dirty truth about Facebook commerce</a></p></div>
 </div>
 
 
@@ -1834,28 +1886,416 @@ jQuery(document).ready(function($) {
 
 
     <div class="rc-300">
+        
 
-        <script type="text/javascript" src="/includes/29307.js"></script>
+<script type="text/javascript"> 
+//<!-- Javascript tag
+var findarea;
+if (typeof _area == 'undefined')
+{
+    _area = "HOME_PAGE";
+}
+if (_area != null || _area != "")
+{
+    findarea = _area;
+}
+else
+{
+    findarea = "HOME_PAGE";
+}
+        
+switch (findarea){
+case "ADTECH_BLOGS":
+var imcadarea="17/2"
+break;
+case "ASIA":
+var imcadarea="19/2"
+break;
+case "BLOGS":
+var imcadarea="16/2"
+break;
+case "COMPANY":
+var imcadarea="24/2"
+break;
+case "CONS_STRAT":
+var imcadarea="11/2"
+break;
+case "CONS_STRAT_ACQUISITION":
+var imcadarea="25/11/2"
+break;
+case "CONS_STRAT_BEHAVIORAL_MKTG":
+var imcadarea="26/11/2"
+break;
+case "CONS_STRAT_DEMOGRAPHICS":
+var imcadarea="27/11/2"
+break;
+case "CONS_STRAT_INTERNATIONAL":
+var imcadarea="28/11/2"
+break;
+case "CONS_STRAT_MULTICULTURAL":
+var imcadarea="29/11/2"
+break;
+case "CONS_STRAT_POPULATION":
+var imcadarea="30/11/2"
+break;
+case "CONS_STRAT_SOCIAL_MEDIA":
+var imcadarea="31/11/2"
+break;
+case "CONS_STRAT_VERTICALS":
+var imcadarea="32/11/2"
+break;
+case "VERTICALS_ENTERTAINMENT":
+var imcadarea="33/11/2"
+break;
+case "VERTICALS_AUTOS":
+var imcadarea="34/11/2"
+break;
+// case "CONT_BUZZ_WEEKLY":
+// var imcadarea=""
+// break;
+// case "CONT_PEOPLE_CONN":
+// var imcadarea=""
+// break;
+case "CREATIVE":
+var imcadarea="13/2"
+break;
+case "CREATIVE_BEST_PRACTICES":
+var imcadarea="35/13/2"
+break;
+case "CREATIVE_CASE_STUDIES":
+var imcadarea="36/13/2"
+break;
+case "CREATIVE_SHOWCASE":
+var imcadarea="37/13/2"
+break;
+case "HOME_PAGE":
+var imcadarea="3/2"
+break;
+case "HOME_PODCASTS":
+var imcadarea="38/3/2"
+break;
+case "HOME_VIDEO":
+var imcadarea="39/3/2"
+break;
+// case "INDUSTRY_ISSUES":
+// var imcadarea=""
+// break;
+case "IN_FOCUS":
+var imcadarea="105/2"
+break;
+// case "JOBBOARD_PROMO":
+// var imcadarea=""
+// break;
+case "JOBS":
+var imcadarea="20/2"
+break;
+case "MEDIA_ST":
+var imcadarea="10/2"
+break;
+case "MEDIA_ST_AD_NETWORKS":
+var imcadarea="40/10/2"
+break;
+case "MEDIA_ST_AD_SERVING":
+var imcadarea="41/10/2"
+break;
+case "MEDIA_ST_DIRECT_MARKETING":
+var imcadarea="42/10/2"
+break;
+case "MEDIA_ST_INTEGRATED_MARKETING":
+var imcadarea="43/10/2"
+break;
+case "MEDIA_ST_LOCAL":
+var imcadarea="44/10/2"
+break;
+case "MEDIA_ST_PLANNING_BUYING":
+var imcadarea="45/10/2"
+break;
+case "MKTG_CH":
+var imcadarea="9/2"
+break;
+case "MKTG_CH_DESKTOP_APPS":
+var imcadarea="46/9/2"
+break;
+case "MKTG_CH_EMAIL":
+var imcadarea="47/9/2"
+break;
+// case "MKTG_CH_EMAIL_INFOCUS":
+// var imcadarea=""
+// break;
+case "MKTG_CH_EMERGING":
+var imcadarea="48/9/2"
+break;
+case "MKTG_CH_ITV":
+var imcadarea="49/9/2"
+break;
+case "MKTG_CH_WEBSITES":
+var imcadarea="50/9/2"
+break;
+case "MKTG_CH_WIRELESS":
+var imcadarea="51/9/2"
+break;
+case "NEWS":
+var imcadarea="8/2"
+break;
+case "NEWSL_IMEDIA":
+var imcadarea="52/2"
+break;
+case "NEWSL_IMEDIA2":
+var imcadarea="104/2"
+break;
+case "NEWSL_IMEDIAASIA":
+var imcadarea="53/2"
+break;
+case "NEWSL_IMEDIAASIA2":
+var imcadarea="54/2"
+break;
+case "NEWSL_IMEDIAUK":
+var imcadarea="55/18/2"
+break;
+case "PEOPLE":
+var imcadarea="15/2"
+break;
+case "PEOPLE_BIOS":
+var imcadarea="56/15/2"
+break;
+case "PEOPLE_BOOK_CLUB":
+var imcadarea="57/15/2"
+break;
+case "PEOPLE_INTERVIEWS":
+var imcadarea="58/15/2"
+break;
+case "PEOPLE_OPINIONS":
+var imcadarea="59/15/2"
+break;
+case "PEOPLE_PEOPLE_CONNECT":
+var imcadarea="22/2"
+break;
+case "RC_RESOURCE_CONN_HOME":
+var imcadarea="21/2"
+break;
+case "RC_AD_SERVING":
+var imcadarea="60/21/2"
+break;
+case "RC_ADNETWORKS":
+var imcadarea="61/21/2"
+break;
+case "RC_RICH_MEDIA":
+var imcadarea="62/21/2"
+break;
+case "RC_SEARCH":
+var imcadarea="63/21/2"
+break;
+case "RC_WEB_ANALYTICS":
+var imcadarea="64/21/2"
+break;
+case "RC_EMAIL_MARKETING":
+var imcadarea=""
+break;
+case "RESEARCH":
+var imcadarea="14/2"
+break;
+case "RESEARCH_BRANDING":
+var imcadarea="66/14/2"
+break;
+case "RESEARCH_CONS_ACQUISITION":
+var imcadarea="67/14/2"
+break;
+case "RESEARCH_CONS_ACTION":
+var imcadarea="68/14/2"
+break;
+case "RESEARCH_MULTICHANNEL":
+var imcadarea="69/14/2"
+break;
+case "RESEARCH_WEB_ANALYTICS":
+var imcadarea="70/14/2"
+break;
+case "ROS_INTERSTITIAL":
+var imcadarea="71/2"
+break;
+case "RSS_FEED":
+var imcadarea="72/2"
+break;
+case "SEARCH":
+var imcadarea="12/2"
+break;
+case "SEARCH_PAID_SEARCH":
+    var imcadarea="73/12/2"
+    break;
+case "SEARCH_SEARCH_ENGINES":
+    var imcadarea="74/12/2"
+    break;
+case "SEARCH_SEO":
+    var imcadarea="75/12/2"
+    break;
+case "SUMMIT_AGENCY_FALL":
+    var imcadarea="76/2"
+    break;
+case "SUMMIT_AGENCY_SPRING":
+    var imcadarea="77/2"
+    break;
+case "SUMMIT_AUTO":
+    var imcadarea="78/2"
+    break;
+case "SUMMIT_BRAND_FALL":
+    var imcadarea="79/2"
+    break;
+case "SUMMIT_BRAND_SPRING":
+    var imcadarea="80/2"
+    break;
+case "SUMMIT_BRAND_SUMMER":
+    var imcadarea="81/2"
+    break;
+case "SUMMIT_BREAKTHROUGH":
+    var imcadarea="82/2"
+    break;
+case "SUMMIT_BREAKTHROUGH_FALL":
+    var imcadarea="83/2"
+    break;
+case "SUMMIT_COVG_AGENCY_SPRING":
+    var imcadarea="84/77/2"
+    break;
+case "SUMMIT_COVG_AGENCY_SPRING_NWSL":
+    var imcadarea="85/84/77/2"
+    break;
+case "SUMMIT_COVG_AGENCY_FALL":
+    var imcadarea="86/76/2"
+    break;
+case "SUMMIT_COVG_AGENCY_FALL_NWSL":
+    var imcadarea="87/86/76/2"
+    break;
+case "SUMMIT_COVG_AUTO":
+    var imcadarea="88/78/2"
+    break;
+case "SUMMIT_COVG_BRAND_FALL":
+    var imcadarea="89/79/2"
+    break;
+case "SUMMIT_COVG_BRAND_FALL_NWSL":
+    var imcadarea="90/89/79/2"
+    break;
+case "SUMMIT_COVG_BRAND_SPRING":
+    var imcadarea="91/80/2"
+    break;
+case "SUMMIT_COVG_BRAND_SPRING_NWSL":
+    var imcadarea="92/91/80/2"
+    break;
+case "SUMMIT_COVG_BRAND_SUMMER":
+    var imcadarea="93/81/2"
+    break;
+case "SUMMIT_COVG_BRAND_SUMMER_NWSL":
+    var imcadarea="94/93/81/2"
+    break;
+case "SUMMIT_COVG_BREAKTHROUGH_FALL":
+    var imcadarea="95/83/2"
+    break;
+case "SUMMIT_COVG_BREAKTHROUGH_FALL_NWSL":
+    var imcadarea="96/95/83/2"
+    break;
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING":
+    var imcadarea="97/82/2"
+    break;
+case "SUMMIT_COVG_BREAKTHROUGH_SPRING_NWSL":
+    var imcadarea="98/97/82/2"
+    break;
+case "SUMMIT_COVG_FINANCIAL":
+    var imcadarea="100/99/2"
+    break;
+case "SUMMIT_ENTERTAINMENT":
+    var imcadarea="101/2"
+    break;
+case "SUMMIT_COVG_ENTERTAINMENT":
+    var imcadarea="102/101/2"
+    break;
+case "SUMMIT_FINANCIAL":
+    var imcadarea="99/2"
+    break;
+case "SUMMIT_VIDEO":
+    var imcadarea = "125/2"
+    break;
+case "SUMMIT_COVG_VIDEO":
+    var imcadarea = "126/125/2"
+    break; 
+case "SUMMIT_COVG_VIDEO_SPRING":
+    var imcadarea = "126/125/2"
+    break; 	
+case "SUMMIT_HOME":
+    var imcadarea="23/2"
+    break;
+case "TEST":
+    var imcadarea="7/2"
+    break;
+case "UK":
+    var imcadarea="18/2"
+    break;
+case "UK_SUMMIT_BRAND_SPRING":
+    var imcadarea="103/18/2"
+    break;
+case "SUMMIT_IMOMS":
+    var imcadarea="109/2"
+    break;
+case "SUMMIT_COVG_IMOMS":
+    var imcadarea="110/109/2"
+    break;
+case "STREAMING_VIDEOS":
+case "STREAMING_VIDEOS_BOB_GARFIELD":
+case "STREAMING_VIDEOS_SUMMIT":
+    var imcadarea = "119/2";
+    break;
+case "STREAMING_VIDEOS_INDUSTRY_INSIDER":
+    var imcadarea = "123/119/2";
+    break;
+case "IMEDIA_25":
+case "IMEDIA_LIST":
+    var imcadarea="117/2";
+    break;
+case "AGENCY_AWARDS":
+    var imcadarea = "120/2";
+    break;
 
+default : var imcadarea="3/2";
+}
+// <!-- Javascript tag
+    var HideIfSponsored = 'True';
+    if (typeof (checkSponsor) == 'undefined')
+        checkSponsor = 0;
+
+    if (HideIfSponsored == 'False' || checkSponsor != 1) {
+        var zflag_nid = "1267";
+        var zflag_sid = "1";
+        var zflag_cid = imcadarea;
+        //var zflag_cid = ""; 
+        var zflag_width = "300";
+        var zflag_height = "250";
+        var zflag_sz = "9";
+        document.write('<SCR');
+        document.write('IPT SRC="http://c5.zedo.com/jsc/c5/fo.js">');
+        document.write('</SCR');
+        document.write('IPT>');
+    }
+// -->	
+</script><script src="http://c5.zedo.com/jsc/c5/fo.js"></script>
     </div>
 
 
-
+                        </div>
                     </div>
-                </div>
+                
+</div>
             </div>
-            <!--  ARTICLE YOU MIGHT HAVE MISSED -->
+            
+            <!-- ARTICLE YOU MIGHT HAVE MISSED -->
             
                 <div class="feature-reminder">
                     <div class="title">
                         Articles you might have missed:</div>
                     <div class="story">
-                        <!--?xml version="1.0" encoding="utf-8"?--><ul><li><a href="http://www.imediaconnection.com/content/30406.asp"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="How Coca-Cola will double its business by 2020" title="How Coca-Cola will double its business by 2020" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>How Coca-Cola will double its business by 2020</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/30362.asp"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="5 scary client stories to tell in the dark" title="5 scary client stories to tell in the dark" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>5 scary client stories to tell in the dark</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/30374.asp"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="The mobile optimization strategy every brand must employ" title="The mobile optimization strategy every brand must employ" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>The mobile optimization strategy every brand must employ</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/30356.asp"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="Your step-by-step guide to acquiring a gTLD" title="Your step-by-step guide to acquiring a gTLD" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>Your step-by-step guide to acquiring a gTLD</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/30350.asp"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="6 social media attitudes that connect with people " title="6 social media attitudes that connect with people " onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>6 social media attitudes that connect with people </span></a></li></ul>
+                        <!--?xml version="1.0" encoding="utf-8"?--><ul><li><a href="http://www.imediaconnection.com/content/31672.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="6 lessons in launching a branded YouTube channel" title="6 lessons in launching a branded YouTube channel" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>6 lessons in launching a branded YouTube channel</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/31650.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="The dirty truth about Facebook commerce" title="The dirty truth about Facebook commerce" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>The dirty truth about Facebook commerce</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/31640.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="8 social curation tricks for Pinterest and beyond" title="8 social curation tricks for Pinterest and beyond" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>8 social curation tricks for Pinterest and beyond</span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/31660.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="5 video myths debunked at the NewFronts " title="5 video myths debunked at the NewFronts " onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>5 video myths debunked at the NewFronts </span></a></li></ul><ul><li><a href="http://www.imediaconnection.com/content/31615.asp?imcid=missedarticle"><img src="http://assets.imediaconnection.com/images/topstory/img-article-default.jpg" alt="7 ways to win awards for your social campaigns" title="7 ways to win awards for your social campaigns" onerror="this.onerror=null;this.src='http://assets.imediaconnection.com/images/topstory/img-article-default.jpg'"><span>7 ways to win awards for your social campaigns</span></a></li></ul>
                     </div>
                 </div>
             
-            <!--  FOOTER -->
+
+            <!-- FOOTER -->
             
+
 <script type="text/javascript">
     //load Articles, iMedia & ad:tech blog lists into navigation.
     
@@ -1871,8 +2311,8 @@ jQuery(document).ready(function($) {
             urlParams[d(e[1])] = d(e[2]);
     })();
 
-    var baseUrl = "http://www.imediaconnection.com/profiles";
-    jQuery(document).ready(function($){
+    var baseUrl = (document.location.protocol == 'https:' ? 'https://' : 'http://') + 'www.imediaconnection.com/profiles';
+    $(document).ready(function () {
         //Render Footer
         var callUrl = baseUrl + "/WebService.asmx/RenderFooter";        
         $.ajax({
@@ -1902,7 +2342,7 @@ jQuery(document).ready(function($) {
 
     </div>
     <!--  BOTTOM NAV  -->
-    <div class="bottom-nav clearfix">
+    <div class="bottom-nav clearfix" style="position:relative;">
         <div class="col1 ">
 
             <span class="title">Articles</span>
@@ -1954,7 +2394,7 @@ jQuery(document).ready(function($) {
         <div class="col">
             <span class="title">Video</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/videos/">Featured Videos</a></li>
+                <li><a href="/videos/">Featured Videos</a></li>
 
             </ul>
 
@@ -1966,93 +2406,79 @@ jQuery(document).ready(function($) {
 
             <span class="title">iMedia Summit</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/summits/index.asp?imcid=footer">iMedia Summit Homepage</a></li>
-                <li><a href="http://www.imediaconnection.com/summits/96.asp?imcid=footer">iMedia Summit Coverage</a></li>
-                <li><a href="http://www.imediaconnection.com/SFDC/WebToLead.aspx?imcid=footer">Request Invite</a></li>
+                <li><a href="/summits/index.asp?imcid=footer">iMedia Summit Homepage</a></li>
+                <li><a href="/summits/96.asp?imcid=footer">iMedia Summit Coverage</a></li>
+                <li><a href="/SFDC/WebToLead.aspx?imcid=footer">Request Invite</a></li>
             </ul>
         </div>
         <div class="col">
             <span class="title">People Connection</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/profiles/">Find People</a></li>
-                <li><a href="http://www.imediaconnection.com/profiles/registration.aspx">Become a Member</a></li>
-                <li><a href="http://www.imediaconnection.com/profiles/login.aspx">Sign In</a></li>
+                <li><a href="/profiles/">Find People</a></li>
+                <li><a href="https://www.imediaconnection.com/profiles/register/start.aspx">Become a Member</a></li>
+                <li><a href="https://www.imediaconnection.com/profiles/Account/Login.aspx">Sign In</a></li>
             </ul>
 
             <span class="title">Job Connection</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/jobs/">Search Jobs</a></li>
+                <li><a href="/jobs/">Search Jobs</a></li>
 
-                <li><a href="http://www.imediaconnection.com/jobs/JobConnectionMain.aspx">Post a Job</a></li>
-                <li><a href="http://www.imediaconnection.com/jobs/JobConnectionMain.aspx">Purchase Packs</a></li>
+                <li><a href="/jobs/JobConnectionMain.aspx">Post a Job</a></li>
+                <li><a href="/jobs/JobConnectionMain.aspx">Purchase Packs</a></li>
             </ul>
                  
             <span class="title">Resource Connection</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/resourceconnection/index.asp">Find Company</a></li>
+                <li><a href="/resourceconnection/index.asp">Find Company</a></li>
             </ul>
         </div>
         <div class="col last">
             <span class="title">Lists</span>
             <ul class="list">
+                <li><a href="http://www.imediaconnection.com/iMedia25/2011/people/?imcid=footer">iMedia 25: 2011 Internet Marketing Leaders and Innovators</a></li>
                 <li><a href="http://www.imediaconnection.com/iMediaLists/2011/breakthrough-next-wave/?imcid=footer">iMedia Breakthrough Summit: Next Wave</a></li>
-                <li><a href="http://www.imediaconnection.com/imedia25/2011/west-coast-agencies/?imcid=footer">iMedia 25: 2011 West Coast Agencies to Watch</a></li>
-                <li><a href="http://www.imediaconnection.com/imedia25/2011/east-coast-agencies/?imcid=footer">iMedia 25: 2011 East Coast Agencies to Watch</a></li>
-                <li><a href="http://www.imediaconnection.com/imedia25/2010/people/?imcid=footer">iMedia 25: 2010 edition</a></li>
-                <li><a href="http://www.imediaconnection.com/imedia25/2009/people/?imcid=footer">iMedia 25: 2009 edition</a></li>
-                <li><a href="http://www.imediaconnection.com/content/28294.asp?imcid=footer">5 agency blogs you should be reading</a></li>
-                <li><a href="http://www.imediaconnection.com/content/23156.asp?imcid=footer">10 hot creative agencies to watch</a></li>
-                <li><a href="http://www.imediaconnection.com/content/26923.asp?imcid=footer">12 killer websites worth watching</a></li>
-                <li><a href="http://www.imediaconnection.com/content/26410.asp?imcid=footer">10 awesome agency websites</a></li>
-                <li><a href="http://www.imediaconnection.com/content/24046.asp?imcid=footer">8 digital pros worth following on Twitter</a></li>
+                <li><a href="/imedia25/2011/west-coast-agencies/?imcid=footer">iMedia 25: 2011 West Coast Agencies to Watch</a></li>
+                <li><a href="/imedia25/2011/east-coast-agencies/?imcid=footer">iMedia 25: 2011 East Coast Agencies to Watch</a></li>
+                <li><a href="/imedia25/2010/people/?imcid=footer">iMedia 25: 2010 edition</a></li>
+                <li><a href="/imedia25/2009/people/?imcid=footer">iMedia 25: 2009 edition</a></li>
+                <li><a href="/content/28294.asp?imcid=footer">5 agency blogs you should be reading</a></li>
+                <li><a href="/content/23156.asp?imcid=footer">10 hot creative agencies to watch</a></li>
+                <li><a href="/content/26923.asp?imcid=footer">12 killer websites worth watching</a></li>
+                <li><a href="/content/26410.asp?imcid=footer">10 awesome agency websites</a></li>
+                <li><a href="/content/24046.asp?imcid=footer">8 digital pros worth following on Twitter</a></li>
             </ul>
 
             <span class="title">Company Info</span>
             <ul>
-                <li><a href="http://www.imediaconnection.com/AboutUs.aspx">About Us</a></li>
-                <li><a href="http://www.imediaconnection.com/AdSponsorship.aspx">Advertise with Us</a></li>
-                <li><a href="http://www.imediaconnection.com/Privacy.aspx">Privacy Policy</a></li>
-                <li><a href="http://www.imediaconnection.com/Feedback.aspx">Contact Us</a></li>
+                <li><a href="/AboutUs.aspx">About Us</a></li>
+                <li><a href="/AdSponsorship.aspx">Advertise with Us</a></li>
+                <li><a href="/Privacy.aspx">Privacy Policy</a></li>
+                <li><a href="/Feedback.aspx">Contact Us</a></li>
             </ul>
         </div>
+		<a href="http://www.zedo.com" target="_blank" style="bottom:15px; right:270px; position:absolute;"><img src="http://assets.imediaconnection.com/images/pc/img-poweredbyzedo.png"></a>
     </div>
 </div>
 
 
         </div>
-    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>    
-   
+    </form>
     <!-- START QUANTCAST TAG -->
     <script type="text/javascript">
-    _qoptions={
-    qacct:"p-61KlJaeg2GWeI"
-    };
+        _qoptions = {
+            qacct: "p-61KlJaeg2GWeI"
+        };
     </script>
-
     <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-
     <noscript>
-        <img src="http://pixel.quantserve.com/pixel/p-61KlJaeg2GWeI.gif" style="display: none;"
-            border="0" height="1" width="1" alt="Quantcast" />
+    <img src="http://pixel.quantserve.com/pixel/p-61KlJaeg2GWeI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
     </noscript>
     <!-- END QUANTCAST TAG -->
+    
     <!--  GETCLICKY  -->
-
     <script src="http://static.getclicky.com/js" type="text/javascript"></script>
-
-    <script type="text/javascript">try{ clicky.init(66395590); }catch(err){}</script>
-
-    <noscript>
-        <p>
-            <img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66395590ns.gif" /></p>
-    </noscript>
+    <script type="text/javascript">        try { clicky.init(66395590); } catch (err) { }</script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66395590ns.gif" /></p></noscript>
     <!-- END GETCLICKY -->
 
 
