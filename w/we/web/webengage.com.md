@@ -1,63 +1,66 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2007-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070102021947id_/http%3A//webengage.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213744id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - WebEngage
+# Privacy Policy - WebEngage
 
-WebEngage, Inc.
+This Privacy Policy governs the manner in which Webklipper Technologies Private Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://webengage.com](http://webengage.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Webklipper Technologies Private Limited.
 
-These privacy practices apply to www.webengage.com and all related sites owned, operated or controlled by WebEngage, Inc. (the "WebEngage Web Site"), including the web site that you were viewing when you clicked through to this page on our Privacy Statement. The WebEngage Web Site enables you to learn about WebEngage and its products and services, as well to access our network and services ("WebEngage Services"). This Privacuy Statement also applies to WebEngage Services. 
+**Personal identification information**
 
-Because we take your privacy seriously, and because we may gather certain types of information about you and other users, we want you to understand the terms and conditions relating to the collection and use of any such information. Our Privacy Statement discloses the types of information we gather and how we use it. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-What personally identifiable information do we collect?
+**Non-personal identification information**
 
-Our primary goal in collecting personal information or other information about you or your company is to provide you with the best and most useful content and services. We collect personally identifiable information when you provide it to us, such as when you register on the WebEngage Web Site or when you use certain WebEngage Services. Certain WebEngage Services may require registration as a condition of use. Once you register with us, you are no longer anonymous to us. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-What anonymous information do we collect?
+**Web browser cookies**
 
-(a) Cookies
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Your Internet browser has a feature called "cookies" which store small amounts of data on your computer about your visit to the WebEngage Web Site. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit the WebEngage Web Site, although active participation in certain areas of the WebEngage Web Site may require cookies. In addition, you may elect not to allow cookies to be collected by selecting certain options on your browser. 
+**How we use collected information**
 
-(b) Web bugs & servers
+Webklipper Technologies Private Limited collects and uses Users personal information for the following purposes:
 
-We may use electronic images known as Web bugs--sometimes called single-pixel GIFs, transparent GIFs, or clear gifs--that allow us to track general user traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time, and information about the page you requested. 
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _\- To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _\- To process transactions_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To send periodic emails_  
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
-We use tracking technologies in a variety of ways, including: 
 
-  * Counting return visits to the WebEngage Web Site or to sites of our partners 
-  * Accumulating and reporting anonymous, aggregated and statistical information on the WebEngage Web Site and WebEngage Services and their usage 
-  * Determining which features users like best 
-  * Saving your password so you don't have to re-enter it each time you visit the WebEngage Web Site or use WebEngage Services 
 
-How do we use the information?
+**How we protect your information**
 
-We use information we gather for five general purposes: 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  * To customize the content you see 
-  * To improve WebEngage Services 
-  * To enhance the user experience on the WebEngage Web Site and WebEngage Services 
-  * To fulfill requests for certain products and services 
-  * To send you information you agreed to receive 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-Do we share the information with others?
+**Sharing your personal information**
 
-We may make information available to other companies or people when: 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-  * We have your consent to share the information 
-  * We have engaged companies to work with or on our behalf to provide a product or service that you have requested 
-  * You use co-branded services. When you use a co-branded service within the WebEngage Web Site you grant us permission to pass your registration information back to our service partners. Their use of your information is subject to their applicable privacy policies. 
-  * We are required to respond to legal process or we believe that your actions violate applicable laws or our Terms of Use of the WebEngage Web Site or WebEngage Services or threaten the rights, property, or safety of WebEngage or others 
+**Changes to this privacy policy**
 
-What are your options?
+Webklipper Technologies Private Limited has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Users who would rather not provide any of the user data requested by any of our registration processes do not need to register with us. You can still view much of the content and use many of the services offered by the WebEngage Web Site without registering. 
+**Your acceptance of these terms**
 
-Comments
+By using this Site, you signify your acceptance of this policy and [terms of service](http://webengage.com/tos). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-CComments regarding our Privacy Statement may be sent to us by e-mail or mailed to our corporate offices at 7320 SW Hunziker, Ste. 107, Portland, OR 97223. 
+**Contacting us**
 
-E-mail comments should be directed to: [privacy@webengage.com](mailto:privacy@webengage.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Webklipper Technologies Private Limited  
+[http://webengage.com](http://webengage.com/)  
+Webklipper Technologies Private Limited  
+F-117, Shagun Arcade, Film City Road  
+Goregaon East, Mumbai - 400063  
+Maharashtra, India  
++91-22-42662154  
+support@webklipper.com
 
-_Updated May 2002_
-
-[Copyright © 2001-2007 WebEngage, Inc.](https://web.archive.org/legal/copyright.php)   +    [Privacy](https://web.archive.org/legal/privacy.php)   +    [Terms of Use](https://web.archive.org/legal/terms.php)   +    [Built by Prescient](http://www.prescientsoftware.com/)
+This document was last updated on October 09, 2011
