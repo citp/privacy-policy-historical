@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103101041id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503031933id_/http%3A//about.sensis.com.au/legal/privacy.php%3Fref%3Dypflk) for the most accurate reproduction.*
 
 # Privacy Collection Statement | Sensis
 
@@ -114,7 +114,7 @@ Sensis may use third parties to analyse usage statistics on our websites. Such a
 
 Telstra’s and Sensis’ digital advertising network is responsible for placing some of the advertising on Sensis’ sites. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s internet browser on sites within Telstra’s and Sensis’ network is collected and used to associate your computer with one or more pre-defined interest categories. 
 
-Advertising that matches those interest categories may then be served to your computer’s internet browser. This interest based advertising (also called online behavioural advertising) does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra and Sensis ****[**here**](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/ "http://www.youronlinechoices.com.au/"), and you can also opt out of some or all interest based advertising [here](https://web.archive.org/web/20111103101041id_/http%3A//about.sensis.com.au/legal/www.youronlinechoices.com.au/opt-out).
+Advertising that matches those interest categories may then be served to your computer’s internet browser. This interest based advertising (also called online behavioural advertising) does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra and Sensis ****[**here**](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/ "http://www.youronlinechoices.com.au/"), and you can also opt out of some or all interest based advertising [here](https://web.archive.org/web/20120503031933id_/http%3A//about.sensis.com.au/legal/www.youronlinechoices.com.au/opt-out).
 
 ##### Acts in the course of journalism
 
