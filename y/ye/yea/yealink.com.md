@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206200803id_/http%3A//www.yealink.com/index.php/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005200id_/http%3A//yealink.com/index.php/About/privacy) for the most accurate reproduction.*
 
-# Yealink-EASY VoIP,SIP based IP Phone,IP Video Phone,Dect Phone,USB Phone,VoIP,Unified Communication,Skype Phone，Media Phone
+# Yealink-Easy VoIP,SIP based IP Phone,IP Video Phone,Dect Phone,USB Phone,VoIP,Unified Communication,Skype Phone，Media Phone
 
 At Yealink, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. That's why we have put a policy in place to protect your personal information. This statement describes (1) the types of personal information we collect, (2) how we use and protect this information, and (3) who we disclose it to.  
 What information does Yealink collect?  
