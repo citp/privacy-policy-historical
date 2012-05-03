@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012123658id_/http%3A//www2.paymate.com/pm/default.asp%3Ftitle%3DSecurity-and-Privacy%26contentID%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymate.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235213id_/http%3A//www2.paymate.com/pm/default.asp%3Ftitle%3DSecurity-and-Privacy%26contentID%3D52) for the most accurate reproduction.*
 
-# Security & Privacy | Paymate
+# Security & Privacy | Paymate - Online payment service - sell online, buy online
 
-[Home](https://web.archive.org/web/20111012123658id_/http%3A//www2.paymate.com/pm/default.asp) > Security & Privacy
+[Home](https://web.archive.org/web/20120503235213id_/http%3A//www2.paymate.com/pm/default.asp) > Security & Privacy
 
 To help clients better understand the personal information we gather and the practices we employ, Paymate has developed a Privacy Policy that covers the following areas:
 
