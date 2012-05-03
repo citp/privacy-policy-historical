@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142331id_/http%3A//www.themedy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014108id_/http%3A//themedy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Themedy
 
