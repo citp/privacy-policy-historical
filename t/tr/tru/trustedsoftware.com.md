@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedsoftware.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155053id_/http%3A//www.trustedsoftware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedsoftware.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503052325id_/http%3A//www.trustedsoftware.com/privacy.html) for the most accurate reproduction.*
 
 # Trusted Software Privacy Policy
 
