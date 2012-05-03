@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014190339id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedge.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503171854id_/http%3A//www.zedge.net/privacy-policy) for the most accurate reproduction.*
 
 # Zedge | Privacy policy
 
@@ -11,9 +11,9 @@ Zedge is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non
 If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows:
 
 Zedge Holdings, Inc.  
-39 Broadway  
-Suite 950  
-NY 10006  
+22 Cortlandt Street  
+12th Floor  
+NY 10007  
 New York  
 Email: [privacy@zedge.net](mailto:privacy@zedge.net)
 
@@ -85,7 +85,7 @@ Zedge has a "Share with Friends" feature that allows you to send email messages 
 
 We would like to provide you with information via email about new products, promotions, special offers and other information which we think you may find interesting. We fully appreciate that "spam" has become a problem in recent years and this is why we make sure you have the power to choose whether or not you want to receive such mailings. We will give you the option of opting in to receive any such marketing mailings when you register for Zedge, or afterwards via an email message or web page screen. If you choose to opt in, you may at any time afterwards change this preference by logging into your account and accessing "My Account > Account", and select that you want to opt out of receiving specific mailings. You may also contact our data protection compliance officer:
 
-Sofi Fahlberg  
+Tom Arnoy  
 privacy@zedge.net  
 Ladebekken 17  
 7041 Trondheim  
