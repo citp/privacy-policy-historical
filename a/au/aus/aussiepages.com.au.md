@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120034156id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222516id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**teany brits**](http://www.aussiepages.com.au/teany-brits.html)  
-Hand selected British designer and UK branded baby and toddler apparel, gifts and toys on sale in Australia.  
+[**ADB Print & Leaflet Distribution Gold Coast**](http://www.aussiepages.com.au/ADB-Print-Leaflet-Distribution-Gold-Coast.html)  
+ADB Print is your ONE STOP SHOP for all of your graphic design, printing and leaflet, flyer and pamphlet distribution throughout the Gold Coast and Brisbane regions.  
   
   
 ---  
   
-[**Skinz Spray Tanning**](http://www.aussiepages.com.au/Skinz-Spray-Tanning.html)  
-Professional Spray Tanning. Servicing the Central Coast for Over 8 Years  
+[**Getprice**](http://www.aussiepages.com.au/Getprice.html)  
+Online shopping means being able to have more options. It means being able to get the best deals effortlessly.  
   
   
-[**The Unselfish Marketer**](http://www.aussiepages.com.au/The-Unselfish-Marketer.html)  
-The Unselfish Marketer is a company based in Paradise Point, Queensland that provides access to all the products you want to sell referred to as the VAULT.  
+[**Massage Therapist Gold Coast**](http://www.aussiepages.com.au/Massage-Therapist-Gold-Coast.html)  
+Deep tissue and swedish relaxation massage. Mobile massage therpay and in clinic at Currumbin. Servicing the whole gold coast including Tweed Hds, Coolangatta, Palm Beach, Burleigh, Elanora, Tugun.  
   
   
-[**Accountants Melbourne**](http://www.aussiepages.com.au/Accountants-Melbourne.html)  
-Committed to providing innovative solutions dedicated to guiding our clients towards achieving their goals of Wealth Creation, Wealth Preservation and compliance with Statutory Obligations.  
+[**The Mortgage Gallery Rockingham**](http://www.aussiepages.com.au/The-Mortgage-Gallery-Rockingham.html)  
+The Mortgage Gallery Rockingham are your full service mortgage broker Perth, specialising in Home Loans & Refinance Options in Perth WA.  
   
   
-[**ChinoLatino 3D perspectives**](http://www.aussiepages.com.au/ChinoLatino-3D-perspectives.html)  
-3D architectural drawings and models based on architectural plans.  
+[**A.Abbott Locksmiths**](http://www.aussiepages.com.au/A.Abbott-Locksmiths.html)  
+Abbott Locksmiths is a leading locksmith company servicing all of Sydney. Available 24 hours a day in case of emergency. Call us today on 1300 655 787.  
   
   
-[**Your eftpos Stories**](http://www.aussiepages.com.au/Your-eftpos-Stories.html)  
-Watch real stories from eftpos users. Discover how you can benefit from using eftpos. Learn more.  
+[**Vocal Freedom**](http://www.aussiepages.com.au/Vocal-Freedom.html)  
+Quality Vocal and Guitar Tuition in a relaxed and supportive environment  
   
   
-[**Office Furniture Deals**](http://www.aussiepages.com.au/Office-Furniture-Deals.html)  
-Looking for great value Office Furniture Products for any budget year round Melbourne? Visit http://www.officefurnituredeals.com.au/ and you'll get guaranteed Ergonomic Office Chairs, drafting ch  
+[**Electricity Wizard**](http://www.aussiepages.com.au/Electricity-Wizard.html)  
+Gas Company, Electricity Company, electricity suppliers, power supplier, energy supplier, electricity provider, Electricity Supplier, Power Suppliers, Electricity  
   
   
-[**Eden-Lea Ragdoll Kittens**](http://www.aussiepages.com.au/Eden-Lea-Ragdoll-Kittens.html)  
-Holistic breeder of the fabulous Ragdoll Cat. We only breed from true Ragdoll bloodlines. Kittens raised in our home, and are sometimes available to approved naturally inclined homes.  
+[**Next Level Extensions**](http://www.aussiepages.com.au/Next-Level-Extensions.html)  
+Next Level Extensions was born out of a vision to provide a boutique home extension building service focused on quality workmanship and personalised service for Perth.  
   
   
-[**consortio**](http://www.aussiepages.com.au/consortio.html)  
-Consortio offers a comprehensive suite of services to the professional contractor. Consortio specialises in providing a legally compliant engagement structure, contract facilitation, payroll solutions  
+[**Rockdale Mattress Factory**](http://www.aussiepages.com.au/Rockdale-Mattress-Factory.html)  
+Rockdale Mattress Factory is a family owned and operated business dedicated to the manufacturing of quality spring, latex and wool layer mattresses.  
   
   
-[**Mobile Personal Training Perth**](http://www.aussiepages.com.au/Mobile-Personal-Training-Perth.html)  
-I am a Mobile Personal Trainer servicing the coastal suburbs west of the city of Perth to Burns Beach. I provide Mobile Personal Training services across Perth with a range of ages and goals.  
+[**Rafkia Solar and Electrical**](http://www.aussiepages.com.au/Rafkia-Solar-and-Electrical.html)  
+Provides solar along with electrical solutions to commercial, industrial and domestic clients. Based in Brisbane but also servicing the Gold and Sunshine Coasts, Qld.  
   
   
    
