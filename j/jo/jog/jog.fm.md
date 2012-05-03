@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206161436id_/http%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jog.fm privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010541id_/http%3A//jog.fm/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Workout songs and playlists - jog.fm
 
