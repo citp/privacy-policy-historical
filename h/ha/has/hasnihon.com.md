@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasnihon.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104165317id_/http%3A//www.hasnihon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasnihon.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223816id_/http%3A//hasnihon.com/privacy) for the most accurate reproduction.*
 
 # Japanese Used Car|Damaged Car|Passenger Car|Sedan Car|Sports Car|Used Car Auction
 
@@ -9,10 +9,8 @@ This Privacy Policy applies to all visitors and registered members who are using
 When you visit the Has-Nihon web sites, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our web site.
 
 If you open an account, we collect the following types of information from you:   
-1- Contact information - your name, address, phone, email, Skype ID and other similar information.   
-2- Financial information - the bank account numbers and credit card numbers that you link to your Has-Nihon account. 
-
-Before permitting you to use our Service, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth, ID copy, ID Number or other information. We may also obtain information about you from third parties such as credit bureaus and identity verification services.
+1- Contact information - your name, address, phone, email and other similar information.   
+2- Financial information - the bank account numbers that you link to your Has-Nihon account. 
 
   
 When you are using our Service, we collect information about your account transactions and we may collect information about your computer or other access device for fraud prevention purposes.
