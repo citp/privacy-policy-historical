@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triniporn.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230134405id_/http%3A//www.triniporn.org/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triniporn.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222903id_/http%3A//www.triniporn.org/static/privacy) for the most accurate reproduction.*
 
 # privacy policy - TriniPorn - Trinidad Adult community. Porn Videos Clips Blogs Chat Caribbean Pictures Ametur Trinidadian Sex Escorts
 
