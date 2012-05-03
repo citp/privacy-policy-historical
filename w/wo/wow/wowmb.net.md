@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613084218id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203423id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -18,29 +18,29 @@ Please Register to Remove these Ads
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [Cypher_BE wins the Banner...](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) | [ ▼](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) |  13-06, 04:29 |  [Cypher_BE](http://wowmb.net/forums/members/cypher_be/)  
- [How to reset my profile?](http://wowmb.net/forums/f17/39253-how_reset_my_profile/) | [ ▼](http://wowmb.net/forums/f17/39253-how_reset_my_profile/) |  13-06, 04:09 |  [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
- [Warlock's Den podcast?](http://wowmb.net/forums/f17/32146-warlocks_den_podcast/) | [ ▼](http://wowmb.net/forums/f17/32146-warlocks_den_podcast/) |  13-06, 03:31 |  [Screech](http://wowmb.net/forums/members/screech/)  
- [Cataclysm Battlegrounds to be...](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) | [ ▼](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) |  13-06, 02:46 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
- [ICC bosses, Afflic vs...](http://wowmb.net/forums/f138/37943-icc_bosses_afflic_vs_destruction/) | [ ▼](http://wowmb.net/forums/f138/37943-icc_bosses_afflic_vs_destruction/) |  13-06, 02:41 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
- [Engineering and tailoring as...](http://wowmb.net/forums/f10/39077-engineering_tailoring_demonology_lock/) | [ ▼](http://wowmb.net/forums/f10/39077-engineering_tailoring_demonology_lock/) |  13-06, 02:34 |  [Swiftxfox](http://wowmb.net/forums/members/swiftxfox/)  
- [Love makes blind...?](http://wowmb.net/forums/f8/37414-love_makes_blind/) | [ ▼](http://wowmb.net/forums/f8/37414-love_makes_blind/) |  13-06, 02:05 |  [Aurelie](http://wowmb.net/forums/members/aurelie/)  
- [helpful tips for my gears?](http://wowmb.net/forums/f22/39247-helpful_tips_my_gears/) | [ ▼](http://wowmb.net/forums/f22/39247-helpful_tips_my_gears/) |  13-06, 01:57 |  [Aurelie](http://wowmb.net/forums/members/aurelie/)  
- [Warlocks on Akama...](http://wowmb.net/forums/f13/38889-warlocks_akama/) | [ ▼](http://wowmb.net/forums/f13/38889-warlocks_akama/) |  12-06, 23:49 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
- [Den Members' Videos](http://wowmb.net/forums/f15/35799-den_members_videos/) | [ ▼](http://wowmb.net/forums/f15/35799-den_members_videos/) |  12-06, 21:09 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
-|  [Cypher_BE wins the Banner...](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) |  12-06  
+ [say WHAT?!](http://wowmb.net/forums/f9/42692-say_what/) | [ ▼](http://wowmb.net/forums/f9/42692-say_what/) |  03-05, 11:13 |  [Scathbais](http://wowmb.net/forums/members/scathbais/)  
+ [4.3.4.15...Raiding Guide!](http://wowmb.net/forums/f102/42695-4_3_4_15_raiding_guide/) | [ ▼](http://wowmb.net/forums/f102/42695-4_3_4_15_raiding_guide/) |  03-05, 10:45 |  [Kasha](http://wowmb.net/forums/members/kasha/)  
+ [Demonology pvp](http://wowmb.net/forums/f43/41246-demonology_pvp/) | [ ▼](http://wowmb.net/forums/f43/41246-demonology_pvp/) |  03-05, 05:44 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
+ [MoP Beta... Destruction Spec](http://wowmb.net/forums/f43/42691-mop_beta_destruction_spec/) | [ ▼](http://wowmb.net/forums/f43/42691-mop_beta_destruction_spec/) |  03-05, 03:03 |  [Pansori](http://wowmb.net/forums/members/pansori/)  
+ [[A]{US}<Occasional...](http://wowmb.net/forums/f192/42594-us_occasional_excellence_25man_2ni_wk_5_8_heroic_guild_lfm/) | [ ▼](http://wowmb.net/forums/f192/42594-us_occasional_excellence_25man_2ni_wk_5_8_heroic_guild_lfm/) |  02-05, 23:36 |  [Iknus](http://wowmb.net/forums/members/iknus/)  
+ [Your Transmogrification](http://wowmb.net/forums/f22/42411-your_transmogrification/) | [ ▼](http://wowmb.net/forums/f22/42411-your_transmogrification/) |  02-05, 11:40 |  [Tragik](http://wowmb.net/forums/members/tragik/)  
+ [Glyph of Shadowbolt](http://wowmb.net/forums/f9/42696-glyph_shadowbolt/) | [ ▼](http://wowmb.net/forums/f9/42696-glyph_shadowbolt/) |  02-05, 11:19 |  [Kasha](http://wowmb.net/forums/members/kasha/)  
+ [Green fire quest coming to MoP](http://wowmb.net/forums/f8/42694-green_fire_quest_coming_mop/) | [ ▼](http://wowmb.net/forums/f8/42694-green_fire_quest_coming_mop/) |  02-05, 09:45 |  [Cruciarius](http://wowmb.net/forums/members/cruciarius/)  
+ [MoP Destro: Shoot vs Auto-Wand](http://wowmb.net/forums/f8/42653-mop_destro_shoot_vs_auto_wand/) | [ ▼](http://wowmb.net/forums/f8/42653-mop_destro_shoot_vs_auto_wand/) |  01-05, 19:35 |  [Teon](http://wowmb.net/forums/members/teon/)  
+ [Warlock Tier 14](http://wowmb.net/forums/f8/42639-warlock_tier_14_a/) | [ ▼](http://wowmb.net/forums/f8/42639-warlock_tier_14_a/) |  01-05, 12:16 |  [ImRorschac](http://wowmb.net/forums/members/imrorschac/)  
+|  [Looking for Moderators and...](http://wowmb.net/forums/f71/42656-looking_moderators_newshounds/) |  10-04  
 ---|---  
- [Cataclysm Battlegrounds to be...](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) |  11-06  
- [More from Ghostcrawler on...](http://wowmb.net/forums/f71/39216-more_ghostcrawler_affliction_talent_trees_cataclysm/) |  09-06  
- [Vote for the new Warlocks Den...](http://wowmb.net/forums/f71/39196-vote_new_warlocks_den_banner/) |  07-06  
- [24 Hour Downtime for Selected...](http://wowmb.net/forums/f71/39189-24_hour_downtime_selected_realms/) |  07-06  
+ [Buffs and Debuffs in MOP](http://wowmb.net/forums/f71/42605-buffs_debuffs_mop/) |  09-03  
+ [Destruction Ember System in...](http://wowmb.net/forums/f71/42579-destruction_ember_system_mop/) |  23-02  
+ [MoP Warlock Changes](http://wowmb.net/forums/f71/42576-mop_warlock_changes/) |  21-02  
+ [Patch Notes 4.3](http://wowmb.net/forums/f71/42408-patch_notes_4_3_a/) |  29-11  
 Latest Blog Entries  
-|  [What is your's is now MINE](http://wowmb.net/forums/blogs/muhney/633-what_yours_now_mine.html) | [Muhney](http://wowmb.net/forums/members/muhney/)  
+|  [Home's where my heart is](http://wowmb.net/forums/blogs/d1re/748-homes_where_my_heart.html) | [D1RE](http://wowmb.net/forums/members/d1re/)  
 ---|---  
- [Guildless now](http://wowmb.net/forums/blogs/dieste/632-guildless_now.html) | [Dieste](http://wowmb.net/forums/members/dieste/)  
- [Guild and Loremaster progress](http://wowmb.net/forums/blogs/dieste/631-guild_loremaster_progress.html) | [Dieste](http://wowmb.net/forums/members/dieste/)  
- [LK Attempt 1](http://wowmb.net/forums/blogs/parsnup/630-lk_attempt_1.html) | [Parsnup](http://wowmb.net/forums/members/parsnup/)  
- [Rhiadana: Not just a pretty...](http://wowmb.net/forums/blogs/bloodelfarmy/629-rhiadana_not_just_pretty_face.html) | [BloodElfArmy](http://wowmb.net/forums/members/bloodelfarmy/)  
+ [Tiny little annoyances](http://wowmb.net/forums/blogs/cormanthor/746-tiny_little_annoyances.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
+ [We are 1 year old](http://wowmb.net/forums/blogs/gnomeobie/745-we_1_year_old.html) | [Gnomeobie](http://wowmb.net/forums/members/gnomeobie/)  
+ [Oh look, a kitty!](http://wowmb.net/forums/blogs/cormanthor/744-oh_look_kitty.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
+ [Build a better mousetrap](http://wowmb.net/forums/blogs/cormanthor/743-build_better_mousetrap.html) | [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
   
 [](http://feeds.feedburner.com/TheWarlocksDen) [RSS Feed](http://feeds.feedburner.com/TheWarlocksDen)
 
