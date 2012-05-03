@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226013536id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205459id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
 
 # Home | Dream Horoscope
 
@@ -55,10 +55,9 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-GMB555 - dreamhoroscope.com  
+GMB Direct - dreamhoroscope.com  
 315 Madison Avenue, Suite 901  
 New York, NY 10017  
-888-231-8602  
 company@dreamhoroscope.com
 
   Acceptance
