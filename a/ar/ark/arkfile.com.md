@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the arkfile.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113234325id_/http%3A//www.arkfile.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkfile.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213929id_/http%3A//www.arkfile.com/help/privacy.php) for the most accurate reproduction.*
 
 # ArkFile
+
+... ...
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by ArkFile for measuring usage.
@@ -22,9 +24,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-  
-
 
   
 
