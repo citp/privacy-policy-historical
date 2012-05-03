@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217130722id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503165121id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy (Victoria Online)
 
@@ -10,7 +10,7 @@ This privacy statement applies only to the Victoria Online website and not to an
 
 Victoria Online only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and Victoria Online will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
-Personal information that is collected by Victoria Online will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Information Privacy Act 2000 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/1427BD7172D19D3DCA25736000021540/$FILE/00-98a020.pdf) (PDF, 564 KB).
+Personal information that is collected by Victoria Online will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Information Privacy Act 2000 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/97e79fc6f4e66779ca2578df000ab6dd!OpenDocument).
 
 ## Access to and Correction of Personal Information
 
@@ -19,7 +19,7 @@ You may request access to any personal information that Victoria Online may have
 The Manager, eServices may be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement,
 
 by email at:
-    [victoria.online@diird.vic.gov.au](mailto:victoria.online@diird.vic.gov.au)
+    [infovic@dbi.vic.gov.au](mailto:infovic@dbi.vic.gov.au)
 by post at:
     Manager Online Strategy  
 Information Victoria  
@@ -82,7 +82,7 @@ Victoria Online uses standard web analytics software packages to analyse its web
 
 ## Web measurement services used by Victoria Online
 
-Victoria Online currently uses two web measurement service providers. They are Google Analytics and Omniture SiteCatalyst.
+Victoria Online currently uses two web measurement service providers. They are Google Analytics and Omniture SiteCatalyst. Google Analytics is also used by the [Info Vic Newsletter](http://www.vic.gov.au/newsletters/InfoVicNewsletters.html).
 
 ### Google Analytics - Use of Cookies
 
@@ -95,12 +95,6 @@ Victoria Online currently uses two web measurement service providers. They are G
 SiteCatalyst cookies contain no personally identifiable information. All cookie data is completely anonymous and is used to distinguish one web browser from another.
 
 The SiteCatalyst cookies belong to the Victoria Online web site.
-
-### Effective Measure
-
-Victoria Online is currently testing the [Effective Measure](http://www.effectivemeasure.com/) demographic profiling tool. Effective Measure is an independent measurement and research company which gathers data regarding visitors to our website using browser cookies and code which is embedded on our web pages.
-
-We use this type of information to help improve the services we provide to our visitors and gather anonymous feedback via a website survey. If you would like more information about the cookies used by Effective Measure and how to Opt Out of this process, please visit [Effective Measure's privacy policy](http://www.effectivemeasure.com/privacy-policy).
 
 ## Data Collection
 
