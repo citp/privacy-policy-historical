@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217015051id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000851id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mr. Rebates - Privacy Policy
 
@@ -19,7 +19,7 @@ Aggregated information, such as which page users access or visit and information
  **Use of Cookies**  
 Mr. Rebates also uses “cookies” to store information. A cookie is a small data file that most major Web sites write to your hard drive for record keeping purposes when you visit them. Cookies allow Mr. Rebates to measure activity on the site and to improve your user experience, for example by remembering your passwords and viewing preferences.
 
-You may occasionally get cookies from our cash-back partner stores, which is standard in the Internet industry. Mr. Rebates does not control these cookies, and these cookies are not subject to Mr. Rebates' privacy policies. Most browsers are initially set to accept cookies.
+You may occasionally get cookies from our cash back partner stores, which is standard in the Internet industry. Mr. Rebates does not control these cookies, and these cookies are not subject to Mr. Rebates' privacy policies. Most browsers are initially set to accept cookies.
 
 ####  To California Residents:  
 Mr. Rebates only collects "personally identifiable" information when a member requests a rebate check.  That information is not shared with any other third-party.
