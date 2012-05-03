@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knittingparadise.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120355id_/http%3A//www.knittingparadise.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knittingparadise.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503033056id_/http%3A//www.knittingparadise.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # KnittingParadise.com Privacy Policy
 
@@ -96,10 +96,9 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 You may direct questions, comments or reports to:  
 [info@knittingparadise.com](mailto:info@knittingparadise.com)  
-Vast Publishing  
-IDF Technologies, LLC  
-364 East Main Street, Suite 322,  
-Middletown, DE 19709  
+Knitting Paradise, Inc.  
+382 NE 191st St # 74906  
+Miami, FL 33179  
 USA  
 
 
@@ -127,7 +126,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. IDF Technologies, LLC, 364 East Main Street, Suite 322, Middletown, DE 19709, USA. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. Knitting Paradise, Inc., 382 NE 191st St # 74906, Miami, FL 33179, USA. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
