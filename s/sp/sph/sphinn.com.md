@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213242id_/http%3A//thirddoormedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sphinn.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224006id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy for Third Door Media - Third Door Media
+# Privacy Policy
 
 We want to protect your privacy. In order to operate, our web sites and business operations may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
 
-## Personally Identifiable Information Collected
+### Personally Identifiable Information Collected
 
-Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.  
+Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number.
+
 We collect certain types of personal information when you register for an event, a webcast or a newsletter. This information may include:
 
   * your name
@@ -21,9 +22,9 @@ We collect certain types of personal information when you register for an event,
 
 Information we collect such as this will not be given or sold to third parties unless we have specifically obtained your permission beforehand.
 
-## Cookies & Web Beacons
+### Cookies & Web Beacons
 
-Third Door Media, its advertisers or analytics partners may send a [cookie](http://www.webopedia.com/TERM/c/cookie.html) to your computer or use [web beacons](http://www.webopedia.com/TERM/W/Web_beacon.html) to gather statistical information.
+Third Door Media, its advertisers or analytics partners may send a [cookie](http://www.webopedia.com/TERM/c/cookie.html) to your computer or use [web beacons](http://www.webopedia.com/TERM/W/Web_cookie.html) to gather statistical information.
 
 A cookie does not personally identify you. It is simply a way to know that a particular web browser was used to visit our sites.
 
@@ -41,7 +42,7 @@ Advertisers may also use cookies and web beacons to ascertain how many times you
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our sites, should you so choose. If you do encounter a problem, please let us know.
 
-## What We Do With Personally Identifiable Data
+### What We Do With Personally Identifiable Data
 
 Personally identifiable information you provide may be used to:
 
@@ -52,7 +53,7 @@ Personally identifiable information you provide may be used to:
 
 
 
-## Sharing Your Information With Advertisers, Sponsors & Others
+### Sharing Your Information With Advertisers, Sponsors & Others
 
 Your personally identifiable information will only be shared with other companies when:
 
@@ -64,10 +65,10 @@ Your personally identifiable information will only be shared with other companie
 
 We may also aggregate information and disclose it to advertisers and other third parties for marketing, promotional, and other purposes. In these cases, we do NOT disclose any personally identifiable information as part of this.
 
-## Transfers
+### Transfers
 
 We may buy or sell a company or property. If we sell a business, we may transfer some or all of your information as a part of the sale so that you will continue to receive the service being provided to you or for other business purposes.
 
-## Policy Changes, Questions & Comments
+### Policy Changes, Questions & Comments
 
-We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](https://web.archive.org/contact/feedback.html) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/feedback.shtml) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
