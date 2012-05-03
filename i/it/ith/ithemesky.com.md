@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithemesky.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229073348id_/http%3A//www.ithemesky.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemesky.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220456id_/http%3A//www.ithemesky.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iThemeSky.com
 
@@ -36,4 +36,4 @@ iThemeSky reserves the right to change this Privacy Policy at any time we see fi
 
 #### Privacy Inquiries
 
-Please feel free to [contact us](https://web.archive.org/about/contact) for any further information or questions about this page.
+Please feel free to [contact us](http://blog.ithemesky.com/contact-us) for any further information or questions about this page.
