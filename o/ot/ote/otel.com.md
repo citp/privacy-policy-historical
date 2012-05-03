@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008040622id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215209id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Site Security & Privacy - Otel.com
 
