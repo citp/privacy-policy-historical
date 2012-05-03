@@ -1,149 +1,143 @@
-> *The following text is extracted and transformed from the bobsled.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsled.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224655id_/http%3A//bobsled.com/legal/bobsled-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bobsled Privacy Policy
 
-#### Find Answers To Your Questions:
+## Effective: January 11, 2011
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+T-Mobile USA, Inc. (“ **T-Mobile** ”) is committed to protecting the privacy and security of your personal information. This Privacy Policy (“ **Policy** ”) applies solely to the various “Bobsled”-branded services (“ **Services** ”) and software applications (“ **Software** ”), the Bobsled website at bobsled.com (the “ **Site** ”), the content and materials made available to you on or through the Services, Software or Site (“ **Bobsled Content** ”) (the Software, Services, Site and Bobsled Content are referred to herein collectively as “ **Bobsled** ”) and your activities in connection with Bobsled. This Policy describes the personal information we may collect about you, how we may use it, when we may disclose it, how we safeguard it, and how you may access it and control its use in connection with T-Mobile’s marketing communications. The policy also provides other important privacy information and describes when and how T-Mobile may change this policy and how to contact T-Mobile with any questions or comments. 
 
-### Privacy Policy
+### COLLECTION, USE, DISCLOSURE, AND SECURITY OF PERSONAL INFORMATION.
 
-**Why A Privacy Policy?**  
+#### Personal Information
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+This policy applies to personally identifiable information (“ **Personal Information** ”), which is information that can be directly associated with a specific person or entity. Personal Information includes, but is not limited to, your name, email address, home address, mobile phone number, contacts and certain information, including login credentials, related to your social networks and other third party sites. Personal Information does not include “anonymous” or "aggregate" information – neither of which are associated with a specific person or entity. When you register with Bobsled or when you choose to add information to your profile, we will ask you for Personal Information. This refers to information about you that can be used to contact or identify you.
 
- **This Privacy Policy protects your privacy by:**
+### Collection of Personal Information 
 
- **Informing you about:**
+#### Voice Services
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+In order to access certain features of Bobsled, you must register to create an account (“ **Account** ”). Your Account for voice Services uses your social media identity as your identity within the voice Services. The voice Services will automatically load the contacts from the social media websites you attach to your Bobsled Account. This feature cannot be turned off. If you do not want your contacts from a social media site uploaded, you should not attach that social media site to your Bobsled Account. 
 
+#### Messaging Services
 
+In order to use messaging Services, you will be required to provide certain information to create a Profile and you will establish a username and a password. The messaging Services will automatically upload contact information from your phone for use with Bobsled. This feature cannot be turned off. If you do not want your contacts uploaded, you must not install this Software. Once you are a registered user, you can invite friends to join Bobsled by sending invitation emails via TMobile’s automated invitation system. 
 
-**Empowering you to choose:**
+While the Messaging Services offer you the ability to determine how much information you wish to share with Bobsled though your " **Account Settings** ," any Personal Information or other content that you voluntarily disclose online (for example, on your public Bobsled profile, in posts, comments, or notes) becomes publicly available and could be collected and used by others. Your phone number, account User Name, or your full name if you choose to provide it within your Account Settings, is displayed to other users when you post, send direct messages, or comment. Other users may also search Bobsled and find your public profile, which will include your User Name and any post made to everyone or in "public mode." Likewise, comments that you submit to the Site may be redistributed through the Internet and other media, and could be viewed and/or used by the general public. In addition, if you chose to connect Bobsled to your other networks (including, but not limited to Facebook and Twitter), any information you post and your User Name through Bobsled will be shared with your other networks.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+#### Information automatically collected
 
+T-Mobile automatically collects certain information, some of which may be associated with Personal Information, whenever you use Bobsled. For example, the Bobsled systems capture details about the type and location of wireless device(s) you use, calls and text messages you send and receive, and other services you use. When your computer Web browser or other communication device accesses the Site or uses the Services, T-Mobile automatically receives certain information, such as your IP address, browser type, date and time, and the Web page you visited before visiting the Site. 
 
+#### Use of Personal Information 
 
-**Assuring you that Network Solutions:**
+T-Mobile uses Personal Information for a variety of business purposes, including for example, to respond to your requests for Services or assistance; anticipate and resolve actual and potential problems with the Site, Software or Services; create and improve the Site, Software or Services; make internal business decisions about current and future offers; provide personalized Services and user experiences; and protect T-Mobile’s rights and property.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+#### Marketing Communications
 
+T-Mobile and its Bobsled Service Providers (as defined below) may also use your Personal Information to contact you (via such means as SMS, email, etc.) with Bobsled marketing or promotional materials. If you do not want to receive marketing communications from T-Mobile or its Bobsled partners in connection with Bobsled, you must complete the form at the following link: <http://bobsled.com/optout>.
 
+#### Alerts and Notifications
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+"Alerts" or "Notifications" are messages that you elect to receive and other information that may be of interest to you (such as, when a friend is nearby or your favorite team's final score in a recent game). You receive these alerts and other notifications at your discretion and as determined by you in your messaging Account Settings. If you decide at any time that you no longer wish to receive these communications from Bobsled please update your "Account Settings" page (part of the Messaging Services) or follow the unsubscribe instructions that may be provided in the communications. 
 
-  
-**Third Party Advertising and Cookies**
+#### Targeted Advertising
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+Some of Bobsled is supported by advertising revenue and the Service may display advertisements and promotions. These advertisements may be targeted to you based on the content of information stored on Bobsled, or other information that Bobsled or T-Mobile may have about you. You cannot opt out of receiving targeted advertising while using Bobsled. 
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+Not all marketing communications you receive on your device are sent or authorized by TMobile or its Bobsled Service Providers. When you provide your mobile number or other contact information to others, you may receive unwanted calls, text messages, or e-mails on your device. TMobile takes steps to reduce unsolicited advertising, but T-Mobile cannot block all such advertisements or unwanted communications. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+#### Disclosure of Personal Information. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+T-Mobile will not sell, rent, or otherwise provide your Personal Information to unaffiliated third-parties to market their services or products to you, except as described by this Policy, unless TMobile obtains your prior consent to do so. TMobile may disclose your Personal Information to unaffiliated third-parties as follows: 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+#### Registered Users
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+When you register through the Site and submit your Personal Information to create a profile page, other Users will see your " **User Name.** " You can choose what other Personal Information you provide as part of your profile, including but not limited to your phone number, location and information contained in your posts (" **Other User Information** "). Providing Other User Information is voluntary and should correlate with the degree of interaction you want to have with other Users. Should you choose to disclose your information to "everyone" based on the settings in your post or profile, any location information that you choose to share will become public.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+#### Aggregate Information
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+T-Mobile may share aggregated information in a form that does not identify you personally with third parties for industry analysis, demographic profiling and to deliver targeted advertising about other products and services.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+#### Service Providers
 
- **Getting to Know Our Customers**
+T-Mobile may employ third party companies to facilitate Bobsled, to provide Bobsled on T-Mobile’s behalf (for example and without limitation, the “ **Service Providers** ”) to perform Site-related services (for example and without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist T-Mobile in analyzing how Bobsled is used. Currently, Bobsled is provided and operated by T-Mobile’s third party partners Vivox, Inc. (“ **Vivox** ”) and HDmessaging, Inc. (“ **HDmessaging** ”). Vivox, HDmessaging and T-Mobile’s other third party suppliers of services related to Bobsled are collectively referred to herein as “ **Service Providers.** ” Service Providers have access to your Personal Information in order to provide specific Services on T-Mobile’s behalf as dictated by TMobile, and may not to disclose or use it for any purpose inconsistent with this Policy. Service Providers may not use or disclose your Personal Information for any purpose other than to deliver the Services described herein without your separate and prior consent. Whenever any of these Service Providers cease providing the Bobsled Service, or any specific Services related thereto, to a customer following account deletion pursuant to the account deletion process identified in the FAQ (<http://www.bobsled.com/#!/faq>) they will delete and expunge the Personal Information that they have collected, stored, or generated about you within 48 hours of the time they cease providing the Bobsled Service or any specific Services related thereto.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+#### Compliance with Laws and Law Enforcement
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+T-Mobile may disclose personal information or communications where T-Mobile believes in good faith such disclosure is necessary to comply with the law or respond to legal process (for example, lawful subpoena, court order, E-9-1-1 information); to enforce or apply agreements; to protect T-Mobile’s rights or property; in connection with claims, disputes, or litigation; to protect users of T-Mobile’s services and other carriers or providers from fraudulent, abusive, or unlawful use of, or subscription to, such services; or if T-Mobile determines disclosure is necessary in an emergency situation.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+#### Business Transfers
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+T-Mobile may disclose personal information as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information could be transferred to third-parties as a business asset in the transaction.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+#### Security and Retention of Personal Information
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+T-Mobile uses a variety of physical, electronic, and procedural safeguards to protect Personal Information from unauthorized access, use, or disclosure while it is under T-Mobile’s control. Although T-Mobile cannot guarantee that loss, misuse, or alteration of your Personal Information will not occur, T-Mobile strives to prevent such occurrences. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+T-Mobile retains Personal Information for as long as T-Mobile has a business need or as applicable laws, regulations, or government orders require. When T-Mobile disposes of Personal Information, T-Mobile uses reasonable procedures to erase or render it unreadable (for example, shredding documents and wiping electronic media). T-Mobile will make reasonable attempts to notify you if T-Mobile determines that a security breach involving your Personal Information has occurred that T-Mobile reasonably believes creates a risk of identity theft or Services disruption, or as otherwise required by law. 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+### Changing or Deleting Your Information
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+#### Voice Services
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+The policies and procedures of each social network site that you attach to the Bobsled Voice Services define how to change the information they pass to TMobile or its Service Providers. In order to change or stop the flow of information passed to the Voice Services, you must consult and follow the policies and procedures of that social network site. For example, if you have authorized one or more Bobsled Facebook applications to access your Facebook account information, you must edit the application settings, or deauthorize the application(s) on Facebook in order to change the information that is provided to the Bobsled Service by the application(s).
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+#### Messaging Services
 
-b. Click “Edit User Info” in the left menu;
+You can review, update, correct or delete the Personal Information in your registration profile by accessing your Account Settings (Profile) in your Account at the Site. If you completely delete all your Personal Information, your Account will be deactivated. 
 
-c. Scroll to the bottom of the page;
+### OTHER PRIVACY INFORMATION. 
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+#### Children
 
-e. Click “SAVE.”
+Bobsled, including the Site and Services, is not designed for children under the age of 13 and T-Mobile does not intentionally or knowingly collect Personal Information on the Site from anyone under the age of 13. T-Mobile encourages parents to be involved in the online activities of their children to ensure that no information is collected from a child without parental permission. 
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+#### Cookies
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Like many websites, T-Mobile uses "cookies" to collect information. A cookie is a small data file transferred to your computer's hard disk for record-keeping purposes. T-Mobile uses cookies for two purposes. First, T-Mobile utilizes persistent cookies to save your registration ID and login password for future logins to the Site. Second, T-Mobile utilizes session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor usage by visitors and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+#### Third-Party Advertising. 
 
-b. Click “Edit User Info” in the left menu;
+You may see third-party advertisements on the Site or the Software or while using the Services. These third-party advertisers, or their ad networks, may place or access cookies on your device or computer and may collect certain anonymous information about your visit on the Site. The third-party advertisers who provide these ads may use this information to provide you with advertising on the Site, as well as on other sites. This advertising may be tailored to the interests the advertisers have inferred from your browsing of the Site or other Web sites with which the third-party is affiliated as an ad server or ad network. T-Mobile does not provide Personal Information about you directly to the advertiser. T-Mobile may, however, provide third-party advertisers with anonymous demographic or similar data (unrelated to your browsing activities) that does not personally identify you. This data may be used by them to help tailor their ads on the Site, and on other sites. 
 
-c. Scroll to the bottom of the page;
+Third-party advertisers or ad networks operating on the Site are required to participate in the opt-out process established by the Network Advertising Initiative (NAI). To learn more, or to opt-out of the automatic collection of information by these parties, please visit the NAI site (<http://www.networkadvertising.org/managing/opt_out.asp>). Please note that this opt-out is cookie-based. If you change computers, change Web browsers, or delete cookies, you will need to visit the NAI site and opt-out again. T-Mobile does not have control over or access to any information contained in the cookies that are set on your computer by ad servers, ad networks, or third-party advertisers. 
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+#### Links to Other Sites
 
-e. Click “SAVE.” 
+Bobsled contains links to, and may allow you to visit, other websites (" **Third Party Sites** "). If you choose to visit any of these Third Party Sites by "clicking on" another third party link or navigating to a Third Party Site, you will be directed to that third party's website. The fact that T-Mobile links to a website or presents a banner ad or other type of advertisement is not an endorsement, authorization or representation of T-Mobile’s affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. T-Mobile does not exercise control over Third Party Websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. Other sites follow different rules regarding the use or disclosure of the Personal Information you submit to them. T-Mobile encourages you to read the privacy policies or statements of the other websites you visit.
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+#### Other Governing Terms
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+This policy does not modify or alter any applicable agreement you have with T-Mobile. For example, the Bobsled Terms of Use and Acceptable Use Policy govern your use of Bobsled only. If you use other TMobile products or services, the T-Mobile Terms and Conditions, one or more applicable service agreements, and certain other terms may apply to your use, purchase, or subscription. If this policy conflicts with any portion of those terms and agreements, those terms and agreements govern to the extent of the inconsistency. 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+#### Protecting Your Own Personal Information
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+You play an important role in ensuring the security of Personal Information, including protecting against unauthorized access to your device or your online account. T-Mobile encourages you to use passwords to prevent unauthorized access to your device, your online account, and your voicemail. T-Mobile recommends that you use unique, non-obvious passwords, that you periodically change your passwords, and that you not share your passwords with others. Notify T-Mobile immediately if you believe your Personal Information has been accessed without your consent. 
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+#### International Transfer
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+Bobsled stores all your Personal Information in the United States. If you are located outside the United States and choose to provide information to T-Mobile, Bobsled transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+#### Voice Services
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+You may use the Voice Services to call social network contacts located anywhere, or to call phone numbers located in the United States, Puerto Rico, and Canada only. 
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+#### Messaging Services
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+You must have a mobile phone number to use the Messaging Services. You can send messages to your social network contacts located anywhere in the world, or to mobile phone numbers located in the United States, Puerto Rico, and Canada only. 
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+### POLICY UPDATES AND CONTACT INFORMATION. 
+
+#### Changes to This Policy
+
+T-Mobile may update this policy if T-Mobile materially changes its practices or if legal or regulatory changes require it. If T-Mobile decides to use or disclose Personal Information in a way that is materially different from that which was stated in this policy at the time the Personal Information was collected, T-Mobile will notify you by posting notice of the change on the Site’s home page for at least 30 days before T-Mobile implements that change. You agree that the express acceptance by you, or your continued use of the Bobsled Services after the 30-day notice period, constitutes your acceptance of the revised Privacy Policy. You should refer to this policy often for the latest information and the effective date of any changes. 
+
+#### How to Contact T-Mobile
+
+If you have any questions or comments about this policy or about Bobsled by T-Mobile's privacy practices, send an e-mail message to [bobsled_privacy@t-mobile.com](mailto:bobsled_privacy@t-mobile.com). You may also direct your privacy- related comments or questions to the address below: 
+
+Bobsled by T-Mobile   
+T-Mobile USA Inc.  
+Attn: Chief Privacy Officer   
+12920 SE 38th Street   
+Bellevue, Washington 98006 
