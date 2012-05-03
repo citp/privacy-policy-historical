@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007002354id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000234id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyQuote - Privacy
+
+Privacy Policy
 
 BrainyQuote respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
@@ -29,15 +31,15 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-BlueKai, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the BlueKai cookie by visiting the [BlueKai Preference Manager.](http://www.bluekai.com/consumers_optout.php)
+RadiumOne, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the RadiumOne cookie by visiting the [RadiumOne Preference Manager.](http://www.radiumone.com/about/opt.html)
 
-Exelate, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Exelate cookie by visiting the [Exelate Preference Manager.](http://exelate.com/new/consumer-privacy/exelate-opt-out/)
+AOL Advertising, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the AOL Advertising cookie by visiting the [AOL Advertising Preference Manager.](http://advertising.aol.com/privacy)
 
-Brilig, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Brilig cookie by visiting the [Brilig Preference Manager.](http://www.brilig.com/opt_out_now.html)
+Quantcast, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager.](http://www.quantcast.com/opt-out)
+
+comScore, Scorecard Research, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Scorecard Research cookie by visiting the [Scorecard Research Preference Manager.](http://www.scorecardresearch.com/preferences.aspx)
 
 Krux Digital, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Krux Digital cookie by visiting the [Krux Digital Preference Manager.](http://www.kruxdigital.com/krux_privacy/consumer_choice/)
-
-Triggit, as a third party vendor, uses cookies to identify our audience for marketing efforts by BrainyQuote. Users may opt out of the use of the Triggit cookie by visiting the [Triggit Preference Manager.](http://triggit.com/privacy-policy/)
 
 Security  
 Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, BrainyQuote cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
@@ -50,7 +52,7 @@ Information provided by you via general email inquiries to BrainyQuote such as y
 Your Acceptance of These Terms  
 By using BrainyQuote and its Sites, you signify your acceptance of the BrainyQuote Privacy Policy. If you do not agree to this policy, please do not use our Sites. BrainyQuote reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the BrainyQuote Sites following the posting of changes to these terms indicates your acceptance of these changes.
 
-Last updated September 9, 2011
+Last updated March 30, 2012
 
-Copyright 2001-2011 BrainyQuote.com All Rights Reserved.  
+Copyright 2001-2012 BrainyQuote.com All Rights Reserved.  
 Do not duplicate or redistribute in any form.
