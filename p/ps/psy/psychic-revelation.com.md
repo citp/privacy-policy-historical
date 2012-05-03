@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016121810id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychic-revelation.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230849id_/http%3A//www.psychic-revelation.com/home/privacy_policy.html) for the most accurate reproduction.*
 
 # Psychic Revelation Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
-1\. To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request. 
+1\. To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request. Please note that we cannot guarantee privacy if knowledge of a criminal situation is divulged to us.
 
 2\. To not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing. While we sell advertising in our e-mail publications to other companies, we never allow third parties any other use of these subscriber lists.
 
@@ -18,4 +18,4 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 6\. To continue this policy beyond the termination of our company. If a majority portion of the assets of our company were to be acquired by another organization, that might include our subscriber and other lists, but only as part of a clear agreement binding that organization to abide by the spirit and letter of our privacy policy. 
 
-These policies apply to all the various web sites owned by DPH Enterprises. If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact](https://web.archive.org/web/20111016121810id_/http%3A//www.psychic-revelation.com/home/contact.html) us and we will reply promptly.
+These policies apply to all the various web sites owned by DPH Enterprises. If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact](https://web.archive.org/web/20120503230849id_/http%3A//www.psychic-revelation.com/home/contact.html) us and we will reply promptly.
