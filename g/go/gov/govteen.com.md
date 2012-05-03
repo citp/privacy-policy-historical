@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025020236id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govteen.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204836id_/http%3A//forums.govteen.com/content.php%3Fr%3D18-Privacy-Policy) for the most accurate reproduction.*
 
 # GovTeen Forums - Privacy Policy
 
@@ -32,8 +32,8 @@
 **
 
     * **Site Updates** \- We send all new subscribers to the forum a welcome e-mail and sometimes other information. Subscribers who would like to receive information from us about site updates and information may do so. See the Choice section of this Policy to learn how to opt in or opt out of receiving these types of communications
-    * **Service Announcements** \- We send forums subscribers Service-related announcements from time to time. For example, we may send you an e-mail announcement about a change in operating policies. You may not opt-out of these Service-related communications, though you can deactivate your account if you wish. If you fail to check your Service account and primary e-mail address for Service-related announcements, you may miss important information about the Service for example
-    * **Member Service** \- We communicate with you to provide requested services and support for questions and issues relating to your forums account and this site. We will reply to your requests for member services by e-mail ** _[  
+    *  **Service Announcements** \- We send forums subscribers Service-related announcements from time to time. For example, we may send you an e-mail announcement about a change in operating policies. You may not opt-out of these Service-related communications, though you can deactivate your account if you wish. If you fail to check your Service account and primary e-mail address for Service-related announcements, you may miss important information about the Service for example
+    *  **Member Service** \- We communicate with you to provide requested services and support for questions and issues relating to your forums account and this site. We will reply to your requests for member services by e-mail ** _[  
 ](http://forums.govteen./)_**
 
 **Other Sites and Links  
@@ -100,54 +100,80 @@
 
   * ###  Recent Threads
 
-[ ](http://forums.govteen.com/members/broseph911/)
+[ ](http://forums.govteen.com/members/hustle/)
 
-[ ](http://forums.govteen.com/members/swimmer29/)
+####  [Lecturer](http://forums.govteen.com/battle-govteen/354787-lecturer.html)
 
-####  [Getting Hard in Jeans](http://forums.govteen.com/boys-puberty/344888-getting-hard-jeans.html)
+Thread Starter: [Hustle](http://forums.govteen.com/members/hustle/)
 
-Thread Starter: [swimmer29](http://forums.govteen.com/members/swimmer29/)
+Lecturers send the best emails sometimes. I received this today! 
 
-So it's getting toward colder temperatures, and we'll all be wearing jeans more most likely. I wear pretty fitted jeans tho, and my dick is long enough
+Last Post By: [Hustle](http://forums.govteen.com/members/hustle/) Today, 04:38 PM [](http://forums.govteen.com/battle-govteen/354787-lecturer.html#post6207636)
 
-Today, 09:54 PM by [raylawvw](http://forums.govteen.com/members/raylawvw/) [](http://forums.govteen.com/boys-puberty/344888-getting-hard-jeans-post6028883.html#post6028883)
+[ ](http://forums.govteen.com/members/james09/)
 
-[ ](http://forums.govteen.com/members/sashoke/)
+####  [Spit as lube](http://forums.govteen.com/boys-puberty/354786-spit-lube.html)
 
-####  [White stuff](http://forums.govteen.com/boys-puberty/344887-white-stuff.html)
+Thread Starter: [James09](http://forums.govteen.com/members/james09/)
 
-Thread Starter: [sashoke](http://forums.govteen.com/members/sashoke/)
+Am i only the one that uses my own saliva as lube? I really wonder what others think. Is it unhygenic or just gross? I clean myself after jerking off
 
-ok, so I was just JO and I went to pee after my "Climax" as I always do, but when I peed a white murky liquid came out in a small quantity followed
+Last Post By: [AB42](http://forums.govteen.com/members/ab42/) Today, 04:37 PM [](http://forums.govteen.com/boys-puberty/354786-spit-lube.html#post6207635)
 
-Today, 09:13 PM by [tevina](http://forums.govteen.com/members/tevina/) [](http://forums.govteen.com/boys-puberty/344887-white-stuff-post6028857.html#post6028857)
+[ ](http://forums.govteen.com/members/lexi/)
 
-[ ](http://forums.govteen.com/members/loganb_/)
+####  [Calming down](http://forums.govteen.com/countdown-forum/354785-calming-down.html)
 
-####  [Hi](http://forums.govteen.com/new-member-introductions/344886-hi.html)
+Thread Starter: [LEXI](http://forums.govteen.com/members/lexi/)
 
-Thread Starter: [LoganB_](http://forums.govteen.com/members/loganb_/)
+What are yalls favorite ways to calm your self down??(: mines smoking
 
-Hey everyone I'm Logan from Cali.
+Last Post By: [EspUmbreon](http://forums.govteen.com/members/espumbreon/) Today, 04:15 PM [](http://forums.govteen.com/countdown-forum/354785-calming-down.html#post6207615)
 
-Today, 09:16 PM by [Traci](http://forums.govteen.com/members/traci/) [](http://forums.govteen.com/new-member-introductions/344886-hi-post6028860.html#post6028860)
+[ ](http://forums.govteen.com/members/mattyyy/)
 
-[ ](http://forums.govteen.com/members/go-vibe/)
+####  [Help!](http://forums.govteen.com/teen-2-teen-advice/354784-help.html)
 
-[ ](http://forums.govteen.com/members/banana+pancakes/)
+Thread Starter: [Mattyyy](http://forums.govteen.com/members/mattyyy/)
+
+Hey im new here(: well anyways i am kinda involved with a girl who is 13, i am 16. I havent seen her for so long! When ever i ask her to do sumthing
+
+Last Post By: [Multi5Dog](http://forums.govteen.com/members/multi5dog/) Today, 04:34 PM [](http://forums.govteen.com/teen-2-teen-advice/354784-help.html#post6207633)
+
+[ ](http://forums.govteen.com/members/aniak22/)
+
+####  [Lump on balls](http://forums.govteen.com/boys-puberty/354783-lump-balls.html)
+
+Thread Starter: [Aniak22](http://forums.govteen.com/members/aniak22/)
+
+Im 15 and have a lump on my left testical. It's quite soft but is large and almost protrudes out like a bubble. It doesn't really hurt and I asked my
+
+Last Post By: [SillyBoxerzBoy](http://forums.govteen.com/members/sillyboxerzboy/) Today, 03:38 PM [](http://forums.govteen.com/boys-puberty/354783-lump-balls.html#post6207574)
+
+[ ](http://forums.govteen.com/members/lexi/)
+
+####  [I need ideas(:](http://forums.govteen.com/countdown-forum/354781-i-need-ideas.html)
+
+Thread Starter: [LEXI](http://forums.govteen.com/members/lexi/)
+
+hey guys can some of yall give me some ideas on what to blog about. like what do yall wanna hear? what do yall wanna know? do yall need any advice if
+
+Last Post By: [LEXI](http://forums.govteen.com/members/lexi/) Today, 02:48 PM [](http://forums.govteen.com/countdown-forum/354781-i-need-ideas.html#post6207549)
 
 
 
 
-All times are GMT -4. The time now is 10:01 PM.
+All times are GMT -4. The time now is 04:48 PM.
 
 | 
 
-Powered by [vBulletin®](http://www.vbulletin.com/) Version 4.1.6   
-Copyright © 2011 vBulletin Solutions, Inc. All rights reserved.   
+Powered by [vBulletin®](https://www.vbulletin.com/) Version 4.1.12   
+Copyright © 2012 vBulletin Solutions, Inc. All rights reserved.   
 Search Engine Friendly URLs by [vBSEO](http://www.crawlability.com/vbseo/) 3.6.0
 
-Copyright ©1998-2011 GovTeen Forums 
+Advanced Application Forms 1.1.8 © 2011 by [Snog](http://www.snogssite.com/)
+
+Copyright ©1998-2012 GovTeen Forums / The GovTeen Network 
 
 |  |   
 ---|---|---
