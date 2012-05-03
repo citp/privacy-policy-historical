@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227130848id_/http%3A//www.talkcity.com/InfoCentral/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkcity.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225620id_/http%3A//www.talkcity.com/InfoCentral/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Talk City: Info Central: Privacy Policy
 
