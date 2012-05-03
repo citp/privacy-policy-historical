@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jvnotifypro.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121955id_/http%3A//v3.jvnotifypro.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvnotifypro.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225138id_/http%3A//offers.jvnotifypro.com/orders/privacy) for the most accurate reproduction.*
 
-# JVNotifyPro 2.0
+# JVNotifyPro.com - Privacy Policy
 
 ## **PRIVACY POLICY**
 
