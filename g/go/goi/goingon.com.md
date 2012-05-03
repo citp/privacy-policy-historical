@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018222036id_/http%3A//goingon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225236id_/http%3A//goingon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | goingon.com
 
