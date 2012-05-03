@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123152713id_/http%3A//www.innohosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innohosting.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235215id_/http%3A//www.innohosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,9 +15,6 @@ It is important you are aware of the InnoHosting policies _before_ you purchase 
 [Contact us](http://support.innohosting.com/)
 
 What Our Customers Say:
-
-I just want to give a big "Thank you" to Rameen, Chris and Crew. I've had a reseller account with Inno for about a year and half now and I couldn't be happier with my choice to join them. The support has been superb. The reaction times and overall service have been excellent. I am almost always expect to have a resolution within the hour I turn in my ticket.  
-[read more](https://web.archive.org/web/20111123152713id_/http%3A//www.innohosting.com/testimonials.htm)
 
 All Hosting Plans Include:
 
