@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033930id_/http%3A//www.lazydays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015623id_/http%3A//lazydays.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,9 @@ Our site collects some information about you using technology, so it may not be 
 _What Are Cookies, Web Beacons and Pixel Tags and How Does Lazydays Use Them?_  
 Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. These pieces of information allow the Website to remember important information that will make your use of that site more useful. Much like cookies, web beacons and pixel tags are tiny graphics with a unique identifier that allows our Website to receive anonymous information about how you use our website. Lazydays and other companies use cookies, web beacons and pixel tags for a variety of purposes. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer, Mozilla Firefox, Safari and Google Chrome) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to features or certain Websites that make your web experience more efficient, and some of our services will not function properly.
 
-**How does Lazydays use the personally identifiable information that has been collected?**
+Click Here learn how to Opt-Out of 2o7.net and omtrdc.net Cookies
+
+ **How does Lazydays use the personally identifiable information that has been collected?**
 
 Lazydays uses personally identifiable information in a limited number of ways. We predominately use the information to mail you promotional literature that you request. Information we collect may be used to send you e-mail updates about our site, products and services. We also use the information you provide to send you Lazydays e-mail promotions and special offers from our third-party sponsors.
 
