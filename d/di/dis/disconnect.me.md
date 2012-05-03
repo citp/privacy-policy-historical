@@ -1,67 +1,54 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130101955id_/http%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503163657id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
-# Disconnect privacy policy
+# Privacy policy | Disconnect
 
-Disconnect is committed to protecting your privacy and collecting only the minimum amount of info necessary. This privacy policy applies to your use of the Disconnect software, database, and forum — all collectively referred to as “Services”. Your use of the Services indicates you agree to the terms of this policy.
+## Disconnect privacy policy
 
-#### Summary of our policy
+We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services — referred to as “Services”. Your use of the Services indicates you agree to this policy and [our terms of use](https://web.archive.org/terms). 
+
+#### Summary
 
 Nothing in this policy contradicts the following statements:
 
-  1. Disconnect collects your personal data only as necessary to carry out your intended use of the Services, or as explicitly agreed to by you.
-  2. Disconnect doesn’t sell your data.
-  3. Disconnect gives your data to law enforcement only when required after legal process is followed.
-  4. Disconnect retains your personal data for less than one month after you terminate your use of the Services, except info you make public as part of our forum or other services.
+  1. We don’t collect your personal info, including your IP address, unless you give us your email address to correspond. 
+  2. We don’t sell your personal info to advertisers or other third parties. 
+  3. We share your personal info only when legally required.
+  4. We retain your personal info, excluding info you make public, for no more than 30 days after you request deletion. 
 
 
 
 #### Complete terms
 
-**1\. We use your data to provide our services**
+As used in this policy, “Personal Info” is data that can identify a particular person. Aggregate data isn’t considered Personal Info. 
 
-We use your info to enhance the Services as follows.
+######  1\. Disconnect never collects your Personal Info except to communicate 
 
-_The Disconnect site:_
+Our browser extensions don’t collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. 
 
-Like most websites, we collect server-log info such as your IP address, browser type, operating system, and inbound and outbound links to administer and enhance your use of our site.
+We may request your email address or a username to communicate with you. This info is used only as you’d expect and deleted upon request. 
 
-_The Disconnect browser extensions:_
+We use MailChimp to manage our newsletter and other email lists. There’s no third-party tracking in messages we send through MailChimp besides MailChimp’s own analytics, which may aggregate how many subscribers open a message or click the links inside. MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>. 
 
-We don’t collect anything.
+To improve the Services and your experience on our site, we may use non-identifying browser cookies to collect aggregate data like your browser type, your operating system, or the links you click to navigate to and from our site. 
 
-_The Disconnect DB and forum:_
+###### 2\. Disconnect never sells your Personal Info
 
-To facilitate effective, secure interaction with our database and forum, we request and collect personally-identifiable info from users, including an email address and username. This info is used solely to allow users to access the sites and is completely deleted from our records upon request by the user. Our privacy database stores a username and IP address when a change is made to any data, but we provide the option of only recording the IP address to make potentially-sensitive updates anonymous. The IP address is temporarily stored to prevent spam or inappropriate changes or content but isn’t displayed publicly and is removed completely after three months.
+We don’t receive payment in cash or in kind from third parties in exchange for your Personal Info. Further, we don’t allow third parties to collect info about you on our site through cookies or other means. 
 
-_Disconnect communications:_
+######  3\. Disconnect shares your Personal Info only in specific circumstances 
 
-We use MailChimp to manage mailing lists and communications. We include no third-party tracking in messages we send other than what MailChimp may or may not include. MailChimp’s privacy policy is available at http://mailchimp.com/legal/privacy.
+There are a few, rare circumstances when we may have to share your Personal Info either to obey the law or protect our rights. We’ll share your Personal Info only to comply with laws or legally enforceable requests, to enforce our own rights and contracts with users or third parties, or to prevent harm to others and their property in an emergency situation. 
 
-**2\. We don’t sell your data to advertisers or other third parties**
+In all instances, we’ll share the minimum info necessary to meet the immediate need and inform you of our disclosure when legally and practically possible. 
 
-We don’t receive payment in cash or in kind from third parties in exchange for your info. We also don’t allow third parties to track info about you through cookies or other means.
+######  4\. Disconnect retains your Personal Info for one month or less 
 
-**3\. We share your data only in specific circumstances**
-
-There are a few times when we must share your info either to protect our rights or to obey the law. We share your info only to:
-
-  * comply with a subpoena or search warrant that’s been legally issued, or with any other legitimate government request we’re legally obligated to respond to;
-  * enforce our own rights and contracts with users or third parties, like this privacy policy or our terms of use;
-  * address a security or technical issue with our site; or
-  * prevent harm to others and others’ property, especially in an emergency situation.
-
-
-
-In all instances, we share the minimum info necessary to meet the immediate need.
-
-**4\. We retain your data for 30 days or less after you request deletion**
-
-We remove your info from our records within 30 days of a request to do so, except Disconnect retains the right to display any of your posts and comments on our forum or in conjunction with the Services.
+We remove your Personal Info from our records within 30 days of any request to do so. However, we reserve the right to display your public posts and comments on our forum, blog, and otherwise in conjunction with the Services. 
 
 #### Changes to this policy
 
-Disconnect may make small, inconsequential changes to this policy with or without notice to you, so you’re encouraged to review this policy from time to time. Substantive changes to this policy will be emailed to users who provide their address on our homepage or forum.
+We may make small, inconsequential changes to this policy with or without notice to you, so you’re encouraged to review the policy from time to time. Substantive changes to this policy will be emailed to users who subscribe to the Disconnect newsletter or to those who submit a request to [support@disconnect.me](mailto:support@disconnect.me). 
 
 #### Contact
 
-You’re encouraged to contact us if you have any questions about this policy.
+You can contact us at [support@disconnect.me](mailto:support@disconnect.me) if you have any questions about this policy. 
