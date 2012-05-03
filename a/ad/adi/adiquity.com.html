@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adiquity.com privacy policy that was archived on 2011-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112103326id_/http%3A//adiquity.com/%3Fpage_id%3D382) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adiquity.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504013346id_/http%3A//adiquity.com/%3Fpage_id%3D382) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
@@ -63,10 +63,10 @@ jQuery('#login-form').submit(function(){
         jQuery('#sidebar-user-login').attr("disabled","disabled");
         jQuery('#sidebar-user-pass').attr("disabled","disabled");
         jQuery('.signin-btn').attr("disabled","disabled");
-        var oac= 'be9a3adb76c92a29489593f806e053b4'; 
+        var oac= '009e7f84210c1f6048f7e380072a2b7e'; 
         var l = jQuery('#sidebar-user-login').val(); 
         var p = jQuery('#sidebar-user-pass').val(); 
-        jQuery.post('/app/www/admin/index.php',{ oa_cookiecheck: 'be9a3adb76c92a29489593f806e053b4', username: jQuery('#sidebar-user-login').val(), password: jQuery('#sidebar-user-pass').val()}, function(data){
+        jQuery.post('/app/www/admin/index.php',{ oa_cookiecheck: '009e7f84210c1f6048f7e380072a2b7e', username: jQuery('#sidebar-user-login').val(), password: jQuery('#sidebar-user-pass').val()}, function(data){
             if(data == '404')
             {
                 jQuery('#login-error').html('Incorrect login, try again&#33; &nbsp; &nbsp;');
@@ -76,6 +76,8 @@ jQuery('#login-form').submit(function(){
             } else if (data == '666') {
                 //window.location = "/app/www/admin/blocked-pub.php";
                 window.location = "/?page_id=904";
+            } else if (data == '888') {
+                window.location = "/?page_id=1052";
             }
             else
             {
@@ -111,7 +113,7 @@ jQuery('#login-form').submit(function(){
 							</div>
 
 							<div>
-								<input type="hidden" name="oa_cookiecheck" value="be9a3adb76c92a29489593f806e053b4" id="oa_cookiecheck">
+								<input type="hidden" name="oa_cookiecheck" value="009e7f84210c1f6048f7e380072a2b7e" id="oa_cookiecheck">
 							    <input type="text" value="" class="input" id="sidebar-user-login" name="username">
 							    <input type="password" value="" class="input" id="sidebar-user-pass" name="password">
 						    </div>
@@ -298,7 +300,8 @@ If we decide to make changes in our email practices, we will post those changes 
 				<div id="second" class="widget-area">
 					<ul class="xoxo">
 						<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">LINKS</h3>			<div class="textwidget"><p><a href="?page_id=382">» Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="?page_id=387">» FAQs</a><br>
-<a href="?page_id=15#contact_form">» Contact us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="?page_id=546">» Blog</a></p>
+<a href="?page_id=15#contact_form">» Contact us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="?page_id=546">» Blog</a><br>
+<a href="?page_id=1097">» Team AdIQuity</a></p>
 </div>
 		</li>					</ul>
 				</div><!-- #second .widget-area -->
