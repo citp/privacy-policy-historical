@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songsfever.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225211511id_/http%3A//www.songsfever.net/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsfever.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011022id_/http%3A//www.songsfever.net/pp.html) for the most accurate reproduction.*
 
 # Our privacy policy
 
