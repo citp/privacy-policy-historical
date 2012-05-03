@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222022043id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4jobs.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015933id_/http%3A//www.jobs4jobs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs4jobs.com
 
@@ -57,5 +57,9 @@ Jobs4jobs.com has an area on the site where you can submit feedback. Any feedbac
 • Privacy Commitment Changes
 
 If we decide to change our privacy commitment for Jobs4jobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Users will be notified of any changes to Jobs4jobs's privacy policy statement via our electronic mailings and a notice posting on our home page. If any changes apply to the use of personally identifiable information, we will notify the user by email.
+
+• Avoid scams and fraud
+
+Don’t pay a fee upfront! Most legitimate employment agencies don’t charge unless they actually succeed in getting you a job, and often it’s the new employer who pays. Beware any deal involving Western Union, Moneygram, wire transfer, cashier check, money order, shipping, escrow, or any promise of transaction protection / certification / guarantee
 
 Last updated, 29/08/2010
