@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2011-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110730111627id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrorenovation.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014008id_/http%3A//retrorenovation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Retro Renovation
 
@@ -8,11 +8,11 @@ Your privacy is important, and we want you to understand what information is col
 
 Information you provide:
 
-You do not need to register to use or access the websites.  However, the sites may make forums, message boards, or similar features available to its users. You may be required to register for these features, particularly if you wish to leave comments or post information. Should you choose to e-mail us, we will have your e-mail address and whatever other personally identifiable information you send us.
+You do not need to register to use or access the websites.  However, the sites may make comment sections, forums, message boards, or similar features available to its users. You may be required to register for these features, particularly if you wish to leave comments or post information. When you prepare a comment, you may have the opportunity to add the name of your website or blog within the submission form; if you do, your name as it appears in the published comment will be hotlinked to your blog or website. Should you choose to e-mail us, we will have your e-mail address and whatever other personally identifiable information you send us.
 
 If you do register and provide us with personally identifiable information in the process, we will use it as is described below.  Except as provided in this privacy policy, we will not share your information with any third-party organization without your express consent.
 
-Please note that if you post comments, pictures, or other information to any forum or message board, any personally identifiable information you provide may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these features.
+Please note that if you post comments, pictures, or other information to the main blog or any forum or message board, any personally identifiable information you provide may be read, collated and used by anyone viewing them.  As such, we are not responsible for personally identifiable information you may choose to make available through these features.
 
 Visitors to our websites have the opportunity to sign up to receive communications from us, including our e-mail newsletters.  We rely on a third party e-mail marketing company ([http://constantcontact.com](http://constantcontact.com/)) to deliver this service.  If you would like to sign up, you will need to provide your email address. These communications may include our regular newsletter, product promotions, and any other information that we feel you might find interesting. You may opt out of receiving any, or all, of these communications by emailing us at retrorenovation (at) gmail (dot) com, by clicking on the ‘unsubscribe’ link in any email we send to you, or by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line.
 
@@ -26,7 +26,14 @@ Our site uses “cookies” to provide easier and faster access to website featu
 
 We may use both session cookies and persistent cookies. A session cookie makes it easier for you to explore our sites, but expires when your browser is closed.  A persistent cookie may stay on your hard drive for an extended period of time, and can perform such activities as storing your log-in information for forums or message boards so you do not have to sign in every time you visit those areas.  Persistent cookies may be used to enable us to track and target the interests of our users so as to enhance the visitor’s overall experience.
 
-We use a third party to serve ads on our websites.  We must alert you that it may use cookies, web beacons, or both to collect data in the ad serving process.  Click here for details from the Google Privacy Center: <http://www.google.com/privacy.html>. We have no access to or control over any cookies or other devises that are used by any third party advertisers or ad servers on our site.
+We use a third party to serve ads on our websites.  We must alert you that it may use cookies, web beacons, or both to collect data in the ad serving process:
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Users may, alternatively, opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+  * Cookies of other [third-party vendors or ad networks](https://www.google.com/adsense/support/bin/answer.py?answer=94149) may also be used to serve ads on this site: A list of these potential vendors, with links to their sites, [is located here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). Users may visit those websites to opt out of cookies (if the vendor or ad network offers this capability). Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+
 
 Links to Other Websites
 
@@ -50,4 +57,4 @@ If you have any questions or concerns, our contact information is as follows:
 
 retrorenovation (at) gmail (dot) com
 
-This privacy policy was last updated on May 5, 2009.
+This privacy policy was last updated on August 14, 2011.
