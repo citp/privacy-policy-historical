@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2010-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100312041805id_/http%3A//tweetree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetree.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222830id_/http%3A//tweetree.com/privacy_policy) for the most accurate reproduction.*
 
 # Tweetree - Privacy Policy
 
 ## Tweetree Privacy Policy
 
-This is the web site of Tweetree, a website created by [Draconis Software, LLC.](http://dracoware.com/)
+This is the web site of Tweetree, a website created by [Draconis Software, LLC.](http://www.draconis.com/)
 
 Our postal address is  
 444 Washington St, Suite 202  
 Woburn, MA 01801  
-We can be reached via e-mail at [info@dracoware.com](mailto:info@dracoware.com) or you can reach us by telephone at (617) 812-1701
+We can be reached via e-mail at [info@draconis.com](mailto:info@draconis.com) or you can reach us by telephone at (617) 812-1701
 
 For each visitor to our Web page, we collect the IP address of visitors to our Web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as Twitter message content).
 
