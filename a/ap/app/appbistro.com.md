@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074002id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbistro.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005139id_/http%3A//appbistro.com/privacy) for the most accurate reproduction.*
 
-# Appbistro App Directory | Facebook Business Apps & Tools
+# Appbistro Facebook App Directory | Facebook Timeline Apps & Business Tools
 
 MMTG Labs, Inc. (“MMTG Labs”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.AppBistro.com](http://www.appbistro.com/) website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by MMTG Labs in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
