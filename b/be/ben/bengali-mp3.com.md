@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822150116id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503175520id_/http%3A//bengali-mp3.net/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
+
+  
+
 
 * * *
 
