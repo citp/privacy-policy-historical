@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126100457id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503091537id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.*
 
-# Leerburg | Information about our Organization and Web site
+# Leerburg | Information about our Organization and Website
 
-**Information about our  
-Organization and Website**
+[_Leerburg_](http://leerburg.com/)
+
+» **Information about our Organization and Website**
+
+Information about our Organization and Website
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Leerburg Enterprises, Inc. We are based in the USA.
 
@@ -20,19 +23,19 @@ Phone | 715.235.6502
   
 Newsletter Policy 
 
-**Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:**
+Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:
 
-> **1 - Customers who purchase products from Leerburg Enterprises, Inc.**
+> 1 - Customers who purchase products from Leerburg Enterprises, Inc. 
 > 
-> **2 - People who write and ask that one of our catalogs be sent through the United States Postal Service**
+> 2 - People who write and ask that one of our catalogs be sent through the United States Postal Service
 > 
-> **3 - People how specifically ask to be placed out our newsletter mailing list.**
+> 3 - People how specifically ask to be placed out our newsletter mailing list.
 > 
-> **4 - People who send Leerburg Enterprises, Inc. emails with questions on dog training.**
+> 4 - People who send Leerburg Enterprises, Inc. emails with questions on dog training.
 > 
-> **5 - Anyone who registers for the Leerburg Dog Training web forum.**
+> 5 - Anyone who registers for the Leerburg Dog Training web forum.
 
-**Every newsletter has an opt-out option at the top and the bottom of the newsletter. If a person does not wish to receive our newsletter, they simply click the opt-out link and they will automatically be added to the list of people who no longer receive our newsletter.**
+Every newsletter has an opt-out option at the top and the bottom of the newsletter. If a person does not wish to receive our newsletter, they simply click the opt-out link and they will automatically be added to the list of people who no longer receive our newsletter. 
 
 We do not sell our email lists nor do we sell our mailing lists. 
 
@@ -349,5 +352,3 @@ These include data that is:
 
 \- Collected from public records or bodies  
 \- Collected from private organizations
-
-****
