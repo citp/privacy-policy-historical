@@ -1,45 +1,53 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107201401id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204406id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Interior Complex
 
-## [Privacy](http://interiorcomplex.com/privacy-policy/ "Permanent Link to Privacy")
+Interior Complex recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. The privacy policy described below applies to the site and services offered by Interior Complex. 
 
-At interiorcomplex.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.interiorcomplex.com and how it is used.
+BY USING THIS SITE, YOU AGREE TO THE TERMS OF THIS POLICY.
 
-Log Files  
-Like many other Web sites, www.interiorcomplex.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This policy was last modified in December 2011.
 
-Cookies and Web Beacons  
-www.interiorcomplex.com does not use cookies.
+Interior Complex provides you with original blog posts about a variety of design topics.
 
-DoubleClick DART Cookie  
-.:: [Google](http://google.com/ "Google"), as a third party vendor, uses cookies to serve ads on www.interiorcomplex.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.interiorcomplex.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+What information is collected by Interior Complex:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+You may use Interior Complex’s services anonymously and we will not collect any personal information about you.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.interiorcomplex.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+What information is collected by Interior Complex via technology:
 
-www.interiorcomplex.com has no access to or control over these cookies that are used by third-party advertisers.
+Interior Complex notes and saves information such as time of day, browser type, browser language, IP address, and IP location with each query.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.interiorcomplex.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Interior Complex uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-  
+In particular, Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DoubleClick DART cookie enables it to serve ads to our users based on your visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+Privacy of Minors:
 
- 
+The Interior Complex services are not intended to be used by minors under the age of 13 and Interior Complex does not intentionally collect or maintain information from those visitors and users of the services who are under the age of 13.
 
-[](http://interiorcomplex.com/how-to/)    [](http://www.facebook.com/Interiorcomplex)   [](http://twitter.com/Interiorcomplex)   [](http://www.youtube.com/user/InteriorComplex)   [](http://interiorcomplex.com/?feed=rss)
+When your information may be disclosed:
 
-  
+Interior Complex may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the requirements of the law or comply with legal process served on Interior Complex or the site; (b) protect and defend the rights or property of Interior Complex; or (c) act in urgent circumstances to protect personal safety of users of Interior Complex, its websites, or the public.
 
+Updates to this privacy policy:
 
-[](http://04f1csc-0cno8pftg2niik2s34.hop.clickbank.net/?tid=INTERIORCOMPLEX)
+We may occasionally update this Privacy Policy. When we do, we will also revise the ‘last updated’ date at the top of the Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
 
-  
-  
+Sale of assets:
 
+In the unlikely event that Interior Complex or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+
+Terms of use:
+
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Third party links:
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Questions and feedback:
+
+Interior Complex welcomes your comments regarding this Privacy Policy. If you believe that Interior Complex has not adhered to this Policy, please contact us by using our online feedback form and we will use commercially reasonable efforts to promptly determine and remedy the problem.
