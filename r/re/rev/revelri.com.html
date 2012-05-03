@@ -1,0 +1,263 @@
+<!--The following is the downloaded HTML source of the revelri.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504014710id_/http%3A//www.revelri.com/others/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Revelri - High On Happiness</title>
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="/css/fontstylesheet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery.js"></script><script type="text/javascript" src="/js/encode_decode.js"></script><script type="text/javascript" src="/js/utility.js"></script><script type="text/javascript" src="/js/revelri_com.js"></script><script type="text/javascript" src="/js/follower.js"></script><link type="text/css" href="/js/jquery-ui-1.8.8.custom/css/ui-lightness/jquery-ui-1.8.8.custom.css" rel="stylesheet">
+<script type="text/javascript" src="/js/jquery-ui-1.8.8.custom/js/jquery-ui-1.8.8.custom.min.js"></script>
+<script>
+	var host = 'revelri.com';
+	var path = '/';
+	var action_pop = '';
+		$(function() {
+		$.fx.speeds._default = 1500;
+		// jQuery('#msgBoxAlert').fadeIn('slow' ,function(){ jQuery('#msgBoxAlert').html( jQuery('#popup').html() ) });  
+		$(".topheaderinner").click(function(){
+			 jQuery('#searchajaxresult').hide();
+		});
+		$(".wishcontainer").click(function(){
+			 jQuery('#searchajaxresult').hide();
+		});
+});
+		// setTimeout("fadeOutBubble('action_pop')",7000);
+
+	function showAlert(mssg)
+	{
+		$('#msgBoxAlert').html(mssg).dialog(
+		{
+			show: 'fade',
+			hide: 'fade',
+			title: 'Revelri',
+			minHeight: 110,
+			buttons: [
+						{
+							text: "Ok",
+							position: 'center',
+							click: function() { $(this).dialog("close"); }
+						}
+					] 
+		});
+	}
+	function hide_ajax_search()
+	{
+		// alert(jQuery(this).attr('id'));
+		 alert(this.id);
+		jQuery('#searchajaxresult').hide();
+		
+	}
+	function searchform()
+	{
+		if( trim(jQuery('#keyword').val()) == "" || trim(jQuery('#keyword').val()) == "Search" )
+		{
+			jQuery('#keyword').focus()
+			return false;
+		}
+			return true;
+	}
+	function show_searchajaxresultdiv()
+	{
+		if(trim(jQuery('#keyword').val()) == "Search")
+		{
+			jQuery('#keyword').val('');
+		}
+	}
+</script>
+</head>
+
+<body>
+<div id="lb" style="display: none; opacity: 1;overflow-y:auto;" class="lightboxbd">
+</div>
+<div id="lbcmt" style="display: none; opacity: 1;overflow-y:auto;" class="lightboxbd">
+</div>
+<div id="msgBoxAlert"></div>
+<div id="msgBoxConfirm"></div>
+<!-- IMPORTANT!! Change these two div ids to some other ids, as these are clashing with other pages.
+<div id="msgBoxAlert"></div>
+<div id="msgBoxConfirm"></div>
+-->
+
+	<!--HEADER TABLE STARTS HERE -->
+    				<div class="topheaderinner">
+				<div class="wrapper">
+					<div class="topheaderarea">
+					<div class="logo"><a href="/"><img src="/images/logo2.jpg" alt="Revelri" border="0" title="Revelri"></a></div>
+					<div class="headerrite_ar">
+						
+					  <!--  lightbox for Register     -->
+	<div id="reg_box" style="display:none;">
+	<div class="loginlight_ar">
+	<div class="lightclose" style="right: -27px; top: -9px;"><img src="/images/logincross.png" alt="" onclick="jQuery('#lb').fadeOut();"></div>
+	<form method="post" id="aweber" onsubmit="return valid_aweberform()" class="af-form-wrapper" action="http://www.aweber.com/scripts/addlead.pl">
+	<input type="hidden" name="meta_web_form_id" value="606369529">
+	<input type="hidden" name="meta_split_id" value="">
+	<input type="hidden" name="listname" value="revelri">
+	<input type="hidden" name="redirect" value="http://www.revelri.com/homes/thanks" id="redirect_8225e2e4ac1f8628c39fdf5f9673cec7">
+	<input type="hidden" name="meta_adtracking" value="My_Web_Form">
+	<input type="hidden" name="meta_message" value="1">
+	<input type="hidden" name="meta_required" value="email">
+	<input type="hidden" name="meta_tooltip" value="">
+		<div class="loginlight_topb"><img src="/images/login-top.png" alt=""></div>
+		<div class="logincon_box">
+			<div class="login_content">
+				<div class="textf_ar">
+					<label class="name_ar">Email</label>
+					<div class="field_ar">
+					<input class="lgnfield" onkeypress="return Activate.restrictspace(event);" id="awf_field-21130717" type="text" name="email" tabindex="501">
+										</div> 
+				</div>
+				<div class="textf_ar">
+					
+					<div class="checkboxreg">
+						<input type="checkbox" id="acceptTC">
+					</div>
+					<div class="regterms">
+					I agree to the "Terms of Use" and "Privacy Policy". Your privacy is important to us. We will never sell or your personal details.
+					</div>
+				</div>
+				
+				<div class="btmbuton_ar">
+					<a href="#" onclick="show_fb_login()" class="fbbtnar"><img src="/images/fbtn.png" alt=""></a>
+					<input name="input" type="submit" class="loginbtn" value="Register">
+				</div>
+				<div class="spacer"></div>
+			</div>
+		</div>
+		  <div class="loginlight_btmb"><img src="/images/login-btm.png" alt=""></div>   
+		</form>
+		<script type="text/javascript">
+			//document.forms["aweber"].submit();
+		</script>
+		</div>
+		</div>
+		
+					</div>
+					</div>
+					</div>
+					</div>
+		<div class="clear20"></div>	<!--HEADER TABLE ENDS HERE -->
+		<!--BODY TABLE STARTS HERE -->
+		<!--START - WishTreeContent-->
+<div class="wishcontainer">
+	<div class="wrapper">
+		<div class="journal_container">
+			
+		</div>
+					<div>
+	<span style="color:#cc3399;"><strong><span style="font-size: 24px;">Privacy Policy</span></strong></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	<strong>What information do we collect?</strong><br>
+	We collect information from you when you register on our site.<br>
+	<br>
+	When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or As well as other personal details . You may, however, visit our site anonymously.<br>
+	<br>
+	<br>
+	<strong>What do we use your information for?</strong><br>
+	Any of the information we collect from you may be used in one of the following ways:<br>
+	<br>
+	- To personalize your experience (your information helps us to better respond to your individual needs)<br>
+	- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
+	- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)<br>
+	- To send periodic emails<br>
+	<br>
+	The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.<br>
+	<br>
+	<strong>Note:</strong> If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br>
+	<br>
+	<br>
+	<strong>How do we protect your information?</strong><br>
+	We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.<br>
+	<br>
+	We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.<br>
+	<br>
+	After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br>
+	<br>
+	<br>
+	<strong>Do we use cookies?</strong><br>
+	Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information<br>
+	<br>
+	We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.<br>
+	<br>
+	<br>
+	<strong>Do we disclose any information to outside parties?</strong><br>
+	We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
+	<br>
+	<br>
+	<strong>Third party links</strong><br>
+	Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br>
+	<br>
+	<br>
+	<strong>California Online Privacy Protection Act Compliance</strong><br>
+	Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br>
+	<br>
+	As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Profile' section.<br>
+	<br>
+	<br>
+	<strong>Childrens Online Privacy Protection Act Compliance</strong><br>
+	We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.<br>
+	<br>
+	<br>
+	<strong>Online Privacy Policy Only</strong><br>
+	This online privacy policy applies only to information collected through our website and not to information collected offline.<br>
+	<br>
+	<br>
+	<strong>Terms and Conditions</strong><br>
+	Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.revelri.com/others/terms<br>
+	<br>
+	<br>
+	<strong>Your Consent</strong><br>
+	By using our site, you consent to our web site privacy policy.<br>
+	<br>
+	<br>
+	<strong>Changes to our Privacy Policy</strong><br>
+	If we decide to change our privacy policy, we will post those changes on this page.<br>
+	<br>
+	<br>
+	<strong>Contacting Us</strong><br>
+	If there are any questions regarding this privacy policy you may contact us using the information below.<br>
+	<br>
+	http://www.Revelri.com<br>
+	71, Cotton Street, 3rd Floor<br>
+	Calcutta, India 700007<br>
+	India<br>
+	<br>
+	Or get in touch with us through our support desk <a href="http://help.revelri.com"><strong>http://help.revelri.com</strong></a><br>
+	<br>
+	&nbsp;</div>
+		
+		<br class="spacer">
+	</div>
+</div>
+<!--END - WishTreeContent-->		<!--BODY TABLE ENDS HERE -->
+	<!--FOOTER TABLE STARTS HERE -->
+    <!--START - Footer-->
+<div class="footerarea">
+	<div class="footer">
+		<div class="footerleft">
+			<a href="/" class="navf">Home</a>|&nbsp;&nbsp;
+			<a href="/others/aboutus" class="navf">About</a>|&nbsp;&nbsp;
+			<a href="/others/terms" class="navf">Terms &amp; Conditions</a>|&nbsp;&nbsp;
+			<a href="/others/privacy" class="navf">Privacy</a>|&nbsp;&nbsp;
+						<a href="/others/contactus" class="navf">Contact</a>|&nbsp;&nbsp;
+			<a href="http://help.revelri.com" class="navf">Help/FAQ</a>|&nbsp;&nbsp;
+						<div class="spacer"></div>
+			<div class="copyrighttext">Revelri (C) 2011 All Rights Reserved.</div>
+		</div>
+		<div class="socialiconarea">
+			<div class="scicon1"><a href="http://twitter.com/revelri"><img src="/images/twitterimg.png" alt="twitter" border="0"></a></div>
+			<div class="scicon2"><a href="http://www.facebook.com/revelrionline"><img src="/images/facebookicon.png" alt="facebook" border="0"></a></div>
+		</div>
+		<br class="spacer">
+	</div>
+</div>
+<!--END - Footer-->    <!--FOOTER TABLE ENDS HERE -->
+	
+
+<div style="min-height: 100px; height: auto; padding: 0px; border-width: 0px;"></div></body></html>
