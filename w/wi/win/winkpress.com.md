@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206085907id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203346id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
 
-# WinkPress Privacy Policy | WP ;)
+# WinkPress Privacy Policy | WinkPress ;)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
