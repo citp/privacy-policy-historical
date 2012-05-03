@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the koolskool.in privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225054435id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koolskool.in privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222426id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy : KOOLSKOOL</title>
@@ -9,7 +9,12 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href=" http://img.koolskool.info/skin/frontend/base/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://img.koolskool.info/skin/frontend/base/default/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://cdn.webrupee.com/font">
+
+<style>
+#message_warning{color:#000; font-size:12px;  padding: 10px;  width: auto; }	
+#message_warning h6{color:#E47911; font-size:16px;}
+</style>
+
 <script type="text/javascript">
 //<![CDATA[
 	var urlSkinsite='http://img.koolskool.info/skin/frontend/galacampstore/koolskoolMain/';
@@ -24,16 +29,68 @@
 </script>
 <![endif]-->
 
+
 <!--link rel="stylesheet" type="text/css" href="" media="all" /-->
 <!-- script type="text/javascript" src="" ></script-->
+<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/css30032012.css?1334831332" media="all">
+<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/webrupee/webrupee.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/base/default/slideshowwidget/css/wt-rotator.css" media="all">
 
-<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/css0712.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/opc-2.css" media="all">
-<script type="text/javascript">var baseUrlPath = 'http://koolskool.in/';</script>
-<script type="text/javascript" src="http://koolskool.in/js/js0212.js"></script>
-<script type="text/javascript" src="http://koolskool.in/js/varien/product.js"></script>
-<script type="text/javascript" src="http://koolskool.in/skin/frontend/base/default/js/bundle.js"></script>
 
+<script type="text/javascript">var baseUrlPath = 'http://koolskool.in/'; var storeUrlPath = 'http://koolskool.in/';</script>
+<script type="text/javascript" src="http://koolskool.in/js/js29032012.js?1334735175"></script>
+<script type="text/javascript" src="http://koolskool.in/js/jquery.wt-rotator2203.js"></script>
+
+<!-- Begin Load images after page load  -->
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		/*if (jQuery.browser.msie){addWebrupee();}*/
+		if (document.cookie == ""){
+		//	if a cookie is not found - alert user -  change cookieexists field value to false 
+		//	alert("COOKIES need to be enabled!");
+			var cookieText = '<a onclick="closeloginDiv();" id="fancybox-close" style="display: inline;"></a> <div style="display: block;" class="message warning" id="message_warning"><span></span><h6>Please Enable Cookies to Continue</h6><p>To continue shopping at koolskool.in, please enable cookies in your Web browser.</p><p><a target="_blank" href="http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416">Learn more</a> about cookies and how to enable them. </p></div>';
+		} else {
+		//	alert('cookies need to be disabled'); 
+			var cookieText = '';
+  		}
+
+		if(cookieText != ''){
+			centerPopup('loginSucDiv');
+			jQuery("#loginSucDiv").html(cookieText);
+			jQuery('#loginSucDiv').css('display', 'block');
+		}
+
+		// popup top fixed for IE 6 browser
+		if (jQuery.browser.msie && (jQuery.browser.version == '6.0') ) {
+			jQuery("#loginSucDiv").css('position', '');
+			jQuery("#loginSucDiv").css('position', 'absolute');
+				
+			jQuery(window).scroll(function () {
+				jQuery('#loginSucDiv').css('top', (jQuery(this).scrollTop() + 200) + "px");
+			});				
+		}
+	
+		//jQuery("img.lazy").lazyload();
+		//jQuery("img.lazy").lazyload({ container: jQuery("#slideshow1")});
+		//jQuery("img.lazy").lazyload({ event : "mouseover"}); // mouseover, click
+		//jQuery("img.lazy").lazyload({ effect : "fadeIn"});   // fade effects	
+
+		// Delayed Loading of Images
+		jQuery(function() {jQuery("img.lazy").lazyload({event : "sporty"});});
+		jQuery(window).bind("load", function() { var timeout = setTimeout(function() { jQuery("img.lazy").trigger("sporty") }, 1000);});    		
+	});
+</script>
+
+
+<!-- End Load images after page load  -->
+
+<!-- ADDED FOR CLICKINC.COM -->
+<script type="text/javascript">
+	var merchant = "70541";
+	var cookieVal = 30;
+</script>
+<script type="text/javascript" src="http://koolskool.in/js/varien/clickscript.js"></script>
+<!-- END FOR CLICKINC.COM -->
 
 
 <script type="text/javascript">
@@ -61,22 +118,24 @@ optionalZipCountries = [];
 
 <!-- Begin mahesh added on 03/11/2011 -->
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/styles-ie.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="http://koolskool.in/skin/frontend/galacampstore/default/css/styles-ie.css" media="all" />
 <![endif]>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://koolskool.in/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://koolskool.in/skin/frontend/base/default/js/ie6.js"></script>
+	<script type="text/javascript" src="http://koolskool.in/js/lib/ds-sleight.js"></script>
+	<script type="text/javascript" src="http://koolskool.in/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
 //<![CDATA[
-//Mage.Cookies.path     = '/mahesh/store1';
-//Mage.Cookies.domain   = '.192.168.201.100';
+	Mage.Cookies.path     = 'http://koolskool.in/';
+	Mage.Cookies.domain   = 'http://koolskool.in/';
 //]]>
 </script>
 <!-- END mahesh added on 03/11/2011 -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body class=" cms-page-view cms-privacy-policy" <!--="" begin="" google="" analytics="" code="" --="">
+<body class=" cms-page-view cms-privacy-policy">
+
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
     (function() {
@@ -100,8 +159,8 @@ optionalZipCountries = [];
             </div>
         </div>
     </noscript>
-    <div class="page">
-        <div class="main-container col2-left-layout" style="margin-top:150px;min-height:500px;width:100%;">
+    <div class="page" style="margin-top:155px;width:100%;">
+		        <div class="main-container col1-layout" style="min-height:500px;width:100%;">
             <div class="main">
                 <div class="breadcrumbs">
     <ul>
@@ -114,12 +173,13 @@ optionalZipCountries = [];
                                     </li>
             </ul>
 </div>
-				                <div class="col-main">
+                <div class="col-main">
 					<div class="col-inner">
-                    	                    	    <div class="page-title">
+												    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><p style="text-align: justify;">This privacy policy sets out how KOOLSKOOL uses and protects any  information that you give KOOLSKOOL when you use this website. KOOLSKOOL  is committed to ensuring that your privacy is protected. Should we ask  you to provide certain information by which you can be identified when  using this website, you can be assured that it will only be used in  accordance with this privacy statement.</p>
+<div class="std"><div style="margin:10px;">
+<p style="text-align: justify;">This privacy policy sets out how KOOLSKOOL uses and protects any  information that you give KOOLSKOOL when you use this website. KOOLSKOOL  is committed to ensuring that your privacy is protected. Should we ask  you to provide certain information by which you can be identified when  using this website, you can be assured that it will only be used in  accordance with this privacy statement.</p>
 <p style="text-align: justify;">We are committed to ensuring that your information is secure. In  order to prevent unauthorized access or disclosure we have put in place  suitable physical, electronic and managerial procedures to safeguard and  secure the information we collect online. How we use cookies</p>
 <p style="text-align: justify;">KOOLSKOOL may change this policy from time to time by updating this  page. You should check this page from time to time to ensure that you  are happy with any changes. This policy is effective from 15 October,  2010.</p>
 <h3 style="text-align: justify;">Information collected</h3>
@@ -168,41 +228,9 @@ optionalZipCountries = [];
 <p style="text-align: justify;">Furthermore, both the providers ask you to enter the CVV (Credit  Verification Value) number on your credit card. This is a 3 digit number  which follows your credit card number and is given at the back of the  card to ensure that the person entering the card number has the physical  plastic card with him/her. In addition to this both Mastercard and Visa  have their own verification process which is integrated with our  payment mechanism.</p>
 <p style="text-align: justify;">You can be assured that KOOLSKOOL offers you the highest standards of  security currently available on the internet so as to ensure that your  shopping experience is private, safe and secure.</p>
 <h4 style="text-align: justify;">Storage of Credit Card Information</h4>
-<p style="text-align: justify;">KOOLSKOOL does not collect or store your credit card/bank account  information at all. Axis Bank/CCAvenue authorizes the transaction  directly without any information passing through us.</p></div>					</div>
+<p style="text-align: justify;">KOOLSKOOL does not collect or store your credit card/bank account  information at all. Axis Bank/CCAvenue authorizes the transaction  directly without any information passing through us.</p>
+</div></div>					</div>
                 </div>
-                <div class="col-left sidebar"><div class="block block-tags">
-    <div class="block-title">
-        <strong><span>Popular Tags</span></strong>
-    </div>
-    <div class="block-content">
-        <ul>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/97/" style="font-size:75%;">Chinnu</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/49/" style="font-size:75%;">LINCOLN</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/77/" style="font-size:75%;">NCERT</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/28/" style="font-size:145%;">asterix</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/46/" style="font-size:75%;">ball-point</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/32/" style="font-size:145%;">cacofonix</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/36/" style="font-size:145%;">caesar</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/33/" style="font-size:145%;">cleopatra</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/31/" style="font-size:145%;">dogmatix</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/43/" style="font-size:75%;">energel</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/35/" style="font-size:145%;">gaul</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/30/" style="font-size:145%;">getafix</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/39/" style="font-size:145%;">gladiator</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/37/" style="font-size:145%;">goth</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/91/" style="font-size:75%;">harsha-bhogle</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/105/" style="font-size:75%;">iit</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/106/" style="font-size:75%;">jee</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/29/" style="font-size:145%;">obelix</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/42/" style="font-size:75%;">pentel</a></li>
-                            <li><a href="http://koolskool.in/tag/product/list/tagId/44/" style="font-size:75%;">roller</a></li>
-                    </ul>
-        <div class="actions">
-            <a href="http://koolskool.in/tag/list/">View All Tags</a>
-        </div>
-    </div>
-</div>
-</div>
             </div>
         </div>
         <style>.topPopup{cursor:pointer;}</style>
@@ -243,8 +271,8 @@ optionalZipCountries = [];
                               <div class="col_1 ">
 				<a href="http://koolskool.in/books/activity-sticker-board-book.html" class="level-top "><span>Activity Books</span></a>
 				<ul class="level0">
-					<li class="level1 nav-7-10-2-1"><a href="http://koolskool.in/activity-sticker-board-book/touch-wipe-clean.html">Touch,Wipe Clean</a></li>
-					<li class="level1 nav-7-10-2-2 last"><a href="http://koolskool.in/activity-sticker-board-book/sticker-books.html">Sticker Books</a></li>
+					<li class="level1 nav-7-10-2-1"><a href="http://koolskool.in/books/activity-sticker-board-book/touch-wipe-clean.html">Touch,Wipe Clean</a></li>
+					<li class="level1 nav-7-10-2-2 last"><a href="http://koolskool.in/books/activity-sticker-board-book/sticker-books.html">Sticker Books</a></li>
 				</ul>
 			      </div>
                 <div class="col_1 ">
@@ -416,7 +444,8 @@ optionalZipCountries = [];
 		    </div>
 		<div style="clear:both;"></div>
 	</div>
-</div></li>
+</div>
+</li>
 
 
 <li>
@@ -454,11 +483,16 @@ optionalZipCountries = [];
 					</li>
 				</ul>
 			</div>
+
+			<div class="col_1 ">
+				<a href="http://koolskool.in/stationery/pencil-sharpner-eraser.html" class="level-top ">
+				<span>Sharpeners &amp; Erasers</span></a>
 			
 			<div class="col_1 ">
 				<a href="http://koolskool.in/stationery/printing-paper.html" class="level-top ">
 				<span>Printing Paper</span></a>
 			</div>
+		</div>
 		</div>
 	</li>
 	
@@ -563,22 +597,106 @@ optionalZipCountries = [];
 			</div>				
 		</div>
 	</li>
+	<li>
+	<a class="drop" href="http://koolskool.in/sports-apparel-shoes.html" id="cat325">Sports &amp; Apparel</a>
+		<div class="dropdown_2columns">
+			<div style="float:left">
+				<div class="col_1" style="width:150px;">
+					<ul class="level0">
+					    <li class="level1 nav-1-1"><a href="http://koolskool.in/sports-apparel-shoes/archery.html">Archery</a></li>
+						<li class="level1 nav-1-2"><a href="http://koolskool.in/sports-apparel-shoes/badminton.html">Badminton</a></li>
+						<li class="level1 nav-1-3"><a href="http://koolskool.in/sports-apparel-shoes/basketball.html">Basketball</a></li>
+						<li class="level1 nav-1-4"><a href="http://koolskool.in/sports-apparel-shoes/boxing.html">Boxing</a></li>
+						<li class="level1 nav-1-5"><a href="http://koolskool.in/sports-apparel-shoes/cricket.html">Cricket</a></li>
+						<li class="level1 nav-1-6"><a href="http://koolskool.in/sports-apparel-shoes/cycling.html">Cycling</a></li>
+						<li class="level1 nav-1-7"><a href="http://koolskool.in/sports-apparel-shoes/darts.html">Darts</a></li>
+						<li class="level1 nav-1-8"><a href="http://koolskool.in/sports-apparel-shoes/diving.html">Diving</a></li>
+						<li class="level1 nav-1-9"><a href="http://koolskool.in/sports-apparel-shoes/fishing.html">Fishing</a></li>
+						<li class="level1 nav-1-10"><a href="http://koolskool.in/sports-apparel-shoes/fitness.html">Fitness</a></li>
+						<li class="level1 nav-1-11"><a href="http://koolskool.in/sports-apparel-shoes/golf.html">Golf</a></li>
+						<li class="level1 nav-1-12"><a href="http://koolskool.in/sports-apparel-shoes/hiking.html">Hiking</a></li>
+						<li class="level1 nav-1-13"><a href="http://koolskool.in/sports-apparel-shoes/horse-riding.html">Horse Riding</a></li>
+                                              <li class="level1 nav-1-14"><a href="http://koolskool.in/sports-apparel-shoes/kayaking.html">Kayaking</a></li>
+					</ul>
+				</div>
+			</div>	
+			<div style="float:left;">
+				<div class="col_1" style="width:150px;">
+					<ul class="level0">
+						<li class="level1 nav-1-2"><a href="http://koolskool.in/sports-apparel-shoes/outdoor.html">Outdoor</a></li>
+						<li class="level1 nav-1-3"><a href="http://koolskool.in/sports-apparel-shoes/roller-skating.html">Roller Skating</a></li>
+						<li class="level1 nav-1-4"><a href="http://koolskool.in/sports-apparel-shoes/running.html">Running</a></li>
+						<li class="level1 nav-1-5"><a href="http://koolskool.in/sports-apparel-shoes/sailing.html">Sailing</a></li>
+						<li class="level1 nav-1-6"><a href="http://koolskool.in/sports-apparel-shoes/scooter.html">Scooter</a></li>
+						<li class="level1 nav-1-7"><a href="http://koolskool.in/sports-apparel-shoes/soccer.html">Soccer</a></li>
+						<li class="level1 nav-1-8"><a href="http://koolskool.in/sports-apparel-shoes/squash.html">Squash</a></li>
+						<li class="level1 nav-1-9"><a href="http://koolskool.in/sports-apparel-shoes/surfing.html">Surfing</a></li>
+						<li class="level1 nav-1-10"><a href="http://koolskool.in/sports-apparel-shoes/swimming.html">Swimming</a></li>
+						<li class="level1 nav-1-11"><a href="http://koolskool.in/sports-apparel-shoes/table-tennis.html">Table Tennis</a></li>
+						<li class="level1 nav-1-12"><a href="http://koolskool.in/sports-apparel-shoes/tennis.html">Tennis</a></li>
+						<li class="level1 nav-1-13"><a href="http://koolskool.in/sports-apparel-shoes/volleyball.html">Volleyball</a></li>
+						<li class="level1 nav-1-14"><a href="http://koolskool.in/sports-apparel-shoes/walking.html">Walking</a></li>
+						<li class="level1 nav-1-15"><a href="http://koolskool.in/sports-apparel-shoes/work-and-travel.html">Work and Travel</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</li>
        <li>
-		<a class="drop" href="http://koolskool.in/buy1-get1" id=""><span style="color:#DA0000;">Offers!</span></a>
-      </li>
+	    <a class="drop" href="http://koolskool.in/toys.html">Toys &amp; Games</a>
+               <div class="dropdown_1columns">
+			<div style="float:left">
+				<div class="col_1 ">
+                                         <ul class="level0">
+						<li class="level1 nav-1-2"><a href="http://koolskool.in/toys/educational-games.html">Educational Games</a></li>
+						<li class="level1 nav-1-3"><a href="http://koolskool.in/toys/puzzles.html">Puzzles</a></li>
+						<li class="level1 nav-1-4"><a href="http://koolskool.in/toys/clay.html">Clay</a></li>
+						<li class="level1 nav-1-6"><a href="http://koolskool.in/toys/dolls.html">Dolls</a></li>
+						<li class="level1 nav-1-7"><a href="http://koolskool.in/toys/cars-trucks.html">Cars &amp; Trucks</a></li>
+						<li class="level1 nav-1-8"><a href="http://koolskool.in/toys/board-games.html">Board Games</a></li>
+                                              <li class="level1 nav-1-9"><a href="http://koolskool.in/toys/action-games.html">Action Games</a></li>
+						<li class="level1 nav-1-9"><a href="http://koolskool.in/toys/other-toys-games.html">Other Toys &amp; Games</a></li>
+						<li class="level1 nav-1-9"><a href="http://koolskool.in/toys/games-cds-and-dvds.html">Games CDs and DVDs</a></li>
+                                       </ul>
+                               </div>
+                     </div>
+             </div>
+       </li>
+      <li>
+	    <a class="drop" href="http://koolskool.in/back-to-school.html">Back to school</a>
+               <div class="dropdown_1columns">
+			<div style="float:left">
+				<div class="col_1 ">
+                                         <ul class="level0">
+						<li class="level1 nav-1-2"><a href="http://koolskool.in/back-to-school/notebooks-drawing-books.html">Notebooks<br> Drawing books</a></li>
+						<li class="level1 nav-1-2"><a href="http://koolskool.in/stationery/writing-instruments/pens/ball-point-pens.html">Ballpoint Pens, <br>Gel Pens </a></li>
+						<li class="level1 nav-1-3"><a href="http://koolskool.in/stationery/writing-instruments/pencils.html">Pencils</a></li>
+						<li class="level1 nav-1-4"><a href="http://koolskool.in/stationery/writing-instruments/pens/fountain-ink-pens.html">Fountain Pens <br> Ink Pens </a></li>
+						<li class="level1 nav-1-5"><a href="http://koolskool.in/stationery/pencil-sharpner-eraser.html">Sharpners, Erasers <br> Scales/Rulers  </a></li>
+                                               <li class="level1 nav-1-6"><a href="http://koolskool.in/back-to-school/backpacks.html">School Bags</a></li>
+                                               <li class="level1 nav-1-7"><a href="http://koolskool.in/back-to-school/lunch-bags.html">Lunch Bags</a></li>
+                                       </ul>
+                               </div>
+                     </div>
+             </div>
+       </li>
 	</ul></div>
 </div>
 <div class="header-container" style="position:absolute;top:0px;width:100%;"> 
    <div style="width:100%;background-color:#222;color:#fff;height:20px;padding:3px;">
-	   <div class="header">
+	   <div class="header" style="height: 100%;">
 			<div style="float:right;">
-				Cash on Delivery Available   |   Customer Support : +91-(080)-25477220, +91-9844729491
+				<a href="http://koolskool.in/shipping#cashondelivery" target="_blank" title="Cash on Delivery" style="color:#fff;">Cash on Delivery Available</a> | Customer Support : +91-9844729491
+				&nbsp;|&nbsp;
+				<a target="_blank" title="Koolskool :: Buy books online, NCRT, CBSE, BANK EXAM, TEXT BOOKS, Entrance Exam" href="http://twitter.com/#!/koolskool_world"><img src="http://img.koolskool.in/skin/frontend/galacampstore/default/images/twitter_icn_1818.png" title="Follow us on" alt="Follow us on"></a>
+				&nbsp;
+				<a target="_blank" title="Koolskool :: Buy books online, NCRT, CBSE, BANK EXAM, TEXT BOOKS, Entrance Exam" href="http://www.facebook.com/koolskoolworld"><img src="http://img.koolskool.in/skin/frontend/galacampstore/default/images/facebook_icn_1818.png" title="Follow us on" alt="Follow us on"></a>
 			</div>
 		</div>
 	</div>
 
 	<div class="header">
-				<a href="http://koolskool.in/" title="Buy Textbooks at KOOLSKOOL.in" class="logo"><strong>Buy Textbooks at KOOLSKOOL.in</strong><img src="http://img.koolskool.info/skin/frontend/base/default/images/KOOLSKOOL-xmas.gif" alt="Buy Textbooks at KOOLSKOOL.in"></a>
+				<a href="http://koolskool.in/" title="Buy Textbooks at KOOLSKOOL.in" class="logo"><strong>Buy Textbooks at KOOLSKOOL.in</strong><img src="http://img.koolskool.info/skin/frontend/base/default/images/KOOLSKOOL.gif" alt="Buy Textbooks at KOOLSKOOL.in"></a>
 				<div style="float:left;margin-left:32px;margin-top:6px;">
 			<a href="http://koolskool.in/customer/account/login"> Login </a>   |   <a href="http://koolskool.in/customer/account/create"> Signup </a>		</div>
 
@@ -593,21 +711,26 @@ optionalZipCountries = [];
 	        <input id="search" type="text" name="q" value="" class="input-text" style="width:390px;"><div id="search_autocomplete" class="search-autocomplete"></div></div>
 	        <script type="text/javascript">
 	        //<![CDATA[
-	            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store');
+	            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for books or stationery');
 	            searchForm.initAutocomplete('http://koolskool.in/catalogsearch/ajax/suggest/', 'search_autocomplete');
 	        //]]>
 	        </script>
 		</div>
     </div>
+<!--	<input type="hidden" id="order" name="order" value="relevance" />
+            <input type="hidden" id="dir" name="dir" value="desc" />-->
+
 </form>
-						<div class="link-account topPopup" id="link-account">&nbsp;</div>
-			<div class="topPopup" style="margin-top:25px;border:0px solid red;position:absolute;top:33px;right:124px;margin-left:0px;padding-left:0px;" id="accounttxt">Account</div>
+						
+							<div class="link-account topPopup" id="link-account">&nbsp;</div>
+				<div class="topPopup" id="accounttxt" style="margin-top:25px;border:0px solid red;position:absolute;top:33px;right:124px;margin-left:0px;padding-left:0px;">Account</div>
+						
 			<div id="top-links" style="display:none;">
 				<ul class="links">
             <li class="first"><a href="http://koolskool.in/customer/account/create/" title="Sign Up">Sign Up</a></li>
             <li class=" last"><a href="http://koolskool.in/customer/account/" title="My Account">My Account</a></li>
     </ul>
-				<h2 style="float:right;"><a class="topPopup-close" id="link-account-close" href="#">&nbsp;</a></h2>
+				<h2 style="float:right;"><a class="topPopup-close" id="link-account-close" href="javascript:;">&nbsp;</a></h2>
 				<div class="block block-login">
    
 	<form action="" method="post" id="login-form" onsubmit="return validateNlogin();">
@@ -616,8 +739,8 @@ optionalZipCountries = [];
 			<label style="display:none;" for="mobile">Mobile:</label><input style="display:none;" type="text" name="login[mobile]" id="mobile" class="input-text">
             
 			<label for="username">Email:</label><input type="text" name="login[username]" id="username" class="input-text">
-            <label for="password">Password:</label><input type="password" name="login[password]" id="password" class="input-text">
-            
+                        <label for="password">Password:</label><input type="password" name="login[password]" id="password" class="input-text">
+                        <input type="hidden" name="login[referer]" id="userReferer" value="">          
 			<div class="actions">
         	        	<button type="submit" class="button"><span><span>Login</span></span></button>
 				<a href="http://koolskool.in/customer/account/forgotpassword/" class="f-left" style="margin-left:5px;">Forgot Your Password?</a>
@@ -666,13 +789,15 @@ optionalZipCountries = [];
 		
     	document.getElementById('loginResponse').innerHTML="";
     	var Loginobj = new Loginuser('http://koolskool.in/customer/account/loginajaxpost/referer/aHR0cDovL2tvb2xza29vbC5pbi9jbXMvcGFnZS92aWV3L3BhZ2VfaWQvNy8,/', $('username'), $('mobile'),$('password'),isnew,$('loginResponse'));
-	   	Loginobj.submit(); 
+		//var Loginobj = new Loginuser('http://koolskool.in/customer/account/loginajaxpost/', $('username'), $('mobile'),$('password'),isnew,$('loginResponse'));
+	   	
+		Loginobj.submit(); 
 		document.getElementById('loginSucDiv').style.display='block';
-		centerPopup();
+		centerPopup('loginSucDiv');
     	return false;
     }
 	
-    function validUsername(){
+	function validUsername(){
     	if((document.getElementById('username').value=="")&&(document.getElementById('mobile').value=="")){
     		return false;
     	}
@@ -686,19 +811,14 @@ optionalZipCountries = [];
 			</div>
 			
 			<div style="clear:both;"></div>
-												<a href="#" id="topcartlink" class="top-link-cart"> <label>0</label> </a>
-			<style type="text/css">
-	//.block .price{font-size:12px;}
-	//.header .block-cart .block-content{float:left; width:100%;}
-	//.header .block-cart .mini-products-list .product-details{margin-left:60px;}
-</style>
-<div class="block block-cart" id="block-cart" style="display:block;">
-        <div class="block-title" style="">      	
+												<a href="javascript:;" id="topcartlink" class="top-link-cart"> <label>0</label> </a>
+			<div class="block block-cart" id="block-cart" style="display:none;">
+        <div class="block-title" style="display:block;">      	
 				
 			<strong><span>My Cart</span></strong>
 				
     </div>
-	<h2 style="float:right;"><a class="topPopup-close" id="cart-content-close" href="#">&nbsp;</a></h2>
+	<h2 style="float:right;"><a class="topPopup-close" id="cart-content-close" href="javascript:;">&nbsp;</a></h2>
 
     <div class="block-content">
     
@@ -715,7 +835,7 @@ optionalZipCountries = [];
 			<div id="contact-content" style="display:none;">
 				<div class="page-title">
 					<h1 style="float:left;">Contact Us</h1>
-					<h2 style="float:right;"><a class="topPopup-close" id="contact-content-close" href="#">&nbsp;</a></h2>
+					<h2 style="float:right;"><a class="topPopup-close" id="contact-content-close" href="javascript:;">&nbsp;</a></h2>
 				</div>
 				<form action="http://koolskool.in/contacts/index/post" id="quickContactForm" method="post">
 					<div class="fieldset">
@@ -772,7 +892,7 @@ optionalZipCountries = [];
 
 
 <!--login ajax return div START  -->
-<div style="z-index: 100; position:fixed;margin:auto;  width:30%; min-height:100px; background:#fff; border:2px solid #222; display:none;padding:10px; text-align:center;" id="loginSucDiv">
+<div style="z-index: 100; position:fixed;margin:auto;  width:30%; min-height:100px; background:#fff; border:1px solid #c0c0c0; display:none;padding:10px; text-align:center; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px; -moz-box-shadow:1px 1px 2px rgba(0,0,0,0.6); -webkit-box-shadow:0 0 50px rgba(0,0,0,0.6); box-shadow:0 0 50px rgba(0,0,0,0.6);" id="loginSucDiv">
 	<span class="please-wait" id="loginloading-please-wait" style="display:none;">
         <img src="http://img.koolskool.info/skin/frontend/galacampstore/default/images/opc-ajax-loader.gif" alt="Processing..." title="Processing..." class="v-middle"> Processing...    </span>
 	<div id="loginResponse" style="color:#EB340A; font-size:bold; font-size:17px;">&nbsp;</div>
@@ -780,7 +900,7 @@ optionalZipCountries = [];
 <!--login ajax return div END  -->
 	<div style="clear:both;"></div>
 	<div style="margin-top:10px;width:100%;">
-		<div style="margin-top:10px;width:100%;"><div class="page-bottom"> <div class="block-bottom cloudTags"> <h2>Tags</h2>
+				<div style="margin-top:10px;width:100%;"><div class="page-bottom"> <div class="block-bottom cloudTags"> <h2>Tags</h2>
 <div id="cloudTags">
 <p>
 </p><h3>MOST SEARCHED FOR</h3>
@@ -986,13 +1106,13 @@ optionalZipCountries = [];
         <div class="footer-link"><ul>
 <li><a href="http://koolskool.in/book-list/cbse/cbse-books.html" style="font-size: 10px;">School book-list</a></li>
 <li><a href="http://koolskool.in/shipping" style="font-size: 10px;">Shipping and Handling</a></li>
+<li> <a title="Terms of Use" href="http://koolskool.in/terms-of-use" style="font-size: 10px;">Terms Of Use</a></li>
 <li><a href="http://koolskool.in/privacy-policy" style="font-size: 10px;">Privacy Policy</a></li>
 <li><a href="http://koolskool.in/school-list/Delhi/CBSE-schools-in-Delhi.html" style="font-size: 10px;">India School list</a></li>
 <li><a href="http://blogs.koolskool.in" style="font-size: 10px;">KOOLSKOOL Blog</a></li>
-<li><a href="http://koolskool.in/catalogsearch/advanced" style="font-size: 10px;">Advanced Search</a></li>
 <li><a href="http://koolskool.in/catalog/seo_sitemap/category" style="font-size: 10px;">Site map</a></li>
 <li> <a title="Search Terms" href="http://koolskool.in/catalogsearch/term/popular" style="font-size: 10px;">Search terms</a></li>
-<li> <a class="last" title="Press Releases" href="http://koolskool.in/press-release" style="font-size: 10px;">Press Releases</a></li>
+<li> <a title="Press Releases" href="http://koolskool.in/press-release" style="font-size: 10px;">Press Releases</a></li>
 <li> <a class="last" title="Articles" href="http://koolskool.in/articles" style="font-size: 10px;">Articles</a></li>
 </ul></div>
 		<div class="footer-social"><ul>
@@ -1001,7 +1121,7 @@ optionalZipCountries = [];
 <li><a href="https://plus.google.com/109627878014442575196/?prsrc=3" style="text-decoration: none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="32" height="32" style="border: 0;"></a></li>
 </ul></div>
     </div>
-	   <address>Copyright 2010. delhigate educomm Retail Solutions Pvt. Ltd.  All Rights Reserved</address>
+	   <address>Copyright 2010-13. delhigate educomm Retail Solutions Pvt. Ltd.  All Rights Reserved</address>
 </div>
         	</div>
     </div>
