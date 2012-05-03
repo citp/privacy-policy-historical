@@ -1,56 +1,60 @@
-> *The following text is extracted and transformed from the buttonspace.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006045644id_/http%3A//buttonspace.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttonspace.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205114id_/http%3A//www.buttonspace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy, ButtonSpace.com
+# Privacy Policy - ButtonSpace - Social Media Buttons | Social Network Buttons | Share Buttons
 
-It is very important to us at Buttonspace.com to ensure that this, and every subsequent visit you make to our website, is with complete peace of mind. You have every right to trust and to expect confidentiality, and we respect this right. 
+This Privacy Policy governs the manner in which ButtonSpace collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://buttonspace.com](http://buttonspace.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by ButtonSpace.
 
-Your privacy is our priority. As such, we believe you should have an overview of how we collect data about the people who visit our site and what we do with that data. The following are the policies that we have put in place to ensure such an environment at Buttonspace.com
+**Personal identification information**
 
-#### Use of Content
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Every time you visit Buttonspace.com, you may be providing some, even all, of the following information:
+**Non-personal identification information**
 
-  * Anonymous information
-  * Aggregate Data
-  * Any personally identifiable information you knowingly provide us
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Web browser cookies**
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+**How we use collected information**
+
+ButtonSpace collects and uses Users personal information for the following purposes:
+
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _\- To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _\- To administer a content, promotion, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
-If you are concerned about Buttonspace.com or selling any personally identifiable information to any telemarketing, direct marketing or commercial mass email companies, agents or representatives, you should not. Because we will not do that. if you tell us it's okay to do so. Here are the only instances Buttonspace.com could maybe, perhaps, possibly send personally identifiable information to other companies or people:
+**How we protect your information**
 
-  * You have given Buttonspace.com your explicit permission to share this information;
-  * Buttonspace.com needs to share the information to provide a product or service you requested;
-  * If Buttonspace.com believes, in good faith, that such action is necessary to comply with a judicial proceeding, court order or other legal process;
-  * If Buttonspace.com finds that your actions on the Buttonspace.com website violates the Buttonspace.com Terms of Use or any of Buttonspace.com's usage guidelines for specific products or services.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
+**Sharing your personal information**
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-#### Disclaimers & Liability
+**Third party websites**
 
-At Buttonspace.com, we collect information to provide more services and benefits to you.  We do not collect any personal information but what you did while you were visiting our website. 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-This information provides Buttonspace.com with valuable feedback which we use to improve both our site and our services. One good example: we can inform Buttonspace.com advertisers how many people saw or clicked on their ads - plus, how many people saw or clicked on ads in different sections of our website. 
+**Advertising**
 
-We also monitor information so that we can produce aggregate reports for internal use - and for use by third parties, including Buttonspace.com advertisers. Aggregate reports are mostly statistical and deal with information like people behavior and number of total visits and page views not about individual behavior. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-From time to time we may release information about aggregate user characteristics, but we do not include any personally identifiable information about you or your individual online usage patterns.
+**Changes to this privacy policy**
 
-Buttonspace.com collects information about your site usage through cookies  and through our server log files, including IP Addresses. Please note that Buttonspace.com does not link IP Addresses to any personally identifiable information.  With cookies, we can customize areas of 
+ButtonSpace has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Buttonspace.com content according to your preferences. What's more, Cookies allow us to target our advertisements and limit the number of times you see pop-ups on our site. Cookies tell us nothing about you personally, unless of course you elect to give us additional information about yourself.
+**Your acceptance of these terms**
 
-#### Opt Out!
+By using this Site, you signify your acceptance of this policy and [terms of service](http://buttonspace.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-You can always disable the cookie function if you so choose in your browsers settings. However, we can not guarantee that our website will work properly. You may lose the ability to use some of its advanced features at Buttonspace.com.
-
-Some of the banner and display ads on Buttonspace.com are provided by third party ad servers. These ads may also contain cookies. Information collected through cookies associated with third party ads are collected by the third party and we do not always have access to this information. It is our policy, however, to only use reputable third parties with their own good privacy policies to serve the advertisements that are placed within our website.
-
-#### Personal Data
-
-If you order any products or services from Buttonspace.com we will collect personally identifiable data from you in order to process the transaction and to provide you with the support and tools required to maintain and modify your directory listings.
-
-We also collect personally identifiable data in other situations where you knowingly provide us with such information. For example, when you complete online surveys, participate in a sweepstakes or contest, or communicate with our Staff.
-
-#### Your Security
-
-Buttonspace.com understands how important it is to protect you and your information. We take security seriously, online and offline. All sensitive information, including credit card details, is encrypted using the very latest server technology. Your browser should let you know when you are about to make a secure connection by an image of an unbroken key or a closed lock (as shown below) at the bottom corner of your browser. If the image is broken or open, your connection is not secure. From time to time, Buttonspace.com may amend this policy to provide our visitors the latest tools and techniques being developed. 
+This document was last updated on November 29, 2011
