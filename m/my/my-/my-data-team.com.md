@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-data-team.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206144936id_/https%3A//global-data-entry.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-data-team.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503020853id_/https%3A//global-data-entry.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
