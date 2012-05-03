@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the webreinvent.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203213026id_/http%3A//webreinvent.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreinvent.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234632id_/http%3A//www.webreinvent.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: WebReinvet - A Web Innovation Company
+# Privacy Policy - WebReinvent
 
-* * *
+**Disclaimer**
+
+2Checkout.com, Inc. is an authorized retailer of Astra Paging, Ltd.  
+(2CO) is also the authorized reseller for thousands of tangible or digital products and services.  
+Established in 1999 and headquartered in Columbus, Ohio, 2CO provides turnkey e-commerce solutions to thousands of business customers around the world. 2CO's proprietary technology supports back-office functions including financial reporting, tracking, fraud prevention, affiliate tracking, customer service and sales tracking.  
+For more Details visit: http://www.2checkout.com
 
 **1\. The Information We Collect**
 
@@ -65,27 +70,3 @@ We reserve the right to modify our Privacy Policy from time to time. We recommen
 **8\. Your Feedback**
 
 WebReinvent.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email.
-
-### How we can help you?
-
-\- Below, we’ve listed a few ways we can work with you or work for you. Contact us to find out more. 
-
-We can create your online identity which is must in currently hi fi world of information technology i.e. website, logo, content.
-
-
-
-
-As a reliable and strategic online marketing service vendor, we provide you exclusive web promotion services.
-
-
-
-
-Providing you not just web application devement service but also a helping hand in strategizing web application that enhance the profitablility.
-
-
-
-
-Online advertising invites use of strong business acumen and expert hang of the market. Also, we can optimize the whole path of conversions.
-
-
-
