@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143634id_/http%3A//tapit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220046id_/http%3A//tapit.com/privacy-policy) for the most accurate reproduction.*
 
 # TapIt!™ | Mobile Advertising | Privacy PolicyTapIt!™ | TapIt!™
 
 **TapIt! Media Group, Inc**
 
-TapIt! Media Group, Inc. (“Exponential”) is a technology-enabled media services company whose clients and customers include online advertisers (“Advertisers”) and Internet content sites and Mobile Application Developers (“Publishers).  We deliver innovative products and services designed to:
+TapIt! Media Group, Inc. (“TAPIT”) is a technology-enabled media services company whose clients and customers include online advertisers (“Advertisers”) and Internet content sites and Mobile Application Developers (“Publishers).  We deliver innovative products and services designed to:
 
--enable Advertisers to better reach their target audiences; and
+-Enable Advertisers to better reach their target audiences; and
 
--enable Publishers to support, grow, and monetize their mobile inventory through the sale of advertisements
+-Enable Publishers to support, grow, and monetize their mobile inventory through the sale of advertisements
 
 Our product offerings and services currently include TapIt! (together, referred to herein as our “Services”).  For a full description of these Services please see our website at [www.tapit.com](http://www.tapit.com/)
 
-At TapIt! we believe that safe, secure and respectful practices regarding that use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole.  We are a member of the Network Advertising Initiative (“NAI”) and we maintain compliance with the NAI’s Self Regulatory Principles.
+At TapIt! we believe that safe, secure and respectful practices regarding that use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole.
 
 This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Service and the way that data is stored and used by our company, our Advertisers and our Publishers.  For information about our privacy practices as they relate to our corporate website, please see.
 
@@ -57,6 +57,10 @@ In the event that another company acquires all or substantially all of the asset
 **Changes to the Privacy Policy**
 
 We reserve the right to make changes to this Privacy Policy by posting an updated version of this page.  The date on which the current Privacy Policy was posted will always be noted at the top of this page.  Any change we make to our Privacy Policy will be made in compliance with applicable law.
+
+**Publisher Agreement**
+
+To read our Publisher Agreement [click here](http://tapit.com/publisher-agreement "Publisher Agreement")
 
 **Contact Us**
 
