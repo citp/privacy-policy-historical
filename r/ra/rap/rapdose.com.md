@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the rapdose.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103123100id_/http%3A//rapdose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapdose.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222826id_/http%3A//rapdose.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rap Dose
-
-## [ Privacy Policy ](http://rapdose.com/privacy-policy)
-
-Posted by kenny at 1:09 PM on 01/19/2011
+# Privacy Policy - Rap Dose
 
 What information do we collect?
 
