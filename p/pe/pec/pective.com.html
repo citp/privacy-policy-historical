@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pective.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219054319id_/http%3A//pective.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pective.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222833id_/http%3A//pective.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>Privacy</title>
@@ -21,23 +21,33 @@
 
 		
 
-		
-			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-		
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
+		<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all"> 
 
 		
 
-		
-
-		<link rel="stylesheet" type="text/css" href="/style2.css">
+		<link rel="stylesheet" type="text/css" href="/style.css?c=12">
 
 	</head>
 	<body>
+
+	
+	<div id="dialog" title="Set size" class="hide" style="font-size:14px; text-align:center">
+		<form id="selectsize" name="selectsize" action="/size" method="post" onsubmit="return resize_validate ();">
+			Please set your monitor size (inches) <input type="text" id="size" name="size" size="2" maxlength="5"> <input type="submit" value="Save"><br>
+			<p style="font-size:0.9em; margin:7px 0 0 0"><a href="/help/what-is-my-monitor-size?from=">Not sure what your monitor size is ?</a></p>
+			<input type="hidden" name="url" value="/privacy">
+        </form>
+	</div>
+	
+
 
 		<div id="main">
 			
 				<div id="nav">
 					<div id="uppernav">
+
 					<p id="subnav">
 						
 							<img src="/monitor.gif" alt="monitor">
@@ -47,6 +57,8 @@
 							<a href="#" onclick="return resize ()">Monitor Size: <b>Unknown</b></a>
 						
 					</p>
+
+
 					</div>
 
 					<a title="The actual size of stuff" href="/" id="titleimg"><img src="/title-medium3.gif" alt="pective - The Actual Size of Stuff"></a>
@@ -57,8 +69,8 @@
 						<!--<a href="/" >Home</a>-->
 						<a href="/browse">Browse</a>
 						<a href="/alltags">Tags</a>
-						<!--<a href="/compare" >Compare</a> |-->
-						<a href="/sandbox">Sandbox</a>
+						<a href="/compare">Compare</a> 
+						<!-- <a href="/sandbox" >Sandbox</a>-->
 						<a href="/about">About</a>
 						<!--<a href="/contact" >Contact</a>-->
 						<a href="/privacy" class="current">Privacy</a>
@@ -168,6 +180,8 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 			</div>
 		</div>
 
+
+
 		<script type="text/javascript">
 		<!--
 			
@@ -212,11 +226,14 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 			};
 
 			var resize = function () {
-				document.getElementById ('subnav').innerHTML = '<form type="/size" action="/size" method="post" name="selectresize" onsubmit="return resize_validate ()"><img src="/monitor.gif" alt="monitor"> Enter Monitor Size: <input type="text" id="size" name="size" size=5 maxlength=5> "<input type="hidden" name="width" id="width" value=""> <input type="hidden" name="height" id="height" value=""> <input type="hidden" name="url" value="/privacy"><'+'/form>';
+				$('#dialog').dialog({modal:true,autoOpen:false,width:380,height:110,resizable:false});
+				$('#dialog').dialog('open');
 
-				document.selectresize.size.focus ();
-				document.getElementById ('width').value = screen.width;
-				document.getElementById ('height').value = screen.height;
+				// document.getElementById ('subnav').innerHTML = '<form action="/size" method="post" name="selectresize" onsubmit="return resize_validate ()"><img src="/monitor.gif" alt="monitor"> Enter Monitor Size: <input type="text" id="size" name="size" size=5 maxlength=5> "<input type="hidden" name="width" id="width" value=""> <input type="hidden" name="height" id="height" value=""> <input type="hidden" name="url" value="/privacy"><'+'/form>';
+
+				// document.selectresize.size.focus ();
+				// document.getElementById ('width').value = screen.width;
+				// document.getElementById ('height').value = screen.height;
 
 				return false;
 			};
@@ -258,8 +275,6 @@ Although most changes are likely to be minor, Pective may change its Privacy Pol
 		var pageTracker = _gat._getTracker("UA-4027364-2");
 		pageTracker._trackPageview();
 		</script>
-		
-
 		
 
 	
