@@ -1,28 +1,47 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124155id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002400id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Radiopaedia.org
 
-#### Our commitment to privacy 
+#### Our commitment to privacy
 
-Your privacy is important to Radiopaedia.org. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+Your privacy is important to Radiopaedia.org. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-#### The information we collect
-
-This notice applies to all information collected or submitted on the Radiopaedia.org [](https://web.archive.org/) website. 
+#### The information we collect about you
 
 Required information for registration consists of:
 
-  * Username
+  * Username and password
   * Surname
   * First name
   * Position (professional)
   * Country
   * email address
-  * password
 
 
 
-As much of the site is contributed by users, it may be that further personal information is posted. 
+Additional information including, but not limited to, city, institution and title can also be entered during registration and on your  user profile page. 
+
+As much of the site is contributed by users, it may be that further personal information is posted by individual users. 
+
+#### The way we use information
+
+##### Email address
+
+The email address you provide us is very important to our communication with you. Your email address is used in four distinct ways.
+
+First, your email address will be used to allow users to contact you via ‘contact user’ link in your profile. When such contact is initiated, your email address remains hidden. You can opt-out of being contacted by other users in your profile settings. 
+
+Second, the editorial board may contact you in regards to your contributions. In doing so, an email will be sent to the address you provided. You cannot opt-out of this type of communication.
+
+Third, to facilitate communication with you in a professional way, including managing unsubscribe requests and newsletter publishing, your email address will be upload to a trusted third party service provider which is handles these kind of services. For newsletters or other opt-in communications, you can always opt out of receiving these emails.
+
+Finally, very rarely, Radiopaedia may need to send important announcements to you, such as changes to this privacy policy or alterations to the site’s terms of use. You cannot opt out of this kind of email. However, in six years of operation, Radiopaedia has only done this one time.
+
+##### Other information
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers / sponsors. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of registrars or consultants are registered members, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 #### Anonymity of cases / images
 
@@ -40,38 +59,23 @@ All cases submitted should be de-identified, in such a way as to leave no way of
   * web or internet protocol addresses containing any link to the patient
   * biometric data
   * facial photograph or comparable image
-  * audiotapes
   * names of relatives
 
 
 
-If any identifying information is present the case will be taken down or altered to be anonymous. If you find such a case please contact us at [privacy@radiopaedia.org](mailto:privacy@radiopaedia.org). 
-
-#### The way we use information
-
-We use the information you provide about yourself to identify contributions, and therefore enabling you to be contact about your contributions.
-
-If you write to any of the Radiopaedia.org email addresses, we use the return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers / sponsors. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of registrars or consultants are registered members, but we would not disclose anything that could be used to identify those individuals.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+If any identifying information is present the case will be taken down or altered to be anonymous. If you find such a case please contact us at privacy@radiopaedia.org.
 
 #### Our commitment to data security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-#### Our commitment to children's privacy
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
-
 #### How you can access or correct your information
 
-You can access all your personally identifiable information that we collect online and maintain by accessing your user page. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by accessing your user profile page. 
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+#### How to contact us in regards to privacy concerns
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+Should you have other questions or concerns about these privacy policies, please send us an email at privacy@radiopaedia.org.
 
 #### How to contact us in regards to privacy concerns
 
