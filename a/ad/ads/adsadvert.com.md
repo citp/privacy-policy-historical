@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsadvert.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123111729id_/http%3A//www.adsadvert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsadvert.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231009id_/http%3A//www.adsadvert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AdsAdvert.com
 
