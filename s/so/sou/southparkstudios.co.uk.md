@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121085145id_/http%3A//www.southparkstudios.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230654id_/http%3A//www.southparkstudios.co.uk/about/privacy) for the most accurate reproduction.*
 
 # South Park Studios UK and Ireland -
 
