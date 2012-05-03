@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the healthfinder.gov privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221020352id_/http%3A//healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthfinder.gov privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504000446id_/http%3A//www.healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <script type="text/javascript" language="javascript" src="/js_scripts/fe_scripts.js"></script>
-<link rel="stylesheet" type="text/css" href="/_borders/masterTest2.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/_borders/masterTest2.css" media="screen"><link rel="shortcut icon" href="/images/favicon.ico">
 <!--<link rel="stylesheet" type="text/css" media="screen" href="../folderstyles.css" /> -->
 <title>
 	Privacy Policy: healthfinder.gov - Your Source for Reliable Health Information
@@ -11,9 +11,17 @@
 <script type="text/javascript"></script>
 <script type="text/javascript">
 </script>
+<!-- Redirect PopUp: START  -->
+<style type="text/css">
+	body {
+	height:100%;
+	}
+	</style>
+	<!-- Redirect PopUp: END  -->
 <link href="/_borders/CSSLeftNav.css" rel="stylesheet"></head>
 
 <body onload="setNav();initSizer();FP_preloadImgs(/*url*/'images/Banner012208/textsizedown_f2.jpg',/*url*/'images/Banner012208/textsizeup_f2.jpg',/*url*/'images/Banner012208/searchbutton_f2.jpg',/*url*/'images/Banner012208/howtousethissite_f2.jpg',/*url*/'../images/Banner012208/searchbutton_f2.jpg',/*url*/'../images/Banner012208/textsizeup_f2.jpg',/*url*/'../images/Banner012208/textsizedown_f2.jpg',/*url*/'../images/Banner012208/howtousethissite_f2.jpg');loadBackgroundByPath();inheritHeight();">
+   
 
 <a name="top" id="top"></a>
 <!-- Header Control Begin -->
@@ -41,8 +49,8 @@
 	</form>
   <div id="connectBtns">
   	<p>Connect to us:</p>
-    <a href="http://facebook.com" title="Facebook" id="facebook" target="_blank" onclick="HFPopUpWin('http://facebook.com');return false;"><img src="/images/Banner012208/icon_fb.jpg" width="22" height="22" alt="Facebook"></a>
-    <a href="http://twitter.com/#!/healthfinder" title="Twitter" id="twitter" target="_blank" onclick="HFPopUpWin('http://twitter.com/#!/healthfinder');return false;"><img src="/images/Banner012208/icon_twitter.jpg" width="22" height="22" alt="Twitter"></a>
+    <a href="/redirectNonGov.aspx?url=https%3a%2f%2fwww.facebook.com%2fhealthfinder&amp;text=Facebook" target="_blank" id="link_Facebook" onclick="showPopUp('https://www.facebook.com/healthfinder', 'Facebook');return false;"><img src="/images/Banner012208/icon_fb.jpg" width="22" height="22" alt="Facebook"></a>
+    <a href="/redirectNonGov.aspx?url=http%3a%2f%2ftwitter.com%2fhealthfinder&amp;text=Twitter" target="_blank" id="link_Twitter" onclick="showPopUp('http://twitter.com/healthfinder', 'Twitter');return false;"><img src="/images/Banner012208/icon_twitter.jpg" width="22" height="22" alt="Twitter"></a>
     <a href="/news/rss.asp" title="RSS" id="RSS" target="_blank" onclick="HFPopUpWin('/news/rss.asp');return false;"><img src="/images/Banner012208/icon_rss.jpg" width="22" height="22" alt="RSS"></a>
     <a href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?category_id=USOPHSODPHPHF_C1" title="Get Email Updates" id="email" target="_blank" onclick="HFPopUpWin('https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?category_id=USOPHSODPHPHF_C1');return false;"><img src="/images/Banner012208/email_bg.png" width="136" height="22" alt="Get Email Updates"></a>
   </div>
@@ -57,6 +65,25 @@
 	}
 	//-->
 </script>
+<div id="displaybox" style="display:none;"></div>
+    <div id="popUpMessage" style="display:none;">
+        <div id="popUpWrap">
+            <div id="popup_head">
+                <a href="javascript:hidePopUp();" id="popup_X">X</a>
+                <a href="javascript:hidePopUp();" id="popup_Close">Close</a>
+            </div>
+            <div id="popup_top">
+                <p class="bold">This hyperlink will direct you to a non-governmental Website or application.</p>
+                <p>The appearance of external hyperlinks does not constitute endorsement by the United States Department of Health &amp; Human Services (HHS) of the hyperlinked Website or application, or the information, products or services contained therein. Such hyperlinks are provided consistent with the intended purpose of this HHS Website. Visitors to the hyperlinked Website or application will be subject to the Website or application's privacy policies. 
+                These practices may be different than those of this HHS Website.</p>
+            </div>
+            <div id="popup_bottom">
+                <p><span class="bold">You will be redirected to:</span> <a href="#" id="popup_link">link</a></p>
+            </div>
+            <img src="/images/bg_popup_bottom.png" width="606" height="20" alt="" id="popup_img_bottom">
+        </div>
+        
+    </div>
 <!-- Header Control End -->
 <div id="container_wrap">
 	<div id="container" style="overflow: hidden;">
@@ -136,7 +163,9 @@
 		<div id="sidebar">
 			 
 		</div>
-		<!-- Side Bar End --></div>
+		<!-- Side Bar End -->
+        
+    </div>
 </div>
 <!-- Footer Begin -->
 
@@ -147,11 +176,14 @@
                         Disclaimers</a>|<a href="/aboutus/sitemap.aspx" style="color: white;" class="footer">Site Map</a>|<a href="/aboutus/contactus.aspx" style="color: white;" class="footer">Contact Us</a>|<a href="https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?category_id=USOPHSODPHPHF_C1" title="Get Email Updates" id="email" style="color: white;" class="footer" target="_blank" onclick="HFPopUpWin('https://public.govdelivery.com/accounts/USOPHSODPHPHF/subscriber/new?category_id=USOPHSODPHPHF_C1');return false;">Subscribe to E-News</a></p>
     <a name="skipFooterLinks"></a>
     <p>New healthfinder.gov is sponsored by the National Health Information Center<br>
-   Page last updated: <!--12/20/2011</p>-->Tuesday, December 20, 2011
+   Page last updated: <!--5/3/2012</p>-->Thursday, May 03, 2012
 </p></div>
+<script type="text/javascript" language="javascript" src="/js_scripts/redirectPopup.js"></script>
 <!-- Footer End -->
 
 <script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/3108.js"> </script>
+
+
 
 
 
