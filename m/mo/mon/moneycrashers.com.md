@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycrashers.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004813id_/http%3A//www.moneycrashers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycrashers.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055351id_/http%3A//www.moneycrashers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Crashers
 
