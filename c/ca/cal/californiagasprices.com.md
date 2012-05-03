@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126112504id_/http%3A//www.californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232247id_/http%3A//www.californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your privacy matters - California Gas Prices
 
@@ -15,7 +15,7 @@ We record visitors IP addresses to analyze trends and administer the site. IP ad
 **External Links:**   
 This site contains links to many other sites. We are not in any way responsible for the privacy policies and practices or the content of such web sites.   
 **Advertisers:**   
-This site contains advertising from other companies. We do not verify the claims of all advertisers, and cannot be held responsible for the claims of the advertisers. We are not in any way responsible for the privacy policies and practices or the content of such web sites.   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [ http://www.networkadvertising.org/managing/opt_out.asp ](http://californiagasprices.com/Redirect.aspx?urll=http%3a%2f%2fwww.networkadvertising.org%2fmanaging%2fopt_out.asp)   
 **Copyrights:**   
 GasBuddy Organization Inc. reserves all rights and copyrights the site text, site images, site code, content, and usage of the CaliforniaGasPrices.com web site. All trademarks are property of their respective companies. 
 
