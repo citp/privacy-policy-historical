@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redlobster.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101162309id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redlobster.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222507id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -48,6 +48,7 @@
 <!--[if lte IE 6]><script type="text/javascript" src="/assets/scripts/supersleight.plugin.js"></script><![endif]-->
 
 <script type="text/javascript">
+	var curvyCornersVerbose = false; 
 	$(window).load(function() {
 		NERD.AutoReplace.init();
 		updateShadowLocations();
@@ -81,14 +82,14 @@
 	} catch(err) {}
 </script>
 <noscript>
-	<img src="http://tracker.marinsm.com/tp?act=1&cid=557wze3453&script=no" >
+	<img src="//tracker.marinsm.com/tp?act=1&cid=557wze3453&script=no" >
 </noscript>
 <!-- end Copyright Marin Software -->
 
 <!-- end Sitewire Tracking Scripts -->
 
 <!-- LOTAME tags added on 2010-09-21 -->
-<script type="text/javascript" src="http://tags.crwdcntrl.net/c/343/cc.js"></script>
+<script type="text/javascript" src="//tags.crwdcntrl.net/c/343/cc.js"></script>
 <script type="text/javascript" language="javascript">LOTCC.bcp();</script>
 <!-- end of LOTAME tags -->
 
@@ -163,7 +164,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
   <div id="header" class="content_container">
     <div id="locator">
       <h3 class="find_a_restaurant">Find a Restaurant</h3> 
-      <form action="/locator_g/default.aspx" method="get">
+      <form action="/locations/default.aspx" method="get">
         <input type="text" name="q" id="q" placeholder="Enter City, State or Zip">
         <input type="image" name="submit" id="locator_submit" src="/assets/images/design/search_glass.png">
       </form>
@@ -203,9 +204,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
         <a href="/health/">Seafood &amp; Health</a>
     </li>
     <li class="gift ">
-		
-        <a href="https://gift.redlobster.com/">Gift Cards</a>
-		
+        <a href="/giftcard/">Gift Cards</a>
     </li>
     <li class="join ">
       <a href="/club/">Join The Club</a>
@@ -319,23 +318,27 @@ Orlando, Florida 32837
       <div class="social">
 				<!--[if lte IE 6]>
 				<div id="fb-root">
-				  <a href="http://www.facebook.com/RedLobster">
+				  <a href="//www.facebook.com/RedLobster">
 						<img src="/assets/images/facebook/like.png" alt="" />
 					</a>
-					<a href="http://www.facebook.com/RedLobster">
+					<a href="//www.facebook.com/RedLobster">
 						<img src="/assets/images/facebook/f.png" alt="" />
 					</a>
-					<a href="http://www.facebook.com/RedLobster" class="visit">Visit our Facebook page</a>
+					<a href="//www.facebook.com/RedLobster" class="visit">Visit our Facebook page</a>
 				</div>
 				<![endif]-->
-				<!--[if !(lt IE 7)]>
+				<!--[if IE 7]>
+				<div id="fb-ph"></div>
+				<script type="text/javascript" src="/assets/scripts/ie7fb.js"></script>
+				<![endif]-->
+				<!--[if !(lt IE 8)]>
 				<div id="fb-root"></div>
-				<script src="http://connect.facebook.net/en_US/all.js#appId=120972614657635&amp;xfbml=1"></script>
+				<script src="//connect.facebook.net/en_US/all.js#appId=120972614657635&amp;xfbml=1"></script>
 				<fb:like href="facebook.com/redlobster" send="false" width="450" show_faces="false" font=""></fb:like>
 				<![endif]-->
 				<!--[if !IE]-->
 				<div id="fb-root"></div>
-				<script src="http://connect.facebook.net/en_US/all.js#appId=120972614657635&amp;xfbml=1"></script>
+				<script src="//connect.facebook.net/en_US/all.js#appId=120972614657635&amp;xfbml=1"></script>
 				<fb:like href="facebook.com/redlobster" send="false" width="450" show_faces="false" font=""></fb:like>
 				<!--[endif]-->
 			</div>
@@ -381,7 +384,7 @@ Orlando, Florida 32837
             <a href="/health/">Seafood &amp; Health</a>
           </li>
           <li>
-            <a href="https://gift.redlobster.com/">Gift Cards</a>
+            <a href="/giftcard/">Gift Cards</a>
           </li>
           <li class="last">
             <a href="/club/">Join the Club</a>
