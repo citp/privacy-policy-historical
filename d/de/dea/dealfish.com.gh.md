@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dealfish.com.gh privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018011427id_/http%3A//dealfish.com.gh/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealfish.com.gh privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011931id_/http%3A//dealfish.com.gh/legal) for the most accurate reproduction.*
 
-# Privacy policy • Dealfish.com.gh
+# Privacy policy (UPDATED) • Dealfish.com.gh
 
   * [Ads Dealfish.com.gh](http://dealfish.com.gh/)
-  * » Privacy policy
+  * » Privacy policy (UPDATED)
 
 
 
