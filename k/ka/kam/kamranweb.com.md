@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamranweb.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103021901id_/http%3A//www.kamranweb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamranweb.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503150051id_/http%3A//www.kamranweb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # .:: KamranWeb.Com ::. Privacy Policy
 
