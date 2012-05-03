@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverseaustralia.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201204253id_/http%3A//www.reverseaustralia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverseaustralia.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220936id_/http%3A//www.reverseaustralia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ The following paragraphs in Section 2 describe how Reverse Australia currently u
 
 ## 2.2 Email.
 
-Reverse Australia uses Individual Information to provide promotional offers by email to individuals. Reverse Australia may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Reverse Australia’s email lists, a person must send an email to support@reverseaustralia.com.
+Reverse Australia uses Individual Information to provide promotional offers by email to individuals. Reverse Australia may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Reverse Australia’s email lists, a person must [send an email to us](https://web.archive.org/contact.php).
 
 ## 2.2(a) Content of Email Messages.
 
@@ -104,7 +104,7 @@ Reverse Australia stores the Individual Information in a database on Reverse Aus
 
 ## 3.1 Sale or Transfer to Third Parties.
 
-REVERSE AUSTRALIA MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN REVERSE AUSTRALIA’S SOLE DISCRETION.
+REVERSE AUSTRALIA MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN Reverse Australia’S SOLE DISCRETION.
 
 ## 3.2 Order Fulfillment.
 
@@ -117,10 +117,6 @@ Reverse Australia may disclose Individual Information to respond to subpoenas, c
 ## 3.4 Summary Data.
 
 Reverse Australia may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
-
-## 3.5 Access.
-
-Individuals have access to their Individual Information collecteted. Access can be obtained by contacting support@reverseaustralia.com. Reverse Australia may also grant advertising clients and email services providers’ access to an individual's email address to verify the origin of the Individual Information collected.
 
 ## 4\. Privacy Practices of Third Parties.
 
@@ -144,8 +140,8 @@ Anyone using the Website outside of the United States acknowledges that personal
 
 6,1 If you wish to discontinue receiving email messages from Reverse Australia, you have several options:
 
-1\. Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to unsubscribe@reverseaustralia.com or (2) follow the instructions in each promotional email message sent by Reverse Australia.
+1\. Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to the email address on our [contact page](https://web.archive.org/contact.php) or (2) follow the instructions in each promotional email message sent by Reverse Australia.
 
 2\. Unsubscribe from all of Reverse Australia's email lists.
 
-We reserve the right to add Individual Information to multiple lists maintained by Reverse Australia. To globally unsubscribe from all of Reverse Australia’s lists, send an email to unsubscribe@reverseaustralia.com.
+We reserve the right to add Individual Information to multiple lists maintained by Reverse Australia. To globally unsubscribe from all of Reverse Australia’s lists, send an email to the address listed on our [contact page](https://web.archive.org/contact.php).
