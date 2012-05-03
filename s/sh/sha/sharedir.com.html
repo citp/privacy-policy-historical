@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sharedir.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007170931id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sharedir.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503192628id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
         <meta name="google-site-verification" content="iPIpci70Qgb-bSwVudlAANtecH7DkBbR0xWuxqkDLs4">
@@ -13,14 +13,15 @@
 		<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <link title="ShareDir search" href="http://sharedir.com/sdirdb.xml" type="application/opensearchdescription+xml" rel="search">
 		<link rel="stylesheet" type="text/css" href="/style.css" media="all" title="Original">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/main.js"></script>
-		<script language="javascript" type="text/javascript">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jquery-1.6.4.min.js"></script>
+		<script type="text/javascript" src="/main.js"></script>
+		<script type="text/javascript">
 		<!--
-			/* All code Copyright (c) 2007-2011 Mario Ljubicic, unless noted otherwise. Please don't steal the code. */
+			/* All code Copyright (c) 2007-2012 Mario Ljubicic, unless noted otherwise. Please don't steal the code. */
 			var counter=0;var canStop=0;var canStop2=0;var animInterval=null;var msgInterval=null;var actionStr='';var aBack=0;var rStep=0;var cRated=0;var cFlagged=0;var tmpdn='';var cboxH="25"; var anmLeft=504;var anmR=0;var anmT=13;		//-->
 		</script>
         	</head>
-	<body onload="obj.init();">
+	<body>
 				<!--<script type="text/javascript" src="/tip_balloon.js"></script>-->
 		<div id="wrapper">
 			<div align="left" id="twrapper">
@@ -30,9 +31,10 @@
                     <div><a href="/addlinks.html" title="Submit your links to us">Submit links</a></div>
                     <div><a href="/a-using-share-dir.html" title="Check out our useful tips/tricks!">FAQ</a></div>
                     <div><a href="/last.html" title="Last 1000 searches">Last searches</a></div>
+                                        <div style="width:118px"><a href="#ddirect" name="modal" rel="nofollow" title="Direct download" onmouseover="this.firstChild.src='/images/down6.png'" onmouseout="this.firstChild.src='/images/down6_grey.png'"><img src="/images/down6_grey.png" class="png">Direct Download</a></div>
                                     </div>
                 <div id="rsetools">
-                                        <div>You are not logged in</div><div class="nav"><a href="/login.html">Log in</a></div><div class="nav"><a href="/register.html">Sign up</a></div>                </div>
+                                        <div>You are not logged in</div><div class="nav"><a href="#dlogin" name="modalf" rel="nofollow">Log in</a></div><div class="nav"><a href="#dregister" name="modalf" rel="nofollow">Sign up</a></div>                </div>
                             </div>
 		<div id="main" class="main_srch">
             
@@ -41,6 +43,19 @@
             <div id="h_anim1" class="h_anim1_srch"></div>
   			<script type="text/javascript"><!--
                 function uHa(tck,w) {var sS='';var t=document.getElementById('dh'+w).getElementsByTagName('input');var sj=0;for (i=0;i<t.length;i++) {if (t[i].id != 'dh'+w+'_a') if (tck) t[i].checked=false;else if (t[i].checked) {if (sj>0) sS+=',';sS+=t[i].value;++sj;}} document.getElementById('stype'+w).value=sS;}
+                function uHp(tck,w) {
+                    if (!tck) return;
+                    var bcA=$('#dh_a').checked;
+                    var sH=[0,15,29,25,26,13,30,9,10,6,12,8,19,11,31,40];
+                    $('#dh'+w+' input').prop("checked",false);
+                    $.each(sH,function(intIdx,oVal){
+                        $('#dh'+w+'_'+oVal).prop("checked",true);
+                    }
+                    );
+                    $('#dh_p').prop("checked",tck);
+                    $('#dh_a').prop("checked",(tck?false:bcA));
+                    $('#stype'+w).val(sH);
+                }
                 function uH(w) {document.getElementById('lapply').style.visibility='visible';var sS='';var t=document.getElementById('dh'+w).getElementsByTagName('input');var hac=true;var sj=0;for (i=0;i<t.length;i++) {if (t[i].id != 'dh'+w+'_a' && t[i].checked) {hac=false;if (sj>0) sS+=',';sS+=t[i].value;++sj;}} document.getElementById('dh'+w+'_a').checked=hac;document.getElementById('stype'+w).value=sS;}
   				var IE6 = false /*@cc_on || @_jscript_version < 5.7 @*/;
   				if (IE6)
@@ -53,7 +68,7 @@
       				<img id="anim" class="anim_srch" src="/images/axl4.gif" alt="">
 	    			<form action="http://sharedir.com/index.php" method="get" onsubmit="return subForm()" id="sform" name="sform">
 		    			<input type="hidden" name="start" id="start" value="0">
-				    	<input type="hidden" name="rval" value="827130581">
+				    	<input type="hidden" name="rval" value="2106000074">
                         <input type="hidden" name="sort" id="sort" value="">
                         <input type="hidden" name="size" id="size" value="">
                         <input type="hidden" id="stype" name="stype" value="">
@@ -85,19 +100,12 @@
                                         </select>
                                     </td>
                                 </tr>
-            					<tr>
-            						<td align="right">Use:</td>
-            						<td style="padding-left: 9px">
-            							<input type="radio" id="what_0" name="what" onclick="document.getElementById('ftype').disabled=true;document.getElementById('nd').disabled=true;document.getElementById('gf').disabled=true;document.getElementById('ma').disabled=true;document.getElementById('lblnd').className='rdonly';document.getElementById('lblgf').className='rdonly';document.getElementById('lblma').className='rdonly'" value="0"><label for="what_0">web search</label>
-            							<input type="radio" id="what_1" name="what" onclick="document.getElementById('ftype').disabled=false;document.getElementById('nd').disabled=false;document.getElementById('gf').disabled=false;document.getElementById('lblnd').className='';document.getElementById('lblgf').className=''" value="1" checked="checked"><label for="what_1">database search</label>
-            						</td>
-                                </tr>
                                 <tr>
                                     <td valign="top" style="text-align:right;padding-top:10px">Host:</td>
                                     <td style="padding-left: 9px">
                                         <div id="dh" class="dh">
-                                            <div><input type="checkbox" id="dh_a" checked="checked" onclick="uHa(this.checked,'');"><label for="dh_a">All hosts</label></div>
-                                                <div class="clr"></div><div><input type="checkbox" name="dh_0" id="dh_0" value="0" onclick="uH('');"><label for="dh_0">RapidShare.com</label></div><div><input type="checkbox" name="dh_2" id="dh_2" value="2" onclick="uH('');"><label for="dh_2">MegaUpload.com</label></div><div><input type="checkbox" name="dh_3" id="dh_3" value="3" onclick="uH('');"><label for="dh_3">MediaFire.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_4" id="dh_4" value="4" onclick="uH('');"><label for="dh_4">4Shared.com</label></div><div><input type="checkbox" name="dh_5" id="dh_5" value="5" onclick="uH('');"><label for="dh_5">HotFile.com</label></div><div><input type="checkbox" name="dh_6" id="dh_6" value="6" onclick="uH('');"><label for="dh_6">DepositFiles.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_7" id="dh_7" value="7" onclick="uH('');"><label for="dh_7">FileSonic.com</label></div><div><input type="checkbox" name="dh_8" id="dh_8" value="8" onclick="uH('');"><label for="dh_8">Uploading.com</label></div><div><input type="checkbox" name="dh_9" id="dh_9" value="9" onclick="uH('');"><label for="dh_9">LetItBit.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_10" id="dh_10" value="10" onclick="uH('');"><label for="dh_10">Easy-Share.com</label></div><div><input type="checkbox" name="dh_11" id="dh_11" value="11" onclick="uH('');"><label for="dh_11">Uploaded.to</label></div><div><input type="checkbox" name="dh_12" id="dh_12" value="12" onclick="uH('');"><label for="dh_12">TurboBit.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_13" id="dh_13" value="13" onclick="uH('');"><label for="dh_13">FileFactory.com</label></div><div><input type="checkbox" name="dh_14" id="dh_14" value="14" onclick="uH('');"><label for="dh_14">Badongo.com</label></div><div><input type="checkbox" name="dh_15" id="dh_15" value="15" onclick="uH('');"><label for="dh_15">NetLoad.in</label></div><div class="clr"></div><div><input type="checkbox" name="dh_16" id="dh_16" value="16" onclick="uH('');"><label for="dh_16">FileServe.com</label></div><div><input type="checkbox" name="dh_17" id="dh_17" value="17" onclick="uH('');"><label for="dh_17">DuckLoad.com</label></div><div><input type="checkbox" name="dh_18" id="dh_18" value="18" onclick="uH('');"><label for="dh_18">zShare.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_19" id="dh_19" value="19" onclick="uH('');"><label for="dh_19">Oron.com</label></div><div><input type="checkbox" name="dh_20" id="dh_20" value="20" onclick="uH('');"><label for="dh_20">BitShare.com</label></div><div><input type="checkbox" name="dh_21" id="dh_21" value="21" onclick="uH('');"><label for="dh_21">ZippyShare.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_22" id="dh_22" value="22" onclick="uH('');"><label for="dh_22">Vip-File.com</label></div><div><input type="checkbox" name="dh_23" id="dh_23" value="23" onclick="uH('');"><label for="dh_23">FreakShare.com</label></div><div><input type="checkbox" name="dh_24" id="dh_24" value="24" onclick="uH('');"><label for="dh_24">UserShare.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_25" id="dh_25" value="25" onclick="uH('');"><label for="dh_25">Wupload.com</label></div><div><input type="checkbox" name="dh_26" id="dh_26" value="26" onclick="uH('');"><label for="dh_26">UploadStation.com</label></div><div><input type="checkbox" name="dh_27" id="dh_27" value="27" onclick="uH('');"><label for="dh_27">EnterUpload.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_28" id="dh_28" value="28" onclick="uH('');"><label for="dh_28">FileKeen.com</label></div><div><input type="checkbox" name="dh_29" id="dh_29" value="29" onclick="uH('');"><label for="dh_29">FilePost.com</label></div><div><input type="checkbox" name="dh_30" id="dh_30" value="30" onclick="uH('');"><label for="dh_30">FileJungle.com</label></div>                                        </div>
+                                            <div><input type="checkbox" id="dh_a" checked="checked" onclick="uHa(this.checked,'');"><label for="dh_a">All hosts</label> <input type="checkbox" id="dh_p" onclick="uHp(this.checked,'');"><label for="dh_p">Premium</label></div>
+                                                <div class="clr"></div><div><input type="checkbox" name="dh_0" id="dh_0" value="0" onclick="uH('');"><label for="dh_0">RapidShare.com</label></div><div><input type="checkbox" name="dh_2" id="dh_2" value="2" onclick="uH('');"><label for="dh_2">MegaUpload.com</label></div><div><input type="checkbox" name="dh_3" id="dh_3" value="3" onclick="uH('');"><label for="dh_3">MediaFire.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_4" id="dh_4" value="4" onclick="uH('');"><label for="dh_4">4Shared.com</label></div><div><input type="checkbox" name="dh_5" id="dh_5" value="5" onclick="uH('');"><label for="dh_5">HotFile.com</label></div><div><input type="checkbox" name="dh_6" id="dh_6" value="6" onclick="uH('');"><label for="dh_6">DepositFiles.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_7" id="dh_7" value="7" onclick="uH('');"><label for="dh_7">FileSonic.com</label></div><div><input type="checkbox" name="dh_8" id="dh_8" value="8" onclick="uH('');"><label for="dh_8">Uploading.com</label></div><div><input type="checkbox" name="dh_9" id="dh_9" value="9" onclick="uH('');"><label for="dh_9">LetItBit.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_10" id="dh_10" value="10" onclick="uH('');"><label for="dh_10">Crocko.com</label></div><div><input type="checkbox" name="dh_11" id="dh_11" value="11" onclick="uH('');"><label for="dh_11">Uploaded.to</label></div><div><input type="checkbox" name="dh_12" id="dh_12" value="12" onclick="uH('');"><label for="dh_12">TurboBit.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_13" id="dh_13" value="13" onclick="uH('');"><label for="dh_13">FileFactory.com</label></div><div><input type="checkbox" name="dh_14" id="dh_14" value="14" onclick="uH('');"><label for="dh_14">Badongo.com</label></div><div><input type="checkbox" name="dh_15" id="dh_15" value="15" onclick="uH('');"><label for="dh_15">NetLoad.in</label></div><div class="clr"></div><div><input type="checkbox" name="dh_16" id="dh_16" value="16" onclick="uH('');"><label for="dh_16">FileServe.com</label></div><div><input type="checkbox" name="dh_18" id="dh_18" value="18" onclick="uH('');"><label for="dh_18">zShare.net</label></div><div><input type="checkbox" name="dh_19" id="dh_19" value="19" onclick="uH('');"><label for="dh_19">Oron.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_20" id="dh_20" value="20" onclick="uH('');"><label for="dh_20">BitShare.com</label></div><div><input type="checkbox" name="dh_21" id="dh_21" value="21" onclick="uH('');"><label for="dh_21">ZippyShare.com</label></div><div><input type="checkbox" name="dh_22" id="dh_22" value="22" onclick="uH('');"><label for="dh_22">Vip-File.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_23" id="dh_23" value="23" onclick="uH('');"><label for="dh_23">FreakShare.com</label></div><div><input type="checkbox" name="dh_25" id="dh_25" value="25" onclick="uH('');"><label for="dh_25">Wupload.com</label></div><div><input type="checkbox" name="dh_26" id="dh_26" value="26" onclick="uH('');"><label for="dh_26">UploadStation.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_27" id="dh_27" value="27" onclick="uH('');"><label for="dh_27">EnterUpload.com</label></div><div><input type="checkbox" name="dh_28" id="dh_28" value="28" onclick="uH('');"><label for="dh_28">Filerio.com</label></div><div><input type="checkbox" name="dh_29" id="dh_29" value="29" onclick="uH('');"><label for="dh_29">FilePost.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_30" id="dh_30" value="30" onclick="uH('');"><label for="dh_30">FileJungle.com</label></div><div><input type="checkbox" name="dh_31" id="dh_31" value="31" onclick="uH('');"><label for="dh_31">Extabit.com</label></div><div><input type="checkbox" name="dh_32" id="dh_32" value="32" onclick="uH('');"><label for="dh_32">Share-Online.biz</label></div><div class="clr"></div><div><input type="checkbox" name="dh_33" id="dh_33" value="33" onclick="uH('');"><label for="dh_33">HulkShare.com</label></div><div><input type="checkbox" name="dh_34" id="dh_34" value="34" onclick="uH('');"><label for="dh_34">UniBytes.com</label></div><div><input type="checkbox" name="dh_35" id="dh_35" value="35" onclick="uH('');"><label for="dh_35">Sendspace.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_36" id="dh_36" value="36" onclick="uH('');"><label for="dh_36">PutLocker.com</label></div><div><input type="checkbox" name="dh_37" id="dh_37" value="37" onclick="uH('');"><label for="dh_37">NovaMov.com</label></div><div><input type="checkbox" name="dh_38" id="dh_38" value="38" onclick="uH('');"><label for="dh_38">Scribd.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_39" id="dh_39" value="39" onclick="uH('');"><label for="dh_39">Ziddu.com</label></div><div><input type="checkbox" name="dh_40" id="dh_40" value="40" onclick="uH('');"><label for="dh_40">Rapidgator.net</label></div><div><input type="checkbox" name="dh_41" id="dh_41" value="41" onclick="uH('');"><label for="dh_41">HitFile.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_42" id="dh_42" value="42" onclick="uH('');"><label for="dh_42">FileVelocity.com</label></div><div><input type="checkbox" name="dh_43" id="dh_43" value="43" onclick="uH('');"><label for="dh_43">YouSendIt.com</label></div><div><input type="checkbox" name="dh_44" id="dh_44" value="44" onclick="uH('');"><label for="dh_44">BayFiles.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_45" id="dh_45" value="45" onclick="uH('');"><label for="dh_45">Peeje.com</label></div><div><input type="checkbox" name="dh_46" id="dh_46" value="46" onclick="uH('');"><label for="dh_46">GameFront.com</label></div><div><input type="checkbox" name="dh_47" id="dh_47" value="47" onclick="uH('');"><label for="dh_47">FiberUpload.com</label></div><div class="clr"></div><div><input type="checkbox" name="dh_48" id="dh_48" value="48" onclick="uH('');"><label for="dh_48">JumboFiles.com</label></div><div><input type="checkbox" name="dh_49" id="dh_49" value="49" onclick="uH('');"><label for="dh_49">FileReactor.com</label></div><div><input type="checkbox" name="dh_50" id="dh_50" value="50" onclick="uH('');"><label for="dh_50">LuckyShare.net</label></div><div class="clr"></div><div><input type="checkbox" name="dh_51" id="dh_51" value="51" onclick="uH('');"><label for="dh_51">AsFile.com</label></div><div><input type="checkbox" name="dh_52" id="dh_52" value="52" onclick="uH('');"><label for="dh_52">RyuShare.com</label></div><div><input type="checkbox" name="dh_53" id="dh_53" value="53" onclick="uH('');"><label for="dh_53">i-FileZ.com</label></div>                                        </div>
                                     </td>
                                 </tr>
                                 <tr><td>Options:</td>
@@ -119,7 +127,7 @@
 			<noscript>Sorry, you must have a javascript enabled browser to use this site!</noscript>
             <h1 id="pg_p" class="pg_header">Privacy policy</h1>
 <div class="common_page">
-<div class="indent"></div>ShareDir.com committed to user privacy and our policy below describes our principles in maintaining user trust and confidence
+<div class="indent"></div>ShareDir.com is committed to user privacy and our policy below describes our principles in maintaining user trust and confidence
  and protecting your personal information.<br><br>
 <h2>Information Collection and Use</h2>
 <div class="indent"></div>Any emails that you enter on this site for the purpose of subscribing to any of our services are used strictly for these purposes,
@@ -136,14 +144,12 @@ at any time you can unsubscribe from our services in which case the email addres
  required by law to protect and defend the rights of our company, and in certain instances, to protect the personal safety of users and the
  public.
 </div>
-<br><br>
-
-                <div class="clr"></div>
+<br><br>                <div class="clr"></div>
 		    </div>
         </div>
         			<div class="clr" align="center" id="footer">
 				<a href="/about.html">About</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/terms.html">Terms of Use</a> | <a href="/legal.html">DMCA Policy</a> | <a href="/contact.html" title="Send us your comments, suggestions, bug reports...">Contact</a>
-                <div style="padding-top: 4px">© 2011, <a href="http://sharedir.com" title="media search engine">ShareDir.com</a></div>
+                <div style="padding-top: 4px">© 2012, <a href="http://sharedir.com" title="media search engine">ShareDir.com</a></div>
 				<br>
                 <div id="eCont">
                 </div>
@@ -159,6 +165,164 @@ at any time you can unsubscribe from our services in which case the email addres
           })();
         </script>
 	</div>
+            <div id="boxes">
+            <div id="ddirect" class="window">
+                <h1>Direct Download</h1>
+                <h2>Paste the link here to download without waiting</h2>
+                <div>
+                    <div align="left">
+                        <input type="text" id="ddlink" style="width:280px"><input onclick="if ($('#ddlink').val().length < 10) alert('Please enter a valid link.');else document.location.href='http://dl.sharedir.com/?i='+encodeURIComponent($('#ddlink').val())" type="button" value="Direct Download" style="width:120px;margin-left:5px"><br>
+                        <span class="small rdonly">eg. http://filesonic.com<span></span>/file/957762126</span><br>
+                    </div>
+                    <h2 style="margin:20px 0 5px 0">Convert multiple links to Direct download links</h2>
+                    <div align="left">
+                        <div style="float:left"><textarea id="dmul" style="width:330px;height:60px"></textarea></div>
+                        <div style="float:left"><input style="width:70px;margin-left:5px" type="button" onclick="$('#dmul').val($('#dmul').val().replace(/(http\:\/\/)?([^\r\n]+)([\r\n]*)/g, function(str,a,x,y){if (x.match(/^dl\.sharedir/)) return str;else return 'http://dl.sharedir.com/?i='+encodeURIComponent(a+x)+y;}));" value="Convert"></div>
+                        <div class="clr small rdonly">enter one link per line</div>
+                    </div>
+                    <div class="small" style="padding:30px 0 5px 0;font-weight:bold;">Supported file sharing services:</div>
+                    <div class="small">
+                    RapidShare.com, <span class="rdheavy" title="temporary unavailable">FileSonic.com</span>, NetLoad.in, FilePost.com, Wupload.com, UploadStation.com, FileFactory.com, FileJungle.com, LetItBit.net, Crocko.com, DepositFiles.com, TurboBit.net, Uploading.com, Oron.com, Uploaded.to, Extabit.com, Rapidgator.net                    </div>
+                </div>
+                <a href="#" class="close"><img src="/images/chk1.png" class="png" alt="Close"></a>
+            </div>
+
+                        <div class="window" style="display:block;width:290px;height:320px;top:34px;right:8px;background-color:#EEF3FD;border: 1px solid #D3E0FA;font-size:12px">
+                <h1 style="font-size:14px;padding:0 10px 0 10px">Sign up and download without waiting from these file sharing sites:</h1>
+                <div style="text-align:left;margin:15px;font-size:11px">
+                                        <div style="float:left;width:50%">RapidShare.com<br><span class="rdheavy" title="temporary unavailable">FileSonic.com</span><br>NetLoad.in<br>FilePost.com<br>Wupload.com<br>UploadStation.com<br>FileFactory.com<br>FileJungle.com<br>LetItBit.net</div>
+                    <div style="float:left;width:50%">Crocko.com<br>DepositFiles.com<br>TurboBit.net<br>Uploading.com<br>Oron.com<br>Uploaded.to<br>Extabit.com<br>Rapidgator.net</div>
+                </div>
+                <div class="clr">
+                    <div style="padding:15px"><a href="#dregister" name="modalf" rel="nofollow" class="under" style="font-size:21px">Sign up now!</a></div>
+                    You will get <strong>250 MB</strong> for direct downloads daily. If you need more traffic, you can upgrade to Premium at any time.<br>
+                    <div style="padding:7px 0 6px 0">OR</div>
+                    <a href="#dgopremium" name="modal" rel="nofollow" title="$10 for 1 month" class="under">Go premium right away</a>
+                </div>
+                <a href="#" class="close"><img src="/images/chk1.png" class="png" alt="Close"></a>
+            </div>
+                                <div id="dgopremium" class="window">
+                        <h1>Get a Premium account</h1>
+                        <h2>and enjoy these premium features</h2>
+                        <div>
+                            <div style="text-align:left">
+                                <ul>
+                                    <li>Download without limits from <b>17</b> hosts</li>
+                                    <li>Unlimited speed</li>
+                                    <li>*<b>30 GB</b> traffic with <b>3 GB</b> added daily</li>
+                                    <li>Multiple simultaneous downloads</li>
+                                    <li>Download resuming</li>
+                                    <li>Support for download managers</li>
+                                    <li>Download files directly from any site on the web through our SD Tools browser plugin</li>
+                                    <li>No advertisements</li>
+                                </ul>
+                            </div>
+                            <!-- <img src="/images/get_premium2.gif" alt="Get Premium" width="165" height="35" /> -->
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                <input type="hidden" name="hosted_button_id" value="RM6JDCKBWAHG8">
+                                <input type="hidden" name="custom" value="0_edda49441eda0060bca2a46944015434">
+                                <input type="hidden" name="return_url" value="http://sharedir.com/panel&amp;psuccess2.html">                                <input type="image" src="http://sharedir.com/images/get_premium2.gif" style="border:2px solid #A9A9A9;position:relative;left:3px" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                            </form>
+                            <div class="small rdonly">$10 / month</div>
+                            <div class="small" style="padding:20px 0 5px 0;font-weight:bold;">Supported file sharing services:</div>
+                            <div class="small">
+                            RapidShare.com, <span class="rdheavy" title="temporary unavailable">FileSonic.com</span>, NetLoad.in, FilePost.com, Wupload.com, UploadStation.com, FileFactory.com, FileJungle.com, LetItBit.net, Crocko.com, DepositFiles.com, TurboBit.net, Uploading.com, Oron.com, Uploaded.to, Extabit.com, Rapidgator.net                            </div>
+                            <div class="small" style="padding:15px 0 5px 0;font-weight:bold;">*Traffic limits:</div>
+                            <div class="small">
+                                You will get 30 GB of download traffic every month + 3 GB added daily, up to a 30 GB maximum.
+                            </div>
+                        </div>
+                        <div style="width:92%;position:absolute;bottom:0;left:0;height:32px;margin:15px 0 0 2.5%;padding:15px 10px 0 10px;border-top:1px solid #C0C0C0">
+                            <div class="small rdonly" style="float:left">Secure payments by</div><div style="float:left"><img src="/images/payp.png" style="padding-left:15px;width:52px;height:17px" alt="Paypal"><img src="/images/paycc.png" style="padding-left:15px;width:127px;height:16px" alt="CC"></div>
+                        </div>
+                        <a href="#" class="close"><img src="/images/chk1.png" class="png" alt="Close"></a>
+                    </div>
+            
+            <div id="mask"></div>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                //select all the a tag with name equal to modal
+                $('a[name=modal]').click(function(e) {
+                    //Cancel the link behavior
+                    e.preventDefault();
+                    //Get the A tag
+                    var id = $(this).attr('href');
+                    //Get the screen height and width
+                    var maskHeight = $(document).height();
+                    var maskWidth = $(window).width();
+                    //Set height and width to mask to fill up the whole screen
+                    $('#mask').css({'width':maskWidth,'height':maskHeight});
+                    //transition effect
+                    //$('#mask').fadeIn(500);
+                    $('#mask').fadeTo("fast",0.6);
+                    //Get the window height and width
+                    var winH = $(window).height();
+                    var winW = $(window).width();
+                    //Set the popup window to center
+                    $(id).css('top',  winH/2-$(id).height()/2);
+                    $(id).css('left', winW/2-$(id).width()/2);
+                    //transition effect
+                    $(id).fadeIn(500);
+                });
+
+                $('a[name=modalf]').click(function(e) {
+                    //Cancel the link behavior
+                    e.preventDefault();
+                    //Get the A tag
+                    var id = $(this).attr('href');
+                    $('.window').hide();
+                    //Get the window height and width
+                    var winH = $(window).height();
+                    var winW = $(window).width();
+                    var inhtml = '/index_'+id.substring(2)+'.inc.php?popup';
+                    $('iframe.window').remove();
+                    $('<iframe />', {
+                        id: id.substring(1),
+                        class: 'window',
+                        scrolling: 'no',
+                        src: inhtml
+                    }).appendTo('#boxes');
+            		if ($.browser.safari || $.browser.opera) {
+            			$(id).load(function() {
+            					setTimeout("document.getElementById('"+this.id+"').style.height=document.getElementById('"+this.id+"').contentWindow.document.body.offsetHeight+'px';document.getElementById('"+this.id+"').style.width=document.getElementById('"+this.id+"').contentWindow.document.body.offsetWidth+'px';", 0);
+            				}
+            			);
+                        var iSource = $(id).src;
+                        $(id).src = '';
+                        $(id).src = iSource;
+                    }
+            		else {
+            			$(id).load(function() {
+            					// Set inline style to equal the body height of the iframed content.
+            					this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+                                this.style.width = this.contentWindow.document.body.offsetWidth + 'px';
+            				}
+            			);
+            		}
+                    //Set the popup window to top right
+                    $(id).css('top', 34);
+                    $(id).css('right', 8);
+                    //transition effect
+                    $(id).fadeIn(500);
+                });
+
+                //if close button is clicked
+                $('.window .close').click(function (e) {
+                    //Cancel the link behavior
+                    e.preventDefault();
+                    $('#mask, .window').hide();
+                });
+
+                //if mask is clicked
+                $('#mask').click(function () {
+                    $(this).hide();
+                    $('.window').hide();
+                });
+            });
+        </script>
     	
 
 </body></html>
