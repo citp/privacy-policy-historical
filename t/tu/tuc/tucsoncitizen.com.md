@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007192617id_/http%3A//tucsoncitizen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234521id_/http%3A//tucsoncitizen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tucson Citizen
 
