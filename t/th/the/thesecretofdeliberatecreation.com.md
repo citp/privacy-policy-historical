@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110639id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230025id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
+
+### This Page has Opened in a Separate Page, the Page You Were on Should Still be Open. If it is not, just click the 'Back Button' on Your Browser to Return. 
 
 **HOW WE PROTECT YOUR PRIVACY**
 
@@ -78,4 +83,4 @@ USA
 
 This privacy policy was last updated on 3-01-2010.
 
-Copyright © 2020 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2020 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
