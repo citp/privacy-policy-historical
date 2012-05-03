@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleoneclick.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202213220id_/http%3A//www.simpleoneclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleoneclick.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015217id_/http%3A//simpleoneclick.com/privacy.php) for the most accurate reproduction.*
 
 # Simple One Click
 
