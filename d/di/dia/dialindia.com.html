@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dialindia.com privacy policy that was archived on 2011-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111225150102id_/http%3A//www.dialindia.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dialindia.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503172133id_/http%3A//www.dialindia.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -13,7 +13,7 @@
 
 <link href="/imagez/stylesheet.css" rel="stylesheet" rev="stylesheet" type="text/css">
 <link href="/imagez/styles.css" rel="stylesheet" rev="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script></head>
+</head>
 <body>
 <div align="center">
 <!-- Top File start-->
@@ -31,29 +31,11 @@
 <div class="extopbubgoff"><a href="http://classifieds.dialindia.com/">classifieds</a> <img src="/imagez/new-icon.png" alt=""></div>
 <div class="tl"><img src="/imagez/tl.gif" alt=""></div>
 
-<div class="extopbubgofffb">
-<script type="text/javascript">(function(d){
-  var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-  js = d.createElement('script'); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  d.getElementsByTagName('head')[0].appendChild(js);
-}(document));</script>
-<fb:like href="http://www.facebook.com/dialindiacom" send="false" layout="button_count"></fb:like>
 
 
-<!-- Place this tag where you want the +1 button to render -->
-<g:plusone size="small"></g:plusone>
-<!-- Place this render call where appropriate -->
-<script type="text/javascript">
-(function() {
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = 'https://apis.google.com/js/plusone.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-})();
-</script>
+<div class="extopbubgofffb">&nbsp;</div>
 
 
-</div>
 
 </div>
 
@@ -81,6 +63,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <option value="http://mumbai.dialindia.com/">Mumbai</option>
 <option value="http://nagpur.dialindia.com/">Nagpur</option>
 <option value="http://nashik.dialindia.com/">Nashik</option>
+<option value="http://patna.dialindia.com/">Patna</option>
 <option value="http://pune.dialindia.com/">Pune</option>
 <option value="http://raipur.dialindia.com/">Raipur</option>
 <option value="http://surat.dialindia.com/">Surat</option>
@@ -104,6 +87,53 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <div id="headerright">
 <div id="loginprobs">
 </div>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script language="JavaScript" type="text/javascript"> 
+var APP_ID="225175490845279";
+window.fbAsyncInit = initFacebook;
+function initFacebook()
+{
+FB.init({
+appId  : APP_ID,
+status : true, // check login status
+cookie : false, // enable cookies to allow the server to access the session
+xfbml  : true  // parse XFBML
+});
+//FB.getLoginStatus(onFacebookLoginStatus);
+};
+(function() {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+function facebookLogout(){ FB.logout();  }
+var facebookLoginWindow;
+var loginWindowTimer;
+function facebookLogin(){
+var popupWidth=500;
+var popupHeight=300;
+var xPosition=($(window).width()-popupWidth)/2;
+var yPosition=($(window).height()-popupHeight)/2;
+var loginUrl="http://www.facebook.com/dialog/oauth/?"+
+"scope=email,user_birthday,status_update,publish_stream&"+
+"client_id="+APP_ID+"&"+
+"redirect_uri=http://www.dialindia.com/redirect.html&"+
+"response_type=token&"+
+"display=popup";
+facebookLoginWindow=window.open(loginUrl, "LoginWindow", 
+"location=1,scrollbars=1,"+
+"width="+popupWidth+",height="+popupHeight+","+
+"left="+xPosition+",top="+yPosition);
+loginWindowTimer=setInterval(onTimerCallbackToCheckLoginWindowClosure, 1000); }
+function onTimerCallbackToCheckLoginWindowClosure() { if (facebookLoginWindow.closed) { clearInterval(loginWindowTimer); initFacebook(); FB.getLoginStatus(onFacebookLoginStatus); }}
+function onFacebookLoginStatus(response){ if (response.status=="connected" && response.authResponse){ FB.api("/me", onMyInfoLoaded); }}  
+function onMyInfoLoaded(response){ window.location="http://www.dialindia.com/face_byid.php?id="+response.id; }
+</script>
+
+
 <form method="POST" action="/login_members.php">
 <div id="user">Email<br>
 <input type="text" name="txtUsername" size="15" class="formin11"></div>
@@ -112,12 +142,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po
 <div id="login">
 <input src="/imagez/signin.png" alt="Login" title="Login" name="B1" type="image" class="img_w"></div>
 <div id="forgot">
-<fb:login-button autologoutlink="true" size="small" perms="email,user_birthday,status_update,publish_stream"></fb:login-button>
-&nbsp;
-
-<a title="Sign Up" href="http://www.dialindia.com/members/registration.html">New User</a> 
-&nbsp;| &nbsp;<a title="Retrieve Password" href="http://www.dialindia.com/members/get_password.html">Forgot 
-Password</a></div>
+<a title="Sign Up" href="http://www.dialindia.com/members/registration.html">New User</a> &nbsp;| &nbsp;<a title="Retrieve Password" href="http://www.dialindia.com/members/get_password.html">Forgot Password</a> &nbsp;| &nbsp;<a href="javascript:facebookLogin();">facebook login</a></div>
 
 
 
@@ -168,7 +193,7 @@ ajaxDisplay.innerHTML = ajaxRequest.responseText;
 }}
 var queryString = "?w=" + key + "&city=" + 0;
 document.getElementById('Parent').style.display = 'block';
-ajaxRequest.open("GET", "predict.php" + queryString, true);
+ajaxRequest.open("GET", "/predict.php" + queryString, true);
 ajaxRequest.send(null); 
 //alert(" " + key + " ");
 }else{
@@ -197,7 +222,11 @@ ajaxDisplay.innerHTML = '';
 <script language="JavaScript" type="text/javascript">
 function changeAction(){
 var wht = document.getElementById('top_w').value;
+wht = wht.replace(/&/gi,"and");
+wht = wht.replace(/#/gi,"");
 var whr = document.getElementById('top_loc').value;
+whr = whr.replace(/&/gi,"and");
+whr = whr.replace(/#/gi,"");
 var strw = wht.toLowerCase();
 var arrw = strw.split(" ");
 var what = arrw.join("+");
@@ -273,6 +302,7 @@ Change City &nbsp;
 <option value="http://mumbai.dialindia.com/">Mumbai</option>
 <option value="http://nagpur.dialindia.com/">Nagpur</option>
 <option value="http://nashik.dialindia.com/">Nashik</option>
+<option value="http://patna.dialindia.com/">Patna</option>
 <option value="http://pune.dialindia.com/">Pune</option>
 <option value="http://raipur.dialindia.com/">Raipur</option>
 <option value="http://surat.dialindia.com/">Surat</option>
@@ -671,21 +701,22 @@ Welcome to <a href="http://www.dialindia.com/">Dialindia.com</a>
 		<li class="foot_city_li"><a href="http://bhopal.dialindia.com/" title="bhopal yellow pages">Bhopal</a></li>
 		<li class="foot_city_li"><a href="http://chennai.dialindia.com/" title="chennai yellow pages">Chennai</a></li>
 		<li class="foot_city_li"><a href="http://coimbatore.dialindia.com/" title="coimbatore yellow pages">Coimbatore</a></li>
-		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://delhi.dialindia.com/" title="delhi yellow pages">Delhi</a></li>
-		<li class="foot_city_li"><a href="http://hyderabad.dialindia.com/" title="hyderabad yellow pages">Hyderabad</a></li>
+		<li class="foot_city_li"><a href="http://delhi.dialindia.com/" title="delhi yellow pages">Delhi</a></li>
+		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://hyderabad.dialindia.com/" title="hyderabad yellow pages">Hyderabad</a></li>
 		<li class="foot_city_li"><a href="http://indore.dialindia.com/" title="indore yellow pages">Indore</a></li>
 		<li class="foot_city_li"><a href="http://jaipur.dialindia.com/" title="jaipur yellow pages">Jaipur</a></li>
 		<li class="foot_city_li"><a href="http://jalandhar.dialindia.com/" title="jalandhar yellow pages">Jalandhar</a></li>
 		<li class="foot_city_li"><a href="http://kanpur.dialindia.com/" title="kanpur yellow pages">Kanpur</a></li>
-		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://kochi.dialindia.com/" title="kochi yellow pages">Kochi</a></li>
+		<li class="foot_city_li"><a href="http://kochi.dialindia.com/" title="kochi yellow pages">Kochi</a></li>
 		<li class="foot_city_li"><a href="http://kolkata.dialindia.com/" title="kolkata yellow pages">Kolkata</a></li>
-		<li class="foot_city_li"><a href="http://lucknow.dialindia.com/" title="lucknow yellow pages">Lucknow</a></li>
+		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://lucknow.dialindia.com/" title="lucknow yellow pages">Lucknow</a></li>
 		<li class="foot_city_li"><a href="http://ludhiana.dialindia.com/" title="ludhiana yellow pages">Ludhiana</a></li>
 		<li class="foot_city_li"><a href="http://mumbai.dialindia.com/" title="mumbai yellow pages">Mumbai</a></li>
 		<li class="foot_city_li"><a href="http://nagpur.dialindia.com/" title="nagpur yellow pages">Nagpur</a></li>
-		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://nashik.dialindia.com/" title="nashik yellow pages">Nashik</a></li>
+		<li class="foot_city_li"><a href="http://nashik.dialindia.com/" title="nashik yellow pages">Nashik</a></li>
+		<li class="foot_city_li"><a href="http://patna.dialindia.com/" title="patna yellow pages">Patna</a></li>
 		<li class="foot_city_li"><a href="http://pune.dialindia.com/" title="pune yellow pages">Pune</a></li>
-		<li class="foot_city_li"><a href="http://raipur.dialindia.com/" title="raipur yellow pages">Raipur</a></li>
+		</ul></div><div style="float: left; width: 100px"><ul><li class="foot_city_li"><a href="http://raipur.dialindia.com/" title="raipur yellow pages">Raipur</a></li>
 		<li class="foot_city_li"><a href="http://surat.dialindia.com/" title="surat yellow pages">Surat</a></li>
 		<li class="foot_city_li"><a href="http://vadodara.dialindia.com/" title="vadodara yellow pages">Vadodara</a></li>
 		</ul></div>
@@ -1039,34 +1070,6 @@ Welcome to <a href="http://www.dialindia.com/">Dialindia.com</a>
 
 
 
-
-<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=225175490845279" async=""></script></div>
-
-<script type="text/javascript">
-window.fbAsyncInit = function() {
-FB.init({appId: '225175490845279', status: true, cookie: true, xfbml: true});
-FB.Event.subscribe('auth.login', function(response) {
-login();
-});
-FB.Event.subscribe('auth.logout', function(response) {
-logout();
-});
-};
-(function() {
-var e = document.createElement('script');
-e.type = 'text/javascript';
-e.src = document.location.protocol +
-'//connect.facebook.net/en_US/all.js#xfbml=1&appId=225175490845279';
-e.async = true;
-document.getElementById('fb-root').appendChild(e);
-}());
-function login(){
-document.location.href = "http://www.dialindia.com/fb_log.php";
-}
-function logout(){
-document.location.href = "http://www.dialindia.com/logout.php";
-}
-</script>
 
 
 
