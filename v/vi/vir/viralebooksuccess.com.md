@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viralebooksuccess.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231212832id_/http%3A//viralebooksuccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralebooksuccess.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000708id_/http%3A//www.viralebooksuccess.com/privacy.php) for the most accurate reproduction.*
 
 # |ViralEbookSuccess| Viral Ebook Branding Service -
 
   
 Recommended  
-[](http://www.viralebooksuccess.com/bannerclick.php?id=7)
+[](http://www.viralebooksuccess.com/bannerclick.php?id=11)
 
 |ViralEbookSuccess| Viral Ebook Branding Service - Privacy Policy
 
