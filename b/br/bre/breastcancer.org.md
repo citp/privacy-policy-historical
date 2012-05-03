@@ -1,54 +1,23 @@
-> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024116id_/http%3A//bco.convio.net/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancer.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503131924id_/http%3A//www.breastcancer.org/about_us/bco_commitment) for the most accurate reproduction.*
 
-# Breastcancer.org: Privacy Policy
+# Our Commitment to You
 
-Breastcancer.org has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL bco.convio.net.
+Our commitment to you is to maintain the highest standards of medical excellence and integrity. Our goal is to meet your needs while respecting your privacy and individuality.
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Breastcancer.org reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+We welcome your participation at Breastcancer.org, and rely on you to help us keep this site a safe, respectful, welcoming place on the Web. Therefore, we ask that you abide by the Terms of Use and Rules of Conduct that appear on the pages in this section.
 
-1\. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of;   
-2\. What personally identifiable information of yours is collected through the Site;   
-3\. Who collects such information;   
-4\. How such information is used;   
-5\. With whom your information may be shared;   
-6\. What choices you have regarding collection, use and distribution of your information;   
-7\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;   
-8\. and, How you can correct any inaccuracies in your information. 
+In addition to following our own strict standards of excellence, we subscribe to the HON Code principles of the Health On the Net Foundation, and our site has been reviewed by TRUSTe for maintaining privacy standards.
 
-Questions regarding this statement should be directed to Breastcancer.org by sending an email to [comments@breastcancer.org](mailto:comments@breastcancer.org). Please reference this Privacy Policy in your subject line.
+This confirms that Breastcancer.org™ is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
-## What Information We Collect and How We Use That Information
+  * What personally identifiable information of yours or third party personally identifiable information that is collected from you through the web site
+  * The organization collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
+  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Breastcancer.org™ control
+  * How you can correct any inaccuracies in the information
 
-Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers.
 
-## Internet Protocol Address
 
-We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
-
-## Use of "Cookies"
-
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
-
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them.
-
-## Security
-
-All information provided to Breastcancer.org is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of Breastcancer.org. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
-
-## Tell-A-Friend
-
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Breastcancer.org will automatically send the friend a one-time email inviting them to visit the Site. Breastcancer.org stores this information for the sole purpose of sending this one-time email.
-
-## Other Web Sites
-
-Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Breastcancer.org has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
-
-## Contacting the Web Site
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
-
-Breastcancer.org   
-7 East Lancaster Avenue, 3rd Floor   
-Ardmore, PA 19003
-
-You can also send an email to: [comments@breastcancer.org](mailto:comments@breastcancer.org)
+If you have questions or concerns regarding this statement, you should first [contact Breastcancer.org Customer Support](http://www.breastcancer.org/contact_us/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.com/about_TRUSTe/contact_us.html "TRUSTe - Make Privacy Your Choice"). TRUSTe will then serve as a liaison with the web site to resolve your concerns.
