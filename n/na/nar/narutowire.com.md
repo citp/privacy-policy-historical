@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231223300id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutowire.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503024731id_/http%3A//www.nwanime.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: NWAnime.com
 
@@ -54,7 +54,7 @@ Modification
 
 Third Parties' Practices 
 
-  This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that NWAnime.com does not own or control, or does not employ or manage. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
 
 **Sharing or Usage**  
 We will never share, sell, or rent individual personal information with anyone for their promotional use without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information, and to contracted service providers for purposes of providing services relating to our communications with you.
