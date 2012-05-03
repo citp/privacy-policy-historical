@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202011542id_/http%3A//www.clgaming.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221523id_/http%3A//clgaming.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CLGaming.net
 
-Privacy Policy  
-Counter Logic Gaming Web site
-
 1\. Our Privacy Commitment
 
-1.1 Statement of Intent. Counter Logic Gaming(Further referred to as CLG) respects and upholds an individual's right to privacy and to protection of his or her personal information. 
+1.1 Statement of Intent. Counter Logic Gaming(Further referred to as CLG) respects and upholds an individual\'s right to privacy and to protection of his or her personal information. 
 
 This CLG Web Site Privacy Policy (“Policy”) is intended to comply with Canada’s federal privacy laws including the Personal Information Protection and Electronic Documents Act (S.C. 2000, c 5) and the ten key principles of the Canadian Standards Association Model Code for the Protection of Personal Information (CAN/CSA – Q830-96). 
 
@@ -33,7 +30,7 @@ Publicly available information, such as a directory listing of your name, addres
 
 3\. Web Site Matters
 
-3.1 Cookies. "Cookies" are a feature of every Internet software browser and are used to collect information anonymously and to track user patterns on a web site. A cookie is a small text file that is placed on the hard disk drive of your computer by a web site. Cookies contain a unique identification number that identifies your browser, but not the visitor, to our computers each time you visit our web site. Cookies tell us which pages of our web sites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on CLG's web site. Cookies are used to establish a user session and allow our computers to correctly provide visitors to our web site with the appropriate frames and content. Our cookies will not follow your travels on the World Wide Web. 
+3.1 Cookies. "Cookies" are a feature of every Internet software browser and are used to collect information anonymously and to track user patterns on a web site. A cookie is a small text file that is placed on the hard disk drive of your computer by a web site. Cookies contain a unique identification number that identifies your browser, but not the visitor, to our computers each time you visit our web site. Cookies tell us which pages of our web sites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on CLG\'s web site. Cookies are used to establish a user session and allow our computers to correctly provide visitors to our web site with the appropriate frames and content. Our cookies will not follow your travels on the World Wide Web. 
 
 3.2 Security. Our web site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, CLG will take all reasonable steps to ensure the safety of your personal information. 
 
