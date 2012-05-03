@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterfly.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006192631id_/http%3A//betterfly.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterfly.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214800id_/http%3A//betterfly.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Betterfly.com
 
