@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184943id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220755id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
 
-# BPO - Business Process Outsourcing - Measureable Results, Delivered Globally.
+# Privacy Policy | Corporate Policy | Sutherland Global Services
 
 We at Sutherland Global Services, Inc. and our affiliated companies worldwide ("Sutherland") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
