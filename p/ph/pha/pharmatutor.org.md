@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110642id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503061219id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Pharmatutor | PharmaTutor
 
-  
-This is the web site of **Pharma tutor**   **INC.   Bangalore**
+This is the web site of **PharmaTutor** **.org** **,   India**  
+
 
 We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmatutor.org) or [admin@pharmatutor.org](mailto:admin@pharmatutor.org)  
 
@@ -16,14 +16,12 @@ We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmat
   * If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
   * Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
   * Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
-  * With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of:  
+  * **With respect to Ad Servers:** To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of:  
                  [ **http://www.google.com/privacy.html**](http://www.google.com/privacy.html)
   * With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
   * If you feel that this site is not following its stated information policy, you may contact us at the above addresses.  
 
 
 
-
-[ ](http://www.pharmatutor.org/careers/rasa-life-sciences-job-oriented-training-program-for-pharma-and-lifesciences)
 
 [ ](http://www.pharmatutor.org/publish-your-pharma-lifesciences-articles-online)
