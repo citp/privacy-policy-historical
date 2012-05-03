@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markarticles.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125123217id_/http%3A//markarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markarticles.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014520id_/http%3A//www.markarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
