@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solosplanet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125211233id_/http%3A//www.solosplanet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solosplanet.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214547id_/http%3A//solosplanet.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
