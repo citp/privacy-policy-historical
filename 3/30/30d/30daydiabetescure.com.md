@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 30daydiabetescure.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125072033id_/http%3A//redesign.30daydiabetescure.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30daydiabetescure.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204944id_/http%3A//redesign.30daydiabetescure.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy
 
