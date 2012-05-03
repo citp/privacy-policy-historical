@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the findwebhosting.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215070221id_/http%3A//domaindeluxe.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findwebhosting.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503022020id_/http%3A//findwebhosting.com/privacypolicy) for the most accurate reproduction.*
 
-# Domain Deluxe - Location, Location, Location!
+# Privacy Policy - Find Web Hosting
 
-[Home](http://domaindeluxe.com/) / **Privacy Policy**
+### What is a Privacy Policy?
 
-Domaindeluxe.com has created this privacy statement to show our firm commitment to the protection of your private information. The following discloses our information gathering and dissemination practices.
+FindWebHosting.com created a privacy policy (described herein) to show our dedication and commitment to the privacy of the users of our website. Please read the following to gain an understanding of our privacy policy. If you have any questions whatsoever regarding this policy, please fill out the following contact form and a FindWebHosting.com representative will respond to your query as soon as possible.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site.
+### What information do we collect from users and how is it used?
 
-We use cookies to help us protect certain portions of our site which are reserved for members only. We do not use cookies for any other purpose.
+FindWebHosting.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. At FindWebHosting.com.com we do not collect any personal information whatsoever, unless you choose to share such information. If you do choose to share personal information via some form of correspondence, such information will not be shared, sold, or rented to others whatsoever.
 
-Our site's member registration form requires users to give us contact information and financial information. The customer's contact information is used to contact the visitor when necessary. We will never ask for more information than that which is required to complete a service or sale which you requested.
+### Correspondence
 
-We will never ask you for demographic information, including your age, gender, profession, date of birth, personal information of family members, etc., unless such information is specifically required to complete the fulfillment of one of your requests.
+If you correspond with us via E-mail, we may gather the information in a file specific to you. We only collect the information that you provide to us. We will not sell, share, or rent the information that you share with us to others. Like many other websites, FindWebHosting.com collects information about users' utilization and navigation of our site. This information helps us to design our site to better suit our users' needs.
 
-We will never share your personal information with any third party at any time.
+If you request quotes from hosts then your name and email will be shared only with 10 web hosting companies who will then contact you. This information wiill not be shared with any other parties.
 
-If we receive a court order requiring a divulging of your private information, we will notify you via the email address you provide us to advise that we are in receipt of said order, within 48 hours of receipt of such order. We will not release information until 7 days after receipt of such order, unless required by the order or search warrant to do so earlier. You may request a copy of the order received so that you may obtain legal help should you decide to fight the order.
+### Does the FindWebHosting.com website use cookies? If so, how are cookies used on the website?
 
-The hardware and software that stores your private information are kept in a secured environment.
+Cookies are small files placed on your computer that contain only a unique number. We use this number to recognize your computer when a user of your computer returns. Like most major websites, FindWebHosting.com uses cookies on certain pages of our site. These cookies strictly identify your computer, our cookies do not contain any personal information about you.
 
-If there are any changes to this Privacy Policy, they will be entered here and highlighted for your attention for 90 days after such change.
+### What are the policies of linked sites and other third parties?
 
-This site contains links to other sites. **Domaindeluxe.com** is not responsible for the privacy practices or the content of such Web sites.
+This privacy policy only addresses the use and disclosure of information we collect from you. Although you may interact with hosting companies as a result of visiting our site, or link to other sites or third parties via our website, FindWebHosting.com is not responsible for the privacy practices of third parties or the content of linked sites. We encourage you to read the posted privacy policy whenever interacting with any website.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, click on our contact link to contact us. 
+### How will I know about changes in the Privacy Policy?
+
+FindWebHosting.com reserves the right to update this privacy policy from time to time. Please visit this page periodically so that you will be apprised of any changes. However, we will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected. If at any point we should decide to use that information differently, we will notify users by way of E-mail so that users can approve or disapprove of such use.
