@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219024733id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthelyrics.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204335id_/http%3A//www.allthelyrics.com/privacy.htm) for the most accurate reproduction.*
 
-# AllTheLyrics.com Privacy Policy
+# Privacy Policy
 
 The following policy is intended to explain how your personal information will be treated as you use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here. 
 
