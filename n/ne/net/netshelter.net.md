@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020053413id_/http%3A//netshelter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232243id_/http%3A//netshelter.com/privacy-policy) for the most accurate reproduction.*
 
 # NetShelter Technology Media : Privacy Policy
 
@@ -50,4 +50,4 @@ This Privacy Policy is effective as of August 1, 2009. We may change this Privac
 
 **How To Contact Us**
 
-If you wish to contact us about this Privacy Policy, you can reach us by email at [privacy@netshelter.net ](mailto:privacy@netshelter.net)or by telephone at 415-365-4950.
+If you wish to contact us about this Privacy Policy, you can reach us by email at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy32098%20=%20'privacy'%20+%20'@';%20addy32098%20=%20addy32098%20+%20'netshelter'%20+%20'.'%20+%20'net';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy32098%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy32098%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[privacy@netshelter.net](mailto:privacy@netshelter.net) or by telephone at 415-365-4950.
