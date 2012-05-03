@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyatv.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142352id_/http%3A//www.diyatv.com/terms-and-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyatv.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235541id_/http%3A//www.diyatv.com/terms-and-privacy-policy.htm) for the most accurate reproduction.*
 
 # Diyatv.com | Terms and Privacy Policy
 
@@ -34,7 +34,7 @@ linked sites. Nonetheless, we seek to protect the integrity of our site and welc
 
 About TV-Channels Streaming
 
-This website only provides any easy way to assess the online TV-Channel. No Tv Channel stream is provide 0r produce by www.Diyatv.com.
+This website only provides any easy way to assess the online TV-Channel. No TV Channel stream is provide 0r produce by www.Diyatv.com.
 
 Online Privacy Policy Only
 
@@ -52,4 +52,16 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-www.diyatv.com
+[www.diyatv.com](http://www.diyatv.com/)
+
+** Disclaimer**
+
+We are using third party streaming service to provide live broadcast. **Diyatv.com** is not responsible for any consequences and copyright law in any way. If you have any concern in this regard please contact
+
+[ admin@diyatv.com](mailto:admin@diyatv.com)  
+
+** DMCA **
+
+The videos (Offline or Live) are collected and posted from YouTube and Justin.tv. If you want to Remove some video content from this website then immediately send an email to **admin** **@diyatv.com** , We can respond immediately.
+
+ 
