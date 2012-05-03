@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060602id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221455id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Fearless Flyer Web Design » Privacy Policy
+# Wordpress Themes by Fearless Flyer » Privacy Policy
+
+## By Downloading this File, You Agree to the Following Terms: 
+
+_You will NOT redistribute this file elsewhere._ You will only use the file for your personal use - and not put it up somewhere else for download. 
+
+_You will NOT remove my footer credits._ This file is under [Creative Commons](http://creativecommons.org/licenses/by/3.0/), Attribution type of license. 
+
+## You should also:
+
+  * Click [Here](http://twitter.com/_fearlessflyer) to follow me in Twitter.
+  * Go to [Facebook](https://www.facebook.com/fearlessflyerdesign) and Like Fearless Flyer
+  * Get Posts through Feedburner [Email](http://feedburner.google.com/fb/a/mailverify?uri=Fearlessflyer&loc=en_US)
+
+
+
+By doing so - you will always be on top of new freebies, versions, bug fixes and features. How cool is that!
+
+Close this window
 
 This privacy policy sets out how Fearless Flyer Web Design uses and protects any information that you submit when you use this website.
 
