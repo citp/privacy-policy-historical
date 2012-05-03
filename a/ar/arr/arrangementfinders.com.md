@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007074414id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223053id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Arrangement Finders
 
@@ -100,5 +100,5 @@ To contact us concerning Privacy issues, please use the [Contact Form](https://w
 Arrangement Finders Inc. 
 
 (DBA Arrangement Finders)   
-20 Eglinton Ave West, Suite 1200   
+20 Eglinton Ave West, Suite 1200  
 Toronto, ON Canada M4R 1K8 
