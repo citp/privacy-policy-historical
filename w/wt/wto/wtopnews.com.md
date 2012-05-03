@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129010359id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtopnews.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232411id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.*
 
 # Privacy Policy - WTOP.com
 
@@ -18,3 +18,21 @@ Updated: April 26, 2011
 **Ownership and Use of Information.** Any information collected by Operator in connection with your use of the Site - regardless of whether characterized as Personal Information or aggregate - shall belong exclusively to Operator and will be used, maintained, updated, disclosed or sold by Operator at its sole discretion. 
 
 **Contact Information**. Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to jmeyer@wtop.com. 
+
+[](https://web.archive.org/209/2851475/Shoe-Shopping)
+
+##### [Shoe Shopping](https://web.archive.org/209/2851475/Shoe-Shopping)
+
+America's tallest man seeks shoes and normalcy in Mass.
+
+[](https://web.archive.org/681/2851356/Toddler-Tartar)
+
+##### [Toddler Tartar](https://web.archive.org/681/2851356/Toddler-Tartar)
+
+Tip to zoo visitors: Don't dress like the prey of a hungry predator (Video).
+
+[](https://web.archive.org/220/2851965/Meow-Latte)
+
+##### [Meow Latte ](https://web.archive.org/220/2851965/Meow-Latte)
+
+Want a cat with your coffee? If so, check out Vienna's newest cafe.
