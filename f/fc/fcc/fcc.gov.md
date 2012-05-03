@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215085225id_/http%3A//www.fcc.gov/encyclopedia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcc.gov privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055702id_/http%3A//www.fcc.gov/encyclopedia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FCC.gov
 
