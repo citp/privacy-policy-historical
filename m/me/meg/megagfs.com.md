@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megagfs.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003422id_/http%3A//www.megagfs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagfs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503182618id_/http%3A//www.megagfs.com/privacy.html) for the most accurate reproduction.*
 
-# GF Cash Privacy Policy
+# PRIVACY POLICY
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites including, but not limited to, [freshgfs.com](http://www.freshgfs.com/), [milfgfs.com](http://www.milfgfs.com/), [bustygfs.com](http://www.bustygfs.com/), [teeniegfs.com](http://www.teeniegfs.com/), [blondegfs.com](http://www.blondegfs.com/), [blondegfs.com](http://www.blondegfs.com/), [cumshotgfs.com](http://www.cumshotgfs.com/), [blowjobgfs.com](http://www.blowjobgfs.com/), [maturegfs.com](http://www.maturegfs.com/), [wifegfs.com](http://www.wifegfs.com/), [momgfs.com](http://www.momgfs.com/), [assgfs.com](http://www.assgfs.com/), [porngfs.com](http://www.porngfs.com/) ((the "Sites", "we" or "us"). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites including, but not limited to, [asiagfs.com](http://asiagfs.com/), [assfuckgfs.com](http://assfuckgfs.com/), [boobgfs.com](http://boobgfs.com/), [cougargfs.com](http://cougargfs.com/), [darkgfs.com](http://darkgfs.com/), [gfsexvids.com](http://gfsexvids.com/), [hairygfs.com](http://hairygfs.com/), [hugecockgfs.com](http://hugecockgfs.com/), [mamagfs.com](http://mamagfs.com/), [megagfs.com](http://megagfs.com/), [nanagfs.com](http://nanagfs.com/), [nngfs.com](http://nngfs.com/), [partygfs.com](http://partygfs.com/), [preggogfs.com](http://preggogfs.com/) (the "Sites", "we" or "us"). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
@@ -42,7 +42,7 @@ We process credit card transactions via industry standard encryption through thi
 Emails From Us and use of Your Email Address   
 
 
-Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**   
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. If at any time you no longer wish to receive emails from us or from such third parties please send us an email at [_support@gfbling.com_](mailto:support@gfbling.com). We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**   
 
 
 Advertisements   
@@ -62,12 +62,4 @@ Changes in the Ownership of the Sites
 
 The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
 
-Refund Policy  
-
-
-Koka Digital Inc will issue refunds for any requested changes. Customers will receive a refund with minimal questions asked.
-
-Contact Us  
-
-
-If you wish to talk to us over the phone. The phone number iss 1 661 621 9782 or 1 877 266 6250. If you wish to email us the email is kokadigital@netbillingsupport.com
+* * *
