@@ -1,101 +1,58 @@
-> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020071143id_/http%3A//www.dunhamssports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230109id_/http%3A//www.dunhamssports.com/privacy-policy) for the most accurate reproduction.*
 
-# Dunham's Sports Helpdesk
+# Privacy Policy – Dunham's Sports
 
-GSI Commerce Solutions, Inc. has created this Privacy Policy to inform you of the information gathering and dissemination practices for this Web site, www.dunhamssports.com. Because we want to demonstrate our commitment to your privacy, we want to notify you of:
+## Privacy Policy
 
-  1. What personally identifiable information of yours is collected through this Web site;
-  2. The organization collecting the information;
-  3. How the information is used;
-  4. With whom the information may be shared;
-  5. What choices are available to you regarding collection, use and distribution of the information;
-  6. The kind of security procedures that are in place to protect against the loss, misuse or alteration of information under GSI Commerce Solutions, Inc.'s control; and
-  7. How you can correct any inaccuracies in the information.
-
-
-
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at 1-888-801-9158.
-
-Visiting www.dunhamssports.com
-
-Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way. 
-
-Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Web Site by email or otherwise, including any data, questions, comments, or suggestions (other than personally identifiable information which will be treated in accordance with this privacy policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by us and our affiliates for any purpose, including without limitation, reproduction, disclosure, transmission, publication, broadcast, and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Web Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information. 
-
-Using Cookies
-
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.dunhamssports.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
-
-External Links/Framed Pages
-
-Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The privacy policy of the third party web site govern the information collection and dissemination practices occurring on such web sites. 
-
-If you have accessed this Web Site through a link from certain of our advertising and marking partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy.
-
-Ordering from www.dunhamssports.com
-
-When you order from www.dunhamssports.com, we need your name, email address, shipping address and credit card number/expiration date. We use this data to process your order, ship it and send you order and shipping confirmations via email. Except as provided in this privacy policy, we will not sell, rent, or disclose this data to any third party without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) 
-
-From time to time, we use the purchases you make to customize our product recommendations. We also track customer traffic patterns and site usage. Traffic and usage data is used only to improve our site's design and provide our customers with a fulfilling shopping experience.
-
-Opening a www.dunhamssports.com account
-
-We require your name, billing address, shipping address, email address and telephone number to open an account for you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.)
-
-Corrections/Updates to your Account
-
-You can correct account data by clicking on "Manage My Account" within the Help Desk area of the site. If you have any questions or concerns about correcting or updating your Account, please contact our customer service department.
-
-Receiving Promotions/Opt-Out
-
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email by completing the Customer Feedback Form in the Helpdesk section or call us toll-free at 1-888-801-9158 and inform us that you want to unsubscribe to our email list.
-
-Customer Service
-
-In addition to being able to call our customer service department (1-888-801-9158), you may also email us by completing the Customer Feedback Form in the Helpdesk section. When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
-
-Entering contests/sweepstakes
-
-Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
-
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email by completing the Customer Feedback Form in the Helpdesk section or telephone 1-888-801-9158. 
-
-E-mail to a Friend
-
-Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive.
-
-On-Line Gift Certificates and Gift Cards
-
-If you send an on-line gift certificate or gift card to a third party you must provide us with the recipient's name and e-mail address. We only use this information to deliver such gift certificate or gift card.
-
-Customer Feedback Form
-
-You can use this form to give us any input which we will use to improve our site. The only required data is your name and email address. The remainder of the data is optional. We only use this data to make improvements on our site. Except as provided in this privacy policy, this data is not shared with anyone in any way.
-
-Our Third Party Relationships
-
-  
-
-We have established several relationships with third parties vendors to best serve our customers.
-
-  * **_Retailer:_** GSI Commerce Solutions, Inc. operates this Web site pursuant to agreements with Dunham's Athleisure Corporation ("Dunham's Sports"). Pursuant to such agreements, Dunham's Sports is entitled to access and use the information collected through this Web site to the same extent and in the same manner as GSI Commerce Solutions, Inc.. Additionally, Dunham's Sports may contact those customers who have agreed to receive promotional offers about offers in its land-based stores. Dunham's Sports has agreed to abide by this Privacy Policy and the same restrictions and limitations applicable to GSI Commerce Solutions, Inc. hereunder.
-  * **_Affiliates:_** From time to time we may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to our site from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access our customers' personal data. If you choose to apply to any of our affiliate programs, we use the data you give us strictly for conducting business with you. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the web site but is restricted to only use such information in connection with its administration of the affiliate programs.
-  * **_Order Fulfillment:_** Certain vendors of ours provide customer order fulfillment and shipping services on our behalf. These vendors have access only to information needed to accurately fulfill and ship orders, which are processed through such vendors. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
-  * **_Credit Card Processing:_** We use Chase Merchant Services L.L.C. to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
-  * **_Web Site Evaluation:_** From time to time, we engage certain third parties to observe, track and report on the behavior of the users of this Web Site in order to evaluate the performance and features of this Web Site. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **_Marketing and Promotions:_** From time to time, we engage certain third parties to assist in the dissemination of marketing and promotional offers (i.e. e-mails) to those customers who have agreed to receive such offers. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any other purpose.
-  * **_Additional Third Party Relationships:_** From time to time, we engage other third parties to assist in providing marketing, order processing and fulfillment services. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services.
-
-Additionally, from time to time, we share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. That is, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
-
-Security Policy
-
-We use Secure Socket Layer (SSL) encryption technology to protect your personal information. The only time you are required to sign on our site is when you are making a purchase. On the Checkout page, you will be asked to access your existing account or create a new one. Existing account holders are prompted for their ID (your email address) and password. This password is for your protection. If you don't have your password, there is a link that reads "Lost your password?" Click on this for instructions on how to get your password.
-
-Changes to Privacy Policy
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
-
-Questions about our Policies
-
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email by completing the Customer Feedback Form in the Helpdesk section or by phone at1-888-801-9158. 
+**_Dunham’s Values Your Privacy_**  
+  
+Dunham’s Athleisure Corporation, dba Dunham’s Sports (“Dunham’s”, “us”, “our” or “we”), values and respects your right to privacy.  This Privacy Policy discloses the privacy practices of the dunhamssports.com website and various related services (collectively, “site”). Please read the information contained in the Privacy Policy to learn how your information is collected, used and distributed when you use this site.  You acknowledge that this Privacy Policy is part of the site terms of use.  By accessing or using our site, you agree to be bound by all related terms and conditions.  If you do not agree to any of the terms, please do not access or use Dunham’s site. ** __**  
+  
+**_Your Personal Information Is Not Sold, Rented, Swapped or Traded_**  
+  
+At Dunham’s, we understand users of the site need to control their personal information, which may include but not be limited to name, address, phone number(s), e-mail address and other personal identifying information.  Dunham’s does not sell, rent, swap or trade any of this information to third parties. Dunham’s does provide some of its services through arrangements with affiliates, service providers and similar third parties.  Dunham’s and such parties may use such personal information to operate Dunham’s site and deliver Dunham’s services.  For example, Dunham’s must provide your e-mail address to the service provider that allows us to send you special offers and services you may have chosen to receive.  Dunham’s will also disclose any information as may be required or otherwise justified under federal, state or local laws and regulations. ** __**  
+  
+**_Types of Information Collected and Collection Methods_**  
+  
+In order to better meet your diverse needs, Dunham’s will collect various pieces of information to facilitate and enhance your use of this site.  Information collected may include personally identifiable information you choose to provide us.  By engaging in certain activities on the site, Dunham’s may ask you to provide certain information, including but not limited to name, address, phone number(s), e-mail address and other personal identifying information.  This information may be collected at those times when you fill out and submit an on-line form, register your e-mail for special offers and services, enter a contest or sweepstakes, sign up for Dunham’s Team Program, participate in Dunham’s blog community and other activities that may be available on the site from time to time.  Depending on the site activity, some of the information collected may be identified as mandatory and some as voluntary.  If you choose not to provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. Certain aspects of Dunham’s site invoke a standard feature found in browser software called “cookies.”  A cookie is a small data file, which a web site stores on your electronic data storage device (if your web browser permits) that can later be retrieved to identify you to us.  Cookies enhance your use of the site, allow the site to operate more effectively and assist us in the maintenance of a secure site.  The information collected may also include information such as the website’s Uniform Resource Locator (“URL”) from which you just came, the URL to which you go, what browser you are using and your Internet Protocol (“IP”) address.  If your browser permits you to do so, you may decline our cookies, but some parts of the site may not operate properly with such a choice.  
+  
+**_E-Mail_**  
+  
+Upon registering your e-mail address with this site, you will from time to time receive e-mail updates, special offers, notices, invitations, product announcements or other such information from Dunham’s.  At any time, you can choose to remove your name from our e-mail list by following the unsubscribe instructions contained in the email.  
+  
+**_Data Security_**  
+  
+Dunham’s has secured the information it collects with certain physical, electronic and managerial safeguards to prevent unauthorized access to the information, as well as to maintain the integrity of the information. However, no data transmission over the Internet or any wireless network can be guaranteed 100% secure.  While we strive to protect your information, you acknowledge (a) there are security and privacy limitations on the Internet beyond our control, (b) the security, integrity and privacy of information exchanged between you and us through this site cannot be guaranteed, and (c) any such information and data may be viewed or tampered with in transit by a third party.  
+  
+**_Children’s Privacy_**  
+  
+Dunham’s understands how important it is to protect the privacy of children. Therefore, Dunham’s does not knowingly collect personal information from children, and no part of its website is intended to solicit or collect such information from children.  
+  
+**_Links to Other Sites_**  
+  
+Dunham’s sites may include links to other web sites with privacy policies Dunham’s doesn’t control.  Once you leave our site, use of any information you provide is governed by the privacy policy of the web site you are visiting, which may differ from Dunham’s.  Dunham’s is not responsible for the privacy practices or content of such web sites.  
+  
+**_Updating and Correcting Your Information_**  
+  
+You may request to update and/or correct your information by contacting us at the “Contact Us” link at dunhamssports.com.  Please include your name, address and e-mail when you contact us.  You may request to have your information removed;  
+however, past transactions and communications cannot be deleted.  In addition, it may be impossible to completely delete your information without some residual information remaining on backup storage media.  
+  
+**_Blog Community_**  
+  
+Dunham’s blog community may be monitored.  Statements or exchanges considered antagonistic, obscene, libelous, defamatory, harassing, discriminatory or otherwise inappropriate by blog administrators may not be posted or may be deleted, as such statements or exchanges do not contribute to the environment of discussion the blog community aspires to create. You also acknowledge that postings in the blog community may be viewed by all visitors to the site; consequently, you have no expectation of privacy with regard to such postings.  
+  
+**_Privacy Policy Updates_**  
+  
+As Dunham’s site grows and technology improves, Dunham’s Privacy Policy will be updated on the site.  Please review the policy frequently for updates and changes.  You will be deemed to have agreed with any such updates or changes by your continued use of the site.  
+  
+**_Applicable Law_**  
+  
+This site (excluding any linked web sites) is owned and controlled by Dunham’s from its offices within the State of Michigan, United States of America.  By accessing this web site, both Dunham’s and you agree that the applicable statutes and laws of the United States of America and State of Michigan will apply to all matters relating to this web site, without regard to conflict of laws. In addition, you agree to exclusive personal jurisdiction and venue in Michigan courts located in Oakland County, Michigan, or as the case may be, the United States District Court for the Eastern District of Michigan (Southern Division).  
+  
+**_Online Information_**  
+  
+The information contained on the Dunham’s Sports website ([Dunhams.com](http://www.dunhamssports.com/)) is intended to generally inform customers of our product offering at our store locations.  Although we intend for the information to be accurate and current, typographical errors, pricing errors, seasonal changes and regional differences may exist leading to details that may be inaccurate, incomplete or dated.  As such, products may be unavailable, may have different attributes, or may carry a different price.  Dunham’s reserved the right to refuse or cancel orders at our store locations if a product is listed at the incorrect price.  Additionally, we reserve the right to make product changes (features, pricing, content etc.) at any time without notice.  
+  
+**_Questions_**  
+  
+If you have any questions or comments regarding Dunham’s policy, please contact us at the “[Contact Us](http://www.dunhamssports.com/contact-us/)” link at dunhamssports.com.
