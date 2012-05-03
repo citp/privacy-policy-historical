@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the estatesales.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008031844id_/http%3A//estatesales.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203245id_/http%3A//estatesales.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EstateSales.org
+
+**FREE Weekly Newsletter**  
+Includes Keyword Highlighting
+
+Sign Up
 
 EstateSales.org values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personal information that we collect when you use the Website. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [support@EstateSales.org](mailto:support@EstateSales.org).
 
