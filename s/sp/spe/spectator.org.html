@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spectator.org privacy policy that was archived on 2011-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111221041021id_/http%3A//spectator.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spectator.org privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503221226id_/http%3A//spectator.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -18,6 +18,7 @@ var _sf_async_config = {
 <!--[if IE 7]>
         <link rel="stylesheet" type="text/css" href="/media/css/ie7.css">
 <![endif]-->
+
 <script type="text/javascript">//<![CDATA[
 var _gaq = _gaq || [];
 _gaq.push.apply(_gaq, [["_setAccount","UA-6114330-1"],["_trackPageview"]]);
@@ -42,90 +43,30 @@ GA_googleAddSlot('ca-pub-4471193142718535', 'popup');
 GA_googleAddSlot('ca-pub-4471193142718535', 'masthead');
 </script>
 <script type="text/javascript">GA_googleFetchAds();</script>
-<script type="text/javascript" src="/media/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript">
-// <![CDATA[
-	$(function(){
-	function Popup(popuptext) {
-		this._popuptext = popuptext;
-		this._popup = null;
-		this._overlay = null;
-	}
-	Popup.prototype.show = function() {
-		this.getOverlay().show();
-		this.getPopup().show();
-	};
-	Popup.prototype.getPopup = function(){
-		if (!this._popup) {
-			var self=this;
-			this._popup = $(this._popuptext).css({
-				display: 'none',
-				left: '50%',
-				'margin-left': '-251px',
-				position: 'absolute',
-				top: '10%',
-				width: '502px',
-				'z-index': 1100,
-				border: '1px solid black',
-				'background-color':'white'
-			})
-			.appendTo('body');
-			this._popup.find('.closer')
-			.click(function(e){
-				if ($(this).attr('href')==='#') e.preventDefault();
-				self.destroy();
-			});
-			this._popuptext=null;
-		}
-		return this._popup;
-	};
-	Popup.prototype.getOverlay = function(){
-		if (!this._overlay) {
-			var self=this;
-			this._overlay = $('<div></div>')
-			.css({
-				'background-color': 'black',
-				filter: 'alpha(opacity=50)',
-				'-moz-opacity':'0.50',
-				opacity: '0.50',
-				'z-index': 1001,
-				height: '100%',
-				width: '100%',
-				'background-repeat':'repeat',
-				position:'fixed',
-				top: 0,
-				left: 0,
-				display:'none'
-			})
-			.appendTo('body')
-			.click(function(){self.destroy();});
-		}
-		return this._overlay;
-	};
-	Popup.prototype.destroy = function() {
-		if (this._overlay) {
-			this._overlay.hide();
-			this._overlay.remove();
-		}
-		if (this._popup) {
-			this._popup.hide();
-			this._popup.remove();
-		}
-	};
-	
-	var popuptext = "<div><div style=\"border:#CCCCCC 1px solid; font-family: georgia,serif; font-size: 16px;padding:45px\">\n<div style=\"float:right;\">[ <a href=\"#\" class=\"closer\">X</a> ]</div>\n<img src=\"http://news.spectator.org/images/gala/smamspeclogo.gif\" width=\"150\" height=\"80\" border=\"0\" alt=\"\" />\n<p style=\"margin:1em 0\"><strong>Did you know?</strong> If everyone who visited <em>The American Spectator</em> website this year donated just $1, we would easily exceed our annual budget.</p>\n<p style=\"margin:1em 0\">As a 501(c)(3) nonprofit, we rely upon the kindness and (tax-deductible!) generosity of patriots like you to help fund quality writing and research.</p>\n<p style=\"margin:1em 0\">Will you help us reach our year end goal for raising $25,000?</p>\n<p style=\"margin:1em 0;text-align:center\"><img src=\"http://spectator.org/assets/mc/q411_therm.gif\" width=\"300\" height=\"120\" border=\"0\" alt=\"\" /></p>\n<p style=\"margin:1em 0\">Now is the perfect time to give, since one generous donor has offered to <strong>MATCH every donation dollar-for-dollar</strong> &ndash; <em>but only for a short time</em>.</p>\n<p style=\"margin-bottom:1em;text-align:center\">[ <a class=\"closer\" href=\"https://spectator.org/donate/?src=11WEB4Q\" target=\"_blank\">Donate</a> ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ <a class=\"closer\" href=\"#\">No thanks</a> ]</p>\n<div style=\"font-size:80%\">The American Spectator Foundation is a 501(c)(3) organization, so contributions are tax-deductible. Donors receive a year-end summary of their giving for tax purposes.</div>\n</div></div>";
-	var popupre = /\bpopupshown=1\b/;
-	var popupshown = popupre.test(document.cookie);
-	if (!popupshown) {
-		var expire = new Date();
-		expire.setTime(expire.getTime()+(432000 * 1000));
-		document.cookie = "popupshown=1; expires=" + expire.toUTCString() + "; path=/";
-		var popup = new Popup(popuptext);
-		popup.show();
-	}
-});// ]]>
-</script>
 
+<script type="text/javascript">
+	function hasParameter(querystring, name) {
+	var match = RegExp('[?&]' + name + '(?:[=&]|$)').test(querystring);
+	return match;
+}
+if(hasParameter(window.location.search, 'nomobile') == 1) {
+	$(document).click(function(e){
+		var link=null, $l, prefix;
+		if ($(e.target).is('a[href]')) {
+			link=e.target;
+		} else {
+			$l = $(e.target).parents('a[href]');
+			if ($l.length) {
+				link = $l[0];
+			}
+		}
+		if (link && window.location.host===link.host && !hasParameter(link.search, 'nomobile')) {
+			prefix = (link.search.length) ? '&' : '?';
+			link.search += (prefix + 'nomobile=1');
+		}
+	});
+}
+</script>
 <script src="https://c.compete.com/bootstrap/178fa52eed5717bc17885c2cc668a2e0/bootstrap.js" type="text/javascript" async=""></script></head>
 <body class="inner general-privacy-policy">
 <div class="container">
@@ -143,7 +84,7 @@ GA_googleAddSlot('ca-pub-4471193142718535', 'masthead');
 			<li><a href="http://spectator.org/" target="_blank">Home</a></li>
 			<li><a href="http://spectator.org/archives" target="_blank">News &amp; Features</a></li>
 			<li><a href="http://spectator.org/blog" target="_blank">Blog</a></li>
-			<li><a href="http://spectator.org/issues/decemberjanuary" target="_blank">The Magazine</a></li>
+			<li><a href="http://spectator.org/issues/may-2012" target="_blank">The Magazine</a></li>
 			<li><a href="http://spectator.org/about" target="_blank">About</a></li>
 			<li id="donate"><a href="https://spectator.org/donate" target="_blank">Donate</a></li>
 			<li><a href="http://spectator.org/subscribe" target="_blank">Subscribe</a></li>
@@ -253,98 +194,122 @@ GA_googleAddSlot('ca-pub-4471193142718535', 'masthead');
     	<span>Follow us:</span>
     	<a href="http://www.facebook.com/amspec" target="_blank"><img src="/media/images/facebook.png"></a>
         <a href="http://twitter.com/#!/amspec" target="_blank"><img src="/media/images/twitter.png"></a>
+	<a href="http://www.youtube.com/user/AmerSpectator?feature=mhee" target="_blank"><img src="/media/images/yt_ico.png"></a>
         <a href="http://feeds.feedburner.com/amspecfull" target="_blank"><img src="/media/images/rss.png"></a>
     </div>
 		<div class="col3-sub1">
-			<div class="ad">
+			<div class="ad top">
 				<div class="inner">
-					ADVERTISEMENT<br>
+					<p>ADVERTISEMENT</p>
 					<script type="text/javascript">GA_googleFillSlot("searchad");</script>				</div>
 				<div class="clear"></div>
 			</div>
 		</div>
 
 		
+<div class="blog listing1 clipoftheday">
+	<h2>Special <span>Feature</span></h2>
+	<div class="panels">
+
+		<div class="inner" id="popularstories_viewed">
+		<img src="/media/images/choice2.png" border="0" alt="">
+		<div class="img-caption"><em>Better that we become a nation of choosers rather than beggars.  Our symposium on choice from the May, 2012 issue:</em></div>
+			<div class="author">
+				<h3><a href="http://spectator.org/archives/2012/04/26/a-time-for-choosing" target="_blank">A Time for Choosing</a></h3>
+				<h4>James Piereson</h4>
+			</div>
+			<div class="author">
+				<h3><a href="http://spectator.org/archives/2012/04/26/empowering-individuals-or-bure/" target="_blank">Empowering Individuals or Bureaucrats?</a></h3>
+				<h4>Rep. Paul Ryan</h4>
+			</div>
+			<div class="author">
+				<h3><a href="http://spectator.org/archives/2012/04/26/the-road-from-serfdom" target="_blank">The Road from Serfdom</a></h3>
+				<h4>Stephen Moore and Peter Ferrara</h4>
+			</div>
+			<div class="author">
+				<h3><a href="http://spectator.org/archives/2012/04/26/the-millennial-perspective" target="_blank">The Millennial Perspective</a></h3>
+				<h4>David N. Bass</h4>
+			</div>
+		</div>
+	</div>
+</div>
 		<div class="col3-sub1">
 			<div class="subscribe pic">
 				<div class="issue-cover">
-					<a href="http://spectator.org/issues/decemberjanuary" title="December/January" class="cover" target="_blank">
-						<img alt="" title="December/January" src="/assets/db/13228360299216.jpg">
+					<a href="http://spectator.org/issues/may-2012" title="May 2012" class="cover" target="_blank">
+						<img alt="" title="May 2012" src="/assets/db/1335872263174.jpg">
 					</a>
-					<a class="subscribelink" href="https://secure2.palmcoastd.com/pub/aspc/subdom3.asp" target="_blank">Subscribe</a>
+					<a class="subscribelink" href="https://www.cambeywest.com/subscribe/?p=tas&amp;f=paid" target="_blank">Subscribe</a>
 				</div>
 
 				<div class="issue-content">
 					<span class="current-issue">Current Issue</span>
 					<ul>
 						<li>
-							<span class="title">Crime, Punishment and Politics</span>
-						<span class="author">by&nbsp;John R.  Coyne,  Jr. </span>
+							<span class="title">Incumbency Shakers</span>
+						<span class="author">by&nbsp;John H. Fund</span>
 						</li>
 						<li>
-							<span class="title">FDR's Class Warfare: A Tutorial For Obama</span>
-						<span class="author">by&nbsp;Burton  Folsom,  Jr. &amp; Anita  Folsom</span>
+							<span class="title">Meet the Flukes!</span>
+						<span class="author">by&nbsp;F. H.   Buckley</span>
 						</li>
 						<li>
-							<span class="title">Scandal in the White House in Times Past</span>
+							<span class="title">Miss Fluke's Fluke</span>
 						<span class="author">by&nbsp;R. Emmett  Tyrrell, Jr.</span>
 						</li>
 					</ul>
-					<a href="http://spectator.org/issues/decemberjanuary" class="read-link" target="_blank">Click for more</a>
+					<a href="http://spectator.org/issues/may-2012" class="read-link" target="_blank">Click for more</a>
 					<span class="read-link">&nbsp;»»</span>
 					<ul class="subscribelinks">
-						<li><a href="https://www.zinio.com/checkout/publisher/?productId=500602124&amp;offer=500355225&amp;pss=1" target="_blank">Digital Subscription</a> (Save 78%)</li>
-						<li><a href="http://www.zinio.com/browse/issues/index.jsp?skuId=416192078&amp;pss=1" target="_blank">Buy a single issue</a> (Save 50%)</li>
-						<li><a href="https://www.kable.com/pub/aspc/multigift.asp" target="_blank">Send <em>Spectator</em> as a gift</a></li>
+						<li><a href="http://spectator.org/subscribe" target="_blank">Click Here to Subscribe Now</a></li>
 					</ul>
 				</div>
 				<div class="clear"></div>
 			</div>
 		</div>
-
 <script type="text/javascript">GA_googleFillSlot("righthousespotlight");</script>
 
 <div class="blog listing1 clipoftheday">
 	<h2><a href="/">Latest <span>Headlines</span></a></h2>
 	<div class="inner">
 	<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/ron-paul-in-the-crosshairs" target="_blank">Ron Paul in the Crosshairs</a></h3>
-		<h4>W. James Antle,  III<span>|</span><a href="http://spectator.org/archives/2011/12/20/ron-paul-in-the-crosshairs#commentcontainer" target="_blank">255 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/osama-bin-laden-a-year-later" target="_blank">Osama bin Laden a Year Later</a></h3>
+		<h4>R. Emmett  Tyrrell, Jr.<span>|</span><a href="http://spectator.org/archives/2012/05/03/osama-bin-laden-a-year-later#commentcontainer" target="_blank">64 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/iowa-and-ron-paul" target="_blank">Iowa and Ron Paul</a></h3>
-		<h4>Jeffrey  Lord<span>|</span><a href="http://spectator.org/archives/2011/12/20/iowa-and-ron-paul#commentcontainer" target="_blank">260 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/obama-steals-maos-slogan" target="_blank">Obama Steals Mao's Slogan</a></h3>
+		<h4>Jeffrey  Lord<span>|</span><a href="http://spectator.org/archives/2012/05/03/obama-steals-maos-slogan#commentcontainer" target="_blank">208 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/jeb-ex-machina" target="_blank">Jeb Ex Machina?</a></h3>
-		<h4>David  Catron<span>|</span><a href="http://spectator.org/archives/2011/12/20/jeb-ex-machina#commentcontainer" target="_blank">148 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/north-korea-the-gulag-state" target="_blank">North Korea: The Gulag State</a></h3>
+		<h4>Doug  Bandow<span>|</span><a href="http://spectator.org/archives/2012/05/03/north-korea-the-gulag-state#commentcontainer" target="_blank">26 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/obamas-big-labor-win-a-big-one" target="_blank">Obama's Big Labor Wins a Big One</a></h3>
-		<h4>Russ  Brown<span>|</span><a href="http://spectator.org/archives/2011/12/20/obamas-big-labor-win-a-big-one#commentcontainer" target="_blank">35 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/speculators-and-manipulators" target="_blank">Speculators and Manipulators</a></h3>
+		<h4>Ron  Ross<span>|</span><a href="http://spectator.org/archives/2012/05/03/speculators-and-manipulators#commentcontainer" target="_blank">50 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/havels-respect-for-mystery-ver" target="_blank">Havel's 'Respect for Mystery' versus the Techno-Gnostics</a></h3>
-		<h4>Joseph P. Duggan<span>|</span><a href="http://spectator.org/archives/2011/12/20/havels-respect-for-mystery-ver#commentcontainer" target="_blank">3 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/the-affections-of-wendell-berr" target="_blank">The Affections of Wendell Berry</a></h3>
+		<h4>Christopher  Orlet<span>|</span><a href="http://spectator.org/archives/2012/05/03/the-affections-of-wendell-berr#commentcontainer" target="_blank">19 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/behold-the-dear-general" target="_blank">Behold! The Dear General</a></h3>
-		<h4>Peter  Hannaford<span>|</span><a href="http://spectator.org/archives/2011/12/20/behold-the-dear-general#commentcontainer" target="_blank">19 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/down-mexico-way" target="_blank">Down Mexico Way</a></h3>
+		<h4>George H.  Wittman<span>|</span><a href="http://spectator.org/archives/2012/05/03/down-mexico-way#commentcontainer" target="_blank">27 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/progressive-rudeness" target="_blank">Progressive Rudeness</a></h3>
-		<h4>Ron  Ross<span>|</span><a href="http://spectator.org/archives/2011/12/20/progressive-rudeness#commentcontainer" target="_blank">84 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/03/two-cheers-for-tyrannicide" target="_blank">Two Cheers for Tyrannicide</a></h3>
+		<h4>Aram  Bakshian,  Jr.<span>|</span><a href="http://spectator.org/archives/2012/05/03/two-cheers-for-tyrannicide#commentcontainer" target="_blank">33 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<h3><a href="http://spectator.org/archives/2011/12/20/my-twelve-favorite-christmas-s" target="_blank">My Twelve Favorite Christmas Songs</a></h3>
-		<h4>Aaron  Goldstein<span>|</span><a href="http://spectator.org/archives/2011/12/20/my-twelve-favorite-christmas-s#commentcontainer" target="_blank">114 comments</a></h4>
+		<h3><a href="http://spectator.org/archives/2012/05/02/bad-day-in-rancho-mirage" target="_blank">Bad Day in Rancho Mirage</a></h3>
+		<h4>Ben  Stein<span>|</span><a href="http://spectator.org/archives/2012/05/02/bad-day-in-rancho-mirage#commentcontainer" target="_blank">88 comments</a></h4>
 		<div class="clear"></div>
 	</div>
 		</div>
@@ -358,55 +323,147 @@ GA_googleAddSlot('ca-pub-4471193142718535', 'masthead');
 	<h2><a href="http://spectator.org/blog" target="_blank">The Spectacle <span>Blog</span></a></h2>
 	<div class="inner pic">
 	<div class="author">
-		<img src="/assets/db/1313431577128.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/20/ron-paul-wilileaks-leaker-mann" target="_blank">Ron Paul: Wikileaks Leaker Manning Is a 'Hero'</a></h3>
-		<h4>Jeffrey  Lord				</h4>
-		<div class="clear"></div>
-	</div>
-		<div class="author">
-		<img src="/assets/db/13134307935535.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/20/ralph-macdonald-rip" target="_blank">Ralph MacDonald, R.I.P.</a></h3>
-		<h4>Aaron  Goldstein				</h4>
-		<div class="clear"></div>
-	</div>
-		<div class="author">
-		<img src="/assets/db/13134336183605.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/20/function-or-dysfunction" target="_blank">Function or Dysfunction?</a></h3>
-		<h4>Ross  Kaminsky				</h4>
-		<div class="clear"></div>
-	</div>
-		<div class="author">
-		<img src="/assets/db/1313431577128.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/20/ex-ron-paul-aide-disputes-paul" target="_blank">Ex-Ron Paul Aide Disputes Paul on Newsletters</a></h3>
-		<h4>Jeffrey  Lord				</h4>
-		<div class="clear"></div>
-	</div>
-		<div class="author">
-		<img src="/assets/db/13134307935535.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/20/thoughts-on-chanukah-no-maccab" target="_blank">Thoughts on Chanukah: No Maccabees, No Miracle</a></h3>
-		<h4>Aaron  Goldstein				</h4>
-		<div class="clear"></div>
-	</div>
-		<div class="author">
-		<img src="/assets/db/13134289857978.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/19/gingrich-just-dead-wrong-on-ju" target="_blank">Gingrich Just Dead Wrong on Judicial Proposal</a></h3>
-		<h4>Quin  Hillyer				</h4>
+		<img src="/assets/db/13136965016098.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/03/rnc-warns-nevada-gop-about-ron" target="_blank">RNC Warns Nevada GOP About Ron Paul Supporters</a></h3>
+		<h4>W. James Antle,  III <span>| 
+				
+		2:53PM</span>
+		</h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
 		<img src="/assets/db/13136965016098.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/19/deroy-murdock-is-making-sense" target="_blank">Deroy Murdock Is Making Sense</a></h3>
-		<h4>W. James Antle,  III				</h4>
+		<h3><a href="http://spectator.org/blog/2012/05/03/united-methodists-uphold-teach" target="_blank">United Methodists Uphold Teachings on Homosexuality</a></h3>
+		<h4>W. James Antle,  III <span>| 
+				
+		12:51PM</span>
+		</h4>
 		<div class="clear"></div>
 	</div>
 		<div class="author">
-		<img src="/assets/db/13134332255524.jpg" alt="">
-		<h3><a href="http://spectator.org/blog/2011/12/19/ryanair-ceo-slams-eu-at-eu-inn" target="_blank">RyanAir CEO Slams EU at EU Innovation Summit</a></h3>
-		<h4>J.P.  Freire				</h4>
+		<img src="/assets/db/13134307935535.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/03/jered-weaver-no-hits-twins" target="_blank">Jered Weaver No-Hits Twins</a></h3>
+		<h4>Aaron  Goldstein <span>| 
+				
+		12:38PM</span>
+		</h4>
+		<div class="clear"></div>
+	</div>
+		<div class="author">
+		<img src="/assets/db/13134289857978.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/03/george-wills-moving-column-on" target="_blank">George Will's Moving Column on His Son, Jon</a></h3>
+		<h4>Quin  Hillyer <span>| 
+				
+		11:30AM</span>
+		</h4>
+		<div class="clear"></div>
+	</div>
+		<div class="author">
+		<img src="/assets/db/13134336183605.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/03/economic-data-continues-to-dis" target="_blank">Economic Data Continues to Disappoint</a></h3>
+		<h4>Ross  Kaminsky <span>| 
+				
+		9:08AM</span>
+		</h4>
+		<div class="clear"></div>
+	</div>
+		<div class="author">
+		<img src="/assets/db/13134289857978.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/02/boehner-takes-moral-stand-on-c" target="_blank">Boehner Takes Moral Stand on Chinese Dissident</a></h3>
+		<h4>Quin  Hillyer <span>| 
+				
+		5.2.12</span>
+		</h4>
+		<div class="clear"></div>
+	</div>
+		<div class="author">
+		<img src="/assets/db/13134307935535.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/02/junior-seau-1969-2012-rip" target="_blank">Junior Seau, 1969-2012. R.I.P.</a></h3>
+		<h4>Aaron  Goldstein <span>| 
+				
+		5.2.12</span>
+		</h4>
+		<div class="clear"></div>
+	</div>
+		<div class="author">
+		<img src="/assets/db/13134289857978.jpg" alt="">
+		<h3><a href="http://spectator.org/blog/2012/05/02/junior-seau-rip" target="_blank">Junior Seau, RIP</a></h3>
+		<h4>Quin  Hillyer <span>| 
+				
+		5.2.12</span>
+		</h4>
 		<div class="clear"></div>
 	</div>
 		</div>
 </div>
+
+
+<div class="blog listing1 flashback">
+	<h2>FLASHBACK TO: <span><a class="back inactive"></a><span class="year">1986</span><a class="forward"></a></span></h2>
+	<div class="inner">
+		<ul>
+			<li data-current="" data-issueyear="1986">
+				<a href="http://spectator.org/issues/february-1986" target="_blank"><img alt="February 1986" width="112" src="/assets/db/13355536104800.jpg"></a>
+				<h3><a href="http://spectator.org/archives/1986/02/01/chuck-colson-vs-the-fundamenta" target="_blank">Chuck Colson vs. The Fundamentalists</a></h3>
+				<p class="byline">By <a href="http://spectator.org/people/malcom-gladwell" rel="author" target="_blank">Malcolm  Gladwell</a></p>
+				<p>How political can you get?</p>			</li>
+			<li data-current="" data-issueyear="1985">
+				<a href="http://spectator.org/issues/march-1985" target="_blank"><img alt="March 1985" width="112" src="/assets/db/13359686614393.jpg"></a>
+				<h3><a href="http://spectator.org/archives/1985/03/01/the-reagan-doctrine" target="_blank">The Reagan Doctrine</a></h3>
+				<p class="byline">By <a href="http://spectator.org/people/gregory-a-fossedal" rel="author" target="_blank">Gregory A. Fossedal</a></p>
+				<p>You might have missed it, but it was boomed in January.</p>			</li>
+			<li data-current="" data-issueyear="1981">
+				<a href="http://spectator.org/issues/august-1981" target="_blank"><img alt="August 1981" width="112" src="/assets/db/13355536241598.jpg"></a>
+				<h3><a href="http://spectator.org/archives/1981/08/01/the-involuntary-unemployment-o" target="_blank">The Involuntary Unemployment of John Maynard Keynes</a></h3>
+				<p class="byline">By <a href="http://spectator.org/people/robert-skidelsky" rel="author" target="_blank">Robert  Skidelsky</a></p>
+				<p>How the apostles of Keynes became Keynesian
+apostates.<em><br></em></p>			</li>
+			<li data-current="" data-issueyear="1970">
+				<a href="http://spectator.org/issues/december-1970" target="_blank"><img alt="December 1970" width="112" src="/assets/db/13355536376889.jpg"></a>
+				<h3><a href="http://spectator.org/archives/1970/12/01/the-woman-problem" target="_blank">The Woman Problem</a></h3>
+				<p class="byline">By <a href="http://spectator.org/people/george-will" rel="author" target="_blank">George  Will</a></p>
+				<p>Farcical feminism is a decades-old phenomenon, as George Will's
+essay from 1970 reminds us.</p>			</li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+</div>
+<script>//<![CDATA[
+$(function(){
+	var fb = $('div.flashback');
+	var itemcontainer = fb.find('ul');
+	var items = itemcontainer.children('li');
+	var year = fb.find('h2 span.year');
+	var controls = {
+		'back': fb.find('h2 a.back'),
+		'forward': fb.find('h2 a.forward')
+	};
+	
+	items.slice(0,1).attr('data-current', "true");
+	function flashbackScroll_handler(e) {
+		e.preventDefault();
+		var currentitem = 0, nextitem = 0, newoffset;
+		for(var i=0;i<items.length;i++) {
+			if ($(items[i]).attr('data-current')==='true') {
+				currentitem = i;
+				break;
+			}
+		}
+		items.attr('data-current', '');
+		if ($(e.target).hasClass('back')) {
+			nextitem = (items[currentitem-1]) ? currentitem-1 : items.length-1;
+		} else {
+			nextitem = (items[currentitem+1]) ? currentitem+1 : 0;
+		}
+		$(items[nextitem]).attr('data-current', 'true');
+		year.text($(items[nextitem]).attr('data-issueyear'));
+		newoffset = -$(items[nextitem]).position().left;
+		itemcontainer.animate({'left':newoffset});
+	}
+	fb.find('h2 a').click(flashbackScroll_handler);
+});
+//]]>
+</script>
 
 
 <script type="text/javascript">GA_googleFillSlot("rightspotlight");</script>
@@ -425,118 +482,118 @@ GA_googleAddSlot('ca-pub-4471193142718535', 'masthead');
 	<div class="panels">
 		<div class="inner" id="popularstories_viewed">
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/20/progressive-rudeness" target="_blank">Progressive Rudeness</a></h3>
-				<h4>Ron  Ross <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/01/soros-election-rigging-project" target="_blank">Soros Election-Rigging Project Dies?</a></h3>
+				<h4>Matthew  Vadum <span> | 5.1.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/blog/2011/12/19/ryanair-ceo-slams-eu-at-eu-inn" target="_blank">RyanAir CEO Slams EU at EU Innovation Summit</a></h3>
-				<h4>J.P.  Freire <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/bad-day-in-rancho-mirage" target="_blank">Bad Day in Rancho Mirage</a></h3>
+				<h4>Ben  Stein <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/20/jeb-ex-machina" target="_blank">Jeb Ex Machina?</a></h3>
-				<h4>David  Catron <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/03/obama-steals-maos-slogan" target="_blank">Obama Steals Mao's Slogan</a></h3>
+				<h4>Jeffrey  Lord <span> | 5.3.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/19/on-vaclav-havel-and-chris-hitc" target="_blank">On Vaclav Havel -- and Chris Hitchens</a></h3>
-				<h4>Paul  Kengor <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/01/hunger-games-wisdom" target="_blank">Hunger Games Wisdom</a></h3>
+				<h4>Ross  Kaminsky <span> | 5.1.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/20/obamas-big-labor-win-a-big-one" target="_blank">Obama's Big Labor Wins a Big One</a></h3>
-				<h4>Russ  Brown <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/01/ed-schultz-the-third-least-inf" target="_blank">Ed Schultz: The Third Least Influential Person Alive</a></h3>
+				<h4>Jeffrey  Lord <span> | 5.1.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/19/the-madness-of-lord-keynes" target="_blank">The Madness of Lord Keynes</a></h3>
-				<h4>Samuel  Gregg <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/the-immorality-of-obamanomics" target="_blank">The Immorality of Obamanomics</a></h3>
+				<h4>Peter  Ferrara <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/19/washingtons-budget-onion" target="_blank">Washington's Budget Onion</a></h3>
-				<h4>J.T.  Young <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/another-green-energy-failure" target="_blank">Another 'Green Energy' Failure?</a></h3>
+				<h4>Mark  Hyman <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
-				<h3><a href="http://spectator.org/archives/2011/12/16/the-real-sleeping-giant" target="_blank">The Real Sleeping Giant</a></h3>
-				<h4>Ross  Kaminsky <span> | 12.16.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/03/two-cheers-for-tyrannicide" target="_blank">Two Cheers for Tyrannicide</a></h3>
+				<h4>Aram  Bakshian <span> | 5.3.12</span></h4>
 			</div>
 		</div>
 		<div class="inner" id="popularstories_commented" style="display:none">
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/20/iowa-and-ron-paul#commentcontainer" target="_blank">
-						<span class="count">251</span>
+					<a href="http://spectator.org/archives/2012/05/03/obama-steals-maos-slogan#commentcontainer" target="_blank">
+						<span class="count">190</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/20/iowa-and-ron-paul" target="_blank">Iowa and Ron Paul</a></h3>
-				<h4>Jeffrey  Lord <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/03/obama-steals-maos-slogan" target="_blank">Obama Steals Mao's Slogan</a></h3>
+				<h4>Jeffrey  Lord <span> | 5.3.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/20/ron-paul-in-the-crosshairs#commentcontainer" target="_blank">
-						<span class="count">232</span>
+					<a href="http://spectator.org/archives/2012/05/02/spiking-the-bin-laden-football#commentcontainer" target="_blank">
+						<span class="count">110</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/20/ron-paul-in-the-crosshairs" target="_blank">Ron Paul in the Crosshairs</a></h3>
-				<h4>W. James Antle <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/spiking-the-bin-laden-football" target="_blank">Spiking the Bin Laden Football</a></h3>
+				<h4>Ross  Kaminsky <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/20/jeb-ex-machina#commentcontainer" target="_blank">
-						<span class="count">140</span>
+					<a href="http://spectator.org/archives/2012/05/02/the-immorality-of-obamanomics#commentcontainer" target="_blank">
+						<span class="count">93</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/20/jeb-ex-machina" target="_blank">Jeb Ex Machina?</a></h3>
-				<h4>David  Catron <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/the-immorality-of-obamanomics" target="_blank">The Immorality of Obamanomics</a></h3>
+				<h4>Peter  Ferrara <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/20/my-twelve-favorite-christmas-s#commentcontainer" target="_blank">
-						<span class="count">109</span>
+					<a href="http://spectator.org/archives/2012/05/02/bad-day-in-rancho-mirage#commentcontainer" target="_blank">
+						<span class="count">88</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/20/my-twelve-favorite-christmas-s" target="_blank">My Twelve Favorite Christmas Songs</a></h3>
-				<h4>Aaron  Goldstein <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/bad-day-in-rancho-mirage" target="_blank">Bad Day in Rancho Mirage</a></h3>
+				<h4>Ben  Stein <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/19/the-madness-of-lord-keynes#commentcontainer" target="_blank">
-						<span class="count">103</span>
+					<a href="http://spectator.org/archives/2012/05/02/demography-destiny-and-delusio#commentcontainer" target="_blank">
+						<span class="count">69</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/19/the-madness-of-lord-keynes" target="_blank">The Madness of Lord Keynes</a></h3>
-				<h4>Samuel  Gregg <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/demography-destiny-and-delusio" target="_blank">Demography, Destiny, and Delusion</a></h3>
+				<h4>Grover G. Norquist <span> | 5.2.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/archives/2011/12/20/progressive-rudeness#commentcontainer" target="_blank">
-						<span class="count">79</span>
+					<a href="http://spectator.org/archives/2012/05/03/osama-bin-laden-a-year-later#commentcontainer" target="_blank">
+						<span class="count">60</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/archives/2011/12/20/progressive-rudeness" target="_blank">Progressive Rudeness</a></h3>
-				<h4>Ron  Ross <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/03/osama-bin-laden-a-year-later" target="_blank">Osama bin Laden a Year Later</a></h3>
+				<h4>R. Emmett  Tyrrell, Jr. <span> | 5.3.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/blog/2011/12/19/did-newt-peak-too-soon#commentcontainer" target="_blank">
-						<span class="count">77</span>
+					<a href="http://spectator.org/archives/2012/05/01/hunger-games-wisdom#commentcontainer" target="_blank">
+						<span class="count">204</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/blog/2011/12/19/did-newt-peak-too-soon" target="_blank">Did Newt Peak Too Soon?</a></h3>
-				<h4>W. James Antle <span> | 12.19.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/01/hunger-games-wisdom" target="_blank">Hunger Games Wisdom</a></h3>
+				<h4>Ross  Kaminsky <span> | 5.1.12</span></h4>
 			</div>
 			<div class="author">
 				<span class="commentcount">
-					<a href="http://spectator.org/blog/2011/12/20/ex-ron-paul-aide-disputes-paul#commentcontainer" target="_blank">
-						<span class="count">76</span>
+					<a href="http://spectator.org/archives/2012/05/02/another-green-energy-failure#commentcontainer" target="_blank">
+						<span class="count">54</span>
 						<span class="label">comments</span>
 					</a>
 				</span>
-				<h3><a href="http://spectator.org/blog/2011/12/20/ex-ron-paul-aide-disputes-paul" target="_blank">Ex-Ron Paul Aide Disputes Paul on Newsletters</a></h3>
-				<h4>Jeffrey  Lord <span> | 12.20.11</span></h4>
+				<h3><a href="http://spectator.org/archives/2012/05/02/another-green-energy-failure" target="_blank">Another 'Green Energy' Failure?</a></h3>
+				<h4>Mark  Hyman <span> | 5.2.12</span></h4>
 			</div>
 		</div>
 	</div>
@@ -581,15 +638,15 @@ $('#popularstories ul a').click(function(e){
 		<span>|</span><a href="http://spectator.org/privacy-policy" target="_blank">Privacy Policy</a>
 		<span>|</span><a href="http://spectator.org/contactus" target="_blank">Contact</a>
 	</p>
-	<p><strong>The American Spectator Foundation</strong> is the 501(c)(3)
+	<p><a href="http://spectator.org/american-spectator-foundation" target="_blank">The American Spectator Foundation</a> is the 501(c)(3)
 organization responsible for publishing <em>The American Spectator</em>
 magazine and training aspiring journalists who espouse traditional
 American values. Your contributions are tax deductible to the extent
 permitted by law. Each donor receives a year-end summary of their giving
 for tax purposes.</p>
-	<p>© 2011 Copyright 2008,
+	<p>Copyright 2012,
 The American Spectator. All
-rights reserved.</p>
+rights reserved. </p>
 </div>
 <script type="text/javascript"> // <![CDATA[
 (function () {
@@ -605,7 +662,9 @@ rights reserved.</p>
 	}
 })(); // ]]>
 </script>
-<script type="text/javascript">GA_googleFillSlot("popup");</script><script type="text/javascript">
+<script type="text/javascript">GA_googleFillSlot("popup");</script>
+
+<script type="text/javascript">
 	__compete_code = '178fa52eed5717bc17885c2cc668a2e0';
 	(function () {
 		var s = document.createElement('script'),
