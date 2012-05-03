@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228114416id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014103id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
 
 # CamSiteCash.com
 
@@ -33,10 +33,9 @@ If you have an inquiry or concern about our privacy policy, please contact us at
 
 
 CCCV Ltd.(UK Limited)  
-1st Floor, Granby Centre  
-Eversley Street  
-Liverpool  
-L8 2TU   
+77-81 Sewiew Road  
+Wallasey  
+CH41 4LE  
 United Kingdom 
 
 help [ @ ] camsitecash [ dot ] com 
