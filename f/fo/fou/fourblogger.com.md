@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourblogger.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207013157id_/http%3A//fourblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourblogger.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222308id_/http%3A//fourblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,3 +26,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of fourblogger.com then you may [contact us here](http://fourblogger.com/about/contact-us/).
+
+Rating: 0.0/ **5** (0 votes cast)
