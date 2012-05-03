@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlsend.com privacy policy that was archived on 2011-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110725003143id_/http%3A//www.mlsend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsend.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503174255id_/http%3A//www.mlsend.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MailerLite
+# Email Marketing Privacy Policy | MailerLite
 
 At MailerLite, protecting your privacy and the privacy of anyone receiving your email is very important. These policies are for the purpose of making MailerLite safe and appropriate for all.
 
@@ -38,6 +38,6 @@ Tilling Road
 LondonNW2 1LJ  
 United Kingdom 
 
-**Telephone:** 020 3286 4547 UK
+**Telephone:** +44 20 3286 4547
 
 **Email:** [info@mailerlite.com](mailto:info@mailerlite.com)
