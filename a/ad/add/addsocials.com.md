@@ -1,34 +1,30 @@
-> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228084228id_/http%3A//www.addsocials.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015321id_/http%3A//www.addsocials.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Policy
+# Privacy Policy
 
 This Policy applies as to all products and services provided by Addsocials the owner and provider of addsocials, and yourself the User of AddSocials. This Policy applies to our use of any and all Data collected by us in relation to your use of AddSocials and any Services or Systems therein.
 
 **1\. Definitions and Interpretation**
 
-In this Policy the following terms shall have the following meanings:
+In this Policy the following terms shall have the following meanings **Account** means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on addsocials;
 
-“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and / or any communications System on addsocials;
+**Content** means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of addsocials;
 
-“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of addsocials;
+**Cookie** means a small text file placed on your computer by addsocials when you visit certain parts of addsocials. This allows us to identify recurring visitors and to analyse their browsing habits within addsocials.
 
-“ **Cookie** ” means a small text file placed on your computer by addsocials when you visit certain parts of addsocials. This allows us to identify recurring visitors and to analyse their browsing habits within addsocials.
+**Data** means collectively all information that you submit to addsocials. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
 
-“ **Data** ” means collectively all information that you submit to addsocials. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
+**Service** means collectively any online facilities, tools, services or information that addsocials makes available through addsocials either now or in the future;
 
-“ **Service** ” means collectively any online facilities, tools, services or information that addsocials makes available through addsocials either now or in the future;
+**System** means any online communications infrastructure that addsocials makes available through addsocials either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
 
-“ **System** ” means any online communications infrastructure that addsocials makes available through addsocials either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
+**User** / **Users** means any third party that accesses addsocials and is not employed by addsocials and acting in the course of their employment; and
 
-“ **User** ” / “ **Users** ” means any third party that accesses addsocials and is not employed by addsocials and acting in the course of their employment; and
+**Member** / **Members** means any third party that accesses addsocials and is not employed by addsocials and acting in the course of their employment; and &
 
-“ **Member** ” / “ **Members** ” means any third party that accesses addsocials and is not employed by addsocials and acting in the course of their employment; and
+ **Web Site** means the website that you are currently using (addsocials.com) and any sub-domains of this site unless expressly excluded by it`s own terms and conditions.
 
-“ **Web Site** ” means the website that you are currently using (addsocials.com) and any sub-domains of this site unless expressly excluded by it`s own terms and conditions.
-
-**2\. Data Collected**
-
-Without limitation, any of the following Data may be collected:
+**2\. Data Collected** Without limitation, any of the following Data may be collected:
 
 2.1 name;
 
@@ -43,8 +39,6 @@ Without limitation, any of the following Data may be collected:
 2.6 demographic information such as post code, preferences and interests;
 
 2.7 Cookie information (see clause 10 below);
-
-2.8 financial information such as purchase history
 
 2.9 IP address (automatically collected);
 
@@ -70,7 +64,7 @@ Without limitation, any of the following Data may be collected:
 
 3.2 Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.
 
-3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security, see clause 9 below.
+3.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. For more details about security, see clause 9 below.
 
 3.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Web Site. Specifically, Data may be used by us for the following reasons:
 
@@ -124,4 +118,4 @@ Addsocials may, from time to time, employ the services of other parties for deal
 
 **11\. Changes to this Policy**
 
-Addsocials reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on addsocials and you are deemed to have accepted the terms of the Policy on your first use of addsocials following the alterations.
+Addsocials reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on addsocials and you are deemed to have accepted the terms of the Policy on your first use of addsocials following any updates or alterations.
