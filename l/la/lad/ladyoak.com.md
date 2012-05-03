@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235720id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyoak.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231651id_/http%3A//ladyoak.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -93,7 +93,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 You may instruct us to provide you with any personal information we hold about you.  Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
 
-You may instruct us not to process your personal data for marketing purposes by email to [enquiries@ladyoak.com](mailto:enquiries@ladyoak.com) at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+You may instruct us not to process your personal data for marketing purposes by email to enquiries@ladyoak.com at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
 **(9)         Third party websites**
 
@@ -105,4 +105,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11)      Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [enquiries@ladyoak.com](mailto:enquiries@ladyoak.com) __or using our contact form.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to enquiries@ladyoak.com __or using our contact form.
