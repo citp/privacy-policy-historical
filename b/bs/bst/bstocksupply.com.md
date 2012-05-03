@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108041613id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bstocksupply.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231350id_/http%3A//bstocksupply.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BStockSupply
+# Privacy Policy - B-Stock Supply
 
 ### EFFECTIVE DATE: September 17, 2009
 
