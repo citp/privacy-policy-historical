@@ -1,89 +1,69 @@
-> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213185756id_/http%3A//www.pubarticles.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000724id_/http%3A//www.pubarticles.com/support/privacy-policy.html) for the most accurate reproduction.*
 
-# Policy For Submitting Your Articles To PubArticles.com
+# Pubarticles.COM - Privacy Policy
 
-**Privacy Policy**
+Pubarticles.com ("pubarticles.com" or "we") are committed to protecting users and visitors ("users", "visitors" or "you") privacy. You have the right to know what information we collect, the purpose we collect your information, your information security, your information sharing with third party, etc. We reserve the right to modify pubarticles.com Privacy Policy at any time, so please re-visit this page frequently. We reserve the right to change or update this Privacy Policy at any time. 
 
-PubArticles places great importance in protecting your privacy and we take our responsibility seriously to make your experience online satisfying and safe. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it. 
+**Acceptance of the Policy**
 
-**Users’ Consent**
+To access and use this site, you should agree the [Terms of Use](http://www.pubarticles.com/support/terms.html) and this Privacy Policy, including your information collection and processing. If you don't agree any term at this page, you mayn't use pubarticles.com.
 
-By accessing this Site, you consent to the collection and use of this information by us, (such as your email address, address, phone number, passwords, etc.). We reserves the right to change this policy at any time, if we decide to change our privacy policy, we will post the new one at this location, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Please check this page periodically for any changes. Please [contact us](https://web.archive.org/contact-us.php) if you have any questions about our privacy policy. 
+**What Information We Collect from You?**
 
-**Information Collected and tracked by PubArticles**
+We collect two kinds information from our users and visitors, which are as following:  
+**Personal Information Provided by User**  
+After you register and set up an account on pubarticles.com, we can collect certain, such as your user name and e-mail address. All the personal information is provided by you voluntarily.   
+Besides, we also support Facebook, Google, twitter, yahoo Login, and so you can use your existing account to access pubarticles.com. You must explicitly authorize Facebook, Google, twitter, yahoo to share your information with us when you first login to the Site.   
+We clarify any Non-personal Information combined with Personal Information shall be regarded as Personal information. We will not collect any Personal Information from you without your approval.   
+**Non-personal Information Collected Automatically**  
+No matter you are a registered user or just a visitor, the Non-personal Information will be collected automatically. We list the details as following:  
+a. Type of operation system (e.g Windows, Linux, android);  
+b. Type of Browser (e.g. Explorer, Firefox, etc.);  
+c. Your navigation path (the URLs of where you come to our site from, which of our pages you visit, and where you go as your leave);   
+d. How long time you stay on certain page of pubarticles.com;   
+e. Your computer's IP Address;   
+f. The date and time you access the Site and pages you visit;   
+g. The clicks, mouse movements on user content (e.g votes up and vote down). 
 
-We only collect person information that is relevant to the purpose of our Site, which is to enable users to access certain materials or pages (i.e. author signup and tell a friend etc.) and to register as a user on this Site, PubArticles requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. This information allows us to provide you with a customized and efficient experience. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and / or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors. 
+**Why We Collect Your Information?**
 
-**We gather two types of information about users:**
+**Purpose of Collecting Personal Information:**  
+a. Personalize your experience on pubarticles.com;  
+b. Provide certain information and services for you which are only available to registered users (e.g such as follow, answer the questions);  
+c. Identify you when conducting customer service operations;  
+d. Contact you with proposals and tailored information;  
+e. More User Generated Content, voluntarily supplied by the User for the purpose of public use and display.  
+**Purpose of Collecting Non-personal Information:**  
+a. users and visitors experience on pubarticles.com;  
+b. Learn about users and visitors preferences and general trends on pubarticles.com;  
+c. Better understand priorities and interests of potential users and partners to better suit their demands and increase efficiency of our sales and marketing processes;   
+d. Administer pubartciles.com easily, and troubleshoot problems with our server.
 
-1\. Information You Provide to Us:  
-We receive and store any information you enter on our Site or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
+**Sharing Your Information with Third Parties?**
 
-1） Join (Registration): In order for you to use PubArticles services, such as submitting new articles, you must complete a registration form. As part of this registration form, we require select personal information (including your full name and e-mail address etc.).   
-2） User Profile: In order for you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio, business URLs, and like that. In addition, you may choose to include photos of yourself in your profile. As indicated below, you can control how your information is displayed and used. 
+We may share your information with third parties in following situations:  
+**Advertising partner:** Advertising partner delivers ads to users and visitors on pubarticles.com, and it is a reputable, independent ad server. We share Website usage information about you with advertising partner for targeting our advertisements on the website. We also use third party advertisers to display ads and collect information on the Website. Advertising partner may use your non-Personal Information in order to provide advertisements on the Website.   
+**Third Party Services:** We contract with third parties to provide services to us or to you, such as providing marketing assistance, sending emails to you, removing repetitive information from customer lists, and analyzing data. These third parties may have access to your Personal Information, but will be demanded to only use them for these authorized business activities.   
+**Business Transitions:** If we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, users information generally is one of the transferred business assets. So your personally information will be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.  
+**Compliance and Safety:**  
+a. To satisfy any applicable law, and to respond to legal requests or otherwise address written complaints of copyright infringement;   
+b. To prevent potential crimes such as address fraud, or investigate persons;   
+c. To enforce or apply [Privacy Policy](http://www.pubarticles.com/support/privacy-policy.html) or [Terms of Use](http://www.pubarticles.com/support/terms.html);  
+d. To protect the rights, property, or safety of our Site, our users, or the general public.
 
+**How Do We Protect Your Information Secure?**
 
-2\. Automatic Information:  
-Information we gather through aggregated tracking information derived mainly by tallying page views throughout our Site. This information allows us to better tailor our content to readers' needs. Under no circumstances do we divulge any information about an individual user to a third party. 
+We take commercially reasonable physical, managerial, and technical procedures to protect your Personally Information and other data from loss, misuse or alteration and to safeguard and secure the data you provide. But neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. So we cannot guarantee its absolute security while using reasonable measures to protect your Personally Information. 
 
-**Use of Information**
+**Third Party Sites**
 
-We use any information voluntarily given by our users to enhance their experience in our network of Sites, whether to provide interactive or personalized elements on the Sites or to better prepare future content based on the interests of our users. 
+It is common to find third party websites while using pubarticles.com. Third party websites are independent sites, and we have no responsibility for their privacy practices. Please carefully read privacy policies and terms of use of third party websites.
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. 
+**Changes and Updates of Privacy Policy**
 
-We use tracking information to determine which areas of our Sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
+We have the right to change or update our Policy at any time. And we wil give Policy's new effective date on the top of this page and the policy will take effect immediately.
 
-We create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. 
+**Contact Information**
 
-**Cookies**
+If you have any question or advice, please contact us by sending email to support@pubarticles.com.  
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this Site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other Sites. We use cookies to track user traffic patterns. In addition, you can delete any cookies that have already been placed on your computer. 
-
-**Internet Protocol Addresses.**
-
-We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-**Email Policy**
-
-1\. We'll never share or sell your email address to a third party;  
-2\. Uses. We may send you the free email updates you prefer;  
-3\. Free email updates:   
-There are kinds of SEO tips, article marketing tricks and other free resources for PubArticles registrants.   
-System updates. (Irregular delivery, if it is necessary.)  
-4\. Unsubscribe.  
-You can unsubscribe for any or all email lists that you previously chose to receive. But, please make sure that your account will be simultaneously removed, when you choose to unsubscribe. 
-
-**Hperlinks**
-
-This Site contains hyperlinks to other web Sites. This privacy policy applies only to this Site and not to any other Sites, including Sites accessed by hyperlink from this Site. PubArticles has no responsibility, liability for, or control over those other web Sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these Sites. 
-
-**Sharing Your Information**
-
-We don't share any information gathered by us by means other than explained above.  
-We use third-party advertising companies to serve ads when you visit our Site. You can view their privacy policy by clicking here.  
-
-
-  * Google, as a third party vendor, uses cookies to serve ads on our Site.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our Site and other Sites on the Internet.
-
-
-
-**Keeping information Secure**
-
-Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
-
-Submitting your excellent articles to generate quality backlinks and target traffic to your website.   
-**Copyright Infringement and DMCA Policy.**  
-PubArticles always respects intellectual property rights of others. If you believe the articles or any provided material located on or linked to by PubArticles.com infringes your copyright, you are encouraged to notify PubArticles by clicking "Contact Us" to sent an infringement notification seeking removal of online articles on PubArticles. In case of a publisher who may infringe or repeatedly infringes the copyrights or other intellectual property rights of PubArticles or others, PubArticles may in its discretion, terminate or deny access to and use of the Website.   
-To file a notice of infringement with us, you must provide a written communication by mail or fax. 
-
-* Provide infringing article link  
-* Provide the original article link  
-* Provide information reasonably sufficient to permit PubArticles to contact you (email address is preferred).  
-* Provide information, if possible, sufficient to permit PubArticles to notify the owner/administrator of the allegedly infringing articles (email address is preferred).  
-* Include the following statement: "I have a good faith belief that use of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner."  
-* Include the following statement: "I swear, under penalty of perjury, that the information in the notification is accurate and that I am the copyright owner or am authorized to act on behalf of the owner of an exclusive right that is allegedly infringed." 
-
-
-**[Join Us](https://web.archive.org/join.php) Today - It's Free!**
