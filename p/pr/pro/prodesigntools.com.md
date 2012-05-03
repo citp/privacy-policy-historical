@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164013id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234844id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProDesignTools
 
@@ -6,7 +6,7 @@ Thank you for visiting our website. The privacy of our customers is important to
 
 ## What Information Do We Collect?
 
-When you visit our website you may provide us with two types of information: personal information you choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our site.
+When you visit our website you may provide us with two types of information: (1) optional personal information you choose to disclose that is collected on an individual basis, which is used solely for correspondence you have specifically requested or regarding comments you have left, and (2) website usage information that is collected on an aggregate basis as you and others browse our site, which is used solely to measure site traffic and visitor statistics.
 
 ## Log Files
 
@@ -18,11 +18,13 @@ Cookies are parcels of text commonly sent by a website to a browser, which often
 
 ## Email Information
 
-You can sign up to receive occasional news of future Adobe discounts and coupon savings by providing your email address in the “Special Offers” box. Our newsletter aims to detail new Adobe products and help you save money on Adobe products generally. In each newsletter there is a direct link to unsubscribe if you no longer wish to receive future mailings.
+You can sign up to receive occasional news of future Adobe discounts and coupon savings by providing your email address in the “Special Offers” box. Our newsletter aims to detail new Adobe products and help you save money on Adobe products generally. In each newsletter there is a direct link to unsubscribe if you no longer wish to receive future mailings, and your information would be removed permanently from our subscriber list. If you would otherwise like to modify or remove the email address stored for a newsletter subscription, please simply let us know via [our contact form](http://prodesigntools.com/contact-us.html).
+
+Our site’s content, including comments, is regularly indexed by search bots and, therefore, has the potential to be read, printed, and otherwise distributed around the world without the commenter’s consent. Within each comment, the publicly visible fields are Name, Website, and the content of the comment itself. Commenters agree not to hold our site liable for any unintended use of any comments they post. If you chose to post a comment on the site, you concurrently make certain concessions to publicity and, therefore, limit your personal privacy and that of your post. Nevertheless, we will never collect, sell, or otherwise distribute user information (such as email addresses) that isn’t otherwise publicly available on the site without the permission of the user(s). Just as our editors maintain the right to delete or edit any comment at any time for any reason they deem appropriate, any user may request his/her comments be deleted at any time for any reason s/he deems appropriate. Any requests for comment removal should be made via [our contact form](http://prodesigntools.com/contact-us.html).
 
 ## Partners
 
-As official partners of Adobe, Amazon.com, Lynda.com, and other companies, we may receive revenues from product or service commissions. As members of the Google AdSense network, we may receive revenues from the display of banner advertising. However, we do not share any site data or personally-identifying information with these partners or any other entities.
+As official partners of Adobe, Amazon.com, Lynda.com, Kelby Training, and other companies, we may display affiliated links or receive revenues from product or service commissions. As members of the Google AdSense network, we may receive revenues from the display of banner advertising. 10% of any earnings from these will be donated to Charity. However, we do not share any site data or personally-identifying infor­mation with these partners or any other entities.
 
 ## Sharing Information with Third Parties
 
@@ -30,7 +32,7 @@ We do not sell, rent, or share website data or personal information with any oth
 
 ## Commitment to Data Security
 
-Your personally identifiable information is kept secure and confidential. Only authorized employees have access to this information, which is safeguarded with AES encryption and strong password protection. All emails and newsletters from this site allow you to opt out of further mailings.
+We take strong technical and organizational precautions to keep your personally identifiable information secure and confidential, to prevent any loss, misuse, or alteration. Only select authorized employees have access to this information, which is safeguarded with AES encryption and strong password protection. All emails and newsletters from this site allow you to opt out of further mailings.
 
 ## Your Consent
 
