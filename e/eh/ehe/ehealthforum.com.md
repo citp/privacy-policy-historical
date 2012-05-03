@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehealthforum.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219065817id_/http%3A//ehealthforum.com/health/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthforum.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503182552id_/http%3A//ehealthforum.com/health/privacy_policy.html) for the most accurate reproduction.*
 
 # eHealth Forum - Privacy policy
 
@@ -14,7 +14,7 @@ If you choose to use the "Ask A Doctor" feature on the website, the contents of 
 
 2\. Accessing and Updating Personal Information 
 
-eHealth Forum gives users the option of changing and modifying information originally provided during registration. Registered users may login and access the user profile page to add, change, or delete personal information or to reset personal preferences, etc. If you are having trouble accessing and updating your personal information, you may contact eHealth Forum directly for help with such requests by completing a [User Comment Form](https://web.archive.org/web/20111219065817id_/http%3A//ehealthforum.com/health/contact.php) online. 
+eHealth Forum gives users the option of changing and modifying information originally provided during registration. Registered users may login and access the user profile page to add, change, or delete personal information or to reset personal preferences, etc. If you are having trouble accessing and updating your personal information, you may contact eHealth Forum directly for help with such requests by completing a [User Comment Form](https://web.archive.org/web/20120503182552id_/http%3A//ehealthforum.com/health/contact.php) online. 
 
 3\. Information gathered by eHealth Forum 
 
@@ -22,7 +22,7 @@ When you visit and interact with the site, eHealth Forum may collect information
 
 A. IP Address 
 
-An IP address is a number that is assigned by every ISP (Internet Service Provider) to computers. An IP address is used identify the location of a computer. IP addresses help diagnose problems with servers and aid in the administration of websites. eHealth Forum sometimes uses IP addresses to communicate with members and subscribers or to restrict website use by those who do not comply with the [Terms of Use](https://web.archive.org/web/20111219065817id_/http%3A//ehealthforum.com/health/terms_of_use.html). 
+An IP address is a number that is assigned by every ISP (Internet Service Provider) to computers. An IP address is used identify the location of a computer. IP addresses help diagnose problems with servers and aid in the administration of websites. eHealth Forum sometimes uses IP addresses to communicate with members and subscribers or to restrict website use by those who do not comply with the [Terms of Use](https://web.archive.org/web/20120503182552id_/http%3A//ehealthforum.com/health/terms_of_use.html). 
 
 B. Cookies 
 
@@ -38,4 +38,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 Our privacy policy may be revised periodically. The most recent changes to the policy will be noted in a different color within the policy. You can click on any of those areas to find information about the change and how it may affect you. Further, you may access all previous privacy policies through links at the top and the bottom of this page. When we make significant changes that affect our privacy policies and practices, we will post a notice on the eHealth Forum home page for 30 days; registered users will be notified by email of material changes to the policy. We recommend that you read our privacy policy whenever you visit our site in case you missed our notice. 
 
-If you have questions about the Terms of Use, Copyright Policy, Privacy Policy, and/or Advertising Policy or have any other questions or concerns about the site you can complete a [User Comment Form](https://web.archive.org/web/20111219065817id_/http%3A//ehealthforum.com/health/contact.php) online and we will respond to your comments with an individual and prompt reply. 
+If you have questions about the Terms of Use, Copyright Policy, Privacy Policy, and/or Advertising Policy or have any other questions or concerns about the site you can complete a [User Comment Form](https://web.archive.org/web/20120503182552id_/http%3A//ehealthforum.com/health/contact.php) online and we will respond to your comments with an individual and prompt reply. 
