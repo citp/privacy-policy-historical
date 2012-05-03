@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006152153id_/http%3A//mind360.com/infopages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mind360.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220539id_/http%3A//mind360.com/infopages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Mind360 Scientifically Proven Brain Training Games
 
