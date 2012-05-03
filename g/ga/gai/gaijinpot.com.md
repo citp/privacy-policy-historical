@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127204053id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233709id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
 
-# Privacy Policy ‹ GaijinPot Jobs – Find Jobs in Japan for foreigners, work in Japan and get English speaking jobs in Japan
+# Privacy Policy ‹ GaijinPot Jobs
 
 ### 1\. Definitions and Parties
 
