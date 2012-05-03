@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218030651id_/http%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235633id_/http%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
 
 # HappyFox - Privacy Policy
 
@@ -36,7 +36,7 @@ HappyFox may update this policy from time to time. You can review the most curre
 
 #### Terms of Service.
 
-When you access and use the Service, You are subject to the [HappyFox Terms of Service](http://www.happyfox.com/terms).
+When you access and use the Service, You are subject to the [HappyFox Terms of Service](http://www.happyfox.com/terms-of-service).
 
 #### Contact Us
 
