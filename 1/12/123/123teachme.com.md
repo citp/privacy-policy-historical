@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225718id_/http%3A//www.123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123teachme.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225851id_/http%3A//www.123teachme.com/learn_spanish/privacy_policy) for the most accurate reproduction.*
 
 # 123TeachMe - Privacy Policy
 
