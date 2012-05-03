@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharedir.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007170931id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedir.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503192628id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.*
 
 # Filesonic Search Engine - Hotfile Fileserve Filesonic Downloads
 
-ShareDir.com committed to user privacy and our policy below describes our principles in maintaining user trust and confidence and protecting your personal information.
+ShareDir.com is committed to user privacy and our policy below describes our principles in maintaining user trust and confidence and protecting your personal information.
 
 ## Information Collection and Use
 
