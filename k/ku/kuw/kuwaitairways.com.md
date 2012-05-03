@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026032618id_/http%3A//www.kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011429id_/http%3A//www.kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
 
 # Kuwait Airways - National Flag Carrier Since 1954
 
