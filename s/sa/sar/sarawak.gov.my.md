@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129081836id_/http%3A//www.sarawak.gov.my/en/tools/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230857id_/http%3A//www.sarawak.gov.my/en/tools/privacy-policy) for the most accurate reproduction.*
 
 # Sarawak Government Portal | Privacy Policy
 
@@ -19,7 +19,7 @@ To safeguard your personal data, all electronic storage and transmission of pers
 No personally identifiable information is gathered during the browsing of the Sarawak Electronic Government Portal except for information given by you via e-mails and registration in MyHome, which is in a secure portion of the Portal.
 
 **Feedback**  
-We welcome all feedbacks/inquiries.
+We welcome all feedback/enquiries.
 
 In case of detailed information which the Portal may not be able to provide, your feedback/enquiry will be sent to the relevant Government agency to better serve you.
 
@@ -37,4 +37,4 @@ If this privacy policy changes in any way, it will be updated on this page. Regu
 **Queries or Complaints**  
 If you have any queries or complaints about this privacy policy or about the Portal, you can contact us via our Feedback section.
 
-( _Note: The above privacy policy adopted from www.gov.my and amended suit to State Portal's need_ )
+( _Note: The above privacy policy adopted from www.malaysia.gov.my and amended to suit to State Portal's need_ )
