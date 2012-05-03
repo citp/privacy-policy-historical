@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the houseinthesun.com privacy policy that was archived on 2011-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102011241id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the houseinthesun.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503183032id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -199,17 +199,17 @@ function googleTranslateElementInit() {
 	<tbody><tr>
 		<td valign="top" class="featured_listings" align="center">
 		
-		<a href="http://www.houseinthesun.com/listing-st.-barth-residence-lots-34912.html">
-		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_34912_stbarthmarinasunset.jpg" height="140" width="210" alt="Click to learn more..."><br>
-		</a><a href="http://www.houseinthesun.com/listing-st.-barth-residence-lots-34912.html"><strong>Florianopolis Brazil </strong></a><br><br>
+		<a href="http://www.houseinthesun.com/listing-puerto-ban%C3%83%C2%BAs-m%C3%83%C2%A1laga-r685144-232567.html">
+		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_232567_8544746.jpg" height="158" width="210" alt="Click to learn more..."><br>
+		</a><a href="http://www.houseinthesun.com/listing-puerto-ban%C3%83%C2%BAs-m%C3%83%C2%A1laga-r685144-232567.html"><strong>Puerto Banús Spain </strong></a><br><br>
 			
-		<a href="http://www.houseinthesun.com/listing-apartments-190724.html">
-		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_190724_6506457.jpg" height="140" width="210" alt="Click to learn more..."><br>
-		</a><a href="http://www.houseinthesun.com/listing-apartments-190724.html"><strong>Marbella Spain </strong></a><br><br>
+		<a href="http://www.houseinthesun.com/listing-new-front-line-golf-apartments-in-estepona---80%25-finance-232560.html">
+		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_232560_7798287.jpg" height="157" width="210" alt="Click to learn more..."><br>
+		</a><a href="http://www.houseinthesun.com/listing-new-front-line-golf-apartments-in-estepona---80%25-finance-232560.html"><strong>Estepona Spain </strong></a><br><br>
 			
-		<a href="http://www.houseinthesun.com/listing-casa-azahar-eco-homes-201775.html">
-		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_201775_8005529.jpg" height="101" width="210" alt="Click to learn more..."><br>
-		</a><a href="http://www.houseinthesun.com/listing-casa-azahar-eco-homes-201775.html"><strong>Granada Spain </strong></a><br><br>
+		<a href="http://www.houseinthesun.com/listing-playa-hermosa%2C-puentarenas-puntarenas%2C-11679-70-223410.html">
+		<img style="border-color:#79A9FF" src="http://www.houseinthesun.com/images/listing_photos/thumb_223410_2218156.jpg" height="141" width="210" alt="Click to learn more..."><br>
+		</a><a href="http://www.houseinthesun.com/listing-playa-hermosa%2C-puentarenas-puntarenas%2C-11679-70-223410.html"><strong>Playa Hermosa, Puentarenas Costa Rica </strong></a><br><br>
 			
 	  </td>
 	</tr>
@@ -333,6 +333,7 @@ function googleTranslateElementInit() {
 </div><!-- container ends -->
 <div style="position:absolute;float:right;width:164px;top:0px;left:1015px;border:0px;">
 <center><a href="http://facebook.com/houseinthesun"><img src="http://www.houseinthesun.com/images/facebook4.gif" style="border:0px; title=" follow="" us="" on="" facebook"=""></a></center>
+<a href="javascript:load_interest_form();"><img src="http://www.houseinthesun.com/images/right_banner_i.jpg" style="border:0px;"></a><br>
 
 <img src="/images/right_banner_1101.jpg" style="border:0px;cursor:pointer;" onclick="javascript:load_signup_links();"><br>
 
@@ -416,6 +417,48 @@ if (!doneActiveLink) {
 }
 }
 
+function postForm2() {
+			
+	with (document.forms['send_interest_form']) {
+		sbj='Inquiry';
+		msg=i_message.value;
+		nm=i_name.value;
+		em=i_email.value;
+		phn=i_phone.value;
+		cntr=i_country.value;
+		url="/send_mail_moreinfo2.php";
+		agid=i_agent_id.value;
+		if (nm==''||em==''||phn==''||msg==''||cntr=='') {
+			alert("Please fill in all the information.");
+			name.focus();
+			return;
+		}
+	}
+			
+	jQuery.post(url, {i_agent_id:agid, i_subject:sbj, i_name:nm, i_message:msg, i_email:em, i_phone:phn, i_country:cntr, isAjax:'1'}, function(data) {
+		if (data=="OK") {
+			jQuery("#send_interest_form").html("<b>Your inquiry was successfully sent.<br /><br /><a href=\"javascript:close_interest_form();\">Click here to close this window.</a></b>");
+		}
+		else {
+			alert(data);
+		}
+	}
+	)
+}
+
+
+
+function load_interest_form(){
+	document.getElementById('interest_form_popup').style.visibility='visible';
+	grayOut(true);
+	
+}
+
+function close_interest_form(){
+	document.getElementById('interest_form_popup').style.visibility='hidden';
+	grayOut(false);
+	
+}
 
 function load_signup_links(){
 	document.getElementById('signup_popup').style.visibility='visible';
@@ -523,6 +566,118 @@ jQuery(document).ready(function(){
 						<a href="javascript:close_signup_links();">Close</a>
 						</div>
 
+<div id="interest_form_popup" style="background:#FFFFFF;width:600px;height:640px;border:5px #f78d20 solid;z-index:121213;visibility:hidden;position:absolute;top:100px;left:50%;margin-left:-200px;">
+<table><tbody><tr><td style="text-align:left;padding:20px 0px 0px 30px;">
+	<b>Send us an inquiry</b><br><br>
+	Complete the form below and we will help you to get in touch with an agent that suits you. Be sure to enter the country, region and type of property you are interested in.<br><br>
+	<form name="send_interest_form" id="send_interest_form" method="post">
+	<input type="hidden" name="i_agent_id" id="i_agent_id" value="xx">
+	<input type="hidden" name="i_subject" id="i_subject" value="Inquiry">
+	Name:<br>
+	<input type="text" name="i_name" id="i_name" style="width:500px;"><br><br>
+	Email Address:<br>
+	<input type="text" name="i_email" id="i_email" style="width:500px;"><br><br>
+	Phone:<br>
+	<input type="text" name="i_phone" id="i_phone" style="width:500px;"><br><br>
+	Country:<br>
+	<select name="i_country">
+	<option value="">   ---   </option>
+	<option value="Anquilla">Anquilla</option>
+<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+<option value="Argentina">Argentina</option>
+<option value="Aruba">Aruba</option>
+<option value="Australia">Australia</option>
+<option value="Bahamas">Bahamas</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Barbados">Barbados</option>
+<option value="Belize">Belize</option>
+<option value="Bermuda">Bermuda</option>
+<option value="Bonaire">Bonaire</option>
+<option value="Brazil">Brazil</option>
+<option value="British Virgin Islands">British Virgin Islands</option>
+<option value="Bulgaria">Bulgaria</option>
+<option value="Cambodia">Cambodia</option>
+<option value="Cape Verde">Cape Verde</option>
+<option value="Cayman Islands">Cayman Islands</option>
+<option value="Chile">Chile</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Croatia">Croatia</option>
+<option value="Curacao">Curacao</option>
+<option value="Cyprus">Cyprus</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="Egypt">Egypt</option>
+<option value="Fiji">Fiji</option>
+<option value="France">France</option>
+<option value="Gibraltar">Gibraltar</option>
+<option value="Greece">Greece</option>
+<option value="Grenada">Grenada</option>
+<option value="Guadelope">Guadelope</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option value="Israel">Israel</option>
+<option value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Kenya">Kenya</option>
+<option value="Macedonia">Macedonia</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Malta">Malta</option>
+<option value="Martinique">Martiniqu</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mexico">Mexico</option>
+<option value="Montenegro">Montenegro</option>
+<option value="Morocco">Morocco</option>
+<option value="Nevis">Nevis</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Oman">Oman</option>
+<option value="Other">Other</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Panama">Panama</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Portugal">Portugal</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Qatar">Qatar</option>
+<option value="Rest of Africa">Rest of Africa</option>
+<option value="Rest of Asia">Rest of Asia</option>
+<option value="Rest of Central America">Rest of Central America</option>
+<option value="Rest of Europe">Rest of Europe</option>
+<option value="Rest of Middle East">Rest of Middle East</option>
+<option value="Rest of Oceania">Rest of Oceania</option>
+<option value="Rest of South America">Rest of South America</option>
+<option value="Romania">Romania</option>
+<option value="Saint Kitts">Saint Kitts</option>
+<option value="Saint Lucia">Saint Lucia</option>
+<option value="Saint Maarten">Saint Maarten</option>
+<option value="Saint Vincent &amp; Grenadines">Saint Vincent &amp; Grenadines</option>
+<option value="Singapore">Singapore</option>
+<option value="Slovenia">Slovenia</option>
+<option value="South Africa">South Africa</option>
+<option value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="Thailand">Thailand</option>
+<option value="Tonga">Tonga</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Tunisia">Tunisia</option>
+<option value="Turkey">Turkey</option>
+<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option value="UAE and Dubai">UAE and Dubai</option>
+<option value="Uruguay">Uruguay</option>
+<option value="USA">USA</option>
+<option value="US Virgin Islands">US Virgin Islands</option>
+<option value="Vanuatu">Vanuatu</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+</select>
+	<br><br>
+	Interested in:<br>
+	<textarea name="i_message" id="i_message" style="width:500px;height:200px;"></textarea><br><br>
+	<a href="javascript:postForm2()"><img src="/images/btn_submit_mail.gif" style="border:0px;"></a>
+	<div style="width:100%;text-align:center;"><a href="javascript:close_interest_form();">Close</a></div>
+	</form>
+</td></tr></tbody></table>
+</div>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -538,4 +693,5 @@ jQuery(document).ready(function(){
 </script>
 
 
-<!-- This page was generated in 0.402 seconds --></body></html>
+
+<!-- This page was generated in 0.518 seconds --></body></html>
