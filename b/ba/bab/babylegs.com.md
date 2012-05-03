@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220604id_/http%3A//www.babylegs.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503022239id_/http%3A//www.babylegs.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | baby clothing, baby socks, girls tights | BabyLegs BabyLegs.com
 
 **BABYLEGS div. of UNITED LEGWEAR CO., LLC**
 
-**dba BabyLegs®**   
-
+**dba BabyLegs®**
 
 The information we obtain from you is primarily for communication purposes and to assist us in serving you. Additionally it helps us to personalize and continually improve your user experience with BABYLEGS® products and services.   
 
