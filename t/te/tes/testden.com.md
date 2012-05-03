@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testden.com privacy policy that was archived on 2011-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110824173951id_/http%3A//www.testden.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testden.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214518id_/http%3A//www.testden.com/privacy.htm) for the most accurate reproduction.*
 
 # TestDEN Privacy Policy
 
