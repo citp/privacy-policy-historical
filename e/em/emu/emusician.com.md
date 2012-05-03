@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emusician.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211063739id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emusician.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011427id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
 
 # NewBay Media
 
