@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the fittodo.com privacy policy that was archived on 2011-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111230011438id_/http%3A//www.fittodo.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fittodo.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503214718id_/http%3A//www.fittodo.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	FitToDo : Privacy Policy
-</title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">var BaseURL = 'http://www.fittodo.com';</script><script language="javascript" type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+</title><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">var BaseURL = 'http://www.fittodo.com';</script><script language="javascript" type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery.corner.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery-ui-1.8.9.custom.min.js"></script>
 <script language="javascript" type="text/javascript" src="/js/jquery.youtube.player.js"></script>
+<script language="javascript" type="text/javascript" src="/js/ga_social_tracking.js"></script>
 
     
 
@@ -27,6 +28,10 @@
     </script>    
 
     <script type="text/javascript">
+		String.prototype.endsWith = function (pattern) {
+            var d = this.length - pattern.length;
+            return d >= 0 && this.lastIndexOf(pattern) === d;
+        };
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-22625124-1']);
         _gaq.push(['_trackPageview']);
@@ -36,7 +41,52 @@
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-    </script>    
+    </script> 
+    <script type="text/javascript" charset="utf-8">
+        window.twttr = (function (d, s, id) {
+            var t, js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+            return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+        } (document, "script", "twitter-wjs"));
+
+        // Wait for the asynchronous resources to load
+        twttr.ready(function (twttr) {
+            _ga.trackTwitter(); //Google Analytics tracking
+        });
+  </script>   
+  <script>
+      window.fbAsyncInit = function () {
+          FB.init({
+              appId: '100002854942143', // ENTER your FB App ID
+              //channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+              status: true, // check login status
+              cookie: true, // enable cookies to allow the server to access the session
+              xfbml: true  // parse XFBML
+          });
+
+          _ga.trackFacebook(); //Google Analytics tracking
+
+      };
+
+   (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src="//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));
+
+
+      // Load the Facebook SDK Asynchronously
+//      (function (d) {
+//          var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+//          if (d.getElementById(id)) { return; }
+//          js = d.createElement('script'); js.id = id; js.async = true;
+//          js.src = "//connect.facebook.net/en_US/all.js";
+//          ref.parentNode.insertBefore(js, ref);
+//      } (document));
+</script>
     <script type="text/javascript" language="javascript">
         $(document).ready(
 			function () {
@@ -46,18 +96,20 @@
     </script>    
 <link href="App_Themes/Theme1/DataGrid.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/ddcolortabs.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/indentmenu.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/jquery-ui-1.8.16.custom.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/style-2.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/StyleSheet.css" type="text/css" rel="stylesheet"><link href="App_Themes/Theme1/youtube-player.css" type="text/css" rel="stylesheet"></head>
 <body>    
-    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYEAgEPZBYCAgEPFgIeBFRleHQF5QM8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPnZhciBCYXNlVVJMID0gJ2h0dHA6Ly93d3cuZml0dG9kby5jb20nOzwvc2NyaXB0PjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LTEuNC40Lm1pbi5qcyc+PC9zY3JpcHQ+CjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LmNvcm5lci5qcyc+PC9zY3JpcHQ+CjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LXVpLTEuOC45LmN1c3RvbS5taW4uanMnPjwvc2NyaXB0Pgo8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0nL2pzL2pxdWVyeS55b3V0dWJlLnBsYXllci5qcyc+PC9zY3JpcHQ+CmQCAw9kFgQCBQ9kFgICBQ8PFgIeB1Zpc2libGVoZGQCGw9kFgICAw8WAh8ABcgBPGEgdGFyZ2V0PSJfYmxhbmsiIHN0eWxlPSJib3JkZXItYm90dG9tLXN0eWxlOm5vbmU7IiB0aXRsZT0iaHR0cDovL2tpY2tlci5jb20iIGhyZWY9Imh0dHA6Ly9raWNrZXIuY29tIj48aW1nIGFsdD0iaHR0cDovL2tpY2tlci5jb20iIHNyYz0iaHR0cDovL2ZpdHRvZG8uY29tL2Fkcy8xNjB4NjAwSUtza2luLmpwZyIgd2lkdGg9IjE2MHB4IiAvPjwvYT5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSNjdGwwMCRjdGwwMCRIb21lQmFubmVyJFNlYXJjaEJ1dHRvblZE58V+UDVaECn2PcQpYkShtrMH">
+    <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAmYPZBYEAgEPZBYCAgEPFgIeBFRleHQFxAQ8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPnZhciBCYXNlVVJMID0gJ2h0dHA6Ly93d3cuZml0dG9kby5jb20nOzwvc2NyaXB0PjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LTEuNC40Lm1pbi5qcyc+PC9zY3JpcHQ+CjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LmNvcm5lci5qcyc+PC9zY3JpcHQ+CjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvanF1ZXJ5LXVpLTEuOC45LmN1c3RvbS5taW4uanMnPjwvc2NyaXB0Pgo8c2NyaXB0IGxhbmd1YWdlPSJqYXZhc2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0nL2pzL2pxdWVyeS55b3V0dWJlLnBsYXllci5qcyc+PC9zY3JpcHQ+CjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPScvanMvZ2Ffc29jaWFsX3RyYWNraW5nLmpzJz48L3NjcmlwdD4KZAIDD2QWBAIFD2QWAgIFDw8WAh4HVmlzaWJsZWhkZAIbD2QWAgIDDxYCHwAFyAE8YSB0YXJnZXQ9Il9ibGFuayIgc3R5bGU9ImJvcmRlci1ib3R0b20tc3R5bGU6bm9uZTsiIHRpdGxlPSJodHRwOi8va2lja2VyLmNvbSIgaHJlZj0iaHR0cDovL2tpY2tlci5jb20iPjxpbWcgYWx0PSJodHRwOi8va2lja2VyLmNvbSIgc3JjPSJodHRwOi8vZml0dG9kby5jb20vYWRzLzE2MHg2MDBJS3NraW4uanBnIiB3aWR0aD0iMTYwcHgiIC8+PC9hPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFI2N0bDAwJGN0bDAwJEhvbWVCYW5uZXIkU2VhcmNoQnV0dG9ukjzKC98TbtoK2ILURAiDQr99NVQ=">
 
 
-<script src="/ScriptResource.axd?d=UpABQNOH-v8fEPYBX5blNXQAM7idkUMNqMqmY9zbOvT-dhFhXBIJfBZV0DX38-SmILhJnIJDzvCoUfx_ZoPyawg7auVEdFs_mym-z_db3f8JPkVugEHyC1N0ZArf0-kq-WNyXJXM4rj9Ym4M91zBebrlBWLFkPEdgtNMCeytbmQmsADU0&amp;t=fffffffffcc7b094" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=kHAeqafbLBVlQBgUCV2e67RdDarBPnpYRh5cYlM8Ody7OXzq7YtsbKPM9t_GKkeDwNIMemJ6_I8inxx8cOgCMnuHOCkg_P5RnUmQn-Nw1_YhXKiamiv6z1BRjFvpEf90AhdWYosQ1ynQmCmJyZOd4qhMxxoqnak3xwhOXkIhM3heFRzo0&amp;t=31838e6a" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwL+5JPSAgKp+66KCgLKr4iCAVO8M7wqACkq/1QgXP9ULyBdpt7f">
+<script src="/ScriptResource.axd?d=U8jv13Sjrfd2RXtzgdrE8CYYj9P2ZvTtgkb6WOe8TEwURefjmONN0P3uVNBYsCSmc7-6I4-pAv07j3Aa8TtJS4Ghg8IJEUurxxl-4mVsGJGK53-DYe-4Gcq2Xp4CfqfIhfhWYvhRIBU_as3jXz9qvPzE9Qo1&amp;t=fffffffffc712ec7" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=y_-cBFv56sEM_Tvt-6TlXaCwMhvFQBI_1TICohr62mh5GBXDur-c38Ud43BHsuctx8oxtgFLQfR9ivUbZvkcjx6_PDYtISMxfQ2sEOeJwbMOP85QX1A3dXPpIAWGe4xi8SdukSeb2YikK1NgeOMvsh9ZU7LPCtFJchmoWrbOZSj3o6Et0&amp;t=fffffffffc712ec7" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLvs73lBQKjjr6LDgKCzdi1BQLj8OKZAwKp+66KCgLKr4iCAb0dfOJd1H4bbRaCu6V0VXjcBCMi">
         
         <div id="ctl00_ctl00_UpdateProgress1" style="display:none;">
 	
@@ -69,82 +121,145 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <td width="100%" height="122">
                     
 <table border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr style="height:122px">
+    <tbody><tr style="height: 122px">
         <td>
-            <img id="ctl00_ctl00_HomeBanner_Image1" src="images/new/logo.jpg" border="0">            
+           <a href="http://www.fittodo.com"> <img id="ctl00_ctl00_HomeBanner_Image1" src="images/new/logo.jpg" border="0"></a>
         </td>
-        <td width="201"></td>
-        <td width="298">
+        <td width="108">
+        </td>
+        <td width="530">
             <table border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr style="height:63px">
-                    <td width="298">
+                <tbody><tr>
+                    <td width="530">
                         <table border="0" cellpadding="0" cellspacing="0">
                             <tbody><tr>
-                                <td class="bannerorangeleft"></td>
-                                <td class="bannerorangebg" height="63">
-                                    <div id="ctl00_ctl00_HomeBanner_SigninPanel">
+                                <td>
+                                    <table border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td class="bannerorangeleft">
+                                            </td>
+                                            <td class="bannerorangebg" height="63">
+                                                <div id="ctl00_ctl00_HomeBanner_SigninPanel">
 	
-                                        <table width="256" border="0" align="right" cellpadding="0" cellspacing="0">
-                                            <tbody><tr>
-                                                <td style="padding-right:10px;width:49%">                                                
-                                                    <span style="color:#fff">Have An Account?</span><br>
-                                                    <span><a id="ctl00_ctl00_HomeBanner_SigninLink" class="bannerlink" href="Login.aspx">Sign In</a></span>
-                                                </td>
-                                                <td width="1" class="whitelinebg">                                                
-                                                </td>
-                                                <td style="padding-left:10px;width:49%">
-                                                    <span style="color:#fff">New User?</span><br>
-                                                    <span><a id="ctl00_ctl00_HomeBanner_HyperLink1" class="bannerlink" href="member/Register.aspx">Register</a></span>
-                                                </td>
-                                            </tr>
-                                        </tbody></table>
-                                    
+                                                    <table border="0" align="right" cellpadding="0" cellspacing="0">
+                                                        <tbody><tr>
+                                                            <td style="padding-right: 10px; width: 49%">
+                                                                <span style="color: #fff">Have&nbsp;An&nbsp;Account?</span><br>
+                                                                <span>
+                                                                    <a id="ctl00_ctl00_HomeBanner_SigninLink" class="bannerlink" href="Login.aspx">Sign In</a></span>
+                                                            </td>
+                                                            <td width="2%" class="whitelinebg">&nbsp;
+                                                            </td>
+                                                            <td style="padding-left: 10px; width: 49%">
+                                                                <span style="color: #fff">New User?</span><br>
+                                                                <span>
+                                                                    <a id="ctl00_ctl00_HomeBanner_HyperLink1" class="bannerlink" href="member/Register.aspx">Register</a></span>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                
 </div>
-                                    
+                                                
+                                                
+                                            </td>
+                                            <td class="bannerorangeright">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
                                 </td>
-                                <td class="bannerorangeright"></td>
+                                <td>
+                                     <table border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td class="bannerorangeleft">
+                                            </td>
+                                            <td class="bannerorangebg" height="63">
+                                             <span style="color: #ffffff">Subscribe For Healthy Tips</span>
+                                            <br>
+                                            <div id="ctl00_ctl00_HomeBanner_upnl">
+	
+                                            <input name="ctl00$ctl00$HomeBanner$txtNL" type="text" id="ctl00_ctl00_HomeBanner_txtNL">
+                                            
+                                            &nbsp;<input type="submit" name="ctl00$ctl00$HomeBanner$btnSubmitNL" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$HomeBanner$btnSubmitNL&quot;, &quot;&quot;, true, &quot;NL&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_HomeBanner_btnSubmitNL" border="1"><br>
+                                            
+                                            
+                                                    <span id="ctl00_ctl00_HomeBanner_lblNLMsg"></span>
+                                           <input type="hidden" name="ctl00$ctl00$HomeBanner$wtrmark1_ClientState" id="ctl00_ctl00_HomeBanner_wtrmark1_ClientState">
+                                           
+</div>
+                                             </td>
+                                            <td class="bannerorangeright">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
                             </tr>
                         </tbody></table>
                     </td>
                 </tr>
                 <tr>
-                    <td width="298" height="59">                        
-                        <table border="0" cellpadding="0" cellspacing="0">                                                        
-                            <tbody><tr>
-                                <td align="right">
-                                    <input name="ctl00$ctl00$HomeBanner$txtSearch" type="text" maxlength="100" id="ctl00_ctl00_HomeBanner_txtSearch" class="search-box">                                                            
-                                </td>
-                                <td align="left">
-                                    <input type="image" name="ctl00$ctl00$HomeBanner$SearchButton" id="ctl00_ctl00_HomeBanner_SearchButton" text="Search" src="images/new/Search.jpg" border="0">                                                            
-                                </td>
-                            </tr>
-                        </tbody></table>                        
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-        <td width="139" height="122">
-            <table style="width:139;height:122" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr><td bgcolor="#FFFFFF" height="77"></td></tr>
-                <tr>
-                    <td width="139" height="30">
+                    <td width="530" height="59">
                         <table border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td>
+                                    <table border="0" cellpadding="0" cellspacing="0">
                             <tbody><tr>
                                 
-                                <td><a href="http://www.facebook.com/FitToDo" target="_blank"><img id="ctl00_ctl00_HomeBanner_FacebookImage" title="Follow us on Facebook" src="images/new/facebook.jpg" border="0"></a></td>
-                                <td><a href="http://www.youtube.com/user/fittodo4health" target="_blank"><img id="ctl00_ctl00_HomeBanner_YouTubeImage" title="Follow us on YouTube" src="images/new/youtube.jpg" border="0"></a></td>                                
-                                <td><a id="ctl00_ctl00_HomeBanner_RssLink" title="Subscribe to our RSS feeds" href="rss/default.aspx"><img title="Subscribe to our RSS feeds" src="images/new/rssfeed.jpg" border="0"></a></td>
-                                <td><a href="http://twitter.com/Fittodo" target="_blank"><img id="ctl00_ctl00_HomeBanner_TwitterImage" title="Follow us on Twitter" src="images/new/twitter.jpg" border="0"></a></td>
-                                <td bgcolor="#FFFFFF" width="21" height="30"></td>
+                                <td>
+                                    <a href="http://www.facebook.com/FitToDo" target="_blank">
+                                        <img id="ctl00_ctl00_HomeBanner_FacebookImage" title="Follow us on Facebook" src="images/new/facebook.jpg" border="0"></a>
+                                </td>
+                                <td>
+                                    <a href="http://www.youtube.com/fittodo4life" target="_blank">
+                                        <img id="ctl00_ctl00_HomeBanner_YouTubeImage" title="Follow us on YouTube" src="images/new/youtube.jpg" border="0"></a>
+                                </td>
+                                <td>
+                                    <a id="ctl00_ctl00_HomeBanner_RssLink" title="Subscribe to our RSS feeds" href="rss/default.aspx"><img title="Subscribe to our RSS feeds" src="images/new/rssfeed.jpg" border="0"></a>
+                                </td>
+                                <td>
+                                    <a href="https://twitter.com/#!/fittodo4health" target="_blank">
+                                        <img id="ctl00_ctl00_HomeBanner_TwitterImage" title="Follow us on Twitter" src="images/new/twitter.jpg" border="0"></a>
+                                </td>
+                                <td>
+                                    <a href="http://pinterest.com/fittodo4health/" target="_blank">
+                                        <img id="ctl00_ctl00_HomeBanner_PinterestImage" title="Follow us on PInterest" src="images/new/pinterest.png" width="26" border="0"></a>
+                                </td>
+                                <td style="padding-left:2px;">
+                                    <a href="#" target="_blank">
+                                        <img id="ctl00_ctl00_HomeBanner_PaperliImage" title="Follow us on Paper.li" src="images/new/paperli.png" width="28" border="0"></a>
+                                </td>
+                                 <td bgcolor="#FFFFFF" style="padding-left:2px;" width="41" height="30">
+                                 <!-- Place this tag where you want the +1 button to render -->
+<g:plusone annotation="none"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+    (function () {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+                                 </td>
+                            </tr>
+                        </tbody></table>
+                                </td>
+                                <td align="right">
+                                    <input name="ctl00$ctl00$HomeBanner$txtSearch" type="text" maxlength="100" id="ctl00_ctl00_HomeBanner_txtSearch" class="search-box">
+                                </td>
+                                <td align="left">
+                                    <input type="image" name="ctl00$ctl00$HomeBanner$SearchButton" id="ctl00_ctl00_HomeBanner_SearchButton" text="Search" src="images/new/Search.jpg" border="0">
+                                </td>
+                                
                             </tr>
                         </tbody></table>
                     </td>
                 </tr>
-                <tr><td bgcolor="#FFFFFF" height="15"></td></tr>
             </tbody></table>
         </td>
+        
     </tr>
 </tbody></table>
+
                 </td>
             </tr>
             <tr>
@@ -152,10 +267,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div id="topmenu" class="indentmenu">
                         <ul>
                             <li><a id="ctl00_ctl00_HomeLink" href="default.aspx">Home</a></li>
-                            <li><a id="ctl00_ctl00_AboutLink" href="aboutus.aspx">About us</a></li>
-                            <li><a id="ctl00_ctl00_TopstoriesLink" href="topstories/index.aspx">Articles</a></li>
+                            <li><a id="ctl00_ctl00_AboutLink" href="aboutus.aspx">About Us</a></li>
+                            <li><a id="ctl00_ctl00_TopstoriesLink" href="topstories/index.aspx">Top Stories</a></li>
                             <li><a id="ctl00_ctl00_TopicsLink" href="topics/index.aspx">Hot Topics</a></li>
-                            <li><a id="ctl00_ctl00_BuyonlineLink" href="buy-online.aspx">Visit Our Store</a></li>
+                            <li><a id="ctl00_ctl00_BuyonlineLink" href="http://www.fittodo.com/findforme.aspx?cid=5">Visit Our Store</a></li>
                             <li><a id="ctl00_ctl00_VideosLink" href="videos.aspx">Videos</a></li>
                             <li><a id="ctl00_ctl00_BlogLink" href="blog/default.aspx">Blog</a></li>
                             <li><a id="ctl00_ctl00_ForumLink" href="forum.aspx">Discussion Forum</a></li>
@@ -249,36 +364,91 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
 <table width="100%" cellpadding="2" cellspacing="2">
     <tbody><tr>
-        <td align="center"></td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink1" href="default.aspx">Home</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink2" href="aboutus.aspx">About us</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink3" href="topstories/index.aspx">Articles</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink4" href="topics/index.aspx">Hot Topics</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink5" href="buy-online.aspx">Visit our store</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink6" href="videos.aspx">Videos</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink7" href="blog/default.aspx">Blog</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink8" href="forum.aspx">Discussion Forum</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink9" href="contactus.aspx">Contact us</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink11" href="termsandconditions.aspx">Terms &amp; Conditions</a></td>
-        <td align="center">|</td>
-        <td align="center"><a id="ctl00_ctl00_Footer1_HyperLink12" href="privacypolicy.aspx">Privacy Policy</a></td>
-        <td align="center"></td>
-    </tr>    
-    <tr>
-        <td colspan="23" align="right">
-            <a href="http://www.alexa.com/siteinfo/www.fittodo.com"><script type="text/javascript" language="javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.fittodo.com"></script></a>
+        <td align="center">
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink1" href="default.aspx">Home</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink2" href="aboutus.aspx">About us</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink3" href="topstories/index.aspx">Top Stories</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink4" href="topics/index.aspx">Hot Topics</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink5" href="http://www.fittodo.com/findforme.aspx?cid=5">Visit our store</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink6" href="videos.aspx">Videos</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink7" href="blog/default.aspx">Blog</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink8" href="forum.aspx">Discussion Forum</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink9" href="contactus.aspx">Contact us</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink11" href="termsandconditions.aspx">Terms &amp; Conditions</a>
+        </td>
+        <td align="center">
+            |
+        </td>
+        <td align="center">
+            <a id="ctl00_ctl00_Footer1_HyperLink12" href="privacypolicy.aspx">Privacy Policy</a>
+        </td>
+        <td align="center">
         </td>
     </tr>
+    <tr>
+        <td colspan="23">
+            <table width="100%">
+                <tbody><tr>
+                    <td class="labelfont">
+                        Copyright © 2012. FITTODO.COM, All Rights Reserved	
+                    </td>
+                    <td align="right">
+                    <a href="http://www.pamten.com" target="_blank"><img id="ctl00_ctl00_Footer1_Image2" src="images/poweredbypamten.png" alt="Powered By PamTen" border="0"></a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    
 </tbody></table>
+
                 </td>
             </tr>
         </tbody></table>    
@@ -287,6 +457,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ctl00_HomeBanner_wtrmark1_ClientState","WatermarkCssClass":"newsletter","WatermarkText":"Email Address","id":"ctl00_ctl00_HomeBanner_wtrmark1"}, null, null, $get("ctl00_ctl00_HomeBanner_txtNL"));
+});
 //]]>
 </script>
 </form>                
