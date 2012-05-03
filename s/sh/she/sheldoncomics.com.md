@@ -1,39 +1,11 @@
-> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152336id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230531id_/http%3A//www.sheldoncomics.com/privacy.html) for the most accurate reproduction.*
 
 # Sheldon: The Daily Comic Strip by Dave Kellett
 
 SHELDON PRIVACY POLICY 
 
-**Our Privacy Policy, in a Nutshell:**
+Sheldoncomics.com is owned and operated by Small Fish Studios, Inc. We value your readership and will not sell any information that is collected from visitors of sheldoncomics.com, at any time, ever. 
 
-We want as little of your information as possible.  This is a comic strip... not a shady auto dealership.  We want to make you laugh, not mess with your privacy.
+Information is collected via cookies, wh ich may log data regarding your visit such as your IP address and the name and/or location of your internet provider. The visitor may opt to enter additional information (such as name, valid e-mail address) to participate in the site's interactive or community features, such as the comment system or web forums. This information is only used in the context of these features and is not retained for any other purposes. Visitors may block cookie usage via their personal browser settings, but it may disable some functions of the website.
 
-================================== 
-
-**Our Privacy Policy, Longer Version:  **
-
-We do not sell or share any personal information with other companies or any third parties.  Below, we would like to detail what information we use, and how we use it.  
-
-If you have any comments, questions, or feedback on this policy, please let us know via [e-mail](mailto:dave@davekellett).  
-
-**Server Logs**   
-Our Web server does log your IP address and type of web browser in standard server logs. We use your IP address to help diagnose problems with our server, and to administer our Web site.  
-
-**Cookies**
-
-We use a "session-based" cookie for every user to our website. It helps us store temporary information about you: Preferences you set during your visit. It gets deleted from your machine when you close your browser, and the information associated with it gets deleted within 4 hours of you leaving our site.   We use a "permanent" cookie if you are a registered, logged-in user of the site, and opted to have us "Remember Login Info". This is how we know who you are in the forums, and whether you want email from us (see below).   We do not log the cookies in our web server logs.   We use PayPal for purchases from the Sheldon Store. For information on Paypal's policy and guidelines, see their privacy policies at: http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside     
-
-
-Contact & Personal Information 
-
-When you register or buy something from our store, we receive some personal information. This can include name, email address, and shipping address in all sorts of various cases. As we said, we won't sell this. If you bought something, we simply use it to ship that product to you.  If you registered and gave us your email address, we may email you things (the daily strip, the monthly newsletter, etc.), but only if you checked the indicated box when you registered. To uncheck it, so we won't email you stuff, you can do that at: http://www.sheldoncomics.com/users/info.html  
-
-Ad Servers 
-
-To help support the site, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.   
-
-Public Forums 
-
-This site makes forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise very high caution when deciding to disclose your personal information. In general, we recommend you don't.  
-
-If you have _any_ comments on the above policies and descriptions, [contact us!](mailto:dave@davekellett).  
+Sheldoncomics.com has partnered with third-party advertisers to deliver ads (contextual and non-) that may be tailored to the visitor using information gathered by the code provided by these advertisers. Their privacy policies can be found at the following URLs: [Contextweb/AdsDAQ](http://www.contextweb.com/privacy_policy), [Google](https://www.google.com/adsense/support/bin/answer.py?answer=48182&hl=en&sourceid=aso&subid=ww-en-et-storefrontEN_v2_ProgramPoliciesLink&medium=link), and [Project Wonderful](https://www.projectwonderful.com/tos.php). If you have any questions or concerns, please [contact us](mailto:dave@davekellett.com?subject=Sheldon%20Privacy%20Policy%20Question). 
