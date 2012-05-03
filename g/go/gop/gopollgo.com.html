@@ -1,206 +1,25 @@
-<!--The following is the downloaded HTML source of the gopollgo.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101235048id_/http%3A//gopollgo.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gopollgo.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503225654id_/http%3A//gopollgo.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/stylesheets/main.css?1320173873" media="screen" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://c221023.r23.cf1.rackcdn.com/gpg.js"></script>
+<!DOCTYPE html><html><head>
 <title>Privacy Policy | GoPollGo | Online Polls
 </title>
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="yk2SKpskHi4lJOKGO1ClzW5Iw8p4nD8LZOTm6GD21+8=">
 <link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<meta content="GoPollGo" property="og:site_name">
-<meta content="http://gopollgo.com/images/share/fbshare.png" property="og:image">
-<meta content="The best free online polling website for Twitter.  Create and share polls and votes with your friends and followers." name="description">
-<script>
-  //<![CDATA[
-    window.logged_in = false;
-    if () {
-      if(!window.logged_in) {
-        $.ajax({dataType:'script', type:'post', url:'/fp?p=' + md5(gpg_ip())});
-      }
-    }
-  //]]>
-</script>
-
-<script>
-  //<![CDATA[
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-9963438-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  //]]>
-</script>
-
-
-
-<meta content="twitter polls,polls,poll,free polls,online polls,realtime polls,vote,voting" name="keywords">
-<meta content="The best free online polling website for Twitter.  Create and share polls and votes with your friends and followers." name="description">
-<script id="analytic-tmpl" type="text/x-jquery-tmpl">
-  <tr data='${name}'>
-    <td class='item'>${name}</td>
-    <td class='last'>${'vote'.pluralize(count)}</td>
-  </tr>
-</script>
+<link href="/stylesheets/site.css?1334779713" media="screen" rel="stylesheet" type="text/css">
 </head>
 <body>
-<div id="sub-nav"></div>
-<div id="nav">
-<div class="container">
-<div class="right">
-<a class="right" href="/about">About</a>
-<a class="right last" href="/sessions/send_to_twitter">Login</a>
-</div>
-<div class="right" id="search">
-<form action="/search" method="GET">
-<input name="q" placeholder="Search" type="text">
-</form>
-</div>
+<div id="container">
 <div id="logo">
 <div id="bars">
 <div class="bar bar-purple"></div>
 <div class="bar bar-orange"></div>
 <div class="bar bar-blue"></div>
-</div>
+<h1>
 <a href="/">GoPollGo</a>
-</div>
-<span class="call-to-action-button" id="create-poll">
-Create a Poll
-</span>
-</div>
-<div class="clear"></div>
-</div>
-<div class="container" id="wrap">
-<div id="content">
-<div id="ask"><br>
-<form accept-charset="UTF-8" action="/polls" class="new_poll" id="new_poll" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="yk2SKpskHi4lJOKGO1ClzW5Iw8p4nD8LZOTm6GD21+8="></div>
-<div class="column">
-<h4>Step 1: Question / Post</h4>
-<div class="clear"></div>
-<textarea cols="40" id="poll_question" maxlength="250" name="poll[question]" rows="5" tabindex="1"></textarea>
-<div class="right">
-<span id="counter">250</span>
-</div>
-<div class="clear"></div>
-<br>
-<br>
-<div class="right">(optional)</div>
-<h4>Description</h4>
-<textarea cols="40" id="poll_description" name="poll[description]" rows="5" tabindex="2"></textarea>
-</div>
-<div class="column middle">
-<h4>Step 2: Answers</h4>
-<div class="clear"></div>
-<div id="ask-answers">
-<input class="first new-option" maxlength="255" name="poll[options_attributes][0][text]" tabindex="3" type="text">
+</h1>
 </div>
 </div>
-<div class="column last">
-<h4>Step 3: Options</h4>
-<div class="clear"></div>
-<br>
-<div class="left">
-<input name="poll[listed]" type="hidden" value="0"><input checked="checked" id="poll_listed" name="poll[listed]" type="checkbox" value="1">
-</div>
-<div class="checkbox-caption">
-<h4>Public?</h4>
-<small>Private polls can only be seen by people you share it with.  Public polls are available to everyone on GoPollGo.</small>
-</div>
-<div class="clear"></div>
-<br>
-<br>
-<a class="call-to-action-button right last" href="#" id="submit-question">Publish Poll</a>
-</div>
-<div class="clear"></div>
-</form>
-<script>
-  //<![CDATA[
-    $('#poll_question').counter('counter', 250);
-    
-    // Bind option adding code to last input
-    function addOption(){
-      // Unbind from active text field
-      $('#ask-answers input').unbind();
-      $('.delete').unbind();
-      
-      // Add new last option and bind to that
-      $('#ask-answers input:last').bind({
-        focus : function(){
-          var $inputs = $('#ask-answers input');
-          if ($inputs.length < 10) {
-            if($inputs.length > 1){
-              $('#ask-answers').append("<a class='right delete' href='#'>remove</a>")
-            }
-            $('#ask-answers').append("<input class='new-option' type='text' name='#' /><div class='clear'></div>");
-            $('#ask-answers input:last').attr('name', "poll[options_attributes][" + ($('#ask-answers input').length-1).toString() + "][text]");
-            $('#ask-answers input:last').attr('tabindex', $('.new-option').length+2);
-            addOption();        
-          }
-        }
-      });
-      
-      // Remove button handler
-      $('.delete').bind('click', function(){
-        $(this).next().remove();
-        $(this).next().remove();
-        $(this).remove();
-        addOption();
-      });
-    }
-    addOption();
-    
-    $('#submit-question').bind('click', function(){
-      
-      if($('#poll_question').val().strip().length < 3){
-        annoucement("Please enter a valid question.");
-        return;
-      }
-    
-      options = $('.new-option');
-    
-      if(options.length < 2){
-        annoucement("Your poll needs at least two options.");
-        return;
-      }else{
-        valid_options = 0;
-        for(i = 0 ; i < options.length ; i++ ){
-          if($(options[i]).val().strip().length > 0){
-            valid_options = valid_options + 1;
-          }
-        }
-        if(valid_options < 2){
-          annoucement("Your poll needs at least two valid options");
-          return;
-        }
-      }
-    
-    
-    
-      $('#new_poll').submit();
-      return false;
-    })
-  //]]>
-</script>
-</div>
-<div id="left"><style type="text/css">
-  h3{margin:10px 0px;}
-  h4{margin:10px 0px;}
-  ul{
-    margin:10px 10px 10px 20px;
-    list-style-type:disc;
-  }
-  ul li{
-    font-size:10px;
-  }
-  p{
-    margin:10px 0px;
-  }
-</style>
+<div id="text">
 <h1>Privacy Policy</h1>
 <br>
 <p>
@@ -236,7 +55,7 @@ Create a Poll
 <p>In the event that we disclose your personally identifiable information as set forth above, we will require third party organizations to protect and maintain your personally identifiable information in compliance with the terms and conditions of this Statement.</p>
 <h4>Prohibited Disclosures</h4>
 <p>Except as set forth above, GoPollGo.com will not disclose your personally identifiable information to any third party without your explicit consent. In addition, GoPollGo.com will not sell, rent, or otherwise disclose GoPollGo.com's e-mail list or address list except as explicitly set forth in this Privacy Policy.</p>
-<p>If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Profile page on our Website or by e-mailing our Customer Support service at support@GoPollGo.com.</p>
+<p>If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Settings page on our Website or by e-mailing our Customer Support service at support@GoPollGo.com.</p>
 <h4>Protection of Information -- Security</h4>
 <p>GoPollGo.com is committed to protecting the security of your personal information. We use a variety of up-to-date security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store any personal information you provide on computer systems with limited access. These systems are located in controlled facilities.</p>
 <p>You should keep in mind that no Internet communication is ever completely secure or error-free.</p>
@@ -253,28 +72,7 @@ Palo Alto, CA 94306</p>
 <h3>Terms of Use</h3>
 <p>Note also that your use of the Website is subject to our <a href="/about/terms">Terms of Use</a>.</p>
 </div>
-<div id="side">
 
-</div>
-<div class="clear"></div>
-<div id="footer">
-<div id="footer-links">
-<div class="right" id="mobile"><a href="#" rel="no-follow">Mobile Site</a></div>
-© 2011 GoPollGo
-·
-<a href="/about">About</a>
-·
-<a href="/blog">Blog</a>
-·
-<a href="/about/jobs">Jobs</a>
-·
-<a href="/about/privacy">Privacy</a>
-·
-<a href="/about/terms">Terms</a>
-</div>
-</div>
-
-</div>
 </div>
 
 </body></html>
