@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204857id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylusstudio.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230844id_/http%3A//www.stylusstudio.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,24 +84,6 @@ We provide registered Stylus Studio® users the opportunity to opt-out of receiv
 If you would like to correct and/or update your information, please [contact us](https://web.archive.org/xml_contact.html "Contact Stylus Studio").
 
 [Prev: **"Contact Stylus Studio"**](https://web.archive.org/xml_contact.html "Contact Stylus Studio") [Next: **"Stylus Studio EULA"**](https://web.archive.org/eula.html "Stylus Studio End User Product License Agreement")
-
-### [Biotechnology & Pharmaceuticals](http://www.stylusstudio.com/customers/BioPharm.html)
-
-Leading biotechnology & pharmaceuticals companies take Stylus Studio when they are feeling under the weather. Come see for yourself how Stylus Studio can be a pick me up for your biotechnology or pharmaceutical company.
-
-### [XQuery and Web Services](http://www.stylusstudio.com/videos/ws-xquery1/ws-xquery1.html)
-
-XQuery provides a flexible means for data abstraction, while Web services provide process abstraction. In this online video demonstration, learn how integrated XQuery & Web service tools simplify development of XQuery-based Web service applications.
-
-### [Using DataDirect XML Converters](http://www.stylusstudio.com/videos/deployment1/deployment1.html)
-
-Learn how to use DataDirect XML Converters and the Stylus Studio Java Code Generator to deploy the XQuery applications you build in Stylus Studio to a live server environment.
-
-### [MySQL XML Tools](http://www.stylusstudio.com/mysql.html)
-
-The MySQL tools in Stylus Studio simplify XML related development tasks for working with MySQL and XML. 
-
-#### [Stylus Most Wanted](https://web.archive.org/advertise.html)
 
 |   
 ---|---|---
