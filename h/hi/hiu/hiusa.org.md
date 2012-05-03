@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007130635id_/http%3A//www.hiusa.org/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213540id_/http%3A//hiusa.org/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Hostelling International USA Privacy Policy
+# HI-USA Privacy Policy - HIUSA
 
 This document outlines Hostelling International USA's (HI-USA) online privacy policy, which governs personal information gathered on the national web site www.hiusa.org and its aliases.
 
@@ -32,4 +32,4 @@ Our web sites do track sessions and employ analytics. However, we do not collect
 
 A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. HI-USA uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the HI-USA site if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you.
 
-If you have a complaint about HI-USA's compliance with this privacy policy, you may contact us at [webmaster@hiusa.org](mailto:webmaster@hiusa.org)
+If you have a complaint about HI-USA's compliance with this privacy policy, you may contact us at [webmaster@hiusa.org](mailto:webmaster@hiusa.org).
