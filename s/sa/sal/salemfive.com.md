@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918101556id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003645id_/https%3A//www.salemfive.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2011.pdf "Click here to view and print Privacy Notice")  
-Rev January 2011
+[printer-friendly version (.pdf)](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2012.pdf "Click here to view and print Privacy Notice")  
+Rev January 2012
 
 If you wish to retain a copy of our privacy notice for your records, please click the print button below:
 
-[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2011.pdf "Click here to view and print Privacy Notice.")
+[](https://www.salemfive.com/images/PDFs/privacy_notice_jan_2012.pdf "Click here to view and print Privacy Notice.")
 
 | 
 
@@ -186,4 +186,4 @@ Salem, MA 01970
 
 |   
   
-[](https://www.salemfive.com/index.php/privacy-notice-jan-2011-page2 "Click here to continue to Privacy Notice Page 2")
+[](https://www.salemfive.com/index.php/privacy-notice-jan-2012-page2 "Click here to continue to Privacy Notice Page 2")
