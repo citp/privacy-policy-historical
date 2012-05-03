@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utopia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102172246id_/http%3A//incense2go.com/incense_shop/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopia.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503070202id_/http%3A//incense2go.com/incense_shop/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ _**
   
 
 
-All prices are in USD. Copyright 2011 Incense2Go.com. 
+All prices are in USD. Copyright 2012 Incense2Go.com. 
 
   
 
