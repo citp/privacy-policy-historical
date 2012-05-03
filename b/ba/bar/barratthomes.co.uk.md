@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223024134id_/http%3A//www.barratthomes.co.uk/legal/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503160812id_/http%3A//www.barratthomes.co.uk/legal/Privacy-policy) for the most accurate reproduction.*
 
 # Barratt Homes - Privacy Policy
 
@@ -24,8 +24,11 @@ We are entered in the Register of Data Controllers with registration number: Z54
 **(2) The information we collect**  
 We collect information from you when you complete our on-line forms, by means of 'persistent cookies' when you use our site, and in the form of 'traffic data'.
 
-**On-line forms**  
-We collect information you give us when you subscribe ‘My Area’ and when requesting brochures. We require only the information we need to provide a service to you, such as your name, postal address, telephone number and email address. Where we would like more information to help us improve our services, over and above the basic required information, it will be clear that your response is voluntary and you are free not to provide us with more information if you would prefer not to do so.
+**On-line forms**
+
+We collect information you give us when you register for ‘My Area / My Barratt’,  when requesting brochures, and when requesting a  call from one of our advisers  to book an appointment. We require only the information we need to provide a service to you, such as your name, postal address, telephone number and email address. Where we would like more information to help us improve our services, over and above the basic required information, it will be clear that your response is voluntary and you are free not to provide us with more information if you would prefer not to do so. 
+
+Where you have given consent we may also use your details to contact you to provide more information about homes and  schemes available from our other brands (David Wilson Homes and Ward Homes)  that could help you move home.  We may also contact you for market research purposes (to include regular polls) or to help improve our products and customer service.
 
 **Persistent cookies**  
 Cookies are small text files which are often stored on your computer's hard drive by websites you visit to enable the site to 'remember' who you are. We use a type of cookie called a 'persistent cookie' to provide added functionality on our website. These persistent cookies store your user name and a unique ID but do not contain any information that personally identifies you, such as a name or address. We use persistent cookies when you log onto our site to stop you having to re-type information and they remain on your hard disk until you delete them.
@@ -73,9 +76,9 @@ We will keep your information secure by taking appropriate technical and organis
 **Transfers outside Europe**  
 Data protection legislation is harmonised throughout the European Economic Area (‘EEA’) which comprises the EU member states, Norway, Iceland and Liechtenstein. Countries outside the EEA do not generally have the same level of protection for personal information as those within the EEA.
 
-If you are from outside the EEA, we will transfer that information to your home country or territory for the purposes set out in “How we use your information” above. If you provide us with your information, we will assume you agree to this transfer.
+If you are from outside the EEA, we will transfer that information to your home country or territory for the purposes set out in “How we use your information” above. If you provide us with your information, we will assume you agree to this transfer, unless you have purchased a property from us using the NewBuy Government scheme, in which case your data may be transferred to Guernsey or other country which is the subject of a finding of adequacy by the European Commission.
 
-If you are from the EEA, we will not transfer any personal information we collect from you outside the EEA.
+If you are from the EEA, we will not transfer any personal information we collect from you outside the EEA, unless you have purchased a property from us using the NewBuy Government scheme, in which case your data may be transferred to Guernsey or other country which is the subject of a finding of adequacy by the European Commission.
 
 **(4) Finding out more**  
 If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer at the address above.
