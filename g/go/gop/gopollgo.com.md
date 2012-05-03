@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopollgo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235048id_/http%3A//gopollgo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopollgo.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225654id_/http%3A//gopollgo.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoPollGo | Online Polls
 
@@ -52,7 +52,7 @@ In the event that we disclose your personally identifiable information as set fo
 
 Except as set forth above, GoPollGo.com will not disclose your personally identifiable information to any third party without your explicit consent. In addition, GoPollGo.com will not sell, rent, or otherwise disclose GoPollGo.com's e-mail list or address list except as explicitly set forth in this Privacy Policy.
 
-If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Profile page on our Website or by e-mailing our Customer Support service at support@GoPollGo.com.
+If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Settings page on our Website or by e-mailing our Customer Support service at support@GoPollGo.com.
 
 #### Protection of Information -- Security
 
