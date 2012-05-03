@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224817id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penelopesoasis.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220551id_/http%3A//penelopesoasis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Penelope's Oasis
 
-This [Privacy Policy](http://penelopesoasis.com/privacy-policy "Privacy Policy") governs the manner in which Penelope’s Oasis collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://penelopesoasis.com](http://penelopesoasis.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Penelope’s Oasis.
+This [Privacy Policy](http://penelopesoasis.com/privacy-policy "Privacy Policy") governs the manner in which Penelope’s Oasis collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Penelope’s Oasis](http://penelopesoasis.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Penelope’s Oasis.
 
 **Personal identification information**
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in relation to other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name and email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of visiting our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
 **Web browser cookies**
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at google.com/privacy_ads.html
 
 **Changes to this privacy policy**
 
@@ -61,7 +61,14 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Penelope’s Oasis](http://penelopesoasis.com/)  
-[http://penelopesoasis.com](http://penelopesoasis.com/)  
 PenelopesOasis@yahoo.com
 
 This document was last updated on February 24, 2011
+
+[](http://penelopesoasis.com/privacy-policy/printpage/)
+
+### Share your thoughts!
+
+Like this post? Disagree? Want to share it or respond? Talk about it on your blog or anywhere and use the code below to link back:
+
+### Keep Reading!
