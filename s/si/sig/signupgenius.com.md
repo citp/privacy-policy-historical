@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229182843id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001649id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,8 @@ Skylark Productions, Inc.
 Charlotte, NC 28277  
 www.Skylark.net  
 704-329-9530  
-Co-Owners: Michael Vadini, Dan Rutledge
+Co-Owners: Mike Vadini, Dan Rutledge  
+[Email Our Team](https://web.archive.org/help)
 
 ##    
 Our Policy:
@@ -21,9 +22,9 @@ Our Policy:
 
 **We do not sell or distribute your contact information or emails to third party vendors, period.** We hate spam and figure you do too. We use your email as part of our application, of course, but we take special care with it and never display it publicly on our site.
 
-**We promise not to bother you with unwanted emails and we allow you to control what emails you receive.** You will, of course, receive emails as part of the SignUpGenius service including invites to sign up forms, status updates, and reminder notifications. In addition, we have an email newsletter that is sent out periodically to members that have created sign ups in order to inform them of new features. Users can unsubscribe from any of these emails in their account settings.
+**We promise not to bother you with unwanted emails, and we allow you to control what emails you receive.** You will, of course, receive emails as part of the SignUpGenius service including invites to sign up forms, status updates, and reminder notifications. In addition, we have an email newsletter that is sent out periodically to members that have created sign ups in order to inform them of new features. Users can unsubscribe from any of these emails in their account settings.
 
-**For our online advertisements, we utilize a system called Adsense that is provided by Google.** Adsense is a well-known product by a major company that is in use by hundreds of thousands of websites worldwide. Google does not have access to your personal information from our website, but will do an automated scan of the contents of our pages in order to provide context-sensitive advertising. Google will also track clicks of their advertisements. We are not able to preview the advertisements beforehand, but have the ability to block advertisements when we see them shown. We do our best to monitor the advertising and we try to immediately block any advertisement that seems in anyway offensive or inappropriate. We are in no way responsible for the content of an advertiser’s website if you choose to click on an advertisement. We are in the process of developing a no-advertising version for those that need it. Please contact us for more information.
+**For our online advertisements, we utilize a system called Adsense that is provided by Google.** Adsense is a well-known product by a major company that is in use by hundreds of thousands of websites worldwide. Google does not have access to your personal information from our website, but will do an automated scan of the contents of our pages in order to provide context-sensitive advertising. Google will also track clicks of their advertisements. We are not able to preview the advertisements beforehand, but have the ability to block advertisements when we see them shown. We do our best to monitor the advertising and we try to immediately block any advertisement that seems in anyway offensive or inappropriate. We are in no way responsible for the content of an advertiser’s website if you choose to click on an advertisement. We also offer a [no-advertising version](https://web.archive.org/index.cfm?go=o.DisplayProducts) for those that need it. 
 
 **We give the creator of the sign up choices about the privacy of his/her sign up form.** We offer multiple security levels that the sign up creator can choose to determine who can see a sign up page, who can sign up on the page, and what is required to sign up for something. The four options are below.
 
@@ -105,7 +106,7 @@ We do not publicly promote or link the web addresses of the sign ups on our site
 
 **Our site collects anonymous aggregate Data and may choose to make some of this data public.** Our site gathers anonymous aggregate data like web statistics and demographics statistics on our users. This data may be used to help us run our business, attract advertisers/investors, and measure the effectiveness of our marketing efforts. We may choose to share or publicize certain anonymous aggregate data about our site. However, because this data is anonymous and in summary form, no advertisers or third parties could ever contact you because of this.
 
-**Our staff periodically reviews site data for the purpose of developing a better service for our users.  **Our employees can review all data on our site for the purpose of helping us improve the application. For example, we review what themes people are using and the titles of created sign ups so that we can see which events and holidays people find the site useful for. We may periocially view individual sign up forms on our site so that we can understand how people are using the application. It is our policy to never view a “Password-Protected” sign up form unless it relates to a support ticket since users of the password-protected sign up form tend to be most concerned about their data.
+**Our staff periodically reviews site data for the purpose of developing a better service for our users.  **Our employees can review all data on our site for the purpose of helping us improve the application. For example, we review what themes people are using and the titles of created sign ups so that we can see which events and holidays people find the site useful for. We may periocially view individual sign up forms on our site so that we can understand how people are using the application.
 
 **We take precautions, but cannot provide guarantees.** We do our best to secure your data through the programming of our application and by using industry-standard technology. However, we cannot completely guarantee that no part of our system will ever fail or be compromised. If you ever suspect that our site has contributed to your personal information being compromised, please [contact us](https://web.archive.org/help) immediately so that we can investigate and try to resolve the matter.
 
