@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finditquick.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124194712id_/http%3A//www.finditquick.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditquick.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001247id_/http%3A//www.finditquick.info/privacy-policy.php) for the most accurate reproduction.*
 
 # FinditQuick.info Privacy Policy
 
