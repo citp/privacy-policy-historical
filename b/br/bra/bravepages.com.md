@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215629id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravepages.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214041id_/http%3A//info.0catch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,8 +8,8 @@ This is the web site of **0Catch**.
 
 Our postal address is 
 
-727 North 1550 East Suite 275  
-Orem, UT 84097  
+3610 North University Avenue Suite 375  
+Provo, UT 84604  
 We can be reached via e-mail at [support1@0catch.com](mailto:support1@0catch.com)
 
 For each visitor to any of our sites, our Web server automatically records only the consumer's IP address. We do not and cannot see the email address of our visitors.
