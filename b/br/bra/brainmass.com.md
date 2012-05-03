@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230005124id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214652id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
@@ -16,11 +16,11 @@ BM takes reasonable precautions to ensure your privacy on the terms contained in
 
 **What the Privacy Policy Covers**
 
-Privacy Information covers BM's treatment of nonpublic personal information that we collect in connection with providing you with BrainMass.com services (such as BrainMass.com Online Teaching Assistant or User Accounts and access thereto, BrainMass.com Post-a-Problem, BrainMass.com Submit-an-Essay, BrainMass.com Solution Library and BrainMass.com Advertising Services).
+Privacy Information covers BM's treatment of nonpublic personal information that we collect in connection with providing you with BrainMass.com services (such as BrainMass.com Academic Expert or User Accounts and access thereto, BrainMass.com Post-a-Problem, BrainMass.com Submit-an-Essay, BrainMass.com Solution Library and BrainMass.com Advertising Services).
 
 If you are a former user of a BM service, we will continue to treat the nonpublic personal information we collected from you in connection with our services as described here.
 
-We use information collected from the Online Teaching Assistant to send the Online Teaching Assistant information about BrainMass.com, to contact the Online Teaching Assistant for various reasons, and for internal accounting and other procedures. Information is used to check the Online Teaching Assistant's eligibility and to obtain and verify qualifications in regard to the application, and to support the ongoing provision of service. It is also used for login validation purposes.
+We use information collected from the Academic Expert to send the Academic Expert information about BrainMass.com, to contact the Academic Expert for various reasons, and for internal accounting and other procedures. Information is used to check the Academic Expert's eligibility and to obtain and verify qualifications in regard to the application, and to support the ongoing provision of service. It is also used for login validation purposes.
 
 We use information collected from the user, to send the user information regarding the service requested and to support the on-going provision of service.
 
