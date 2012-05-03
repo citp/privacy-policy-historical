@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021105917id_/http%3A//www.postnl.com/secondary/help/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postnl.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014158id_/http%3A//www.postnl.com/secondary/privacy-policy/index.aspx) for the most accurate reproduction.*
 
-# Privacy policy | Help | PostNL | Welcome to PostNL's corporate website, offering company news and information for investors, press, and other stakeholders.
+# Privacy Policy | PostNL | Welcome to PostNL's corporate website, offering company news and information for investors, press, and other stakeholders.
 
 ## Privacy Policy
 
