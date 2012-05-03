@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124604id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205310id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
 
 # Privacy | PanicAway.com
 
@@ -88,4 +88,13 @@ Last updated: August 11, 2009
 
 Copyright © 2003-2009 InternetMarketingLawProducts.com for BMD Publishing LTD (Reg. No 451616)
 
-**Bookmark this or Share with a Friend:**
+  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.panicaway.com%2Fprivacy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&t=Privacy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&notes=PRIVACY%20POLICY%0D%0A%0D%0AYour%20privacy%20is%20very%20important%20to%20us.%20We%20want%20to%20make%20your%20experience%20on%20the%20Internet%20as%20enjoyable%20and%20rewarding%20as%20possible%2C%20and%20we%20want%20you%20to%20use%20the%20Internet%27s%20vast%20array%20of%20information%2C%20tools%2C%20and%20opportunities%20with%20complete%20co "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&srcURL=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&srcTitle=PanicAway.com+ "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&source=PanicAway.com+&summary=PRIVACY%20POLICY%0D%0A%0D%0AYour%20privacy%20is%20very%20important%20to%20us.%20We%20want%20to%20make%20your%20experience%20on%20the%20Internet%20as%20enjoyable%20and%20rewarding%20as%20possible%2C%20and%20we%20want%20you%20to%20use%20the%20Internet%27s%20vast%20array%20of%20information%2C%20tools%2C%20and%20opportunities%20with%20complete%20co "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&Title=Privacy "BlinkList")
+  * 
+
