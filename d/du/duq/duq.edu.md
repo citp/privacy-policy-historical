@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205025147id_/http%3A//www.duq.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233132id_/http%3A//www.duq.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
@@ -32,4 +32,4 @@ Duquesne University has adopted and adheres to stringent security standards desi
 
 Duquesne University may change this Statement from time to time; when updates are made, the Web Privacy Statement version date (located at the bottom of this page) will also be updated to reflect that a revision occurred. We encourage you to periodically reread this page to see if there have been any changes that may affect you. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
 
- _Last updated: May 7, 2007_
+_Last updated: May 7, 2007_
