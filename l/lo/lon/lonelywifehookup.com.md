@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119165355id_/http%3A//lonelywifehookup.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223702id_/http%3A//www.lonelywifehookup.com/%3Fpage%3Dpp%26nn%3D%26ref_url%3D%26country%3DUnited%2520States) for the most accurate reproduction.*
 
-# Lonely Wife Hookup
+# LonelyWifeHookup.Com | Find Lonely Wifes Looking to Hook Up For Sex | Meet Local Horny Wives And Have Sex
 
 **OUR WEB SITE PRIVACY POLICY**
 
