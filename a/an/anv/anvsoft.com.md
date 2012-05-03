@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054059id_/http%3A//anvsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anvsoft.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213339id_/http%3A//www.anvsoft.com/privacy.html) for the most accurate reproduction.*
 
 # AnvSoft.com Privacy Policy
 
@@ -36,4 +36,4 @@ SWREG offers merchant accounts, a paypal alternative, affordable ecommerce, paym
 
 In order to better understand what services are valuable to our customers, "cookies" will be used. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
 
-© 2005-2011 AnvSoft Inc., All Rights Reserved.
+© 2005-2012 AnvSoft Inc., All Rights Reserved.
