@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freekibblekat.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210093204id_/http%3A//freekibblekat.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freekibblekat.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503213010id_/http%3A//www.freekibblekat.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Freekibblekat - Privacy Policy
 
 Privacy Policy 
 
-Helping People, Help Animals
+Every dog and cat deserves a decent dinner
 
 | **Do we share your information with anyone?**  
 No. In fact, you can access our site, and browse our site without disclosing any personal data. If you sign up for the Daily Email Reminder, you'll be asked to share your name and email address. BUT, we don't use this information for any other purpose and our daily email reminder service provider does NOT share this information with anyone!  
@@ -27,6 +27,6 @@ Yes. Our site contains links to other sites that are not owned or
 controlled by us. Please be aware that we are not responsible   
 for the privacy practices of such other sites.  
   
-501,644,440 pieces of kibble donated since June 1, 2008
+578,262,450 pieces of kibble donated since June 1, 2008
 
-[](http://altfarm.mediaplex.com/ad/ck/15312-131755-42462-4?mpt=\[CACHEBUSTER\] "ASPCA")
+[](http://www.freekibble.com/redirect.asp?go=840 "Halo")
