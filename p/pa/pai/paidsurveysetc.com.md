@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206191152id_/http%3A//paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504001838id_/http%3A//www.paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Paid Surveys, Etc. - Get Paid For Your Opinion
 
@@ -19,6 +19,10 @@ Registration:  Members may be asked to provide certain personal information whe
 In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
 
 Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company.  We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies.  At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party. 
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of our emails.
 
 Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. 
 
@@ -70,6 +74,8 @@ The term "personally identifiable information" means individually identifiable i
 (6) Any other identifier that permits the physical or online contacting of a specific individual.  
 (7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
+Private Information Security - For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Clickbank, keeps this information encrypted and secure on your behalf.
+
 Under California Law SB 27, California residents have the right to receive, once a   
 year, information about third parties with whom we have shared information about you  or your family for their marketing purposes during the previous calendar year, and a  description of the categories of personal information shared. To make such a request,  please send an email to PrivacyRequest @ cjisupport.com and please include the phrase  "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name,  address and email address. We will respond to you within thirty days of receiving  such a request. 
 
@@ -89,25 +95,14 @@ Where to Direct Questions About Our Privacy Policy:  If you have any questions 
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
+The name Michelle McAllister is a pseudonym used by the author.
+
 Last updated: 
 
-April 07, 2008 
+Jan 27, 2012 
 
-Copyright © 2003- 2020 InternetMarketingLawProducts.com
+Copyright © 2003 - 2012   
+InternetMarketingLawProducts.com 
 
   
 
-
-* * *
-
-EARNINGS DISCLAIMER 
-
-EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT'S POTENTIAL. EVEN THOUGH THIS INDUSTRY IS ONE OF THE FEW WHERE ONE CAN WRITE THEIR OWN CHECK IN TERMS OF EARNINGS, THERE IS NO GUARANTEE THAT YOU WILL EARN ANY MONEY USING THE TECHNIQUES AND IDEAS IN THESE MATERIALS. EXAMPLES IN THESE MATERIALS ARE NOT TO BE INTERPRETED AS A PROMISE OR GUARANTEE OF EARNINGS. EARNING POTENTIAL IS ENTIRELY DEPENDENT ON THE PERSON USING OUR PRODUCT, THEIR IDEAS AND TECHNIQUES. WE DO NOT PURPORT THIS AS A "GET RICH SCHEME."
-
-ANY CLAIMS MADE OF ACTUAL EARNINGS OR EXAMPLES OF ACTUAL RESULTS ARE NOT TYPICAL. YOUR LEVEL OF SUCCESS IN ATTAINING THE RESULTS CLAIMED IN OUR MATERIALS DEPENDS ON THE TIME YOU DEVOTE TO THE PROGRAM, IDEAS AND TECHNIQUES MENTIONED, YOUR FINANCES, KNOWLEDGE AND VARIOUS SKILLS. SINCE THESE FACTORS DIFFER ACCORDING TO INDIVIDUALS, WE CANNOT GUARANTEE YOUR SUCCESS OR INCOME LEVEL. NOR ARE WE RESPONSIBLE FOR ANY OF YOUR ACTIONS.
-
-MATERIALS IN OUR PRODUCT AND OUR WEBSITE MAY CONTAIN INFORMATION THAT INCLUDES OR IS BASED UPON FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF THE SECURITIES LITIGATION REFORM ACT OF 1995. FORWARD-LOOKING STATEMENTS GIVE OUR EXPECTATIONS OR FORECASTS OF FUTURE EVENTS. YOU CAN IDENTIFY THESE STATEMENTS BY THE FACT THAT THEY DO NOT RELATE STRICTLY TO HISTORICAL OR CURRENT FACTS. THEY USE WORDS SUCH AS "ANTICIPATE," "ESTIMATE," "EXPECT," "PROJECT," "INTEND," "PLAN," "BELIEVE," AND OTHER WORDS AND TERMS OF SIMILAR MEANING IN CONNECTION WITH A DESCRIPTION OF POTENTIAL EARNINGS OR FINANCIAL PERFORMANCE.
-
-ANY AND ALL FORWARD LOOKING STATEMENTS HERE OR ON ANY OF OUR SALES MATERIAL ARE INTENDED TO EXPRESS OUR OPINION OF EARNINGS POTENTIAL. MANY FACTORS WILL BE IMPORTANT IN DETERMINING YOUR ACTUAL RESULTS AND NO GUARANTEES ARE MADE THAT YOU WILL ACHIEVE RESULTS SIMILAR TO OURS OR ANYBODY ELSES, IN FACT NO GUARANTEES ARE MADE THAT YOU WILL ACHIEVE ANY RESULTS FROM OUR IDEAS AND TECHNIQUES IN OUR MATERIAL
-
-ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. PaidSurveysEtc is not affiliated with Keynetics in any way, nor does Keynetics sponsor PaidSurveysEtc. Keynetics Inc. expresses no opinion as to the accuracy of any of the statements made by PaidSurveysEtc or the materials on this web page.
