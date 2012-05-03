@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the logopond.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231222304id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logopond.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503233450id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>
@@ -7,64 +7,20 @@ Logopond - Identity Inspiration</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="Logo Pond - Brand and Identity showcase">
 <meta name="keywords" content="brand,  brands,  design,  galleries,  gallery,  identities,  identity,  logo,  logos,  portfolio, portfolios, showcase, showcases, standards">
-<script type="text/javascript" src="/toolkit/ibox/ibox.js"></script>
-<script language="javascript" src="/js/jquery-1.3.2.min.js" type="text/javascript"></script>
-<script language="javascript" src="/js/jquery.ezpz_tooltip.js" type="text/javascript"></script>
-<script language="javascript" src="/js/input_plugin.js" type="text/javascript"></script>
-<script language="javascript" src="/js/alert.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/hoveringovertop.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="/toolkit/scripts/ajax_request.js"></script>
-<script type="text/javascript">
 
+<script language="javascript" src="/js/alert.js" type="text/javascript"></script>
+<script language="javascript" src="/js/imtipsy.js" type="text/javascript"></script>
+<script language="javascript" src="/js/structure.js" type="text/javascript"></script>
 
-	
-var SITE = SITE || {};
-
-SITE.fileInputs = function() {
-  var $this = $(this),
-      $val = $this.val(),
-      valArray = $val.split('\\'),
-      newVal = valArray[valArray.length-1],
-      $button = $this.siblings('.button'),
-      $fakeFile = $this.siblings('.file-holder');
-  if(newVal !== '') {
-    $button.text('File Chosen');
-    if($fakeFile.length === 0) {
-      $('.button').html( newVal );
-    } else {
-      $fakeFile.text(newVal);
-    }
-  }
-};
-
-$(document).ready(function() {
-  	$('.file-wrapper input[type=file]').bind('change focus click', SITE.fileInputs);
-  	$('.file-avatar input[type=file]').bind('change focus click', SITE.fileInputs);
-	$('#yes').click(function () {
-	 	$('#hy').css("background-color","#595959");
-		$('#hy label').css("color","#F5FEC8");
-		$('#hn').css("background-color","");
-		$('#hn label').css("color","#555555");
-	});
-	
-	$('#no').click(function () {
-	 	$('#hn').css("background-color","#595959");
-		$('#hn label').css("color","#F5FEC8");
-		$('#hy').css("background-color","");
-		$('#hy label').css("color","#555555");
-	});
-	
-});
-
-
-
-
-</script>
 <link rel="stylesheet" type="text/css" href="/css/global_medium.css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/Logopond">
 <link href="http://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Lato:400,300,100italic,300italic,400italic,700,900,900italic,700italic" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
-<body style="overflow-y: auto;">
+<body>
 
 <!-- BuySellAds.com Ad Code --> 
 <script type="text/javascript">
@@ -92,9 +48,9 @@ $(document).ready(function() {
 			<div class="clear"></div>
 		</div>
 		<div id="mc_embed_signup">
-			<form action="http://logopond.us4.list-manage.com/subscribe/post?u=6bda5442a0b44b7ed739f002e&amp;id=a802a03416" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-				<input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="LillyPad (Email List)" required="">
-				<input type="submit" value="Subscribe to Newsletter" name="subscribe" id="mc-embedded-subscribe" class="button submit">
+			<form action="http://logopond.us4.list-manage.com/subscribe/post?u=6bda5442a0b44b7ed739f002e&amp;id=5638f2ca6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+				<input type="email" value="" name="EMAIL" class="email input" id="mce-EMAIL" placeholder="LillyPad - Subscribe to Newsletter" required="">
+				
 				<div class="clear"></div>
 			</form>
 		</div>
@@ -102,24 +58,103 @@ $(document).ready(function() {
 		<h1><a href="/" title="Home Page" tabindex="1">LogoPond</a></h1>
 		<p>A Place To Fish For Ideas</p>
 		
-<ul class="user_menu loggedout">
-	<li> <a href="/" title="Home">Home</a></li>
-		<li><a href="/members/?account" title="register">Register</a></li>
-	<li><a href="#" title="Login" tabindex="7" accesskey="7" onclick="$('#login_form').slideToggle('show')">Login</a></li>
-	<li><a href="/auth/forgotpassword" title="Forgot Password?" rel="ibox&amp;width=500&amp;height=480" target="/forgotpassword.php">Password?</a></li>
-		<li class="noline newsletter"><a href="#" title="Login" tabindex="7" accesskey="7" onclick="$('#mc_embed_signup').slideToggle('show')">Newsletter</a></li>
-</ul>
+<form name="Search" method="GET" action="/search/" id="submit_search" class="search_page">
+	<label for="search" class="search">
+		<input type="text" name="search" id="search" placeholder="Search for logos..." value="">
+	</label>
+</form>
 <hr>
 <ul class="navigation_reg">
 	<!--<li><a class="exit" href="http://illypads.com" title="illypads" >illypads</a></li>-->
-	<li><a href="/gallery/" title="View featured gallery" tabindex="3" accesskey="3">Gallery</a></li>
-	<li><a href="/popular/" title="View entire collection" tabindex="a" accesskey="a">View All</a></li>
-	<li><a href="/comments/" title="View recent comments" tabindex="c" accesskey="c">Comments</a></li>
-	<li><a href="/search/" title="Search" tabindex="8" accesskey="8">Search</a></li>
-	<li><a href="/featured/" title="Previously Featured Designers" tabindex="a" accesskey="a">Featured</a></li>
-	<li><a href="/members/" title="Sign up and become a member" tabindex="6" accesskey="6">Members</a></li>
-	<li><a href="/threads/" title="Forum" tabindex="4" accesskey="4">Forum</a></li>
-</ul>
+		<li><a href="/gallery/" title="View Galleries" tabindex="3" accesskey="3">Featured Galleries</a>
+		<ul id="lspan">
+			<!-- Cached navigation main 3rd May 2012 16:05-->
+			<li><a href="/gallery/"><span>Featured</span><br>
+								<img src="/thumbs/tn_75f6cf2ed7546db6074084826b79be49.png" alt="INS" width="83">
+								<img src="/thumbs/tn_96d7aca93d905641391cf68700e68d8f.png" alt="Cupcake Time" width="83">
+								<img src="/thumbs/tn_db36836ccaf749a58dc0891ce5cde3f2.png" alt="Red Eagle Charity Association" width="83">
+								<img src="/thumbs/tn_b8c1d2b26f0496a2326dd13360a495ee.png" alt="ZigZag" width="83">
+								</a> </li>
+			<li><a href="/popular/"><span>Popular</span><br>
+								<img src="/thumbs/tn_82066496647ca12975777fcc7b876d5b.png" alt="Jesse &amp; Kaity wedding monogram" width="83">
+								<img src="/thumbs/tn_b0edc9727e903b39643e8c8bb126ef81.png" alt="Expoart" width="83">
+								<img src="/thumbs/tn_ee9d6d622830632c6970cc37dc59a7f9.png" alt="The River Conference" width="83">
+								<img src="/thumbs/tn_e431b1224a799d0638e0ee3ede69623d.png" alt="Octo's Garden" width="83">
+								</a></li>
+						<li><a href="/recent/"><span>Recently Uploaded</span><br>
+								<img src="/thumbs/tn_de80fcba959347b90e6dcfd21db2f8e8.png" alt="Wilcom" width="83">
+								<img src="/thumbs/tn_bcec9d1730b67ab229261d47d8ffb1a5.png" alt="Kids' Shelf" width="83">
+								<img src="/thumbs/tn_bef1a9ba62c1677cf16deabc9ea9ab10.png" alt="Slovak Quartet" width="83">
+								<img src="/thumbs/tn_0a8686d413038fb429ec7fcb9a107b08.png" alt="Water" width="83">
+								</a></li>
+						<li><a href="/featured/" title="Previously Featured Designers" tabindex="a" accesskey="a"><span>Featured Designers</span><br>
+				<img src="/img/featured_joeprince.png" alt="Featured" width="83"> <img src="/img/featured_sean.png" alt="Featured" width="83"> <img src="/img/featured_mikeymike.png" alt="Featured" width="83"> <img src="/img/featured_serhos.png" alt="Featured" width="83"> </a></li>
+		</ul>
+	</li>
+	<!-- Cached curated nav 3rd May 2012 14:58-->
+	<li><a href="/comments/">Curated Galleries</a>
+		<ul id="lspan">
+			<li><a href="/logomilk"><span>Logomilk (Black &amp; White)</span><br>
+								<img src="/thumbs/tn_1a6a0f86c3911cce2d2ee996a4ff6486.png" alt="BLACK CAT" width="83">
+								<img src="/thumbs/tn_42607c9f9fa866918450acd024669c66.png" alt="OneFund" width="83">
+								<img src="/thumbs/tn_ef6e924556e7f3380cd98756eb315f90.png" alt="Anne Flower" width="83">
+								<img src="/thumbs/tn_4c419dd01171ebcf8f16200a6043daeb.png" alt="Danzk" width="83">
+								</a></li>
+			<li><a href="/illypads"><span>Illypads (Illustrative)</span><br>
+								<img src="/thumbs/tn_f1b992510e4f87b2f2ccef5102ae14b3.png" alt="Sweetlands" width="83">
+								<img src="/thumbs/tn_121317ae95070d617340c79a25ce0a9a.png" alt="BERRY kitchen" width="83">
+								<img src="/thumbs/tn_a1143e9d0c76863fd7d0bf6ed59af4e8.png" alt="Cocoala" width="83">
+								<img src="/thumbs/tn_e7a6c54a50c99830ac21245a834f248e.png" alt="Umnicum" width="83">
+								</a></li>
+			<li><a href="/typepond"><span>Typepond (Type Only)</span><br>
+								<img src="/thumbs/tn_5544001fcc97f2d24e4ab9b0b00e7c8c.png" alt="Zisyo" width="83">
+								<img src="/thumbs/tn_dad89a88453c49e9a373eb825bc0726d.png" alt="flobar v3" width="83">
+								<img src="/thumbs/tn_d49d89add590ecbe17c3cb84d29c62d8.png" alt="Ukulele" width="83">
+								<img src="/thumbs/tn_91c82a3f0cd5d6e4c57c33ff85c2f1c7.png" alt="Ora Dulce" width="83">
+								</a></li>
+			<li><a href="/logobites"><span>Logo Bites (Food &amp; Beverage)</span><br>
+								<img src="/thumbs/tn_97800e92ab22f041481eb25c7ea447fe.png" alt="Foodshop online" width="83">
+								<img src="/thumbs/tn_b4bb5e3b11a8109c44c89a1e8cbcac6c.png" alt="bulochka" width="83">
+								<img src="/thumbs/tn_962303a3bd74f3da92d6bfd7ea279ecc.png" alt="McKay's Bakery" width="83">
+								<img src="/thumbs/tn_c197aba1df65d2bd0ffc2ea0b460379d.png" alt="Trending Treats" width="83">
+								</a></li>
+			<li><a href="/teampond"><span>Team Pond (Sports)</span><br>
+								<img src="/thumbs/tn_9eca756dd0a96fe14c945ccbce00b246.png" alt="Viking" width="83">
+								<img src="/thumbs/tn_dcebf08f5b1bf93018a6d35865a80946.png" alt="OLPH School" width="83">
+								<img src="/thumbs/tn_72497639fb094c9d154447ba1d798ddc.png" alt="Oakland Raiders" width="83">
+								<img src="/thumbs/tn_d91a02756b5b067eea30c1389c7abe2e.png" alt="Edinburgh Capitals (secondary)" width="83">
+								</a></li>
+			<li><a href="/critters"><span>Critters (Animals)</span><br>
+								<img src="/thumbs/tn_db36836ccaf749a58dc0891ce5cde3f2.png" alt="Red Eagle Charity Association" width="83">
+								<img src="/thumbs/tn_b0cdc87112891bd982f8530b4bbd8e2c.png" alt="Artana" width="83">
+								<img src="/thumbs/tn_192baa74bdec48bbf7b46faf2521bcbc.png" alt="Imaged" width="83">
+								<img src="/thumbs/tn_fd9389fd6550d65cd2e21f02b22f77c1.png" alt="Capra" width="83">
+								</a></li>
+		</ul>
+	</li>
+		<li><a href="/comments/" title="View recent comments" tabindex="c" accesskey="c">Converse</a>
+		<ul>
+			<li><a class="chat" href="/comments/" title="View recent comments" tabindex="c" accesskey="c"><span>Comments</span></a></li>
+			<li><a class="chat" href="/threads/" title="Forum" tabindex="4" accesskey="4"><span>Forum</span></a></li>
+			<li class="newsletter"><a class="mail" href="#" title="newsletter" onclick="$('#mc_embed_signup').slideToggle('show')"><span>Newsletter</span></a></li>
+		</ul>
+	</li>
+	<li><a href="/members/" title="Sign up and become a member" tabindex="6" accesskey="6"><span>Members</span></a>
+		<ul>
+		<li><a class="galmen" href="/members/" title="Sign up and become a member"><span>Active Members</span></a></li>
+			<li><a class="galmen" href="/members/username" title="View recent comments"><span>Search By Username</span></a></li>
+			<li><a class="galmen" href="/members/tags" title="View recent comments"><span>Search By Tags</span></a></li>
+			<li><a class="galmen" href="/members/updatedshowcases" title="View recent comments"><span>Updated Showcases</span></a></li>
+		</ul>
+	</li>
+		<li><a href="#" onclick="$('#login_form').slideToggle('show')" title="register">Account</a>
+		<ul>
+			<li><a class="register" href="/newaccount/" title="register"><span>Register</span></a></li>
+			<li><a class="log" href="#" title="Login" tabindex="7" accesskey="7" onclick="$('#login_form').slideToggle('show')"><span>Login</span></a></li>
+			<li><a class="passwrd" href="/auth/forgotpassword" title="Forgot Password?" rel="ibox&amp;width=500&amp;height=480" target="/forgotpassword.php"><span>Forgot Password?</span></a></li>
+		</ul>
+	</li>
+	</ul>
 	</div>
 	<div class="clear"></div>
 </div>
@@ -141,32 +176,25 @@ google_color_url = "999999";
 //--></script> 
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script> 
+
+<span class="wix"><a href="http://www.wix.com/amazingwebsites/websites_portfolio_401?utm_campaign=af_logopond.com&amp;experiment_id=af_logopond.com6" alt="create free portfolio with Wix.com">create free portfolio</a></span>
 </div>
 
 <!--<a class="advertisment" href="http://buysellads.com/buy/detail/44/">advertisment</a>
 -->
 <div class="super_banner"> 
-	<script type="text/javascript"> 
-Vertical1245970 = false;
-ShowAdHereBanner1245970 = false;
-RepeatAll1245970 = false;
-NoFollowAll1245970 = false;
-BannerStyles1245970 = new Array(
-	"a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 4px 10px 0;text-align:center;text-decoration:none;float:left;overflow:hidden;width:1080px;height:45px;}",
-	"img{border:0;clear:right;}"
-);
+	<!-- BuySellAds.com Zone Code -->
+	<div id="bsap_1245970" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+	<!-- End BuySellAds.com Zone Code --> 
+</div>
 
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1245970/1245970.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.buysellads.com/1245970/1245970.js?v=1580438272000" type="text/javascript"></script> 
-</div>
-<div id="Message" class="confirmed">
-	<p><a href="http://logopond.com/members/profile/bookrelease/"><strong>Logopond Book - Phase 1</strong></a> If you have ever gotten a logo in the gallery, go sign the book release form! Phase 1 will last til Jan. 15th shortly after instructions will go out individually about which logos made the book selection and how to send in print ready pieces.</p>
-</div>
+
           <div class="detail_left thePrint">
-               <h2>Privacy Policy</h2>
                <p>Created: June 13, 2010 </p>
+			<h2>Privacy Policy</h2>
+               
                <p>At Logopond we recognize that privacy is important. This   Privacy Policy applies to all of the products,  and websites offered by Logopond collectively, Logopond’s “services.” If you have any questions about this Privacy Policy, please   feel free to <a href="mailto:cd@climaxdesigns.com">contact   us</a></p>
-               <h3>Information we collect and how we use it</h3>
+               <p><strong>Information we collect and how we use it</strong></p>
                <p>We may   collect the following types of information: </p>
                <ul>
                     <li><strong>Information you provide</strong> – When you sign up   for a <a href="http://logopond.com/members/?account">Logopond   Account</a>  we ask you for personal information (such as your name,   email address and an account password).</li>
@@ -183,11 +211,11 @@ document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buyse
                     <li>Developing new services. </li>
                </ul>
                <p>Logopond processes personal information on  servers in the   United States of America. In some cases, we   process personal information on a server outside your own country.</p>
-               <h3>Choices for personal information</h3>
+               <p><strong>Choices for personal information</strong></p>
                <p>When you sign up for registration, we ask you to provide personal information. If we use this   information in a manner different than the purpose for which it was   collected, then we will ask for your consent prior to such use. </p>
                <p>If we propose to use personal information for any purposes   other than those described in this Privacy Policy and/or in the specific   service privacy notices, we will offer you an effective way to opt out   of the use of personal information for those other purposes. We will not   collect or use sensitive information for purposes other than those described in this Privacy   Policy and/or in the supplementary service privacy notices, unless we   have obtained your prior consent. </p>
                <p>Most browsers are initially set up to accept cookies, but you   can reset your browser to refuse all cookies or to indicate when a   cookie is being sent. However, some Logopond features may not   function properly if your cookies are disabled. You can decline to submit personal information to Logopond at registration, in which case you may not be able to access Logopond.</p>
-               <h3>Information sharing</h3>
+               <p><strong>Information sharing</strong></p>
                <p>Logopond only shares personal information with other companies or   individuals outside of Logopond in the following limited circumstances: </p>
                <ul>
                     <li>We have your consent. We require opt-in consent for the   sharing of any sensitive personal information. </li>
@@ -195,279 +223,213 @@ document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buyse
                </ul>
                <p>If Logopond becomes involved in a merger, acquisition, or any form   of sale of some or all of its assets, we will ensure the confidentiality   of any personal information involved in such transactions and provide   notice before personal information is transferred and becomes subject to   a different privacy policy. </p>
                <p>We may share with third parties certain pieces of aggregated non-personal information, such as the number of users, for example, or how many users clicked on particular content. Such information does not identify you   individually. </p>
-               <h3>Information security</h3>
+               <p><strong>Information security</strong></p>
                <p>We take appropriate security measures to protect against   unauthorized access to or unauthorized alteration, disclosure or   destruction of data. These include internal reviews of our data   collection, storage and processing practices and security measures, as   well as physical security measures to guard against unauthorized access   to systems where we store personal data. </p>
                <p>We restrict access to personal information to Logopond   employees, contractors and agents who need to know that information in   order to operate, develop or improve the site. These individuals are   bound by confidentiality obligations and may be subject to discipline,   including termination and criminal prosecution, if they fail to meet   these obligations. </p>
-               <h3>Data integrity</h3>
+               <p><strong>Data integrity</strong></p>
                <p>Logopond processes personal information only for the purposes for   which it was collected and in accordance with this Privacy Policy or any   applicable service-specific privacy notice. We review our data   collection, storage and processing practices to ensure that we only   collect, store and process the personal information needed to provide or   improve our site or as otherwise permitted under this Policy. We   take reasonable steps to ensure that the personal information we process   is accurate, complete, and current, but we depend on our users to   update or correct their personal information whenever necessary. </p>
-               <h3>Accessing and updating personal information</h3>
+               <p><strong>Accessing and updating personal information</strong></p>
                <p>When you use Logopond, we make good faith efforts to   provide you with access to your personal information and either to   correct this data if it is inaccurate or to delete such data at your   request if it is not otherwise required to be retained by law or for   legitimate business purposes. We ask individual users to identify   themselves and the information requested to be accessed, corrected or   removed before processing such requests, and we may decline to process   requests that are unreasonably repetitive or systematic, require   disproportionate technical effort, jeopardize the privacy of others, or   would be extremely impractical (for instance, requests concerning   information residing on backup tapes), or for which access is not   otherwise required. In any case where we provide information access and   correction, we perform this service free of charge, except if doing so   would require a disproportionate effort. </p>
-               <h3>Enforcement</h3>
+               <p><strong>Enforcement</strong></p>
                <p>Logopond regularly reviews its compliance with this Privacy Policy.   Please feel free to direct any questions or concerns regarding this   Privacy Policy or Logopond’s treatment of personal information by <a href="mailto:cd@climaxdesigns.com">contacting   us</a></p>
                <address>
                </address>
                <p>When we receive formal written complaints at this address, it is   Logopond’s policy to contact the complaining user regarding his or her   concerns. We will cooperate with the appropriate regulatory authorities,   including local data protection authorities, to resolve any complaints   regarding the transfer of personal data that cannot be resolved between   Logopond and an individual. </p>
-               <h3>Changes to this Privacy Policy</h3>
+               <p><strong>Changes to this Privacy Policy</strong></p>
                <p>Please note that this Privacy Policy may change from time to   time. We will not reduce your rights under this Privacy Policy without   your explicit consent, and we expect most such changes will be minor.   Regardless, we will post any Privacy Policy changes on this page and, if   the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified at the   top of the page by its effective date, and we will also keep prior versions of   this Privacy Policy in an archive for your review. </p>
           </div>
           <div class="detail_right">
-                
- 
-<div>
-<!-- BuySellAds.com Zone Code -->
-<div id="bsap_1423" style="margin:0 0 10px 0" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
-<!-- End BuySellAds.com Zone Code -->
- 
+               <div> 
+	
+	<!-- BuySellAds.com Zone Code -->
+	<div id="bsap_1860" style="margin:0 0 10px 0; display:block;" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+	<!-- End BuySellAds.com Zone Code --> 
+	<!-- BuySellAds.com Zone Code -->
+	<div id="bsap_1418" style="margin:0 0 10px 0; display:block;" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+	<!-- End BuySellAds.com Zone Code --> 
+	<div class="createspace"></div>
+	<!-- BuySellAds.com Zone Code -->
+	<div id="bsap_1420" style="margin:0 0 10px 0; display:block;" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+	<!-- End BuySellAds.com Zone Code --> 
+	
 
-<!-- BuySellAds.com Zone Code -->
-<div id="bsap_1269774" style="margin:10px 0; display:block;" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
-<!-- End BuySellAds.com Zone Code -->
-
-
-<script type="text/javascript">
-Vertical1860 = true;
-ShowAdHereBanner1860 = false;
-RepeatAll1860 = false;
-NoFollowAll1860 = false;
-BannerStyles1860 = new Array(
-	"a{padding:0;margin:0 0 10px 0;float:left;width:260px;height:125px;}",
-	"img{border:0;}",
-	"a.adhere{color:#666;font-weight:bold;font-size:10;border:1px solid #fafafa;text-align:center;}"
-);
-
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1860/1860.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.buysellads.com/1860/1860.js?v=1580438272000" type="text/javascript"></script>
-
-<div class="clear"></div>
- <div id="ads125x125">
-<script type="text/javascript">
-Vertical1420 = false;
-ShowAdHereBanner1420 = false;
-RepeatAll1420 = false;
-NoFollowAll1420 = false;
-BannerStyles1420 = new Array(
-	"a{padding:0;margin:0 0 9px 0;float:left;width:125px;height:125px;}",
-	"img{border:0;}",
-	"a.adhere{color:#666;font-weight:bold;font-size:10;border:1px solid #fafafa;text-align:center;}"
-);
-
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1420/1420.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.buysellads.com/1420/1420.js?v=1580438272000" type="text/javascript"></script>
+	
 </div>
-
-<script type="text/javascript">
-		Vertical1418 = false;
-		ShowAdHereBanner1418 = false;
-		RepeatAll1418 = false;
-		NoFollowAll1418 = false;
-		BannerStyles1418 = new Array(
-	"a{padding:0;margin:0 0 9px 0;float:left;width:125px;height:60px;}",
-	"img{border:0;clear:right;}",
-	"a.adhere{color:#666;font-weight:bold;font-size:10;border:1px solid #fafafa;text-align:center;}"
-			
-		);
-		
-		document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1418/1418.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://s3.buysellads.com/1418/1418.js?v=1580438272000" type="text/javascript"></script>
-<div class="clear"></div>
-
-
-
-</div>
-          </div>
+<div class="clear"></div>          </div>
           
 <div class="clear"></div>
-
 </div>
 </div>
 <div id="footer_wrapper">
-<div id="foot_nav">
-	<ul class="navigation_reg_footer">
-     <!--<li><a class="exit" href="http://illypads.com" title="illypads" >illypads</a></li>-->
-     <li><a href="/gallery/" title="View featured gallery" tabindex="3" accesskey="3">Gallery</a></li>
-     <li><a href="/popular/" title="View entire collection" tabindex="a" accesskey="a">View All</a></li>
-     <li><a href="/comments/" title="View recent comments" tabindex="c" accesskey="c">Comments</a></li>
-     <li><a href="/search/" title="Search" tabindex="8" accesskey="8">Search</a></li>
-     <li><a href="/featured/" title="Previously Featured Designers" tabindex="a" accesskey="a">Featured</a></li>
-     <li><a href="/members/" title="Sign up and become a member" tabindex="6" accesskey="6">Members</a></li>
-     <li><a href="/threads/" title="Forum" tabindex="4" accesskey="4">Forum</a></li>
-</ul>
-</div>
-<div id="footer">
 	
-	
-	<!--<a class="advertisment_f" href="http://buysellads.com/buy/detail/44/">advertisment</a>
+	<div id="footer"> 
+		
+<!--		<a class="advertisment_f" href="http://buysellads.com/buy/detail/44/">advertisment</a>
 -->
-	<div class="super_banner_f"> 
-		<script type="text/javascript">
-Vertical1245970 = false;
-ShowAdHereBanner1245970 = false;
-RepeatAll1245970 = false;
-NoFollowAll1245970 = false;
-BannerStyles1245970 = new Array(
-	"a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 4px 10px 0;text-align:center;text-decoration:none;float:left;overflow:hidden;width:1080px;height:45px;}",
-	"img{border:0;clear:right;}"
-);
-
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1245970/1245970.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.buysellads.com/1245970/1245970.js?v=1580438272000" type="text/javascript"></script> 
-	</div>
-	<hr>
-	<div id="footer_google">
-		<script type="text/javascript"><!--
+		<div class="super_banner_f"> 
+			<!-- BuySellAds.com Zone Code -->
+			<div id="bsap_1245970_2" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+			<!-- End BuySellAds.com Zone Code --> 
+		</div>
+		<hr>
+		<div id="footer_google">
+			<script type="text/javascript"><!--
 google_ad_client = "pub-2340979139322250";
 /* Logopond - Footer */
 google_ad_slot = "5446898349";
 google_ad_width = 728;
 google_ad_height = 15;
+google_ad_format = "728x15_0ads_al";
+google_color_bg = "221709";
+google_color_border = "221709";
+google_color_link = "999999";
+google_color_text = "999999";
+google_color_url = "999999";
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	</div>
-	
-		
-	<dl class="sublistsub tempb">
-		<dt>Top Uploaders</dt>
-						<dd>[
-			982			] <cite> <a href="/members/profile/showcase/178">
-			helvetic brands			</a> </cite></dd>
-				<dd>[
-			567			] <cite> <a href="/members/profile/showcase/11798">
-			tass			</a> </cite></dd>
-				<dd>[
-			564			] <cite> <a href="/members/profile/showcase/2043">
-			bartodell			</a> </cite></dd>
-				<dd>[
-			522			] <cite> <a href="/members/profile/showcase/6035">
-			Brandon Barnard			</a> </cite></dd>
-				<dd>[
-			500			] <cite> <a href="/members/profile/showcase/13028">
-			Type08			</a> </cite></dd>
-				<dd>[
-			499			] <cite> <a href="/members/profile/showcase/679">
-			Logomotive			</a> </cite></dd>
-				<dd>[
-			499			] <cite> <a href="/members/profile/showcase/19727">
-			jerron			</a> </cite></dd>
-				<dd>[
-			384			] <cite> <a href="/members/profile/showcase/1862">
-			logoholik			</a> </cite></dd>
-			</dl>
+</script>
 
-	<dl class="sublistsub tempb">
-		<dt>Most Favorites</dt>
-						<dd>[
-			6546			] <cite> <a href="/members/profile/favorites/37186">
-			brandsirrah			</a></cite></dd>
-				<dd>[
-			5609			] <cite> <a href="/members/profile/favorites/19160">
-			ALL4LEO			</a></cite></dd>
-				<dd>[
-			4525			] <cite> <a href="/members/profile/favorites/13279">
-			JoePrince			</a></cite></dd>
-				<dd>[
-			4174			] <cite> <a href="/members/profile/favorites/40925">
-			actioN			</a></cite></dd>
-				<dd>[
-			3853			] <cite> <a href="/members/profile/favorites/1679">
-			KGB			</a></cite></dd>
-				<dd>[
-			3568			] <cite> <a href="/members/profile/favorites/11798">
-			tass			</a></cite></dd>
-				<dd>[
-			2720			] <cite> <a href="/members/profile/favorites/36">
-			Monty			</a></cite></dd>
-				<dd>[
-			2619			] <cite> <a href="/members/profile/favorites/14604">
-			andreaderuggieri			</a></cite></dd>
-			</dl>
-	<dl class="sublistsub tempb">
-		<dt>Top Chatters</dt>
-						<dd>[
-			6528			] <cite> <a href="/members/profile/679">
-			Logomotive			</a></cite></dd>
-				<dd>[
-			5478			] <cite> <a href="/members/profile/782">
-			OcularInk			</a></cite></dd>
-				<dd>[
-			4565			] <cite> <a href="/members/profile/13028">
-			Type08			</a></cite></dd>
-				<dd>[
-			4076			] <cite> <a href="/members/profile/9622">
-			LoGoBoom			</a></cite></dd>
-				<dd>[
-			3867			] <cite> <a href="/members/profile/52174">
-			Type and Signs			</a></cite></dd>
-				<dd>[
-			3812			] <cite> <a href="/members/profile/13279">
-			JoePrince			</a></cite></dd>
-				<dd>[
-			3740			] <cite> <a href="/members/profile/5536">
-			firebrand			</a></cite></dd>
-				<dd>[
-			3602			] <cite> <a href="/members/profile/3892">
-			nido			</a></cite></dd>
-			</dl>
-	<dl class="sublistsub tempa">
-		<dt>Most Floats</dt>
-						<dd>[
-			8841			] <cite> <a href="/members/profile/2">
-			ClimaxDesigns			</a></cite></dd>
-				<dd>[
-			7352			] <cite> <a href="/members/profile/6217">
-			woelve			</a></cite></dd>
-				<dd>[
-			6987			] <cite> <a href="/members/profile/13028">
-			Type08			</a></cite></dd>
-				<dd>[
-			6977			] <cite> <a href="/members/profile/24837">
-			contrast8			</a></cite></dd>
-				<dd>[
-			6356			] <cite> <a href="/members/profile/31327">
-			Mikeymike			</a></cite></dd>
-				<dd>[
-			6280			] <cite> <a href="/members/profile/21710">
-			milou			</a></cite></dd>
-				<dd>[
-			6207			] <cite> <a href="/members/profile/26493">
-			Rokac			</a></cite></dd>
-				<dd>[
-			6119			] <cite> <a href="/members/profile/13279">
-			JoePrince			</a></cite></dd>
-			</dl>
-	
-	<!-- Cached Footer Page 31st December 2011 13:49-->
+<span class="wix"><a href="http://www.wix.com/amazingwebsites/websites_portfolio_401?utm_campaign=af_logopond.com&amp;experiment_id=af_logopond.com6" alt="create free portfolio with Wix.com">create free portfolio</a></span>		</div>
 		
-	
-	<dl class="sublistsub">
-		<dt>Helping Hands</dt>
-		 <dd>  <a href="http://www.1automationwiz.com">Online Shopping Cart</a>  </dd>
+					<dl class="sublistsub tempb">
+			<dt>Top Uploaders</dt>
+									<dd>[
+				1023				] <cite> <a href="/members/profile/showcase/178">
+				helvetic brands				</a> </cite></dd>
+						<dd>[
+				581				] <cite> <a href="/members/profile/showcase/2043">
+				bartodell				</a> </cite></dd>
+						<dd>[
+				579				] <cite> <a href="/members/profile/showcase/11798">
+				tass				</a> </cite></dd>
+						<dd>[
+				522				] <cite> <a href="/members/profile/showcase/6035">
+				Brandon Barnard				</a> </cite></dd>
+						<dd>[
+				512				] <cite> <a href="/members/profile/showcase/13028">
+				Type08				</a> </cite></dd>
+						<dd>[
+				511				] <cite> <a href="/members/profile/showcase/19727">
+				jerron				</a> </cite></dd>
+						<dd>[
+				506				] <cite> <a href="/members/profile/showcase/679">
+				Logomotive				</a> </cite></dd>
+						<dd>[
+				384				] <cite> <a href="/members/profile/showcase/1862">
+				logoholik				</a> </cite></dd>
+					</dl>
+		<dl class="sublistsub tempb">
+			<dt>Most Favorites</dt>
+									<dd>[
+				6507				] <cite> <a href="/members/profile/favorites/37186">
+				brandsirrah				</a></cite></dd>
+						<dd>[
+				5891				] <cite> <a href="/members/profile/favorites/19160">
+				ALL4LEO				</a></cite></dd>
+						<dd>[
+				5082				] <cite> <a href="/members/profile/favorites/40925">
+				Paulius Kairevicius				</a></cite></dd>
+						<dd>[
+				4467				] <cite> <a href="/members/profile/favorites/13279">
+				JoePrince				</a></cite></dd>
+						<dd>[
+				3840				] <cite> <a href="/members/profile/favorites/1679">
+				KGB				</a></cite></dd>
+						<dd>[
+				3645				] <cite> <a href="/members/profile/favorites/11798">
+				tass				</a></cite></dd>
+						<dd>[
+				2705				] <cite> <a href="/members/profile/favorites/36">
+				Monty				</a></cite></dd>
+						<dd>[
+				2620				] <cite> <a href="/members/profile/favorites/14604">
+				andreaderuggieri				</a></cite></dd>
+					</dl>
+		<dl class="sublistsub tempb">
+			<dt>Top Chatters</dt>
+									<dd>[
+				6631				] <cite> <a href="/members/profile/679">
+				Logomotive				</a></cite></dd>
+						<dd>[
+				5527				] <cite> <a href="/members/profile/782">
+				OcularInk				</a></cite></dd>
+						<dd>[
+				4986				] <cite> <a href="/members/profile/52174">
+				Type and Signs				</a></cite></dd>
+						<dd>[
+				4656				] <cite> <a href="/members/profile/13028">
+				Type08				</a></cite></dd>
+						<dd>[
+				4057				] <cite> <a href="/members/profile/9622">
+				LoGoBoom				</a></cite></dd>
+						<dd>[
+				3789				] <cite> <a href="/members/profile/13279">
+				JoePrince				</a></cite></dd>
+						<dd>[
+				3726				] <cite> <a href="/members/profile/5536">
+				firebrand				</a></cite></dd>
+						<dd>[
+				3619				] <cite> <a href="/members/profile/3892">
+				nido				</a></cite></dd>
+					</dl>
+		<dl class="sublistsub tempa">
+			<dt>Most Floats</dt>
+									<dd>[
+				9136				] <cite> <a href="/members/profile/2">
+				ClimaxDesigns				</a></cite></dd>
+						<dd>[
+				8283				] <cite> <a href="/members/profile/6217">
+				woelve				</a></cite></dd>
+						<dd>[
+				7456				] <cite> <a href="/members/profile/24837">
+				contrast8				</a></cite></dd>
+						<dd>[
+				7217				] <cite> <a href="/members/profile/13028">
+				Type08				</a></cite></dd>
+						<dd>[
+				6988				] <cite> <a href="/members/profile/31327">
+				Mikeymike				</a></cite></dd>
+						<dd>[
+				6484				] <cite> <a href="/members/profile/21710">
+				milou				</a></cite></dd>
+						<dd>[
+				6470				] <cite> <a href="/members/profile/40925">
+				Paulius Kairevicius				</a></cite></dd>
+						<dd>[
+				6403				] <cite> <a href="/members/profile/26493">
+				Rokac				</a></cite></dd>
+					</dl>
+<!-- Cached Footer 2nd May 2012 20:47-->
+				<dl class="sublistsub">
+			<dt>Helping Hands</dt>
+			 <dd>  <a href="http://www.1automationwiz.com">Online Shopping Cart</a>  </dd>
 <dd>  <a href="http://www.atlastravelweb.com/Tours.asp">Tours</a>  </dd>
 <dd>  <a href="http://www.babiespreferorganic.com">Medifast Coupons</a>  </dd>
 <dd>  <a href="http://www.asklyrics.com">Lyrics</a>  </dd>
-		<dd> 
-			<script type="text/javascript">
-Vertical1243662 = false;
-ShowAdHereBanner1243662 = true;
-RepeatAll1243662 = false;
-NoFollowAll1243662 = false;
-BannerStyles1243662 = new Array(
-    "a{display:block;font-size:9px;color:#222;font-family:verdana,sans-serif;margin:0 2px 2px 0;text-align:center;text-decoration:none;overflow:hidden;float:left;}",
-    "img{border:0;}",
-    "a.adhere{color:#222;font-weight:bold;font-size:9px;border:none;background:#000;text-align:center;}",
-    "a.adhere:hover{border:none;background:#ddd;color:#333;}"
-);
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1243662/1243662.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.buysellads.com/1243662/1243662.js?v=1580438272000" type="text/javascript"></script> 
-			<a title="Design and inspiration" style="display:block;font-size:9px;color:#222;font-family:verdana,sans-serif;margin:0 2px 2px 0;text-align:center;text-decoration:none;overflow:hidden;float:left;" href="http://www.psdbucket.com"><img src="/banner_ads/psdbucket.png" width="16" height="16" alt="Design and inspiration"></a>
-			<div class="clear"></div>
-		</dd>
-	</dl>
-
-	<div class="clear"></div>
-	<p class="copyright"><span> MeetUp <a href="http://www.meetup.com/logopond/">EVERYWHERE</a> | Contact: <a href="mailto:cd@climaxdesigns.com" title="contact">Management</a> | <a href="http://buysellads.com/buy/detail/44/" title="advertise">Advertise</a></span>Logopond™ Copyright © 2006 - 2011<a href="/ToS.php" title="Terms of Service">Terms of Service</a> | <a href="/PP.php" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.flickr.com/groups/logopond/pool/" title="Flickr">Flickr</a> | <a href="http://twitter.com/logopond" title="Twitter">Twitter</a> | <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=84445" title="LinkedIn">LinkedIn</a></p>
+<dd>  <a href="http://widestat.com">Website Value Calculator</a>  </dd>
+			<dd><a href="http://www.youtubemp3.tv" title="Youtube Converter">Youtube
+				Converter</a> </dd>
+			<dd class="favicons"> 
+				<!-- BuySellAds.com Zone Code -->
+				<div id="bsap_1243662" class="bsarocks bsap_2e9658e0ee41d24e58f0ae9a56504b0b"></div>
+				<!-- End BuySellAds.com Zone Code --> 
+				<a title="Design and inspiration" style="display:block;font-size:9px;color:#222;font-family:verdana,sans-serif;margin:0 2px 2px 0;text-align:center;text-decoration:none;overflow:hidden;float:left;" href="http://www.psdbucket.com"><img src="/banner_ads/psdbucket.png" width="16" height="16" alt="Design and inspiration"></a>
+				
+								<div class="clear"></div>
+			</dd>
+		</dl>
+		<div class="clear"></div>
+		<p class="copyright"><span> MeetUp <a href="http://www.meetup.com/logopond/">EVERYWHERE</a> | Contact: <a href="mailto:cd@climaxdesigns.com" title="contact">Management</a> | <a href="http://buysellads.com/buy/detail/44/" title="advertise">Advertise</a></span>Logopond™ Copyright © 2006 - 2012 | <a href="/ToS.php" title="Terms of Service">Terms of Service</a> | <a href="/PP.php" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.flickr.com/groups/logopond/pool/" title="Flickr">Flickr</a> | <a href="http://www.facebook.com/groups/141975825721/">Facebook</a> | <a href="http://twitter.com/logopond" title="Twitter">Twitter</a> | <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=84445" title="LinkedIn">LinkedIn</a></p>
+	</div>
 </div>
-
+<div class="cancelmessagemargin">
+	<div id="Message" class="footerbook warning"><a href="http://www.logopondbooks.com/products/logopond-v1" title="Logopond Book Volume 1" target="_blank">
+		<section>
+			<div class="book_img"></div>
+			<h2 id="book_title">Logopond Book V1 - PreSale Now!		</h2>
+		</section>
+		</a> </div>
 </div>
 <img src="http://whos.amung.us/widget/climaxde" width="1" height="1" border="0"> 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -477,4 +439,4 @@ _uacct = "UA-550653-1";
 _userv=2;
 urchinTracker();
 </script>
-<div id="ibox"><div id="ibox_w" style="display:none;"></div><div id="ibox_progress" style="display:none;"><img src="/img/indicator.gif" alt="Loading..." style="width:128px;height:128px;"></div><div id="ibox_wrapper" style="display:none"><div id="ibox_content"></div><div id="ibox_footer_wrapper"><div id="ibox_close" style="float:right;"><a id="ibox_close_a" href="javascript:void(null);">Close</a></div><div id="ibox_footer">&nbsp;</div></div></div></div></body></html>
+</body></html>
