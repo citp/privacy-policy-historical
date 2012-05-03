@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bonzobox.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229072817id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonzobox.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503234629id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/8c2d7d8273b7cb08df5f07069138e24656db59c8.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript">
   var _kmq = _kmq || [];
@@ -45,10 +45,41 @@ window.location.href = "/ie6";
 
 <script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
 
-<body class="communitydash grid">
+<body class="communitydash grid generalpage">
 
 
-<header>
+<div id="welcomebar">
+    <div class="header-wrap">
+
+	<ul class="menuzone">
+		<li><a href="/signin" id="silink" class="silink">Sign In</a></li>
+		<li><a href="/signup" id="sulink">Sign Up</a></li>
+	</ul>
+
+
+	<form action="/search" class="headersearch">
+<fieldset>
+    <label for="q">Search:</label>
+    <span class="fakesearchfield">
+	<input type="search" name="q" id="q" results="6" autosave="headersearch" placeholder="I want to find…">
+
+	
+	<select name="searchtype" id="searchtype">
+	    
+		<!--<option value="google">on Google</option>-->
+	    <option value="bing">on Bing</option>
+		    	</select>
+
+    </span>
+    <button type="submit" value="sa">Go</button>
+		
+ 
+	<input type="hidden" name="header_member_name" value="">
+</fieldset>
+</form> 
+
+    </div>
+</div><header>
 
 <div class="header-wrap group">
 
@@ -74,12 +105,13 @@ window.location.href = "/ie6";
 
 
 <div id="wrap">
+
+
+<h2>Privacy Statement</h2> 
 <section id="content" class="textcontent">
+<article class="agreement">
 
-    
-<div class="text-page agreement">
 
-<h2>Privacy Statement</h2>
 
 <p>Thank you for visiting www.bonzobox.com ("<u>Site</u>"). This Site is a service made available to you by Bonzobox, LLC, a California limited liability company ("<u>we</u>" or "<u>us</u>").  We are committed to protecting and safeguarding your privacy. The purpose of this privacy statement ("<u>Privacy Statement</u>") is to inform you about the types of information we might collect from you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.</p>
 
@@ -125,7 +157,7 @@ window.location.href = "/ie6";
 <p>If you have any questions about this Privacy Statement, please email us at info@bonzobox.com. We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.</p>
 
 
-</div>
+</article>
 </section>
     </div><!-- end #wrap -->
 
@@ -150,38 +182,7 @@ window.location.href = "/ie6";
 </footer>
 
 
-<div id="welcomebar">
-    <div class="header-wrap">
 
-	<ul class="menuzone">
-		<li><a href="/signin" id="silink" class="silink">Sign In</a></li>
-		<li><a href="/signup" id="sulink">Sign Up</a></li>
-	</ul>
-
-
-	<form action="/search" class="headersearch">
-<fieldset>
-    <label for="q">Search:</label>
-    <span class="fakesearchfield">
-	<input type="search" name="q" id="q" results="6" autosave="headersearch" placeholder="I want to find…">
-
-	
-	<select name="searchtype" id="searchtype">
-	    
-		<!--<option value="google">on Google</option>-->
-	    <option value="bing">on Bing</option>
-		    	</select>
-
-    </span>
-    <button type="submit" value="sa">Go</button>
-		
- 
-	<input type="hidden" name="header_member_name" value="">
-</fieldset>
-</form> 
-
-    </div>
-</div>
 
 <div id="fb-root"></div>
 
@@ -191,7 +192,7 @@ window.location.href = "/ie6";
     
     
 
-    FB.init({appId: '98699855808', 'status': true, 'cookie': true, 'xfbml': true, 'logging':true, 'session':FB.Cookie.load()});
+    FB.init({appId: '98699855808', 'status': true, 'cookie': true, 'xfbml': true, 'logging':true});
 
 /*
 FB.Event.subscribe('auth.sessionChange', function(response) {
