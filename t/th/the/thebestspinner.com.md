@@ -1,78 +1,75 @@
-> *The following text is extracted and transformed from the thebestspinner.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231203909id_/http%3A//www.thebestspinner.com%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestspinner.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503145604id_/http%3A//thebestspinner.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
+[Home »](https://web.archive.org/)
+
+### _PRIVACY POLICY_
+
+Your privacy is important to us. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information. 
+
+**Personal information collection**
+
+We may collect and use the following kinds of personal information: 
+
+* information about your use of this website (including statistics about which pages you visit, how long, your browser details and other such information);   
+* information that you provide using for the purpose of registering with the website (including personal details such as name, address, age);  
+* information about transactions carried out over this website (including methods of payment);   
+* any information that you provide for the purpose of subscribing to the website services; and  
+* any other information that you send to us  
 
 
-### Privacy Policy
+**Using personal information**
 
-**What information do we collect?**
+We may use your personal information to: 
 
-We collect information from you when you register on our site. 
+* administer this website;  
+* personalize the website for you;  
+* enable your access to and use of the website services;  
+* publish information about you on the website;  
+* send you products that you purchase;  
+* supply services that you purchase;  
+* send you statements and invoices;  
+* collect payments from you; and  
+* send you marketing communications.  
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. 
+Where we disclose your personal information to our agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. 
 
-**What do we use your information for?**
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, we may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+**Securing your data**
 
-To personalize your experience (your information helps us to better respond to your individual needs) 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
-To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+We will store all the personal information you provide on our servers. Offline copies may be taken by us for data analysis, storage and retrieval. 
 
-**How do we protect your information?**
+Information relating to electronic transactions entered into via this website will be protected by encryption technology. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+**Cross-border data transfers**
 
-**Do we use cookies?**
+Our services are global in nature and as such any information that we collect may be stored and processed in and transferred between any of the countries in which we operate to enable the use of the information in accordance with this privacy policy. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world. 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+You agree to such cross-border transfers of personal information. 
 
-**Do we disclose any information to outside parties?**
+**Updating this statement**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We may update this privacy policy by posting a new version on this website. 
 
-**Third party links**
+You should check this page occasionally to ensure you are familiar with any changes. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+This page was last updated on 1st March 2012 
 
-**California Online Privacy Protection Act Compliance**
+**Other websites**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+This website contains links to other websites. 
 
-**Childrens Online Privacy Protection Act Compliance**
+We are not responsible for the privacy policies or practices of any third party. 
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+**How to Contact us**
 
-**Online Privacy Policy Only**
+If you have any questions about this privacy policy or our treatment of your personal information, you can contact us at the support desk, which is at: 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://thebestspinner.com/?action=tos>. 
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-This policy was last modified on 07/23/2009 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-<http://www.askjonleger.com/>  
-PO Box 940367  
-Plano, Texas 75094  
-Collin County  
-
+Support desk: [www.askjonleger.com/support/](http://askjonleger.com/support/)
