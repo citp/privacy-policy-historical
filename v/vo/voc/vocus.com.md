@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912055928id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocus.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503192641id_/http%3A//www.vocus.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Vocus Privacy Statement
 
 This is the web site of Vocus, Inc.
 
 Our postal address is:  
-4296 Forbes Boulevard  
-Lanham, MD 20706  
+12051 Indian Creek Ct.  
+Beltsville, MD 20705  
 Phone: 301.459.2590
 
 Vocus takes privacy seriously. As a leading provider of on-demand software for corporate communications and public relations, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
