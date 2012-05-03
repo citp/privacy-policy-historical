@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokernetonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214100id_/http%3A//pokernetonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokernetonline.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504010046id_/http%3A//www.pokernetonline.com/privacy.php) for the most accurate reproduction.*
 
 # Free Poker Money - Free Titan Poker Online - PokerNetOnline
 
