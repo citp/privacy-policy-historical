@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021163201id_/http%3A//www.teambuildingproject.com/tbp_bo.pl%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambuildingproject.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203801id_/http%3A//www.teambuildingproject.com/tbp_bo.pl%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
