@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jellyfish.co.uk privacy policy that was archived on 2011-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122124403id_/http%3A//jellyfish.co.uk/jellyfish/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jellyfish.co.uk privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503171227id_/http%3A//jellyfish.co.uk/jellyfish/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy - Jellyfish</title>
@@ -106,7 +106,7 @@
 	<li class="top"><a href="/paid-search-ppc-specialists/risk-free-cpa-model" class="top_link" accesskey="O"><span>Services</span><b class="down"></b><!--[if gte IE 7]><!--></a><!--<![endif]-->
 		<!--[if lte IE 6]><table><tr><td><![endif]-->
 		<ul class="sub">
-			<li class="flytop"><a href="">PPC Management</a>
+			<li class="flytop"><a href="/paid-search-ppc-specialists/">PPC Management</a>
                 <ul>
 					<li class="subtop"><a href="/jellyfish/commercialmodel">Which commercial model suits you?</a></li>
 					<li><a href="/paid-search-ppc-specialists/risk-free-cpa-model">Risk Free CPA model</a></li>
@@ -324,7 +324,7 @@ You have a right under the Data Protection Act 1998 to see what information we h
 		    <li><a href="/jellyfish/privacy" title="Jellyfish - Privacy">Privacy</a></li>
 		</ul>
 		<br>
-		<span>Copyright Jellyfish Group 1999-2011</span>
+		<span>Copyright Jellyfish Group 1999-2012</span>
 	</div>
 	<div id="footer_right">
 		<a href="http://www.iabuk.net/en/1/iabmemberjellyfish.mxs" target="_blank" title="Jellyfish Affiliated Companies - IAB">
@@ -365,9 +365,11 @@ You have a right under the Data Protection Act 1998 to see what information we h
 
 
 	// the apply button needs to have the subject of the email set according to the job being adertised
-        if ($('#apply_button').attr('href') != null) {
+        if ($('#apply_button').attr('href') != null && $('#mainpanel h1').html() !=null) {
         	$('#apply_button').attr('href','mailto:careers@jellyfish.co.uk?subject=Online Application for '+$('#mainpanel h1').html()+' Ref:'+jtid);
-        }
+        } else if ($('#apply_button').attr('href') != null && $('#mainpanel h2').html() !=null) {
+			$('#apply_button').attr('href','mailto:careers@jellyfish.co.uk?subject=Online Application for '+$('#mainpanel h2').html()+' Ref:'+jtid);
+		}
 
 		// email us button clicked
         if ($('#emailus_button').attr('href') != null) {
@@ -399,7 +401,7 @@ You have a right under the Data Protection Act 1998 to see what information we h
 
      });
 
-</script><script src="https://jts.jellyfish.co.uk/?acc=JFWS&amp;1580512700581&amp;referer=" type="text/javascript"></script>
+</script><script src="https://jts.jellyfish.co.uk/?acc=JFWS&amp;1580512700477&amp;referer=" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -484,6 +486,19 @@ You have a right under the Data Protection Act 1998 to see what information we h
 
 
 <iframe style="display:none; background:#fff" id="conversionFrame" src="" height="0" width="0"> </iframe>
+
+
+<!-- WOW Tracking Code Start -->
+<script type="text/javascript" src="//t.wowanalytics.co.uk/Scripts/tracking.js"></script>
+<script type="text/javascript">
+try {
+wowTracker.ClientId = '784573df-8177-493a-a830-cc9a1b42946c';
+wowTracker.DisableUserTracking = true;
+wowTracker.InitialiseTracker();
+} catch (err) { } 
+</script>
+<!-- WOW Tracking Code End -->
+
 
 
 
