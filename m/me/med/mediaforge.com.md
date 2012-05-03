@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005201336id_/http%3A//mediaforge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014653id_/http%3A//www.mediaforge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | mediaFORGE
 
@@ -54,5 +54,5 @@ By selecting the opt-out cookie, mediaFORGE will not store information about you
 
 PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.
 
-To opt out, please [click here](http://ads.mediaforge.com/optout/optout.php).  
+To opt out, please [click here](http://www.aboutads.info/choices/)  
  
