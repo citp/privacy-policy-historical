@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the suggest.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101203348id_/http%3A//www.suggest.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suggest.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503215306id_/http%3A//www.suggest.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,8 +9,8 @@
 	<title>Suggest.com</title>
 	
 	
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-<link href="/compactor.ccss?page=page/privacy&amp;list=DSxbDuEMFxaMGEeZnc5QaltfP6B4BnuoqWJR%2BOuJkcRxrkuFVfPAw5ESJvgJNMtqFt0ZDgnxFScGglcVyXBnseZwwgb2SoNBSjDixxD6dbF53EcBXVya0IdtQstAV7wKSWzWaJ67VICo0kUIMeiTrvwkBnF6c0jor1lO%2FFQKiIpHRPxQa%2FVB4Ms8hraEtmNYrnoBWp6m9VA%3D" rel="stylesheet" type="text/css" media="all">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<link href="/compactor.ccss?page=page/privacy&amp;list=GRKW268QZ4S2jFbcYcmIb5tX9FkpGDs2fYKXaK%2FZFCNh09SioIIAOBxsf3mLHGkFeE0fgT7drte3TineCIVwvzbzEsT%2BKhZKBoJXFclwZ7HhDIbco0osql8vUAjPGsti5nDCBvZKg0FKMOLHEPp1sXncRwFdXJrQDSxbDuEMFxaMGEeZnc5QarJJWaozpkkaFhMNj8BBUQHeWxjd1injPgEV55xvyMSd" rel="stylesheet" type="text/css" media="all">
 
 		
 </head>
@@ -52,20 +52,23 @@
 		</div>
 		<div class="text location populated field">
 			<label for="location">in</label>
-			<input type="text" id="location" name="location" title="St Louis, MO" value="St Louis, MO">
+			<input type="text" id="location" name="location" title="San Francisco, CA" value="San Francisco, CA">
 			
 		</div>
 	<input type="hidden" id="default_text" name="default_text" title="" value="Enter Search Term Here">
 	<input type="hidden" id="location_default_text" name="location_default_text" title="" value="City, State">
 	<input type="hidden" id="require_field_change" name="require_field_change" title="" value="no">
 	<input type="hidden" id="keyword_default" name="keyword_default" title="" value="Enter Search Term Here">
-	<input type="hidden" id="location_default" name="location_default" title="" value="St Louis, MO">
+	<input type="hidden" id="location_default" name="location_default" title="" value="San Francisco, CA">
 		<input type="submit" class="submit" value="Search">
 </div>
 </form>
 	</div>
 </div>
-<script>var search_allow_dot = false;</script>
+<script>
+	var search_allow_dot = false;
+	var override_validation = false;
+</script>
 </div>
 
 <div class="module facebook_login">
@@ -244,7 +247,7 @@
 									</li>
 				</ul>							
 		<div class="copyright">
-			Copyright © 2011 Suggest.com		</div>
+			Copyright © 2012 Suggest.com		</div>
 		
 	</div>
 </div>
@@ -257,8 +260,21 @@
 </script>
 
 	
-<script src="/compactor.cjs?page=page/privacy&amp;list=DSxbDuEMFxaMGEeZnc5QaltfP6B4BnuoqWJR%2BOuJkcRxrkuFVfPAw5ESJvgJNMtqFt0ZDgnxFScGglcVyXBnseZwwgb2SoNBSjDixxD6dbF53EcBXVya0IdtQstAV7wKSWzWaJ67VICo0kUIMeiTrvwkBnF6c0jor1lO%2FFQKiIpHRPxQa%2FVB4Ms8hraEtmNYrnoBWp6m9VA%3D" type="text/javascript"></script>
+<script src="/compactor.cjs?page=page/privacy&amp;list=GRKW268QZ4S2jFbcYcmIb5tX9FkpGDs2fYKXaK%2FZFCNh09SioIIAOBxsf3mLHGkFeE0fgT7drte3TineCIVwvzbzEsT%2BKhZKBoJXFclwZ7HhDIbco0osql8vUAjPGsti5nDCBvZKg0FKMOLHEPp1sXncRwFdXJrQDSxbDuEMFxaMGEeZnc5QarJJWaozpkkaFhMNj8BBUQHeWxjd1injPgEV55xvyMSd" type="text/javascript"></script>
 
+
+	
+<script type="text/javascript">
+function _dsply_callback(response) {
+	var exdate = new Date();
+	var exdays = 3650;
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value = escape(response.uuid) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie='dsply_uuid' + "=" + c_value + ';path=/;domain=suggest.com';
+}
+</script>
+
+<script type="text/javascript" src="https://www.dsply.com/index.php?ub=aE9sn-OCLLzAdPQlfyVcT6lotLAQnyeTrvO7vYZSUiAYi3iph6x7npkCBWtWfMzc"></script>
 
 
 
