@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224190122id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503235136id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
 
 # Environment Agency - Privacy and cookies
 
@@ -53,20 +53,9 @@ We use a third party online payment service to process card payment transactions
 
 ## Cookies
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
-
-These pieces of information are used to improve services for you through, for example:
-
-  * enabling a service to recognise your device so you do not have to give the same information several times during one task 
-  * recognising that you may already have given a username and password so you do not need to do it for every web page requested 
-  * measuring how many people are using services, so they can be made easier to use and there is enough capacity to ensure they are fast
+Information regarding the Environment Agency's use of internet browser cookies.  
 
 
-
-You can manage these small files yourself and learn more about them:
-
-  * **[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies - what they are and how to manage them")  
-**
   * **[Our use of cookies](https://web.archive.org/help/130361.aspx "Use of our cookies")**
 
 
