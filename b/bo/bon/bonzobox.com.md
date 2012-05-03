@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229072817id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234629id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
 
 # BonzoBox – It's Your Homepage
-
-## Privacy Statement
 
 Thank you for visiting www.bonzobox.com (" _Site_ "). This Site is a service made available to you by Bonzobox, LLC, a California limited liability company (" _we_ " or " _us_ "). We are committed to protecting and safeguarding your privacy. The purpose of this privacy statement (" _Privacy Statement_ ") is to inform you about the types of information we might collect from you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
 
