@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the devour.com privacy policy that was archived on 2011-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007134904id_/http%3A//devour.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devour.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503220230id_/http%3A//devour.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" class="jsclass"><head>
 <title>Devour Privacy Policy</title>
 <meta charset="utf-8">
-<meta name="description" content="Devour scours the web for awesome videos. You know, the ones actually worth watching.">
+<meta name="description" content="">
+
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="stylesheet" type="text/css" href="/css/devour.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/default.css" title="default" media="screen">
@@ -21,21 +22,22 @@
 <link rel="alternate stylesheet" type="text/css" href="/css/ie.css" title="wallpaper" media="screen" />
 <![endif]-->
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/devourfeed">
-<link rel="prefetch" href="/more/">
 <!--[if lt IE 7]>
 <script type="text/javascript" src="/js/pngfix.js"></script>
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://use.typekit.com/mfl8plc.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.box.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/stylesheetToggle.js"></script>
+<script type="text/javascript" src="/js/mt.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
 <script type="text/javascript">
   $(function() {
-  	var zIndexNumber = 1000;
-  	$('div').each(function() {
-  		$(this).css('zIndex', zIndexNumber);
-  		zIndexNumber -= 10;
-  	});
+
+
+
   	$.stylesheetInit();
   	$('.styleswitch').bind(
   			'click',
@@ -102,41 +104,44 @@ return encoded;
 }; 
 </script>
 
-<script type="text/javascript">
-var img = new Image();
-if (typeof commenter_id == 'undefined') { var commenter_id = ''; }
-img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&r=" + escape(document.referrer) + "&a=" + commenter_id + "&b=25&t=entry&i=27292";
-</script>
 
 
+
+  <script type="text/javascript">
+    $(document).ready(function(){  
+      if (u && u.username) {
+        if (document.URL == 'http://devour.com/my/playlist/') window.location = '/playlist/' + u.username + '/';
+      }
+    });
+  </script>
 
 </head>
 
 <body>
 
-<div id="universe" style="z-index: 1000;"> 
+<div id="universe"> 
 
-<div id="eternia" style="z-index: 990;">
+<div id="eternia">
 
-<div id="avion" style="z-index: 980;"> 
+<div id="avion"> 
 
-<div class="logo" style="z-index: 970;"> 
+<div class="logo"> 
 <a href="/"><img src="/i/devour.png" width="305" height="54" border="0" alt="Devour"></a> 
 </div>
 
-<div class="search" style="z-index: 960;"> 
+<div class="search"> 
 <form method="get" action="/search" id="searchform" name="searchform" onsubmit="return search(this)"> 
 <input name="query" id="searchbox" type="text"> 
 <button type="submit" id="search-btn" name="go"></button>
 </form> 
 </div>
 
-<div class="nav" style="z-index: 950;"> 
-  <div class="nav1" style="z-index: 940;"> 
-    <div class="parents-toggle" style="z-index: 930;">
+<div class="nav"> 
+  <div class="nav1"> 
+    <div class="parents-toggle">
       <a href="#" id="customize-toggle">Customize</a><br>
-        <div class="menu-toggle hidden" id="customize-menu" style="z-index: 920;">
-          <div class="menu-toggle-one" style="z-index: 910;">
+        <div class="menu-toggle hidden" id="customize-menu">
+          <div class="menu-toggle-one">
             <h3>Background</h3>
             <ul>
               <li><a href="#" rel="drkwood" class="styleswitch"><img src="/i/c-drk-wood.jpg" alt="Dark Wood">Dark Wood</a></li>
@@ -147,7 +152,7 @@ img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&
               <li><a href="#" rel="default" class="styleswitch"><img src="/i/c-default.gif" alt="Default">Solid White</a></li>                     
             </ul>
           </div>
-          <div class="menu-toggle-two" style="z-index: 900;">
+          <div class="menu-toggle-two">
             <h3>Layout</h3>
               <ul>
                 <li><a href="http://devour.com/"><img src="/i/c-grid.jpg" alt="Grid">Grid</a></li>
@@ -159,10 +164,10 @@ img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&
         </div>
       </div>  
     <a href="/submit/" id="sub-video">Submit video</a><br>
-    <div class="parents-toggle" style="z-index: 890;">
+    <div class="parents-toggle">
       <a href="#" id="channels-toggle">Channels</a>
-      <div class="menu-toggle hidden" id="channels-menu" style="z-index: 880;">
-        <div class="menu-toggle-one" style="z-index: 870;">
+      <div class="menu-toggle hidden" id="channels-menu">
+        <div class="menu-toggle-one">
             			<ul>
               <li><a href="/animals/" title="Animals">Animals</a></li>
               <li><a href="/art/" title="Art &amp; Design">Art &amp; Design</a></li>
@@ -175,7 +180,7 @@ img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&
               <li><a href="/games/" title="Games">Games</a></li>
             </ul>
         </div>    
-        <div class="menu-toggle-two" style="z-index: 860;">
+        <div class="menu-toggle-two">
             <ul>
               <li><a href="/movies/" title="Movies">Movies</a></li>
               <li><a href="/music/" title="Music">Music</a></li>
@@ -192,12 +197,12 @@ img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&
       </div>
     </div>
   </div>
-  <div class="nav2" style="z-index: 850;"> 
+  <div class="nav2"> 
     <a href="http://facebook.com/devour">Facebook</a><br>
     <a href="http://twitter.com/devour">Twitter</a><br>
     <a href="/subscribe/">Subscribe</a>
   </div>
-  <div class="nav3" style="z-index: 840;"> 
+  <div class="nav3"> 
     <a href="/about/">About us</a><br>
 	<a href="/contact/">Contact us</a><br>
 	<a href="http://uncrate.com">Uncrate</a>
@@ -229,11 +234,11 @@ img.src = "http://devour.com/stats.php?u=" + escape(document.location.href) + "&
 
 
 
-<div id="subternia" style="z-index: 830;"> 
+<div id="subternia"> 
 
-<div class="aquatica" style="z-index: 820;">
+<div class="aquatica">
 
-<div class="copy" style="z-index: 810;"> 
+<div class="copy"> 
 
 Copyright © MMXI&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.zombiecorp.com/" target="_blank">Zombiecorp</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/" rel="nofollow">About</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact/" rel="nofollow">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/advertise/" rel="nofollow">Advertise</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://advertisers.federatedmedia.net/explore/view/devour" target="_blank">FM Living</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy/" rel="nofollow">Privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms/" rel="nofollow">Terms</a>
 
@@ -280,7 +285,7 @@ qacct:"p-92CBSYgectFl6"
 
 <script type="text/javascript" src="http://static.fmpub.net/site/devour"></script>
 
-<div class="sitemeter" style="z-index: 800;"> 
+<div class="sitemeter"> 
 <script type="text/javascript" src="http://s44.sitemeter.com/js/counter.js?site=s44devour">
 </script>
 <noscript>
