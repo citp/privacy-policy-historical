@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selina18.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125628id_/http%3A//selina18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selina18.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232542id_/http%3A//selina18.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy_nethole
 
