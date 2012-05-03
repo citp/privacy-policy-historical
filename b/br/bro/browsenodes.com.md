@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsenodes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130519id_/http%3A//www.browsenodes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsenodes.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504004207id_/http%3A//www.browsenodes.com/privacy.html) for the most accurate reproduction.*
 
 # Download Browse Nodes for Amazon.com AWS
 
@@ -8,7 +8,7 @@ When you connect to our Web site, our web servers may collect your IP address. T
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-Information such as your name and email address is stored when you register to be able to log into the web site. This information is used when you enter information into the web site such as an album review. Your name is displayed along with your review when others visit the site, but your email address is not displayed.
+Information such as your name and email address is stored when you register to be able to log into the web site. This information is used when you enter information into the web site. Your name is displayed along with your input when others visit the site, but your email address is not displayed.
 
 When you join one of our mailing lists, your email address is sent to the mailing list server to subscribe you to the mailing list. Posting a message to a mailing list will reveal your email address to the other subscribers of the mailing list.
 
