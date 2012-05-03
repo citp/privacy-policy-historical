@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvprocessing.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102160047id_/http%3A//tvprocessing.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvprocessing.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055049id_/http%3A//www.tvprocessing.com/privacy.asp) for the most accurate reproduction.*
 
 # TVprocessing - The Best TV Affiliate Network
 
@@ -34,4 +34,4 @@ For website security purposes, and to ensure that our website remains available 
 
 **Contact Information**
 
-[TVProcessing.com](http://www.tvprocessing.com/) welcomes your comments regarding this Statement of Privacy. If you have any questions regarding our Statement of Privacy or this website, please [contact us](https://web.archive.org/web/20111102160047id_/http%3A//tvprocessing.com/contact.asp).
+[TVProcessing.com](http://www.tvprocessing.com/) welcomes your comments regarding this Statement of Privacy. If you have any questions regarding our Statement of Privacy or this website, please [contact us](https://web.archive.org/web/20120503055049id_/http%3A//www.tvprocessing.com/contact.asp).
