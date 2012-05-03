@@ -1,37 +1,11 @@
-> *The following text is extracted and transformed from the vnbb.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630075602id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnbb.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503180343id_/http%3A//vnbb.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Vietnamese Dictionary & Translation - Từ điển tiếng Anh Pháp Hán Việt
+# vnbb.com
 
-## Privacy Policy
+Privacy Policy
 
-**Collection of Information**
+SmartName.com (or NameMedia) collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties.
 
-VDict does not collect users' personal information on dictionary pages.
+SmartName.com (or NameMedia) is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind.
 
-We do collect personal information in translation service order form. However, only Name and Email address are required fields, all other fields are optional.
-
-**Surveys**
-
-From time to time Vdict.com conducts voluntary user surveys to improve our services. No personal information is collected in surveys.
-
-**Cookies and IP Addresses**
-
-Cookies are placed on your computer from certain pages of our site. Our advertising partners may also place their own cookies. 
-
-IP addresses are also recorded in the log files on Vdict.com
-
-**Use of the Information Collected**
-
-Personal information: Personal information on order form is used to contact customers. This information is stored on our records for 3 years.
-
-Uploaded files: Files uploaded for translation quotes are also stored for 3 years unless otherwise requested to be destroyed by customers.
-
-Cookies: Cookies are used to store your preferences on Vdict.com.
-
-IP addresses: IP addressed are used for statistical purposes only. 
-
-**Information Sharing**
-
-We reserve the rights to share traffic statistics reports with our advertising partners.
-
-Otherwise, no other information is shared to any third party unless required by government or law enforcement agents. 
+SmartName.com (or NameMedia) or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
