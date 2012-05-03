@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezarticleinformation.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101063847id_/http%3A//www.ezarticleinformation.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezarticleinformation.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225200id_/http%3A//www.ezarticleinformation.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EZ Article Information
 
