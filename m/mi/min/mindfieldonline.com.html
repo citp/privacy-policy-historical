@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindfieldonline.com privacy policy that was archived on 2011-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204201321id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindfieldonline.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503221620id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
     <base href="http://mindfieldonline.com/">
@@ -11,8 +11,7 @@
 <meta property="og:image" content="http://mindfieldonline.com/images/app/app_policies.jpg">
     <meta name="description" content="Earn extra spending money taking surveys online. Get paid for your opinion at MindfieldOnline.com">
     <meta name="keywords" content="survey, surveys, online, paid, focus groups, opinions, cash, prizes, market research, opinion, market research surveys, online surveys, incentive, cash incentive, work from home, spending money, extra cash, panel, panel research, consumer polls, consumer polling, database, conjoint, ACA, CBC, MaxDiff, Sawtooth Software, online programming, programming, web development, data, survey data, decisions, decision making, IHUT, home use tests, in-home, work from home, money, spending money, safe, national panel, segmentation surveys, conjoint surveys, consumer surveys, concept, concept surveys, mall research, data collection, McMillion, McMillion Research, The McMillion Companies, Mindfield, Mindfield Online, Breakthrough, Breakthrough Healthcare, product testing">
-  </head>
-
+  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
   <body>
     <div id="container">
       <div id="header">
@@ -154,6 +153,100 @@
         
         <h2>Member Login</h2>
         <div class="sidebar-content">
+<div id="fb-root"></div>
+<script>
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '166922840036084', // App ID
+      channelUrl : 'http://mindfieldonline.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+	FB.Event.subscribe('auth.statusChange', function(response) 
+	{
+		if(response.status === 'connected')
+		{
+			fblogin();
+		}
+	});
+
+    	
+    		
+	FB.getLoginStatus(function(response) 
+	{
+		if (response.status === 'connected') 
+		{
+			var uid = response.authResponse.userID;
+			var accessToken = response.authResponse.accessToken;
+			fblogin();  			
+  		}
+		else if (response.status === 'not_authorized') 
+		{
+			// the user is logged in to Facebook, 
+			//but not connected to the app
+		}
+		else
+		{
+			// the user isn't even logged in to Facebook.
+		}
+	});
+    	
+    		
+
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+
+
+function fblogin()
+{
+	var fb_uid;
+	var fbloginstatus = FB.getLoginStatus(function(response) 
+	{
+		if (response.status === 'connected') 
+		{
+			var uid = response.authResponse.userID;
+			var accessToken = response.authResponse.accessToken;
+
+			FB.api('/me', function(response) 
+			{
+				if(response.id == 42210262)
+				{
+					//confirm(response.email + '\n' +  response.id + '\n' + response.birthday);
+				}
+				document.getElementsByName("facebook_email")[0].value = response.email;
+				document.getElementsByName("facebook_uid")[0].value = response.id;
+				document.getElementsByName("facebook_pic")[0].value = 'http://graph.facebook.com/' + response.id + '/picture?type=normal';
+				document.getElementsByName("facebook_bday")[0].value = response.birthday;
+				document.login.submit();
+			});
+
+			document.getElementById('fb_login').style.display = 'none';
+		}
+		else if (response.status === 'not_authorized') 
+		{
+			// the user is logged in to Facebook, 
+			//but not connected to the app
+		}
+		else
+		{
+			// the user isn't even logged in to Facebook.
+		}		
+	});
+}
+
+</script>
+
           <p>Please log in to access your member information, view new opportunities, and to check earnings status.</p>
           <form action="user/login" method="post" name="login">
             <input type="hidden" name="iscoreg" value="">
@@ -166,128 +259,13 @@
 	    <input type="hidden" name="facebook_reauth" value="">
             <table>
               <tbody><tr>
-                <td colspan="2" align="center"><div id="fb_login"><fb:login-button autologoutlink="true" perms="email,user_birthday,user_hometown,user_location,user_checkins,publish_stream,offline_access,user_likes,sms"></fb:login-button></div></td>
+                <td colspan="2" align="center"><div id="fb_login"><fb:login-button autologoutlink="true" scope="email,user_birthday,user_hometown,user_location,user_checkins,publish_stream,offline_access,user_likes,sms"></fb:login-button></div></td>
               </tr>
               <tr>
                 <td><a href="http://mindfieldonline.com/user/login">Login without using Facebook</a></td>
               </tr>
             </tbody></table>
           </form>
-<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script>
-
-window.fbAsyncInit = function()
-{
-	FB.init({appId: '166922840036084', status: true, cookie: true, xfbml: true});
-	FB.Event.subscribe('auth.login', function(response) 
-	{
-		fblogin();
-	});
-	FB.Event.subscribe('auth.session', function(response) 
-	{
-		fblogin();
-	});
-	
-		
-	FB.getLoginStatus(function(response) 
-	{
-		if (response.session) 
-		{
-			FB.login(function(response)
-			{
-				if (response.session) 
-				{
-					if (response.perms) 
-					{
-						fblogin();
-					}
-					else
-					{
-						fblogin();
-					}
-				}
-				else
-				{
-					// user cancelled login
-				}
-			});
-		}
-		else
-		{
-			//user not logged in
-		}
-	});	
-	
-		
-};
-(function() 
-{
-	var e = document.createElement('script');
-	e.type = 'text/javascript';
-	e.src = document.location.protocol +
-	'//connect.facebook.net/en_US/all.js';
-	e.async = true;
-	document.getElementById('fb-root').appendChild(e);
-}());
-
-function fblogin()
-{
-	var fb_uid;
-	var fbloginstatus = FB.getLoginStatus(function(response) 
-	{
-		if (response.session) 
-		{
-			FB.login(function(response)
-			{
-				if (response.session) 
-				{
-					if (response.perms) 
-					{
-						// logged in and connected user, someone you know
-						fb_uid = response.session['uid'];
-						document.getElementById('fb_login').style.display = 'none';
-						var query = FB.Data.query('select email, uid, first_name, last_name, pic, birthday from user where uid=' + fb_uid);
-						query.wait(function(rows) 
-						{
-							//alert('Your name is ' + rows[0].first_name + ' ' + rows[0].last_name + '\nYour Facebook uid is ' + fb_uid + '\nYour email is ' + rows[0].email + '\nYour Facebook Pic is ' + rows[0].pic + '\nYour Facebook Birthday is ' + rows[0].birthday);
-							document.getElementsByName("facebook_email")[0].value = rows[0].email;
-							document.getElementsByName("facebook_uid")[0].value = rows[0].uid;
-							document.getElementsByName("facebook_pic")[0].value = rows[0].pic;
-							document.getElementsByName("facebook_bday")[0].value = rows[0].birthday;
-							document.login.submit();
-						});
-					}
-					else
-					{
-						// logged in and connected user, someone you know
-						fb_uid = response.session['uid'];
-						document.getElementById('fb_login').style.display = 'none';
-						var query = FB.Data.query('select email, uid, first_name, last_name, pic, birthday from user where uid=' + fb_uid);
-						query.wait(function(rows) 
-						{
-							//alert('Your name is ' + rows[0].first_name + ' ' + rows[0].last_name + '\nYour Facebook uid is ' + fb_uid + '\nYour email is ' + rows[0].email + '\nYour Facebook Pic is ' + rows[0].pic + '\nYour Facebook Birthday is ' + rows[0].birthday);
-							document.getElementsByName("facebook_email")[0].value = rows[0].email;
-							document.getElementsByName("facebook_uid")[0].value = rows[0].uid;
-							document.getElementsByName("facebook_pic")[0].value = rows[0].pic;
-							document.getElementsByName("facebook_bday")[0].value = rows[0].birthday;
-							document.login.submit();
-						});
-					}
-				}
-				else
-				{
-					// user cancelled login
-				}
-			});
-		}
-		else
-		{
-			//user not logged in
-		}
-	});
-}
-
-</script>
         </div>
         <h2>Not A Member?</h2>
         <div class="sidebar-content">
@@ -297,14 +275,16 @@ function fblogin()
         <h2>What's New</h2>
         <div class="sidebar-content">
 <ul>
+  <li>April 03, 2012<br>
+  - Change to Cashout Threshold for Checks</li>
+  <li>March 20, 2012<br>
+  - Great news for our 50+ Panelists</li>
   <li>July 29, 2011<br>
   - MindField Online is Gonna Make It Rain this Holiday Season</li>
   <li>July 26, 2011<br>
   - Amazon Cashout Option is Now Available</li>
   <li>July 26, 2011<br>
   - MindField Online Announces Facebook Login</li>
-  <li>February 03, 2011<br>
-  - ATTENTION MINDFIELD MEMBERS</li>
 </ul>
 
 <p><a href="page/news">See All News</a></p>
@@ -312,6 +292,8 @@ function fblogin()
         <h2>Recent Winners</h2>
         <div class="sidebar-content">
 <ul>
+  <li>Denise C. - Albuquerque, NM<br>
+  - January 2012 Poller Bear $50.00 Drawing Winner</li>
   <li>Michelle B. - Camden, ME<br>
   - $50.00 One Millionth Complete</li>
   <li>David B. - Springfield, MO<br>
@@ -319,8 +301,6 @@ function fblogin()
   <li>Ronald U. - Kingwood, TX<br>
   - $100.00 Facebook Drawing</li>
   <li>John D. - Loveland, OH<br>
-  - $100.00 Facebook Drawing</li>
-  <li>Yolanda C. - Schnecksville, PA<br>
   - $100.00 Facebook Drawing</li>
 </ul>
 
