@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruit.com.hk privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228072530id_/http%3A//www.recruit.com.hk/corporate/co_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruit.com.hk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215033id_/http%3A//www.recruit.com.hk/corporate/co_privacy_policy.aspx) for the most accurate reproduction.*
 
 # Job Search in Hong Kong | Find Jobs, Recruit Talent & Career Resources – Recruit
 
@@ -26,9 +26,9 @@ Recruit.com.hk collects information about user that is personally identifiable l
 
 Recruit.com.hk 收集能辨識使用者身分的信息，如姓名、地址、電郵地址、電話號碼；及沒有對外公開的人口統計學信息，包括國家、年齡、性別、職業、受聘及教育履歷。
 
-Occasionally, Recruit.com.hk may also collect additional personal data from user in connection with contests, surveys, or special offers, for such purposes as would enable us or our affiliates or the transferees of such data to provide website or other electronic services, which we believe, are suitable for or of interest to you.
+Occasionally, Recruit.com.hk may also collect additional personal data from user in connection with contests, surveys, or special offers, for such purposes as would enable us or our affiliates to provide website or other electronic services, which we believe, are suitable for or of interest to you.
 
-Recruit.com.hk 不時舉辦比賽、調查或特別優惠，有可能同時向參與者收集額外個人資料，目的是能使我們或我們的附屬機構或這些資料的受讓人來提供網站或其他電子化服務，我們相信這是適合或合乎你的利益。
+Recruit.com.hk 不時舉辦比賽、調查或特別優惠，有可能同時向參與者收集額外個人資料，目的是能使我們或我們的附屬機構來提供網站或其他電子化服務，我們相信這是適合或合乎你的利益。
 
 The purposes for which your personal data are used or are to be used included:
 
@@ -45,6 +45,10 @@ The purposes for which your personal data are used or are to be used included:
 3\. for direct marketing of our products and services.
 
 3\. 為直接推廣我們的產品及服務。
+
+4\. for recruitment purpose and internal analysis
+
+4\. 為招聘目的及我們內部的分析。
 
 The personal data of user will only be transmitted and disclosed to corporate clients of Recruit.com.hk ( for the purpose specified in the preceding paragraph or any directly related purpose) which have made specific requests for such data only if and when user has given his/her consent.
 
