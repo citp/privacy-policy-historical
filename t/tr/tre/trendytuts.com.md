@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendytuts.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152317id_/http%3A//trendytuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendytuts.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503044243id_/http%3A//trendytuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Tutorials, PSD to HTML, Wordpress Templates
 
