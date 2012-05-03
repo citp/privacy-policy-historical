@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bursttraffic.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102094234id_/http%3A//bursttraffic.net/publisher_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bursttraffic.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002137id_/http%3A//bursttraffic.net/publisher_privacy.php) for the most accurate reproduction.*
 
 # BurstTraffic.net Layers Publishers Network
 
