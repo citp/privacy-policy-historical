@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008070137id_/http%3A//www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232242id_/http%3A//www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
 
 # Help at The Book Depository
 
@@ -83,6 +83,8 @@ You can find out more about the way cookies work on [http://www.cookiecentral.co
 **Data transfer**  
 Under the Data Protection Act 1998, The Book Depository (Guernsey) Limited is required to tell you if it transfers or intends to transfer information which it holds about you to countries outside the European Economic Area ("EEA").
 
+The Book Depository Ltd is a subsidiary of Amazon.com, Inc. Amazon.com, Inc. and its controlled subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. Amazon has certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view the certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to learn more about the Safe Harbour programme, please send an e-mail to safeharbor@amazon.com. The Book Depository Ltd shares information only as described below, with its parent company Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Policy.
+
 The Book Depository (Guernsey) Limited currently transfers such information outside the EEA for secure storage on its servers which are currently located in the United States. Because The Book Depository (Guernsey) Limited servers are located in the United States, the transfer of all of The Book Depository (Guernsey) Limited data (including the personal details contained in your account) outside the EEA is necessary to enable The Book Depository (Guernsey) Limited to operate its website and provide products and information to you.
 
 By accessing and using The Book Depository (Guernsey) Limited website you are deemed to have accepted The Book Depository (Guernsey) Limited Terms and Conditions of Use, and to have consented to the transfer and storage of your personal information and data outside the EEA. If you do not wish any of your personal data or information to be stored or transferred outside the EEA, you may withdraw your consent to such at any time by notifying The Book Depository (Guernsey) Limited Customer Service Manager at the address at the end of this page. However, because The Book Depository (Guernsey) Limited servers are located outside the EEA, if you withdraw your consent, The Book Depository (Guernsey) Limited will no longer be able to provide you access to or use of its website. 
@@ -100,7 +102,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about our group of companies which we think you may find interesting.
 
-You may request details of personal information which we hold about you under the Data Protection (Bailiwick of Guernsey) Law. A small fee will be payable. If you would like a copy of the information held on you please write to:
+You may request details of personal information which we hold about you under the Data Protection (Bailiwick of Guernsey) Law. If you would like a copy of the information held on you please write to:
 
 Customer Services Manager,  
 The Book Depository (Guernsey) Limited,  
