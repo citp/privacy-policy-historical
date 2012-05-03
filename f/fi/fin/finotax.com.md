@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217110304id_/http%3A//finotax.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finotax.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233614id_/http%3A//finotax.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,15 +19,6 @@ We use third-party companies to serve ads and collect non-personally identifiabl
   * Google, as a third party vendor, uses cookies to serve ads on Finotax.com.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Finotax.com and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
-
-
-Some of our other advertising partners may use cookies and web beacons on our site. Our advertising partners include 
-
-  * Komli
-  * Adbrite
-  * Infolinks
-  * Kontera
 
 
 
