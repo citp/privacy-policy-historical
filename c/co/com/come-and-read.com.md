@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the come-and-read.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231701id_/http%3A//come-and-read.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the come-and-read.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223825id_/http%3A//come-and-read.com/privacy.php) for the most accurate reproduction.*
 
 # the Come and Read Article Directory | Privacy Statement
 
