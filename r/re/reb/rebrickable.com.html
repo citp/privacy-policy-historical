@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the rebrickable.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219062358id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rebrickable.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503144549id_/http%3A//rebrickable.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Rebrickable - Privacy Policy</title> 
 
-    <link href="/css/style.css?v=20111218" rel="stylesheet" type="text/css">
+    <link href="/css/style.css?v=20120430" rel="stylesheet" type="text/css">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feed/">
     
 	<!--[if IE]>
@@ -21,6 +21,9 @@
 	<link rel="apple-touch-icon-72x72" sizes="72x72" href="/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon-114x114" sizes="114x114" href="/apple-touch-icon-114x114.png">
 
+	<!-- Google Plus linkage -->
+	<link href="https://plus.google.com/117515181145682293511" rel="publisher">
+	
 	<!-- Facebook Stuff -->
 <meta property="og:image" content="http://rebrickable.com/img/robo3.png">    <!--
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
@@ -136,7 +139,7 @@
 		});
 		
 		/* Login */
-	
+
 		var modalcss = {
 			border: '1px solid #aa3838', 
 			'box-shadow': '0 0 25px #333',
@@ -175,7 +178,7 @@
 				//alert(data);
 				if (data.substring(0,7) == 'SUCCESS') {
 					$('#login_popup #login_error').show();
-					window.location = "/privacy.php";
+					window.location = "/privacy";
 				} else {
 					//alert(data);
 					$('#login_popup #login_error').text(data);
@@ -185,43 +188,6 @@
 		};
 		
 		/* Registration */
-		
-		$('#register').click(function() {
-			$('#register_popup #login_error').text("");
-			_gaq.push(['_trackEvent', 'login', 'register-popup']);
-			$.blockUI({ message: $('#register_popup'), css: modalcss});
-		});
-		$('#register2').click(function() {
-			$('#register_popup #login_error').text("");
-			_gaq.push(['_trackEvent', 'login', 'register2-popup']);
-			$.blockUI({ message: $('#register_popup'), css: modalcss});
-		});
-		$('#register_popup #close').click(function() { $.unblockUI(); });
-		$('#register_popup').keyup(function(e) {
-			if (e.keyCode == 13) { register(); }
-		});
-		$('#register_button').click(function() { register(); });
-		
-		function register() {
-			var dataString = $('#register_form').serialize();
-
-			$('#register_popup #login_error').text('Registering... Please wait.');
-			_gaq.push(['_trackEvent', 'login', 'register']);
-
-			$.ajax({type: "POST", url:"/aj/aj_register.php", data: dataString, success:function(data) {
-				//alert(data);
-				if (data.substring(0,7) == 'SUCCESS') {
-					$('#register_popup #login_error').text("An activation email has been sent to you (please check spam folder!). Please click the link in your email to activate your account and log in.");
-					$('#register_popup #login_error').show();
-				} else {
-					//alert(data);
-					$('#register_popup #login_error').text(data);
-					$('#register_popup #login_error').show();
-					_gaq.push(['_trackEvent', 'login', 'register', data]);
-				}
-				enable_form();
-			}});
-		};
 		
 		/* Forgotten Details */
 		
@@ -245,7 +211,6 @@
 				}
 			}});
 		});
-		
 		// Toggle panel displays
 		$('.panel .formtitle').live('click',function() {
 			$(this).parent().find('.panelbody').toggle();
@@ -254,7 +219,6 @@
 	})
 
 </script>
-
     <div id="login_popup" style="display:none" class="blue">
        	<div class="right" id="close"><img src="/img/x.png"></div>
         <h3>Please enter your logon details below.</h3>
@@ -280,36 +244,6 @@
             
         </form>
 	</div>
-
-    <div id="register_popup" style="display:none" class="blue">
-       	<div class="right" id="close"><img src="/img/x.png"></div>
-        <h3>Sign up to enable additional site features</h3>
-      	<form id="register_form">
-			<div class="form_row">
-		        <p>Please enter a valid email address to use as your logon name.</p>
-            	<span class="label">e-mail:</span>
-            	<input class="" type="text" name="email" id="email">
-            </div>
-			<div class="form_row">
-		        <p>Please enter a password, the only requirement is a minimum of 8 characters.</p>
-            	<span class="label">password:</span>
-            	<input class="" type="password" name="password" id="password">
-            </div>
-            <div class="clear"></div>
-            <h2>Why sign up?</h2>
-			<p>1. You can use unlimited sets in your build searches</p>
-			<p>2. You can add your loose parts to be considered in the searches</p>
-            <p>3. Instantly see your Build This % on all catalog sets/mocs</p>
-            <p>4. Many more features to be released soon</p>
-            <p>5. You can say it's for your kids, we won't tell ;)</p>
-      <div id="register_button" class="redbutton">
-                <p>Sign Up</p>
-            </div>
-            <div id="login_error"></div>
-            
-        </form>
-	</div>
-
     <div id="forgotten_popup" style="display:none" class="blue">
        	<div class="right" id="close"><img src="/img/x.png"></div>
         <h3>Forgotten Password</h3>
@@ -324,22 +258,28 @@
 		<div id="login_error"></div>
 	</div>
 
-
 	<div class="left">
     	<a href="/"><img src="/img/title.png?v3" width="287" height="100" class="left" title="Hi!" alt="Rebrickable"></a>
  	</div>
 
 
         <div id="session" class="right">
-            <div id="register" class="link">Sign Up</div>
+            <div><a href="/signup">Sign Up</a></div> 
             <div id="login" class="link">Login</div>
         </div>
+
+	<div class="right pad5">
+		<a href="http://www.facebook.com/Rebrickable" target="_new"><img src="/img/fb24.png"></a>
+		<a href="https://twitter.com/#!/Rebrickable" target="_new"><img src="/img/tw24.png"></a>
+		<a href="https://plus.google.com/117515181145682293511?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:24px;height:24px;"></a>
+	</div>
+
     <div id="menu" class="right">
       <ul>
         <li><a href="/pick_set" title="Find sets/mocs you can build">BUILD</a></li>
         <li><a href="/showstats" title="LEGO Statistics">STATS</a></li>
         <li><a href="/sets" title="LEGO catalog of sets/mocs">SETS</a></li>
-        <li><a href="/partpicker" title="Find and use parts">PARTS</a></li>
+        <li><a href="/parts" title="Find and use parts">PARTS</a></li>
         <li><a href="/mocs" title="Custom LEGO set designers and their creations (MOCs)">MOCS</a></li>
         <li><a href="/blog/" title="Rebrickable blog">BLOG</a></li>
         <li><form action="/sets" id="search">
@@ -428,7 +368,7 @@ collected through our website and not to information collected offline.<br><br>
                 <li><a href="/pick_set">Build Sets</a></li>
                 <li><a href="/showstats">LEGO® Statistics</a></li>
                 <li><a href="/sets">Set Catalog</a></li>
-                <li><a href="/partpicker">Part Picker</a></li>
+                <li><a href="/parts">Part Picker</a></li>
                 <li><a href="/mocs">MOC Designers</a></li>
                 <li><a href="/design_moc">Submit MOC</a></li>
                 <li><a href="/changes">Change Log</a></li>
@@ -449,32 +389,32 @@ collected through our website and not to information collected offline.<br><br>
         <div class="navcol">
             <p>Database Statistics</p>
             <ul>
-                <li>6104 x Sets</li>
-                <li>71 x MOCs</li>
-                <li>1096133 x Parts</li>
+                <li>8045 x Sets</li>
+                <li>198 x MOCs</li>
+                <li>1283389 x Parts</li>
             </ul>
         </div>
         <div id="fb-root"></div> <!-- HACK: moved here so FB btn doesnt suck -->
-	<div class="navcol">
-	    <p>Follow Rebrickable</p>
-	    <div class="follow">
 	
-		<div class="share">
-		    <div class="fb-like" data-href="facebook.com/pages/Rebrickable/244447922243907" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+		<div class="navcol">
+			<p>Follow Rebrickable</p>
+			<div class="follow">
+		
+			<div class="share">
+				<div class="fb-like" data-href="http://www.facebook.com/Rebrickable" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+			</div>
+			<div class="share">
+				<div class="g-plusone" data-size="medium" data-href="http://rebrickable.com"></div>
+			</div>
+			<div class="share">
+				<a href="/blog/feed/"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> Blog feed</span></a>
+			</div>
+			<div class="share">
+				<a href="/rss/newsets"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> New Sets</span></a>
+			</div>
+			
+			</div>
 		</div>
-		<div class="share">
-		    <div class="g-plusone" data-size="medium" data-href="http://rebrickable.com"></div>
-		</div>
-		<div class="share">
-		    <a href="/blog/feed/"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> Blog feed</span></a>
-		</div>
-		<div class="share">
-		    <a href="/rss/newsets"><img src="/img/rss2.png" alt="RSS" title="RSS"><span> New Sets</span></a>
-		</div>
-	    
-	    </div>
-	
-	</div>
 
         <div class="clear"></div>
         
@@ -483,9 +423,11 @@ collected through our website and not to information collected offline.<br><br>
     <div id="footer_legal">
        
         <div class="clear">
-            <p>LEGO® is a trademark of <a href="http://www.lego.com">The LEGO Group</a> of companies which does not sponsor, authorize or endorse this site.</p>
+            <p>LEGO® is a trademark of <a href="http://www.lego.com">The LEGO Group</a> of companies which does not sponsor, authorize or endorse this site. Even though it's awesome ;)</p>
             <p>© <a href="http://rebrickable.com">Rebrickable.com</a>. All rights reserved.</p>
-        </div>
+			<p><i>This site is hosted by <a href="http://www.linode.com/?r=86f6a984dd8000c603f803bcda44a8defedc027a">Linode</a></i></p>
+
+<i>Page was generated in 0.007 seconds on Friday, May 04, 2012 01:45 UTC.</i>        </div>
     </div>
     
     <div class="clear"></div>
