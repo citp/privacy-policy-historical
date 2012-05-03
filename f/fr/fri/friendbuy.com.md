@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendbuy.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205012920id_/http%3A//www.friendbuy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendbuy.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220739id_/http%3A//www.friendbuy.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Friendbuy
+# Friendbuy - Social Sharing Widgets for Retailers and Publishers,Sharing Widgets,Social MarketingPrivacy
 
 Last Updated 25, 2011
 
