@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231211139id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222502id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -8,13 +8,9 @@
 
 #### Low End Mac Reader Specials
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2) **[TypeStyler 11](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2)** is now in the Mac App Store!! -- Special Holiday Price of $59.95!! -- To Buy From The Mac App Store [Click Here Now!!](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/424/clickHTML?ajkey=6331B50BCF3A96D6AE81E44300001BAC00001B2200000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFF0D48E0A2)
+[Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/430/clickHTML?ajkey=CC5F8585CF3A96D6CFF1EDE20000289C000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFED126508) for the Right Mac Memory. Most Popular: 16GB from $128; 8GB from $50. MacBook Pro & Mac mini Kits up to 16GB. iMac up to 32GB & Mac Pro now up to 128GB. - [Macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/430/clickHTML?ajkey=CC5F8585CF3A96D6CFF1EDE20000289C000055D200000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFED126508)
 
 [](http://www.macpokeronline.com/) Don't install Parallels to play poker online! [Poker Mac](http://www.imaconlinepoker.com/ "Poker Mac") will show you how to download and install a native Mac poker and [Mac Casino](http://www.pokeronamac.com/casinos/mac/ "Mac Casino") applications in minutes.
-
-Ready for **OS X 10.7 Lion**? Get your copy from [the Mac App Store](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/625/clickHTML?ajkey=D3F80455CF3A96D6AE81E44300005347000053480000247A00001B6AFFFFFF91FFFFFF91FFFFFFFFE17C6984) for just $29.99.
-
-[**OWC:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/800/clickHTML?ajkey=6C2ADC64CF3A96D6AE81E44300002FA0000053C60000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF0E8F08E9) Genuine Apple MagSafe power adapters, refurbished or repaired. Replace a damaged adapter or pick up a spare! As low as $19.99 | [macsales.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/800/clickHTML?ajkey=6C2ADC64CF3A96D6AE81E44300002FA0000053C60000391B00001B6AFFFFFF91FFFFFF91FFFFFFFF0E8F08E9)
 
 International privacy standards require businesses to:
 
@@ -37,15 +33,15 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 
 [Dan Knight](https://web.archive.org/email/dan-knight.htm) , publisher, Low End Mac
 
-[Low End Mac](https://web.archive.org/) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Entire Low End Mac website copyright ©1997-2011 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Apple, the Apple logo, Macintosh, iPad iPhone, iMac, iPod, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
+[Low End Mac](https://web.archive.org/) is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Entire Low End Mac website copyright ©1997-2012 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Low End Mac, LowEndMac, and lowendmac.com are trademarks of Cobweb Publishing Inc. Apple, the Apple logo, Macintosh, iPad iPhone, iMac, iPod, MacBook, MagSafe, Mac Pro, Apple TV, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
   Advice is presented in good faith, but what works for one may not work for all. Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Email may be published at our discretion unless marked "not for publication"; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. Letters may be edited for length, context, and to match [house style](https://web.archive.org/styleguide/index.shtml).  
-  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html) � 
+  [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [iBook G3/466 MHz (FireWire)](https://web.archive.org/pb2/firewire-ibook-g3-466-mhz.html), introduced 2000.09.13. The first Mac to use the PowerPC 750cx includes FireWire and DVD-ROM.
-* List of the Day: [Mac UK](http://lowendmac.com/lists/mac-uk.shtml) is for Mac users in the United Kingdom.  
+* Mac of the Day: [17" PowerBook G4/1 GHz](https://web.archive.org/pb2/17in-powerbook-g4-1-ghz.html), introduced 2001.01.07. The first PowerBook with a 17" display, also the first with FireWire 800.
+* List of the Day: [Old Mac MP](http://lowendmac.com/lists/oldmacmp.html) covers 604-based multiprocessor Macs and clones.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
