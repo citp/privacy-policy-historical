@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minorityaffairs.gov.in privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216081735id_/http%3A//minorityaffairs.gov.in/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minorityaffairs.gov.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013018id_/http%3A//www.minorityaffairs.gov.in/pp) for the most accurate reproduction.*
 
-# Privacy Policy | Ministry of Minority Affairs
+# Privacy Policy |
 
 Last updated 20 April 2011 - 11:19am 
 
