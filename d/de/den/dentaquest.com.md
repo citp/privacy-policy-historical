@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206045113id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224144id_/http%3A//dentaquest.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # DentaQuest - Privacy Statement
 
@@ -99,4 +99,4 @@ Boston, MA 02114
 
 All complaints will be investigated and you will not suffer retaliation for filing a complaint. You may also file a complaint regarding health information with the Secretary of Health and Human Services in Washington, D.C.
 
-[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20111206045113id_/http%3A//dentaquest.com/pdfs/DentaQuest%20Privacy%20Notice%20Web.pdf)
+[Please click here for the PDF version of our Privacy Policy.](https://web.archive.org/web/20120503224144id_/http%3A//dentaquest.com/pdfs/DentaQuest%20Privacy%20Notice%20Web.pdf)
