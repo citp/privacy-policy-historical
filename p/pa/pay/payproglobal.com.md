@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120210849id_/https%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payproglobal.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503221159id_/https%3A//www.payproglobal.com/Legal/privacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy policy 1. PayPro Privacy Statement Your privacy is important to us - we would like to insure that you have a positive buying experience in our store and hope to be able to welcome you back many times. We have created a set of privacy rules for us and our suppliers in order to guarantee you maximum privacy when shopping at PayPro
 
@@ -17,21 +17,22 @@ privacy and your personal data is an important aspect of the way we create, orga
 on-line and off-line.
 Our privacy policy covers PayPro Global Inc. and its Web site(s), PayPro U.S. Inc. and PayPro Europe Limited:
 PAYPRO GLOBAL, INC.
-250 The East Mall, Suite 1117
-Toronto, ON, M9B 6L3
+225 The East Mall, Suite 1117
+Toronto, ON, M9B 0A9
 Canada
 URL: www.payproglobal.com
 PAYPRO U.S. INC.
-1209 Orange Street
-Wilmington, DE, 19801
+3635 Johnson Ave, Suite 6M
+Bronx, 10463
 USA
 PAYPRO EUROPE LIMITED
-DALTON HOUSE, 60 WINDSOR AVENUE,
-LONDON, SW19 2RR
-UK
+Berkley Square House
+Berkley Square
+London, W1J 6BD
+United Kingdom
 If you have any questions about our privacy policy, please contact:
 Name: Tibor Madjar
-Address: 250 The East Mall, Suite 1117, Toronto, ON, M9B 6L3
+Address: 225 The East Mall, Suite 1117, Toronto, ON, M9B 0A9, Canada
 Phone: +1-646-873-6857 Ext:704
 Fax: +1-416-981-7818 attn: Tibor Madjar
 URL: www.payproglobal.com
@@ -39,9 +40,9 @@ URL: www.payproglobal.com
 You can access our Web site home page and browse our sites without disclosing personal data. We collect your
 personal data only with your knowledge or your consent. Aside from your automatically logged information, we do
 not collect any other data about you. We collect the personal data that you volunteer on registration, order,
+
+
 survey, competition, other forms or by email.
-
-
 4. Cookies
 We use cookies only with your explicit consent in order to hold session information, improve security during a
 visitor's session online or improve the usability of our Web site during a visit.
@@ -77,9 +78,9 @@ purposes and as are specified on each occasion of change of purpose.
 - Use Limitation Principle
 Personal data should not be disclosed, made available or otherwise used for purposes other than those specified in
 accordance with Paragraph 9 [Purpose Specification Principle] of the OECD Privacy Guidelines except:
+
+
 a) with the consent of the data subject; or
-
-
 b) by the authority of law.
 - Security Safeguards Principle
 Personal data should be protected by reasonable security safeguards against such risks as loss, unauthorized
