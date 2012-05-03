@@ -1,542 +1,1236 @@
-<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126100457id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leerburg.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503091537id_/http%3A//leerburg.com/privacy.htm) for the most accurate reproduction.-->
 
-<html><!-- InstanceBegin template="/Templates/leerburg.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Leerburg | Information about our Organization and Web site</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Leerburg | Information about our Organization and Website</title>
 <meta name="Keywords" content="leerburg, dog, training, information, technologies, video">
 <meta name="Description" content="Modern information and communication technologies play a fundamental role in the activities of an organization like Leerburg Video Production. We are based in the USA.">
-<!-- InstanceEndEditable -->
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-<link rel="stylesheet" type="text/css" href="/CSSstyles.css">
-<script src="rotate.js">
+
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="http://leerburg.com/jquery.ad-gallery.css">
+<script src="https://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script src="https://leerburg.com/popup.js" type="text/javascript"></script>
+<script src="https://leerburg.com/popup2.js" type="text/javascript"></script>
+<script src="https://leerburg.com/popup3.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://leerburg.com/jquery.ad-gallery.js"></script>
+<script type="text/javascript">
+$(function() {
+  $('img.image100').data('ad-desc', 'You can add descriptions with the class name of the image.');
+  var galleries = $('.ad-gallery').adGallery();
+  $('#switch-effect').change(
+    function() {
+      galleries[0].settings.effect = $(this).val();
+      return false;
+    }
+  );
+});
+
+$(document).ready(function() {
+
+	//Default Action
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+	
+	//On Click Event
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+
+});
 </script>
-</head>
 
-<body bgcolor="#333366" onload="cycleAds()">
 
-<div id="banner">
-<table width="711" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td align="left"><img src="http://leerburg.com/includes/leerburgcom.jpg" width="711">
-    </td>
-  </tr>
-</tbody></table>
-</div>
 
-<div id="cart">
-    <div style="padding: 5px 5px 5px 5px">
-<table cellspacing="3">
-<tbody><tr>
-<td colspan="3" align="center"><span class="SCheadingredtext">My Cart</span></td>
-</tr>
-			<tr class="SCtext">
-			<td align="center" width="50%">Product</td><td align="center">Qty</td><td align="center">Price</td>
-			</tr>
-					<tr>
-		<td align="center" class="SCText">SubTotal $0.00		</td>
-		<td colspan="2" align="right" valign="bottom">
-		<a href="cart/viewcart.php"><img src="/cart/div/checkout.png" alt="checkout"></a>		</td>
-		</tr>
-		</tbody></table>
-    <br>
-</div>
-    <div style="padding: 0px 0px 0px 0px">
-    <table bgcolor="#333366" width="100%" border="0">
-        <tbody><tr></tr>
-        <tr>
-            <td>
-                <br>
-                <a href="http://www.leerburg.com/qa"><img src="http://leerburg.com/Photos/askleerburg.jpg" border="0" alt="Ask Leerburg your training questions"></a><br><br>
-            </td>
-            
-        </tr>
-        <tr>
-            <td>
-                <img src="http://leerburg.com/Photos/paypal_side.jpg">          
-            </td>
-        </tr>       
-    </tbody></table>
-    </div>
-    
-</div>
+<script type="text/javascript" src="https://leerburg.com/v2/jquery.hoverIntent.minified.js"></script><script type="text/javascript">$(document).ready(function() {
 
-<div id="layer1">
+	function addMega(){  
+      $(this).addClass("dropdown_3columnsh"); 
+      }  
+    function removeMega(){  
+      $(this).removeClass("dropdown_3columnsh");  
+      }  
+	  
+	     var megaConfig = {
+         interval: 100,
+         sensitivity: 4,
+         over: addMega,
+         timeout: 400,
+         out: removeMega
+    };
+    $("li.dropdown_3columns").hoverIntent(megaConfig)
+});</script><script type="text/javascript">
+function checkOptions(i, numOptions)  // Use this SINGLE function for every buy button the page that is set up to use it ;)
+{
+                okToSubmit=true;
+                if(document.getElementById("option1_"+i).value=="select") okToSubmit=false;
+                if(numOptions==2)
+                {
+                                if(document.getElementById("option2_"+i).value=="select") okToSubmit=false;
+                }
+                if(okToSubmit==false) alert("Please select an option.");
+                return okToSubmit;
+}
+</script><script>
+// Product reviews - For the "Was this review helpful? Yes/No" buttons ("review_feedback" table)
+// This is different from the original updateHelpful() function, which was used on qna.php
+// Only one answer per IP address is allowed
+function updateHelpful2(reviewID, helpful)
+{
+	$('#helpful_'+reviewID).load('ajax/updateHelpful.php?reviewid='+reviewID+'&helpful='+helpful+'&time=04:15:37');
+}
+// Undo - deletes user's Yes/No entry in review_feedback for this review
+function undoHelpful2(reviewID, helpfulID)
+{
+	$('#helpful_'+reviewID).load('ajax/updateHelpful.php?reviewid='+reviewID+'&helpful=undo&helpfulid='+helpfulID+'&time=04:15:37')
+}
+</script><link href="https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css"></head>
 
-   
-</div><div id="leftcontent">
-<pre>
-<a class="sideHeading" href="http://leerburg.com/search/">Search Our Site</a>
-<form id="form1" name="form1" method="get" action="http://leerburg.com/search/dosearch.php"><input name="terms" type="text" size="15" value=""> <input type="image" name="Submit" align="absbottom" src="http://leerburg.com/includes/search.jpg"></form>
+
+
+
+
+
+
+
+
+
+<body>
+<div class="topbar">
+	<a name="top"></a>	
+	</div> 
+
+<div id="container" style="padding-top:8px;">
+
+<div style="float:left;color:#cccccc;">| &nbsp;
+
+ 	<a href="http://leerburg.com/cart/login.php" class="tbar">Log In</a> &nbsp; | &nbsp; 
+  	<a href="http://leerburg.com/cart/register.php" class="tbar">Sign Up</a> &nbsp; | &nbsp; 
+
+<a href="http://leerburg.com/cart/viewwishlist.php" class="tbar">Wish List</a> &nbsp; |</div>
+		<div style="float:right;margin-top:-4px;"><table><tbody><tr><td><img src="https://leerburg.com/Photos/paypaltop.png" alt="We accept PayPal."></td><td><img src="https://leerburg.com/Photos/mastercard.png" alt="We accept Mastercard."></td><td><img src="https://leerburg.com/Photos/visa.png" alt="We accept Visa."></td><td>&nbsp;</td><td><span class="cart_btn2"><a href="http://leerburg.com/cart/viewcart.php" class="cart_btn_text"><span style="color:#ffffff;">SHOPPING CART (0)</span></a></span></td><td><span class="cart_btn"><a href="http://leerburg.com/cart/viewcart.php" class="cart_btn_text">CHECKOUT</a></span></td></tr></tbody></table></div>
+
+	<div style="float:left;padding-top:5px;padding-bottom:4px;clear:both;"><a href="http://leerburg.com/"><img src="https://leerburg.com/Photos/red_logo.png" alt="Leerburg"></a></div>		
+	<div style="float:right;">
+		<div style="text-align:center;padding-top:5px;padding-right:0px;padding-left:55px;">
+			<ul id="topnav">
+				<li style="border-left:1px solid #676767;"><a href="http://www.leerburg.com" class="topmenu">HOME</a></li>
+				<li><a href="http://leerburg.com/flix/index.php" class="topmenu">VIDEO ON DEMAND</a></li>
+				<li><a href="http://leerburg.com/webboard/forum.php" class="topmenu">WEBBOARD</a></li>
+				<li><a href="http://leerburg.com/qa/index.php" class="topmenu">Q &amp; A</a></li>
+				<li><a href="http://leerburg.com/catalog.htm" class="topmenu">FREE CATALOG</a></li>
+				<li><a href="http://leerburg.com/contact.htm" class="topmenu">CONTACT US</a></li>
+			</ul>
+		</div>
+	</div>
+		
+	<br><br>
+	
+	<div id="nav_menu">
+	  <div style="float:left;padding-top:12px;padding-left:10px;width:500px;border:0px;">
+			<ul id="navbar">
+				<li class="dropdown_3columns"><a href="http://leerburg.com/dvdbooks.htm" class="nav" style="border-left:1px solid #6E6E6E">Training Videos &amp; Books</a>
+				
+				<div class="dd3">
+						<div class="column5">
+							<span class="tab_pretitle">SHOP FOR</span>
+							<span class="tab_title"><br>VIDEOS &amp; BOOKS</span><br><br>
+							
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>											
+						</div>
+					  	
+						<div class="column5">
+							<a href="http://leerburg.com/flix" class="linkhead">VIDEO ON DEMAND</a><br>		
+						
+							<a href="http://leerburg.com/dvd.htm" class="linkhead">DVDs</a>
+							<a href="http://leerburg.com/populardvds.htm">Most Popular</a>
+							<a href="http://leerburg.com/ellisdvds.htm">Michael Ellis</a>
+							
+                            <a href="http://leerburg.com/agilitydvds.htm">Agility</a>
+                            <a href="http://leerburg.com/breedingdvds.htm">Breeding</a>
+                            <a href="http://leerburg.com/dominantdvds.htm">Dominant Dog</a>
+                            <a href="http://leerburg.com/ecollardvds.htm">Ecollar</a>
+                            <a href="http://leerburg.com/horsedvds.htm">Horse DVD</a>
+                            <a href="http://leerburg.com/ellisdvds.htm">Michael Ellis</a>
+                            <a href="http://leerburg.com/miscdvds.htm">Miscellaneous</a>
+							<a href="http://leerburg.com/rottdvds.htm">&nbsp;&nbsp;‣ Rottweiler</a>
+                            <a href="http://leerburg.com/populardvds.htm">Most Popular</a>
+                            <a href="http://leerburg.com/noseworkfoundation.htm">Nosework</a>
+							<a href="http://leerburg.com/obediencedvds.htm">Obedience Training</a>
+							<a href="http://leerburg.com/policedvds.htm">Police Service</a>
+                           
+							
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/protdvds.htm">Protection/Bite Sports</a>
+							<a href="http://leerburg.com/frenchringdvds.htm">&nbsp;&nbsp;‣ French Ring Sport</a>
+							<a href="http://leerburg.com/knpvdvds.htm">&nbsp;&nbsp;‣ KNPV</a>
+                            <a href="http://leerburg.com/mondiodvds.htm">&nbsp;&nbsp;‣ Mondio Ring</a>
+							<a href="http://leerburg.com/schutzhunddvds.htm">&nbsp;&nbsp;‣ Schutzhund</a>
+							<a href="http://leerburg.com/schutzcompdvds.htm">&nbsp;&nbsp;&nbsp;&nbsp;- Schutzhund Competitions</a>
+                           	<a href="http://leerburg.com/puppydvds.htm">Puppy Training</a>
+                            <a href="http://leerburg.com/sheepdvds.htm">Sheep Herding</a>
+							<a href="http://leerburg.com/showsdvds.htm">Shows</a>
+							<a href="http://leerburg.com/belgianringdvds.htm">&nbsp;&nbsp;‣ Belgian Ring</a>
+							<a href="http://leerburg.com/bundessiegerdvds.htm">&nbsp;&nbsp;‣ Bundessieger</a>
+                            <a href="http://leerburg.com/dvgdvds.htm">&nbsp;&nbsp;‣ DVG</a>
+                            <a href="http://leerburg.com/meventsdvds.htm">&nbsp;&nbsp;‣ Mondio Events</a>
+							<a href="http://leerburg.com/schutzcompdvds.htm">&nbsp;&nbsp;‣ Schutzhund Competition</a>
+							<a href="http://leerburg.com/siegerdvds.htm">&nbsp;&nbsp;‣ Sieger Shows</a>	
+							<a href="http://leerburg.com/trackingdvds.htm">Tracking</a>
+							<a href="http://leerburg.com/dvd.htm"><b>View all DVDs</b></a><br>
+							
+							<a href="http://leerburg.com/combo.htm" class="linkhead">DVD SETS</a><br>												
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/books.htm" class="linkhead">BOOKS</a>
+							<a href="http://leerburg.com/agilitybooks.htm">Agility</a>
+							<a href="http://leerburg.com/behaviorbooks.htm">Behavioral Problems</a>
+							<a href="http://leerburg.com/clickerbooks.htm">Clicker Training</a>
+							<a href="http://leerburg.com/electronicbooks.htm">eBooks</a>
+							<a href="http://leerburg.com/firstaidbooks.htm">First Aid</a>
+							<a href="http://leerburg.com/miscbooks.htm">Miscellaneous</a>
+                            <a href="http://leerburg.com/noseworkbooks.htm">Nosework</a>
+							<a href="http://leerburg.com/nutritionbooks.htm">Nutrition &amp; Health</a>
+							<a href="http://leerburg.com/protbooks.htm">Protection Dog Training</a>
+							<a href="http://leerburg.com/schutzhundbooks.htm">Schutzhund</a>
+							<a href="http://leerburg.com/srbooks.htm">Search &amp; Rescue</a>
+							<a href="http://leerburg.com/posteritems.htm">Posters</a>
+							<a href="http://leerburg.com/workingbooks.htm">Working Dogs</a>
+							<a href="http://leerburg.com/books.htm"><b>View all books</b></a><br>
+                            
+                            <a href="http://leerburg.com/dogtrainingebooks.htm" class="linkhead">LEERBURG eBOOKS</a><br>										
+						</div>
+                        
+						<!--FEATURED PRODUCT FOR VIDEOS AND BOOKS-->
+                        
+						<div class="columnLast">
+						    <span class="tab_pretitle">FEATURED DVD</span>
+								<a href="http://leerburg.com/408.htm" style="padding:0px;margin:0px;"><span class="tab_title">Foundation Fundamentals 6-DVD Set</span></a><br>
+							<center><a href="http://leerburg.com/408.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/408.png"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;text-align:justify;">The Foundation Fundamentals program is designed for all dogs at any skill level, whether a puppy or an adult. The purpose of this program is to build specific skills that your dog needs before you begin his obstacle training.</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/408.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END VIDEOS AND BOOKS-->
+					 </div>					 
+				
+				</li>
+				
+				<li class="dropdown_3columns"><a href="http://leerburg.com/equip.htm" class="nav" rel="equipment">Training Gear</a>
+				
+				<div class="dd3" style="margin-left:-304px;">
+						<div class="column5">
+							<span class="tab_pretitle">SHOP FOR</span>
+							<span class="tab_title"><br>TRAINING GEAR</span><br><br>
+							
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>											
+						</div>
+					  	
+						<div class="column5">
+							<a href="http://leerburg.com/equip.htm" class="linkhead">GENERAL DOG GEAR</a>
+							<a href="http://leerburg.com/baitbag.htm">Bait Bags</a>
+                            <a href="http://leerburg.com/dogbeds.htm">Beds, Mats, &amp; Heating Pads</a>
+							<a href="http://leerburg.com/bellswhistles.htm">Bells &amp; Whistles</a>
+                            <a href="http://leerburg.com/clickertraining.htm">Clicker/Marker Training</a>
+                            <a href="http://leerburg.com/collars.htm">Collars</a>
+                            <a href="http://leerburg.com/electric.htm">&nbsp;&nbsp;‣ Ecollars</a>
+                            <a href="http://leerburg.com/cratepenfence.htm">Crates, Pens, &amp; Fences</a>
+                            <a href="http://leerburg.com/crate.htm">&nbsp;&nbsp;‣ Crates</a>
+							<a href="http://leerburg.com/crateaccessories.htm">&nbsp;&nbsp;‣ Crate Accessories</a>
+							<a href="http://leerburg.com/doggates.htm">&nbsp;&nbsp;‣ Gates and Pens</a>
+							<a href="http://leerburg.com/ingroundfence.htm">&nbsp;&nbsp;‣ In-Ground Fencing</a>
+                            <a href="http://leerburg.com/temperature.htm">&nbsp;&nbsp;‣ Shade &amp; Temp. Control</a>
+                            <a href="http://leerburg.com/dogdishes.htm">Dishes</a>
+                           	<a href="http://leerburg.com/alldumbbells.htm">Dumbbells</a>
+                            <a href="http://leerburg.com/grooming.htm">Grooming</a>
+                            <a href="http://leerburg.com/harnesses.htm">Harnesses</a>
+                            <a href="http://leerburg.com/leashes.htm">Leashes</a>
+							<a href="http://leerburg.com/clickertraining.htm">Marker Training Equip.</a>
+                            <a href="http://leerburg.com/muzzle.htm">Muzzles</a>
+							<a href="http://leerburg.com/nighttime.htm">Night Safety</a>
+							<a href="http://leerburg.com/obedienceequip.htm">Obedience Equip.</a>
+                            <a href="http://leerburg.com/smdogequip.htm">Small Dog Equipment</a>
+                            <a href="http://leerburg.com/trainersvests.htm">Training Vests</a>
+							<a href="http://leerburg.com/travelaccessories.htm">Travel Accessories</a>
+                            <a href="http://leerburg.com/treat.htm">Treats</a>
+                            <a href="http://leerburg.com/puppytug.htm">Tugs</a>
+							<a href="http://leerburg.com/equip.htm"><b>All General Dog Gear</b></a>											
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/newpupequip.htm" class="linkhead">PUPPY</a>
+                            <a href="http://leerburg.com/breedwhelp.htm">Breeding Equip.</a>
+							<a href="http://leerburg.com/aiequip.htm">&nbsp;&nbsp;‣ Artificial Insemination</a>
+                            <a href="http://leerburg.com/tattooequip.htm">&nbsp;&nbsp;‣ Tattoo Equipment</a>
+							<a href="http://leerburg.com/whelpingequip.htm">&nbsp;&nbsp;‣ Whelping Equip.</a>
+							<a href="http://leerburg.com/puppybooks.htm">Books</a>
+                            <a href="http://leerburg.com/puppycollars.htm">Puppy Collars</a>
+                            <a href="http://leerburg.com/puppypens.htm">Puppy Crates/Pens</a>
+							<a href="http://leerburg.com/puppydvds.htm">Puppy DVDs</a>
+							<a href="http://leerburg.com/puppytoy.htm">Puppy Toys</a>
+							<a href="http://leerburg.com/newpupequip.htm"><b>All Puppy Equipment</b></a><br>
+													
+							<a href="http://leerburg.com/servicedog.htm" class="linkhead">SERVICE DOG</a>
+							<a href="http://leerburg.com/workingbooks.htm">Books</a>
+							<a href="http://leerburg.com/lawenforcement.htm">Police Dogs</a>
+							<a href="http://leerburg.com/bitetrainequip.htm">&nbsp;&nbsp;‣ Bite Training Equip.</a>
+							<a href="http://leerburg.com/bitebars.htm">&nbsp;&nbsp;‣ Bite Wedges</a>
+							<a href="http://leerburg.com/bitesuits.htm">&nbsp;&nbsp;‣ Bite Suits &amp; Scratch Pants</a>
+							<a href="http://leerburg.com/legsleeve.htm">&nbsp;&nbsp;‣ Leg Sleeves</a>
+                            <a href="http://leerburg.com/muzzle.htm">&nbsp;&nbsp;‣ Muzzles</a>
+							<a href="http://leerburg.com/bitesleeves.htm">&nbsp;&nbsp;‣ Protective Sleeves</a>
+							<a href="http://leerburg.com/puppytug.htm">&nbsp;&nbsp;‣ Tugs</a>
+                            <a href="http://leerburg.com/whips.htm">&nbsp;&nbsp;‣ Whips and Sticks</a>
+                            <a href="http://leerburg.com/SRequip.htm">Search &amp; Rescue Equip.</a>
+							<a href="http://leerburg.com/servicevests.htm">Service Dog Vests</a>
+							<a href="http://leerburg.com/trackequip.htm">Tracking Equip.</a>
+							<a href="http://leerburg.com/bandanas.htm">Working Dog Bandanas</a>
+							<a href="http://leerburg.com/servicedog.htm"><b>All Service Dog Equipment</b></a>	
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/sportdog.htm" class="linkhead">DOG SPORTS</a>
+							<a href="http://leerburg.com/agilityequip.htm">Agility</a>
+							<a href="http://leerburg.com/blinds.htm">Blinds, Jumps, and Hurdles</a>
+                            <a href="http://leerburg.com/bitetrainequip.htm">Biting Sports (See <i>Police Dogs</i>)</a>
+                            <a href="http://leerburg.com/schutzhundbooks.htm">Books</a>
+							<a href="http://leerburg.com/noseworkequip.htm">Nosework</a>
+							<a href="http://leerburg.com/obedienceequip.htm">Obedience</a>
+							<a href="http://leerburg.com/schutzhundequip.htm">Schuzthund</a>
+							<a href="http://leerburg.com/sportdog.htm"><b>All Dog Sports Equipment</b></a>	<br>
+							
+							<a href="http://leerburg.com/leashcollar.htm" class="linkhead">LEASHES &amp; COLLARS</a>
+							
+							<a href="http://leerburg.com/collars.htm">Collars</a>
+                            <a href="http://leerburg.com/electric.htm">Ecollars/Remote Collars</a>
+							<a href="http://leerburg.com/harnesses.htm">Harnesses</a>
+                            <a href="http://leerburg.com/amishleather.htm">Leerburg Amish Leather</a>
+							<a href="http://leerburg.com/leashes.htm">Leashes</a>
+							<a href="http://leerburg.com/lcone.htm">&nbsp;&nbsp;‣ Leash Collar Combo</a>
+                            <a href="http://leerburg.com/amishleashes.htm">&nbsp;&nbsp;‣ Leerburg Amish Leather</a>
+							<a href="http://leerburg.com/longlines.htm">&nbsp;&nbsp;‣ Long Lines</a>
+                            <a href="http://leerburg.com/otherleashes.htm">&nbsp;&nbsp;‣ Other Lines &amp; Leashes</a>
+							<a href="http://leerburg.com/shortleash.htm">&nbsp;&nbsp;‣ Short Leashes</a>
+                            <a href="http://leerburg.com/prongcollars.htm">Prong Collars</a>
+							<a href="http://leerburg.com/leashcollar.htm"><b>All Leashes &amp; Collars</b></a>	<br>
+														
+							<a href="http://leerburg.com/miscellaneous.htm" class="linkhead">MISCELLANEOUS</a><br>
+                            
+                            <a href="http://leerburg.com/apparel.htm" class="linkhead">APPAREL</a>										
+						</div>
+						
+                         <!--FEATURED PRODUCT FOR TRAINING GEAR-->
+                        
+						<div class="columnLast">
+						    <span class="tab_pretitle">FEATURED ITEM</span>
+								<a href="http://leerburg.com/obedienceleash.htm" style="padding:0px;margin:0px;"><span class="tab_title">Leather Obedience Leash</span></a><br>
+							<center><a href="http://leerburg.com/obedienceleash.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/5121.jpg"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;">This short, leather drag leash is perfect for those times when a full length leather leash isn’t necessary. We like these for precision heeling work with a prong collar while transitioning to off leash obedience work. It is light enough that the dog doesn’t notice it and it’s strong enough to use for a correction if necessary. The length makes it easy to grab and it’s just “long enough” without having a lot of excess to get in your way.</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/obedienceleash.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END TRAINING GEAR-->
+					 </div>	
+				
+				</li> 
+				
+				<li class="dropdown_3columns"><a href="http://leerburg.com/toy.htm" class="nav">Toys</a>
+				
+				<div class="dd3" style="margin-left:-388px;">
+						<div class="column5">
+							<span class="tab_pretitle">SHOP FOR</span>
+							<span class="tab_title"><br>DOG TOYS</span><br><br>
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>											
+						</div>
+					  	
+						<div class="column5">
+							<a href="http://leerburg.com/puppytoy.htm" class="linkhead">PUPPY TOYS</a><br>
+							
+							<a href="http://leerburg.com/watertoys.htm" class="linkhead">WATER TOYS</a><br>
+							
+							<a href="http://leerburg.com/alldumbbells.htm" class="linkhead">DUMBBELLS</a><br>
+							
+							<a href="http://leerburg.com/tosstoys.htm" class="linkhead">TOSS &amp; RETRIEVE</a>
+							<a href="http://leerburg.com/balls.htm">Balls</a>
+                            <a href="http://leerburg.com/frisbees.htm">Frisbees</a>
+                            <a href="http://leerburg.com/launchertoys.htm">Launchers</a>
+							<a href="http://leerburg.com/tosstoys.htm"><b>All Toss &amp; Retrieve Toys</b></a>										
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/interactivetoys.htm" class="linkhead">INTERACTIVE</a>
+							<a href="http://leerburg.com/bitebars.htm">Bite Wedges</a>
+                            <a href="http://leerburg.com/ropetoys.htm">Rope</a>
+							<a href="http://leerburg.com/tosstoys.htm">Toss &amp; Retrieve</a>
+							<a href="http://leerburg.com/puppytug.htm">Tugs</a>
+							<a href="http://leerburg.com/interactivetoys.htm"><b>All Interactive Toys</b></a><br>
+							
+							<a href="http://leerburg.com/treattoys.htm" class="linkhead">TREAT TOYS</a>
+							<a href="http://leerburg.com/everlastingtoys.htm">Everlasting</a>
+							<a href="http://leerburg.com/1235.htm">Bob-a-Lot</a>
+                            <a href="http://leerburg.com/1124.htm">Buster Cube</a>
+							<a href="http://leerburg.com/1168.htm">Refills</a>
+							<a href="http://leerburg.com/treattoys.htm"><b>All Treat Toys</b></a><br>	
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/balls.htm" class="linkhead">BALLS</a>
+							<a href="http://leerburg.com/chuckittoys.htm">ChuckIt!</a>
+							<a href="http://leerburg.com/orbeetoys.htm">Orbee</a>
+							<a href="http://leerburg.com/ropetoys.htm">Rope</a>
+							<a href="http://leerburg.com/balls.htm"><b>All Balls</b></a><br>
+														
+							<a href="http://leerburg.com/plushtoys.htm" class="linkhead">PLUSH/SOFT</a>
+							<a href="http://leerburg.com/megamightytuffy.htm">Mega, Mighty, Tuffy</a>
+							<a href="http://leerburg.com/fleecetugs.htm">Fleece Tugs</a>
+                            <a href="http://leerburg.com/pogo.htm">Pogo Plush</a>
+							<a href="http://leerburg.com/plushtoys.htm"><b>All Plush/Soft Toys</b></a><br>
+                            
+                            <a href="http://leerburg.com/chewtoys.htm" class="linkhead">CHEW TOYS</a><br>
+                            
+                            <a href="http://leerburg.com/durability.htm" class="linkhead">GUARANTEED DURABILITY</a>	
+						</div>
+						
+                        <!--FEATURED PRODUCT FOR TOYS-->
+                        
+						<div class="columnLast">
+						    <span class="tab_pretitle">FEATURED ITEM</span>
+								<a href="http://leerburg.com/1235.htm" style="padding:0px;margin:0px;"><span class="tab_title">Bob-A-Lot</span></a><br>
+							<center><a href="http://leerburg.com/1235.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/1235.jpg"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;">The Bob-A-Lot recently won the bronze award for best new product at the HH Backer Pet Trade Show. It can be filled with treats or food in a top or bottom chamber, and then must be manipulated by the dog's nose or feet to extract the goodies inside.</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/1235.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END TOYS-->
+					 </div>	
+				
+				</li>
+				<li class="dropdown_3columns"><a href="http://leerburg.com/healthnutrition.htm" class="nav">Healthcare &amp; Nutrition</a>
+				
+				<div class="dd3" style="margin-left:-427px;">
+						<div class="column5">
+							<span class="tab_pretitle">SHOP FOR</span>
+							<span class="tab_title"><br>HEALTHCARE &amp; NUTRITION</span><br><br>
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>										
+						</div>
+					  	
+						<div class="column5">
+							<a href="http://leerburg.com/supplements.htm" class="linkhead">SUPPLEMENTS</a>
+							<a href="http://leerburg.com/assorted.htm">Assorted Healthcare Products</a>
+							<a href="http://leerburg.com/digest.htm">Digestive Health</a>
+                            <a href="http://leerburg.com/fleas.htm">Flea, Fly, &amp; Tick Prevention</a>
+                            <a href="http://leerburg.com/herbsmith.htm">Herbsmith</a>
+                            <a href="http://leerburg.com/immune.htm">Immune System Support</a>
+							<a href="http://leerburg.com/joint.htm">Joint Pain &amp; Arthritic Relief</a>
+							<a href="http://leerburg.com/panocare.htm">Pano Care</a>
+							<a href="http://leerburg.com/parvocare.htm">Parvovirus Care</a>
+                            <a href="http://leerburg.com/skin.htm">Skin &amp; Coat</a>
+                            <a href="http://leerburg.com/stress.htm">Stress Relief for Dogs</a>
+							<a href="http://leerburg.com/supplements.htm"><b>All Supplements</b></a><br>							
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/nutritionbooks.htm" class="linkhead">BOOKS</a><br>
+							
+							<a href="http://leerburg.com/firstaid.htm" class="linkhead">FIRST AID</a><br>
+							
+							<a href="http://leerburg.com/fleas.htm" class="linkhead">FLEAS &amp; TICKS</a><br>
+							
+							<a href="http://leerburg.com/grooming.htm" class="linkhead">GROOMING</a>
+							<a href="http://leerburg.com/brushes.htm">Brushes/Rakes</a>
+							<a href="http://leerburg.com/shampoo.htm">Shampoo &amp; Conditioner</a>
+							<a href="http://leerburg.com/grooming.htm"><b>All Grooming Products</b></a><br>
+							
+							<a href="http://leerburg.com/dogfood.htm" class="linkhead">ALL-NATURAL DOG FOOD</a>
+							<a href="http://leerburg.com/moon.htm">Barking at the Moon</a>
+                            <a href="http://leerburg.com/hkfoods.htm">Honest Kitchen</a>
+							<a href="http://leerburg.com/redbarn.htm">Red Barn</a>
+                            <a href="http://leerburg.com/sundancer.htm">Sun Dancer</a>
+							<a href="http://leerburg.com/dogfood.htm"><b>All Natural Dog Foods</b></a><br>	
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/treat.htm" class="linkhead">TREATS</a>
+							<a href="http://leerburg.com/baitbag.htm">Bait Bags</a>
+							<a href="http://leerburg.com/treat.htm">Treats</a>
+							<a href="http://leerburg.com/treattoys.htm">Treat Toys</a>
+							<a href="http://leerburg.com/treat.htm"><b>All Treats</b></a><br>		
+							
+							<a href="http://leerburg.com/dogdishes.htm" class="linkhead">DOG DISHES &amp; BOWLS</a>
+							<a href="http://leerburg.com/specialtybowls.htm">Non-Spill/Specialty</a>
+							<a href="http://leerburg.com/stainlessbowls.htm">Stainless Steel</a>
+                            <a href="http://leerburg.com/travelbowls.htm">Travel/Cloth</a>
+							<a href="http://leerburg.com/dogdishes.htm"><b>All Dishes &amp; Bowls</b></a><br>	
+							
+							<a href="http://leerburg.com/indigo.htm" class="linkhead">INDIGO MOON CAT FOOD</a><br>		
+						</div>
+						
+                        <!--FEATURED PRODUCTS FOR HEALTHCARE AND NUTRITION-->
+						
+                        <div class="columnLast">
+						    <span class="tab_pretitle">FEATURED ITEM</span>
+								<a href="http://leerburg.com/1168.htm" style="padding:0px;margin:0px;"><span class="tab_title">Everlasting Treat Refills</span></a><br>
+							<center><a href="http://leerburg.com/1168.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/cart/img/1168.jpg"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;">Small Liver Everlasting Treat Refills now only $2.00!</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/1168.htm" class="cart_btn_text"><span style="color:#ffffff">SHOP NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END HEALTHCARE AND NUTRITION-->
+					 </div>	
+				
+				</li> 
+				<li class="dropdown_3columns"><a href="http://leerburg.com/articles.htm" class="nav">Training Articles</a>
+				
+				<div class="dd3" style="margin-left:-556px;">
+						<div class="column5">
+							<span class="tab_pretitle">Read Leerburg's</span>
+							<span class="tab_title"><br>DOG TRAINING ARTICLES</span><br><br>
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>										
+						</div>
+
+					  	
+						<div class="column5">					
+							<a href="http://leerburg.com/philosophy.htm" class="linkhead">PHILOSOPHY OF TRAINING</a><br>
+							                            
+                            <a href="http://leerburg.com/obedtraining.htm" class="linkhead">OBEDIENCE TRAINING</a><br>
+                            
+                            <a href="http://leerburg.com/ellis.htm" class="linkhead">MICHAEL ELLIS</a><br>
+                            
+                            <a href="http://leerburg.com/markertraining.htm" class="linkhead">MARKER TRAINING</a><br>
+                            
+                            <a href="http://leerburg.com/puppytraining.htm" class="linkhead">PUPPY TRAINING</a><br>
+                            
+                            <a href="http://leerburg.com/structure.htm" class="linkhead">PACK STRUCTURE</a><br>
+                            						
+                            <a href="http://leerburg.com/dominance.htm" class="linkhead">DOMINANCE &amp; AGGRESSION</a><br>
+                            
+                            <a href="http://leerburg.com/dog_bites.htm" class="linkhead">DOG BITES</a><br>
+                            
+                            <a href="http://leerburg.com/dogsandkids.htm" class="linkhead">DOGS &amp; KIDS</a><br>
+                            
+                            <a href="http://leerburg.com/behavior.htm" class="linkhead">BEHAVIORAL PROBLEMS</a><br>
+                            
+                            <a href="http://leerburg.com/breeding.htm" class="linkhead">BREEDING</a><br>
+						
+														
+						</div>
+						
+						<div class="column5">
+                        	<a href="http://leerburg.com/dogsports.htm" class="linkhead">DOG SPORTS</a>
+							<a href="http://leerburg.com/dogsports.htm#agility">Agility</a>
+                            <a href="http://leerburg.com/dogsports.htm#schutzhund">Schutzhund</a>
+							<a href="http://leerburg.com/dogsports.htm#ringsports">Ring Sports</a>
+							<a href="http://leerburg.com/dogsports.htm#sheepherding">Sheep Herding</a>
+                            <a href="http://leerburg.com/dogsports.htm#nosework">Nosework</a>	
+                            <a href="http://leerburg.com/dogsports.htm#obedience">Obedience</a>	
+							<a href="http://leerburg.com/dogsports.htm"><b>All Dog Sports</b></a><br>
+                        
+                        	<a href="http://leerburg.com/health.htm" class="linkhead">HEALTH</a><br>
+                        
+                        	<a href="http://leerburg.com/feeding.htm" class="linkhead">FEEDING DOGS</a><br>
+                            
+                            <a href="http://leerburg.com/petloss.htm" class="linkhead">DEATH, GRIEF, &amp; PET LOSS</a><br>                            
+                            
+							   
+                        </div>
+						
+						<div class="column5">
+                        	<a href="http://leerburg.com/policek9.htm" class="linkhead">POLICE K9</a>
+							<a href="http://leerburg.com/policek9.htm#patrol">Patrol Dogs</a>
+                            <a href="http://leerburg.com/policek9.htm#tracking">Tracking &amp; Detector Dogs</a>
+                            <a href="http://leerburg.com/policek9.htm#search">Search &amp; Rescue</a>
+							<a href="http://leerburg.com/policek9.htm"><b>All Police Service</b></a><br> 
+                        
+                        	<a href="http://leerburg.com/remote.htm" class="linkhead">REMOTE COLLAR WORK</a><br>
+                        
+							<a href="http://leerburg.com/dogkennels.htm" class="linkhead">DOG KENNELS</a><br>		
+							
+                            <a href="http://leerburg.com/listofpodcasts.htm" class="linkhead">ALL PODCASTS</a><br>
+                            
+                            <a href="http://leerburg.com/listofebooks.htm" class="linkhead">ALL eBOOKS</a><br>
+                            
+							<a href="http://leerburg.com/articles.htm" class="linkhead">SEE ALL ARTICLES</a>		
+						</div>
+						
+                        <!--FEATURED PRODUCT (ARTICLE) FOR TRAINING CATEGORIES-->
+                        
+						<div class="columnLast">
+						    <span class="tab_pretitle">FEATURED ARTICLE</span>
+								<a href="http://leerburg.com/diet.htm" style="padding:0px;margin:0px;"><span class="tab_title">All-Natural Diet for Dogs</span></a><br>
+							<center><a href="http://leerburg.com/diet.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/Photos/Endy_10-8-10_12_web.png" width="180px"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;">There is a lot of talk in the dog world these days about ALL-NATURAL DIETS (AN). The purpose of this article is to explain what these diets are and the reasons why I feel everyone should consider feeding their dog a natural diet.</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/diet.htm" class="cart_btn_text"><span style="color:#ffffff">READ NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END TRAINING CATEGORIES-->
+					 </div>	
+					 
+				</li>
+				<li class="dropdown_3columns"><a href="http://leerburg.com/aboutus.htm" class="nav">About Us</a>
+				
+				<div class="dd3" style="margin-left:-672px;">
+						<div class="column5">
+							<span class="tab_pretitle">Leerburg</span>
+							<span class="tab_title"><br>ABOUT US</span><br><br>
+							<a href="http://leerburg.com/new.htm" class="boxlinks">NEW PRODUCTS</a>
+							<a href="http://leerburg.com/exclusive.htm" class="boxlinks">LEERBURG EXCLUSIVE</a>
+							<a href="http://leerburg.com/clearance.htm" class="boxlinks">CLEARANCE CORNER</a>
+							<a href="http://leerburg.com/giftcertificate.htm" class="boxlinks">GIFT CERTIFICATES</a>										
+						</div>
+					  	
+						<div class="column5">					
+							<a href="http://leerburg.com/leerburgstaff.htm" class="linkhead">MEET THE STAFF</a><br>
+							
+							<a href="http://leerburg.com/affiliate.htm" class="linkhead">AFFILIATE PROGRAM</a><br>
+							
+							<a href="http://leerburg.com/subscribe.htm" class="linkhead">FOLLOW US</a>							
+							<a href="http://leerburg.com/catalog.htm">Free Catalog</a>
+							<a href="http://leerburg.com/newsletter.htm">Newsletter</a>	
+							<a href="http://www.youtube.com/user/leerburg">Youtube</a>
+							<a href="http://www.facebook.com/leerburg">Facebook</a>
+							<a href="http://twitter.com/leerburg">Twitter</a>
+							<a href="https://plus.google.com/115334324100729868313/posts">Google+</a>				
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/contact.htm" class="linkhead">EMAIL CONTACTS</a>
+							<div style="color:#666666;font-size:11px;line-height:120%;margin-left:5px;">
+							Business Manager: <a href="mailto:jeff@leerburg.com"><u>jeff@leerburg.com</u></a><br>
+							
+							Training Questions: <a href="mailto:cindyr@leerburg.com"><u>cindyr@leerburg.com</u></a><br>
+							
+							Order Status: <a href="mailto:orders@leerburg.com"><u>orders@leerburg.com</u></a><br>
+							
+							</div>
+                            
+                            <a href="http://leerburg.com/returns.htm" class="linkhead">RETURNS</a><br>
+                            
+                            <a href="http://leerburg.com/order.htm" class="linkhead">ORDER QUESTIONS</a>
+															
+						</div>
+						
+						<div class="column5">
+							<a href="http://leerburg.com/cart/contact.php" class="linkhead">TECHNICAL ISSUES</a>
+							
+							<a href="http://leerburg.com/cart/contact.php">Cart-Related Problems</a>
+							<a href="http://leerburg.com/flix/contact.php">Video-on-Demand Problems</a>
+							<a href="http://leerburg.com/webboard/contact.php">Webboard Problems</a><br>
+							
+							<a href="http://leerburg.com/contact.htm" class="linkhead">MAILING ADDRESS</a>	
+							<div style="color:#666666;font-size:11px;line-height:150%;margin-left:5px;">Leerburg Ent. Inc.<br>
+							PO Box 218<br>
+							Menomonie, WI 54751</div><br>	
+							
+							<a href="http://leerburg.com/contact.htm" class="linkhead">CONTACT US</a>
+							
+							<div style="color:#666666;font-size:11px;line-height:160%;margin-left:5px;"><b>Phone:</b> 715.235.6502<br>
+							<b>Fax:</b> 715.235.8868</div>												
+						</div>
+						
+						<!--FEATURED PRODUCT (ABOUT ED) FOR ABOUT US-->
+						
+						<div class="columnLast">
+						    <span class="tab_pretitle">LEERBURG</span>
+								<a href="http://leerburg.com/history.htm" style="padding:0px;margin:0px;"><span class="tab_title">About Ed Frawley</span></a><br>
+							<center><a href="http://leerburg.com/history.htm" style="padding:0px;margin:0px;"><img src="https://leerburg.com/Photos/IMG_0624%20-%20level%207%20quality.jpg" width="180px"></a></center><br>
+							
+							<span style="color:#666666;font-size:11px;line-height:120%;">Ed Frawley has owned dogs since the 1950's. He grew up with dogs in the family and started to take training seriously in high school. He started Leerburg Video Kennel in the mid 1970's and has produced dog training videos since.</span>
+							<br><br>
+							<div class="cart_btn" style="width:74px;color:#ffffff;margin-left:70px;"><a href="http://leerburg.com/history.htm" class="cart_btn_text"><span style="color:#ffffff">READ NOW</span></a></div>
+							
+						</div>
+                        
+                        <!--END ABOUT US-->
+					 </div>	
+				</li>
+			</ul>
+		</div>	
+		
+		<div style="float:right;padding-top:14px;">
+			<div id="searchwrapper">
+				<form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
+					<input type="text" class="searchbox" name="terms" value="">
+					<input type="image" src="https://leerburg.com/Photos/search_trans.png" name="Submit" title="Submit Search" class="searchbox_submit" value="">
+				</form>
+			</div>
+		</div>		
+	</div>
+
+	<div id="content">	
+	
+	<div id="column2bg">	
+	
+	<div id="main" class="gallery clearfix">		
+		
+<a href="http://leerburg.com"><u>Leerburg</u></a> » <b>Information about our Organization and Website</b><br><br>	
+
+<div class="maintitle">Information about our Organization and Website</div>
 <br>
-<a class="sideHeadingwhite" href="http://leerburg.com/videolist.php">Video On Demand</a>
-<br>
-<a class="sideHeading" href="http://leerburg.com/catalog.htm">Leerburg 2011 Catalog</a>
-  <a class="little" href="http://leerburg.com/leerburgweeklynews.htm">Weekly Newsletter</a>
-  <a class="little" href="http://leerburg.com/subscribe.htm">Newsletter Sign Up</a>
-  <a class="little" href="http://leerburg.com/catalog.htm">Request a Catalog</a>
-  <a class="little" href="http://leerburg.com/2011catalog.pdf">Download Catalog</a>
-
-<a class="sideHeading" href="http://leerburg.com/table.htm">Table of Contents</a>
-
-<a class="sideHeading" href="http://leerburg.com/vidolist.htm">Dog Training Videos</a>
-  <a class="little" href="http://leerburg.com/videolist.php"><b>Video On Demand</b></a>
-  <a class="little" href="http://leerburg.com/dvd.htm">DVD</a>
-  <a class="little" href="http://leerburg.com/combos.htm">DVD Box Specials</a>
-  <a class="little" href="http://leerburg.com/nr.htm">New Releases</a>
-
-<a class="sideHeading" href="http://leerburg.com/equip.htm">Dog Training Equipment</a>
-  <a class="little" href="http://leerburg.com/equip.htm">Dog Training Equipment</a>
-  <a class="little" href="http://leerburg.com/books.htm">Dog Training Books</a>
-  <a class="little" href="http://leerburg.com/new.htm">New Equipment</a>
-  <a class="little" href="http://leerburg.com/healthcare.htm">K9 Healthcare Products</a>
-
-<a class="sideHeading" href="http://www.leerburg.com/forums/ubbthreads.php">Web Forum Discussion</a>
-  <a class="little" href="http://www.leerburg.com/forums/ubbthreads.php">Discussion Forum</a>
-  <a class="little" href="http://www.leerburg.com/pdf/WebBoard.pdf">How to Register</a>
-  
-<a class="sideHeading" href="http://leerburg.com/dogtrainingebooks.htm">FREE Training eBooks</a>
-
-<a class="sideHeading" href="http://leerburg.com/dogtrainingpodcasts.htm">FREE Training Podcasts</a>
-
-<a class="sideHeading" href="http://leerburg.com/affiliate.htm">Affiliate Program</a>
-
-<a class="sideHeading" href="http://leerburg.com/articles.htm">Dog Training Articles</a>
-  <a class="little" href="http://leerburg.com/articles.htm">Articles</a>
-  <a class="little" href="http://leerburg.com/qa.htm">Question &amp; Answers</a>
-
-<a class="sideHeading" href="http://leerburg.com/knl1.htm">Leerburg Kennel</a>
-  <a class="little" href="http://leerburg.com/knl1.htm">Our Kennel</a>
-  <a class="little" href="http://leerburg.com/litters.htm">Current Litters</a>
-  <a class="little" href="http://leerburg.com/litters1.htm">Customer Testimonials</a>
-  <a class="little" href="http://leerburg.com/studlist.htm">Stud Dogs</a>
-  <a class="little" href="http://leerburg.com/adultdogs.htm">Adult Dogs for Sale</a>
-  <a class="little" href="http://www.kaiserhaus.com/">Our Kaiserhaus Malinois</a>
-
-<span class="sideHeading">Dog Training Categories</span>
-<a class="big" href="http://leerburg.com/dogtraining.htm">Dog Training</a>
-<a class="big" href="http://leerburg.com/obediencetrainingdogs.htm">Dog Obedience Training</a>
-<a class="big" href="http://leerburg.com/dominantdogs.htm">Aggression Problems
-Dominance Problems</a>
-<a class="big" href="http://leerburg.com/dogfight.htm">Dog Fight Problems</a>
-<a class="big" href="http://leerburg.com/puppytraining.htm">Puppy Training</a>
-<a class="big" href="http://leerburg.com/housetraining.htm">HouseTraining Problems</a>
-<a class="big" href="http://leerburg.com/feedingdogs.htm">Feeding Dogs</a>
-<a class="big" href="http://leerburg.com/breedingdogs.htm">Breeding Dogs</a>
-<a class="big" href="http://leerburg.com/qaelectric.htm">Electric Collar Training</a>
-<a class="big" href="http://leerburg.com/schutzhund.htm">Schutzhund Training</a>
-<a class="big" href="http://leerburg.com/k9training.htm">Police K9 Training</a>
-
-<a class="sideHeading" href="http://leerburg.com/order.htm">How to Order</a>
-  <a class="little" href="http://leerburg.com/Cart/viewCart.php">View Shopping Cart</a>
-  <a class="little" href="http://leerburg.com/order.htm#credit">Foreign Orders</a>
-  <a class="little" href="http://leerburg.com/shiprate.htm#postage">Shipping Charges</a>
-
-<a class="big" href="http://www.redcedarmountainhorses.com/">See Our Horses</a>
-
-<a class="sideHeading" href="http://leerburg.com/giftcertificate.htm">Leerburg Gift Certificates</a>
-
-<a class="big" href="http://leerburg.com/catalog.htm">Request a Catalog</a>
-
-<a class="sideHeading" href="http://leerburg.com/contact.htm">Contact Us</a>
-
-<a class="sideHeading" href="http://leerburg.com/leerburgstaff.htm">Meet Leerburg Staff</a>
-
-</pre>
-</div>
-
-<div id="sidething">
-<p><a href="http://leerburg.com/videolist.php"><img src="http://leerburg.com/Photos/LB_vod.png" alt="Leerburg Video on Demand" width="128" height="45" border="0"></a><a href="http://leerburg.com/new.htm"> <img src="http://leerburg.com/Photos/4_newitems.png" alt="New Items" width="41" border="0" height="45"></a><br>
-                <a href="http://www.facebook.com/leerburg" target="_blank"><img src="http://leerburg.com/Photos/2_facebook.png" alt="Facebook" width="44" border="0" height="45"></a><a href="http://twitter.com/leerburg" target="_blank"><img src="http://leerburg.com/Photos/3_twitter.png" alt="Twitter" width="44" border="0" height="45"></a><a href="http://www.youtube.com/user/leerburg" target="_blank"><img src="http://leerburg.com/Photos/5_youtube2.png" alt="YouTube" width="40" height="45" border="0"></a> <a href="http://leerburg.com/blog.php"><img src="http://leerburg.com/Photos/6_blog2.png" alt="Daily Blog" width="40" height="45" border="0"></a><br>
-<a href="http://leerburg.com/cart/viewcart.php"><img src="http://leerburg.com/Photos/7_cart2.png" width="40" height="45"></a> <a href="http://leerburg.com/forums/ubbthreads.php"><img src="http://leerburg.com/Photos/1_webboard.png" alt="Leerburg Webboard" width="129" border="0" height="45"></a></p>
-</div>
-
-
-<div id="centercontent"><!-- InstanceBeginEditable name="body" -->
-<table width="660" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="1" height="399"></td>
-    <td width="659" valign="top">
-      <div align="center"><b><span class="page_titles">Information about our <br>
-      	Organization
-        and Website</span></b></div>
-      <p class="text">Modern information and communication technologies play
-        a fundamental role in the activities of an organization like Leerburg
-        Enterprises, Inc. We are based in the USA.</p>
-      <p class="text">Our principal activity is: Produce and sell dog training
-        videos and equipment and provide dog training information. Our privacy
-        policy covers Leerburg Enterprises, Inc. and its web site.</p>
-      <table width="56%" border="1" cellpadding="3" class="maintext">
-        <tbody><tr>
-          <td class="text">Organization name:</td>
-          <td class="text">Leerburg Enterprises, Inc. </td>
-        </tr>
-        <tr>
-          <td class="text">Address:</td>
-          <td class="text">PO Box 218</td>
-        </tr>
-        <tr>
-          <td class="text">City, State, Zip:</td>
-          <td class="text">Menomonie, WI 54751</td>
-        </tr>
-        <tr>
-          <td class="text">Country:</td>
-          <td class="text">USA</td>
-        </tr>
-        <tr>
-          <td class="text">Controller:</td>
-          <td class="text">Ed Frawley</td>
-        </tr>
-        <tr>
-          <td class="text">Web Site:</td>
-          <td class="text">http://leerburg.com</td>
-        </tr>
-        <tr>
-          <td class="text">Phone</td>
-          <td class="text">715.235.6502</td>
-        </tr>
-      </tbody></table>
-      <p class="Blue16">Newsletter Policy </p>
-      <p class="text"><strong>Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:</strong></p>
-      <blockquote>
-        <p class="text"><strong>1 - Customers who purchase products from Leerburg Enterprises, Inc. </strong></p>
-        <p class="text"><strong>2 - People who write and ask that one of our catalogs be sent through the United States Postal Service</strong></p>
-        <p class="text"><strong>3 - People how specifically ask to be placed out our newsletter mailing list.</strong></p>
-        <p class="text"><strong>4 - People who send Leerburg Enterprises, Inc. emails with questions on dog training.</strong></p>
-        <p class="text"><strong>5 - Anyone who registers for the Leerburg Dog Training web forum.</strong></p>
-      </blockquote>
-      <p class="text"><strong>Every newsletter has an opt-out option at the top and the bottom of the newsletter. If a person does not wish to receive our newsletter, they simply click the opt-out link and they will automatically be added to the list of people who no longer receive our newsletter.   </strong></p>
-      <p class="text">We do not sell our email lists nor do we sell our mailing lists. </p>
-      <p class="Blue16"> Providing Visitors with Anonymous Access</p>
-      <p class="text">You can access our website home page and browse our
-        sites without disclosing your personal data.</p>
-      <p class="Blue16">The services and links of our Web sites</p>
-      <p class="text">Our web site do not enable our visitors to communicate
-        with other visitors or to post information to be accessed by others.</p>
-      <p class="text">Our websites do not include links to third party web
-        service providers.</p>
-      <p class="Blue16">Automatic Collection of Information</p>
-      <p class="text">We only use cookies for our shopping cart system &amp;
-        webboard. They are used for the functionality of the web site and are
-        not used to track any personal information.</p>
-      <p class="text">We do not automatically log personal data nor do we
-        link information automatically logged by other means with personal data
-        about specific individuals.</p>
-      <p class="Blue16">Data Collection and Purpose Specification</p>
-      <p class="text">We collect the personal data that you may volunteer
-        while using our services. </p>
-      <p class="text">We do not collect information about our visitors from
-        other sources, such as public records or bodies, or private organizations.</p>
-      <p class="text">We do not collect or use personal data for any purpose
-        other than that indicated in the table below.</p>
-      <p class="text">If we wish to use your personal data for new purposes,
-        we offer you the means to consent to those new purposes:</p>
-      <blockquote>
-        <p class="text">By sending an email - book@leerburg.com<br>
-          By sending postal mail to this address - PO Box 218, Menomonie, WI 54751<br>
-          By calling this telephone number - 715.235.6502</p>
-      </blockquote>
-      <p class="Blue16">Children's Privacy</p>
-      <p class="text">We do not knowingly collect personal data from children.</p>
-      <p class="text">We take specific steps to protect the privacy of children
-        by:</p>
-      <p class="text">Additionally, to ensure that children's privacy is respected
-        on our web site, we:</p>
-      <ul>
-        <li class="text">Do not enter information given to us by people under
-          the age of 18 into our mailing list database.</li>
-      </ul>
-      <p class="text">We do not provide information about our personal data
-        practices in relation to children on our home page, or at those sites
-        on our Web site where we collect personal data.</p>
-      <p class="Blue16">Disclosure and Visitor Choice</p>
-      <p class="text">We do not disclose your personal data to our subsidiaries
-        or other organizations.</p>
-      <p class="Blue16">Confidentiality</p>
-      <p class="text">We give you the option of using a secure transmission
-        method to send us the following types of personal data:</p>
-      <ul>
-        <li class="text">Primary personal data (such as name and contact details)
-            <br>
-        </li>
-        <li class="text">Identifiers (such as credit card details, web site
-          password)</li>
-      </ul>
-      <p class="text"> We have implemented security policies, rules and technical
-        measures to protect the personal data that we have under our control from:</p>
-      <ul>
-        <li class="text">Unauthorized access <br>
-        </li>
-        <li class="text">Improper use or disclosure <br>
-        </li>
-        <li class="text">Unauthorized modification <br>
-        </li>
-        <li class="text">Unlawful destruction or accidental loss</li>
-      </ul>
-      <p class="text"> All our employees and data processors, who have access
-        to, and are associated with the processing of personal data, are obliged
-        to respect the confidentiality of our visitors' personal data.</p>
-      <p class="maintext"><span class="text">We ensure that your personal data will not be disclosed
-        to State institutions and authorities except if required by law or other
-        regulation.</span><br>
-      </p>
-      <p class="maintext"><span class="Blue16"> Security</span></p>
-      <p class="text">We here at Leerburg Enterprises make safety of your private information a #1 priority. Where possible we put the highest safe guards on data and adhere to all industry standards on data security. </p>
-      <p class="text">Orders are placed through a high grade 128-bit encrypted HTTPS connection. Orders are received by Leerburg over a secure, private, encrypted connection. Some information (like your email order receipt) is transferred over email, but does not contain vital information like credit card numbers, expiration dates or CVV2 Codes. Orders are processed &amp; fulfilled by (background-checked) employees at a secure facility in Menomonie, Wisconsin. Order Records are stored digitally on a secure server with limited access (CVV2 information is not kept past processing). Paper records are securely stored for the legal number of years required per credit card company policy.  Paper records do not have credit card details printed on them.  We do not store any card information past the point of processing.  We are fully PCI compliant.<br>
-      </p>
-      <p class="Blue16">Access to the personal data we may hold about you</p>
-      <p class="text">You can ask us, by:</p>
-      <ul>
-        <li class="text">Sending an email - book@leerburg.com<br>
-          </li>
-        <li class="text">Sending postal mail to this address - PO Box 218,
-          Menomonie, WI 54751<br>
-        </li>
-        <li class="text">Calling this telephone number - 715.235.6502</li>
-      </ul>
-      <p class="text"> Upon request, which you can indicate by:</p>
-      <ul>
-        <li class="text">Sending an email - book@leerburg.com<br>
-          </li>
-        <li class="text">Sending postal mail to this address - PO Box 218,
-          Menomonie, WI 54751<br>
-        </li>
-        <li class="text">Calling this telephone number - 715.235.6502</li>
-      </ul>
-      <p class="text"> We will provide you with a readable copy of the personal
-        data which we keep about you, within a week, although we may before
-        require proof of your identity. We will provide the information without
-        any charge.</p>
-      <p class="text">We allow you to challenge the data that we hold about
-        you and, where appropriate, you may have the data:</p>
-      <ul>
-        <li class="text">Erased <br>
-          </li>
-        <li class="text">Rectified or amended <br>
-        </li>
-        <li class="text">Completed</li>
-      </ul>
-      <p class="text">We do not reserve the right to refuse to provide you
-        with a copy of your personal data.</p>
-      <p class="maintext"><span class="text">We do, however, allow you to challenge our decision
-        to refuse to provide you with a copy of your personal data.</span><br>
-      </p>
-      <p class="Blue16">Privacy Compliance</p>
-      <p class="text">There are no national laws or self-regulatory schemes
-        applicable to our web site or organization.</p>
-      <p class="text">There are no global or regional regulatory or self-regulatory
-        schemes applicable to our web site or organization.</p>
-      <p class="text">In order to demonstrate that our privacy policy accords
-        with the above privacy instrument, we are:</p>
-      <ul>
-        <li class="text">Voluntarily committed to a Self Assessment procedure</li>
-      </ul>
-      <p class="Blue16">Self Assessment Procedure:</p>
-      <table width="350" border="1" cellpadding="3" class="maintext">
-        <tbody><tr>
-          <td width="50%" class="text">Name or designation of the privacy policy person or service: </td>
-          <td width="50%" class="text">Ed Frawley</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">URL:</td>
-          <td width="50%" class="text">http://leerburg.com</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Address:</td>
-          <td width="50%" class="text">PO Box 218<br>
-            Menomonie, WI 54751</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Country</td>
-          <td width="50%" class="text">USA</td>
-        </tr>
-      </tbody></table>
-      <p class="Blue16">Privacy Support:</p>
-      <p class="text">If you have an enquiry or concern about our privacy
-        policy, please contact:</p>
-      <table width="350" border="1" cellpadding="3" class="maintext">
-        <tbody><tr>
-          <td width="50%" class="text">&nbsp;</td>
-          <td width="50%" class="text">Contact 1 </td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Name/Designation:</td>
-          <td width="50%" class="text">Ed Frawley</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Dept/Title:</td>
-          <td width="50%" class="text">Owner</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Address:</td>
-          <td width="50%" class="text">PO Box 218<br>
-            Menomonie, WI 54751</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Phone Number:</td>
-          <td width="50%" class="text">715.235.6502</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Fax Number:</td>
-          <td width="50%" class="text">715.235.8868</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">Email Address:</td>
-          <td width="50%" class="text">book@leerburg.com</td>
-        </tr>
-        <tr>
-          <td width="50%" class="text">URL:</td>
-          <td width="50%" class="text">http://leerburg.com</td>
-        </tr>
-      </tbody></table>
-      <p class="text">We do not recommend another means by which visitors'
-        concerns may be addressed.</p>
-      <p class="Blue16" align="center">TABLE of personal data collected and purposes
-        for which they are used</p>
-      <p class="text"> x Volunteered by each visitor<br>
-        - Collected from public records or bodies<br>
-        - Collected from private organizations</p>
-      <table width="600" border="1" class="maintext" height="177">
-        <tbody><tr>
-          <td width="16%" valign="bottom" class="text">Primary Personal Data</td>
-          <td width="16%" valign="bottom" class="text">Technical Administration of the Web Site</td>
-          <td width="16%" valign="bottom" class="text">Research &amp; Development</td>
-          <td width="16%" valign="bottom" class="text">Customer Administration</td>
-          <td width="16%" valign="bottom" class="text"><br>
-            Marketing</td>
-          <td width="16%" valign="bottom" class="text"><br>
-            Trading in Personal Data</td>
-        </tr>
-        <tr>
-          <td width="16%" class="text">Name:</td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-        <tr>
-          <td width="16%" class="text">Gender:</td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-        <tr>
-          <td width="16%" class="text">Address:</td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-        <tr>
-          <td width="16%" class="text">Email Address:</td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-        <tr>
-          <td width="16%" class="text">Phone/Fax:</td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">X</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-        <tr>
-          <td width="16%" height="21" class="text">Other:</td>
-          <td width="16%" height="21" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" height="21" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" height="21" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" height="21" class="text">
-            <div align="center">-</div>          </td>
-          <td width="16%" height="21" class="text">
-            <div align="center">-</div>          </td>
-        </tr>
-      </tbody></table>
-      <p class="Blue16">Other personal details and profiling data is not collected</p>
-      <p class="text">These include data that is:</p>
-      <p class="text">- Volunteered by each visitor</p>
-      <ul>
-        <li class="text">Personal Details <br>
-        </li>
-        <li class="text">Physical Description <br>
-        </li>
-        <li class="text">Family Characteristics <br>
-        </li>
-        <li class="text">Education <br>
-        </li>
-        <li class="text">Lifestyle <br>
-        </li>
-        <li class="text">Financial Resources <br>
-        </li>
-        <li class="text">Other</li>
-      </ul>
-      <p class="text">- Collected from public records or bodies<br>
-        - Collected from private organizations</p>
-      <span class="text"><b></b></span></td>
-  </tr>
+<p class="text">Modern information and communication technologies play
+	a fundamental role in the activities of an organization like Leerburg
+	Enterprises, Inc. We are based in the USA.</p>
+<p class="text">Our principal activity is: Produce and sell dog training
+	videos and equipment and provide dog training information. Our privacy
+	policy covers Leerburg Enterprises, Inc. and its web site.</p>
+<table width="50%" border="1" cellpadding="3" cellspacing="0" bordercolor="#CCCCCC" class="maintext">
+	<tbody><tr>
+		<td width="50%" class="text">Organization name:</td>
+		<td width="50%" class="text">Leerburg Enterprises, Inc. </td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Address:</td>
+		<td width="50%" class="text">PO Box 218</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">City, State, Zip:</td>
+		<td width="50%" class="text">Menomonie, WI 54751</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Country:</td>
+		<td width="50%" class="text">USA</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Controller:</td>
+		<td width="50%" class="text">Ed Frawley</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Web Site:</td>
+		<td width="50%" class="text">http://leerburg.com</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Phone</td>
+		<td width="50%" class="text">715.235.6502</td>
+	</tr>
 </tbody></table>
-<!-- InstanceEndEditable -->
-<p align="left" class="fineprint">
-When purchasing any product from Leerburg Enterprises, Inc. it is understood
-  that any and all products sold by Leerburg Enterprises, Inc. are sold in Dunn
-  County Wisconsin, USA. Any and all legal action taken against Leerburg Enterprises,
-  Inc. concerning the purchase or use of these products must take place in Dunn
-  County, Wisconsin. If customers do not agree with this policy they should not
-  purchase Leerburg Ent. Inc. products.</p>
-
-<p align="left" class="fineprint">Dog Training is never without risk of injury. Do not use any of the products
-  sold by Leerburg Enterprises, Inc. without consulting a local professional.
-  The training methods shown in the Leerburg Ent. Inc. DVD’s are meant
-  to be used with a local instructor or trainer. Leerburg Enterprises, Inc. cannot
-  be held responsible for accidents or injuries to humans and/or animals. <br>
+<p class="Blue16">Newsletter Policy </p>
+<p class="text">Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:</p>
+<blockquote>
+	<p class="text">1 - Customers who purchase products from Leerburg Enterprises, Inc. </p>
+	<p class="text">2 - People who write and ask that one of our catalogs be sent through the United States Postal Service</p>
+	<p class="text">3 - People how specifically ask to be placed out our newsletter mailing list.</p>
+	<p class="text">4 - People who send Leerburg Enterprises, Inc. emails with questions on dog training.</p>
+	<p class="text">5 - Anyone who registers for the Leerburg Dog Training web forum.</p>
+</blockquote>
+<p class="text">Every newsletter has an opt-out option at the top and the bottom of the newsletter. If a person does not wish to receive our newsletter, they simply click the opt-out link and they will automatically be added to the list of people who no longer receive our newsletter. </p>
+<p class="text">We do not sell our email lists nor do we sell our mailing lists. </p>
+<p class="Blue16"> Providing Visitors with Anonymous Access</p>
+<p class="text">You can access our website home page and browse our
+	sites without disclosing your personal data.</p>
+<p class="Blue16">The services and links of our Web sites</p>
+<p class="text">Our web site do not enable our visitors to communicate
+	with other visitors or to post information to be accessed by others.</p>
+<p class="text">Our websites do not include links to third party web
+	service providers.</p>
+<p class="Blue16">Automatic Collection of Information</p>
+<p class="text">We only use cookies for our shopping cart system &amp;
+	webboard. They are used for the functionality of the web site and are
+	not used to track any personal information.</p>
+<p class="text">We do not automatically log personal data nor do we
+	link information automatically logged by other means with personal data
+	about specific individuals.</p>
+<p class="Blue16">Data Collection and Purpose Specification</p>
+<p class="text">We collect the personal data that you may volunteer
+	while using our services. </p>
+<p class="text">We do not collect information about our visitors from
+	other sources, such as public records or bodies, or private organizations.</p>
+<p class="text">We do not collect or use personal data for any purpose
+	other than that indicated in the table below.</p>
+<p class="text">If we wish to use your personal data for new purposes,
+	we offer you the means to consent to those new purposes:</p>
+<blockquote>
+	<p class="text">By sending an email - book@leerburg.com<br>
+		By sending postal mail to this address - PO Box 218, Menomonie, WI 54751<br>
+		By calling this telephone number - 715.235.6502</p>
+</blockquote>
+<p class="Blue16">Children's Privacy</p>
+<p class="text">We do not knowingly collect personal data from children.</p>
+<p class="text">We take specific steps to protect the privacy of children
+	by:</p>
+<p class="text">Additionally, to ensure that children's privacy is respected
+	on our web site, we:</p>
+<ul>
+	<li class="text">Do not enter information given to us by people under
+		the age of 18 into our mailing list database.</li>
+</ul>
+<p class="text">We do not provide information about our personal data
+	practices in relation to children on our home page, or at those sites
+	on our Web site where we collect personal data.</p>
+<p class="Blue16">Disclosure and Visitor Choice</p>
+<p class="text">We do not disclose your personal data to our subsidiaries
+	or other organizations.</p>
+<p class="Blue16">Confidentiality</p>
+<p class="text">We give you the option of using a secure transmission
+	method to send us the following types of personal data:</p>
+<ul>
+	<li class="text">Primary personal data (such as name and contact details) <br>
+	</li>
+	<li class="text">Identifiers (such as credit card details, web site
+		password)</li>
+</ul>
+<p class="text"> We have implemented security policies, rules and technical
+	measures to protect the personal data that we have under our control from:</p>
+<ul>
+	<li class="text">Unauthorized access <br>
+	</li>
+	<li class="text">Improper use or disclosure <br>
+	</li>
+	<li class="text">Unauthorized modification <br>
+	</li>
+	<li class="text">Unlawful destruction or accidental loss</li>
+</ul>
+<p class="text"> All our employees and data processors, who have access
+	to, and are associated with the processing of personal data, are obliged
+	to respect the confidentiality of our visitors' personal data.</p>
+<p class="maintext"><span class="text">We ensure that your personal data will not be disclosed
+	to State institutions and authorities except if required by law or other
+	regulation.</span><br>
 </p>
-<p align="left" class="fineprint">
-Copyright 2010 Leerburg® Enterprises, Inc. All rights reserved. All photos and content on leerburg.com are part of a registered copyright owned by Leerburg Enterprise, Inc.
-By accessing any information within Leerburg.com, you agree to abide by the
-Leerburg.com <a href="http://www.leerburg.com/privacy.htm">Privacy Policy</a> and <a href="http://www.leerburg.com/termsofuse.htm">Terms of Use.</a></p>
+<p class="maintext"><span class="Blue16"> Security</span></p>
+<p class="text">We here at Leerburg Enterprises make safety of your private information a #1 priority. Where possible we put the highest safe guards on data and adhere to all industry standards on data security. </p>
+<p class="text">Orders are placed through a high grade 128-bit encrypted HTTPS connection. Orders are received by Leerburg over a secure, private, encrypted connection. Some information (like your email order receipt) is transferred over email, but does not contain vital information like credit card numbers, expiration dates or CVV2 Codes. Orders are processed &amp; fulfilled by (background-checked) employees at a secure facility in Menomonie, Wisconsin. Order Records are stored digitally on a secure server with limited access (CVV2 information is not kept past processing). Paper records are securely stored for the legal number of years required per credit card company policy.  Paper records do not have credit card details printed on them.  We do not store any card information past the point of processing.  We are fully PCI compliant.<br>
+</p>
+<p class="Blue16">Access to the personal data we may hold about you</p>
+<p class="text">You can ask us, by:</p>
+<ul>
+	<li class="text">Sending an email - book@leerburg.com<br>
+	</li>
+	<li class="text">Sending postal mail to this address - PO Box 218,
+		Menomonie, WI 54751<br>
+	</li>
+	<li class="text">Calling this telephone number - 715.235.6502</li>
+</ul>
+<p class="text"> Upon request, which you can indicate by:</p>
+<ul>
+	<li class="text">Sending an email - book@leerburg.com<br>
+	</li>
+	<li class="text">Sending postal mail to this address - PO Box 218,
+		Menomonie, WI 54751<br>
+	</li>
+	<li class="text">Calling this telephone number - 715.235.6502</li>
+</ul>
+<p class="text"> We will provide you with a readable copy of the personal
+	data which we keep about you, within a week, although we may before
+	require proof of your identity. We will provide the information without
+	any charge.</p>
+<p class="text">We allow you to challenge the data that we hold about
+	you and, where appropriate, you may have the data:</p>
+<ul>
+	<li class="text">Erased <br>
+	</li>
+	<li class="text">Rectified or amended <br>
+	</li>
+	<li class="text">Completed</li>
+</ul>
+<p class="text">We do not reserve the right to refuse to provide you
+	with a copy of your personal data.</p>
+<p class="maintext"><span class="text">We do, however, allow you to challenge our decision
+	to refuse to provide you with a copy of your personal data.</span><br>
+</p>
+<p class="Blue16">Privacy Compliance</p>
+<p class="text">There are no national laws or self-regulatory schemes
+	applicable to our web site or organization.</p>
+<p class="text">There are no global or regional regulatory or self-regulatory
+	schemes applicable to our web site or organization.</p>
+<p class="text">In order to demonstrate that our privacy policy accords
+	with the above privacy instrument, we are:</p>
+<ul>
+	<li class="text">Voluntarily committed to a Self Assessment procedure</li>
+</ul>
+<p class="Blue16">Self Assessment Procedure:</p>
+<table width="50%" border="1" cellpadding="3" cellspacing="0" bordercolor="#CCCCCC" class="maintext">
+	<tbody><tr>
+		<td width="50%" class="text">Name or designation of the privacy policy person or service: </td>
+		<td width="50%" class="text">Ed Frawley</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">URL:</td>
+		<td width="50%" class="text">http://leerburg.com</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Address:</td>
+		<td width="50%" class="text">PO Box 218<br>
+			Menomonie, WI 54751</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Country</td>
+		<td width="50%" class="text">USA</td>
+	</tr>
+</tbody></table>
+<p class="Blue16">Privacy Support:</p>
+<p class="text">If you have an enquiry or concern about our privacy
+	policy, please contact:</p>
+<table width="50%" border="1" cellpadding="3" cellspacing="0" class="maintext" bordercolor="#CCCCCC">
+	<tbody><tr>
+		<td width="50%" class="text">&nbsp;</td>
+		<td width="50%" class="text">Contact 1 </td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Name/Designation:</td>
+		<td width="50%" class="text">Ed Frawley</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Dept/Title:</td>
+		<td width="50%" class="text">Owner</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Address:</td>
+		<td width="50%" class="text">PO Box 218<br>
+			Menomonie, WI 54751</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Phone Number:</td>
+		<td width="50%" class="text">715.235.6502</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Fax Number:</td>
+		<td width="50%" class="text">715.235.8868</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">Email Address:</td>
+		<td width="50%" class="text">book@leerburg.com</td>
+	</tr>
+	<tr>
+		<td width="50%" class="text">URL:</td>
+		<td width="50%" class="text">http://leerburg.com</td>
+	</tr>
+</tbody></table>
+<p class="text">We do not recommend another means by which visitors'
+	concerns may be addressed.</p>
+<p class="Blue16" align="center">TABLE of personal data collected and purposes
+	for which they are used</p>
+<p class="text"> x Volunteered by each visitor<br>
+	- Collected from public records or bodies<br>
+	- Collected from private organizations</p>
+<table width="100%" height="177" border="1" cellspacing="0" class="maintext" bordercolor="#CCCCCC">
+	<tbody><tr>
+		<td width="16%" valign="bottom" class="text">Primary Personal Data</td>
+		<td width="16%" valign="bottom" class="text">Technical Administration of the Web Site</td>
+		<td width="16%" valign="bottom" class="text">Research &amp; Development</td>
+		<td width="16%" valign="bottom" class="text">Customer Administration</td>
+		<td width="16%" valign="bottom" class="text"><br>
+			Marketing</td>
+		<td width="16%" valign="bottom" class="text"><br>
+			Trading in Personal Data</td>
+	</tr>
+	<tr>
+		<td width="16%" class="text">Name:</td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+	</tr>
+	<tr>
+		<td width="16%" class="text">Gender:</td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+	</tr>
+	<tr>
+		<td width="16%" class="text">Address:</td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+	</tr>
+	<tr>
+		<td width="16%" class="text">Email Address:</td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+	</tr>
+	<tr>
+		<td width="16%" class="text">Phone/Fax:</td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">X</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+		<td width="16%" class="text"><div align="center">-</div></td>
+	</tr>
+	<tr>
+		<td width="16%" height="21" class="text">Other:</td>
+		<td width="16%" height="21" class="text"><div align="center">-</div></td>
+		<td width="16%" height="21" class="text"><div align="center">-</div></td>
+		<td width="16%" height="21" class="text"><div align="center">-</div></td>
+		<td width="16%" height="21" class="text"><div align="center">-</div></td>
+		<td width="16%" height="21" class="text"><div align="center">-</div></td>
+	</tr>
+</tbody></table>
+<p class="Blue16">Other personal details and profiling data is not collected</p>
+<p class="text">These include data that is:</p>
+<p class="text">- Volunteered by each visitor</p>
+<ul>
+	<li class="text">Personal Details <br>
+	</li>
+	<li class="text">Physical Description <br>
+	</li>
+	<li class="text">Family Characteristics <br>
+	</li>
+	<li class="text">Education <br>
+	</li>
+	<li class="text">Lifestyle <br>
+	</li>
+	<li class="text">Financial Resources <br>
+	</li>
+	<li class="text">Other</li>
+</ul>
+<p class="text">- Collected from public records or bodies<br>
+	- Collected from private organizations</p>
+<p><br><br> </p></div>
+		
+<script>
+function clearCart()
+{
+	var answer=confirm("Are you sure you want to empty your cart?");
+	if(answer)
+	{
+		$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?time=04:15:37');
+	}
+	return false;
+
+}
+function removeItem(cartItemsID)
+{
+	$('#sidecartitems').load('http://leerburg.com/ajax/emptyCart.php?action=remove&cartitemsid='+cartItemsID+'&time=04:15:37');
+	$('#sidebar').load('http://leerburg.com/sidebar2.php');
+	return false;
+}
+</script>
+<div id="sidebar" style="margin-bottom:20px">		
+	<div class="section">
+		<div id="sidecartitems">
+		<table cellspacing="1" width="100%">
+			<tbody><tr>
+				<td colspan="4" align="center"><span class="red_title">MY CART</span></td>
+			</tr>
+			<tr>
+				<td align="center" width="60%" class="scheader"><b>Product</b></td><td align="center" class="scheader"><b>Qty</b></td><td align="center" class="scheader"><b>Price</b></td>
+				<td align="center" class="scheader">&nbsp;</td>
+			</tr>
+		<tr class="cart">
+		<td align="center" colspan="4">No Items</td>
+	</tr>
+				<tr>
+				<td align="right" colspan="2"><b>Sub-total:</b></td>
+				<td align="center"><span style="font-weight:bold;color:#EE3124">$0.00</span></td>
+				<td align="center">&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="4" align="right" valign="bottom"><div class="clearcart" onclick="clearCart()"><a href="#">&nbsp;</a></div> <div class="checkout"><a href="https://leerburg.com/cart/viewcart.php">&nbsp;</a></div></td>
+			</tr>
+			
+		</tbody></table>
+	</div>		<hr>
+		<img src="https://leerburg.com/Photos/paypal_side.jpg" style="padding-top:0px;padding-bottom:3px;" alt="Now accepting Paypal with Visa and Mastercard.">
+			</div> 	
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://www.leerburg.com/leatherleash.htm"><img src="https://leerburg.com/cart/img/5105.jpg" alt="Black 6 ft Leather Leash" style="padding-bottom:6px"></a><br>
+		<a href="http://www.leerburg.com/leatherleash.htm"><span style="line-height:100%;font-weight:bold;">Black 6 ft Leather Leash</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="904"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$29.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/1305.htm"><img src="https://leerburg.com/cart/img/1305.jpg" alt="15 inch Red Tubular Tug" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/1305.htm"><span style="line-height:100%;font-weight:bold;">15 inch Red Tubular Tug</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="1770"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$14.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/1386.htm"><img src="https://leerburg.com/cart/img/1386.jpg" alt="Walkeez Harness" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/1386.htm"><span style="line-height:100%;font-weight:bold;">Walkeez Harness</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2086"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 1: <select name="option1" id="option1_1386"><option value="select">Select</option><option value="Size 0">Size 0  - ($31.00)</option><option value="Size 1">Size 1  - ($31.00)</option><option value="Size 2">Size 2 - ($31.00)</option><option value="Size 3">Size 3 - ($35.00)</option><option value="Size 4">Size 4 - ($35.00)</option><option value="Size 5">Size 5 - ($39.00)</option><option value="Size 6">Size 6  - ($45.00)</option><option value="Size 7">Size 7  - ($45.00)</option></select></td></tr><tr><td align="center" class="ybtext" colspan="2" style="font-size:10px">Option 2: <select name="option2" id="option2_1386"><option value="select">Select</option><option value="Black" class="outofstock">Black - Size 1...</option><option value="Blue">Blue</option><option value="Grey">Grey </option><option value="Kiwi Green">Kiwi Green</option><option value="Orange">Orange</option><option value="Pink" class="outofstock">Pink - Size 1 ...</option><option value="Purple" class="outofstock">Purple - Size ...</option><option value="Red" class="outofstock">Red - Size 0 o...</option><option value="Yellow">Yellow</option></select></td></tr><tr><td colspan="2" align="center"><span class="redtext">$31.00 - $45.00</span><span class="text" style="color:#000000;">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px" onclick="return checkOptions('1386', '2')"></center></td></tr><tr><td align="center" colspan="2" class="fineprint">Options in <span class="outofstock" style="padding-left:2px;padding-right:2px">gray</span> are temporarily out of stock</td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/VA020.htm"><img src="https://leerburg.com/cart/img/VA020_1.png" alt="Level 5 Advanced Synthetic Bite Sleeve w/ Iron Handle" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/VA020.htm"><span style="line-height:100%;font-weight:bold;">Level 5 Advanced Synthetic Bite Sleeve w/ Iron Handle</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="1711"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$123.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr><tr><td align="center" colspan="2"><span class="redfineprint">Out of stock</span></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/120.htm"><img src="https://leerburg.com/cart/img/120.png" alt="Your Puppy 8 Weeks to 8 Months DVD" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/120.htm"><span style="line-height:100%;font-weight:bold;">Your Puppy 8 Weeks to 8 Months DVD</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="29"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/302.htm"><img src="https://leerburg.com/cart/img/302.png" alt="Basic Dog Obedience" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/302.htm"><span style="line-height:100%;font-weight:bold;">Basic Dog Obedience</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="57"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/219.htm"><img src="https://leerburg.com/cart/img/219.jpg" alt="The Power of Training Dogs with Markers DVD" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/219.htm"><span style="line-height:100%;font-weight:bold;">The Power of Training Dogs with Markers DVD</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="1310"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$40.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+		
+	<div class="section" align="center">
+		<a href="http://leerburg.com/228.htm"><img src="https://leerburg.com/cart/img/228.png" alt="Advanced Concepts in Motivation with Michael Ellis" style="padding-bottom:6px"></a><br>
+		<a href="http://leerburg.com/228.htm"><span style="line-height:100%;font-weight:bold;">Advanced Concepts in Motivation with Michael Ellis</span></a><br>
+        <form action="/cart/addCart.php" method="POST"><input type="hidden" name="ItemID" value="2068"><input type="hidden" name="ItemQuantity" value="1"><input type="hidden" name="UID" value="20120503040908204.236.226.210"><input type="hidden" name="Date" value="2012:123:2012-05-03"><table width="100%" border="0"><tbody><tr><td colspan="2" align="center"><span class="redtext">$65.00</span><span class="text">+s&amp;h</span></td></tr><tr><td colspan="2" align="center"><center><input type="image" src="https://leerburg.com/photos/addtocart_i.png" class="addtocart" align="center" height="28px" width="106px"></center></td></tr></tbody></table></form>	</div>
+	
+	<br>
+	
+	</div>				
+</div>	
+		
+	
+<div id="footer" style="background-color:#ffffff;">
+	<div style="margin:0px auto;width:100%;">
+		<div style="float:left;background-color:#ffffff;padding-left:15px;"><img src="https://leerburg.com/Photos/footer_logo.png" alt="Leerburg"></div>
+		<div style="float:right;padding-top:20px;background-color:#ffffff;padding-right:15px;"><a href="#top">Back to Top</a> <a href="#top"><img src="https://leerburg.com/Photos/top.png" alt="Back to Top"></a></div>
+		<div style="clear:both;border-bottom:1px solid #7D7D7D;background-color:#ffffff;">&nbsp;</div>
+		<div style="padding-top:30px;background-color:#ffffff;width:100%;">
+			<div class="columns" style="padding-left:56px;width:170px;">
+				<a href="http://leerburg.com/" class="header">HOME</a><br>
+				<a href="http://leerburg.com/flix" class="header">VIDEOS</a>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://leerburg.com/flix" class="columns">Video On Demand</a><br>
+						<a href="http://leerburg.com/dvd.htm" class="columns">Leerburg DVDs</a><br>
+						<a href="http://www.youtube.com/user/leerburg" class="columns">Youtube</a><br>
+					</div>
+			<br></div>
+			<div class="columns">
+				<a href="http://www.leerburg.com" class="header">TRAINING</a><br>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://www.leerburg.com/obediencetrainingdogs.htm" class="columns">Dog Obedience</a><br>
+						<a href="http://www.leerburg.com/dominantdogs.htm" class="columns">Aggression &amp; Dominance</a><br>
+						<a href="http://www.leerburg.com/puppytraining.htm" class="columns">Puppy Training</a><br>
+						<a href="http://www.leerburg.com/housetraining.htm" class="columns">House Training</a><br>
+						<a href="http://www.leerburg.com/feedingdogs.htm" class="columns">Feeding</a><br>
+						<a href="http://www.leerburg.com/breedingdogs.htm" class="columns">Breeding</a><br>
+						<a href="http://www.leerburg.com/qaelectric.htm" class="columns">Electric Collar</a><br>
+						<a href="http://www.leerburg.com/schutzhund.htm" class="columns">Schutzhund</a><br>
+						<a href="http://www.leerburg.com/k9training.htm" class="columns">K9 Training</a><br>
+					</div>
+			<br>
+			</div>
+			<div class="columns">
+				<a href="#" class="header">EQUIPMENT</a><br>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://leerburg.com/dvdbooks.htm" class="columns">DVDs &amp; Books</a><br>
+						<a href="http://leerburg.com/equip.htm" class="columns">Training Gear</a><br>
+						<a href="http://leerburg.com/toy.htm" class="columns">Dog Toys</a><br>
+						<a href="http://leerburg.com/healthnutrition.htm" class="columns">Health &amp; Nutrition</a><br>			
+					</div>
+				<a href="#" class="header">Q&amp;A</a>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://leerburg.com/obedienceequip.htm" class="columns">Q&amp;A Puppy &amp; Obedience</a><br>
+						<a href="http://leerburg.com/qa/qna_category.php?categoryid=31" class="columns">Q&amp;A Behavioral Problems</a><br>
+						<a href="http://leerburg.com/qa/qna_category.php?categoryid=55" class="columns">Q&amp;A Protection Training</a><br>
+						<a href="http://leerburg.com/qa/qna_category.php" class="columns">More Q&amp;A »</a><br>
+					</div>
+			</div>
+			<div class="columnF">
+				<div style="float:left;width:140px;border:0px solid #000000;">
+				<a href="#" class="header">ABOUT US</a>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://leerburg.com/leerburgstaff.htm" class="columns">Meet the Staff</a><br>
+						<a href="http://leerburg.com/contact.htm" class="columns">Contact Us</a><br>
+						<a href="http://leerburg.com/affiliate.htm" class="columns">Affiliate Program</a><br>
+					</div>
+				</div>
+				<div style="float:right;width:145px;border:0px solid #000000;">
+				<a href="#" class="header">FOLLOW US</a><br>
+					<div style="padding-left:10px;margin-top:-3px;line-height:180%">
+						<a href="http://www.facebook.com/leerburg" class="columns">Facebook</a><br>
+						<a href="http://twitter.com/leerburg" class="columns">Twitter</a><br>
+						<a href="http://www.youtube.com/user/leerburg" class="columns">Youtube</a><br>
+						<a href="https://plus.google.com/b/115334324100729868313/115334324100729868313/posts" class="columns">Google+</a><br>
+						<a href="http://leerburg.com/catalog.htm" class="colmuns" style="font-weight:normal">Catalog</a><br>
+						<a href="http://leerburg.com/newsletter.htm" class="columns">Newsletter</a><br>
+					</div>
+				</div>
+				<div style="clear:both;white-space:nowrap;padding-top:40px;text-align:right">
+				<div id="searchwrapper">
+				<form id="formsearch" name="formsearch" method="get" action="http://leerburg.com/search/dosearch.php">
+					<input type="text" class="searchbox" name="terms" value="">
+					<input type="image" src="https://leerburg.com/Photos/search_trans.png" name="Submit" title="Submit Search" class="searchbox_submit" value="">
+				</form>
+			</div>
+				</div>				
+			</div>
+		</div>
+	</div>
+
+	<div class="f_text" style="background-color:#ffffff;">Copyright 2010 Leerburg® Enterprises, Inc. All rights reserved. All photos and content on leerburg.com are part of a registered copyright owned by Leerburg Enterprise, Inc. <br>By accessing any information within Leerburg.com, you agree to abide by the Leerburg.com <a href="http://leerburg.com/privacy.htm" target="_blank">Privacy Policy</a> and <a href="http://leerburg.com/termsofuse.htm" target="_blank">Terms of Use</a>.
+</div>	
+</div>
 
 
 
 
 
-
-
-
+<script language="JavaScript">
+	function showdiv(id, visibility) {
+	document.getElementById(id).style.display = visibility;
+	}
+</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -546,9 +1240,5 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-11086961-1");
 pageTracker._trackPageview();
-} catch(err) {}</script></div>
-
-
-
-<!-- InstanceEnd -->
-</body></html>
+} catch(err) {}</script><p></p>
+</div></div></body></html>
