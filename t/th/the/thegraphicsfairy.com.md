@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegraphicsfairy.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007232759id_/http%3A//graphicsfairy.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegraphicsfairy.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233236id_/http%3A//graphicsfairy.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# *The Graphics Fairy*: Privacy Policy
+# *The Graphics Fairy LLC*: Privacy Policy
 
 **Privacy Policy for http://graphicsfairy.blogspot.com/**
 
