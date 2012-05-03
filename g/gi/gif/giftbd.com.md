@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202042752id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013644id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# GiftBD.com - Send gift to bangladesh, bangladeshi gift, sharee, salwar kamiz, panjabi, saree, sari, fatua, send birthday gift to bangladesh, send flower to bangladesh, eid gift, valentinesday gift, ramadan iftar, new year
+# GiftBD.com - Send gifts to bangladesh
 
  
 
@@ -31,4 +31,8 @@ Giftbd  also allows any customer to create an account with giftbd .com. This al
   
 Welcome to giftbd.com. Send Gifts to Bangladesh for All occasions. A site that understands the value of quality and   
 great customer service. Let us be your ambassador in finding and sending gifts to Bangladesh.   
-Nationwide Free Delivery. Lowest Price Guaranteed. Call us - 8806662606145, 01971515372.
+Nationwide Free Delivery.   
+Call us : 8802- 8711316 , 01731515372,  01971515372 .
+
+  
+
