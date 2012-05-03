@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004119id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503173737id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Sports Arbitrage (Surebet) Software - RebelBetting
 
@@ -8,9 +8,11 @@ RebelBetting and ClaroBet AB is committed to having the highest possible standar
 
 #### Collected information
 
-When registering your username and password, you will only need to submit your email.
+When registering your username and password, you will only need to submit your email. Your IP address will in some cases be logged. No other information is collected by ClaroBet AB. 
 
-If you choose to purchase the full version of RebelBetting you will only be asked for your postal address. Your IP address will also be stored. No other information is collected by ClaroBet AB. All other information required for purchase (credit card information etc) is handled and stored securely by our international payment partners to provide maximum security.
+If you choose to purchase the full version of RebelBetting you will be forwarded to a selection of payment gateways where you need to be registered with name and address. All payment information (credit card information etc) is handled and stored securely by these payment gateways and can not be accessed by ClaroBet.
+
+The payment pages are securely protected and encrypted by HTTPS/SSL.
 
 #### Sharing of information
 
@@ -24,9 +26,8 @@ The RebelBetting software communicates with our servers to provide the user with
 
 Sensitive information stored in RebelBetting like bookmaker login information is stored on the user's computer using a master password and a "salt" with an industrial strength encryption. 
 
-Optionally, starting the program can require the master password to be entered. This means that even if your computer is compromised, the sensitive information is safe.
-
-(The master password can also be remembered and will then be saved encrypted bound to your machine and Windows account, we do not recommend this for security reasons).
+Optionally, starting the program can require the master password to be entered. This means that even if your computer is compromised, the sensitive information is safe.  
+(The master password can also be remembered and will then be saved encrypted bound to your machine and Windows account, we do not recommend this if you want maximum security).
 
 Both our software and our web site is signed by certificates verifying ClaroBet AB as the owner. The software certificate also verifies that the software has not been tampered with since release.
 
@@ -40,4 +41,4 @@ Any personal information is encoded using Secure Sockets Layer (SSL) technology 
 
 Cookies are small files which many web sites transfer to your hard disk. They can inform the web site what pages you visit, and your preferences, which enable web sites to provide you with a more personalized service. You can set your browser to refuse cookies, or to warn you before accepting them. Cookies are currently not required at rebelbetting.com.
 
-This privacy statement is subject to change without prior notice.
+ This privacy statement is subject to change without prior notice.
