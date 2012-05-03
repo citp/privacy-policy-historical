@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togetherweearn.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113060546id_/http%3A//togetherweearn.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togetherweearn.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011538id_/http%3A//togetherweearn.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Together We Earn
 
