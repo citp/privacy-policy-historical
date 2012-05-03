@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013123id_/http%3A//www.vfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfs.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/privacy) for the most accurate reproduction.*
 
 # Vancouver Film School: Production, Animation, Game Design, Acting and more
 
@@ -58,6 +58,6 @@ Email: [jhughes@vfs.com](mailto:jhughes@vfs.com)
 
 
 
-For further information please download Vancouver Film School's '[Personal Information Privacy Policy for Students](https://web.archive.org/web/20111102013123id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)' document.
+For further information please download Vancouver Film School's '[Personal Information Privacy Policy for Students](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)' document.
 
-[Download VFS Privacy Policy.](https://web.archive.org/web/20111102013123id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)
+[Download VFS Privacy Policy.](https://web.archive.org/web/20120503214836id_/http%3A//www.vfs.com/downloads/global/VFS_privacy_policy.pdf)
