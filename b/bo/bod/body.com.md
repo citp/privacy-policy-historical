@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the body.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225122id_/http%3A//www.body.com/terms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the body.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503041205id_/http%3A//www.body.com/terms/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Body.com | The Ultimate Adult Community
-
-1 
-
-[](http://www.body.com/profile/view/kwon06)
-
-####  [ kwon06 ](http://www.body.com/profile/view/kwon06)
-
-41 year old  
-Seeking: Men 
-
-1 
-
-[](http://www.body.com/profile/view/cashisking)
-
-####  [ rhys ](http://www.body.com/profile/view/cashisking)
-
-32 year old  
-Seeking: Women 
 
 ## Privacy Policy
 
