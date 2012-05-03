@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewaytosuccess.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123005205id_/http%3A//freewaytosuccess.net/privacy-01.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewaytosuccess.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503055112id_/http%3A//freewaytosuccess.net/privacy-new.html) for the most accurate reproduction.*
 
-# Welcome To Freeway to Success
+# Untitled Document
 
 FREEWAY TO SUCCESS
 
@@ -12,9 +12,9 @@ Personal information collection
 
 FREEWAY TO SUCCESS may collect and use the following kinds of personal information: 
 
-  * [information that you provide using for the purpose of registering with the website (including Name, address, phone number, email address, Social Security number, DOB)
-  * [information about transactions carried out over this website (including credit/debit card; account numbers)] 
-  * [any other information that you send to FREEWAY TO SUCCESS.]
+  * information that you provide using for the purpose of registering with the website (including Name, address, phone number, email address, Social Security number, DOB)
+  * information about transactions carried out over this website (including credit/debit card; account numbers) 
+  * any other information that you send to FREEWAY TO SUCCESS.
 
 
 
@@ -22,22 +22,26 @@ Using personal information
 
 FREEWAY TO SUCCESS may use your personal information to: 
 
-  * [administer this website;]
-  * [personalize the website for you;]
-  * [enable your access to and use of the website services;]
-  * [publish information about you on the website;]
-  * [supply to you services that you purchase;]
-  * [send you statements and invoices;]
-  * [collect payments from you; and]
-  * [send you marketing communications.]
+  * administer this website;
+  * personalize the website for you;
+  * enable your access to and use of the website services;
+  * publish information about you on the website;
+  * supply to you services that you purchase;
+  * send you statements and invoices;
+  * collect payments from you; and
+  * send you marketing communications.
 
 
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, FREEWAY TO SUCCESS may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
+Protection Your Information
+
+We acknowledge your trust and are committed to take reasonable steps to protect personal identifiable information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic and managerial processes to safeguard your information. It is your responsbility to safeguard the password you use to access our site and to promptly advise FTS if you ever suspect your password has been compromised. We strongly advise you to change your password regularly to prevent unauthorized access.
+
 Securing your data
 
-FREEWAY TO SUCCESS will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+FREEWAY TO SUCCESS will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. 
 
 FREEWAY TO SUCCESS will store all the personal information you provide on its secure servers. 
 
@@ -68,6 +72,6 @@ Contact FREEWAY TO SUCCESS
 If you have any questions about this privacy policy or FREEWAY TO SUCCESS treatment of your personal information, please write to:
 
   * Email to: support@freewaytosuccess.net ; or 
-  * By post to: 2023 Jefferson Ave SW, Decatur, AL  35603
+  * By post to: 2321 Shelburne Ave SW, Decatur, AL  35603
 
 
