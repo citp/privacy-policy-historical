@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003317id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223928id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
 # NTUC Income | About Us
 
@@ -108,11 +108,15 @@ Singapore 189557
 
 me@income
 
-[](https://orgnet.income.com.sg/meincome/default.aspx)
+[](https://appsonline.income.com.sg/meincome/default.aspx)
 
-[](https://orgnet.income.com.sg/meincome/RequestPwd.aspx)
+[](https://appsonline.income.com.sg/meincome/RequestPwd.aspx)
 
 Buy Online
+
+Online Payment
+
+[](https://appsonline.income.com.sg/meincome/OnlinePayment.aspx)
 
 Branches / Business Centres
 
