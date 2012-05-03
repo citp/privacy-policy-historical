@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109075622id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000901id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -45,7 +45,6 @@ The type of information we will collect about you includes:
 
   * your name and address
   * your e-mail address
-  * your credit card details if you purchase items from us
   * your interests
   * details about the products or services you specifically request
   * information you complete in relation to our customer surveys
@@ -76,13 +75,13 @@ To comply with the Data Protection Act 1998 we adhere to strict security procedu
 
 We would like to contact you in the future for marketing purposes by post, e-mail and telephone but we need your consent to do this. If you would like us to contact you (including by e-mail or telephone) concerning our services and career opportunities that may be of interest to you then please check the appropriate box on the new account registration form.
 
-You may refuse any marketing or career communication from us in the future at any time by unsubscribing those preferences from [My Account](https://web.archive.org/my-account/account-details/ "Follow this link to go to your account"), writing to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "Follow this link to contact us").
+You may refuse any marketing or career communication from us in the future at any time by unsubscribing those preferences from [My Account](https://web.archive.org/my-account/account-details/ "go to your account"), writing to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us").
 
-Should you wish to obtain a copy of the personal data that we hold on you, please write to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "Follow this link to contact us"). As soon as we are satisfied as to your identity, we will send you, within 40 days, a copy of all the data that we hold concerning you.
+Should you wish to obtain a copy of the personal data that we hold on you, please write to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). As soon as we are satisfied as to your identity, we will send you, within 40 days, a copy of all the data that we hold concerning you.
 
-If you have a complaint regarding any breach of this privacy policy, write to us at the address above or click on [Contact Us](https://web.archive.org/your-journey/contact-us/ "Follow this link to contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
+If you have a complaint regarding any breach of this privacy policy, write to us at the address above or click on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
 
-When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit the All About Cookies website for further information") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
+When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies website") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
 
 We automatically collect and store only the following information about your visit:
 
