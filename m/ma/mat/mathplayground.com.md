@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathplayground.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011155219id_/http%3A//www.mathplayground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathplayground.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225558id_/http%3A//www.mathplayground.com/privacy.html) for the most accurate reproduction.*
 
 # Math Playground Privacy Statement
 
