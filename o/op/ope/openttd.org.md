@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openttd.org privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230181442id_/http%3A//account.openttd.org/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openttd.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503080952id_/http%3A//account.openttd.org/en/policy) for the most accurate reproduction.*
 
 # OpenTTD
 
