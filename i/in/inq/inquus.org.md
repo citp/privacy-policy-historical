@@ -1,15 +1,24 @@
-> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209041947id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquus.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000935id_/http%3A//openstudy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – OpenStudy – Make the World Your Study Group
+# OpenStudy: Study Together
+
+## Sign Up For Free
+
+### 188 helpers are online right now
+
+75% of questions are answered within 5 minutes.
+
+##### Forgot Your Password?
 
   * [About Us](https://web.archive.org/about-us)
-  * [Partner With Us](https://web.archive.org/partner-with-us)
   * [Contact Us](mailto:contact@openstudy.com)
+  * [Partner With Us](https://web.archive.org/partner-with-us)
   * [Press](https://web.archive.org/press)
   * [Terms](https://web.archive.org/terms-and-conditions)
   * [Privacy](https://web.archive.org/privacy-policy)
+  * [Code of Conduct](https://web.archive.org/code-of-conduct)
 
-[OpenStudy](https://web.archive.org/home)
+
 
   1. ## Introduction
 
