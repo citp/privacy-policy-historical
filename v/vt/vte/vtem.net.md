@@ -1,51 +1,97 @@
-> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115092020id_/http%3A//www.vtem.net/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002707id_/http%3A//vtem.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-[](http://vtem.net/)
+VTEM values the privacy and security of the information that you share with us through www.vtem.net.  It is important that you understand how we collect, use, and maintain your information. You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete VTEM Privacy Policy.
 
-Privacy policy
+## **General Information**
 
-VTEM.NET has created this privacy policy in order to respect and protect the privacy and security of our users.
+We may periodically update this Privacy Policy from time to time.  Changes to this Privacy Policy are effective upon posting.  Please check back periodically for updates.  If at any point we decide to use Personal Information in a manner that is materially different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this new manner.
 
-Our site's registration form requires you to give us contact information like email-address or domain name .We use information from the registration for internal purposes only.
+The amount, type, and use of information we collect depends on how you use this Web Site.  This Privacy Policy applies only to the practices of VTEM and its employees.  VTEM will not apply the provisions of this Privacy Policy to Business Contact Information or Aggregated Information.
 
-This site gives users the option of removing their information from our database to not receiving future communications. Please let us know by sending us e-mail at [services@vtem.net](mailto:services@vtem.net). This e-mail address is being protected from spambots. You need JavaScript enabled to view it We consider all data we collect through this website and elsewhere as private confidential information, and we will keep it private . We will not share  individually identifiable information about our website visitors, clients, or their applicants to any third party unless permission is granted in writing by our website visitor, client, or their applicants.
+## **Definitions**
 
-IP addresses are recorded in our website log files. The content of the log files are analyzed periodically to help us aggregate trends and statistics to better understand how our site is being used and to make it more effective.Your IP address only indicates where you connected from it does not identify for us who you are when you are just browsing through our site.
+“Personal Information” includes, your name, address information, personal e-mail address and URL, telephone number, account username and password, as well as other, similar information. 
 
-This site contains links to other sites. We do not review or control the privacy practices or the content of such websites.
+“Prospect Information” includes the same information as Personal Information except that Prospect Information is information that is submitted by an individual who is not the subject of the data submitted.
 
-If you have any questions about our Privacy Policy, our practices, or your experience on our website, Please contact us at [services@vtem.net](mailto:services@vtem.net)
+“Non-Identifying Personal Information” includes information about you, including, without limitation, your Internet service provider, browser type, domain name, the Web Site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points.
 
-### Technology
+“Business Contact Information” includes the name, title, business address, or telephone number of an employee in an organization.  It also includes departmental e-mail addresses that contain no individually identifiable information.  Business Contact Information is not Personal Information.
 
-### Validation Templates
+“Aggregated Information” is any information about more than one individual where the individual identities are unknown and cannot be inferred from the information.  Aggregated Information is not Personal Information.
 
-  * 100% HTML Tableless (only DIV) code.
-  * Validated with CSS 2.1 and XHTML 1.0 Transitional via W3C validation tools
-  * Extensions (as demo) included
-  * Clean and well comments in CSS and PHP code
-  * Tutorial + Detailed userguide
-  * Compatible via cross Browser Support (IE 7+, Safari, Mozilla Firefox, Opera 9+)
+## **Collection of Personal Information or Prospect Information**
+
+VTEM may collect Personal Information from you, but only if you provide it to us voluntarily. We also collect Personal Information that you provide to our suppliers, which they pass on to us so that we can fulfill your order.  You must provide Personal Information in the form of a unique identifier (username, password) to enter certain parts of our web site.  In addition, in certain situations, such as when a purchaser buys a product as a gift and supplies the recipients’ name and address, we collect Prospect Information.
+
+## **Collection and Use of Non-Identifying Personal Information**
+
+During your use of our Web Site, we will collect certain Non-Identifying Personal Information to enhance the functionality of the Web Site and to make your access more convenient and efficient.  We retain Non-Identifying Personal Information and use it to establish Web Site activity trends, monitor Web Site performance, improve Web Site design and functionality, fulfill orders, inform current and potential customers and suppliers about our services, and for other business purposes.  Our collection of Non-Identifying Personal Information may involve the use of cookies.  Among other uses, cookies allow us to deliver content specific to your interests, to save you from re-entering your registration data at each connection, and to provide features such as online customer payment and shopping carts.  The Help portion of the toolbar on most browsers will tell you how to configure your web browser to accept cookies, to prevent your browser from accepting new cookies, to have the browser notify you when you receive a new cookie, or to disable cookies altogether.  No personal or unencrypted information will be encoded in cookies that are stored on your computer.
+
+## **Children**
+
+VTEM does not sell products for purchase by children.  We do not knowingly collect, maintain, or use Personal Information or Prospect Information from children under age 13.  If you are under age 13, do not share personal information with us.
+
+## **Use of Personal Information**
+
+VTEM may use and disclose Personal Information or Prospect Information as described in this document.  In addition to the uses described in this document, we may use Personal Information or Prospect Information for purposes that include maintaining the Web Site, order fulfillment and administration, and product surveys, administrative and analytical purposes like accounting, billing and audits, and information system management, and other, similar uses.  We may also use Personal Information or Prospect Information to provide current and potential customers and suppliers with information about our services.
+
+We only collect, use, and disclose Personal Information or Prospect Information for purposes that are reasonable in the circumstances.  We use only fair and lawful means to collect Personal Information or Prospect Information.
+
+We reserve the right to use or disclose Aggregated Information and Business Contact Information in ways that we think are appropriate.
+
+Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you.  Only VTEM (or agents working on behalf of VTEM and under confidentiality agreements) will send you these direct mailings. If you do not want receive such mailings, simply tell us when you give us your personal information.  Or, at any time you can easily opt-out of VTEM's marketing list or update your information by notifying us at [admin@vtem.net](mailto:admin@vtem.net).
+
+## **Agents**
+
+We disclose Personal Information or Prospect Information to other companies and individuals to perform functions for us under confidentiality agreements. These types of agents include mailing and delivery companies, marketing service providers, database managers, customer service representatives, and other agents who perform functions for or on our behalf. These agents may perform functions such as analyzing data, supplying marketing assistance, providing search results and links (including paid listings and links), fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, processing credit card payments, and providing customer service.  Where we disclose Personal Information or Prospect Information to organizations that perform services on our behalf, we will require those organizations to use such information solely for the purposes of providing services to us and to protect the Personal Information or Prospect Information with appropriate safeguards.
+
+## **Protection of VTEM and Others**
+
+We may use or disclose Personal Information or Prospect Information without your consent in certain circumstances:
+
+  * If we are required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
+  * If we have reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;
+  * If we have reasonable grounds to believe that the information relates to breach of an agreement or violation of the law that has been, is being, or is about to be committed;
+  * If it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
+  * If it is necessary to enforce or apply our Terms of Use and other agreements, to pursue remedies, or to limit damages to VTEM;
+  * If the information is public;
+  * For other reasons allowed or required by law.
 
 
 
-### Payment Methods
+When we are required or permitted to disclose information without consent, we will not disclose more information than is necessary to fulfill the disclosure purpose.
 
-We are using secure Paypal payment method. You can pay directly form your Credit Card via Paypal and NEVER store your card information on our site. PayPal is the online payment service that allows you to pay at the online store safely, easily and quickly - and free.
+## **Consent**
 
-### Custom Work
+We will obtain your consent to the collection, use, and disclosure of that information as described in this Privacy Policy. If you do not consent to our collection, use, or disclosure of your Personal Information as described in this Privacy Policy, then do not share Personal Information with us.  However, we are unable to offer some services, like processing purchases, without Personal Information. 
 
-As many requests & questions about custom work, we offer full range of web development & custom work:
+You may withdraw your consent at any time, subject to reasonable notice and legal or contractual obligations. To withdraw your consent, simply tell us of the Personal Information that you no longer wish us to collect, use, or disclose through the Contact Information listed below.  However, we are unable to offer some services, like processing purchases, without Personal Information.   
 
-  * **PSD to Joomla Template**
-  * **Joomla Custom Template**
-  * **Prestashop Custom Template**
-  * **Drupal Custom Template**
-  * **Joomla Design and Development**
-  * **Joomla Extension Development**
+There are limited situations in which applicable laws require or allow us to collect, use, or disclose Personal Information without your consent or after you withdraw your consent.  We describe these situations under “Protection of VTEM and Others” in the section on Use of Personal Information or Prospect Information in this Privacy Policy.
 
+## **Retention and Access**
 
+We will take reasonable steps to keep Personal Information or Prospect Information accurate, complete, current, and relevant to its intended use.  We keep Personal Information or Prospect Information only as long as we need it for the reasons it was collected.  When Personal Information or Prospect Information is no longer required for our purposes, we have procedures to destroy, delete, or erase it or to convert it to an anonymous form.
 
-For more information please [Contact Us](http://vtem.net/en/contact-us.html) for a free Quote today!
+At your request, we will provide you with reasonable access to your Personal Information, so that you can review what we have stored and, if you choose, request corrections to it.
+
+## **Security**
+
+VTEM combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information that you provide online at our Web Site.  We will use commercially reasonable efforts to protect your information, continue to assess new technology for protecting information, and when appropriate, upgrade our information security systems.  
+
+Further, we permit only authorized VTEM employees and third parties to access any Personal Information or Prospect Information that you supply to us. If an employee misuses Personal Information or Prospect Information, we will take disciplinary action, up to and including termination of employment.  If any third party individual or organization misuses Personal Information or Prospect Information, we will take action, up to and including termination of any agreement between VTEM and that individual or organization.
+
+## **Links to Other Web Sites**
+
+When you click on a link on this Web Site that takes you to a web site operated by another company, you will be subject to that company’s web site privacy policies.
+
+## **Dispute Resolution**
+
+Please direct any questions or concerns regarding the use or disclosure of Personal Information or Prospect Information to us by using the Contact Information given below.  We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy.
+
+## **Contact information**
+
+If you have any question about this policy or our site, please feel free to contact with us using [admin@vtem.net](mailto:admin@vtem.net) email address.
