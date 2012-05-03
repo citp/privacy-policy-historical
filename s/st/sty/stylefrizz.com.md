@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylefrizz.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008072323id_/http%3A//stylefrizz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylefrizz.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003527id_/http%3A//stylefrizz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — StyleFrizz
 
