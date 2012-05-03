@@ -1,30 +1,33 @@
-> *The following text is extracted and transformed from the pronetworks.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013061721id_/http%3A//www.pronetworks.org/index.php/content/information/pronetworks_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronetworks.org privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230608id_/http%3A//www.pronetworks.org/privacy) for the most accurate reproduction.*
 
-# PROnetworks Privacy Policy
+# Privacy Policy | PROnetworks Technology
 
-Privacy Policy for www.pronetworks.org 
+###### Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pronetworks.org@gmail.com. 
+**PROnetworks.org Privacy Policy Effective as of March 3, 2011**
 
-At www.pronetworks.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pronetworks.org and how it is used. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pronetworks.org@gmail.com
 
-**Log Files**  
-Like many other Web sites, www.pronetworks.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+At www.pronetworks.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pronetworks.org and how it is used.
 
-**Cookies and Web Beacons**  
-www.pronetworks.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+**Log Files**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Vibrant Media, and Amazon. 
+Like many other Web sites, www.pronetworks.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pronetworks.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+**Cookies and Web Beacons**
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+www.pronetworks.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Vibrant Media, and Amazon.
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pronetworks.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-www.pronetworks.org has no access to or control over these cookies that are used by third-party advertisers. 
+www.pronetworks.org has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pronetworks.org's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pronetworks.org's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-5781 Views and 0 Comments
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
