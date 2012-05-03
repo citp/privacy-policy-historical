@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeebreakarcade.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223407id_/http%3A//coffeebreakarcade.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeebreakarcade.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003707id_/http%3A//www.coffeebreakarcade.com/policy.htm) for the most accurate reproduction.*
 
 # Coffee Break Arcade / Privacy Policy
 
