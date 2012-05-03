@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockmarketsreview.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011110106id_/http%3A//www.stockmarketsreview.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmarketsreview.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204624id_/http%3A//www.stockmarketsreview.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy | StockMarketsReview.com
+# Privacy Policy | StockMarketsReview.com
 
 No Release of Information to Third Parties: 
 
@@ -8,4 +8,4 @@ Your privacy is importance to us, which is why we will never share your personal
 
 There are no other circumstances under which will be provide or sell personal information to third parties. 
 
-The information obtained through this site is to be used solely to provide you with efficient, professional service from StockMarketsReview.com
+The information obtained through this site is to be used solely to provide you with efficient, professional service from StockMarketsReview.com 
