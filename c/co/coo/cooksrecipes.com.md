@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105813id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215936id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -38,4 +38,4 @@
 > 
 > If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 > 
-> [Contact CooksRecipes.com](https://web.archive.org/web/20111101105813id_/http%3A//www.cooksrecipes.com/contact.htm)
+> [Contact CooksRecipes.com](https://web.archive.org/web/20120503215936id_/http%3A//www.cooksrecipes.com/contact.htm)
