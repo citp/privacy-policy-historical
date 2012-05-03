@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the awardwallet.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205152735id_/http%3A//awardwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardwallet.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204458id_/http%3A//awardwallet.com/privacy.php) for the most accurate reproduction.*
 
-# Track frequent flyer miles, cheap airfare, air miles reward program
+# Privacy Policy Statement
 
-Privacy Policy Statement
+  
+
 
 Thank you for your interest in AwardWallet.com.
 
@@ -26,7 +27,8 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email addresses. 
 
-Safe Harbor
-
   
+  
+
+
 AwardWallet LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AwardWallet LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AwardWallet LLC ’s certification, please visit <http://www.export.gov/safeharbor/>
