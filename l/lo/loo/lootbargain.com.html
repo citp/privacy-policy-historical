@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lootbargain.com privacy policy that was archived on 2011-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209055404id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lootbargain.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503222635id_/http%3A//www.lootbargain.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,15 +20,54 @@
         <link rel="stylesheet" type="text/css" href="css/ie7.css">
 <![endif]-->
 
+<style type="text/css">
 
+/*citypop*/
+#citypop {background:url(images/main-cities-bg.png) no-repeat center bottom; position:absolute; z-index:1000; margin:40px 0px 0px 275px; width:171px; display:none;}
+#citypop ul {margin:0px 10px 10px 10px; float:left;}
+#citypop ul li {background:url(images/cities-arrow.png) no-repeat left 4px; padding-left:13px; margin:3px 0px;}
+#livechat { margin:-5px 15px 0px 0px; padding:0px; z-index:999; float:left;}
+</style>
 <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
 
 
 <div id="header">  
       	<div id="header_resize">
         		<div id="headertop">
-	        <p class="left"><a href="search-result.php?action=Today's Deals">Today's Deals</a>  <a href="search-result.php?action=All India Deals">All India Deals</a>    <a href="coupons-by-category.php">Categories</a>    <!---a href="coupons-by-brands.php">Brands</a-->   <!--<a href="/blog/">Blog</a>--></p>
-          <p class="right">
+	        <p class="left"><a href="search-result.php?action=Today's Deals">Today's Deals</a>  <a href="search-result.php?action=All India Deals">All India Deals</a>    <a href="coupons-by-category.php">Categories</a><!-- <a href="delhi">Deals of Delhi</a>  --> <a href="javascript:void(0)" style="background:url(images/cities-dd-arrow.png) no-repeat right 5px; padding-right:20px; margin-right:10px;" onclick="document.getElementById('citypop').style.display='block'; showcity()">Cities</a> <!--<a href="/blog/">Blog</a>--></p>
+         <input type="hidden" name="citylist" value="0" id="citylist">
+
+					<script language="javascript">
+					function showcity()
+					{
+					
+						if(document.getElementById('citylist').value==0)
+						{
+						document.getElementById('citypop').style.display='block';
+						document.getElementById('citylist').value=1;		
+						return false;		
+						}
+						else{
+						document.getElementById('citypop').style.display='none';
+						document.getElementById('citylist').value=0;		
+						}
+					}
+					
+					</script>
+		 <div id="citypop">
+       	<ul>
+        	<li><a href="delhi" onclick="document.getElementById('citypop').style.display='';">Delhi</a></li>
+            <li><a href="nagpur" onclick="document.getElementById('citypop').style.display='';">Nagpur</a></li>
+            <li><a href="chandigarh" onclick="document.getElementById('citypop').style.display='';">Chandigarh</a></li>
+            <li><a href="mumbai" onclick="document.getElementById('citypop').style.display='';">Mumbai</a></li>
+            <li><a href="pune" onclick="document.getElementById('citypop').style.display='';">Pune</a></li>
+			<li><a href="chennai" onclick="document.getElementById('citypop').style.display='';">Chennai</a></li>
+            <li><a href="bangalore" onclick="document.getElementById('citypop').style.display='';">Bangalore</a></li>
+        </ul>
+       </div>
+		 
+		   <p class="right">
+			<a href="javascript:void(0);" onclick="window.open('http://www.lootbargain.com/lblivehelp/livehelp.php?relative=Y&amp;serversession=1&amp;pingtimes=15','lbchat','width=590,height=450,titlebar=0,location=0,status=0,resizable=0,scrollbars=0,menubar=0,toolbar=0')"><img src="images/live-chat.gif" alt="Lootbargain live help!" title="Lootbargain live help!" border="0" id="livechat"></a>
                                 <a href="user-login.php">Sign In</a>  |  <a href="user-login.php#recent">Sign Up</a>
                             </p>
 <div class="clear"></div>     
@@ -89,7 +128,7 @@
     <td>&nbsp;</td>
 </tr>	
   <tr>
-    <td height="27" background="images/location-bg-left.png" style="min-width:160px; padding:0px 0px 0px 13px;">New Delhi (South &amp; Central), Delhi</td>
+    <td height="27" background="images/location-bg-left.png" style="min-width:160px; padding:0px 0px 0px 13px;">Delhi NCR, India</td>
     <td width="35" background="images/location-bg-right.png" style=" background-position:right; padding:2px 0px 0px 10px;"><a href="javascript:void(0);" onclick="document.getElementById('locate').style.display='';"><img src="images/location-button.png" border="0" alt=""></a></td>
   </tr>
 </tbody></table>
@@ -253,7 +292,7 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
         
         <!--start-fotter_resize-->
         <div id="fotter_resize">
-            <p class="left">© Copyright 2011 Lootbargain.com - All rights reserved. </p>
+            <p class="left">© Copyright 2012 Lootbargain.com - All rights reserved. </p>
             <!--<p class="right"><a href="under-construction.html">Merchant</a>  |  <a href="privacy-policy.php">Privacy policy</a>  |  <a href="tc.php#disclamer">Disclaimer</a>   |  <a href="about-us.php">About Us</a>  |  <a href="under-construction.html">Site Map</a></p>-->	
             
             <div id="snlinks"> 
@@ -278,15 +317,16 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about-us.php">About Us</a></li>
                 <li><a href="tc.php#disclamer">Disclaimer</a></li>
-                <li><a href="tc.php">Terms &amp; condition</a></li>
+                <li><a href="tc.php">Terms &amp; Conditions</a></li>
                 <li><a href="privacy-policy.php">Privacy Policy</a></li>
             </ul>
         	<ul>
             	<li><h1>Support</h1></li>
-                <li><a href="faq.php">Faq</a></li>
+                <li><a href="faq.php">FAQ</a></li>
 				<li><a href="under-construction.html">LB Referral Ads</a></li>
-                <li><a href="under-construction.html">Send Us Your Feedback</a></li>
+                <li><a href="contact-us.php">Feedback</a></li>
                 <li><a href="contact-us.php">Contact Us</a></li>
+                <li><a href="resources.php">Resources Links</a></li>
             </ul>
             <ul>
             	<li><h1>Merchant</h1></li>
@@ -298,7 +338,9 @@ Email: <a href="mailto:contact@lootbargain.com">contact@lootbargain.com</a>
             </ul>
             </div>
 			<div style="width:280px; float:right; text-align:left;" id="f-img">
-      	
+      		  <a href="bonanza-deals-of-the-day.php"><img src="images/f-bonanza-deals.png" alt="Bonanza Deals" border="0"></a>
+    		    <a href="deals-of-the-day.php"><img src="images/f-deals-of-day.png" alt="Deals of the Day" border="0"></a>
+		  	
 			<a href="user-login.php#recent"><img src="images/f-cashback.png" alt="Cashback"></a>
         </div>
         <div class="clear"></div>
