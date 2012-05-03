@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924132648id_/http%3A//www.centelia.net/support/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D14%26nav%3D0%2C2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225741id_/http%3A//www.centelia.net/billing/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D17) for the most accurate reproduction.*
 
-# Privacy Policy - Powered By Kayako eSupport
+# Centelia Networks - Knowledgebase
 
 1\. Privacy
 
@@ -75,3 +75,5 @@ While we cannot guarantee that loss, misuse or alteration to data will not occur
 You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Centelia. Make sure you keep login information in a safe place and do not share it with others.
 
 Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
+
+This privacy policy governs the manner in which Centelia uses, maintains and discloses information collected from its customers and users of our Services.("Centelia") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
