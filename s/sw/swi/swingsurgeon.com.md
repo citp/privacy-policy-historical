@@ -1,55 +1,47 @@
-> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103002927id_/http%3A//www.peakperformancegolfswing.com/ppgs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015758id_/http%3A//www.swingsurgeon.com/Home/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Peak Performance Golf Swing
+# Swing Surgeon Golf
 
-**PRIVACY POLICY**
+SwingSurgeon is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SwingSurgeon Web site and governs data collection and usage. By using the SwingSurgeon website, you consent to the data practices described in this statement.
 
-*Maven Marketing LLC along with any sites or individuals associated with these sites strive to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
+Collection of your Personal Information
 
-**How we gather information from users**
+SwingSurgeon collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. SwingSurgeon also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Maven Marketing LLC, and any other site or individual associated with these sites also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+There is also information about your computer hardware and software that is automatically collected by SwingSurgeon. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by SwingSurgeon for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SwingSurgeon Web site.
 
-**What we do with the information we collect**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SwingSurgeon public message boards, this information may be collected and used by others. Note: SwingSurgeon does not read any of your private online communications.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. Contact information may be shared between Maven Marketing LLC and registered affiliates of Maven Marketing LLC.
+SwingSurgeon encourages you to review the privacy statements of Web sites you choose to link to from SwingSurgeon so that you can understand how those Web sites collect, use and share your information. SwingSurgeon is not responsible for the privacy statements or other content on Web sites outside of the SwingSurgeon and SwingSurgeon family of Web sites.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Use of your Personal Information
 
-We may use Personally Identifiable Information collected on peakperformancegolfswing.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Maven Marketing LLC and other topics we think you might find of interest.
+SwingSurgeon collects and uses your personal information to operate the SwingSurgeon Web site and deliver the services you have requested. SwingSurgeon also uses your personally identifiable information to inform you of other products or services available from SwingSurgeon and its affiliates. SwingSurgeon may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Personally Identifiable Information collected by Maven Marketing LLC may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, offers, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+SwingSurgeon does not sell, rent or lease its customer lists to third parties. SwingSurgeon may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, SwingSurgeon may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to SwingSurgeon, and they are required to maintain the confidentiality of your information.
 
-**Affiliated sites, linked sites and advertisements**
+SwingSurgeon does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Maven Marketing LLC expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on peakperformancegolfswing.com or any site associated with, certain content that is actually created or hosted by a third party. Also, through Maven Marketing LLC you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Maven Marketing LLC is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+SwingSurgeon keeps track of the Web sites and pages our customers visit within SwingSurgeon, in order to determine what SwingSurgeon services are the most popular. This data is used to deliver customized content and advertising within SwingSurgeon to customers whose behavior indicates that they are interested in a particular subject area.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Maven Marketing LLC does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+SwingSurgeon Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SwingSurgeon or the site; (b) protect and defend the rights or property of SwingSurgeon; and, (c) act under exigent circumstances to protect the personal safety of users of SwingSurgeon, or the public.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Maven Marketing LLC and this policy.
+Use of Cookies
 
-**Children**
+The SwingSurgeon Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Maven Marketing LLC does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Maven Marketing LLC or any site associated with has any information from or about anyone under 13, please contact us at the address listed below.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SwingSurgeon pages, or register with SwingSurgeon site or services, a cookie helps SwingSurgeon to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same SwingSurgeon Web site, the information you previously provided can be retrieved, so you can easily use the SwingSurgeon features that you customized.
 
-**Contacting Us.**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SwingSurgeon services or Web sites you visit.
 
-We can be reached by contacting:  
-Peak Performance Golf Swing  
-Maven Marketing LLC  
-611 Bay Street  
-Beaufort, South Carolina 29902-5554  
-Phone: 1-800-428-1897  
-Email: [support@peakperformancegolfswing.com](mailto:support@peakperformancegolfswing.com)
+Security of your Personal Information
 
-**Changes to this Policy**
+SwingSurgeon secures your personal information from unauthorized access, use or disclosure. SwingSurgeon secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Maven Marketing LLC reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Changes to this Statement
 
-**Governing law**
+SwingSurgeon will occasionally update this Statement of Privacy to reflect company and customer feedback. SwingSurgeon encourages you to periodically review this Statement to be informed of how SwingSurgeon is protecting your information.
 
-This policy and the use of this Site are governed by south carolina law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+Contact Information
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+SwingSurgeon welcomes your comments regarding this Statement of Privacy. If you believe that SwingSurgeon has not adhered to this Statement, please contact SwingSurgeon at [support@swingsurgeon.com](mailto:support@swingsurgeon.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
