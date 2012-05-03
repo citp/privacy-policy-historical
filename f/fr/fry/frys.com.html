@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101003310id_/http%3A//www.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frys.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504002025id_/http%3A//www.frys.com/regular.jsp%3F/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -35,8 +35,8 @@
 
 
 
-<script async="" src="https://apis.google.com/js/plusone.js"></script><script language="JavaScript" type="text/javascript" src="/js/frtrack.js"></script>
-<script language="JavaScript">
+<!-- SCRIPT language="JavaScript" type="text/javascript" src="/js/frtrack.js" >< /SCRIPT -->
+<script async="" src="https://apis.google.com/js/plusone.js"></script><script language="JavaScript">
 <!--
 
 if(typeof(global_ref_tr) == "undefined")
@@ -64,10 +64,14 @@ self.parent.location=document.location;
 
 
 
+ 
+
+
+
 
 <script language="JavaScript"><!--
 var gbl_ImgSvr = "http://images.frys.com";
-var gbl_TabsImgPath = "/art/0900_site/header/tabs1000v07/";
+var gbl_TabsImgPath = "/art/0900_site/header/tabs1000v09/";
 --></script>
 
 <style>
@@ -76,15 +80,122 @@ var gbl_TabsImgPath = "/art/0900_site/header/tabs1000v07/";
 .search {font-family: Verdana;font-size: 10px;color:#000000}
 
 </style>
+  <script>
+ $.ajaxSetup ({cache: false }); 
 
-
+ function clrSiteEHU(){
+         $.post("/ac/site_ehu/?dummy="+new Date().getTime(),function(data){}, "text");
+ }
+ </script>
 
 
 
 <script language="JavaScript"><!--
-//var WL_SESSION = "9V3D1cQ-Jpz2s7A04Di5pw__.node2";
+//var WL_SESSION = "lZWXygRx6ExPEKlA23rSpQ__.node1";
 --></script>
 
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1.2.3.pack.js"></script>
+
+
+<script>
+$(document).ready(function() {
+
+	//select all the a tag with name equal to modal	
+	$('a[name=modal]').click(function(e) {
+		//Cancel the link behavior
+		e.preventDefault();
+
+		//Get the A tag
+		var id = $(this).attr('href');
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+
+		//transition effect
+		$('#mask').fadeOut(1000);
+		$('#mask').fadeTo("slow",0);
+
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+
+		//transition effect
+		$(id).fadeIn(200);
+
+	});
+
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+
+		$('#mask').hide();
+		$('.window').hide();
+	});
+
+	//if mask is clicked
+	$('#mask').click(function () {
+		$(this).hide();
+		$('.window').hide();
+	});
+
+});
+ function closeSPWindow() {
+ 	$('#mask').hide();
+	$('.window').hide();
+		return false;
+ }
+ function loadMinSP(prodId,imageHost) { 
+    var loadUrl = "/template/inc/priceincart/index.jsp?n=" + prodId + "&ih=" + imageHost;
+    $("#specPrice").load(loadUrl);
+    return false;
+}
+</script>
+<style> 
+
+#specPrice a {color:#333; text-decoration:none}
+#specPrice a:hover {color:#ccc; text-decoration:none}
+
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+
+#boxes .window {
+  position:absolute;
+  left:0;
+  top:0;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:10px;
+}
+
+
+#boxes #specPrice {
+  background:url(http://images.frys.com/art/0900_site/core_092500/box4.gif) no-repeat 0 0 transparent;
+  width:474px;
+  height:429px;
+}
+
+</style>
 
 
 
@@ -99,9 +210,7 @@ var gbl_TabsImgPath = "/art/0900_site/header/tabs1000v07/";
 
 
 
-<script language="JavaScript" type="text/javascript" src="/js/frysmenu_data.js?ver=2"></script>
-<script language="JavaScript" type="text/javascript" src="/js/frysmenu.js?ver=2"></script>
-<script language="JavaScript" type="text/javascript" src="/js/fryscombolist.js?ver=2"></script>
+<script language="JavaScript" type="text/javascript" src="/js/frysmenu.min.js?ver=6"></script>
 
 <script language="JavaScript">
 <!--
@@ -131,7 +240,7 @@ function setDefaultImage(imgObj,imgTyp) {switch (imgTyp) {case 'tn': imgObj.src 
 
 
 
-<script language="JavaScript" type="text/javascript" src="/js/frtrack.js"></script>
+<!-- SCRIPT language="JavaScript" type="text/javascript" src="/js/frtrack.js" >< /SCRIPT -->
 <script language="JavaScript">
 <!--
 
@@ -160,6 +269,10 @@ self.parent.location=document.location;
 
 
 
+ 
+
+
+
 <!-- SmartAd -->
 
 
@@ -182,7 +295,7 @@ function saOnclick(url)
 
 	<tbody><tr>
 	<td align="center">
-	<a href="/template/onad/product_navigation/?site=sa:TOP_BANNER:Spot1"><img border="0" src="http://images.frys.com/art/a_new_home_page/images/Halloweenlh_banner_two.jpg" alt="Weekly Specials"></a>
+	<a href="/template/onad/product_navigation/?site=sa:TOP_BANNER:Spot1"><img border="0" src="http://images.frys.com/art/a_new_home_page/images/DONT-MISS-2-DAY-550x70.png" alt="Weekly Specials"></a>
 	</td>
 	</tr>
 	
@@ -206,7 +319,7 @@ function writeSmartAd(clickSpot,ht, wd) { if(typeof is_Defcon == "undefined"){do
 
 
 <table id="top_nav" border="0" width="1000" cellspacing="0" cellpadding="0" class="noPrint">
-<tbody><tr valign="bottom"><td align="left"><a href="http://www.frys.com/template/computerspc"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/pctab_static.gif" class="menuImg" id="img_pctab"></a><a href="http://www.frys.com/template/computersmac"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/mactab_static.gif" class="menuImg" id="img_mactab"></a><a href="http://www.frys.com/template/notebook"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/notebookstablets_static.gif" class="menuImg" id="img_notebookstablets"></a><a href="http://www.frys.com/template/tablets"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/tablets_static.gif" class="menuImg" id="img_tablets"></a><a href="http://www.frys.com/template/mp3"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/mp3_static.gif" class="menuImg" id="img_mp3"></a><a href="http://www.frys.com/template/networking"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/networkingtab_static.gif" class="menuImg" id="img_networkingtab"></a><a href="http://www.frys.com/template/harddrives"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/harddrivesmemory_static.gif" class="menuImg" id="img_harddrivesmemory"></a><a href="http://www.frys.com/template/ecomponents"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/electroniccomponents_static.gif" class="menuImg" id="img_electroniccomponents"></a><a href="http://www.frys.com/template/communication"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/phonescommunications_static.gif" class="menuImg" id="img_phonescommunications"></a><br><a href="http://www.frys.com/template/audio"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/audio_static.gif" class="menuImg" id="img_audio"></a><a href="http://www.frys.com/template/electronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/video_static.gif" class="menuImg" id="img_video"></a><a href="http://www.frys.com/template/cameras"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/cameras_static.gif" class="menuImg" id="img_cameras"></a><a href="http://www.frys.com/template/carelectronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/carelectronics_static.gif" class="menuImg" id="img_carelectronics"></a><a href="http://www.frys.com/template/b2b"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/b2b_static.gif" class="menuImg" id="img_b2b"></a><a href="http://www.frys.com/template/software"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/software_static.gif" class="menuImg" id="img_software"></a><a href="http://www.frys.com/template/games"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/games_static.gif" class="menuImg" id="img_games"></a><a href="http://www.frys.com/template/music"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/music_static.gif" class="menuImg" id="img_music"></a><a href="http://www.frys.com/template/dvd"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/movies_static.gif" class="menuImg" id="img_movies"></a><a href="http://www.frys.com/template/books"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/books_static.gif" class="menuImg" id="img_books"></a><a href="http://www.frys.com/template/science"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/sciencetoys_static.gif" class="menuImg" id="img_sciencetoys"></a><a href="http://www.frys.com/template/healthbeauty"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/healthbeauty_static.gif" class="menuImg" id="img_healthbeauty"></a><a href="http://www.frys.com/template/appliances"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v07/appliances_static.gif" class="menuImg" id="img_appliances"></a><br><img src="http://images.frys.com/art/space.gif" width="6" height="1" border="0"></td>
+<tbody><tr valign="bottom"><td align="left"><a href="http://www.frys.com/template/computerspc"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/pctab_static.gif" class="menuImg" id="img_pctab"></a><a href="http://www.frys.com/template/computersmac"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/mactab_static.gif" class="menuImg" id="img_mactab"></a><a href="http://www.frys.com/template/notebook"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/notebookstablets_static.gif" class="menuImg" id="img_notebookstablets"></a><a href="http://www.frys.com/template/tablets"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/tablets_static.gif" class="menuImg" id="img_tablets"></a><a href="http://www.frys.com/template/mp3"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/mp3_static.gif" class="menuImg" id="img_mp3"></a><a href="http://www.frys.com/template/networking"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/networkingtab_static.gif" class="menuImg" id="img_networkingtab"></a><a href="http://www.frys.com/template/harddrives"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/harddrivesmemory_static.gif" class="menuImg" id="img_harddrivesmemory"></a><a href="http://www.frys.com/template/ecomponents"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/electroniccomponents_static.gif" class="menuImg" id="img_electroniccomponents"></a><a href="http://www.frys.com/template/communication"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/phonescommunications_static.gif" class="menuImg" id="img_phonescommunications"></a><br><a href="http://www.frys.com/template/audio"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/audio_static.gif" class="menuImg" id="img_audio"></a><a href="http://www.frys.com/template/electronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/video_static.gif" class="menuImg" id="img_video"></a><a href="http://www.frys.com/template/cameras"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/cameras_static.gif" class="menuImg" id="img_cameras"></a><a href="http://www.frys.com/template/carelectronics"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/carelectronics_static.gif" class="menuImg" id="img_carelectronics"></a><a href="http://www.frys.com/template/b2b"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/office_static.gif" class="menuImg" id="img_office"></a><a href="http://www.frys.com/template/software"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/software_static.gif" class="menuImg" id="img_software"></a><a href="http://www.frys.com/template/games"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/games_static.gif" class="menuImg" id="img_games"></a><a href="http://www.frys.com/template/dvd"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/moviesmusic_static.gif" class="menuImg" id="img_moviesmusic"></a><a href="http://www.frys.com/template/books"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/books_static.gif" class="menuImg" id="img_books"></a><a href="http://www.frys.com/template/science"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/sciencetoys_static.gif" class="menuImg" id="img_sciencetoys"></a><a href="http://www.frys.com/template/healthbeauty"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/healthbeauty_static.gif" class="menuImg" id="img_healthbeauty"></a><a href="http://www.frys.com/template/appliances"><img border="0" src="http://images.frys.com/art/0900_site/header/tabs1000v09/appliances_static.gif" class="menuImg" id="img_appliances"></a><br><img src="http://images.frys.com/art/space.gif" width="6" height="1" border="0"></td>
 </tr>
 </tbody></table>
 
@@ -229,7 +342,7 @@ function writeSmartAd(clickSpot,ht, wd) { if(typeof is_Defcon == "undefined"){do
 			<td class="grayLinks" align="right"><img src="http://images.frys.com/art/0900_site/header_091500/search_space.gif" height="2" width="35" border="0">             
    <a style="text-decoration: none" href="http://www.frys.com/template/index/"><span class="grayLinks">Home</span></a>&nbsp;|&nbsp;
    <a style="text-decoration: none" href="http://www.frys.com/template/help/index/"><span class="grayLinks">Customer Service</span></a>&nbsp;|&nbsp;
-   <a style="text-decoration: none" href="https://shop5.frys.com/wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1"><span class="grayLinks">Express Account</span></a>&nbsp;|&nbsp;<a style="text-decoration: none" href="https://shop5.frys.com/wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1"><span class="grayLinks">Track Your Order</span></a>&nbsp;|&nbsp;
+   <a style="text-decoration: none" href="https://shop3.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1" onclick="clrSiteEHU()"><span class="grayLinks">Express Account</span></a>&nbsp;|&nbsp;<a style="text-decoration: none" href="https://shop3.frys.com//wf?a%3DUSER_INFO%2Cw%3DORDERTRACKING=1" onclick="clrSiteEHU()"><span class="grayLinks">Track Your Order</span></a>&nbsp;|&nbsp;
    <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A6ReturningPurchases"><span class="grayLinks">Returns</span></a>&nbsp;|&nbsp;
    <a style="text-decoration: none" href="http://www.frys.com/template/help/index/FE30/Service3/Assistance/Left_Topics/A11WarrantiesRebates"><span class="grayLinks">Warranty</span></a>&nbsp;|&nbsp;
    <a style="text-decoration: none" href="http://www.frys.com/ac/storelocator/index.jsp"><span class="grayLinks">Store Locator</span></a>&nbsp;|&nbsp;
@@ -315,8 +428,6 @@ function chkWhiteSpace(f) {    var msg;    var empty_fields = "";    var errors 
 
 	
 
-	
-
 
 
     <input id="searchCatSel_ip" type="hidden" name="cat" value="0">
@@ -333,9 +444,9 @@ function chkWhiteSpace(f) {    var msg;    var empty_fields = "";    var errors 
 <td align="right" width="362" valign="middle" class="grayLinks"> 
 	
      	&nbsp;
-   		Hello. Please &nbsp;<a style="text-decoration: none" href="https://shop5.frys.com/wf?a%3DACCT_MAINT_NEW%2Cw%3DACCTMAINT=1">create an account</a>&nbsp;
+   		Hello. Please &nbsp;<a style="text-decoration: none" href="https://shop3.frys.com//wf?a%3DACCT_MAINT_NEW%2Cw%3DACCTMAINT=1" onclick="clrSiteEHU()">create an account</a>&nbsp;
    		&nbsp; or &nbsp;
-   		<a style="text-decoration: none" href="https://shop5.frys.com/wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1">sign in</a>&nbsp;
+   		<a style="text-decoration: none" href="https://shop3.frys.com//wf?a%3DACCT_MAINT_EXIST%2Cw%3DACCTMAINT=1" onclick="clrSiteEHU()">sign in</a>&nbsp;
      
           
 
@@ -454,111 +565,186 @@ function chkWhiteSpace(f) {    var msg;    var empty_fields = "";    var errors 
 						<td><img src="http://images.frys.com/art/space.gif" width="1" height="1"></td>
 						<td width="100%" valign="top" align="left">
 							
-								<center><table border="0" cellpadding="0" cellspacing="0" width="500" height="730"><tbody><tr>
-<td colspan="2"><font face="Verdana" color="#ff0000" size="2"><b>Your Privacy</b></font> 
-<font face="Verdana" color="black" size="2"><br>
-Frys.com understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. Maintaining your privacy is critical to us. We will not sell, share, or rent your information to others in any ways different from those disclosed in this statement. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and 
-the information you share with us.</font><br><br>
-							
-								<font face="Verdana" color="black" size="2"><b>Our Partners</b><br>Frys.com partners with companies that offer products and services we believe may 
-be of interest to our customers. If you purchase a partner's product through the Frys.com site, we may share your information with that partner.<br><br>
-<b>Third Parties</b><br> Please be aware that this site may contain links to other sites that are owned and operated by third parties. These third party sites have their own privacy policies and practices. Frys.com is not responsible for the privacy policies and practices of third parties.</font><br><p></p>
-<p><font face="Verdana" color="black" size="2"><b>Tell a Friend</b><br>
-If you use Frys.com's "Tell a Friend" feature, we will use the email address per your instructions to send your email message to your friend. We will not use the email address of your friend for any other purpose.</font><br><br><br>
-							
-								<a name="05"></a><br>
-<img height="49" width="239" src="http://image.frys.com/art/privacystatement/opt_out.gif"><br><font face="Verdana" color="black" size="2"><b>Promotional Emails</b><br>
-If you no longer wish to receive promotional emails, please follow the unsubscribe instructions located at the bottom of the email or </font><font face="Verdana" size="2"> <a href="http://www.frys.com/email/unsubscribe.jsp">click here</a></font><font face="Verdana" color="black" size="2">
-You will continue to receive service emails related to your order status.<br><br>
-<b>Our Partners</b><br>If you do not wish to be contacted directly in the future by any of our partners, send an email to</font><font face="Verdana" size="2"> <a href="mailto:service@cs.frys.com">service@cs.frys.com</a></font><font face="Verdana" color="black" size="2">.  If you use more than one email address to shop with Frys.com, be sure to send an email from each address.</font><br><br><font face="Verdana" color="black" size="2"><b>Third Parties<br></b></font>
-<font face="Verdana" color="black" size="2">Frys.com does not sell, trade or rent your personal information to others. In the future we may choose to do so with trustworthy third parties. If you do not want your information shared in this manner, please send an email to</font>
-<font face="Verdana" size="2"> <a href="mailto:service@cs.frys.com">service@cs.frys.com</a>. </font>
-<font face="Verdana" color="black" size="2">If you use more than one email address to shop with Frys.com, be sure to send an email from each address.</font><br><br><br>
-							
-								<a name="06"></a><img height="45" width="281" src="http://image.frys.com/art/privacystatement/how_to_change.gif">
-<font face="Verdana" color="black" size="2"><br>
-By creating an Express Account, you will have immediate access to your billing and contact information, allowing you to update 
-that information whenever necessary.<br>
-<br>If you choose not to create an Express Account, you will be able to change information by contacting our Customer Service 
-department by phone: 1.877.688.7678, or by email:</font>
-<font face="Verdana" size="2"> <a href="mailto:service@cs.frys.com">service@cs.frys.com</a>.</font>
+								<font face="Verdana" size="2">
+<b>FRY'S PRIVACY POLICY</b>
 <br><br>
+
+Your privacy is important to us.  Fry's understands our customers' concerns regarding the privacy of the information they share with us. We hold our customers, and the information they share with us, in the highest regard. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. We are committed to ensuring that your personal information is properly safeguarded and to complying with all applicable federal and state privacy laws.  Please take a moment to read our Privacy Policy for a better understanding of the measures that we take to protect you and the information you share with us.
+<br><br>
+
+The following Privacy Policy describes information and privacy practices for Fry's Electronics, Inc. ("Fry's"), Fry's retail stores and Frys.com.
+<br><br>
+
 							
-								<a name="07"></a>
-<img height="45" width="232" src="http://image.frys.com/art/privacystatement/notification.gif"><br>
-<font face="Verdana" color="black" size="2">If at some point in the future there is a change to our information practices that affect 
-your personally identifiable information, we will notify you by email of the relevant changes. At the time of that message, you will be able to opt-out of this information usage by sending an email message to </font><a href="mailto:service@cs.frys.com">
-<font face="Verdana" size="2">service@cs.frys.com</font></a>
-<font face="Verdana" size="2">. You should also check this posted privacy statement for changes. This Privacy Policy is effective April 1st, 2005.<br><br></font>
-<font face="Verdana" color="black" size="2">If you have any questions regarding this policy, please contact us:</font>
-<font face="Verdana" size="2"> <a href="mailto:service@cs.frys.com" )"="">service@cs.frys.com</a>.</font>
-<br><br><br>
-</p></td>
-</tr>
-</tbody></table>
-</center>
-							
-								<br><br>
-<font face="Verdana" color="black" size="2">As an AOL Certified Merchant, we have agreed to abide by AOL's privacy policy. To read the policy, click here.
- In addition, Frys.com complies with COPPA.</font>
-<p><font face="Verdana" color="black" size="2">Below you will find information explaining:<br></font>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="276" valign="top">
+								Please be aware that this site may contain links to other sites that are owned and operated by third parties.  This Privacy Policy may not apply to those links or to other sites.  These third party sites have their own privacy policies and practices.  We encourage you to read the privacy policies of these third party sites to learn how they collect, use, share and secure your information.
+<br><br>
+
+This Privacy Policy strives to encourage and maintain trust between you and Fry's.  As part of that trust, this Privacy Policy will tell you about:
+
 <ul>
-<li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#01"><font face="Verdana" size="2">Why we collect information </font></a>
-</li><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#02"><font face="Verdana" size="2">How we collect information</font></a>
-</li><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#03"><font face="Verdana" size="2">The information we collect</font></a>
-</li><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#04"><font face="Verdana" size="2">How we use the information we collect</font></a>
+<li><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#1">What information we collect.</a>
+</li><li><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#2">How information is used and protected.</a>
+</li><li><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#3">How we may share information.</a>
+</li><li><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#4">Choices you can make about how we collect, use, and share your information.</a>
+</li><li><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#5">Future changes to the Privacy Policy.</a>
 </li></ul>
-</td>
+
 							
-								<td valign="top" width="244">
-<ul><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#05"><font face="Verdana" size="2">How to opt-out</font></a>
-</li><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#06"><font face="Verdana" size="2">How to change your personal information</font></a> </li><li type="disc"><a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy/#07"><font face="Verdana" size="2">Notification of changes</font></a>
-</li></ul></td></tr></tbody></table><br></p><hr>
-<a name="01"></a><img src="http://image.frys.com/art/privacystatement/why_we_collect.gif"><br><font face="Verdana" color="black" size="2">Frys.com collects information to:</font><p></p>
-<ul> <li type="disc"><font face="Verdana" color="black" size="2">Rapidly and accurately fulfill your order.</font>
-</li><li type="disc"><font face="Verdana" color="black" size="2">Improve your experience at Frys.com.</font></li></ul>
-							
-								<p><font face="Verdana" color="black" size="2">Our goal is to provide our customers with the highest level of service possible. From your first visit to our web site to the delivery of your order, we want you to be completely satisfied with the experience. By collecting information, we are able to offer you features, such as our Express Account 
-(which saves you time during the order process), and a more customized web site that better reflects your individual preferences.</font><br><br><br>
-							
-								<a name="02"></a><img height="45" width="234" src="http://image.frys.com/art/privacystatement/how_we_collect.gif"><br>
-<font face="Verdana" color="black" size="2">During the order process and while creating an Express Account, you are prompted to supply us with your contact, billing, and shipping information. This information must be provided in order to complete a purchase and is used to complete your order and contact you regarding your order.<br><br>
-							
-								When you visit Frys.com, you are sent a cookie. (To learn more about cookies, 
-<a href="/template/help/index/FE30/Service3/Assistance/Middle_Topics/C4Cookies"> click here</a>. ) 
-The cookie is used to identify you while you are at Frys.com and to keep items in your shopping cart between visits.<br> You do not need to accept our cookie in order to browse or shop at Frys.com.</font><br><br><br>
-							
-								<a name="03"></a><img height="46" width="210" src="http://image.frys.com/art/privacystatement/info_we_collect.gif"><br>
-<font face="Verdana" color="black" size="2">To process your order, we require you to supply us with your correct billing, 
-shipping and contact information.<br><br>
-The transfer of this information is secure and cannot be received or read by others. 
+								<a name="1"></a><b>What information do we collect?</b>
 <br><br>
-							
-								Your informaton is only shared when necessary to complete your order (i.e., your credit card and billing information is shared  with our bank for authorization and your delivery address is shared with our shipper).</font><br><br>
-<img height="25" width="148" src="http://image.frys.com/art/privacystatement/non_personal.gif" hspace="97">
-<font face="Verdana" color="black" size="2"><br>
-Standard connection information (provided by your browser) is collected by Frys.com. This information includes the type and version of your browser and operating system.<br><br><br><br></font>
-<a name="04"></a><img height="48" width="300" src="http://image.frys.com/art/privacystatement/how_we_use.gif"><br>
-<font face="Verdana" color="black" size="2">We use the personal information you supply to complete and ship your order. Your email address is used to send you an order confirmation and to alert you to any changes in the availability of the items you ordered.<br><br>
 
-Frys.com may release personally identifiable information when required to by law.<br><br>
+Fry's collects information about you to provide the best products and services and to help Fry's improve your shopping experience both at Fry's retail stores and online at Frys.com.
+<br><br>
+
+<i>Information you give us.</i>
+<br><br>
+
+Fry's collects and may store any information you enter on our website, provide us in our retail stores, or submit to Fry's in any other way.  For example, we collect information that you provide when you create an Express Account on our website, make an online or in-store purchase from us, send us an e-mail or call us, enter a contest, or participate in a survey.  This information may include:
+
+<ul>
+<li>Your name.
+</li><li>Your mailing address.
+</li><li>Your e-mail address.
+</li><li>Your phone number.
+</li><li>Your credit card number.
+</li></ul>
+
 							
-								<b>Emails</b><br>
-Frys.com sends occasional emails to let you know about changes to our site and product specials we believe will 
-be of interest to you, or to invite you to participate in a contest or survey.<br><br>
-<b>Surveys and Contests</b><br>
-Occasionally, Frys.com requests information through surveys or contests. 
-Requested information may include contact information (such as your name and shipping address), and 
-demographic information (such as your zip code and age). Contact information will be used to notify contest 
-winners and award prizes. Information collected from surveys will be used to improve the usefulness of our site. 
-Participation in these surveys or contests is completely voluntary. Participation in an Frys.com contest or 
-sweepstakes is limited to those 18 years old or older.<br><br>
+								On our website, there is an option to "Tell a Friend" about a product or service that we offer.  If you use Frys.com's "Tell a Friend" feature, we will use the e-mail address per your instructions to send your e-mail message to your friend. We will not use the e-mail address of your friend for any other purpose.
+<br><br>
+
+<i>Information from other sources.</i>
+<br><br>
+
+Fry's may receive information about you from other sources.  These other sources may help to improve the quality or personalization of services that we provide to you.
+<br><br>
+
+
+<i>Automatic information.</i>
+<br><br>
+
+We also receive and store certain types of information when you interact with our website.  Like many websites, we use "cookies" to obtain information when your web browser accesses our website.  The purpose of "cookies" is to help us recognize you as you use or return to our website so that we can provide a more personalized shopping experience for you.  The "cookie" is also used to keep items in your shopping cart between visits.  Please note, however, that you do not need to enable cookies to browse or shop at Frys.com.
+<br><br>
+
+							
+								Our web server automatically collects clickstream information such as the address (or URL) of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you may have entered on our site, among other things.
+<br><br>
+
+Our website may also use other technologies to track which pages our visitors view. This anonymous clickstream data provides our customers with a better, more secure shopping experience and helps Fry's understand how visitors use our website.
+<br><br>
+
+<i>Video Cameras</i>
+<br><br>
+
+We operate cameras in and around Fry's stores for security and operational purposes.  These cameras are for security, operational and loss prevention purposes and we do not otherwise use these cameras to identify you personally.
+<br><br>
+
+							
+								<a name="2"></a><b>How is information used and protected?</b>
+<br><br>
+
+Our goal is to provide our customers with the highest level of service possible. From your first visit to our website to the delivery of your order, we want you to be completely satisfied with the experience without compromising your privacy. By collecting information, we are able to offer you features, such as our Express Account (which saves you time during the order process), and a more customized website that better reflects your individual preferences.
+<br><br>
+
+<i>Usage of Information</i>
+<br><br>
+
+Fry's uses your information to provide requested products and services to you and to support general business operations.  Some examples of such usage includes:
+
+<ul>
+<li>To fulfill and process your orders and communicate with you regarding those orders.
+</li><li>To schedule and perform deliveries or installations.
+</li><li>To service products.
+</li><li>To send marketing communications.
+</li><li>To open and service your Express Account.
+</li><li>To provide high-quality customer service.
+</li><li>To help us improve and customize what we offer to you, our website and our advertising.
+</li><li>To send you information about our products, services and promotions.
+</li><li>To protect the security and integrity of our websites and our business.
+</li><li>To process credit card information.
+</li></ul>
+
+							
+								<i>Protection of Information</i>
+<br><br>
+
+Fry's also protects your information from loss, misuse or alteration while it is under Fry's control.  Protection of your information is a priority at Fry's.  We have adopted reasonable security measures to protect the confidentiality of personal information under our control both online and in our stores.
+<br><br>
+
+When you enter personal information on our website, the information is protected by a security technology called Secure Sockets Layer (SSL), which encrypts your information during transport across the Internet.  Further, your account information is only accessible with the password you choose when you open an Express Account.  Please maintain the confidentiality of this password in order to ensure the protection of your account information.
+<br><br>
+
+<a name="3"></a><b>How may information be shared?</b>
+<br><br>
+
+Fry's does not sell or rent your personal information to third parties.  Fry's may share your personal information under the following limited circumstances:
+<br><br>
+
+							
+								<i>Service Providers</i>
+<br><br>
+
+We may provide your information to a third party in the process of fulfilling an order for products or services you have placed with us.  For example, we may provide your address to the shipping carrier where you have requested shipment for a purchase.  Fry's only shares the necessary information to third parties to provide the requested products or services in your order.
+<br><br>
+
+<i>Credit Applications</i>
+<br><br>
+
+If you apply for a Fry's credit card, your information may be shared with First Electronic Bank to offer the credit card to you.  First Electronic Bank may use the information to provide the credit card and to service and maintain your credit card account.
+<br><br>
+
+<i>Legal Requirements and Safety of our Business and Others</i>
+<br><br>
+
+Fry's may share information in other special circumstances.  We may disclose information where we have a good faith belief that disclosure is appropriate to comply with the law or where we believe disclosure is necessary to protect you, to comply with legal processes or authorities, to respond to any claims, or to protect the rights, property or personal safety of Fry's, its customers, its associates or the public.
+<br><br>
+
+							
+								<i>Marketing Purposes</i>
+<br><br>
+
+Fry's may share information with carefully selected vendors and business partners who may share offers and opportunities with you based on your interests.
+<br><br>
+
+<a name="4"></a><b>What are your choices regarding information?</b>
+<br><br>
+
+Fry's wants to communicate with you to inform you of product specials, changes to our website, contests and surveys, or other information we think may be of interest to you.  Similarly, carefully selected vendors or business partners may want to communicate with you to inform you of special offers or opportunities.
+<br><br>
+
+If you do not wish to receive certain information or request that your information not be shared with third parties, please e-mail: <a href="mailto:service@cs.frys.com">service@cs.frys.com</a>.  Please be sure to include your full name, the types of communication you would like to receive or not receive, and your related contact information.  Please note that even if you opt-out of receiving marketing communications from Fry's, you may still be contacted for transactional purposes.  Some examples include request for customer service or questions regarding your order.
+<br><br>
+
+							
+								<a name="5"></a><i>Updating or Correcting Information</i>
+<br><br>
+
+If you have created an Express Account on our website, you may review, update or correct your account information by accessing your Express Account with your password.
+<br><br>
+
+<b>How will you be notified of future changes to the Privacy Policy?</b>
+<br><br>
+
+Fry's may change or add to its Privacy Policy from time to time.  For this reason, we encourage you to review the Privacy Policy periodically.  For your convenience, we will post the date it was last updated at the bottom of the Privacy Policy.
+<br><br>
+
+							
+								<b>Privacy of Children Online</b>
+<br><br>
+
+Fry's is committed to protecting children's online privacy and fully complies with the Children's Online Privacy Protection Act (COPPA).  We do not knowingly collect personally identifiable information from children under the age of 13.  If you believe we may have collected personal information from a child, please e-mail us at <a href="mailto:service@cs.frys.com">service@cs.frys.com</a>.
+<br><br>
+
+
+If you have any questions regarding the Privacy Policy, please e-mail: <a href="mailto:service@cs.frys.com">service@cs.frys.com</a>.
+<br><br>
+
+
+Effective: January 5, 2012
+
 							
 
-						</font></p></td>
+						</font></td>
 					</tr>
 				</tbody></table>
 				<br>
@@ -588,7 +774,7 @@ sweepstakes is limited to those 18 years old or older.<br><br>
 
 
 
-<script language="JavaScript" type="text/javascript" src="/js/frtrack.js"></script>
+<!-- SCRIPT language="JavaScript" type="text/javascript" src="/js/frtrack.js" >< /SCRIPT -->
 <script language="JavaScript">
 <!--
 
@@ -617,12 +803,19 @@ self.parent.location=document.location;
 
 
 
+ 
+
+
+
 
 <font color="#ffffff" face="Verdana,Arial,Helvetica" size="1">
 <a style="text-decoration: none" href="/regular.jsp?/template/index/"><font color="#FFFFFF"><b>Home<b></b></b></font></a><b><b>
 &nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/maps/index/"><font color="#FFFFFF"><b>Site Map<b></b></b></font></a><b><b>
-&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/buying_guide/index/"><font color="#FFFFFF"><b>Buying Guides<b></b></b></font></a><b><b>&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy"><font color="#FFFFFF"><b>Your Privacy Rights</b></font></a>&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C9CAprivacy"><font color="#FFFFFF"><b>Your California Privacy Rights</b></font></a>
-&nbsp;  </b></b></b></b></b></b></font><b><b>
+&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/buying_guide/index/"><font color="#FFFFFF"><b>Buying Guides<b></b></b></font></a><b><b>
+&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C3Privacy"><font color="#FFFFFF"><b>Your Privacy Rights</b></font></a>
+&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/C9CAprivacy"><font color="#FFFFFF"><b>Your California Privacy Rights</b></font></a>
+&nbsp;|&nbsp;<a style="text-decoration: none" href="/regular.jsp?/template/help/index/FE30/Service3/Assistance/Middle_Topics/E1SocialResponsibility"><font color="#FFFFFF"><b>California Transparency in
+Supply Chains Act</b></font></a>  </b></b></b></b></b></b></font><b><b>
 
 
 
@@ -662,6 +855,9 @@ self.parent.location=document.location;
 
 <tr>
 	<td colspan="2" align="center">
+	
+		
+	
 
 
 
@@ -674,7 +870,7 @@ self.parent.location=document.location;
 
 
 
-<script language="JavaScript" type="text/javascript" src="/js/frtrack.js"></script>
+<!-- SCRIPT language="JavaScript" type="text/javascript" src="/js/frtrack.js" >< /SCRIPT -->
 <script language="JavaScript">
 <!--
 
@@ -703,9 +899,94 @@ self.parent.location=document.location;
 
 
 
+ 
 
-<font size="2" face="Helvetica, Arial, Helvetica"><center><b>Frys.com prices good for online purchases only. In-store items and prices at Fry's retail locations may vary. Some online offers are subject to prior sale and may not be available.</b><br>
-Copyright © 1995-2011 Fry's Electronics, Incorporated. All rights reserved. Fry's Electronics, Frys.com and Outpost.com are registered trademarks of Fry's Electronics, Incorporated.<br></center></font>
+
+
+
+
+<title></title>
+<link href="https://plus.google.com/105770605049937525517/" rel="publisher">
+
+
+<center>
+
+<style type="text/css">
+<!--
+#footer-container{
+background:#dbdbdb;	
+height:75px;	
+width:995px;	
+}
+#find-us{
+float:left;
+margin-top:10px;
+margin-left:10px;
+padding-top:15px;
+padding-left:10px;
+height:50px;	
+width:150px;
+background:url(http://images.frys.com/art/misc/findus_bckgrnd.jpg );
+background-repeat:no-repeat;
+border:0px;
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 15px;
+color: #000000;
+text-align:left;
+}
+#disclaimer{
+float:left;
+margin-top:10px;
+margin-left:30px;
+height:60px;	
+width:375px;
+border:0px;
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 12px;
+line-height: 16px;
+color: #000000;
+text-align:left;
+}
+#line{
+float:left;	
+margin-top:10px;
+margin-left:5px;
+height:60px;	
+width:20px;
+border:0px;	
+}
+#copyright{
+float:left;
+margin-top:10px;
+margin-left:10px;
+height:60px;	
+width:350px;
+border:0px;
+font-family: Arial, Helvetica, Verdana, Sans-serif;
+font-size: 12px;
+line-height: 16px;
+color: #000000;
+text-align:left;
+}
+
+-->
+</style>
+
+<div id="footer-container">
+  <div id="find-us">Find us:&nbsp;&nbsp;<a rel="author" href="https://plus.google.com/105770605049937525517/"><img src="http://ssl.gstatic.com/images/icons/gplus-16.png" width="16" height="16" border="0"></a>
+                    &nbsp;&nbsp;<a href="http://www.facebook.com/fryselectronics/app_7146470109"><img border="0" src="http://images.frys.com/art/misc/f_logo.png" width="17" height="17"></a>
+                  &nbsp;&nbsp;<a href="http://www.twitter.com/fryselectronics"><img border="0" src="http://images.frys.com/art/misc/t_logo.png" width="17" height="17"></a>
+</div>
+  <div id="disclaimer">Frys.com prices good for online purchases only. 
+                       In-store items and <br>prices at Fry's retail locations may vary. 
+                       Some online offers are subject to prior sale and may not be available.</div>
+  <div id="line"><img src="http://images.frys.com/art/misc/line_a.gif " width="20" height="55"></div>
+  <div id="copyright">Copyright © 1995-2012 Fry's Electronics, Incorporated. <br>
+                     All rights reserved. Fry's Electronics, Frys.com and Outpost.com <br>
+                     are registered trademarks of Fry's Electronics, Incorporated.</div>
+ </div>
+
+</center>
 
 
 
