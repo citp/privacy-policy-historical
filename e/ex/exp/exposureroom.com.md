@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005211335id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposureroom.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005517id_/http%3A//exposureroom.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # ExposureRoom.com Privacy Policy
 
