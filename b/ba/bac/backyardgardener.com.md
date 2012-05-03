@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardgardener.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201200512id_/http%3A//backyardgardener.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardgardener.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503232108id_/http%3A//backyardgardener.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Backyardgardener, LLC
 
