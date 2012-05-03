@@ -1,55 +1,76 @@
-> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102131143id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222858id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Primary Resources - FREE for Early Years (EYFS) KS1 & KS2 | twinkl
 
-This privacy policy sets out how Twinkl Limited uses and protects any information that you give when you use **www.twinkl.co.uk**. This policy may be updated by us from time to time without notice to you. We will post any changes on this page and we will also indicate at the top of this page the date that these have been revised. You should print a copy of this privacy policy for future reference.
+_Twinkl Limited_ __ takes your privacy very seriously and we are fully compliant with the principles of the Data Protection Act 1998 and are additionally a registered data controller under the Act. We ask that you read this privacy policy carefully as it contains important information about what to expect when _Twinkl Limited_ collects personal information about you and how _Twinkl Limited_ __ will use your personal data. This policy applies to information we collect about:
 
-## Our principles
-
-We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: **we will not share your information with others without your consent.**
-
-## What information do we collect?
-
-We collect information through contact forms, user profiles and via visitor tracking software.
-
-## What do we do with this information?
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping
-  * We may use the information to improve our products and services.
-  * We may send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+  * visitors to our website (www.twinkl.co.uk);
+  * people who do business with us and /or register for our service
 
 
 
-## Who will have access to your information?
+## 1\. The information we collect about you
 
-Only you and our staff will be able to see your information. Twinkl Limited is a registered data controller, with defined policies to protect your personal information.
+1.1  When you do business with us and / or register for our service we collect the following personal information from you: name, postal address, email address, telephone number, company name and number.
 
-## What else you should know about privacy
+1.2  We may also collect additional information you choose to supply to us as detailed in our sign up form.
 
-Remember to log out and close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of, and access to, your own computer.
+## 2\. How we will use the information about you
 
-Please be aware that whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your usernames and passwords and any account information. Please be careful and responsible whenever you are using the Internet.
+2.1 We gather this information to allow us to process your registration, process any orders you may make, provide the services requested and to be able to contact you to support your use of the service.
 
-Our pages may contain links to other websites, and you should be aware that we are not responsible for the privacy practices on other websites.
+2.2 The relevant information is then used by us, our agents and sub-contractors to **** maintain your account and provide you with relevant and timely information **** and to communicate with you on any matter relating to the conduct of your account and the provision of the services in general.
 
-## Security
+2.3 If you agree, we may also contact you about other _Twinkl_ products and services we think may be of interest to you.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+2.4 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us to develop our website and our services. **** These statistics will not include information that can be used to identify you personally.
 
-## How we use cookies
+2.5 From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services **** we provide. We or our agents and sub-contractors may contact you to ask you for your feedback and comments on our services.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+## 3\. Marketing
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+3.1 We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you agree to us providing you with marketing information, you can always opt out at a later date.
 
-## Links to other websites
+3.2 To unsubscribe from any _Twinkl marketing, please use the 'unsubscribe' link at the end of the email received._
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## 4\. Our use of cookies and other information-gathering technologies
 
-## Your personal information
+4.1 Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information. The information is used to track visitor use of the website and to compile statistical reports on website activity. You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in some of our website features may not function if you remove cookies from your browser.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at dpa@twinkl.co.uk.If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+## 5\. How we protect your information
+
+5.1 We have put in place the following security procedures and technical and organisational measures to safeguard your personal information: Anti-Viral software & Trojan detection and encryption.
+
+5.2 We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+
+## 6\. Overseas transfers
+
+6.1  The information you provide may be transferred to countries outside the European Economic Area ('EEA') that do not have similar protections in place regarding your data and restrictions on its use as set out in this policy. However, we will take steps to ensure adequate protections are in place to ensure the security of your information. The EEA comprises the EU member states plus Norway, Iceland and Liechtenstein. By submitting your information you consent to these transfers for the purposes specified above.
+
+## 7\. Access to your information and updating and correcting your
+
+  information
+
+7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to dpa@twinkl.co.uk __ or send a letter to Twinkl Limited of Nursery Works, 100 Little London Road, Sheffield, S8 0UJ, United Kingdom. We may make a small charge for this service to cover our administrative costs.
+
+7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl _  Limited_ __ changes, for example if you change your email address, name or payment details, or if you wish to cancel your registration, please let us know the correct details by sending an email to info@twinkl.co.uk. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+
+## 8\. Sale of business
+
+If Twinkl _Limited_ is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+
+## 9\. Your consent
+
+By submitting your personal information you consent to the use of that information as set out in this policy.
+
+## 10\. Changes to privacy policy
+
+We keep our privacy policy under regular review. If we change our privacy policy we will post the changes on this page, and place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times.
+
+## 11\. How to contact Twinkl Limited
+
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email info@twinkl.co.uk __ or send a letter to Twinkl Limited of Nursery Works, 100 Little London Road, Sheffield, S8 0UJ, United Kingdom.
+
+## 12\. Links to other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
