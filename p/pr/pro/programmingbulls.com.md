@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the programmingbulls.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902053535id_/http%3A//www.programmingbulls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmingbulls.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222128id_/http%3A//www.programmingbulls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This _Comment_ will be submitted for moderation and will not be accessible to other users until it has been approved.
 
   
   
