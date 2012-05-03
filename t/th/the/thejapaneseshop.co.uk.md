@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231060338id_/http%3A//www.thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejapaneseshop.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504000125id_/http%3A//thejapaneseshop.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Japanese Gift Ideas | Privacy Policy from The Japanese Shop
 
 ## About The Japanese Shop
 
-This is the privacy policy of The Japanese Shop Limited (Company No. 6820799) of 43 Hookstone Road, Harrogate, North Yorkshire, HG2 8BT ("we", "us").
+This is the privacy policy of The Japanese Shop Limited (Company No. 6820799) Registered Office address; 43 Hookstone Road, Harrogate, North Yorkshire, HG2 8BT ("we", "us").
 
 We are mindful of the importance of upholding the security of information under our control.  All data collected through the www.thejapaneseshop.co.uk website (the "Website") is stored on secure servers, and we have stringent security and confidentiality procedures covering the storage and disclosure of such information, in accordance with the Data Protection Act 1988.  The following Privacy Policy forms part of our Terms and Conditions and will help you to understand how your personal information collected during your use of the Website will be treated by us.  If you have any queries on this please don't hesitate to contact us via the details set out at the end of this policy.
 
@@ -46,4 +46,12 @@ From time to time our Website may contain links to and from other internet sites
 
 ## Contact Us
 
-If you have any comments or queries in connection with our Privacy Policy, please email [customerservice@thejapaneseshop.co.uk](mailto:customerservice@thejapaneseshop.co.uk) or write to The Japanese Shop Limited at 43 Hookstone Road, Harrogate, North Yorkshire, HG2 8BT, UK marking your letter for the attention of Customer Services.
+If you have any comments or queries in connection with our Privacy Policy, please email [customerservice@thejapaneseshop.co.uk](mailto:customerservice@thejapaneseshop.co.uk) or write to;
+
+The Japanese Shop Ltd  
+The Studio  
+Harrogate Business Centre  
+Hookstone Avenue  
+Harrogate  
+HG2 8ER  
+UK
