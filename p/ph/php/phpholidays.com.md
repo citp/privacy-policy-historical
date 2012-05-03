@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2011-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111005181515id_/http%3A//www.phpholidays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013712id_/http%3A//www.phpholidays.com/travel-website-privacy-policy.php) for the most accurate reproduction.*
 
-# php Car autos script - Eicra Professional Dealership Web beased Applicaiton
+# 100% Automated Realtime Online php mysql Script for Airline Tickets, Air car bus booking Hotels, Ultimate Travel tour Script
 
 Effective: July 1, 2011
 
