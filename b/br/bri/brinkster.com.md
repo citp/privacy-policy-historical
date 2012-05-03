@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233256id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503173830id_/http%3A//www.brinkster.com/AboutUs/PrivacyStatement7-13-04.aspx) for the most accurate reproduction.*
 
 # Learn About Brinkster Communications Corporation
 
 PRIVACY POLICY
 
-Effective Date of July 9th, 2004 
+Effective Date of February 24th, 2012 
 
 Brinkster has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Brinkster. 
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
-Our site's registration form requires users to give us contact information (like their name and email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
+Our site's registration form requires users to give us contact information (like their name and email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. We may also share your email address with select partners who work with us to provide service and/or software. The customer's contact information is also used to contact the visitor when necessary. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
 
 This site contains links to other sites. Brinkster is not responsible for the privacy practices or the content of such Web sites. 
 
