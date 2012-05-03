@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webctor.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220130337id_/http%3A//webctor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webctor.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003736id_/http%3A//webctor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Webctor.com
 
@@ -152,7 +152,7 @@ We may retain your account information indefinitely, regardless of whether you h
 
 **Statement**
 
-The data controller of your personal information is the Owner.
+The data controller of your personal information is the Owner, i.e. Red Sky Sp. z o. o., a company incorporated under the laws of Poland, with its registered office in Szczecin, at Rynek Sienny 4b Street, Szczecin 70-542, Poland, registered in the entrepreneurs register conducted by the National Court Register maintained by the District Court in Szczecin, XIII Commercial Department, with KRS number 0000209107, NIP number (tax identification number): 642-26-83-651, REGON number 276822679, amount of the share capital of PLN 937.000,00 covered in whole. .
 
 The Owner hereby declares as follows:
 
@@ -160,15 +160,19 @@ The Owner hereby declares as follows:
 
   2. All personal information transferred to the Owner will be stored by the Owner in its database.
 
-  3. The Owner shall ensure the safety of Users’ personal information and the Owner has implemented appropriate technical and organizational security measures, in particular to protect the personal information to be processed against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of personal information over a network, and against all other unlawful forms of processing. These measures ensure a level of security appropriate to the risks presented by the processing and the nature of the information to be protected having regard to the state of the art.
+  3. All personal information transferred to the Owner will processed in accordance with the provisions of the Polish Act of 18 July 2002 on providing services by electronic means, as well as in accordance with the Polish Act of 29 August 1997 on the Protection of Personal Data.
 
-  4. You have the right to verify, review and correct your personal information processed by the Owner, which also requires you notify the Owner any changes thereof. The right can be exercised by you independently introducing changes in your account or by sending a relevant request at the following address: support@webctor.com.
+  4. The Owner shall ensure the safety of Users’ personal information and the Owner has implemented appropriate technical and organizational security measures as set forth in the Polish Act of 29 August 1997 on the Protection of Personal Data and has met the requirements specified in the provisions referred to thereof , in particular to protect the personal information to be processed against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular where the processing involves the transmission of personal information over a network, and against all other unlawful forms of processing. These measures ensure a level of security appropriate to the risks presented by the processing and the nature of the information to be protected having regard to the state of the art.
 
-  5. You have the right to withdraw your consent to the processing of your personal information, giving the Owner a notice to that effect. Though you provide your personal information to the Owner voluntarily, refusal to provide them renders entry into the agreement with the Owner and access to the Site impossible.
+  5. You have the right to verify, review and correct your personal information processed by the Owner, which also requires you notify the Owner any changes thereof. The right can be exercised by you independently introducing changes in your account or by sending a relevant request at the following address: support@webctor.com.
 
-  6. The Owner shall have the right to disclose the personal information only to the authorities entitled under the provisions of the law in force (e.g. a court, the police), in cases specified in the Terms of Use and resulting from the law in force.
+  6. You have the right to withdraw your consent to the processing of your personal information, giving the Owner a notice to that effect. Though you provide your personal information to the Owner voluntarily, refusal to provide them renders entry into the agreement with the Owner and access to the Site impossible.
 
-  7. After reviewing the above Privacy Policy, by using the Site, especially by clicking "Sign Up" during the registration process, you hereby:
+  7. The Owner shall have the right to disclose the personal information only to the authorities entitled under the provisions of the law in force (e.g. a court, the police), in cases specified in the Terms of Use and resulting from the law in force.
+
+  8. The Owner fulfills all the requirements of the Polish Act of 29 August on the Protection of Personal Data. 
+
+  9. After reviewing the above Privacy Policy, by using the Site, especially by clicking "Sign Up" during the registration process, you hereby:
 
 
 
@@ -178,7 +182,7 @@ The Owner hereby declares as follows:
           3. replying to correspondence sent by contact form or an e-mail;
           4. technical operation of the Site;
           5. maintaining the Site statistics;
-        2. Consent to transfer of your personal information abroad, and in particular to Owner’s affiliated companies or associated entities, or to Owner’s parent company, for the purposes of processing in computer systems belonging to the Owner and its business partners. You understand that the above entities may be located in countries that do not guarantee the same level of personal information protection as the level guaranteed in your state/country.
+        2. Consent to transfer of your personal information abroad, and in particular to Owner’s affiliated companies or associated entities, or to Owner’s parent company with their registered office outside the Poland, for the purposes of processing in computer systems belonging to the Owner and its business partners. You understand that the above entities may be located in countries that do not guarantee the same level of personal information protection as the level guaranteed in your state/country.
 
         3. Agree that your consent remains valid for the entire period of your use of the Site.
 
