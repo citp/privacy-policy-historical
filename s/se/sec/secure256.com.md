@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223070854id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure256.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222214id_/http%3A//secure256.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy for CPASiteSolutions Websites for CPAs and Accountants
 
