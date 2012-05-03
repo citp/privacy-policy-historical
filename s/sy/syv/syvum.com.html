@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214610id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2012-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120503204721id_/http%3A//syvum.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Syvum Privacy Policy </title><meta name="author" content="Syvum"><meta name="copyright" content="Syvum Technologies Inc."><meta name="publisher" content="Syvum"></head><body bgcolor="#FFFFFF" text="#000000" link="#ff0000" vlink="#0000ff" alink="#FF0000">
 
@@ -12,85 +12,76 @@
    function getuid() { return getVar("UserID"); }
    function getads() { return getVar("ShowAd"); }
    var ads;
-   if (window.oads && oads == 1){ads="no";} else {ads = getads();}
-   var syvum_cs = getVar("Syvum_BGColor");
-   var syvum_bs = getVar("Syvum_Border_Colors");
-   if (syvum_bs == null || syvum_bs.length == 0)
-     syvum_bs = " , , ";
-   if (syvum_cs == null || syvum_cs.length == 0)
-     syvum_cs = " ";
-   syvum_bs_a = syvum_bs.split(",");
-   if (syvum_cs != null && syvum_cs.length == 7)
-       document.bgColor = syvum_cs;
-   if (syvum_bs_a[0] == null || syvum_bs_a[0].length != 7)
-     syvum_bs_a[0] = "#ff9d3c";
-   if (syvum_bs_a[1] == null || syvum_bs_a[1].length != 7)
-     syvum_bs_a[1] = "#ffc68c";
-   if (syvum_bs_a[2] == null || syvum_bs_a[2].length != 7)
-     syvum_bs_a[2] = "#800040";
-
-   var randomSyvumTip = new Array;
-   var randomSyvumTipUrl = new Array;
-   randomSyvumTip[0] = "opposite of pugnacious";
-   randomSyvumTip[1] = "capital of Poland";
-   randomSyvumTip[2] = "largest human organ";
-   randomSyvumTip[3] = "grade 8 chemistry";
-   randomSyvumTip[4] = "biology quizzes";
-   randomSyvumTip[5] = "algebra problems";
-   randomSyvumTip[6] = "Grandpa's age puzzle";
-   randomSyvumTip[7] = "usa map quiz";
-   randomSyvumTip[8] = "GRE verbal ability";
-
-   for (var i = 0; i < randomSyvumTip.length; i++)
-     {
-       randomSyvumTipUrl[i] = randomSyvumTip[i];
-       randomSyvumTipUrl[i] = randomSyvumTipUrl[i].replace(/ /g, "+");
-       randomSyvumTipUrl[i] = randomSyvumTipUrl[i].replace(/'/g, "%27");
-     }
-
-   var randomSyvumTipNumber = Math.floor(randomSyvumTip.length * Math.random());
-   
-   document.writeln('<table cellpadding=0 cellspacing=0 border=0 bgcolor=' + syvum_bs_a[1] + ' width=100%>');
-</script><noscript><table cellpadding=0 cellspacing=0 border=0 bgcolor=#ff9d3c width=100%></noscript><table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffc68c" width="100%">
-
-
- <form name="syvum_top_search" method="get" action="/cgi/search.cgi"></form>
+   if (window.oads && oads == 1){ads="no";} else {ads = getads();}   
+</script>
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#ffc68c" width="100%">
 <tbody><tr>
 <td valign="top" width="127" rowspan="2"><a href="/"><img src="/images/topname5.gif" width="127" height="75" alt="Go to Syvum Home Page" border="0"></a></td>
-<td align="right"><font face="arial" size="-2" color="#000000"> 
-<a href="/squizzes/"><font color="navy">K-12</font></a> |
-<a href="/sat/"><font color="navy">SAT</font></a> |
-<a href="/gre/"><font color="navy">GRE</font></a> |
-<a href="/gmat/"><font color="navy">GMAT</font></a> |
-<a href="/quiz/us/"><font color="navy">USA</font></a> |
-<a href="/learn/languages/English_Spanish/"><font color="navy">Learn Spanish</font></a> |
-<a href="/recipes/"><font color="navy">Recipes</font></a> |
-<a href="/quiz/"><font color="navy">Quiz</font></a> |
-<a href="/teasers/"><font color="navy">Puzzles</font></a> |
-<a href="/iq/"><font color="navy">IQ</font></a> |
-<a href="/webshop/shop.html"><font color="navy">Premier Membership</font></a> |
+<td align="right">
+<span style="font-family: arial; font-size: 13px;">
+&nbsp;<a href="/squizzes/" style="color:blue;font-size:12px;"><b>Homework Help:</b></a>
+&nbsp;<a href="/squizzes/math/" style="color:blue;">Math</a>
+&nbsp;<a href="/online/english.html" style="color:blue;">Reading</a>
+&nbsp;<a href="/teasers/" style="color:blue;">Math Puzzles</a>
+&nbsp;<a href="/quiz/us/" style="color:blue;">USA</a>
+/ <a href="/quiz/" title="General Knowledge Quizzes" style="color:blue;">GK</a>
+/ <a href="/iq/" style="color:blue;">IQ Quizzes</a> |
+<a href="/gre/" style="color:blue;">GRE</a> 
+<a href="/gmat/" style="color:blue;">GMAT</a> 
+<a href="/sat/" style="color:blue;">SAT</a> |
+<a href="/recipes/" style="color:blue;">Recipes</a> |
 <script language="JavaScript">
     var uid = getuid();
     if (uid.length > 1)
       {
-        document.write('<b><a href=/cgi/members/home.cgi><font color=navy>'+uid+'\'s Syvum</font></a></b> | <a href=/cgi/members/logout.cgi><font color=navy>Sign Off</font></a></font>');
+        document.write('<b><a href="/cgi/members/home.cgi" style="color:blue;">'+uid+'\'s Syvum</a></b> | <a href="/cgi/members/logout.cgi" style="color:blue;">Sign Off</a>');
       }
     else
       {
-        document.write('<b><a href=/members/><font color=navy>Sign In</font></a> / <a href=/members/register.html><font color=navy>Register as Member</font></a></b></font>');
+        document.write('<a href="/members/" style="color:blue;">Sign In</a> / <a href="/members/register.html" style="color:blue;">Register</a>');
       }
-</script><b><a href="/members/"><font color="navy">Sign In</font></a> / <a href="/members/register.html"><font color="navy">Register as Member</font></a></b></font><noscript>
-<a href=/cgi/members/home.cgi><font color=navy>Syvum Members</font></a> | <a href=/cgi/members/logout.cgi><font color=navy>Sign off</font></a></font>
-</noscript>
-</td></tr>
+</script><a href="/members/" style="color:blue;">Sign In</a> / <a href="/members/register.html" style="color:blue;">Register</a><noscript>
+<a href="/cgi/members/home.cgi" style="color:blue;">Members</a> | <a href="/cgi/members/logout.cgi" style="color:blue;">Sign off</a>
+</noscript> &nbsp;
+&nbsp; &nbsp;</span></td></tr>
 <tr>
+<td bgcolor="#ffc68c" align="right">
+ <form name="syvum_top_search" method="get" action="/cgi/search.cgi" style="margin:0px;margin-bottom:5px;">
+<a href="https://plus.google.com/106967722282585223147?prsrc=3" rel="publisher" style="text-decoration:none;" target="_blank"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;vertical-align:middle"></a>
+ <input type="text" size="40" maxlength="80" name="words" style="font-size:70%;" value=""> <input type="submit" style="font-size:70%;" value="Search"> &nbsp; &nbsp; </form>
 <script language="JavaScript">
-document.writeln('<td bgcolor='+syvum_bs_a[1]+' align=right>');
-</script><td bgcolor="#ffc68c" align="right">
-<noscript><td bgcolor=#ffc68c align=right></noscript>
-<input type="text" size="40" maxlength="80" name="words" style="font-size:70%;" value=""> <input type="submit" style="font-size:70%;" value="Search"><br>
-<font size="-2" color="navy" face="arial">Search Syvum web site for information or quizzes of your interest. <script language="JavaScript">document.writeln('Example: <a href=/cgi/search.cgi?words='+randomSyvumTipUrl[randomSyvumTipNumber]+'><font color=navy>'+randomSyvumTip[randomSyvumTipNumber]+'</font></a>');</script>Example: <a href="/cgi/search.cgi?words=capital+of+Poland"><font color="navy">capital of Poland</font></a>
- </font></td>
+<!--
+if (ads == "no")
+  {
+    document.writeln('<span id="syvum_span_link" style="cursor:pointer;" onclick="document.getElementById(\'syvum_g_link\').style.display = \'none\' == document.getElementById(\'syvum_g_link\').style.display ? \'\' : \'none\';document.getElementById(\'syvum_span_link\').style.display = \'none\';"><font color=blue face=arial size=-1><b>See ads related to this topic</b></font></span>');
+    document.writeln('<div ID="syvum_g_link" style="display:none">');
+  }
+// -->
+</script>
+<script type="text/javascript">
+    google_ad_client = "pub-0582656916058535";
+    google_ad_width = 728;
+    google_ad_height = 15;
+    google_ad_format = "728x15_0ads_al";
+    google_ad_channel = "9034378402+8217909758";
+    google_color_border = "FFC68C";
+    google_color_bg = "FFC68C";
+    google_color_link = "0000FF";
+    google_color_url = "008000";
+    google_color_text = "000000";
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script language="JavaScript">
+<!--
+if (ads == "no")
+  {
+    document.writeln('</div>');
+  }
+// -->
+</script>
+
+</td>
 </tr>
 </tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -107,10 +98,6 @@ else
   }
 </script><td valign="top" id="side_bar_column">
 
-
-<table width="100%" border="0" cellpadding="3" cellspacing="0" style="font: normal 9pt arial;">
-<tbody><tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/fun/christmas/" style="color:red;"><b>Fun Christmas Games!</b></a></td></tr>
-</tbody></table>
 
 <script language="JavaScript">
 <!--
@@ -147,135 +134,18 @@ if (ads == "no")
 </script>
 
 
-<script language="JavaScript1.2">
-function gIn(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor=syvum_bs_a[1]; } }
-function gOut(x){ if(document.getElementById||(document.all && !(document.getElementById))){ x.style.backgroundColor=""; } }
-</script>
-<table width="100%" border="0" cellpadding="3" cellspacing="0" style="font: normal 9pt arial;">
-<tbody><tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/fun/christmas/" style="color:red;"><b>Santa Claus Games!</b></a></td></tr>
-<script language="JavaScript">
-if (ads == "no")
-  {
-  }
-else
-  {
-    document.writeln('<tr><td onMouseOver="gIn(this);" onMouseOut="gOut(this);"><a href=/webshop/shop.html>Premier Membership</a></td></tr>');
-  }
-</script><tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/webshop/shop.html">Premier Membership</a></td></tr>
-
-<tr><td onmouseover="gIn(this);" onmouseout="gOut(this);"><a href="/learn/">Learn a new Language</a></td></tr>
-</tbody></table>
 <p style="font-family:arial;font-size:80%;" align="center">
 <a href="http://www.respaper.com/" target="_blank"><font color="#ff0000"><b>Res<font color="0000ff">Paper</font>.com</b></font></a><br>Share your exam, test and assignment papers and invite others to answer them.
 </p>
 <p>
-</p><center>
-<p style="font-family:arial;font-size:80%">
-<a target="_blank" href="http://www.rockle.com/language/amigo/"><b>Find a Language Buddy!</b></a><br><span style="font-size:90%">Guaranteed to help you learn a new language without years of studying.</span></p>
 <table width="160">
 <tbody><tr><td><img alt="" width="1" height="1"></td></tr>
 </tbody></table>
-</center></td>
+</p></td>
 <td bgcolor="#c9d7f2" width="1"><img height="1" width="1" alt=""></td>
 <td width="12"><img height="1" width="1" alt=""></td>
 <td width="100%" valign="top">
-
-<center>
-
-<script language="JavaScript">
-<!--
-   if (ads == "no")
-     {
-     }
-   else
-     {
-       var windoww = getVar('windoww');
-       if (document.body && windoww != document.body.offsetWidth)
-         {
-           document.cookie = "windoww="+ document.body.offsetWidth + "; path=/";
-         }
-     }
-// -->
-</script>
-<!-- Begin Cox Digital Solutions tag for "Banner" Ad Space (468x60) ID #1000007751507 -->
-<script type="text/javascript">
-  if (ads == "no")
-    {
-    }
-  else
-    {
-      sr_adspace_id = 1000007751507;
-      sr_adspace_width = 468;
-      sr_adspace_height = 60;
-      sr_ad_new_window = true;
-      sr_adspace_type = "graphic";
-      document.writeln('</scr'+'ipt>');
-      document.writeln('<scr'+'ipt type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000007751507"></scr'+'ipt><br/>');
-    }
-</script>
-<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000007751507"></script><br>
-
-<!-- End Cox Digital Solutions tag for "Banner" Ad Space (468x60) ID #1000007751507 -->
-<script language="JavaScript">
-<!--
-if (ads == "no")
-  {
-    document.writeln('<span id="syvum_span_link" style="cursor:pointer;" onclick="document.getElementById(\'syvum_g_link\').style.display = \'none\' == document.getElementById(\'syvum_g_link\').style.display ? \'\' : \'none\';document.getElementById(\'syvum_span_link\').style.display = \'none\';"><font color=blue face=arial size=-1><b>See ads related to this topic</b></font></span>');
-    document.writeln('<div ID="syvum_g_link" style="display:none">');
-  }
-// -->
-</script>
-<script type="text/javascript">
-    google_ad_client = "pub-0582656916058535";
-    google_ad_width = 728;
-    google_ad_height = 15;
-    google_ad_format = "728x15_0ads_al";
-    google_ad_channel = "9034378402+8217909758";
-    google_color_border = "FFFFFF";
-    google_color_bg = "FFFFFF";
-    google_color_link = "0000FF";
-    google_color_url = "008000";
-    google_color_text = "000000";
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<script language="JavaScript">
-<!--
-if (ads == "no")
-  {
-    document.writeln('</div>');
-  }
-// -->
-</script>
-
-</center>
 <!-- my_nie -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -481,9 +351,9 @@ if (ads == "no")
 <font size="-2" face="verdana">Syvum in other languages: <a href="http://fr.syvum.com/" target="_blank"><font color="red">French</font></a>, <a href="http://es.syvum.com/" target="_blank"><font color="red">Spanish</font></a>, <a href="http://br.syvum.com/" target="_blank"><font color="red">Portuguese</font></a>, <a href="http://de.syvum.com/" target="_blank"><font color="red">German</font></a></font>
 </p></td>
 </tr>
-<tr><td colspan="4"><script language="JavaScript">document.write('<table width="100%" bgcolor='+syvum_bs_a[2]+' cellspacing=0 border=0 style="font: normal 10pt arial;">');</script><noscript><table width="100%" bgcolor=#800040 cellspacing=0 border=0 style="font: normal 10pt arial;"></noscript><table width="100%" bgcolor="#800040" cellspacing="0" border="0" style="font: normal 10pt arial;">
+<tr><td colspan="4"><table width="100%" bgcolor="#800040" cellspacing="0" border="0" style="font: normal 10pt arial;">
 <tbody><tr><td width="33%"><a href="/contact.html"> <font color="white" size="-2">Contact Info</font></a></td>
-<td align="center" width="33%"><font color="white" size="-2">© 1999-2011 Syvum Technologies Inc. </font></td>
+<td align="center" width="33%"><font color="white" size="-2">© 1999-2012 Syvum Technologies Inc. </font></td>
 <td align="right" width="33%">
 <a href="/legal/privacy.html"> <font color="white" size="-2">Privacy Policy</font></a>
 <a href="/legal/copyrt.html"> <font color="white" size="-2">Disclaimer and Copyright</font></a></td>
@@ -505,6 +375,8 @@ if (ads == "no")
   })();
 
 </script>
+
+
 
 
  
