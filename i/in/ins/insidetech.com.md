@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202052123id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetech.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503030430id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Find your next job and advance your career today | Monster.com
 
 ## Information We Collect and Retain
 
-We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2) and [demographic](https://web.archive.org/privacy/fullstatement.aspx#3) information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs contain information necessary for analyzing the use of resources, troubleshooting problems, and improving services. We also use [cookies](https://web.archive.org/privacy/fullstatement.aspx#4) and [web beacons](https://web.archive.org/privacy/fullstatement.aspx#5).
+We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2 "personal") and [demographic](https://web.archive.org/privacy/fullstatement.aspx#3 "demographic") information you choose to provide us. We also collect information about how you use our sites and the areas of our site that you visit. We may also acquire information about you from third parties in order to further personalize your experience. The resulting logs contain information necessary for analyzing the use of resources, troubleshooting problems, and improving services. We also use [cookies](https://web.archive.org/privacy/fullstatement.aspx#4 "cookies") and [web beacons](https://web.archive.org/privacy/fullstatement.aspx#5 "web beacons").
 
 ## How Information is Used
 
@@ -26,31 +26,31 @@ We may disclose and transfer information if our business is sold or acquired.
 
 ## Your Choices About Your Information
 
-You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](https://web.archive.org/Login.aspx), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
+You may review, correct, or delete the personal information you submit to us at any time. Simply [log into your account](https://web.archive.org/Login.aspx "log into your account"), go to your account profile, and make the necessary changes. We will delete your personal information, but will retain logs, demographic and statistical information about you and keep an archival copy of your information in an anonymized form. If your personal information was previously accessed by others using the Sites, we are unable to delete the information from their systems. 
 
 Monster has no control over the information that Ad Networks or other third parties may have about you. We encourage you to visit their web sites and review and read the privacy policies and opt-out practices that govern their usage. 
 
-If you change your mind about receiving communications from Monster or other parties, you may change your preferences by [logging into your account](https://web.archive.org/Login.aspx). 
+If you change your mind about receiving communications from Monster or other parties, you may change your preferences by [logging into your account](https://web.archive.org/Login.aspx "logging into your account"). 
 
-You may also [turn off cookies](https://web.archive.org/privacy/fullstatement.aspx#6) in your browser. This may affect your use of the site. 
+You may also [turn off cookies](https://web.archive.org/privacy/fullstatement.aspx#6 "turn off cookies") in your browser. This may affect your use of the site. 
 
 ## Important Information
 
-Please review the full [Privacy Statement](https://web.archive.org/privacy/fullstatement.aspx) for further information. 
+Please review the full [Privacy Statement](https://web.archive.org/privacy/fullstatement.aspx "Privacy Statement") for further information. 
 
 Our Sites are not intended for children under 13 years of age. 
 
-We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](https://web.archive.org/privacy/fullstatement.aspx#7) and we are a member of [TRUSTe](https://web.archive.org/privacy/fullstatement.aspx#7).
+We participate in the U.S. Department of Commerce’s [Safe Harbor Framework](https://web.archive.org/privacy/fullstatement.aspx#7 "Safe Harbor Framework") and we are a member of [TRUSTe](https://web.archive.org/privacy/fullstatement.aspx#7 "TRUSTe").
 
-For more information on how to protect yourself online, click [here](https://web.archive.org/securitycenter/).
+For more information on how to protect yourself online, click [here](https://web.archive.org/securitycenter/ "security center").
 
 ## How to Contact Us
 
-You may [contact us](http://my.monster.com/privacy/EmailForm.aspx) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
+You may [contact us](http://my.monster.com/privacy/EmailForm.aspx "contact us") for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1-800-MONSTER, or write to us at: 
 
 Privacy Office  
 Monster Worldwide, Inc.  
 5 Clocktower Place, 5th Floor  
 Maynard, MA 01754
 
-If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9).
+If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9 "TRUSTe for assistance in resolving your issue").
