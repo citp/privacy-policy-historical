@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drnajeeblectures.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004237id_/http%3A//drnajeeblectures.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drnajeeblectures.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205121id_/http%3A//drnajeeblectures.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Dr.Najeeb - Privacy Policy
+# Dr. Najeeb - USMLE - Nursing - Dentistry - Pharmacy
 
 Dr. Najeeb Lectures ("www.DrNajeebLectures.com") respects the privacy of people who use the www.DrNajeebLectures.com website or other www.DrNajeebLectures.com services. This privacy statement ("policy") reflects the current information practices of www.DrNajeebLectures.com. Should there be any future changes to our privacy policy, we will continue to post them on this page.
 
