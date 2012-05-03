@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613173446id_/http%3A//www.veetle.com/index.php/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504011138id_/http%3A//veetle.com/index.php/about/privacy) for the most accurate reproduction.*
 
-# Veetle - Broadcast live streaming video in HD
+# Veetle: Connecting your World with Live Video
 
 Last Updated Date: January 10, 2011
 
@@ -74,4 +74,4 @@ The Sites are not directed to children under 13. We do not knowingly collect per
 
 ## Contacting Us 
 
-If you have any questions about this Privacy Policy, please contact us at [info@veetle.com](mailto:info@veetle.com) or at: Veetle, Inc., 261 Hamilton Avenue, 4th Floor, Palo Alto, CA 94301, USA.
+If you have any questions about this Privacy Policy, please contact us at [info@veetle.com](mailto:info@veetle.com) or at: Veetle, Inc., 543 Bryant St., Palo Alto, CA 94301, USA.
