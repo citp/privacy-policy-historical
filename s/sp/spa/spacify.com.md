@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202000955id_/http%3A//www.spacify.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacify.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005621id_/http%3A//www.spacify.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy Spacify
+# Privacy Policy
 
 Spacify.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our store. This policy may change from time to time so please check back periodically. 
 
