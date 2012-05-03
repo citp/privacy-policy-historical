@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231113642id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014125id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
 
 # UCAS - Privacy statement
 
@@ -73,7 +73,7 @@ We may collect and process the following information about you:
 #### 5 IP addresses, cookies and links
 
   1. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
-  2. UCAS may use cookies. A cookie is a small amount of data which is stored on your computer and which is revealed to UCAS when you use this network. UCAS uses cookies only to make it easier to identify you when using the network. UCAS does not use cookies to collect additional information about you. You can configure your web browser not to accept cookies, although this may hinder the functionality of the network for you.
+  2. UCAS may use cookies. A cookie is a small amount of data which is stored on your computer and which is revealed to UCAS when you use this network. UCAS uses cookies only to make it easier to identify you when using the network. UCAS does not use cookies to collect additional information about you. You can configure your web browser not to accept cookies, although this may hinder the functionality of the network for you. [View more information about UCAS cookies](https://web.archive.org/about_us/cookies).
   3. Please note that our advertisers may also use cookies, over which we have no control.
   4. The website may contain links that make it easy for you to visit other websites. UCAS does not have any control over these websites. Therefore, if you use these links to leave UCAS and visit websites operated by third parties, UCAS cannot be responsible for the protection and privacy of any information that you provide whilst visiting these websites.
 
