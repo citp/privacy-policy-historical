@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchens.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125222938id_/http%3A//www.kitchens.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchens.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503222611id_/http%3A//kitchens.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Kitchens.com - Privacy Policy
 
