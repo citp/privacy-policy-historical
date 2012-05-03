@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsdirect.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008171645id_/http%3A//www.carsdirect.com/the-company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsdirect.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503162726id_/http%3A//www.carsdirect.com/the-company/privacy) for the most accurate reproduction.*
 
 # CarsDirect's Privacy Policy
 
