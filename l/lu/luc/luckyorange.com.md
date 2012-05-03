@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005706id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503030513id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lucky Orange
 
@@ -9,6 +9,9 @@ If you would like to opt out of being tracked on all sites using Lucky Orange si
 **Our tool is designed to help website owners understand problem areas on their sites and fix them. One way that we accomplish this is through our visitor recording sessions where we can replay a browsing session. Sensitive information is not recorded and website owners using our tool can control which elements of a page are recorded.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**Server Locations** [ ](https://www.securitymetrics.com/site_certificate.adp?s=96%2e126%2e123%2e155&i=890228)  
+Currently we operate off of linode.com's server facilities in Dallas, Texas USA. Our web servers are also PCI Compliant. 
 
 **How do we protect your information?**
 
