@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408155545id_/http%3A//www.hitz.fm/HOME/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214753id_/http%3A//www.hitz.fm/HOME/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# hitz.fm :: PLAYING YOU ALL THE HITZ :: - Privacy Policy
+# hitz.fm :: PLAYING YOU ALL THE HITZ :: - hitz.fm - @hitz
 
 [HOME](https://web.archive.org/HOME) >
 
