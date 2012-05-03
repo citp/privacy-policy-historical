@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208034322id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503152010id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
 
@@ -46,17 +46,17 @@ Please be advised that this privacy policy may be changed in the future. Return 
 
 Magical Movies
 
-| |  **Cars 2**  
+| |  **Lady and the Tramp**  
 ---  
-[](http://www.amazon.com/exec/obidos/ASIN/B005AUWY90/disneysworldofwo)| |  [  
-A heartwarming adventure!](http://www.amazon.com/exec/obidos/ASIN/B0036TGT3E/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B0061QD7ZM/disneysworldofwo)| |  [  
+Exquisite animation!](http://www.amazon.com/exec/obidos/ASIN/B0036TGT3E/disneysworldofwo)  
 ---|---|---  
-[](http://www.amazon.com/exec/obidos/ASIN/B005AUWY90/disneysworldofwo)  
+[](http://www.amazon.com/exec/obidos/ASIN/B0061QD7ZM/disneysworldofwo)  
   
   
 Updates
 
-November 1st 2011  
-89 new cliparts, featuring Christmas, Snow White, The Princess Frog, Cinderella, Weddings, Mickey and Friends, Chip and Dale, Tinkerbell, Sleeping Beauty and Winter, plus 30 new coloring pages!  
+February 1st 2012  
+47 new cliparts, featuring Disney Cuties, Daisy, Valentine's Day, Alice in Wonderland, Tangled, Donald, Mickey, Minnie, Football, Lady and the Tramp, Goofy, Cinderella and The Little Mermaid, plus 41 new coloring pages.  
   
 | 
