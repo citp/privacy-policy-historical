@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007082413id_/http%3A//biz.nf/terms.html%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504015643id_/http%3A//www.biz.nf/tos.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# >Terms of Services of Biz.nf FREE web hosting, No Banner Ads
+# Terms of Service: Biz.nf Web Hosting & Domain Names
 
 Privacy Policy
 
