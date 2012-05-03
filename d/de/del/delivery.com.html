@@ -1,53 +1,104 @@
-<!--The following is the downloaded HTML source of the delivery.com privacy policy that was archived on 2011-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011044148id_/https%3A//www.delivery.com/about_us.php%3Fcq%3DLbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..%26cq_key%3Df80b4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delivery.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504015712id_/https%3A//www.delivery.com/about_us.php%3Fcq%3DLbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..%26cq_key%3Df80b4) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="https://www.facebook.com/2008/fbml"><head><script async="" src="https://connect.facebook.net/en_US/all.js?_=1582533526839"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 
-							<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/js/menubar.js?mtime=1313592307"></script>
-								<script type="text/javascript" src="/js/other.js?mtime=1313592648"></script>
-								<script type="text/javascript" src="/js/jquery-latest.js?mtime=1303140318"></script>
-								<script type="text/javascript" src="/js/global.js?mtime=1313592307"></script>
+							<script type="text/javascript" src="/js/menubar.js?mtime=1324326013"></script>
+								<script type="text/javascript" src="/js/other.js?mtime=1331672490"></script>
+								<script type="text/javascript" src="/js/jquery-latest.js?mtime=1321478039"></script>
+								<script type="text/javascript" src="/js/global.js?mtime=1331672490"></script>
 								<script type="text/javascript" src="/_includes/utilities.js?mtime=1313592454"></script>
+								<script type="text/javascript" src="/js/functions.socialnetwork.js?mtime=1334065569"></script>
 									<!-- CSS: /css/reset.css -->
 										<!-- CSS: /css/fixed_grid.css -->
 										<!-- CSS: /css/style.css -->
 										<!-- CSS: /css/east_media.css -->
 										<!-- CSS: /css/meat.css -->
+										<!-- CSS: /css/socialnetwork.css -->
 										<!-- CSS: /css/merchant_styles.css -->
 										<!-- CSS: /css/blue_border.css -->
 										<!-- CSS: /css/address_bar.css -->
-									<link rel="stylesheet" href="/css/load.php?key=bbadfba39e59ee06746ee64be007418f" type="text/css">
+										<!-- CSS: /css/spritemap.css -->
+									<link rel="stylesheet" href="/css/load.php?key=7c311f9471acd8c1b0e4a9bd85eb64b8" type="text/css">
 						<title>Privacy Policy</title>
 		<meta name="description" content="Delivery.com is the nation's leading destination for online ordering! Our mission is to provide Delivery.com users with fast, convenient delivery without ever having to pick up the phone. With a network of nearly 10,000 restaurants, caterers, florists and">
 		</head>
 			<body>
-			<div class="container_12" id="container_12"><div id="fb-root"></div>				<script type="text/javascript">
+			<div id="fb-root"></div>			<script type="text/javascript">
 
-				$(document).ready(function() {
-					$.getScript("https://connect.facebook.net/en_US/all.js");
-					//alert('foo');
-				});
+				function facebookReady(callback) {
 
-				window.fbAsyncInit = function() {
-					FB.init({
-						appId   : '145099228856064',
-						session : null, // don't refetch the session when PHP already has it
-						status  : true, // check login status
-						cookie  : true, // enable cookies to allow the server to access the session
-						xfbml   : true // parse XFBML
+                    var curLoc = window.location;
+					$.getScript(curLoc.protocol+'//connect.facebook.net/en_US/all.js', function(){
+
+                            FB._https = (window.location.protocol == "https:");
+							FB.init({
+							  appId  : '145099228856064',
+                              channelUrl: curLoc.protocol + "//" + curLoc.hostname + ":" + curLoc.port + "/channel.html",
+							  session : null, // don't refetch the session when PHP already has it
+							  status : true, // check login status
+							  cookie : true, // enable cookies to allow the server to access the session
+							  xfbml  : true,  // parse XFBML
+							  oauth  : true//,
+							});
+
+                            FB.UIServer.setActiveNode = function(a,b){FB.UIServer._active[a.id]=b;} // IE hack to correct FB bug
+
+							FB.getLoginStatus(
+                                function(response){
+                                    if(response.status == "connected") {
+                                        window.fbUserLoggedIn = "true";
+                                    }else {window.fbUserLoggedIn = "false";}
+
+//                                    window.graphApiInitialized = "true";
+
+                                    FB.XFBML.parse(document,
+                                        function() {
+                                            showFacebookLikeBoxContainer();
+                                        }
+                                    );
+
+                                   //facebook SDK is ready
+                                   if(typeof(callback) == "function") {
+                                       callback();
+                                   }
+                                }
+                            );
+
+						return true;
 					});
+				}
 
-					// whenever the user logs in, we refresh the page
-					FB.Event.subscribe('auth.login', function() {
-						window.location.reload();
-					});
-				};
+                function FBlogout() {
+                    FB.logout(
+                        function(response){
+                            window.location.reload();
+                        }
+                    );
+                }
 
-				</script>
-						<!--////////////////////////////////////////// HEADER ///////////////////////////////////////////-->
+                 function FBlogin() {
+                    FB.login(
+                        function(response){
+                            if(response.authResponse) {
+                                window.location.reload();
+                            }
+                        }, {scope:'email'}
+                    );
+                }
+
+                function showFacebookLikeBoxContainer() {
+                   $('div#facebookLikeBoxContainer').css('visibility', 'visible');
+                }
+
+//				$(document).ready(function(){
+//					facebookReady();
+//				});
+
+			</script>
+<div class="container_12" id="container_12">		<!--////////////////////////////////////////// HEADER ///////////////////////////////////////////-->
 		<div class="header">
-
 
 		<div class="jhbox">
 					<div class="leftborder">
@@ -88,7 +139,12 @@
 								if (data.substr(0, 9) == 'success||') {
 				                 			window.location = data.substr(9);
 					                	} else {
-					                 		sModal.create();
+											var countRoles = $(data).find('.zzzrolezzzz').length;
+											if(countRoles > 0){
+												sModal.create(countRoles * 116);
+											} else {
+												sModal.create();
+											}
 					                 		sModal.populate(data);
 					                	}
 					            	});
@@ -101,7 +157,9 @@
 
 				   <div class="bottom_left"></div>
 				   <div class="bottom_right"></div>
-				   </div></div><div class="grid_4"><a href="https://www.delivery.com/"><img src="/images/logo.gif" alt="Delivery.com - Order Food Online"></a></div>
+				   </div></div><div class="grid_4" style="float:left;margin-right:0;width:290px;">		<a href="https://www.delivery.com/">
+							<img src="/images/logo.gif" alt="Delivery.com - Order Food Online">
+						</a></div>
 		<div class="clear"></div>
 		<!--/////////////////////////////// End of Header ///////////////////////////////-->
 		</div><!--header-->
@@ -133,30 +191,236 @@
 			// ]]>
 		</script>
 
-		<form id="search_bar_form" action="https://www.delivery.com/search.php?cq=c9wQgZN9nFf2pMurMmNZ_RMb5syrYKLq&amp;cq_key=02265" method="post" onsubmit="return checkAddressInput('search_bar_form', 'da4e', true);"><!--;-->
+		<form id="search_bar_form" action="https://www.delivery.com/search.php?cq=c9wQgZN9nFf2pMurMmNZ_RMb5syrYKLq&amp;cq_key=02265" method="post" onsubmit="return checkAddressInput('search_bar_form', 'd9fe', true);"><!--;-->
 			<div class="grid_12 j_address">
-				<div id="search_bar_text" class="grid_5  full_address_short search_bar_text">
+				<div id="search_bar_text" class="grid_7 search_bar_text">
 
 					ENTER YOUR ADDRESS AND SEE WHO DELIVERS TO YOU!				</div>
-									<div class="grid_4 search_bar_text">
-						WHAT ARE YOU LOOKING FOR? <i>(optional)</i>
-					</div>
-									<div class="clear"></div>
+				<div class="grid_4 search_bar_text">
+					WHAT ARE YOU LOOKING FOR? <i>(optional)</i>
+				</div>
+				<div class="clear"></div>
 
 				<div class="search_bar">
 					<div class="address_bar">
-								<!--address input-->
-					<input id="DC_location_idda4e" name="DC_location_id" type="hidden" value="">
-			
-		<div class="grid_5 j_address_street_label full_address_short">
-			<input class="j_address_street_label" id="j_address_street_inputda4e" name="FULL_ADDRESS" tabindex="1" type="text" autocomplete="off" value="Street Address, City, State" onblur="jAddressBlur(this, 'blur', 'Street Address, City, State');" onfocus="jAddressBlur(this, 'focus', 'Street Address, City, State');" onkeydown="jAddressPop('da4e', true);" onclick="jAddressPop('da4e');">
+							<script type="text/javascript">
+		function serializePaymentData(){
+			var e_id = null;
+			var root_node = document.getElementById('billing_options');
+			var query_string = '';
 
+			$('#billing_options').find('input').each(function(){
+				switch($(this).attr('type')){
+					case 'text':
+					case 'hidden':
+						query_string += $(this).attr('name')+'='+$(this).val()+'&';
+						break;
+					case 'checkbox':
+					case 'radio':
+						e_id = $(this).attr('id');
+						if(document.getElementById(e_id) !== null){
+							if(document.getElementById(e_id).checked == true){
+								query_string += $(this).attr('name')+'='+$(this).val()+'&';
+							}
+						} else if($(this).attr('checked')){
+							query_string += $(this).attr('name')+'='+$(this).val()+'&';
+						}
+						break;
+				}
+			});
+
+			$('#billing_options').find('select').each(function(){
+				query_string += $(this).attr('name')+'='+$(this).val()+'&';
+			});
+
+			if(query_string.length > 0){
+				query_string = query_string.substr(0,query_string.length - 1);
+			}
+			return query_string;
+		}
+
+		function block_billing_options(){
+			$('#billing_options input').each(function(i){
+//				alert(this.id+'....'+this.type);
+				if(this.type == "checkbox"){
+//					alert('disabling..'+this.id);
+					this.setAttribute('disabled', 'disabled');
+				}
+			});
+		}
+
+		function applyPayments(is_gift_card){
+			document.body.style.cursor = 'wait';
+			block_billing_options();
+			var extra_params = '';
+			if(is_gift_card == true){
+				extra_params = '&is_gift_card=1';
+			}
+			var payment_data = serializePaymentData()+extra_params;
+			$.post('https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', payment_data, applyPaymentsHandler);
+		}
+
+		function applyPaymentsHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			document.getElementById('billing_options').innerHTML = jsResult.content;
+			if(jsResult.error == true){
+				sModal_close(true);
+				sModal.create(550);
+				sModal.populate(jsResult.error_content, 5);
+			}
+			document.body.style.cursor = 'default';
+			for(var i=0; i<jsResult.participant_ids.length; i++){
+				disableConflictingTypes(null, jsResult.participant_ids[i]);
+				expandCollapseCostCenterFields(jsResult.participant_ids[i]);
+			}
+			//FIXME: can't do this at checkout because get_cart_refresh_data, which outputs jsResult.cart depends on searchDisplay, can't use it on checkout!!
+			//updateCarts(jsResult.cart);
+		}
+
+		function paymentResponseHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			participant_id = jsResult['OP_VAR_PARTICIPANT_ID'];
+			sModal_close(true);
+			if(jsResult.success == true){
+				window.location.href = jsResult.target_url;
+			} else {
+				if(jsResult.content != null){
+					document.getElementById('order_process_info').innerHTML = jsResult.content;
+					window.location.hash = jsResult.target_section;
+				}
+				if(jsResult.error == true){
+					sModal_close(true);
+					sModal.create(550);
+					sModal.populate(jsResult.error_content, 10);
+				}
+			}
+			document.body.style.cursor = 'default';
+		}
+
+		function saveCC(post_data){
+			document.body.style.cursor = 'wait';
+			jHash('$.post', 'https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', post_data, function(data) {saveCardResponseHandler(data)});
+		}
+
+		function postForm(post_data){
+			jHash('$.post', 'https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', post_data, function(data) {genericResponseHandler(data)});
+		}
+
+		function saveCardResponseHandler(response, request){
+			genericResponseHandler(response, request);
+			window_location = window.location.toString();
+			if(window_location.indexOf('order_process.php') > -1){
+				applyPayments();
+			}
+		}
+
+		function genericResponseHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			sModal_close(true);
+			sModal.create(400);
+			sModal.populate(jsResult.content);
+			document.body.style.cursor = 'default';
+		}
+
+		function editCard(upi_id, participant_id){
+			document.body.style.cursor = 'wait';
+			post_data = 'edit_upi='+upi_id+'&ptcid='+participant_id;
+			jHash('$.post', 'https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', post_data, function(data) {genericResponseHandler(data)});
+		}
+
+		function changeAddress(location_id){
+			document.body.style.cursor = 'wait';
+			post_data = 'Xhv_ea=1&DC_location_id='+location_id;
+			jHash('$.post', 'https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', post_data, function(data) {genericResponseHandler(data)});
+		}
+
+		function deleteAddress(location_id, mode){
+			document.body.style.cursor = 'wait';
+			post_data = 'Xhv_da='+mode+'&DC_location_id='+location_id;
+			jHash('$.post', 'https://www.delivery.com/about_us.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', post_data, function(data) {genericResponseHandler(data)});
+		}
+
+				function cancelOrder(group_order_id){
+			document.body.style.cursor = 'wait';
+			$.post('https://www.delivery.com/group_order_details.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', 'cancel='+group_order_id, cancelOrderHandler);
+		}
+
+		function cancelOrderHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			document.body.style.cursor = 'default';
+			window.location.href=jsResult.target_url;
+		}
+
+		function confirmCancel(group_order_id){
+			var modal_text = '<h2>Do you <i>really</i> want to cancel this group order?</h2>';
+			modal_text += '<div class="button" style="margin-right:5px;"><a href="#" onclick="cancelOrder(\''+group_order_id+'\'); return false;">Yes</a></div>';
+			modal_text += '<div class="button"><a href="#" onclick="sModal_close(); return false;">No</a></div>';
+			sModal.create(400);
+			sModal.populate(modal_text);
+		}
+	</script>
+		<script type="text/javascript">
+		function authenticateParticipant(participant_id,email,stage){
+			document.body.style.cursor = 'wait';
+			target = 'OP_VAR_ORDER_ACTION=OP_VAR_ACTION_AUTH&OP_VAR_PARTICIPANT_ID='+participant_id+'&email='+email+'&OP_VAR_AUTH_STAGE='+stage;
+			$.post('https://www.delivery.com/order_process.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', target, participantAuthHandler);
+		}
+
+		function participantAuthHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			sModal_close(true);
+			sModal.create(550);
+			sModal.populate(jsResult.content, 5);
+			document.body.style.cursor = 'default';
+		}
+
+		function authenticateHumanForPayment(participant_id,email,password){
+			target = 'OP_VAR_ORDER_ACTION=OP_VAR_ACTION_AUTH&OP_VAR_AUTH_STAGE=OP_VAR_STAGE_AUTH&OP_VAR_PARTICIPANT_ID='+participant_id+'&password='+password+'&email='+email;
+			document.body.style.cursor = 'wait';
+			$.post('https://www.delivery.com/order_process.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', target, paymentAuthHandler);
+		}
+
+		function paymentAuthHandler(response, request){
+			var jsResult = jQuery.parseJSON(response);
+			participant_id = jsResult['OP_VAR_PARTICIPANT_ID'];
+			sModal_close(true);
+			if(jsResult.success == true){
+			   applyPayments();
+			} else {
+				sModal.create();
+				sModal.populate('<h2>Authentication Error</h2>'+jsResult.content);
+			}
+			document.body.style.cursor = 'default';
+		}
+
+		function checkTip(){
+			participant_ids = document.getElementById('participant_ids').value.split(',');
+			for(var i=0; i<participant_ids.length; i++){
+				current_element = document.getElementById('tip['+participant_ids[i]+']');
+				container_element = document.getElementById('payments_tip['+participant_ids[i]+']');
+				if(current_element !== null && container_element.style.display !== 'none' && $("#tip\\["+participant_ids[i]+"\\]").val().length == 0){
+					sModal.create();
+					sModal.populate('<h2>Tip Notice</h2><br/><p>Delivery.com recommends tipping; however, if you choose\
+							not to tip or to tip in cash at the time of delivery, \
+							please type "0" (zero) in the tip field.</p>');
+					return false;
+				}
+			}
+			return true;
+		}
+	</script>
+		<!--address input-->
+					<input id="DC_location_idd9fe" name="DC_location_id" type="hidden" value="">
+			
+		<div class="grid_7 j_address_street_label">
+			<input class="j_address_street_label" id="j_address_street_inputd9fe" name="FULL_ADDRESS" tabindex="1" type="text" autocomplete="off" value="Street Address, City, State" onblur="jAddressBlur(this, 'blur', 'Street Address, City, State');" onfocus="jAddressBlur(this, 'focus', 'Street Address, City, State');" onclick="jAddressPop('d9fe');" onkeydown="jAddressPop('d9fe', true);">
+		
 		</div>
 
-								<div class="grid_2">
-									<input class="keyword" name="DC_search" tabindex="3" onblur="if (this.value=='')this.value='Keyword';" onfocus="if (this.value=='Keyword')this.value='';" value="Keyword">
-								</div>
-							
+							<div class="grid_2">
+								<input class="keyword" name="DC_search" tabindex="3" onblur="if (this.value=='')this.value='Keyword';" onfocus="if (this.value=='Keyword')this.value='';" value="Keyword">
+							</div>
+
 						
                              <div id="delivery_type" style="background: url(/images/delivery_selected_search_bar.png) no-repeat 0px 0px;" class="grid_2">
 								<div id="d_type_delivery">
@@ -187,89 +451,107 @@
 <div class="legible">
 	<h1>Privacy Policy</h1>
 
-	<p>Delivery.com has created this privacy policy to demonstrate our commitment to
+	<p>
+        Delivery.com has created this privacy policy to demonstrate our commitment to
 		protecting our individual users' personally identifiable information that we
-		collect when such users use our website, delivery.com, or that we receive from
-		the Delivery.com participating merchants.</p>
+		collect when such users use our website, www.delivery.com (the "Site"), and 
+        our mobile applications (the "Delivery.com Apps"), or that we receive from
+		the Delivery.com participating merchants.
+    </p>
 	
-	<p>This information is used to process the orders placed with the participating
-		merchants and is shared as needed to process the orders. In addition, this
-		information is used to communicate with the users and to enhance their experience
-		at our website including by showing the content that we think the user might
-		be interested in. Lastly, this information may be used as agreed to by the user.</p>
+	<p>
+        This information is used to process and complete the orders placed with the participating 
+        merchants and is shared as needed to process and complete the orders. In addition, 
+        this information is used to communicate with the users, to enhance their experience at 
+        and improve the functionality and content of the Site and the Delivery.com Apps  including, 
+        without limitation, by showing the content that we think the user might be interested in. 
+        Lastly, this information may be used as agreed to by the user.
+    </p>
 	
-	<p>We may use the user's e-mail address to convey occasional newsletters and
-		updates regarding new participating merchants, specials or features on our
-		website or services offered on our website. When logged in, users have the
-		ability to edit their "email notification" preferences in their account, or
-		unsubscribe altogether. Alternatively, users may click the "unsubscribe" link
-		contained in our email messages.</p>
+	<p>
+        We may use the user's e-mail address to convey newsletters and updates regarding new 
+        participating merchants, specials or features on the Site and/or the Delivery.com Apps, 
+        or services offered on  or using the Site and/or the Delivery.com Apps. We may also use 
+        this information to contact users for administrative, customer service or similar purposes. 
+        When logged in, users have the ability to edit their "email notification" preferences in 
+        their account, or unsubscribe altogether. Alternatively, users may click the "unsubscribe" 
+        link contained in our email messages.
+    </p>
+    
+    <p>
+        Please note that the Site and the Delivery.com Apps are not designed to be used by or 
+        collect any personally identifiable information from individuals under the age of majority.
+    </p>
 	
-	<p>We also log and store users' IP addresses, cookie information and the information
-		about the users' website experience, preferences and the pages they request.</p>
+	<p>
+        The Site and the Delivery.com Apps also automatically receive and store users' IP addresses, 
+        cookie information and the information about the users' website experience, preferences and 
+        the pages they request.
+    </p>
 	
-	<p>This website may contain links to the sites that are not owned or operated by
-		us. We are not responsible for the privacy practices of such websites, their
-		owners or operators.</p>
+	<p>
+        This website may contain links to websites that are not owned or operated by us. We are not 
+        responsible for the privacy practices of such websites, their owners or operators. 
+        For foursquare<span class="copyright">®</span> privacy policy, 
+        <a href="https://foursquare.com/legal/privacy">click here</a>. 
+    </p>
+    
+    <p>
+        Delivery.com may modify this privacy policy from time to time upon written notice or posting 
+        to the Site. It is your responsibility to review this privacy policy periodically. You agree 
+        that your access to or use of the Site or the Delivery.com Apps after such notice or posting 
+        implies your acknowledgement and agreement to the modification and this privacy policy.
+    </p>
 	
-	<p>If you have any questions about this privacy policy, the practices of this
-		website, or your dealings with this website, please <a href="/contact_us.php">
-		contact us using the form provided</a>.</p>
-		
+	<p>
+        If you have any questions about this privacy policy, the practices of the Site or the Delivery.com Apps, 
+        or your dealings with the Site or the Delivery.com Apps, please 
+        <a href="/contact_us.php">contact us using the form provided</a>.
+    </p>
+    <p><b>Last Updated:</b> April 2012</p>
 </div></div>
 
 <div class="grid_5 sidebar">
-			<div class="widget">
-				<h4 class="header">FROM THE DELIVERY BLOG</h4>
-				<div class="body">
-							<ul>
-		<li><a href="http://blog.delivery.com/2011/10/10/new-restaurants-october-3-10">New Restaurants: October 3 - 10 </a></li><li><a href="http://blog.delivery.com/2011/10/06/time-out-new-yorks-100best">Time Out New York's #100best</a></li><li><a href="http://blog.delivery.com/2011/10/05/merchant-of-the-week-ponche-taqueria">Merchant of the Week: Ponche Taqueria</a></li><li><a href="http://blog.delivery.com/2011/10/03/new-merchants-september-26-october-3">New Merchants: September 26 - October 3 </a></li><li><a href="http://blog.delivery.com/2011/09/29/celebrate-coffee-day-at-delivery-com">Celebrate Coffee Day at Delivery.com!</a></li>			</ul>
-				</div>
-						<div class="footer">
-					<a href="http://blog.delivery.com">Visit the Delivery.com Blog »</a>
-				</div>
-					</div>
-					<div class="widget">
-				<h4 class="header">RECENT DELIVERY.COM TWEETS</h4>
-				<div class="body gradient">
-							<ul class="twitter">
-						<li>Give a warm Delivery.com welcome to these new restaurants. Which one will you try first? <a href="http://t.co/HDWzgwOZ">http://t.co/HDWzgwOZ</a><br>12:50 PM Oct 10th</li><li>Watching football? Order all your football food at delivery.com. Tell us who you're rooting for and what you're ordering today.<br>11:04 AM Oct 9th</li><li>Congrats <a href="http://twitter.com/ovenproofbread!">@ovenproofbread!</a> You won 5000 Delivery Points! We'll see what we can do about the burrito costume. :) DM us your email please.<br>5:52 PM Oct 7th</li>			</ul>
-				</div>
-						<div class="footer">
-					<a href="http://twitter.com/Deliverydotcom">Follow Delivery.com on Twitter »</a>
-				</div>
-					</div>
-		</div></div><div class="clear"></div><div class="footer" id="footer">			<div class="icon_block">
+</div></div><div class="clear"></div><div class="footer" id="footer">			<div class="icon_block large">
 							
-			<div style="width:95%; margin:0px auto; padding:0px;">
-				<div style="float:left; width:25%;">
-					<a href="http://www.facebook.com/pages/Deliverycom/8100445908"><img style="float:left;" src="/images/icons/16/footer-facebook-icon.gif" alt="Become a Fan on Facebook"></a>
-					<div style="float:left; font-size:8pt; margin-top:-4px;"><a href="http://www.facebook.com/pages/Deliverycom/8100445908">Like Us on Facebook</a></div>
+			<div class="large_icon_container">
+				<div id="facebook_icon" class="large_social_icons">
+					<a href="http://www.facebook.com/pages/Deliverycom/8100445908"><img src="/images/footer-facebook-large-icon.gif" alt="Become a Fan on Facebook"></a>
+					<div class="large_href_style">
+						<a href="http://www.facebook.com/pages/Deliverycom/8100445908">Like Us on Facebook</a>
+					</div>
 				</div>
 
-				<div style="float:left; width:31%;">
-					<a href="http://twitter.com/deliverydotcom"><img alt="Follow Us on Twitter" style="float:left;" src="/images/icons/16/footer-twitter-icon.gif"></a>
-					<div style="float:left; font-size:8pt; margin-top:-4px;">
+				<div id="twitter_icon" class="large_social_icons">
+					<a href="http://twitter.com/deliverydotcom"><img src="/images/footer-twitter-large-icon.gif" alt="Follow Delivery.com on Twitter"></a>
+					<div class="large_href_style">
 						<a href="http://twitter.com/deliverydotcom">Follow Us on Twitter</a>
 					</div>
 				</div>
 		
-				<div style="float:left; width:27%;">
-					<a href="/tell_a_friend.php"><img style="float:left;" src="/images/icons/16/footer-caption-icon.png" alt="Tell Your Friends about Delivery.com"></a>
-					<div style="float:left; font-size:8pt; margin-top:-4px;">
-						<a href="/tell_a_friend.php">Tell a Friend</a>
+					<div id="friends_icon" class="large_social_icons">
+						<a href="/tell_a_friend.php"><img src="/images/icons/32/taf_icon_43_32.png" alt="Tell Your Friends about Delivery.com"></a>
+						<div class="large_href_style">
+							<a href="/tell_a_friend.php">Tell a Friend About Us</a>
+						</div>
+					</div>
+			
+				<div id="blog_icon" class="large_social_icons">
+					<a href="http://blog.delivery.com"><img alt="Read Our Blog" src="/images/footer-blog-large-icon.gif"></a>
+					<div class="large_href_style">
+						<a href="http://blog.delivery.com">Read Our Blog</a>
 					</div>
 				</div>
-			
-				<div style="float:left; width:14%;">
-					<a href="http://blog.delivery.com"><img alt="Read Our Blog" style="float:left;" src="/images/icons/16/footer-blog-icon.gif"></a>
-					<div style="float:left; font-size:8pt; margin-top:-4px;">
-						<a href="http://blog.delivery.com">Read Our Blog</a>
+
+				<div id="apple_icon" class="large_social_icons">
+					<a href="/iphone/index.php"><img alt="Download our App" src="/images/apple_icon.png"></a>
+					<div class="large_href_style">
+						<a href="/iphone/index.php">Download our App</a>
 					</div>
 				</div>
 			</div>				<div class="clear"></div>
 			</div><!--icon_block-->
-		 <div class="grid_12"><div class="small_links"><a href="/merchant/index.php">For Merchants</a><a href="/office/index.php">For Companies</a><a href="/partner/become_a_partner.php">For Partners</a><a href="/create_api_account.php">For Developers</a><br><a href="/about_us.php">About Us</a><a href="/contact_us.php">Contact Us</a><a href="/help.php">Help</a><a href="/jobs/jobs.php">Jobs</a><a href="/iphone/">Mobile</a><a href="/delivery_points.php">Points and Prizes</a><a href="/press/press.php">Press</a><a href="/billing/gift/promo.php">Gift Cards</a><br><a href="/misc/businesses.php">Business Network</a><a href="/misc/charities.php">Charity Network</a></div></div><div class="grid_12 copyright"><div style="float:right;"><a title="Delivery.com, LLC BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/delivery-service/delivery-com-llc-in-new-york-ny-102066/#bbbonlineclick"><img alt="Delivery.com, LLC BBB Business Review" style="border: 0;" src="https://seal-newyork.bbb.org/seals/blue-seal-96-50-delivery-com-llc-102066.png"></a></div>By using our site you agree to our <a href="https://www.delivery.com/about_us.php?cq=LbSdQfgNsdwq1KV8UZNEGRLqoSKL_JRGKkdCrxowYPkMfgK9dVWITw..&amp;cq_key=65abc">Terms of Use</a>.  Read our <a href="https://www.delivery.com/about_us.php?cq=LbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..&amp;cq_key=f80b4">privacy policy</a>.<br>©2010-2011 Delivery.com, LLC. All rights reserved.</div><div class="clear"></div></div><div class="clear"></div>			<script type="text/javascript">
+		 <div class="grid_12"><div class="small_links"><a href="/merchant/index.php">For Merchants</a><a href="/office/index.php">For Companies</a><a href="/partner/become_a_partner.php">For Partners</a><a href="/create_api_account.php">For Developers</a><br><a href="/about_us.php">About Us</a><a href="/contact_us.php">Contact Us</a><a href="/help.php">Help</a><a href="/jobs/jobs.php">Jobs</a><a href="/iphone/">Mobile</a><a href="/delivery_points.php">Points and Prizes</a><a href="/press/press.php">Press</a><a href="/billing/gift/promo.php">Gift Cards</a><br><a href="/misc/businesses.php">Business Network</a><a href="/misc/charities.php">Charity Network</a></div></div><div class="grid_12 copyright"><div style="position:absolute;right:0;top:0;"><a title="Delivery.com, LLC BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/delivery-service/delivery-com-llc-in-new-york-ny-102066/#bbbonlineclick"><img alt="Delivery.com, LLC BBB Business Review" style="border: 0;" src="/images/blue-seal-96-50-delivery-com-llc-102066.png"></a></div>By using our site you agree to our <a href="https://www.delivery.com/about_us.php?cq=LbSdQfgNsdwq1KV8UZNEGRLqoSKL_JRGKkdCrxowYPkMfgK9dVWITw..&amp;cq_key=65abc">Terms of Use</a>.  Read our <a href="https://www.delivery.com/about_us.php?cq=LbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..&amp;cq_key=f80b4">Privacy Policy</a>.<br>©2010-2012 Delivery.com, LLC. All rights reserved.</div><div class="clear"></div></div><div class="clear"></div>			<script type="text/javascript">
 				// <![CDATA[
 				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
 					"http://www.");
@@ -283,21 +565,7 @@
 try {var pageTracker = _gat._getTracker("UA-7095585-1");pageTracker._trackPageview();} catch(err) {}
  // ]]>
 </script>
-				<!-- Begin comScore Tag -->
-					<script>
-					  var _comscore = _comscore || [];
-					  _comscore.push({ c1: "2", c2: "9742325" });
-					  (function() {
-					    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-					    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-					    el.parentNode.insertBefore(s, el);
-					  })();
-					</script>
-					<noscript>
-				  		<img src="http://b.scorecardresearch.com/p?c1=2&c2=9742325&cv=2.0&cj=1" />
-					</noscript>
-				<!-- End comScore Tag -->
-	
+
 				</div><!--End container_12 for display-->
 
 				  
