@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redwingshoe.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128022410id_/http%3A//www.redwingshoes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingshoe.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503231328id_/http%3A//www.redwingshoes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Respecting our customer's privacy has never been an issue with us. You can visit
 Red Wing Shoe Company does continue to gather information from our customers on a voluntary basis. This data is very critical in helping us learn more about what our customers expect and demand from their Red Wing products and services. This means that any information we receive from a customer implies consent for our use of their information. Red Wing Shoe Company honors and follows the international guidelines of the Direct Marketing Association for Privacy Practices. We thank our customers for their trust.   
 
 
-RWSC acknowledges and supports our customer's right to direct the use of their personal data and will maintain an "opt-out" option, which allows you to request the removal of your name from any mailing or telephone list. To remove your name, you can email us [customerservice@redwingshoe.com](mailto:customerservice@redwingshoe.com) or write to us at:   
+RWSC acknowledges and supports our customer's right to direct the use of their personal data and will maintain an "opt-out" option, which allows you to request the removal of your name from any mailing or telephone list. To remove your name, you can email us [customer.service@redwingshoes.com](mailto:customer.service@redwingshoes.com) or write to us at:   
 
 
 **Red Wing Shoe Co.  
