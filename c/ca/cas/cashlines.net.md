@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashlines.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110908id_/http%3A//www.cashlines.net/content.php%3Fp_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashlines.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504003212id_/http%3A//cashlines.net/privacy) for the most accurate reproduction.*
 
 # CashLines : Privacy Policy
 
