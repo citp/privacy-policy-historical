@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124172106id_/http%3A//growace.com/information/info_id-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503233706id_/http%3A//growace.com/information/info_id-3.html) for the most accurate reproduction.*
 
 # GrowAce.com
 
