@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219184534id_/http%3A//thedirty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503230241id_/http%3A//thedirty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nik Richie + Dirty Army intel, opinions, gossip, satire, and celebrities
 
 The following **Privacy Policy** governs the online information collection practices of [thedirty.com](http://thedirty.com/). Specifically, it outlines the types of information that we gather about you while you are using thedirty.com website (the “Site”), and the ways in which we use and do not use this information.
 
- **What Information is Collected About Visitors?**
+**What Information is Collected About Visitors?**
 
 The information that we collect about you while you are using the Site falls into two general categories:
 
