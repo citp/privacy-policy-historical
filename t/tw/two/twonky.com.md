@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118082903id_/http%3A//www.twonky.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203552id_/http%3A//twonky.com/privacy.aspx) for the most accurate reproduction.*
 
 # Twonky Suite Media Manager :: Connected Home ::Privacy
 
