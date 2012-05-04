@@ -1,164 +1,143 @@
-> *The following text is extracted and transformed from the continental.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the continental.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504135428id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
-# Continental Airlines - Privacy Policy
+# United Airlines - Privacy Policy
 
-[Home](https://web.archive.org/web/en-US/Default.aspx?SID=F391F669B6F0467EB631ADECFCC58A38 "Continental Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on continental.com") > **Privacy Policy**
+[Home](https://web.archive.org/web/en-US/Default.aspx?SID=30FAF508FC284DEA89CFB62C440BB65C "United Airlines - Airline Tickets, Vacations Packages, Travel Deals, and Company Information on united.com") > **Privacy Policy**
 
-Continental reserves the right to modify this Privacy Policy at any time without prior notice. The Policy posted on this Web site will be the current version dated with the last revision date. Any changes will apply to all information collected by Continental, including previously collected information. User is responsible for regularly reviewing these terms and conditions. Continued use of this Web site following any such changes shall constitute the User's acceptance of such changes.
+### Your privacy is important to us
 
-Last updated: April 10, 2009
+United Airlines is committed to protecting the privacy and personal data it receives from customers. We want you to know that when you use one of the United family Internet Websites, and when you provide us with information off-line, the privacy of your personally identifiable information will be respected and protected. While United strives to take reasonable measures to protect the privacy of our customers, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
 
-### Privacy Notice to all Continental Customers
+With respect to online transactions, this Privacy Policy applies to transactions conducted within the United States on united.com and any other website within the United (“United”). However, this policy does not apply to United Cargo transactions, including, but not limited to, those conducted on unitedcargo.com. For the privacy policies of websites outside of the United family, like United Vacations, Orbitz, Travelocity, or Expedia, please see their websites for the policies that apply. 
 
-Continental Airlines is committed to protecting the privacy and personal data it receives from customers, including credit card numbers and Social Security numbers, in compliance with all relevant data protection and privacy laws. Access to personal data is limited to those individuals who must access such information to perform their duties and/or to provide services to our customers. All such individuals are prohibited from making any unauthorized or unlawful disclosure. This information is maintained and disposed of in strict accordance with our information security and record retention standards.
+### What information do we collect?
 
-Please be advised that when you book or purchase a Continental ticket for transportation of passengers or cargo or if you participate in any Continental program or service such as OnePass or the Presidents Club, personal data may be collected, used, processed and transferred for the following business purposes: making a reservation; purchasing a ticket; purchasing cargo; participating in OnePass services; obtaining ancillary services including accommodating special service requests; accounting, billing and auditing; checking credit or other payment mechanisms; operating frequent flyer programs; systems testing, maintenance and development; customer relations; sales and marketing; statistical analysis; developing and tailoring current and future services; facilitating travel including obtaining immigration and customs clearance; complying with applicable laws; providing data to third parties or governmental agencies to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo, or providing for the prevention, detection, apprehension or prosecution of imminent criminal acts; and protecting the legal rights of Continental. Upon booking a ticket for transportation or purchasing other services, you authorize Continental and its affiliates and authorized agents to (i) collect, process, retain and use, and (ii) transfer to third parties, including other carriers and government agencies, for their use, processing and retention, such personal data as Continental deems necessary to carry out the above-mentioned business purposes.
+United collects and maintains personally identifiable information about customers through our websites and through off-line transactions such as over the telephone, through a United reservations agent or other travel agent, and in person at United counters or at the United Club lounges. Personally identifiable information includes, but is not limited to, your name, address, passport number, credit card numbers, phone numbers, and email address. In addition, when you use our websites, certain user information and site activity data is collected. Further details on the information we collect is described below.
 
-Continental Customer Care is responsible for receiving, investigating and resolving customer complaints regarding Continental's Privacy Policy. You may contact Continental Customer Care at the address set forth below if you would like to review and rectify your personal data on file.
+#### MileagePlus® information
 
-#### Customer Care Contacts:
+When you [enroll in MileagePlus](https://web.archive.org/web/20120504135428id_/http%3A//www.united.com/web/en-US/apps/account/enroll.aspx?SID=30FAF508FC284DEA89CFB62C440BB65C), or if you are already a MileagePlus member, we collect specific information such as your name, address, phone numbers, email address, MileagePlus number, password and a password reminder.
 
-E-mail:
-    [custo@coair.com](mailto:custo@coair.com)
-Address:
-    Customer Care - NHCCR  
-Continental Airlines, Inc.  
-900 Grand Plaza Dr.  
-Houston, TX 77067-4323 
+#### Traveler’s profile information
 
-If you object to Continental maintaining and using your personal data for marketing purposes, you may opt out of such purposes. OnePass members may opt out of such purpose by using continental.com (sign in is required) or contacting OnePass at the contacts below. Opt out requests by non-OnePass Members should be directed to Continental Customer Care at the contacts above.
+When you enroll in MileagePlus or activate your MileagePlus account, an optional traveler profile can be created for your convenience. You are not required to complete a profile to use our websites for your reservations. In order to complete your traveler’s profile, the following information may be requested: credit card type, number, expiration date and billing address, telephone numbers, email addresses, general requests or special needs, travel preferences and loyalty program information.
 
-#### OnePass Contacts:
+#### On-line purchases
 
-E-mail:
-    [onepass@coair.com](mailto:onepass@coair.com)
-Phone:
-    713.952.1630
-Address:
-    OnePass Service Center  
-900 Grand Plaza Dr.  
-Houston, TX 77067-4323 USA
+It is not required that you be a MileagePlus member, activate your MileagePlus account on one of our websites, or complete a traveler's profile in order to make reservations on one of our websites. However, MileagePlus membership and a traveler's profile will allow you to complete a reservation more quickly and give you online access to your MileagePlus account information, past transactions, and special services. If you purchase as a guest, information such as billing, contact, and preferences will be collected in order to execute the transaction.
 
-### Privacy Notice to Continental Airlines Web Site Users
+#### Promotions
 
-"Continental Web Sites" are defined and used below as the following Web sites:
+We occasionally sponsor promotions to give members the opportunity to win various prizes. Information collected for promotions can include contact information, such as email address, and survey questions.
 
-  * continental.com
-  * cocargo.com
-  * onepassauction.com
+#### Cookies
 
+By using one of our websites, some information may automatically be collected by our web servers as you browse our site. United also collects information by using technologies and methodologies that enable tracking, such as “cookies”.
 
+Cookies are small bits of information that are stored on your computer by your web browser. Web beacons (also called "pixel tags") are small strings of code placed on a web page or in an email message for the purpose of transferring information. Cookies help establish a user session and allow our server to correctly provide site users with the appropriate information, advertisements and services. Additional information about the use of cookies is described below.
 
-#### Information gathered by Continental Airlines on Continental Web Sites
+#### Domain names
 
-Your information and site activity data is collected throughout Continental Web Sites, including domains, browsers, and pages accessed. This information is used for standard reporting purposes, to improve site content and to display and enhance your Continental experience. With respect to the foregoing, Continental adheres to the [Safe Harbor Principles](http://web.ita.doc.gov/safeharbor/SHList.nsf/9bdf89bec30e8e04852569670050e019/99ef804ab8159c3585256d080067edfd?OpenDocument) issued by the U.S. Department of Commerce. In compliance with the obligations that arise pursuant to the "Enforcement" principle of the Safe Harbor program, Continental operates an in-house verification process that satisfies the Safe Harbor requirements.
+In general, you can visit most parts of our websites without telling us who you are or revealing any information about yourself. Our web servers identify the domain names and IP addresses of visitors, where applicable, but this is not captured as personally identifiable information.
 
-Individual information is captured on this site and retained for later use based on inputs to the "My Account" area of the site. Different information is needed to fulfill the programs and services offered in conjunction with the continental.com booking engine and OnePass Program. The information, its use and what you can do to change or update it is explained in more detail below.
+#### Off-line purchases: Reservations by telephone, travel agent or ticket counter
 
-**Continental Web Sites booking engines:** Information required by Continental Web Sites for the reservation, purchase and delivery of products and services that allow Continental to contact customers when necessary to complete the delivery of such products and services; to tailor your Continental experience; and to protect Continental from fraud are collected during the registration, shopping and purchase process. Names, mailing addresses, billing addresses, credit and charge card numbers and expiration dates, e-mail addresses, telephone numbers, travel details, OnePass member number and other travel reward numbers are among the information collected.
+In order to book your reservation with a United reservations agent, a travel agent (including online travel agents outside of the United family), or a customer service representative (collectively, “Reservations Agents”), Reservations Agents collect data such as credit card numbers, passport numbers, birth date, name, addresses, email addresses, and telephone numbers. Telephone calls to Reservations Agents may be monitored and/or recorded and by continuing with the call, you are deemed to consent to such monitoring and/or recording.
 
-Receipts and/or tickets will be mailed or sent by courier/express service to the billing or mailing address as appropriate. You may be contacted by telephone, mail or e-mail, if additional information is required to complete a transaction or to notify you of service changes.
+#### United Club
 
-"Cookies" are used to hold your preference information, maintain state during a transaction, and to enhance site security. Cookies and system-identification software enable us to:
+United may collect personally identifiable information such as name, addresses, email addresses, telephone numbers, and credit card numbers, in order to provide service to members of its United Club.
 
-  * Create a unique user ID for you. This saves you from having to sign in each time you visit the specific Continental Web site.
-  * Keep track of a purchase transaction during a session at the specific Continental Web site.
-  * Display OnePass Program interaction and pertinent offers.
-  * Collect usage information about the way you like to use our Continental Web Sites that allows us to customize and improve the service.
+#### Inflight
 
-
-
-Please note that for security and audit purposes, all information is archived.
-
-**OnePass Information:** Aggregate information is collected throughout Continental Web Sites to provide you products and services associated with the OnePass program and Continental's services. There are two areas of the site in which information is captured and used at the individual level: "Enroll Instantly" and "My Account." If you join OnePass through "Enroll Instantly," data from the enrollment application is saved and you are assigned an individual OnePass account number. This information is used to administrate your mileage accrual and account information in this program, as well as to tailor your Continental experience. In "My Account," you may view your individual mileage balance and mileage earnings and withdrawals. All individual preferences entered in "My Account" are saved. In addition, the "My Account" area has an E-mail Subscription page that allows you to choose which types of e-mail you prefer to receive, if any. To protect your confidential information, you are assigned a Personal Identification Number (PIN)/Password (optional) upon activating your OnePass account. You are advised not to disclose your PIN/Password to any third party. If you do not know your PIN/Password use our [online PIN help tools](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/apps/account/settings/pin/pinResolution2.aspx?SID=F391F669B6F0467EB631ADECFCC58A38), or [contact the OnePass Service Center](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/content/contact/onepass/AccountInfo.aspx?SID=F391F669B6F0467EB631ADECFCC58A38) for assistance.
-
-**OnePass Online Auction:** Information required for item searches, bidding and delivery of products and services upon successful bid, to allow Continental or an agent of Continental to contact customers when necessary, to tailor the user experience, and to protect Continental from fraud are collected during the registration and bidding process. Names, shipping address, billing address, credit card numbers and expiration dates, e-mail address, telephone numbers, travel details, OnePass and other travel reward numbers are among the information collected. Confirmation notices will be electronically mailed to the account email address or sent via courier/express service to the billing or shipping address as appropriate. Users may be contacted by telephone, mail, or email if additional information is required to complete a transaction. Users may be notified by telephone, mail, or email of service changes. During the registration process, users may request that Continental periodically send promotion notification via e-mail. Cookies are used to hold user preference information, maintain state during a transaction, and to enhance site security. For security and audit purposes, all information is archived.
-
-**E-mail Address Usage:** Your e-mail address is required for reservations made on continental.com to be used for identification and in the event Continental needs to contact you. Your e-mail address is also required when creating an OnePass account. The e-mail address provided at enrollment is retained as your primary e-mail address. Once a primary e-mail address is assigned to your OnePass account, it cannot be deleted unless your account is closed via the OnePass Service Center, but may be edited through continental.com. If there is no e-mail address associated with your account and you add one, it is automatically designated as your primary e-mail address.
-
-#### Consent
-
-By utilizing the Continental Web Sites and/or enrolling as a OnePass Member, you are consenting to the use of personal data as herein described, including but not limited to the following uses of your data:
-
-  * supplying it to our partners identified at [http://www.continental.com/onepass/earn/](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/content/onepass/earn/default.aspx?SID=F391F669B6F0467EB631ADECFCC58A38); transferring it to other countries whether or not such countries have data protection laws; and
-  * the processing of any personal and sensitive data included in the data you provide.
-
-
-
-#### Choice/Opt out options specific to the OnePass Program
-
-You may opt out of receiving e-mails by managing the E-mail Subscriptions section of your member information under "My Account" or by ending your subscriptions, by clicking on the unsubscribe link included in each e-mail, and entering the e-mail address that is located at the bottom of the e-mail. You may opt out of the e-mails that are listed on the E-mail Subscriptions page such as e-mails for OnePass Statements, News and Offers, TripAlert notifications and Elite Automatic Upgrade Notification e-mails. Please note that you cannot opt out of e-mails related to your purchased travel.
-
-Individual OnePass information you supply through the continental.com site follows the same standards as member information supplied through phone or mail. (OnePass members receive a Member's Guide upon activating an OnePass account that states this same policy.) From time to time, individual information may be shared with our OnePass partners in order to provide members with requested products or services, as well as more opportunities to earn miles and other benefits associated with OnePass membership. In addition, your member information may be merged with demographic data from a third party. If you choose to opt out of these options, you may set the privacy flag for either your phone number and/ or your mailing address in the "My Account" area on continental.com. You may also [contact the OnePass Service Center](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/content/contact/onepass/AccountInfo.aspx?SID=F391F669B6F0467EB631ADECFCC58A38) by e-mail, phone, or mail. Please include your name, address and OnePass account number in all correspondence and e-mail:
-
-E-mail:
-    [onepass@coair.com](mailto:onepass@coair.com)
-Phone:
-    713.952.1630
-Address:
-    OnePass Service Center  
-900 Grand Plaza Dr.  
-Houston, TX 77067-4323 USA
-
-**Third Party Information Provided by You:** If, during the course of completing a transaction with Continental, you provide us with personally identifiable information pertaining to a third party (for example, you make a reservation for your daughter), such third party information will be used by Continental solely for the completion of that transaction.
-
-#### Disclosure of information gathered by Continental Airlines
-
-Continental will not sell your personally identifiable information. Continental will also not share your personally identifiable information with third parties without your permission, except as outlined for OnePass members in the Member's Guide or otherwise disclosed in Continental's Privacy Policy. Aggregate information may at times be shared with Continental partners and other third parties. Aggregate information includes items like demographic information, domain names, and other site traffic information, but does not include personally identifiable information. Some examples are: X% of subscribers are America Online users, or X% of eligible tickets purchased are eTickets.
-
-#### Use of Third-Party Service Providers
-
-Continental contracts with reputable third parties to facilitate the collection and aggregation of Web usage and transaction information; the distribution of advertisements and electronic mail; and the operation of some survey, promotional and sweepstakes programs. Such third parties are subject to confidentiality and any necessary privacy requirements and, upon completion of these services, all information is returned to Continental.
-
-#### Use of Web Bugs
-
-Web documents may reference images, sometimes called "single-pixel GIFs" or "Web bugs" that streamline the collection of Web usage information. Continental uses Web bugs to send usage information directly to our advertising and E-mail Service Providers. This helps us better manage our efforts to advertise and communicate by e-mail by providing a better understanding of which banner ads or e-mail bring users to Continental Web Sites.
-
-Continental has engaged third party tracking and advertising providers such as DoubleClick to act on Continental's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags/ web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Continental’s behalf by these third parties does not contain your name, address, e-mail address, or any other personally identifiable information. If you wish, however, you may [opt out of DoubleClick tracking](http://www.doubleclick.com/privacy/dart_adserving.aspx?SID=F391F669B6F0467EB631ADECFCC58A38).
-
-#### Updating or deactivating personally identifiable information in Continental Airlines databases
-
-All your personally identifiable information collected on Continental Web Sites is accessible by you for review and update purposes. Please use the Continental Contacts below for such purposes. To correct or update personally identifiable information relating to OnePass, access your OnePass account, then select the "My Account" button and make the required corrections/updates, or [contact the OnePass Service Center](https://web.archive.org/web/20111206211341id_/http%3A//www.continental.com/web/en-US/content/contact/onepass/AccountInfo.aspx?SID=F391F669B6F0467EB631ADECFCC58A38). For security purposes, complete card numbers are not displayed.
-
-**Continental feedback forms:** Questions and comments submitted online may be published in the Continental magazine, continental.com, or other publications if Continental deems it necessary and appropriate.
-
-All feedback is reviewed. You may be contacted by Continental if you request it, or if Continental feels contact is warranted by the message. Both aggregate and individual comments are used to help improve Continental Airlines and other Continental products and services.
-
-For security and audit purposes, all contact information is archived.
-
-#### Data Security
-
-To maintain the accuracy of your data, as well as preventing unauthorized access and correct use of all data, Continental uses the appropriate physical, electronic, and managerial measures to safeguard and secure the data we collect online.
+If a medical or other emergency occurs while onboard, boarding, or disembarking a United aircraft, United may share customer information with third-party medical or other safety personnel as necessary. Additionally, United may collect credit card and MileagePlus information in-flight to enable present and/or future purchases.
 
 #### Children
 
-No part of Continental Web Sites or online services is directed to children. Continental does not collect personally identifiable information from individuals actually known to Continental to be under the age of 13.
+Due to the nature of our services, travel purchase information—including personal information—may be collected by United from children under the age of 13 when necessary to comply with federal aviation or security regulations or for safety or security reasons, or as otherwise necessary for United to provide services. We may retain personal information when necessary to provide transportation to a child under 13. United does not knowingly collect personally identifiable information online from children under the age of 13 other than when necessary to comply with federal aviation or security regulations or for safety and security reasons. In addition, if you learn that your child has provided us with personal information online without your knowledge, you may contact us by sending an email to [web-mpi@united.com](mailto:web-mpi@united.com), or by calling 1-800-421-4655 and ask us to delete this information from our records. This will unsubscribe the child from any marketing or promotional opportunities. 
 
-#### How to Contact Us
+### How do we use your information?
 
-If you wish to contact us on a privacy issue, please use the information listed below. Please include your name, address and OnePass account number (if you are a OnePass member) in all correspondence and e-mail.
+United uses personal information collected in conjunction with registration or purchases on our websites and off-line purchases and transactions to complete transactions and fulfill requests for services. We also use your personal information to provide you with a more effective customer experience. In order to do this, United may process your information or combine it with other information that we have about you or that is publicly available. In addition, United may share this information with third parties for the purpose of providing you with services, information or promotional opportunities that may be of interest to you. We require strict contractual obligations from these third parties to ensure safeguards for the privacy and security of the information which are at least as restrictive as this Privacy Policy in handling your information. 
 
-**One Pass Members:**
+Aggregate information such as demographic information, domain names, other site traffic information, etc. may at times be shared with United partners or other third parties. Examples of aggregate information are X% of eligible tickets purchased are eTickets; X% of subscribers are America Online users, etc. Aggregate information does not include personally identifiable information.
 
-E-mail:
-    [onepass@coair.com](mailto:onepass@coair.com)
-Phone:
-    713.952.1630
-Address:
-    OnePass Service Center  
-900 Grand Plaza Dr.  
-Houston, TX 77067-4323 USA
+#### Information collected during transactions
 
-**Continental Customer Care Offices:**
+We provide information collected from you to airlines, car rental agencies, hotels, travel agencies or other contracted third parties to facilitate the successful fulfillment of your travel arrangements or for the specific purpose for which you provided the information. As an added service, subject to your opting out as described below, your purchase behavior may also be analyzed to identify and present custom offers that may be of interest to you.
 
-North America, Central America, South America, the Caribbean, Hawaii, Europe, the Middle East and Africa
+#### MileagePlus®
 
-E-mail:
-    [custo@coair.com](mailto:custo@coair.com)
-Address:
-    Customer Care - NHCCR  
-Continental Airlines, Inc.  
-900 Grand Plaza Dr.  
-Houston, TX 77067-4323 USA
+Information collected from MileagePlus members is used to enroll you in MileagePlus and ensure that you receive applicable mileage credit for travel purchases for participating flights and other MileagePlus participating vendor (partner) activities. This information is also used to communicate with you on your MileagePlus account status and notify you of any special promotions for which you might be eligible. On occasion, we may provide customer mailing list and email addresses to reputable, carefully-screened MileagePlus partners or other companies whose services or products may be of interest to you. (You may unsubscribe by Opting-Out, as described below.) Sharing of customer lists may also provide you with the opportunity to earn bonus miles for non-flight activity. As indicated, we require strict contractual obligations from these third parties to ensure safeguards for the privacy and security of the information which are at least as restrictive as this Privacy Policy in handling your information. 
 
-Continental's privacy policy applies only to Continental Web Sites managed by Continental or contracted parties (www.cocargo.com, www.continental.com, www.cotimetable.com, www.onepassauction.com), You are referred to the privacy policies of the hosts of other Web sites, including Continental Airlines Vacations (www.covacations.com) or those of our code-share partners, some of which may be reached through links from Continental Web Sites. If you decide to use other Web sites that have links from our Web site, please remember to read their privacy notices.
+#### Traveler’s profile information
+
+We use traveler’s profile information to perform a number of functions including 1) pre-filling certain data fields to eliminate you from having to type the same information multiple times, 2) performing certain booking functions, 3) billing you for your reservation, 4) sending you offers that may be of value unless you opt out, as described below and 5) notifying you of a flight change, reservation confirmation or a special fare offering.
+
+#### Emails
+
+We use email addresses to deliver information relevant to our customers, such as fare specials, reservation confirmations, surveys, account information, notification services, and for administrative reasons. As a MileagePlus member, a registered user of one of our websites, or contest entrant, you occasionally will receive emails about fare sales, special offers, new services and other noteworthy news items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive this information, you may opt-out of receiving such emails as described below.
+
+#### Online surveys and promotions
+
+We value the opinions of our customers and want to improve your travel experience and our service offerings; therefore, from time to time, we will conduct research surveys. We may also contract with third parties to perform the research, but the use of the customer data by that third party is limited solely to that survey initiative and is protected by a confidentiality agreement. 
+
+Generally, unless otherwise stated in the promotion or survey, contact information collected for promotions is used to notify promotion winners, and survey information and results are used to develop improved promotions and other service enhancements.
+
+#### Flight status alerts / Wireless services
+
+Our customers can register for Flight status alerts and other wireless services by providing basic flight information and other relevant information. Wherever possible, information already provided will be used for the delivery of these services. Participation in Flight status alerts and other wireless services is optional. 
+
+#### Cookies
+
+Cookies help establish a user session and allow our server to correctly provide site users with the appropriate information, advertisements and services. We also use cookies to ensure you obtain the information you request and to authenticate your authority to access the site. If you are a registered user on our site and you elect to have the site store your MileagePlus number, the cookie stored on your computer will contain your MileagePlus number. We also use cookies and web beacons to track the usage of our websites in order to improve the site according to our customers’ needs.
+
+United may enter into agreements with third party companies to serve advertisements and information to site users. United may use its cookies and web beacons when working with these companies to provide them information regarding use of the site or to serve you advertisements when you visit our site. These companies may use the non-personally identifiable information about your visit to make available goods and services of interest to you. 
+
+In addition, some third-party advertising technology used by United to deliver advertisements may employ a separate cookie. This technology may be delivered via visits to our website, email messages, or otherwise. This technology uses non-personally identifiable information about your visits to this website and other websites as well as information about your methods of communication with us in order to provide you with more relevant information, advertisements, or services. Web beacons on some pages of our site, in conjunction with these advertising cookies and our other cookies, enable the third party advertising technology to better understand onsite activity in the aggregate, to recognize a browser's cookie when a browser visits this site or other sites, and to learn which advertisements bring users to our website or otherwise take action. If you do not want your non-personally identifiable information to be used to provide you with more relevant information, advertisements, or services, you can change the settings on your Internet browser to reject cookies and this will also disable our web beacons. Please consult your chosen Internet browser for instructions on how to change your cookie handling settings.
+
+If you are a registered user on our site and you elect to have the site store your MileagePlus number, the cookie stored on your computer will contain your MileagePlus number. While most people accept cookies, you can configure your browser to not accept cookies from us or from third party companies, like the third party ad servers. If you choose not to accept our cookies, however, and are a registered user, you will not have access to your personal information on this site such as your user profile, itineraries, award travel, upgrades and MileagePlus summary information. Although you cannot log into the site as a registered user if you disable our cookies, you can still purchase on the site by logging in as a guest. It is important to note that some website functionality may not function properly if your browser does not accept cookies.
+
+#### Domain names
+
+Information regarding domain names is aggregated to measure the number of visits, average time spent on the site, pages viewed and similar site usage information in order to know how to improve the site's content.
+
+#### Children
+
+No information we collect from children known to be under the age of 13 is used for any marketing or promotional purposes whatsoever, by either us, our affiliates, or our third party sponsors. We use the information collected about children known to be under 13 only to provide services. We will give out personal information about children if required by law, for example, to comply with a court order or subpoena or to protect the safety and security of visitors and our sites.
+
+#### Law Enforcement / Legal processes / Other uses
+
+United may disclose personal information if required to do so by law, court order, subpoena or other legal process, as requested by a governmental or law enforcement authority, when it is necessary to protect the rights or property of United, our customers, our websites, or their users, or when we believe in good faith that it is in the interests of aviation security or that disclosure is otherwise necessary or advisable.
+
+### How can you access your information?
+
+If you are registered on one of our websites, you can create, view or update your [Traveler’s Profile](https://web.archive.org/web/20120504135428id_/http%3A//www.united.com/web/en-US/apps/account/account.aspx?SID=30FAF508FC284DEA89CFB62C440BB65C) and MileagePlus account by accessing them through the United family website Log-in. If you are not registered on one of our websites, you can review and request changes to your personally identifiable information collected by United by calling 1-800-421-4655. 
+
+### How is the information collected online protected?
+
+United maintains strict physical, electronic and procedural safeguards to protect personal information and regularly reviews its security standards and procedures to protect against unauthorized access to personal information. When you place orders to purchase services or access your MileagePlus account information, we use secure servers to protect your personal information. Secure Socket Layer (SSL) software encrypts the personal information that is transmitted between you and our websites.
+
+Although United takes reasonable steps to safeguard and to prevent unauthorized access to your private information, it cannot be responsible for the acts of those who gain unauthorized access, and United makes no warranty, express, implied, or otherwise, that we will prevent unauthorized access to your private information. 
+
+### How can you opt out?
+
+If you do not want United to use or share your personal information for the purpose of sending you email marketing or promotional materials, you can opt out at any time by going to the United family website you are using and update your preferences accordingly. In addition, emails sent to you will also contain a message on how to opt out of that type of communication in the future. Regardless of your opt-out preferences, we reserve the right to send you emails or other electronic messages for administrative purposes.
+
+### Other sites
+
+This Privacy Policy, to the extent it covers Internet use, covers only the United family websites and does not cover any other site, including those related to this site such as unitedvacations.com, unitedcargo.com or the non-U.S. United sites, nor does this policy apply to unitedcontinentalholdings.com. While we make every effort to protect your information on our websites, we do not control the policies of other sites (including those we may link to). We have no control over other sites' privacy policies or use of any personal information you or others may share with them. Please do not assume that our Privacy Policy covers those other sites.
+
+### Protect your personal information
+
+In order to protect your privacy and United’s proprietary databases and systems, we recommend that you not share any of your personally identifiable information, such as MileagePlus number or password, with any third-party information aggregators that would allow them access to sensitive account information.
+
+### How can you contact us?
+
+If you have comments or questions about this Privacy Policy, please email us at [customervoice9@united.com](mailto:customervoice9@united.com). Please reference this Privacy Policy in those communications.
+
+### Legal effect and changes to the policy
+
+As indicated, this Privacy Policy is not a contract nor does it otherwise create any legal rights or obligations. Rather, this Privacy Policy merely reflects guidelines setting forth United’s intended business practices. However, by using this website, and/or by providing personal information to United online or off-line, you consent to the collection and use of such information by United, its affiliates, partners, contractors and permitted agents as herein described and consistent with applicable laws. Also, United, in its discretion, may amend, interpret, modify, or withdraw any portion of this Privacy Policy and related business practices at any time by posting updated text on this site, and your continued use constitutes your consent to those changes. A version of this Privacy Policy has been effective since October 15, 2002 and was last updated in November 2011. 
+
+Thank you for taking the time to read this Privacy Policy.
