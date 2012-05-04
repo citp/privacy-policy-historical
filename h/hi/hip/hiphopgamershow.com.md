@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiphopgamershow.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007040018id_/http%3A//www.hiphopgamershow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopgamershow.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504094435id_/http%3A//www.hiphopgamershow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Real Talk From The HipHopGamer
+# Privacy Policy | HipHopGamerShow
 
 PRIVACY NOTICE  
 This privacy notice discloses the privacy practices for www.hiphopgamershow.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
@@ -30,5 +30,7 @@ We take precautions to protect your information. When you submit sensitive infor
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+
+HipHopGamerShow may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via email hiphopgamer@hiphopgamershow.com
