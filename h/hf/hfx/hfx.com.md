@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the hfx.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211092756id_/http%3A//www.hfx.com/en-US/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfx.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504050209id_/http%3A//www.hfx.com/en-US/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|  |  |  |   
+---  
+  
+##   
+  
 Before you begin setting up your account with HFX Global Ltd (herein referred to as “we,” “us,” or “Company”), and obtaining services from the Company, please read the following Privacy Policy.
 
 By using any information or services from the Company through this website, you represent that you have read and understand this Policy and agree to be bound by them. If you do not agree with this Policy, in whole or in part, do not continue using this website or any Company services.
@@ -13,14 +18,25 @@ By using any information or services from the Company through this website, you 
   3. We do not disclose any non-public personal information about our customers, or our former customers, to anyone and we shall not sell or receive payment for disclosing your personal information. Nevertheless, we may use or share such information with third parties in any of the following limited circumstances and purposes:
 
     1. For the purpose of providing you with Company’s services.
+
     2. If we have your consent or your request to do so.
+
     3. If we are required to do so by law.
+
     4. If we are required to do so according to Anti-Money Laundering ("AML") regulations and for the purpose of verifying the customer’s identity. This may include disclosing personal information in order to cooperate with regulatory authorities and law enforcement agencies, as may be necessary to protect our rights or property.
+
     5. To share the information with non-affiliated companies that perform support services for your account or facilitate your transactions with us, including those that provide professional, legal, or accounting services to the Company.
+
     6. To improve and customize the content and layout of the website and other materials.
+
     7. To notify you with promotional material and miscellaneous operations.
+
     8. To notify you with any services and products provided by us or by third parties that we think may be of interest to you.
+
     9. If we have a good faith to belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of the Company.
+
+    10. You can ask a HFX to delete the personal information we hold about you by emailing us at support@hfx.com
+
   4. Use of Cookies - A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. We may use cookies to store some personal preferences for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site can be more personalized and productive. You'll find that cookies are an industry standard and are used at most major web sites in much the same way we use them here at our Site.
 
   5. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
