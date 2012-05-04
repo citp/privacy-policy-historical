@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105181113id_/http%3A//www.your-story.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-story.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504170922id_/http%3A//www.your-story.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Press Releases @ Your-Story.org
+
+Your-Story.org is entirely owned by [24 Hour Trading Ltd](http://24hourtrading.co.uk/), a company registered in England and Wales.
 
 Your privacy when accessing this, and any other website owned and operated by 24 Hour Trading Ltd is of paramount importance to us.
 
@@ -56,6 +58,10 @@ You may opt out of submitting any data to Your-Story.org by taking the following
   * Not registering a Your-Story.org free account.
 
 
+
+### Payment Details
+
+Certain services for Your-Story.org require you to make online payments. **We will not store your payment information**. We will pass on your payment information to a third party payment services provider, PayPal, who will execute the payment on our behalf. Payments should display on your credit or debit card statement as “PAYPAL*24HRTRADING”.
 
 ### Your Consent
 
