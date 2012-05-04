@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmi.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021094844id_/https%3A//www.nmi.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmi.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504190004id_/https%3A//www.nmi.com/company/privacy.php) for the most accurate reproduction.*
 
 # Welcome to NMI - Network Merchants Inc
 
@@ -45,8 +45,8 @@ NMI gives you the ability to edit your account information and/or preferences at
 Write to the NMI's Chief Privacy Officer:
 
 Network Merchants Inc.  
-1005 W. Wise Road  
-Schaumburg, Illinois 60193  
+201 E. Main St.  
+Roselle, Illinois 60172  
 
 
 Or email:
