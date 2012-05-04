@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softango.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008133131id_/http%3A//www.softango.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softango.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504064133id_/http%3A//softango.com/privacy) for the most accurate reproduction.*
 
-# None
+# Software for Windows: Softango
 
 ##  Privacy policy
 
@@ -66,6 +66,22 @@ This site gives children under the age of 18 the ability to publicly post or dis
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-If you feel that Softango is not abiding by its posted privacy policy, you should first contact Softango. For any suggestions and comments regarding Softango or our Privacy Policy, please contact us at webmaster@softango.com.
+If you feel that Softango is not abiding by its posted privacy policy, you should first contact Softango. For any suggestions and comments regarding Softango or our Privacy Policy, please contact us at contact@softango.com.
 
 This Privacy Policy has been last updated on 24th of January 2010.
+
+**How to Remove Private Data**  
+To Remove your Personal data from our servers please contact us about this by writing or emailing us:
+
+Softango.com  
+15500 SW Jay Street Suite 32118  
+Beaverton, OR, United States 97006  
+Email: support@softango.com 
+
+**Contact Information**  
+You can contact us about this privacy statement by writing or email us at the address below: 
+
+Softango  
+15500 SW Jay Street Suite 32118  
+Beaverton, OR, United States 97006  
+Email: support@softango.com 
