@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azblue.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221108id_/http%3A//www.azblue.com/Privacy-Statement/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azblue.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021036id_/http%3A//www.azblue.com/Privacy-Statement/Index.aspx) for the most accurate reproduction.*
 
 # AzBlue.com Privacy Statement
 
@@ -10,7 +10,7 @@ PHI is individually identifiable health information, including actual medical in
 
 We are required by law to maintain the privacy of your PHI. We are obligated to provide you with a copy of this Notice and we must abide by the terms of this Notice. We reserve the right to change this Notice at any time. If we make a material change to our Notice, we will mail a revised Notice to the address that we have on record for each insurance policyholder. The policyholder is the person in whose name the policy was issued.
 
-##  USES AND DISCLOSURES OF PROTECTED HEALTH INFORMATION (PHI)
+##  Uses and Disclosures of Protected Health Information (PHI) 
 
 The following is a description of how we are most likely to use and/or disclose your PHI.
 
