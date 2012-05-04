@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235620id_/http%3A//www.travour.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504123226id_/http%3A//www.travour.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We at Travour.com a subsidiary of Compare Infobase Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Pvt. Ltd or its subsidiary Travour.com may collect the information explained herein under. 
+We at Travour.com are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Travour.com may collect the information explained herein under. 
 
-**1**.We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us [Vamshi@infobase.in](mailto:vamshi@infobase.in)
+**1**.We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us
 
  **2.What identifiable information is collected from me?**
 
@@ -14,7 +14,7 @@ Travour.com may ask you for personal information at times, including, but not li
 
 **3\. What are cookies and how Travour.com uses them?**
 
-As combined part of offering and providing customised and personalised services, Travour.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have Compare Infobase Pvt. Ltd. browse map images, routes and trip plans we will require that you accept cookies. 
+As combined part of offering and providing customised and personalised services, Travour.com may use cookies to store and track your information. A cookie is a miniscule amount of data that is sent to your browser from a Web server that may be stored on your computer's hard drive. If you choose to have browse map images, routes and trip plans we will require that you accept cookies. 
 
 Cache your personalised settings for items such as route language and default country location.Determine whether you are using a public computer so that any Travour.com settings changed while using a public computer do not affect the next user's ability to use Travour.com 
 
@@ -22,7 +22,7 @@ Roughly Estimate our audience or browsers. Each fresh browser trying to access T
 
 Assist us to track the number of visits to and business activities at the Travour.com or Travour.com store, and to track and process the items in your shopping basket. 
 
-Track your progress and number of entries or queries in some of our promotions, and contests. When a Compare Infobase-hosted promotion uses cookies, the information written to the cookie may be used to track the entries, submissions made, and status in prize drawings list. 
+Track your progress and number of entries or queries in some of our promotions, and contests. 
 
 Measure certain specific traffic patterns to the site, track the areas of Travour.com network of Web sites visited, track the Web site or geographical location through which you came to Travour.com and your visiting patterns in average. We use this research to understand our users' visit habits and browsing preferences of if they are similar or different from one another so that we can make each visit by you on Travour.com better experience then last one. We may use this information to better the content, banners, and promotions that you and other users will be likely to see on our sites. 
 
@@ -50,11 +50,11 @@ During many promotions offers you may be requested for additional information fr
 
 Third Party Data & Data Comparisons: Under confidentiality agreements, Travour.com may match user information with third party data. Also, Travour.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
 
-**Miscellaneous:** Travour.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Pvt. Ltd's rights or property, other Travour.com users, or anyone else that could be harmed by such activities. Travour.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
+**Miscellaneous:** Travour.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) rights or property, other Travour.com users, or anyone else that could be harmed by such activities. Travour.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
 
 **6\. Do I have choices or controls regarding collection, use, and distribution of my identifiable information?**
 
-Upon your express interest about receiving offers or information from Travour.com and our partners under confidentiality, may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you and only if you indicated that you welcome these offers. Any time you can easily unsubscribe from Compare Infobase Pvt. Ltd's mailing list and no longer receive such offers and mailings. 
+Upon your express interest about receiving offers or information from Travour.com and our partners under confidentiality, may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you and only if you indicated that you welcome these offers. Any time you can easily unsubscribe from mailing list and no longer receive such offers and mailings. 
 
 On some types of Travour.com promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. Your participation in these types of promotions, may automatically enlist you to receive promotion-related email. Sometime these promotion-related emails may include targeted advertisements. 
 
@@ -80,7 +80,7 @@ Finally, you are solely responsible for maintaining the secrecy of your password
 
 **10\. Is there any children's privacy?**
 
-Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to Compare Infobase Pvt. Ltd, or to anyone online for that matter. Travour.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, Travour.com will not send any direct email offers to users who indicate they are under the age of 14 without first obtaining their parents' permission. 
+Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to anyone online for that matter. Travour.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, Travour.com will not send any direct email offers to users who indicate they are under the age of 14 without first obtaining their parents' permission. 
 
 **11\. Advertising cookies**
 
