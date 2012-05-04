@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superfreebingo.com privacy policy that was archived on 2011-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111012035820id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superfreebingo.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504082655id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,9 +10,13 @@
 <!-- Dynamic Title Tag Optimized for Search Engine Visibility -->
 <title>Privacy Policy at Super Free Bingo</title>
 <!-- These two lines call the css files essential for the 960 grid system - DO NOT REMOVE!! -->
+
 <link rel="stylesheet" type="text/css" media="all" href="http://www.superfreebingo.com/wp-content/themes/freebingo/css/reset.css">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.superfreebingo.com/wp-content/themes/freebingo/css/960.css">
 <link rel="stylesheet" href="http://www.superfreebingo.com/wp-content/themes/freebingo/style.css" type="text/css" media="screen">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.superfreebingo.com/wp-content/themes/freebingo/ie.css" />
+<![endif]-->
 <link rel="shortcut icon" type="icon/x-image" href="/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="Super Free Bingo RSS Feed" href="http://www.superfreebingo.com/feed/">
 <link rel="alternate" type="application/atom+xml" title="Super Free Bingo Atom Feed" href="http://www.superfreebingo.com/feed/atom/">
@@ -23,7 +27,7 @@
 <link rel="stylesheet" id="validation-style-css" href="http://www.superfreebingo.com/wp-content/themes/freebingo/css/validationEngine.jquery.css?ver=3.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="searchLightStyleSheets-css" href="http://www.superfreebingo.com/wp-content/plugins/search-light/themes/default/searchLight.css?ver=3.0.1" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.superfreebingo.com/wp-content/plugins/inline-upload/include/json2.js?ver=3.0.1"></script>
-<script type="text/javascript" src="http://www.superfreebingo.com/wp-content/plugins/inline-upload/include/http_request.js?1318391887&amp;ver=3.0.1"></script>
+<script type="text/javascript" src="http://www.superfreebingo.com/wp-content/plugins/inline-upload/include/http_request.js?1336119087&amp;ver=3.0.1"></script>
 <script type="text/javascript" src="http://www.superfreebingo.com/wp-content/themes/freebingo/js/jquery-1.4.2.min.js?ver=3.0.1"></script>
 <script type="text/javascript" src="http://www.superfreebingo.com/wp-content/plugins/search-light/ajax.js?ver=3.0.1"></script>
 <script type="text/javascript" src="http://www.superfreebingo.com/wp-content/themes/freebingo/js/sophiespick.js?ver=3.0.1"></script>
@@ -51,20 +55,31 @@
 <!-- start up validation -->
 <script type="text/javascript">
 function remblank() {
-if (document.xsign.firstname.value == 'First name') {
-	document.xsign.firstname.value = '';
-}
+	if (document.xsign.firstname.value == 'First name')
+		document.xsign.firstname.value = '';
 }
 function remblank2() {
-if (document.xsign.email.value == 'Email address') {
-	document.xsign.email.value = '';
+	if (document.xsign.email.value == 'Email address')
+		document.xsign.email.value = '';
 }
-}
-function update_success(){
-document.getElementById("success").value = "http://www.superfreebingo.com/lbb_signup/process_signup.php?username="+document.getElementById("username").value;
-}
+/*function update_success(){
+	var getemail = document.getElementById("email").value;
+	var newmail = getemail.replace("@","%40");
+	var firstname = document.getElementById("firstname").value;
+		document.getElementById("success").value = "http://www.superfreebingo.com/privacy/?firstname="+firstname+"&email="+newmail;
+}*/
 </script>
 
+<!--Created by Azad Atadjanov on 16.03.2012-->
+<!--Script for sign up form and subid project-->
+<script>
+function update_success(){
+	var getemail = document.getElementById("input2").value;
+	var newmail = getemail.replace("@","%40");
+	var firstname = document.getElementById("input").value;
+		document.getElementById("success").value = "http://www.superfreebingo.com/privacy/?firstname="+firstname+"&email="+newmail;
+}
+</script>
 <!-- Grab site specific analytics -->
 <!-- Analytics --> 
 <script type="text/javascript"> 
@@ -81,7 +96,6 @@ document.getElementById("success").value = "http://www.superfreebingo.com/lbb_si
  
 </script> 
 <!-- End Analytics -->
-
 
 <script type="text/javascript">
 <!--
@@ -106,6 +120,7 @@ $(function () {
 });
 // -->
 </script>
+<script src="http://www.superfreebingo.com/wp-content/themes/freebingo/js/opss.js" type="text/javascript"></script>
 <script type="text/javascript">
   /* <![CDATA[ */
  	$().ready(function() {
@@ -114,9 +129,13 @@ $(function () {
   /* ]]> */
 </script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'49db15f8-9514-448b-b38f-4930d2e19c72'});tracking=google�</script>
+<!-- <script type="text/javascript" src="http://www.superfreebingo.com/wp-content/themes/freebingo/js/tabbtn.js"></script> -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="http://www.superfreebingo.com/wp-content/themes/freebingo/js/organictabs.jquery.js"></script>
+
 
 </head>
-<body onunload="">
+<body onunload="" onload="clickMenu('opSS')">
 <!-- ClickTale Top part -->
 <script type="text/javascript">
 var WRInitTime=(new Date()).getTime();
@@ -133,14 +152,12 @@ var WRInitTime=(new Date()).getTime();
 
 			<!-- The class "grid_12" restricts the div to 12 columns wide -->
 			<div class="grid_5" id="headerimg">
-				<h1>Welcome to Super Free Bingo from Sophie!</h1>
-				<h2 class="description">Free Bingo | Online Bingo | Super Free Bingo</h2>
+				
 				<a href="http://www.superfreebingo.com/">&nbsp;</a>
 				<a href="http://www.superfreebingo.com/"><img src="http://www.superfreebingo.com/wp-content/themes/freebingo/images/site/core/super_free_bingo_header_green_orange.gif" title="Super Free Bingo" alt="Super Free Bingo"></a>
 			</div>
 
 			<!-- end headerimg -->
-
 
 			<div class="grid_7" id="main_nav"><!--<div class="new"><img src="http://www.superfreebingo.com/wp-content/themes/freebingo/images/site/core/new.gif" alt="" name="" width="47" height="21" /></div>--><ul><li id="first"><a href="/" title="Super Free Bingo">Home</a></li><li><a href="/free-bingo-sites/" title="Free Bingo">Free Bingo</a></li><li><a href="/bingo-news" title="News">News</a></li><li><a href="/help" title="Support">Support</a></li></ul></div>
 
@@ -155,11 +172,21 @@ var WRInitTime=(new Date()).getTime();
 
 	<div id="wrapper" class="container_12">
 
+<style>
+	#pageBar {
+		margin: 0 0 20px 0px;
+		padding: 10px 10px 10px 0px;
+	}
+	#pageBar h1 {
+		left: 120px;
+	}
+</style>
 
 	<div id="content" class="grid_12">
 
 				<div class="post" id="post-17770">
-		<h2>Privacy Policy</h2>
+		<h1>Privacy Policy</h1>
+		
 			<div class="entry">
 				<p>This privacy policy sets out how Super Free Bingo uses and protects any information that you give Super Free Bingo when you use this website.</p>
 <p>Super Free Bingo is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
@@ -210,8 +237,8 @@ var WRInitTime=(new Date()).getTime();
 		<!-- The class "container_12" restricts the grid to 12 columns and a total of 960px wide -->
 		<div class="container_12">
 		
-				<div id="footlinks" class="grid_10">© <a href="/" title="Free Bingo">Super Free Bingo</a> | <a href="/terms/" title="Terms and Conditions">Terms</a> | <a href="/privacy/" title="Privacy Policy">Privacy</a> | <a href="/disclaimer/" title="Disclaimer">Disclaimer</a><!-- | <a href="/contact/" title="Contact">Contact</a>--> | <a href="/help/" title="Help">Help</a>  | <a href="/no-deposit-bingo/" title="Free No Deposit Bingo">No Deposit Bingo</a>  | <a href="/deposit-bonus-bingo/" title="Deposit Bonus Bingo">Deposit Bonus Bingo</a>  | <!-- | <a href="http://www.lsmnetwork.com" title="Become an Affiliate">Affiliates</a>-->  </div>
-				<div id="footaware" class="grid_2"><a href="http://www.gambleaware.co.uk/" target="_blank"><img src="http://www.superfreebingo.com/wp-content/themes/freebingo/images/site/core/gamble_aware.gif" alt="Advice from Gamble Aware" title="Gamble Aware"></a></div>
+				<div id="footlinks" class="grid_10">© <a href="/" title="Free Bingo">Super Free Bingo</a> | <a href="/terms/" title="Terms and Conditions">Terms</a> | <a href="/privacy/" title="Privacy Policy">Privacy</a> | <a href="/disclaimer/" title="Disclaimer">Disclaimer</a><!-- | <a href="/contact/" title="Contact">Contact</a>--> | <a href="/help/" title="Help">Help</a>  | <a href="/no-deposit-bingo/" title="Free No Deposit Bingo">No Deposit Bingo</a>  | <a href="/deposit-bonus-bingo/" title="Deposit Bonus Bingo">Deposit Bonus Bingo</a>  | <a href="/articles" title="Bingo Articles">Articles</a>  </div>
+				<div id="footaware" class="grid_2"><a href="http://www.gambleaware.co.uk/" target="_blank" rel="nofollow"><img src="http://www.superfreebingo.com/wp-content/themes/freebingo/images/site/core/gamble_aware.gif" alt="Advice from Gamble Aware" title="Gamble Aware"></a></div>
 							
 				<!-- Directory -->
 				
@@ -221,10 +248,15 @@ var WRInitTime=(new Date()).getTime();
 				
 									<li class="grid_2" id="directory-888ladies-16459"> <a href="http://www.superfreebingo.com/free-bingo-sites/888-ladies/" title="Free Bingo at 888 Ladies">888 Ladies</a></li>
 									<li class="grid_2" id="directory-bingocafe-18125"> <a href="http://www.superfreebingo.com/free-bingo-sites/bingo-cafe/" title="Free Bingo at Bingo Cafe">Bingo Cafe</a></li>
+									<li class="grid_2" id="directory-bingocams-96512"> <a href="http://www.superfreebingo.com/free-bingo-sites/bingo-cams/" title="Free Bingo at Bingo Cams">Bingo Cams</a></li>
 									<li class="grid_2" id="directory-bingohero-16491"> <a href="http://www.superfreebingo.com/free-bingo-sites/bingo-hero/" title="Free Bingo at Bingo Hero">Bingo Hero</a></li>
 									<li class="grid_2" id="directory-bingoliner-18119"> <a href="http://www.superfreebingo.com/free-bingo-sites/bingo-liner/" title="Free Bingo at Bingo Liner">Bingo Liner</a></li>
+									<li class="grid_2" id="directory-butlersbingo-189371"> <a href="http://www.superfreebingo.com/free-bingo-sites/butlers-bingo/" title="Free Bingo at Butlers Bingo">Butlers Bingo</a></li>
+									<li class="grid_2" id="directory-cheekybingo-18130"> <a href="http://www.superfreebingo.com/free-bingo-sites/cheeky-bingo/" title="Free Bingo at Cheeky Bingo">Cheeky Bingo</a></li>
+									<li class="grid_2" id="directory-costabingo-18200"> <a href="http://www.superfreebingo.com/free-bingo-sites/costa-bingo/" title="Free Bingo at Costa Bingo">Costa Bingo</a></li>
+									<li class="grid_2" id="directory-dreambingo-170321"> <a href="http://www.superfreebingo.com/free-bingo-sites/dream-bingo/" title="Free Bingo at Dream Bingo">Dream Bingo</a></li>
+									<li class="grid_2" id="directory-fabulousbingo-185951"> <a href="http://www.superfreebingo.com/free-bingo-sites/fabulous-bingo/" title="Free Bingo at Fabulous Bingo">Fabulous Bingo</a></li>
 									<li class="grid_2" id="directory-foxybingo-16383"> <a href="http://www.superfreebingo.com/free-bingo-sites/foxy-bingo/" title="Free Bingo at Foxy Bingo">Foxy Bingo</a></li>
-									<li class="grid_2" id="directory-gamevillage-18123"> <a href="http://www.superfreebingo.com/free-bingo-sites/game_village/" title="Free Bingo at GameVillage">GameVillage</a></li>
 									<li class="grid_2" id="directory-gonebingo-16363"> <a href="http://www.superfreebingo.com/free-bingo-sites/gone-bingo/" title="Free Bingo at Gone Bingo">Gone Bingo</a></li>
 									<li class="grid_2" id="directory-gossipbingo-56902"> <a href="http://www.superfreebingo.com/free-bingo-sites/gossip-bingo/" title="Free Bingo at Gossip Bingo">Gossip Bingo</a></li>
 									<li class="grid_2" id="directory-jackpotjoy-18167"> <a href="http://www.superfreebingo.com/free-bingo-sites/jackpotjoy/" title="Free Bingo at Jackpotjoy">Jackpotjoy</a></li>
@@ -234,8 +266,11 @@ var WRInitTime=(new Date()).getTime();
 									<li class="grid_2" id="directory-moonbingo-18175"> <a href="http://www.superfreebingo.com/free-bingo-sites/moon-bingo/" title="Free Bingo at Moon Bingo">Moon Bingo</a></li>
 									<li class="grid_2" id="directory-paddypowerbingo-18164"> <a href="http://www.superfreebingo.com/free-bingo-sites/paddy-power-bingo/" title="Free Bingo at Paddy Power Bingo">Paddy Power Bingo</a></li>
 									<li class="grid_2" id="directory-polobingo-138881"> <a href="http://www.superfreebingo.com/free-bingo-sites/polo-bingo/" title="Free Bingo at Polo Bingo">Polo Bingo</a></li>
+									<li class="grid_2" id="directory-poshbingo-18179"> <a href="http://www.superfreebingo.com/free-bingo-sites/posh-bingo/" title="Free Bingo at Posh Bingo">Posh Bingo</a></li>
 									<li class="grid_2" id="directory-redbusbingo-36672"> <a href="http://www.superfreebingo.com/free-bingo-sites/red-bus-bingo/" title="Free Bingo at Red Bus Bingo">Red Bus Bingo</a></li>
+									<li class="grid_2" id="directory-singbingo-57752"> <a href="http://www.superfreebingo.com/free-bingo-sites/sing-bingo/" title="Free Bingo at Sing Bingo">Sing Bingo</a></li>
 									<li class="grid_2" id="directory-sophiesbingo-18149"> <a href="http://www.superfreebingo.com/free-bingo-sites/sophies-bingo/" title="Free Bingo at Sophie’s Bingo">Sophie's Bingo</a></li>
+									<li class="grid_2" id="directory-sparklingbingo-111252"> <a href="http://www.superfreebingo.com/free-bingo-sites/sparkling-bingo/" title="Free Bingo at Sparkling Bingo">Sparkling Bingo</a></li>
 									<li class="grid_2" id="directory-tastybingo-18169"> <a href="http://www.superfreebingo.com/free-bingo-sites/tasty-bingo/" title="Free Bingo at Tasty Bingo">Tasty Bingo</a></li>
 									<li class="grid_2" id="directory-thinkbingo-104422"> <a href="http://www.superfreebingo.com/free-bingo-sites/think-bingo-2/" title="Free Bingo at Think Bingo">Think Bingo</a></li>
 									<li class="grid_2" id="directory-winkbingo-16343"> <a href="http://www.superfreebingo.com/free-bingo-sites/wink-bingo/" title="Free Bingo at Wink Bingo">Wink Bingo</a></li>
