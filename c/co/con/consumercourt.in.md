@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203190955id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercourt.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504112028id_/http%3A//www.consumercourt.in/address/15032-privacy-policy.html%23post33197) for the most accurate reproduction.*
 
 # Privacy Policy
+
+1 _Likes_
 
 ## Privacy Policy
 
@@ -213,23 +215,23 @@ By Unregistered in forum Life Insurance
 
 Replies: 4 
 
-Last Post: 08-10-2011, 08:22 AM
+Last Post: 08-10-2011, 07:22 AM
 
   2. Replies: 1 
 
-Last Post: 11-23-2009, 01:06 PM
+Last Post: 11-23-2009, 12:06 PM
 
   3. Replies: 0 
 
-Last Post: 10-16-2009, 10:13 AM
+Last Post: 10-16-2009, 09:13 AM
 
   4. Replies: 0 
 
-Last Post: 07-15-2009, 10:28 PM
+Last Post: 07-15-2009, 09:28 PM
 
   5. Replies: 2 
 
-Last Post: 06-22-2009, 06:56 PM
+Last Post: 06-22-2009, 05:56 PM
 
 
 
@@ -242,6 +244,7 @@ Last Post: 06-22-2009, 06:56 PM
   * You **may** post replies
   * You **may not** post attachments
   * You **may not** edit your posts
+  *  
 
 
 
