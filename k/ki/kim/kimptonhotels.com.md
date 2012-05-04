@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kimptonhotels.com privacy policy that was archived on 2011-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111004044841id_/http%3A//www.kimptonhotels.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimptonhotels.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504110127id_/http%3A//www.kimptonhotels.com/privacy.aspx) for the most accurate reproduction.*
 
 # Kimpton Hotels & Restaurants - Privacy Statement
 
 | 
+
+###### Privacy
 
 Kimpton Hotel & Restaurant Group uses your personal information in order to fulfill our commitment to providing an unparalleled guest service experience. As part of that undertaking, we are committed to safeguarding the privacy of the personal information that we gather.
 
@@ -66,7 +68,7 @@ Cookies are small pieces of information that are stored in a browser-related fil
 
 We may use third party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
 
-We use WebTrends Reporting Service to analyze traffic to our web site. WebTrends Reporting Service does not create individual profiles for visitors. Unlike some tracking services, WebTrends Reporting Service does not have a database of individual profiles for each visitor. WebTrends Reporting Service only collects aggregate data. You are welcome to refer to the WebTrends Reporting Service Privacy Policy to learn how they collect and use information. You can find the WebTrends Reporting Service Privacy Policy here: <http://www.webtrends.com/AboutWebtrends/PrivacyPolicy.aspx>
+We use WebTrends Reporting Service to analyze traffic to our web site. WebTrends Reporting Service does not create individual profiles for visitors. Unlike some tracking services, WebTrends Reporting Service does not have a database of individual profiles for each visitor. WebTrends Reporting Service only collects aggregate data. You are welcome to refer to the WebTrends Reporting Service Privacy Policy to learn how they collect and use information. You can find the WebTrends Reporting Service Privacy Policy here: <http://ondemand.webtrends.com/privacypolicy.asp>
 
 We may employ a browser monitor within web pages on our site in order to determine your browser status and the client-side metrics relating to page loading. We constantly seek ways to improve page load times for our visitors and may ultimately use these metrics for such purposes. Any such browser monitor will only be active while the user is active on our site. For your protection, any such browser monitor will not require an executable (*.exe) application.
 
