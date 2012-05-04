@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205014840id_/http%3A//edsby.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504074049id_/http%3A//edsby.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Edsby.
 
