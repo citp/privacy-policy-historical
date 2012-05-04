@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025053600id_/https%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504174123id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # SquishyCash - privacy_policy
 
@@ -24,10 +24,5 @@ We will not sell, disclose or lease our member's personal information to any oth
 Changes to this Policy  
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
 
-| 
-
-[](https://web.archive.org/members/signupPTS.php?q=clickinks&x=0&y=0)
-
-[](https://web.archive.org/members/signupPTS.php?q=ebooks&x=0&y=0)  
-  
+|   
 ---|---|---
