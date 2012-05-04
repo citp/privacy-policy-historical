@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019134758id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505010027id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
 
 # The Social Network for Small Businesses | Entrepreneurs | Professionals
 
