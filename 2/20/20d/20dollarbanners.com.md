@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 20dollarbanners.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114001id_/http%3A//www.20dollarbanners.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20dollarbanners.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504153200id_/http%3A//www.20dollarbanners.com/privacy-policy) for the most accurate reproduction.*
 
-# Banner Design from $20 - Animated Web Banner Ad
+# Privacy Policy
 
 20Dollarbanners.com has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
