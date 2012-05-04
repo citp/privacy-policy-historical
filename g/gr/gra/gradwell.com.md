@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217021314id_/http%3A//gradwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradwell.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504042901id_/http%3A//www.gradwell.com/privacy) for the most accurate reproduction.*
 
 # Gradwell | Privacy Policy
 
@@ -12,18 +12,19 @@ We use our in-house analytics system, _ioIQ_ , to provide usage metrics of all o
 
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-In order to deliver our services we may disclose your personal data to our sub-contactors, who maintain the same standards of security and integrity as ourselves, under full non-disclosure agreements. These include:
+In order to deliver our services we may disclose your personal data to our sub-contactors, who maintain the same standards of security and integrity as ourselves, under full non-disclosure agreements. Some of these are based in the USA and are therefore outside of the European Economic Area. We have been careful to only select parties who adhere to our own stringent standards of data security and who agree to adhere to the Safe Harbor Principles set out by the US Department of Commerce. As such, any personal data is transferred in strict accordance with Principle 8 of the Data Protection Act 1998.
 
-  * Sirius Corporation Plc - Systems Management
-  * Netsumo Limited - Network Management
-  * MailChimp LLC - CRM Software
-  * Pardot LLC - CRM Software
-  * Netsuite LLC - CRM Software
-  * Target Consulting Limited - Accounting & Finance Support
-  * JuniperBridge Limited - Customer Support
-  * Provu Limited - Logistics & Dispatch
-  * Netlynk Group Limited - Logistics & Dispatch
-  * Optimum Contact Limited – Customer surveying  
+The list of relevant sub-contractors includes:
+
+  * Netsumo Limited - Network Management (UK)
+  * MailChimp LLC - CRM Software (USA)
+  * Lead Forensics - CRM Software (UK)
+  * Netsuite LLC - CRM Software (USA)
+  * Bishop Fleming Bath Limited - Accounting & Finance Support (UK)
+  * JuniperBridge Limited - Customer Support (UK)
+  * Provu Limited - Logistics & Dispatch (UK)
+  * Netlynk Group Limited - Logistics & Dispatch (UK)
+  * Optimum Contact Limited – Customer surveying (UK)  
  
 
 
