@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102045809id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504103138id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
 
 # InfoNIAC - Latest Inventions
 
