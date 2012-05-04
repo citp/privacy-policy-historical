@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208015004id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayforit.eu privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504124933id_/http%3A//www.gayforit.eu/privacy) for the most accurate reproduction.*
 
 # GayForIt.eu
 
@@ -6,9 +6,8 @@
 
 ### www.gayforit.eu Privacy Policy
 
-Your right to privacy is important to us
-
-Our third party licensors are fully registered under the Data Protection Act 1998 and aim to comply with all the protection the Act affords to you. Further information on the Act is on the internet at www.informationcommissioner.gov.uk. The data protection registration is held under the name of GLBT Ltd. Under the Data Protection Act 1998, we have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
+Your right to privacy is important to us  
+We have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
 
 #### User Provided Information -
 
@@ -24,7 +23,7 @@ When you visit the Gayforit Website, our servers automatically record certain in
 
 #### Where your information is held -
 
-Your information is held on our servers and our servers are based in Amsterdam. We must advise that the security is not as good as a service provider based here in the United Kingdom. However, we do have security measures in place with the service providers that host our servers to offer some level of protection of your data. 
+Your information is held on our servers and our servers are based in Amsterdam. We have security measures in place with the service providers that host our servers to offer some level of protection of your data. 
 
 #### The Way Gayforit Uses Information -
 
