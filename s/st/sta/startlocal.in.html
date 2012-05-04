@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startlocal.in privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101115947id_/http%3A//www.startlocal.in/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startlocal.in privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504023328id_/http%3A//www.startlocal.in/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy: Start Local - Your Local Indian Business Directory</title>
@@ -12,6 +12,10 @@
 <script type="text/javascript" src="http://static.startlocal.in/static/v18/site.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
+ $('a[class^=review-show-]').click(function(e) {
+ e.preventDefault();
+ $(this).parent().hide().siblings('span.' + $(this).attr('class').replace(/show-/, '')).first().show();
+ });
 });
 function list_to_select ( selector, blank_prompt ) {
  $(selector).each(function(){
@@ -186,6 +190,7 @@ function list_to_select ( selector, blank_prompt ) {
 <li><a href="/termsofuse.html">Terms of Use</a></li>
 <li><a href="/find_businesses.html">How to Search</a></li>
 <li><a href="/vote_businesses.html">What is Voting?</a></li>
+<li><a href="/articles/educational_articles.html">Articles</a></li>
 <li><a href="/get-listed.html">Get Listed / Submit URL</a></li>
 <li><a href="/andhra_pradesh.html">Andhra Pradesh</a></li>
 <li><a href="/delhi.html">Delhi</a></li>
@@ -197,7 +202,7 @@ function list_to_select ( selector, blank_prompt ) {
 <li class="last"><a href="/tamil_nadu.html">Tamil Nadu </a></li>
 </ul>
 <div class="relax"></div>
-<p>Copyright © 2010-2011 Startlocal India Pty Ltd - Your Local Search Engine and Indian Business Directory. All rights reserved.</p>
+<p>Copyright © 2010-2012 Startlocal India Pty Ltd - Your Local Search Engine and Indian Business Directory. All rights reserved.</p>
 </div>
 </div>
 </div>
