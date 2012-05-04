@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the insightbb.com privacy policy that was archived on 2011-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214105832id_/http%3A//www.insightbb.com/privacy/default.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insightbb.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504025233id_/http%3A//www.insightbb.com/privacy/default.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Insight Broadband :: Privacy Policy</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<script type="text/javascript" src="/include/detect.js"></script>
 
-	<link rel="stylesheet" type="text/css" href="/css/v3_all.css">
+	<link rel="stylesheet" type="text/css" href="/css/v4_all.css">
 	<script src="/js/jquery.1.4.4.js" type="text/javascript"></script>
 	<script src="/js/jquery.main.js" type="text/javascript"></script>
 	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css/ie.css" media="screen"/><![endif]-->
@@ -69,6 +69,7 @@ var paramADV, paramLOC
 		<div id="header">
 			<div class="header-area">
 	<!-- logo -->
+	<a href="/default.aspx" style="float: left;margin-top: -5px;"><img src="http://www.myinsight.com/images/logo2.jpg" alt="Insight"></a>
 	<h1 class="logo"><a href="/default.aspx">InsightBroadBand</a></h1>
 	<!-- enter-form -->
 	<form onsubmit="return isZipValid(this)" method="post" name="frmZip" class="enter-form">
@@ -118,32 +119,51 @@ var paramADV, paramLOC
 
 
 			<!-- Main navigation -->
-			    <div class="nav-holder">
+			    <div id="nav-holder" class="nav-holder">
       <ul id="nav">
-        <li class=""><a href="/news/default.aspx" target="_parent">News</a></li>
-        <li class=""><a href="/sports/default.aspx" target="_parent">Sports</a></li>
-        <li class=""><a href="/business/default.aspx" target="_parent">Business</a></li>
-        <li class=""><a href="/entertainment/default.aspx" target="_parent">Entertainment</a></li>
-        <li class=""><a href="http://insightbbgames.trymedia.com/" target="_blank">Games</a></li>
-        <li class=""><a href="/kids/default.aspx" target="_parent">Kids</a></li>
-        <li class=""><a href="http://www.mycn2.com/" target="_blank">cn|2</a></li>
-        <li class=""><a href="/exclusives/default.aspx" target="_parent">Exclusives</a></li>
-        <li class=""><a href="http://mail.insightbb.com" target="_blank">Webmail</a></li>
+        <li><a href="/news/default.aspx" target="_parent">News</a></li>
+        <li><a href="/sports/default.aspx" target="_parent">Sports</a></li>
+        <li><a href="/business/default.aspx" target="_parent">Business</a></li>
+        <li><a href="/entertainment/default.aspx" target="_parent">Entertainment</a></li>
+        <li><a href="/games/game-choice.aspx">Games</a></li>
+        <li><a href="/kids/default.aspx" target="_parent">Kids</a></li>
+        <li><a href="http://www.mycn2.com/" target="_blank">cn|2</a></li>
+        <li><a href="/exclusives/default.aspx" target="_parent">Exclusives</a></li>
+        <li><a href="/webmail_gateway.html?ref=topnav" target="_blank">Webmail</a></li>
       </ul>
     </div>
 
 	<script language="javascript">
-		setMainNav();
-		function setMainNav() {
-			var rows = document.getElementById('nav').getElementsByTagName('a');
-			var li = document.getElementById('nav').getElementsByTagName('li');
-			for (i=0; i<rows.length; i++) {
-				li[i].className = "";
-				if (window.location == rows[i].href.toLocaleLowerCase()) {
-					li[i].className = "active";
-				}
+    		jQuery(function(){ 
+			var $mainnav = jQuery('#nav li');
+			if (!$mainnav) return;
+
+			var url = (location.href).toLowerCase();
+			var cat = "none";
+			//for news category
+			if (url.indexOf('reuters') >= 0){
+				cat = jQuery('.heading .holder').text().toLowerCase().trim();
+				if (cat=="latest sports news") cat = "sports";
+				if (cat=="latest news" || cat == "top story") cat = "news";
+				if (cat=="latest entertainment news") cat = "entertainment";
+				if (cat=="latest business news") cat = "business";
+				if (cat=="latest music news") cat = "music";
 			}
-		}
+			$mainnav.removeClass('active');
+
+			$mainnav.each(function() {
+				var href = jQuery('a', this).attr('href').toLowerCase();
+				
+				if (href.indexOf('\/entertainment\/') >= 0) href = '\/entertainment\/';
+				if (href.indexOf('\/news\/') >= 0) href = '\/news\/';
+				if (href.indexOf('\/sports\/') >= 0) href = '\/sports\/';
+				if (href.indexOf('\/music\/') >= 0) href = '\/music\/';
+				if (href.indexOf('\/business\/') >= 0) href = '\/business\/';
+				if (href.indexOf('\/games\/') >= 0) href = '\/games\/';
+
+            			if (url.indexOf(href) >= 0 || href.indexOf(cat) >= 0) jQuery(this).addClass('active');
+			});
+		});
 	</script>
 
 
@@ -154,6 +174,7 @@ var paramADV, paramLOC
 			<!-- main-block -->
 						<div class="main-block">
 				<link rel="stylesheet" type="text/css" href="/css/v3_header.css" media="all">
+				<div style="height:24px;">
 				<!-- nav-list -->
 				<ul class="nav-list">
 					<li id="WebId" class="active"><a href="javascript:LinkSelection('WebId')">Web</a></li>
@@ -161,43 +182,17 @@ var paramADV, paramLOC
 					<li id="VideoId"><a href="javascript:LinkSelection('VideoId')">Video</a></li>
 					<li id="NewsId"><a href="javascript:LinkSelection('NewsId')">News</a></li>
 				</ul>
+				<!-- search-engines -->
+						<div class="search-engines">
+							<strong class="ttl"><img src="/images/arrow-down-spruce.gif"> Search all the best search engines at once:</strong>
+							<ul class="engines-list">
+								<li><img src="/images/ico_search_partner_logos.png" alt="" width="187" height="18"></li>
+							</ul>
+						</div>
 				<!-- search-holder -->
+				</div>
 				<form id="form1" name="form1" action="http://ws.infospace.com/insight/ws/redir">
 				<div class="search-holder">
-					<!-- search-topics -->
-					<div class="search-topics">
-						<div class="holder">
-							<div class="frame">
-								<!-- Begin Top Searches -->
-<h2>Popular Search Topics</h2>
-<div class="list-block">
-<ul>
-
-<li><span class="number">1.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DNordegren%2520Beau%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=401&amp;15=internal-nav&amp;40=KmWWNgIw0s0%3D&amp;_IceUrl=true" target="_balnk">Nordegren Beau</a></li>
-
-<li><span class="number">2.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DHudson%2520Baby%2520Name%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=402&amp;15=internal-nav&amp;40=AcDfZHqj1JzHZhPx3MJeBg%3D%3D&amp;_IceUrl=true" target="_balnk">Hudson Baby Name</a></li>
-
-</ul>
-
-<ul>
-
-<li><span class="number">3.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DClemens%2520Mistrial%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=403&amp;15=internal-nav&amp;40=ZRH3oHyswu%2BkZDjOUUhQmQ%3D%3D&amp;_IceUrl=true" target="_balnk">Clemens Mistrial</a></li>
-
-<li><span class="number">4.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DUS%2520Debt%2520Rating%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=404&amp;15=internal-nav&amp;40=5vGu8wE6RGU%3D&amp;_IceUrl=true" target="_balnk">US Debt Rating</a></li>
-
-</ul>
-<ul>
-
-<li><span class="number">5.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DGOP%2520Ideologues%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=405&amp;15=internal-nav&amp;40=jd%2BGCCz4Uzc7qa3nRtKk4g%3D%3D&amp;_IceUrl=true" target="_balnk">GOP Ideologues</a></li>
-
-<li><span class="number">6.</span><a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3DScore%2520Free%2520Stuff%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=a9d240fac43e4da18775b7a5f341cc01&amp;10=1&amp;11=insight&amp;13=search&amp;14=406&amp;15=internal-nav&amp;40=YMoyPQzvKoXVNK%2BjVK0mVg%3D%3D&amp;_IceUrl=true" target="_balnk">Score Free Stuff</a></li>
-
-</ul>
-</div>
-<!-- End Top Searches -->		
-							</div>
-						</div>
-					</div>
 					<div class="search-container">
 						<!-- search-form -->
 						<!-- form action="#" class="search-form" -->
@@ -207,17 +202,26 @@ var paramADV, paramLOC
 								<input id="ctl06_SearchBtn" name="ctl06_SearchBtn" type="submit" value="Search" class="button" onclick="return OpenWindowForSearch('qkw');">
 							</fieldset>
 						</div>
-
 						<!-- /form -->
-						<!-- search-engines -->
-						<div class="search-engines">
-							<strong class="ttl">All the best search engines at once:</strong>
-							<ul class="engines-list">
-								<li><img src="/images/ico-google.gif" alt="Google" width="40" height="17"></li>
-								<li><img src="/images/ico-yahoo.gif" alt="Yahoo" width="48" height="17"></li>
-								<li><img src="/images/ico-bing.gif" alt="bing" width="38" height="17"></li>
-							</ul>
+												<!-- trending topics -->
+						<div id="trending-topics">
+							<span class="label">Trending Topics:</span>&nbsp;&nbsp;
+
+							1. <a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3Djunior%2520seau%2520death%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=9f8b7582c72148adbe89295bfa28cd01&amp;10=1&amp;11=insight&amp;13=search&amp;14=401&amp;15=internal-nav&amp;40=5VDm8AIdkDFqwvcugBmvyg%3D%3D&amp;_IceUrl=true" target="_balnk">junior seau d...</a>&nbsp;&nbsp;
+
+							2. <a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3Dkelly%2520ripa%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=9f8b7582c72148adbe89295bfa28cd01&amp;10=1&amp;11=insight&amp;13=search&amp;14=402&amp;15=internal-nav&amp;40=h40Njy%2B2V5FpxE1A5IwHag%3D%3D&amp;_IceUrl=true" target="_balnk">kelly ripa</a>&nbsp;&nbsp;
+
+							3. <a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3Dalyson%2520hannigan%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=9f8b7582c72148adbe89295bfa28cd01&amp;10=1&amp;11=insight&amp;13=search&amp;14=403&amp;15=internal-nav&amp;40=5oX7ylmCSSUu7yCp767hTw%3D%3D&amp;_IceUrl=true" target="_balnk">alyson hannigan</a>&nbsp;&nbsp;
+
+							4. <a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3Damanda%2520seyfried%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=9f8b7582c72148adbe89295bfa28cd01&amp;10=1&amp;11=insight&amp;13=search&amp;14=404&amp;15=internal-nav&amp;40=3Zl5YuRG2lq9%2B7G1169Org%3D%3D&amp;_IceUrl=true" target="_balnk">amanda seyfried</a>&nbsp;&nbsp;
+
+							5. <a href="http://wsds.infospace.com/clickserver/_iceUrlFlag=1?rawURL=http%3A%2F%2Fwsds.infospace.com%2Finsight%2Fws%2Fredir%2Fqcat%3Dweb%2Fqkw%3Dvince%2520young%2F_iceUrlFlag%3D11%3F_IceUrl%3Dtrue&amp;0=&amp;1=0&amp;4=74.128.0.105&amp;5=74.128.0.105&amp;9=9f8b7582c72148adbe89295bfa28cd01&amp;10=1&amp;11=insight&amp;13=search&amp;14=405&amp;15=internal-nav&amp;40=Hl23pzGW5O%2FMwoK4LYeqLQ%3D%3D&amp;_IceUrl=true" target="_balnk">vince young</a>&nbsp;&nbsp;
+
 						</div>
+						<!-- /trending topics -->
+
+
+
 					</div>
 				</div>
 
@@ -543,46 +547,96 @@ function LinkSelection(clickedLink)
           <div class="holder">
             <div class="frame">
               <ul>
-                <li> <a href="/default.aspx" class=""> <span class="img"><img src="/images/ico-home.gif" alt="" width="21" height="42"></span> <strong>HOME</strong> </a> </li>
-                <li> <a href="/news/default.aspx" class=""> <span class="img"><img src="/images/ico-news.gif" alt="" width="21" height="42"></span> <strong>NEWS</strong> </a> </li>
-                <li> <a href="/sports/default.aspx" class=""> <span class="img"><img src="/images/ico-sports.gif" alt="" width="21" height="42"></span> <strong>SPORTS</strong> </a> </li>
-                <li> <a href="/Auth/Authpartners.aspx?Contenttype=ESPN360" title="ESPN3" target="_blank" class=""> <span class="img"><img src="/images/ico-espn.gif" alt="" width="21" height="42"></span> <strong>ESPN3</strong> </a> </li>
-                <li> <a href="/business/default.aspx" class=""> <span class="img"><img src="/images/ico-business.gif" alt="" width="21" height="42"></span> <strong>BUSINESS</strong> </a> </li>
-                <li> <a href="/entertainment/default.aspx" class=""> <span class="img"><img src="/images/ico-entertainment.gif" alt="" width="21" height="42"></span> <strong>ENTERTAINMENT</strong> </a> </li>
-                <li> <a href="/external/open.asp?url=http://broadband.soapnet.go.com/dolbroadband/soapnetic/landing&amp;affiliate=insight" title="Soapnetic" target="_soapnetic" class=""> <span class="img"><img src="/images/ico-soapnetic.gif" alt="" width="21" height="42"></span> <strong>SOAPNETIC</strong> </a> </li>
-                <li> <a href="http://insightbbgames.trymedia.com/" title="Games" target="_blank" class=""> <span class="img"><img src="/images/ico-games.gif" alt="" width="21" height="42"></span> <strong>GAMES</strong> </a> </li>
-                <li> <a href="/kids/default.aspx" class=""> <span class="img"><img src="/images/ico-nick-kids.gif" alt="" width="21" height="42"></span> <strong>NICK KIDS</strong> </a> </li>
-                <li> <a href="/music/default.aspx" class=""> <span class="img"><img src="/images/ico-music.gif" alt="" width="21" height="42"></span> <strong>MUSIC</strong> </a> </li>
-                <li> <a href="/chat/default.aspx" class=""> <span class="img"><img src="/images/ico-chat.gif" alt="" width="21" height="42"></span> <strong>CHAT &amp; MESSAGE BOARDS</strong> </a> </li>
-                <li> <a href="/pwp/default.aspx" class=""> <span class="img"><img src="/images/ico-personal.gif" alt="" width="21" height="42"></span> <strong>PERSONAL WEB PAGES</strong> </a> </li>
-                <li> <a href="/pcsecurity/default.aspx" class=""> <span class="img"><img src="/images/ico-security.gif" alt="" width="21" height="42"></span> <strong>INTERNET SECURITY</strong> </a> </li>
-                <li> <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=4&amp;campid=5335886244&amp;toolid=10001&amp;customid=eBay+home+page+for+Insight+BB&amp;mpre=http%3A%2F%2Fwww.ebay.com" title="eBay" target="_blank" class=""> <span class="img"><img src="/images/ico-ebay.gif" alt="" width="21" height="42"></span> <strong>EBAY</strong> </a> </li>
-                <li> <a href="http://insightbb.couponwinner.com" title="Online Coupons" target="_blank" class=""> <span class="img"><img src="/images/ico-coupons.gif" alt="" width="21" height="42"></span> <strong>ONLINE COUPONS</strong> </a> </li>
-                <li> <a href="/photo_center/default.aspx" title="Photo Center" class=""> <span class="img"><img src="/images/ico-photo.gif" alt="" width="21" height="42"></span> <strong>PHOTO CENTER</strong> </a> </li>
-                <li> <a href="/careers/default.aspx" title="Careers" class=""> <span class="img"><img src="/images/ico-careers.gif" alt="" width="21" height="42"></span> <strong>CAREERS</strong> </a> </li>
-                <li> <a href="/automobiles/default.aspx" title="Automobiles" class=""> <span class="img"><img src="/images/ico-auto.gif" alt="" width="21" height="42"></span> <strong>AUTOMOBILES</strong> </a> </li>
-                <li> <a href="/travel/default.aspx" title="Travel" class=""> <span class="img"><img src="/images/ico-travel.gif" alt="" width="21" height="42"></span> <strong>TRAVEL</strong> </a> </li>
-                <li> <a href="/directories/default.aspx" title="Directories" class=""> <span class="img"><img src="/images/ico-maps.gif" alt="" width="21" height="42"></span> <strong>DIRECTORIES &amp; MAPS</strong> </a> </li>
-                <li> <a href="http://www.myinsight.com" title="What's New at Insight" target="_new" class=""> <span class="img"><img src="/images/ico-new.gif" alt="" width="21" height="42"></span> <strong>WHAT'S NEW AT INSIGHT</strong> </a> </li>
+                <li> <a href="/default.aspx"> <span class="img"><img src="/images/ico-home.gif" alt="" width="21" height="63"></span> <strong>Home</strong> </a> </li>
+			  	<li class="header"><a href="javascript:void(0)">NEWS</a></li>
+                <li> <a href="/news/default.aspx"> <span class="img"><img src="/images/ico-us.gif" alt="" width="21" height="63"></span> <strong>US &amp; World</strong> </a> </li>
+                <li> <a href="/sports/default.aspx"> <span class="img"><img src="/images/ico-sports.gif" alt="" width="21" height="63"></span> <strong>Sports</strong> </a> </li>
+                <li> <a href="/business/default.aspx"> <span class="img"><img src="/images/ico-business.gif" alt="" width="21" height="63"></span> <strong>Business</strong> </a> </li>
+                <li> <a href="/technology/default.aspx"> <span class="img"><img src="/images/ico-technology.gif" alt="" width="21" height="63"></span> <strong>Technology</strong> </a> </li>
+                <li> <a href="/lifestyle/default.aspx"> <span class="img"><img src="/images/ico-lifestyle.gif" alt="" width="21" height="63"></span> <strong>Lifestyle</strong> </a> </li>
+                <li> <a href="/entertainment/default.aspx"> <span class="img"><img src="/images/ico-entertainment.gif" alt="" width="21" height="63"></span> <strong>Entertainment</strong> </a> </li>
+                <li> <a href="/music/default.aspx"> <span class="img"><img src="/images/ico-music.gif" alt="" width="21" height="63"></span> <strong>Music</strong> </a> </li>
+			  	<li class="header"><a href="javascript:void(0)">CUSTOMER EXCLUSIVES</a></li>
+                <li> <a href="/Auth/Authpartners.aspx?Contenttype=ESPN360" title="ESPN3" target="_blank"> <span class="img"><img src="/images/ico-espn.gif" alt="" width="21" height="63"></span> <strong>ESPN3</strong> </a> </li>
+                <li> <a href="/external/open.asp?url=http://broadband.soapnet.go.com/dolbroadband/soapnetic/landing&amp;affiliate=insight" title="Soapnetic" target="_soapnetic"> <span class="img"><img src="/images/ico-soapnetic.gif" alt="" width="21" height="63"></span> <strong>Soapnetic</strong> </a> </li>
+                <li> <a href="/games/game-choice.aspx" title="Games"> <span class="img"><img src="/images/ico-games.gif" alt="" width="21" height="63"></span> <strong>Games</strong> </a> </li>
+                <li> <a href="/kids/default.aspx"> <span class="img"><img src="/images/ico-nick-kids.gif" alt="" width="21" height="63"></span> <strong>Nick Kids</strong> </a> </li>
+                <li> <a href="/pwp/default.aspx"> <span class="img"><img src="/images/ico-personal.gif" alt="" width="21" height="63"></span> <strong>Personal Web Pages</strong> </a> </li>
+                <li> <a href="/pcsecurity/default.aspx"> <span class="img"><img src="/images/ico-security.gif" alt="" width="21" height="63"></span> <strong>Internet Security</strong> </a> </li>
+                <li> <a href="/chat/default.aspx"> <span class="img"><img src="/images/ico-chat.gif" alt="" width="21" height="63"></span> <strong>Chat &amp; Message Boards</strong> </a> </li>
+			  	<li class="header"><a href="javascript:void(0)">ONLINE SERVICES</a></li>
+                <li> <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?type=4&amp;campid=5335886244&amp;toolid=10001&amp;customid=eBay+home+page+for+Insight+BB&amp;mpre=http%3A%2F%2Fwww.ebay.com" title="eBay" target="_blank"> <span class="img"><img src="/images/ico-ebay.gif" alt="" width="21" height="63"></span> <strong>eBay</strong> </a> </li>
+                <li> <a href="http://insightbb.couponwinner.com" title="Online Coupons" target="_blank"> <span class="img"><img src="/images/ico-coupons.gif" alt="" width="21" height="63"></span> <strong>Online Coupons</strong> </a> </li>
+                <li> <a href="/photo_center/default.aspx" title="Photo Center"> <span class="img"><img src="/images/ico-photo.gif" alt="" width="21" height="63"></span> <strong>Photo Center</strong> </a> </li>
+                <li> <a href="/careers/default.aspx" title="Careers"> <span class="img"><img src="/images/ico-careers.gif" alt="" width="21" height="63"></span> <strong>Careers</strong> </a> </li>
+                <li> <a href="/automobiles/default.aspx" title="Automobiles"> <span class="img"><img src="/images/ico-auto.gif" alt="" width="21" height="63"></span> <strong>Automobiles</strong> </a> </li>
+                <li> <a href="/travel/default.aspx" title="Travel"> <span class="img"><img src="/images/ico-travel.gif" alt="" width="21" height="63"></span> <strong>Travel</strong> </a> </li>
+                <li> <a href="/directories/default.aspx" title="Directories"> <span class="img"><img src="/images/ico-maps.gif" alt="" width="21" height="63"></span> <strong>Directories &amp; Maps</strong> </a> </li>
+                <li> <a href="http://www.myinsight.com" title="What's New at Insight" target="_new"> <span class="img"><img src="/images/ico-new.gif" alt="" width="21" height="63"></span> <strong>What's New at Insight</strong> </a> </li>
               </ul>
-              <div class="test-box"> <a href="/speedtest/default.aspx" class="">Test your
+              <div class="test-box"> <a href="/speedtest/default.aspx">Test your
                 Insight Broadband Speed Now!</a> </div>
-              <!--div class="home-box"> <a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.insightbb.com');" title="MAKE US YOUR HOME PAGE">Make us<br />
-                your<br />Home Page!</a> </div-->
             </div>
           </div>
+      </div>
+
+<!-- AddThis Button BEGIN -->
+<div id="addthis" class="addthis_toolbox addthis_default_style" style="margin-left: 20px;">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_google_plusone_share"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f906ebb4b71681c"></script>
+<!-- AddThis Button END -->
+
 	<script language="javascript">
-		setSideNav();
-		function setSideNav() {
-			var rows = document.getElementById('side-nav').getElementsByTagName('a');
-			for (i=0; i<rows.length; i++) {
-				rows[i].className = "";
-				if (window.location == rows[i].href.toLocaleLowerCase()) {
-					rows[i].className = "active";
-				}
+    		jQuery(function(){ 
+			var $sidenav = jQuery('#side-nav li');
+			if (!$sidenav) return;
+
+			var url = (location.href).toLowerCase();
+			var side_cat = "none";
+			//for news category
+			if (url.indexOf('reuters') >= 0){
+				side_cat = jQuery('.heading .holder').text().toLowerCase().trim();
+				if (side_cat=="latest sports news") side_cat= "sports";
+				if (side_cat=="latest news" || side_cat== "top story") side_cat= "news";
+				if (side_cat=="latest entertainment news") side_cat= "entertainment";
+				if (side_cat=="latest business news") side_cat= "business";
+				if (side_cat=="latest technology news") side_cat= "technology";
+				if (side_cat=="latest lifestyle news") side_cat= "lifestyle";
+				if (side_cat=="latest music news") side_cat= "music";
 			}
-		}
+			
+
+				$sidenav.each(function(index) {
+				var href = jQuery('a', this).attr('href').toLowerCase();
+				
+				if (href.indexOf('\/entertainment\/') >= 0) href = '\/entertainment\/';
+				if (href.indexOf('\/news\/') >= 0) href = '\/news\/';
+				if (href.indexOf('\/sports\/') >= 0) href = '\/sports\/';
+				if (href.indexOf('\/music\/') >= 0) href = '\/music\/';
+				if (href.indexOf('\/business\/') >= 0) href = '\/business\/';
+				if (href.indexOf('\/technology\/') >= 0) href = '\/technology\/';
+				if (href.indexOf('\/lifestyle\/') >= 0) href = '\/lifestyle\/';
+				if (href.indexOf('\/games\/') >= 0) href = '\/games\/';
+
+            			if (url.indexOf(href) >= 0 || href.indexOf(side_cat) >= 0) {
+					$sidenav.removeClass('active');
+					jQuery(this).addClass('active');
+				}
+				
+				});
+		      
+		});
 	</script>
+
+
+
 
 				</div>
 			</div>
@@ -592,7 +646,7 @@ function LinkSelection(clickedLink)
 			<strong class="logo-footer"><a href="#">Insight, better and better</a></strong>
 			<ul>
 				<li><a href="/sitemap.aspx">Site Map</a></li>
-				<li><a href="/terms_conditions/default.aspx">Terms of Use</a></li>
+				<li><a href="/terms_conditions/default.aspx">New Terms of Use</a></li>
 				<li><a href="/privacy/default.aspx">Privacy Policy</a></li>
 			</ul>
 		</div>
@@ -609,7 +663,14 @@ function LinkSelection(clickedLink)
 	} catch(err) {}
 	</script>
 
+	<script type="text/javascript">
+  	 var addthis_config = {
+  	    data_ga_property: 'UA-15631389-1',
+  	    data_ga_social: true
+  	 };
+	</script>
+
 
 	</div>
 
-</div></body></html>
+</body></html>
