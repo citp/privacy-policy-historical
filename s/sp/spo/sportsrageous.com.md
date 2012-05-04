@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215608id_/http%3A//www.sportsrageous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504144932id_/http%3A//www.sportsrageous.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sportsrageous
+
+### Privacy
 
 What This Privacy Policy Covers
 
@@ -67,3 +69,6 @@ Changes to this Privacy Policy
 
 Sportsrageous.com may occasionally update this privacy policy. When we do, we will also revise the “last updated” date at the top of the privacy policy. If we make such changes to this privacy policy, we will place a prominent notice at the top of the privacy policy and you will also see the word “Updated” next to the Privacy Policy link on the front page of the Sportsrageous.com site. We encourage you to periodically review this privacy policy to stay informed about how we  
 are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any up-dates.
+
+Posted by: Coach Fabulous on November 4, 2010   
+Filed under: 
