@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the simplethemes.com privacy policy that was archived on 2011-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205030746id_/http%3A//www.simplethemes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplethemes.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505014046id_/http%3A//www.simplethemes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,13 +12,11 @@
 
 <script src="http://www.simplethemes.com/min/g=stv3.js" type="text/javascript" charset="utf-8"></script>
 <link rel="stylesheet" type="text/css" href="http://www.simplethemes.com/css/prettyPhoto.css" media="screen">
-	<script src="/mint/?js" type="text/javascript"></script>
 
 
 <title>Privacy Policy</title>
 </head>
-  <body>
-		<div id="wrapper">
+		<body><div id="wrapper">
 			<div id="wrap" class="container_12">
 				<div id="header" class="grid_12">
 <span id="header"><a href="http://www.simplethemes.com/" title="Simple WordPress Themes">WordPress Themes</a></span>
@@ -189,7 +187,8 @@
 			            auto_join_text_ing: "we were",
 			            auto_join_text_reply: "we replied to",
 			            auto_join_text_url: "we were checking out",
-			            loading_text: "loading tweets..."
+			            loading_text: "loading tweets...",
+			            filter: function(t){ return ! /^@\w+/.test(t.tweet_raw_text);}
 			        });
 			    });
 			</script>
@@ -214,7 +213,7 @@
 		<p class="legal">Simple Themes is a manufacturer of quality WordPress themes for your web site.<br>
 			WordPress is a trademark of WordPress Foundation.</p>
 			<p>©
-				2008-2011				Simple Themes LLC - All Rights Reserved<br>
+				2008-2012				Simple Themes LLC - All Rights Reserved<br>
 				<a onclick="window.open(this.href); return false;" href="http://validator.w3.org/check/referer" title="Check XHTML Validation">Valid XHTML 1.0 Strict</a></p>
 		</div>
 
