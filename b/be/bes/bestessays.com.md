@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013105249id_/http%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestessays.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504083523id_/http%3A//www.bestessays.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy statement
+
+BestEssays  
+
+Providing Students with original Papers since 1997
+
+[](https://web.archive.org/)
 
 Please read the following privacy statement to know the main principles of privacy policy at bestessays.com.
 
@@ -31,8 +37,7 @@ Bestessays.com provides links to the resources that may be of use to you. Howeve
 
 In case some changes occur to the present privacy statement we will definitely post them on this page. If you want to be informed about changes in our privacy policy, please regularly visit this page
 
-[BestEssays](http://www.bestessays.com/)
+[](https://www.securitymetrics.com/site_certificate.adp?s=184.73.153.186&i=133266)
 
-Providing Students with original Papers since 1997
+[](https://web.archive.org/make_money.php?utm_source=redbutton&utm_medium=banner&utm_campaign=make-money-button)  
 
-[](https://web.archive.org/)
