@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227060948id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberhumor.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023250id_/http%3A//uberhumor.com/new-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funny Pictures, Images & Funny Pics, Photos. Really Very Cute animals videos too.
+# Privacy Policy | Funny Pictures, Quotes, Pics, Photos, Images. Videos of Really Very Cute animals.
 
-[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures/)
+[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -21,11 +21,18 @@ If you have any questions regarding the privacy policy of uberHumor then you may
 
  
 
-Like us to get BEST hand-picked content Share This Picture
+Like us for pics only avaiable to fans
 
-[](http://uberhumor.com/?random&random_cat_id=74)
+[](http://uberhumor.com/random_button.php)
 
-### You might also Like:
+[](http://uberhumor.com/beautifully-sexy-street-art-by-smug-one-13-pictures)
+
+### Recommended
+
+  
+
+
+Add a comment 
 
   
 
