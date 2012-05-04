@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007165904id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com.au privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504191153id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
 
-# dStore Help: Privacy Policy
+# dstore Help: Privacy Policy
 
 This Privacy Policy sets out the approach which dstore will take in relation to the treatment of Personal Information. It includes information on how dstore collects, uses, discloses and keeps secure, individuals' Personal Information. It also covers how dstore makes the Personal Information it holds available for access to and correction by the individual. 
 
