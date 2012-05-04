@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143432id_/http%3A//eksuccessbrands.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eksuccessbrands.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504085737id_/http%3A//www.eksuccessbrands.com/privacy.htm) for the most accurate reproduction.*
 
 # EKSuccess Brands® | Privacy Policy
 
