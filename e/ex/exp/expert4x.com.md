@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230010409id_/http%3A//expert4x.com/component/content/article/139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert4x.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063104id_/http%3A//www.expert4x.com/component/content/article/139) for the most accurate reproduction.*
 
 # Expert4x Group Privacy and Anti-spam Policy
 
@@ -30,7 +30,7 @@ The Expert4x Group markets free and paid Forex product services and conducts liv
 
 Websites in the Expert4x Group are listed below and are all subject to the above policies
 
-[http://www.expert4x.com](http://expert4x.com/undefined/)
+[http://www.expert4x.com](http://www.expert4x.com/undefined/)
 
 [http://www.longcandleforextrading.com](http://www.longcandleforextrading.com/)
 
