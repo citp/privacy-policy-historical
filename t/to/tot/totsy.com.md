@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217083652id_/http%3A//www.totsy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504062246id_/http%3A//www.totsy.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Totsy
+# Totsy, the private sale site for Moms
+
+Unfortunately, JavaScript is currently disabled or not supported by your browser. Please enable JavaScript for full functionality.
 
 ## Totsy's Privacy Policy:
 
-valid as of August 24, 2011
+Valid as of August 24, 2011
 
 * * *
 
