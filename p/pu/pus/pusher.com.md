@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pusher.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601205757id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pusher.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030153id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.*
 
-# Pusher
+# Pusher | HTML5 WebSocket Powered Realtime Messaging Service
 
 ## Information collected automatically
 
@@ -48,13 +48,13 @@ Should you wish to exercise that right, or if you have any questions concerning 
     London EC1R 4RP.
     
 
-support@pusherapp.com
+support@pusher.com
 
 ## Marketing Activities
 
 If you are a registered user of an Pusher website and have supplied your email address, Pusher may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Pusher and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum.
 
-If you wish to opt-out of receiving this communication, please contact support@pusherapp.com with the subject line "Unsubscribe".
+If you wish to opt-out of receiving this communication, please contact support@pusher.com with the subject line "Unsubscribe".
 
 ## Publication of Support Requests
 
