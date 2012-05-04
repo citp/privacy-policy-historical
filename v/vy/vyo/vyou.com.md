@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224918id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyou.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030744id_/http%3A//vyou.com/privacy) for the most accurate reproduction.*
 
 # VYou
 
@@ -20,16 +20,19 @@ In General. We may collect personal information that can identify you, such as y
 
 Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site.
 
-  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
+  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see " cookies" below), and the referring website address.
+  * **cookies** When you visit our website, we may assign your computer one or more  cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline  cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
   * **Other Technologies.** We may use standard Internet technology, such as web  beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
-  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as  cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
 
 
 **How We Use The Information We Collect**
 
 In General. We may use information that we collect about you to:
+
+  
+
 
   * enforce our conditions and terms
   * display and develop advertising and other content designed to match your interests and preferences on our site and other sites;
@@ -120,11 +123,9 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:
 
-**Virtual Labs Inc**  
-560 Broadway, Suite 402
+**Virtual Labs Inc** 560 Broadway, Suite 402
 
-New York, NY 10012  
-[privacy@vyou.com](mailto:privacy@vyou.com)
+New York, NY 10012 [privacy@vyou.com](mailto:privacy@vyou.com)
 
 ©2010 Virtual Labs Inc. All rights reserved.
 
@@ -138,10 +139,15 @@ As an example, when you sign in to our website, your user or member ID will be r
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-There are third party companies that may use tracking technologies, such as cookies, to collect information about users who view or interact with advertisements we allow to be displayed on our website. Such third parties may include advertising companies, ad networks and other third parties. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+There are third party companies that may use tracking technologies, such as cookies, to collect information about users who view or interact with advertisements we allow to be displayed on our website.
+
+Such third parties may include advertising companies, ad networks and other third parties. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
 
 **Web Beacons:**
 
 Web beacons are embedded invisibly on web pages (or in email) and are used to track the online movements of web users or to access cookies. They are graphics about the size of the period at end of this sentence with a unique identifier. They are also known as as clear gifs, pixel tags or web bugs.
 
 Web beacons may be used to count users who have visited certain pages of a website, to communicate with or delivercookies, and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+  
+
