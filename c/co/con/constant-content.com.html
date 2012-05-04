@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the constant-content.com privacy policy that was archived on 2011-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120213527id_/http%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the constant-content.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504235948id_/http%3A//www.constant-content.com/about/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Privacy Policy - Constant-Content.com</title>
@@ -11,7 +11,9 @@
 <link rel="stylesheet" type="text/css" media="screen, projection, print" href="http://www.constant-content.com/css/constantcontent.css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/atom+xml" href="" title="">
-<script type="text/javascript" src="http://www.constant-content.com/library/jquery/jquery.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.constant-content.com/library/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.constant-content.com/library/js/jquery.qtip.js"></script>
+<link type="text/css" rel="stylesheet" href="http://www.constant-content.com/css/jquery.qtip.min.css">
 
 <link rel="STYLESHEET" type="text/css" href="http://www.constant-content.com/css/data_tables.css">
 <!--[if IE 6]>
@@ -21,20 +23,55 @@
 </head>
 <body>
 <div class="wrapper" style="overflow: visible;">
-  <div class="header">
+  <div class="header" id="header">
   
+
+        
+      
+      
     <span id="logo"><a href="http://www.constant-content.com/">Constant Content</a></span>
     <div id="login-container">
       <div>
         <ul id="login-nav">
                     <li class="login"><a href="http://www.constant-content.com/area/dlogin.htm">Login</a></li>
                     <li class="cart"><a href="http://www.constant-content.com/area/s-cart.htm">Cart</a></li>
-                    <li class="contact"><a href="http://www.constant-content.com/area/contact.htm">Contact</a></li>
-          <li id="chat_button" class="chat last" style="display: none;"><a id="chat_button_link" href="#">Chat</a></li>
+                                <li class="contact"><a href="http://www.constant-content.com/area/contact.htm">Contact</a></li>
+          	<!-- FaceBook -->
         </ul>
       </div>
     </div>
+    
+        
+                <br style="clear: right">
+                   <div style="float:right;
+	width:auto;
+	height:25px;
+	padding:0 0 0 25px;
+        margin-right: 25px;
+        margin-top: 5px;">
+      <div>
+      	<!-- FaceBook -->
+        <span style="float:right;width:78px;padding:0;margin-right:10px;overflow:hidden;display: inline-block;">	
+	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fconstantcontent&amp;send=false&amp;layout=button_count&amp;width=78&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
+	</span>
+	
+	
+	<!-- Twitter -->
+	<span style="float:right;padding:0;margin-right:10px;width:65px;overflow:hidden;display: inline-block;">
+	<a href="https://twitter.com/constantcontent" class="twitter-follow-button" data-show-ount="false" data-show-screen-name="false">Follow @constantcontent</a>
+        
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        
+	</span>
 
+	
+	<!-- Google Plus -->
+	<span style="float:right;padding:0;margin-right:10px;width:60px;overflow:hidden;display: inline-block;">
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<g:plusone size="medium"></g:plusone>
+	</span>
+              </div>
+    </div>
     <span class="clear-both block"></span>
     <ul id="nav">
       <li><a href="http://www.constant-content.com/" class=""><span>Home</span></a></li>
@@ -202,55 +239,15 @@
         <input type="hidden" value="all" name="smatchis">
         <input type="hidden" value="71" name="mbasictype">
     </td>
-    <td align="left" valign="top" width="100"><input type="image" src="http://www.constant-content.com/images/btn-search.png" id="search-submit" value="" name="goSearch"></td>
-    <td align="right" valign="middle"><a href="http://www.constant-content.com/find-unique-web-site-content/" class="advanced-search" style="color:#fafc52">Advanced Search</a></td>
+    <td align="left" valign="top" width="100"><input type="image" src="http://www.constant-content.com/images/search.png" id="search-submit" value="" name="goSearch"></td>
+    <td align="right" valign="middle">&nbsp;</td>
   </tr>
 </tbody></table>
       </fieldset>
     </form>
     
     </div>
-    
-    </div>
-
-<script type="text/javascript">
-var timer2;
-
-
-$(document).ready(function() {
-	checkIfChatExists();
-	});
-
-function checkIfChatExists() {
-	var liveChat = document.getElementById('LiveChat_1305652362');
-	if (liveChat != null) {
-	    var btn2 = document.getElementById('chat_button');
-	    btn2.style.display = 'inherit';
-		checkLiveChatStatus();
-	}
-}
-	
-function checkLiveChatStatus(){
-	clearTimeout(timer2);
-	var btn = document.getElementById('LiveChat_1305652362_btn');
-	if (btn != null) {
-		activateLiveChatButton();
-	} else {
-		timer2=setTimeout("checkLiveChatStatus()",100);
-	}
-}
-
-function activateLiveChatButton() {
-    var btn = document.getElementById('LiveChat_1305652362_btn');
-    var btn3 = document.getElementById('chat_button_link');
-	if (btn.innerHTML != '') {
-		btn3.href = btn.href;
-		btn3.target = btn.target;
-		btn3.onclick = btn.onclick;
-	}
-}
-</script>
-
+</div>
   <!-- .header --> 
 
 <div id="leftnav">
@@ -293,7 +290,7 @@ function activateLiveChatButton() {
 
      <span class="clear-left block"></span>
         
-         	   
+            
     <h3 class="cat-nav-title">Categories</h3>
     <ul class="cat-nav">
                    		<li><a href="http://www.constant-content.com/Category/Arts-&amp;-Culture-Content-Articles/">Arts &amp; Culture</a></li>	
@@ -317,8 +314,8 @@ function activateLiveChatButton() {
     </a>
         <h3>Connect With Us</h3>
     <ul id="social-icons">
-      <li class="rss"><a href="http://feeds.feedburner.com/ConstantContentPublicRequestsFeed?format=xml">RSS</a></li>
-      <li class="linkedin"><a href="http://www.linkedin.com/groups?home=&amp;gid=3102608&amp;trk=anet_ug_hm">LinkedIn</a></li>
+      <li class="rss"><a href="http://www.constant-content.com/blog/?feed=rss2">RSS</a></li>
+      <li class="linkedin"><a href="http://www.linkedin.com/company/constant-content">LinkedIn</a></li>
       <li class="twitter"><a href="http://twitter.com/constantcontent">Twitter</a></li>
       <li class="wp"><a href="http://www.constant-content.com/blog/">WordPress</a></li>
     </ul>
@@ -370,8 +367,8 @@ function activateLiveChatButton() {
     </tr>
     <tr class="newsletter_inputs">
     	<td>
-    		<span style="color: #0775AF;"><p class="yellow-btn" style="float:right;padding-right:27px;padding-left: 26px;"><a href="javascript:void(0);" onclick="newselettersignup();">
-						<span style="width: 130px">Signup Today</span></a></p></span>
+    		<span style="color: #0775AF;"><p class="yellow-btn" style="float:right;padding-right:20px;padding-left: 6px;"><a href="javascript:void(0);" onclick="newselettersignup();">
+						<span style="width: 150px">Signup Today</span></a></p></span>
 		</td>
     </tr>
     
@@ -484,10 +481,25 @@ function newselettersignup()
 
 <div id="footer">
 <div>Source unique article content from our article catalog or get custom content with our article writing service.
+<br>
+<br>
 </div>
-    <br style="clear:both">
   <div class="wrapper text-center">
     <ul id="footer-nav">
+<li><a href="http://www.constant-content.com/buy-unique-articles/">Articles</a></li>
+<li><a href="http://www.constant-content.com/blog-writing-service/">Blog Writing Service</a></li>
+<li><a href="http://www.constant-content.com/copy-editing-service/">Copy Editing Service</a></li>
+<li><a href="http://www.constant-content.com/copywriting-serices/">Copywriting Service </a></li>
+<br>
+<li><a href="http://www.constant-content.com/hire-ebook-writer/">Hire eBook Writers</a></li>
+<li><a href="http://www.constant-content.com/press-release-writers/">Hire Press Release Writers</a></li>
+<li><a href="http://www.constant-content.com/review-writing-service/">Review Writing Service</a></li>
+<br>
+<li><a href="http://www.constant-content.com/buy-seo-content/">Hire SEO Content Writers</a></li>
+<li><a href="http://www.constant-content.com/technical-writing-service/"> Technical Writing Service</a></li>
+<li><a href="http://www.constant-content.com/white-paper/writer/">Hire White Paper Writers</a></li>
+<br>
+<br>
       <li><a href="http://www.constant-content.com/Category/71-Articles-0.htm">Article Writers</a></li>
       <li><a href="http://www.constant-content.com/unique-articles/">Unique Articles</a></li>
       <li><a href="http://www.constant-content.com/find-freelance-writers/">Freelance Writers</a></li>
@@ -501,7 +513,7 @@ function newselettersignup()
     <br style="clear:both">
   </div><!-- .wrapper .text-center -->
   <div id="footer-copyright"><p class="footer-copyright">
-  Copyright © 2011 Constant-Content.com
+  Copyright © 2012 Constant-Content.com
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   A Division of <a href="http://www.revenuewire.com/" style="color: white;text-decoration: none;">RevenueWire</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -537,57 +549,50 @@ pageTracker._trackPageview();
 	clear: none;
 	/* This contains the .toolTipWrapper div that is absolutely positioned  */
 }
-/*! Cream tooltip style */
-.ui-tooltip-constant .ui-tooltip-titlebar,
-.ui-tooltip-constant .ui-tooltip-content{
-  height: auto; min-height: auto;
-   width: 400px; min-width: auto;
-	padding: 5px;
-	border-color: #f5f6fa;
-	color: white;
-	text-align: left;
-	border-width: 3px;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
-	border-color: #D9DCE1;
-	list-style: disc inside none;
-	line-height:1;
+
+/*! Constant tooltip style */
+.ui-tooltip-constant .ui-tooltip-content {
+    padding: 5px;
+    background-image: url('http://www.constant-content.com/images/contentboxbackground.jpg');
+    border-color: #E2E2E2;
+    background-color: #f5f6fa;
+    color: black;
+    text-align: left;
+    max-width: 1024px;
+    padding: 10px 20px 10px 5px;
+        
+ }
+
+ .ui-tooltip-constant .ui-tooltip-titlebar{
+    background-color: #006FB1;
+    color: white;
+    max-width: 1024px;
+    text-align: left;
 }
 
-.ui-tooltip-constant .ui-tooltip-content{
-  height: auto; min-height: auto;
-   width: 400px; min-width: auto;-
-	padding: 5px;
-	background-image: url(http://www.constant-content.com/images/contentboxbackground.jpg);
-	background: #f5f6fa;
-	color: black;
-	text-align: left;
-	border-width: 3px;
-	-webkit-border-radius: 7px;
-	-moz-border-radius: 7px;
-	border-radius: 7px;
-	border-color: #D9DCE1;
-	list-style: disc inside none;
-	line-height:1;
+.ui-tooltip-content ol li,
+.ui-tooltip-content ul li {
+     list-style: disc inside none;
+     line-height:1;
+ }
+
+.ui-tooltip-constant-width600 {
+    max-width: 600px;
 }
 
-.ui-tooltip-content ul li{
-	list-style: disc inside none;
-	line-height:1;
+.ui-tooltip-constant-width600 {
+    max-width: 400px;
 }
 
-.ui-tooltip-constant .ui-tooltip-titlebar{
-	background-color: #006FB1;
-	color: 'white';
+.ui-tooltip {
+    max-width: 400px;
 }
 
-.ui-tooltip-constant .ui-state-default .ui-tooltip-icon{
+/*.ui-tooltip-constant .ui-state-default .ui-tooltip-icon{
 	background-position: -82px 0;
-}
+}*/
 </style>
-<link type="text/css" rel="stylesheet" href="http://www.constant-content.com/css/jquery.qtip.min.css">
-<script type="text/javascript" src="http://www.constant-content.com/library/js/jquery.qtip.min.js"></script>
+
 <script type="text/javascript">
 $('span[title].toolTip').qtip({
 	content: {
@@ -606,15 +611,16 @@ $('span[title].toolTip').qtip({
 	         }
 		}
 	},
-	position: {
+    position: {
 		adjust: {
-			x: 0,
-			y: 20
+			x: -30,
+			y: 0
 		},
-		my: "top right",
-		at: "top center",
+		my: "right center",
+		at: "right center",
 		viewport: $(window)
 	},
+
 	show: {
 		solo: true,
 		//ready: true,
@@ -625,9 +631,11 @@ $('span[title].toolTip').qtip({
 	},
 	style: {
 		widget:true,
-		classes: "ui-tooltip-constant"
+                width: "400",
+		classes: "ui-tooltip-constant ui-tooltip-constant-width400 ui-tooltip-rounded"
 	}
 });
+    
 $('span[title].toolTipBuy').qtip({
 	content: {
 		attr: 'title',
@@ -645,15 +653,16 @@ $('span[title].toolTipBuy').qtip({
 	         }
 		}
 	},
-	position: {
-		adjust: {
-			x: 0,
-			y: 20
+        position: {
+                adjust: {
+                    y: -30,
+                    x: 0
 		},
-		my: "top right",
-		at: "top center",
+		my: "bottom center",
+		at: "bottom center",
 		viewport: $(window)
 	},
+
 	show: {
 		solo: true,
 		//ready: true,
@@ -664,7 +673,8 @@ $('span[title].toolTipBuy').qtip({
 	},
 	style: {
 		widget:true,
-		classes: "ui-tooltip-constant"
+                width: "600",
+		classes: "ui-tooltip-constant ui-tooltip-constant-width600 ui-tooltip-rounded"
 	}
 });
 		
@@ -686,16 +696,12 @@ $('span[title].toolPopup').qtip({
 			button: 'Close'
 		}
 	},
-	position: {
-		adjust: {
-			x: 0,
-			y: 20
-		},
-		my: "top right",
+        position: {
+		my: "center",
 		at: "center",
-		target: $('span[title].toolPopup'),
 		viewport: $(window)
 	},
+
 	show: {
 		solo: true,
 		//ready: true,
@@ -706,7 +712,8 @@ $('span[title].toolPopup').qtip({
 	},
 	style: {
 		widget:true,
-		classes: "ui-tooltip-constant"
+                width: "600px",
+		classes: "ui-tooltip-constant-width600 ui-tooltip-constant ui-tooltip-rounded"
 	}
 });
 
@@ -728,16 +735,12 @@ $('span[title].toolNews').qtip({
 			button: 'Close'
 		}
 	},
-	position: {
-		adjust: {
-			x: 0,
-			y: 0
-		},
-		my: "top left",
+        position: {
+		my: "center",
 		at: "center",
-		target: $('span[title].toolNews'),
 		viewport: $(window)
 	},
+
 	show: {
 		solo: true,
 		ready: true,
@@ -748,9 +751,46 @@ $('span[title].toolNews').qtip({
 	},
 	style: {
 		widget:true,
-		classes: "ui-tooltip-constant"
+                width: "600px",
+		classes: "ui-tooltip-constant ui-tooltip-constant-width600 ui-tooltip-rounded"
 	}
 });
+    
+$('span[title].toolTipPopUp').qtip({
+	content: {
+		attr: 'title',
+		title: {
+			text: "Alert:",
+			button: 'Close'
+
+		}
+	},
+    
+    position: {
+		adjust: {
+			x: 0,
+			y: 20
+		},
+		my: "center",
+		at: "center",
+		viewport: $(window)
+	},
+	show: {
+		ready: true,
+		solo: true,
+		//ready: true,
+		event: "click"
+	},
+	hide: {
+		event: "click"
+	},
+	style: {
+                //widget:true,
+                width: "600px",
+		classes: 'ui-tooltip-constant ui-tooltip-constant-width600 ui-tooltip-rounded'
+	}
+});
+    
 </script>
 
 
