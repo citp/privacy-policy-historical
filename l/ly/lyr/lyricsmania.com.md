@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsmania.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623175625id_/http%3A//www.lyricsmania.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsmania.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504184822id_/http%3A//www.lyricsmania.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
