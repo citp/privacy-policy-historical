@@ -1,49 +1,72 @@
-> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010043519id_/http%3A//www.studylondon.ac.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylondon.ac.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033632id_/http%3A//www.studylondon.ac.uk/information/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Study London
+# Study London privacy policy - Study London
 
-Study London is committed to protecting your privacy. This statement is made in accordance with the Data Protection Act 1998 to alert you to the data processing practices which govern the processing of your data. If you have any queries about this statement please contact us.
+Study London is committed to protecting the privacy of those using our Site and the confidentiality of the personal information with which our users provide us on the Site. This privacy policy explains the steps we take to ensure information about you is kept secure and confidential.
 
- **1\. How do we collect information?**
+Please read this privacy policy carefully, as once you use our website or our services you will be deemed to have read and accepted this privacy policy. You must not use our website or our services if you do not accept this privacy policy.
 
-We will obtain personal information from you when you enquire about our activities, register with us, or otherwise provide us with personal information. We may also receive information about you from third parties, for example when we purchase email lists you have opted into.
+## Data Protection Act 1998
 
- **2\. What information do we collect?**
+London & Partners Limited is the data controller of your data. We are registered under the Data Protection Act 1998, registration number  **Z9917922** , and comply with the Act in all our dealings with your personal data.
 
-The types of information collected might include names, date of birth, e-mail address, postal address, telephone number, study interests and information related to London universities.
+Your personal information is safe with us.
 
- **3\. How do we use this information?**
+Links to third party sites appear on the Site. Those third party sites are not our responsibility, although we choose them with care. You should read and satisfy yourself with those third parties' privacy policies before using such linked sites.
 
-We will use your personal information to provide you with the services, products or information you have requested and for administration purposes. All information you submit in your profile will be shared with those universities you contact via the Study London website. We may need to share your information with our service providers, associated organisations and agents for these purposes. 
+Information on data protection is contained on the Information Commissioner's own web site at [www.dataprotection.gov.uk](http://www.ico.gov.uk/ "Link will open in a new window").
 
-We may want to share your information with other organisations that are supportive of our aims and objectives. When you provide your details you will be asked if you do not want this to happen. You can change your mind at any time by contacting us.
+## The information we collect
 
- **4\. Do we use cookies?**
+We will only collect personal information about you and given by you when you register with us, or with a marketing partner and specifically request them to pass your details to us for registration purposes. We will always let you have a copy of all personal information we have about you should you request it. Contact [dataprotection@londonandpartners.com](mailto:dataprotection@londonandpartners.com) to do this.
 
-Cookies are text files, which identify a user's computer to our server. Cookies in themselves do not identify the individual user, just the computer used. The Study London website uses cookies for collecting user information. The information that we gather from cookies may be used in the same way as detailed in our Data Protection policy. 
+You are able to update and amend your personal information at any time by emailing [dataprotection@londonandpartners.com](mailto:dataprotection@londonandpartners.com). You can also unsubscribe from [www.studylondon.ac.uk](http://www.studylondon.ac.uk/) at any time by following the unsubscribe link in our email communications
 
-The Study London website uses persistent cookies - these are used to track returning visitors. They expire after 12 months and enable us to compare website traffic from month to month. 
+## Purposes for which we use information about our users
 
-You can reject cookies. Most browsers allow you to refuse cookies - consult the help section of the browser toolbar. Information on controlling cookies or rejecting cookies is available from several web sites, e.g. www.aboutcookies.org
+We collect information about our users for a variety of purposes. These include:
 
- **5\. How do we protect personal information?**
+  * where you supply information to us in order that we deliver a required service e.g. newsletters relevant to you and your interests, information will be processed by us to supply the information and material which we promise. Your information is held at London & Partners in the UK, and maintained by London & Partners and yourself via [www.studylondon.ac.uk](http://www.studylondon.ac.uk/)
 
-We take appropriate measures to ensure that the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+  * so we can communicate with you in response to a specific action performed by you on this site or one of our affiliate sites, e.g. when you contact a university, save a course, register for updates, enter a competition, or register for an event.
 
- **6\. Will we disclose the information we collect to outside parties?**
+  * so we can inform you of London university news, competitions, special offers, relevant products and services which may be of interest
 
-As indicated above, if you have consented we may pass your information to our service providers and to other organisations who may support our objectives. We may also need to disclose your information if required to do so by law.
+  * so we can send you news items which are relevant to your interests
 
- **7\. Your consent**
+  * to help us improve and personalise our services
 
-By providing us with your personal data you consent to the collection and use of any information you provide in accordance with the above purposes and this privacy statement. You also consent to our transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for the above purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure your information is protected.
 
- **8\. Right of access**
 
-You have the right to ask for a copy of the information we hold about you (for which we may charge a small administration fee) and to have any inaccuracies in your information corrected.
 
- **9\. Changes**
+## Passing on information about you
 
-If your personal details change, please help us to keep your information up to date by notifying us or changing your profile . We reserve the right to amend this privacy statement. If we do so, we will post notice of the change on our website and you will be deemed to have accepted such changes. London Higher is committed to protecting your privacy. 
+We will not pass on any information provided by you to any third parties unless you specifically consent. We may however disclose aggregate – but not individual – statistics to potential partners and advertisers, such as the number of users we have, their location, etc. We never pass on your email address to third parties except where you have granted us permission e.g. when you send an email enquiry to a university via [www.studylondon.ac.uk](http://www.studylondon.ac.uk/) then your email address and profile information is sent to your chosen university.
 
-This statement is made in the light of the requirements of the Data Protection Act 1998 to alert you to the data processing practices which will govern the processing of your data. If you have any queries about this statement please contact us.
+## Security
+
+Keeping information about you secure is very important to us. However, no data transmission over the internet can be guaranteed to be totally secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
+
+London & Partners will take precautions to protect against the loss, misuse and alteration of your user data under our control. Only authorised employees and subcontractors will be given access to the information you provide us. Our systems are designed to ensure that your data can only be viewed online if your email and password are correctly input. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions aimed at preventing such occurrences.
+
+You are ultimately responsible for the security of your email and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or internet cafe.
+
+## Cookies
+
+ **www.londonandpartners.com**  makes use of cookies to personalise content and provide statistics that allow us to understand how users use the website, helping us to improve its structure and content. Although some website operators use cookies to generate consumer profiling information to be sold or transferred to third parties, it is the policy of this site never to share information collected using cookies with third parties.
+
+ **Disabling / enabling cookies**
+
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our sites if cookies are disabled. To find out how to disable / enable cookies or for more general information about cookies got to www.allaboutcookies.org.
+
+## Further Information
+
+Study London is operated by London & Partners Limited (trading as London & Partners Company Number 7493460) under licence from London Higher. London & Partners is the official promotional agency for London, financed by membership subscriptions, commercial activity and the Mayor of London.
+
+ **Our Contact Details:  
+** London & Partners  
+Contact Office  
+6th Floor, 2 More London Riverside, London SE1 2RR  
+[Email enquiries](mailto:info@studylondon.ac.uk)
+
+Information on data protection is contained on the Information Commissioner's own web site at [www.dataprotection.gov.uk](http://www.ico.gov.uk/ "Link will open in a new window").
