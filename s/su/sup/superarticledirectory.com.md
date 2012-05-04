@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superarticledirectory.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010223234id_/http%3A//www.superarticledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superarticledirectory.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504152104id_/http%3A//www.superarticledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Super Article Directory | Privacy Statement
 
