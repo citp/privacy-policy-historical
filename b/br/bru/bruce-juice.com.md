@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruce-juice.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018012201id_/http%3A//www.bruce-juice.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruce-juice.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504062917id_/http%3A//www.bruce-juice.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -66,6 +66,6 @@
 
 #### **Conditions Of Use, Notices, And Revisions**
 
-##### If you choose to visit bruce-juice.com, your visit and any dispute over privacy is subject to this notice and our conditions of use, including limitations on damages, arbitration of disputes, and application of the law of the United Kingdom. If you have any concern about privacy at bruce-juice.com, please contact us at 'webmaster@brucejuice.co.uk' with a thorough description, and we will try to resolve it.
+##### If you choose to visit bruce-juice.com, your visit and any dispute over privacy is subject to this notice and our conditions of use, including limitations on damages, arbitration of disputes, and application of the law of the United Kingdom. If you have any concern about privacy at bruce-juice.com, please contact us at 'privacy@brucejuice.co.uk' with a thorough description, and we will try to resolve it.
 
 ##### Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
