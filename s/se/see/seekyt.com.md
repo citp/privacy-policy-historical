@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015110012id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022938id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Seekyt
 
@@ -6,9 +6,11 @@ Privacy Policy
 
 * * *
 
+Seekyt.com collects certain information from you when you visit or use our website. This privacy policy is meant to help you become aware of the data that is collected, and the inform you of how you are protected by Seekyt and other websites
+
 **What information do we collect?**
 
-We collect information from you when you register on our site or fill out a form. 
+We collect information from you when you register on our site or fill out a form.
 
 When logging in or registering on our site, as appropriate, you may be asked to enter your: e-mail address or username. You may, however, visit our site anonymously.
 
@@ -16,7 +18,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Here is a link to a helpful page: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **What do we use your information for?**
 
@@ -71,7 +73,7 @@ You may change your information by logging in and going to your account by click
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only**
+ **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
