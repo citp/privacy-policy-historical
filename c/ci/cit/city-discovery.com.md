@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103090921id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504085922id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
 
 # City-Discovery.com Privacy Statement
 
@@ -12,6 +12,8 @@ Tours and Co Associates Inc collects information about its customers both during
 [http://www.travel-to-italy.com](http://www.travel-to-italy.com/)  
 [http://www.charming-greece.com](http://www.charming-greece.com/)  
 
+
+and websites that participating at the partners program of Tours and Co Associates Inc. 
 
 The information provided by customers during the ordering process such as their name, physical address, email address, and payment information is considered private, and Tours and Co Associates Inc will not sell this personal information to third parties.  
 This information will be used to process your order and deliver it to you in a timely fashion. In addition, Tours and Co Associates Inc reserves the right to contact existing customers regarding store specials and other significant events. 
