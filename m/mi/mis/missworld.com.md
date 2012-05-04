@@ -1,9 +1,22 @@
-> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501235111id_/http%3A//missworld.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D83%26Itemid%3D93%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023954id_/http%3A//www.missworld.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for www.missworld.com | Miss World
+# Privacy Policy - Miss World - Miss World
+
+Privacy Policy
+
+  
+
+
+Miss World Limited is committed to preserving the privacy of all visitors to www.missworld.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
+
+By remaining on this site you consent to the collection, use and transfer of your information under the terms of this policy. 
+
+### **1\. Information that we collect from you**
 
 When you register or download material from this site you may be asked to provide certain information about yourself including your name, contact details and company or business identity. We may also collect information about your usage of our website as well as information about you from e-mails or letters you send to us.   
 
+
+### **2\. Use of your information**
 
 Your information will enable us to provide you with access to all parts of our site and to supply services you have requested. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business and services. 
 
@@ -32,10 +45,20 @@ We employ security measures to protect your information from access by unauthori
 
 ###  **6\. Accessing and updating**
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of �10 to meet our costs in providing you with details of the information we hold about you. 
 
 ### **7\. Changes to our privacy policy**
 
 Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.
 
 ###  **8\. Contact**
+
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to [missworld@missworld.com](mailto:missworld@missworld.com)
+
+Thank you for reading our Privacy Policy. 
+
+This privacy policy was prepared for us by [legalcentre.co.uk](http://www.legalcentre.co.uk/) who specialise in website documentation.  
+
+
+  
+
