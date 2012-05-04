@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmonly.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228221346id_/http%3A//cpmonly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmonly.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504170444id_/http%3A//cpmonly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CPM Only
 
