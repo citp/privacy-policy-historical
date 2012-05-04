@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223004058id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504043714id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
 
 # Privacy Policy of Penmai.com
+
+6th Dec 2010, 12:59 PM [#1](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post2215)
 
 ##  Privacy Policy of Penmai.com
 
@@ -29,8 +31,8 @@
 > 
 > If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-> * * *
+> > * * *
 
-18th Jul 2011 10:44 PM [#2](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post9356)
+18th Jul 2011, 09:44 PM [#2](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post9356)
 
 * * *
