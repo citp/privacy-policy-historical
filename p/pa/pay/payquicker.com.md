@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payquicker.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006223824id_/https%3A//www.payquicker.com/xmlload.aspx%3Fid%3D7%26t%3DPayQuicker%2520Privacy%2520Policy%26r%3D0%26c%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payquicker.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504191702id_/https%3A//payquicker.com/xmlload.aspx%3Fid%3D7%26t%3DPayQuicker%2520Privacy%2520Policy%26r%3D0%26c%3D1) for the most accurate reproduction.*
 
 # PayQuicker
 
