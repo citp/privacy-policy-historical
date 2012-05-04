@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201170736id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041350id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Start Up Donut
+# Privacy policy, cookies | Start Up Donut
 
 **Note: We do not pass your contact details or any other information about you as an individual to third parties of any kind (unless requested by you to do so, or unless required to do so by law), as detailed below.**
 
@@ -45,5 +45,5 @@ BHP Information Solutions Ltd
 6 Grove Road, Redland, Bristol, BS6 6UJ  
 Telephone: 0117 904 2224
 
-Althorp House, 4-6 Althorp Road, London, SW17 7ED  
+4th floor, Erico House, 93–99 Upper Richmond Road, Putney, London, SW15 2TG  
 Telephone: 0208 672 6844
