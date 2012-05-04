@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211053345id_/http%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504221228id_/https%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
 
-# Braintree
+# Privacy - Braintree
 
-## Privacy Policy
-
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices.
+## Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices.
 
 The privacy practices of this statement apply to our services available under the domain and subdomains of this website (the "Site"). By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site. This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make informed decisions. By accepting the Privacy Policy and any other agreement presented to you on the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy.
 
@@ -58,7 +56,7 @@ If a user’s personally identifiable information changes (such as zip code, pho
 
 ### Safe Harbor
 
-Braintree follows the Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union to the United States of America. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
+Braintree follows the Safe Harbor Principles published by the United States Department of Commerce (the "Principles") with respect to the transfer of personal data from the European Union or Switzerland to the United States of America. This Privacy Policy details certain policies implemented throughout Braintree implementing the Principles and governing Braintree's use of personally identifiable information provided to Braintree via this Internet web site (the "Site") or otherwise. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles will govern.
 
 ### Notification of Changes
 
