@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134703id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504083212id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
-# Car Finance from 7.9% APR – Guaranteed £0 Deposit Car Financing and Refinancing with Creditplus – Car Credit available now
+# Car Loan Terms and Conditions - Creditplus trading as Whichdeal Ltd
 
-Please note that regrettably we are unable to offer car finance to customers located in Northern Ireland, the Isle of Man or the Channel Islands.
+Creditplus is able to offer car finance to consumers based in the UK and Northern Ireland (Northern Ireland subject to a good credit status)
 
 All rights, including copyright and database rights of the Creditplus website and its contents are owned by Creditplus or otherwise used by Creditplus as permitted by applicable law. 
 
@@ -22,11 +22,11 @@ Accordingly, neither Creditplus nor its directors, representatives or employees,
 
 By using the Web-Site the User further agrees to indemnify and hold Creditplus harmless from any and all claims, expenses and liability of any kind arising out of or in connection with any use of the Web-Site. Any photographs and colours used in the site are for illustrative purpose only and do not form part of any contract.
 
-Creditplus reserve the right to charge an administration fee to cover the cost of arranging vehicle finance, or if the loan does not complete due to false information given on the application form. The administration charge is kept to a minimum to cover costs only. In the event of a cancelled order by the client, or the client changing supplier the administration fee will not be returned by Creditplus. 
+Creditplus reserve the right to charge an administration fee to cover the cost of sourcing a suitable vehicle or vetting an appropriate dealer, or if the loan does not complete due to false information given on the application form. The administration charge is kept to a minimum to cover costs only. In the event of a cancelled order by the client, or the client changing supplier the administration fee will not be returned by Creditplus. 
 
 ## Used Cars Supplied by Creditplus 
 
-Cars supplied by Creditplus will be covered by a [car warranty](http://www.creditplus.co.uk/car-warranty/index.html "Car Warranty") for a minimum of 3 months. It is the customer’s responsibility to be fully aware of the parts not covered by the car warranty (if any). The car is supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
+Cars supplied by Creditplus will be covered by a [car warranty](http://www.creditplus.co.uk/car-warranty/index.html "Car Warranty") for a minimum of 3 months. It is the customer's responsibility to be fully aware of the parts not covered by the car warranty (if any). The car is supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
 
 If a car is returned the customer bears the cost of return and a cancellation fee of 5% of the car value or a minimum of £500, whichever is the greater.
 
@@ -67,7 +67,7 @@ You authorise us to make all enquiries necessary to verify this information to e
 
 ## Privacy Policy
 
-This is the web site of Whichdeal Limited, trading as Creditplus. Our postal address is: Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Contactable by telephone on 08717 502 495.
+This is the web site of Whichdeal Limited, trading as Creditplus. Our postal address is: Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Our telephone number is 08717 502 495.
 
 Our web server automatically recognises each visitor to our website and does not record information regarding the domain or e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail or by submitting an application, aggregate information on what pages consumers’ access or visit, user-specific information on what pages are visited, and information volunteered by the consumer e.g. survey information or site registrations.
 
