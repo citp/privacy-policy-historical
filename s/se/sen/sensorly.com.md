@@ -1,27 +1,32 @@
-> *The following text is extracted and transformed from the sensorly.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103163105id_/http%3A//www.sensorly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensorly.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504035638id_/http%3A//sensorly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sensorly
+# Privacy policy | Sensorly
 
 _Effective Date April 10, 2010_
 
 ## OVERVIEW
 
-This statement discloses the privacy practices for the services provided by Sensorly.  
+This statement discloses the privacy practices for the services provided by Sensorly.
+
 The term "personal information" as used in this Privacy Policy refers to personally identifiable information that specifically identifies an individual (name, address, telephone number, e-mail address), and information about that individual when such information is directly linked to personally identifying information.
 
 ## HOW WE COLLECT AND USE INFORMATION
 
-Via Websites :  
+**Via Websites :**
+
 We only collect your email address via our opt-in newsletter subscription form. Your address is used to send you a regular newsletter about Sensorly.
 
-Email:  
+**Email:**
+
 We place email links on the Sites to allow you to contact us directly. The information you provide, which may include personal information, is used to respond directly to your questions or comments.
 
-Via Software:  
-Sensorly may obtain information as a result of data being sent to our servers from our applications ("agent" information).  
+**Via Software:**
+
+Sensorly may obtain information as a result of data being sent to our servers from our applications ("agent" information).
+
 We store that data, which tracks information such as network signal quality, location, bearing, speed, time, service usage statistics, and the end user's handset, in a database. Once the data is in the database, we use it to build maps, aggregate relevant non-personal and/or repackage the data to distribute it to clients and partners. Each data message received from the handset includes a unique identifier to protect the quality of our database. Sensorly has elected not to use the phone’s number or IMEI so as not to collect personal information ; instead the identifier is created at install time and is therefore unrelated to the phone itself.
 
-OTHER USES OF PERSONAL INFORMATION 
+## OTHER USES OF PERSONAL INFORMATION
 
 Sensorly may also use personal information collected from you for the following general purposes: (1) to fulfill your requests for Services; (2) to improve our Services; (3) to contact you to resolve problems; (4) to conduct research; and (5) to make the Sites easier to use by reducing the need for you to enter information.
 
@@ -31,12 +36,13 @@ Cookies are alphanumeric identifiers that reside within your browser to enable o
 
 ## LOG FILES AND THIRD PARTY SERVICES
 
-We automatically receive and store certain other types of information whenever you interact with us. For example, our servers track the type of Web browser you are using.  
+We automatically receive and store certain other types of information whenever you interact with us. For example, our servers track the type of Web browser you are using.
+
 Our sites also use the Google Analytics service in order to determine where you travel within the Site, and the page to which you link from the Site. This type of collective data enables us to figure out how often customers use parts of the Site, so we can make the Site appealing to as many customers as possible. You can find the Google Analytics Privacy Policy here : <http://www.google.com/intl/en/privacy.html>
 
 ## HOW WE DISCLOSE OR SHARE INFORMATION WITH OTHERS
 
-Except as described in this policy, Sensorly does not rent, sell, or share personal information about you with other people or nonaffiliated companies unless we have your express permission, or under the following circumstances: 
+Except as described in this policy, Sensorly does not rent, sell, or share personal information about you with other people or nonaffiliated companies unless we have your express permission, or under the following circumstances:
 
   * When necessary to comply with law or legal process;
   * To establish or exercise our rights or property, including defending against legal claims;
