@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105203725id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504203254id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
 
-# UserEcho.com - Customer feedback 2.0 Creative ideas for Your projects
+# UserEcho - customer support solution, feedback service.
 
 UserEcho collects the email addresses of people who communicate with UserEcho via email, create accounts, or post topics. UserEcho also collects aggregate information on which pages users access or visit, and information volunteered by users (such as survey information and/or site registrations). The information UserEcho collects is used to improve the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
