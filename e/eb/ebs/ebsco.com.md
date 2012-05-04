@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123214432id_/http%3A//www2.ebsco.com/en-us/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021141id_/http%3A//www2.ebsco.com/en-us/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # EBSCO Information Services Privacy Policy
 
@@ -80,3 +80,6 @@ If you have any questions, comments or concerns regarding the EBSCO Information 
 We will notify you of changes to the EBSCO Information Services Web site Privacy Policy by posting an updated policy on this page with a notification link to this page from the homepage or by a "News Box." You agree that continued use of the Web site is an acknowledgment and consent to any terms contained in the EBSCO Information Services Web site Privacy Policy, current at the time of use. 
 
 **I. Effective Date.** This policy was last updated on November 22, 2005.
+
+    
+|   
