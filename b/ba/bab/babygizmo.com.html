@@ -1,134 +1,407 @@
-<!--The following is the downloaded HTML source of the babygizmo.com privacy policy that was archived on 2011-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201225731id_/http%3A//babygizmo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babygizmo.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504212501id_/http%3A//www.babygizmo.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>BabyGizmo.com - Privacy Policy</title>
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <meta name="Description" content="The privacy of our users is of paramount importance to us. For that reason, BabyGizmo.com does not sell or commercially make available specific information about its users or members other than in aggregate form. ">
 <meta name="Keywords" content="Baby Gizmo Privacy Policy, policy statement, confidentiality policy ">
-
 <meta name="Robots" content="INDEX,FOLLOW"><link rel="shortcut icon" href="/bg.ico">
-<link rel="stylesheet" href="/css/default_e.css" type="text/css">
+<link href="/css/babygizmo.css" rel="stylesheet" type="text/css">
+<link href="/css/navigation.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/sections/main_page.css" type="text/css">
 <link rel="stylesheet" href="/sections/left_bar.css" type="text/css">
 <link rel="stylesheet" href="/sections/right_bar.css" type="text/css">
-<link rel="stylesheet" href="/sections/main_page_center_content.css" type="text/css">
 <link href="/css/top1.css" rel="stylesheet" type="text/css">
-<!-- <link href="/css/top.css" rel="stylesheet" type="text/css"> -->
-<script type="text/javascript" src="/js/script.js" language="javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/slider.js"></script>
+<script type="text/javascript" src="/js/slider-ui.js"></script>
 <script type="text/javascript">
-function movepic(img_name,img_src) {
-document[img_name].src=img_src;
-}
+	$(document).ready(function(){
+		$("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 5000, true);
+	});
 </script>
 <script type="text/javascript">
 function myPopup(url,windowname,w,h,x,y){
 window.open(url,windowname,"resizable=no,toolbar=no,scrollbars=no,menubar=no,status=no,directories=no,width="+w+",height="+h+",left="+x+",top="+y+"");
 }
+</script>
+<script type="text/javascript">var stor = -1;
+var maxstor = 4;
+var timeout = 0;
+
+function autorot() {
+	showNext();
+	timeout = setTimeout('autorot();', 4507);
+}
+
+
+
+function rotateDiv(stor){
+  var divs = document.getElementById("storyContainer").getElementsByTagName("div");
+  for (var i=0; i < divs.length; i++ ) {
+    var div = divs[i];
+    if ( (div.id != "")) {
+	if(i != stor){
+        	div.style.display = "none"
+	}
+	else{
+		div.style.display = "block";
+	}
+    }
+  }
+  
+    var spans = document.getElementById("nav").getElementsByTagName("span");
+  for (var i=0; i < spans.length; i++ ) {
+    var span = spans[i];
+    if ( (span.id != "")) {
+	if(i != stor)
+        	span.className = "none";
+	else
+		span.className = "selStory";
+    }
+  }
+}
+
+function showNext(){
+	if(stor < maxstor)
+		stor++;
+	else
+		stor=0;
+
+	rotateDiv(stor);
+}
+
+function stoprot() {
+	clearTimeout(timeout);
+}
+
+
+function showPrev(){
+	if(stor > 0)
+		stor--;
+	else
+		stor=maxstor;
+
+	rotateDiv(stor);
+}
+
+function showStoryOne(){
+	stor=0;
+	rotateDiv(stor);
+}
+function showStoryTwo(){
+	stor=1;
+	rotateDiv(stor);
+}
+function showStoryThree(){
+	stor=2;
+	rotateDiv(stor);
+}
+function showStoryFour(){
+	stor=3;
+	rotateDiv(stor);
+}
+function showStoryFive(){
+	stor=4;
+	rotateDiv(stor);
+}
+function movepic(img_name,img_src) {
+document[img_name].src=img_src;
+}
 </script><!-- PUT THIS TAG IN THE head SECTION -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-2973206002119039");
-GS_googleEnableAllServices();
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 </script>
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-2973206002119039", "SR_300x250");
-GA_googleAddSlot("ca-pub-2973206002119039", "SR_728x90");
-GA_googleAddSlot("ca-pub-2973206002119039", "728x90Bottom");
+googletag.cmd.push(function() {
+googletag.defineSlot('/1049709/300x250_1', [300, 250], 'div-gpt-ad-1328216726742-1').addService(googletag.pubads());
+googletag.defineSlot('/1049709/300x250_2', [300, 250], 'div-gpt-ad-1328216726742-2').addService(googletag.pubads());
+googletag.defineSlot('/1049709/300x250_3', [300, 250], 'div-gpt-ad-1328216726742-3').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
 </script>
-<script type="text/javascript">GA_googleFetchAds();
-</script></head>
-<body link="#000099" vlink="#FF0000" alink="#000000">
-
-<div class="main_page_wrapper">
-<!-- Begin Header Area -->
-<div class="ts-1">
-		<div align="right" class="ts-1-1"><a href="/reviews/index.php" class="gen-1"><img border="0" alt="Log In" src="/images/loginhd.gif" width="67" height="23"><img border="0" alt="Sign Up" src="/images/signuphd.gif" width="61" height="23"></a> 
-		</div>
-		<div class="ts-1-2">
-			 <div class="gen-2"><img id="Image-Maps_8201012022332016" border="0" alt="" src="/images/home_all.jpg" width="975" height="83" usemap="#Image-Maps_8201012022332016"> <map id="Image-Maps_8201012022332016" name="Image-Maps_8201012022332016"><area title="BG Home" href="http://www.babygizmo.com" shape="rect" alt="BG Home" coords="17,10,265,74"><area title="BG Facebook" href="http://www.facebook.com/babygizmo" shape="rect" alt="BG Facebook" target="_blank" coords="654,46,684,78"><area title="BG Twitter" href="http://www.twitter.com/babygizmo" shape="rect" alt="BG Twitter" target="_blank" coords="686,46,716,78"><area title="BG YouTube" href="http://www.youtube.com/babygizmocompany" shape="rect" alt="BG YouTube" target="_blank" coords="719,46,749,78"></map>
-				</div>
-		</div>
-</div><div style="/clear:both;">
-</div>			
-
-				<div class="ts-2-2">
-				<a href="/" class="gen-1"><img border="0" alt="BabyGizmo.com Home" src="/images/Home.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('gear', '/images/gear2.gif')" onmouseout="movepic('gear', '/images/gear.gif')" href="/c/baby_gear/1023.html" class="gen-1"><img border="0" name="gear" alt="Gear" src="/images/gear.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('activity', '/images/activity2.gif')" onmouseout="movepic('activity', '/images/activity.gif')" href="/c/activity/1012.html" class="gen-1"><img border="0" name="activity" alt="Activity" src="/images/activity.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('feeding', '/images/feeding2.gif')" onmouseout="movepic('feeding', '/images/feeding.gif')" href="/c/feeding/1040.html" class="gen-1"><img border="0" name="feeding" alt="Feeding" src="/images/feeding.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('healthy', '/images/healthandsafety2.gif')" onmouseout="movepic('healthy', '/images/healthandsafety.gif')" href="/c/health_and_safety/1034.html" class="gen-1"><img border="0" name="healthy" alt="Healthy" src="/images/healthandsafety.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('bath', '/images/bathandpotty2.gif')" onmouseout="movepic('bath', '/images/bathandpotty.gif')" href="/c/bath_and_potty/1018.html" class="gen-1"><img border="0" name="bath" alt="Bath &amp; Potty" src="/images/bathandpotty.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('toys', '/images/toysandgifts2.gif')" onmouseout="movepic('toys', '/images/toysandgifts.gif')" href="/c/toys_and_gifts/1052.html" class="gen-1"><img border="0" name="toys" alt="Toys &amp; Gifts" src="/images/toysandgifts.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('nursery', '/images/nursery2.gif')" onmouseout="movepic('nursery', '/images/nursery.gif')" href="/c/nursery_and_apparel/1030.html" class="gen-1"><img border="0" name="nursery" alt="Nursery &amp; Apparel" src="/images/nursery.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('dvds', '/images/dvds2.gif')" onmouseout="movepic('dvds', '/images/dvds.gif')" href="/c/books_and_dvds/1186.html" class="gen-1"><img border="0" name="dvds" alt="Books &amp; DVDs" src="/images/dvds.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('blogs', '/images/blogs2.gif')" onmouseout="movepic('blogs', '/images/blogs.gif')" href="http://blog.babygizmo.com" class="gen-1"><img border="0" name="blogs" alt="Blogs" src="/images/blogs.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('topstories', '/images/topstories2.gif')" onmouseout="movepic('topstories', '/images/topstories.gif')" href="/news/index.php" class="gen-1"><img border="0" name="topstories" alt="Top Stories" src="/images/topstories.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('videoreviews', '/images/videoreviews2.gif')" onmouseout="movepic('videoreviews', '/images/videoreviews.gif')" href="/media/index.php" class="gen-1"><img border="0" name="videoreviews" alt="Video Reviews" src="/images/videoreviews.gif" width="69" height="36"></a>
-				<a onmouseover="movepic('giveaway', '/images/giveaways2.gif')" onmouseout="movepic('giveaway', '/images/giveaways.gif')" href="/giveaways.php" class="gen-1"><img border="0" name="giveaway" alt="Giveaways" src="/images/giveaways.gif" width="69" height="36"></a>
-				</div>
-				<div align="right" class="sideb ts-2-15"><a href="/couponsanddeals/" class="sideb gen-1"><font color="#ffffff">Coupons and Deals</font></a>&nbsp;| <a href="/catall.php" class="sideb gen-1"><font color="#ffffff">See All Categories</font>&nbsp;&nbsp;</a>
-				</div>
-				<div align="left" class="ts-2-16"><img alt="News, Reviews &amp; Price Comparisons at BabyGizmo.com" src="/images/babyproductresource.jpg" width="529" height="41"> 
-				</div>
-				<div align="left" class="ts-2-17"><img alt="Mom Reviews of the Newest Projects" src="/images/momproductreviews.jpg" width="446" height="41">        
-			</div>
-<div class="ts-3">
-		<div align="left" class="ts-3-1">
-				
-		</div>
-		<div align="left" class="smtext ts-3-2"><font color="#ffffff">
-		<img alt="" src="/images/searchp.gif" width="1" height="20">&nbsp;&nbsp;<b><font size="2">Search:</font></b>
-		<form method="get" action="/search/index.php" class="zoom_searchform">&nbsp;&nbsp;<input id="zoom_searchbox" size="23" name="zoom_query" class="zoom_searchbox">&nbsp;&nbsp;&nbsp;<input value="go" type="submit" class="zoom_button"></form>	
-		<span style="margin-left:31%;"><a href="manlist.php"><font color="#ffffff"><b>·&nbsp;Search by Brand</b></font></a></span></font><div align="center"><img alt="" src="/images/searchp.gif" width="1" height="8"> 
-		<a href="http://www.youtube.com/user/BabyGizmoCompany" target="_blank"><img border="0" alt="" src="/images/Youtube-icon.png" width="24" height="24"></a> <a href="http://twitter.com/babygizmo" target="_blank"><img border="0" alt="" src="/images/Twitter-icon.png" width="24" height="24"></a> <a href="http://www.facebook.com/babygizmo" target="_blank"><img border="0" alt="" src="/images/FaceBook-icon.png" width="24" height="24"></a> <a href="http://feeds.feedburner.com/ratedbymom" target="_blank"><img border="0" alt="" src="/images/FeedBurner-icon.png" width="24" height="24"></a>
-		
-			</div> 
-</div>
-<div class="ts-3-3">
-
-<!-- BEGIN GN Ad Tag for Baby Gizmo 728x90 ros --> <script type="text/javascript">   if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;   document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.babygizmo.com/ros;sect=ros;sz=728x90;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>'); </script><script src="http://n4403ad.doubleclick.net/adj/gn.babygizmo.com/ros;sect=ros;sz=728x90;tile=1;ord=9625342864799524?" type="text/javascript"></script> <!-- END AD TAG -->  
-
-</div>
-
-		
-<!--- End Header --->
-</div>
-<div id="storyContainer">
-</div> 
-
-
-<table width="975" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr><td valign="top" align="left" width="146" height="476" bgcolor="#6FB579"><!--- Begin Left --->
-		<table width="146" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td valign="top">
-					</td></tr><tr>
-						<td colspan="2"><img src="/images/LeftAD_graybar.gif" width="146" height="3" border="0" alt=""></td>
-					</tr>
-					<tr>
-						<td colspan="2"><a href="http://www.facebook.com/pages/The-Baby-Gizmo-Company/57344471134"><img src="/images/facebook_fan.jpg" width="146" height="171" alt="Facebook Fan" border="0"></a></td>
-					</tr>
-					<tr>
-						<td colspan="2"><img src="/images/LeftAD_graybar.gif" width="146" height="3" alt="" border="0"></td>
-					</tr>
-					<tr>
-						<td colspan="2"><a href="/reviews/index.php"><img src="/images/Signup_giveaway.gif" width="146" height="171" alt="Sign Up" border="0"></a></td>
-					</tr>
-				
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-565810-1']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_setDomainName', '.babygizmo.com']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- ComScore -->
+<script type="text/javascript" language="JavaScript">
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035233" });
+(function() {
+var s = document.createElement("script"), el =document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb [^] [1]": "http://b" [^] [2]) + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);})();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035233&cv=2.0&cj=1" />
+</noscript>
+</head>
+<body>
+<div class="wrapper">
+<div class="container">
+<div class="innerwrapper">
+<!-- header -->
+<form action="" method="post" name="firstLoad" id="firstLoad">
+	<input type="hidden" name="hideValue" id="hideValue" value="yes">
+</form>
+<div class="header">
+<div class="logo"><a href="/"><img src="/images/logo.png" width="258" height="124" alt=""></a></div>
+<div class="slogun"><img src="/images/slogun.png" alt=""></div>
+<div class="hdrright">
+  <div class="loginmn">
+        <script type="text/javascript" src="../js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script> 
+    <script type="text/javascript" src="../js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" type="text/css" href="../js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+    <script type="text/javascript">
+		$(document).ready(function() {
+			$("#various3").fancybox({
+				'width'				: 600,
+				'height'			: 400,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: '../reviews/combine_login.php',
+				'type'				: 'iframe'
+			});
 			
-		</tbody></table>
-	</td><!--- Begin Left --->
+			$("#various4").fancybox({
+				'width'				: 600,
+				'height'			: 890,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'href'				: '../reviews/combine_registration.php',
+				'type'				: 'iframe'
+			});
+		});
+	</script> 
+	<script type="text/javascript">
+    function logout()
+    {
+        if(window.XMLHttpRequest)
+        {
+          xmlhttp=new XMLHttpRequest();
+        }
+        else
+        {
+          xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange=function()
+        {
+            if (xmlhttp.readyState==4 && xmlhttp.status==200)
+            {
+           		document.getElementById("txtHint").innerHTML=xmlhttp.responseText;
+            	parent.window.location.href='https://www.facebook.com/logout.php?next=http%3A%2F%2Fbabygizmo.com%2Fprivacy.php&access_token=304776412925949%7C5037ecd87515bc03f11de1f74fef061f';
+            }
+        }
+    xmlhttp.open("GET","../destroy.php",true);
+    xmlhttp.send();
+    }
+    </script>
+        Welcome<a id="various3" href="#"><font color="#E6A779"><b>Sign in</b></font></a>or<a href="#" id="various4"><font color="#E6A779"><b>Register</b></font></a>
+      </div>
+    <div class="sharemn">
+  	<a href="http://www.facebook.com/babygizmo"><img src="/images/icn_fb.png" width="24" height="24" alt="BabyGizmo Facebook"></a> 
+  	<a href="http://www.twitter.com/babygizmo"><img src="/images/icn_tw.png" width="24" height="24" alt="BabyGizmo Twitter"></a> 
+  	<a href="http://www.youtube.com/babygizmocompany"><img src="/images/icn_youtube.png" width="24" height="24" alt="BabyGizmo Youtube"></a>
+	<a href="http://www.pinterest.com/hollieschultz"><img src="/images/icn_pinterest.png" width="24" height="24" alt="BabyGizmo Pinterest"></a>
+  
+<!-- Place this tag where you want the badge to render -->
+<a href="https://plus.google.com/106625162673756766720?prsrc=3" rel="publisher" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:24px;height:24px;"></a>
+  	</div>
+  <!-- search box -->
+  <div class="serchbxmn">
+    <form method="get" action="/search/index.php" class="zoom_searchform">
+      <p class="left">
+        <input type="text" class="srchtxbx" id="zoom_searchbox" name="zoom_query">
+        <span class="right">
+        <input type="submit" class="srchbtn" value="">
+        </span></p>
+    </form>
+  </div>
+</div>
+<div class="navmn">
+<ul id="topnav">
+        <li>
+        	<a href="/" class="home"><img src="/images/icn_home.png" alt="Home"></a>
+        </li>
+    	<li>
+        	<a href="/c/baby_gear/1023.html">Gear</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+                <ul>
+                	<li><a href="/c/car_seats/1000.html">Car Seats</a></li><li><a href="/c/strollers/1005.html">Strollers</a></li><li><a href="/c/baby_carriers/1015.html">Baby Carriers</a></li><li><a href="/c/diaper_bags/1016.html">Diaper Bags</a></li>               		</ul>
+            </div>
+        </li>
+        <li>
+        	<a href="/c/activity/1012.html">Activity</a>
+            <div style="opacity: 0; display: none; width: 600px;" class="sub">
+            	<ul>
+                	<li><a href="/c/activity_centers/1014.html">Activity Centers</a></li><li><a href="/c/bouncers/1125.html">Bouncers</a></li><li><a href="/c/gym_-_activity_mats/1029.html">Gym - Activity Mats</a></li><li><a href="/c/play_yards/1028.html">Play Yards</a></li><li><a href="/c/swings/1013.html">Swings</a></li><li><a href="/c/activity_tables/1128.html">Activity Tables</a></li>                </ul>   
+            </div>
+        </li>
+        <li>
+        	<a href="/c/feeding/1040.html">Feeding</a>
+            <div style="opacity: 0; display: none; width: 450px;" class="sub">
+                <ul>
+                	<li><a href="/c/high_chairs/1041.html">High Chairs</a></li><li><a href="/c/high_chair_accessories/1194.html">High Chair Accessories</a></li><li><a href="/c/booster_chairs/1126.html">Booster Chairs</a></li><li><a href="/c/hook-on_chairs/1127.html">Hook-on Chairs</a></li><li><a href="/c/bottle_feeding/1042.html">Bottle Feeding</a></li><li><a href="/c/breast_feeding/1043.html">Breast Feeding</a></li><li><a href="/c/utensils_and_accessories/1045.html">Utensils and Accessories</a></li><li><a href="/c/bibs/1146.html">Bibs</a></li><li><a href="/c/nursing_covers/1190.html">Nursing Covers</a></li><li><a href="/c/nursing_pillows/1191.html">Nursing Pillows</a></li>               		</ul>
+            </div>
+        </li>
+        <li>
+			<a href="/c/health_and_safety/1034.html">Health &amp; Safety</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+                <ul>
+                	<li><a href="/c/monitors/1037.html">Monitors</a></li><li><a href="/c/gates/1139.html">Gates</a></li><li><a href="/c/skin_and_toothcare/1039.html">Skin and Toothcare</a></li><li><a href="/c/household_safety/1036.html">Household Safety</a></li><li><a href="/c/travel_safety/1035.html">Travel Safety</a></li><li><a href="/c/first_aid/1038.html">First Aid</a></li><li><a href="/c/pacifiers_and_teethers/1032.html">Pacifiers and Teethers</a></li>               		</ul>
+             </div>
+		</li>
+		<li>
+			<a href="/c/bath_and_potty/1018.html">Bath &amp; Potty</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+            	<ul>
+                	<li><a href="/c/bath_time/1019.html">Bath Time</a></li><li><a href="/c/potty_training/1021.html">Potty Training</a></li><li><a href="/c/diapering/1020.html">Diapering</a></li>               		</ul>
+             </div>
+		</li>
+        <li>
+			<a href="/c/toys_and_gifts/1052.html">Toys &amp; Gifts</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+            	<ul>
+                	<li><a href="/c/gifts/1157.html">Gifts</a></li><li><a href="/c/crib_toys/1144.html">Crib Toys</a></li><li><a href="/c/educational_toys/1053.html">Educational Toys</a></li><li><a href="/c/electronics/1060.html">Electronics</a></li><li><a href="/c/ride-ons/1061.html">Ride-ons</a></li><li><a href="/c/swings_and_playgrounds/1062.html">Swings and Playgrounds</a></li><li><a href="/c/play_tents_and_tunnels/1153.html">Play Tents and Tunnels</a></li><li><a href="/c/toy_sports/1122.html">Toy Sports</a></li><li><a href="/c/wagons_and_accessories/1124.html">Wagons and Accessories</a></li><li><a href="/c/cars_and_trucks/1123.html">Cars and Trucks</a></li><li><a href="/c/dishes,_food,_appliances/1121.html">Dishes, Food, Appliances</a></li><li><a href="/c/dolls/1055.html">Dolls</a></li><li><a href="/c/dress_up/1054.html">Dress Up</a></li><li><a href="/c/imaginarium/1193.html">Imaginarium</a></li><li><a href="/c/infant_toys/1202.html">Infant Toys</a></li><li><a href="/c/garden_and_sand_toys/1203.html">Garden and Sand Toys</a></li><li><a href="/c/preschool_activities/1204.html">Preschool Activities</a></li><li><a href="/c/barbie_and_accessories/1205.html">Barbie and Accessories</a></li>               		</ul>
+             </div>
+		</li>
+        <li>
+			<a href="/c/nursery_and_apparel/1030.html">Nursery &amp; Apparel</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+            	<ul>
+                	<li><a href="/c/furniture/1148.html">Furniture</a></li><li><a href="/c/decor/1026.html">Decor</a></li><li><a href="/c/bedding_and_crib_sets/1025.html">Bedding and Crib Sets</a></li><li><a href="/c/blankets/1104.html">Blankets</a></li><li><a href="/c/pillows_and_stools/1017.html">Pillows and Stools</a></li><li><a href="/c/mobiles/1097.html">Mobiles</a></li><li><a href="/c/organization/1027.html">Organization</a></li><li><a href="/c/accessories/1046.html">Accessories</a></li><li><a href="/c/shoes,_socks,_hats/1172.html">Shoes, Socks, Hats</a></li><li><a href="/c/adorable_apparel/1169.html">Adorable Apparel</a></li><li><a href="/c/sleepwear/1178.html">Sleepwear</a></li><li><a href="/c/layette/1177.html">Layette</a></li><li><a href="/c/crib_sheets/1206.html">Crib Sheets</a></li>               		</ul>
+             </div>
+		</li>
+        <li>
+			<a href="/c/books_and_dvds/1186.html">Books &amp; DVDs</a>
+			 <div style="opacity: 0; display: none; width: 450px;" class="sub">
+            	<ul>
+                	<li><a href="/c/dvds/1138.html">DVDs</a></li><li><a href="/c/books/1154.html">Books</a></li>               		</ul>
+             </div>
+		</li>
+		<li><a href="http://blog.babygizmo.com">Blogs</a></li>
+    </ul>
 
-	<td valign="top" width="100%" bgcolor="#FFFFFF" align="left">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery_002.js"></script>
+<script type="text/javascript">
 	
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-	<td>
-<table border="0" bgcolor="#DDDDDD" height="30" width="100%"><tbody><tr><td valign="middle"><font class="text"><a href="/index.php">Home</a>&nbsp;&gt;&nbsp;<b>Privacy</b></font></td></tr></tbody></table>
+	function megaHoverOver(){
+		
+		$(this).find(".sub").stop().fadeTo('fast', 1).show();
+		
+		//Calculate width of all ul's
+		(function($) { 
+			$.fn.calcSubWidth = function() {
+				rowWidth = 0;
+				//Calculate row
+				$(this).find("ul").each(function() {					
+					rowWidth += $(this).width(); 
+				});	
+			};
+		})($); 
+		
+		if ( $(this).find(".row").length > 0 ) { //If row exists...
+			var biggestRow = 0;	
+			//Calculate each row
+			$(this).find(".row").each(function() {							   
+				$(this).calcSubWidth();
+				//Find biggest row
+				if(rowWidth > biggestRow) {
+					biggestRow = rowWidth;
+				}
+			});
+			//Set width
+			$(this).find(".sub").css({'width' :biggestRow});
+			$(this).find(".row:last").css({'margin':'0'});
+			
+		} else { //If row does not exist...
+			
+			$(this).calcSubWidth();
+			//Set Width
+			$(this).find(".sub").css({'width' : rowWidth});
+			
+		}
+	}
+	
+	function megaHoverOut(){ 
+	  $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+		  $(this).hide(); 
+	  });
+	}
 
-<table border="0" cellpadding="5" cellspacing="5">
-	<tbody><tr>
-	<td class="text" valign="top">
+
+	var config = {    
+		 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+		 interval: 100, // number = milliseconds for onMouseOver polling interval    
+		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+		 timeout: 500, // number = milliseconds delay before onMouseOut    
+		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+	};
+
+	$("ul#topnav li .sub").css({'opacity':'0'});
+	$("ul#topnav li").hoverIntent(config);
+
+
+
+
+</script>    
+
+</div>
+</div>
+
+<!-- page -->
+<div class="page">
+<div class="signupbanner"><img src="/images/signupbanner.jpg" alt=""></div>
+<div class="topadcnt_home">
+	
+	
+	<!--<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1642961772&adSize=728x90"></script>
+-->	
+	<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2973206002119039";
+/* GLAM 728x90 - ROS */
+google_ad_slot = "8632224855";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+
+
+<!-- left main -->
+<div class="leftmain">
+
+
+<!-- post feed left-->
+<div class="left"><br>
+	&nbsp;<font class="text"><a href="/index.php">Home</a>&nbsp;&gt;&nbsp;<b>Privacy</b></font><br><br>
 <img src="/images/Title_Privacy.gif" border="0" width="429" height="42" alt="Privacy">
 <br><br>
 <b><u>Confidentiality/Privacy Policy</u></b><br><br>
@@ -160,34 +433,59 @@ This site contains links to other sites. BabyGizmo.com is not responsible for th
 
 <b><u>How to Contact Us</u></b><br><br>
 If you have any comments or questions, please do not hesitate to <a href="/contact.php">contact us</a>.
-	</td>
-	</tr>
-</tbody></table>
 
 
-	</td>
-	</tr>
-	</tbody></table>
+</div>
+</div>
+
+<!-- right main -->
+<div class="rightmain">
+<!-- ad -->
+<div class="ad"><div align="center">			
+<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=1642961772&amp;adSize=300x250,300x600"></script></div>
+<img src="/images/spacer.gif" width="1" height="10"><br><div align="center">			
+<iframe src="http://rcm.amazon.com/e/cm?t=wwwbabygizmco-20&amp;o=1&amp;p=12&amp;l=ur1&amp;category=baby&amp;banner=0NZY3146JAC39SPTJC82&amp;f=ifr" width="300" height="250" scrolling="no" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+</div>
+<img src="/images/spacer.gif" width="1" height="10"></div>
+</div>
+</div>
+</div>
 
 
-	</td>
-	</tr>
-	</tbody></table>
-<!-- footer -->
-<table width="975" height="75" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr>
-<td valign="middle" bgcolor="#DD874A" align="center" class="copyright">
- <a href="/about.php" class="copyright">About Us</a> | <a href="/advertise/index.php" class="copyright">Advertise</a> | <a href="/resellers/" class="copyright">Resellers</a> |<a href="http://www.ratedbymom.com/" class="copyright">Blogs</a> | <a href="/contact.php" class="copyright">Contact Us</a> |  <a href="/privacy.php" class="copyright">Privacy</a> | <a href="/sitemap/index.php" class="copyright">Site Map</a></td>
-</tr>
-<tr>
-<td class="text" align="center"><br><font color="#585858" size="-2">Copyright © 2005-2011 Baby Gizmo Company (b). All Rights Reserved.
-<br>Baby Gizmo is a trademark of the Baby Gizmo Company.</font></td></tr>
-</tbody></table>
+<!-- footer links -->
+<div class="footerlinksmn">
+  <ul style="width:160px"><li><h4>Gear</h4></li><li><a href="/c/car_seats/1000.html">Car Seats</a></li><li><a href="/c/strollers/1005.html">Strollers</a></li><li><a href="/c/baby_carriers/1015.html">Baby Carriers</a></li><li><a href="/c/diaper_bags/1016.html">Diaper Bags</a></li></ul><ul style="width:190px"><li><h4>Activity</h4></li><li><a href="/c/activity_centers/1014.html">Activity Centers</a></li><li><a href="/c/bouncers/1125.html">Bouncers</a></li><li><a href="/c/gym_-_activity_mats/1029.html">Gym - Activity Mats</a></li><li><a href="/c/play_yards/1028.html">Play Yards</a></li><li><a href="/c/swings/1013.html">Swings</a></li><li><a href="/c/activity_tables/1128.html">Activity Tables</a></li></ul><ul style="width:165px"><li><h4>Feeding</h4></li><li><a href="/c/high_chairs/1041.html">High Chairs</a></li><li><a href="/c/high_chair_accessories/1194.html">High Chair Accessories</a></li><li><a href="/c/booster_chairs/1126.html">Booster Chairs</a></li><li><a href="/c/hook-on_chairs/1127.html">Hook-on Chairs</a></li><li><a href="/c/bottle_feeding/1042.html">Bottle Feeding</a></li><li><a href="/c/breast_feeding/1043.html">Breast Feeding</a></li><li><a href="/c/utensils_and_accessories/1045.html">Utensils and Accessories</a></li><li><a href="/c/bibs/1146.html">Bibs</a></li><li><a href="/c/nursing_covers/1190.html">Nursing Covers</a></li><li><a href="/c/nursing_pillows/1191.html">Nursing Pillows</a></li></ul><ul style="width:180px"><li><h4>Health &amp; Safety</h4></li><li><a href="/c/monitors/1037.html">Monitors</a></li><li><a href="/c/gates/1139.html">Gates</a></li><li><a href="/c/skin_and_toothcare/1039.html">Skin and Toothcare</a></li><li><a href="/c/household_safety/1036.html">Household Safety</a></li><li><a href="/c/travel_safety/1035.html">Travel Safety</a></li><li><a href="/c/first_aid/1038.html">First Aid</a></li><li><a href="/c/pacifiers_and_teethers/1032.html">Pacifiers and Teethers</a></li></ul><ul style="width:150px"><li><h4>Bath &amp; Potty</h4></li><li><a href="/c/bath_time/1019.html">Bath Time</a></li><li><a href="/c/potty_training/1021.html">Potty Training</a></li><li><a href="/c/diapering/1020.html">Diapering</a></li></ul><div class="sep"></div><ul style="width:160px"><li><h4>Toys &amp; Gifts</h4></li><li><a href="/c/gifts/1157.html">Gifts</a></li><li><a href="/c/crib_toys/1144.html">Crib Toys</a></li><li><a href="/c/educational_toys/1053.html">Educational Toys</a></li><li><a href="/c/electronics/1060.html">Electronics</a></li><li><a href="/c/ride-ons/1061.html">Ride-ons</a></li><li><a href="/c/swings_and_playgrounds/1062.html">Swings and Playgrounds</a></li><li><a href="/c/play_tents_and_tunnels/1153.html">Play Tents and Tunnels</a></li><li><a href="/c/toy_sports/1122.html">Toy Sports</a></li><li><a href="/c/wagons_and_accessories/1124.html">Wagons and Accessories</a></li><li><a href="/c/cars_and_trucks/1123.html">Cars and Trucks</a></li><li><a href="/c/dishes,_food,_appliances/1121.html">Dishes, Food, Appliances</a></li><li><a href="/c/dolls/1055.html">Dolls</a></li><li><a href="/c/dress_up/1054.html">Dress Up</a></li><li><a href="/c/imaginarium/1193.html">Imaginarium</a></li><li><a href="/c/infant_toys/1202.html">Infant Toys</a></li><li><a href="/c/garden_and_sand_toys/1203.html">Garden and Sand Toys</a></li><li><a href="/c/preschool_activities/1204.html">Preschool Activities</a></li><li><a href="/c/barbie_and_accessories/1205.html">Barbie and Accessories</a></li></ul><ul style="width:190px"><li><h4>Nursery &amp; Apparel</h4></li><li><a href="/c/furniture/1148.html">Furniture</a></li><li><a href="/c/decor/1026.html">Decor</a></li><li><a href="/c/bedding_and_crib_sets/1025.html">Bedding and Crib Sets</a></li><li><a href="/c/blankets/1104.html">Blankets</a></li><li><a href="/c/pillows_and_stools/1017.html">Pillows and Stools</a></li><li><a href="/c/mobiles/1097.html">Mobiles</a></li><li><a href="/c/organization/1027.html">Organization</a></li><li><a href="/c/accessories/1046.html">Accessories</a></li><li><a href="/c/shoes,_socks,_hats/1172.html">Shoes, Socks, Hats</a></li><li><a href="/c/adorable_apparel/1169.html">Adorable Apparel</a></li><li><a href="/c/sleepwear/1178.html">Sleepwear</a></li><li><a href="/c/layette/1177.html">Layette</a></li><li><a href="/c/crib_sheets/1206.html">Crib Sheets</a></li></ul><ul style="width:165px"><li><h4>Books &amp; DVDs</h4></li><li><a href="/c/dvds/1138.html">DVDs</a></li><li><a href="/c/books/1154.html">Books</a></li></ul>  <ul style="width:180px">
+    <li>
+      <h4>Blogs</h4>
+    </li>
+    			<li><a href="http://blog.babygizmo.com/?p=25388" target="_blank">Lifestyle Holidays Resort Puerta Plata Review (VIDEO)</a></li>
+						<li><a href="http://blog.babygizmo.com/?p=25342" target="_blank">JuJuBe Luxury Diaper Bags</a></li>
+						<li><a href="http://blog.babygizmo.com/?p=25360" target="_blank">Outsmarting Food Quirks: Black Bean and Banana Quesadillas</a></li>
+						<li><a href="http://blog.babygizmo.com/?p=25385" target="_blank">Auto Draft</a></li>
+						<li><a href="http://blog.babygizmo.com/?p=25380" target="_blank">Give Mom a Vacation for Mother's Day</a></li>
+			  </ul>
+  <ul style="width:150px">
+    <li>
+      <h4>More</h4>
+    </li>
+    <li><a href="/about.php">About Us</a></li>
+    <li><a href="/advertise/index.php">Advertise</a></li>
+    <li><a href="/resellers/">Resellers</a></li>
+    <li><a href="http://blog.babygizom.com/">Blogs</a></li>
+    <li><a href="/contact.php">Contact Us</a></li>
+    <li><a href="/privacy.php">Privacy</a></li>
+    <li><a href="/sitemap/index.php">Site Map</a></li>
+  </ul>
+</div>
 
-<table width="975" height="75" border="0" cellpadding="0" cellspacing="1">
-<tbody><tr><td>
-<div align="center">
-<!-- 728x90Bottom -->
+<!-- copyright -->
+<div class="copy">
+  <p>Copyright © 2012 Baby Gizmo Company. All Rights Reserved.</p>
+  <p>Baby Gizmo is a trademark of the Baby Gizmo Company. </p>
+</div>
+
+<!-- bottom ad -->
+<div class="bottomad"><!-- 728x90_bottom -->
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-2973206002119039";
 /* 728x90 - ROS below footer */
@@ -199,16 +497,5 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-<!-- footer -->
-</td></tr></tbody></table>
 
-<p>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">_uacct = "UA-565810-1";
-urchinTracker();
-</script>
-</p></div>
-<script src="http://cdn.wibiya.com/Toolbars/dir_0729/Toolbar_729495/Loader_729495.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript> 
-
-
-</body></html>
+</div></div><div id="ui-datepicker-div" style="display: none;"></div></body></html>
