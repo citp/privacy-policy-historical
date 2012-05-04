@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teensuicidetalk.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128062308id_/http%3A//teensuicidetalk.com/%3Fpage_id%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teensuicidetalk.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034509id_/http%3A//teensuicidetalk.com/%3Fpage_id%3D38) for the most accurate reproduction.*
 
 # Privacy Policy | Teen Suicide Talk
 
