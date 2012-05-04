@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adam4adamlive.com privacy policy that was archived on 2011-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111004084621id_/http%3A//adam4adamlive.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adam4adamlive.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504050922id_/http%3A//adam4adamlive.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -434,13 +434,13 @@
 	</div>
 	
 	<div id="footer">
-			
+		
 		<div class="privacy">
 			Brought to you by VS Media, Inc.
 		</div>
 		
 		<div align="center" style="font-size: 16px;" class="vsmedia">
-			<a href="http://www.webcam4money.com/?affiliate_id=10025308" target="_blank" style="font-size: 16px;">Models Wanted</a>
+			<a href="http://www.adam4adam.com" target="_blank">Adam4Adam</a> | 			<a href="http://www.webcam4money.com/?affiliate_id=10025308" target="_blank" style="font-size: 16px;">Models Wanted</a> 
 		</div>
 		
 		<br>
@@ -455,7 +455,7 @@
 		</div>
 		
 		<div class="privacy" style="padding-top: 20px;">
-			© 1996 - 2011 VS Media, Inc. All Rights Reserved.  <a href="/privacy.php?" target="_blank">Privacy Policy</a> &amp; <a href="/terms.php?" target="_blank">Terms &amp; Conditions</a>.
+			© 1996 - 2012 VS Media, Inc. All Rights Reserved.  <a href="/privacy.php?" target="_blank">Privacy Policy</a>, <a href="/dmca.php?" target="_blank">Copyright Policy</a> &amp; <a href="/terms.php?" target="_blank">Terms &amp; Conditions</a>.
 		</div>
 	
 	</div> 
@@ -476,19 +476,21 @@
 	
 		var pageTracker = _gat._getTracker("UA-10579631-4");
 		pageTracker._setAllowHash(false);
-		pageTracker._setDomainName(".adam4adamlive.com");
+		pageTracker._setDomainName("none");
 		pageTracker._setAllowLinker(true);
 		pageTracker._trackPageview();
-		
-		//	Set cookies with all __utm key/value pairs to make the data accessible 
-		//	to server-side PHP scripts.
-		$.cookie('ga_string', pageTracker._getLinkerUrl('') ); 
+		pageTracker._trackPageLoadTime();
 		
 		var rollupTracker = _gat._getTracker("UA-491285-10");
 		rollupTracker._setAllowHash(false);
-		rollupTracker._setDomainName(".adam4adamlive.com");
+		rollupTracker._setDomainName("none");
 		rollupTracker._setAllowLinker(true);
 		rollupTracker._trackPageview();
+		rollupTracker._trackPageLoadTime();
+		
+		//	Set cookies with all __utm key/value pairs to make the data accessible 
+		//	to server-side PHP scripts.
+		$.cookie('ga_string', rollupTracker._getLinkerUrl('') ); 
 	
 	
 	} catch(err) {}
