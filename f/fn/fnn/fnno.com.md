@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnno.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216143419id_/http%3A//fnno.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnno.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022202id_/http%3A//www.fnno.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | FINANCIAL NEWS NETWORK ONLINE
 
