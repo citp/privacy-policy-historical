@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the natashaclub.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219104643id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the natashaclub.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504091412id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.-->
 
-<html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<!DOCTYPE html><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
 <title>Natasha Club privacy statement</title>
 <link href="/favicon.ico" rel="shortcut icon">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,14 +40,19 @@ $(function() {
 });
 
 $(function() {
-
 $("#qj-form").dialog({
  autoOpen: false,
  height: 500,
  width: 360,
  modal: true,
- buttons: {
-  'Join': function() {
+ buttons: 
+ [
+  {
+   id: "qjJoin",
+   text: "Join",
+   click: function() {
+    $("#qjJoin").button("disable");
+
     $("#qjSex").removeClass( "ui-state-error" );
     $("#qjDateOfBirth").removeClass( "ui-state-error" );
     $("#qjCountry").removeClass( "ui-state-error" );
@@ -61,12 +66,15 @@ $("#qj-form").dialog({
     data: { ajaxaction: 'qj', Sex: $("#qjSex").val(), DateOfBirth: $("#qjDateOfBirth").val(), Country: $("#qjCountry").val(), City: $("#qjCity").val(), NickName: $("#qjNickName").val(), Email: $("#qjEmail").val(), Password: $("#qjPassword").val() },
     dataType: "xml",
     success: QJpostform
-   });
+    });
+   }
   },
-  'Close': function() {
-   $(this).dialog('close');
+  {
+   id: "qjClose",
+   text: "Close",
+   click: function() { $(this).dialog('close'); }
   }
- }
+ ]
 });
 });
 
@@ -79,6 +87,8 @@ function QJpostform(xml)
 {
  if ($('error', xml).text()=='1')
  {
+  $("#qjJoin").button("enable");
+
   eval('o=$("#qj'+$('field', xml).text()+'")');
   o.addClass( "ui-state-error" );
   updateTips( $('text', xml).text() );
@@ -130,11 +140,11 @@ function QJpostform(xml)
                        <a href="http://www.natashaclub.com/refundpolicy.html" id="LeftTopSatisfactionLink"></a>
                           <a href="http://www.natashaclub.com/faq.html#imbra" id="LeftTopImbraLink"></a>
                       <div id="LeftMenuDiv">
-                          <div id="LangDiv"><b>English</b> | <a href="/profile.php?Language=Russian&amp;ID=privacy" class="lang">Русский</a> | <a href="/profile.php?Language=French&amp;ID=privacy" class="lang">Français</a></div>
-			<div class="LoggedMenuDiv"><h1 id="VisitorsMenuH1">Visitor Menu</h1><ul><li><a href="http://www.natashaclub.com/join_form.php"> Sign Up Free </a></li><li><a href="http://www.natashaclub.com/member.php"> Log In </a></li></ul></div>
+                          <div id="LangDiv"><a href="/profile.php?Language=English&amp;ID=privacy" class="lang">English</a> | <b>Русский</b> | <a href="/profile.php?Language=French&amp;ID=privacy" class="lang">Français</a></div>
+			<div class="LoggedMenuDiv"><h1 id="VisitorsMenuH1">Visitor Menu</h1><ul><li><a href="http://www.natashaclub.com/join_form.php"> Регистрация </a></li><li><a href="http://www.natashaclub.com/member.php"> Вход </a></li></ul></div>
 								<!-- Search -->
 
-  <h2 id="HeaderSearch">Search Profiles</h2>
+  <h2 id="HeaderSearch">Искать анкеты</h2>
   <div id="SearchDiv">
   <div id="SearchProfilesTop"><a href="search_result.php?Sex=male&amp;LookingFor=female" id="SearchProfilesTopLinks1">Search a Lady</a><a href="search_result.php?Sex=female&amp;LookingFor=male" id="SearchProfilesTopLinks2">Search a Man</a></div>
   	<form class="SearchForm" action="search_result.php" method="get">
@@ -146,40 +156,40 @@ function QJpostform(xml)
 		</tfoot>
 		<tbody>
 		  <tr>
-			<td><b>I am a:</b></td>
+			<td><b>Я :</b></td>
 			<td><select name="Sex">
-				<option value="female">female</option>
-<option selected="" value="male">male</option>
+				<option value="female">женщина</option>
+<option selected="" value="male">мужчина</option>
 			  </select>
 			</td>
 		  </tr>
 		  <tr>
-			<td><b>seeking a:</b></td>
+			<td><b>ищу:</b></td>
 			<td><select name="LookingFor">
-				<option selected="" value="female">female</option>
-<option value="male">male</option>
+				<option selected="" value="female">женщина</option>
+<option value="male">мужчина</option>
 	  
 			  </select>
 			  <br>
 			  <input name="photos_only" type="checkbox" value="" checked="">
-				with photos only</td>
+				только с фото</td>
 		  </tr>
 		  <tr>
-			<td><b>age from:</b></td>
+			<td><b>возраст от:</b></td>
 			<td><select name="DateOfBirth_start">
 				<option value="18">18</option><option value="19">19</option><option value="20" selected="">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option><option value="60">60</option><option value="61">61</option><option value="62">62</option><option value="63">63</option><option value="64">64</option><option value="65">65</option><option value="66">66</option><option value="67">67</option><option value="68">68</option><option value="69">69</option><option value="70">70</option><option value="71">71</option><option value="72">72</option><option value="73">73</option><option value="74">74</option><option value="75">75</option>			  </select>
-			  &nbsp;to&nbsp;
+			  &nbsp;не старше?&nbsp;
 			  <select name="DateOfBirth_end">
 				<option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35" selected="">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option><option value="60">60</option><option value="61">61</option><option value="62">62</option><option value="63">63</option><option value="64">64</option><option value="65">65</option><option value="66">66</option><option value="67">67</option><option value="68">68</option><option value="69">69</option><option value="70">70</option><option value="71">71</option><option value="72">72</option><option value="73">73</option><option value="74">74</option><option value="75">75</option>			  </select>
 			</td>
 		  </tr>
 		  <tr>
-			<td><b>country:</b></td>
+			<td><b>страна:</b></td>
 			<td>&nbsp;</td>
 		  </tr>
 		  <tr>
 			<td colspan="2" align="center"><select name="Country[]">
-				<option value="0">All countries</option><option value="3">American Samoa</option><option value="4">Andorra</option><option value="6">Anguilla</option><option value="7">Antarctica</option><option value="8">Antigua and Barbuda</option><option value="9">Argentina</option><option value="10">Armenia</option><option value="11">Aruba</option><option value="12">Australia</option><option value="13">Austria</option><option value="14">Azerbaijan</option><option value="15">Bahamas</option><option value="16">Bahrain</option><option value="18">Barbados</option><option value="19">Belarus</option><option value="20">Belgium</option><option value="21">Belize</option><option value="22">Benin</option><option value="23">Bermuda</option><option value="24">Bhutan</option><option value="25">Bolivia</option><option value="26">Bosnia/Herzegowina</option><option value="27">Botswana</option><option value="28">Bouvet Island</option><option value="29">Brazil</option><option value="30">British Ind. Ocean</option><option value="31">Brunei Darussalam</option><option value="32">Bulgaria</option><option value="33">Burkina Faso</option><option value="36">Cameroon</option><option value="37">Canada</option><option value="38">Cape Verde</option><option value="39">Cayman Islands</option><option value="41">Chad</option><option value="42">Chile</option><option value="43">China</option><option value="44">Christmas Island</option><option value="45">Cocoa (Keeling) Is.</option><option value="46">Colombia</option><option value="47">Comoros</option><option value="50">Costa Rica</option><option value="51">Cote Divoire</option><option value="52">Croatia</option><option value="54">Cyprus</option><option value="55">Czech Republic</option><option value="56">Denmark</option><option value="57">Djibouti</option><option value="58">Dominica</option><option value="59">Dominican Republic</option><option value="61">Ecuador</option><option value="62">Egypt</option><option value="63">El Salvador</option><option value="64">Equatorial Guinea</option><option value="66">Estonia</option><option value="68">Falkland Islands</option><option value="69">Faroe Islands</option><option value="70">Fiji</option><option value="71">Finland</option><option value="72">France</option><option value="73">Gabon</option><option value="74">Gambia</option><option value="75">Georgia</option><option value="76">Germany</option><option value="77">Ghana</option><option value="78">Gibraltar</option><option value="79">Greece</option><option value="80">Greenland</option><option value="81">Grenada</option><option value="82">Guadeloupe</option><option value="83">Guam</option><option value="85">Guinea</option><option value="86">Guinea-Bissau</option><option value="87">Guyana</option><option value="89">Honduras</option><option value="90">Hong Kong</option><option value="91">Hungary</option><option value="92">Iceland</option><option value="93">India</option><option value="97">Ireland</option><option value="98">Israel</option><option value="99">Italy</option><option value="100">Jamaica</option><option value="101">Japan</option><option value="102">Jordan</option><option value="103">Kazakhstan</option><option value="104">Kenya</option><option value="105">Kiribati</option><option value="106">Korea</option><option value="107">Kuwait</option><option value="108">Kyrgyzstan</option><option value="110">Latvia</option><option value="111">Lebanon</option><option value="112">Lesotho</option><option value="114">Liechtenstein</option><option value="115">Lithuania</option><option value="116">Luxembourg</option><option value="117">Macau</option><option value="118">Macedonia</option><option value="119">Madagascar</option><option value="120">Malawi</option><option value="122">Maldives</option><option value="123">Mali</option><option value="124">Malta</option><option value="125">Marshall Islands</option><option value="126">Martinique</option><option value="127">Mauritania</option><option value="128">Mauritius</option><option value="129">Mayotte</option><option value="130">Mexico</option><option value="131">Micronesia</option><option value="132">Moldova</option><option value="133">Monaco</option><option value="224">Montenegro</option><option value="135">Montserrat</option><option value="136">Morocco</option><option value="137">Mozambique</option><option value="139">Namibia</option><option value="141">Nepal</option><option value="142">Netherlands</option><option value="143">New Caledonia</option><option value="144">New Zealand</option><option value="145">Nicaragua</option><option value="146">Niger</option><option value="148">Niue</option><option value="149">Norfolk Island</option><option value="150">Norway</option><option value="151">Oman</option><option value="153">Palau</option><option value="154">Panama</option><option value="155">Papua New Guinea</option><option value="156">Paraguay</option><option value="157">Peru</option><option value="158">Philippines</option><option value="159">Pitcairn</option><option value="160">Poland</option><option value="161">Portugal</option><option value="162">Puerto Rico</option><option value="163">Qatar</option><option value="164">Reunion</option><option value="165">Romania</option><option value="166">Russia</option><option value="168">Saint Lucia</option><option value="169">Samoa</option><option value="170">San Marino</option><option value="171">Saudi Arabia</option><option value="172">Senegal</option><option value="219">Serbia</option><option value="173">Seychelles</option><option value="175">Singapore</option><option value="176">Slovakia</option><option value="220">Slovenia</option><option value="177">Solomon Islands</option><option value="178">Somalia</option><option value="179">South Africa</option><option value="180">Spain</option><option value="181">Sri Lanka</option><option value="182">St. Helena</option><option value="185">Swaziland</option><option value="186">Sweden</option><option value="187">Switzerland</option><option value="189">Taiwan</option><option value="190">Tajikistan</option><option value="191">Tanzania</option><option value="192">Thailand</option><option value="193">Togo</option><option value="194">Tokelau</option><option value="195">Tonga</option><option value="196">Trinidad and Tobago</option><option value="197">Tunisia</option><option value="198">Turkey</option><option value="199">Turkmenistan</option><option value="200">Tuvalu</option><option value="205">USA</option><option value="201">Uganda</option><option value="202">Ukraine</option><option value="203">United Arab Emirates</option><option value="204">United Kingdom</option><option value="206">Uruguay</option><option value="207">Uzbekistan</option><option value="208">Vanuatu</option><option value="209">Vatican</option><option value="211">Viet Nam</option><option value="212">Virgin Islands</option><option value="213">Western Sahara</option><option value="217">Zambia</option>          
+				<option value="0">Все страны</option><option value="30">British Ind. Ocean</option><option value="224">Montenegro</option><option value="219">Serbia</option><option value="12">Австралия</option><option value="13">Австрия</option><option value="14">Азербайджан</option><option value="3">Американское Самоа</option><option value="6">Ангилла</option><option value="4">Андорра</option><option value="7">Антарктика</option><option value="8">Антигуа и Барбуда</option><option value="9">Аргентина</option><option value="10">Армения</option><option value="11">Аруба</option><option value="15">Багамы</option><option value="18">Барбадос</option><option value="16">Бахрейн</option><option value="19">Беларусь</option><option value="21">Белиз</option><option value="20">Бельгия</option><option value="22">Бенин</option><option value="23">Бермуда</option><option value="32">Болгария</option><option value="25">Боливия</option><option value="26">Босния/Герцеговина</option><option value="27">Ботсвана</option><option value="29">Бразилия</option><option value="31">Бруней</option><option value="28">Буветские острова</option><option value="33">Буркина Фасо</option><option value="24">Бутан</option><option value="208">Вануату</option><option value="209">Ватикан</option><option value="204">Великобритания</option><option value="91">Венгрия</option><option value="212">Вирджинсикие о-ва</option><option value="211">Вьетнам</option><option value="73">Габон</option><option value="87">Гайана</option><option value="74">Гамбия</option><option value="77">Гана</option><option value="82">Гваделупа</option><option value="85">Гвинея</option><option value="86">Гвинея-Бисау</option><option value="76">Германия</option><option value="78">Гибралтар</option><option value="89">Гондурас</option><option value="90">Гонконг</option><option value="81">Гренада</option><option value="80">Гренландия</option><option value="79">Греция</option><option value="75">Грузия</option><option value="83">Гуам</option><option value="56">Дания</option><option value="57">Джибути</option><option value="58">Доминика</option><option value="59">Доминиканская рес.</option><option value="62">Египет</option><option value="217">Замбия</option><option value="213">Западная Сахара</option><option value="98">Израиль</option><option value="93">Индия</option><option value="102">Иордания</option><option value="97">Ирландия</option><option value="92">Исландия</option><option value="180">Испания</option><option value="99">Италия</option><option value="103">Казахстан</option><option value="39">Каймановы Острова</option><option value="36">Камерун</option><option value="37">Канада</option><option value="38">Капе Верде</option><option value="163">Катар</option><option value="104">Кения</option><option value="54">Кипр</option><option value="108">Киргизстан</option><option value="105">Кирибати</option><option value="43">Китай</option><option value="45">Кокосовы о-ва</option><option value="46">Колумбия</option><option value="47">Коморос</option><option value="106">Корея</option><option value="50">Коста Рика</option><option value="51">Кот-Д'Ивуар</option><option value="107">Кувейт</option><option value="110">Латвия</option><option value="112">Лесото</option><option value="111">Ливан</option><option value="115">Литва</option><option value="114">Лихтенштейн</option><option value="116">Люксембург</option><option value="128">Маврикий</option><option value="127">Мавритания</option><option value="119">Мадагаскар</option><option value="129">Майотта</option><option value="117">Макау</option><option value="118">Македония</option><option value="120">Малави</option><option value="123">Мали</option><option value="122">Мальдивы</option><option value="124">Мальта</option><option value="126">Мартиника</option><option value="125">Маршаловы о-ва</option><option value="130">Мексика</option><option value="131">Микронезия</option><option value="137">Мозамбик</option><option value="132">Молдова</option><option value="133">Монако</option><option value="135">Монсеррат</option><option value="136">Морокко</option><option value="139">Намибия</option><option value="141">Непал</option><option value="146">Нигер</option><option value="142">Нидерланды</option><option value="145">Никарагуа</option><option value="148">Ниуэ</option><option value="144">Новая Зеландия</option><option value="143">Новая Каледония</option><option value="150">Норвегия</option><option value="149">Норфолкские о-ва</option><option value="203">ОАЭ</option><option value="151">Оман</option><option value="44">Остров Рождества</option><option value="182">Остров Св. Елены</option><option value="159">Острова Питкэрн</option><option value="69">Острова Фаро</option><option value="153">Палау</option><option value="154">Панама</option><option value="155">Папуа Новая Гвинея</option><option value="156">Парагвай</option><option value="157">Перу</option><option value="160">Польша</option><option value="161">Португалия</option><option value="162">Пуэрто Рико</option><option value="164">Реюньон</option><option value="166">Россия</option><option value="165">Румыния</option><option value="205">США</option><option value="169">Самоа</option><option value="170">Сан Марино</option><option value="171">Саудовcкая Аравия</option><option value="185">Свазилэнд</option><option value="173">Сейшельские о-ва</option><option value="172">Сенегал</option><option value="168">Сент-Люсия</option><option value="175">Сингапур</option><option value="176">Словакия</option><option value="220">Словения</option><option value="177">Соломоновы о-ва</option><option value="178">Сомали</option><option value="190">Таджикистан</option><option value="189">Тайвань</option><option value="192">Тайланд</option><option value="191">Танзания</option><option value="193">Того</option><option value="194">Токелау</option><option value="195">Тонга</option><option value="196">Тринидад и Тобаго</option><option value="200">Тувалу</option><option value="197">Тунис</option><option value="199">Туркменистан</option><option value="198">Турция</option><option value="201">Уганда</option><option value="207">Узбекистан</option><option value="202">Украина</option><option value="206">Уругвай</option><option value="70">Фиджи</option><option value="158">Филиппины</option><option value="71">Финляндия</option><option value="68">Фолклендские о-ва</option><option value="72">Франция</option><option value="52">Хорватия</option><option value="41">Чад</option><option value="55">Чехия</option><option value="42">Чили</option><option value="187">Швейцария</option><option value="186">Швеция</option><option value="181">Шриланка</option><option value="61">Эквадор</option><option value="64">Экваториальная Гвинея</option><option value="63">Эль-Сальвадор</option><option value="66">Эстония</option><option value="179">Южная Африка</option><option value="100">Ямайка</option><option value="101">Япония</option>          
 			  </select>
 			</td>
 		  </tr>
@@ -195,7 +205,7 @@ function QJpostform(xml)
 		</tfoot>
 		<tbody>
 		  <tr>
-			<td><b style="text-align: center;">or search by profile ID:</b></td>
+			<td><b style="text-align: center;">или искать анкету по ID:</b></td>
 		  </tr>
 		  <tr>
 			<td><input name="ID"></td>
@@ -218,10 +228,16 @@ function QJpostform(xml)
                     </td>
                     
                     <td valign="top"><div id="TopTab">
-                          <table border="0" cellspacing="0" cellpadding="0" class="TopTabLeftTable">
-                             <tbody><tr>
+                    
+                    
+                    <table width="94%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td style="width: 30%; text-align:left; vertical-align:bottom;"> 
+    <table border="0" cellspacing="0" cellpadding="0" class="TopTabLeftTable">
+                            <tbody><tr>
                               <td class="TopTabLeftTableCornerLeft">&nbsp;</td>
                               <td class="TopTabBg"><a href="/testimonials.html">Testimonials</a></td>
+
                               <td class="TopTabMiddleCorners">&nbsp;</td>
                               <td class="TopTabBg"><a href="http://www.1st-international.com/flowers.html" target="_blank">Flower Delivery</a></td>
                               <td class="TopTabMiddleCorners">&nbsp;</td>
@@ -229,19 +245,24 @@ function QJpostform(xml)
                               <td class="TopTabMiddleCorners">&nbsp;</td>
                               <td class="TopTabBg"><a href="/about_us.html">About Us</a></td>
                               <td class="TopTabMiddleCorners">&nbsp;</td>
+
                               <td class="TopTabBg"><a href="/help.html">Help</a></td>
                               <td class="TopTabLeftTableCornerRight">&nbsp;</td>
                             </tr>
-                          </tbody></table>
-                          <table border="0" cellspacing="0" cellpadding="0" class="TopTabRightTable">
+                          </tbody></table></td>
+    <td style="text-align:right;"><table border="0" cellspacing="0" cellpadding="0" class="TopTabRightTable">
                             <tbody><tr>
                               <td class="TopTabRightTableCornerLeft">&nbsp;</td>
                               <td class="TopTab1Bg">
+
 <script language="JavaScript" src="http://support.russianbridesnetwork.com/js/status_image.php?base_url=http://support.russianbridesnetwork.com&amp;l=admin&amp;x=1&amp;deptid=0&amp;text=Live+Support+24/7"></script>
 </td>
                               <td class="TopTabRightTableCornerRight">&nbsp;</td>
                             </tr>
-                          </tbody></table>
+                          </tbody></table></td>
+  </tr>
+</tbody></table>
+                          
                         </div>
                         <div id="ContentDiv" style="padding-top:15px;">
  
@@ -316,7 +337,7 @@ USA </strong></font></p>
                 <tr>
                   <td><table width="100%" border="0" cellspacing="0" cellpadding="0" id="BottomTable">
                       <tbody><tr>
-                        <td id="CopyTd">© Natasha Club 2008-2010. All Rights Reserved.</td>
+                        <td id="CopyTd">© Natasha Club 1997-2012. All Rights Reserved.</td>
                         <td id="BottomMenuTd"><table align="center" border="0" cellpadding="0" cellspacing="0">
                             <tbody><tr>
                               <td><a href="/index.html">Home</a></td>
