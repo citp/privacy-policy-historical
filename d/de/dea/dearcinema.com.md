@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dearcinema.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122083308id_/http%3A//dearcinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearcinema.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504072811id_/http%3A//dearcinema.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DearCinema.com
+# Privacy Policy - DearCinema.com | DearCinema.com
 
 The privacy policy (hereinafter referred to as “the Privacy Policy”) provided below is with respect to our use and protection of any personal information you provide to us through the DearCinema.com website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration the user expressly approves and consents to our collection, storage, use and disclosure of personal information as described in this Privacy Policy.
 
