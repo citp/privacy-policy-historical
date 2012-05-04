@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2010-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100414022223id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobthread.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504203123id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="page"><head>
 		<base href="http://www.jobthread.com/">
@@ -8,17 +8,24 @@
 
 					<link rel="stylesheet" href="partners/jobthread/css/shared.css" type="text/css">
 			<link rel="stylesheet" href="partners/jobthread/css/main.css" type="text/css">
+
+			<link rel="stylesheet" href="js/jquery/jquery-ui/css/ui-lightness/ui-lightness.css" type="text/css">
 		
 					<link rel="icon" type="image/vnd.microsoft.icon" href="partners/jobthread/images/favicon.ico">
 			<link rel="SHORTCUT ICON" href="partners/jobthread/images/favicon.ico">
 		
-		<script type="text/javascript" src="js/global.js"></script>
+		<script type="text/javascript" src="https://ssl.spectate.com/s.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/global.js"></script>
 		<script type="text/javascript" src="js/jquery/jquery.js"></script>
 		<script type="text/javascript" src="js/jquery/jquery.corner.js"></script>
-		<script type="text/javascript" src="js/jquery/jquery.local.js"></script>
 
+					<script type="text/javascript" src="js/jquery/jquery.local.js"></script>
+			<script type="text/javascript" src="js/jquery/jquery-ui.js"></script>
+			<script type="text/javascript" src="js/jquery/jquery.shadowon.js"></script>
+		
+		
 									<title>JobThread | Privacy Policy</title>
 					
+		
 		<script type="text/javascript">
 		
 			window.onload = onLoad;
@@ -80,7 +87,21 @@
 	<![endif]-->
 
 		
-			</head>
+		
+		
+					<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7740651-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>			</head>
 
 	<body id="page">
 
@@ -110,6 +131,15 @@
 			$(this).parent().siblings("div.context-help").hide();
 		});
 
+		$("ul#home-subsections a.home-subsection-active").each(function(){
+			var common_header = $("table#common-header");
+			var image = $("img#home-subsection-indicator");
+
+			image.css('left', ($(this).offset().left + ($(this).width()/2) - Math.floor(image.width()/2)));
+			image.css('top', (common_header.offset().top + common_header.height()));
+			image.show();
+		});
+
 		$("a.no-keep-focus").focus(function(){
 			$(this).blur();
 		});
@@ -120,6 +150,9 @@
 			$(this).blur();
 		});
 		$("input.input_button_highlight_action").focus(function(){
+			$(this).blur();
+		});
+		$("input.home-button").focus(function(){
 			$(this).blur();
 		});
 
@@ -186,12 +219,6 @@
 					<table id="common-header-center-inner-center-all" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td id="common-header-center-inner-center-all-top">
-							<a href="contact?ref=feedback&amp;topic=feedback" target="_blank">
-								<img id="feedback" src="partners/jobthread/images/general/feedback.gif">
-							</a>
-
-							<div id="common-header-nq">
-							</div>
 						</td>
 					</tr>
 					<tr>
@@ -216,7 +243,7 @@
 				<td id="common-header-center-inner-right">
 					<div id="common-header-account" class="common-header-account-logged-out">
 						
-													<a href="http://www.jobthread.com/jt/users/login.php" rel="nofollow">Sign in</a>
+													<a href="http://www.jobthread.com/sign-in" rel="nofollow">Sign in</a>
 						
 						&nbsp;
 						|
@@ -235,11 +262,13 @@
 		</td>
 	</tr>
 	<tr>
-		<td id="common-header-subnav-left" class="common-header-subnav ">
+		<td id="common-header-subnav-left">
+			&nbsp;
 		</td>
 		<td id="common-header-subnav-center" class="common-header-subnav ">
 					</td>
-		<td id="common-header-subnav-right" class="common-header-subnav ">
+		<td id="common-header-subnav-right">
+			&nbsp;
 		</td>
 	</tr>
 	</tbody></table>
@@ -251,7 +280,7 @@
 		</td>
 		<td id="common-middle-center">
 			<div id="common-middle-center-box">
-				<div id="page-container">
+				<div class="page-container ">
 					
 
 
@@ -291,7 +320,7 @@
 
 <div style="margin-bottom:20px;">
 	If you have questions or comments about this privacy
-	policy, please <a href="contact">contact us</a>.
+	policy, please <a href="contact?ref=privacy">contact us</a>.
 </div>
 
 <div class="heading3" style="margin-bottom:25px;">
@@ -386,7 +415,7 @@
 
 <div style="margin-bottom:20px;">
 	If problems arise, users may contact JobThread, Inc. via
-	our <a href="contact">Contact Us</a> page.
+	our <a href="contact?ref=privacy">Contact Us</a> page.
 </div>
 
 <div class="heading5" style="margin-bottom:7px;">
@@ -408,77 +437,105 @@
 
 <div style="margin-bottom:20px;">
 	If you have questions or comments about this privacy
-	policy, please <a href="contact">contact us</a>.
+	policy, please <a href="contact?ref=privacy">contact us</a>.
 </div>
 
-
+	
+				</div>
 			</div>
-		</div>
 
-		<div id="common-middle-center-footer">
-		</div>
+							<div class="footer">
+					<a href="http://www.jobthread.com/?show_home=1">Home</a>
+					&nbsp;
+					|
+					&nbsp;
 
-					<div class="footer">
-				<a href="http://www.jobthread.com/?show_home=1">Home</a>
-				&nbsp;
-				|
-				&nbsp;
+					<a href="http://www.jobthread.com/about" rel="nofollow">About Us</a>
+					&nbsp;
+					|
+					&nbsp;
 
-				<a href="http://www.jobthread.com/about" rel="nofollow">About Us</a>
-				&nbsp;
-				|
-				&nbsp;
+					<a href="http://www.jobthread.com/contact" rel="nofollow">Contact Us</a>
+					&nbsp;
+					|
+					&nbsp;
 
-				<a href="http://www.jobthread.com/contact" rel="nofollow">Contact Us</a>
-				&nbsp;
-				|
-				&nbsp;
+					<a href="http://www.jobthread.com/terms" rel="nofollow">Terms of Service</a>
+					&nbsp;
+					|
+					&nbsp;
 
-				<a href="http://www.jobthread.com/terms" rel="nofollow">Terms of Service</a>
-				&nbsp;
-				|
-				&nbsp;
+					<a href="http://www.jobthread.com/privacy" rel="nofollow">Privacy</a>
+					&nbsp;
+					|
+					&nbsp;
 
-				<a href="http://www.jobthread.com/privacy" rel="nofollow">Privacy</a>
-				&nbsp;
-				|
-				&nbsp;
+					<a href="http://www.jobthread.com/help" rel="nofollow">Help Center</a>
 
-				<a href="http://www.jobthread.com/help" rel="nofollow">Help Center</a>
+					<div style="padding-top:10px;">
+						© 2005-2012 JobThread, Inc.  
+						All Rights Reserved.					</div>
 
-				<div style="padding-top:10px;">
-					© 2005-2010 JobThread, Inc.  
-					All Rights Reserved.				</div>
-
-							</div>
-			</td>
-	<td id="common-middle-right">
-		&nbsp;
-	</td>
-</tr>
-</tbody></table>
+									</div>
+					</td>
+		<td id="common-middle-right">
+			&nbsp;
+		</td>
+	</tr>
+	</tbody></table>
 
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7740651-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-
-
-	<script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
+	
 	<script type="text/javascript">
-		
-		_qacct="p-dfaywUr_Oq7jw";
-		quantserve();
+	
+		var _qevents = _qevents || [];
+
+		(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+			qacct: "p-dfaywUr_Oq7jw",
+			labels: ""
+		});
+	
 	</script>
+
 	<noscript>
-	<a href="http://www.quantcast.com/p-dfaywUr_Oq7jw" target="_blank"><img src="//secure.quantserve.com/pixel/p-dfaywUr_Oq7jw.gif" border="0" style="display: none" height="1" width="1"></a></noscript>
+		<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-dfaywUr_Oq7jw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+	</noscript>
+
+	
+	<script type="text/javascript">
+	
+		sAId = "284";
+		sCId = "1464";
+  
+		(function() {
+			function async_load(){
+				var s = document.createElement('script'); s.type = 'text/javascript';
+				s.src = (('https:' == document.location.protocol) ? "https://ssl" : "http://cdn") + ".spectate.com/s.js";
+				var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+			}
+			if(window.attachEvent) { window.attachEvent('onload', async_load); }
+			else { window.addEventListener('load', async_load, false); }
+		  })();
+	
+	</script>
+
+	
+	<script src="https://lfov.net/webrecorder/js/listen.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_lf_cid = "LF_73a89069";
+		_lf_remora();
+	</script>
 
 
 
