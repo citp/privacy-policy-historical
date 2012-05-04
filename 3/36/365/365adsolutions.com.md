@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365adsolutions.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201120052id_/http%3A//365adsolutions.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365adsolutions.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025411id_/http%3A//www.365adsolutions.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 365 Ad Solutions Monetising Advertisers Publishers and App Developers
 
