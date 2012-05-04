@@ -1,34 +1,51 @@
-> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010518id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021153id_/http%3A//www.highwire.com/privacy) for the most accurate reproduction.*
 
-# Highwire Commerce - Privacy Policy
+# Highwire Privacy Policy - Create Your Own Online Store
 
-## What personal information does Highwire Commerce collect and why?
+_Last updated on 10 April 2012._
 
-To provide you with the best service possible, we collect some or all of the following information:
-
-  * your name
-  * e-mail address
-  * telphone number
-  * shipping/billing address
+  
 
 
+### Information we collect
 
-When you use Highwire Commerce's services we track your activity on our website. Your personal information is used to identify you in our system allowing Highwire Commerce to interact with eBay on your behalf. We also track your Internet Protocol (IP) address, domain name (if applicable), browser type, and request.cookies duration. Highwire Commerce uses this information to administer the site and to further improve our service to you.
+Highwire collects information from its website visitors and product users. This includes aggregate information on what pages visitors access, email addresses of those who email us or sign up for our newsletters, and other information volunteered by the site visitor.When you register for Highwire, we ask for additional information such as your name, email address, and phone number. When you upgrade to a paid website, we collect billing information.
 
-If you elect to receive emails updates from Highwire Commerce, you will periodically receive e-mails from us updating you of significant events taking place at Highwire Commerce. You can always unsubscribe from this list by following the "unsubscribe" instructions provided in the e-mail correspondences.
+  
 
-## With whom does Highwire Commerce share your information?
 
-Please note that Highwire Commerce has links to other web sites. When you click on one of these links, you leave Highwire Commerce and go to another web site. We encourage you to read the privacy statements of these sites, to which we link, as their privacy policy may differ from ours.
+### How we use this information
 
-## What are "cookies" and how are they used?
+  * To facilitate the use of our products 
+  * To communicate with our users
+  * For billing purposes 
+  * To improve our products and services 
+  * For our own research 
 
-A "cookie" is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. Your browser must allow cookies in order for you to use the Highwire Commerce service. We use cookies to hold information, such as a login ID, so you don't need to re-enter information each time you utilize a Highwire Commerce service during a request.cookies. We also use cookies to provide customized and personalized services to you. Should you choose to set your browser to reject cookies, you will render it nearly impossible to use sites that set and use cookies, including Highwire Commerce.
+  
 
-## How can i review and change my information and cancel my Highwire Commerce account?
 
-You can edit and change your information in your Highwire Commerce account, including your password, at any time in the "preferences" section of the Highwire Commerce website. Should you forget your password, Highwire Commerce can send it to you immediately via e-mail, at your request. To cancel your account, you will need to submit a cancellation request from your store admin. We do not accept cancellations via support request or emails.
+### Setting communication preferrences
 
-## How i will know about changes to Highwire Commerce's privacy policy
+Users may easily opt out of receiving any non-essential emails from Highwire by clicking the unsubscribe links contained within emails sent. Users will not be able to opt out of receiving emails considered essential to system use as long as they maintain Highwire accounts. Users who delete their Highwire accounts will no longer receive email from Highwire.
 
-If we decide to change our privacy policy, we will post those changes on the "Start Page" of our site so that our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of this posting. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+  
+
+
+### Sharing your information
+
+We do not ever share or sell your personal information for commercial purposes except to provide products or services you’ve requested, and only if we have your permission. We may share aggregated non-personal information with third parties outside of Highwire. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, ensuring the security of our network and services, or when your actions violate the [Terms of Service](http://www.highwire.com/terms/).
+
+  
+
+
+### Cookies
+
+A cookie is a small amount of data that we store on your computer's hard drive. Cookies are not required to browse our company and product sites, but are required to use our products. We set and access cookies to record current session information. 
+
+  
+
+
+### Changes
+
+Highwire may periodically update this policy. If it is significantly changed, we will notify you by email or by placing a prominent notice on our company website, blog or other communication channel.
