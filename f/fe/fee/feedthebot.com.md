@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144216id_/http%3A//www.feedthebot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedthebot.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504073747id_/http%3A//www.feedthebot.com/privacy.html) for the most accurate reproduction.*
 
 # Feedthebot Privacy Policy
 
