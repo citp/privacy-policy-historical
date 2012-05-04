@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011529id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html%3Flinkid%3Dprivacypolicyfooter) for the most accurate reproduction.*
 
-# Privacy Policy | Lexington Law, Credit Repair
+# Privacy Policy | Lexington Law
 
   
 
 
 Lexington Privacy Policy
 
-**Last Updated September 2011  
+**Last Updated March 2012  
 © Lexington Law Firm**
 
   
-Welcome to Lexington Law Firm. Please read our privacy policy carefully to understand how we will use the information you provide while using sites associated with Lexington Law Firm, i.e., [www.lexingtonlaw.com](https://web.archive.org/web/20111201011529id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) and [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php) and [lexingtonlaw.com/credit-access](https://www.lexingtonlaw.com/credit-access). This policy may change from time to time, so please check the website each time you use it for the most current information.
+Welcome to Lexington Law Firm. Please read our privacy policy carefully to understand how we will use the information you provide while using sites associated with Lexington Law Firm, i.e., [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) and [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php) and [lexingtonlaw.com/credit-access](https://www.lexingtonlaw.com/credit-access). This policy may change from time to time, so please check the website each time you use it for the most current information.
 
 This privacy policy contains information on the following subjects:  
 
@@ -48,7 +48,7 @@ As a client of Lexington Law, the Firm may also collect the following informatio
 
 
   
-"Website Information" means information collected when individuals browse [www.lexingtonlaw.com](https://web.archive.org/web/20111201011529id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) website, such as date and time of visit, pages viewed, time spent on the site, and websites visited before viewing the Lexington Law Firm site. This information cannot be traceable to any specific person.
+"Website Information" means information collected when individuals browse [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) website, such as date and time of visit, pages viewed, time spent on the site, and websites visited before viewing the Lexington Law Firm site. This information cannot be traceable to any specific person.
 
 What Information We Collect From Clients
 
@@ -62,7 +62,7 @@ Sensitive Information: This information is only used for legitimate business pur
 
 Website Information:
 
-• [www.lexingtonlaw.com](https://web.archive.org/web/20111201011529id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com): When you browse this site, you are able to do so anonymously. Generally, we don't collect personal information when you browse this site — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+• [www.lexingtonlaw.com](https://web.archive.org/web/20120504175503id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com): When you browse this site, you are able to do so anonymously. Generally, we don't collect personal information when you browse this site — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
 
 • [clients.lexingtonlaw.com](https://www.lexingtoncreditrevolution.com/login.php): You only can access this site if you are a client of Lexington Law Firm. In order to use this site and protect and secure the privacy and confidentiality of its clients, Lexington needs to track usage by client case number. Therefore, your use of the site constitutes consent to collection and storage of personally identifying information.
 
@@ -74,13 +74,13 @@ Some parts of the site may also use cookies to track user traffic patterns. Lexi
 
 In some of our emails to you, Lexington uses a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination. We track "click-throughs" to help Lexington determine your interest in particular topics and measure the effectiveness of our customer communications.
 
-Lexington may use third-party advertising companies to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
+Lexington may use third-party advertising companies, including Google, to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and to serve ads based on a user’s prior visits to Lexington’s website. Lexington uses Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to Lexington’s website. User’s may opt out of Google’s use of cookies, including the Doubleclick cookie, by visiting the [Google advertising opt out page.](http://www.google.com/privacy_ads.html) Users may opt out of Google Analytics by visiting the [Google Analytics opt out page](http://tools.google.com/dlpage/gaoptout). User’s may opt out of a third party advertising company’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **The General Purposes for Which We Use and Disclose Information**
 
 _How Lexington Uses the Information_
 
-Personal Contact Information: This type of information is used to correspond with Lexington Law Firm and is not shared unless the client has given permission in the Lexington Law Firm retainer agreement or doing so is necessary to provide the client needed legal services and fulfill Lexington's legitimate business purposes.
+Personal Contact Information: This type of information is used to correspond with Lexington Law Firm and is not shared unless the client has given permission in the Lexington Law Firm engagement agreement or doing so is necessary to provide the client needed legal services and fulfill Lexington's legitimate business purposes.
 
 Sensitive Information: Sensitive information is used by Lexington to provide enrolled clients with the services requested.
 
@@ -102,7 +102,7 @@ Website Information: This information is collected in order to allow Lexington t
 
 If you wish to opt out of any e-mail services offered by Lexington, please [click here](http://www.lexingtonlaw.com/OptOut/). However, if you opt out of these services, Lexington will no longer be able to provide you legal services and it will need to close your case.
 
-Additionally, Lexington may use third-party advertising companies to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+Additionally, Lexington may use third-party advertising companies, including Google, to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and to serve ads based on a user’s prior visits to Lexington’s website. Lexington uses Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to Lexington’s website. User’s may opt out of Google’s use of cookies, including the Doubleclick cookie, by visiting the [Google advertising opt out page](http://www.google.com/privacy_ads.html). Users may opt out of Google Analytics by visiting the [Google Analytics opt out page](http://tools.google.com/dlpage/gaoptout). User’s may opt out of a third party advertising company’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). Any information that these third parties collect via cookies and action tags is completely anonymous.
 
 **How We Protect Your Information**
 
