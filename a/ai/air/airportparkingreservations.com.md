@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028025923id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041255id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Airport Parking Reservations.com
+# Privacy Policy
 
 Updated 9/16/2011
 
@@ -8,8 +8,7 @@ Updated 9/16/2011
 
 AirportParkingReservations.com, Inc.  
 PO Box 745  
-Suffield, CT 06078  
-203-245-8056
+Suffield, CT 06078
 
 Our web site is located at: [http://www.airportparkingreservations.com](http://www.airportparkingreservations.com/)
 
