@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deccanchargers.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203164106id_/http%3A//www.deccanchargers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccanchargers.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504131220id_/http%3A//www.deccanchargers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Deccan Chargers
+# Privacy Policy | Official Website of Deccan Chargers IPL Team
 
 Your privacy is of the utmost importance to DeccanChargers.com. Because we ask for some basic personal information during registration, we want you to be fully informed of how this information is gathered and used.
 
@@ -10,7 +10,7 @@ Some basic personal information is required in order to register with DeccanChar
 
 **Email Address**
 
-This is essential and your primary unique identifier at this site. Also, you can receive other important messages via your email account. Message board notifications, personalized newsletters, and messages sent to you by other DeccanChargers.com members rely on the email address you provide when you register. 
+This is essential and your primary unique identifier at this site. Also, you can receive other important messages via your email account. Message board notifications, personalized newsletters, and messages sent to you by other DeccanChargers.com members rely on the email address you provide when you register.
 
 **User Name**
 
@@ -18,7 +18,7 @@ This is how you are identified when you participate in forums, chats and while p
 
 **Demographic Information**
 
-When you register, you are asked to give demographic information (like birth year, occupation, and gender). We ask you to tell us a little about yourself so we can better understand the types of people who register. This information can also be used to provide you with content that may be of interest to you, and to show you advertisements that are relevant to your demographic information. 
+When you register, you are asked to give demographic information (like birth year, occupation, and gender). We ask you to tell us a little about yourself so we can better understand the types of people who register. This information can also be used to provide you with content that may be of interest to you, and to show you advertisements that are relevant to your demographic information.
 
 **Participation**
 
