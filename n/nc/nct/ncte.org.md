@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102042439id_/http%3A//www.ncte.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504131753id_/http%3A//www.ncte.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,4 +55,10 @@ The NCTE website contains links to other websites.  NCTE is not responsible f
 
 ## Exceptions
 
-In certain circumstances, and as an exception to this privacy policy, we may, without notice to you, release information to comply with any valid legal process such as a search warrant, subpoena, statute or court order, or in other special cases, such as, for example, suspected fraudulent or criminal activity, or an attempt to breach the security of NCTE or its website. Privacy policy updatesWe have tried to create a privacy policy that is comprehensive, readable, and durable.  Despite our best efforts, we may find it necessary to revise it.  Any changes will be made without prior notice. The current NCTE privacy policy will continue to be posted at this address (www.ncte.org/privacy).  If you have questions or comments about our privacy policy, please use the contact us form.
+In certain circumstances, and as an exception to this privacy policy, we may, without notice to you, release information to comply with any valid legal process such as a search warrant, subpoena, statute or court order, or in other special cases, such as, for example, suspected fraudulent or criminal activity, or an attempt to breach the security of NCTE or its website. 
+
+## 
+
+Privacy policy updates
+
+We have tried to create a privacy policy that is comprehensive, readable, and durable.  Despite our best efforts, we may find it necessary to revise it.  Any changes will be made without prior notice. The current NCTE privacy policy will continue to be posted at this address ([www.ncte.org/privacy](http://www.ncte.org/privacy)).  If you have questions or comments about our privacy policy, please use [the contact us form](https://web.archive.org/forms/contactus).
