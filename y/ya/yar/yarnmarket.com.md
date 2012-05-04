@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006085047id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yarnmarket.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041256id_/http%3A//www.yarnmarket.com/generate/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,12 +6,14 @@
 
 [](https://web.archive.org/basket.cfm?action=show)
 
+[](http://secure.trust-guard.com/certificates/5274)
+
 **Ordering Problems?**  
 **Questions?**  
 Call us toll free:  
   
 **Outside of the USA:**   
-(8AM-5PM EST)
+(9AM-5:30PM ET)
 
 |  |    
   
