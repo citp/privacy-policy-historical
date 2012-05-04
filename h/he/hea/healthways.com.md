@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthways.com privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930022253id_/http%3A//www.healthways.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D251) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthways.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504093650id_/http%3A//www.healthways.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D251) for the most accurate reproduction.*
 
 # Healthways - Privacy Policy
 
