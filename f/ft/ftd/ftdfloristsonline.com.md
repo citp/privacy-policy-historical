@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101210452id_/http%3A//ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030837id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
 
 # - - Delivering Fresh Flowers and Gifts
 
