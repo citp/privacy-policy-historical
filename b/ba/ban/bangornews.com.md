@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006101328id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangornews.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021750id_/http%3A//bangordailynews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Bangor Daily News
+# Privacy Policy — Bangor Daily News — BDN Maine
 
 This Privacy Policy discloses the general privacy practices for Bangor Daily News web sites, including Bangordailynews.com.
 
