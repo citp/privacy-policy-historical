@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convergenceservices.in privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108155142id_/http%3A//convergenceservices.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D96%26Itemid%3D50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convergenceservices.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033928id_/http%3A//convergenceservices.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,5 +81,5 @@ India
 [info@convergenceservices.in](mailto:info@convergenceservices.in)  
 022 2513 6632
 
-|  [< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=91:clientele&catid=34:content&Itemid=252) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=97:terms-and-conditions&catid=34:content&Itemid=48)  
+|  [< Prev](http://convergenceservices.in/clientele.html) |    |  [Next >](http://convergenceservices.in/terms-a-conditions.html)  
 ---|---|---
