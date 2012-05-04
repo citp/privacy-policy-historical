@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203304id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504145358id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
 # CYDEC — Privacy Policy
 
@@ -11,11 +11,11 @@ This is a privacy policy for http://Cydec.com
 Our homepage on the Internet is located at http://Cydec.com
 
 Cydec Software, LLC  
-1037 NE 65th Street #201  
-Seattle, WA 98103  
+925 S Federal Hwy, Ste 510  
+Boca Raton, FL 33432  
 USA
 
-You may contact us by e-mail at support@http://Cydec.com  
+You may contact us by e-mail at support@Cydec.com  
 You may contact us by phone on 888.692.9332
 
 ### Dispute Resolution
@@ -51,28 +51,27 @@ name=”*” value=”*” domain=”*” path=”*”
 
 ### Product Highlight
 
-Use our advanced affiliate reporting to see who sent the most subscribers & run a JV contest.
+Discover how the 1-Click Upsell System increases sale from up to 266% to over 1000%
 
 ### Company News
 
-  * Oct08
+  * May03
 
-#### [Order Cancels Order](http://cydec.com/blog/news/order-cancels-order/)
+#### [Discount Groups](http://cydec.com/blog/news/discount-groups/)
 
-We’ve just rolled out some exciting new functionality. Simply setup the OCO at the product level. Then, if a customer upgrades from one subscription to another, the system will cancel the initial subscription and associated billing. This will also automatically unsubscribe your customer from old mailing lists and subscribe to new ones attached to each [...]
+We are excited to roll out advanced functionality that allows you to offer special discounts to your existing customers. Add a discount function to the Order Form, and if a customer qualifies for the discount their email will unlock the discount which is instantly subtracted from their order’s total. 
 
-  * Sep21
+  * Apr24
 
-#### [Improved “Quick Buy” Custom Order Form](http://cydec.com/uncategorized/improved-%e2%80%9cquick-buy%e2%80%9d-custom-order-form/)
+#### [Blocked User Database](http://cydec.com/blog/news/blocked-user-database/)
 
-Now, you can have the increased functionality of the Custom Order Form (COF) without having to create a new form for each product.  
-All you have to do is set up one Custom Order Form Template then you have a specialized order form for each product. Just drop the product’s COF link into your website [...]
+Do you have a customer who is always purchasing products just to process a charge back later? Now, you can add that customers name and email address to Blocked Users, and if that person tries to make a purchase they’ll see an error message telling them to contact support. 
 
-  * Jul25
+  * Mar12
 
-#### [Send Test Message in Broadcast](http://cydec.com/blog/news/send-test-message-in-broadcast/)
+#### [WYSIWYG Editor in Broadcast](http://cydec.com/blog/news/wysiwyg-editor-in-broadcast/)
 
-See exactly what your subscribers will see. Now, when you are preparing a broadcast you can easily send a test message to your email to check delivery. 
+We’ve added a new HTML editor that makes composing your broadcast and auto-responders simple. You can design your HTML broadcasts and followups directly in our communication center without having to code a single line. 
 
 
 
