@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendfromchina.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222012303id_/http%3A//www.sendfromchina.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendfromchina.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505012639id_/http%3A//sendfromchina.com/privacypolicy) for the most accurate reproduction.*
 
 # China Postal Service starts from US$0.95, International Courier Service starts from US$7 - SFC Service Ltd.
 
