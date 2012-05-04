@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neat.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220043039id_/http%3A//www.neat.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neat.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021559id_/http%3A//www.neat.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Neat Company - Privacy Policy : Neat Receipts : Scan to Excel : NeatCo.com
 
