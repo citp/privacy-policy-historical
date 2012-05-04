@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reasonproject.org privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101152749id_/http%3A//reason.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reasonproject.org privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504034803id_/http%3A//reason.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -13,9 +13,9 @@ var _sf_async_config = {
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="-AmMiilAN-pnjWt369CUWae-VQ-b9wmH4fSGyhbkQxw">
 <meta name="msvalidate.01" content="212A68A07785B3080038A845C4EE8905">
-<title>Privacy Policy - Reason Magazine</title>
+<title>Privacy Policy - Reason.com</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<meta property="og:site_name" content="Reason Magazine">
+<meta property="og:site_name" content="Reason.com">
 <meta property="og:image" content="http://reason.com/media/images/logo-s.png">
 <meta property="og:url" content="http://reason.com/privacy">
 <link href="/media/css/reset.css" rel="stylesheet" type="text/css">
@@ -24,6 +24,63 @@ var _sf_async_config = {
 <!--[if IE 6]><link rel="stylesheet" href="/media/css/ie6.css" type="text/css" media="screen" /><![endif]--> 
 <!--[if IE 7]><link rel="stylesheet" href="/media/css/ie7.css" type="text/css" media="screen" /><![endif]--> 
 <!--[if IE 8]><link rel="stylesheet" href="/media/css/ie8.css" type="text/css" media="screen" /><![endif]-->
+<script src="/media/js/jquery-1.2.6.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	setInterval(function(){
+		if($("#google_ads_div_header2_image1").attr("src") == "/media/images/header2-kindle.jpg"){
+			$("#google_ads_div_header2_image1").attr("src","/media/images/reason_applenewsstand_small.jpg");
+			//$("#google_ads_div_header2_image2").attr("src","");
+			$("#google_ads_div_header2_image2").hide();
+			$("a[href='http://amzn.to/vc7LQt']").attr("href","http://itunes.apple.com/us/app/reason-magazine/id494303675?mt=8");
+		} else{
+			$("#google_ads_div_header2_image1").attr("src","/media/images/header2-kindle.jpg");
+			//$("#google_ads_div_header2_image2").attr("src","/media/images/header2-nook.jpg");
+			$("a[href='http://itunes.apple.com/us/app/reason-magazine/id494303675?mt=8']").attr("href","http://amzn.to/vc7LQt");
+			$("#google_ads_div_header2_image2").show();
+		}
+	},5000);
+		
+	$.ajax({
+		url: "http://reason.com/ajax/commenthandle",
+		dataType: 'json',
+		success: function(data) {
+			$(document).trigger('loginStatus', [data]);
+		},
+		error: function(xhr, textStatus){
+			var data = { logged_in:null, error:textStatus };
+			$(document).trigger('loginStatus', [data]);
+		}
+	});
+});
+window.USERSTATE = {logged_in:null};
+$(document).bind('loginStatus', function(e, d) {
+	$.extend(window.USERSTATE, d);
+});
+function hasParameter(querystring, name) {
+	var match = RegExp('[?&]' + name + '(?:[=&]|$)').test(querystring);
+	return match;
+}
+if(hasParameter(window.location.search, 'nomobile') == 1) {
+	$(document).click(function(e){
+		var link=null, $l, prefix;
+		if ($(e.target).is('a[href]')) {
+			link=e.target;
+		} else {
+			$l = $(e.target).parents('a[href]');
+			if ($l.length) {
+				link = $l[0];
+			}
+		}
+		if (link && window.location.host===link.host && !hasParameter(link.search, 'nomobile')) {
+			prefix = (link.search.length) ? '&' : '?';
+			link.search += (prefix + 'nomobile=1');
+		}
+	});
+}
+</script>
+
 
 <script type="text/javascript">//<![CDATA[
 var _gaq = _gaq || [];
@@ -54,7 +111,7 @@ node.parentNode.insertBefore(gads, node);
 </script><script type="text/javascript">
 googletag.cmd.push(function(){
 var pubid = "1006247";
-var slots = [["center-right1",[300,250]],["left1",[120,600]],["left3",[120,600]],["left4",[120,600]],["left5",[120,600]],["right1",[120,600]],["right2",[120,600]],["right3",[120,600]],["right4",[120,600]],["right5",[120,600]],["right6",[120,600]],["right7",[120,600]],["bottom-banner",[728,90]],["popups",[1,1]],["header1",[728,90]],["header2",[232,90]]];
+var slots = [["center-right1",[300,250]],["left1",[120,600]],["left3",[120,600]],["left4",[120,600]],["left5",[120,600]],["right1",[160,600]],["right2",[160,600]],["right3",[160,600]],["right4",[160,600]],["right5",[160,600]],["right6",[160,600]],["right7",[160,600]],["bottom-banner",[728,90]],["popups",[1,1]],["header1",[728,90]],["header2",[232,90]]];
 var pubservice = googletag.pubads();
 function addslot(slotname, slotdim) {
 	googletag.defineSlot('/'+pubid+'/'+slotname, slotdim, 'google_ads_div_'+slotname).addService(pubservice);
@@ -73,9 +130,11 @@ googletag.enableServices();
 <script type="text/javascript">
 googletag.cmd.push(function(){googletag.display("google_ads_div_popups");});
 </script>
-</div><div class="headershadow"><div class="logooverlay">
+</div>
+<div class="headershadow"><div class="logooverlay">
 <div class="header">
-    <h1>Reason Magazine</h1>
+    <h1>Reason.com</h1>
+
 	<div id="google_ads_div_header1">
 <script type="text/javascript">
 googletag.cmd.push(function(){googletag.display("google_ads_div_header1");});
@@ -84,10 +143,34 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_header1");});
 <script type="text/javascript">
 googletag.cmd.push(function(){googletag.display("google_ads_div_header2");});
 </script>
-</div>	</div>
+</div>	
+    <div id="google_ads_div_header2">
+        <a href="http://amzn.to/vc7LQt">
+            <img id="google_ads_div_header2_image1" src="/media/images/header2-kindle.jpg">
+        </a>
+        <a href="http://search.barnesandnoble.com/Reason/e/2940000280980?itm=1&amp;usri=reason">
+            <img id="google_ads_div_header2_image2" src="/media/images/header2-nook.jpg">
+        </a>
+    </div>
+	</div>
+
 <div class="container">
 <div class="container-inner">
 	<div class="top-container">
+	<div style="margin-top:10px;font-size:10px;float:left;" id="user_login_control"><p>Click <a href="http://reason.com/users/login">here</a> to login.</p></div>
+<script type="text/javascript">
+$(document).bind('loginStatus', function(e,d){
+	if (d.logged_in) {
+		var handle = $("#user_login_control")
+		.html('<p>You are currently logged in as: <strong><a href="http://reason.com/users/manage" class="handle"></a></strong>. <a href="http://reason.com/users/logout">Sign Out</a></p>')
+		.find('.handle')
+		handle.text(d.handle)
+		handle.attr('href', handle.attr('href')+'/'+d.user_id);
+	} else {
+		$("#user_login_control").html('<p>Click <a href="http://reason.com/users/login">here</a> to login.</p>');
+	}
+});
+</script>
 		<div class="top-inner">
 			<a href="http://reason.com/" class="homelink"></a>
             <div id="topnav">
@@ -99,136 +182,136 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_header2");});
 					<li class="icon twitter"><a href="http://twitter.com/reason"></a></li>
 					<li class="icon facebook"><a href="http://www.facebook.com/Reason.Magazine"></a></li>
 					<li class="icon youtube"><a href="http://www.youtube.com/user/ReasonTV"></a></li>
+                    <li class="icon gplus"><a href="https://plus.google.com/102760186866297506637/posts"></a></li>
 					<li class="icon iphone"><a href="http://reason.com/iphoneapp"></a></li>
 					<li class="icon rss"><a href="http://reason.com/rss"></a></li>
 				</ul>
 			</div>
-			<script type="text/javascript" src="/media/js/jquery-1.2.6.min.js"></script>
 			<script type="text/javascript" src="/media/js/jcarousellite_1.0.1.min.js"></script>
 			<div class="videoteaser">
   <div class="nav prev">previous link</div>
-  <div class="videoteaser-container" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 2211px;">
-    <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 11792px; left: -2211px;"><li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=2hAT3j_pEoo" title="http://www.youtube.com/v/2hAT3j_pEoo">
-          <img alt="" src="/assets/yt/vi/2hAT3j_pEoo/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Don't Bail Out People With Student Loans! Nick Gillespie on Freedom Watch">Don't Bail Out People With Student Loans! Nick Gillespie on…</span>
-				(10.26)
+  <div class="videoteaser-container" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 2268px;">
+    <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 12096px; left: -2268px;"><li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=0CAbHsGNIwE" title="http://www.youtube.com/v/0CAbHsGNIwE">
+          <img alt="" src="/assets/yt/vi/0CAbHsGNIwE/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Destroying Latin America: Journalist Mary O'Grady on Populism, Protectionism, and Prohibition">Destroying Latin America: Journalist Mary O'Grady on Populism…</span>
+				(4.27)
 			</span>
         </a>
-      </li><li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=kuTPArh0-Tc" title="http://www.youtube.com/v/kuTPArh0-Tc">
-          <img alt="" src="/assets/yt/vi/kuTPArh0-Tc/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Policing is Too Important to be Left to the Government: Economist Ed Stringham">Policing is Too Important to be Left to the Government…</span>
-				(10.26)
+      </li><li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=9zxwAxf3J_k" title="http://www.youtube.com/v/9zxwAxf3J_k">
+          <img alt="" src="/assets/yt/vi/9zxwAxf3J_k/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Kennedy, Nick Gillespie and Matt Welch Talk 2012 Presidential Race">Kennedy, Nick Gillespie and Matt Welch Talk 2012 Presidential…</span>
+				(4.27)
 			</span>
         </a>
-      </li><li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=sRr8VTjP0oQ" title="http://www.youtube.com/v/sRr8VTjP0oQ">
-          <img alt="" src="/assets/yt/vi/sRr8VTjP0oQ/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="MTV VJ and Radio Host Kennedy on Marijuana, The Politics of Alt Rock, and Becoming Libertarian">MTV VJ and Radio Host Kennedy on Marijuana, The Politics of Alt…</span>
-				(10.25)
-			</span>
-        </a>
-      </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=gdECTgRhhI8" title="http://www.youtube.com/v/gdECTgRhhI8">
-          <img alt="" src="/assets/yt/vi/gdECTgRhhI8/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Peter Schiff Discusses His Time Talking with the &quot;99%&quot; on Fox &amp; Friends">Peter Schiff Discusses His Time Talking with the "99%" on Fox…</span>
-				(10.31)
+      </li><li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=LWwPPU3iXao" title="http://www.youtube.com/v/LWwPPU3iXao">
+          <img alt="" src="/assets/yt/vi/LWwPPU3iXao/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Arizona's Immigration Law Heads to the Supreme Court">Arizona's Immigration Law Heads to the Supreme Court</span>
+				(4.25)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=2CRs9J1_MfE" title="http://www.youtube.com/v/2CRs9J1_MfE">
-          <img alt="" src="/assets/yt/vi/2CRs9J1_MfE/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Occupy Wall Street, Obamacare, &amp; Bailouts - Peter Schiff on Huckabee">Occupy Wall Street, Obamacare, &amp; Bailouts - Peter Schiff on…</span>
-				(10.31)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=71RO345Q8tY" title="http://www.youtube.com/v/71RO345Q8tY">
+          <img alt="" src="/assets/yt/vi/71RO345Q8tY/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="The Real Breaking Bad: How the Drug War Creates Collateral Damage">The Real Breaking Bad: How the Drug War Creates Collateral…</span>
+				(5.3)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=51avIprMenI" title="http://www.youtube.com/v/51avIprMenI">
-          <img alt="" src="/assets/yt/vi/51avIprMenI/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Get Government out of Welfare Now! An Interview with Star Parker">Get Government out of Welfare Now! An Interview with Star…</span>
-				(10.31)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=jYnjJ6T4u1Q" title="http://www.youtube.com/v/jYnjJ6T4u1Q">
+          <img alt="" src="/assets/yt/vi/jYnjJ6T4u1Q/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Brian Doherty on Ron Paul's Revolution">Brian Doherty on Ron Paul's Revolution</span>
+				(5.2)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=CyjDaNWpaug" title="http://www.youtube.com/v/CyjDaNWpaug">
-          <img alt="" src="/assets/yt/vi/CyjDaNWpaug/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Libertarians Without Borders: An Interview with Tom Palmer about the Arab Spring">Libertarians Without Borders: An Interview with Tom Palmer…</span>
-				(10.28)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=d_TKI9QfmI8" title="http://www.youtube.com/v/d_TKI9QfmI8">
+          <img alt="" src="/assets/yt/vi/d_TKI9QfmI8/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="What We Saw at Occupy Wall Street's May Day Protest in NYC">What We Saw at Occupy Wall Street's May Day Protest in NYC</span>
+				(5.2)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=-HdsXt5lPro" title="http://www.youtube.com/v/-HdsXt5lPro">
-          <img alt="" src="/assets/yt/vi/-HdsXt5lPro/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Peter Schiff vs. Cornell West on CNN's Anderson Cooper 360">Peter Schiff vs. Cornell West on CNN's Anderson Cooper 360</span>
-				(10.28)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=5IuMb6Ptmk8" title="http://www.youtube.com/v/5IuMb6Ptmk8">
+          <img alt="" src="/assets/yt/vi/5IuMb6Ptmk8/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Public Schools Use GPS Uniforms to Track Students! (Nanny of the Month, April 2012)">Public Schools Use GPS Uniforms to Track Students! (Nanny of…</span>
+				(5.1)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=vZr9c1zYaOE" title="http://www.youtube.com/v/vZr9c1zYaOE">
-          <img alt="" src="/assets/yt/vi/vZr9c1zYaOE/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Peter Schiff at OWS: &quot;Walmart Doesn't Hold a Gun to Your Head!&quot;">Peter Schiff at OWS: "Walmart Doesn't Hold a Gun to Your Head!"</span>
-				(10.27)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=HcwtBi6e4_I" title="http://www.youtube.com/v/HcwtBi6e4_I">
+          <img alt="" src="/assets/yt/vi/HcwtBi6e4_I/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Matt Welch Discuss Obama's Campaign Strategies w/ Jansing &amp; Co.">Matt Welch Discuss Obama's Campaign Strategies w/ Jansing &amp; Co.</span>
+				(4.30)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=UGL-Ex1CD1c" title="http://www.youtube.com/v/UGL-Ex1CD1c">
-          <img alt="" src="/assets/yt/vi/UGL-Ex1CD1c/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Peter Schiff Speaks for 1 Percent at Occupy Wall Street">Peter Schiff Speaks for 1 Percent at Occupy Wall Street</span>
-				(10.27)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=SCouYdxesKI" title="http://www.youtube.com/v/SCouYdxesKI">
+          <img alt="" src="/assets/yt/vi/SCouYdxesKI/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Author David Brin on Dogmatic Libertarians, Transparency, and Uplifting Dolphins">Author David Brin on Dogmatic Libertarians, Transparency, and…</span>
+				(4.30)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=2hAT3j_pEoo" title="http://www.youtube.com/v/2hAT3j_pEoo">
-          <img alt="" src="/assets/yt/vi/2hAT3j_pEoo/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Don't Bail Out People With Student Loans! Nick Gillespie on Freedom Watch">Don't Bail Out People With Student Loans! Nick Gillespie on…</span>
-				(10.26)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=nj08zwX0IAs" title="http://www.youtube.com/v/nj08zwX0IAs">
+          <img alt="" src="/assets/yt/vi/nj08zwX0IAs/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Matt Welch Discusses Apple and Corporate Taxes w/ Varney &amp; Co.">Matt Welch Discusses Apple and Corporate Taxes w/ Varney &amp; Co.</span>
+				(4.30)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=kuTPArh0-Tc" title="http://www.youtube.com/v/kuTPArh0-Tc">
-          <img alt="" src="/assets/yt/vi/kuTPArh0-Tc/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Policing is Too Important to be Left to the Government: Economist Ed Stringham">Policing is Too Important to be Left to the Government…</span>
-				(10.26)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=0CAbHsGNIwE" title="http://www.youtube.com/v/0CAbHsGNIwE">
+          <img alt="" src="/assets/yt/vi/0CAbHsGNIwE/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Destroying Latin America: Journalist Mary O'Grady on Populism, Protectionism, and Prohibition">Destroying Latin America: Journalist Mary O'Grady on Populism…</span>
+				(4.27)
 			</span>
         </a>
       </li>
-      <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=sRr8VTjP0oQ" title="http://www.youtube.com/v/sRr8VTjP0oQ">
-          <img alt="" src="/assets/yt/vi/sRr8VTjP0oQ/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="MTV VJ and Radio Host Kennedy on Marijuana, The Politics of Alt Rock, and Becoming Libertarian">MTV VJ and Radio Host Kennedy on Marijuana, The Politics of Alt…</span>
-				(10.25)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=9zxwAxf3J_k" title="http://www.youtube.com/v/9zxwAxf3J_k">
+          <img alt="" src="/assets/yt/vi/9zxwAxf3J_k/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Kennedy, Nick Gillespie and Matt Welch Talk 2012 Presidential Race">Kennedy, Nick Gillespie and Matt Welch Talk 2012 Presidential…</span>
+				(4.27)
 			</span>
         </a>
       </li>
-    <li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=gdECTgRhhI8" title="http://www.youtube.com/v/gdECTgRhhI8">
-          <img alt="" src="/assets/yt/vi/gdECTgRhhI8/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Peter Schiff Discusses His Time Talking with the &quot;99%&quot; on Fox &amp; Friends">Peter Schiff Discusses His Time Talking with the "99%" on Fox…</span>
-				(10.31)
+      <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=LWwPPU3iXao" title="http://www.youtube.com/v/LWwPPU3iXao">
+          <img alt="" src="/assets/yt/vi/LWwPPU3iXao/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Arizona's Immigration Law Heads to the Supreme Court">Arizona's Immigration Law Heads to the Supreme Court</span>
+				(4.25)
 			</span>
         </a>
-      </li><li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=2CRs9J1_MfE" title="http://www.youtube.com/v/2CRs9J1_MfE">
-          <img alt="" src="/assets/yt/vi/2CRs9J1_MfE/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Occupy Wall Street, Obamacare, &amp; Bailouts - Peter Schiff on Huckabee">Occupy Wall Street, Obamacare, &amp; Bailouts - Peter Schiff on…</span>
-				(10.31)
+      </li>
+    <li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=71RO345Q8tY" title="http://www.youtube.com/v/71RO345Q8tY">
+          <img alt="" src="/assets/yt/vi/71RO345Q8tY/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="The Real Breaking Bad: How the Drug War Creates Collateral Damage">The Real Breaking Bad: How the Drug War Creates Collateral…</span>
+				(5.3)
 			</span>
         </a>
-      </li><li style="overflow: hidden; float: left; width: 737px; height: 71px;">
-        <a target="_blank" href="http://www.youtube.com/watch?v=51avIprMenI" title="http://www.youtube.com/v/51avIprMenI">
-          <img alt="" src="/assets/yt/vi/51avIprMenI/0.jpg" width="84" height="67">
-          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Get Government out of Welfare Now! An Interview with Star Parker">Get Government out of Welfare Now! An Interview with Star…</span>
-				(10.31)
+      </li><li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=jYnjJ6T4u1Q" title="http://www.youtube.com/v/jYnjJ6T4u1Q">
+          <img alt="" src="/assets/yt/vi/jYnjJ6T4u1Q/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="Brian Doherty on Ron Paul's Revolution">Brian Doherty on Ron Paul's Revolution</span>
+				(5.2)
+			</span>
+        </a>
+      </li><li style="overflow: hidden; float: left; width: 756px; height: 71px;">
+        <a target="_blank" href="http://www.youtube.com/watch?v=d_TKI9QfmI8" title="http://www.youtube.com/v/d_TKI9QfmI8">
+          <img alt="" src="/assets/yt/vi/d_TKI9QfmI8/0.jpg" width="84" height="67">
+          <span class="description"><strong>REASON.TV VIDEO:</strong><span title="What We Saw at Occupy Wall Street's May Day Protest in NYC">What We Saw at Occupy Wall Street's May Day Protest in NYC</span>
+				(5.2)
 			</span>
         </a>
       </li></ul>
@@ -285,20 +368,19 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_header2");});
 					<ul>
 						<li><a href="http://reason.com/subscribe">Print</a></li>
 						<li><a href="http://reason.com/reason-magazine-on-ereader">E-Reader</a></li>
-						<li><a href="https://market.android.com/details?id=com.reason.app">Android App</a></li>
-						<li><a href="http://reason.com/iphoneapp">iPhone App</a></li>
 						<li><a href="http://reason.com/reason-email-lists">Reason E-Mail Lists</a></li>
 						<li><a href="http://www.zazzle.com/libertymaniacs/gifts?cg=196652510804214157">Reason Stuff</a></li>
+						<li><a href="http://amazon.com/?_encoding=UTF8&amp;tag=reasonmagazine">Shop at Amazon</a></li>
 						<li><a href="http://reason.com/subserve">Subscriber Services</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="http://reason.com/rss">Share</a>
+					<a href="http://www.google.com/producer/currents">Mobile</a>
 					<ul>
-						<li><a href="http://www.facebook.com/pages/Reason-Magazine/17548474116">Reason on Facebook</a></li>
-						<li><a href="http://twitter.com/reasonmag">Reason on Twitter</a></li>
-						<li><a href="http://www.youtube.com/reasontv">Reason on Youtube</a></li>
-						<li><a href="http://feeds.feedburner.com/reason/Articles">Reason RSS</a></li>
+						<li><a href="http://www.google.com/producer/currents">Reason on Google Currents for Droid and iOS</a></li>
+						<li><a href="https://market.android.com/details?id=com.reason.app">Android App</a></li>
+						<li><a href="http://reason.com/iphoneapp">iPhone App</a></li>
+						<li><a href="http://reason.com/reason-magazine-on-ereader">E-Reader</a></li>
 					</ul>
 				</li>
 				<li class="active">
@@ -306,6 +388,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_header2");});
 					<ul>
 						<li><a href="http://reason.com/about">About</a></li>
 						<li><a href="http://reason.com/contact">Contact</a></li>
+						<li><a href="http://reason.com/press/in-the-news">Media</a></li>
 						<li><a href="http://reason.com/privacy">Privacy</a></li>
 						<li><a href="http://www.reason.org">Reason Foundation</a></li>
 						<li><a href="http://reason.com/submissions">Submission Guidelines</a></li>
@@ -427,21 +510,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_center-right1");
 </script>
 </div>		</div>
 		
-		<div class="section pollblog">
-			<h2><a href="http://reason.com/poll">Reason RUPE: Public Opinion Survey</a></h2>
-			<ul>
-				<li><a href="http://reason.com/poll#article_152956">New Gallup Survey: A Majority of Americans Favor Legalizing Marijuana Use</a>
-				(10.18)</li>
-				<li><a href="http://reason.com/poll#article_152638">In Their Words: What Is the Biggest Problem Facing Americans Today?</a>
-				(10.3)</li>
-				<li><a href="http://reason.com/poll#article_152615">Young Americans Age 18-29 Are Less Critical of Government, More Open to Entitlement Reform, and More Socially Liberal</a>
-				(9.30)</li>
-				<li><a href="http://reason.com/poll#article_152564">Mitt Romney and Ron Paul Tie Among 18-29 Year-Old Republicans</a>
-				(9.28)</li>
-				<li><a href="http://reason.com/poll#article_152562">Government Spending In Your Own Words</a>
-				(9.28)</li>
-			</ul>
-		</div>
+
 <div class="section popularstories">
 	<h2>Most Popular Stories</h2>
 	<ul class="nav">
@@ -451,25 +520,25 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_center-right1");
 	</ul>
 	<div class="panels">
 		<ul class="stories" id="popularstories_viewed">
-			<li><a href="http://reason.com/blog/2011/10/31/penn-jillettes-10-commandments">Penn Jillette's 10 Commandments...For Atheists</a> (10.31)</li>
-			<li><a href="http://reason.com/archives/2011/10/28/what-happened-at-occupy-oaklan">What Happened at Occupy Oakland</a> (10.28)</li>
-			<li><a href="http://reason.com/blog/2011/10/28/michael-moore-me-and-my-millio">Michael Moore: Me and My Millions</a> (10.28)</li>
-			<li><a href="http://reason.com/archives/2011/10/31/tom-brokaw-for-president">Tom Brokaw for President?</a> (10.31)</li>
-			<li><a href="http://reason.com/archives/2011/10/31/can-romney-win-the-gop-nominat">Can Romney Win the GOP Nomination?</a> (10.31)</li>
+			<li><a href="http://reason.com/blog/2012/05/01/barack-obama-hereby-declares-may-1-loyal">Barack Obama Hereby Declares May 1 "Loyalty Day"</a> (5.1)</li>
+			<li><a href="http://reason.com/blog/2012/05/01/todays-worst-partisan-political-columnis">Today's Worst Partisan Political Columnist Blindness, Today!</a> (5.1)</li>
+			<li><a href="http://reason.com/archives/2012/05/01/five-reasons-why-conservatives-should-ro">5 Reasons Why Conservatives Should Root For a Romney Defeat</a> (5.1)</li>
+			<li><a href="http://reason.com/blog/2012/05/02/college-student-daniel-chong-attempted-s">College Student Daniel Chong Attempted Suicide After DEA Agents Locked Him in a Small Cell Without Food or Water for Five Days</a> (5.2)</li>
+			<li><a href="http://reason.com/archives/2012/05/01/central-planning-wont-fix-health-care">Central Planning Won't Fix Health Care</a> (5.1)</li>
 		</ul>
 		<ul class="stories" id="popularstories_commented" style="display:none">
-			<li><a href="http://reason.com/blog/2011/10/31/reason-morning-links-herman-ca">Reason Morning Links: Herman Cain Camp Denies Sexual Harassment Charges, NYPD Ticket-Fixing Scandal Gets Bigger, White House Responds to Pot Petition</a> (10.31)</li>
-			<li><a href="http://reason.com/blog/2011/10/28/michael-moore-me-and-my-millio">Michael Moore: Me and My Millions</a> (10.28)</li>
-			<li><a href="http://reason.com/blog/2011/10/31/dueling-10-point-programs-occu">Dueling 10-point Programs: Occupy-tastic Salon.com vs. the Tea Party's "Contract"</a> (10.31)</li>
-			<li><a href="http://reason.com/blog/2011/10/31/penn-jillettes-10-commandments">Penn Jillette's 10 Commandments...For Atheists</a> (10.31)</li>
-			<li><a href="http://reason.com/blog/2011/10/31/should-ron-paul-run-as-a-liber">Should Ron Paul Run As a Libertarian Party Candidate?</a> (10.31)</li>
+			<li><a href="http://reason.com/blog/2012/05/03/am-links-11-dead-in-egypt-protests-ukrai">A.M. Links: 11 Dead in Egypt Protests, Ukraine Facing Image Issues, Peter King Satisfied Prostitutes Just That</a> (5.3)</li>
+			<li><a href="http://reason.com/blog/2012/05/02/am-links-violence-marks-may-day-explosio">A.M. Links: Violence Marks May Day, Explosion Rocks Kabul, Super Moon’s Saturday</a> (5.2)</li>
+			<li><a href="http://reason.com/blog/2012/05/03/young-voters-increasingly-libertarian-bi">Centrists Nurse Third-Party Dreams, bin Laden's Bumbling Minions, Chicago Pays Big for Repeat-Offender Cops: P.M. Links</a> (5.3)</li>
+			<li><a href="http://reason.com/blog/2012/05/01/occupy-wall-street-tries-re-launch-with">Occupy Wall Street Tries Re-Launch with May Day Protest in Manhattan</a> (5.1)</li>
+			<li><a href="http://reason.com/blog/2012/05/02/afghan-relations-to-get-even-trickier-ec">Pelosi Denies Waterboarding Knowledge, Economic Fears Spread to Germany, Cops Behaving Badly (Again): P.M. Links</a> (5.2)</li>
 		</ul>
 		<ul class="stories" id="popularstories_emailed" style="display:none">
-			<li><a href="http://reason.com/blog/2011/10/31/herman-cain-sings-amazing-grac">Herman Cain Sings A Hymn at The National Press Club</a> (10.31)</li>
-			<li><a href="http://reason.com/blog/2011/10/31/penn-jillettes-10-commandments">Penn Jillette's 10 Commandments...For Atheists</a> (10.31)</li>
-			<li><a href="http://reason.com/archives/2011/10/31/our-wealthier-world">Our Wealthier World</a> (10.31)</li>
-			<li><a href="http://reason.com/blog/2011/10/12/the-solution-to-bad-speech-is">The Solution to Bad Speech Is More Speech</a> (10.12)</li>
-			<li><a href="http://reason.com/blog/2011/10/27/peter-schiff-at-occupy-wall-st">Peter Schiff at Occupy Wall Street: "Walmart Doesn't Hold a Gun to Your Head!"</a> (10.27)</li>
+			<li><a href="http://reason.com/archives/2012/05/01/central-planning-wont-fix-health-care">Central Planning Won't Fix Health Care</a> (5.1)</li>
+			<li><a href="http://reason.com/archives/2012/05/01/five-reasons-why-conservatives-should-ro">5 Reasons Why Conservatives Should Root For a Romney Defeat</a> (5.1)</li>
+			<li><a href="http://reason.com/archives/2012/05/02/20-years-for-standing-her-ground">20 Years for Standing Her Ground</a> (5.2)</li>
+			<li><a href="http://reason.com/archives/2012/04/29/why-i-mock-attachment-parenting-and-the">Why I Mock “Attachment Parenting” and the Kids It Produces</a> (4.29)</li>
+			<li><a href="http://reason.com/blog/2012/05/03/why-is-nurse-jackies-drug-habit-a-proble">Why Is Nurse Jackie's Drug Habit a Problem?</a> (5.3)</li>
 		</ul>
 	</div>
 </div>
@@ -486,6 +555,21 @@ $('div.section.popularstories ul.nav li a').click(function(e){
 	panels.children('ul').hide().filter(currentlink.attr('href')).show();
 });
 </script>
+		<div class="section pollblog">
+			<h2><a href="http://reason.com/poll">Reason RUPE: Public Opinion Survey</a></h2>
+			<ul>
+				<li><a href="http://reason.com/poll#article_157978">54 Percent Expect New Tax Revenue to Increase Spending, Not Close Deficit</a>
+				(5.3)</li>
+				<li><a href="http://reason.com/poll#article_157694">27 Percent Say Government Investments Made America Great</a>
+				(4.24)</li>
+				<li><a href="http://reason.com/poll#article_157501">Americans Say Federal Government Wastes 56 Cents of Every Tax Dollar</a>
+				(4.18)</li>
+				<li><a href="http://reason.com/poll#article_157458">It’s Tax Day</a>
+				(4.17)</li>
+				<li><a href="http://reason.com/poll#article_157292">Reason-Rupe: 53 Percent Disapprove of President Obama’s Handling of the Economy, 44 Percent Approve</a>
+				(4.11)</li>
+			</ul>
+		</div>
 		<div class="section ads">
 			<h2>advertisements</h2>
 			<div class="left">
@@ -602,7 +686,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_bottom-banner");
 </div><p>
 	<a href="http://reason.com/">Home</a><span>|</span><a href="http://reason.com/about">About</a><span>|</span><a href="http://reason.com/advertise">Advertise</a><span>|</span><a href="http://reason.com/privacy">Privacy</a><span>|</span><a href="http://reason.com/contact">Contact</a>
 	<br>
-	Copyright 2011, Reason Magazine</p>
+	Copyright 2012, Reason.com</p>
 </div>
 	<!-- Chartbeat Tag -->
 <script type="text/javascript">
@@ -649,6 +733,12 @@ qacct:"p-07wG_vRzPBWKE"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
+<input type="hidden" name="OBKey" value="5plgDxY9OjBUrGhoPLX7RA==">
+
+
+
+<script type="text/javascript">var OBCTm='1320420864931';</script>
+<script type="text/javascript" src="http://widgets.outbrain.com/claim.js"></script>
 
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
