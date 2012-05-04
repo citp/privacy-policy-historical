@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126153205id_/http%3A//www.gq.com.au/extra/privacy%2Bpolicy%2C57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504040039id_/http%3A//www.gq.com.au/extra/privacy%2Bpolicy%2C57) for the most accurate reproduction.*
 
 # Privacy Policy - GQ
 
@@ -76,6 +76,6 @@ or you can write to us at:
 
 Online Privacy Manager
 
-News Magazines 170-180 Bourke Road Alexandria
+News Life Media 170-180 Bourke Road Alexandria
 
 NSW 2015 Australia
