@@ -1,23 +1,74 @@
-> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2008-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080705032638id_/http%3A//nycgovparks.org/temporary/sdsdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycgovparks.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031007id_/http%3A//nyc.gov/privacy) for the most accurate reproduction.*
 
-# About the City of New York/Parks and Recreation
+# NYC.gov - NYC.gov Privacy Policy
 
-nyc.gov/parks Privacy Policy   
-_What information is automatically collected and why_
+**Collection of Information by NYC.gov**   
+[En español](https://web.archive.org/portal/site/nycgov/menuitem.8846929bb271b0d821653ab0e0c789a0)  
+In order to improve the content and usability of this website, the City of New York (the "City") automatically collects several categories of information from users. This information includes the following:
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: The Internet domain (for example, "ABCcompany.com" if you use a private Internet access account) and IP address (a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website; the type of browser and operating system used to access our site; the date and time you access our site; the pages you visit; if you linked to our website from another website, the address of that website. We use this information to help us make our site more useful to visitors; learning about the number of visitors to our site and the types of technology our visitors use helps us improve the website and the services we offer.
+**1.** The apparent Internet Protocol ("IP") address of your Internet Service Provider ("ISP") and/or your computer, if your computer has an IP address assigned directly to it. **1**
 
-Cookies (CA) 
+**2.** The apparent Fully Qualified Domain Name ("Domain Name") of your Internet Service Provider ("ISP") and/or your computer, if your computer has a domain name assigned directly to it. **2**
 
-This website utilizes temporary ("session") cookies. These cookies are set to expire upon the end of your browsing session. In order to enter the Parks website you must first pass through a splash page that is hosted by nyc.gov. This splash page provides the user with a temporary session cookie that allows access to the Parks website hosted at http://nycgovparks.org. Temporary session cookies must be enabled to view the Parks website.  
+**3.** The type of browser (such as, for example Internet Explorer, Opera, Firefox, Chrome, etc.) used and the operating system resident on a user's computer.
 
+**4.** The date and time a user visited the site.
 
-How voluntarily provided information is used 
+**5.** The web pages accessed at the site, as well as any applications used and forms data.
 
-If you voluntarily send us information, it will be used for governmental purposes. These purposes may include, without limitation, helping us respond to your request for information; to look into a problem you are bringing to our attention; or to keep lists of interested people (e.g. prospective employees). We will not rent or sell information identifying you as a particular person (name, address, phone number, etc.) to third parties without your permission. We will also not disclose credit card information, except for purposes related to your credit card transaction, or with your permission, or as required by law.
+**6.** The Uniform Resource Locator ("URL") of the site which a user visited prior to NYC.gov (if detectable), if such user did not connect directly to NYC.gov, or use it as a homepage or "Portal.
 
-Children 
+The City uses this information to identify site performance needs; to ensure compatibility with the technology used by NYC.gov's visitors, and to generally add and improve services offered on NYC.gov. In order to accomplish those goals, from time to time, the City may conduct statistical analysis of the data it collects.
 
-We ask parents to guide their children when children are asked to provide personal information on line. We ask children to get their parents' permission before providing any information on line.
+The City **does not** collect data for commercial or marketing purposes, **3** and the City **does not** sell, exchange or otherwise distribute the data collected by NYC.gov for commercial or marketing purposes.
 
-nyc.gov/parks reserves the right to change this policy without notice 
+**Information Submitted to NYC.gov**
+
+During a session on NYC.gov, a user may affirmatively submit information to the City by, among other means, electronic mail ("e-mail"), by filling in and submitting an on-line form, or by electing to personalize NYC.gov and use it as a customized portal. Such affirmatively submitted information is stored in a secure environment, and will be used by the City in furtherance of its duties and/or obligations to its citizenry (i.e., "governmental purposes"). **4**
+
+The governmental purposes to which affirmatively submitted information may be put include, but are not limited to, the following:
+
+**1.** Helping the City respond to a request for information not readily available from NYC.gov
+
+**2.** Investigating a problem reported to the City via NYC.gov **5**
+
+**3.** Keeping lists of parties interested in some particular issue or facet of New York City life about which the City anticipates issuing further information in the future.
+
+**4.** Disclosure of such information pursuant to a request made under Freedom of Information Law ("FOIL") or court order, if such information is not protected by federal or state law. **6**
+
+The City does not rent or sell personally identifiable information (i.e., information such as name, address, phone number, e-mail, etc., that identifies a user as a particular person), nor would the City exchange or trade such information with third-parties without a user's explicit permission. The City does not disclose credit card or other personally identifiable financial information other than as necessary to complete a credit card or other financial transaction, or upon explicit permission from the applicable user. All such use by the City of financial information shall be subject to the section of this policy on financial issues, set forth below.
+
+If an NYC.gov user has elected not to receive further information from the City, NYC.gov will not send such information. If an NYC.gov user has elected to receive further communication from the City, NYC.gov will only send information in categories that have been authorized. **If NYC.gov sends electronic mail ("e-mail") to a user, such e-mail is NOT confidentia** l, **7**and is identical in nature to that information generally available to the public and news media. 
+
+**Security**  
+In certain instances, a user may have the opportunity to receive or create a password to access or submit personally identifiable information. One should not divulge a password to anyone, and the City will never ask a user for a password in a telephone call, fax, e-mail or other form of unsolicited communication. When a user is finished with an application or applications that are password protected, such user should exit the relevant page(s). If the browser used to access said password protected pages is a publicly-accessible browser, users should close down the entire session and, if applicable or possible, flush any temporary caches or other areas where such a password might be stored subsequent to use.
+
+The City has integrated industry standard or better security measures and systems into the design, implementation and day to day operation of NYC.gov and its underlying servers and networks. **8** Furthermore, the City maintains ongoing efforts to identify and/or block unauthorized intrusions into or onto NYC.gov, and to upload to or change information on or otherwise cause damage to NYC.gov or the information resident hereon or submitted hereto. **9**
+
+**Cookies**  
+Cookies are text files, or entries in larger files, utilized to distinguish between visitors to a website, and to track information during multiple visits to a website. The City uses "temporary cookies" **10** on some parts of NYC.gov, and such temporary cookies expire upon the end of the browsing session. This website and NYC.gov generally, do not use "persistent cookies." **11** However, if a user registers to use NYC.gov as a customized portal, the City uses a persistent cookie to facilitate such customization. The City may also use persistent cookies to understand the distribution and patterns of unique and repeat visitors for 311 Online and other sites on NYC.gov to enhance their accessibility.
+
+The use of cookies is a standard practice among Internet websites. Most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. Rejecting and/or removing cookies, however, may lead to loss of functionality on those NYC.gov pages requiring cookies to function fully. Additionally, if a user has created a customized version of NYC.gov, the City will create a cookie that contains the user's unique identifier and indicator for any custom content modules requested and, if a user elected the "remember me" option for signing in to NYC.gov, the cookie will contain a user's password. Deletion of such a cookie could result in the loss of one's customized NYC.gov portal settings.
+
+**Web Bugs (a/k/a Web Beacons)**  
+NYC.gov does not use web bugs **12** on its web pages or in any html e-mail generated by use of the portal, or otherwise sent from NYC.gov, for any purpose other than to identify site performance needs; to ensure compatibility with the technology used by NYC.gov's visitors, and to generally add and improve services offered on NYC.gov.
+
+**Children**  
+No applications on NYC.gov specifically solicit information from minors or seek to determine whether the visitor is a minor. Consequently, because such information will not be specifically identified as being from minors, users of NYC.gov should be aware that personally identifiable information submitted to NYC.gov by minors will be subject to being treated in the same manner as information given by an adult and may become subject to FOIL.
+
+The City strongly believes that parental supervision is an important factor in Internet use by minors. Therefore, NYC.gov asks parents to guide their minor children when children are asked to provide any personal information online. NYC.gov further asks that children ask for and receive their parent's permission before providing any information online. 
+
+**Health Care Information**  
+Any agency providing personally identifiable health care information via NYC.gov will be required to certify that its health care data handling and security procedures are compliant with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA"). If such data and security services are provided to such agency(ies) by a third-party provider, the agency(ies) shall be responsible for such third party's compliance with HIPAA.
+
+**Third Party Links**  
+NYC.gov provides links to, and may be linked from, local, State and federal government agencies, and from, or to, other websites. The existence and/or provision of those links neither constitutes nor implies endorsement of the destination or departure website(s) or of the content, viewpoint, accuracy, opinions, policy(ies), product(s), accessibility or privacy policy of said destination or departure website(s). Nor does any link between NYC.gov and a third-party website imply sponsorship of such website, or the creator of such website.
+
+Some content on portions of NYC.gov resides on servers run by third parties. **13** Each agency providing content for NYC.gov is bound by NYC.gov's privacy policy. Any agency using a third-party host, ISP, ASP or other combination of third-party transport, storage, content or application provision services shall be responsible for such third party's compliance with NYC.gov's privacy policy.
+
+**Intellectual Property**  
+The content of NYC.gov's webpages is copyrighted, and contain some third party images/graphics that are used with permission. Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website.
+
+**NYC.gov may change this policy from time to time, and reserves the right to do so without notice.  
+**  
+
