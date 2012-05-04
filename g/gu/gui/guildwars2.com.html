@@ -1,0 +1,768 @@
+<!--The following is the downloaded HTML source of the guildwars2.com privacy policy that was archived on 2012-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120505003936id_/http%3A//www.guildwars2.com/en/legal/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="imagetoolbar" content="false">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+
+<meta name="MSSmartTagsPreventParsing" content="true">
+<title>Privacy Policy | Guild Wars 2</title>
+<!-- common css and js -->
+<link rel="stylesheet" type="text/css" href="/global/includes/css/base.css">
+<link rel="stylesheet" type="text/css" href="/global/includes/css/en.css">
+<link type="text/css" rel="stylesheet" media="all" href="/global/includes/js/fancybox/jquery.fancybox-1.3.1.css">
+<script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+	google.load("jquery", "1.4.2");
+</script>
+<script type="text/javascript" src="/global/includes/js/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="/global/includes/js/jquery.shareIt.js"></script>
+<script type="text/javascript" src="/global/includes/js/swfobject.js"></script>
+<script type="text/javascript" src="/global/includes/js/main.js"></script>
+<script type="text/javascript" src="/global/includes/js/event-tracking.js"></script>
+
+
+
+
+
+
+<!--[if IE 7]>
+	<style type="text/css">
+        div#buy ul.stores li a {
+            *display: block;
+        }
+        div.subnav div.bd3 {
+        	*display: inline-block;
+        }
+        #professions-header {
+        	z-index: 0;
+        }
+        #container {
+        	zoom: 1;
+        }
+        .share-it .content {
+        	padding-bottom: 0;
+        }
+        #video-container div.share-it {
+            width: 190px;
+        }
+        #fancybox-outer .share-it .content {
+        	padding-bottom: 0;
+        }
+        #video-container div.embed-it {
+            margin: 19px 0 0 10px;
+            width: 82px;
+        }
+    </style>
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="/global/includes/css/ie6.css" />
+<script type="text/javascript" charset="utf-8">
+	$(document).ready(function() {
+		$('img[src$=".png"]').addClass('png');
+
+       	var li = $('#top-nav li');
+      	li.mouseover(function () {
+        	$(this).addClass('sfhover');
+      	});
+       	
+        li.mouseout(function () {
+       		$(this).removeClass('sfhover');
+      	});
+        
+	});
+</script>
+<script src="/global/includes/js/DD_belatedPNG_0.0.7a-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('div.video-list li, #world-intro h2, #world-intro a.read-more, #newsletter, #lore, #elsewhere, #newsletter input.submit-btn, #newsletter h2, #lore h2, #elsewhere h2, #elsewhere li a, #footer, #artbook-cta h2 a, #video-thumbs ul.video-list li, div.video-holder, div.video-nav a, #ncsoft-logo, #arenanet-logo, .submit-btn, .artbook-header, .wallpaper-header, .buy-now-header, .download-btn, .concept-art-header, .concept-art-wrapper, .interior-shots-wrapper, .buy-now, .learn-more, .read-more, .the-art-of-guild-wars-2-header, div.video-list h2, h3.world-header, h3.races-header-sub, h3.faq-header-sub, #submit-button, #newsletter-signup, a.learn-more-shop, a#buy-copy-now, h3#art-gw2-shop, .wide-col, .row, .see-more, a.box-shot, .bd1, .bd2, .bd3, .ft, .ft div, .png');
+</script>
+<![endif]-->
+
+
+<!-- /common css and js -->
+
+</head>
+<body>
+
+
+
+<!-- common_page_header -->
+<div id="container">
+    <div id="newsletterResultContainer"></div>
+<div id="newsletter-signup">
+	<p class="newsletterErrorOff" id="newsletterErrorContainer"></p>
+    <div id="active">
+        <form method="post" action="javascript: newsletterSignup.signUp();">
+            <fieldset id="input-fields">
+            	<button id="submit-button" name="submit" type="submit" class="submit-btn"><span>Submit</span></button>
+                
+                <input type="text" value="Enter your email address" name="email" id="email" class="input">
+                <label class="display-none" for="email">Sign up for the <em>Guild Wars 2</em> newsletter:</label>
+                
+            </fieldset>
+            <fieldset id="radio-buttons">
+                <label class="region-radio-label" id="region-radio-na" for="region-na">
+                    <input type="radio" checked="checked" value="na" id="region-na" name="region"> North America
+                </label> 
+                <label class="region-radio-label" id="region-radio-eu" for="region-eu">
+                    <input type="radio" value="eu" name="region" id="region-eu"> Europe
+                </label>
+            </fieldset>  
+        </form>
+        <a class="signupToggle" href="#">Newsletter Signup</a>
+    </div>
+</div><!-- END Newsletter Signup -->
+
+<script language="javascript" type="text/javascript"> 
+	var newsletterSignup = new NLSignup();
+
+	function NLSignup()
+	{
+		this.loadingImage = new Image();
+		this.loadingImage.src = '/global/includes/images/ajax-loader.gif';
+		this.email = '';
+		this.formHTML = '';
+		this.result = document.createElement('div');
+		this.result.setAttribute('id', 'newsletterResultContainer');
+		this.langID = 'en';
+		this.emailRegexp = /^(?:[a-zA-Z0-9_'^&amp;\/+-])+(?:\.(?:[a-zA-Z0-9_'^&amp;\/+-])+)*@(?:(?:\[?(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?))\.){3}(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\]?)|(?:[a-zA-Z0-9-]+\.)+(?:[a-zA-Z]){2,}\.?)$/;
+		this.region = 'na';
+		
+		this.signUp = function()
+		{
+			this.region = $('input[name=region]:radio:checked').val();
+			this.formHTML = $('#newsletter-signup').html();
+			this.email = $('#email').attr('value');
+			this.clearInput();
+
+			if(this.emailRegexp.exec(this.email) == this.email)
+			{
+				this.hideError();
+				this.showLoading(false);
+			} else {
+				this.showError();				
+				this.clearInput();
+			}
+		}
+		
+		this.showError = function()
+		{
+			$('#newsletter-signup').animate({"top": "0px"}, "fast", function(e) {
+				$('#newsletterErrorContainer').fadeIn().html('The email address you entered was invalid. ');
+			});
+			//$('#newsletter-signup form').animate({"margin-top": "25px"}, "fast");
+			$('#newsletterErrorContainer').toggleClass('newsletterErrorOn', true);
+			$('#newsletterErrorContainer').toggleClass('newsletterErrorOff', false);
+			
+		}
+		this.hideError = function()
+		{
+			$('#newsletterErrorContainer').toggleClass('newsletterErrorOn', false);
+			$('#newsletterErrorContainer').toggleClass('newsletterErrorOff', true);
+		}
+		this.clearInput = function() {
+			var text = $('#newsletterSignupContainer label').text()
+			$('input#signup').attr('value', text);
+			$('input#signup').addClass("empty");
+		}
+		this.showLoading = function(ready)
+		{
+			if(ready)
+			{
+				$('#newsletter-signup').html('<p id="ajaxLoaderContainer"><img src="' + this.loadingImage.src + '" class="ajaxLoaderImage"/></p>');
+				$('#newsletter-signup').fadeIn('fast', 
+					function(){
+						newsletterSignup.sendRequest();
+					}
+				);
+			} else {
+				$('#newsletterErrorContainer').fadeOut('fast');
+				$('#signupToggle').fadeOut('fast');
+				$('#active').fadeOut('fast', 
+					function(){
+						newsletterSignup.showLoading(true);
+					}
+				);
+			}
+		}
+		this.requestSuccess = function(ready)
+		{
+			if(ready)
+			{
+				$('#newsletter-signup').html('<p id="newsletterSuccessMsg">Your email address has been submitted!</p>');
+				$('#newsletter-signup').animate({"top": "-90px"}, "fast");
+				$('#newsletter-signup').fadeIn('normal');
+			} else {
+				$('#newsletter-signup').fadeOut('normal', 
+					function(){
+						newsletterSignup.requestSuccess(true);
+					}
+				);
+			}
+		}
+		this.requestError = function(ready)
+		{
+			if(ready)
+			{
+				$('#newsletter-signup').html(this.formHTML);
+				$('#newsletter-signup').fadeIn('normal', 
+					function(){
+						newsletterSignup.showError();
+					}
+				);
+			} else {
+				$('#newsletter-signup').fadeOut('normal', 
+					function(){
+						newsletterSignup.requestError(true);
+					}
+				);
+			}
+		}
+		this.sendRequest = function()
+		{
+			var datetime = new Date();
+			$('#newsletterResultContainer').load('/global/includes/php/newsletter/signup.php?region=' + this.region + '&email=' + this.email + '&langID=' + this.langID + '&ts=' + datetime.getTime(),  
+				function (responseText, textStatus, XMLHttpRequest) {
+					
+					if(responseText == 1)
+					{
+						newsletterSignup.requestSuccess(false);
+					} else {
+						newsletterSignup.requestError(false);
+					}
+				}
+			);			
+		}
+	}
+</script>
+    
+	<ul id="language-selector">
+		<li class="en"><a href="/en/" class="selected"><span>En</span></a></li>
+    	<li class="fr"><a href="/fr/"><span>Fr</span></a></li>
+    	<li class="de"><a href="/de/"><span>De</span></a></li>
+	</ul>
+	<h1><a href="/en/"><span>Guild Wars 2</span></a></h1>
+	<ul id="top-nav">
+	    <li id="home"><a href="/en/"><span>Home</span></a></li>
+	    <li id="news"><a href="/en/news/"><span>News</span></a></li>
+		<li id="game"><a href="/en/the-game/"><span>The Game</span></a>
+		    <div class="subnav">
+				<div class="bd1">
+					<div class="bd2">
+						<div class="bd3">
+				        	<ul>
+				            	<li><a href="/en/the-game/professions/">Professions</a></li>
+				            	<li><a href="/en/the-game/races/">Races</a></li>
+				            	<li><a href="/en/the-game/combat/">Combat</a></li>
+				            	<li><a href="/en/the-game/dynamic-events/">Dynamic Events</a></li>
+				            	<li><a href="/en/the-game/personal-stories/">Personal Stories</a></li>
+				                <li><a href="/en/the-game/hall-of-monuments/">Hall of Monuments</a></li>
+				                <li><a href="/en/the-game/dungeons/">Dungeons</a></li>
+								<li><a href="/en/the-game/pvp/">Player vs. Player</a></li>
+				                <li class="last"><a href="/en/the-game/game-faq/">Game FAQ</a></li>
+				            </ul>
+				    	</div>       
+			    	</div>        
+		    	</div>
+		    	<div class="ft"><div class="aux"></div></div>        
+		    </div>
+		</li>
+		<li id="media"><a href="/en/media/"><span>Media</span></a>
+			<div class="subnav">
+    			<div class="bd1">
+    				<div class="bd2">
+    					<div class="bd3">
+				        	<ul>
+				            	<li><a href="/en/media/videos/">Videos</a></li>
+								<li><a href="/en/media/concept-art/">Concept Art</a></li>
+								<li><a href="/en/media/screenshots/">Screenshots</a></li>
+								<li><a href="/en/media/wallpapers/">Wallpapers</a></li>
+								<li><a href="/en/media/awards/">Awards &amp; Accolades</a></li>
+								<li class="last"><a href="/en/media/asset-kit/"><em>Guild Wars 2</em> Asset Kit</a></li>
+				            </ul>
+				    	</div>       
+			    	</div>        
+		    	</div>
+		    	<div class="ft"><div class="aux"></div></div>        
+            </div>
+		</li>
+		<li id="shop"><a href="/en/shop/"><span>Shop</span></a>
+			<div class="subnav">
+    			<div class="bd1">
+    				<div class="bd2">
+    					<div class="bd3">
+				        	<ul>
+				            	<li><a href="/en/shop/ghosts-of-ascalon/">Ghosts of Ascalon</a></li>
+                                <li><a href="/en/shop/edge-of-destiny/">Edge of Destiny</a></li>
+								<li><a href="/en/shop/the-art-of-guild-wars-2/">The Art of <em>Guild Wars 2</em></a></li>
+								<li><a href="/en/shop/wall-calendar-2011/">The <em>Guild Wars 2</em> 2011 Wall Calendar</a></li>
+								<li><a href="/en/shop/guildwars-2-wall-graphics/">Wall Graphics</a></li>
+								<li class="last"><a href="/en/shop/guildwars-2-charr-plush/">Charr Plush</a></li>
+				            </ul>
+				    	</div>       
+			    	</div>        
+		    	</div>
+		    	<div class="ft"><div class="aux"></div></div>        
+            </div>
+		</li>
+	</ul>
+	<div class="clear"></div>
+
+<!-- /common_page_header -->
+
+
+    
+        <div class="wide-col">
+            <h2 class="privacy-policy-header"><span>Privacy Policy</span></h2>
+            <h2>
+		<strong>ArenaNet</strong>
+		<strong> Privacy Policy</strong>
+	</h2>
+	<p>
+		Your privacy is important to ArenaNet, Inc., NC Interactive, Inc. and NCsoft Europe Ltd. (collectively, "ArenaNet"). Maintaining the trust of our users
+		is key to the success of our business, and this Privacy Policy is intended to make you feel as comfortable as possible visiting our website and playing
+		ArenaNet games.
+	</p>
+	<p>
+		This Privacy Policy discloses <a name="_GoBack"></a>the privacy practices for:
+	</p>
+	<p>
+		<a href="http://www.guildwars2.com/">www.guildwars2.com</a>
+	</p>
+	<p>
+		<a href="http://www.guildwars.com/">www.guildwars.com</a>
+	</p>
+	<p>
+		<a href="http://www.arena.net/">www.arena.net</a>
+	</p>
+	<p>
+		It also includes any other sites and services related to ArenaNet, Guild Wars and Guild Wars 2 (collectively, the "Sites").
+	</p>
+	<p>
+		From time to time, we may add new Sites that may not be set forth in the prior sentence, but they will provide a link to this Privacy Policy and will
+		be governed by its terms.
+	</p>
+	<p>
+		This Privacy Policy will provide you with information on our policies regarding:
+	</p>
+	
+	<p>
+	</p><ol start="1" type="1">
+		<li>
+			<a href="#1">Collection of Personal Information</a>
+		</li>
+		<li>
+			<a href="#2">Who collects the Personal Information</a>
+		</li>
+		<li>
+			<a href="#3">How the Personal Information is used</a>
+		</li>
+		<li>
+			<a href="#4">Privacy Protections for Children</a>
+		</li>
+		<li>
+			<a href="#5">The choices available to users regarding collection, use, and distribution of the Personal Information</a>
+		</li>
+		<li>
+			<a href="#6">How you can correct any inaccuracies in regard to your Personal Information</a>
+		</li>
+		<li>
+			<a href="#7">
+				What kind of security procedures we use to protect the loss, misuse, or alteration of your Personal Information under our control
+			</a>
+		</li>
+		<li>
+			<a href="#8">Information for people in the European Union</a>
+		</li>
+		<li>
+			<a href="#9">Notice of changes to the Privacy Policy</a>
+		</li>
+	</ol>
+	
+	<p></p>
+	
+	<p>
+
+If you feel that ArenaNet is not abiding by its posted privacy policy, you should contact us by e-mail at		<a href="mailto:privacy@arena.net">privacy@arena.net</a>.
+	</p>
+	<p>
+		<em>Personal Information</em>
+		. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone
+		number, or email address. Personal Information does not include aggregated information that, by itself, does not permit the identification of
+		individual persons (like statistics about how many persons visited our web site last month, or how many visitors are male and how many are female).
+	</p>
+	<p>
+		<em>Acceptance</em>
+		. This Privacy Policy is a part of our Website Terms of Use and by using the Sites, you agree to be bound by its terms and conditions. This Privacy
+		Policy only addresses activities from our servers. Other sites (including those to which we may link) and other service providers may have their own
+		policies, which we do not control, and thus are not addressed or controlled by this policy.
+	</p>
+	<p>
+		<a name="1"></a><strong>(1) Collection of Personal Information</strong>
+	</p>
+	<p>
+		You provide certain Personal Information to us when you: (a) register to use the services, (b) register for contests or giveaways, (c) complete
+		questionnaires, (d) order products and services from us and (e) send email messages, submit forms, or send other information to us.
+	</p>
+	<h4>
+		Use of Email Address
+	</h4>
+	<p>
+		Your email address will be used to contact you regarding specific issues related to your active account(s). You may also receive special notices and
+		offers for products and services offered by ArenaNet. You will be given the opportunity to "opt out" of any mailings which do not include critical
+		information regarding your active game account(s).
+	</p>
+	<p>
+		Please see "Sweepstakes, Contests and Promotions, and Related Third Party Services" below for specific information on how your Personal Information may
+		be used by third parties in those special cases.
+	</p>
+	<h4>
+		Payment Method
+	</h4>
+	<p>
+		You will also be asked to submit Personal Information depending on the payment method you choose when accessing, purchasing or subscribing to one of
+		our products or services. For example, if you choose to pay for ArenaNet products or services by credit card, you will be required to provide us the
+		name of your credit card issuer, credit card number, billing address, CVV number, and expiration date.
+	</p>
+	<p>
+		If you choose to pay for ArenaNet products or services and/or the services ArenaNet performs on behalf of its affiliates by using, without limitation,
+		check, PayPal, SMS, paysafecard, Game Time Cards, or ELV, you will be required to provide us with applicable Personal Information in order to permit us
+		to process such payment.
+	</p>
+	<h4>
+		Non-personal Information
+	</h4>
+	<p>
+		In addition to the login information, we will automatically collect certain non-personal information about your use of our Sites and services. We might
+		collect, among other things, information concerning the type of Internet browser, computer, or computer operating system you are using, the domain name
+		of your Internet service provider, your "click path" through the Sites, and the web site or advertisement that was linked to or from the Sites when you
+		visited. To do this, we may use cookies and other technology (see below).
+	</p>
+	<p>
+		Your visits to our Sites, and information provided through these technologies, will be anonymous unless you provide us with personal information or
+		have provided such information in the past. For example, if you've created a membership account, your account information (including name, email
+		address, and billing and shipping information) may be linked to the items you purchased at our online store (i.e., purchase order history).
+	</p>
+	<p>
+		This information is only used for our internal purposes (such as to improve the Site or to customize content).
+	</p>
+	<h4>
+		Cookies and Related Technologies
+	</h4>
+	<p>
+		We use a feature of your browser called a "cookie" to assign a unique number that automatically identifies your computer when you visit the site. A
+		cookie is a piece of text-only data stored on your hard drive. By setting a cookie on our site, you would not have to log in a password more than once,
+		thereby saving time while on our site.
+	</p>
+	<p>
+		If you reject the cookie, you may still use our site. The only drawback to this is that you may be limited in some areas of our site, or may have to
+		enter passwords or identifying information more than once.
+	</p>
+	<h4>
+		Sweepstakes, Contests and Promotions, and Related Third Party Services
+	</h4>
+	<p>
+		To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional personal information such as
+		your mailing address. In each such case, no new personal information will be collected from you without your consent. This information may be collected
+		by ArenaNet or by third parties such as co-sponsors or vendors for the promotion.
+	</p>
+	<p>
+		Our use of any such information will be governed by this Privacy Policy. The names of third parties such as co-sponsors (other than vendors hired by
+		ArenaNet to conduct, administer, and execute a promotion on behalf of ArenaNet) will be disclosed to you when you are asked to sign up for the
+		promotion. You should review such third parties' privacy policies to see how they may use any information that they collect.
+	</p>
+	<p>
+		Certain ArenaNet services, sweepstakes, and/or contests, may be provided to you in conjunction with a third party. During the registration process for
+		any such sweepstakes, contests, surveys, and other promotions or service(s) related to such games, you may be notified that such third party wishes
+		access to some of your Personal Information.
+	</p>
+	<p>
+		In such a situation, you will be given an opportunity to decline to share that information with that third party before any such information is shared.
+		If you decline to share such information with the relevant third party, you may not be able to participate in such sweepstakes, contests, surveys, and
+		other promotions or service(s) for that game.
+	</p>
+	<p>
+		As described in the registration process, a third party's use of the shared Personal Information will be governed by any privacy policy that company
+		may have in place and our use of such information shall, of course, be governed by the terms of this Privacy Policy.
+	</p>
+	<h4>
+		Online Communications, Games
+	</h4>
+	<p>
+		When you play any of the games offered and/or served by ArenaNet, or use any of the communication features on the Sites, your IP address (the Internet
+		protocol address from which you access any of the above) may be stored in our records.
+	</p>
+	<p>
+		When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files;
+		when you communicate within any game or any other communication feature within any of our Sites (e.g. live chat, instant message services and the
+		like), even "privately" to another person, you do so with the understanding that those communications go through our servers, can be monitored by us,
+		you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications (including
+		technical support and customer service communications) that you send and receive.
+	</p>
+	<p>
+		When you log into one of our online games, your system specifications (such as OS, RAM, video card, monitor, system configuration, etc.) may be
+		reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service.
+	</p>
+	<p>
+		<a name="2"></a><strong>(2) Who Collects the Personal Information</strong>
+	</p>
+	<p>
+		ArenaNet, who owns and operates the Sites, is the company that collects Personal Information on our site. Our mailing address is 3180 139<sup>th</sup>
+		Ave SE Bellevue, WA 98005 and our customer service email address is <a href="mailto:support@arena.net">support@arena.net</a>.
+	</p>
+	<p>
+		<a name="3"></a><strong>(3) How the Personal Information Is Used</strong>
+	</p>
+	<p>
+		Personal information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use
+		it for some other purpose, as described in this Privacy Policy.
+	</p>
+	<p>
+		For example, if you make an online purchase from our online store, and unless you have given us permission to do otherwise, we will only collect and
+		save the personal information you provided to us, including your billing and delivery information, in order to:
+	</p>
+	<ol start="1" type="1">
+		<li>
+			Complete the sale
+		</li>
+		<li>
+			Comply with tax and other applicable statutes
+		</li>
+		<li>
+			Maintain accurate business and financial records (in accordance with accepted standards)
+		</li>
+		<li>
+			Assist with customer service and returns
+		</li>
+	</ol>
+	<p>
+		When you have provided personal information to us for a particular purpose, we may disclose your information to other companies that we have engaged to
+		assist us in fulfilling your request. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit
+		verification services, and other third-party service providers.
+	</p>
+	<p>
+		We may also disclose any of your personal information to law enforcement or other appropriate third parties in connection with criminal investigations,
+		investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by
+		applicable law, or, as we deem necessary in our sole discretion, in order to protect the legitimate legal and business interests of ArenaNet.
+	</p>
+	<p>
+		We may use the information we collect from you for the purpose of providing you with technical support, customer service, and account maintenance. We
+		use the information we collect to learn what you like, tailor your experience accordingly, and to improve web sites and our other products. We send
+		e-mail to our members who want to receive e-mail from us.
+	</p>
+	<p>
+		However, if you don't want to receive e-mail from us, you can "opt out" of receiving it at the time you register as a member on our web sites or each
+		time we request information from you. If you change your mind and wish to stop receiving e-mails from us, you may also choose to opt out by following
+		the steps described in each such e-mail.
+	</p>
+	<p>
+		Except as described in this policy, we will not give any of your personal information to any third party without your express approval, and the only
+		personal information we will ask you if you want us to share with third parties is your name, your mailing address and e-mail address.
+	</p>
+	<p>
+		If you don't want us to share your name, mailing address and e-mail address, you can tell us that by clicking on "No" in the box at the time you
+		register as a member on the Site or each time we request information from you or at other points. We sometimes share general, demographic, or
+		aggregated (not personal) information with third parties about our user base, but that information does not include any personal information.
+	</p>
+	<p>
+		You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Sites, of any personal information
+		contained in the ArenaNet database for such site(s), if ArenaNet or one of its companies assigns all of its rights and obligations regarding the use of
+		your personal information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of ArenaNet 's or game or other assets to
+		a subsequent owner or operator, or similar event.
+	</p>
+	<p>
+		Please do not use your real name or the real name of another person when selecting a user name. Please note that your user name will be available to
+		the Internet's general public while you participate in some services, like forums, chat rooms or message boards, so you should exercise discretion when
+		using these services. Personal information disclosed by you within our chat areas, instant message service, message boards, or during game play can be
+		collected by other users of such services and may result in unsolicited messages.
+	</p>
+	<p>
+		We are not responsible for protecting such information that you may disclose to third parties through our services (e.g. sending your address to
+		another user through the chat service). To the extent that you create a public profile that may be available to others on our sites and services, you
+		are solely responsible for its content and accuracy at all times. To edit, change, or delete such information, follow the instructions on the web site.
+	</p>
+	<p>
+		<a name="4"></a><strong>(4) Privacy Protections for Children</strong>
+	</p>
+	<p>
+		In order to protect the privacy interests of younger Internet users, we do not allow children under the age of 18 to use our services without the
+		consent of their parents. ArenaNet complies with the Children's Online Privacy Protection Act and all other applicable laws and regulations concerning
+		children and the Internet.
+	</p>
+	<h4>
+		Children under the age of 13
+	</h4>
+	<p>
+		Because our Sites are not directed to children under the age of 13, ArenaNet does not provide memberships to persons under age 13. If you are under the
+		age of 13, you may not create an account on the Site, you may not sign up for any subscription service or buy anything through our online store, and
+		you are not eligible to enter any of our sweepstakes or promotions.
+	</p>
+	<p>
+		Except as may be required by law, ArenaNet will not knowingly collect, maintain, or disclose any personal information from children under the age of
+		13.
+	</p>
+	<h4>
+		Children between the ages of 13 and 18
+	</h4>
+	<p>
+		<em>
+			If you are between the ages of 13 and 18, please let your parent or guardian know about this Privacy Policy and get his or her permission before
+			you give us any of your personal identifiable information, before you use any of our message board, instant message or chat features, before you
+			sign up for any subscription game services, and before you buy anything from our online store.
+		</em>
+		<em></em>
+	</p>
+	<p>
+		Don't post your real name on a web site, forum or message board, and never tell anyone online anything private about yourself or your family, including
+		your phone number and/or address. Use screen names and not real names at all times.
+	</p>
+	<p>
+		If you win a sweepstakes that has a prize, your parent or guardian will have to mail or fax us a signed note at the address or fax number listed in the
+		rules for the specific contest that says it was OK for you to enter, and tells us they will accept the prize for you.
+	</p>
+	<p>
+		Some areas of the Site may have special rules for children under the age of 18. When you are in those areas, you must follow those rules.
+	</p>
+	<h4>
+		Information for Parents/Guardians
+	</h4>
+	<p>
+		If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent,
+		ArenaNet will take reasonable steps to remove that information from the ArenaNet database at your request.
+	</p>
+	<p>
+		To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user
+		name, password, and email address that your child submitted. If your child has used your credit card on our web sites without your permission, contact
+		us immediately at <a href="mailto:support@arena.net">support@arena.net</a>.
+	</p>
+	<p>
+		<a name="5"></a><strong>(5) The Choices Available to Users Regarding Collection, Use and Distribution of Personal Information</strong>
+	</p>
+	<p>
+		Please note that if you provide any information on your own or directly to parties who provide service to our web site or any other sites you encounter
+		on the Internet (even if these sites are branded with our branding), different rules may apply to their use or disclosure of the Personal Information
+		you disclose to them. We encourage you to investigate and ask questions before disclosing information to third parties.
+	</p>
+	<p>
+		<a name="6"></a><strong>(6) How users can correct any inaccuracies in the Personal Information</strong>
+	</p>
+	<p>
+		To review and update your Personal Information stored with ArenaNet, please access your applicable account.
+	</p>
+	<p>
+		If you change your mind and do not want to receive e-mails from us and/or have us share your name and e-mail address (or other personal information)
+		with third parties, you may send an e-mail to us at <a href="mailto:support@arena.net">support@arena.net</a>.
+	</p>
+	<p>
+		If you choose to have your personal information removed from our active databases, we will do so within a reasonable time after your request and we
+		will take reasonable steps to ensure that your personal data is not used (except as may be required by law) by ArenaNet after your notification to us.
+	</p>
+	<p>
+		<a name="7"></a><strong>(7) What Kind of Security Procedures We Use to Protect the Loss, Misuse, or Alteration of Your Personal Information Under Our Control</strong>
+	</p>
+	<p>
+		ArenaNet takes precautions to protect our users' information. When users submit sensitive information via our website, that information is protected
+		both online and off-line.
+	</p>
+	<p>
+		We have established and maintain reasonable security procedures to protect the confidentiality, security and integrity of your personal information. We
+		use encryption, Secure Socket Layers, and other technical measures (such as off-site backup, security testing, and password protection), and we
+		implement off-line efforts to further protect this information, including limiting employee access to personal information and updating our employees
+		regarding our security practices and privacy policies. Please recognize, however, that "perfect security" does not exist on the Internet.
+	</p>
+	<p>
+If you have any questions about the security at our website or facilities, you can send an email to		<a href="mailto:privacy@arena.net">privacy@arena.net</a>.
+	</p>
+	<p>
+		<a name="8"></a><strong>(8) Information for people in the European Union</strong>
+	</p>
+	<p>
+		By consenting to this Privacy Policy, you confirm that your command and knowledge of English (or in some cases, French, German or Spanish) is
+		sufficient to understand the terms and conditions set forth herein.
+	</p>
+	<p>
+		For persons in European Union countries, as used herein, terms such as "personal information" refer to "personal data" as defined by the Directive
+		95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal
+		data and on the free movement of such data ("Directive").
+	</p>
+	<p>
+		We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent.
+		By using ArenaNet websites (including, without limitation, the Sites) or services, you agree that we may transfer your personal information outside the
+		European Union in connection with the purposes stated in this Privacy Policy. Your personal data may be transferred to the United States (and/or other
+		non-EU jurisdictions, as applicable).
+	</p>
+	<p>
+		<a name="9"></a><strong>(9) Notices of changes to the Privacy Policy</strong>
+	</p>
+	<p>
+		ArenaNet reserves the right to change this Privacy Policy at any time by notifying registered users via e-mail of the existence of a new Policy and/or
+		posting the new Policy on the ArenaNet Sites. All changes to the Privacy Policy will be effective when posted, and your continued use of any ArenaNet
+		Site, product or service after the posting will constitute your acceptance of, and agreement to be bound by, those changes.
+	</p>
+	<p>
+		Last Updated: March 1, 2012
+	</p>
+        </div>
+        <div class="right-col">
+            
+                       
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="clear"></div>
+    
+
+
+<!-- common_page_footer -->
+<div id="footer">
+    <div class="copyright">
+        <a href="http://us.ncsoft.com"><img id="ncsoft-logo" src="/global/includes/images/ncsoft-logo.png" width="158" height="58" alt=""></a>
+        <a href="http://www.arena.net"><img id="arenanet-logo" src="/global/includes/images/arenanet-logo.png" width="135" height="53" alt=""></a>
+        <p>© 2011 ArenaNet, Inc. All rights reserved. Guild Wars 2, ArenaNet, NCsoft, the Interlocking NC Logo, and all associated logos and designs are trademarks or registered trademarks of NCsoft Corporation.  All other trademarks are the property of their respective owners.</p>
+		<p><a href="/en/legal/privacy-policy.html"><strong>Privacy Policy</strong></a> &nbsp; | &nbsp; <a href="/en/legal/legal-documentation.html"><strong>Legal Documentation</strong></a></p>
+    </div>
+    <div class="ratings">
+    	<a href="http://www.esrb.org"><img src="/global/includes/images/esrb-t.png" width="193" height="96" alt="RP"></a>
+    </div>
+    <div id="elsewhere">
+    <ul>
+        <li><a class="twitter" href="http://twitter.com/guildwars2"><span>Follow us on Twitter</span></a>
+        </li><li><a class="facebook" href="http://www.facebook.com/GuildWars2/"><span>Join our page on Facebook</span></a>
+        </li><li><a class="youtube" href="http://www.youtube.com/user/arenanetofficial"><span>Watch our channel on Youtube</span></a>
+        </li><li><a class="rss" href="/en/rss.xml"><span>Subscribe to our RSS feed</span></a>
+    </li></ul>
+</div>
+    <div class="clear"></div>
+</div>
+
+<!-- /common_page_footer -->
+
+<script>
+var _gaq = [
+    ["_setAccount", "UA-18978290-1"], 
+    ["_setDomainName", "guildwars2.com"],
+    ["_addIgnoredRef", "guildwars2.com"],
+    ["_trackPageview"]
+];
+
+(function(d, t) {
+    var g = d.createElement(t),
+        s = d.getElementsByTagName(t)[0];
+    g.src = (/^....s/.test(location) ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
+
+
+ 
+</div></body></html>
