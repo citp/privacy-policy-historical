@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125052id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021559id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -99,7 +99,11 @@ Privacy Policy: <http://beta.toonboom.com/legal/privacy-policy>
 
   
 Animated/personalized comic strip  
-Privacy Policy: [http://www.pixfusion.com/PrivacyPolicy.aspx](http://www.smartpetsupply.net/info/privacy)
+Privacy Policy: <http://www.pixfusion.com/PrivacyPolicy.aspx>
+
+  
+Garfield - Gallery Edition Signature Series Statue  
+Privacy Policy: <http://www.factoryent.com/terms.asp>
 
 UNIVERSAL UCLICK is the sole owner of the information collected from the UNIVERSAL UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
