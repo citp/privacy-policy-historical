@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2011-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111227023623id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504111754id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- The common HTML head for market place pages. --><!-- IMPORTANT! Don't put above the DOCTYPE element any comment or any other content that the browser gets in the response. It causes IE7 to ignore the DOCTYPE and renders in quirks mode --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- The common HTML head for market place pages. --><!-- IMPORTANT! Don't put above the DOCTYPE element any comment or any other content that the browser gets in the response. It causes IE7 to ignore the DOCTYPE and renders in quirks mode --><head>	
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-	<link rel="stylesheet" type="text/css" href="/site/css/all.css?2011-12-15-0918">
-	<link rel="stylesheet" type="text/css" href="/site/market/css/market.css?2011-12-15-0918">
-	<link rel="stylesheet" type="text/css" href="/site/market/css/header-footer.css?2011-12-15-0918">
-	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/site/market/css/market-ie8.css?2011-12-15-0918"/><![endif]-->
+	<link rel="stylesheet" type="text/css" href="/site/css/all.css?2012-04-19-0943">
+	<link rel="stylesheet" type="text/css" href="/site/market/css/market.css?2012-04-19-0943">
+	<link rel="stylesheet" type="text/css" href="/site/market/css/header-footer.css?2012-04-19-0943">
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/site/market/css/market-ie8.css?2012-04-19-0943"/><![endif]-->
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="/site/market/css/market-ie.css?2012-04-19-0943"/><![endif]-->
+	
+	
+		<link rel="stylesheet" type="text/css" href="/site/market/css/market-notie.css?2012-04-19-0943">
+	
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/udm2oyz.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -17,16 +22,25 @@
 	<meta name="title" content="Privacy | Farmigo">
 	<title>Privacy | Farmigo</title>
 	
+	
+		<link rel="canonical" href="http://www.farmigo.com/privacy">	
+	
+	
 
 
-    <script language="javascript" src="/market/market.nocache.js?2011-12-15-0918"></script>
+
+
+    <script language="javascript" src="/market/market.nocache.js?2012-04-19-0943"></script>
 	<script type="text/javascript">
 	
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-8893503-1']);
-	  _gaq.push(['_setDomainName', 'farmigo.com']);
+	  _gaq.push(['_setDomainName', '.farmigo.com']);
 	  _gaq.push(['_trackPageview']); 
-	
+	  _gaq.push(['_setCampMediumKey', 'utm_medium']);
+	  _gaq.push(['_setCampNameKey', 'utm_campaign']);
+	  _gaq.push(['_setCampSourceKey', 'utm_source']);
+	  
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -34,7 +48,7 @@
 	  })();
 	
 	</script>
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 	
 <body>
 	<!-- marketplace common header -->
@@ -42,44 +56,111 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fb-root"></div>
+
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId : '148203751875853', 
+			status : true, // check login status
+			cookie : true, // enable cookies to allow the server to access the session
+			xfbml : true // parse XFBML
+		});
+		isFacebookLoaded = true;
+	};
+
+	// Load the SDK Asynchronously
+	(function(d) {
+	var js, id = 'facebook-jssdk';
+		if (d.getElementById(id)) {
+			return;
+		}
+		js = d.createElement('script');
+		js.id = id;
+		js.async = true;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		d.getElementsByTagName('head')[0].appendChild(js);
+	}(document));
+	
+	window.facebookLoginFunc = function() {
+		try {
+			FB.login(function(response) {
+				if ( response.authResponse ) {
+					FB.api('/me', function(response) {
+						if ( response.id != null && response.email != null ) {
+							window.handleFacebookLogin( response.id, response.email, response.first_name, response.last_name );
+						} else {
+							window.cleanupOnFBLoginFailure();
+						}
+					});
+				} else {
+					window.cleanupOnFBLoginFailure();
+				}
+			}, {
+				scope : 'email'
+			});
+		} catch (err) {
+			window.cleanupOnFBLoginFailure();
+		}
+	};
+</script>
 <div id="page"><!-- To be closed at the footer, for sticky footer -->
 	<div id="header"><header>
 		<!-- GWT all links at the header are attached by GWT client side-->
 		<nav><div class="nav content farmigo-content centered">
 			<a id="logo" href="/">Farmigo</a>
-			<ul class="primary-nav">
-				
-					<li class="">
-						<div>
-							<a id="option-FIND" class="option" href="/"><em>Find</em>a location</a>
-						</div>
-					</li>
-				
-					<li class="">
-						<div>
-							<a id="option-START" class="option" href="/start"><em>Start</em>a location</a>
-						</div>
-					</li>
-				
-					<li class="">
-						<div>
-							<a id="option-HOW_THIS_WORKS" class="option" href="/how-this-works"><em>How</em>this works</a>
-						</div>
-					</li>
-				
-			</ul>
+			
+				<ul class="primary-nav">
+					
+						<li class="">
+							<div>
+								<a id="option-THE_MOVEMENT" class="option" href="/about/the-movement">THE MOVEMENT</a>
+							</div>
+						</li>
+					
+						<li class="">
+							<div>
+								<a id="option-HOW_THIS_WORKS" class="option" href="/how-this-works">HOW IT WORKS</a>
+							</div>
+						</li>
+					
+						<li class="">
+							<div>
+								<a id="option-FARMERS_PORTAL" class="option" href="http://farms.farmigo.com/">FOR FARMERS</a>
+							</div>
+						</li>
+					
+				</ul>
+			
 			
 				<div class="secondary-nav">
-					
-					<ul class="stay-connected">
-						<li><a id="header-facebook" class="facebook" title="Follow us on Facebook" target="_blank" href="http://www.facebook.com/Farmigo"></a></li>
-						<li><a id="header-twitter" class="twitter" title="Follow us on Twitter" target="_blank" href="http://twitter.com/#!/farmigo"></a></li>
-					</ul>
-					<!-- <a id="sign-in">Sign In</a>  -->
+					<script type="text/javascript">
+						
+							window.memberAuthData = null;
+						
+					</script>
+					<!-- GWT --><div id="member-menu-box"></div>
 				</div>
 			
 		</div></nav>
-	<!-- GWT --><!-- <div id="sign-in-box"></div>  -->
 	</header></div>
 
 	<div id="privacy-terms" class="single-section">
@@ -413,13 +494,17 @@
 		</div>
 	</div>
 	<!-- marketplace common footer -->
+
+
+
+
 	<div id="push-footer"></div>
 </div><!-- closes the #page div that starts at the header-->
 <footer><div id="footer">
 	<div class="left-bg-box"></div>
 	<div class="bg-box">
 		<div class="content farmigo-content centered">
-		    <span id="rights">© Farmigo, Inc.</span>
+		    <span id="rights">© 2012 Farmigo, Inc.</span>
 			<nav><div class="nav">
 				<ul>
 					<li><a href="/media-kit">Media Kit</a></li>
@@ -431,6 +516,13 @@
 					<li><a href="/privacy">Privacy</a></li>
 					<li><a href="/terms">Terms</a></li>
 				</ul>
+				<div class="follow-us">
+					follow us on
+					<ul>
+						<li><a id="farmigo-facebook" class="facebook" title="Facebook" target="_blank" href="http://www.facebook.com/Farmigo"></a></li>
+						<li><a id="farmigo-twitter" class="twitter" title="Twitter" target="_blank" href="http://twitter.com/#!/farmigo"></a></li>
+					</ul>
+				</div>
 			</div></nav>
 		</div>
 	</div>
