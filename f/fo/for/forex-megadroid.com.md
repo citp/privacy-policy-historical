@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219201814id_/http%3A//forex-megadroid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024852id_/http%3A//forex-megadroid.com/privacy.html) for the most accurate reproduction.*
 
-# Forex Megadroid
+# Privacy - Forex Megadroid
 
 **1\. Acknowledgement and acceptance of terms**  
 The Forex Megadroid team is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing http://www.forex-megadroid.com, you acknowledge and fully understand the http://www.forex-megadroid.com Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
