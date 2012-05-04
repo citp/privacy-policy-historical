@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jengocash.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143935id_/http%3A//www.jengocash.com/privacy.php%3Freferid%3Dadmin) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jengocash.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022040id_/http%3A//www.jengocash.com/privacy.php%3Freferid%3Dadmin) for the most accurate reproduction.*
 
 # Jengo Cash Privacy Policy
 
