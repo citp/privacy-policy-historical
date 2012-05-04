@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerbalance.com privacy policy that was archived on 2011-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111027005706id_/http%3A//www.powerbalance.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbalance.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504064943id_/http%3A//www.powerbalance.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy | Power Balance</title>
@@ -81,9 +81,12 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 </script>
 
 <!-- END GOOGLE ANALYTICS CODE -->
-<link rel="canonical" href="http://www.powerbalance.com/privacy-policy/">
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script>
-</head>
+<script type="text/javascript" charset="utf-8">
+			document.observe("dom:loaded", function() {$('newsletter').observe('change', updateEmail_3);});
+		function updateEmail_3() {var listener_emailcapture_id = 3; var listener_value = $(this).value; new Ajax.Request('http://www.powerbalance.com/email_capture/ajax/', {parameters: {emailcaptureId: listener_emailcapture_id, email: listener_value}});}
+			
+</script><link rel="canonical" href="http://www.powerbalance.com/privacy-policy/">
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body class=" cms-page-view cms-privacy-policy" id="legal">
 <div class="wrapper">
 	<div class="nav-overlay-top"></div>
@@ -97,8 +100,7 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
         </div>
     </noscript>
     <div class="page">
-        
-<div class="header-container">
+        <div class="header-container">
   <div class="header-panel">
     </div>
     <div class="header">
@@ -106,6 +108,49 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
             <h1 id="logo" class="logo" title="Power Balance" style="background-image:url(http://www.powerbalance.com/skin/frontend/LucidFusion/default/images/logo.gif);"><a href="http://www.powerbalance.com/">Power Balance</a></h1>
         </div>
                 <div class="quick-access">
+<!-- BEGIN Idhasoft Facebook Connect -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+window.fbAsyncInit = function() {
+	FB.init({
+		appId  : "171869826238042",
+		channelUrl : 'http://www.powerbalance.com/facebook/channel/index/language/en_US/',  // custom channel
+		status : true, // check login status
+		cookie : true, // enable cookies to allow the server to access the session
+		oauth : true,
+		xfbml  : true  // parse XFBML
+	});
+	document.fire("facebook:fbAsyncInit");
+};
+
+(function(d){
+	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/all.js";
+	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+
+document.observe('click', function(e){
+	var target = e.findElement('a[rel^=facebook-connect]') || e.findElement('button[rel^=facebook-connect]');
+	if (target && target.readAttribute('rel')=='facebook-connect') {
+		e.stop();
+		try{
+			FB.login(function(response){
+				if(response.status=='connected'){
+					var today = new Date();
+					today.setTime(today.getTime());
+					var expires = expires * 1000 * 60 * 60 * 24;
+					var expires_date = new Date(today.getTime() + (expires));
+					document.cookie = 'access_token='+response.authResponse.accessToken+'; expires='+expires_date.toGMTString()+'; path=/';
+					setLocation('https://www.powerbalance.com/facebook/customer_account/connect/');
+				}
+			}, {scope: "email"});
+		}catch(error){}
+	}
+});
+//]]>
+</script>
 		<ul class="top-link-wrap">
             <li class="accounts"><ul class="links">
                         <li class="first"><a href="https://www.powerbalance.com/customer/account/" title="My Account">My Account</a></li>
@@ -141,22 +186,24 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
                                 <li class=" last"> or <a href="https://www.powerbalance.com/customer/account/create/" title="register">register</a>.</li>
             </ul>
 </li>
+			<li class="facebook-login">	<a href="javascript:void(0);" rel="facebook-connect"><img src="http://www.powerbalance.com/skin/frontend/LucidFusion/default/images/login-with-facebook-button.png"></a>
+	</li>
 		</ul>
-<!-- START SCANALERT CODE -->
-<div style="position:absolute; text-align:right; top:24px; right:10px; width:65px; height:37px; display:block;">
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.powerbalance.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.powerbalance.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-</div>
-<!-- END SCANALERT CODE --> 
-<div style="position:absolute; text-align:left; top:30px; left:50px; width:290px; height:25px; display:block;">
-<a href="http://www.powerbalance.com/products/"><img width="290" height="25" border="0" src="/skin/frontend/LucidFusion/default/images/free_shipping.gif" alt="Free Shipping on $75 or more (US only)"></a>
-</div>
-        </div>
+			<!-- START SCANALERT CODE -->
+			<div style="position:absolute; text-align:right; top:24px; right:10px; width:65px; height:37px; display:block;">
+			<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.powerbalance.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.powerbalance.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+			</div>
+			<!-- END SCANALERT CODE --> 
+					<div style="position:absolute; text-align:left; top:30px; right:100px; width:290px; height:25px; display:block;">
+			<a href="http://www.powerbalance.com/products/"><img width="290" height="25" border="0" src="/skin/frontend/LucidFusion/default/images/free_shipping.gif" alt="Free Shipping on $75 or more (US only)"></a>
+			</div>
+		        </div>
     </div>
     <div class="header-nav-container">
     <div class="header-nav">
         <h4 class="no-display">Category Navigation:</h4>
         <ul id="nav">        
-		        		<li class="level0"><a href="http://www.powerbalance.com/products">Shop PB</a></li><li class="level0"><a href="http://www.powerbalance.com/PB-team">Athletes</a></li><li class="level0"><a href="http://www.powerbalance.com/powerbalance">Power•Balance</a></li><li class="level0"><a href="http://www.powerbalance.com/store-locator">Store•Locator</a></li><li class="level0"><a href="http://www.powerbalance.com/press">Press</a></li><li class="level0"><a href="http://www.powerbalance.com/cause">Cause</a></li><li class="level0 navlast" style="background:none;"><a href="http://www.powerbalance.com/contacts">Contact</a></li>
+		        		<li class="level0"><a href="http://www.powerbalance.com/products">Shop PB</a></li><li class="level0"><a href="http://www.powerbalance.com/PB-team">Athletes</a></li><li class="level0"><a href="http://www.powerbalance.com/store-locator">Store•Locator</a></li><li class="level0"><a href="http://www.powerbalance.com/press">Press</a></li><li class="level0 navlast" style="background:none;"><a href="http://www.powerbalance.com/contacts">Contact</a></li>
           
         </ul>
 
@@ -210,6 +257,7 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 					</div>
 				</div>
 			</div><!--end newsletter-->
+<div id="mouthgear-wrap"><a href="http://www.powerbalance.com/mouthgear/"><img src="/skin/frontend/LucidFusion/default/images/return_mouthgear.jpg" width="274" height="23" border="0"></a></div>
 </div><!--end social links-->
 </div><!--end header-nav-container-->
 
@@ -220,10 +268,10 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 
   		<div class="extended-navigation-elements" id="extended-navigation-0">
         	<div id="nav-shop-mainimg">
-  				<a href="/baseball-products.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/baseball_dropdown.jpg" alt=""></a>
+  				<a href="/silicone-wristband-black.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/black.jpg" alt=""></a>
   			</div>
             <div id="nav-shop-buynow">
-  				<a href="/baseball-products.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/btn.buy-now.png" alt="Buy now"></a>
+  				<a href="/silicone-wristband-black.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/btn.buy-now.png" alt="Buy now"></a>
   			</div>
             
   			<div id="extended-navigation-shop-content">
@@ -232,15 +280,15 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
   					<a href="/silicone-wristband-226.html"><h2 class="shop-content-h2">Silicone <br>Wristbands</h2></a>
   					<a href="/silicone-wristband-226.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/silicone-wristband-thumb.png" alt="" class="shop-content-thumb"></a>
   				</div>
-  				    	
-		    	<div class="shop-content-elements" id="extended-navigation-neoprene-wristbands">
-		    		<a href="/neoprene-wristband.html"><h2 class="shop-content-h2">Neoprene <br>Wristbands</h2></a>
-  					<a href="/neoprene-wristband.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/neoprene-wristband-thumb.png" alt="" class="shop-content-thumb"></a>
+				
+		    	<div class="shop-content-elements" id="extended-navigation-mouthgear-wristbands">
+		    		<a href="/mouthgear/buynow.html"><h2 class="shop-content-h2"><br>Mouth gear</h2></a>
+  					<a href="/mouthgear/buynow.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/mouthgear-thumb.png" alt="" class="shop-content-thumb"></a>
 		    	</div>
   				
-		    	<div class="shop-content-elements" id="extended-navigation-terrycloth-wristbands">
-		    		<a href="/terrycloth-wristband.html"><h2 class="shop-content-h2">Terrycloth <br>Wristbands</h2></a>
-  					<a href="/terrycloth-wristband.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/terrycloth-wristband-thumb.png" alt="" class="shop-content-thumb"></a>
+		    	<div class="shop-content-elements" id="extended-navigation-giftcard-wristbands">
+		    		<a href="/giftcard.html"><h2 class="shop-content-h2"><br>Gift Cards</h2></a>
+  					<a href="/giftcard.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/giftcard-thumb.png" alt="" class="shop-content-thumb"></a>
 		    	</div>
                 
 		    	<div class="shop-content-elements" id="extended-navigation-sterling-silver-pendants">
@@ -266,12 +314,11 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 				<a href="/silicone-wristband-nba-allstar-m.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/limited-edition-nba.png" alt="" class="limited-edition-thumb"></a>
 	    		<a href="/silicone-wristband-nba-allstar-m.html"><h2 class="limited-edition-h3">NBA All-Star</h2></a>
                 
-                
-				<a href="/ocrf-wristband-white-w-green-lettering-m.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/limited-edition-white.png" alt="" class="limited-edition-thumb"></a>
-	    		<a href="/ocrf-wristband-white-w-green-lettering-m.html"><h2 class="limited-edition-h3">OCRF White</h2></a>
-                
-				<a href="/maddie-james-wristband-green-w-white-lettering-m.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/limited-edition-maddiejames.png" alt="" class="limited-edition-thumb"></a>
-	    		<a href="/maddie-james-wristband-green-w-white-lettering-m.html"><h2 class="limited-edition-h3">Maddie James</h2></a>
+				<a href="/silicone-wristband-red.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/limited-edition-red.png" alt="" class="limited-edition-thumb"></a>
+	    		<a href="/silicone-wristband-red.html"><h2 class="limited-edition-h3">Red Hologram</h2></a>
+				
+				<a href="/silicone-wristband-black.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/limited-edition-black.png" alt="" class="limited-edition-thumb"></a>
+	    		<a href="/silicone-wristband-black.html"><h2 class="limited-edition-h3">Black Hologram</h2></a>
 	    	</div>
   		</div>
 
@@ -285,63 +332,9 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
                 
                 <div id="athletes-images-div">
 						<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-ricky-romero">
-			<span><br>Ricky<br>Romero</span>
-			<img src="/lucidfusion/image.php/athlete-ricky-romero.jpg?width=64&amp;image=/media/athletes/preview/RickyRomeroHeadshot_v02.jpg" alt="Ricky Romero">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-dustin-pedroia">
-			<span><br>Dustin<br>Pedroia</span>
-			<img src="/lucidfusion/image.php/athlete-dustin-pedroia.jpg?width=64&amp;image=/media/athletes/preview/file_3.jpg" alt="Dustin Pedroia">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
 		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-matt-kemp">
 			<span><br>Matt <br>Kemp</span>
 			<img src="/lucidfusion/image.php/athlete-matt-kemp.jpg?width=64&amp;image=/media/athletes/preview/file_2.jpg" alt="Matt  Kemp">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-shane-victorino">
-			<span><br>Shane <br>Victorino</span>
-			<img src="/lucidfusion/image.php/athlete-shane-victorino.jpg?width=64&amp;image=/media/athletes/preview/Shane-Victorino_headshot.jpg" alt="Shane  Victorino">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-lamar-odom">
-			<span><br>Lamar<br>Odom</span>
-			<img src="/lucidfusion/image.php/athlete-lamar-odom.jpg?width=64&amp;image=/media/athletes/preview/LamarOdomHeadshot_v02.jpg" alt="Lamar Odom">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-shaquille-oneal">
-			<span><br>Shaquille<br>O'Neal</span>
-			<img src="/lucidfusion/image.php/athlete-shaquille-oneal.jpg?width=64&amp;image=/media/athletes/preview/ShaquilleOnealHeadshot_v02.jpg" alt="Shaquille O'Neal">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-brandon-jennings">
-			<span><br>Brandon<br>Jennings</span>
-			<img src="/lucidfusion/image.php/athlete-brandon-jennings.jpg?width=64&amp;image=/media/athletes/preview/brandon-jennings-Headshot.jpg" alt="Brandon Jennings">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-derrick-rose">
-			<span><br>Derrick<br>Rose</span>
-			<img src="/lucidfusion/image.php/athlete-derrick-rose.jpg?width=64&amp;image=/media/athletes/preview/derrickrose.jpg" alt="Derrick Rose">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-blake-griffin">
-			<span><br>Blake<br>Griffin</span>
-			<img src="/lucidfusion/image.php/athlete-blake-griffin.jpg?width=64&amp;image=/media/athletes/preview/BlackGriffin_Head210x145.jpg" alt="Blake Griffin">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-casey-patterson">
-			<span><br>Casey<br>Patterson</span>
-			<img src="/lucidfusion/image.php/athlete-casey-patterson.jpg?width=64&amp;image=/media/athletes/preview/CaseyPatterson_v02.jpg" alt="Casey Patterson">
 		</a></div>
 	</div>
 	<div class="nav-athlete">
@@ -357,21 +350,9 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 		</a></div>
 	</div>
 	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-nic-harris">
-			<span><br>Nic<br>Harris</span>
-			<img src="/lucidfusion/image.php/athlete-nic-harris.jpg?width=64&amp;image=/media/athletes/preview/Nic_Harris-headshot-210x145.jpg" alt="Nic Harris">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-vernon-davis">
-			<span><br>Vernon <br>Davis</span>
-			<img src="/lucidfusion/image.php/athlete-vernon-davis.jpg?width=64&amp;image=/media/athletes/preview/VernonDavis_004.jpg" alt="Vernon  Davis">
-		</a></div>
-	</div>
-	<div class="nav-athlete">
-		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-matthew-stafford">
-			<span><br>Matthew<br>Stafford</span>
-			<img src="/lucidfusion/image.php/athlete-matthew-stafford.jpg?width=64&amp;image=/media/athletes/preview/Matt-Stafford-Head-Shot-2.jpg" alt="Matthew Stafford">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/ClayMatthews">
+			<span><br>Clay<br>Matthews</span>
+			<img src="/lucidfusion/image.php/ClayMatthews.jpg?width=64&amp;image=/media/athletes/preview/Clay_Matthews_headshot.jpg" alt="Clay Matthews">
 		</a></div>
 	</div>
 	<div class="nav-athlete">
@@ -380,18 +361,84 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
 			<img src="/lucidfusion/image.php/athlete-rubens-barrichello.jpg?width=64&amp;image=/media/athletes/preview/RubensBarrichelloHeadshot_v02.jpg" alt="Rubens Barrichello">
 		</a></div>
 	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-hunter-mahan">
+			<span><br>Hunter <br>Mahan</span>
+			<img src="/lucidfusion/image.php/athlete-hunter-mahan.jpg?width=64&amp;image=/media/athletes/preview/Mahan_Web_Head.jpg" alt="Hunter  Mahan">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-ricky-barnes">
+			<span><br>Ricky<br>Barnes</span>
+			<img src="/lucidfusion/image.php/athlete-ricky-barnes.jpg?width=64&amp;image=/media/athletes/preview/Barnes_Web_Head.jpg" alt="Ricky Barnes">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-teemu-selanne">
+			<span><br>Teemu<br>Selanne</span>
+			<img src="/lucidfusion/image.php/athlete-teemu-selanne.jpg?width=64&amp;image=/media/athletes/preview/TeemuSelanneHeadshot_v02.jpg" alt="Teemu Selanne">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-jack-curtin">
+			<span><br>Jack <br>Curtin</span>
+			<img src="/lucidfusion/image.php/athlete-jack-curtin.jpg?width=64&amp;image=/media/athletes/preview/Jack_Curtin_Head_Shot_r1.jpg" alt="Jack  Curtin">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-forrest-shearer">
+			<span><br>Forrest<br>Shearer</span>
+			<img src="/lucidfusion/image.php/athlete-forrest-shearer.jpg?width=64&amp;image=/media/athletes/preview/ForestSheareHeadshot_v02.jpg" alt="Forrest Shearer">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-bruce-irons">
+			<span><br>Bruce<br>Irons</span>
+			<img src="/lucidfusion/image.php/athlete-bruce-irons.jpg?width=64&amp;image=/media/athletes/preview/Bruce-Irons-Headshot-2.jpg" alt="Bruce Irons">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-courtney-conlogue">
+			<span><br>Courtney<br>Conlogue</span>
+			<img src="/lucidfusion/image.php/athlete-courtney-conlogue.jpg?width=64&amp;image=/media/athletes/preview/file_1.jpg" alt="Courtney Conlogue">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-adriano-de-souza">
+			<span><br>Adriano<br>de Souza</span>
+			<img src="/lucidfusion/image.php/athlete-adriano-de-souza.jpg?width=64&amp;image=/media/athletes/preview/Adriano-de-Souza_headshot.jpg" alt="Adriano de Souza">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-jadson-andre">
+			<span><br>Jadson <br>Andre</span>
+			<img src="/lucidfusion/image.php/athlete-jadson-andre.jpg?width=64&amp;image=/media/athletes/preview/JadsonAndreHeadshot.jpg" alt="Jadson  Andre">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-brett-simpson">
+			<span><br>Brett<br>Simpson</span>
+			<img src="/lucidfusion/image.php/athlete-brett-simpson.jpg?width=64&amp;image=/media/athletes/preview/brettsi.jpg" alt="Brett Simpson">
+		</a></div>
+	</div>
+	<div class="nav-athlete">
+		<div class="nav-athlete-thumb"><a href="http://www.powerbalance.com/athlete-mardy-fish">
+			<span><br>Mardy <br>Fish</span>
+			<img src="/lucidfusion/image.php/athlete-mardy-fish.jpg?width=64&amp;image=/media/athletes/preview/Mardy-Fish_headshots.jpg" alt="Mardy  Fish">
+		</a></div>
+	</div>
 				</div>
 			</div>
 		
 			<div class="nav-athletes-content-elements" id="featured-video-elements">
 			
 				<div class="nav-title">
-					<h2>Featured Video</h2>
+					<h2>Power Balance Welcomes...</h2>
 				</div>
-				
+
 				<div id="athletes-content-video-div">					
-					<a href="/PB-team#video"><img src="/media/athletes/galleries/25/thumb_1297906979_569846440.jpg" width="260" border="0" style="margin-top:20px;" id="athletes-content-video-thumb"></a>                    
-					<a href="/PB-team#video"><img src="/skin/frontend/LucidFusion/default/images/navigation/more-videos.png" alt="" id="athletes-content-more-videos" class="btnMoreVid"></a>
+					<a href="/ClayMatthews"><img src="/skin/frontend/LucidFusion/default/images/navigation/featured_athlete.jpg" width="260" border="0" id="athletes-content-video-thumb"></a>
+					<a href="/ClayMatthews"><img src="/skin/frontend/LucidFusion/default/images/navigation/clay-matthews.png" alt="" width="125" height="23" style="float:right; margin:5px 15px 0 0;"></a>
 				</div>
 			
 			</div> <!-- END #fatured-video-elements -->
@@ -403,61 +450,18 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
                 </div>
 					
                 <div id="nav-latest-news-posts">
-                    <a href="http://www.livetennisguide.com/2011/10/25/victoria-azarenka-vs-samantha-stosur-wta-istanbul-preview/" target="_blank"><h3 class="latest-news-h3">Victoria Azarenka Vs Samantha Stosur - Live Tennis Guide</h3></a><p class="nav-latest-news-p">Posted OCTOBER 25, 2011</p>
-<a href="http://www.nola.com/saints/index.ssf/2011/10/new_orleans_saints_quarterback_108.html" target="_blank"><h3 class="latest-news-h3">New Orleans Saints quarterback Drew Brees is a master at work and is getting ...</h3></a><p class="nav-latest-news-p">Posted OCTOBER 25, 2011</p>
-<a href="http://blogs.bettor.com/Stunning-performance-puts-Brett-Simpson-in-Round-3-of-Rip-Curl-Pro-Portugal-2011-ASP-World-Tour-a106419" target="_blank"><h3 class="latest-news-h3">Stunning performance puts Brett Simpson in Round 3 of Rip Curl Pro Portugal ... ...</h3></a><p class="nav-latest-news-p">Posted OCTOBER 25, 2011</p>
+                    <a href="http://espn.go.com/blog/nfcsouth/post/_/id/30001/drew-brees-is-offensive-player-of-month" target="_blank"><h3 class="latest-news-h3">Drew Brees is Offensive Player of Month - ESPN (blog)</h3></a><p class="nav-latest-news-p">Posted JANUARY 5, 2012</p>
+<a href="http://www.suntimes.com/sports/basketball/bulls/9819742-579/derrick-rose-injures-elbow-in-bulls-victory-over-pistons.html" target="_blank"><h3 class="latest-news-h3">Derrick Rose injures elbow in Bulls’ victory over Pistons - Chicago Sun-Times</h3></a><p class="nav-latest-news-p">Posted JANUARY 5, 2012</p>
+<a href="http://www.slamonline.com/online/college-hs/high-school/high-school-wire/2012/01/brandon-jennings-invitational-preview/" target="_blank"><h3 class="latest-news-h3">Brandon Jennings Invitational - SLAM Online</h3></a><p class="nav-latest-news-p">Posted JANUARY 5, 2012</p>
                     <a href="/news-athletes"><img src="/skin/frontend/LucidFusion/default/images/navigation/more-news.png" alt="" id="athletes-content-more-news" class="btnMoreNews" style="margin:-15px 0 0 140px;"></a>
                 </div>
 			</div> <!-- END #latest-news-elements -->
 		</div>
     
     
+        
+        
 		<div class="extended-navigation-elements" id="extended-navigation-2">
-            <div class="nav-product-box" id="extended-navigation-partners" style="border-right: 1px solid #000;">
-                <div class="nav-title">
-                    <h2>PB PARTNERS</h2>
-                </div>
-                <div class="nav-inner_2">
-                    <img usemap="#Image-Maps_pbpartners_nav" border="0" width="268" height="174" alt="" style="margin:5px 0px;" src="/skin/frontend/LucidFusion/default/images/navigation/pb-partners.png">                    
-                    <map name="Image-Maps_pbpartners_nav">
-                      <area shape="rect" coords="10,7,105,50" alt="IronMan" title="IronMan" target="_blank" href="http://ironman.com/events/ironman#axzz1CBiuvYfa">
-                      <area shape="rect" coords="182,18,251,61" alt="IMG Academics" title="IMG Academics" target="_blank" href="http://www.imgacademies.com/">
-                      <area target="_blank" href="http://runrocknroll.competitor.com" coords="103,36,179,115" shape="rect">
-                      <area shape="rect" coords="6,118,106,170" alt="AEG" title="AEG" target="_blank" href="http://aegworldwide.com/">
-                      <area shape="rect" coords="178,104,262,166" alt="Ovarian Cancer Research Fund" title="Ovarian Cancer Research Fund" target="_blank" href="http://www.ocrf.org">
-                    </map>
-                    
-                                    </div>
-            </div>
-            
-            <div class="nav-product-box" id="extended-navigation-culture" style="border-right: 1px solid #000;">
-                <div class="nav-title">
-                    <h2>PB LICENSING</h2>
-                </div>
-              <div class="nav-inner_2">
-                <img width="268" height="174" border="0" usemap="#Image-Maps_pblicensing_nav" alt="" style="margin:5px 0px;" src="/skin/frontend/LucidFusion/default/images/navigation/pb-licensing.png">
-                <map name="Image-Maps_pblicensing_nav">
-                  <area shape="rect" coords="20,20,64,116" alt="NBA" title="NBA" target="_blank" href="http://www.nba.com">
-                  <area shape="rect" coords="67,137,201,159" alt="Rawlings" title="Rawlings" target="_blank" href="http://www.rawlings.com">
-                  <area shape="rect" coords="123,33,253,105" alt="MLB" title="MLB" target="_blank" href="http://www.mlb.com">
-                </map>
-
-                                  </div>
-            </div>
-            
-            <div style="padding-right:0;" class="nav-product-box" id="extended-navigation-global">
-                <div class="nav-title">
-                    <h2>PB PAVILION</h2>
-                </div>
-                <div class="nav-inner_2" align="center">
-        			<br><br>
-        			<a href="http://www.powerbalancepavilion.com/" target="_blank"><img src="/skin/frontend/LucidFusion/default/images/powerbalance_page/pb-pavilion.gif" border="0"></a>
-                                    </div>
-            </div>
-        </div>
-        
-        
-		<div class="extended-navigation-elements" id="extended-navigation-3">
         	<div class="storelocator-map">
         	
 <table border="0" cellspacing="0" cellpadding="0" class="map_nav_dots">
@@ -1416,7 +1420,7 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
                     <h2>Store locator</h2>
                 </div>
                 <div id="nav-store-form">
-                    <p>Search your closest store from our 3275 locations:</p>
+                    <p>Search your closest store from our 3286 locations:</p>
                     <form action="/store-locator" method="post">
                         <input type="text" onblur="navDefaultAddress(this);" onfocus="navClearAddress(this);" value="Please enter your address, city or zip code" name="store_address" id="store_address" style="margin-bottom:10px;">
                         
@@ -1427,7 +1431,7 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
         </div>
         
         
-		<div class="extended-navigation-elements" id="extended-navigation-4">
+		<div class="extended-navigation-elements" id="extended-navigation-3">
             <div class="nav-title">
                 <h2>Press</h2>
             </div>
@@ -1436,44 +1440,9 @@ optionalZipCountries = ["AF","DZ","AD","SY"];
             <div id="nav-press-more"><a href="/press"><img src="/skin/frontend/LucidFusion/default/images/navigation/more-press.png" alt="" class="btnMorePress"></a></div>
         </div>
         
-		<div class="extended-navigation-elements" id="extended-navigation-5">
-        	<div class="nav-cause-left">
-                <div class="nav-title">
-                    <h2>PARTNERSHIP FOR A CURE</h2>
-                </div>
-                <div id="nav-cause-ribbon"><img src="/skin/frontend/LucidFusion/default/images/navigation/ribbon.png" width="75" height="90" border="0"></div>
-                
-                <div id="nav-cause-counter">
-                    <span class="raised-box">$125,530</span>
-                </div>
-           		<div class="clearfloat"></div>
-                <div class="cause-more"><a href="/cause"><img src="/skin/frontend/LucidFusion/default/images/navigation/learn-more.png" alt="" class="btnLearnMore"></a></div>
-            </div>
-            
-            <div class="nav-cause-right">
-                <div class="nav-title">
-                    <h2>The OCRF band</h2>
-                </div>
-                <div id="nav-cause-ocrf">
-                	<div id="nav-cause-ocrf-product"></div>
-                    <div id="nav-cause-ocrf-text">Show your support for the fight against ovarian cancer with this limited edition wristband.<br>
-<br>
-For each wristband purchased, a $15 donation will be made directly to the Ovarian Cancer Research Fund.</div>
-					<div class="clearfloat"></div>
-                	<div class="cause-buynow"><a href="/ocrf-wristband-white-w-green-lettering-m.html"><img src="/skin/frontend/LucidFusion/default/images/navigation/buy-now-button.png" alt="Buy now"></a></div>
-                </div>
-            </div>
-            
-            <div class="clearfloat"></div>
-            
-            <div class="nav-cause-bottom">
-            	<div id="nav-cause-bottom-text">Power Balance and our community of athletes are honored to contribute to the legacy that Maddie began<br>and excited to see her dreams realized through The Maddie James Seaside Learning Center.</div>
-                <div class="cause-more2"><a href="/cause"><img src="/skin/frontend/LucidFusion/default/images/navigation/learn-more.png" alt="" class="btnLearnMore"></a></div>
-			</div>
-        </div>
         
         
-		<div class="extended-navigation-elements" id="extended-navigation-6">
+		<div class="extended-navigation-elements" id="extended-navigation-4">
         	<div id="nav-contact-left"></div>
         	<div id="nav-contact-right">
             	<div class="nav-title">
@@ -1598,7 +1567,7 @@ jQuery('#c2a_2').hover(function() {
 </div><!--end main-->
 <div class="footer-container">
     <div class="footer">
-	<address class="copyright">© 2011 Power Balance, LLC. All Rights Reserved.</address>
+	<address class="copyright">© 2012 Power Balance Technologies Inc. All Rights Reserved.</address>
         
 
 <ul style="margin-bottom:10px;">
@@ -1610,7 +1579,6 @@ jQuery('#c2a_2').hover(function() {
 
 
 
-<center><sup>Site by:</sup><a href="http://www.lucidfusion.com" target="_blank"><img src="http://www.powerbalance.com/media/lf_logo.gif"></a></center>
 
 <!-- Google Code for All Previous Visitors Remarketing List -->
 <script type="text/javascript">
