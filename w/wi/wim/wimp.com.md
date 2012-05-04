@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007203840id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504143053id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
