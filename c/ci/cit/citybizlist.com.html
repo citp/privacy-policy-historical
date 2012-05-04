@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2011-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126235917id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citybizlist.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504185101id_/http%3A//www.citybizlist.com/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_head"><meta name="keywords" content="Local B to B Network,Local Business Services,Local Office Space,Local Commercial Real Estate,Local Business,Barter Business,Local Classifieds,Business Listings,Local Business Listing"><meta name="description" content="citybizlist is a city-based network that includes classifieds, news, press releases, events, announcements/community, business services, jobs, blogs, barter, consulting, marketplace/for sale and sponsored links."><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Citybizlist  Privacy Policy
@@ -34,320 +34,27 @@ jQuery(function(){
 <script src="http://www.linkedin.com/companyInsider?script&amp;useBorder=yes" type="text/javascript"></script>
 <script type="text/javascript" src="http://www.linkedin.com/js/public-profile/widget-os.js"></script>
 
-
-<!-- Gigya Script -->
-
-<script src="http://cdn.gigya.com/js/socialize.js?apiKey=2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ" type="text/javascript"></script>
-<script src="http://cdn.gigya.com/wildfire/js/wfapiv2.js" type="text/javascript"></script>
-
-	<script type="text/javascript">
-		var conf =
-{
-	APIKey: '2_69L0zzTQANdISbhw59vSSK3j6-MqK33yGQLq9a8twxu0rIAbAxsp0i5d34fAp3wJ'
-	, enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger'
-	, shortURLs: 'always'
-}
-
-	</script>
-
-	<script type="text/javascript">
-
-		gigya.services.socialize.addEventHandlers(conf, {
-			onLogin: DisplayWidgets,
-			onConnect: DisplayWidgets,
-			onDisconnect: UnDisplayWidgets
-		}
- );
-
-		// When Connected load other components
-		function DisplayWidgets(Response) {
-			gigya.services.socialize.getUserInfo(conf, getStatus_param);
-			//gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params);
-			document.getElementById('gigyaUser').setAttribute('style', 'display:block;');
-			//document.getElementById('NewsfeedWidgetDiv').setAttribute('style', 'display:block;');
-			document.getElementById('gigyaUser').style.display = "block";
-			//document.getElementById('NewsfeedWidgetDiv').style.display = "block";
-			document.getElementById('gigyaLogin').setAttribute('style', 'display:none');
-			document.getElementById('gigyaLogin').style.display = "none";
-			gigya.services.socialize.showConnectUI(conf, minilogin_params);
-			if (window.location.pathname.indexOf('submitnews', 0) != -1) {
-				checkImportConnect();
-			}
-		}
-
-		// When disconnected turn off other components
-		function UnDisplayWidgets(Response) {
-			document.getElementById('gigyaUser').setAttribute('style', 'display:none;');
-			document.getElementById('gigyaUser').style.display = "none";
-			//document.getElementById('NewsfeedWidgetDiv').style.display = "none";
-			//document.getElementById('NewsfeedWidgetDiv').setAttribute('style', 'display:none;');
-			document.getElementById('gigyaLogin').setAttribute('style', 'display:block');
-			document.getElementById('gigyaLogin').style.display = "block";
-			if (window.location.pathname.indexOf('submitnews', 0) != -1) {
-				checkImportConnect();
-			}
-		}
-
-		// Params for connect Object
-		var connect_params =
-			{
-				useHTML: true
-				, showTermsLink: false
-				, height: 48
-				, width: 220
-				, containerID: 'GigyaDiv'
-				, UIConfig: '<config><body><controls><snbuttons buttonsize="28"></snbuttons></controls></body></config>'
-				, useFacebookConnect: true
-				, captionText: 'Connect to update your status and update your activity on citybizlist.com'
-				, showCaption: true
-				, hideGigyaLink: true
-				, onLoad: checkConnect
-			};
-
-		//Params for UserMiniLogin Object
-		var minilogin_params =
-			{
-				useHTML: true
-				, showTermsLink: false
-				, height: 35
-				, width: 188
-				, containerID: 'gigyaUserMiniLogin'
-				, UIConfig: '<config><body><controls><snbuttons buttonsize="18"></snbuttons></controls></body></config>'
-				, useFacebookConnect: true
-				//, headerText: 'Social Sharing'
-				, showCaption: false
-				//, captionText: 'Connect to update your status and update your activity on citybizlist.com'
-				, hideGigyaLink: true
-				, showEditLink: false
-			};
-
-		//Params for Edit Connections Object
-		var editconnect_param =
-			{
-				showCaption: true,
-				captionText: 'Edit Your Citybizlist Connections',
-				showTermsLink: false
-			}
-
-		//Params for Newsfeed Object
-		var newsfeed_params = {
-			//General parameters  
-			containerID: 'NewsfeedWidgetDiv'
-			, width: '577'
-			, height: '240'
-     , siteName: 'Citybizlist' //site name  
-     , updateFreq: 60   //update frequency in seconds  
-     , tabOrder: 'everyone,friends,me'
-     , initialTab: 'everyone'
-     , borderColor: '#aaaaaa'
-     , separatorColor: '#000000'
-			, defaultBackgroundColor: 'white'
-			//Inner widget config  
-			//, enabledProviders: 'linkedin,facebook,twitter,yahoo,myspace'   
-     , loginUI: 'default'
-     , loginUIConfig: '<config><body><captions background-color="#52A4DA" color="#FFFFFF"></captions><texts color="#353535"><links color="#0000FF"></links></texts><controls><snbuttons color="#000000"></snbuttons><scrollingarrow color="#BBE4FF"></scrollingarrow></controls><background frame-color="Transparent"></background></body></config>' //UI XML  
-     , friendSelectorUIConfig: '<config><body><texts color="#2B2B2B"></texts><background background-color="Transparent" frame-color="#AAAAAA"></background></body></config>' //UI XML
-     , invitationText: "Come See CityBizList" //invitation text  
-     , invitationURL: window.location.href //link back URL in invitation  
-          , cid: 'newsfeed' //context id to tag data
-		};
-
-		// Params for getting User Info & Status
-		var getStatus_param = {
-			callback: printResponse
-		};
-
-		// Process User Info & Display
-		function printResponse(response) {
-			if (response.errorCode == 0) {
-				var user = response['user'];
-				var txt = document.getElementById('gigyaUserGreeting');
-				txt.textContent = "Welcome " + user['firstName'];
-				txt.innerText = "Welcome " + user['firstName'];
-				document.getElementById('gigyaUserImage').setAttribute('src', user['thumbnailURL']);
-			}
-			else {
-				alert('Error :' + response.errorMessage);
-			}
-		}
-
-		//Set New Status
-		function setStatus() {
-			gigya.services.socialize.setStatus(conf, { status: document.getElementById('newstatustext').value });
-			closeUpdateBox();
-		}
-
-		function editConnections() {
-			gigya.services.socialize.showEditConnectionsUI(conf, editconnect_param);
-		}
-
-		//Check Status When Page Loads
-		function checkConnect(Response) {
-			var checkParams = { callback: checkResponse };
-			gigya.services.socialize.getUserInfo(conf, checkParams);
-		}
-
-		//If already Logged In - display other widgets
-		function checkResponse(Response) {
-			if (Response.errorCode == 0) {
-				var user = Response['user'];
-				if (user['isConnected'] == true) {
-					DisplayWidgets();
-
-				}
-				if (window.location.pathname.indexOf('submitnews', 0) != -1) {
-					populateImportInfo(Response);
-				}
-			}
-		}
-
-		// Enable update status
-		function openUpdateBox() {
-			var panel = document.getElementById('updatepanel');
-			var openUpdate = document.getElementById('updateOpen');
-			var closeUpdate = document.getElementById('updateClose');
-			var updateMessage = document.getElementById('updateMessage');
-
-			panel.style.display = "block";
-			openUpdate.style.display = "none";
-			closeUpdate.style.display = "block";
-			updateMessage.style.display = "none";
-		}
-
-		//Disable update status
-		function closeUpdateBox() {
-			var panel = document.getElementById('updatepanel');
-			var openUpdate = document.getElementById('updateOpen');
-			var closeUpdate = document.getElementById('updateClose');
-			var updateMessage = document.getElementById('updateMessage');
-
-			panel.style.display = "none";
-			openUpdate.style.display = "block";
-			closeUpdate.style.display = "none";
-			updateMessage.style.display = "none";
-		}
-	</script>
-	
-	<script type="text/javascript">
-
-		// Create and Publish User's Action
-		function showShareUI() {
-
-			if (document.all) {
-				title = document.getElementsByTagName('h1')[0].innerText;
-				//title = document.getElementById('ititle').innerText;
-			}
-			else {
-				title = document.getElementsByTagName('h1')[0].textContent;
-				//title = document.getElementById('ititle').textContent;
-			}
-
-			var act = new gigya.services.socialize.UserAction();
-			act.setUserMessage("From citybizlist:");
-			act.setTitle(title);
-			act.setLinkBack(window.location.href);
-			var image = {
-				src: 'http://a3.twimg.com/profile_images/178700859/cbl_bigger.gif',
-				href: window.location.href,
-				type: 'image'
-			}
-			act.addMediaItem(image);
-
-
-			// Parameters for the showShareUI method, including the UserAction object
-			var share_params =
-			{
-				userAction: act,
-				useHTML: true,
-				onError: onError,
-				onSendDone: onSendDone,
-				showEmailButton: false,
-				showMoreButton: true,
-				enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger',
-				scope: 'both',				
-				privacy: 'public'
-				//, useFBDialog: true
-			};
-
-			// Show the "Share" dialog
-			gigya.services.socialize.showShareUI(conf, share_params);
-
-		}
-
-		// onError event handler
-		function onError(event) {
-			alert('An error has occured' + ': ' + event.status + '; ' + event.statusMessage);
-		}
-
-		// onSendDone event handler. 
-		function onSendDone(event) {
-			if( $('#status').length>0 )
-			{ 
-				$('#status').css('color', 'green');
-				$('#status').val( 'The Social Network has been posted to: ' + event.providers);
-			}			
-		}
-
-		function showWildfire() {
-			if (document.all) {
-				title = document.getElementsByTagName('h1')[0].innerText;
-				//title = document.getElementById('ititle').innerText;
-			}
-			else {
-				title = document.getElementsByTagName('h1')[0].textContent;
-				//title = document.getElementById('ititle').textContent;
-			}
-
-
-			var pconf = {
-				useFacebookMystuff: 'false',
-				widgetTitle: 'Email this to a friend',
-				contentIsLayout: 'false',
-				emailSubject: '$sender$ has sent you an interesting link from citybizlist',
-				emailBody: '<p>The following email has been sent to you as a courtesy of citybizlist.com by $sender$, along with the following message:</p>' +
-					'<p>$userMsg$<br/><strong>' + title + '</strong></p><p>To view this page,  $URL$</p><p>This page can also be accessed if you copy and paste the entire address' +
-					'below into your web browser: ' + window.location.href,
-				companyName: 'Citybizlist.com',
-				defaultEmailMessage: 'From citybizlist:',
-				UIConfig: '<config baseTheme="v2"><display showEmail="true" showPost="false" showBookmark="false" showCloseButton="true"></display></config>'
-			};
-			pconf['onClose'] = closeWildfire;
-			Wildfire.initPost('1304591', 'GigyaWildfireEmailDiv', 300, 200, pconf);
-			document.getElementById('GigyaWildfireEmailDiv').style.display = "block";
-			document.getElementById('GigyaWildfireEmailDiv').focus();
-		}
-
-		function closeWildfire(eventObj) {
-			document.getElementById('GigyaWildfireEmailDiv').innerHTML = "";
-			//GigyaWildfireEmailDiv.textContent = "";
-			//document.getElementById('GigyaWildfireEmailDiv').style.display = "none";
-			document.getElementById('GigyaWildfireEmailDiv').style.height = "0";
-		}
-</script>
-
  <script defer="" src="http://www.apture.com/js/apture.js?siteToken=9vTp0CO"></script></head>
-<body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
-    <form name="aspnetForm" method="post" action="/privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLKAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUucHpiZGwwa3EsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAAAAAAABgMAAAAAAAYEAAAABGxpdmUJAwAAAAkDAAAABgYAAAAUaHR0cDovLzIwNy4yMi42Ni4zNy8JAwAAAAkDAAAAC2QWBAIBD2QWBgIRDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAhMPFgIfAQVCMl82OUwwenpUUUFOZElTYmh3NTl2U1NLM2o2LU1xSzMzeUdRTHE5YTh0d3h1MHJJQWJBeHNwMGk1ZDM0ZkFwM3dKZAIVDxYCHwEFQjJfNjlMMHp6VFFBTmRJU2JodzU5dlNTSzNqNi1NcUszM3lHUUxxOWE4dHd4dTBySUFiQXhzcDBpNWQzNGZBcDN3SmQCAw8WAh4GYWN0aW9uBRMvcHJpdmFjeXBvbGljeS5hc3B4FgZmD2QWAmYPZBYCAgEPFgIeBWNsYXNzBQxNYWluSG9tZXBhZ2UWFAIBDxYCHgdWaXNpYmxlaGQCAw9kFgJmDxYCHwEF7AE8aWZyYW1lIHNyYz0naHR0cDovL3RoaXMuY29udGVudC5zZXJ2ZWQuYnkuYWRzaHVmZmxlLmNvbS9wL2tsLzQ2Lzc5OS9yLzEyLzQvOC9hc3QwazNuL2VYd3kzWmVrMmN0b0xrM2l2NXJzdlE9PS92aWV3Lmh0bWwnIGhlaWdodD0nOTAnIHdpZHRoPSc3MjgnIHNjcm9sbGluZz1ubyBmcmFtZWJvcmRlcj0wIGFsbG93dHJhbnNwYXJlbmN5PSd0cnVlJyBtYXJnaW53aWR0aD0wIG1hcmdpbmhlaWdodD0wPjwvaWZyYW1lPmQCBQ8WAh4LXyFJdGVtQ291bnQCCBYQZg9kFgJmDxUCATEQQWNjb3VudGluZyBGaXJtc2QCAQ9kFgJmDxUCATIgQWR2ZXJ0aXNpbmcvTWVkaWEvQ29tbXVuaWNhdGlvbnNkAgIPZBYCZg8VAgIxNgdDYXBpdGFsZAIDD2QWAmYPFQICMTkJQ0VPL0JvYXJkZAIED2QWAmYPFQICMjIQR2VuZXJhbCBCdXNpbmVzc2QCBQ9kFgJmDxUCATUOSGVhbHRoL0Jpb3RlY2hkAgYPZBYCZg8VAgIyMxNJbnRlcm5ldC9UZWNobm9sb2d5ZAIHD2QWAmYPFQIBNhBJbnZlc3RtZW50IEZpcm1zZAIHDxYCHwUCBxYOZg9kFgJmDxUCATcJTGF3IEZpcm1zZAIBD2QWAmYPFQICMTcWTWVyZ2VycyAmIEFjcXVpc2l0aW9uc2QCAg9kFgJmDxUCATkOTW9uZXkgTWFuYWdlcnNkAgMPZBYCZg8VAgIyMAZQZW9wbGVkAgQPZBYCZg8VAgIxMRFQcml2YXRlIENvbXBhbmllc2QCBQ9kFgJmDxUCAjEyEFB1YmxpYyBDb21wYW5pZXNkAgYPZBYCZg8VAgIxOA9WZW50dXJlIENhcGl0YWxkAgkPFgIfBQIIFhBmD2QWAmYPFQIBMRBBY2NvdW50aW5nIEZpcm1zZAIBD2QWAmYPFQIBMiBBZHZlcnRpc2luZy9NZWRpYS9Db21tdW5pY2F0aW9uc2QCAg9kFgJmDxUCAjE2B0NhcGl0YWxkAgMPZBYCZg8VAgIxOQlDRU8vQm9hcmRkAgQPZBYCZg8VAgIyMhBHZW5lcmFsIEJ1c2luZXNzZAIFD2QWAmYPFQIBNQ5IZWFsdGgvQmlvdGVjaGQCBg9kFgJmDxUCAjIzE0ludGVybmV0L1RlY2hub2xvZ3lkAgcPZBYCZg8VAgE2EEludmVzdG1lbnQgRmlybXNkAgsPFgIfBQIHFg5mD2QWAmYPFQIBNwlMYXcgRmlybXNkAgEPZBYCZg8VAgIxNxZNZXJnZXJzICYgQWNxdWlzaXRpb25zZAICD2QWAmYPFQIBOQ5Nb25leSBNYW5hZ2Vyc2QCAw9kFgJmDxUCAjIwBlBlb3BsZWQCBA9kFgJmDxUCAjExEVByaXZhdGUgQ29tcGFuaWVzZAIFD2QWAmYPFQICMTIQUHVibGljIENvbXBhbmllc2QCBg9kFgJmDxUCAjE4D1ZlbnR1cmUgQ2FwaXRhbGQCDQ8WAh8FAgoWFGYPZBYCZg8VAgEzB0F0bGFudGFkAgEPZBYCZg8VAgExCUJhbHRpbW9yZWQCAg9kFgJmDxUCATcGQm9zdG9uZAIDD2QWAmYPFQICMTQRQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAgIxNgZEYWxsYXNkAgUPZBYCZg8VAgIxNwdIb3VzdG9uZAIGD2QWAmYPFQICMTgITmV3IFlvcmtkAgcPZBYCZg8VAgEyDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCATYNU291dGggRmxvcmlkYWQCCQ9kFgJmDxUCATUNV2FzaGluZ3RvbiBEQ2QCDw8WAh8FAgMWBmYPZBYCZg8VAgExCUJhbHRpbW9yZWQCAQ9kFgJmDxUCATcGQm9zdG9uZAICD2QWAmYPFQIBNQ1XYXNoaW5ndG9uIERDZAIRD2QWBAIBDxYCHwUCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8FAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCFw8WAh8EaBYEAgMPFgIfBQILFhZmD2QWAmYPFQIfaHR0cDovL2F0bGFudGEuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIhaHR0cDovL2JhbHRpbW9yZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCHmh0dHA6Ly9ib3N0b24uY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAihodHRwOi8vY2hhcmxvdHRlUmFsZWlnaC5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIeaHR0cDovL2RhbGxhcy5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCH2h0dHA6Ly9ob3VzdG9uLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCH2h0dHA6Ly9uZXd5b3JrLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAh5odHRwOi8vcGhpbGx5LmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIID2QWAmYPFQIiaHR0cDovL3BpdHRzYnVyZ2guY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIkaHR0cDovL3NvdXRoZmxvcmlkYS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAhpodHRwOi8vZGMuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIFDxYCHwUCCxYWZg9kFgJmDxUCKWh0dHA6Ly9hdGxhbnRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAitodHRwOi8vYmFsdGltb3JlUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCUJhbHRpbW9yZWQCAg9kFgJmDxUCKGh0dHA6Ly9ib3N0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIyaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAihodHRwOi8vZGFsbGFzUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkRhbGxhc2QCBQ9kFgJmDxUCKWh0dHA6Ly9ob3VzdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAilodHRwOi8vbmV3eW9ya1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwhOZXcgWW9ya2QCBw9kFgJmDxUCKGh0dHA6Ly9waGlsbHlSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8MUGhpbGFkZWxwaGlhZAIID2QWAmYPFQIsaHR0cDovL3BpdHRzYnVyZ2hSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCLmh0dHA6Ly9zb3V0aGZsb3JpZGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NU291dGggRmxvcmlkYWQCCg9kFgJmDxUCJGh0dHA6Ly9kY1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1XYXNoaW5ndG9uIERDZAIBD2QWAmYPDxYCHwRoZBYCAgEPFgIfAwUVUmVhbGVzdGF0ZSByZWFsZXN0YXRlFgoCAQ8WAh8EaGQCAw9kFgJmDxYCHwEF7AE8aWZyYW1lIHNyYz0naHR0cDovL3RoaXMuY29udGVudC5zZXJ2ZWQuYnkuYWRzaHVmZmxlLmNvbS9wL2tsLzQ2Lzc5OS9yLzEyLzQvOC9hc3QwazNuL2VYd3kzWmVrMmN0YVlqU2c0VGxmaEE9PS92aWV3Lmh0bWwnIGhlaWdodD0nOTAnIHdpZHRoPSc3MjgnIHNjcm9sbGluZz1ubyBmcmFtZWJvcmRlcj0wIGFsbG93dHJhbnNwYXJlbmN5PSd0cnVlJyBtYXJnaW53aWR0aD0wIG1hcmdpbmhlaWdodD0wPjwvaWZyYW1lPmQCCQ8WAh8FAgoWFGYPZBYCZg8VAgEzB0F0bGFudGFkAgEPZBYCZg8VAgExCUJhbHRpbW9yZWQCAg9kFgJmDxUCATcGQm9zdG9uZAIDD2QWAmYPFQICMTQRQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAgIxNgZEYWxsYXNkAgUPZBYCZg8VAgIxNwdIb3VzdG9uZAIGD2QWAmYPFQICMTgITmV3IFlvcmtkAgcPZBYCZg8VAgEyDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCATYNU291dGggRmxvcmlkYWQCCQ9kFgJmDxUCATUNV2FzaGluZ3RvbiBEQ2QCCw8WAh8FAgMWBmYPZBYCZg8VAgExCUJhbHRpbW9yZWQCAQ9kFgJmDxUCATcGQm9zdG9uZAICD2QWAmYPFQIBNQ1XYXNoaW5ndG9uIERDZAIND2QWBAIBDxYCHwUCCxYWZg9kFgJmDxUCH2h0dHA6Ly9hdGxhbnRhLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCIWh0dHA6Ly9iYWx0aW1vcmUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAh5odHRwOi8vYm9zdG9uLmNpdHliaXpsaXN0LmNvbS8GQm9zdG9uZAIDD2QWAmYPFQIoaHR0cDovL2NoYXJsb3R0ZVJhbGVpZ2guY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCHmh0dHA6Ly9kYWxsYXMuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAh9odHRwOi8vaG91c3Rvbi5jaXR5Yml6bGlzdC5jb20vB0hvdXN0b25kAgYPZBYCZg8VAh9odHRwOi8vbmV3eW9yay5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIeaHR0cDovL3BoaWxseS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCImh0dHA6Ly9waXR0c2J1cmdoLmNpdHliaXpsaXN0LmNvbS8KUGl0dHNidXJnaGQCCQ9kFgJmDxUCJGh0dHA6Ly9zb3V0aGZsb3JpZGEuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIaaHR0cDovL2RjLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAw8WAh8FAgsWFmYPZBYCZg8VAilodHRwOi8vYXRsYW50YVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdBdGxhbnRhZAIBD2QWAmYPFQIraHR0cDovL2JhbHRpbW9yZVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwlCYWx0aW1vcmVkAgIPZBYCZg8VAihodHRwOi8vYm9zdG9uUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCMmh0dHA6Ly9jaGFybG90dGVSYWxlaWdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vEUNoYXJsb3R0ZSBSYWxlaWdoZAIED2QWAmYPFQIoaHR0cDovL2RhbGxhc1JlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZEYWxsYXNkAgUPZBYCZg8VAilodHRwOi8vaG91c3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIpaHR0cDovL25ld3lvcmtSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8ITmV3IFlvcmtkAgcPZBYCZg8VAihodHRwOi8vcGhpbGx5UmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDFBoaWxhZGVscGhpYWQCCA9kFgJmDxUCLGh0dHA6Ly9waXR0c2J1cmdoUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAi5odHRwOi8vc291dGhmbG9yaWRhUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVNvdXRoIEZsb3JpZGFkAgoPZBYCZg8VAiRodHRwOi8vZGNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8NV2FzaGluZ3RvbiBEQ2QCAg9kFgYCAw8PFgIfBGhkFgICAQ8QDxYCHgtfIURhdGFCb3VuZGdkDxYPAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPFg8QBRBBY2NvdW50aW5nIEZpcm1zBQExZxAFIEFkdmVydGlzaW5nL01lZGlhL0NvbW11bmljYXRpb25zBQEyZxAFB0NhcGl0YWwFAjE2ZxAFCUNFTy9Cb2FyZAUCMTlnEAUQR2VuZXJhbCBCdXNpbmVzcwUCMjJnEAUOSGVhbHRoL0Jpb3RlY2gFATVnEAUTSW50ZXJuZXQvVGVjaG5vbG9neQUCMjNnEAUQSW52ZXN0bWVudCBGaXJtcwUBNmcQBQlMYXcgRmlybXMFATdnEAUWTWVyZ2VycyAmIEFjcXVpc2l0aW9ucwUCMTdnEAUOTW9uZXkgTWFuYWdlcnMFATlnEAUGUGVvcGxlBQIyMGcQBRFQcml2YXRlIENvbXBhbmllcwUCMTFnEAUQUHVibGljIENvbXBhbmllcwUCMTJnEAUPVmVudHVyZSBDYXBpdGFsBQIxOGcWAWZkAgcPDxYCHwRoZGQCCw9kFgICAQ9kFgJmDw8WAh8EaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRZfY3RsMDpoZWFkZXI6YnRuU2VhcmNoxMIHH69g5QyBB96pf+s7R8Akxa8=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKynJuZDgL/7a7WDwKT7fiPBgLDx4ygAYrIF+Aed5W686GDPEvY3MG9d1T6">
-        
-				
-				
+<body>
+    <form name="aspnetForm" method="post" action="/privacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WAh4HQ0JMQ2l0eTLKAgABAAAA/////wEAAAAAAAAADAIAAABIQXBwX0NvZGUucHpiZGwwa3EsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAASY2l0eWJpei5DQkxDaXR5XzA5CQAAAAhfaW50Q2l0eQxfc3RyQ2l0eU5hbWUNX2lzUmVhbEVzdGF0ZRJfYXBwbGljYXRpb25TdGF0dXMKX3N0cllCQ2l0eQhfc3RyUGF0aAdzdHJSb290FF9zdHJUYWdsaW5lSW1hZ2VOYW1lE19zdHJCYW5uZXJJbWFnZU5hbWUAAQABAQEBAQEIAQIAAAAAAAAABgMAAAAAAAYEAAAABGxpdmUJAwAAAAkDAAAABgYAAAAUaHR0cDovLzIwNy4yMi42Ni4zNy8JAwAAAAkDAAAAC2QWBAIBD2QWAgIRDxYCHgRUZXh0BQxjaXR5Yml6Ym1vcmVkAgMPFgIeBmFjdGlvbgUTL3ByaXZhY3lQb2xpY3kuYXNweBYGZg9kFgJmD2QWAgIBDxYCHgVjbGFzcwUMTWFpbkhvbWVwYWdlFhICAQ8WAh4HVmlzaWJsZWhkAgMPZBYCZg8WAh8BBewBPGlmcmFtZSBzcmM9J2h0dHA6Ly90aGlzLmNvbnRlbnQuc2VydmVkLmJ5LmFkc2h1ZmZsZS5jb20vcC9rbC80Ni83OTkvci8xMi80LzgvYXN0MGszbi9lWHd5M1plazJjdG9MazNpdjVyc3ZRPT0vdmlldy5odG1sJyBoZWlnaHQ9JzkwJyB3aWR0aD0nNzI4JyBzY3JvbGxpbmc9bm8gZnJhbWVib3JkZXI9MCBhbGxvd3RyYW5zcGFyZW5jeT0ndHJ1ZScgbWFyZ2lud2lkdGg9MCBtYXJnaW5oZWlnaHQ9MD48L2lmcmFtZT5kAgUPFgIeC18hSXRlbUNvdW50AggWEGYPZBYCZg8VAgExEEFjY291bnRpbmcgRmlybXNkAgEPZBYCZg8VAgEyIEFkdmVydGlzaW5nL01lZGlhL0NvbW11bmljYXRpb25zZAICD2QWAmYPFQICMTYHQ2FwaXRhbGQCAw9kFgJmDxUCAjE5CUNFTy9Cb2FyZGQCBA9kFgJmDxUCAjIy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dHRwOi8vYXRsYW50YS5jaXR5Yml6bGlzdC5jb20vB0F0bGFudGFkAgEPZBYCZg8VAiFodHRwOi8vYmFsdGltb3JlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIeaHR0cDovL2Jvc3Rvbi5jaXR5Yml6bGlzdC5jb20vBkJvc3RvbmQCAw9kFgJmDxUCKGh0dHA6Ly9jaGFybG90dGVSYWxlaWdoLmNpdHliaXpsaXN0LmNvbS8RQ2hhcmxvdHRlIFJhbGVpZ2hkAgQPZBYCZg8VAh5odHRwOi8vZGFsbGFzLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIfaHR0cDovL2hvdXN0b24uY2l0eWJpemxpc3QuY29tLwdIb3VzdG9uZAIGD2QWAmYPFQIfaHR0cDovL25ld3lvcmsuY2l0eWJpemxpc3QuY29tLwhOZXcgWW9ya2QCBw9kFgJmDxUCHmh0dHA6Ly9waGlsbHkuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAiJodHRwOi8vcGl0dHNidXJnaC5jaXR5Yml6bGlzdC5jb20vClBpdHRzYnVyZ2hkAgkPZBYCZg8VAiRodHRwOi8vc291dGhmbG9yaWRhLmNpdHliaXpsaXN0LmNvbS8NU291dGggRmxvcmlkYWQCCg9kFgJmDxUCGmh0dHA6Ly9kYy5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgMPFgIfBQILFhZmD2QWAmYPFQIpaHR0cDovL2F0bGFudGFSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HQXRsYW50YWQCAQ9kFgJmDxUCK2h0dHA6Ly9iYWx0aW1vcmVSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8JQmFsdGltb3JlZAICD2QWAmYPFQIoaHR0cDovL2Jvc3RvblJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwZCb3N0b25kAgMPZBYCZg8VAjJodHRwOi8vY2hhcmxvdHRlUmFsZWlnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLxFDaGFybG90dGUgUmFsZWlnaGQCBA9kFgJmDxUCKGh0dHA6Ly9kYWxsYXNSZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8GRGFsbGFzZAIFD2QWAmYPFQIpaHR0cDovL2hvdXN0b25SZWFsZXN0YXRlLmNpdHliaXpsaXN0LmNvbS8HSG91c3RvbmQCBg9kFgJmDxUCKWh0dHA6Ly9uZXd5b3JrUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vCE5ldyBZb3JrZAIHD2QWAmYPFQIoaHR0cDovL3BoaWxseVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwxQaGlsYWRlbHBoaWFkAggPZBYCZg8VAixodHRwOi8vcGl0dHNidXJnaFJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLwpQaXR0c2J1cmdoZAIJD2QWAmYPFQIuaHR0cDovL3NvdXRoZmxvcmlkYVJlYWxlc3RhdGUuY2l0eWJpemxpc3QuY29tLw1Tb3V0aCBGbG9yaWRhZAIKD2QWAmYPFQIkaHR0cDovL2RjUmVhbGVzdGF0ZS5jaXR5Yml6bGlzdC5jb20vDVdhc2hpbmd0b24gRENkAgIPZBYEAgMPZBYCAgEPEA8WAh4LXyFEYXRhQm91bmRnZA8WDwIBAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDxYPEAUQQWNjb3VudGluZyBGaXJtcwUBMWcQBSBBZHZlcnRpc2luZy9NZWRpYS9Db21tdW5pY2F0aW9ucwUBMmcQBQdDYXBpdGFsBQIxNmcQBQlDRU8vQm9hcmQFAjE5ZxAFEEdlbmVyYWwgQnVzaW5lc3MFAjIyZxAFDkhlYWx0aC9CaW90ZWNoBQE1ZxAFE0ludGVybmV0L1RlY2hub2xvZ3kFAjIzZxAFEEludmVzdG1lbnQgRmlybXMFATZnEAUJTGF3IEZpcm1zBQE3ZxAFFk1lcmdlcnMgJiBBY3F1aXNpdGlvbnMFAjE3ZxAFDk1vbmV5IE1hbmFnZXJzBQE5ZxAFBlBlb3BsZQUCMjBnEAURUHJpdmF0ZSBDb21wYW5pZXMFAjExZxAFEFB1YmxpYyBDb21wYW5pZXMFAjEyZxAFD1ZlbnR1cmUgQ2FwaXRhbAUCMThnFgFmZAIJD2QWAgIBD2QWAmYPDxYCHwRoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFl9jdGwwOmhlYWRlcjpidG5TZWFyY2hRyTj0lWBeAQ8CzqCCTZyyM9okVw==">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEwLToLDOCQL/7a7WDwKT7fiPBgKKsISYCgKF3672BgKE3672BgKF39b1BgKF34L2BgKE3+b1BgKB3672BgKE39r1BgKA3672BgKD3672BgKF38r1BgKd3672BgKE3+71BgKF3+L1BgKF3+b1BgKF3472BtCwlcaT8PcBLBGTfJwP4Adu2uQn">
+            								
 				<div id="top">
     
 						
  
      <div id="secondaryContainer">
-
-    	<ul id="secondary">
-		<li><a href="/multCityEmail.aspx">Email Sign Up</a> | </li>
-            	<li><a href="/aboutus.aspx">About Citybizlist</a> | </li>
-            	<li><a href="/contactus.aspx">Contact Us</a> | </li>
-              <li><a href="/advertise/advertise-your-business.aspx">Advertise</a> | </li>
-              <li><a href="/YourCitybizNews/SubmitNews.aspx">Contribute</a></li>
-            </ul>
-        </div>
+			<ul id="secondary">
+				<li><a href="/multCityEmail.aspx">Rewards Sign Up</a> | </li>
+				<li><a href="http://citybizlist.rapidbuyr.com/CurrentDeals">Current Deals</a> | </li>
+				<li><a href="/multCityEmail.aspx">Email Sign Up</a> | </li>
+				<li><a href="/advertise/advertise-your-business.aspx">Advertise</a> | </li>
+				<li><a href="/YourCitybizNews/SubmitNews.aspx">Contribute</a></li>
+			</ul>
+		 </div>
      <div id="_ctl0_header_headerWrapper" class="MainHomepage">
      <div id="header">			
 			
@@ -810,16 +517,22 @@ jQuery(function(){
 							</li>						
 						
             <li id="searcharea">
+							
 	            <fieldset>
+								<div id="_ctl0_header_pnlSearch">
+	
                     <label for="search">Search</label> 
                     <input name="_ctl0:header:tbSearch" type="text" id="_ctl0_header_tbSearch" class="search">
                     <input type="image" name="_ctl0:header:btnSearch" id="_ctl0_header_btnSearch" title="Search" class="submit" src="/images/200910/layout/search-go.png" border="0">
-                </fieldset>
+
+								
+</div>
+              </fieldset>							
              </li>
         </ul>
         
 				
-    </div>
+    </div> <!--Header-->
     </div>
             
 						<div id="container">
@@ -834,13 +547,33 @@ jQuery(function(){
                 </ul>	
                 
                 
-                
-                
-                
 
+<div id="mbn">
+    <span class="mbn">More Topics:</span>
+    <select name="_ctl0:phContent:moreNews:ddTopics" id="_ctl0_phContent_moreNews_ddTopics">
+	<option selected="selected" value="">Choose a Sector</option>
+	<option value="1">Accounting Firms</option>
+	<option value="2">Advertising/Media/Communications</option>
+	<option value="16">Capital</option>
+	<option value="19">CEO/Board</option>
+	<option value="22">General Business</option>
+	<option value="5">Health/Biotech</option>
+	<option value="23">Internet/Technology</option>
+	<option value="6">Investment Firms</option>
+	<option value="7">Law Firms</option>
+	<option value="17">Mergers &amp; Acquisitions</option>
+	<option value="9">Money Managers</option>
+	<option value="20">People</option>
+	<option value="11">Private Companies</option>
+	<option value="12">Public Companies</option>
+	<option value="18">Venture Capital</option>
+
+</select>     
+</div> 
                 
                 
                 
+                                                
                 
                 
 
@@ -946,197 +679,13 @@ jQuery(function(){
 
 <div id="footer">
   <ul>
-	    <li class="copyright">© 2010 citybizlist | </li>
+	    <li class="copyright">© 2012 citybizlist | </li>
         <li><a href="/aboutus.aspx">About Citybizlist</a> | </li>
         <li><a href="/terms.aspx">Terms</a> | </li>
         <li><a href="/privacyPolicy.aspx">Privacy Policy</a> |</li>
         <li>Web Site Design and Development by <a href="http://www.berndtgroup.net">The Berndt Group</a></li>
     </ul>
-</div> <!-- end footer -->
-        
-        <!-- Add Meebo Footer -->
-        
-
-<div id="MeeboDiv">
-
-	<input type="hidden" name="_ctl0:MeeboFooter1:CityName" id="_ctl0_MeeboFooter1_CityName" value="http://www.citybizlist.com/">		
-
-	<script type="text/javascript">
-
-		// Create and Publish User's Action
-		function showShareUI() {
-			
-			title = "Gigya Share";
-
-			if (document.all) {
-				title = document.getElementsByTagName('h1')[0].innerText;
-				//title = document.getElementById('ititle').innerText;
-			}
-			else {
-				title = document.getElementsByTagName('h1')[0].textContent;
-				//title = document.getElementById('ititle').textContent;
-			}			
-
-			var act = new gigya.services.socialize.UserAction();
-			act.setUserMessage("From citybizlist:");
-			act.setTitle(title);
-			act.setLinkBack(window.location.href);
-			var image = {
-				src: 'http://a3.twimg.com/profile_images/178700859/cbl_bigger.gif',
-				href: window.location.href,
-				type: 'image'
-			}
-			act.addMediaItem(image);
-
-
-			// Parameters for the showShareUI method, including the UserAction object
-			var share_params =
-			{
-				userAction: act,
-				useHTML: true,
-				onError: onError,
-				onSendDone: onSendDone,
-				showEmailButton: false,
-				showMoreButton: true,
-				enabledProviders: 'linkedin,facebook,twitter,yahoo,google,messenger',
-				scope: 'both',
-				privacy: 'public'
-				//, useFBDialog: true
-			};
-
-			// Show the "Share" dialog
-			gigya.services.socialize.showShareUI(conf, share_params);
-
-		}
-
-		// onError event handler
-		function onError(event) {
-			alert('An error has occured' + ': ' + event.status + '; ' + event.statusMessage);
-		}
-
-		// onSendDone event handler. 
-		function onSendDone(event) {
-			if ($('#status').length > 0) {
-				$('#status').css('color', 'green');
-				$('#status').val('The Social Network has been posted to: ' + event.providers);
-			}
-		}
-
-		function showWildfire() {
-			if (document.all) {
-				title = document.getElementsByTagName('h1')[0].innerText;
-				//title = document.getElementById('ititle').innerText;
-			}
-			else {
-				title = document.getElementsByTagName('h1')[0].textContent;
-				//title = document.getElementById('ititle').textContent;
-			}
-
-
-			var pconf = {
-				useFacebookMystuff: 'false',
-				widgetTitle: 'Email this to a friend',
-				contentIsLayout: 'false',
-				emailSubject: '$sender$ has sent you an interesting link from citybizlist',
-				emailBody: '<p>The following email has been sent to you as a courtesy of citybizlist.com by $sender$, along with the following message:</p>' +
-					'<p>$userMsg$<br/><strong>' + title + '</strong></p><p>To view this page,  $URL$</p><p>This page can also be accessed if you copy and paste the entire address' +
-					'below into your web browser: ' + window.location.href,
-				companyName: 'Citybizlist.com',
-				defaultEmailMessage: 'From citybizlist:',
-				UIConfig: '<config baseTheme="v2"><display showEmail="true" showPost="false" showBookmark="false" showCloseButton="true"></display></config>'
-			};
-			pconf['onClose'] = closeWildfire;
-			Wildfire.initPost('1304591', 'GigyaWildfireEmailDiv', 300, 200, pconf);
-			document.getElementById('GigyaWildfireEmailDiv').style.display = "block";
-			document.getElementById('GigyaWildfireEmailDiv').focus();
-		}
-
-		function closeWildfire(eventObj) {
-			document.getElementById('GigyaWildfireEmailDiv').innerHTML = "";
-			//GigyaWildfireEmailDiv.textContent = "";
-			//document.getElementById('GigyaWildfireEmailDiv').style.display = "none";
-			document.getElementById('GigyaWildfireEmailDiv').style.height = "0";
-		}
-	</script>
-
-	<script type="text/javascript">
-	
-		window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
-		j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
-		"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
-		a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
-		m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
-		{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
-		h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
-		b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
-		f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
-		m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
-		b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
-		d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
-		b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
-		'\\"') + '");d.close();'} a.T(1)} ({ network: "citybizlist" });
-
-		Meebo.disableSharePageButton = true;
-
-    jQuery(document).ready(function() { gigya.services.socialize.showLoginUI(conf, connect_params); gigya.services.socialize.showNewsfeedUI(conf, newsfeed_params); gigya.services.socialize.showConnectUI(conf, minilogin_params); })
-
-		Meebo('removeButton', { id: 'meebo_facebookactivity' });
-		Meebo('removeButton', { id: 'meebo_stumbleupon' });
-		Meebo('removeButton', { id: 'meebo_twittersearch' });
-		Meebo('removeButton', { id: 'meebo_rss' });
-		Meebo('removeButton', { id: 'meebo_facebookfan' });
-		Meebo('removeButton', { id: 'meebo_facebookrecommendations' });
-		Meebo('removeButton', { id: 'meebo_meebome' });
-		Meebo('removeButton', { id: 'meebo_diggthis' });
-		Meebo('removeButton', { id: 'meebo_facebooklike' });
-		Meebo('removeButton', { id: 'meebo_flickrstream' });
-		Meebo('removeButton', { id: 'meebo_youtube' });
-		Meebo('removeButton', { id: 'meebo_menu' });
-
-		var strCity = document.getElementById('_ctl0_MeeboFooter1_CityName').value;				
-
-		Meebo('addButton', {
-			id: "EmailThisPage",
-			type: "action",
-			icon: "/images/meeboFooter/email.png",
-			label: "Sign up for emails",
-			onClick: function() { window.location = strCity + "multCityEmail.aspx"; }
-		});
-
-		Meebo('addButton', {
-			id: "Contribute",
-			type: "action",
-			icon: "/images/meeboFooter/contribute.png",
-			label: "Contribute",
-			onClick: function() { window.location = strCity + "yourCitybizNews/SubmitNews.aspx"; }
-		});
-
-		Meebo('addButton', {
-			id: "Advertise",
-			type: "action",
-			icon: "/images/meeboFooter/advertise.png",
-			label: "Advertise",
-			onClick: function() { window.location = strCity + "advertise/advertise-your-business.aspx"; }
-		});
-
-		Meebo('addButton', {
-			id: "GigyaShare",
-			type: "action",
-			icon: "/images/meeboFooter/share.png",
-			label: "Share This Page",
-			onClick: function() { showShareUI(); }
-		});
-
-		//CDM - Commenting out since this is live
-		//Meebo('unhide');
-		
-	</script>
-	
-	<script type="text/javascript">
-		Meebo('domReady');
-	</script>
-
-</div>
+</div> <!-- end footer -->                
         
     </div><!-- end top -->        				        
 
