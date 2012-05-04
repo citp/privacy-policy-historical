@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193535id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklocker.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032040id_/http%3A//www.booklocker.com/privacy.html) for the most accurate reproduction.*
 
 # BookLocker.com
 
@@ -24,12 +24,12 @@ This site contains links to other sites. BookLocker.com is not responsible for t
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us in the following ways:
 
-Using the form [here](https://web.archive.org/web/20111101193535id_/http%3A//www.booklocker.com/help/contact.html).
+Using the form [here](https://web.archive.org/web/20120504032040id_/http%3A//www.booklocker.com/help/contact.html).
 
 Mailing us at:  
 Booklocker.com, Inc.  
-13435 S. McCall Road, #394  
-Port Charlotte, FL 33981
+5726 Cortez Rd W, #349  
+Bradenton, FL 34210
 
 Or faxing us at:  
 305-768-0261 
