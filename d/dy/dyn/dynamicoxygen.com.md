@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicoxygen.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/privacy.htm) for the most accurate reproduction.*
 
 # DynamicOxygen - The New Wave in Search Targeting!
 
-  |  | | [Company Overview](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/about.htm)  
+  |  | | [Company Overview](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/about.htm)  
   
 ---|---  
-| [Product Overview](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/product_overview.htm)  
+| [Product Overview](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/product_overview.htm)  
   
-| [Investor Relations](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/investor_relations.htm)  
+| [Investor Relations](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/investor_relations.htm)  
   
-| [Careers](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/careers.htm)  
+| [Careers](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/careers.htm)  
   
-| [Press Resources](https://web.archive.org/web/20111009104940id_/http%3A//www.dynamicoxygen.com/press_resources.htm)  
+| [Press Resources](https://web.archive.org/web/20120504023340id_/http%3A//dynamicoxygen.com/press_resources.htm)  
   
 | Privacy Policy  
   
@@ -28,6 +28,10 @@ The Service may collect any or all of the following information: (i) non-persona
 DO automatically collects Non-PII that may be used to improve our Service or website. Additionally, Non-PII may be shared with third party vendors, clients, partners and publishers, but only in anonymous form.
 
 Non-PII may be collected from browsers, advertisers and third-party sites via the use of Cookies, log files and web beacons. "Cookies" are files that are stored on your Internet enabled device. Cookies are used to improve the Service. The Service cannot control the use of Cookies or the resulting information collected by advertisers or other third parties. You may set up your browser to deny Cookies; however, please note that Cookies may be required to access certain parts of the Service. .Log Files. contain data such as: IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" track: browsing behavior, transaction completion, application submission and the navigation of website(s). All information collected by Cookies, Log files and Web beacons are Non-PII.
+
+**Opt-out of Cookies**
+
+You may opt-out of DO Cookies at [Dynamic Oxygen Opt Out Page](https://pub.dynamicoxygen.com/optout.jsp)
 
 **PII**
 
