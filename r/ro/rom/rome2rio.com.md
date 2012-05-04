@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144750id_/http%3A//www.rome2rio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504204912id_/http%3A//www.rome2rio.com/privacy) for the most accurate reproduction.*
 
 # rome2rio: Privacy Policy
 
@@ -89,8 +89,8 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@rome2rio.com, or send mail to:
 
 Rome2rio Pty. Ltd.  
-35 Hambleton St.  
-Albert Park VIC 3206  
+5/90 Kavanagh St.  
+Southbank VIC 3006  
 Australia
 
 Updates:
