@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011074358id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044731id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
@@ -94,7 +94,7 @@ It is our privacy policy here at FORZIERI to respect the privacy of our visitors
 
 ### Security
 
-We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our internal fulfillment system. To further enhance our security measures, our fulfillment system is not accessible via the Internet and we delete from our web site database all credit card information within 24 hours of receipt.
+We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our payment processing gateway.
 
 ### Links
 
