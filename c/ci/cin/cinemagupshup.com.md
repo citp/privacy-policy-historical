@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cinemagupshup.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125014224id_/http%3A//www.cinemagupshup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemagupshup.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504065113id_/http%3A//www.cinemagupshup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy | Cinema Gupshup
 
 **Privacy Policy for www.cinemagupshup.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact Us](http://www.cinemagupshup.com/contact.html).
+If you require any more information or have any questions about our privacy policy, please feel free to Contact Us.
 
 At www.cinemagupshup.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.cinemagupshup.com and how it is used.
 
