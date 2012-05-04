@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214548id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022555id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
 
 # Celtx - Privacy
 
 This privacy policy is designed to assist you in understanding how Celtx uses and safeguards the information and resources that you provide to us.
-
-Celtx provides the Celtx Software ("Software") and manages operations of the Celtx Web Site, and the Celtx Studios (collectively, "Services"). The Services may require registration, and the selection of usernames and passwords, in order to function.
 
 ## Use of Information
 
