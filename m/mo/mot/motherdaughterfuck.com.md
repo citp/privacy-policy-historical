@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherdaughterfuck.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163515id_/http%3A//track.motherdaughterfuck.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherdaughterfuck.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022233id_/http%3A//track.motherdaughterfuck.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
