@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meetme.so privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231112414id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetme.so privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504073526id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web site (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/) and [www.meetme.so](http://meetme.so/). By using the Service, you consent to the privacy practices described in this Policy. 
+We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web sites (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/), [www.meetme.so](http://meetme.so/) and [www.booknow.so](http://booknow.so/). By using the Service, you consent to the privacy practices described in this Policy. 
 
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit. 
 
@@ -34,7 +34,7 @@ Our Service is not intended to be used by children under the age of 13, and we d
 
 All contact information and content submitted by you is stored in our database and may be archived elsewhere. We have no obligation to store our records indefinitely. 
 
-At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to resolve technical support cases, to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with people you invite to your meetings. 
+At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to resolve technical support cases, to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. Please note that ScheduleOnce will never initiate contact with your users or customers. 
 
 **Disclosure of personal information.**
 
@@ -72,4 +72,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20111231112414id_/http://www.scheduleonce.com/contactus.aspx) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20120502075024id_/http://www.scheduleonce.com/contactus.aspx) via our contact form. 
