@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221210600id_/http%3A//www.smartcredit.com/helpCenter/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcredit.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504224108id_/http%3A//www.smartcredit.com/helpCenter/legal/privacy.jsp) for the most accurate reproduction.*
 
 # SmartCredit - Privacy Policy
 
