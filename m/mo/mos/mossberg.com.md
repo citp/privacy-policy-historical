@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104134102id_/http%3A//www.mossberg.com/content.asp%3Fid%3D580) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504171029id_/http%3A//www.mossberg.com/content.asp%3Fid%3D580) for the most accurate reproduction.*
 
 # O.F. Mossberg & Sons, Inc. - Firearms, Shotguns, Rifles, Accessories, and Precision Machining
 
@@ -83,5 +83,13 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Mossberg will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
+| 
+
 |   
----|---
+---  
+**US DEALERS:**  
+**INTL DEALERS:**  
+  
+THIS WEEK'S FEATURED TIP: 
+
+Don't make the common duck hunting mistake of "over calling," where over-eager waterfowlers actually scare birds away. Instead, try the hide-and-seek approach: Limit your calling, but keep them interested. 
