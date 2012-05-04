@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129015736id_/http%3A//cablemover.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504234431id_/http%3A//cablemover.com/Privacy-Policy) for the most accurate reproduction.*
 
 # CableMover - Cable TV, High-Speed Internet and Phone
 
@@ -54,4 +54,4 @@ If required by law, we may disclose information you have provided in connection 
 We reserve the right to modify or amend this Privacy Policy at any time and for any reason. If we are going to use your Information in a manner materially different from that stated at the time of collection we will notify you via e-mail or other available means. You will have a choice as to whether or not we use your Information in this materially different manner. In addition, if we make any material changes in our privacy practices that do not affect Information already stored in our database, we will post a prominent notice on our Website notifying users of the change. In some cases where we post the notice we will also e-mail users, notifying them of the changes in our privacy practices.
 
 **Contacting Us**  
-If you need help using our service or have a question regarding the products or services offered by any of our service providers, email us at [info@ctam.com](mailto:info@ctam.com) or call us at 703-549-4200.
+If you need help using our service or have a question regarding the products or services offered by any of our service providers, email us at [info@ctam.com](mailto:info@ctam.com) or call us at 301-485-8900.
