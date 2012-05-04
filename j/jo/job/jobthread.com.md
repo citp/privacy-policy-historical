@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobthread.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414022223id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobthread.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504203123id_/http%3A//www.jobthread.com/privacy) for the most accurate reproduction.*
 
 # JobThread | Privacy Policy
 
@@ -8,7 +8,7 @@ We have a simple policy: We'll never sell, rent or give away your personal infor
 
 Questions or Comments 
 
-If you have questions or comments about this privacy policy, please [contact us](http://www.jobthread.com/contact). 
+If you have questions or comments about this privacy policy, please [contact us](http://www.jobthread.com/contact?ref=privacy). 
 
 Privacy Policy (the full version) 
 
@@ -42,7 +42,7 @@ Users may access their own personal information via their "Settings" page and co
 
 Part IV. Problem Resolution 
 
-If problems arise, users may contact JobThread, Inc. via our [Contact Us](http://www.jobthread.com/contact) page. 
+If problems arise, users may contact JobThread, Inc. via our [Contact Us](http://www.jobthread.com/contact?ref=privacy) page. 
 
 Part V. Data Storage and Security 
 
@@ -50,4 +50,4 @@ JobThread, Inc. protects user information with a variety of security technologie
 
 Questions or Comments 
 
-If you have questions or comments about this privacy policy, please [contact us](http://www.jobthread.com/contact). 
+If you have questions or comments about this privacy policy, please [contact us](http://www.jobthread.com/contact?ref=privacy). 
