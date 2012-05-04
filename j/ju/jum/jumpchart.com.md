@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226024139id_/https%3A//www.jumpchart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504150703id_/https%3A//www.jumpchart.com/privacy-policy) for the most accurate reproduction.*
 
 # Jumpchart - Simple Website Planning and Wireframing » Privacy Policy
 
