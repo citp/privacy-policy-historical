@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222035424id_/http%3A//www.gmi-mr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025917id_/http%3A//www.gmi-mr.com/privacy) for the most accurate reproduction.*
 
 # GMI | Global Market Insite | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
 
-In addition to the privacy policy guidelines noted below, GMI, including GMI's GlobalTestMarket, adheres to the principles set forth in the Safe Harbor framework as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to GMI and GlobalTestMarket from the European Union.
+In addition to the privacy policy guidelines noted below, GMI, including GMI's GlobalTestMarket, adheres to the principles set forth in the Safe Harbor frameworks as established by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information provided to GMI and GlobalTestMarket from the European Union and/or Switzerland.
 
 ## What personally identifiable information does GMI collect from me?
 
