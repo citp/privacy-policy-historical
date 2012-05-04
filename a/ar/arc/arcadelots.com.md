@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208041547id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504082059id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Arcadelots Games
+# Privacy Policy - Car Racing Games | Car Games | Racing Games
 
 Privacy Policy  
 
