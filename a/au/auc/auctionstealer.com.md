@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233302id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionstealer.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505010936id_/http%3A//www.auctionstealer.com/privacy.cfm) for the most accurate reproduction.*
 
 # AuctionStealer - Free online ebay auction sniper software free ebay sniper esnipe ebay snipe site e snipe auctions ebay auction sniper site bid sniper
 
@@ -14,9 +14,11 @@ TABLE OF CONTENTS
 
 GENERAL OVERVIEW
 
-[](http://www.truste.org/ivalidate.php?url=www.auctionstealer.com&sealid=101) AuctionStealer.com, Inc. created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our login page. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the site, as well as to existing information held by us. 
+[](https://privacy.truste.com/privacy-seal/AuctionStealer-com-Inc-/validation?rid=09376102-e5ed-4cbf-bf09-c3451e296841 "TRUSTe online privacy certification")
 
-By accepting the following terms, you consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the guidelines of our Terms of Use. This Privacy Policy is effective upon registration for new users, and is otherwise effective on May 15, 2008 for all users. The previous amendment to this Privacy Policy was effective for all users on June 16, 2005. 
+AuctionStealer.com, Inc. created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for this website. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our login page. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the site, as well as to existing information held by us. 
+
+By accepting the following terms, you consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the guidelines of our Terms of Use. This Privacy Policy is effective upon registration for new users, and is otherwise effective on April 12, 2012 for all users. The previous amendment to this Privacy Policy was effective for all users on May 15, 2008. 
 
 INFORMATION WE COLLECT
 
@@ -30,6 +32,8 @@ We automatically track certain information based upon your behavior on the site.
 
 "Cookies" are pieces of information that are passed to your browser and stored on your computer's hard drive. We use cookies to recognize repeat visitors, to automatically enter your login ID in our login form, and to provide additional features to make navigating our site easier and more efficient. If you do not wish to receive cookies, you can turn them off using your browser's settings. Some of our business partners (e.g., tracking utility company) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.auctionstealer.com only and does not cover the use of cookies by any third parties. 
 
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+
 INFORMATION USAGE
 
 We use personal information in order to provide and enhance the services offered on our site. AuctionStealer.com, Inc. does not sell, rent, or lease its customer lists to third parties. 
@@ -38,7 +42,7 @@ We give you the ability to receive information via email about our Products and 
 
 From time to time, we might contact you on behalf of external business partners about a particular offering that may be of interest to you. You will have the opportunity opt-out of receiving these type of offers sent on behalf of third parties. You will also have the choice to respond to the offer or not. In those cases, your unique personally identifiable information, such as your name and email address, is not transferred to the third party. 
 
-We will send you strictly service-related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. 
+We will send you service-related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. 
 
 At any time, you may change the communications you wish to receive or not, by updating your profile. In addition, in our emails and other communications, we will include instructions on how to unsubscribe and inform us of preferences if you decide you do not want to receive any future marketing or promotional emails from us. [See Access, Modify or Delete Your Personal Information] 
 
@@ -62,11 +66,11 @@ You can access your Personal Information on the Your Profile page, update it, co
 
 If you request that we cancel your account, you will not be able to use any of the services available to members on our site unless you re-register. 
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](http://www.auctionstealer.com/contact.cfm). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 PRIVACY DISPUTES
 
-AuctionStealer.com, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because AuctionStealer.com, Inc. wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding AuctionStealer.com, Inc. privacy practices, you should first contact our Privacy Officer. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [Contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+AuctionStealer.com Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.auctionstealer.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact our privacy officer](http://www.auctionstealer.com/contact.cfm?privacy=yes). If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 CONTACT INFORMATION
 
