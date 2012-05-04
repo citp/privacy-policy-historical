@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the dailydealbuilder.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004416id_/http%3A//dailydealbuilder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydealbuilder.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024418id_/http%3A//dailydealbuilder.com/privacy.html) for the most accurate reproduction.*
 
-# Private and Personal
+# Daily Deal Builder | Daily Deal Platform | White Label Deal Software
+
+[****](http://www.hcdesk.com/)
 
 Your privacy is very important to us. We want to make your experience on the internet as enjoyable and rewarding as possible, and we want you to use the internet's vast array of information, tools, and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our internet services (herein the "Services"), those who access some of our "Services" but do not have accounts (herein "Visitors"), as well as those who may purchase products and/or pay a monthly service fee to subscribe to the "Services" (herein "Members"). Also included is what we do with the information we collect, and the choices "Visitors" and "Members" have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-##  Personal Information Our Company Collects and How It Is Used
+## Personal Information Our Company Collects and How It Is Used
 
 Introduction: Our Company collects information in different ways from "Visitors" and "Members" who access the various parts of our "Services" and the network and web sites accessible through our "Services."
 
@@ -40,7 +42,7 @@ Special Cases: It is our company's policy to use or share the personal informat
 
 Also, we may disclose personal information about "Visitors" or "Members," or information regarding your use the "Services" or web sites accessible through our "Services," for any reason if, in our sole discretion, we believe it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information in order to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy of Terms of Services, or other user policies, to operate the "Services" properly, or to protect our company and our "Members."
 
-##  Notice to California Residents: Your California Privacy Rights
+## Notice to California Residents: Your California Privacy Rights
 
 Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to admin@snempire.com and please include the phrase "California Privacy Request" in the subject line, the domain of the web site you are inquiring about, and your name, address, and email address. We will respond to you within 30 days of receiving such a request.
 
@@ -50,7 +52,7 @@ Advertisers and partners may also use their own cookies. We do not control the u
 
 Our Company Commitment to Children's Privacy: Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our web sites to persons eighteen years of age and older.
 
-###  YOU MUST BE EIGHTEEN (18) YEARS OF AGE OF OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE. NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
+### YOU MUST BE EIGHTEEN (18) YEARS OF AGE OF OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE. NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
 
 Public Forums: Please remember that any information you may disclose in any "Member" directory, or other public areas of our web sites, or the internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
@@ -61,3 +63,7 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions a
 Revisions to This Policy: Our Company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
 Last Updated: December 17th, 2010
+
+Daily Deal Builder Communications:  
+Email: [support@hcdesk.com](mailto:support@hcdesk.com)  
+Phone: 1-800-794-7192 
