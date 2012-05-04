@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103033425id_/http%3A//www.mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031317id_/http%3A//www.mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # MailEnable - Privacy Policy
 
@@ -16,11 +16,11 @@ MailEnable provides opt-in, two pass confirmation for its distribution lists. Th
 
 MailEnable will not intentionally release any confidential customer related information to third-parties. 
 
-**MailEnable Spyware/Adware Policy**
+### MailEnable Spyware/Adware Policy
 
-MailEnable�s policy on Spyware and Adware is that NO Spyware or Adware of any kind will ever be included with any of the products downloaded from this web site. Our products will never install any tracking software on your system or collect personal information about you and your browsing habits. 
+MailEnable's policy on Spyware and Adware is that NO Spyware or Adware of any kind will ever be included with any of the products downloaded from this web site. Our products will never install any tracking software on your system or collect personal information about you and your browsing habits. 
 
-Specifically, MailEnable asserts that the MailEnable website and associated programs;
+Specifically, MailEnable asserts that the MailEnable website and associated programs...
 
   * Will not generate popup advertisements
   * Will never use spyware or adware
@@ -29,6 +29,6 @@ Specifically, MailEnable asserts that the MailEnable website and associated prog
 
 
 
-If you choose to download free trial versions of our software from our website, we assert that no other programs are being downloaded with it. You will be downloading only the program you requested.
+If you choose to download free trial versions of our software from our website, we assert that no other programs are being downloaded with it. You will be downloading only the program you requested. 
 
 Files available for download from the MailEnable website are scanned for worms, trojans, and viruses with the latest anti-virus programs and definition files to ensure that every file is clean. 
