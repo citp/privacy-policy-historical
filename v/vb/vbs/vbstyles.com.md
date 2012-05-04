@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008135004id_/http%3A//www.vbstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505015548id_/http%3A//www.vbstyles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - VBStyles
 
@@ -17,9 +17,9 @@ We care seriously about protecting your privacy. Please send us any questions an
 **What information do we collect?**
 
 **Personal: Name, email addresses, phone number, and password**  
-All passwords are stored on our server in encrypted form - even we can not tell what they are! If you lose your password, you request us to send a secret URL to your email address, using which you can reset your password.
+All passwords are stored on our server in encrypted form - even we can not tell what they are! If you lose your password, you request us to send a secret URL to your email address, using which you can reset your password. Your phone number will be used only for verifying the style purchase and won't be used for any other purpose.
 
-**Usage: Number of logins, last login, activity and error logs**  
+ **Usage: Number of logins, last login, activity and error logs**  
 This data helps us monitor VBStyles's health, interest and diagnose errors and slowness issues when they crop up. We use your phone number for payment verification only and no other purpose.
 
   
