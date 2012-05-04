@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230022532id_/http%3A//www.metacdn.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504081528id_/http%3A//www.metacdn.com/privacy.jsp) for the most accurate reproduction.*
 
 # MetaCDN - Privacy Policy
 
@@ -22,7 +22,7 @@ MetaCDN may retain correspondence from you for tracking purposes only and, excep
 
 ### Special Offers
 
-MetaCDN may occasionally send you information on products, services, special deals, or a newsletter. Out of respect for your privacy, MetaCDN will present the option to not receive these types of communications. 
+MetaCDN may occasionally send you information on products, services, special deals, or a newsletter. Out of respect for your privacy, MetaCDN will present the option to not receive these types of communications.
 
 ### Site and Service Updates
 
@@ -30,7 +30,7 @@ MetaCDN may send you site and service announcement updates. You are not able to 
 
 ### Correcting/Updating Personal Information
 
-MetaCDN will provide a way for you to correct or update your personal data. This can usually be done at your Account Information page or by electronically mailing our Customer Support atÂ support@metacdn.com
+MetaCDN will provide a way for you to correct or update your personal data. This can usually be done at your Account Information page or by electronically mailing our Customer Support at support@metacdn.com
 
 ### Removing Personal Information and Content
 
