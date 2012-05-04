@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151438id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504154504id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,8 +91,8 @@ The Website uses commercially reasonable administrative, technical, personnel an
 Visitors to the Website may review the Registration Information we maintain about them in our records whenever possible. If you would like to review, correct, or delete this information, please contact the Website at:
 
 Fox Connect C/O Twentieth Century Fox Home Entertainment Online  
-20102 South Vermont Avenue  
-Torrance, CA 90502  
+2816 Columbia Street  
+Torrance, CA 90503  
 Telephone:(888) 223-4369  
 International Callers: (310) 217-4764  
 Fax: (888) 443-4369  
@@ -110,8 +110,8 @@ Email: privacypolicy@foxhome.com
 
 Mail: Fox Connect  
 C/O Twentieth Century Fox Home Entertainment Online  
-20102 South Vermont Avenue  
-Torrance, CA 90502  
+2816 Columbia Street  
+Torrance, CA 90503  
 Telephone: (888) 223-4369  
 International Callers: (310) 217-4764  
 Fax: (888) 443-4369 
