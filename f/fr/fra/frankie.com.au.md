@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022025248id_/http%3A//www.morrisonmedia.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankie.com.au privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044913id_/http%3A//frankie.com.au/privacy) for the most accurate reproduction.*
 
-# ::::: morrison media :::::
+# Privacy
 
-  | 
-
-**At Morrsion Media, we see the protection of your privacy to be of the highest importance. We do not automatically log personal data/information, nor do we link information automatically logged by other means with personal data about specific individuals.**
+**At Morrison Media, we see the protection of your privacy to be of the highest importance. We do not automatically log personal data/information, nor do we link information automatically logged by other means with personal data about specific individuals.**
 
 When you look at our site, our Internet service provider (ISP) and Morrison Media Services Pty Ltd make records of your visit and log the following information for statistical purposes:  
 \- your server address  
@@ -19,6 +17,6 @@ We will only record your email address or other details you provide if you send 
 Your details will only be used for the purpose for which you have provided them and will never be added to any mailing list without your express permission. We will not use or disclose them to anyone else without your prior consent.
 
 Our Privacy Policy and our approach to privacy adheres to the Australian Government's National Privacy Principles contained within the new Privacy Amendment (Private Sector) Act 2000.  
-If you have a question about our Privacy Policy, or would like to gain access to information we might hold about you, please contact us at [alan.brodiej@morrisonmedia.com.au](mailto:alan.brodie@morrisonmedia.com.au) or phone +(61) 7 5576 1388.
+If you have a question about our Privacy Policy, or would like to gain access to information we might hold about you, please contact us at [here](mailto:alan.brodie@morrisonmedia.com.au) or phone +(61) 7 5576 1388.
 
 You can obtain more information on Australia's approach to privacy from the Australian Privacy Commissioner's website.
