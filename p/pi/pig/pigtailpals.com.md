@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108153546id_/http%3A//pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigtailpals.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504043925id_/http%3A//www.pigtailpals.com/privacypolicy.html) for the most accurate reproduction.*
 
 # pigtailpals.com Empowering Apparel for Girls
 
