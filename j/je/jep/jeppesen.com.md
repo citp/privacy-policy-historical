@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221102455id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504103433id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - JeppDirect
 
@@ -36,7 +36,7 @@ Our Sites are not designed for, nor do we knowingly collect, personal informatio
 
 EU SAFE HARBOR 
 
-Jeppesen abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program.](http://www.export.gov/safeharbor/SafeHarborInfo.htm)
+Jeppesen abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the [U.S. Department of Commerce Safe Harbor Program.](http://www.export.gov/safeharbor)
 
 USE OF COOKIES, IP ADDRESSES AND WEB BEACONS 
 
