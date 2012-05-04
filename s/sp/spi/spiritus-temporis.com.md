@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritus-temporis.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120045643id_/http%3A//www.spiritus-temporis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritus-temporis.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022416id_/http%3A//www.spiritus-temporis.com/privacy.html) for the most accurate reproduction.*
 
 # Spiritus-Temporis.com - Historical Events, Latest News, News Archives
 
