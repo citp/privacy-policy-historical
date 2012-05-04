@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225220706id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023500id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | CatTipper.com
+# Privacy : CatTipper.com
 
 This privacy policy applies to the use of CatTipper.com.
 
