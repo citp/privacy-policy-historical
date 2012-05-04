@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227074116id_/http%3A//www.ukflooringdirect.co.uk/info/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031659id_/http%3A//www.ukflooringdirect.co.uk/info/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - UK Flooring Direct | Solid Wood, Engineered, Vinyl, Laminate, Oak, Walnut, Bamboo & Cork Floors | Carpets
+# None
 
 ##  **About Us**
 
@@ -55,7 +55,7 @@ We also need your email address and other contact details, in particular, for se
 
 
 
-We also need to use your contact details and other information for any aspect of the Website (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [_Terms and Conditions_](http://www.ukflooringdirect.co.uk/info/Terms_%252526_Conditions.html) and [_Terms of Use_](http://www.ukflooringdirect.co.uk/www.ukflooringdirect.co.uk/info/Website_Terms_of_Use.html) and verifying information). 
+We also need to use your contact details and other information for any aspect of the Website (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [_Terms and Conditions_](http://www.ukflooringdirect.co.uk/info/Terms_%252526_Conditions.html) and [_Terms of Use_](https://web.archive.org/www.ukflooringdirect.co.uk/info/Website_Terms_of_Use.html) and verifying information). 
 
 We may maintain your user history (such as frequency of use, data accessed and detail of data accessed) for up to six years following purchase.
 
