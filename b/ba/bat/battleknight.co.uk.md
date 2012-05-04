@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the battleknight.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105001645id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26%26f_text%3Dffcc66%26f_text_hover%3Dffffff%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffcc66%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D000000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleknight.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504175614id_/http%3A//agb.gameforge.de/index.php%3Flang%3Den%26art%3Ddatenschutz%26%26f_text%3Dffcc66%26f_text_hover%3Dffffff%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffcc66%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D000000) for the most accurate reproduction.*
 
 # Gameforge
 
-**_Privacy Statement_**
+**_Privacy Policy_**
 
-Gameforge Productions GmbH and Gameforge 4D GmbH, both domiciled in Albert-Nestler-Straße 8, 76131 Karlsruhe, and the other companies of the Gameforge Group ("Gameforge"), take the protection of your personal data very seriously. The following Privacy Statement will provide you information about the personal data that is collected and how it is processed and used.
+Gameforge Productions GmbH and Gameforge 4D GmbH, both domiciled in Albert-Nestler-Straße 8, 76131 Karlsruhe, and the other companies of the Gameforge Group ("Gameforge"), take the protection of your personal data very seriously. The following Privacy Policy will provide you information about the personal data that is collected and how it is processed and used.
 
- **Subject matter of this Privacy Statement**  
-This Privacy Statement applies to all services which are offered on Gameforge Internet pages, in particular the Gameforge portal and the individual online gaming sites. Unless stated otherwise, this Privacy Statements exclusively regulates how Gameforge treats your personal data. In case you make use of services provided by third parties, the privacy policies of these third parties apply exclusively. Gameforge does not revise privacy policies of third parties.
+ **Subject matter of this Privacy Policy**  
+This Privacy Policy applies to all services which are offered on Gameforge Internet pages, in particular the Gameforge portal and the individual online gaming sites. Unless stated otherwise, this Privacy Policy exclusively regulates how Gameforge treats your personal data. In case you make use of services provided by third parties, the privacy policies of these third parties apply exclusively. Gameforge does not revise privacy policies of third parties.
 
  **Data controller**  
 The data controller according to the Federal Data Protection Act is Gameforge Productions GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.  
@@ -42,7 +42,7 @@ gameforge@news.gameforge.com, gameforge_web@news.gameforge.com, gameforge_mmo@ne
 Finally, we use your data in order to protect our websites against abusive use and to trace any unauthorised access.
 
  **Disclosure of personal data**  
-As a matter of course, your data will not be sold to third parties. Gameforge exclusively discloses your personal data to the following extent: We cooperate with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.), providers that create and compile statistical data, IT service providers (e.g. data centres, hosts, backup services, database services). These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat your data according to this Privacy Statement and the relevant data protection statutes. In the case that Gameforge, companies controlled by Gameforge, particular affiliated companies or shares of the company are sold, your customer data will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this Privacy Statement and the relevant data protection statutes.
+As a matter of course, your data will not be sold to third parties. Gameforge exclusively discloses your personal data to the following extent: We cooperate with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.), providers that create and compile statistical data, IT service providers (e.g. data centres, hosts, backup services, database services). These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat your data according to this Privacy Policy and the relevant data protection statutes. In the case that Gameforge, companies controlled by Gameforge, particular affiliated companies or shares of the company are sold, your customer data will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this Privacy Policy and the relevant data protection statutes.
 
  **Deletion of data**  
 If your data is no longer necessary for the above-mentioned purposes including settlement, for tax purposes or other legal reasons, it will be deleted.
