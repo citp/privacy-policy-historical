@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the confirio.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230000654id_/http%3A//www.confirio.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirio.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504035808id_/http%3A//confirio.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Confirio | Privacy
 
----  
-  
   * What Information We Collect
   * How We Collect and Use Information
   * Disclosure of Your Information to Third Parties
@@ -71,8 +69,10 @@ You may be able to access your account or content of your account from third par
 
 You may use the following options for removing your information from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
 
-  1. Click on the “unsubscribe” link on the bottom of the e-mail;
-  2. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
+  1. Click on the unsubscribe link on the bottom of the e-mail;
+  2. Unsubscribe from the [edit profile](https://web.archive.org/profile.php?edit_profile=1) page by unchecking the email notification boxes;
+  3. Contact us with the information at the bottom of the page  
+
 
 
 
@@ -99,3 +99,7 @@ Your continued use of any portion of our website following posting of the update
 **Effective Date**
 
 This privacy statement was last revised on January 18, 2011.
+
+Confirio Ltd., International House, 221 Bow Road, BOW, London E3 2SJ.  
+contact@confirio.com  
+1-888-379-3883
