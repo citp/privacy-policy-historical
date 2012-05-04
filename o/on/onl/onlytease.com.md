@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217101038id_/http%3A//www.onlytease.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031420id_/http%3A//www.onlytease.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlyTease.com
 
-[](https://web.archive.org/)  
+[](https://web.archive.org/index.cfm)  
 [](https://web.archive.org/)
 
 [](http://www.onlytease.com/privacy-policy)[](http://fr.onlytease.com/privacy-policy)[](http://de.onlytease.com/privacy-policy)[](http://it.onlytease.com/privacy-policy)[](http://jp.onlytease.com/privacy-policy)[](http://es.onlytease.com/privacy-policy)  
