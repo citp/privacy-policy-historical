@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211201440id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504194641id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # MathWorks India - Policies and Statements
 
@@ -15,7 +15,7 @@
 
 At MathWorks, we believe it is your right to know what information we collect, how we use it, and what your options are for its use. Below you can find details about:
 
-  1. EU/U.S. Safe Harbor information
+  1. EU/U.S. and Swiss/U.S. Safe Harbor information
   2. How we use and collect your information
   3. How we protect your order information
   4. How to remove or update your order information
@@ -24,9 +24,13 @@ At MathWorks, we believe it is your right to know what information we collect, h
 
 
 
-### 1\. EU/U.S. Safe Harbor information
+### 1\. EU/U.S. and Swiss/U.S. Safe Harbor information
 
-MathWorks is a certified Safe Harbor company, within the meaning of the U.S. Department of Commerce / European Union Safe Harbor privacy framework. Accordingly, MathWorks adheres to the seven principles of the Safe Harbor: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement. 
+MathWorks is a certified Safe Harbor company, within the meaning of the U.S./European Union and U.S./Swiss Safe Harbor privacy framework. Accordingly, MathWorks adheres to the seven principles of the Safe Harbor: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement. 
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, MathWorks commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Ryan Applegate, c/o MathWorks, 3 Apple Hill Drive, Natick, MA, 01760.
+
+MathWorks has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by MathWorks, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 ### 2\. How we use and collect your information
 
@@ -71,13 +75,6 @@ You can remove your name from e-mail or postal mail lists:
 Note: If you are a licensed customer, you will continue to receive operational correspondence, such as e-mail notification of new releases and maintenance renewal notifications. 
 
 **Correct/update your contact information:** MathWorks is committed to keeping your information as accurate as possible, in order to provide the best service to you. If you have a [MathWorks Account](https://web.archive.org/accesslogin/), you may make the necessary changes to your information online. If you do not have an account, please contact us via e-mail at [service@mathworks.com](mailto:service@mathworks.com) or phone at 508-647-7000.
-
-MathWorks participates in the Better Business Bureau’s Safe Harbor dispute resolution process. European users may submit privacy complaints to MathWorks, or may file a complaint with the Better Business Bureau.
-
-The Better Business Bureau may be contacted at:  
-Better Business Bureau EU Safe Harbor Program  
-4200 Wilson Blvd.  
-Arlington, VA 22203
 
 ### 5\. How your information submitted to MATLAB® Central may be used
 
