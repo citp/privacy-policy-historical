@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061701id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504034508id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
-# Satisfaction | Comments, Graphics & Layouts for Facebook, MySpace and more
+# Satisfaction | Pictures, Quotes, Images, Comments, Pics, Graphics for Facebook & more
 
 Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
 
