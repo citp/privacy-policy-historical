@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231165436id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504195757id_/http%3A//dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
 
 # DentalPlans.com Privacy Policy
 
@@ -62,7 +62,7 @@ Questions and Suggestions
   
 DentalPlans.com wants you to enjoy all of the savings discounts that are available to you as a member of DentalPlans.com. However, just as importantly, we want you to be assured that the information that you entrust to us stays private and confidential.
 
-Thank you for coming to our web site. We hope to have the honor of serving you as a member of DentalPlans.com for many years to come. Please also refer to [Your Security](https://web.archive.org/moreinfo/yoursecurity.asp) about other privacy and security issues you may be interested in.  
+Thank you for coming to our web site. We hope to have the honor of serving you as a member of DentalPlans.com for many years to come.   
   
 X
 
@@ -74,7 +74,7 @@ The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed
   
 |  Special promotions including but not limited to additional months free and Membership Rewards® points from American Express are not available to California residents.
 
-© 1999-2011 DentalPlans.com, Inc. All Rights Reserved. Patents Pending. Blue Cross and Blue Shield of Florida is an Independent Licensee of the Blue Cross and Blue Shield Association.
+© 1999-2012 DentalPlans.com, Inc. All Rights Reserved. Patents Pending. Blue Cross and Blue Shield of Florida is an Independent Licensee of the Blue Cross and Blue Shield Association.
 
 |  [](http://www.bbb.org/south-east-florida/business-reviews/dentist-referral-services/dentalplanscom-in-plantation-fl-4008612)    [](https://www.mcafeesecure.com/RatingVerify?ref=www.dentalplans.com)  
 ---|---
