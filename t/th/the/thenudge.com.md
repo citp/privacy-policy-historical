@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104203209id_/http%3A//thenudge.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenudge.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504110432id_/http%3A//thenudge.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Nudge
 
