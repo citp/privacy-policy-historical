@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstars.tv privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025061831id_/http%3A//www.pokerstars.tv/docs-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstars.tv privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041656id_/http%3A//www.pokerstars.tv/docs-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy on PokerStars.tv
 
@@ -46,7 +46,7 @@ You can write to us at any time to obtain a copy of your Personal Information an
 
 **6\. Cookies**
 
-We may send you a temporary cookie when you visit [www.PokerStars.tv](http://www.pokerstars.tv/) website. A cookie is a text-only string of information that we place in your computer’s cookie file so that we can remember who you are when you revisit [www.PokerStars.tv](http://www.pokerstars.tv/) website. We may use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see [www.cookiecentral.com/faq](https://web.archive.org/web/20111025061831id_/http%3A//www.pokerstars.tv/www.cookiecentral.com/faq) if you require any further information about the placing, use or deletion of cookies.
+We may send you a temporary cookie when you visit [www.PokerStars.tv](http://www.pokerstars.tv/) website. A cookie is a text-only string of information that we place in your computer’s cookie file so that we can remember who you are when you revisit [www.PokerStars.tv](http://www.pokerstars.tv/) website. We may use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser. Please see [www.cookiecentral.com/faq](https://web.archive.org/web/20120504041656id_/http%3A//www.pokerstars.tv/www.cookiecentral.com/faq) if you require any further information about the placing, use or deletion of cookies.
 
 **7\. Consent to Privacy Policy**
 
