@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axiory.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227092952id_/http%3A//axiory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axiory.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504105342id_/http%3A//axiory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Axiory
+# Privacy Policy - Axiory, Forex Broker
 
 > Axiory Ltd. respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.
 
