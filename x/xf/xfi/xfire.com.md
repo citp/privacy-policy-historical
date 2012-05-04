@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225171504id_/http%3A//www.xfire.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfire.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504200627id_/http%3A//www.xfire.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective August 2, 2010
+Effective February 1st, 2011
 
 **XFIRE, INC. ("Xfire") PRIVACY POLICY**
 
@@ -22,7 +22,9 @@ When you register with us, either through the Site or on one of the Services, we
 
 Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Xfire Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions.
 
-We also use your Personal Information to contact you with Xfire and its marketing partners� newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information as applicable. (See " _Changing or Deleting Information_ ," below.)
+We also use your Personal Information to contact you with Xfire and its marketing partners' newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information as applicable. (See " _Changing or Deleting Information_ ," below.)
+
+_�_
 
 _Log Data._ When you visit the Site or the Services, whether as a Xfire or a non-registered user just browsing (any of these, a " _Xfire User_ "), our servers automatically record information that your browser sends whenever you visit a website (" _Log Data_ "). This Log Data may include information such as your computer's Internet Protocol (" _IP_ ") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our visitors' needs. For example, some of this information is collected so that when you visit the Services again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
@@ -40,23 +42,31 @@ Identity theft and the practice currently known as "phishing" are of great conce
 
 **Information Sharing and Disclosure**
 
+_�_
+
 _Xfire, Registration._ When you register through the Services and submit your Personal Information to create a profile webpage or join one of the Services, Xfire. Players may see your username and the other information about you (" _Required Subscriber Identifiers_ "). We may display your Personal Information in your profile page and elsewhere on the Services according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Xfire. Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you.
+
+_�_
 
 _Aggregate Information and Non-Identifying Information._ We may share aggregated information that includes your Personal Information, Non-Identifying Information and Log Data with third parties for industry analysis and demographic profiling and to deliver targeted advertising about other products and services.
 
 _Service Providers._ We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform tasks, (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
 
+_�_
+
 _Compliance with Laws and Law Enforcement._ We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Xfire. or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+
+_�_
 
 _Business Transfers._ Xfire. may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
 **Changing or Deleting Your Information**
 
-All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+All Subscribers may review, update, correct or delete the Personal Information in their registration profile by changing the applicable information in their account settings or, for Services that are hosted on a social networking site, by changing the applicable information in their profile page.
 
 **Security**
 
-Xfire, is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+Xfire is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 **International Transfer**
 
@@ -72,6 +82,6 @@ The Services are not directed to children under 13. We do not knowingly collect 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at _privacy@Xfire.com_ or at: Privacy Matters, Xfire, Inc. Gaming, Inc., 200 Middlefield Road, Suite 200, Menlo Park, CA 94025
+If you have any questions about this Privacy Policy, please contact us at _privacy@Xfire.com_ or at: Privacy Matters, Xfire, Inc. Gaming, Inc., 1351 Fourth Street, 4th Floor, Santa Monica CA 90401
 
-© Xfire, Inc. 2010, All Rights Reserved.
+© Xfire, Inc. 2011, All Rights Reserved.
