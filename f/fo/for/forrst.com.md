@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrst.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014126id_/http%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrst.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030057id_/http%3A//forrst.com/legal/privacy) for the most accurate reproduction.*
 
 # Forrst is a community for developers and designers - Forrst
 
@@ -83,7 +83,7 @@ Forrst may at any time and in its sole discretion, add, modify, or remove any fe
 
 If there are any questions regarding this Privacy Policy you may contact us using the information below.
 
-Forrst, LLC 12 Desbrosses St. New York, NY 10013
+Forrst Inc. 12 Desbrosses St. New York, NY 10013
 
 **11. _Last Modification_**
 
