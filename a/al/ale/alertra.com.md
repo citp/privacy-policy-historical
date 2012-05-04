@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114235040id_/http%3A//www.alertra.com/help%3Fcontext%3DPRIVACY%26nopop%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504223154id_/http%3A//www.alertra.com/privacy) for the most accurate reproduction.*
 
-# Alertra Website Monitoring Service
+# Alertra - Privacy Statement
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
 
