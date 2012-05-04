@@ -1,53 +1,167 @@
-> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231224514id_/http%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skrill.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504053233id_/https%3A//www.moneybookers.com/app/help.pl%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # moneybookers.com
 
-**Overview**  
-By accepting the Privacy Policy and Terms of Use, you expressly consent to us collecting, using and disclosing your personal information in the manner described in this Privacy Policy.
+Moneybookers Limited (registered number: 4260907) with its registered office at Welken House, 10-11 Charterhouse Square, London EC1M 6EH (“we” or “us”) are committed to protecting your information and respecting your privacy. 
 
- **Data Protection**  
-Any information you provide to us will be processed in accordance with the [Data Protection Act of 1998 and other privacy related legislation of the United Kingdom.](http://www.legislation.hmso.gov.uk/acts/acts1998/19980029.htm)
+This Privacy Policy together with the [Skrill (Moneybookers) Account Terms of Use](http://www.moneybookers.com/app/help.pl?s=terms) (and any other documents referred to therein) set out the basis on which any personal data we collect from you, or which you provide to us, through our website [www.moneybookers.com](http://www.moneybookers.com/) (“ **Website** ”) or in connection with your Skrill (Moneybookers) Account (as defined in the Skrill (Moneybookers) Terms of Use) will be processed by us. When you complete any form, speak with our staff or submit any details to us or using our Website, we will collect, use and disclose your personal information in the manner described in this Privacy Policy. 
 
-**TRUSTe Certification**   
-Moneybookers Ltd. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. [Moneybookers](http://www.moneybookers.com/) is a certified TRUSTe website. Because Moneybookers commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Moneybookers has agreed to notify you of: 
+**Please read this Privacy Policy carefully to understand our views and practices regarding your personal data, how we use it and how we will treat it. If you do not agree with this Privacy Policy, please do not use our services.**
 
-  * The nature and extent of the personal data we collect from you directly or from third parties.
-  * Who processes your personal data;
-  * How your personal data are used.
-  * With whom we may share your personal data;
-  * The choices that are available to you regarding collection, use and distribution of your personal data.
-  * The security procedures in place to protect against the loss, misuse or alteration of personal data processed by us.
-  * How you can correct any inaccuracies in the personal data we hold.
+We are a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Our site is a certified TRUSTe website. Because of our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we have agreed to notify you of: 
+
+  * The nature and extent of the personal data we collect from you directly or from third parties. 
+  * Who processes your personal data; 
+  * How your personal data are used; 
+  * With whom we may share your personal data; 
+  * The choices available to you regarding collection, use and distribution of your personal data. 
+  * The security procedures in place to protect against the loss, misuse or alteration of personal data processed by us. 
+  * How you can correct any inaccuracies in the personal data we hold. 
 
 | [](http://www.truste.org/ivalidate.php?url=www.moneybookers.com&sealid=101)  
 ---|---  
   
-If you have questions or concerns regarding this our TRUSTe certification, you should first [contact us](http://www.moneybookers.com/app/help.pl?s=contact). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you can contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then help you to resolve your concerns.
+If you have questions or concerns regarding this our TRUSTe certification, you should first [Contact Us](https://www.moneybookers.com/app/help.pl?s=contact). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you can contact TRUSTe through the [TRUSTe WatchDog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then help you to resolve your concerns. 
 
-**Collection of Personal Information**  
-To open your Moneybookers Account, we need to obtain certain personal information from you, such as your full name, address, email, phone number and your date of birth. For certain optional transactions, we also collect financial information such as credit or debit card details. For certain high value transactions, we may be required to report personal information to the relevant authorities. For verification purposes we reserve the right to request proof of your identity and proof of address. When using our services, your IP address and login times are recorded and stored for purposes of preventing fraud and enhancing the security of our services. We may also collect usage and access data that allows us to prevent multiple account openings or other fraudulent behaviour or to protect our systems against illegal attacks or abuse. Strictly for this purpose, we may share such data with specialized and trustworthy fraud management services that help us analyse the data. We may also use cookies. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Information collected and stored through cookies may be matched against the personal data we hold on our systems. When you send money to a user that is not yet registered with Moneybookers, we will store that user’s email address for at least fourteen days during which time the user can collect the funds. If the user does not register for Moneybookers Account, the user’s email address will no longer be used by Moneybookers, however it will remain to be stored as part of your transaction history. You must ensure that you have obtained all necessary consents for the use of the recipient’s email address. Depending on the information you have provided us, your current verification status and the type of transaction you wish to undertake, we may collect further information from banks, credit/debit card processing services, identity verification services and credit reference agencies. See the section on “Use of Personal Information” for further details.
+### 1.3. Changes to this Privacy Policy
 
- **Use of Personal Information**  
-We use your personal information to operate your Moneybookers Account and to provide our services. We also share certain information as with banks or credit/debit card processing services, identity verification services and credit reference agencies as part of our normal business operations. The purpose for sharing this data is to identify and verify users and to limit our exposure fraud and other criminal activities and to manage our financial risk. When conducting identification or fraud prevention checks, the service provider may retain a record of our query along with your information. By using our services you expressly agree to the sharing of your personal date for these purposes. Furthermore, when sending money to another Moneybookers Account holder we will, at a minimum, pass on your email address to the recipient. We may also send other personal details such as your name, address and country of residence to recipients of any payments you make if such recipients request this information from us in order to improve the payment process, to reconcile payments with the commercial transaction or to conduct their own anti-fraud and anti-money laundering checks. We may also share your personal data with other companies within the Moneybookers corporate group that are involved in providing services to you or the recipient of a payment. Your personal data may be shared with entities outside the European Economic Area (“EEA”) if this is necessary for providing you with the services requested by you, for example if you transfer funds to a merchant that is not located in the EEA. You expressly consent to the sharing of your data in this way. If you have been referred to us by a third party and that third party is entitled to a commission payment based on transaction volumes, numbers or types of transactions, we may share personal data, including transactional information, with that third party in order to reconcile commission payments. Where personal data is collected by or through a third party such as a merchant, promotion website or Moneybookers partner website, the collection and use of your personal data may also be governed by the privacy policy of the third party.
+Any changes we make to this Privacy Policy in the future will be posted on this page. Any new Privacy Policy will be effective from the time that it is posted on the Website. We reserve the right to make changes to our Privacy Policy at any time, without notice, where such change is required by applicable legislation. 
 
- **Control of Personal Information**  
-If your personal details (such as your name, address, or telephone number ) change you must immediately update your details in the “Profile” section of your Moneybookers Account or by contacting Customer Service. Moneybookers shall not be liable for any loss arising out of your failure to keep your personal details up to date. Your address and phone number can only be changed once in any 3 month period. In order to deactivate your Account you will need to contact [Customer Service](http://www.moneybookers.com/app/faqmessaging.pl). We are by law required to retain certain records for a period of at least five years after closure of your Account. 
+If we are going to use your personal data in a manner that is different from the uses set out below, we will notify you by email. You may object to any new use or change in use of your personal data by contacting us as set out in section 10 (Contact Us) below. We will treat such objection as a notice to terminate your Skrill (Moneybookers) Account which will be closed in accordance with the Skrill (Moneybookers) Account Terms of Use. 
 
-**Communication**  
-Upon successful registration, you will receive a confirmation email to your registered primary email address. All further communication via email will be sent to this primary email address which you can change at any time. You may also receive system-generated transactional emails such as confirmation of uploads, notification of receipt of payments, notification of password changes etc. Registered users will occasionally receive information on products, services and special deals via newsletter, unless a user has chosen not to receive such communication. You can change your choice whether or not to receive our newsletters in the “Profile” section of your Moneybookers Account or in any newsletter email by clicking on the appropriate link. Please note that you will still receive communication regarding your Account such as transactional emails or other notification affecting the operation of your Account or our legal relationship.
+### 2\. Information We Collect 
 
- **Links**  
-This website contains links to third party websites. Please be aware that Moneybookers is not responsible for the privacy practices of these third party websites. We encourage users to read the privacy statements of each website they visit by clicking a link on our website. This privacy statement applies solely to the Moneybookers website and the Moneybookers services.
+### 2.1. Information We Collect from You
 
-**Security**  
-Moneybookers protects your personal data against unauthorised access, use or disclosure. Once logged into your Account, all internet communication is secured using Secure Socket Layer (SSL) technology with high security 128bit encryption, certified by _Verisign Secured_. However, this high level of protection can only be effective if you follow certain security practices yourself. You must never share your Account or login details with anyone. If you are concerned that any of your login details have been compromised, you can change them any time you like once you are logged on, however you should immediately contact Customer Services and tell us why you think your login details have been compromised. Please read our Account Terms of Use for further information on how to keep your Moneybookers Account safe. 
+We may collect and process the following data about you: 
 
-**Notification of Changes**  
-Changes to this privacy statement are posted on our website. If we are going to use your personal data in a manner different to the uses stated at the time of collection we will also notify you via email. You may object to any new use of your personal data by contacting Customer Service, however, we will treat such an objection as a notice to terminate your Moneybookers Account.
+  * your full name, address, email address, telephone number, date of birth and bank or payment card details and any proof of your identity and/or address that we may request, 
+  * details of any transactions you carry out through our Website using your Skrill (Moneybookers) Account and of the fulfilment of your requests, 
+  * details of any bank account (including, but not limited to, account holder, account name, account number, sort code, online banking PIN, Transaction Authentication Number “TAN” and password, available balance and transaction history of your bank account,), 
+  * details of any credit, debit or other card used by you for transactions, 
+  * your participation in any promotion sponsored by us, 
+  * correspondence that you send us, 
+  * calls that we make to you or you make to us, 
+  * surveys that you complete, 
+  * information collected through cookies – please see section 9 Cookies for more details, 
+  * your IP address, log-in times, operating system and browser type, 
+  * details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access whilst visiting our Website. 
 
-**Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Email: [privacy@moneybookers.com](mailto:privacy@moneybookers.com)  
-Telephone: +44 870 383 0232  
-Fax: +44 870 922 3274  
-Postal Address: Data Protection Officer, Moneybookers Ltd, Welken House, 10-11 Charterhouse Square, London, EC1M 6EH, United Kingdom 
+
+
+### 2.2. Information We Collect from Third Parties about You
+
+In order to fulfil our legal obligations to prevent fraud and money laundering, we will obtain information about you from third party agencies, including your financial history, county court judgements and bankruptcies, from credit reference and fraud prevention agencies when you open a Skrill (Moneybookers) Account and at any time when we feel it is necessary to prevent fraud and minimise our financial risks. Please refer to our Money Laundering Policy for further details. 
+
+### 3\. How We Use Your Information
+
+We use information held about you in the following ways: 
+
+  * to operate and administer your Skrill (Moneybookers) Account and to provide services that you have requested, 
+  * to carry out your instructions to make and receive payments and undertake transactions using our services, including verifying that you have sufficient funds in your nominated bank account to make such payments, 
+  * to allow you to participate in interactive features of the Website, 
+  * to notify you about changes to our service(s), 
+  * to improve our internal customer training, 
+  * to comply with financial services regulations including retention of financial information and transactions, 
+  * for financial and identity checks, fraud prevention checks, anti-money laundering and credit checks, 
+  * for customer service, including answering questions and responding to feedback and complaints, 
+  * to enhance the security of our services, 
+  * to ensure that content on our Website is presented in the most effective manner for you and for your computer, and
+  * to provide you with information, products or services that you request from us or which we feel may interest you. 
+
+
+
+### 4\. Storing Your Personal Data
+
+The data that we collect from you may be transferred to, and stored at, destinations outside the European Economic Area ("EEA") for the reasons set out below: 
+
+  * if this is necessary for providing you with the services you request. For example if you transfer funds to a merchant that is not located in the EEA, it will be necessary to send your details to that merchant, 
+  * where our group companies, some of whom are based in the USA, store or process your data in accordance with our internal operational requirements and procedures in order to administer the services you require or in connection with anti-fraud measures, 
+  * where you have consented to receive marketing material from our group companies, 
+  * where our anti-fraud agencies, credit reference agencies and other service providers are based outside the EEA and require access to your data to perform their obligations to us and provide services to you, 
+  * if you have been referred to us by a third party and that third party is entitled to a commission payment – for further detail see section 5.4. 
+
+
+
+We have taken and will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy no matter where it is located. 
+
+We are committed to ensuring that your information is secure. To prevent unauthorised access or disclosure of information we have physical, electronic and managerial procedures in place to keep your information safe. Once logged into your Skrill (Moneybookers) Account, all internet communication is secured using Secure Socket Layer (SSL) technology with high security 128bit encryption, certified by _Verisign Secured_. 
+
+However, this high level of protection can only be effective if you follow certain security practices yourself. You must never share your Skrill (Moneybookers) Account or login details with anyone. If you are concerned that any of your login details have been compromised, you can change them any time once you are logged on but you should always also immediately contact Customer Services and tell us why you think your login details have been compromised. Please read our Skrill (Moneybookers) Account Terms of Use for further information on how to keep your Skrill (Moneybookers) Account safe. Details of how to contact Customer Services are available from the “Contact” section of the Website. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site. Any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+
+We are by law required to retain certain records for a period of at least five years after closure of your Skrill (Moneybookers) Account which will include your personal data such as your name, contact details, customer number and transaction history etc. Otherwise, we will delete and destroy all personal data that we hold about you when you (or we) terminate your Skrill (Moneybookers) Account. We do not store your online banking login PIN, TAN and password. 
+
+### 5\. Disclosure of Your Information
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries who are based in different countries within the EEA and in the USA. This may be necessary in order to, among other things, fulfil your request, process your payment details, provide support services and monitor fraudulent activities. 
+
+### 5.2. Merchants and other Skrill (Moneybookers) Customers
+
+When sending money to another Skrill (Moneybookers) Account holder or a merchant who you wish to pay we will, at a minimum, pass on your email address to the recipient. Depending on the requirements of the merchant and the type of payment involved, we may also send other personal details such as your name, address and country of residence if the recipients request this information from us in order to improve the payment process, to reconcile payments with the commercial transaction or to conduct their own anti-fraud and anti-money laundering checks. 
+
+### 5.3. Fraud and Credit Reference Agencies
+
+When you open a Skrill (Moneybookers) Account, at intervals of up to every 3 months and at any other time we feel it is necessary to do so to protect our financial interests and prevent money-laundering or fraud, we share certain information about you and your Skrill (Moneybookers) Account, financial history and transactions as part of our normal business operations with our banks, payment facilitator partners, credit/debit card processing services, identity verification service providers and credit reference agencies (including, but not limited to, Schufa Holding AG) to identify and verify users, to limit our exposure to fraud and other criminal activities and to manage our financial risk. We can provide you with a list of the credit reference agencies we use upon your written request to the email address set out in the Contact Us section below. When conducting identification or fraud prevention checks, the relevant parties may retain a record of our query along with your information and may share this information with other fraud prevention agencies. If you want to know what information these companies hold about you, you can write to them to request access to your information. 
+
+Please refer to our Money Laundering Policy for further details. 
+
+We may also disclose your personal information to: 
+
+  * a prospective buyer of our business or a buyer of a substantial number of the shares in our business, 
+  * the police, other lawful enforcement body, regulatory body or court if we are under a duty to disclose or share your personal data , or to protect the rights, property, or safety of ourselves or our group companies, our customers, or others, 
+  * third parties where you have expressed an interested in receiving information about their goods and services, and 
+  * third parties who referred you to us initially and to whom we owe a commission payment as a result of the referral. Where the commission payment is based on transaction volumes, numbers or types of transactions, we may share that information with that third party, but we will not disclose the full details of each of your transactions without your further written consent. 
+
+
+
+### 6\. Communicating With You
+
+We may contact you by email to the primary email address registered with your Skrill (Moneybookers) Account or by telephone to the contact telephone numbers you have provided when registering for your Skrill (Moneybookers) Account. You can change your primary email address and/or contact telephone number at any time, subject to the provisions of section 8 below. 
+
+You may also receive system-generated transactional emails such as confirmation of uploads, notification of receipt of payments, notification of password changes etc. which are necessary for the proper operation and administration of your account. 
+
+### 6.1. Newsletters and Marketing
+
+As a Skrill (Moneybookers) Account holder, you will occasionally receive information by email from us, unless you have chosen not to receive such communication, and if you have consented to do so from our group companies too, about products, services and special deals which we think will be of interest to you via our newsletter. You can change whether or not you receive newsletters from us and our group companies in the “Profile” section of your Skrill (Moneybookers) Account or in any newsletter email by clicking on the appropriate ‘opt-out’ link. Please note that you will still receive communication regarding your Skrill (Moneybookers) Account such as transactional emails or other notification affecting the operation of your Skrill (Moneybookers) Account or our legal relationship. 
+
+From time to time we do share aggregated information about our customers’ use of our website and services with other companies for research and analysis purposes, but you cannot be identified from this aggregated information. 
+
+Phishing is the name given to attempts to steal personal details and financial account details from a website user. “Phishers” use fake or “spoof” emails to lead users to counterfeit websites where the user is tricked into entering their personal details, such as credit card numbers, user names and passwords. WE WILL NEVER SEND EMAILS ASKING YOU FOR SUCH DETAILS AND OUR STAFF WILL NEVER ASK YOU FOR YOUR PASSWORD.
+
+If you do receive such an email or are asked for your password by anyone claiming to work for us please forward the email or report the incident by email to our Data Protection Officer (contact details are at the end of this policy) or by contacting Customer Services. 
+
+### 7\. Links to Other Websites 
+
+Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+### 8\. Accessing and Updating Your Information
+
+If your personal details (such as your name, address, or telephone number) change you must update your details in the “Profile” section of your Skrill (Moneybookers) Account or by contacting Customer Services via the “Contact” section of the Website as soon as you can. We shall not be liable for any loss arising out of your failure to keep your personal details up to date. Your address and phone number can only be changed once in any 3 month period. In order to deactivate your Skrill (Moneybookers) Account, please refer to the Skrill (Moneybookers) Account Terms of Use. 
+
+You have the right to access information that we hold about you. To do so, please contact us at the address given at the end of this policy. Access may be subject to a fee of up to £10. 
+
+A cookie is a small data file which contains information that is transferred to the hard drive of the device from which you access our site. For more comprehensive information about how cookies work, see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+Cookies are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+
+### 9.2. Types of Cookies and Consent
+
+In order to comply with legislation, we have reviewed the use of cookies on our site and have implemented measures to ensure that you are aware of these cookies and give your consent for placing of some or all of these cookies, except for those which are necessary for the services you have requested (as explained below). 
+
+In summary, we use the following types of cookies: 
+
+  * cookies which are essential for our site to operate, such as those which identify you so you can log into your Skrill (Moneybookers) Account. These cookies will always be activated, 
+  * cookies which are necessary to assist in meeting our regulatory compliance obligations, such as anti-money laundering and anti-fraud obligations, and prevent your Skrill (Moneybookers) Account from being hijacked. These cookies will always be activated, 
+  * cookies that help us to improve our site and to deliver a better and more personalised service to you. 
+  * cookies that enable us to link to our group companies’ websites. 
+  * some cookies are not related to us or our group companies. When you visit a page with content embedded from, for example, YouTube or Twitter, you may be presented with cookies from these websites. We do not control the dissemination of these cookies, you should check the third party websites for more information about these cookies.
+
+
+
+You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Our system will issue cookies as soon as you visit our site unless you have adjusted your browser setting so that it will refuse cookies. 
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to:   
+Email: [privacy@moneybookers.com ](mailto:privacy@moneybookers.com)  
+Post: Data Protection Officer, Moneybookers Ltd, Welken House, 10-11 Charterhouse Square, London EC1M 6EH, United Kingdom. 
