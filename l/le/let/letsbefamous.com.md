@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsbefamous.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214215403id_/http%3A//letsbefamous.com/page/2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsbefamous.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504151447id_/http%3A//letsbefamous.com/page/2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LetsBeFamous - Article Journal, Quality articles website, Free Article Directory
 
@@ -47,7 +47,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://letsbefamous.com](https://web.archive.org/web/20111214215403id_/http://letsbefamous.com/page/2/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://letsbefamous.com](https://web.archive.org/web/20120504151447id_/http://letsbefamous.com/page/2/)
 
  **Your Consent**
 
