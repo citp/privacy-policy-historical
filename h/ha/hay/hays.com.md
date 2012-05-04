@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021175252id_/http%3A//www.hays.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504045413id_/http%3A//www.hays.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy | Hays - Recruiting experts worldwide
 
 ## What does this policy cover?
 
-This Data Protection Policy governs our processing of all personal data provided to us via the Hays.com website and other international websites and our and international offices. You are asked to please read it carefully.
+This Data Protection Policy governs our processing of all personal data provided to us via the Hays.com website and other international websites and our international offices. You are asked to please read it carefully.
 
 ## What if you do not agree with this privacy policy?
 
