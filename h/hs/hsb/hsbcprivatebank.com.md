@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009165505id_/http%3A//www.hsbcprivatebank.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504094058id_/http%3A//www.hsbcprivatebank.com/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy statement - HSBC Private Bank - Privacy statement
+# HSBC Private Bank - Privacy Statement - Privacy statement
 
 This document sets out the privacy statement of hsbcprivatebank.com (the “Site“).  This Site is operated by **HSBC Private Bank (UK) Limited** , which is part of a world-wide group of businesses within the HSBC Group known as HSBC Private Bank and is ultimately owned by HSBC Holdings plc.
 
