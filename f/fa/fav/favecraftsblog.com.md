@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favecraftsblog.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216115237id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favecraftsblog.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504120712id_/http%3A//www.favecrafts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveCrafts.com
 
@@ -156,14 +156,20 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
+### Newsletter Signup
+
+Please Wait 
+
+#### Thanks for signing up
+
+#### Sorry, we could not sign you up.
+
 ##### Something worth saving?
 
-[Register now](https://web.archive.org/section/account/action/login) to:
+[Register now for FREE](https://web.archive.org/section/account/action/login) to:
 
-  * save all your favorite crafts
-  * add personal notes
-  * quickly reference your crafts
+  * SAVE all your favorite crafts
+  * ADD personal notes
+  * QUICKLY reference your crafts
 
-  
-  
----|---|---
+
