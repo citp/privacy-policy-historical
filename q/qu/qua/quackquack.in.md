@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230124635id_/http%3A//www.quackquack.in/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504042138id_/http%3A//www.quackquack.in/privacy%2520policy.php) for the most accurate reproduction.*
 
 # QuackQuack.in - Privacy Policy
 
 Privacy Policy
 
-We, at Quackquack.in, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to [contact us](https://web.archive.org/web/20111230124635id_/http%3A//www.quackquack.in/help/help.php).
+We, at Quackquack.in, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to [contact us](https://web.archive.org/web/20120504042138id_/http%3A//www.quackquack.in/help/help.php).
 
 What information does Quackquack.in collect/track about me?
 
@@ -136,4 +136,4 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 Tell me how to contact Quackquack.in
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20111230124635id_/http%3A//www.quackquack.in/help/help.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/web/20120504042138id_/http%3A//www.quackquack.in/help/help.php).
