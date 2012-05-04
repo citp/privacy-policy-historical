@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017091538id_/https%3A//sertifi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504100011id_/https%3A//sertifi.com/privacy.html) for the most accurate reproduction.*
 
 # Sertifi - Privacy Policy
 
