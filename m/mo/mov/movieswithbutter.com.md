@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieswithbutter.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201221953id_/http%3A//www.movieswithbutter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieswithbutter.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504224233id_/http%3A//www.movieswithbutter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MoviesWithButter
+# Privacy Policy | Movies With Butter
 
 **Information Collection and Use by MoviesWithButter.com**
 
@@ -24,4 +24,4 @@ From time to time we may make changes to our privacy policy. If we make changes,
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20111201221953id_/http%3A//www.movieswithbutter.com/contact).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20120504224233id_/http%3A//www.movieswithbutter.com/contact).
