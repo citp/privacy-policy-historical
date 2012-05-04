@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox2detroit.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111613id_/http%3A//www.myfoxdetroit.com/dpp/about_us/myfoxdetroit.coms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox2detroit.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505004055id_/http%3A//www.myfoxdetroit.com/dpp/about_us/myfoxdetroit.coms-privacy-policy) for the most accurate reproduction.*
 
 # myFOXdetroit.com’s Privacy Policy
 
