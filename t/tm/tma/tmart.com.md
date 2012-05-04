@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2011-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111230102303id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504023615id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Tmart.com
 
@@ -34,7 +34,7 @@ Updates to This Policy
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of the latest information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so that you know whether this Privacy Policy has been updated. If you have any questions about the Privacy Policy, please contact us.
 
 Questions & Feedback  
-We welcome your questions, comments and concerns about our Policy. Please send us any feedback pertaining to privacy. For any other questions you can contact us via Service@Tmart.com.
+We welcome your questions, comments and concerns about our Policy. Please send us any feedback pertaining to privacy. For any other questions you can [contact us](http://www.tmart.com/HelpCenter/Contact_Us.html).
 
 Choice and Opt-Out  
-If you no longer wish to receive the promotional communications from Tmart.com, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing to service@tmart.com
+If you no longer wish to receive the promotional communications from Tmart.com, you may "opt-out" of receiving them by following the instructions included in each communication or [contact us](http://www.tmart.com/HelpCenter/Contact_Us.html).
