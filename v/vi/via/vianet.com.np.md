@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2010-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100122082903id_/http%3A//vianet.com.np/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D26%26Itemid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032946id_/http%3A//www.vianet.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,13 +28,13 @@ VIANET sends no unsolicited or SPAM mail, and strongly despise anyone who does. 
 
 If you need to be removed from Internet service provider or other access provider's mailing list you will need to contact us directly.
 
-If you continue to receive SPAM report it to [noc@vianet.com.np](mailto:noc@vianet.com.np) . 
+If you continue to receive SPAM report it to [noc@vianet.com.np](mailto:noc@vianet.com.np). 
 
 Whenever you complain about spam, it's important to include the full email header. The information in the header makes it possible for consumer protection agencies to follow up on your complaint.
 
-Send a copy of the spam to [noc@vianet.com.np](mailto:noc@vianet.com.np) . By doing this, you can let us know about the spam problem on their system and help them to stop it in the future. Make sure to include a copy of the spam, along with the full email header. At the top of the message, state that you're complaining about being spammed.
+Send a copy of the spam to [noc@vianet.com.np](mailto:noc@vianet.com.np). By doing this, you can let us know about the spam problem on their system and help them to stop it in the future. Make sure to include a copy of the spam, along with the full email header. At the top of the message, state that you're complaining about being spammed.
 
- Most ISPs want to cut off spammers who abuse their system. Again, make sure to include a copy of the message and header information and state that you're complaining about spam.
+Most ISPs want to cut off spammers who abuse their system. Again, make sure to include a copy of the message and header information and state that you're complaining about spam.
 
  **Third Parties**  
 Vianet’s web sites may contain links to other sites. Please be aware that Vianet is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
@@ -50,7 +50,7 @@ The privacy information contained here pertains exclusively to the VIANET web si
  **Contact Us**  
 If you have any questions pertaining to our privacy policy or what information we collect, and how we use such information, please feel free to contact us at 5546410 or you can email to [marketing@vianet.com.np](mailto:marketing@vianet.com.np)
 
-**Vianet Service**  
+ **Vianet Service**  
 Vianet communicates with Users via email, regular mail and telephone on a regular basis to provide requested services and regarding issues related to User’s services. 
 
 **Policy Changes**  
