@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125064007id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504103444id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
 
 # ChristianBlog.Com Privacy Policy, Christian Blog, Christian Blogs, ChristianBlog.Com
 
@@ -45,12 +45,6 @@ Last updated: July 16, 2008
 
 |   | 
 
-[](http://www.christianblog.com/join/ "Join ChristianBlog.Com!")
-
-[](http://www.twitter.com/christianblog)
-
-[@christianblog](http://twitter.com/christianblog) \- _our primary twitter account with tweets of all the latest published blogs!_
-
-[@christianblogpr](http://twitter.com/christianblogpr) \- _our PR twitter account for releasing news and updates._  
+[](http://www.christianblog.com/join/ "Join ChristianBlog.Com!")  
   
 ---|---|---
