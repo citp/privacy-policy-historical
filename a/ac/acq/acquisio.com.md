@@ -1,65 +1,46 @@
-> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211024634id_/http%3A//www.acquisio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504123820id_/http%3A//www.acquisio.com/acquisio-privacy-policy) for the most accurate reproduction.*
 
-# acquisio SEARCH • Privacy Policy
+# Privacy Policy
 
-Our Commitment to Privacy 
+The privacy of your personal information is very important. In order to provide you with our services, we use your personal info in a number of ways. This privacy policy outlines what personal information Acquisio collects about you and how we use it to operate the Acquisio service and any of our related Web-based services—we’ll refer to them as the “Service” just to make things clear here.  
+If you have any questions or concerns relating to privacy or security, please send an email to   
+  
+## What Information We Collect
 
-acquisio.com, Inc. (the "Company," "us," "we," or "our") is committed to protecting the privacy of users ("user", "you" or "your") of our website ("site"). Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Site and our services. This Privacy Policy will be continuously assessed against new technologies, business practices and our clients' needs. This Privacy Policy applies to this Site and governs data collection and usage at this Site. Please read it in its entirety. 
+To use Acquisio’s Service, you must provide personal info in order to create and activate an account. By “personal information,” we mean data that is unique to you as an individual—things like your name, address, e-mail address, company information (like your website address, average monthly paid search spend, average website traffic), telephone number, and credit card related information, and the username and password for your search engine and publisher accounts or other services you wish to connect to Acquisio. We will not collect additional personal information about you unless you provide us that information yourself.   
+  
+## How We Use Your Information
 
-Types of Information Collected 
+Acquisio uses your personal information to contact you with questions about your account, to inform you about new features or offerings from Acquisio, to send you reminders, and to ask you for your feedback on how we can improve our Services. However, **We do not sell your personal information or share it with third parties for marketing purposes**. That said, we do need to share your personal information with Acquisio partners and service providers (e.g. Google AdWords, Microsoft adCenter, The Trade Desk, etc.) so that our Service works as it should. We also share financial and billing information with third parties solely to evaluate your credit status, to bill you for the Service, and for other administrative purposes. Beyond these uses, because we consider any personal information confidential, Acquisio will not disclose to third parties any identifying personal information gathered from you unless (a) you give us permission to share your personal information, or (b) we are required to disclose such information by any applicable law or legal process (like a subpoena or court order).   
+  
+## Security
 
-Through the use of cookie technology or otherwise, we may track and collect information about your computer and software when you visit our Site. This information can include: (i) Your IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser; (v) access times; and (vi) referring websites addresses (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you. Traffic Data assists us to design and arrange our web pages in the user-friendliest manner and to continually improve our Site to better meet the needs of our clients and prospective clients. 
+Acquisio utilizes generally-accepted security measures (such as encryption) to protect against the misuse or unauthorized disclosure of any personal information you submit to us. However, like other Internet sites, we cannot guarantee that it is completely secure against attempts to evade security measures or intercept transmissions over the Internet. You are responsible for maintaining the security of your username and password for the Service.   
+  
+## Receiving Communications from Acquisio
 
-In order for you to access certain services that we offer via the Site or otherwise, we may require you to provide us with information that personally identifies you, such as your name, mailing address, e-mail address and home and business telephone numbers ("Personal Information"). If you communicate with us by e-mail, or otherwise complete online forms, surveys, or the like, any information provided in such communication may be collected as Personal Information.
+If you no longer wish to receive marketing communications from Acquisio, simply click on the “unsubscribe” link at the bottom of any marketing email sent to you by Acquisio. Please note that this does not apply to emails from Acquisio relating to billing, your account, or your normal use of the Service.   
+  
+## Cookies
 
-Use of Cookies
+Cookies are pieces of data stored on your computer’s hard drive by a Web site. Cookies are an industry standard and used by most major Web sites to improve their services. Acquisio uses cookies to improve your experience. The cookie will tell our system certain information so you don’t have to fill in the same information each time you visit us. The Service can only read the cookies placed on your computer by us. We cannot access any information on your hard drive placed there by you or any other source. Please note that Acquisio uses third parties to assist us in measuring statistical information about users of the Service. Such parties may utilize cookies, but in no event will they connect any individual user with personally identifiable information or share any such information with anyone else. Also, the cookie feature can be turned off on your browser. For more information on turning off the cookie feature, consult your browser “Help” section. If you choose to turn off cookies, you can still access the Service, but you may not be able to utilize all of its features. In addition, you might have to “refuse” a cookie each time you encounter one searching the Service.   
+  
+## IP Addresses
 
-We employ cookie technology to store and sometimes track information about the users of the Site. Most web browsers automatically accept cookies, but you can usually change your browser to prevent the browser from accepting the cookie. 
+An Internet Protocol (IP) address is a number that is automatically assigned to your computer by your Internet service provider whenever you access the Internet. This number may be the same each time you access the Internet or it may change. Like other Internet sites, Acquisio uses IP addresses to collect aggregate information about numbers of visitors and site usage. Acquisio reserves the right to use IP addresses to identify individuals if (1) Acquisio is required to disclose such information by any applicable law or legal process (like a subpoena or court order); or (2) Acquisio is required to do so to protect the safety of the public or other users of the Service, to enforce the Terms of Use, or otherwise to protect our rights.   
+  
+## Surveys and Polls
 
-What Are Cookies? 
+If you respond to any surveys or polls on our site, we may ask you for demographic information such as your location, ecommerce data, gender or age. This information is collected only as anonymous, aggregated information and is used for statistical purposes.   
+  
+## Children
 
-Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a web site. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that website by the same user or to use the information to streamline the user's transactions on related web pages. This makes it easier for a user to move from web page to web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. 
+The Service is intended for marketers and agencies and is not targeted to people under the age of 18. If you become aware that a child has used the Service and/or provided personal information, please contact Acquisio immediately at privacy@acquisio.com. If we become aware that a child under the age of 13 has provided personal information, we will promptly remove such information from our servers.   
+  
+## Other Web Sites and Content
 
-Uses and Sharing of Information Collected 
+This privacy policy applies only as long as you remain on the Service. The Service may contain links to third-party sites or services, and once you leave the Service to visit another site, we have no control over your privacy or security issues even if you reached the other site by clicking on a link within the Service. We recommend you familiarize yourself with the policies of these other sites and services. Acquisio assumes no responsibility or liability for the availability or content of these outside sites, including any products, services or materials which may be available from such sites. Therefore, any concerns a user may have regarding any other site should be directed to the relevant site administrator or webmaster.   
+  
+## Changes to this Policy
 
-Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with legal process (such as a court order) or other legal requirements of any governmental authority; (b) protect our rights or property; (c) act under exigent circumstances to protect the personal safety of users of this Site and acquisio.com, Inc., this website or the public; (d) enforce our Site's Terms of Use located at http://www.acquisio.com/termsofuse.htm; (or (e) operate or conduct maintenance and repair of our services or equipment, as authorized by law. Your Personal Information is stored on secure servers that are not accessible by third parties. 
-
-We may use Personal Information to send you information about our company and services, or promotional material from some of our business partners, or to contact you when necessary. 
-
-We may use Traffic Data to analyze trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. 
-
-We may provide Traffic Data and/or other aggregate non-personally identifying information to third parties, including our affiliates and business partners. 
-
-Notwithstanding the foregoing, we may transfer, sell or assign information concerning your use of this Site, including without limitation, Personal Information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of the Company. 
-
-Links
-
-Third-party websites may contain links to our Site. Please be aware that we are not responsible for the privacy practices or the content of such other sites.
-
-The Site may contain links to third-party websites. Please be aware that we are not responsible for the privacy practices or the content of such other sites. 
-
-We encourage our users to be aware when they leave our Site and to read the privacy policies or statements of third-party sites before proceeding. These other sites may send their own cookies to users, collect data, or solicit personal information. This Privacy Policy applies solely to information collected at our Site.
-
-Security
-
-The Site has security measures in place to protect the loss, misuse and alteration of the information under our control. We utilize encryption/security software to safeguard the confidentiality of Personal Information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems.
-
-Notification of Changes
-
-We may change our Privacy Policy at any time by updating this posting. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their Personal Information in this different manner. We will use Personal Information in accordance with the Privacy Policy under which the information was collected.
-
-Policies for Individuals Under 13 Years of Age
-
-We are committed to protecting the on-line privacy of children. In accordance with the Children's On-line Privacy Protection Act, we will not knowingly collect any personally identifiable information from or provide any services to children under the age of 13.
-
-Acceptance of Privacy Policy
-
-By using the Site, you signify your assent to our Privacy Policy. If you do not agree with this Privacy Policy, please do not use our Site. Your continued use of this Site following posting of changes to these terms will mean you accept those changes.
-
-Contact Us
-
-If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Site, you can send an email to legal@acquisio.com.
-
-Copyright © 2005 by acquisio.com, Inc. All rights reserved. 
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. You are bound by changes to the Privacy Policy when you use the site and/or our Service after those changes have been posted. 
