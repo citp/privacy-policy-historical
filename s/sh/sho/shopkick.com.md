@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227160132id_/http%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504112456id_/http%3A//shopkick.com/privacy-policy) for the most accurate reproduction.*
 
-# shopkick
+# shopkick | privacy policy
+
+[](https://web.archive.org/web/20120504112456id_/http%3A//shopkick.com/index)
 
 At shopkick, Inc., we are very focused on making the shopkick experience a great one for you. We have great respect for your personal privacy — this concern is at the heart of our company. In order to provide a useful service to you when you are shopping, though, we need data from you; otherwise we cannot give useful offers and ways to earn rewards, which match the environment or location you are in, and that match the preferences you have. Our commitment to you is that whenever we collect and process data from you, we will do so with your and the other shopkick users’ benefit in mind, either for immediate benefit or for longer-term benefit, by making the shopkick experience better and better for you. In this document, we provide our Privacy Policy to you to inform you in more detail of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service <http://www.shopkick.com/terms-of-service.html>. This Privacy Policy applies to information that is provided or collected through all the Services provided by shopkick, Inc.
 
-#### What Information Do We Collect?
+### What Information Do We Collect?
 
 Non-Personally Identifiable Information
 
@@ -24,7 +26,7 @@ Information About Transactions at Affiliated Partners
 
 To provide you with further potential rewards and/or offers from certain Affiliated Partners, we may receive information about transactions that you make at an Affiliated Partner including the Affiliated Partner name, the location, the date and time, the transaction amount, the purchased items and other personal information about you (“Transaction Data”), from payment processing vendors, from banks or from credit or debit card networks or issuers (“Transaction Providers”). Unless the privacy policy of the Affiliated Partner that you accepted already allows for this information sharing, we will ask for your permission (by your explicit opt-in) in order to receive this information. In case we need to share Personal Information with Transaction Providers to identify you to be able to receive the Transaction Data that determines whether offers or rewards apply to you, then we will ask for your permission (“opt-in”).
 
-#### How Do We Use the Information?
+### How Do We Use the Information?
 
 The terms “using” and “processing” information, as used in this policy, include using cookies or other storage means on a computer or mobile device, subjecting the information to statistical or other analysis and collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our subsidiaries within the United States or internationally.
 
@@ -50,13 +52,13 @@ Usage Patterns
 
 We may also use data collection tags or directives such as “pixel tags,” Javascript scripts, API calls, or similar means (individually or collectively, “Usage Tracking”) in combination with cookies and the demographic or psychographic data we have collected, and with third-party analysis partners, to analyze usage patterns of users anonymously and to serve advertisements to you that are tailored based on our analysis of what we believe you would respond favorably to in light of the information that we have collected or accessed about you as described above. A “pixel tag” is an electronic image, often a single pixel and often transparent, that is placed on a web page and may be associated with cookies on your hard drive. Usage Tracking allows us to count users who have visited certain web sites and pages within web sites, or used applications or features, to analyze the behavior of users of our web sites and application, in order to improve the web sites and application, and to personalize and determine the effectiveness of promotional or advertising campaigns.
 
-#### When Do We Share Information?
+### When Do We Share Information?
 
 We will not share your Personal Information with anyone else except to provide the Services, when we otherwise have your permission, or under the following circumstances:
 
 Personal Information. In order to take advantage of an incentive being offered by an Affiliated Partner through the Services, you must provide the Affiliated Partner with identifying information (which may include Personal Information) at the point of sale, to enable the Affiliated Partner to verify that you have a shopkick Account. The Personal Information you provide to the Affiliated Partner in this context will only be used by the Affiliated Partner to record the transaction you make at the time you are redeeming an offer, and the Affiliated Partner will then share the transaction information with us. Any Personal Information used in this context will be bound by this Privacy Policy. If you do not wish to share Personal Information with an Affiliated Partner, you can choose not to provide your store loyalty card number and not to take advantage of the offer when entering into transactions with that Affiliated Partner.
 
-Non-Personally Identifiable Information. As discussed above, we may share with third parties or the public (e.g., through white papers or press articles) aggregated information in a form that does not disclose your Personal Information, nor be reasonably likely to allow you to be personally identified, for industry analysis, demographic profiling and similar purposes. We share this aggregated information so that our partners also understand how interested our users are in their products and services, so that they may also provide you with an optimal online experience, and so that additional retail or brand partners can see the opportunity in shopkick and may also become partners and further enrich the Services and offers for our users.
+Non-Personally Identifiable Information. As discussed above, we may share with third parties or the public (e.g., through white papers or press articles) aggregated information in a form that does not disclose your Personal Information, nor be reasonably likely to allow you to be personally identified, for industry analysis, demographic profiling and similar purposes. We share this aggregated information so that our partners also understand how interested our users are in their products and services, so that they may also provide you with an optimal online experience, and so that additional retail or brand partners can see the opportunity in shopkick and may also become partners and further enrich the Services and offers for our users. 
 
 Service Providers or Agents. We may employ or partner with third party companies and individuals to process your payments, facilitate our Services, to provide all or a portion of Services on our behalf, to perform Services-related services (e.g., without limitation, maintenance services, database management, web analytics, download provisioning and improvement of the Services' features) or to assist us in analyzing how our Services are used. These third parties may have access to your Personal Information but only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. In some instances, these third parties will be able to make use of Non-Personally Identifiable Information for other purposes.
 
@@ -64,33 +66,33 @@ Compliance with Laws and Law Enforcement. We cooperate with government and law e
 
 Business Transfers. We may sell, transfer or otherwise share your Personal Information in connection with a merger, acquisition, reorganization or sale of our company (or our assets) or in the event of our bankruptcy; this is the only case in which we may sell Personal Information we collect from you or from your use of the Services.
 
-#### How Can I Change or Delete My Personal Information?
+### How Can I Change or Delete My Personal Information?
 
 You may review, update, correct or delete your Personal Information in your registration profile by contacting us or by making the appropriate modifications in your Account preferences. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your Account and/or remove your records from our system, please contact us and we will delete your account within 45 days if we do not have any legal obligation to retain the record.
 
-#### Is My Information Secure?
+### Is My Information Secure?
 
 We employ administrative and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure. In addition, we will delete information after it is no longer useful for providing the Services.
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-#### International Transfer
+### International Transfer
 
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Our Privacy Policy and its protection for you still applies there. If you are located outside the United States and choose to provide information to us, shopkick may transfer your Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer.
 
-#### Links to Other Sites
+### Links to Other Sites
 
 Our Services may contain links or API’s (e.g. data or content exchange interfaces), to external services or websites of other partners or advertisers, including our Affiliated Partners, for information or functionality or services. If you choose to visit a partner or advertiser by “clicking on” or selecting a button, service, banner ad, or other type of advertisement, or click on another third party link, you will be directed to that third party’s resources. The fact that we may link to or incorporate a partner's services, functionality, or website, or present a banner ad or other type of advertisement, is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party services, functionality, websites or other resources, including their use of personal information, and you should exercise caution when deciding to disclose any personal information to a third party. We encourage you to read the privacy policies or statements of the other websites you visit to learn more about their privacy practices. These other parties may place their own cookies or other files on your computer or device, collect data or solicit personal information from you. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. Our Privacy Policy only applies to the Services and we are not responsible for the privacy practices or the content of other websites.
 
-#### Children’s Information
+### Children’s Information
 
 The Services are not directed to children. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, please contact us. If we become aware that a member is under the age of 13 and has provided us with Personal Information without verifiable parental consent, we will delete such information from our files.
 
-#### Agreement and Changes to this Privacy Policy
+### Agreement and Changes to this Privacy Policy
 
 By using any part of the Services, you agree to the current Privacy Policy and Terms of Service, to which this Privacy Policy is incorporated. We reserve the right, in our sole discretion, to modify, discontinue, or terminate any or all of the Services or to modify this Privacy Policy at any time, without notice to you. Any modifications will be effective immediately as of the date the modified Privacy Policy is posted on our website. By continuing to access or use the Services after we have posted a modification, you are indicating that you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services.
 
-#### How Can I Contact shopkick?
+### How Can I Contact shopkick?
 
 We are always trying to make shopkick's Services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com).
 
