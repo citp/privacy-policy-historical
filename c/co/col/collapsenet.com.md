@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collapsenet.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227082255id_/http%3A//www.collapsenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collapsenet.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044507id_/http%3A//www.collapsenet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | COLLAPSENET
+# Privacy Statement | CollapseNet
 
 **COLLAPSENET PRIVACY POLICY**  
 
