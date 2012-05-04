@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102141353id_/http%3A//www.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504183108id_/http%3A//www.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
 
-# VGChartz Network Privacy Policy
+# Privacy Policy - VGChartz
 
 ## Version 10/01/2009
 
