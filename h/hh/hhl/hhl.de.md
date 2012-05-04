@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217114300id_/http%3A//www.hhl.de/service/dummy-fuer-imprint-privacy-infopaket/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhl.de privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032407id_/http%3A//www.hhl.de/service/dummy-fuer-imprint-privacy-infopaket/privacy) for the most accurate reproduction.*
 
 # Privacy | HHL
 
@@ -8,12 +8,12 @@ We believe that you need to trust us when you use the web site. We take your pri
 
 **The information we collect about you and how we collect it**
 
-Every time you visit our web page our web server automatically logs your IP address, the type of operating system that your computer uses (for example, Microsoft Windows 2000) and the type of web browser you are using to access the HHL web site (for example, Netscape Navigator or Microsoft Internet Explorer). From that information we can find out who your internet service provider is and the location from which you are accessing the website. Our web server also logs the IP address of the web site you visited immediately before accessing the website. 
+Every time you visit our web page our web server automatically logs your IP address, the type of operating system that your computer uses (for example, Microsoft Windows 2000) and the type of web browser you are using to access the HHL web site (for example, Microsoft Internet Explorer). From that information we can find out who your internet service provider is and the location from which you are accessing the website. Our web server also logs the IP address of the web site you visited immediately before accessing the website. 
 
 The web site also enables you to send certain e-mails to us (for example, to info@hhl.de).  
 We store all of the e-mails sent by you to us. 
 
-We DO NOT use "cookies" on the web site. Cookies are a technology which can be used to provide you with tailored information from the web site. 
+We do notuse "cookies" on the web site. Cookies are a technology which can be used to provide you with tailored information from the web site. 
 
 **  
 How we use the information  
