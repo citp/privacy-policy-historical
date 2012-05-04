@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150033id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504235048id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | payasUgym
+# Terms & Conditions and Privacy Policy | Legal | Legal | payasUgym
 
-You are in: [Home](http://www.payasugym.com/ "Home") > [Legal](http://www.payasugym.com/legal "Legal") > Privacy Policy 
-
-**Definitions**
+## Definitions
 
 **Partners:** Gyms or Health Clubs Part of the payasUgym programme.
 
 **Product:** The main product is ePasses for entrance into Partner gyms however payasUgym may from time to time sell other product as to which the following terms and conditions apply.
 
-**General Introduction**
+**General Introduction** These terms and conditions govern your use of our website. Please read the terms in full before you use this Website. If you do not accept these terms, please do not use this Website. Using the Website implies that you accept these terms. We do occasionally update these terms so please refer back to them in the future.
 
-These terms and conditions govern your use of our website. Please read the terms in full before you use this Website. If you do not accept these terms, please do not use this Website. Using the Website implies that you accept these terms. We do occasionally update these terms so please refer back to them in the future. When is a purchase made? A purchase is made at the point an ePass is either redeemed or expires. 
+payasUgym acts as Principal and as a Disclosed Agent for third party suppliers. When payasUgym is acting as a Disclosed Agent this means is that the contract for the product is between you and the supplier. In most cases this will mean that there are additional terms and conditions governing the contract as each supplier will have terms and conditions relating to that product. Please make sure that you have read these terms and conditions before completing your transaction with us. Where we act as a Disclosed Agent, this will mean that we have no contractual liability to you in respect of that product. However, we may still be liable to you if we have been negligent, we have misrepresented important information or have been in breach of any other relevant law. On the other hand, for other Partners, we act as Principal. This means that the contract for the product is between you and us. We will always let you know where we act as Principal and where we act as a Disclosed Agent. When is a purchase made? A purchase is made at the point an ePass is either redeemed or expires. At this point a receipt of purchase will be available. For an expired ePass Sandcroft Avenue will always be acting as Principal.
 
-payasUgym acts as Principal and as a disclosed agent for third party suppliers. When payasUgym is acting as a disclosed agent this means is that the contract for the product is between you and the supplier. In most cases this will mean that there are additional terms and conditions governing the contract as each supplier will have terms and conditions relating to that product. Please make sure that you have read these terms and conditions before completing your transaction with us. Where we act as a disclosed agent this will mean that we have no contractual liability to you in respect of that product. However, we may still be liable to you if we have been negligent, we have misrepresented important information or have been in breach of any other relevant law. On the other hand, for other Partners, we act as principal. This means that the contract for the product is between you and us. We will always let you know where we act as principal and where we act as a disclosed agent. At this point a receipt of purchase will be available. On expired ePass Sandcroft Avenue will always be acting as Principal.
-
-**1.        ****PRIVACY POLICY**
+**1.        PRIVACY POLICY**
 
 **General Introduction**
 
@@ -26,7 +22,7 @@ payasUgym understands the importance of keeping the information about you that y
 
 Customer Information collected by us is controlled by Sandcroft Avenue Limited (trading as ‘payasUgym’) with its registered office at 2nd Floor, 145-157 St John Street, London, United Kingdom, EC1V 4PY.
 
-Customer Information collected by payasUgym is stored on a central databases hosted by UK Fast our carefully selected third party provider in the UK.
+Customer Information collected by payasUgym is stored on a central database hosted by UK Fast our carefully selected third party provider in the UK.
 
 **What Personal Information do we collect and how?**
 
@@ -56,9 +52,9 @@ You provide us with your password and email address when you register an account
 
 **Purchaser Information**
 
-You provide us with your name, credit card details, including card number, card type, cardholder name, expiry date, billing address and delivery details when you place an order through our website or other Distribution Channels.
+You provide us with your name, credit/debit card details, including card number, card type, cardholder name, expiry date, billing address and delivery details when you place an order through our website or other Distribution Channels.
 
-Please note although payasUgym collects credit card details this information is not held by payasUgym.
+Please note although payasUgym collects credit/debit card details this information is not held by payasUgym.
 
 **Information from Competitions, Questionnaires and Surveys**
 
@@ -90,7 +86,7 @@ We will carry advertising relating to third parties on our website. This adverti
 
 **Opting out**
 
-Although you cannot block "session" cookies as they are required for our website to function correctly you can configure your Internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the Internet browser you use (for example, Internet Explorer 5, Netscape 4 or Opera etc). Refer to the relevant Internet browser manufacturer's website where you should be able to receive all the information you need.
+Although you cannot block "session" cookies as they are required for our website to function correctly you can configure your Internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the Internet browser you use (for example, Internet Explorer 5, Netscape 4, Opera etc). Refer to the relevant Internet browser manufacturer's website where you should be able to receive all the information you need.
 
 **Information from other sources**
 
@@ -134,13 +130,13 @@ We may also use your Customer Information for internal administration, analysis 
 
 **Who do we share your information with and why?**
 
-payasUgym does will share your Customer Information with its carefully selected third party partners and providers as necessary for business administration, customer delivery, marketing and operational, analytical or other purposes as set out below. Except with your expressly given consent, we will only share your Customer Information as described in this Privacy Policy.
+payasUgym will only share your Customer Information with its carefully selected third party partners and providers as necessary for business administration, customer delivery, marketing and operational, analytical or other purposes as set out below. Except with your expressly given consent, we will only share your Customer Information as described in this Privacy Policy.
 
 **Third party suppliers**
 
 payasUgym engages carefully selected third party partners, including service providers, joint venture partners and outsource providers to perform various functions on our behalf. To the extent required to perform such functions on our behalf, these companies may process your Customer Information. Such functions include, processing purchases and providing associated information, delivering products and services, processing credit card payments, providing search results, communicating with you, including providing customer service, via telephone, email, post or otherwise and for promotional activities.
 
-We may also share your Customer Information with third parties for the purpose of data analysis, quality assurance (including fraud prevention) .
+We may also share your Customer Information with third parties for the purpose of data analysis, quality assurance (including fraud prevention).
 
 Various pages on our website contain links (including via ads) to third party websites. Once you have exited our website via such a link, any further data you provide will be collected by or on behalf of the third party responsible for that website and therefore subject to the privacy policy and practices of that third party rather than to this Privacy Policy. We cannot be responsible for any third party’s use of your Customer Information and recommend that you check the specific terms on the relevant third party’s websites relating to the use and disclosure of your Customer Information.
 
@@ -170,11 +166,11 @@ You can view and change My Account settings and information, including your cont
 
 payasUgym may amend this Privacy Policy from time to time and will notify you of any material changes by displaying the revised Privacy Policy on our website.
 
-**2.        ****SITE ACCESS**
+**2.        SITE ACCESS**
 
 You will be able to access the majority of this Website without having to register any details with us. However, particular areas of this Website will only be accessible only if you have registered.
 
-**3.        ****USE OF WEBSITE**
+**3.        USE OF WEBSITE**
 
 You are permitted to use our website for your own purposes and to print and download material from this Website provided that you do not modify any content without our consent. Material on this website must not be republished online or offline without our permission.
 
@@ -182,13 +178,13 @@ The copyright and other intellectual property rights in all material on this Web
 
 Subject to paragraph 2, no part of this Website may be reproduced without our prior written permission.
 
-**4.        ****SITE UPTIME**
+**4.        SITE UPTIME**
 
 We take all reasonable steps to ensure that this Website is available 24 hours every day, 365 days per year. However, websites do sometimes encounter downtime due to server and, other technical issues. Therefore we will not be liable if this website is unavailable at any time.
 
 This Website may be temporarily unavailable due to issues such as system failure, maintenance or repair or for reasons beyond our control. Where possible we will try to give our visitors advance warning of maintenance issues but shall not be obliged to do so.
 
-**5.        ****WEBSITE VISITOR CONDUCT**
+**5.        WEBSITE VISITOR CONDUCT**
 
 With the exception of personally identifiable information, the use of which is covered under our Privacy Policy, any material you send or post to this Website shall be considered non-proprietary and not confidential. Unless you advise to the contrary we will be free to copy, disclose, distribute, incorporate and otherwise use such material for any and all purposes.
 
@@ -202,7 +198,7 @@ c.        which is harmful in nature including, and without limitation, c
 
 We will fully co-operate with any law enforcement authorities or court order requiring us to disclose the identity or other details of any person posting material to this website in breach of Paragraph 5.
 
-**6.        ****LINKS TO AND FROM OTHER WEBSITES**
+**6.        LINKS TO AND FROM OTHER WEBSITES**
 
 Any links to third party websites located on this Website are provided for your convenience only. We have not reviewed each third party website and have no responsibility for such third party websites or their content. We do not endorse the third party websites or make representations about them or any material contained in them. If you choose to access a third party website linked to from this Website, it is at your own risk.
 
@@ -218,37 +214,47 @@ d.       your website does not contain content that is offensive, controve
 
 If you choose to link to our website in breach of Paragraph 5.2 you shall fully indemnify us for any loss or damage suffered as a result of your actions.
 
-**7.        ****DISCLAIMER**
+**7.        DISCLAIMER**
 
 We take all reasonable steps to ensure that the information on this Website is correct. However, we do not guarantee the correctness or completeness of material on this Website. We may make changes to the material on this Website at any time and without notice. The material on this Website may be out of date, or on rare occasions incorrect and we make no commitment to ensure that such material is correct or up to date.
 
 The material at this Website is provided without any conditions or warranties of any kind. To the maximum extent permitted by law, we provide access and use of this website on the basis that we exclude all representations, warranties and conditions which but for these Terms may have effect in relation to this Website.
 
-**8.        ****EXCLUSION OF LIABILITY**
+**8.        EXCLUSION OF LIABILITY**
 
-When you exchange an ePass for entrance to any of our Partner’s within the payasUgym programme, payasUgym, its officers, agents and/or consultants have no liability whatsoever in contract, tort, or otherwise for your acts, omissions or opinions and is in no way responsible for the behaviour or within any of the Partner’s premises. This means that payasUgym is in no way liable or responsible for your health and safety at any time.
+When you exchange an ePass for entrance to any of our Partner’s premises within the payasUgym programme, payasUgym, its officers, agents and/or consultants have no liability whatsoever in contract, tort, or otherwise for your acts, omissions or opinions and is in no way responsible for the behaviour or within any of the Partner’s premises. This means that payasUgym is in no way liable or responsible for your health and safety at any time.
 
 Neither we nor any other party (whether or not involved in producing, maintaining or delivering this Website), shall be liability or responsible for any kind of loss or damage that may result to you or a third party as a result of your or their use of our website. This exclusion shall include servicing or repair costs and, without limitation, any other direct, indirect or consequential loss, and whether in tort or contract or otherwise in connection with this Website.
 
 Nothing in these Terms shall exclude or limit liability for (i) death or personal injury caused by negligence (as defined by the Unfair Contract Terms Act 1977); (ii) fraud; (iii) misrepresentation as to a fundamental matter; or (iv) any liability which cannot be excluded or limited under the law of the United Kingdom.
 
-**9.        ****TERMS OF USE FOR AN eWALLET**
+**9.        TERMS OF USE FOR AN eWALLET**
 
-Sandcroft Avenue Ltd is certified as a Small Electronic Money Issuer by the Financial Services Authority. The minimum amount you can ‘top-up’ onto you eWallet is £3. Your eWallet funds cannot exceed maximum £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your eWallet. A £1 administration fee is charged to withdraw funds from your eWallet. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction. If a period of 24 months passes with no orders placed, we will assume that your account is no longer active and your eWallet balance will expire.
+Sandcroft Avenue Ltd stored value is exempt from the Electronic Money Regulations 2011 because funds can only be used to buy a limited range of services from [www.payasUgym.com](http://www.payasugym.com/). The funds in your eWallet can only be used to purchase goods from payasUgym. The funds in your eWallet cannot be used to purchase any goods directly from the gyms or facilities listed on payasUgym. The minimum amount you can ‘top-up’ onto your eWallet is £3. Your eWallet funds cannot exceed a maximum of £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your eWallet. A £1 administration fee is charged to withdraw funds from your eWallet. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction. If a period of 24 months passes with no orders placed, we will assume that your account is no longer active and your eWallet balance will expire.
 
-**10.    ****TERMS OF USE FOR AN ePASS**
+**10.    TERMS OF USE FOR DIFFERENT TYPES OF ePASS**
 
-An ePass is only applies to and is valid to be redeemed at the selected gym Partner. An ePass is valid for a period of 30 days. If an ePass is not used within the 30 days the ePass will be invalid and you will lose the value, this ePass will be marked ‘Expired’ in the ‘my account’ section. At any point whilst an ePass is valid you are able to refund the ePass and the price of the ePass minus a £1; charge will be returned to your eWallet. The £1; charge covers the transactional and administration cost that payasUgym incurred to issue the ePass. We do not want our customers to lose the value of any ePass and therefore we will e-mail you and let you know when an ePass is about to expire.
+**General Terms**
 
-**11.    ****MINIMUM AGE TO PURCHASE AN ePASS**
+An ePass is a unique alpha numeric code purchased by you and only applies to and is valid to be redeemed at the selected gym Partner for entrance to their facilities.
 
-You have to be aged 18 years or above to purchase an ePass. However some of our Partners allow parents and other legal guardians may purchase ePasses to be used at Partner gyms for children under 18 in their care. This is most likely to be the case for Local Leisure Centre facilities where swimming is available under the ePass. As it is entirely under the discretion of the gym you are advised to check with the Partner that you intend to visit if you would like to purchase an ePass for children less than 18 years of age.
+**1-day Gym ePass & 1-day Swim ePass**
 
-**12.    ****CONTACTING PAYASUGYM**
+An ePass is valid for one single entrance the gym it was purchased for and can be used within a period of 30 days. If an ePass is not used within the 30 days the ePass will be invalid and you will lose the value, this ePass will be marked ‘Expired’ in the ‘My Account’ section. At any point whilst an ePass is valid you are able to refund the ePass and the price of the ePass minus a £1; charge will be returned to your eWallet. The £1; charge covers the transactional and administration cost that payasUgym incurred to issue the ePass. We do not want our customers to lose the value of any ePass and therefore we will e-mail you and let you know when an ePass is about to expire.
 
-You can contact the payasUgym team at [info@payasugym.com](mailto:info@payasugym.com)and we will make every effort to reply to your query within 24 hours of receiving you e-mail.
+**30-day, 90-day Gym and other ePasses longer than 1-day**
 
-Alternative you can write to us at:
+An ePass purchased for periods longer than 1-day can used multiple times within the ePass validity period. For example a 30-day ePass can be used multiple times within the 30-day period. The ePass code will remain the same for the duration of the validity period. All ePasses purchased for periods longer than 1-day are non-refundable.
+
+**11.    MINIMUM AGE TO PURCHASE AN ePASS**
+
+You have to be aged 18 years or above to purchase an ePass. However some of our Partners allow parents and other legal guardians to purchase ePasses to be used at Partner gyms for children under 18 in their care. This is most likely to be the case for Local Leisure Centre facilities where swimming ePasses are available. As it is entirely under the discretion of the gym you are advised to check with the Partner that you intend to visit if you would like to purchase an ePass for children less than 18 years of age.
+
+**12.    CONTACTING PAYASUGYM**
+
+You can contact the payasUgym team at [ **info@payasugym.com**](mailto:info@payasugym.com)and we will make every effort to reply to your query within 24 hours of receiving you e-mail. We really appreciate any feedback so please do not hesitate to contact us.
+
+Alternatively you can write to us at:
 
 Sandcroft Avenue Limited  
 2nd Floor  
@@ -259,33 +265,33 @@ EC1V 4PY
 
 We welcome any feedback, comments or complaints.
 
-**13.    ****GOVERNING JURISDICTION**
+**13.    GOVERNING JURISDICTION**
 
 This Legal Notice shall be governed by and construed in accordance with English law. Any dispute(s) arising in connection with this Legal Notice are subject to the exclusive jurisdiction of England and Wales.
 
-**14.    ****OPENING HOURS**
+**14.    OPENING HOURS**
 
-Gym opening hours will be clearly shown on the website. For some gyms the price of the ePass will vary by peak and off-peak times. Peak and off-peak times may vary within a particular day and be different for days of the week. Peak and off-peak opening hours will be clearly shown on the website and iPhone application. An ePass bought for off-peak period will only work for an off-peak period. An ePass bought for a peak period will be valid for peak and off-peak periods.
+Gym opening hours will be clearly shown on the website. For some gyms the price of the 1-day ePass will vary by peak and off-peak times. Peak and off-peak times may vary within a particular day and be different for days of the week. Peak and off-peak opening hours will be clearly shown on the website and iPhone application. A 1-day ePass bought for off-peak period will only work for an off-peak period. An ePass bought for a peak period will be valid for peak and off-peak periods. During bank holidays and other occasion the gym may change opening times without informing payasUgym, however we aim to keep the information on payasUgym as up-to-date and correct as possible for our customers.
 
-**15.    ****FEEDBACK ON GYMS**
+**15.    FEEDBACK ON GYMS**
 
-You are able to leave feedback on the gyms you have visited. Once you have redeeming an ePass at a gym you will automatically be prompted to leave rated feedback for gyms on a number of criteria and you will also be able to write a short comment on your experience.  All feedback will be used to provide feedback to gym Partners to help them improve the customer experience they offer. At this stage free text feedback will not be published online for other customers to view. By agreeing to these Terms & Conditions you agree to only provide helpful and constructive feedback that represents and honest account of your experiences.
+You are able to leave feedback on the gyms you have visited. Unlike other feedback websites all of the feedback on payasUgym has been left by customers that have visited the gym in question. Once you have redeemed an ePass at a gym you will automatically be prompted to leave rated feedback for gyms on a number of criteria and you will also be able to write a short comment on your experience.  All feedback will be used to provide feedback to gym Partners to help them improve the customer experience they offer. Free text feedback is published if deemed to be a fair and true representation of a customer’s experience. payasUgym will share all customer feedback with the gym in question and may allow the partner gym to respond to feedback where appropriate. By agreeing to these Terms & Conditions you agree to only provide helpful and constructive feedback that represents and honest account of your experiences. We really appreciate your time to help other gym users and our Partner gyms by leaving feedback on your experiences.
 
-**16.    ****WORKOUT DIARY**
+**16.    FRIEND REFERRAL SCHEME**
 
-The limits/levels used to determine the BMI rating has been taken from the Food Standards Agency and in no way represents the views of the payasUgym management team or any of its staff.
+As a payasUgym customer you can introduce your friends to payasUgym and be rewarded with 'eWallet credit' if that customer completes the necessary steps. For each customer that uses your referral code when registering and then goes on to purchase and redeem one ePass you will be rewarded with £5 worth of 'Friend credit'. 'Friend Credit' can be used to purchase ePasses just like normal eWallet credit you have added. The 'Friend credit' is not refundable and therefore cannot be withdrawn from your account. Where applicable 'Friend Credit' will be used before 'Added Credit' (credit you have added) for any purchases. The friend that you refer will receive £5 bonus credit, the terms and condition of which are explained below under ‘Bonus Schemes’.
 
-**17.    ****REFERRAL SCHEME (earnasUburn)**
-
-As a payasUgym customer you can introduce your friends to payasUgym and be rewarded with 'eWallet credit' if that customer completes the necessary steps. For each customer that uses your referral code when registering and then goes on to purchase and redeem one ePass you will be rewarded with £1 worth of 'Friend credit'.'Friend Credit' can be used to purchase ePasses just like normal eWallet credit you have added. The 'Friend credit' is not refundable and therefore cannot be withdrawn from your account. Where applicable 'Friend Credit' will be used before 'Added Credit' (credit you have added) for any purchases.
-
-**18.    ****BONUS SCHEMES**
+**17.    BONUS SCHEMES**
 
 From time to time payasUgym will run 'Bonus Schemes'. By fulfilling the necessary steps you will be rewarded with 'Bonus Credit'. Bonus credit is not refundable and therefore cannot be withdrawn from your account. All 'Bonus Credit' is valid for a period of 30-days from the point it is added to a User's eWallet. Where applicable 'Bonus Credit' will be used before 'Friend Credit' and 'Added Credit' (credit you have added) for any purchases. payasUgym reserves the right to stop any Bonus Scheme without notice. Any customer who has entered a valid bonus code before the Bonus Scheme has finished will be awarded 'Bonus Credit' if the necessary steps within the specified timeframe are completed even if these steps are completed after the Bonus Scheme has finished. 'Bonus Schemes' cannot be used in conjunction with any other offers.
 
-a.        £5 Introduction Offer: This offer allows customer to enter a specific 'Bonus Code' at registration and when they have completed the necessary steps within the timeframe they are award 'Bonus Credit'. The 'Bonus Code' can be a code sent from a friend through a Referral Scheme (earnasUburn) or this code may be completely independent. For each customer that uses this 'Bonus Code' when registering and then goes on to purchase and redeem one ePass within the specified timeframe they will be rewarded with £5 worth of 'Bonus Credit'. Once the 'Bonus Code' has been activated at registration the customer has 30-days to redeem a pass to be awarded the 'Bonus Credit'. Cannot be used in conjunction with any other offers.
+a.         £5 Introduction Offer: This offer allows customer to enter a specific 'Bonus Code' at registration and when they have completed the necessary steps (if necessary) within the timeframe they are award 'Bonus Credit'. The 'Bonus Code' can be a code sent from a friend through a Referral Scheme or this code may be completely independent. For each customer that uses this 'Bonus Code' when registering and then goes on to purchase and redeem one ePass within the specified timeframe they will be rewarded with £5 worth of 'Bonus Credit'. Once the 'Bonus Code' has been activated at registration the customer has 30-days to redeem a pass to be awarded the 'Bonus Credit'. Cannot be used in conjunction with any other offers.
 
-**19.    ****FURTHER INFORMATION**
+b.         First Pass Free Introductory Offer: This allows the customer to purchase their first pass free if it is equal to or under £15. You are not able to purchase ePass greater than £15 with this promotion. You cannot use real money combined with this offer to purchase an ePass more expensive than £15. First Pass Free is only applicable for 1-day ePasses and not any other types of ePasses or products. A pass purchased with a First Pass Free promotion cannot be refunded and will be valid for 30 days for you to redeem.
+
+c.          15% off 1-Day ePasses: This promotion gives you 15% off the cost of an ePass and is only applicable for 1-day ePasses and not any other types of ePasses or products.
+
+**18.    FURTHER INFORMATION**
 
 If you have any questions relating to our Terms and Conditions please contact us at:
 
