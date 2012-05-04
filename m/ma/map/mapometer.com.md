@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapometer.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202132957id_/http%3A//www.mapometer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapometer.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504180116id_/http%3A//www.mapometer.com/privacy.html) for the most accurate reproduction.*
 
 # Mapometer privacy policy
 
