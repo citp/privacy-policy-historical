@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topsfund.org privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224150144id_/http%3A//www.topsfund.org/index.php%3Fa%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsfund.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504123138id_/http%3A//www.topsfund.org/index.php%3Fa%3Dpolicy) for the most accurate reproduction.*
 
-# :.:.:TopsFund.Com:.:.:
+# :.:.:TopsFund.org:.:.:
 
 Your Privacy is Our Priority 
 
