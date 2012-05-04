@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201959id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504071412id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NADAguides.com
 
