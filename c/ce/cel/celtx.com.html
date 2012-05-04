@@ -1,15 +1,232 @@
-<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2011-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111231214548id_/http%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504022555id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Celtx - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="  ">
     <meta name="description" content="  ">
-    <link rel="stylesheet" href="https://celtx.s3.amazonaws.com/css/style.css" type="text/css">    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
     
-<script type="text/javascript" src="https://celtx.s3.amazonaws.com/lib/jquery.fancyzoom.min.js"></script>
-<script type="text/javascript" src="https://celtx.s3.amazonaws.com/lib/script.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+    
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	
+
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+
+<!-- Content Metas
+  ================================================== -->
+<meta name="keywords" content=" free film and TV pre-production software, free media pre-production software, free storyboarding software, free storyboard software, free film budgeting and scheduling software, free screenwriting software, free script writing software, scriptwriting software, screenplay software, film script software, breakdown, breakdowns, xul, free video pre-production software, free video software, theatre pre-production software, animation pre-production software, game development software, comic creation software, machinima pre-production software, animation ">
+<meta name="description" content=" free screenwriting software storyboard schedule ">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> -->
+	
+	<meta name="viewport" content="width=1024">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="/css/base.css">
+	<link rel="stylesheet" href="/css/skeleton.css">
+	<link rel="stylesheet" href="/css/layout.css">
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="/favicon.ico">
+	<!-- <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png"> -->
+	
+	
+	<script type="text/javascript" src="/app/cxsrv/compiled.js"></script>
+    
+    <script type="text/javascript">
+    	
+    (function(){
+    	
+    	var updateInputs = function(arr, b){
+    		$.each(arr, function(i, el){
+    			$(el).attr('disabled', b);
+    		});
+    	},
+    	
+    	showError = function(errSpan, errText, userTb){
+    		
+    		var msg = errText.toUpperCase(); 
+    	
+			if (msg.substring(0, 13) === 'INVALID EMAIL'){
+				//msg = 'Invalid email address';
+				userTb.addClass('error');
+				userTb.focus();
+			}
+			else if (msg.substring(0, 3) === '401'){
+				//msg = 'Incorrect username or password';
+			}
+			else if (msg.substring(0, 3) === '409'){
+				//msg = 'Account already exists for that email address';
+				userTb.addClass('error');
+				userTb.focus();
+			}
+			
+			errSpan.text(msg);
+			errSpan.css('visibility', 'visible');
+		},
+	
+		loggedIn = function(){
+			if (window.location.pathname === '/' || window.location.pathname === '/index.html'){
+				goToApplication();
+			}
+			else{
+				$('#signInDiv').css('display', 'none');
+				$('#loggedInDiv').css('display', 'block');
+				cx.docs.Session.getInstance().getLogon()
+				.addCallback(function(logon){
+					$('#loggedInUsername').text(logon.getName());
+					$('#accessAccount').click(function(e){
+						goToApplication();
+					});
+				});
+			}
+		},
+		
+		goToApplication = function(){
+			window.location.href = '/app/studio.html';
+		},
+		
+		signupSuccess = function(email){
+			$('#login1SentEmailAddress').text(email);	
+			$('.signup1').hide();
+			$('.login1').show();
+		},
+		
+		validate = function(user, pass){
+			
+			var hasError = false;
+			
+			if (user.val().length <= 0){
+				user.addClass('error');
+				hasError = true;
+				user.focus();
+			}
+			
+			if (pass.val().length <= 0){
+				pass.addClass('error');
+				if (!hasError) pass.focus();
+				hasError = true;
+			}
+			
+			return hasError;
+		},
+		
+		hideError = function(errSpan){
+			errSpan.css('visibility', 'hidden');
+		},
+				
+		setupForm = function(userTb, passTb, submitBtn, errorSpanId, spinnerId, isLogin){
+			
+			userTb.bind('keypress', function(){
+				$(this).removeClass('error');
+				hideError(errorSpanId);
+			});
+			
+			passTb.bind('keypress', function(){
+				$(this).removeClass('error');
+				hideError(errorSpanId);
+			});
+			
+			var inputList = [userTb, passTb, submitBtn];
+				
+			submitBtn.click(function(e){
+				// stop the submission of the form.
+				e.preventDefault();
+				
+				hideError(errorSpanId);
+				
+				if (validate(userTb, passTb)){
+					return;
+				}
+				
+				updateInputs(inputList, true);
+			
+				if (isLogin){
+					cx.docs.Session.login(userTb.val(), passTb.val())
+					.addCallback(function(){
+						goToApplication();
+					})
+					.addErrback(function(e){
+						showError(errorSpanId, e.message, userTb);
+						updateInputs(inputList, false);
+					});
+				}
+				else{
+					spinnerId.css('visibility', 'visible');
+					cx.docs.Session.signup(userTb.val(), passTb.val(), $('#subscribe').is(':checked'))
+					.addCallback(function(){
+						spinnerId.css('visibility', 'hidden');
+						signupSuccess(userTb.val());		
+					})
+					.addErrback(function(e){
+						showError(errorSpanId, e.message, userTb);
+						updateInputs(inputList, false);
+						spinnerId.css('visibility', 'hidden');
+					});
+				}
+			});
+		
+		},
+		
+		setupLogin = function(){
+			setupForm($('#email_id'), $('#password_id'), $('#btnLogin'), $('#login-failed-msg'), undefined, true);
+		},
+		
+		setupSignup = function(){
+			setupForm($('#email_signup'), $('#password_signup'), $('#btnSignUp'), $('#signup-failed-msg'), $('#signupSpinner'), false);
+		};
+		
+		
+		//check if the user is already logged in.
+		cx.docs.Session.getInstance().isLoggedIn()
+			.addCallback(function(){		
+				loggedIn();
+			})
+			.addErrback(function(){	
+				//user is not logged in.		
+				
+			});
+		
+		$(document).ready(function() {
+			setupLogin();
+			setupSignup();		
+			$('.homeUsername').jLabel();
+			$('.homePassword').jLabel();
+			$('.signupUsername').jLabel();
+			$('.signupPassword').jLabel();	
+		});
+	})();
+    
+    </script>
+	
+	
+	
+	<!-- fancyBox -->
+	
+	<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css" media="screen">
+	<script type="text/javascript" src="/fancybox/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="/javascript/jlabel-1.3-min.js"></script>
+	
+    
+        
+	<!-- Speak to Levin - Greg is not sure if this is being used -->	
+	<script src="/javascript/tabs.js"></script>
+
+	
+
+
 
     <script type="text/javascript">
 
@@ -27,76 +244,48 @@
 </script>
 
   </head>
-  <body>
-        <script type="text/javascript">
-// Detect if iPad and re-direct to mobile page
-// 7-day cookie prevents user from getting redirected multiple times    
-if ((navigator.appVersion.indexOf("iPad")!=-1) || (navigator.appVersion.indexOf("iPhone")!=-1)) {
-  if (document.cookie.indexOf('mobileCookie') ==-1){
-  var vDate = new Date;
-  vDate.setDate(vDate.getDate( ) + 7);
-  document.cookie = 'mobileCookie=' + 'test' + '; expires=' + vDate.toGMTString( ) + ';';
-  location.href="/mobile.html";
-  }
-}
-</script>
+  <body id="" class="">
+    
+<!-- Top Bar and Menu
+================================================== -->
 
+<div id="topBar">
+	<div class="globalNavContainer">
+	
+		<div class="logo">
+			<a href="/index.html"><img src="/images/celtxLogo.png" alt="Celtx Logo"></a>
+		</div>
+		
+		<div id="signInDiv" style="float:right">
+			<form id="sign-in" name="sign-in">
+			<ul id="mainNav" style="float:right;">
+				<!--<li><a href="/details.html" >Details</a></li>
+				<li><a href="/community.html">Community</a></li>
+				<li><a href="/support.html">Support</a></li> -->
+				<li class="inputFields"><label for="email_id">Email</label><input type="email" name="email_id" value="" id="email_id" class="homeUsername wicked" autocorrect="off" autocapitalization="off"></li>
+				<li class="inputFields"><label for="password_id">Password</label><input type="password" name="password_id" id="password_id" class="homePassword wicked"></li>
+				<li class="homeLogIn"><input type="submit" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
+			</ul>
+			<!-- <span style="position:relative;top:34px;left:35%;color:white;font-size:11px"><input type="checkbox" checked="checked" />Remember me</span> -->
+			<span style="position:relative;top:34px;left:64%;color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></span>
+			<span id="login-failed-msg" style="position:relative;top:34px;left:69%;color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold"></span>
+			</form>
+		</div>
+		<div id="loggedInDiv" style="display:none;float:right">
+			Welcome <span id="loggedInUsername"></span> <button id="accessAccount">Log in</button>
+		</div>
+	</div>
+</div>
 
-
-<div id="wrapper">
-	<p style="text-align:center; margin-top:10px;"><a style="color:yellow;background-color:black;padding:5px 10px;-webkit-border-radius:4px;-moz-border-radius:4px;" href="/#/desktop/nav-releasenotes">Celtx v2.9.1 | Bug fix release</a></p>
-  <div id="header">
-    <div id="header-left">
-      <a href="/index.html"><img src="https://celtx.s3.amazonaws.com/images/header-logo.png" alt=""></a>
-    </div>
-    <div id="header-right">
-      <ul id="navigation">
-        
-  <li>
-    <a href="/index.html"><span>Desktop</span></a>
-  </li>
-
-  <li>
-    <a href="/mobile.html"><span>Mobile</span></a>
-  </li>
-
-  <li>
-    <a href="https://studio.celtx.com/"><span>Studio</span></a>
-  </li>
-
-  <li>
-    <a href="/addons.html"><span>Add-ons</span></a>
-  </li>
-
-  <li>
-    <a href="/guides.html"><span>Guides</span></a>
-  </li>
-
-  <li>
-    <a href="/seeds.html"><span>Seeds</span></a>
-  </li>
-
-  <li>
-    <a href="/community.html"><span>Community</span></a>
-  </li>
-
-  <li class="selected selected-support">
-    <a href="/support/index.html"><span>Support</span></a>
-  </li>
-
-  <li>
-    <a href="/about.html"><span>About</span></a>
-  </li>
-
-      </ul>
-    </div>
-  </div>
-  <div id="main" class="text-only-page">
 
     
- <p>This privacy policy is designed to assist you in understanding how Celtx uses and safeguards the information and resources that you provide to us.</p>
 
-<p>Celtx provides the Celtx Software ("Software") and manages operations of the Celtx Web Site, and the Celtx Studios (collectively, "Services"). The Services may require registration, and the selection of usernames and passwords, in order to function.</p>
+
+<div class="container" style="padding: 30px; width: 920px;">
+
+<h1 class="heading">Privacy Policy</h1>
+
+<p>This privacy policy is designed to assist you in understanding how Celtx uses and safeguards the information and resources that you provide to us.</p>
 
 <h2>Use of Information</h2>
 
@@ -114,28 +303,80 @@ if ((navigator.appVersion.indexOf("iPad")!=-1) || (navigator.appVersion.indexOf(
 
 <p>If you wish to modify or delete any personal information you submitted to Celtx, you may do so by either modifying your profile on the Forums or contacting us at <a href="mailto:info@celtx.com">info@celtx.com</a>. We will use commercially reasonable efforts to delete all such information within fifteen working days from the date of the receipt of your request. Please note that it may be impossible to delete a user's entry without some residual information remaining in our system due to the presence of Celtx maintained backups and records of deletions. Celtx reserves the right not to delete information in order to comply with applicable local laws or regulations.</p>
 
-    			</div>
-			
-			<div id="footer">
-				<span class="fright">Issues? Contact <a href="mailto:webmaster@celtx.com">webmaster@celtx.com</a><div id="google_translate_element"></div></span>
-				© 2002-2011 Celtx. All Rights Reserved.
-				<a href="/privacy.html">Privacy Policy</a> | 
-				<a href="/terms.html">Terms of Use</a> | 
-				<a href="/logo.html">Logo Terms</a>
-			</div>
-			<script type="text/javascript">
-				function googleTranslateElementInit() {
-				  new google.translate.TranslateElement({
-				    pageLanguage: 'en',
-				    includedLanguages: 'zh-CN,zh-TW,en,fr,de,iw,hi,it,ja,es'
-				  }, 'google_translate_element');
-				}
-			</script>
-			<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-			<div style="clear:both"></div>
-		</div>
+</div>
+
+    <!-- Footer
+================================================== -->
+
+	<div class="clear"></div>
+
+	<div class="footer">
+	<a href="/about.html">About</a>
+	<a href="/support.html">Support</a>
+	<a href="http://celtx.tumblr.com/">Blog</a>
+	<a href="/seeds.html">Seeds</a>
+	<a href="https://studio.celtx.com">Studio Login</a>
+	<a href="/privacy.html">Privacy Policy</a>
+	<a href="/terms.html">Terms</a>
+	<a href="/desktoplicense.html">Licenses</a>
+	<a href="/contact.html">Contact</a>
+	
+<!--
+	<h5>Links</h5>
+	<h5>Details</h5>
+	<h5>Terms</h5>
+	
+	<div class="clear"></div>
+	
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/about.html">About</a></li>
+		<li><a href="/support.html">Support</a></li>
+		<li><a href="/community.html">Community</a></li>
+		<li><a href="http://celtx.tumblr.com/">Blog</a></li>
+		<li><a href="/seeds.html">Celtx Seeds</a></li>
+		<li><a href="/release.html">Release Notes</a></li>
+	</ul>
+	
+	<ul>
+		<li><a href="/details.html">Details</a></li>
+		<li><a href="/desktop.html">Desktop</a></li>
+		<li><a href="/services.html">Services</a></li>
+		<li><a href="/mobile.html">Mobile</a></li>
+		<li><a href="/desktop.html#add-ons">Add-Ons</a></li>
+		<li><a href="/guides.html">Guides</a></li>
+		<li><a href="https://studio.celtx.com">Celtx Studio Users</a></li>
+	</ul>
+	
+	<ul>
+		<li><a href="/desktoplicense.html">Desktop License</a></li>
+		<li><a href="/terms.html">Terms of Use</a></li>
+		<li><a href="/logo.html">Logo Terms</a></li>
+		<li><a href="/privacy.html">Privacy Policy</a></li>
+		<li><a href="/policies.html">Policies and Licenses</a></li>
+	</ul>
+
+	<ul>
+		<li><a href="/policies.html#artSales">Art Packs Sales Policy</a></li>
+		<li><a href="/policies.html#artTerms">Art Packs Terms of Use</a></li>
+		<li><a href="/policies.html#studioSales">Studio Sales Policy</a></li>
+		<li><a href="/policies.html#studioTerms">Studio Terms of Use</a></li>
+		<li><a href="/policies.html#writersSales">Writer's Pack Sales Policy</a></li>
+		<li><a href="/policies.html#writersTerms">Writer's Pack Terms of Use</a></li>
+		<li><a href="/policies.html#learningSales">Learning Series Sales Policy</a></li>
+	</ul>
+	
+	<ul>
+		<li><a href="/policies.html#learningTerms">Learning Series Terms of Use</a></li>
+		<li><a href="/policies.html#add-ons">Add-Ons License and Sales Policies</a></li>
+		<li><a href="/policies.html#volume">Volume Installs License and Sales Policies</a></li>
+		<li><a href="/logo.html">Logo Terms</a></li>
+		<li><a href="/privacy.html">Privacy Policy</a></li>
+		
+	</ul> -->
+	
+	</div>
     
 
   
-
 </body></html>
