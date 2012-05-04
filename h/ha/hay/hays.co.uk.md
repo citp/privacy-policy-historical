@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2011-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110822092349id_/http%3A//www.hays.co.uk/general-content/HAYS_006054) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504042715id_/http%3A//www.hays.co.uk/general-content/HAYS_006054) for the most accurate reproduction.*
 
 # Privacy Policy | Hays - Recruiting experts worldwide
 
@@ -8,7 +8,7 @@ If you do not agree to our processing of your data in the manner outlined in the
 
 ### Who is the controller of the data that you provide to us?
 
-Hays Specialist Recruitment Limited and its operating affiliates are registered as data controllers in the United Kingdom for the purposes of the Data Protection Act 1998. We ensure that the data you supply to us is processed fairly and lawfully, and with skill and care and used only for the purposes set out in this policy.
+Hays Specialist Recruitment Limited is registered as a data controller in the United Kingdom for the purposes of the Data Protection Act 1998. We ensure that the data you supply to us is processed fairly and lawfully, and with skill and care and used only for the purposes set out in this policy.
 
 ### What information will we collect? How will we use it?
 
@@ -26,14 +26,11 @@ We will collect data about you, both personal data (such as your name and contac
   * To send you details of reports, promotions, offers, networking and client events and general information about the industry sectors which we think might be of interest to you where you have consented to being contacted for such purposes
   * To answer your questions and enquiries
   * To third parties where we have retained them to provide services that you or our client have requested, such references, qualifications and criminal reference checking services, verification of the details you have provided from third party source, psychometric evaluation or skill test
-  * To third parties who perform functions on our behalf and who also provide services to us, such as professional advisors, IT consultants carrying out testing and development work on our business systems, research and mailing houses and outsourcing partners.
   * To regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings
   * To use your information on an anonymised basis to monitor compliance with our equal opportunities policy
   * To carry out our obligations arising from any contracts entered into between you and us
 
 
-
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data. Where there is no such box we will use your data as stated in this Privacy Policy.
 
 From time to time we may seek your consent to process, use or disclose your information for any other purpose not listed above.
 
