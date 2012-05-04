@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102181014id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504205131id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
 
 # OU Web Privacy Statement - Policies and Regulations - Oakland University
 
