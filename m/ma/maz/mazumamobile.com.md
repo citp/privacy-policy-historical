@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000103id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504032352id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
 
-# Sell my mobile phone - Mobile phone recycling - Trade In used phones for cash - Mazuma
+# Phone Recycling, Recycle Mobile - Mazuma Mobile
 
 ## Who we are
 
