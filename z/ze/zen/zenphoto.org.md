@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017074505id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504033422id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
 
-# Privacy | Zenphoto - Simpler web gallery management
+# Privacy | Zenphoto - The simpler media website CMS
 
 #### Website Visitors
 
