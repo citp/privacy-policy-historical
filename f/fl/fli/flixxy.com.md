@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223054000id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021111id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Flixxy.com Privacy Policy
 
