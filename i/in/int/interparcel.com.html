@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2011-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110807225355id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interparcel.com privacy policy that was archived on 2012-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504024100id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -147,7 +147,7 @@ function leave_trackbox() {
 
 <tr>
 <td height="33" align="right" valign="bottom" style="background-image: url(/images_new/main_layout/trackingbox.gif); background-repeat: no-repeat; background-position: right;">
-<input type="text" id="header_track" value="Enter your tracking number..." name="header_track" onfocus="enter_trackbox();" onblur="leave_trackbox();" style="width:248px; height: 20px; position: relative; top: -3px; left: -2px; border:0px; outline: none;">
+<input type="text" id="header_track" value="Enter your tracking number..." name="header_track" onfocus="enter_trackbox();" onblur="leave_trackbox();" style="width:248px; height: 20px; position: relative; top: -4px; left: -2px; border:0; outline: none; -webkit-appearance:caret;">
 </td>
 <td width="51" height="33" valign="bottom"><img src="/images_new/main_layout/trackingbutton_off.gif" onmouseover="this.src='/images_new/main_layout/trackingbutton_on.gif';" onmouseout="this.src='/images_new/main_layout/trackingbutton_off.gif';" style="cursor:pointer;" onclick="track_package();" alt="Track your package" title="Track your package"></td>
 </tr>
@@ -299,7 +299,6 @@ function leave_trackbox() {
 <!-- MAIN CONTENT TABLE -->
 
 
-
 <div style="width:714px; float: left;">
 
 
@@ -386,17 +385,48 @@ function leave_trackbox() {
 
 
     <!-- 2nd column container table-->
-  <table style="background-color: #ffffff" width="200" cellspacing="0" cellpadding="0">
+  <img id="LiveHelpStatus" border="0" style="position:relative; top: -9px;" src="" onclick="ShowChat()"><table style="background-color: #ffffff" width="200" cellspacing="0" cellpadding="0">
+
+  
+  
+
+
+
+<script src="/js/jquery.js"></script>
+<script src="/js/livechat_json_poll.php"></script>
+
+  <!--
+  <tr>
+  <td>
+    <a href="/xmas-game/game.php">
+    <image style="position:relative; top: -1px;" src="/images_new/promos/200px/xmas_game.gif" alt="Play our Xmas game" title="Play our Xmas game"></a>
+    </td>
+  </tr> 
+  
+  <tr>
+  <td>
+    <a href="/pages/?page=xmas-last-posting-dates">
+    <image style="position:relative; top: 5px;" src="/images_new/promos/200px/xmas_posting_dates.gif" alt="Last posting dates for Christmas" title="Last posting dates for Christmas"></a>
+    </td>
+  </tr>  
+  -->
+  
   
   <tbody><tr>
   <td>
     <a href="/help">
-    <img src="/images_new/promos/200px/how_to_wrap_up.gif" alt="Advice and helpful tips for sending your parcel" title="Advice and helpful tips for sending your parcel"></a></td>
-    
+    <img style="position:relative; top: -1px;" src="/images_new/promos/200px/how_to_wrap_up.gif" alt="Advice and helpful tips for sending your parcel" title="Advice and helpful tips for sending your parcel"></a>
+    </td>
   </tr>
-
-  <tr><td height="20"></td></tr><!-- Spacer -->
   
+
+ 
+  
+ 
+
+
+  <tr><td height="25"></td></tr><!-- Spacer -->
+
   <tr>
   <td>
     <a href="/sameday">
@@ -407,10 +437,17 @@ function leave_trackbox() {
   <tr><td height="25"></td></tr><!-- Spacer -->
   
   <tr>
-  <td><a href="/pallet"><img src="/images_new/promos/200px/pallet_delivery.gif" alt="Pallet delivery from interparcel.com" title="Pallet delivery from interparcel.com"></a></td>
+    <td>
+    <a href="/pallet">
+    <img src="/images_new/promos/200px/pallet_delivery.gif" alt="Pallet delivery from interparcel.com" title="Pallet delivery from interparcel.com"></a>
+    </td>
   </tr>
+ 
+  
   </tbody></table>
   <!-- End of 2nd column container table-->
+
+ 
 
 </div><!-- End of panels -->
 
@@ -494,7 +531,7 @@ function leave_trackbox() {
 <tbody><tr>
 
 <td valign="middle" height="40">
-&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2011&nbsp;&nbsp;&nbsp;:
+&nbsp;&nbsp;Copyright © Interparcel Ltd 2004-2012&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/privacy.php" alt="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/terms.php" alt="Terms Of Use">Terms Of Use</a>&nbsp;&nbsp;&nbsp;:
 &nbsp;&nbsp;&nbsp;<a href="http://www.interparcel.com/site-map/index.php" alt="Site Map">Site Map</a>
@@ -503,8 +540,8 @@ function leave_trackbox() {
 </tr>
 
 <tr>
-<td valign="top" height="30">&nbsp;
-Web Server 1&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;</td>
+<td valign="top" height="30" style="color: #998866">&nbsp;
+Web Server 2&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;DB Server Local</td>
 </tr>
 </tbody></table> 
 <!---------------------------- FOOTER END----------------------------->
