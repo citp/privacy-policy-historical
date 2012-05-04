@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaforthhuronexpositor.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204052425id_/http%3A//www.seaforthhuronexpositor.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaforthhuronexpositor.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504095515id_/http%3A//www.seaforthhuronexpositor.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -100,8 +100,8 @@ M5A 3X5
 E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 Any rights not expressly granted herein are reserved.  
-© 2011 www.seaforthhuronexpositor.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of Seaforth Huron Expositor RSS feeds is strictly forbidden. 
+© 2012 www.seaforthhuronexpositor.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of Seaforth Huron Expositor RSS feeds is strictly forbidden. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.seaforthhuronexpositor.com ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2012 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.seaforthhuronexpositor.com ,All rights reserved. 
