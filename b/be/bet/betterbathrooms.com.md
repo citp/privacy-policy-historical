@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201180839id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504134054id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+Corner Whirlpool Baths (9)
+
+  
+
+
+
   
 
 
   
-[](http://www.betterbathrooms.com/news/2010/12/better-bathrooms-launches-new-tv-advert/ "Better Bathrooms on ITV")  
-[](http://www.betterbathrooms.com/news/2011/02/better-bathrooms-to-be-featured-on-bbc-1-show-%E2%80%98diy-sos%E2%80%99/)  
-[](http://www.betterbathrooms.com/news/2011/02/better-bathrooms-aids-beeny-in-channel-4%E2%80%99s-restoration-nightmare/)  
-[](http://www.betterbathrooms.com/news/2010/12/better-bathrooms-features-in-the-daily-mail/ "Better Bathrooms in the Daily Mail")  
-[](http://www.betterbathrooms.com/news/2011/01/better-bathroom-features-in-the-daily-telegraph/ "Better Bathrooms in the Daily Telegraph")
+
 
   
-[](https://web.archive.org/applogic/info/payments/payments.html)
-
-Transaction information passed between Better Bathrooms and Sage Pay's system is encrypted using 256-bit SSL certificates.  
 
 
 BetterBathrooms UK Limited ("We") are committed to protecting and respecting your privacy.
@@ -105,4 +104,4 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 
 
-[](https://web.archive.org/applogic/better-bathrooms-sprout-count-competition?utm_source=sprout&utm_medium=sprout)
+[](https://web.archive.org/applogic/request_brochure)
