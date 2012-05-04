@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151803id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504095333id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
 
-# Poetry for Kids - Content
+# Kenn Nesbitt's Poetry for Kids - Content
 
 Privacy Policy  
 
@@ -48,13 +48,13 @@ In addition, we use third-party advertising companies such as [Google AdSense](h
 
 It is our intention to adhere to the [Self-Regulatory Guidelines for Advertising](http://www.caru.org/guidelines/index.asp) of the [Children's Advertising Review Unit](http://www.caru.org/) of the [Better Business Bureau](http://www.bbb.org/).
 
-As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](https://web.archive.org/web/20111101151803id_/http%3A//www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
+As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](https://web.archive.org/web/20120504095333id_/http%3A//www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
 
   
 
 
-Copyright © by Poetry for Kids All Right Reserved.
+Copyright © by Kenn Nesbitt's Poetry for Kids All Right Reserved.
 
-Published on: 2004-06-21 (36546 reads)
+Published on: 2004-06-21 (39059 reads)
 
 [ Go Back ]
