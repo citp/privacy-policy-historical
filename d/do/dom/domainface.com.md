@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainface.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619134211id_/http%3A//domainface.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainface.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504183641id_/https%3A//domainface.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Domainface
 
@@ -17,6 +17,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
   * When you register for Domainface we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
   * Face Software Ltd uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * Your credit card details are not retained by Domainface. We use a third party specialist billing provider called Recurly, which is 100% PCI compliant and bills our customers via PayPal, which is also 100% PCI compliant. When adding credit card and billing information, we submit that data directly to Recurly for storage and processing and do not retain it on our own servers. You are free to remove that data at your convenience and discretion by logging into your associated Recurly account. More information on PCI compliance for Recurly can be found at <http://recurly.com/security>. PayPal PCI compliance information can be found at <https://www.paypal.com/pcicompliance>.
 
 
 
