@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the howtohint.com privacy policy that was archived on 2011-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110724172534id_/http%3A//www.howtohint.com/site/content/name/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtohint.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504173946id_/http%3A//www.howtohint.com/page/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - HowToHint.com
-
-## Privacy Policy
-
-> ### ** **
+# Privacy Policy | Howtohint.com
 
 Effective Date: 1 June 2011
 
@@ -30,7 +26,7 @@ Some of the instances when We collect personally identifiable information from Y
 
 Some of the uses of the personally identifiable information so collected by Our Website include:
 
-· To process Your application to contribute to the Website; 
+· To process Your application to contribute to the Website;
 
 · To verify the accuracy of the information submitted in the application process;
 
@@ -86,7 +82,7 @@ We disclaim any liability for disclosure of any personally or non-personally ide
 
 2\. Any unlawful or unauthorized access to, and transmissions of, personal information from this Website; or
 
-3\. Disclosure of any information by You on message boards, Forums, blogs, social networking websites, or any other online or offline media; or 
+3\. Disclosure of any information by You on message boards, Forums, blogs, social networking websites, or any other online or offline media; or
 
 4\. Disclosure to auditors for investigation into crimes – actual or potential; or
 
