@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226200235id_/http%3A//www.dma.org.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504042245id_/http%3A//www.dma.org.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Direct Marketing Association (UK) Ltd
 
