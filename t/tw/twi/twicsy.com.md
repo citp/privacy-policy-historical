@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217201043id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504110010id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
 
 # Twicsy Privacy Policy | Twicsy, the Twitter Pics Engine
 
