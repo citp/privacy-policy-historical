@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002309id_/http%3A//www.dealdey.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504022458id_/http%3A//dealdey.com/privacy_policy) for the most accurate reproduction.*
 
 # DealDey - Privacy Policy
 
@@ -101,7 +101,11 @@ Children. Minors under the age of 18 may not use the Website. We do not collect 
 It's easy to reach us. You can use our Contact page or in all cases... All Inquiries:
 
 DealDey (HQ)  
-2nd Floor, Maku House  
-Plot 109 Awolowo Road, Ikoyi Lagos  
-0700 DEALDEY  
+No. 43 Raymond Njoku Street,   
+off Awolowo Road,  
+Ikoyi, Lagos.  
+080-9999-7-111  
+080-9999-7-222  
+080-9999-7-333  
+080-9999-7-444  
 [help@dealdey.com](mailto:help@dealdey.com)
