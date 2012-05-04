@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125628id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504182202id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: E-Gold, MoneyBookers, PayPal, Liberty Reserve, AlertPay, Google CheckOut and Credit Cards Accepted.
 
-|  |  |   
+|  |  |  |   
 ---|---|---  
 |  | 
 
@@ -65,6 +65,18 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
 ---  
 |   
 ---|---  
+  
+[ ](http://www.xtraorbit.com/core/about/quotes.php)  
+---  
+|   
+Choosing to work with XtraOrbit has been one of the best, most profitable busniess decisions my company has made.
+
+There are a lot of hosting outfits to choose from, but we've never encountered anyone who works with us so intensely to insure that all of our needs are met, and we really can't thank you enough for that.   
+  
+|    
+**Ahmed M.Safa**  
+ObeikanBookShops.com  
+Saudi Arabia  
   
   
   
