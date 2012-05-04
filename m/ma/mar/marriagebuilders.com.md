@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagebuilders.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002423id_/http%3A//www.marriagebuilders.com/graphic/mbi051_priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagebuilders.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504041658id_/http%3A//www.marriagebuilders.com/graphic/mbi051_priv.html) for the most accurate reproduction.*
 
 # The Marriage Builders® Privacy Policy
 
