@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209235025id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504081045id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GunBroker.com - Privacy Policy
 
@@ -118,7 +118,7 @@ Where we have identified a specific third party advertising company below as an 
 
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Third Party Advertising Company: None at present 
+Third Party Advertising Company: [ValueClick Media](http://cdn.fastclick.net/fastclick.net/nai/enhanced_notice.html?cid=328572&mid=639667&sid=58332&which=enhanced_notice)
 
 We will update this section of this Privacy Policy if our practices with respect to advertisers change, including identifying any third party advertising companies making use of the Site, so you should check this section of the Privacy Policy if you are concerned about third party advertising companies. 
 
