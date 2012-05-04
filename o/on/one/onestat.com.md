@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestat.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231215407id_/http%3A//www.onestat.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestat.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504201036id_/http%3A//www.onestat.com/html/privacy.html) for the most accurate reproduction.*
 
 # OneStat Web Analytics and Web Metrics - Privacy Center
 
