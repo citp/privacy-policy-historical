@@ -1,52 +1,58 @@
-> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2007-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071003051219id_/https%3A//www.azoogleads.com/corp/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azoogleads.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504095523id_/https%3A//www.epicadvertising.com/aup.php%3Fid%3Dcorporate) for the most accurate reproduction.*
 
-# AzoogleAds - About Us - Adware Acceptable Use Policy
+# Epic Advertising. Performance Marketing, Simplified.
 
-### Web Users Privacy
+### Privacy Practices for Our Website
 
-AzoogleAds strongly believes in a consumer's right to privacy. All web user data collected by AzoogleAds as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. AzoogleAds does not conduct individual web user "profiling."
+Epic Advertising ("us" or "we"). This Privacy Policy outlines our privacy practices on all our corporate properties (collectively, the "Websites"). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Websites; and/or (2) apply as a publisher ("Publisher") and/or advertiser ("Advertiser") (collectively, "Client(s)") services available through the Websites ("Services"). The Websites is not directed towards individual Internet consumers and does not seek any personally identifiable information from such consumers. If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Websites or apply for the Services. If you have any questions about this Privacy Policy, please feel free to contact us at [help@epicadvertising.com](mailto:help@epicadvertising.com).
 
-**Cookies:**  
-Remote "cookies" on web user computers and server databases at AzoogleAds facilities are used to store information by AzoogleAds. A cookie is a piece of data placed on the Web User's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase your hard drive or otherwise damage your computer. Usage of a cookie is in no way linked to any personally identifiable information. 
+### Personally Identifiable Information:
 
-Cookies are used to ensure that when a web user clicks on an ad, they are sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows advertisers to determine with greater accuracy the composition of the audience they reach. Cookies are also used to sequence the delivery of a series of ads to a web browser, and to limit the number of times a web browser receives any one advertisement. Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier's website for details on how to do this. 
+We collect Personally Identifiable Information ("PII") from this Websites when you attempt to become a Client or otherwise choose to provide PII to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone number, mobile number and/or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on our Websites. Once collected, we will store your PII for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
 
-**Information Collection and Use:**  
-As with all web content delivery systems, AzoogleAds records information about the interaction between a web user's browser and our servers. Those interactions include ad content (banner) delivery, counting click-throughs on an ad, and tracking webpage views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This non-personally identifiable information is collected from web users to assist in the proper function of our service as well as the targeting of advertisements from our customers and the reporting of aggregate data to both advertisers and publishers. AzoogleAds does not collect, use, sell, or purchase web user information that is personally identifiable. 
+###  Information Sharing: 
 
-**Information Sharing:**  
-Web user information (all of which is non-personally identifiable) is shared with our advertisers and publishers in aggregate fashion. This means, for example, that of the millions of web users we deliver banners to each month, an advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the services we offer. AzoogleAds may augment web user information with additional non-personally identifiable information, such as an IP address to 5-digit postal code cross reference to aid in local targeting of advertising. IP addresses are not linked to personally identifiable information by AzoogleAds. 
+Epic Advertising will not sell, share or rent your PII to or with others. Your PII is not shared with any third parties, except: (a) where necessary to conduct business, such as invoicing a Client in connection with the Services or making payments to, or collecting money from, a Client; (b) in the case of a breach of any agreement between Client and Epic Advertising; (c) where required by law, or requested by a court of competent jurisdiction; (d) in the event of Epic Advertising’s bankruptcy, or if Epic Advertising is sold or acquired; or (e) where Epic Advertising determines, in its sole discretion, that such disclosure is necessary to protect the rights of Epic Advertising and/or a third party, or necessary to protect Epic Advertising from liability of any kind. 
 
-**Third Party Advertising:**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+###  Non-Personally Identifiable Information: 
 
-**Third Party Cookies:**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We collect Non-Personally Identifiable Information ("Non-PII") from Websites visitors. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to our Websites, the referring URL and/or your computer's operating system. 
 
-**Contacting AzoogleAds:**  
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, you can contact us at help@AzoogleAds.com
+###  Cookies and Web Beacons:
 
-### AzoogleAds Publishers
+We use "cookies" and web beacons to help us manage our Websites. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies/>. 
 
-This Publishers privacy policy is intended to disclose the type of information that AzoogleAds collects about its Publishers and how the information is used. For our web user privacy policy, please see the Web User Privacy Statement . 
+###  Third Party Websites:
 
-**Ownership of Information:**  
-AzoogleAds is the sole owner of all data collected by AzoogleAds on this site. Information collected is in two distinct categories: Publisher information and aggregated Web User information.
+This Websites may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of Epic Advertising. While we endeavor to associate only with reputable entities, Epic Advertising cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies of all websites that you visit. 
 
-**Use of Information Collected:**  
-Publisher information collected includes personally identifiable information that is necessary to conduct business, such as name, phone number, and email address. This information is required so that payments may be made to and from AzoogleAds and aid us in servicing our Publishers to the best of our ability.
+###  Minors:
 
-**Information Sharing:**  
-Publisher information is not shared with any third party outside AzoogleAds, except for that necessary to conduct business, such as for invoicing for advertising campaign purchase, making payments to a Publisher, or as required by law. We will not sell, share, or rent this information to others.
+This Websites is not intended for visitors that are under eighteen (18) years of age. Epic Advertising does not knowingly solicit or collect information from individuals under the age of thirteen (13). If we determine that we have inadvertently collected PII from someone under thirteen (13) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
 
-**Use of Cookies:**  
-Cookies are used to simplify Publisher logins and to facilitate secure navigation through the password protected areas of the website. Publishers who choose turn cookies off in their web browser may have difficulty navigating the password protected areas of the website.
+###  Security:
 
-**Security:**  
-AzoogleAds takes reasonable precaution to protect the information collected through its websites against loss, misuse or alteration. All information is password protected and only employees of AzoogleAds that require access to this information to conduct normal business are give permissions to use it.
+All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users' PII, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
 
-**Web Links:**  
-When you leave this site though links found on this site to other websites (whether knowingly or not) AzoogleAds can no longer be responsible in any way for any material that you encounter and AzoogleAds excludes (to the fullest extent permitted by law) any liability that may arise with respect to or as a result of such material causing any damage, costs, injury or financial loss of any kind.
+Once we receive the transmission of your PII, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All our end-users' PII is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to PII. Employees not adhering to our policies are subject to disciplinary action. In compliance with applicable federal and state law, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures. 
 
-**Further Information:**  
-If you have any further questions regarding the AzoogleAds Publishers privacy Policy please contact us at:
+###  Changes to this Privacy Policy & Notification of Changes:
+
+Epic Advertising reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Websites explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Websites. Please check the Websites periodically for any changes. Your continued use of the Websites and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+
+###  Deleting your PII:
+
+If you'd like us to delete any PII that you have provided to us on our Websites, please send your request to us at [help@epicadvertising.com](mailto:help@epicadvertising.com) and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. 
+
+###  Contacting the Websites:
+
+If you have any questions about this Privacy Policy or the practices of Epic Advertising, please feel free to contact us at [help@epicadvertising.com](mailto:help@epicadvertising.com), or via postal mail at:
+
+Epic Advertising.  
+Attn: Privacy Officer  
+512 7th Avenue, 12th Floor  
+New York, NY 10018
+
+Epic Advertising is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.
+
+EFFECTIVE DATE: February, 23, 2012
