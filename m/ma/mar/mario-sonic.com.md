@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mario-sonic.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215549id_/http%3A//www.mario-sonic.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mario-sonic.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504075521id_/http%3A//www.mario-sonic.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - mario sonic games
 
-Advertisement
+More Arcade
 
 [](http://www.nx8.com/most-popular?utm_source=160over&utm_medium=160over&utm_campaign=160over)
-
-More Arcade
 
 Links
 
