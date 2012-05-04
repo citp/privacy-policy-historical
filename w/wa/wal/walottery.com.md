@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217151418id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504030341id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
@@ -92,7 +92,7 @@ Cole & Weber, as developer of the Washington's Lottery website, and Washington's
 
 ## Disclaimer
 
-The Washington's Lottery website has many links to other web sites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Washington's Lottery website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site. 
+The Washington's Lottery website has many links to other web sites. These include links to websites operated by other government agencies. When you link to another site, you are no longer on the Washington's Lottery website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site. 
 
 Neither the State of Washington nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability, or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability, or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk. 
 
