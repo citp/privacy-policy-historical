@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the netatlantic.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008120829id_/https%3A//www.netatlantic.com/about/termsandpolicies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netatlantic.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504231355id_/https%3A//www.netatlantic.com/about/termsandpolicies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EU Safe Harbor | Net Atlantic
 
-About Net Atlantic's Email Marketing Services
+**High Email Deliverability**  
+Your messages get through quickly and are seen by more of your audience.
+
+**Powerful Email Tracking & Reporting**  
+You know exactly how your messages perform. 
+
+**Superior Segmentation and Automation**  
+Choose who gets your emails and when.
+
+**Personal & Expert Service**  
+We try to answer every phone call and take care of your needs immediately.
 
 #### Keep it Simple by Writing Content First
 
@@ -22,6 +32,6 @@ Employees and personnel of Net Atlantic who have access to a client's personally
 
 Net Atlantic is subject to the jurisdiction of the United States Federal Trade Commission, and we adhere to all [EU Safe Harbor Principles](https://web.archive.org/about/termsandpolicies/eusafeharborprinciples.html "View EU Safe Harbor Principles").
 
-© 1995-2011 Net Atlantic, Inc. All rights reserved. 
+© 1995-2012 Net Atlantic, Inc. All rights reserved. 
 
 We are not a mailing list broker and do not sell or rent email lists.
