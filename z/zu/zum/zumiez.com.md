@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222025834id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumiez.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504231510id_/http%3A//www.zumiez.com/help/privacy) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy at Zumiez
 
 Privacy and Security Policy
 
-Updated 10/12/2010
+Updated 2/1/2012
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. FOR CHILDREN VISITING THIS WEB PAGE, ASK YOUR PARENTS TO GO OVER THIS WITH YOU.
 
-By using http://www.zumiez.com ("Site") you signify your assent to this Privacy Policy. If you do not agree with this policy, please do not use this Site. Your continued use of our Site following the posting of changes tot hese terms will mean you accept those changes. Zumiez reserves the right, as its sole discretion, to change, modify, add, or remove portions of this policy at any time.
+By using http://www.zumiez.com, thestash.zumiez.com, zumiezcouchtour.com, bestfootforward.com ("Sites") you signify your assent to this Privacy Policy. If you do not agree with this policy, please do not use these Sites. Your continued use of our Site following the posting of changes to these terms will mean you accept those changes. Zumiez reserves the right, as its sole discretion, to change, modify, add, or remove portions of this policy at any time.
 
 Zumiez Inc. values the relationship we have built with our customers. Our customers' rights to privacy online and the concerns of parents for their children visiting our site are very important. In efforts to bring you a great shopping experience and keep you updated with current promotions, events and product, we may collect some personal information.
 
-Why do we collect personal information? How do we use it? And when do we share it with other companies? All these questions will be answered in this privacy policy. Also, you will learn about your rights and choices in regards to the use of your information. If you have any questions about this privacy policy, contact Zumiez Customer Service:
+Why do we collect personal information? How do we use it? When do we share it with other companies? All these questions will be answered in this privacy policy. Also, you will learn about your rights and choices in regards to the use of your information. If you have any questions about this privacy policy, contact Zumiez Customer Service:
 
   * Phone: Toll Free at: (877) 828-6929
   * Email: [help@zumiez.com](mailto:help@zumiez.com)
@@ -30,9 +30,9 @@ Privacy of Children on Our Site
 
 The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our Site. Below we explain how we comply with COPPA. When we use the term "parent" below, we mean to include legal guardians.
 
-Information should not be submitted to or posted at Zumiez.com by guests under 13 years of age without the consent of their parent or guardian. If Zumiez.com learns that a guest under 13 years of age has submitted personally identifiable information online Zumiez will take reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
+Information should not be submitted to or posted at zumiez.com, thestash.zumiez.com, zumiezcouchtour.com or bestfootforward.com by guests under 13 years of age. If Zumiez learns that a guest under 13 years of age has submitted personally identifiable information online Zumiez will take reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law).
 
-Children can browse Zumiez.com without any personal information being collected. We collect birth dates to validate the ages of our guests, including children. We do not collect any other personally identifiable information from children during our registration process. We will apply material changes in our Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
+Children can browse zumiez.com, zumiezcouchtour.com and bestfootforward.com without any personal information being collected. Guests under 13 years of age cannot access thestash.zumiez.com. We collect birth dates to validate the ages of our guests, including children. We do not collect any other personally identifiable information from children during our registration process. We will apply material changes in our Privacy Policy only in conformance with applicable law, including any applicable provisions of COPPA that require parental consent.
 
 If you need further assistance, please contact Zumiez Customer Service with your questions or comments at:
 
@@ -55,6 +55,7 @@ Information We Collect
 We may collect information including: your name, postal address, billing address, telephone number, email address and, when necessary, credit card information when you:
 
   * Place an order online
+  * Join The Zumiez Stash Rewards program
   * Make a purchase at one of our Zumiez Retail Stores 
   * Return an item or make an exchange 
   * Inquire about our services 
@@ -71,9 +72,9 @@ We may collect information including: your name, postal address, billing address
 
 
 
-To protect our customers, all records and data you have provided, is kept in a secure database. _See Security section for more information._
+To protect our customers, all records and data you have provided, are kept in secure databases. _See Security section for more information._
 
-We collect data every time someone accesses Zumiez.com. This information is gathered to improve your shopping experience. The types of data we are tracking are day and time the Site is accessed, the internet domain used to access the Site, the website visited prior to visiting our Site, the pages visited while on our Site. 
+We collect data every time someone accesses zumiez.com, zumiezcouchtour.com, bestfootforward.com, or thestash.zumiez.com. This information is gathered to improve your shopping experience. The types of data we are tracking are day and time the Site is accessed, the internet domain used to access the Site, the website visited prior to visiting our Site, the pages visited while on our Site and your activities on the site. 
 
 
 
@@ -83,6 +84,7 @@ Using Information We Collect
 The information we collect will simply help us provide you products and services such as:
 
   * Offer information on past purchases
+  * Award you The Zumiez Stash Rewards Points
   * Improve our product selection
   * Process and track your order
   * Provide the services you request
@@ -91,6 +93,7 @@ The information we collect will simply help us provide you products and services
   * Customize our communications to you
   * Provide information concerning products you have purchased
   * Improve our customer service
+  * Provide product recommendations
 
 
 
@@ -100,9 +103,10 @@ We may communicate with our customers via email, phone or text to provide the pr
 
   * Order confirmation
   * Shipment confirmation
-  * Providing customer service 
+  * Providing customer service and answers to your questions 
   * Order Tracking 
   * Account Information 
+  * The Zumiez Stash Rewards information
 
 
 
@@ -118,9 +122,9 @@ Zumiez reserves the right to disclose information about you as required by law, 
 
 Updating or Reviewing Your Information
 
-Did your personal information change? No problem, you can update, review or delete your personal information related to your account with Zumiez.com. This may include change of name, addresses or contact information. You have two ways to update this information:
+Did your personal information change? No problem, you can update, review or delete your personal information related to your account with zumiez.com or thestash.zumiez.com. This may include change of name, addresses or contact information. You have two ways to update this information:
 
-Online: First go to Zumiez.com and log into your account using your username and password. Once you have logged in to your account, you can edit your profile.
+Online: First go to Zumiez.com or thestash.zumiez.com and log into your account using your username and password. Once you have logged in to your account, you can edit your profile.
 
 Phone: Zumiez.com Customer Care Toll Free at (877) 828-6929
 
@@ -148,10 +152,11 @@ A "cookie" is the term we use to describe a small data file that many Web sites 
   * Track when Zumiez.com has been visited
   * Track pages that have been visited
   * Determine whether a visitor came to Zumiez.com from a particular internet link or banner advertisement
+  * Award The Zumiez Stash Rewards points for your website activities
 
 
 
-The use of cookies is an industry standard, you'll find them at most major Web sites. We never save passwords or credit card information in cookies. If you prefer not to receive cookies from Zumiez.com, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.
+The use of cookies is an industry standard, you'll find them at most major Web sites. We never save passwords or credit card information in cookies. If you prefer not to receive cookies from Zumiez, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence, or you can also refuse all cookies by turning them off in your browser.
 
 Third-Party Web Beacons: We use third-party web beacons to help analyze where visitors go and what they do while visiting our website. We use anonymous information about your visits to this and other websites in order to improve our products and services of interest to you.
 
