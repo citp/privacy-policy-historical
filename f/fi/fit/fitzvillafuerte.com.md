@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202082758id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504112155id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Sponsored Links:
 
 Your privacy is respected here in my site, [fitzvillafuerte.com](http://fitzvillafuerte.com/ "Ready To Be Rich"). Please read below the disclosures regarding information gathering and dissemination practices for this web site.
 
@@ -10,7 +8,9 @@ Your privacy is respected here in my site, [fitzvillafuerte.com](http://fitzvill
 My web site server generates log files. The information being saved are internet protocol (IP) addresses, browser types, internet service providers, visitor entry and exit pages, platform type, date/time stamp, and visitor clicks. These data are used to analyze trends, administer the site, track the browsing behavior of the visitors, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **E-mail Subscription**  
-If a user wishes to subscribe to my posts via e-mail (powered by Feedburner), I ask for contact information such as name and email address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
+If a user wishes to subscribe to my posts via e-mail (powered by [Feedburner](http://www.feedburner.com/)), I ask for contact information such as name and email address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
+
+Furthermore, I will never give nor sell your name and email address to third-party entities or other companies without your explicit permission. Your email address will solely be used by me through Feedburner.
 
 **Cookies**  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’ activity. Some of my business partners and advertisers use cookies on our site. However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
