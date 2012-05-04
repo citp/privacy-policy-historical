@@ -1,133 +1,130 @@
-> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214742id_/https%3A//privacy-policy.truste.com/verified-policy/www.stayclassy.org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504101544id_/http%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for www.stayclassy.org
+# 
 
-Effective on August 16, 2010 
+StayClassy Productions Inc. (referred to throughout as " **us** ," " **we** ," " **our** ," etc.), is the owner and operator of the www.stayclassy.org website, a fundraising platform for nonprofits. This Privacy Policy applies to the www.stayclassy.org website, any subdomains thereof, any API integrations or widgets we offer, and any other websites or webpages we own or operate that include a link to this policy (all of which together are referred to as the " **Website** "). Although we provide shorter answers to privacy questions on the Website in order to be helpful, this Privacy Policy is the exclusive and authoritative source of our privacy practices. Please keep in mind that this Privacy Policy does not apply to other websites, which may be accessible from the Website. External websites may have data collection, storage, and use practices and policies that differ materially from those contained here.
 
-This privacy statement describes how StayClassy collects and uses the personal information you provide on our Web site: [www.stayclassy.org ](https://www.stayclassy.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+We may update this Privacy Policy from time to time. If we do so, we will notify you by posting the date of the last change or amendment at the top of this page. You agree that this method of notice is sufficient and that you will regularly check this Privacy Policy to see if updates or changes have been made.
 
-**TRUSTe**
+**What Types of Information Do You Collect?**
 
-StayClassy is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+**Traffic Data.** As is true of most websites, we automatically collect certain information when you visit our Website. This information includes: (i) IP addresses, (ii) domain servers, (iii) types of computers accessing the Website, (iv) types of web browsers used to access the Website, (v) referring/exit pages, (vi) data about usage patterns throughout the Website (e.g. click rates on different links etc.). Information of this type (" **Traffic Data** ") is anonymous information that does not personally identify you but is helpful for us to improve the business performance and user experience of the Website. 
 
-If you have questions or concerns regarding this policy, you should first contact us at [info@stayclassy.org ](mailto:info@stayclassy.org). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+**Personal Information.** In order for you to make donations through the Website, register with the Website, purchase tickets or registrations through the Website, RSVP to free events posted on the Website, or take certain other actions on the Website (e.g. contacting us through forms, etc.) we require you to provide us with information that personally identifies you (" **Personal Information** "). Personal Information includes the following types of data:
 
-## Collection and Use of Personal Information
+⋅ Contact Data such as name, mailing address, e-mail address, and StayClassy user-name, account number, and password
 
-We collect the following personal information from you
+⋅ Financial Data such as your account or credit card number
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+⋅ Demographic Data such as your zip code, age, and gender
 
+⋅ Company Data such as your business name, size, and business type
 
+⋅ Activity Data such as your donation history, fundraising history, events attended, etc.
 
-We also collect the following information from you
+**How do you collect Traffic Data?**
 
-  * Information about your business such as company name, company size, business type
-  * Demographic information such as age, education, gender, interests and zip code
+As is true of most websites, we use cookies to collect Traffic Data related to the Website. We use another company to place cookies on your computer to compile this non-personally identifiable information so we can aggregate statistical information about usage of the Website.
 
+The Website also contains web beacons, which are electronic images that are used along with cookies to compile statistics so we can analyze how the Website is being used. Our e-mails may also contain web beacons so we can track how many people open the message or click on links within the message. This information helps us improve our communication and marketing efforts.
 
+We use a third party to gather information on how you and others are using the Website. By using this service we are able (for example) to see how many people visited a given page or clicked on a given link. This information helps us optimize the performance of the Website.
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+**Is my Personal Information kept confidential?**
 
-We use this information to
+Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with other third parties unless such disclosure is necessary to: (i) comply with a court order or other legal process, (ii) to protect our rights or property, or (iii) to enforce our Terms of Service. Please keep in mind that while we take reasonable precautions to safeguard your Personal Information no amount of protection can guarantee its security. 
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
-  * List you in our member directory made available only to other members
-  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [info@stayclassy.org ](mailto:info@stayclassy.org)
+**How does StayClassy use my Personal Information?**
 
+We use your information in a variety of ways to help us run the Website. Here are some of the ways we use your information:
 
+To send you receipts
 
-**Choice/Opt-Out**
+To send you updates about the Website 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@stayclassy.org ](mailto:info@stayclassy.org).
+To send you updates about activity on the Website related to you
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+To send newsletters
 
-**Information Obtained from Third Parties**
+To administer your account 
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+To respond to customer service inquiries
 
-You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose.
+To send marketing materials
 
-## Information Sharing
+To improve our Website and marketing efforts
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+To administer the Classy Awards or other promotions you have entered
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+**How do your newsletters work?**
 
-We may also disclose your personal information
+We send out a weekly newsletter called the "StayClassy Weekly" (the " **Weekly** ") that contains stories about philanthropy and nonprofits. We also send out updates about new blog posts and other resources as we develop them (collectively the " **Updates** "). Nonprofits that register with the Website automatically receive the Weekly and the Updates. Otherwise, if you are not already receiving the Weekly or the Updates, then you must opt in to receive them.
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if StayClassy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+The Weekly and the Updates contain an unsubscribe option which you can follow at any point if you wish to stop receiving either, or both of them. If you have received our newsletter mistakenly, or wish to stop receiving it, you can also contact us at [help@stayclassy.org](mailto:info@stayclassy.org) and we will remove you from the list.
 
+Please keep in mind that when you use the Website, you will likely receive other e-mail communications from us (some of which are mentioned in the section immediately preceding this one). We will try to keep the number of messages sent to you to a reasonable amount.
 
+**Who has access to my Credit Card Number?**
 
-_PayPal_
+PayPal processes all donations and ticket/registration sales made through the Website. Financial and Contact data you input to consummate a transaction is encrypted using SSL technology and sent to PayPal. For recurring donations your Financial and Contact data is stored by PayPal in accordance with industry standards. Only PayPal has access to your credit card number. We do not have access to your credit card number. Data handled by PayPal is subject to PayPal's terms and privacy policy, which you should review by visiting www.paypal.com.
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+We use Chargify (www.chargify.com) to process monthly payments made by nonprofits that purchase subscription plans or upgrades from us (see the Subscription Agreement for more detail). If you purchase a subscription plan or upgrade, your purchase will be made on an SSL encrypted page hosted by Chargify and the information you submit will be stored by Chargify in accordance with industry standards. Data handled by Chargify is subject to Chargify's terms and privacy policy, which you should review by visiting www.chargify.com. 
 
-## Cookies and Other Tracking Technologies
+**Who has access to my Personal Information (Except for Credit Card #)?**
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+We share your Personal information with other business partners who assist us in performing core services (such as hosting, data storage, and security) related to the operation of the Website. These business partners only use your Personal Information to perform these core services, which are necessary for the orderly operation of the Website.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+Unless you donate anonymously, any organization you make a contribution to, or purchase from, through the Website will have access to your Personal Information (except for your credit card number). If you make a donation or purchase through an individual fundraising page, then the person who created the fundraising page will also have access to your Personal Information (except for your credit card number). If you make a donation or purchase through an individual fundraising page associated with a fundraising team, or directly to a team fundraising page, then the person who created the team page will also have access to your Personal Information (again, except for your credit card number). You consent to the foregoing and agree that we are not responsible for how these organizations or persons handle your Personal Information. You should contact them directly for their privacy policies and data usage practices.
 
-_Web beacons_
+From time to time, businesses or other entities will run campaigns to benefit charities through the Website. In such a situation, your Personal Information (except for credit card number) may be accessible to the business or other entity running the campaign. If that is the case, we will provide additional notice to you during checkout to let you know if the business or other entity will have access to your data.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+**What's an individual profile?**
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+When you make a transaction through the Website, we automatically index it for you. That information remains hidden from the public unless you register with the Website. If you decide to register (by, for example, creating a personal fundraising page), then by default your giving history, fundraising history, and the events you are attending will be displayed in your profile, which is publicly accessible. Your profile will also display your name, city, and state. You can hide information in your profile from the public by clicking on "Account Settings" (accessible at the top of your screen when you login) and hiding the information you do not wish to share.
 
-_Links to Other Web Sites_
+**What is a charity profile?**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of StayClassy. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+  
+Each nonprofit that registers with the Website is automatically created a charity profile. This profile displays the nonprofit's active events, campaigns, and projects (unless they've been made "private"). It also displays the total amount the nonprofit has raised through the Website. Each charity profile also includes an activity feed that displays activity occurring on the Website related to that charity (e.g. donations made, events posted, etc.). Charity profiles are public. They can be located by using the search within the Website or by external search engines.
 
-## Security
+**Are webpages I create private?**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [info@stayclassy.org ](mailto:info@stayclassy.org)
+In general, no. If you create a personal fundraising page, an event page, campaign page, checkout page, "get involved page," or other webpage on the Website, it is not private. Pages created on the Website are indexed by search engines and accessible to the public.
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+If you create an event or campaign on the Website and select the "private" setting, this means that the event or campaign link will not be displayed through the activity feeds on the Website, the event or campaign will not be available through the internal search function on the Website, and it will not be indexed by external search engines like Google. It does not mean, however, that people cannot still wind up on your page (e.g. if the link is shared with them). Please keep in mind that, even if you make a campaign or event private, any personal fundraising pages created by your supporters as part of that campaign or event will remain publicly accessible.
 
-## Additional Policy Information
+**What other information is public?**
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Information you post on event pages, campaign pages, personal fundraising pages, your profile (unless hidden), a charity profile, blog posts, or other public pages on the Website can be accessed by other people. You should exercise caution when deciding to share information on public pages. We cannot control who accesses shared information or how other parties will use that information.
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+**What are activity feeds?**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Activity feeds are streamed displays of actions occurring on the Website. There are various public activity feeds on the Website. Our homepage contains an activity feed displaying recent activity occurring across the whole Website (e.g. donations, new events, ticket purchases, etc.). Charity profiles also have activity feeds that display activity relevant to each respective charity (e.g. donations to, or ticket purchases from, that organization). Each individual profile also contains an activity feed that indexes actions taken by that individual on the Website. 
 
-**Correcting and Updating Your Personal Information**
+Unless you select the option to donate anonymously, your name and the amount of your donation (or ticket/registration purchase) will be publicly displayed through the homepage activity feed, the relevant charity profile's activity feed, and (if you are registered) through the activity feed on your individual profile.
 
-To review and update your personal information to ensure it is accurate, contact us at [info@stayclassy.org ](mailto:info@stayclassy.org).
+Nonprofits using the Website also have access to certain widgets (widgets are small snippets of code we generate that the nonprofit can then put into another website). These widgets allow a nonprofit to display activity occurring on the Website on the nonprofit's own website, blog, or another website. Unless you donate anonymously, your name and the amount of your donation (or ticket/registration purchase) may be publicly displayed through the activity feed on a widget. If you become a supporter of a nonprofit on the Website, or fundraise for a nonprofit on the Website, your name and picture may also be displayed on a widget. Please keep in mind that we cannot control, where a given nonprofit will embed the widgets we make accessible to it.
 
-**Notification of Privacy Statement Changes**
+**What are API's and how can my information be shared?**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We make an application programming interface (an " **API** ") available to nonprofit clients. An API (in non technical terms) allows a nonprofit to automatically retrieve information from our site, for use/display elsewhere (e.g. on the nonprofit's website). To give an example, a nonprofit might use our API to retrieve the names and photos of the top 5 fundraisers for a campaign it is running; the nonprofit could then display that information on a leader board on its own website. If you are fundraising for a nonprofit your name, picture, amount raised, and goal, can be retrieved by the nonprofit through our API. If you create a team fundraising page, then your name, the team goal, and the amount raised by the team can also be retrieved by the nonprofit through our API. If you host an event for a charity, then your name, contact info, and the location of your event can be retrieved by the benefitting nonprofit through our API. The foregoing examples are for illustrative purposes only. The nonprofit you engage with has access to other information through our API such as tickets sold, number of attendees, etc. That being said, the information that we make available through our API is (generally) information that is otherwise available on the Website (e.g. already posted on an event page, campaign page, available through search results, etc.).
 
-You can contact us about this privacy statement by writing or email us at the address below:
+**What choices do I have?**
 
-StayClassy 
+It's up to you whether or not you want to provide us with Personal Information. You can still visit the Website without providing us with Personal information, but you will be unable to take certain actions without doing so.
 
-4501 Mission Bay Drive Suite 3C 
+If you are an individual that registers with the Website, and therefore have a public profile, you can make your information private by clicking on "Account Settings" (accessible at the top of the screen) and changing your privacy settings.
 
-San Diego, CA, United States 92109
+You can also choose to make contributions anonymously. If you make an anonymous contribution, your name will not be displayed through the Website's activity feeds and your Personal Information will not be given to the organization you are making a contribution to. 
 
-Phone: 6176947963
+**How can I update or correct my Personal Information?**
+
+If you have registered (and therefore have an individual profile) you can update your information by clicking on "Account Settings" which is accessible at the top of your screen once you've logged in.
+
+**What do I do if my information is lost or stolen?**
+
+If you know, or suspect, that your credit card, user name, or password has been lost, stolen, or used without your authorization you need to contact us immediately ([help@stayclassy.org](mailto:help@stayclassy.org)). Upon notification, we will take reasonable steps to mitigate any damage which may have been caused. You are responsible for the safety and security of your user name and password. You should logout after each session you have with the Website and you shouldn't share this information.
+
+**Can Children Use this Website?**
+
+Our Website is for a general audience and is not targeted towards children. Children under 13 years of age are prohibited from using the Website per our Terms of Service. If your child has used the Website and submitted Personal Information to us, please contact us and we will endeavor to remove that information from the Website and our database.
