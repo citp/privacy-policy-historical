@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204054418id_/http%3A//www.freesaver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504031256id_/http%3A//www.freesaver.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,8 +13,8 @@ We log statistical information about browsers, operating systems, and referring 
 
 Freesaver.Com works with third parties that serve ads to this site. These ads may contain cookies but we do not have access to this information. To find out more about how these sponsors manage the privacy of information in conjunction with serving ads on this site, please visit their privacy pages for additional information: 
 
-[Google:](http://www.google.co.uk/privacy_ads.html)  
-Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.co.uk/privacy_ads.html).
+[**Google** : ](http://www.google.com/privacy_ads.html)  
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
 * * * * * 
 
