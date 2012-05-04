@@ -1,218 +1,127 @@
-> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2007-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070804185429id_/http%3A//www.americasvacationcenter.com/About/Default.cfm%3FCFAction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasvacationcenter.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505003317id_/http%3A//www.avoyatravel.com/About/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Americas Vacation Center: Discount Cruise Vacations
+# Privacy Policy of Avoya Travel
 
-  |  We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personally identifiable information ("PII") you provide us. (PII includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address.) As a visitor to our U.S. Web site, www.AmericasVacationCenter.com ("America’s Vacation Center®"), you have the right to understand our information privacy practices prior to providing America’s Vacation Center with any of your PII. 
+#### Privacy Policy
 
-What information we collect from you  
-America’s Vacation Center only collects PII that you **voluntarily** provide to us.   
-Tell Me More
+We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the Personally Identifiable Information (“PII”) you provide us. Avoya Travel, LLC, its Independent Affiliates and business partners (“Avoya Travel”) conduct business under various registered trade names including but not limited to Avoya Travel®, Avoya Travel®, Avoya®, and its affiliate Rev Agency, LLC. This Avoya Travel Privacy Policy (the “Privacy Policy”) describes the principles and practices that apply to the PII collected from the users of our services (“you”) via our website, telephone or email communications, contests, or other surveys and interactions.
 
-How we use your information  
-America’s Vacation Center uses your PII for the purposes of responding to and processing your requests for America’s Vacation Center travel products and services.   
-Tell Me More
+This Privacy Policy applies to the website [www.AvoyaTravel.com](http://www.avoyatravel.com/) (“Avoya Travel®”), and to any other Avoya Travel domestic or international-owned websites that may be accessed through it.
 
-Who we share your information with  
-America’s Vacation Center will only share your PII with our authorized service providers that perform certain services or functions on our behalf or as required by law. **America’s Vacation Center does not sell or rent your PII to anyone.**   
-Tell Me More
+##### I. Definitions
 
-How you can control the use of your information  
-America’s Vacation Center provides you with choice and control over the collection and use of your PII, as well as a means of updating, correcting, or removing any PII stored in your customer profile.   
-Tell Me More
+“Disclose” means to release, transfer, disseminate, or otherwise communicate all or any part of any record orally, in writing, or by electronic or any other means to any person or entity.
 
-How you can decide what marketing communications you'll receive  
-America’s Vacation Center provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from America’s Vacation Center. For email newsletters and promotional postal mail, this can be accomplished by calling our Customer Care department at **1-866-692-8692** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both. If you choose not to receive any of the promotional marketing services that America’s Vacation Center provides, then America’s Vacation Center will not send them to you.   
-Tell Me More
+“Member” means an individual who has registered with the website.
 
-How we protect your information  
-To protect the confidentiality of your PII, America’s Vacation Center uses leading security technology and procedures.   
-Tell Me More
+“Minor” means any individual under 18 years of age, or as defined under the laws of their jurisdiction or residence.
 
-By providing you with this Privacy Statement, America’s Vacation Center is pledging our continued commitment to protecting the information you provide us. America’s Vacation Center regularly examines our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your PII made in this privacy statement. Your privacy is important to us. 
+“Personally Identifiable Information” or “PII” means any recorded information about specific individual whose identity may be inferred from the information. This information includes, for example, name, email and mailing address, phone number, account and billing information, and other information provided by a visitor to our website or incidental to providing products and services to you.
 
-This America’s Vacation Center Privacy Statement discloses the information privacy practices for America’s Vacation Center’s Web site, [www.AmericasVacationCenter](http://www.americasvacationcenter.com/). The America’s Vacation Center Web site is intended for use by residents of the U.S. that are over 18 years of age.   
-  
-Information collected about you  
-America’s Vacation Center collects personally identifiable information ("PII") about you that you specifically and voluntarily provide. PII includes information that can identify you as a specific individual, such as your name, phone number, or e-mail address. Although you are required to register as a member of America’s Vacation Center in order to use selected travel planning tools, and some PII is needed in order to process and fulfill travel requests, many areas of America’s Vacation Center can be accessed without providing any PII.
+“Website” means [www.AvoyaTravel.com](http://www.avoyatravel.com/) , as well as its child sites and web pages, and any domestic or international-owned or managed website of Avoya Travel that may be accessed through it.
 
-On all America’s Vacation Center pages that collect PII, we specifically describe what information is required in order to provide you with the product or service you have requested.
+##### II. Consent
 
-America’s Vacation Center collects PII when you: 
+By submitting PII to us or our website, and / or by visiting [www.AvoyaTravel.com](http://www.avoyatravel.com/) , you agree that we may collect, use and Disclose such PII in accordance with this Privacy Policy and as permitted or required by law.
 
-  * Become an America’s Vacation Center member 
-  * Complete a traveler profile 
-  * Purchase travel 
-  * Participate in a survey, contest, or sweepstakes 
-  * Contact America’s Vacation Center 
+If you do not agree with these terms, do not provide any PII to Avoya Travel. If you choose to refuse or withdraw your consent, we may not be able to provide you with services normally offered by Avoya Travel.
 
-**Member information**  
-America’s Vacation Center collects your Member ID, name, password, and e-mail address when you register to become a member of our Web site. 
+Avoya Travel does not sell or market products to Minors. Minors are not eligible to register with, use or purchase services via [www.AvoyaTravel.com](http://www.avoyatravel.com/) . We do not knowingly collect PII from any Minor, and will not deliberately use such information. If you are under 18, you may use [www.AvoyaTravel.com](http://www.avoyatravel.com/) only with the involvement of a parent or guardian.
 
-**Traveler profile information**  
-America’s Vacation Center collects the full name and contact number for a traveler when a travel reservation is made. We may also collect information about each traveler's preferences, including meal requests, seat selection, frequent flyer/hotel/car rental programs and membership numbers, and ticketing options. When someone other than yourself is accompanying you on travel purchased through America’s Vacation Center, we may collect PII and travel preferences about that individual. You should obtain the consent of other individuals prior to providing America’s Vacation Center with their full names, contact numbers, e-mail addresses, and travel preferences. 
+If you provide PII regarding any third party, including parties traveling or vacationing with you, you must obtain consent prior to your disclosure of this information. By providing PII of any third party, you represent that you have all necessary authority and / or have obtained all necessary consents from such person to allow our collection of PII as set forth in this Privacy Policy.
 
-**Travel purchase information**  
-America’s Vacation Center collects the billing address of the credit card that is used to purchase travel. We will also collect credit card information, including card number, card type, cardholder name, and expiration date, in order to bill you for travel purchased through America’s Vacation Center. **
+##### III. What Personally Identifiable Information We Collect
 
-Contests and sweepstakes information
+Avoya Travel only collects PII that you voluntarily provide to us, or that is incidental to your use of our services. The information we learn helps us personalize and continually improve your experience with Avoya Travel, and assists us in providing for your vacation needs. Here are the types of information we gather:
 
-**  
-Occasionally, America’s Vacation Center may offer our members and site visitors an opportunity to participate in a contest or sweepstakes. Information collected by America’s Vacation Center when you participate in a contest or sweepstakes may include your full name, e-mail address, and street address. **
+    * Information You Give Us: We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future vacations for you, improving our website and communicating with you. Such information may include service and purchase information, Membership and billing information, when you call or write to our Customer Service and other volunteered information.
+    * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses the website. Such information may include login information, browsing history, preferences and other personalization information.
+    * E-mail Communications: Avoya Travel may retain copies of our email correspondence, or if you have received and opened correspondence. We also compare our customer lists in an effort to avoid duplicative marketing.
+    * Information from Other Sources: We might receive information about you from other sources and add it to our account information. Such information may include when you visit sites on which we advertise, information collected on sites that we host for third parties and other content served by or on behalf of Avoya Travel on other websites.
+    * Incidental Information: Avoya Travel may collect information incidental to your visit of the website or purchase of products or services. Such information may include when you have visited the website or when you registered as a Member.
 
-Surveys
 
-**  
-America’s Vacation Center may offer our members and site visitors an opportunity to participate in surveys regarding their experience with our site. For our members, we may also send these surveys via e-mail. You are under no obligation to respond to any survey, and you may unsubscribe from receiving these e-mail surveys by following the unsubscribe instructions in any e-mail survey you receive. Information collected by America’s Vacation Center when you participate in a survey may include your full name, e-mail address, and street address. **
 
-Contacting America’s Vacation Center
+##### IV. How We Use Personally Identifiable Information
 
-**  
-America’s Vacation Center collects PII such as your full name, Member ID, e-mail address, and/or contact number whenever you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to America’s Vacation Center, or accessing your account. **
+Avoya Travel uses your PII for the purposes of responding to and processing your requests for Avoya Travel products and services:
 
-Our partners
+    * To record your travel preferences, to provide travel quotes, or make travel reservations on your behalf, to communicate with you or your travel provider about your travel plans;
+    * To process and track your transactions and to send information to affiliated travel agents and agencies via our systems and software regarding our and our business partners' products and services and other information and materials that may be of interest to you;
+    * To issue invoices, administer accounts, and collect and process product and services payments;
+    * To provide tips or guidance on how to use our website, inform you of new features on our site or provide other information that may be of interest to users; 
+    * To personalize the service we provide to you, tailor your experience at our website to your interests and make more appropriate travel recommendations; 
+    * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information or you have not advised us that you do not wish to receive such communications; 
+    * To manage our website, diagnose technical problems, improve content and allocate the resources of our systems so that your experience with our website is as efficient as possible; 
+    * To process and track your transactions and to send you information about our and our Independent Affiliates' and business partners' products and services and other information and materials that may be of interest to you; 
+    * To develop, enhance, market, sell or provide Avoya Travel products or services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
+    * To effect a corporate transaction in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
+    * To audit compliance with our policies and contractual obligations; 
+    * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or for any other purpose to which you consent.
+    * Avoya Travel does, at times, request credit card information, Membership ID, or national identification numbers to help plan and book vacations. Any such information is kept and maintained in accordance with Section VI below.
 
-**  
-America’s Vacation Center has partnered with reputable third parties to offer our members and site visitors a variety of products and services. All travel services throughout America’s Vacation Center that are provided by a third-party partner are described as such. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than America’s Vacation Center. We encourage you to review our business partners' privacy policies to further understand their procedures for collecting, using, and disclosing your information. **
 
-Other information we collect
 
-**  
-Some information is collected automatically every time you visit America’s Vacation Center (e.g., cookies and computer information). In addition, information may be collected from other independent, third-party sources. **
+##### V. To Whom We Disclose Personally Identifiable Information
 
-Cookies and other Web technologies
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. Avoya Travel will only share your PII with our authorized service providers that perform services or functions on our behalf, as required by law, or as described below.
 
-**  
-When you visit America’s Vacation Center we collect information about your computer and assign you a "cookie" (a small, unique identifier text file). You do not provide this information—it is collected automatically as a means of supporting your visit to our site. This cookie does not contain any PII. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access many travel services and planning tools offered by America’s Vacation Center. A cookie file may also be placed on your hard drive by America’s Vacation Center's third-party advertising companies. These companies may use aggregated statistics about your visits to this and other Web sites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does **not** include your PII. The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. **No** PII is collected during this process. The information is anonymous and does not link online actions to an identifiable person. **
+From time to time, we may Disclose PII as follows:
 
-Computer information
+    * To those travel service providers with which you have or may make arrangements through via our website. For example, associated cruise lines, tour operators, vacation packages, wholesalers, independent affiliated travel agents and agencies, hotel or ground transport, attraction and travel insurance companies. We provide them only with the PII needed to assist you in choosing and completing your purchases, as well as the booking and reservation of travel related products and services.
+    * To organizations that provide services for or on behalf of Avoya Travel. Examples include fulfilling orders, delivering packages and brochures, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. These parties have access to the PII needed to perform their functions.
+    * Avoya Travel may collaborate with other companies via software and systems to offer additional products and services, and may share PII to marketers of products and services which you have authorized. This Policy does not cover the use of your PII by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
+    * To protect our website and our rights under our Terms and Conditions of Use; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain.
+    * To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business.
+    * Where the information is public. 
+    * To our insurers and to regulatory agencies.
 
-**  
-America’s Vacation Center collects certain technical information from your computer each time you request a page during a visit to America’s Vacation Center. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site. **
 
-Information from other sources
 
-**  
-To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources and add it to our account information. Additionally, authorized America’s Vacation Center personnel may update your profile to accurately reflect any new profile information included in communications received from you. 
+##### VI. How we retain Personally Identifiable Information
 
-  
-Use of your information  
-Information collected on America’s Vacation Center may be used to: 
+If you are a Member of [www.AvoyaTravel.com](http://www.avoyatravel.com/) , we store your PII in the account overview of each user's “My Account” profile. The “My Account” profile consists of address and contact information, marketing preferences, a travel preferences section, and a messaging and alert section for communications between you and Avoya Travel. You can access you account information via the “My Account” hyperlink from the homepage of our website, after logging onto the website as a registered Member.
 
-  * Register you as an America’s Vacation Center member 
-  * Plan and purchase travel 
-  * Notify you of travel changes through the Travel Alerts service 
-  * Send marketing communications or surveys to you 
-  * Respond to your questions or suggestions 
-  * Improve the quality of your visit to our site 
+“My Account” contains a listing of the e-mails, e-newsletters and other communications we offer to send, and that you have elected to receive or not.
 
-**Member registration information**  
-When you register to become a member of America’s Vacation Center, we use your information to create your member account. You will then receive a "Welcome to America’s Vacation Center" e-mail that contains your Member ID and describes the benefits of using America’s Vacation Center for planning and purchasing your travel needs. **
+We will retain your PII in our databases in accordance with our records management policy and applicable laws. While this information may be periodically purged, the retention period may extend beyond the end of your relationship with us. We may also need to retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it.
 
-Travel planning and purchase
+Your PII will be stored in secured locations and on servers controlled by Avoya Travel, located either at our offices or at the offices of service providers.
 
-**  
-Information collected when you complete your traveler profile is used to confirm and process your travel reservation. In addition, information collected from you when you purchase travel is used to bill your credit card and deliver your travel itinerary, either electronically or through the mail. **
+##### VII. How You Can Control the Use of Your Information
 
-Travel Alerts notification
+As discussed above, you can always choose not to provide PII. Guest browsing is available on the [www.AvoyaTravel.com](http://www.avoyatravel.com/) website, even though PII might be needed to make a purchase or to take advantage of certain Avoya Travel services.
 
-**  
-In the event your travel plans are disrupted because of mechanical, weather, or carrier business conditions, America’s Vacation Center may send you an e-mail notification to inform you of these conditions and help you make alternative travel arrangements. **
+Avoya Travel provides you with choice and control over the collection and use of your PII, as well as a means of updating, correcting, or removing any PII stored in your customer profile. As described above, log in to the website and access your “My Account” settings to view and update that information.
 
-Marketing notifications
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
-**  
-As a registered America’s Vacation Center member, you may receive e-mails from us about special promotions, surveys, contests, sweepstakes, flight specials, trip information, or other travel opportunities on America’s Vacation Center and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your purchased travel itinerary. To assess the effectiveness of these e-mails, we may attach a Web beacon that provides confirmation when you open an e-mail from America’s Vacation Center. This only occurs if your computer supports such technology. You may also receive postal mail notifications from us about special promotions, surveys, contests, sweepstakes, flight specials, trip information, or other travel opportunities on America’s Vacation Center and its marketing partners. E-mail or postal marketing notifications containing offers for our marketing partners will be sent by America’s Vacation Center on our partners' behalf. **
+Avoya Travel provides you with the opportunity to specifically choose the promotional marketing communications you wish to receive from Avoya Travel. For emailed newsletters and promotional messages, you may adjust your marketing preferences within the “My Account” settings, or this can be accomplished sending an e-mail to [CustomerCare@AvoyaTravel.com](mailto:CustomerCare@AvoyaTravel.com) that includes your full name, street address and e-mail address, and specify that you don't want to continue receiving either postal mail, email, or both. If you choose not to receive any of the promotional marketing services that Avoya Travel provides, then Avoya Travel will not send them to you.
 
-Responses to your questions or suggestions
+##### VIII. How We Protect Your Information
 
-**  
-We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to America’s Vacation Center, or accessing your account. **
+To protect the confidentiality of your PII, Avoya Travel employs physical, administrative, and technical safeguards to help protect the confidentiality and integrity of the information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of PII.
 
-Improving the quality of your visit to our site
+##### IX. Changes to the Privacy Policy
 
-**  
-We collect certain information (e.g., travel information) based on your navigation of our site in order to better understand and serve our customers. This data allows us to streamline your ability to navigate the site and develop featured programs and content that will be of interest to our members and site visitors. **No** PII is collected unless you explicitly provide it. 
+By providing you with this Privacy Statement, Avoya Travel is pledging our continued commitment to protecting the information you provide us. Avoya Travel regularly examines our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your PII made in this privacy statement.
 
-This information can also be used to display targeted advertisements. Advertisement information is taken from data you explicitly provide on the America’s Vacation Center Web site, such as a flight origin or destination. **No** PII is used to deliver targeted advertisements.   
-  
-Sharing your information  
-**America’s Vacation Center does not sell or rent your PII to anyone.** **Service providers**  
-To provide and process the services you request, America’s Vacation Center shares your PII with our authorized service providers that perform certain services or functions on our behalf. We only share information about travel either reserved or purchased on America’s Vacation Center. Our service providers need information about your traveler profile, as well as your credit card information, to process and confirm your travel reservation. These service providers will disclose information about your traveler profile to hotel, airline, cruise, rental car, and other travel suppliers whose products you have purchased. Like any other travel agent, this information must be shared with our travel suppliers to confirm your reservation and travel preferences. Although America’s Vacation Center offers travel products from hotel, airline, cruise, rental car, and other travel suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on America’s Vacation Center. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
+We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the website, as well as to existing information held by us.
 
-America’s Vacation Center will occasionally share aggregated information with our service providers. This information does **not** contain any PII and is used to develop featured programs and content that will be of interest to our members and site visitors. 
+If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose PII for purposes materially different than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your PII from our records, as described above.
 
-In the event that you make a new, or update an existing, travel reservation by calling our toll-free number, your information may be accessed by a third-party service provider, as necessary, to respond to your request for customer service. 
+##### X. Disputes
 
-America’s Vacation Center may contract a reputable third party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to America’s Vacation Center. **
+Avoya Travel shares your concerns over privacy disputes. Your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including any limitations on damages, resolution of disputes, and application of the law of the state of California. If you have questions or concerns regarding Avoya Travel privacy practices, you should first contact the Chief Privacy Officer. Avoya Travel will investigate and attempt to resolve complaints regarding violations of its published Privacy Policy directly with the complainant. In the event that the complaint cannot be resolved internally, the complainant shall submit the matter to binding arbitration before the American Arbitration Association in San Diego, California.
 
-Trusted business partners
+##### XI. Contact Information
 
-**  
-In addition, we have partnered with various third-party Web sites to offer America’s Vacation Center travel services. These trusted third-party companies have added travel sections to their Web sites in order to offer America’s Vacation Center provided travel services. We will not share any of your PII with these trusted third-party companies, even if you register on America’s Vacation Center through their Web sites. **
+If you have any questions or concerns about (a) access to PII, (b) the collection, use, management or disclosure of PII, (c) this policy or our information handling practices, (d) with whom your PII is shared, or if you need further assistance with respect to our Privacy Policy, you may contact our Chief Privacy Officer via our Customer Care department as indicated below. We will attempt to respond to your questions or concerns promptly after we receive them.
 
-Our obligations
+**E-mail** : [CustomerCare@AvoyaTravel.com](mailto:CustomerCare@AvoyaTravel.com)
 
-**  
-America’s Vacation Center may be required by law to disclose information you have provided in obtaining our travel products or services. America’s Vacation Center may also disclose information against someone who poses a threat to America’s Vacation Center's interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for America’s Vacation Center to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. **
+##### XII. Your California Privacy Rights
 
-Other Web sites
+Under California Law, California residents have the right to request in writing from a business, (a) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including Independent Affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (b) the names and addresses of all such third parties. To request the above information, please contact us by contacting our Chief Privacy Officer via our Customer Care department via E-mail: [CustomerCare@AvoyaTravel.com](mailto:CustomerCare@AvoyaTravel.com)
 
-**  
-There are several places throughout America’s Vacation Center that may link you to other Web sites that do not operate under America’s Vacation Center's information privacy practices. When you click through to these Web sites, America’s Vacation Center's information privacy practices no longer apply. We recommend that you examine the privacy statements for all third-party Web sites to understand their procedures for collecting, using, and disclosing your information.   
-  
-Control over and access to your information  
-America’s Vacation Center believes that members and site visitors should have control over the collection and use of their PII. You have access to your information in the following areas of America’s Vacation Center: 
-
-**My Account**  
-The [My Account](https://www.americasvacationcenter.com:920/customercare/default.cfm?CFACTION=profileoverview) page on America’s Vacation Center allows members to view and change their account settings. You can also change your password. You can add and update your travel preferences. 
-
-  
-Communications from America’s Vacation Center  
-Members will receive communications from America’s Vacation Center when they: 
-
-  * Sign up to become an America’s Vacation Center member 
-  * Purchase travel 
-  * Elect to receive trip updates, changes or other special promotional marketing communications 
-  * Win a contest or sweepstakes 
-  * Contact America’s Vacation Center with questions/suggestions 
-  * Are asked to complete a survey about their experience on our site 
-
-**Sign up to become an America’s Vacation Center member**  
-When you sign up as a new America’s Vacation Center member, you will receive a "Welcome to America’s Vacation Center" e-mail. This e-mail contains your Member ID and password and describes the benefits of using America’s Vacation Center for planning and purchasing your travel needs. **
-
-Purchase travel
-
-**  
-Each time you purchase travel through America’s Vacation Center, or change or cancel a confirmed travel reservation, you will receive confirmation of your travel itinerary via e-mail. In the event that your travel plans are disrupted because of mechanical, weather, or carrier business conditions, America’s Vacation Center may contact you to inform you of these disruptions and help you make alternative travel arrangements. **
-
-Elect to receive trip updates, changes or other special promotional marketing communications
-
-**  
-As a registered America’s Vacation Center member, you will occasionally receive e-mails notifying you of special promotions or other travel news. Special promotional e-mails are intended to inform you of new or unique travel opportunities or special deals that are available on America’s Vacation Center. If you have purchased travel services, you may also receive a trip update e-mail that provides information about your destination, such as weather conditions, current events, or items of interest. by calling our Customer Care department at **1-866-692-8692** or by sending an e-mail to [customercare@americasvacationcenter.com](mailto:customercare@americasvacationcenter.com) that includes your full name, street address and e-mail address and specify that you don't want to continue receiving either postal mail, email or both.
-
-**Contests and sweepstakes**  
-You have the option of sending an e-mail to [ America’s Vacation Center](mailto:customercare@americasvacationcenter.com) requesting a change to the information you provided to us or to receive a copy of the information we have stored during the length of the contest or sweepstakes. We will make every reasonable effort to honor your wishes. Proof of identity is required.
-
-**Request customer support or submit questions/suggestions**  
-When you request assistance with viewing your itinerary, logging on to the America’s Vacation Center Web site, or accessing your account, we will respond to you via e-mail or telephone. 
-
-**Surveys**  
-To help us improve America’s Vacation Center and serve you better, from time to time we may e-mail surveys to you to learn more about your experience with our site. You are under no obligation to respond to these surveys, and you may unsubscribe from receiving them by following the unsubscribe instructions in any e-mail survey you receive. 
-
-  
-Protecting your information  
-We want our members and site visitors to feel confident about using America’s Vacation Center to plan and purchase their travel, so we are committed to protecting the information we collect. America’s Vacation Center has implemented a security program to keep information that is stored in our systems protected from unauthorized access. Currently, America’s Vacation Center only stores the information you provide when registering to become an America’s Vacation Center member, create a travel profile, purchase travel, or use selected travel tools.
-
-Our systems are configured with data encryption, or scrambling, technologies, and industry-standard firewalls. When you send personal information to America’s Vacation Center over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
-
-  
-Changes to the America’s Vacation Center Privacy Statement  
-This Privacy Statement was produced and posted on America’s Vacation Center on August 11, 2005. America’s Vacation Center reserves the right to modify or amend this Privacy Statement at any time and for any reason. If you have questions about our Privacy Statement, please [e-mail us](mailto:customercare@americasvacationcenter.com).
-
-  
-Contacting America’s Vacation Center  
-We want to make sure you have control over your online travel experience as an America’s Vacation Center customer, from planning and purchasing your travel to protecting your personal information. 
-
-America’s Vacation Center customer service travel agents are ready to help with your America’s Vacation Center travel concerns seven days a week. You may also call **1-866-692-8692** or 1 (760) 233-7635 to speak to a representative personally. Agents will address any questions or concerns you may have about your America’s Vacation Center travel planning or purchases.
-
-In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary. 
+We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
