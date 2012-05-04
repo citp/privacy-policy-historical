@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbitragepro.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101073826id_/http%3A//www.arbitragepro.com/privacy.php%3Flang%3Den%26r%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbitragepro.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044946id_/http%3A//www.arbitragepro.com/privacy.php%3Flang%3Den%26r%3D) for the most accurate reproduction.*
 
 # Arbitrage Pro: Privacy Policy - sports arbitrage, arbitrage arb service, arbitrage arb software, arbitrage arb trading, arb finder, arbs, no risk, zero risk, sports arb
 
